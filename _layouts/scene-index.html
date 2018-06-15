@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="scene-index">
+{% assign collectionName = page.title | replace: "'", "" | slugify %}
+{% assign collection = site.collections | where: "label", collectionName | first %}
+	<div class = "nav">
+		<h3>
+		<span class = "hidden">PREV｜</span>
+		<a href = "{{ site.baseurl }}/"> MENU </a>
+		<span class = "hidden">｜NEXT</span>
+		</h3>
+	</div>
+	<h1 class = "title">{{ page.title }}</h1>
+	
+	<div class = "scenes">
+	{% assign scenes = collection.docs | sort: "order" %}
+	{% assign lastact = scenes[0].title | slice: 0, 5 %}
+	{% for scene in scenes %}
+		{% assign thisact = scene.title | slice: 0, 5 %}
+		{% if  thisact != lastact %}
+		<br />
+		{% endif %}
+		{% assign lastact = thisact %}
+		<h2><a href = "{{ site.baseurl }}/{{ scene.url }}">{{ scene.title }}</a></h2>
+	{% endfor %}
+	</div>
+{% break %}
+</div>

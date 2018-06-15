@@ -1,0 +1,178 @@
+---
+layout: scene
+play: Macbeth
+title: Act 2, Scene 4
+slug: act-2-scene-4
+order: 10
+prev: act-2-scene-3
+succ: act-3-scene-1
+text:
+  - os: "Enter ROSS with an OLD MAN"
+    ms: "ROSS and an OLD MAN enter."
+
+  - c: OLD MAN
+    o:
+      - "Threescore and ten I can remember well,"
+      - "Within the volume of which time I have seen"
+      - "Hours dreadful and things strange, but this sore night"
+      - "Hath trifled former knowings."
+    m:
+      - "I can remember the past seventy years pretty well, and in all that time I have seen dreadful hours and strange things. But last night's horrors make everything that came before seem like a joke."
+
+  - c: ROSS
+    o:
+      - "    Ha, good father,"
+      - "Thou seest the heavens, as troubled with man's act,"
+      - "Threatens his bloody stage. By th' clock 'tis day,"
+      - "And yet dark night strangles the travelling lamp."
+      - "Is 't night's predominance or the day's shame"
+      - "That darkness does the face of Earth entomb"
+      - "When living light should kiss it?"
+    m:
+      - "Ah yes, old man. You can see the skies. They look like they're upset about what mankind has been doing, and they're threatening the Earth with storms. The clock says it's daytime, but dark night is strangling the sun. Is it because night is so strong, or because day is so weak, that darkness covers the earth when it's supposed to be light?"
+
+  - c: OLD MAN
+    o:
+      - "    'Tis unnatural,"
+      - "Even like the deed that's done. On Tuesday last,"
+      - "A falcon, tow'ring in her pride of place,"
+      - "Was by a mousing owl hawked at and killed."
+    m:
+      - "It's unnatural, just like the murder that has been committed. Last Tuesday a falcon was circling high in the sky, and it was caught and killed by an ordinary owl that usually goes after mice."
+
+  - c: ROSS
+    o:
+      - "And Duncan's horses—a thing most strange and certain—"
+      - "Beauteous and swift, the minions of their race,"
+      - "Turned wild in nature, broke their stalls, flung out,"
+      - "Contending 'gainst obedience, as they would"
+      - "Make war with mankind."
+    m:
+      - "And something else strange happened. Duncan's horses, which are beautiful and swift and the best of their breed, suddenly turned wild and broke out of their stalls. Refusing to be obedient as usual, they acted like they were at war with mankind."
+
+  - c: OLD MAN
+    o:
+      - "    'Tis said they eat each other."
+    m:
+      - "They say the horses ate each other."
+
+  - c: ROSS
+    o:
+      - "They did so, to th' amazement of mine eyes"
+      - "That looked upon 't. Here comes the good Macduff."
+    m:
+      - "I saw it with my own eyes. It was an amazing sight. Here comes the good Macduff."
+
+  - os: "Enter MACDUFF"
+    ms: "MACDUFF enters."
+
+  - o:
+      - "How goes the world, sir, now?"
+    m:
+      - "How are things going now?"
+
+  - c: MACDUFF
+    o:
+      - "    Why, see you not?"
+    m:
+      - "Can't you see for yourself?"
+
+  - c: ROSS
+    o:
+      - "Is 't known who did this more than bloody deed?"
+    m:
+      - "Does anyone know who committed this horrible crime?"
+
+  - c: MACDUFF
+    o:
+      - "Those that Macbeth hath slain."
+    m:
+      - "The servants Macbeth killed."
+
+  - c: ROSS
+    o:
+      - "    Alas, the day!"
+      - "What good could they pretend?"
+    m:
+      - "It's too bad he killed them. What good would it have done those men to kill Duncan?"
+
+  - c: MACDUFF
+    o:
+      - "    They were suborned."
+      - "Malcolm and Donalbain, the king's two sons,"
+      - "Are stol'n away and fled, which puts upon them"
+      - "Suspicion of the deed."
+    m:
+      - "They were paid to betray their master. Malcolm and Donalbain, the king's two sons, have run away and fled, which makes them the prime suspects."
+
+  - c: ROSS
+    o:
+      - "'Gainst nature still!"
+      - "Thriftless ambition, that will raven up"
+      - "Thine own lives' means! Then 'tis most like"
+      - "The sovereignty will fall upon Macbeth."
+    m:
+      - "Everything about this is unnatural! What a stupid ambition, causing a son to kill the father who supports him. Then it looks like Macbeth will become king."
+
+  - c: MACDUFF
+    o:
+      - "He is already named and gone to Scone"
+      - "To be invested."
+    m:
+      - "He has already been named king and has left for Scone to be crowned."
+
+  - c: ROSS
+    o:
+      - "Where is Duncan's body?"
+    m:
+      - "Where is Duncan's body?"
+
+  - c: MACDUFF
+    o:
+      - "Carried to Colmekill,"
+      - "The sacred storehouse of his predecessors,"
+      - "And guardian of their bones."
+    m:
+      - "It was carried to Colmekill to be placed in the tomb of his ancestors, where their bones are kept safe."
+
+  - c: ROSS
+    o:
+      - "    Will you to Scone?"
+    m:
+      - "Are you going to Scone?"
+
+  - c: MACDUFF
+    o:
+      - "No, cousin, I'll to Fife."
+    m:
+      - "No, cousin, I'm going to Fife."
+
+  - c: ROSS
+    o:
+      - "Well, I will thither."
+    m:
+      - "Well, I'll go to Scone."
+
+  - c: MACDUFF
+    o:
+      - "Well, may you see things well done there. Adieu,"
+      - "Lest our old robes sit easier than our new!"
+    m:
+      - "I hope things go well there. Good-bye! And let's hope things don't get worse."
+
+  - c: ROSS
+    o:
+      - "Farewell, father."
+    m:
+      - "Farewell, old man."
+
+  - c: OLD MAN
+    o:
+      - "God's benison go with you and with those"
+      - "That would make good of bad and friends of foes."
+    m:
+      - "May God's blessing go with you and with all who turn bad into good, and enemies into friends!"
+
+  - os: "Exeunt"
+    ms: "They all exit."
+---

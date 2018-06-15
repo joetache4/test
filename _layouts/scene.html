@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+<div class = "scene">
+
+	<div class = "nav">
+		<h3>
+		{% if page.prev %}
+		<a href = "{{ site.baseurl }}/{{ page.collection }}/{{ page.prev }}">PREV</a>
+		{% else %}
+		<span class = "disabled">PREV</span>
+		{% endif %}｜
+		<a href = "{{ site.baseurl }}/{{ page.collection }}"> MENU </a>｜
+		{% if page.succ %}
+		<a href = "{{ site.baseurl }}/{{ page.collection }}/{{ page.succ }}">NEXT</a>
+		{% else %}
+		<span class = "disabled">NEXT</span>
+		{% endif %}
+		</h3>
+	</div>
+	
+	<h1 class = "title">{{ page.play }}</h1>
+	<h2 class = "subtitle">{{ page.title }}</h1>
+	
+	<div class = 'scene-table' onclick = 'javascript:toggle_col();'>
+	{% for item in page.text %}
+		<div class = "row">
+			{% if item.os or item.ms %}
+			<div class = "column left stage">{{ item.os | markdownify }}</div>
+			<div class = "column right stage secondary">{{ item.ms | markdownify }}</div>
+			{% else %}
+			<div class = "column left">
+				{% if item.c %}
+				<b>{{ item.c }}</b>
+				{% endif %}
+				{% for line in item.o %}
+					{{ line | markdownify }}
+				{% endfor %}
+			</div>
+			<div class = "column right secondary">
+				{% if item.c %}
+				<b>{{ item.c }}</b>
+				{% endif %}
+				{% for line in item.m %}
+					{{ line | markdownify }}
+				{% endfor %}
+			</div>
+			{% endif %}
+		</div>
+	{% endfor %}
+	</div>
+	
+	<div class = "nav">
+		<h3>
+		{% if page.prev %}
+		<a href = "{{ site.baseurl }}/{{ page.collection }}/{{ page.prev }}">PREV</a>
+		{% else %}
+		<span class = "disabled">PREV</span>
+		{% endif %}｜
+		<a href = "{{ site.baseurl }}/{{ page.collection }}"> MENU </a>｜
+		{% if page.succ %}
+		<a href = "{{ site.baseurl }}/{{ page.collection }}/{{ page.succ }}">NEXT</a>
+		{% else %}
+		<span class = "disabled">NEXT</span>
+		{% endif %}
+		</h3>
+	</div>
+</div>
+
+<script type = "text/javascript">
+	
+	function toggle_col() {
+		show = document.getElementsByClassName("left");
+		hide = document.getElementsByClassName("right");
+
+		if (hide[0].classList.contains("secondary")) { // hide cols before showing the others
+			[show, hide] = [hide, show]
+		} 
+		
+		for (var row = 0; row < hide.length; row++) {
+			hide[row].classList.toggle("secondary");
+		}		
+		for (var row = 0; row < show.length; row++) {
+			show[row].classList.toggle("secondary");
+		}
+	}
+</script>

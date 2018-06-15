@@ -1,0 +1,270 @@
+---
+layout: scene
+play: The Taming of the Shrew
+title: Act 3, Scene 1
+slug: act-3-scene-1
+order: 5
+prev: act-2-scene-1
+succ: act-3-scene-2
+text:
+  - os: "Enter LUCENTIO disguised as CAMBIO, HORTENSIO disguised as LITIO, and BIANCA"
+    ms: "BIANCA enters with LUCENTIO disguised as CAMBIO, and HORTENSIO disguised as LITIO"
+
+  - c: LUCENTIO
+    o:
+      - "*(as CAMBIO)* Fiddler, forbear. You grow too forward, sir."
+      - "Have you so soon forgot the entertainment"
+      - "Her sister Katherina welcomed you withal?"
+    m:
+      - "*(speaking as CAMBIO)* Restrain yourself, fiddler! You're too insistent. Have you forgotten how her sister Katherine thanked you for your lessons?"
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* But, wrangling pedant, this is"
+      - "The patroness of heavenly harmony."
+      - "Then give me leave to have prerogative,"
+      - "And when in music we have spent an hour,"
+      - "Your lecture shall have leisure for as much."
+    m:
+      - "*(speaking as LITIO)* Quarrelsome teacher! This lady is the queen of heavenly harmony. Therefore allow me to claim her attention first, and after we have spent an hour on music you can have equal time for your lecture."
+
+  - c: LUCENTIO
+    o:
+      - "*(as CAMBIO)* Preposterous ass, that never read so far"
+      - "To know the cause why music was ordained."
+      - "Was it not to refresh the mind of man"
+      - "After his studies or his usual pain?"
+      - "Then give me leave to read philosophy"
+      - "And, while I pause, serve in your harmony."
+    m:
+      - "*(as CAMBIO)* Ridiculous ass! You're not even educated enough to know why music was created. Wasn't it to refresh the mind of man *after* his studies and daily toil? Therefore allow me to read philosophy with her, and then, when I am finished, indulge in your harmony."
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* Sirrah, I will not bear these braves of thine."
+    m:
+      - "*(as LITIO)* Sir, you go too far! I will not stand for it!"
+
+  - c: BIANCA
+    o:
+      - "Why, gentlemen, you do me double wrong"
+      - "To strive for that which resteth in my choice."
+      - "I am no breeching scholar in the schools."
+      - "I'll not be tied to hours nor 'pointed times"
+      - "But learn my lessons as I please myself."
+      - "And, to cut off all strife, here sit we down."
+      - "*(to HORTENSIO)*"
+      - "Take you your instrument, play you the whiles."
+      - "His lecture will be done ere you have tuned."
+    m:
+      - "Gentlemen, it seems to me you're both out of line to be laying down the law about things that are really up to me. I am no schoolboy, and I won't be dictated to with hours and schedules. I'll have my lessons in the order and manner *I* prefer. So to cut short this argument, let's figure this out. *(to HORTENSIO)* You take your instrument and play awhile. He'll be finished with his lecture before you've even tuned it."
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* You'll leave his lecture when I am in tune?"
+    m:
+      - "*(as LITIO)* You'll leave his lecture when I'm in tune?"
+
+  - c: LUCENTIO
+    o:
+      - "*(aside)* That will be never. *(to HORTENSIO)* Tune your instrument."
+    m:
+      - "*(to himself)* That will be never. *(to HORTENSIO)* Tune your instrument."
+
+  - c: BIANCA
+    o:
+      - "Where left we last?"
+    m:
+      - "Where did we leave off?"
+
+  - c: LUCENTIO
+    o:
+      - "Here, madam:"
+      - "*Hic ibat Simois, hic est Sigeia tellus,*"
+      - "*Hic steterat Priami regia celsa senis.*"
+    m:
+      - "Here, madam:"
+      - "*Hic ibat Simois, hic est Sigeia tellus,*"
+      - "*Hic steterat Priami regia celsa senis.*"
+
+  - c: BIANCA
+    o:
+      - "Conster them."
+    m:
+      - "Translate."
+
+  - c: LUCENTIO
+    o:
+      - "Hic ibat, as I told you before, Simois, I am Lucentio, hic est, son unto Vincentio of Pisa, Sigeia tellus, disguised thus to get your love, Hic steterat, and that “Lucentio” that comes a-wooing, Priami is my man Tranio, regia, bearing my port, *celsa senis,* that we might beguile the old pantaloon."
+    m:
+      - "*Hic ibat,* as I told you before, Simois, I am Lucentio, *hic est,* son of Vincentio of Pisa, *Sigeia tellus,* disguised as a teacher so as to win your love, *Hic steterat,* and the fellow who comes to court you calling himself “Lucentio,” *Priami,* is my servant Tranio, *regia,* pretending to be me, *celsa senis,* so we can get the better of the foolish old man."
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* Madam, my instrument's in tune."
+    m:
+      - "*(as LITIO)* Madam, my instrument's in tune."
+
+  - c: BIANCA
+    o:
+      - "Let's hear. *(he plays)* O fie! The treble jars."
+    m:
+      - "Let's hear. *(he plays)* Oooh, no! The high note's off."
+
+  - c: LUCENTIO
+    o:
+      - "*(as CAMBIO)* Spit in the hole, man, and tune again."
+    m:
+      - "*(as CAMBIO)* Spit on the tuning-peg, man, and try again."
+
+  - c: BIANCA
+    o:
+      - "Now let me see if I can conster it. Hic ibat Simois, I know you not, hic est Sigeia tellus, I trust you not, Hic steterat Priami, take heed he hear us not, regia, presume not, celsa *senis,* despair not."
+    m:
+      - "Now let me see if I can translate it. *Hic ibat Simois,* I don't know you, *hic est Sigeia tellus,* I don't trust you, *Hic steterat Priami,* don't let him hear you, *regia,* don't take anything for granted, *celsa senis,* don't give up."
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* Madam, 'tis now in tune."
+    m:
+      - "*(as LITIO)* Madam, now it really is in tune."
+
+  - c: LUCENTIO
+    o:
+      - "*(as CAMBIO)*      All but the base."
+    m:
+      - "*(as CAMBIO)* All but the low note."
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* The base is right; 'tis the base knave that jars."
+      - "*(aside)* How fiery and forward our pedant is!"
+      - "Now, for my life, the knave doth court my love."
+      - "*Pedascule*, I'll watch you better yet."
+    m:
+      - "*(as LITIO)* The low note's fine; it's this low-minded dog that's out of tune! *(to himself)* How touchy and insistent this fellow is! I'm beginning to think he's wooing my darling. Little professor! I'll have to keep an eye on you."
+
+  - c: BIANCA
+    o:
+      - "*(to LUCENTIO)* In time I may believe, yet I mistrust."
+    m:
+      - "*(to LUCENTIO)* In time I may come to believe you, but I'm wary."
+
+  - c: LUCENTIO
+    o:
+      - "Mistrust it not, for sure Aeacides"
+      - "Was Ajax, called so from his grandfather."
+    m:
+      - "There's no need to be, really, for— *(he breaks off, seeing that HORTENSIO is listening, and pretends to go back to the Latin lesson)*—“Aeacides” is just another name for Ajax. He gets it from his grandfather."
+
+  - c: BIANCA
+    o:
+      - "I must believe my master; else, I promise you,"
+      - "I should be arguing still upon that doubt."
+      - "But let it rest.—Now, Litio, to you."
+      - "Good master, take it not unkindly, pray,"
+      - "That I have been thus pleasant with you both."
+    m:
+      - "You're my teacher, so I must believe you. Otherwise, I would have to argue the point with you. But let it go.—Now, Litio, it's your turn. I hope, sir, that you're not angry that I've been equally attentive to you both!"
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO, to LUCENTIO)*"
+      - "You may go walk, and give me leave awhile."
+      - "My lessons make no music in three parts."
+    m:
+      - "*(as LITIO, to LUCENTIO)* You can take a break. Leave us alone, why don't you? I don't teach music for a threesome."
+
+  - c: LUCENTIO
+    o:
+      - "*(as CAMBIO)* Are you so formal, sir? Well, I must wait."
+      - "*(aside)* And watch withal, for, but I be deceived,"
+      - "Our fine musician groweth amorous."
+    m:
+      - "*(as CAMBIO)* Well, aren't we strict! Okay, I guess I'll have to wait. *(to himself)* And watch, too. For unless I'm very much mistaken, our fancy musician is turning romantic!"
+
+  - c: HORTENSIO
+    o:
+      - "*(as LITIO)* Madam, before you touch the instrument,"
+      - "To learn the order of my fingering"
+      - "I must begin with rudiments of art,"
+      - "To teach you gamut in a briefer sort,"
+      - "More pleasant, pithy, and effectual"
+      - "Than hath been taught by any of my trade."
+      - "And there it is in writing, fairly drawn."
+    m:
+      - "*(as LITIO)* Madam, before you take up the instrument or begin to learn the fingering, I must teach you certain fundamentals. To help you remember the scales, I've come up with a little trick—more fun and effective than those that any of my colleagues use. Here, I've written it out."
+
+  - c: BIANCA
+    o:
+      - "Why, I am past my gamut long ago."
+    m:
+      - "I think I know my scales by now!"
+
+  - c: HORTENSIO
+    o:
+      - "Yet read the gamut of Hortensio."
+    m:
+      - "*(speaking as LITIO)* Well, read Hortensio's scale anyway."
+
+  - c: BIANCA
+    o:
+      - "*(reads)*"
+      - "“*Gamut* I am, the ground of all accord:"
+      - "*A re,* to plead Hortensio's passion;"
+      - "*B mi,* Bianca, take him for thy lord,"
+      - "*C fa ut,* that loves with all affection;"
+      - "*D sol re,* one clef, two notes have I;"
+      - "*E la mi,* show pity, or I die.”"
+      - "Call you this “gamut”? Tut, I like it not."
+      - "Old fashions please me best. I am not so nice"
+      - "To change true rules for old inventions."
+    m:
+      - "*(reading)* “I am the scale, the basis of all harmony."
+      - "*A re,* Im here to argue for Hortensio's love;"
+      - "*B mi,* Bianca, take him for your husband,"
+      - "*C fa ut,* he loves you with all affection;"
+      - "*D sol re,* I have one clef but only two notes;"
+      - "*E la mi,* have pity on me, or I'll die.”"
+      - "You call this a scale? I don't like it. I don't go in for these new-fangled methods. I like doing things the old-fashioned way."
+
+  - os: "Enter a SERVANT"
+    ms: "A SERVANT enters."
+
+  - c: SERVANT
+    o:
+      - "Mistress, your father prays you leave your books"
+      - "And help to dress your sister's chamber up."
+      - "You know tomorrow is the wedding day."
+    m:
+      - "Mistress, your father requests that you leave your books and come help decorate your sister's room. You know tomorrow is her wedding day."
+
+  - c: BIANCA
+    o:
+      - "Farewell, sweet masters both. I must be gone."
+    m:
+      - "Farewell to both of you, dear teachers. I have to go."
+
+  - c: LUCENTIO
+    o:
+      - "*(as CAMBIO)* Faith, mistress, then I have no cause to stay."
+    m:
+      - "*(as CAMBIO)* In that case, mistress, there's no reason for me to stay."
+
+  - os: "Exeunt BIANCA, the SERVANT, and LUCENTIO"
+    ms: "BIANCA, the SERVANT, and LUCENTIO exit."
+
+  - c: HORTENSIO
+    o:
+      - "But I have cause to pry into this pedant."
+      - "Methinks he looks as though he were in love."
+      - "Yet if thy thoughts, Bianca, be so humble"
+      - "To cast thy wand'ring eyes on every stale,"
+      - "Seize thee that list! If once I find thee ranging,"
+      - "Hortensio will be quit with thee by changing."
+    m:
+      - "But there's reason for me to look more closely at this schoolmaster. He acts like a man in love. But if Bianca is so vulgar as to stoop for any man she sees, the hell with her. Whoever wants her can have her. The first time I catch her straying, it's over. End of story."
+
+  - os: "Exit"
+    ms: "He exits."
+---

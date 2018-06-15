@@ -1,0 +1,80 @@
+/*
+ * Global Variables
+ */
+
+//
+// Google font import
+//
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+
+//
+// Spacing
+//
+// Control the default styling of most Bootstrap elements by modifying these
+// variables. Mostly focused on spacing.
+//
+
+$spacer:                     1rem !default;
+$spacer-x:                   $spacer !default;
+$spacer-y:                   $spacer !default;
+$border-width:               .0625rem !default;
+
+// Typography
+//
+// Font, line-height, and color for body text, headings, and more.
+//
+
+$font-family-sans-serif:     "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif:          Garamond, Georgia, "Times New Roman", Times, serif !default;
+$font-family-monospace:      "Roboto Mono", "Courier New", monospace !default;
+$font-family-base:           $font-family-sans-serif !default;
+
+$font-size-root:             15px !default;
+
+$font-size-base:             $font-size-root !default;
+$font-size-lg:               $font-size-root * 1.25 !default;
+$font-size-sm:               $font-size-root * 0.875 !default;
+$font-size-xs:               $font-size-root * 0.75 !default;
+
+$font-size-h1:               2rem !default;
+$font-size-h2:               1.75rem !default;
+$font-size-h3:               1.5rem !default;
+$font-size-h4:               1.25rem !default;
+$font-size-h5:               1.15rem !default;
+$font-size-h6:               1rem !default;
+
+$base-line-height:            1.5;
+$base-space-unit:             1.5em;
+
+$hr-border-color:             rgba(0,0,0,.1) !default;
+$hr-border-width:             $border-width;
+
+//
+// Colors
+//
+
+$white:            #d0d0d0;
+
+$primary:          $white;
+$secondary:        #222;
+
+$link:             $primary;
+$text-color:       $primary; //rgba(0, 0, 0, 0.87) !default;
+$background-color: $secondary;
+
+//
+// Tables
+//
+
+$table-border-color: #d0d0d0 !default;
+$table-striped-color: #f2f2f2 !default;
+
+//
+// Media Query Ranges
+//
+
+$small-screen: 600px !default;
+$medium-screen: 992px !default;
+$large-screen: 1200px !default;
+$larger-screen: 1600px !default;

@@ -1,0 +1,133 @@
+---
+layout: scene
+play: Macbeth
+title: Act 5, Scene 7
+slug: act-5-scene-7
+order: 26
+prev: act-5-scene-6
+succ: act-5-scene-8
+text:
+  - os: "Alarums. Enter MACBETH"
+    ms: "Trumpets and the noise of battle. MACBETH enters."
+
+  - c: MACBETH
+    o:
+      - "They have tied me to a stake. I cannot fly,"
+      - "But, bearlike, I must fight the course. What's he"
+      - "That was not born of woman? Such a one"
+      - "Am I to fear, or none."
+    m:
+      - "They have me tied to a stake. I can't run away. I have to stand and fight, like a bear.Where's the man who wasn't born from a woman? He's the only one I'm afraid of, nobody else."
+
+  - os: "Enter YOUNG SIWARD"
+    ms: "YOUNG SIWARD enters."
+
+  - c: YOUNG SIWARD
+    o:
+      - "What is thy name?"
+    m:
+      - "What's your name?"
+
+  - c: MACBETH
+    o:
+      - "Thou 'lt be afraid to hear it."
+    m:
+      - "You'll be afraid to hear it."
+
+  - c: YOUNG SIWARD
+    o:
+      - "No, though thou call'st thyself a hotter name"
+      - "Than any is in hell."
+    m:
+      - "No I won't, even if you were one of the worst demons in hell."
+
+  - c: MACBETH
+    o:
+      - "My name's Macbeth."
+    m:
+      - "My name's Macbeth."
+
+  - c: YOUNG SIWARD
+    o:
+      - "The devil himself could not pronounce a title"
+      - "More hateful to mine ear."
+    m:
+      - "The devil himself couldn't say a name I hate more."
+
+  - c: MACBETH
+    o:
+      - "    No, nor more fearful."
+    m:
+      - "No, nor could the devil's name be more frightening."
+
+  - c: YOUNG SIWARD
+    o:
+      - "Thou liest, abhorrèd tyrant. With my sword"
+      - "I'll prove the lie thou speak'st."
+    m:
+      - "You lie, you disgusting tyrant. I'll prove with my sword that I'm not scared of you."
+
+  - os: "They fight and YOUNG SIWARD is slain"
+    ms: "They fight and YOUNG SIWARD is killed."
+
+  - c: MACBETH
+    o:
+      - "    Thou wast born of woman."
+      - "But swords I smile at, weapons laugh to scorn,"
+      - "Brandished by man that's of a woman born."
+    m:
+      - "You were born from a woman. Swords don't frighten me. I laugh at any weapon used by a man who was born from a woman."
+
+  - os: "Exit"
+    ms: "MACBETH exits."
+
+  - os: "Alarums. Enter MACDUFF"
+    ms: "Trumpets and battle sounds. MACDUFF enters."
+
+  - c: MACDUFF
+    o:
+      - "That way the noise is. Tyrant, show thy face!"
+      - "If thou beest slain, and with no stroke of mine,"
+      - "My wife and children's ghosts will haunt me still."
+      - "I cannot strike at wretched kerns, whose arms"
+      - "Are hired to bear their staves. Either thou, Macbeth,"
+      - "Or else my sword with an unbattered edge"
+      - "I sheathe again undeeded. There thou shouldst be;"
+      - "By this great clatter, one of the greatest note"
+      - "Seems bruited. Let me find him, Fortune,"
+      - "And more I beg not."
+    m:
+      - "The noise is coming from over there. Tyrant, show your face! If someone other than me kills you, the ghosts of my wife and children will haunt me forever. I can't be bothered to fight these lame soldiers who only fight for money. I'll either fight you, Macbeth, or else I'll put down my sword unused. You must be over there. By the great noise, it sounds like one of the highest-ranking men is being announced. I hope I find him! I ask for nothing more than that."
+
+  - os: "Exit. Alarums"
+    ms: "MACDUFF exits. More battle noises."
+
+  - os: "Enter MALCOLM and SIWARD"
+    ms: "MALCOLM and old SIWARD enter."
+
+  - c: SIWARD
+    o:
+      - "This way, my lord. The castle's gently rendered."
+      - "The tyrant's people on both sides do fight,"
+      - "The noble thanes do bravely in the war,"
+      - "The day almost itself professes yours,"
+      - "And little is to do."
+    m:
+      - "Come this way, my lord. The castle has been surrendered without a fight. Macbeth's soldiers are fighting on both sides. Our noblemen are battling bravely. The victory is almost yours, and it seems like there's not much left to do."
+
+  - c: MALCOLM
+    o:
+      - "    We have met with foes"
+      - "That strike beside us."
+    m:
+      - "Our enemies fight as if they're trying not to hurt us."
+
+  - c: SIWARD
+    o:
+      - "Enter, sir, the castle."
+    m:
+      - "Sir, enter the castle."
+
+  - os: "Exeunt. Alarums"
+    ms: "They exit. Battle noises continue."
+---

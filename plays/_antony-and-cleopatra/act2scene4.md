@@ -1,0 +1,63 @@
+---
+layout: scene
+play: Antony and Cleopatra
+title: Act 2, Scene 4
+slug: act-2-scene-4
+order: 8
+prev: act-2-scene-3
+succ: act-2-scene-5
+text:
+  - os: "Enter LEPIDUS, MECAENAS, and AGRIPPA"
+    ms: "LEPIDUS, MAECENAS, and AGRIPPA enter."
+
+  - c: LEPIDUS
+    o:
+      - "Trouble yourselves no further. Pray you, hasten"
+      - "Your generals after."
+    m:
+      - "Don't spend any more time here. Go tell your generals to hurry their preparations."
+
+  - c: AGRIPPA
+    o:
+      - "    Sir, Mark Antony Will e'en but kiss Octavia, and we'll follow."
+    m:
+      - "Sir, we'll follow as soon as Mark Antony kisses Octavia good-bye."
+
+  - c: LEPIDUS
+    o:
+      - "Till I shall see you in your soldiers' dress,"
+      - "Which will become you both, farewell."
+    m:
+      - "Good-bye then, until the time I see you dressed in your battle gear, which will suit you both very well."
+
+  - c: MAECENAS
+    o:
+      - "    We shall,"
+      - "As I conceive the journey, be at the Mount"
+      - "Before you, Lepidus."
+    m:
+      - "According to my reckoning, we'll get to Mt. Misena before you, Lepidus."
+
+  - c: LEPIDUS
+    o:
+      - "    Your way is shorter."
+      - "My purposes do draw me much about."
+      - "You'll win two days upon me."
+    m:
+      - "You're taking a shorter route. My plans take me a roundabout way. You'll get there two days before me."
+
+  - c: MAECENAS, AGRIPPA
+    o:
+      - "    Sir, good success."
+    m:
+      - "Good luck, sir."
+
+  - c: LEPIDUS
+    o:
+      - "Farewell."
+    m:
+      - "Farewell."
+
+  - os: "Exeunt"
+    ms: "They exit."
+---

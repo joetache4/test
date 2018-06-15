@@ -1,0 +1,136 @@
+# Site (c) Joe Tacheron 2018
+
+url: https://joetache4.github.io
+baseurl: /test
+
+timezone: America/New_York
+
+collections_dir: plays
+
+collections:
+  antony-and-cleopatra:
+    title: Antony and Cleopatra
+    sorted-title: Antony and Cleopatra
+    output: true
+    permalink: /:collection/:title # :title = 'slug' in scene.md frontmatter (or filename if no 'slug')
+    #sort_by: order #TODO
+  as-you-like-it:
+    title: As You Like It
+    sorted-title: As You Like It
+    output: true
+    permalink: /:collection/:title
+  the-comedy-of-errors:
+    title: The Comedy of Errors
+    sorted-title: Comedy of Errors
+    output: true
+    permalink: /:collection/:title
+  coriolanus:
+    title: Coriolanus
+    sorted-title: Coriolanus
+    output: true
+    permalink: /:collection/:title
+  hamlet:
+    title: Hamlet
+    sorted-title: Hamlet
+    output: true
+    permalink: /:collection/:title
+  henry-iv-part-i:
+    title: Henry IV Part I
+    sorted-title: Henry IV Part I
+    output: true
+    permalink: /:collection/:title
+  henry-iv-part-ii:
+    title: Henry IV Part II
+    sorted-title: Henry IV Part II
+    output: true
+    permalink: /:collection/:title
+  henry-v:
+    title: Henry V
+    sorted-title: Henry V
+    output: true
+    permalink: /:collection/:title
+  julius-caesar:
+    title: Julius Caesar
+    sorted-title: Julius Caesar
+    output: true
+    permalink: /:collection/:title
+  king-lear:
+    title: King Lear
+    sorted-title: King Lear
+    output: true
+    permalink: /:collection/:title
+  macbeth:
+    title: Macbeth
+    sorted-title: Macbeth
+    output: true
+    permalink: /:collection/:title
+  measure-for-measure:
+    title: Measure for Measure
+    sorted-title: Measure for Measure
+    output: true
+    permalink: /:collection/:title
+  the-merchant-of-venice:
+    title: The Merchant of Venice
+    sorted-title: Merchant of Venice
+    output: true
+    permalink: /:collection/:title
+  a-midsummer-nights-dream:
+    title: A Midsummer Night's Dream
+    sorted-title: Midsummer Night's Dream
+    output: true
+    permalink: /:collection/:title
+  much-ado-about-nothing:
+    title: Much Ado About Nothing
+    sorted-title: Much Ado About Nothing
+    output: true
+    permalink: /:collection/:title
+  othello:
+    title: Othello
+    sorted-title: Othello
+    output: true
+    permalink: /:collection/:title
+  richard-ii:
+    title: Richard II
+    sorted-title: Richard II
+    output: true
+    permalink: /:collection/:title
+  richard-iii:
+    title: Richard III
+    sorted-title: Richard III
+    output: true
+    permalink: /:collection/:title
+  romeo-and-juliet:
+    title: Romeo and Juliet
+    sorted-title: Romeo and Juliet
+    output: true
+    permalink: /:collection/:title
+  sonnets:
+    title: Sonnets
+    sorted-title: Sonnets
+    output: true
+    permalink: /:collection/:title
+  the-taming-of-the-shrew:
+    title: The Taming of the Shrew
+    sorted-title: Taming of the Shrew
+    output: true
+    permalink: /:collection/:title
+  the-tempest:
+    title: The Tempest
+    sorted-title: Tempest
+    output: true
+    permalink: /:collection/:title
+  twelfth-night:
+    title: Twelfth Night
+    sorted-title: Twelfth Night
+    output: true
+    permalink: /:collection/:title
+  two-gentlemen-of-verona:
+    title: Two Gentlemen of Verona
+    sorted-title: Two Gentlemen of Verona
+    output: true
+    permalink: /:collection/:title
+  the-winters-tale:
+    title: The Winter's Tale
+    sorted-title: Winter's Tale
+    output: true
+    permalink: /:collection/:title

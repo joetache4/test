@@ -1,0 +1,128 @@
+---
+layout: scene
+play: Antony and Cleopatra
+title: Act 3, Scene 12
+slug: act-3-scene-12
+order: 23
+prev: act-3-scene-11
+succ: act-3-scene-13
+text:
+  - os: "Enter CAESAR, AGRIPPA, THIDIAS, and DOLABELLA, with others"
+    ms: "CAESAR, AGRIPPA, THIDIAS, and DOLABELLA enter, with others of the court."
+
+  - c: CAESAR
+    o:
+      - "Let him appear that's come from Antony."
+      - "Know you him?"
+    m:
+      - "Let the envoy from Antony come in. Do you know him?"
+
+  - c: DOLABELLA
+    o:
+      - "    Caesar, 'tis his schoolmaster—"
+      - "An argument that he is plucked, when hither"
+      - "He sends so poor a pinion of his wing,"
+      - "Which had superfluous kings for messengers"
+      - "Not many moons gone by."
+    m:
+      - "It's Antony's schoolmaster. By sending such an insignificant emissary, Antony shows us how low he has sunk. Not so long ago, he had so many royal supporters that he sent along extra kings as messengers."
+
+  - os: "Enter AMBASSADOR from Antony"
+    ms: "Antony's AMBASSADOR enters."
+
+  - c: CAESAR
+    o:
+      - "    Approach and speak."
+    m:
+      - "Come forward and speak."
+
+  - c: AMBASSADOR
+    o:
+      - "Such as I am, I come from Antony."
+      - "I was of late as petty to his ends"
+      - "As is the morn-dew on the myrtle leaf"
+      - "To his grand sea."
+    m:
+      - "Humble as I am, I represent Antony. Until recently, I was as unimportant to his affairs as the morning dew is to the wide ocean."
+
+  - c: CAESAR
+    o:
+      - "    Be 't so. Declare thine office."
+    m:
+      - "So be it. Say what you're here for."
+
+  - c: AMBASSADOR
+    o:
+      - "Lord of his fortunes he salutes thee, and"
+      - "Requires to live in Egypt; which not granted,"
+      - "He lessens his requests, and to thee sues"
+      - "To let him breathe between the heavens and earth"
+      - "A private man in Athens. This for him."
+      - "Next, Cleopatra does confess thy greatness,"
+      - "Submits her to thy might, and of thee craves"
+      - "The circle of the Ptolemies for her heirs,"
+      - "Now hazarded to thy grace."
+    m:
+      - "He acknowledges that you are the master of his fate, and he requests to be allowed to live in Egypt. If that is not granted, he reduces his requests and asks only that he be allowed to live as a private man in Athens. That's all he asks for himself. Cleopatra recognizes your greatness and accepts your authority. She only asks that the crown of Egypt pass to her heirs, who are now at your mercy."
+
+  - c: CAESAR
+    o:
+      - "    For Antony,"
+      - "I have no ears to his request. The Queen"
+      - "Of audience nor desire shall fail, so she"
+      - "From Egypt drive her all-disgracèd friend"
+      - "Or take his life there. This if she perform,"
+      - "She shall not sue unheard. So to them both."
+    m:
+      - "As for Antony, I'm not interested in his requests. I'll give the Queen a hearing and grant her requests if she either throws her dishonored friend out of Egypt or kills him. Then I'll listen to her. Give my answer to them both."
+
+  - c: AMBASSADOR
+    o:
+      - "Fortune pursue thee!"
+    m:
+      - "May good luck follow you!"
+
+  - c: CAESAR
+    o:
+      - "    Bring him through the bands."
+    m:
+      - "Take him safely through the lines."
+
+  - os: "Exit AMBASSADOR, attended"
+    ms: "The AMBASSADOR exits."
+
+  - o:
+      - "*(to THIDIAS)* To try thy eloquence now 'tis time. Dispatch."
+      - "From Antony win Cleopatra. Promise,"
+      - "And in our name, what she requires. Add more,"
+      - "From thine invention, offers. Women are not"
+      - "In their best fortunes strong, but want will perjure"
+      - "The ne'er-touched vestal. Try thy cunning, Thidias."
+      - "Make thine own edict for thy pains, which we"
+      - "Will answer as a law."
+    m:
+      - "*(to THIDIAS)* Now it's time to test your eloquence. On your way. Separate Cleopatra from Antony. In my name, promise to fulfill her petitions. You can make up additional offers, if necessary. Women aren't strong, even at their best. Hardship will make even a vestal abandon her vows. Use your ingenuity, Thidias. You can make your own conditions, which I will authorize as law."
+
+  - c: THIDIAS
+    o:
+      - "    Caesar, I go."
+    m:
+      - "I go, Caesar."
+
+  - c: CAESAR
+    o:
+      - "Observe how Antony becomes his flaw,"
+      - "And what thou think'st his very action speaks"
+      - "In every power that moves."
+    m:
+      - "Observe how Antony takes his defeat and how his attitude influences his actions."
+
+  - c: THIDIAS
+    o:
+      - "    Caesar, I shall."
+    m:
+      - "I will, Caesar."
+
+  - os: "Exeunt"
+    ms: "They exit."
+---

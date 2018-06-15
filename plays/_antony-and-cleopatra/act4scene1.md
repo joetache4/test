@@ -1,0 +1,48 @@
+---
+layout: scene
+play: Antony and Cleopatra
+title: Act 4, Scene 1
+slug: act-4-scene-1
+order: 25
+prev: act-3-scene-13
+succ: act-4-scene-2
+text:
+  - os: "Enter CAESAR, AGRIPPA, and MAECENAS, with his army, CAESAR reading a letter"
+    ms: "CAESAR enters, reading a letter, with AGRIPPA, MAECENAS, and his army."
+
+  - c: CAESAR
+    o:
+      - "He calls me “boy” and chides as he had power"
+      - "To beat me out of Egypt. My messenger"
+      - "He hath whipped with rods, dares me to personal combat,"
+      - "Caesar to Antony. Let the old ruffian know"
+      - "I have many other ways to die, meantime"
+      - "Laugh at his challenge."
+    m:
+      - "He calls me “boy” and scolds me as if he had the power to whip me out of Egypt. He whipped my messenger with rods. He dares me to personal combat, Caesar against Antony. Let the old ruffian discover that I have many other ways to die, and in the meantime, we'll laugh at his challenge."
+
+  - c: MAECENAS
+    o:
+      - "Caesar must think"
+      - "When one so great begins to rage, he's hunted"
+      - "Even to falling. Give him no breath, but now"
+      - "Make boot of his distraction. Never anger"
+      - "Made good guard for itself."
+    m:
+      - "Caesar must realize that when a man as powerful as Antony begins to rage, he has been pursued to the point of collapse. Don't give him time to catch his breath. Take advantage of his unreasonable rage. Anger does not protect the angry well."
+
+  - c: CAESAR
+    o:
+      - "    Let our best heads"
+      - "Know that tomorrow the last of many battles"
+      - "We mean to fight. Within our files there are,"
+      - "Of those that served Mark Antony but late,"
+      - "Enough to fetch him in. See it done"
+      - "And feast the army. We have store to do 't,"
+      - "And they have earned the waste. Poor Antony!"
+    m:
+      - "Tell our top commanders that I want tomorrow's battle to be the last we fight. Our army has recently acquired many of Mark Antony's former soldiers—enough to capture him. See that it is done, and prepare a feast for the soldiers. We have enough supplies for it, and they've earned it. Poor Antony!"
+
+  - os: "Exeunt"
+    ms: "They exit."
+---

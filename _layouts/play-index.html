@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="play-index">
+
+	<div class="nav">
+		<h3 class = "hidden">MAINTAIN SPACING</h3>
+	</div>
+
+{% assign plays = site.collections | sort: "sorted-title" %}
+{% for play in plays %}
+	<h1><a href="{{ site.baseurl }}/{{ play.label }}">{{ play.title }}</a></h1>
+{% endfor %}
+</div>

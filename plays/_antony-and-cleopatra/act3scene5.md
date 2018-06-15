@@ -1,0 +1,94 @@
+---
+layout: scene
+play: Antony and Cleopatra
+title: Act 3, Scene 5
+slug: act-3-scene-5
+order: 16
+prev: act-3-scene-4
+succ: act-3-scene-6
+text:
+  - os: "Enter ENOBARBUS and EROS"
+    ms: "ENOBARBUS and EROS enter."
+
+  - c: ENOBARBUS
+    o:
+      - "How now, friend Eros!"
+    m:
+      - "How goes it, friend Eros?"
+
+  - c: EROS
+    o:
+      - "There's strange news come, sir."
+    m:
+      - "Some startling news has just arrived, sir."
+
+  - c: ENOBARBUS
+    o:
+      - "What, man?"
+    m:
+      - "What news, man?"
+
+  - c: EROS
+    o:
+      - "Caesar and Lepidus have made wars upon Pompey."
+    m:
+      - "Caesar and Lepidus declared war against Pompey."
+
+  - c: ENOBARBUS
+    o:
+      - "This is old. What is the success?"
+    m:
+      - "That's old news. Who's winning?"
+
+  - c: EROS
+    o:
+      - "Caesar, having made use of him in the wars 'gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action, and, not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal seizes him. So the poor third is up, till death enlarge his confine."
+    m:
+      - "Caesar used Lepidus in the war, but as soon as it was over, Lepidus was expelled from the triumvirate. He wasn't allowed any of the glory of the victory, and he was accused of treasonous correspondence with Pompey. On the basis of Caesar's accusation alone, Lepidus was imprisoned. So the weak third of the triumvirate is imprisoned until death frees him."
+
+  - c: ENOBARBUS
+    o:
+      - "Then, world, thou hast a pair of chaps, no more,"
+      - "And throw between them all the food thou hast,"
+      - "They'll grind the one the other. Where's Antony?"
+    m:
+      - "So now the world will only be devoured by two sets of jaws—Caesar's and Antony's. And even if you throw everything you possess to the two of them, they'll battle each other to the death to have it all. Where's Antony?"
+
+  - c: EROS
+    o:
+      - "He's walking in the garden—*(imitating anger)* thus, and spurns"
+      - "The rush that lies before him; cries, “Fool Lepidus!”"
+      - "And threats the throat of that his officer"
+      - "That murdered Pompey."
+    m:
+      - "He's walking in the garden, like this *(imitating anger)*. And he kicks the leaves on the path, exclaiming, “Lepidus, you fool!” Then he threatens to kill the officer who murdered Pompey."
+
+  - c: ENOBARBUS
+    o:
+      - "    Our great navy's rigged."
+    m:
+      - "Antony's grand navy is prepared."
+
+  - c: EROS
+    o:
+      - "For Italy and Caesar. More, Domitius:"
+      - "My lord desires you presently. My news"
+      - "I might have told hereafter."
+    m:
+      - "To sail to Italy and Caesar. Another thing, Domitius: Antony wants to see you now. I should have waited to tell you my news."
+
+  - c: ENOBARBUS
+    o:
+      - "    'Twill be naught, But let it be. Bring me to Antony."
+    m:
+      - "It won't be that important. But never mind. Take me to Antony."
+
+  - c: EROS
+    o:
+      - "Come, sir."
+    m:
+      - "Come with me, sir."
+
+  - os: "Exeunt"
+    ms: "They exit."
+---

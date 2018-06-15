@@ -1,0 +1,69 @@
+---
+layout: scene
+play: King Lear
+title: Act 3, Scene 5
+slug: act-3-scene-5
+order: 13
+prev: act-3-scene-4
+succ: act-3-scene-6
+text:
+  - os: "Enter CORNWALL and EDMUND"
+    ms: "CORNWALL enters with EDMUND."
+
+  - c: CORNWALL
+    o:
+      - "I will have my revenge ere I depart his house."
+    m:
+      - "I'll get my revenge before I leave this house."
+
+  - c: EDMUND
+    o:
+      - "How, my lord, I may be censured, that nature thus gives way to loyalty, something fears me to think of."
+    m:
+      - "I'm afraid to think how I'll be criticized for letting my natural affection for my father give way to my loyalty to you."
+
+  - c: CORNWALL
+    o:
+      - "I now perceive it was not altogether your brother's evil disposition made him seek his death, but a provoking merit set awork by a reprovable badness in himself."
+    m:
+      - "Now I realize your brother tried to kill your father not just because your brother is an evil man, but because your father deserved it by being wicked himself."
+
+  - c: EDMUND
+    o:
+      - "How malicious is my fortune, that I must repent to be just! *(giving CORNWALL a letter)* This is the letter which he spoke of, which approves him an intelligent party to the advantages of France. O heavens, that this treason were not, or not I the detector!"
+    m:
+      - "How unlucky am I, having to apologize for doing the right thing! *(giving CORNWALL a letter)* This is the letter he was talking about, and it confirms he was a spy for France. Oh God, I wish he had never betrayed us, or that I hadn't been the one to discover his treason."
+
+  - c: CORNWALL
+    o:
+      - "Go with me to the duchess."
+    m:
+      - "Come with me to see the duchess."
+
+  - c: EDMUND
+    o:
+      - "If the matter of this paper be certain, you have mighty business in hand."
+    m:
+      - "If this letter's right, you've got a lot to deal with."
+
+  - c: CORNWALL
+    o:
+      - "True or false, it hath made thee Earl of Gloucester. Seek out where thy father is, that he may be ready for our apprehension."
+    m:
+      - "Right or not, it's made you the Earl of Gloucester. Go find your father and let him know we're going to arrest him."
+
+  - c: EDMUND
+    o:
+      - "*(aside)* If I find him comforting the king, it will stuff his suspicion more fully.*(to CORNWALL)* 							 I will persevere in my course of loyalty, though the conflict be sore between that and my blood."
+    m:
+      - "*(to himself)* If I catch my father helping the king, he'll seem even more guily. *(to CORNWALL)* I'll do what I must loyally, even though it pains me to take action against my father."
+
+  - c: CORNWALL
+    o:
+      - "I will lay trust upon thee, and thou shalt find a dearer father in my love."
+    m:
+      - "I put my trust in you. You'll see that I'm a better father to you than Gloucester."
+
+  - os: "Exeunt"
+    ms: "They exit."
+---

@@ -1,0 +1,28 @@
+/* Buttons
+   ========================================================================== */
+
+// General
+.btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  font-size: 0.875em;
+  font-family: $font-family-base;
+  font-weight: 700;
+  background-color: $background-color;
+  color: $primary;
+  border-width: 2px !important;
+  border-style: solid !important;
+  border-color: $primary;
+  text-decoration: none !important;
+  border-radius: 5px;
+  &:visited {
+    color: $primary;
+    border-color: $primary;
+  }
+  &:hover {
+    background-color: lighten($background-color, 14%);
+    color: $primary;
+    border-color: $primary;
+  }
+}

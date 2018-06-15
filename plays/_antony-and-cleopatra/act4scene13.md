@@ -1,0 +1,42 @@
+---
+layout: scene
+play: Antony and Cleopatra
+title: Act 4, Scene 13
+slug: act-4-scene-13
+order: 37
+prev: act-4-scene-12
+succ: act-4-scene-14
+text:
+  - os: "Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN"
+    ms: "CLEOPATRA, CHARMIAN, IRAS, and MARDIAN enter."
+
+  - c: CLEOPATRA
+    o:
+      - "Help me, my women! Oh, he's more mad"
+      - "Than Telamon for his shield. The boar of Thessaly"
+      - "Was never so embossed."
+    m:
+      - "Help me, ladies! Oh, Antony is more furious than Telamon, who killed himself in a jealous rage. The wild boar of Thessaly, which the goddess Diana sent to punish King Caledon for neglecting her sacrifices, didn't foam at the mouth as much as Antony does now."
+
+  - c: CHARMIAN
+    o:
+      - "    To th' monument!"
+      - "There lock yourself and send him word you are dead."
+      - "The soul and body rive not more in parting"
+      - "Than greatness going off."
+    m:
+      - "Go to your tomb! Lock yourself in and send him word that you're dead. When a great person departs, it causes more pain than when the soul leaves the body."
+
+  - c: CLEOPATRA
+    o:
+      - "    To th' monument!—"
+      - "Mardian, go tell him I have slain myself."
+      - "Say that the last I spoke was “Antony,”"
+      - "And word it, prithee, piteously. Hence, Mardian,"
+      - "And bring me how he takes my death. *(to the others)* To th' monument!"
+    m:
+      - "To my tomb! Mardian, go tell him I've killed myself. Say the last word I spoke was “Antony,” and please word it pathetically. Go, Mardian, and let me know how he reacts to my death. *(to the others)* To the tomb!"
+
+  - os: "Exeunt"
+    ms: "They all exit."
+---
