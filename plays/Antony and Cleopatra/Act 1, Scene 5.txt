@@ -1,0 +1,265 @@
+play: Antony and Cleopatra
+title: Act 1, Scene 5
+group: 1
+order: 4
+text:
+  - os: "Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN"
+    ms: "CLEOPATRA, CHARMIAN, IRAS, and MARDIAN enter."
+
+  - sp: CLEOPATRA
+    o:
+      - "Charmian!"
+    m:
+      - "Charmian!"
+
+  - sp: CHARMIAN
+    o:
+      - "Madam?"
+    m:
+      - "Madam?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Ha, ha! Give me to drink mandragora."
+    m:
+      - "Ah, give me some mandragora to drink."
+
+  - sp: CHARMIAN
+    o:
+      - "Why, madam?"
+    m:
+      - "Why, madam?"
+
+  - sp: CLEOPATRA
+    o:
+      - "That I might sleep out this great gap of time"
+      - "My Antony is away."
+    m:
+      - "So I can sleep away the time while my Antony is gone."
+
+  - sp: CHARMIAN
+    o:
+      - "You think of him too much."
+    m:
+      - "You think about him too much."
+
+  - sp: CLEOPATRA
+    o:
+      - "Oh, ’tis treason!"
+    m:
+      - "That’s treason!"
+
+  - sp: CHARMIAN
+    o:
+      - "    Madam, I trust, not so."
+    m:
+      - "I hope not, Madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "Thou, eunuch Mardian!"
+    m:
+      - "Eunuch! Mardian!"
+
+  - sp: MARDIAN
+    o:
+      - "    What’s your highness’ pleasure?"
+    m:
+      - "What can I do for your highness?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Not now to hear thee sing. I take no pleasure"
+      - "In aught an eunuch has. ’Tis well for thee"
+      - "That, being unseminared, thy freer thoughts"
+      - "May not fly forth of Egypt. Hast thou affections?"
+    m:
+      - "I don’t want to hear you sing. I’m not interested in anything a eunuch can do. It’s a good thing for you that, being castrated, you can better concentrate on my needs. Do you have desires?"
+
+  - sp: MARDIAN
+    o:
+      - "Yes, gracious madam."
+    m:
+      - "Yes, dear madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "Indeed?"
+    m:
+      - "Indeed?"
+
+  - sp: MARDIAN
+    o:
+      - "Not in deed, madam, for I can do nothing"
+      - "But what indeed is honest to be done."
+      - "Yet have I fierce affections, and think"
+      - "What Venus did with Mars."
+    m:
+      - "Well, not in deed, madam, since I can’t do anything unchaste. But I do have intense passions—and I do think about what Venus did with Mars."
+
+  - sp: CLEOPATRA
+    o:
+      - "    O Charmian,"
+      - "Where think’st thou he is now? Stands he or sits he?"
+      - "Or does he walk? Or is he on his horse?"
+      - "O happy horse, to bear the weight of Antony!"
+      - "Do bravely, horse, for wott’st thou whom thou mov’st?"
+      - "The demi-Atlas of this earth, the arm"
+      - "And burgonet of men. He’s speaking now,"
+      - "Or murmuring “Where’s my serpent of old Nile?”"
+      - "For so he calls me. Now I feed myself"
+      - "With most delicious poison. Think on me,"
+      - "That am with Phoebus’ amorous pinches black"
+      - "And wrinkled deep in time. Broad-fronted Caesar,"
+      - "When thou wast here above the ground, I was"
+      - "A morsel for a monarch. And great Pompey"
+      - "Would stand and make his eyes grow in my brow."
+      - "There would he anchor his aspect, and die"
+      - "With looking on his life."
+    m:
+      - "Oh, Charmian, where do you think he is now? Is he standing or sitting? Or is he walking? Or is he on his horse? Oh, how fortunate that horse is to have Antony on him. Do well, horse. Do you know whom it is you carry? A man who carries responsibility for a third of the world on his shoulders. He’s speaking now, or perhaps he’s whispering, “Where’s my serpent of the Nile?” For that’s his pet name for me. I’m killing myself with this provocative speculation . . . Are you thinking about me? Even though I’ve been darkened by the sun and wrinkled with age? Caesar, with your broad forehead, when you were alive, I was the perfect young consort for a king. And powerful Pompey used to stare at me as if he were frozen in time."
+
+  - os: "Enter ALEXAS"
+    ms: "ALEXAS enters."
+
+  - sp: ALEXAS
+    o:
+      - "Sovereign of Egypt, hail!"
+    m:
+      - "Queen of Egypt, greetings!"
+
+  - sp: CLEOPATRA
+    o:
+      - "How much unlike art thou Mark Antony!"
+      - "Yet, coming from him, that great med’cine hath"
+      - "With his tinct gilded thee."
+      - "How goes it with my brave Mark Antony?"
+    m:
+      - "You are nothing like Mark Antony! But since you come from him, you’re saturated with his healing spirit. How does it go with my magnificent Mark Antony?"
+
+  - sp: ALEXAS
+    o:
+      - "Last thing he did, dear Queen,"
+      - "He kissed—the last of many doubled kisses—"
+      - "This orient pearl."
+    m:
+      - "The last thing he did before sending me off, dear Queen, was to kiss—the last of many such kisses—this Indian pearl for you."
+
+  - os: "He gives a pearl."
+    ms: "He gives CLEOPATRA a pearl."
+
+  - o:
+      - "    His speech sticks in my heart."
+    m:
+      - "His speech is stored in my heart."
+
+  - sp: CLEOPATRA
+    o:
+      - "Mine ear must pluck it thence."
+    m:
+      - "My ear must pull it out."
+
+  - sp: ALEXAS
+    o:
+      - "    “Good friend,” quoth he,"
+      - "“Say the firm Roman to great Egypt sends"
+      - "This treasure of an oyster, at whose foot,"
+      - "To mend the petty present, I will piece"
+      - "Her opulent throne with kingdoms. All the East,"
+      - "Say thou, shall call her mistress.” So he nodded,"
+      - "And soberly did mount an arm-gaunt steed,"
+      - "Who neighed so high that what I would have spoke"
+      - "Was beastly dumbed by him."
+    m:
+      - "“Good friend,” he said, “say that the faithful Roman sends an oyster’s treasure to the great Queen of Egypt, and that he plans to enhance this meager gift by adding new kingdoms to her empire. Tell her that the entire East shall call her Queen.” Then he nodded and solemnly mounted an armored warhorse, which neighed so loudly it effectively silenced anything I might have said in reply."
+
+  - sp: CLEOPATRA
+    o:
+      - "What was he, sad or merry?"
+    m:
+      - "Was he sad or happy?"
+
+  - sp: ALEXAS
+    o:
+      - "Like to the time o’ th’ year between the extremes"
+      - "Of hot and cold, he was nor sad nor merry."
+    m:
+      - "He was like that time of year halfway between the extremes of hot and cold: he was neither sad nor happy."
+
+  - sp: CLEOPATRA
+    o:
+      - "O well-divided disposition! Note him,"
+      - "Note him, good Charmian, ’tis the man, but note him."
+      - "He was not sad, for he would shine on those"
+      - "That make their looks by his. He was not merry,"
+      - "Which seemed to tell them his remembrance lay"
+      - "In Egypt with his joy, but between both."
+      - "O heavenly mingle! Be’st thou sad or merry,"
+      - "The violence of either thee becomes,"
+      - "So does it no man else.—Mett’st thou my posts?"
+    m:
+      - "Oh, what an even disposition he has! Observe, observe good Charmian! That’s exactly how he is! Just notice. He wasn’t sad, because he knows that his disposition affects others. He wasn’t merry, because to be merry would indicate that he had forgotten his love in Egypt. He was somewhere in the middle, between them . . . Oh, heavenly mixture! Whether you are sad or merry, the intensity of either suits you like no one else . . . Did you meet my messengers on your way here?"
+
+  - sp: ALEXAS
+    o:
+      - "Ay, madam, twenty several messengers."
+      - "Why do you send so thick?"
+    m:
+      - "Yes, madam, twenty different messengers. Why did you send so many?"
+
+  - sp: CLEOPATRA
+    o:
+      - "    Who’s born that day"
+      - "When I forget to send to Antony"
+      - "Shall die a beggar. Ink and paper, Charmian."
+      - "Welcome, my good Alexas. Did I, Charmian,"
+      - "Ever love Caesar so?"
+    m:
+      - "Whoever is born on a day I forget to send a message to Antony will die a beggar. Bring ink and paper, Charmian. Welcome, my good Alexas. Charmian, did I ever love Caesar as much as this?"
+
+  - sp: CHARMIAN
+    o:
+      - "    Oh, that brave Caesar!"
+    m:
+      - "Oh, that splendid Caesar!"
+
+  - sp: CLEOPATRA
+    o:
+      - "Be choked with such another emphasis!"
+      - "Say, “the brave Antony.”"
+    m:
+      - "May you choke on any other sentiments like that! Say, “That splendid Antony.”"
+
+  - sp: CHARMIAN
+    o:
+      - "    The valiant Caesar!"
+    m:
+      - "The courageous Caesar!"
+
+  - sp: CLEOPATRA
+    o:
+      - "By Isis, I will give thee bloody teeth"
+      - "If thou with Caesar paragon again"
+      - "My man of men."
+    m:
+      - "By Isis, I’ll give you bloody teeth if you ever compare Caesar with Antony, my best man among men."
+
+  - sp: CHARMIAN
+    o:
+      - "    By your most gracious pardon, I sing but after you."
+    m:
+      - "Pardon me, but I’m just repeating what you yourself have said."
+
+  - sp: CLEOPATRA
+    o:
+      - "    My salad days,"
+      - "When I was green in judgment, cold in blood,"
+      - "To say as I said then. *(to everyone)* But, come, away."
+      - "*(to CHARMIAN)* Get me ink and paper."
+      - "He shall have every day a several greeting,"
+      - "Or I’ll unpeople Egypt."
+    m:
+      - "That was when I was young and inexperienced and didn’t know what passion was.*(to everyone)* But come. *(to CHARMIAN)* Go get me ink and paper. He shall have different messages every day if I have to depopulate Egypt to send them."
+
+  - os: "Exeunt"
+    ms: "They all exit."

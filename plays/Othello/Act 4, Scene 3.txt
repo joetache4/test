@@ -1,0 +1,339 @@
+play: Othello
+title: Act 4, Scene 3
+group: 4
+order: 12
+text:
+  - os: "Enter OTHELLO, LODOVICO, DESDEMONA, EMILIA and attendants"
+    ms: "OTHELLO, LODOVICO, DESDEMONA and EMILIA enter, with attendants."
+
+  - sp: LODOVICO
+    o:
+      - "I do beseech you, sir, trouble yourself no further."
+    m:
+      - "Please, sir, don’t trouble yourself."
+
+  - sp: OTHELLO
+    o:
+      - "Oh, pardon me, ’twill do me good to walk."
+    m:
+      - "I beg your pardon; walking will make me feel better."
+
+  - sp: LODOVICO
+    o:
+      - "Madam, good night. I humbly thank your ladyship."
+    m:
+      - "Good night, madam. Thank you."
+
+  - sp: DESDEMONA
+    o:
+      - "Your honor is most welcome."
+    m:
+      - "You’re most welcome."
+
+  - sp: OTHELLO
+    o:
+      - "Will you walk, sir?—O Desdemona—"
+    m:
+      - "Would you walk out with me, sir?—Oh, Desdemona—"
+
+  - sp: DESDEMONA
+    o:
+      - "My lord?"
+    m:
+      - "Yes, my lord?"
+
+  - sp: OTHELLO
+    o:
+      - "Get you to bed on th’ instant, I will be returned"
+      - "Forthwith. Dismiss your attendant there, look ’t be done."
+    m:
+      - "Go to bed right this minute. I’ll be there shortly. Send your maid Emilia away. Make sure you do what I say."
+
+  - sp: DESDEMONA
+    o:
+      - "I will, my lord."
+    m:
+      - "I will, my lord."
+
+  - os: "Exeunt OTHELLO, LODOVICO, and attendants"
+    ms: "    OTHELLO, LODOVICO, and attendants exit."
+
+  - sp: EMILIA
+    o:
+      - "How goes it now? He looks gentler than he did."
+    m:
+      - "How are things now? He looks calmer than he did before."
+
+  - sp: DESDEMONA
+    o:
+      - "He says he will return incontinent,"
+      - "And hath commanded me to go to bed"
+      - "And bid me to dismiss you."
+    m:
+      - "He says he’ll come back right away. He asked me to go to bed and to send you away."
+
+  - sp: EMILIA
+    o:
+      - "    Dismiss me?"
+    m:
+      - "Send me away?"
+
+  - sp: DESDEMONA
+    o:
+      - "It was his bidding. Therefore, good Emilia,"
+      - "Give me my nightly wearing, and adieu."
+      - "We must not now displease him."
+    m:
+      - "That’s what he said. So give me my nightgown, Emilia, and I’ll say goodnight. We shouldn’t displease him."
+
+  - sp: EMILIA
+    o:
+      - "Ay. Would you had never seen him!"
+    m:
+      - "Yes. I wish you’d never met him."
+
+  - sp: DESDEMONA
+    o:
+      - "So would not I. My love doth so approve him"
+      - "That even his stubbornness, his checks, his frowns—"
+      - "Prithee, unpin me—have grace and favor."
+    m:
+      - "That’s not what I wish. I love him even when he’s harsh and mean—Help me unpin this, would you?—I love even his stubbornness, his frowns, his bad moods."
+
+  - sp: EMILIA
+    o:
+      - "I have laid those sheets you bade me on the bed."
+    m:
+      - "I put those wedding sheets on your bed, as you asked."
+
+  - sp: DESDEMONA
+    o:
+      - "All’s one. Good Father, how foolish are our minds!"
+      - "If I do die before thee, prithee, shroud me"
+      - "In one of these same sheets."
+    m:
+      - "It doesn’t matter. Oh, how silly we are! If I die before you do make sure I’m wrapped in those sheets in my coffin."
+
+  - sp: EMILIA
+    o:
+      - "    Come, come! You talk!"
+    m:
+      - "Listen to you! Don’t be silly!"
+
+  - sp: DESDEMONA
+    o:
+      - "My mother had a maid called Barbary,"
+      - "She was in love, and he she loved proved mad"
+      - "And did forsake her. She had a song of “Willow,”"
+      - "An old thing ’twas, but it expressed her fortune"
+      - "And she died singing it. That song tonight"
+      - "Will not go from my mind. I have much to do"
+      - "But to go hang my head all at one side"
+      - "And sing it like poor Barbary. Prithee, dispatch."
+    m:
+      - "My mother had a maid named Barbary. She was in love, and her lover turned out to be wild and left her. She knew an old song called “Willow” that reminded her of her own story, and she died singing it. I can’t get that song out of my head tonight. It’s all I can do to keep myself from hanging my head down in despair and singing it like poor Barbary. Please, hurry up."
+
+  - sp: EMILIA
+    o:
+      - "Shall I go fetch your nightgown?"
+    m:
+      - "Should I get your nightgown?"
+
+  - sp: DESDEMONA
+    o:
+      - "    No, unpin me here."
+      - "This Lodovico is a proper man."
+    m:
+      - "No, just help me unpin this. That Lodovico is a good-looking man."
+
+  - sp: EMILIA
+    o:
+      - "A very handsome man."
+    m:
+      - "He’s very handsome."
+
+  - sp: DESDEMONA
+    o:
+      - "    He speaks well."
+    m:
+      - "He speaks well."
+
+  - sp: EMILIA
+    o:
+      - "I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip."
+    m:
+      - "I know a lady in Venice who’d walk all the way to Palestine for a kiss from him."
+
+  - sp: DESDEMONA
+    o:
+      - "*(singing)*"
+      - "  *The poor soul sat sighing by a sycamore tree,*"
+      - "  *Sing all a green willow.*"
+      - "  *Her hand on her bosom, her head on her knee,*"
+      - "  *Sing willow, willow, willow.*"
+      - "  *The fresh streams ran by her, and murmured her moans,*"
+      - "  *Sing willow, willow, willow.*"
+      - "  *Her salt tears fell from her, and softened the stones*"
+      - "  *Sing willow, willow, willow—*"
+      - "  *Lay by these—*"
+      - "    *Willow, willow—*"
+      - "  *Prithee, hie thee, he’ll come anon—*"
+      - "  *Sing all a green willow must be my garland.*"
+      - "  *Let nobody blame him, his scorn I approve—*"
+      - "Nay, that’s not next—Hark! Who is ’t that knocks?"
+    m:
+      - "*(singing)*"
+      - "  *The poor soul sat singing by the sycamore tree*,"
+      - "  *Everyone sing the green willow*,"
+      - "  *She had her hand on her breast and her head on her knee*,"
+      - "  *Sing willow, willow, willow*."
+      - "  *The fresh streams ran by her and murmured her moans*,"
+      - "  *Sing willow, willow, willow*."
+      - "  *Her salt tears fell from her and softened the stones*,"
+      - "  *Sing willow, willow, willow*.—"
+      - "  *Put these things over there*.—"
+      - "  *Please, hurry, he’ll come right away*.—"
+      - "  *Everyone sing, a green willow must be my garland*."
+      - "  *Nobody blame him, he’s right to hate me*—"
+      - "No, that’s not how it goes.—Who’s knocking?"
+
+  - sp: EMILIA
+    o:
+      - "It’s the wind."
+    m:
+      - "It’s the wind."
+
+  - sp: DESDEMONA
+    o:
+      - "*(sings)*"
+      - "  *I called my love false love but what said he then?*"
+      - "  *Sing willow, willow, willow.*"
+      - "  *If I court more women you’ll couch with more men—*"
+      - "So, get thee gone, good night. Mine eyes do itch,"
+      - "Doth that bode weeping?"
+    m:
+      - "*(singing)*"
+      - "*I told my lover he didn’t love me, but what did he say? Sing willow, willow, willow. If I chase more women, you’ll sleep with more men—*Okay, go away now. Good night. My eyes itch—is that an omen I’ll be crying soon?"
+
+  - sp: EMILIA
+    o:
+      - "    ’Tis neither here nor there."
+    m:
+      - "No, it doesn’t mean anything."
+
+  - sp: DESDEMONA
+    o:
+      - "I have heard it said so. Oh, these men, these men!"
+      - "Dost thou in conscience think—tell me, Emilia—"
+      - "That there be women do abuse their husbands"
+      - "In such gross kind?"
+    m:
+      - "I heard someone say that’s what it means. Oh, these men, these men! Do you honestly think—tell me, Emilia—there are women who’d cheat on their husbands in such a disgusting manner?"
+
+  - sp: EMILIA
+    o:
+      - "    There be some such, no question."
+    m:
+      - "There are women like that out there, no question."
+
+  - sp: DESDEMONA
+    o:
+      - "Wouldst thou do such a deed for all the world?"
+    m:
+      - "Would you ever do such a thing for all the world?"
+
+  - sp: EMILIA
+    o:
+      - "Why, would not you?"
+    m:
+      - "Why, wouldn’t you?"
+
+  - sp: DESDEMONA
+    o:
+      - "    No, by this heavenly light!"
+    m:
+      - "By the light of heaven, no, I would not!"
+
+  - sp: EMILIA
+    o:
+      - "Nor I neither, by this heavenly light."
+      - "I might do ’t as well i’ th’ dark."
+    m:
+      - "I wouldn’t either, by daylight. It would be easier to do it in the dark."
+
+  - sp: DESDEMONA
+    o:
+      - "Wouldst thou do such a deed for all the world?"
+    m:
+      - "Could you really do such a thing, for all the world?"
+
+  - sp: EMILIA
+    o:
+      - "The world’s a huge thing. It is a great price for a small vice."
+    m:
+      - "The world’s huge. It’s a big prize for such a small sin."
+
+  - sp: DESDEMONA
+    o:
+      - "In troth, I think thou wouldst not."
+    m:
+      - "I don’t think you would."
+
+  - sp: EMILIA
+    o:
+      - "In troth, I think I should, and undo ’t when I had done. Marry, I would not do such a thing for a joint-ring, nor for measures of lawn, nor for gowns, petticoats, nor caps, nor any petty exhibition. But for the whole world? Why, who would not make her husband a cuckold to make him a monarch? I should venture purgatory for ’t."
+    m:
+      - "Actually I think I would, and then I’d undo it after I did it. I wouldn’t do it for a nice ring, or fine linen, or pretty gowns or petticoats or hats. But for the whole world? Who wouldn’t cheat on her husband to make him king? I’d risk my soul for that."
+
+  - sp: DESDEMONA
+    o:
+      - "Beshrew me, if I would do such a wrong"
+      - "For the whole world."
+    m:
+      - "I’d never do such a bad thing, not for the whole world!"
+
+  - sp: EMILIA
+    o:
+      - "Why the wrong is but a wrong i’ th’ world, and having the world for your labor, ’tis a wrong in your own world, and you might quickly make it right."
+    m:
+      - "Why, a bad action is just a wrong in this world, but when you’ve won the whole world, it’s a wrong in your own world, so you can make it right then."
+
+  - sp: DESDEMONA
+    o:
+      - "I do not think there is any such woman."
+    m:
+      - "I don’t think any woman like that exists."
+
+  - sp: EMILIA
+    o:
+      - "Yes, a dozen, and as many to th’ vantage as would store the world they played for."
+      - "But I do think it is their husbands’ faults"
+      - "If wives do fall. Say that they slack their duties"
+      - "And pour our treasures into foreign laps,"
+      - "Or else break out in peevish jealousies,"
+      - "Throwing restraint upon us. Or say they strike us,"
+      - "Or scant our former having in despite."
+      - "Why, we have galls, and though we have some grace,"
+      - "Yet have we some revenge. Let husbands know"
+      - "Their wives have sense like them. They see and smell"
+      - "And have their palates both for sweet and sour,"
+      - "As husbands have. What is it that they do"
+      - "When they change us for others? Is it sport?"
+      - "I think it is. And doth affection breed it?"
+      - "I think it doth. Is ’t frailty that thus errs?"
+      - "It is so too. And have not we affections,"
+      - "Desires for sport, and frailty, as men have?"
+      - "Then let them use us well, else let them know,"
+      - "The ills we do, their ills instruct us so."
+    m:
+      - "Yes, a dozen of them—as many as there are women in the world, in fact. But I do think it’s the husband’s fault if we wives cheat on them. For instance, our husbands may stop sleeping with us, and give it out to other women instead. Or they may get insanely jealous, and keep us from going anywhere. Or let’s say they hit us, or cut back on the money they give us out of spite. We have feelings. We may be able to forgive them, but we want to get back at them too. Husbands need to know that their wives are human beings too. They see, smell, and taste sweet and sour just like their husbands. Why do they replace us with other women? Do they do it for fun? I think they do. Is it out of lust? I think so. Is it a weakness? It is. And don’t we have passions, and a taste for fun, and weaknesses, just like men? Then tell them to treat us well. Or let them figure out that the bad things we do are just what we learned from them."
+
+  - sp: DESDEMONA
+    o:
+      - "Good night, good night. Heaven me such uses send,"
+      - "Not to pick bad from bad, but by bad mend!"
+    m:
+      - "Good night, good night. I pray that God will let me learn from women like that—not to follow their bad example, but to avoid it!"
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,107 @@
+play: Coriolanus
+title: Act 4, Scene 7
+group: 4
+order: 22
+text:
+  - os: "A camp, at a small distance from Rome."
+    ms: "A camp, at a small distance from Rome."
+
+  - os: "Enter AUFIDIUS and his LIEUTENANT"
+    ms: "AUFIDIUS and his Lieutenant enter."
+
+  - sp: AUFIDIUS
+    o:
+      - "Do they still fly to the Roman?"
+    m:
+      - "Do they still obey the Roman?"
+
+  - sp: LIEUTENANT
+    o:
+      - "I do not know what witchcraft’s in him, but"
+      - "Your soldiers use him as the grace ’fore meat,"
+      - "Their talk at table, and their thanks at end;"
+      - "And you are darken’d in this action, sir,"
+      - "Even by your own."
+    m:
+      - "I don’t know what spell he has them under, but your soldiers pray to him before eating, talk about him throughout their meal, and thank him at the end. And you are being overlooked, sir, by your own men."
+
+  - sp: AUFIDIUS
+    o:
+      - "I cannot help it now,"
+      - "Unless, by using means, I lame the foot"
+      - "Of our design. He bears himself more proudlier,"
+      - "Even to my person, than I thought he would"
+      - "When first I did embrace him: yet his nature"
+      - "In that’s no changeling; and I must excuse"
+      - "What cannot be amended."
+    m:
+      - "I can’t help that now, not without risking our plan. He carries himself more proudly, even in front of me, than I thought he would when I decided to join with him. But that’s always been his nature, and I have to excuse what can’t be changed."
+
+  - sp: LIEUTENANT
+    o:
+      - "Yet I wish, sir,—"
+      - "I mean for your particular,—you had not"
+      - "Join’d in commission with him; but either"
+      - "Had borne the action of yourself, or else"
+      - "To him had left it solely."
+    m:
+      - "Yet I wish, sir—I mean for you personally—that you hadn’t shared your command with him. I wish either that you had been the commander yourself, or else that you had given him the sole command."
+
+  - sp: AUFIDIUS
+    o:
+      - "I understand thee well; and be thou sure,"
+      - "when he shall come to his account, he knows not"
+      - "What I can urge against him. Although it seems,"
+      - "And so he thinks, and is no less apparent"
+      - "To the vulgar eye, that he bears all things fairly."
+      - "And shows good husbandry for the Volscian state,"
+      - "Fights dragon-like, and does achieve as soon"
+      - "As draw his sword; yet he hath left undone"
+      - "That which shall break his neck or hazard mine,"
+      - "Whene’er we come to our account."
+    m:
+      - "I understand. Rest assured that he must answer for what he’s done, and he doesn’t know what I can accuse him of. While to the naked eye it seems, and he thinks, that he’s behaving fairly and that he’s taking good care of the Volscian state by fighting like a dragon and achieving victory as soon as he draws his sword, there’s something he has failed to do that will break his neck or risk mine, whenever we come to our reconciliation."
+
+  - sp: LIEUTENANT
+    o:
+      - "Sir, I beseech you, think you he’ll carry Rome?"
+    m:
+      - "Sir, I beg you, do you think he’ll conquer Rome?"
+
+  - sp: AUFIDIUS
+    o:
+      - "All places yield to him ere he sits down;"
+      - "And the nobility of Rome are his:"
+      - "The senators and patricians love him too:"
+      - "The tribunes are no soldiers; and their people"
+      - "Will be as rash in the repeal, as hasty"
+      - "To expel him thence. I think he’ll be to Rome"
+      - "As is the osprey to the fish, who takes it"
+      - "By sovereignty of nature. First he was"
+      - "A noble servant to them; but he could not"
+      - "Carry his honours even: whether ’twas pride,"
+      - "Which out of daily fortune ever taints"
+      - "The happy man; whether defect of judgment,"
+      - "To fail in the disposing of those chances"
+      - "Which he was lord of; or whether nature,"
+      - "Not to be other than one thing, not moving"
+      - "From the casque to the cushion, but commanding peace"
+      - "Even with the same austerity and garb"
+      - "As he controll’d the war; but one of these—"
+      - "As he hath spices of them all, not all,"
+      - "For I dare so far free him—made him fear’d,"
+      - "So hated, and so banish’d: but he has a merit,"
+      - "To choke it in the utterance. So our virtues"
+      - "Lie in the interpretation of the time:"
+      - "And power, unto itself most commendable,"
+      - "Hath not a tomb so evident as a chair"
+      - "To extol what it hath done."
+      - "One fire drives out one fire; one nail, one nail;"
+      - "Rights by rights falter, strengths by strengths do fail."
+      - "Come, let’s away. When, Caius, Rome is thine,"
+      - "Thou art poor’st of all; then shortly art thou mine."
+    m:
+      - "Wherever he goes, they yield to him before he begins to attack. The young nobles of Rome, the senators, and the patricians all support him. The tribunes aren’t soldiers, and their people will be as quick to reverse their judgment of him as they were to throw him out. I think he’ll be to Rome like the fish hawk is to the fish: the fish will submit by its nature. At first he was a noble servant to them, but he couldn’t handle the honors bestowed upon him. Whether it was pride—winning in battle all the time always makes men prideful—or whether it was a failure of judgment that he was unable to take advantage of the opportunities he had, or whether it was just his nature not to evolve from wearing the helmet of a soldier to the sitting on the cushion of a senator, to command peace in the same austere way that he commanded the wars. One of these—he has some of each but none in their entirety—caused him to be feared and so despised that he was banished. But all his merits should stop us from listing his faults. Time will tell whether one is judged as virtuous. Powerful men think their power is praiseworthy, but nothing destroys power faster than publicly proclaiming it. One fire burns out another, one nail hammers out another nail, and righteousness and strength crumble under their own weight. Come, let’s go. Caius, when Rome is yours, you will be the poorest of them all. And then you’ll be mine."
+
+  - os: "Exeunt"
+    ms: "All exit."

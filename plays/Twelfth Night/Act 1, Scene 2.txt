@@ -1,0 +1,183 @@
+play: Twelfth Night
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter VIOLA, a CAPTAIN, and sailors"
+    ms: "VIOLA, a CAPTAIN, and sailors enter."
+
+  - sp: VIOLA
+    o:
+      - "What country, friends, is this?"
+    m:
+      - "What country is this, friends?"
+
+  - sp: CAPTAIN
+    o:
+      - "    This is Illyria, lady."
+    m:
+      - "This is Illyria, lady."
+
+  - sp: VIOLA
+    o:
+      - "And what should I do in Illyria?"
+      - "My brother he is in Elysium."
+      - "Perchance he is not drown’d.—What think you, sailors?"
+    m:
+      - "And what am I supposed to do in Illyria? My brother is in heaven. Or maybe there’s a chance he didn’t drown.—What do you think, sailors?"
+
+  - sp: CAPTAIN
+    o:
+      - "It is perchance that you yourself were saved."
+    m:
+      - "It was a total fluke that you yourself were saved."
+
+  - sp: VIOLA
+    o:
+      - "O, my poor brother! And so perchance may he be."
+    m:
+      - "Oh, my poor brother! But maybe by some fluke he was saved too."
+
+  - sp: CAPTAIN
+    o:
+      - "True, madam. And, to comfort you with chance,"
+      - "Assure yourself, after our ship did split,"
+      - "When you and those poor number saved with you"
+      - "Hung on our driving boat, I saw your brother,"
+      - "Most provident in peril, bind himself,"
+      - "Courage and hope both teaching him the practice,"
+      - "To a strong mast that lived upon the sea,"
+      - "Where, like Arion on the dolphin’s back,"
+      - "I saw him hold acquaintance with the waves"
+      - "So long as I could see."
+    m:
+      - "It’s possible, ma’am. Don’t give up yet. When our ship was wrecked and you and a few other survivors were clinging onto our lifeboat, I saw your brother tie himself to a big mast floating in the sea. He was acting resourcefully and courageously in a dangerous situation. For as long as I could see him, he stayed afloat on the waves like Arion on the dolphin’s back."
+
+  - sp: VIOLA
+    o:
+      - "*(giving him money)*"
+      - "  For saying so, there’s gold."
+      - "Mine own escape unfoldeth to my hope,"
+      - "Whereto thy speech serves for authority,"
+      - "The like of him. Know’st thou this country?"
+    m:
+      - "*(giving him money)* Thank you for saying that—here’s some money to express my gratitude. Since I survived, it’s easier for me to imagine he survived too, and what you say gives me a reason to hope for the best. Do you know this area we’re in?"
+
+  - sp: CAPTAIN
+    o:
+      - "Ay, madam, well, for I was bred and born"
+      - "Not three hours’ travel from this very place."
+    m:
+      - "Yes, ma’am, I know it well. I was born and raised less than three hours from here."
+
+  - sp: VIOLA
+    o:
+      - "Who governs here?"
+    m:
+      - "Who’s the ruler here?"
+
+  - sp: CAPTAIN
+    o:
+      - "  A noble duke, in nature"
+      - "As in name."
+    m:
+      - "A duke who is noble in name and character."
+
+  - sp: VIOLA
+    o:
+      - "  What is his name?"
+    m:
+      - "What’s his name?"
+
+  - sp: CAPTAIN
+    o:
+      - "    Orsino."
+    m:
+      - "Orsino."
+
+  - sp: VIOLA
+    o:
+      - "Orsino. I have heard my father name him."
+      - "He was a bachelor then."
+    m:
+      - "Orsino. I’ve heard my father mention him. When I first heard about him, he was still a bachelor."
+
+  - sp: CAPTAIN
+    o:
+      - "And so is now, or was so very late."
+      - "For but a month ago I went from hence,"
+      - "And then ’twas fresh in murmur—as, you know,"
+      - "What great ones do the less will prattle of—"
+      - "That he did seek the love of fair Olivia."
+    m:
+      - "He’s still a bachelor, or at least he was a month ago, when I left. But there was a rumor—you know, people always gossip about royalty—that he was in love with the beautiful Olivia."
+
+  - sp: VIOLA
+    o:
+      - "What’s she?"
+    m:
+      - "Who’s she?"
+
+  - sp: CAPTAIN
+    o:
+      - "A virtuous maid, the daughter of a count"
+      - "That died some twelvemonth since, then leaving her"
+      - "In the protection of his son, her brother,"
+      - "Who shortly also died, for whose dear love,"
+      - "They say, she hath abjured the company"
+      - "And sight of men."
+    m:
+      - "A virtuous young woman, the daughter of a count who died last year. Her brother had custody of her for a while, but then he died too. They say she’s totally sworn off men now, in memory of her brother."
+
+  - sp: VIOLA
+    o:
+      - "  Oh, that I served that lady"
+      - "And might not be delivered to the world,"
+      - "Till I had made mine own occasion mellow,"
+      - "What my estate is."
+    m:
+      - "I wish I could work for that lady! It’d be a good way to hide from the world until the time was right to identify myself."
+
+  - sp: CAPTAIN
+    o:
+      - "  That were hard to compass,"
+      - "Because she will admit no kind of suit,"
+      - "No, not the duke’s."
+    m:
+      - "That would be hard to do. She won’t allow anyone in to see her, not even the duke’s messengers."
+
+  - sp: VIOLA
+    o:
+      - "There is a fair behavior in thee, captain,"
+      - "And though that nature with a beauteous wall"
+      - "Doth oft close in pollution, yet of thee"
+      - "I will believe thou hast a mind that suits"
+      - "With this thy fair and outward character."
+      - "I prithee—and I’ll pay thee bounteously—"
+      - "Conceal me what I am, and be my aid"
+      - "For such disguise as haply shall become"
+      - "The form of my intent. I’ll serve this duke."
+      - "Thou shall present me as an eunuch to him."
+      - "It may be worth thy pains, for I can sing"
+      - "And speak to him in many sorts of music"
+      - "That will allow me very worth his service."
+      - "What else may hap to time I will commit."
+      - "Only shape thou thy silence to my wit."
+    m:
+      - "You seem to be a good person, captain, and although people who look beautiful are often corrupt inside, I believe that you have a beautiful mind to go with your good looks and manners. Please—and I’ll pay you plenty for this—help me conceal my identity, and find me the right disguise so I can look the way I want. I want to be this Duke’s servant. You’ll introduce me to him as a eunuch. You won’t be wasting your time, because I really can sing and talk to him about many different kinds of music, so he’ll be happy to have me in his service. Only time will tell what will happen after that—just please keep quiet about what I’m trying to do."
+
+  - sp: CAPTAIN
+    o:
+      - "Be you his eunuch, and your mute I’ll be."
+      - "When my tongue blabs, then let mine eyes not see."
+    m:
+      - "I won’t say a word. You can be a eunuch, but I’ll be mute. I swear on my life I won’t tell your secret."
+
+  - sp: VIOLA
+    o:
+      - "I thank thee. Lead me on."
+    m:
+      - "Thank you. Show me the way."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,422 @@
+play: The Merchant of Venice
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter BASSANIO and SHYLOCK"
+    ms: "BASSANIO and SHYLOCK enter."
+
+  - sp: SHYLOCK
+    o:
+      - "Three thousand ducats, well."
+    m:
+      - "Three thousand ducats, hmmm."
+
+  - sp: BASSANIO
+    o:
+      - "Ay, sir, for three months."
+    m:
+      - "Yes, for three months."
+
+  - sp: SHYLOCK
+    o:
+      - "For three months, well."
+    m:
+      - "For three months, hmmm."
+
+  - sp: BASSANIO
+    o:
+      - "For the which, as I told you, Antonio shall be bound."
+    m:
+      - "As I said before, Antonio will guarantee the loan. If I default, he’ll pay you."
+
+  - sp: SHYLOCK
+    o:
+      - "Antonio shall become bound, well."
+    m:
+      - "Antonio will guarantee it, hmmm."
+
+  - sp: BASSANIO
+    o:
+      - "May you stead me? Will you pleasure me? Shall I know your answer?"
+    m:
+      - "Can you help me? What’s your answer?"
+
+  - sp: SHYLOCK
+    o:
+      - "Three thousand ducats for three months, and Antonio bound."
+    m:
+      - "Three thousand ducats for three months, and Antonio will guarantee it."
+
+  - sp: BASSANIO
+    o:
+      - "Your answer to that?"
+    m:
+      - "Your answer?"
+
+  - sp: SHYLOCK
+    o:
+      - "Antonio is a good man."
+    m:
+      - "Antonio’s a good man."
+
+  - sp: BASSANIO
+    o:
+      - "Have you heard any imputation to the contrary?"
+    m:
+      - "Have you heard anything to the contrary?"
+
+  - sp: SHYLOCK
+    o:
+      - "Ho, no, no, no, no. My meaning in saying he is a good man is to have you understand me that he is sufficient. Yet his means are in supposition. He hath an argosy bound to Tripolis, another to the Indies. I understand moreover, upon the Rialto, he hath a third at Mexico, a fourth for England, and other ventures he hath squandered abroad. But ships are but boards, sailors but men. There be land rats and water rats, water thieves and land thieves—I mean pirates—and then there is the peril of waters, winds, and rocks. The man is notwithstanding sufficient."
+    m:
+      - "What? No, no, no, no. What I meant in saying he’s a good man is that he has enough money to guarantee the loan. But his investments are uncertain right now. He has one ship bound for Tripoli, another heading for the Indies. What’s more, people at the Rialto tell me he has a third ship in Mexico, and a fourth in England, as well as other business ventures throughout the world. But ships are just fragile boards, and sailors are just men. There are rats and thieves and pirates—not to mention storms, winds, and rocks. Anything could happen. But in spite of all this, the man is still wealthy enough. Three thousand ducats—I think I can let him guarantee your loan."
+
+  - sp: BASSANIO
+    o:
+      - "Be assured you may."
+    m:
+      - "I assure you he can."
+
+  - sp: SHYLOCK
+    o:
+      - "I will be assured I may, and that I may be assured,"
+      - "I will bethink me. May I speak with Antonio?"
+    m:
+      - "I *will* be sure he can, before I make the loan. And I’ll think of a way to be sure. Can I speak with Antonio?"
+
+  - sp: BASSANIO
+    o:
+      - "If it please you to dine with us."
+    m:
+      - "If you like, you can dine with us."
+
+  - sp: SHYLOCK
+    o:
+      - "Yes—to smell pork, to eat of the habitation which your prophet the Nazarite conjured the devil into. I will buy with you, sell with you, talk with you, walk with you, and so following, but I will not eat with you, drink with you, nor pray with you. What news on the Rialto? Who is he comes here?"
+    m:
+      - "Oh yes—to smell pork ? I don’t think so!. Your prophet Jesus sent the devil into a herd of pigs. I’m not going to eat that. I’ll buy with you, sell with you, talk with you, walk with you, and so on, but I won’t eat with you, drink with you, or pray with you. Any news on the Rialto? Who’s that?"
+
+  - os: "Enter ANTONIO"
+    ms: "ANTONIO enters."
+
+  - sp: BASSANIO
+    o:
+      - "This is Signor Antonio."
+    m:
+      - "This is Signor Antonio."
+
+  - sp: SHYLOCK
+    o:
+      - "*(aside)* How like a fawning publican he looks!"
+      - "I hate him for he is a Christian,"
+      - "But more for that in low simplicity"
+      - "He lends out money gratis and brings down"
+      - "The rate of usance here with us in Venice."
+      - "If I can catch him once upon the hip,"
+      - "I will feed fat the ancient grudge I bear him."
+      - "He hates our sacred nation, and he rails,"
+      - "Even there where merchants most do congregate,"
+      - "On me, my bargains and my well-won thrift,"
+      - "Which he calls “interest.” Cursèd be my tribe"
+      - "If I forgive him!"
+    m:
+      - "*(to himself)* He looks just like a guy who’s robbed me but now comes to beg me for a favor! I hate him because he’s a Christian. But more than that, I hate him because he stupidly lends money without interest, which lowers the interest rates here in Venice. If I can just get the upper hand of him once, I’ll satisfy my old grudge against him. He hates Jews. Even at the Rialto he’s always complaining about me and my negotiating and my hard-earned profits, which he calls “interest.” It would an insult to Jews everywhere to forgive that man!"
+
+  - sp: BASSANIO
+    o:
+      - "Shylock, do you hear?"
+    m:
+      - "Shylock, are you listening?"
+
+  - sp: SHYLOCK
+    o:
+      - "I am debating of my present store,"
+      - "And by the near guess of my memory"
+      - "I cannot instantly raise up the gross"
+      - "Of full three thousand ducats. What of that?"
+      - "Tubal, a wealthy Hebrew of my tribe,"
+      - "Will furnish me. But soft! How many months"
+      - "Do you desire?"
+      - "*(to ANTONIO)*"
+      - "  Rest you fair, good signor."
+      - "Your worship was the last man in our mouths."
+    m:
+      - "I’m thinking about how much cash I have on hand. If I remember correctly, I can’t raise the entire three thousand ducats immediately. But so what? Tubal, a wealthy Jew I know, will supply me with the cash. But wait a minute! How many months do you want? *(to ANTONIO)* Oh, hello, how are you, signor? We were just talking about you."
+
+  - sp: ANTONIO
+    o:
+      - "Shylock, albeit I neither lend nor borrow"
+      - "By taking nor by giving of excess,"
+      - "Yet to supply the ripe wants of my friend,"
+      - "I’ll break a custom."
+      - "*(to BASSANIO)*"
+      - "  Is he yet possessed"
+      - "How much ye would?"
+    m:
+      - "Shylock, although I never lend or borrow with interest, I’m willing to break that habit to help a friend in need. *(to BASSANIO)* Does he know how much you need?"
+
+  - sp: SHYLOCK
+    o:
+      - "Ay, ay, three thousand ducats."
+    m:
+      - "Oh yes, three thousand ducats."
+
+  - sp: ANTONIO
+    o:
+      - "And for three months."
+    m:
+      - "For three months."
+
+  - sp: SHYLOCK
+    o:
+      - "I had forgot—three months."
+      - "*(to BASSANIO)*"
+      - "    You told me so."
+      - "*(to ANTONIO)*"
+      - "Well then, your bond, and let me see—But hear you,"
+      - "Methought you said you neither lend nor borrow"
+      - "Upon advantage."
+    m:
+      - "Yes, I forgot—three months. *(to BASSANIO)* You told me that. *(to ANTONIO)* Now then, about your guarantee. Let me see—but listen, Antonio, I thought you said you don’t lend or borrow with interest."
+
+  - sp: ANTONIO
+    o:
+      - "    I do never use it."
+    m:
+      - "That’s right. That’s not how I do business."
+
+  - sp: SHYLOCK
+    o:
+      - "When Jacob grazed his uncle Laban’s sheep—"
+      - "This Jacob from our holy Abram was,"
+      - "As his wise mother wrought in his behalf,"
+      - "The third possessor, ay, he was the third—"
+    m:
+      - "When Jacob took care of his uncle Laban’s sheep—Jacob was the heir to his grandfather Abraham’s birthright, because his mother cleverly arranged for her husband Isaac to make Jacob his heir—"
+
+  - sp: ANTONIO
+    o:
+      - "And what of him? Did he take interest?"
+    m:
+      - "What’s your point? Did he charge interest?"
+
+  - sp: SHYLOCK
+    o:
+      - "No, not take interest—not as you would say"
+      - "Directly interest. Mark what Jacob did:"
+      - "When Laban and himself were compromised"
+      - "That all the eanlings which were streaked and pied"
+      - "Should fall as Jacob’s hire, the ewes, being rank,"
+      - "In the end of autumn turnèd to the rams."
+      - "And when the work of generation was"
+      - "Between these woolly breeders in the act,"
+      - "The skillful shepherd peeled me certain wands."
+      - "And in the doing of the deed of kind"
+      - "He stuck them up before the fulsome ewes,"
+      - "Who then conceiving did in eaning time"
+      - "Fall parti-colored lambs—and those were Jacob’s."
+      - "This was a way to thrive, and he was blessed."
+      - "And thrift is blessing, if men steal it not."
+    m:
+      - "No, he didn’t charge interest—not in your sense of the word. But listen to what Jacob did. When he and Laban agreed that all the spotted lambs would be Jacob’s pay, it was the end of autumn, when the sheep were starting to mate. Because newborns look like whatever their mother sees during mating, he stuck some spotted branches into the ground right in front of the sheep, who saw them while they mated. The mothers later gave birth to spotted lambs, all of which went to Jacob. That was his way of expanding his business, and it worked. My point is that profit is a blessing, as long as you don’t steal to get it."
+
+  - sp: ANTONIO
+    o:
+      - "This was a venture, sir, that Jacob served for—"
+      - "A thing not in his power to bring to pass"
+      - "But swayed and fashioned by the hand of heaven."
+      - "Was this inserted to make interest good?"
+      - "Or is your gold and silver ewes and rams?"
+    m:
+      - "That business venture you’re referring to happened because God made it happen like that. Jacob didn’t have any control over what happened. Are you saying this story proves that charging interest makes sense? That your interest payments are like Jacob’s sheep?"
+
+  - sp: SHYLOCK
+    o:
+      - "I cannot tell: I make it breed as fast."
+      - "But note me, signor—"
+    m:
+      - "I can hardly tell the difference; I make my money multiply as fast as those sheep. But listen to me, signor—"
+
+  - sp: ANTONIO
+    o:
+      - "    Mark you this, Bassanio,"
+      - "The devil can cite Scripture for his purpose."
+      - "An evil soul producing holy witness"
+      - "Is like a villain with a smiling cheek,"
+      - "A goodly apple rotten at the heart."
+      - "Oh, what a goodly outside falsehood hath!"
+    m:
+      - "Watch out, Bassanio. The devil can quote Scripture for his own use. An evil soul using a holy story is like a criminal who smiles at you. He looks like a good apple but he’s rotten at the core. Oh, liars can look so honest!"
+
+  - sp: SHYLOCK
+    o:
+      - "Three thousand ducats—’tis a good round sum."
+      - "Three months from twelve, then. Let me see. The rate—"
+    m:
+      - "Three thousand ducats. That’s a nice even sum. Three months from twelve months of the year. Let me see. The interest rate will be—"
+
+  - sp: ANTONIO
+    o:
+      - "Well, Shylock, shall we be beholding to you?"
+    m:
+      - "Well, Shylock? Are you going to loan us the money?"
+
+  - sp: SHYLOCK
+    o:
+      - "Signor Antonio, many a time and oft"
+      - "In the Rialto you have rated me"
+      - "About my moneys and my usances."
+      - "Still have I borne it with a patient shrug,"
+      - "For sufferance is the badge of all our tribe."
+      - "You call me misbeliever, cutthroat dog,"
+      - "And spet upon my Jewish gaberdine—"
+      - "And all for use of that which is mine own."
+      - "Well then, it now appears you need my help."
+      - "Go to, then! You come to me and you say,"
+      - "“Shylock, we would have moneys.” You say so!—"
+      - "You, that did void your rheum upon my beard"
+      - "And foot me as you spurn a stranger cur"
+      - "Over your threshold! Moneys is your suit."
+      - "What should I say to you? Should I not say,"
+      - "“Hath a dog money? Is it possible"
+      - "A cur can lend three thousand ducats?” Or"
+      - "Shall I bend low and in a bondman’s key"
+      - "With bated breath and whispering humbleness"
+      - "Say this:"
+      - "“Fair sir, you spet on me on Wednesday last;"
+      - "You spurned me such a day; another time"
+      - "You called me ’dog’—and for these courtesies"
+      - "I’ll lend you thus much moneys?”"
+    m:
+      - "Signor Antonio, you’ve often insulted my money and my business practices in the Rialto. I have always just shrugged and put up with it because Jews are good at suffering. You called me a heathen, a dirty dog, and you spit on my Jewish clothes. And all because I use my own money to make a profit. And now it looks like you need my help. All right then. You come to me saying, “Shylock, we need money.” You say that!—even though you spat on my beard and kicked me like you’d kick a stray mutt out your front door. And now you’re asking for money. What can I tell you? Shouldn’t I say, “Does a dog have money? Is it possible for a mutt to lend three thousand ducats?” Or should I bend down low, and in a humble and submissive voice say: “Sir, last Wednesday you spit on me. You insulted me on this day, and another time you called me a dog. And out of gratitude for these favors, I’ll be happy to lend you the money?”"
+
+  - sp: ANTONIO
+    o:
+      - "I am as like to call thee so again,"
+      - "To spet on thee again, to spurn thee too."
+      - "If thou wilt lend this money, lend it not"
+      - "As to thy friends, for when did friendship take"
+      - "A breed for barren metal of his friend?"
+      - "But lend it rather to thine enemy,"
+      - "Who, if he break, thou mayst with better face"
+      - "Exact the penalty."
+    m:
+      - "I’ll probably call you those names again and spit on you, and reject you again too. If you’re going to lend us this money, don’t lend it to us as if we were your friends. When did friends charge interest? Instead, lend it to me as your enemy. If your enemy goes bankrupt, it’s easier for you to take your penalty from him."
+
+  - sp: SHYLOCK
+    o:
+      - "  Why, look you how you storm!"
+      - "I would be friends with you and have your love,"
+      - "Forget the shames that you have stained me with,"
+      - "Supply your present wants and take no doit"
+      - "Of usance for my moneys—and you’ll not hear me!"
+      - "This is kind I offer."
+    m:
+      - "Look at you getting all riled up! I want to be friends with you, and forget all the times you’ve embarrassed and humiliated me. I want to give you what you need, and not charge a penny of interest—but you won’t listen to me! I’m making a kind offer—zero percent financing."
+
+  - sp: BASSANIO
+    o:
+      - "    This were kindness."
+    m:
+      - "That really would be kind."
+
+  - sp: SHYLOCK
+    o:
+      - "This kindness will I show."
+      - "Go with me to a notary, seal me there"
+      - "Your single bond, and—in a merry sport—"
+      - "If you repay me not on such a day,"
+      - "In such a place, such sum or sums as are"
+      - "Expressed in the condition, let the forfeit"
+      - "Be nominated for an equal pound"
+      - "Of your fair flesh, to be cut off and taken"
+      - "In what part of your body pleaseth me."
+    m:
+      - "I’ll show you how kind I am. Come with me to a notary and we’ll make it official. And let’s add a little clause just for a joke. If you don’t repay me on the day we agree on, in the place we name, for the sum of money fixed in our contract, your penalty will be a pound of your pretty flesh, to be cut off and taken out of whatever part of your body I like."
+
+  - sp: ANTONIO
+    o:
+      - "Content, in faith. I’ll seal to such a bond,"
+      - "And say there is much kindness in the Jew."
+    m:
+      - "It’s a deal. I’ll agree to those terms and even say that Jews are nice."
+
+  - sp: BASSANIO
+    o:
+      - "You shall not seal to such a bond for me!"
+      - "I’ll rather dwell in my necessity."
+    m:
+      - "No, you can’t sign a contract like that for me! I’d rather go without the money."
+
+  - sp: ANTONIO
+    o:
+      - "Why, fear not, man. I will not forfeit it."
+      - "Within these two months—that’s a month before"
+      - "This bond expires—I do expect return"
+      - "Of thrice three times the value of this bond."
+    m:
+      - "Don’t worry about it, man, I won’t have to pay any penalty. In two months—a month before this loan is due—I expect to earn more than three times that much from my investments."
+
+  - sp: SHYLOCK
+    o:
+      - "O Father Abram, what these Christians are,"
+      - "Whose own hard dealings teaches them suspect"
+      - "The thoughts of others!—Pray you, tell me this:"
+      - "If he should break his day, what should I gain"
+      - "By the exaction of the forfeiture?"
+      - "A pound of man’s flesh taken from a man"
+      - "Is not so estimable, profitable neither,"
+      - "As flesh of muttons, beefs, or goats. I say,"
+      - "To buy his favor I extend this friendship."
+      - "If he will take it, so. If not, adieu."
+      - "And for my love I pray you wrong me not."
+    m:
+      - "Oh father Abraham, what kind of people are these Christians? Their own meanness teaches them to suspect other people!—Please tell me this. If he fails to repay me by the deadline, what would I get out of such a penalty? A pound of human flesh taken isn’t even as valuable as a pound of mutton or beef. I’m just offering this as a favor to a friend. If he agrees, great. If not, goodbye. And I hope you won’t think badly of me."
+
+  - sp: ANTONIO
+    o:
+      - "Yes, Shylock, I will seal unto this bond."
+    m:
+      - "Yes, Shylock, I’ll sign the contract and agree to its terms."
+
+  - sp: SHYLOCK
+    o:
+      - "Then meet me forthwith at the notary’s."
+      - "Give him direction for this merry bond,"
+      - "And I will go and purse the ducats straight,"
+      - "See to my house left in the fearful guard"
+      - "Of an unthrifty knave, and presently"
+      - "I will be with you."
+    m:
+      - "Then meet me right away at the notary’s. Give him the instructions for our amusing little contract, and I’ll go get the money for you right away. I need to check in at home first, because one of my careless servants is in charge right now. I’ll see you soon."
+
+  - sp: ANTONIO
+    o:
+      - "Hie thee, gentle Jew."
+    m:
+      - "Hurry up, my Jewish friend."
+
+  - os: "Exit SHYLOCK"
+    ms: "SHYLOCK exits."
+
+  - o:
+      - "The Hebrew will turn Christian. He grows kind."
+    m:
+      - "He’s so kind you’d think the Jew is turning Christian."
+
+  - sp: BASSANIO
+    o:
+      - "I like not fair terms and a villain’s mind."
+    m:
+      - "I don’t like it when a villain acts nice."
+
+  - sp: ANTONIO
+    o:
+      - "Come on. In this there can be no dismay."
+      - "My ships come home a month before the day."
+    m:
+      - "Come on, there’s no reason to worry. My ships will come home a month before the money is due."
+
+  - os: "Exeunt"
+    ms: "They exit."

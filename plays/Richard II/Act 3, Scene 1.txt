@@ -1,0 +1,94 @@
+play: Richard II
+title: Act 3, Scene 1
+group: 3
+order: 8
+text:
+  - os: "Bristol. Before the castle."
+    ms: "In front of Bristol castle."
+
+  - os: "Enter HENRY BOLINGBROKE, DUKE OF YORK, NORTHUMBERLAND, LORD ROSS, HENRY PERCY, LORD WILLOUGHBY, with BUSHY and GREEN, prisoners"
+    ms: "HENRY BOLINGBROKE, the DUKE OF YORK, NORTHUMBERLAND, LORD ROSS, HENRY PERCY, and LORD WILLOUGHBY, escorting the prisoners BUSHY and GREEN, enter."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Bring forth these men."
+      - "Bushy and Green, I will not vex your souls—"
+      - "Since presently your souls must part your bodies—"
+      - "With too much urging your pernicious lives,"
+      - "For ’twere no charity; yet, to wash your blood"
+      - "From off my hands, here in the view of men"
+      - "I will unfold some causes of your deaths."
+      - "You have misled a prince, a royal king,"
+      - "A happy gentleman in blood and lineaments,"
+      - "By you unhappied and disfigured clean:"
+      - "You have in manner with your sinful hours"
+      - "Made a divorce betwixt his queen and him,"
+      - "Broke the possession of a royal bed"
+      - "And stain’d the beauty of a fair queen’s cheeks"
+      - "With tears drawn from her eyes by your foul wrongs."
+      - "Myself, a prince by fortune of my birth,"
+      - "Near to the king in blood, and near in love"
+      - "Till you did make him misinterpret me,"
+      - "Have stoop’d my neck under your injuries,"
+      - "And sigh’d my English breath in foreign clouds,"
+      - "Eating the bitter bread of banishment;"
+      - "Whilst you have fed upon my signories,"
+      - "Dispark’d my parks and fell’d my forest woods,"
+      - "From my own windows torn my household coat,"
+      - "Razed out my imprese, leaving me no sign,"
+      - "Save men’s opinions and my living blood,"
+      - "To show the world I am a gentleman."
+      - "This and much more, much more than twice all this,"
+      - "Condemns you to the death. See them deliver’d over"
+      - "To execution and the hand of death."
+    m:
+      - "Bring these men to me. Bushy and Green, I won’t torment your souls with too much talk of your wicked lives since your souls will soon leave your bodies. But so no one may claim your execution was murder, I will explain with these men as witnesses why you are legally sentenced to death. You have deceived a king, a man who was happy and attractive until you came along and changed him. Through your evil ways, you have driven a wedge between the king and the queen. You’ve interfered with their happy marriage and caused the queen suffering. I, by the luck of my birth, am a prince. I am closely related to the king, and until you changed his feelings toward me, he loved me. Because of your actions, I’ve had to live in exile in a foreign country, and meanwhile you lived off my wealth and property here, leasing my hunting grounds to others and cutting down my forests. You tore my family’s coat of arms out of the windows of my house and destroyed all signs of my family’s existence. If not for men’s opinions and the fact that I’m still alive, no one would ever know that the property was mine and that I am a member of the nobility. These crimes and at least twice as many more condemn you to death. *(Addressing the others.)* Make sure they are executed soon."
+
+  - sp: BUSHY
+    o:
+      - "More welcome is the stroke of death to me"
+      - "Than Bolingbroke to England. Lords, farewell."
+    m:
+      - "I welcome death more than England welcomes the return of Bolingbroke. Lords, goodbye."
+
+  - sp: GREEN
+    o:
+      - "My comfort is that heaven will take our souls"
+      - "And plague injustice with the pains of hell."
+    m:
+      - "I am comforted knowing that our souls will go to heaven and that heaven will give hell to Bolingbroke, who committed this injustice."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "My Lord Northumberland, see them dispatch’d."
+    m:
+      - "My lord Northumberland, see that they are killed."
+
+  - os: "Exeunt NORTHUMBERLAND and others, with the prisoners"
+    ms: "NORTHUMBERLAND and others who are escorting the prisoners exit."
+
+  - o:
+      - "Uncle, you say the queen is at your house;"
+      - "For God’s sake, fairly let her be entreated:"
+      - "Tell her I send to her my kind commends;"
+      - "Take special care my greetings be deliver’d."
+    m:
+      - "Uncle, you said that the queen is at your house. For God’s sake, let her be treated courteously. Give her my best, and make sure to deliver my greeting."
+
+  - sp: DUKE OF YORK
+    o:
+      - "A gentleman of mine I have dispatch’d"
+      - "With letters of your love to her at large."
+    m:
+      - "I’ve sent a gentleman to her with the message."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Thank, gentle uncle. Come, lords, away."
+      - "To fight with Glendower and his complices:"
+      - "Awhile to work, and after holiday."
+    m:
+      - "Thanks, kind uncle. Come, lords, let’s leave. We’ve got to fight Glendower and his accomplices. First, we’ll work, and then we’ll be able to rest."
+
+  - os: "Exeunt"
+    ms: "They exit."

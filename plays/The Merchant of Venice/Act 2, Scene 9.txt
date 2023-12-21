@@ -1,0 +1,223 @@
+play: The Merchant of Venice
+title: Act 2, Scene 9
+group: 2
+order: 11
+text:
+  - os: "Enter NERISSA and a servitor"
+    ms: "NERISSA and a servant enter."
+
+  - sp: NERISSA
+    o:
+      - "Quick, quick, I pray thee. Draw the curtain straight."
+      - "The Prince of Arragon hath ta’en his oath"
+      - "And comes to his election presently."
+    m:
+      - "Hurry, hurry, close the curtain quick. The prince of Arragon has taken his oath, and he’s coming to make his choice now."
+
+  - os: "Flourish cornets Enter the Prince of ARRAGON, his train, and PORTIA"
+    ms: "  Trumpets play. The Prince of ARRAGON, his entourage, and PORTIA enter."
+
+  - sp: PORTIA
+    o:
+      - "Behold, there stand the caskets, noble Prince."
+      - "If you choose that wherein I am contained,"
+      - "Straight shall our nuptial rites be solemnized."
+      - "But if you fail, without more speech, my lord,"
+      - "You must be gone from hence immediately."
+    m:
+      - "Look, here are the boxes, prince. If you choose the one that contains my picture, we’ll be married right away. But if you fail, you have to leave immediately. No pleas will be allowed."
+
+  - sp: ARRAGON
+    o:
+      - "I am enjoined by oath to observe three things:"
+      - "First, never to unfold to any one"
+      - "Which casket ’twas I chose; next, if I fail"
+      - "Of the right casket, never in my life"
+      - "To woo a maid in way of marriage; lastly,"
+      - "If I do fail in fortune of my choice,"
+      - "Immediately to leave you and be gone."
+    m:
+      - "I swore I’d do three things. First, I can never tell anyone what box I choose. Second, if I choose the wrong box, I’ll never propose marriage for the rest of my life. Third, if I pick the wrong box, I’ll leave immediately."
+
+  - sp: PORTIA
+    o:
+      - "To these injunctions every one doth swear"
+      - "That comes to hazard for my worthless self."
+    m:
+      - "Everyone who comes to gamble on winning me has to swear to these three rules."
+
+  - sp: ARRAGON
+    o:
+      - "And so have I addressed me. Fortune now"
+      - "To my heart’s hope! Gold, silver, and base lead."
+      - "“Who chooseth me must give and hazard all he hath.”"
+      - "You shall look fairer ere I give or hazard."
+      - "What says the golden chest? Ha, let me see."
+      - "“Who chooseth me shall gain what many men desire.”"
+      - "“What many men desire”—that “many” may be meant"
+      - "By the fool multitude that choose by show,"
+      - "Not learning more than the fond eye doth teach;"
+      - "Which pries not to th’ interior, but like the martlet"
+      - "Builds in the weather on the outward wall,"
+      - "Even in the force and road of casualty."
+      - "I will not choose what many men desire"
+      - "Because I will not jump with common spirits"
+      - "And rank me with the barbarous multitudes."
+      - "Why then, to thee, thou silver treasure house."
+      - "Tell me once more what title thou dost bear."
+      - "“Who chooseth me shall get as much as he deserves.”"
+      - "And well said too—for who shall go about"
+      - "To cozen fortune and be honorable"
+      - "Without the stamp of merit? Let none presume"
+      - "To wear an undeservèd dignity."
+      - "Oh, that estates, degrees and offices"
+      - "Were not derived corruptly, and that clear honor"
+      - "Were purchased by the merit of the wearer!"
+      - "How many then should cover that stand bare!"
+      - "How many be commanded that command!"
+      - "How much low peasantry would then be gleaned"
+      - "From the true seed of honor! And how much honor"
+      - "Picked from the chaff and ruin of the times"
+      - "To be new varnished! Well, but to my choice."
+      - "“Who chooseth me shall get as much as he deserves.”"
+      - "I will assume desert.—Give me a key for this,"
+      - "And instantly unlock my fortunes here."
+    m:
+      - "Okay, I’m ready. I hope luck will give me what my heart hopes for! Gold, silver, and common lead. “He who chooses me must give and risk all he has.” You’d have to be more attractive for me to give or risk anything for you. What does the golden box say? Hmm, let me see: “He who chooses me will get what many men want.” What many men want—that “many” could mean that most people are fools and choose by whatever is flashy. They don’t go beyond what their eyes see. They don’t bother to find out what’s on the inside. Just like those birds called martins who build their nests on the outside of walls, people pay too much attention to what’s on the outside. So I won’t choose what many men desire, because I won’t jump on the bandwagon and include myself with the whole crude population. So I guess it’s you, you silver treasure house. Tell me once more what you say. “He who chooses me will get what he deserves.” That’s nicely put—because who’s going to cheat luck and get more than he deserves? No one should have an honor he doesn’t deserve. Oh, wouldn’t it be great if property, rank, official positions, and other honors were earned only by merit, not by corruption? There wouldn’t be too many important men then. How many people who are humble now would be great then? How many people who give orders now would have to take orders? How many noblemen would be weeded out and would become peasants? And how many common people would suddenly shine with nobility? Well, let me get back to my choice. “He who chooses me will get what he deserves.” I’ll assume I deserve the very best.—Give me a key for this one. I’ll unlock my fate here in a second."
+
+  - os: "ARRAGON opens the silver casket"
+    ms: "ARRAGON opens the silver casket."
+
+  - sp: PORTIA
+    o:
+      - "Too long a pause for that which you find there."
+    m:
+      - "You thought about it too long, considering what you found there."
+
+  - sp: ARRAGON
+    o:
+      - "What’s here? The portrait of a blinking idiot"
+      - "Presenting me a schedule! I will read it.—"
+      - "How much unlike art thou to Portia!"
+      - "How much unlike my hopes and my deservings!"
+      - "“Who chooseth me shall have as much as he deserves”!"
+      - "Did I deserve no more than a fool’s head?"
+      - "Is that my prize? Are my deserts no better?"
+    m:
+      - "What’s this? A picture of an idiot holding a scroll up for me to read! I’ll read it.—It looks so unlike Portia! This outcome isn’t what I hoped for, or what I deserve. “The one who chooses me will get what he deserves”! Didn’t I deserve anything more than a fool’s head? Is this my prize? Don’t I deserve more than this?"
+
+  - sp: PORTIA
+    o:
+      - "To offend and judge are distinct offices"
+      - "And of opposèd natures."
+    m:
+      - "Judging what you deserve is one thing. Offending you is something very different, so I’ll keep my mouth shut."
+
+  - sp: ARRAGON
+    o:
+      - "    What is here?"
+      - "*(reads)*"
+      - "“The fire seven times tried this,"
+      - "Seven times tried that judgment is,"
+      - "That did never choose amiss."
+      - "Some there be that shadows kiss."
+      - "Such have but a shadow’s bliss."
+      - "There be fools alive, iwis,"
+      - "Silvered o’er—and so was this."
+      - "Take what wife you will to bed,"
+      - "I will ever be your head."
+      - "So be gone. You are sped."
+      - "Still more fool I shall appear”"
+      - "By the time I linger here."
+      - "With one fool’s head I came to woo,"
+      - "But I go away with two.—"
+      - "Sweet, adieu. I’ll keep my oath"
+      - "Patiently to bear my wroth.“"
+    m:
+      - "What does this say?"
+      - "*(he reads)*"
+      - "”This box was tested in the fire seven times."
+      - "The person who never makes a wrong choice"
+      - "Has wisdom that will stand the test."
+      - "Some people kiss shadows."
+      - "They only feel the shadow of joy."
+      - "There are fools out there"
+      - "With silver hair and silver coins."
+      - "This choice was as foolish as they are."
+      - "Take whatever wife you want to bed with you,"
+      - "You’ll have a fool’s head forever."
+      - "So go away. You’re done here.\""
+      - "The longer I stay, the more foolish I look. I came here with a fool’s head on my shoulders and now I’m leaving with two.—Goodbye, sweet lady. I’ll keep my oath and patiently suffer through my anger."
+
+  - os: "Exeunt ARRAGON and his train"
+    ms: "He exits with his train."
+
+  - sp: PORTIA
+    o:
+      - "Thus hath the candle singed the moth."
+      - "O these deliberate fools! When they do choose,"
+      - "They have the wisdom by their wit to lose."
+    m:
+      - "These men are like moths, drawn to these boxes as if they were flames. This is how the candle burned the moth. Oh, these fools! When they choose, they only know how to lose."
+
+  - sp: NERISSA
+    o:
+      - "The ancient saying is no heresy."
+      - "Hanging and wiving goes by destiny."
+    m:
+      - "You know what they say. Destiny chooses when you’ll die and who you’ll marry."
+
+  - sp: PORTIA
+    o:
+      - "Come, draw the curtain, Nerissa."
+    m:
+      - "Come on, close the curtain, Nerissa."
+
+  - os: "Enter MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: messenger
+    o:
+      - "Where is my lady?"
+    m:
+      - "Where’s lady Portia?"
+
+  - sp: PORTIA
+    o:
+      - "    Here. What would my lord?"
+    m:
+      - "Here. How can I help you, sir?"
+
+  - sp: MESSENGER
+    o:
+      - "Madam, there is alighted at your gate"
+      - "A young Venetian, one that comes before"
+      - "To signify th’ approaching of his lord,"
+      - "From whom he bringeth sensible regreets,"
+      - "To wit—besides commends and courteous breath—"
+      - "Gifts of rich value. Yet I have not seen"
+      - "So likely an ambassador of love."
+      - "A day in April never came so sweet"
+      - "To show how costly summer was at hand,"
+      - "As this forespurrer comes before his lord."
+    m:
+      - "Madam, a young Venetian man has arrived to tell us his master is about to arrive. This lord has sent gifts. Besides his nice polite greetings, his gifts are expensive. I haven’t seen such a promising candidate for your love. This servant has arrived before his master the way a sweet spring day hints about a lush summer. But there’s never been an April day as promising as this."
+
+  - sp: PORTIA
+    o:
+      - "No more, I pray thee. I am half afeard"
+      - "Thou wilt say anon he is some kin to thee,"
+      - "Thou spend’st such high-day wit in praising him.—"
+      - "Come, come, Nerissa, for I long to see"
+      - "Quick Cupid’s post that comes so mannerly."
+    m:
+      - "Please don’t tell me any more. I’m almost afraid you’re going to tell me he’s a relative of yours, because you’re going so crazy praising him. Come on, Nerissa, I want to go see this man who’s come so courteously."
+
+  - sp: NERISSA
+    o:
+      - "Bassanio, Lord Love, if thy will it be!"
+    m:
+      - "I hope it’s Bassanio coming to win Portia!"
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,76 @@
+play: King Lear
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter GONERIL and her steward OSWALD"
+    ms: "GONERIL enters with her steward, OSWALD."
+
+  - sp: GONERIL
+    o:
+      - "Did my father strike my gentleman"
+      - "For chiding of his fool?"
+    m:
+      - "Did my father hit one of my attendants for scolding his fool?"
+
+  - sp: OSWALD
+    o:
+      - "  Ay, madam."
+    m:
+      - "Yes, ma’am."
+
+  - sp: GONERIL
+    o:
+      - "By day and night he wrongs me. Every hour"
+      - "He flashes into one gross crime or other"
+      - "That sets us all at odds. I’ll not endure it."
+      - "His knights grow riotous, and himself upbraids us"
+      - "On every trifle. When he returns from hunting,"
+      - "I will not speak with him. Say I am sick."
+      - "If you come slack of former services,"
+      - "You shall do well. The fault of it I’ll answer."
+    m:
+      - "He constantly offends me. Every hour he comes out with some horrible new offense that puts us all on edge. I won’t stand for it. His knights are getting out of control, and he himself reprimands us about every little detail. When he comes back from hunting, I’m not going to speak to him. Tell him I’m sick. And if you’re not as attentive in serving him as you used to be, that’ll be good. I’ll take responsibility for it."
+
+  - sp: OSWALD
+    o:
+      - "He’s coming, madam. I hear him."
+    m:
+      - "He’s coming, ma’am. I hear him."
+
+  - os: "Hunting horns within"
+    ms: "Hunting horns play offstage."
+
+  - sp: GONERIL
+    o:
+      - "Put on what weary negligence you please,"
+      - "You and your fellow servants. I’ll have it come to question."
+      - "If he distaste it, let him to our sister,"
+      - "Whose mind and mine I know in that are one,"
+      - "Not to be overruled. Idle old man"
+      - "That still would manage those authorities"
+      - "That he hath given away! Now by my life,"
+      - "Old fools are babes again and must be used"
+      - "With checks as flatteries, when they are seen abused."
+      - "Remember what I have said."
+    m:
+      - "Be as lazy and neglectful as you like around him—you and the other servants. I want it to become an issue. If he doesn’t like it, he can go live with my sister. I know she feels the same way about him that I do, and she’ll stand her ground. That useless old man still thinks he can wield all the powers he’s given away. I swear, old fools become like babies again. You can’t just flatter them; you also have to discipline them when you see that they’re misguided. Remember what I’ve told you."
+
+  - sp: OSWALD
+    o:
+      - "    Very well, madam."
+    m:
+      - "Very well, ma’am."
+
+  - sp: GONERIL
+    o:
+      - "And let his knights have colder looks among you."
+      - "What grows of it, no matter. Advise your fellows so."
+      - "I would breed from hence occasions, and I shall,"
+      - "That I may speak. I’ll write straight to my sister"
+      - "To hold my very course. Go, prepare for dinner."
+    m:
+      - "And make sure the servants are less friendly to his knights. Don’t worry about the consequences. Tell your men as much. I want this to provoke confrontations, so I can give him a piece of my mind. I’ll write to my sister and tell her my plans. Now go, set up for dinner."
+
+  - os: "Exeunt severally"
+    ms: "They exit in opposite directions."

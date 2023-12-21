@@ -1,0 +1,509 @@
+play: Coriolanus
+title: Act 3, Scene 3
+group: 3
+order: 15
+text:
+  - os: "The same. The Forum."
+    ms: "The Forum."
+
+  - os: "Enter SICINIUS and BRUTUS"
+    ms: "SICINIUS and BRUTUS enter."
+
+  - sp: BRUTUS
+    o:
+      - "In this point charge him home, that he affects"
+      - "Tyrannical power: if he evade us there,"
+      - "Enforce him with his envy to the people,"
+      - "And that the spoil got on the Antiates"
+      - "Was ne’er distributed."
+    m:
+      - "Drive this point home: his aim is to be a tyrant. If he dodges this accusation, confront him with his ill-will toward the people, and that the spoils won from the Antiates were never distributed."
+
+  - os: "Enter an Aedile"
+    ms: "An aedile enters."
+
+  - o:
+      - "What, will he come?"
+    m:
+      - "Is he coming?"
+
+  - sp: AEDILE
+    o:
+      - "He’s coming."
+    m:
+      - "He’s coming."
+
+  - sp: BRUTUS
+    o:
+      - "How accompanied?"
+    m:
+      - "Who’s he with?"
+
+  - sp: AEDILE
+    o:
+      - "With old Menenius, and those senators"
+      - "That always favour’d him."
+    m:
+      - "With old Menenius and those senators that have always favored him."
+
+  - sp: SICINIUS
+    o:
+      - "Have you a catalogue"
+      - "Of all the voices that we have procured"
+      - "Set down by the poll?"
+    m:
+      - "Do you have a list of all the individual votes taken in our poll?"
+
+  - sp: AEDILE
+    o:
+      - "I have; ’tis ready."
+    m:
+      - "I do. It’s ready."
+
+  - sp: SICINIUS
+    o:
+      - "Have you collected them by tribes?"
+    m:
+      - "Have you counted them by district?"
+
+  - sp: AEDILE
+    o:
+      - "I have."
+    m:
+      - "I have."
+
+  - sp: SICINIUS
+    o:
+      - "Assemble presently the people hither;"
+      - "And when they bear me say “It shall be so"
+      - "I’ the right and strength o’ the commons,” be it either"
+      - "For death, for fine, or banishment, then let them"
+      - "If I say fine, cry “Fine;” if death, cry “Death.”"
+      - "Insisting on the old prerogative"
+      - "And power i’ the truth o’ the cause."
+    m:
+      - "Bring the people here now, and when I say, “The decision of the people is,” whether it’s death, fine, or banishment, if I say, “fine,” have them cry, “Fine,” if “death,” cry, “Death.” They must insist on their legal right to decide this and the power that comes from the truth of their cause."
+
+  - sp: AEDILE
+    o:
+      - "I shall inform them."
+    m:
+      - "I’ll tell them."
+
+  - sp: BRUTUS
+    o:
+      - "And when such time they have begun to cry,"
+      - "Let them not cease, but with a din confused"
+      - "Enforce the present execution"
+      - "Of what we chance to sentence."
+    m:
+      - "And when they begin to cry out, don’t let them stop. The chaotic noise will force their decision to be carried out on the spot."
+
+  - sp: AEDILE
+    o:
+      - "Very well."
+    m:
+      - "Very well."
+
+  - sp: SICINIUS
+    o:
+      - "Make them be strong and ready for this hint,"
+      - "When we shall hap to give ’t them."
+    m:
+      - "Prepare them for this. They have to be able to get the signal when we give it to them."
+
+  - sp: BRUTUS
+    o:
+      - "Go about it."
+    m:
+      - "Do it."
+
+  - os: "Exit Aedile"
+    ms: "The Aedile exits."
+
+  - o:
+      - "Put him to choler straight: he hath been used"
+      - "Ever to conquer, and to have his worth"
+      - "Of contradiction: being once chafed, he cannot"
+      - "Be rein’d again to temperance; then he speaks"
+      - "What’s in his heart; and that is there which looks"
+      - "With us to break his neck."
+    m:
+      - "Get him angry right away. He’s accustomed to always winning and being as controversial as he pleases. Once he’s provoked, he won’t be able to rein in his temper. Then he’ll say how he really feels, and most likely we can use that as reason to break his neck."
+
+  - sp: SICINIUS
+    o:
+      - "Well, here he comes."
+    m:
+      - "Well, here he comes."
+
+  - os: "Enter CORIOLANUS, MENENIUS, and COMINIUS, with Senators and Patricians"
+    ms: "CORIOLANUS, MENENIUS, and COMINIUS enter, with Senators and Noblemen."
+
+  - sp: MENENIUS
+    o:
+      - "Calmly, I do beseech you."
+    m:
+      - "Stay calm, I beg you."
+
+  - sp: CORIOLANUS
+    o:
+      - "Ay, as an ostler, that for the poorest piece"
+      - "Will bear the knave by the volume. The honour’d gods"
+      - "Keep Rome in safety, and the chairs of justice"
+      - "Supplied with worthy men! plant love among ’s!"
+      - "Throng our large temples with the shows of peace,"
+      - "And not our streets with war!"
+    m:
+      - "Yes, like a stable boy that for the smallest amount of money will tolerate being called a slave over and over again. May the honored gods protect Rome and supply the chairs of justice with worthy men! Let there be love among us! Fill our large temples with demonstrations of peace and not our streets with war!"
+
+  - sp: FIRST SENATOR
+    o:
+      - "Amen, amen."
+    m:
+      - "Amen, amen."
+
+  - sp: MENENIUS
+    o:
+      - "A noble wish."
+    m:
+      - "A noble wish."
+
+  - os: "Re-enter Aedile, with Citizens"
+    ms: "The Aedile reenters, with Citizens."
+
+  - sp: SICINIUS
+    o:
+      - "Draw near, ye people."
+    m:
+      - "Come close, you people."
+
+  - sp: AEDILE
+    o:
+      - "List to your tribunes. Audience: peace, I say!"
+    m:
+      - "Listen to your tribunes. Be quiet!"
+
+  - sp: CORIOLANUS
+    o:
+      - "First, hear me speak."
+    m:
+      - "Let me speak first."
+
+  - sp: BOTH TRIBUNES
+    o:
+      - "Well, say. Peace, ho!"
+    m:
+      - "Well then, talk! Stay calm."
+
+  - sp: CORIOLANUS
+    o:
+      - "Shall I be charged no further than this present?"
+      - "Must all determine here?"
+    m:
+      - "Are there any further charges against me besides these? Will everything be settled here?"
+
+  - sp: SICINIUS
+    o:
+      - "I do demand,"
+      - "If you submit you to the people’s voices,"
+      - "Allow their officers and are content"
+      - "To suffer lawful censure for such faults"
+      - "As shall be proved upon you?"
+    m:
+      - "Will you agree to listen to the people, respect their representatives, and undergo lawful punishment for the offenses we’ll prove you committed?"
+
+  - sp: CORIOLANUS
+    o:
+      - "I am content."
+    m:
+      - "Yes, I agree."
+
+  - sp: MENENIUS
+    o:
+      - "Lo, citizens, he says he is content:"
+      - "The warlike service he has done, consider; think"
+      - "Upon the wounds his body bears, which show"
+      - "Like graves i’ the holy churchyard."
+    m:
+      - "All right citizens, he says he agrees. Think of the wars he has served in. Think about the wounds on his body—each of them is like an enemy’s gravestone."
+
+  - sp: CORIOLANUS
+    o:
+      - "Scratches with briers,"
+      - "Scars to move laughter only."
+    m:
+      - "They’re no more serious than scratches from a prickly plant. They’re scars that you’d only laugh at."
+
+  - sp: MENENIUS
+    o:
+      - "Consider further,"
+      - "That when he speaks not like a citizen,"
+      - "You find him like a soldier: do not take"
+      - "His rougher accents for malicious sounds,"
+      - "But, as I say, such as become a soldier,"
+      - "Rather than envy you."
+    m:
+      - "Consider also that because he doesn’t speak like you, you think he’s attacking you. Don’t mistake his coarse way of speaking for hateful words. He’s just talking the way soldiers talk. He’s not speaking ill of you."
+
+  - sp: COMINIUS
+    o:
+      - "Well, well, no more."
+    m:
+      - "Okay, that’s enough."
+
+  - sp: CORIOLANUS
+    o:
+      - "What is the matter"
+      - "That being pass’d for consul with full voice,"
+      - "I am so dishonour’d that the very hour"
+      - "You take it off again?"
+    m:
+      - "How did it happen that I was approved for consul with a unanimous vote and in the next moment I’m disgraced by a change of opinion?"
+
+  - sp: SICINIUS
+    o:
+      - "Answer to us."
+    m:
+      - "Answer our questions."
+
+  - sp: CORIOLANUS
+    o:
+      - "Say, then: ’tis true, I ought so."
+    m:
+      - "Well it’s true then. I thought so."
+
+  - sp: SICINIUS
+    o:
+      - "We charge you, that you have contrived to take"
+      - "From Rome all season’d office and to wind"
+      - "Yourself into a power tyrannical;"
+      - "For which you are a traitor to the people."
+    m:
+      - "We accuse you of trying to do away with the established legal system in Rome and to put yourself in a position of tyrannical power. For this you are a traitor to the people."
+
+  - sp: CORIOLANUS
+    o:
+      - "How! traitor!"
+    m:
+      - "How am I a traitor?"
+
+  - sp: MENENIUS
+    o:
+      - "Nay, temperately; your promise."
+    m:
+      - "No, stay calm. You promised."
+
+  - sp: CORIOLANUS
+    o:
+      - "The fires i’ the lowest hell fold-in the people!"
+      - "Call me their traitor! Thou injurious tribune!"
+      - "Within thine eyes sat twenty thousand deaths,"
+      - "In thy hand clutch’d as many millions, in"
+      - "Thy lying tongue both numbers, I would say"
+      - "“Thou liest” unto thee with a voice as free"
+      - "As I do pray the gods."
+    m:
+      - "May the people fall into the fires of the lowest hell! You’re calling me a traitor? You slanderous tribune! If your eyes had killed twenty thousand people, your hands had killed a million, and your lying tongue had killed those numbers together, I would still say to you, ”You lie” with a voice as honest as the one I pray to the gods with."
+
+  - sp: SICINIUS
+    o:
+      - "Mark you this, people?"
+    m:
+      - "Do you hear this, people?"
+
+  - sp: CITIZENS
+    o:
+      - "To the rock, to the rock with him!"
+    m:
+      - "Throw him from the rock!"
+
+  - sp: SICINIUS
+    o:
+      - "Peace!"
+      - "We need not put new matter to his charge:"
+      - "What you have seen him do and heard him speak,"
+      - "Beating your officers, cursing yourselves,"
+      - "Opposing laws with strokes and here defying"
+      - "Those whose great power must try him; even this,"
+      - "So criminal and in such capital kind,"
+      - "Deserves the extremest death."
+    m:
+      - "Peace! We don’t need to aggravate him further. What you’ve seen him do and heard him say—beating your officers, speaking ill of you, opposing our laws with force, and now defying those who have the great power to put him on trial—even this, which is criminal and punishable by death, deserves the most severe penalty."
+
+  - sp: BRUTUS
+    o:
+      - "But since he hath"
+      - "Served well for Rome,—"
+    m:
+      - "But since he has served Rome so well—"
+
+  - sp: CORIOLANUS
+    o:
+      - "What do you prate of service?"
+    m:
+      - "Why do you talk about service?"
+
+  - sp: BRUTUS
+    o:
+      - "I talk of that, that know it."
+    m:
+      - "I talk about what I know."
+
+  - sp: CORIOLANUS
+    o:
+      - "You?"
+    m:
+      - "What do you know about service?"
+
+  - sp: MENENIUS
+    o:
+      - "Is this the promise that you made your mother?"
+    m:
+      - "Is this the promise that you made your mother?"
+
+  - sp: COMINIUS
+    o:
+      - "Know, I pray you,—"
+    m:
+      - "Listen, I beg you—"
+
+  - sp: CORIOLANUS
+    o:
+      - "I know no further:"
+      - "Let them pronounce the steep Tarpeian death,"
+      - "Vagabond exile, raying, pent to linger"
+      - "But with a grain a day, I would not buy"
+      - "Their mercy at the price of one fair word;"
+      - "Nor cheque my courage for what they can give,"
+      - "To have’t with saying “Good morrow.”"
+    m:
+      - "I’ll listen no more. Let them throw me from the steep Tarpeian rock, make me a wandering exile, skin me alive, or condemn me to live on just a grain a day. I wouldn’t buy their mercy at the cost of the truth, nor would I hold back my beliefs for the freedom they can give me, if I had to say to them, “Good day.”"
+
+  - sp: SICINIUS
+    o:
+      - "For that he has,"
+      - "As much as in him lies, from time to time"
+      - "Envied against the people, seeking means"
+      - "To pluck away their power, as now at last"
+      - "Given hostile strokes, and that not in the presence"
+      - "Of dreaded justice, but on the ministers"
+      - "That do distribute it; in the name o’ the people"
+      - "And in the power of us the tribunes, we,"
+      - "Even from this instant, banish him our city,"
+      - "In peril of precipitation"
+      - "From off the rock Tarpeian never more"
+      - "To enter our Rome gates: i’ the people’s name,"
+      - "I say it shall be so."
+    m:
+      - "As much as he could, he has continually conspired against the people, looking for ways to take away their power, and now he’s finally taken violent measures, and not only in front of justice itself but also those who attempt to carry it out. In the name of the people and by our power as tribunes, from this moment forward we banish him from our city. If he ever enters the gates of Rome again, he will be thrown off the Tarpeian rock. I declare this on behalf of the people."
+
+  - sp: CITIZENS
+    o:
+      - "It shall be so, it shall be so; let him away:"
+      - "He’s banish’d, and it shall be so."
+    m:
+      - "It shall be so, it shall be so. Take him away. He’s banished, and it shall be so."
+
+  - sp: COMINIUS
+    o:
+      - "Hear me, my masters, and my common friends,—"
+    m:
+      - "Listen to me, good people, my friends—"
+
+  - sp: SICINIUS
+    o:
+      - "He’s sentenced; no more hearing."
+    m:
+      - "He’s been sentenced. There’s nothing more to say."
+
+  - sp: COMINIUS
+    o:
+      - "Let me speak:"
+      - "I have been consul, and can show for Rome"
+      - "Her enemies’ marks upon me. I do love"
+      - "My country’s good with a respect more tender,"
+      - "More holy and profound, than mine own life,"
+      - "My dear wife’s estimate, her womb’s increase,"
+      - "And treasure of my loins; then if I would"
+      - "Speak that,—"
+    m:
+      - "Let me speak. I have been consul, and I can show you the wounds I’ve received fighting for Rome. My feelings about the welfare of my country are more tender, more holy, and more profound than how I feel about my own life, my dear wife’s reputation, her ability to bear my precious children. So I would like to say—"
+
+  - sp: SICINIUS
+    o:
+      - "We know your drift: speak what?"
+    m:
+      - "We know your loyalty. What do you want to say?"
+
+  - sp: BRUTUS
+    o:
+      - "There’s no more to be said, but he is banish’d,"
+      - "As enemy to the people and his country:"
+      - "It shall be so."
+    m:
+      - "There’s no more to be said: he is banished as enemy to the people and his country. It shall be so."
+
+  - sp: CITIZENS
+    o:
+      - "It shall be so, it shall be so."
+    m:
+      - "It shall be so, it shall be so."
+
+  - sp: CORIOLANUS
+    o:
+      - "You common cry of curs! whose breath I hate"
+      - "As reek o’ the rotten fens, whose loves I prize"
+      - "As the dead carcasses of unburied men"
+      - "That do corrupt my air, I banish you;"
+      - "And here remain with your uncertainty!"
+      - "Let every feeble rumour shake your hearts!"
+      - "Your enemies, with nodding of their plumes,"
+      - "Fan you into despair! Have the power still"
+      - "To banish your defenders; till at length"
+      - "Your ignorance, which finds not till it feels,"
+      - "Making not reservation of yourselves,"
+      - "Still your own foes, deliver you as most"
+      - "Abated captives to some nation"
+      - "That won you without blows! Despising,"
+      - "For you, the city, thus I turn my back:"
+      - "There is a world elsewhere."
+    m:
+      - "You pack of common dogs! Your breath reeks like the rotting swamps. I value your opinion of me as much as the dead carcasses of unburied men that stink up my air. I banish you! Stay here with your indecisiveness and let every feeble rumor change your minds. When you see your enemies plumed helmets approaching, may you fall into despair! May you retain the power to banish the ones who would protect you, until at last your ignorance—which makes you unable to foresee anything before it happens and leaves you alone in the city as your own worst enemy—leads you to be captured by some nation that defeated you without a fight! With hatred, I turn my back on you and the city. I will seek a new life elsewhere."
+
+  - os: "Exeunt CORIOLANUS, COMINIUS, MENENIUS, Senators, and Patricians"
+    ms: "CORIOLANUS, COMINIUS, MENENIUS, Senators, and the Noblemen exit."
+
+  - sp: AEDILE
+    o:
+      - "The people’s enemy is gone, is gone!"
+    m:
+      - "The people’s enemy is gone. He is gone!"
+
+  - sp: CITIZENS
+    o:
+      - "Our enemy is banish’d! he is gone! Hoo! hoo!"
+    m:
+      - "Our enemy is banished! He is gone! Hoo, hoo!"
+
+  - os: "Shouting, and throwing up their caps"
+    ms: "They shout and throw up their caps."
+
+  - sp: SICINIUS
+    o:
+      - "Go, see him out at gates, and follow him,"
+      - "As he hath followed you, with all despite;"
+      - "Give him deserved vexation. Let a guard"
+      - "Attend us through the city."
+    m:
+      - "Go, see him go out the gates, and look at him with contempt, as he looked at you. Torment him—he deserves it. Let a parade follow us through the city."
+
+  - sp: CITIZENS
+    o:
+      - "Come, come; let’s see him out at gates; come."
+      - "The gods preserve our noble tribunes! Come."
+    m:
+      - "Come, come. Let’s see him go out the gates. Come. May the gods protect our noble tribunes! Come."
+
+  - os: "Exeunt"
+    ms: "All exit."

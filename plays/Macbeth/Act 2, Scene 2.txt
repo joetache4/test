@@ -1,0 +1,274 @@
+play: Macbeth
+title: Act 2, Scene 2
+group: 2
+order: 8
+text:
+  - os: "Enter LADY MACBETH"
+    ms: "LADY MACBETH enters."
+
+  - sp: LADY MACBETH
+    o:
+      - "That which hath made them drunk hath made me bold."
+      - "What hath quenched them hath given me fire."
+      - "Hark! Peace! It was the owl that shrieked, the fatal bellman,"
+      - "Which gives the stern’st good-night. He is about it."
+      - "The doors are open, and the surfeited grooms"
+      - "Do mock their charge with snores. I have drugged their possets,"
+      - "That death and nature do contend about them,"
+      - "Whether they live or die."
+    m:
+      - "The alcohol that got the servants drunk has made me bold. The same liquor that quenched their thirst has fired me up. Listen! Quiet! That was the owl that shrieked, with a scary “good night” like the bells they ring before they execute people. Macbeth must be killing the king right now. The doors to Duncan’s chamber are open, and the drunk servants make a mockery of their jobs by snoring instead of protecting the king. I put so many drugs in their drinks that you can’t tell if they’re alive or dead."
+
+  - sp: MACBETH
+    o:
+      - "*(within)*     Who’s there? What, ho!"
+    m:
+      - "*(from offstage)* Who’s there? What is it?"
+
+  - sp: LADY MACBETH
+    o:
+      - "Alack, I am afraid they have awaked,"
+      - "And ’tis not done. Th’ attempt and not the deed"
+      - "Confounds us. Hark! I laid their daggers ready;"
+      - "He could not miss ’em. Had he not resembled"
+      - "My father as he slept, I had done ’t."
+    m:
+      - "Oh no, I’m afraid the servants woke up, and the murder didn’t happen. For us to attempt murder and not succeed would ruin us. *(She hears a noise.)* Listen to that! I put the servants’ daggers where Macbeth would find them. He couldn’t have missed them. If Duncan hadn’t reminded me of my father when I saw him sleeping, I would have killed him myself."
+
+  - os: "Enter MACBETH, with bloody daggers"
+    ms: "MACBETH enters carrying bloody daggers."
+
+  - o:
+      - "    My husband!"
+    m:
+      - "My husband!"
+
+  - sp: MACBETH
+    o:
+      - "I have done the deed. Didst thou not hear a noise?"
+    m:
+      - "I have done the deed. Did you hear a noise?"
+
+  - sp: LADY MACBETH
+    o:
+      - "I heard the owl scream and the crickets cry."
+      - "Did not you speak?"
+    m:
+      - "I heard the owl scream and the crickets cry. Didn’t you say something?"
+
+  - sp: MACBETH
+    o:
+      - "When?"
+    m:
+      - "When?"
+
+  - sp: LADY MACBETH
+    o:
+      - "    Now."
+    m:
+      - "Just now."
+
+  - sp: MACBETH
+    o:
+      - "    As I descended?"
+    m:
+      - "As I came down?"
+
+  - sp: LADY MACBETH
+    o:
+      - "Ay."
+    m:
+      - "Yes."
+
+  - sp: MACBETH
+    o:
+      - "    Hark! Who lies i’ th’ second chamber?"
+    m:
+      - "Listen! Who’s sleeping in the second chamber?"
+
+  - sp: LADY MACBETH
+    o:
+      - "Donalbain."
+    m:
+      - "Donalbain."
+
+  - sp: MACBETH
+    o:
+      - "*(looking at his hands)* This is a sorry sight."
+    m:
+      - "*(looking at his bloody hands)* This is a sorry sight."
+
+  - sp: LADY MACBETH
+    o:
+      - "A foolish thought, to say a sorry sight."
+    m:
+      - "That’s a stupid thing to say."
+
+  - sp: MACBETH
+    o:
+      - "There’s one did laugh in ’s sleep, and one cried. “Murder!”"
+      - "That they did wake each other. I stood and heard them."
+      - "But they did say their prayers, and addressed them"
+      - "Again to sleep."
+    m:
+      - "One of the servants laughed in his sleep, and one cried, “Murder!” and they woke each other up. I stood and listened to them, but then they said their prayers and went back to sleep."
+
+  - sp: LADY MACBETH
+    o:
+      - "    There are two lodged together."
+    m:
+      - "Malcolm and Donalbain are asleep in the same room."
+
+  - sp: MACBETH
+    o:
+      - "One cried, “God bless us!” and “Amen” the other,"
+      - "As they had seen me with these hangman’s hands."
+      - "List’ning their fear I could not say “Amen,”"
+      - "When they did say “God bless us!”"
+    m:
+      - "One servant cried, “God bless us!” and the other replied, “Amen,” as if they had seen my bloody hands. Listening to their frightened voices, I couldn’t reply “Amen” when they said “God bless us!”"
+
+  - sp: LADY MACBETH
+    o:
+      - "Consider it not so deeply."
+    m:
+      - "Don’t think about it so much."
+
+  - sp: MACBETH
+    o:
+      - "But wherefore could not I pronounce “Amen”?"
+      - "I had most need of blessing, and “Amen”"
+      - "Stuck in my throat."
+    m:
+      - "But why couldn’t I say “Amen”? I desperately needed God’s blessing, but the word “Amen” stuck in my throat."
+
+  - sp: LADY MACBETH
+    o:
+      - "    These deeds must not be thought"
+      - "After these ways. So, it will make us mad."
+    m:
+      - "We can’t think that way about what we did. If we do, it’ll drive us crazy."
+
+  - sp: MACBETH
+    o:
+      - "Methought I heard a voice cry, “Sleep no more!"
+      - "Macbeth does murder sleep”—the innocent sleep,"
+      - "Sleep that knits up the raveled sleave of care,"
+      - "The death of each day’s life, sore labor’s bath,"
+      - "Balm of hurt minds, great nature’s second course,"
+      - "Chief nourisher in life’s feast."
+    m:
+      - "I thought I heard a voice cry, “Sleep no more! Macbeth is murdering sleep.” Innocent sleep. Sleep that soothes away all our worries. Sleep that puts each day to rest. Sleep that relieves the weary laborer and heals hurt minds. Sleep, the main course in life’s feast, and the most nourishing."
+
+  - sp: LADY MACBETH
+    o:
+      - "    What do you mean?"
+    m:
+      - "What are you talking about?"
+
+  - sp: MACBETH
+    o:
+      - "Still it cried, “Sleep no more!” to all the house."
+      - "“Glamis hath murdered sleep, and therefore Cawdor"
+      - "Shall sleep no more. Macbeth shall sleep no more.”"
+    m:
+      - "The voice kept crying, “Sleep no more!” to everyone in the house. “Macbeth has murdered sleep, and therefore Macbeth will sleep no more.”"
+
+  - sp: LADY MACBETH
+    o:
+      - "Who was it that thus cried? Why, worthy thane,"
+      - "You do unbend your noble strength to think"
+      - "So brainsickly of things. Go get some water,"
+      - "And wash this filthy witness from your hand."
+      - "Why did you bring these daggers from the place?"
+      - "They must lie there. Go carry them and smear"
+      - "The sleepy grooms with blood."
+    m:
+      - "Who said that? Why, my worthy lord, you let yourself become weak when you think about things in this cowardly way. Go get some water and wash this bloody evidence from your hands. Why did you carry these daggers out of the room? They have to stay there. Go take them back and smear the sleeping guards with the blood."
+
+  - sp: MACBETH
+    o:
+      - "    I’ll go no more:"
+      - "I am afraid to think what I have done;"
+      - "Look on ’t again I dare not."
+    m:
+      - "I can’t go back. I’m afraid even to think about what I’ve done. I can’t stand to look at it again."
+
+  - sp: LADY MACBETH
+    o:
+      - "    Infirm of purpose!"
+      - "Give me the daggers. The sleeping and the dead"
+      - "Are but as pictures. ’Tis the eye of childhood"
+      - "That fears a painted devil. If he do bleed,"
+      - "I’ll gild the faces of the grooms withal,"
+      - "For it must seem their guilt."
+    m:
+      - "Coward! Give me the daggers. Dead and sleeping people can’t hurt you any more than pictures can. Only children are afraid of scary pictures. If Duncan bleeds I’ll paint the servants’ faces with his blood. We must make it seem like they’re guilty."
+
+  - os: "Exit"
+    ms: "LADY MACBETH exits."
+
+  - os: "Knock within"
+    ms: "A sound of knocking from offstage."
+
+  - sp: MACBETH
+    o:
+      - "    Whence is that knocking?"
+      - "How is ’t with me when every noise appals me?"
+      - "What hands are here? Ha! They pluck out mine eyes."
+      - "Will all great Neptune’s ocean wash this blood"
+      - "Clean from my hand? No, this my hand will rather"
+      - "The multitudinous seas incarnadine,"
+      - "Making the green one red."
+    m:
+      - "Where is that knocking coming from? What’s happening to me, that I’m frightened of every noise? *(looking at his hands)* Whose hands are these? Ha! They’re plucking out my eyes. Will all the water in the ocean wash this blood from my hands? No, instead my hands will stain the seas scarlet, turning the green waters red."
+
+  - os: "Enter LADY MACBETH"
+    ms: "LADY MACBETH enters."
+
+  - sp: LADY MACBETH
+    o:
+      - "My hands are of your color, but I shame"
+      - "To wear a heart so white."
+    m:
+      - "My hands are as red as yours, but I would be ashamed if my heart were as pale and weak."
+
+  - os: "Knock within"
+    ms: "A sound of knocking from offstage."
+
+  - o:
+      - "    I hear a knocking"
+      - "At the south entry. Retire we to our chamber."
+      - "A little water clears us of this deed."
+      - "How easy is it, then! Your constancy"
+      - "Hath left you unattended."
+    m:
+      - "I hear someone knocking at the south entry. Let’s go back to our bedroom. A little water will wash away the evidence of our guilt. It’s so simple! You’ve lost your resolve."
+
+  - os: "Knock within"
+    ms: "A sound of knocking from offstage."
+
+  - o:
+      - "Hark! More knocking."
+      - "Get on your nightgown, lest occasion call us"
+      - "And show us to be watchers. Be not lost"
+      - "So poorly in your thoughts."
+    m:
+      - "Listen! There’s more knocking. Put on your nightgown, in case someone comes and sees that we’re awake. Snap out of your daze."
+
+  - sp: MACBETH
+    o:
+      - "To know my deed, ’twere best not know myself."
+    m:
+      - "Rather than have to think about my crime, I’d prefer to be completely unconscious."
+
+  - os: "Knock within"
+    ms: "A sound of knocking from offstage."
+
+  - o:
+      - "Wake Duncan with thy knocking. I would thou couldst."
+    m:
+      - "Wake Duncan with your knocking. I wish you could!"
+
+  - os: "Exeunt"
+    ms: "They exit."

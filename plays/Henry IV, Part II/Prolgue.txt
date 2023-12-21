@@ -1,0 +1,55 @@
+play: Henry IV, Part II
+title: Prologue
+group: 1
+order: 0
+text:
+  - os: "Enter RUMOR all painted with tongues"
+    ms: "RUMOR enters, wearing a costume covered with painted tongues."
+
+  - sp: RUMOR
+    o:
+      - "Open your ears, for which of you will stop"
+      - "The vent of hearing when loud Rumor speaks?"
+      - "I, from the orient to the drooping west,"
+      - "Making the wind my post-horse, still unfold"
+      - "The acts commenced on this ball of earth."
+      - "Upon my tongues continual slanders ride,"
+      - "The which in every language I pronounce,"
+      - "Stuffing the ears of men with false reports."
+      - "I speak of peace while covert enmity"
+      - "Under the smile of safety wounds the world."
+      - "And who but Rumor, who but only I,"
+      - "Make fearful musters and prepared defense,"
+      - "Whiles the big year, swoll’n with some other grief,"
+      - "Is thought with child by the stern tyrant war,"
+      - "And no such matter? Rumor is a pipe"
+      - "Blown by surmises, jealousies, conjectures,"
+      - "And of so easy and so plain a stop"
+      - "That the blunt monster with uncounted heads,"
+      - "The still-discordant wav’ring multitude,"
+      - "Can play upon it. But what need I thus"
+      - "My well-known body to anatomize"
+      - "Among my household? Why is Rumor here?"
+      - "I run before King Harry’s victory,"
+      - "Who in a bloody field by Shrewsbury"
+      - "Hath beaten down young Hotspur and his troops,"
+      - "Quenching the flame of bold rebellion"
+      - "Even with the rebels’ blood. But what mean I"
+      - "To speak so true at first? My office is"
+      - "To noise abroad that Harry Monmouth fell"
+      - "Under the wrath of noble Hotspur’s sword,"
+      - "And that the King before the Douglas’ rage"
+      - "Stooped his anointed head as low as death."
+      - "This have I rumored through the peasant towns"
+      - "Between that royal field of Shrewsbury"
+      - "And this worm-eaten hold of ragged stone,"
+      - "Where Hotspur’s father, old Northumberland,"
+      - "Lies crafty-sick. The posts come tiring on,"
+      - "And not a man of them brings other news"
+      - "Than they have learnt of me. From Rumor’s tongues"
+      - "They bring smooth comforts false, worse than true wrongs."
+    m:
+      - "Open your ears! For who could possibly block them when loud Rumor speaks? I make the wind my horse, and ride it from the Orient in the east to the place where the sun sets in the west, describing the events taking place in the world. I continually tell lies and I tell them in every language, stuffing men’s ears with falsehoods. I say that things are peaceful when, in reality, concealed hatred is at work, hidden behind smiles of good will. And who but Rumor—who besides me—can make armies prepare anxious defenses, when in fact the world is uneasy for other reasons and there’s no war coming at all? Rumor is like a flute. Guesswork, suspicion, and speculation are the breath that makes it sound, and it’s so easy to play that even the common masses—that dim monster with innumerable heads, forever clamoring and wavering—can play it. But why should I describe myself in such detail to the one group of people who knows exactly what falsehood is all about: a theater audience? Why am I here? King Henry has won the war, and at Shrewsbury, he ended the rebellion against him by defeating Hotspur and his allies, quenching the fire of revolt with the rebels’ own blood. But what am I doing, telling you the truth up front? My job is to spread word that Hotspur in his fury killed Prince Hal, and that Douglas killed the King. I’ve spread this rumor through all the peasant villages from Shrewsbury to the place where I now stand: in front of the worm-eaten, dilapidated castle of Northumberland, Hotspur’s father, who lies within and pretends to be sick. The messengers are coming hot and heavy, and every single one of them will report nothing but what he’s heard from me. Straight from Rumor, they bring pretty tales of false comfort, which are far worse than truthful news of misfortune."
+
+  - os: "Exit"
+    ms: "RUMOR exits."

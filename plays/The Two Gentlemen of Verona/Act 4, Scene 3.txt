@@ -1,0 +1,124 @@
+play: Two Gentlemen of Verona
+title: Act 4, Scene 3
+group: 4
+order: 14
+text:
+  - os: "Enter Sir EGLAMOUR."
+    ms: "Sir EGLAMOUR enters."
+
+  - sp: EGLAMOUR
+    o:
+      - "This is the hour that Madam Sylvia"
+      - "Entreated me to call and know her mind."
+      - "There’s some great matter she’d employ me in."
+      - "Madam, madam!"
+    m:
+      - "This is the time that Madame Sylvia asked me to come by so that she could tell me something. There’s an important matter she’d like my help with. Madame! Madame!"
+
+  - os: "Enter SYLVIA above, at her window."
+    ms: "SYLVIA enters above at her window."
+
+  - sp: SYLVIA
+    o:
+      - "Who calls?"
+    m:
+      - "Who’s there?"
+
+  - sp: EGLAMOUR
+    o:
+      - "Your servant and your friend;"
+      - "One that attends your ladyship’s command."
+    m:
+      - "Your servant and your friend—one that is here to obey your ladyship’s orders."
+
+  - sp: SYLVIA
+    o:
+      - "Sir Eglamour, a thousand times good morrow."
+    m:
+      - "Sir Eglamour, good morning a thousand times over."
+
+  - sp: EGLAMOUR
+    o:
+      - "As many, worthy lady, to yourself."
+      - "According to your ladyship’s impose,"
+      - "I am thus early come to know what service"
+      - "It is your pleasure to command me in."
+    m:
+      - "As many to you, my worthy lady. I’ve come as your ladyship asked and have arrived a little early to find out what you’d like me to do for you."
+
+  - sp: SYLVIA
+    o:
+      - "O Eglamour, thou art a gentleman—"
+      - "Think not I flatter, for I swear I do not—"
+      - "Valiant, wise, remorseful, well accomplished."
+      - "Thou art not ignorant what dear good will"
+      - "I bear unto the banished Valentine,"
+      - "Nor how my father would enforce me marry"
+      - "Vain Thurio, whom my very soul abhors."
+      - "Thyself hast loved, and I have heard thee say"
+      - "No grief did ever come so near thy heart"
+      - "As when thy lady and thy true love died,"
+      - "Upon whose grave thou vowedst pure chastity."
+      - "Sir Eglamour, I would to Valentine,"
+      - "To Mantua, where I hear he makes abode;"
+      - "And, for the ways are dangerous to pass,"
+      - "I do desire thy worthy company,"
+      - "Upon whose faith and honor I repose."
+      - "Urge not my father’s anger, Eglamour,"
+      - "But think upon my grief, a lady’s grief,"
+      - "And on the justice of my flying hence"
+      - "To keep me from a most unholy match,"
+      - "Which heaven and fortune still rewards with plagues."
+      - "I do desire thee, even from a heart"
+      - "As full of sorrows as the sea of sands,"
+      - "To bear me company and go with me;"
+      - "If not, to hide what I have said to thee,"
+      - "That I may venture to depart alone."
+    m:
+      - "Oh, Eglamour, you are a gentleman, valiant, wise, and very successful. Don’t think I’m trying to flatter you, because I swear I’m not. I’m sure you know how dearly I feel about the banished Valentine, and how my father wants to force me to marry that conceited Thurio, whom I hate down to my very soul. You’ve been in love before, and I’ve heard you say you’ve never experienced more grief than when your lady and true love died. You swore a vow of chastity on her grave. Sir Eglamour, I want to go to Valentine in Mantua, where I hear he is living. Because the journey there is a dangerous one, I’d like you to accompany me, as I trust in your faith and honor. Don’t use my father’s anger as an excuse, Eglamour, but think about my grief—a lady’s grief—and about why it’s fair that I run away to avoid this terrible marriage, the kind heaven always afflicts with problems. Even though my heart is as full of sorrow as the sea is full of sand, I want you to keep me company and go with me. If you don’t want to go, then please don’t reveal what I’ve said to you, so that I can leave without anyone knowing."
+
+  - sp: EGLAMOUR
+    o:
+      - "Madam, I pity much your grievances,"
+      - "Which, since I know they virtuously are placed,"
+      - "I give consent to go along with you,"
+      - "Recking as little what betideth me"
+      - "As much I wish all good befortune you."
+      - "When will you go?"
+    m:
+      - "Madame, I pity you for your grievances. Since I know they are legitimate, I agree to go along with you. I’m not concerned what may happen to me, and I wish you the best of luck. When will you go?"
+
+  - sp: SYLVIA
+    o:
+      - "This evening coming."
+    m:
+      - "This evening."
+
+  - sp: EGLAMOUR
+    o:
+      - "Where shall I meet you?"
+    m:
+      - "Where should I meet you?"
+
+  - sp: SYLVIA
+    o:
+      - "At Friar Patrick’s cell,"
+      - "Where I intend holy confession."
+    m:
+      - "At Friar Patrick’s chambers, where I intend to take holy confession."
+
+  - sp: EGLAMOUR
+    o:
+      - "I will not fail your ladyship."
+      - "Good morrow, gentle lady."
+    m:
+      - "I won’t fail you, your ladyship. Good day, gentle lady."
+
+  - sp: SYLVIA
+    o:
+      - "Good morrow, kind Sir Eglamour."
+    m:
+      - "Good day, kind Sir Eglamour."
+
+  - os: "Exeunt separately."
+    ms: "They exit separately."

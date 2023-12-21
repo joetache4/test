@@ -1,0 +1,182 @@
+play: Antony and Cleopatra
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter DEMETRIUS and PHILO"
+    ms: "DEMETRIUS and PHILO enter."
+
+  - sp: PHILO
+    o:
+      - "Nay, but this dotage of our general’s"
+      - "O’erflows the measure. Those his goodly eyes,"
+      - "That o’er the files and musters of the war"
+      - "Have glowed like plated Mars, now bend, now turn"
+      - "The office and devotion of their view"
+      - "Upon a tawny front. His captain’s heart,"
+      - "Which in the scuffles of great fights hath burst"
+      - "The buckles on his breast, reneges all temper"
+      - "And is become the bellows and the fan"
+      - "To cool a gypsy’s lust."
+    m:
+      - "No, our general’s infatuation is out of control. His eyes used to glow with pride when he reviewed his troops. Now his eyes devote themselves exclusively to a certain brown-skinned face. His heart used to burst the buckles on his breastplate in great fights, but now he’s lost all temperance and dedicates his heart to satisfying the lust of an Egyptian whore."
+
+  - os: "Flourish. Enter ANTONY, CLEOPATRA, her ladies, the train, with eunuchs fanning her"
+    ms: "A trumpet fanfare announces the entrance of ANTONY, CLEOPATRA, her ladies and attendants, and eunuchs with fans."
+
+  - o:
+      - "    Look where they come."
+      - "Take but good note, and you shall see in him"
+      - "The triple pillar of the world transformed"
+      - "Into a strumpet’s fool. Behold and see."
+    m:
+      - "Look at them. Take a good look, and you’ll see that one of the three men who rule the world has turned into a whore’s jester. Look and see."
+
+  - sp: CLEOPATRA
+    o:
+      - "If it be love indeed, tell me how much."
+    m:
+      - "If what you feel is really love, tell me how much."
+
+  - sp: ANTONY
+    o:
+      - "There’s beggary in the love that can be reckoned."
+    m:
+      - "It would be a pretty stingy love if it could be counted and calculated."
+
+  - sp: CLEOPATRA
+    o:
+      - "I’ll set a bourn how far to be beloved."
+    m:
+      - "I want to measure the extent of your love, to see how far it stretches."
+
+  - sp: ANTONY
+    o:
+      - "Then must thou needs find out new heaven, new earth."
+    m:
+      - "Then you would have to go beyond heaven, beyond earth."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "News, my good lord, from Rome."
+    m:
+      - "I have news from Rome, my good lord."
+
+  - sp: ANTONY
+    o:
+      - "Grates me, the sum."
+    m:
+      - "Which irritaties me. Give me a summary."
+
+  - sp: CLEOPATRA
+    o:
+      - "Nay, hear them, Antony."
+      - "Fulvia perchance is angry. Or who knows"
+      - "If the scarce-bearded Caesar have not sent"
+      - "His powerful mandate to you, “Do this, or this."
+      - "Take in that kingdom, and enfranchise that."
+      - "Perform ’t, or else we damn thee.”"
+    m:
+      - "No, listen to it, Antony. Perhaps Fulvia is angry with you. Who knows, maybe the baby-faced Caesar has orders for you: “Do this, do that; conquer that kingdom, liberate this one. Do it or we’ll condemn you.”"
+
+  - sp: ANTONY
+    o:
+      - "    How, my love?"
+    m:
+      - "What, my love?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Perchance? Nay, and most like."
+      - "You must not stay here longer. Your dismission"
+      - "Is come from Caesar. Therefore hear it, Antony."
+      - "Where’s Fulvia’s process? Caesar’s, I would say—both?"
+      - "Call in the messengers. As I am Egypt’s queen,"
+      - "Thou blushest, Antony, and that blood of thine"
+      - "Is Caesar’s homager. Else so thy cheek pays shame"
+      - "When shrill-tongued Fulvia scolds. The messengers!"
+    m:
+      - "Maybe? No, most likely. You can’t stay here any longer. Caesar has sent your dismissal, so pay attention, Antony. Where’s Fulvia’s summons—excuse me, I should have said Caesar’s. Or do Fulvia and Caesar both beckon you back to Rome? Call in the messengers and we’ll find out. As surely as I am the queen of Egypt, Antony, you’re blushing, which means you’re Caesar’s servant. Or that that bitch Fulvia still has the power to humiliate you. Call the messengers!"
+
+  - sp: ANTONY
+    o:
+      - "Let Rome in Tiber melt and the wide arch"
+      - "Of the ranged empire fall. Here is my space."
+      - "Kingdoms are clay. Our dungy earth alike"
+      - "Feeds beast as man. The nobleness of life"
+      - "Is to do thus, when such a mutual pair"
+      - "And such a twain can do ’t, in which I bind,"
+      - "On pain of punishment, the world to weet"
+      - "We stand up peerless."
+    m:
+      - "Let Rome be washed away in the Tiber and let the great empire fall. My place is here. Kingdoms are only dirt. The soil feeds animals as well as people, so how does having a kingdom separate humans from beasts? The noblest thing is to do what we’re doing, particularly when the couple is as well matched as we are. I demand that the world admit we are the perfect couple or else suffer the consequences."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Excellent falsehood!"
+      - "Why did he marry Fulvia, and not love her?"
+      - "I’ll seem the fool I am not. Antony"
+      - "Will be himself."
+    m:
+      - "*(to herself)* What an enormous lie! Why did he marry Fulvia if he didn’t love her? I’ll pretend to be a fool and believe him. He’ll never change."
+
+  - sp: ANTONY
+    o:
+      - "    But stirred by Cleopatra."
+      - "Now, for the love of Love and her soft hours,"
+      - "Let’s not confound the time with conference harsh."
+      - "There’s not a minute of our lives should stretch"
+      - "Without some pleasure now. What sport tonight?"
+    m:
+      - "*(overhearing the last sentence)* Unless he is moved and inspired by Cleopatra. Now, since we love the feeling of being in love, let’s not spoil the mood with serious discussion. We shouldn’t spend a minute without some kind of amusement. What shall we do tonight?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Hear the ambassadors."
+    m:
+      - "Meet with the ambassadors."
+
+  - sp: ANTONY
+    o:
+      - "    Fie, wrangling Queen!"
+      - "Whom every thing becomes—to chide, to laugh,"
+      - "To weep, whose every passion fully strives"
+      - "To make itself, in thee, fair and admired!"
+      - "No messenger but thine, and all alone"
+      - "Tonight we’ll wander through the streets and note"
+      - "The qualities of people. Come, my Queen,"
+      - "Last night you did desire it.—*(to the MESSENGER)* Speak not to us."
+    m:
+      - "Shame on you, stubborn Queen! Everything you do is attractive—scolding, laughing, crying—every emotion seems admirable when you express it. I won’t see any messengers but yours. Tonight we’ll wander through the streets and observe the people. Come, my Queen. That’s what you wanted to do last night. *(to the MESSENGER)* Don’t talk to us."
+
+  - os: "Exeunt ANTONY and CLEOPATRA with the train"
+    ms: "ANTONY and CLEOPATRA exit with their attendants."
+
+  - sp: DEMETRIUS
+    o:
+      - "Is Caesar with Antonius prized so slight?"
+    m:
+      - "Does Antony have so little respect for Caesar?"
+
+  - sp: PHILO
+    o:
+      - "Sir, sometimes when he is not Antony"
+      - "He comes too short of that great property"
+      - "Which still should go with Antony."
+    m:
+      - "Sir, sometimes he’s like a different person, a person who can’t measure up to the former Antony."
+
+  - sp: DEMETRIUS
+    o:
+      - "    I am full sorry"
+      - "That he approves the common liar, who"
+      - "Thus speaks of him at Rome, but I will hope"
+      - "Of better deeds tomorrow. Rest you happy!"
+    m:
+      - "I’m sad to say this confirms the stories being told about him in Rome, which I had taken to be lies. Well, I’ll hope things change for the better soon. Have a good night!"
+
+  - os: "Exeunt"
+    ms: "They exit."

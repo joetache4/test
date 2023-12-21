@@ -1,0 +1,120 @@
+play: The Merchant of Venice
+title: Act 2, Scene 8
+group: 2
+order: 10
+text:
+  - os: "Enter SALARINO and SOLANIO"
+    ms: "SALARINO and SOLANIO enter"
+
+  - sp: SALARINO
+    o:
+      - "Why, man, I saw Bassanio under sail."
+      - "With him is Gratiano gone along."
+      - "And in their ship I am sure Lorenzo is not."
+    m:
+      - "I saw Bassanio sail away, and Gratiano went with him. I’m sure Lorenzo isn’t on their ship."
+
+  - sp: SOLANIO
+    o:
+      - "The villain Jew with outcries raised the Duke,"
+      - "Who went with him to search Bassanio’s ship."
+    m:
+      - "That wicked Jew got the duke to listen to his complaints. The duke went with him to search Bassanio’s ship."
+
+  - sp: SALARINO
+    o:
+      - "He came too late. The ship was under sail."
+      - "But there the Duke was given to understand"
+      - "That in a gondola were seen together"
+      - "Lorenzo and his amorous Jessica."
+      - "Besides, Antonio certified the Duke"
+      - "They were not with Bassanio in his ship."
+    m:
+      - "He got there too late. The ship was already sailing. But once he got there, the duke learned that Lorenzo and his lover Jessica were together in a gondola. In any case, Antonio assured the duke they weren’t with Bassanio on his ship."
+
+  - sp: SOLANIO
+    o:
+      - "I never heard a passion so confused,"
+      - "So strange, outrageous, and so variable,"
+      - "As the dog Jew did utter in the streets."
+      - "“My daughter! O my ducats! O my daughter,"
+      - "Fled with a Christian! O my Christian ducats!"
+      - "Justice, the law, my ducats, and my daughter!"
+      - "A sealèd bag, two sealèd bags of ducats,"
+      - "Of double ducats, stol’n from me by my daughter!"
+      - "And jewels—two stones, two rich and precious stones—"
+      - "Stol’n by my daughter! Justice, find the girl!"
+      - "She hath the stones upon her, and the ducats.”"
+    m:
+      - "I’ve never heard such confused emotions as what that Jew dog was shouting in the streets. “My daughter, oh my ducats, oh my daughter! Ran off with a Christian! Oh my Christian ducats! Justice, the law, my ducats, and my daughter, a sealed bag, two sealed bags of ducats, of double ducats, stolen from me by my daughter, and jewels—two stones, two rich and precious stones—stolen by my daughter! Justice, find the girl! She has the stones on her, and the ducats.”"
+
+  - sp: SALARINO
+    o:
+      - "Why, all the boys in Venice follow him,"
+      - "Crying, “His stones, his daughter, and his ducats!”"
+    m:
+      - "I know, all the boys in Venice are following him, yelling, “His stones, his daughter, and his ducats!”"
+
+  - sp: SOLANIO
+    o:
+      - "Let good Antonio look he keep his day,"
+      - "Or he shall pay for this."
+    m:
+      - "I hope Antonio repays his loan on time, or he’ll suffer for this."
+
+  - sp: SALARINO
+    o:
+      - "    Marry, well remembered."
+      - "I reasoned with a Frenchman yesterday,"
+      - "Who told me, in the narrow seas that part"
+      - "The French and English, there miscarried"
+      - "A vessel of our country richly fraught."
+      - "I thought upon Antonio when he told me,"
+      - "And wished in silence that it were not his."
+    m:
+      - "That’s a good point. I spoke with a Frenchman yesterday who said that a Venetian ship loaded with treasure was wrecked in the English Channel. I thought about Antonio when he told me. I silently hoped it wasn’t his ship."
+
+  - sp: SOLANIO
+    o:
+      - "You were best to tell Antonio what you hear—"
+      - "Yet do not suddenly, for it may grieve him."
+    m:
+      - "You should tell Antonio what you hear—but don’t do it suddenly, because it might upset him."
+
+  - sp: SALARINO
+    o:
+      - "A kinder gentleman treads not the earth."
+      - "I saw Bassanio and Antonio part."
+      - "Bassanio told him he would make some speed"
+      - "Of his return. He answered, “Do not so."
+      - "Slubber not business for my sake, Bassanio"
+      - "But stay the very riping of the time."
+      - "And for the Jew’s bond which he hath of me,"
+      - "Let it not enter in your mind of love."
+      - "Be merry, and employ your chiefest thoughts"
+      - "To courtship and such fair ostents of love"
+      - "As shall conveniently become you there.”"
+      - "And even there, his eye being big with tears,"
+      - "Turning his face, he put his hand behind him,"
+      - "And with affection wondrous sensible"
+      - "He wrung Bassanio’s hand. And so they parted."
+    m:
+      - "There’s no nicer guy in the whole world. I saw Bassanio and Antonio say goodbye. Bassanio told him he’d try to hurry back. Antonio answered “Don’t rush. Don’t do a sloppy job for my sake, Bassanio. Stay until everything is finished. As for the Jew’s contract, don’t let it be a factor in your plans. Be happy and concentrate your thoughts on love and how to win your love.” Then his eyes started tearing up. He turned his face away. Then he shook Bassanio’s hand affectionately—and they separated."
+
+  - sp: SOLANIO
+    o:
+      - "I think he only loves the world for him."
+      - "I pray thee, let us go and find him out"
+      - "And quicken his embracèd heaviness"
+      - "With some delight or other."
+    m:
+      - "I think he only loves life because of Bassanio. Let’s go find him and cheer him up."
+
+  - sp: SALARINO
+    o:
+      - "    Do we so."
+    m:
+      - "Yes, let’s do that."
+
+  - os: "Exeunt"
+    ms: "They exit."

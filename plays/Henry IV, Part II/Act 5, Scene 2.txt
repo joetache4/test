@@ -1,0 +1,312 @@
+play: Henry IV, Part II
+title: Act 5, Scene 2
+group: 5
+order: 14
+text:
+  - os: "Enter WARWICK and the Lord CHIEF JUSTICE"
+    ms: "WARWICK and the Lord CHIEF JUSTICE enter."
+
+  - sp: WARWICK
+    o:
+      - "How now, my Lord Chief Justice, whither away?"
+    m:
+      - "What’s happening, my Lord Chief Justice? Where are you going?"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "How doth the King?"
+    m:
+      - "How’s the King doing?"
+
+  - sp: WARWICK
+    o:
+      - "Exceeding well. His cares are now all ended."
+    m:
+      - "Very well. All his worries are ended now."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "I hope, not dead."
+    m:
+      - "Not dead, I hope."
+
+  - sp: WARWICK
+    o:
+      - "  He’s walked the way of nature,"
+      - "And to our purposes he lives no more."
+    m:
+      - "He’s gone down nature’s path; for our purposes, he is no longer living."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "I would his Majesty had called me with him."
+      - "The service that I truly did his life"
+      - "Hath left me open to all injuries."
+    m:
+      - "I wish his majesty had brought me with him. The work I did for him while he was alive makes me very vulnerable, now that he’s dead."
+
+  - sp: WARWICK
+    o:
+      - "Indeed, I think the young King loves you not."
+    m:
+      - "Indeed, I think the young King has no love for you."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "I know he doth not, and do arm myself"
+      - "To welcome the condition of the time,"
+      - "Which cannot look more hideously upon me"
+      - "Than I have drawn it in my fantasy."
+    m:
+      - "I know he doesn’t. I’m preparing myself to deal with whatever happens, which can’t be any worse than what I’ve imagined."
+
+  - os: "Enter LANCASTER, CLARENCE, GLOUCESTER, and others"
+    ms: "LANCASTER, CLARENCE, GLOUCESTER, and others enter."
+
+  - sp: WARWICK
+    o:
+      - "Here come the heavy issue of dead Harry."
+      - "O, that the living Harry had the temper"
+      - "Of he the worst of these three gentlemen!"
+      - "How many nobles then should hold their places"
+      - "That must strike sail to spirits of vile sort!"
+    m:
+      - "Here come the heavy-hearted children of dead Harry. If only the living Harry had the character of the worst of these three young men. Then a lot of noblemen would remain secure, instead of having to step aside to make room for lowlifes."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "O God, I fear all will be overturned."
+    m:
+      - "Oh God! I’m afraid everything will be turned upside-down."
+
+  - sp: LANCASTER
+    o:
+      - "Good morrow, cousin Warwick, good morrow."
+    m:
+      - "Good morning, cousin Warwick, good morning."
+
+  - sp: GLOUCESTER AND CLARENCE
+    o:
+      - "Good morrow, cousin."
+    m:
+      - "Good morning, cousin."
+
+  - sp: LANCASTER
+    o:
+      - "We meet like men that had forgot to speak."
+    m:
+      - "We’re all like men who don’t remember how to speak."
+
+  - sp: WARWICK
+    o:
+      - "We do remember, but our argument"
+      - "Is all too heavy to admit much talk."
+    m:
+      - "We remember how, but what we have to say is so sad that we cannot speak."
+
+  - sp: LANCASTER
+    o:
+      - "Well, peace be with him that hath made us heavy."
+    m:
+      - "Well, peace be with the man who has made us sad."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Peace be with us, lest we be heavier."
+    m:
+      - "Peace be with us, or else we’ll be even sadder!"
+
+  - sp: GLOUCESTER
+    o:
+      - "O, good my lord, you have lost a friend indeed,"
+      - "And I dare swear you borrow not that face"
+      - "Of seeming sorrow; it is sure your own."
+    m:
+      - "Oh, my good lord, you’ve lost a friend, indeed. I’m sure you’re not borrowing that sorrowful face; it’s certainly your own."
+
+  - sp: LANCASTER
+    o:
+      - "Though no man be assured what grace to find,"
+      - "You stand in coldest expectation."
+      - "I am the sorrier; would ’twere otherwise."
+    m:
+      - "Even though no man can know what blessings will come his way, he must expect the worst. I am sorry; I wish it were otherwise."
+
+  - sp: CLARENCE
+    o:
+      - "Well, you must now speak Sir John Falstaff fair,"
+      - "Which swims against your stream of quality."
+    m:
+      - "Well, now you are only allowed to speak well of Sir John Falstaff, which goes against the nature of a man of your quality."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Sweet princes, what I did I did in honor,"
+      - "Led by th’ impartial conduct of my soul;"
+      - "And never shall you see that I will beg"
+      - "A ragged and forestalled remission."
+      - "If truth and upright innocency fail me,"
+      - "I’ll to the King my master that is dead"
+      - "And tell him who hath sent me after him."
+    m:
+      - "Sweet princes, what I did, I did honorably, impartially, and with a clear conscience. You won’t see me begging vilely for a pardon, which is sure to be withdrawn as soon as it is given. If truth and honest innocence don’t help me, then I’ll join my dead King and tell him who sent me."
+
+  - sp: WARWICK
+    o:
+      - "Here comes the Prince."
+    m:
+      - "Here comes the Prince."
+
+  - os: "Enter PRINCE HENRY (now King Henry V), attended"
+    ms: "PRINCE HENRY (now King Henry V) enters, with attendants."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Good morrow, and God save your Majesty."
+    m:
+      - "Good morning, and God save your majesty!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "This new and gorgeous garment majesty"
+      - "Sits not so easy on me as you think.—"
+      - "Brothers, you mix your sadness with some fear."
+      - "This is the English, not the Turkish court;"
+      - "Not Amurath an Amurath succeeds,"
+      - "But Harry Harry. Yet be sad, good brothers,"
+      - "For, by my faith, it very well becomes you."
+      - "Sorrow so royally in you appears"
+      - "That I will deeply put the fashion on"
+      - "And wear it in my heart. Why then, be sad."
+      - "But entertain no more of it, good brothers,"
+      - "Than a joint burden laid upon us all."
+      - "For me, by heaven, I bid you be assured,"
+      - "I’ll be your father and your brother too."
+      - "Let me but bear your love, I ’ll bear your cares."
+      - "Yet weep that Harry’s dead, and so will I,"
+      - "But Harry lives that shall convert those tears"
+      - "By number into hours of happiness."
+    m:
+      - "This new and gorgeous robe of majesty doesn’t fit me as comfortably as you think. Brothers, your sadness is mixed with fear. This is the English court, not the Turkish one. I’m not Amurath, who had his brothers killed when he inherited his father King Amurath’s crown; I’m a Harry, following another Harry. But be sad, brothers, because truly, it suits you. You look so regal in your sorrow that I will solemnly put it on as well, and wear it in my heart. Be sad, but don’t let it be anything more than a burden we all share jointly. I want you to rest assured that as far as I’m concerned, I’ll be both your father and your brother now. Just trust me with your love, and you can trust me to care for you. Keep weeping for Harry, who is dead; I will, as well. But one Harry still lives, and he will convert those tears one by one into hours of happiness."
+
+  - sp: PRINCES
+    o:
+      - "We hope no otherwise from your Majesty."
+    m:
+      - "We hope that’s exactly what you’ll do."
+
+  - sp: PRINCE HENRY
+    o:
+      - "You all look strangely on me. *(to the CHIEF JUSTICE)* And you"
+      - "  most."
+      - "You are, I think, assured I love you not."
+    m:
+      - "You’re all looking at me strangely. *(to the CHIEF JUSTICE)* You, most of all. I think you’re certain that I don’t love you."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "I am assured, if I be measured rightly,"
+      - "Your Majesty hath no just cause to hate me."
+    m:
+      - "I’m certain that, if my actions are fairly considered, your majesty will find no just reason to hate me."
+
+  - sp: PRINCE HENRY
+    o:
+      - "No?"
+      - "How might a prince of my great hopes forget"
+      - "So great indignities you laid upon me?"
+      - "What, rate, rebuke, and roughly send to prison"
+      - "Th’ immediate heir of England? Was this easy?"
+      - "May this be washed in Lethe and forgotten?"
+    m:
+      - "No? How can a great prince like me forget the terrible wrongs you did me? What were you thinking, to scold, punish, and violently imprison the heir to the English throne? Was this nothing? Should this be dipped in the river of forgetfulness and simply ignored?"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "I then did use the person of your father;"
+      - "The image of his power lay then in me."
+      - "And in th’ administration of his law,"
+      - "Whiles I was busy for the commonwealth,"
+      - "Your Highness pleasèd to forget my place,"
+      - "The majesty and power of law and justice,"
+      - "The image of the King whom I presented,"
+      - "And struck me in my very seat of judgment,"
+      - "Whereon, as an offender to your father,"
+      - "I gave bold way to my authority"
+      - "And did commit you. If the deed were ill,"
+      - "Be you contented, wearing now the garland,"
+      - "To have a son set your decrees at nought?"
+      - "To pluck down justice from your awful bench?"
+      - "To trip the course of law and blunt the sword"
+      - "That guards the peace and safety of your person?"
+      - "Nay more, to spurn at your most royal image"
+      - "And mock your workings in a second body?"
+      - "Question your royal thoughts, make the case yours;"
+      - "Be now the father and propose a son,"
+      - "Hear your own dignity so much profaned,"
+      - "See your most dreadful laws so loosely slighted,"
+      - "Behold yourself so by a son disdained,"
+      - "And then imagine me taking your part"
+      - "And in your power soft silencing your son."
+      - "After this cold considerance, sentence me,"
+      - "And, as you are a king, speak in your state"
+      - "What I have done that misbecame my place,"
+      - "My person, or my liege’s sovereignty."
+    m:
+      - "I acted with the authority of your father, whose power was vested in me. And when it came to the law—which I was busy enforcing, for the good of the country—you chose to ignore my rank, and the majesty and power of law and justice which I bore as a representative of the King. You struck me in the head, the very location of my judgment. With that action, you committed a crime against your father’s own laws. So I did what my power demanded, and imprisoned you. If that was wrong, then—now that you wear the crown—I hope you’ll someday be satisfied with a son who mocks your laws, who scorns the judges who rule in your authority, who disrupts the course of law, and blunts the swords that guard your personal peace and safety. No, even worse than that: a son who disrespects your deputies, and the officers you appoint in your name. Question yourself, and imagine being in your father’s position. Be a father, and imagine a son. Listen to your own dignity being profaned. Watch as your most solemn laws are laughed at so lightly. Behold yourself being so disdained by a son. And then imagine that I take your side, and that in your name I gently silence your son. Soberly consider this, and then pronounce my sentence. As king, tell me what I have done that was so unseemly for my station, myself, or my king’s authority."
+
+  - sp: PRINCE HENRY
+    o:
+      - "You are right, justice, and you weigh this well."
+      - "Therefore still bear the balance and the sword."
+      - "And I do wish your honors may increase"
+      - "Till you do live to see a son of mine"
+      - "Offend you and obey you as I did."
+      - "So shall I live to speak my father’s words:"
+      - "“Happy am I that have a man so bold"
+      - "That dares do justice on my proper son;"
+      - "And not less happy, having such a son"
+      - "That would deliver up his greatness so"
+      - "Into the hands of justice.” You did commit me,"
+      - "For which I do commit into your hand"
+      - "Th’ unstainèd sword that you have used to bear,"
+      - "With this remembrance: that you use the same"
+      - "With the like bold, just, and impartial spirit"
+      - "As you have done ’gainst me. There is my hand."
+      - "You shall be as a father to my youth,"
+      - "My voice shall sound as you do prompt mine ear,"
+      - "And I will stoop and humble my intents"
+      - "To your well-practiced wise directions.—"
+      - "And, princes all, believe me, I beseech you:"
+      - "My father is gone wild into his grave,"
+      - "For in his tomb lie my affections,"
+      - "And with his spirit sadly I survive"
+      - "To mock the expectation of the world,"
+      - "To frustrate prophecies, and to raze out"
+      - "Rotten opinion, who hath writ me down"
+      - "After my seeming. The tide of blood in me"
+      - "Hath proudly flowed in vanity till now."
+      - "Now doth it turn and ebb back to the sea,"
+      - "Where it shall mingle with the state of floods"
+      - "And flow henceforth in formal majesty."
+      - "Now call we our high court of parliament,"
+    m:
+      - "You’re right, Chief Justice, and you have considered this well. Therefore, keep your position as judge and enforcer. I hope that your honors increase, and that you live to see a son of mine offend and then obey you, as I have. I will live to speak my father’s words: “I am a happy man, to have a man brave enough to punish my own son; and I’m no less happy to have a son that would surrender his greatness, and put himself in the hands of the law.” You imprisoned me, and for that I charge you to continue in my service, with this reminder: you must always be as courageous, just, and impartial as you were with me. Shake my hand. You’ll be like a father to me, and I will say whatever it is you whisper in my ear. I will bow to you, and keep myself humble in the face of your wisdom and experience. And princes, believe me, please: my father lies wild in his grave, for he took my recklessness with him when he died. His sober spirit survives in me, and I will flout the world’s expectations. I will prove their prophecies false, and flush out the rotten opinions of those who judged me based on what I once seemed to be. My behavior, the tide of my blood, used to flow proudly and vainly. But now, it ebbs and turns back toward the sea, where it will mingle with the ocean’s majesty and flow back through my body with formal dignity. Now I will assemble my parliament, and choose such noble officers and advisors that our great country will be able to march alongside the best governed nations. We’ll become acquainted and familiar"
+
+  - o:
+      - "And let us choose such limbs of noble counsel"
+      - "That the great body of our state may go"
+      - "In equal rank with the best governed nation;"
+      - "That war, or peace, or both at once, may be"
+      - "As things acquainted and familiar to us,"
+      - "In which you, father, shall have foremost hand."
+      - "Our coronation done, we will accite,"
+      - "As I before remembered, all our state."
+      - "And, God consigning to my good intents,"
+      - "No prince nor peer shall have just cause to say"
+      - "God shorten Harry’s happy life one day."
+    m:
+      - "with the states of war, peace, or both at once; in this, Chief Justice, my new father, you will be my closest advisor. Once my coronation has been completed, I will, as I said before, summon all the nobility. And if God endorses my good intentions, no prince or lord will have reason to say that he wishes God would shorten my happy life by even a single day."
+
+  - os: "Exeunt"
+    ms: "They exit."

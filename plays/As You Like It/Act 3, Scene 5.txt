@@ -1,0 +1,283 @@
+play: As You Like It
+title: Act 3, Scene 5
+group: 3
+order: 14
+text:
+  - os: "Enter SILVIUS and PHOEBE"
+    ms: "SILVIUS and PHOEBE enter."
+
+  - sp: SILVIUS
+    o:
+      - "Sweet Phoebe, do not scorn me. Do not, Phoebe."
+      - "Say that you love me not, but say not so"
+      - "In bitterness. The common executioner,"
+      - "Whose heart th’ accustomed sight of death makes hard,"
+      - "Falls not the axe upon the humbled neck"
+      - "But first begs pardon. Will you sterner be"
+      - "Than he that dies and lives by bloody drops?"
+    m:
+      - "Sweet Phoebe, do not scorn me. Do not, Phoebe. Go ahead and say you don’t love me, but not so bitterly. The executioner, who’s seen death so much his heart has grown hard, still says, “forgive me” before he drops the axe on the criminal’s neck. Are you going to be crueler than the man who makes his living by killing?"
+
+  - os: "Enter ROSALIND, CELIA, and CORIN, behind"
+    ms: "ROSALIND, CELIA, and CORIN enter at the back of the stage, unseen."
+
+  - sp: PHOEBE
+    o:
+      - "I would not be thy executioner."
+      - "I fly thee, for I would not injure thee."
+      - "Thou tell’st me there is murder in mine eye."
+      - "’Tis pretty, sure, and very probable"
+      - "That eyes, that are the frail’st and softest things,"
+      - "Who shut their coward gates on atomies,"
+      - "Should be called tyrants, butchers, murderers."
+      - "Now I do frown on thee with all my heart,"
+      - "And if mine eyes can wound, now let them kill thee."
+      - "Now counterfeit to swoon, why, now fall down;"
+      - "Or if thou canst not, Oh, for shame, for shame,"
+      - "Lie not, to say mine eyes are murderers."
+      - "Now show the wound mine eye hath made in thee."
+      - "Scratch thee but with a pin, and there remains"
+      - "Some scar of it. Lean upon a rush,"
+      - "The cicatrice and capable impressure"
+      - "Thy palm some moment keeps. But now mine eyes,"
+      - "Which I have darted at thee, hurt thee not."
+      - "Nor, I am sure, there is no force in eyes"
+      - "That can do hurt."
+    m:
+      - "I don’t want to be your executioner: I’m trying to avoid you so that I won’t hurt you. You tell me my eyes are murderous—that’s a very pretty sentiment, and oh-so-probable, that my frail, soft eyes (which are so cowardly that they close their gates against dust) are tyrants, butchers, and murderers. I’m frowning at you with all my might right now. If my eyes can injure, let them kill you now. Go ahead. Faint, fall down—if you don’t, then you’re lying about my eyes being murderers. Come on, show me the wound that my eyes have caused. If you get scratched with a pin, it leaves a scar; even if you lean on a rush, it leaves an impression on your palm. But my eyes, which I’ve darted at you, haven’t even left a mark. Now I am sure that eyes can’t hurt a person."
+
+  - sp: SILVIUS
+    o:
+      - "O dear Phoebe,"
+      - "If ever—as that ever may be near—"
+      - "You meet in some fresh cheek the power of fancy,"
+      - "Then shall you know the wounds invisible"
+      - "That love’s keen arrows make."
+    m:
+      - "Oh, darling Phoebe, if you ever fall in love with some fresh face, then you’ll know about the invisible wounds that love’s sharp arrows can make."
+
+  - sp: PHOEBE
+    o:
+      - "But till that time"
+      - "Come not thou near me. And when that time comes,"
+      - "Afflict me with thy mocks, pity me not,"
+      - "As till that time I shall not pity thee."
+    m:
+      - "Well, until that time, don’t come near me. And when that time comes, then you can mock me, but please don’t pity me, because I won’t pity you."
+
+  - sp: ROSALIND
+    o:
+      - "*(advancing, as Ganymede)* And why, I pray you? Who might be your mother,"
+      - "That you insult, exult, and all at once,"
+      - "Over the wretched? What though you have no beauty—"
+      - "As, by my faith, I see no more in you"
+      - "Than without candle may go dark to bed—"
+      - "Must you be therefore proud and pitiless?"
+      - "Why, what means this? Why do you look on me?"
+      - "I see no more in you than in the ordinary"
+      - "Of nature’s sale-work.—’Od’s my little life,"
+      - "I think she means to tangle my eyes, too."
+      - "—No, faith, proud mistress, hope not after it."
+      - "’Tis not your inky brows, your black silk hair,"
+      - "Your bugle eyeballs, nor your cheek of cream"
+      - "That can entame my spirits to your worship."
+      - "—You foolish shepherd, wherefore do you follow her,"
+      - "Like foggy south puffing with wind and rain?"
+      - "You are a thousand times a properer man"
+      - "Than she a woman. ’Tis such fools as you"
+      - "That makes the world full of ill-favored children."
+      - "’Tis not her glass but you that flatters her,"
+      - "And out of you she sees herself more proper"
+      - "Than any of her lineaments can show her."
+      - "—But, mistress, know yourself. Down on your knees"
+      - "And thank heaven, fasting, for a good man’s love,"
+      - "For I must tell you friendly in your ear,"
+      - "Sell when you can; you are not for all markets."
+      - "Cry the man mercy, love him, take his offer."
+      - "Foul is most foul, being foul to be a scoffer."
+      - "—So take her to thee, shepherd. Fare you well."
+      - "—But, mistress, know yourself. Down on your knees"
+      - "And thank heaven, fasting, for a good man’s love,"
+      - "For I must tell you friendly in your ear,"
+      - "Sell when you can; you are not for all markets."
+      - "Cry the man mercy, love him, take his offer."
+      - "Foul is most foul, being foul to be a scoffer."
+      - "—So take her to thee, shepherd. Fare you well."
+    m:
+      - "*(coming forward, speaking as Ganymede)* And why, please tell me? Is your mother a goddess that you would insult a wretched man, and exult over the injury you’ve caused him, all at the same time? You’re not beautiful—really, you’re not so pretty that you could go to bed with the lights on—so why must you act so proud and pitiless? Wait a minute, what’s going on? Why are you looking at me like that? I don’t see anything in you but nature’s usual handiwork.—Oh, for God’s sake, I think she also wants me to fall in love with her. No, proud woman, don’t hope for that. Not even your black eyebrows, your silky black hair, your beady black eyeballs, or your yellowish-white complexion can make me worship you. You foolish shepherd: why are you following her, raining tears and puffing hot air like a foggy south wind? You are a thousand times better than she. It’s fools like you who, marrying badly, fill the world with ugly children. It’s not her mirror but you who insists she’s beautiful. The image of herself that she gets from you is better than her actual features. But mistress, know yourself. Get down on your knees and thank heaven for sending you such a good man. I’m telling you, as a friend, that you should sell while the market’s good—you’re not going to have many more buyers. Ask this man’s forgiveness, love him, and accept his offer. You’re already ugly, don’t make matters worse by being scornful, too. So take her, shepherd, and God bless you."
+
+  - sp: PHOEBE
+    o:
+      - "Sweet youth, I pray you chide a year together."
+      - "I had rather hear you chide than this man woo."
+    m:
+      - "Sweet boy, I’d rather hear you scold me for a whole year than this man woo me for a minute."
+
+  - sp: ROSALIND
+    o:
+      - "He’s fall’n in love with your foulness. *(to SILVIUS)* And she’ll fall in love with my anger. If it be so, as fast as she answers thee with frowning looks, I’ll sauce her with bitter words. *(to PHOEBE)* Why look you so upon me?"
+    m:
+      - "He’s fallen in love with your sheer ugliness. *(to SILVIUS)* And I think she’s falling in love with my anger. If I’m right, as soon as she answers you with frowns, I’ll rebuke her with bitter words. *(to PHOEBE)* Why are you looking at me like that?"
+
+  - sp: PHOEBE
+    o:
+      - "For no ill will I bear you."
+    m:
+      - "I don’t wish you any harm."
+
+  - sp: ROSALIND
+    o:
+      - "I pray you, do not fall in love with me,"
+      - "For I am falser than vows made in wine."
+      - "Besides, I like you not. If you will know my house,"
+      - "’Tis at the tuft of olives, here hard by."
+      - "—Will you go, sister?—Shepherd, ply her hard."
+      - "—Come, sister.—Shepherdess, look on him better,"
+      - "And be not proud. Though all the world could see,"
+      - "None could be so abused in sight as he."
+      - "—Come, to our flock."
+    m:
+      - "I’m telling you, don’t fall in love with me. I’m more false than the promises a man makes while drunk. Besides, I don’t like you. If you’d like to know where I live, my house is in the olive grove close by. —Come on, sister. —Shepherd, keep working on her. —Come on, sister. —Shepherdess, give him another chance. And don’t be proud. The whole world could look at you, and no one would be as blind as he is, thinking you’re beautiful. —Come on, to our sheep."
+
+  - os: "Exeunt ROSALIND, CELIA and CORIN"
+    ms: "ROSALIND, CELIA, and CORIN exit."
+
+  - sp: PHOEBE
+    o:
+      - "Dead shepherd, now I find thy saw of might:"
+      - "“Who ever loved that loved not at first sight?”"
+    m:
+      - "Dead shepherd, now I understand what you meant when you said, “You’ve never loved until you’ve fallen in love at first sight.”"
+
+  - sp: SILVIUS
+    o:
+      - "Sweet Phoebe—"
+    m:
+      - "Sweet Phoebe—"
+
+  - sp: PHOEBE
+    o:
+      - "Ha, what sayst thou, Silvius?"
+    m:
+      - "What? Did you say something, Silvius?"
+
+  - sp: SILVIUS
+    o:
+      - "Sweet Phoebe, pity me."
+    m:
+      - "Sweet Phoebe, have pity on me."
+
+  - sp: PHOEBE
+    o:
+      - "Why, I am sorry for thee, gentle Silvius."
+    m:
+      - "Well, I’m sorry for you, gentle Silvius."
+
+  - sp: SILVIUS
+    o:
+      - "Wherever sorrow is, relief would be."
+      - "If you do sorrow at my grief in love,"
+      - "By giving love your sorrow and my grief"
+      - "Were both extermined."
+    m:
+      - "But if you’re really sorry for me, you can cure me. If you’re sorry for the grief I feel in loving you, you can love me back. Then both my grief and your sorrow will be cured."
+
+  - sp: PHOEBE
+    o:
+      - "Thou hast my love. Is not that neighborly?"
+    m:
+      - "You have my friendship. Isn’t that enough?"
+
+  - sp: SILVIUS
+    o:
+      - "I would have you."
+    m:
+      - "I want you."
+
+  - sp: PHOEBE
+    o:
+      - "Why, that were covetousness."
+      - "Silvius, the time was that I hated thee,"
+      - "And yet it is not that I bear thee love,"
+      - "But since that thou canst talk of love so well,"
+      - "Thy company, which erst was irksome to me,"
+      - "I will endure, and I’ll employ thee too."
+      - "But do not look for further recompense"
+      - "Than thine own gladness that thou art employed."
+    m:
+      - "Well, that’s just greedy. Silvius, I used to hate you. I still don’t love you, but since you’re well-spoken when it comes to love, I’ll keep you around and make use of you. But don’t expect any more than that."
+
+  - sp: SILVIUS
+    o:
+      - "So holy and so perfect is my love,"
+      - "And I in such a poverty of grace,"
+      - "That I shall think it a most plenteous crop"
+      - "To glean the broken ears after the man"
+      - "That the main harvest reaps. Loose now and then"
+      - "A scattered smile, and that I’ll live upon."
+    m:
+      - "My love for you is so pure and perfect, and I’m in such a bad way, that I’ll be grateful for whatever leftover love you throw my way. Every once in a while, toss me a distracted smile, and I’ll live on that."
+
+  - sp: PHOEBE
+    o:
+      - "Know’st thou the youth that spoke to me erewhile?"
+    m:
+      - "Do you know the boy who was just speaking to me?"
+
+  - sp: SILVIUS
+    o:
+      - "Not very well, but I have met him oft,"
+      - "And he hath bought the cottage and the bounds"
+      - "That the old carlot once was master of."
+    m:
+      - "Not very well, but I’ve met him several times. He’s bought the cottage and the grounds that the old peasant used to own."
+
+  - sp: PHOEBE
+    o:
+      - "Think not I love him, though I ask for him."
+      - "’Tis but a peevish boy—yet he talks well—"
+      - "But what care I for words? Yet words do well"
+      - "When he that speaks them pleases those that hear."
+      - "It is a pretty youth—not very pretty—"
+      - "But sure he’s proud—and yet his pride becomes him."
+      - "He’ll make a proper man. The best thing in him"
+      - "Is his complexion; and faster than his tongue"
+      - "Did make offense, his eye did heal it up."
+      - "He is not very tall—yet for his years he’s tall."
+      - "His leg is but so-so—and yet ’tis well."
+      - "There was a pretty redness in his lip,"
+      - "A little riper and more lusty red"
+      - "Than that mixed in his cheek: ’twas just the difference"
+      - "Betwixt the constant red and mingled damask."
+      - "There be some women, Silvius, had they marked him"
+      - "In parcels as I did, would have gone near"
+      - "To fall in love with him; but for my part"
+      - "I love him not nor hate him not; and yet"
+      - "I have more cause to hate him than to love him."
+      - "For what had he to do to chide at me?"
+      - "He said mine eyes were black and my hair black"
+      - "And, now I am remembered, scorned at me."
+      - "I marvel why I answered not again."
+      - "But that’s all one: omittance is no quittance."
+      - "I’ll write to him a very taunting letter,"
+      - "And thou shalt bear it. Wilt thou, Silvius?"
+    m:
+      - "Don’t think I’m in love with him just because I’m asking about him. He’s an irritable boy, though he speaks well. But what do I care about words? And yet, words are a good thing when the man speaking them is pleasant to listen to. He’s good-looking, but not too good-looking. He’s awfully proud, but his pride suits him. He’ll grow up to be a proper man. The best thing about him is his complexion: as fast as he offends me with words, his pretty face heals the wound. He’s not very tall, but he’s tall enough for his age. His legs aren’t great, but they’re alright. His lips were nice and red, a little more lively and passionate than the red that was in his cheeks—one was pure red and the other more pink. There are women out there, Silvius, who would have nearly fallen in love with him after inspecting him as closely as I have. But I don’t love him or hate him—though I suppose I have more reason to hate him than love him. What right did he have to scold me like that? He said my eyes and my hair were black and, now that I think of it, he scorned me. I’m surprised I didn’t bite back. But no matter—I’ll get back at him soon enough. I’ll write him a taunting letter, and you can deliver it. Will you do that for me, Silvius?"
+
+  - sp: SILVIUS
+    o:
+      - "Phoebe, with all my heart."
+    m:
+      - "With all my heart, Phoebe."
+
+  - sp: PHOEBE
+    o:
+      - "I’ll write it straight."
+      - "The matter’s in my head and in my heart."
+      - "I will be bitter with him and passing short."
+      - "Go with me, Silvius."
+    m:
+      - "I’ll write it right now—the whole thing is pressing on my mind, and on my heart. I’ll be bitter toward him, and curt. Come with me, Silvius."
+
+  - os: "Exeunt"
+    ms: "They exit."

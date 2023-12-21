@@ -1,0 +1,822 @@
+play: Hamlet
+title: Act 5, Scene 1
+group: 5
+order: 18
+text:
+  - os: "Enter a GRAVEDIGGER and the OTHER gravedigger"
+    ms: "A GRAVEDIGGER and the OTHER gravedigger enter."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Is she to be buried in Christian burial when she willfully seeks her own salvation?"
+    m:
+      - "Are they really going to give her a Christian burial after she killed herself?"
+
+  - sp: OTHER
+    o:
+      - "I tell thee she is. Therefore make her grave straight. The crowner hath sat on her and finds it Christian burial."
+    m:
+      - "I’m telling you, yes. So finish that grave right away. The coroner examined her case and says it should be a Christian funeral."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "How can that be, unless she drowned herself in her own defense?"
+    m:
+      - "But how, unless she drowned in self-defense?"
+
+  - sp: OTHER
+    o:
+      - "Why, ’tis found so."
+    m:
+      - "That’s what they’re saying she did."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "It must be *se offendendo*. It cannot be else. For here lies the point: if I drown myself wittingly, it argues an act. And an act hath three branches—it is to act, to do, to perform. Argal, she drowned herself wittingly."
+    m:
+      - "Sounds more like “self-offense,” if you ask me. What I’m saying is, if she knew she was drowning herself, then that’s an act. An act has three sides to it: to do, to act, and to perform. Therefore she must have known she was drowning herself."
+
+  - sp: OTHER
+    o:
+      - "Nay, but hear you, Goodman Delver—"
+    m:
+      - "No, listen here, gravedigger sir—"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Give me leave. Here lies the water. Good. Here stands the man. Good. If the man go to this water and drown himself, it is, will he nill he, he goes. Mark you that. But if the water come to him and drown him, he drowns not himself. Argal, he that is not guilty of his own death shortens not his own life."
+    m:
+      - "Let me finish. Here’s the water, right? And here’s a man, okay? If the man goes into the water and drowns himself, he’s the one doing it, like it or not. But if the water comes to him and drowns him, then he doesn’t drown himself. Therefore, he who is innocent of his own death does not shorten his own life."
+
+  - sp: OTHER
+    o:
+      - "But is this law?"
+    m:
+      - "Is that how the law sees it?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Ay, marry, is ’t. Crowner’s quest law."
+    m:
+      - "It sure is. The coroner’s inquest law."
+
+  - sp: OTHER
+    o:
+      - "Will you ha’ the truth on ’t? If this had not been a gentlewoman, she should have been buried out o’ Christian burial."
+    m:
+      - "Do you want to know the truth? If this woman hadn’t been rich, she wouldn’t have been given a Christian burial."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Why, there thou sayst. And the more pity that great folk should have countenance in this world to drown or hang themselves more than their even Christian. Come, my spade. There is no ancient gentleman but gardeners, ditchers, and grave-makers. They hold up Adam’s profession."
+    m:
+      - "Well there, now you’ve said it. It’s a pity that the rich have more freedom to hang or drown themselves than the rest of us Christians. Come on, shovel. The most ancient aristocrats in the world are gardeners, ditch-diggers, and gravediggers. They keep up Adam’s profession."
+
+  - sp: OTHER
+    o:
+      - "Was he a gentleman?"
+    m:
+      - "Was he an aristocrat? With a coat of arms?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "He was the first that ever bore arms."
+    m:
+      - "He was the first person who ever had arms."
+
+  - sp: OTHER
+    o:
+      - "Why, he had none."
+    m:
+      - "He didn’t have any."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "What, art a heathen? How dost thou understand the Scripture? The Scripture says Adam digged. Could he dig without arms? I’ll put another question to thee. If thou answerest me not to the purpose, confess thyself—"
+    m:
+      - "What, aren’t you a Christian? The Bible says Adam dug in the ground. How could he dig without arms? I’ll ask you another question. If you can’t answer it—"
+
+  - sp: OTHER
+    o:
+      - "Go to."
+    m:
+      - "Go ahead!"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "What is he that builds stronger than either the mason, the shipwright, or the carpenter?"
+    m:
+      - "What do you call a person who builds stronger things than a stonemason, a shipbuilder, or a carpenter does?"
+
+  - sp: OTHER
+    o:
+      - "The gallows-maker, for that frame outlives a thousand tenants."
+    m:
+      - "The one who builds the gallows to hang people on, since his structure outlives a thousand inhabitants."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "I like thy wit well, in good faith. The gallows does well, but how does it well? It does well to those that do ill. Now thou dost ill to say the gallows is built stronger than the church. Argal, the gallows may do well to thee. To ’t again, come."
+    m:
+      - "You’re funny, and I like that. The gallows do a good job. But how? It does a good job for those who do bad. Now, it’s wrong to say that the gallows are stronger than a church. Therefore, the gallows may do *you* some good. Come on, your turn."
+
+  - sp: OTHER
+    o:
+      - "“Who builds stronger than a mason, a shipwright, or a carpenter?”"
+    m:
+      - "Let’s see, “Who builds stronger things than a stonemason, a shipbuilder, or a carpenter?”"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Ay, tell me that, and unyoke."
+    m:
+      - "That’s the question, so answer it."
+
+  - sp: OTHER
+    o:
+      - "Marry, now I can tell."
+    m:
+      - "Ah, I’ve got it!"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "To ’t."
+    m:
+      - "Go ahead."
+
+  - sp: OTHER
+    o:
+      - "Mass, I cannot tell."
+    m:
+      - "Damn, I forgot."
+
+  - os: "Enter HAMLET and HORATIO afar off"
+    ms: "HAMLET and HORATIO enter in the distance."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Cudgel thy brains no more about it, for your dull ass will not mend his pace with beating. And when you are asked this question next, say “A grave-maker.” The houses that he makes last till doomsday. Go, get thee in. Fetch me a stoup of liquor."
+    m:
+      - "Don’t beat your brains out over it. You can’t make a slow donkey run by beating it. The next time someone asks you this riddle, say “a gravedigger.” The houses he makes last till Judgment Day. Now go and get me some booze."
+
+  - os: "Exit OTHER"
+    ms: "The OTHER GRAVEDIGGER exits."
+
+  - o:
+      - "*(digs and sings)*"
+      - "  *In youth when I did love, did love*,"
+      - "  *Methought it was very sweet*"
+      - "  *To contract-o-the time, for-a-my behove*,"
+      - "  *Oh, methought, there-a-was nothing-a-meet*."
+    m:
+      - "*(the GRAVEDIGGER digs and sings)*"
+      - "  *In my youth I loved, I loved*,"
+      - "  *And I though it was very sweet*"
+      - "  *To set—ohh—the date for—ahh—my duty*"
+      - "  *Oh, I thought it—ahh—was not right*."
+
+  - sp: HAMLET
+    o:
+      - "Has this fellow no feeling of his business? He sings at grave- making."
+    m:
+      - "Doesn’t this guy realize what he’s doing? He’s singing while digging a grave."
+
+  - sp: HORATIO
+    o:
+      - "Custom hath made it in him a property of easiness."
+    m:
+      - "He’s gotten so used to graves that they don’t bother him anymore."
+
+  - sp: HAMLET
+    o:
+      - "’Tis e’en so. The hand of little employment hath the daintier sense."
+    m:
+      - "Yes, exactly. Only people who don’t have to work can afford to be sensitive."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "*(sings)*"
+      - "  *But age with his stealing steps*"
+      - "  *Hath clawed me in his clutch*,"
+      - "  *And hath shipped me into the land*"
+      - "  *As if I had never been such*."
+      - "*(throws up a skull)*"
+    m:
+      - "*(sings)*"
+      - "  *But old age has sneaked up on me*"
+      - "  *And grabbed me in his claws*,"
+      - "  *And has shipped me into the ground*"
+      - "  *As if I’d never been like that*."
+      - "*(he throws up a skull)*"
+
+  - sp: HAMLET
+    o:
+      - "That skull had a tongue in it and could sing once. How the knave jowls it to the ground, as if it were Cain’s jawbone, that did the first murder! It might be the pate of a politician, which this ass now o’erreaches, one that would circumvent God, might it not?"
+    m:
+      - "That skull had a tongue in it once and could sing. That jackass is throwing it around as if it belonged to Cain, who did the first murder! It might be the skull of a politician once capable of talking his way around God, right? And now this idiot is pulling rank on him."
+
+  - sp: HORATIO
+    o:
+      - "It might, my lord."
+    m:
+      - "Indeed, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Or of a courtier, which could say, “Good morrow, sweet lord!” “How dost thou, good lord?” This might be my Lord Such-a-one that praised my Lord Such-a-one’s horse when he meant to beg it, might it not?"
+    m:
+      - "Or a courtier, who could say things like, “Good night, my sweet lord! How are you doing, good lord?” This might be the skull of Lord So-and-So, who praised Lord Such-and-Such’s horse when he wanted to borrow it, right?"
+
+  - sp: HORATIO
+    o:
+      - "Ay, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Why, e’en so. And now my Lady Worm’s, chapless and knocked about the mazard with a sexton’s spade. Here’s fine revolution, an we had the trick to see ’t. Did these bones cost no more the breeding but to play at loggets with them? Mine ache to think on ’t."
+    m:
+      - "Exactly. And now it’s the property of Lady Worm, its lower jaw knocked off and thwacked on the noggin with a shovel. That’s quite a reversal of fortune, isn’t it, if we could only see it? Are these bones worth nothing more than bowling pins now? It makes my bones ache to think about it."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "*(sings)*"
+      - "  *A pickax and a spade, a spade*,"
+      - "  *For and a shrouding sheet*,"
+      - "  *Oh, a pit of clay for to be made*"
+      - "  *For such a guest is meet*."
+      - "*(throws up another skull)*"
+    m:
+      - "*(sings)*"
+      - "  *A pickax and a shovel, a shovel*,"
+      - "  *And a sheet for a funeral shroud*,"
+      - "  *Oh, a pit of dirt is what we need*"
+      - "  *For a guest like this one here*."
+      - "*(he throws up another skull)*"
+
+  - sp: HAMLET
+    o:
+      - "There’s another. Why may not that be the skull of a lawyer? Where be his quiddities now, his quillities, his cases, his tenures, and his tricks? Why does he suffer this rude knave now to knock him about the sconce with a dirty shovel and will not tell him of his action of battery? Hum! This fellow might be in ’s time a great buyer of land, with his statutes, his recognizances, his fines, his double vouchers, his recoveries. Is this the fine of his fines and the recovery of his recoveries, to have his fine pate full of fine dirt? Will his vouchers vouch him no more of his purchases, and double ones too, than the length and breadth of a pair of indentures? The very conveyances of his lands will hardly lie in this box, and must the inheritor himself have no more, ha?"
+    m:
+      - "There’s another. Could that be a lawyer’s skull? Where’s all his razzle-dazzle legal jargon now? Why does he allow this idiot to knock him on the head with a dirty shovel, instead of suing him for assault and battery? Maybe this guy was once a great landowner, with his deeds and contracts, his tax shelters and his annuities. Is it part of his deed of ownership to have his skull filled up with dirt? Does he only get to keep as much land as a set of contracts would cover if you spread them out on the ground? The deeds to his properties would barely fit in this coffin—and the coffin’s all the property he gets to keep?"
+
+  - sp: HORATIO
+    o:
+      - "Not a jot more, my lord."
+    m:
+      - "No more than that, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Is not parchment made of sheepskins?"
+    m:
+      - "Isn’t the parchment of a legal document made of sheepskin?"
+
+  - sp: HORATIO
+    o:
+      - "Ay, my lord, and of calfskins too."
+    m:
+      - "Yes, my lord, and calfskin too."
+
+  - sp: HAMLET
+    o:
+      - "They are sheep and calves which seek out assurance in that."
+      - "I will speak to this fellow.—Whose grave’s this, sirrah?"
+    m:
+      - "Anyone who puts his trust in such documents is a sheep or a calf. I’ll talk to this guy.—Excuse me, sir, whose grave is this?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Mine, sir."
+      - "*(sings)*"
+      - "  *Oh, a pit of clay for to be made*"
+      - "  *For such a guest is meet*."
+    m:
+      - "It’s mine, sir."
+      - "*(sings)*"
+      - "  *Oh, a pit of dirt is what we need*"
+      - "  *For a guest like this one here*."
+
+  - sp: HAMLET
+    o:
+      - "I think it be thine, indeed, for thou liest in ’t."
+    m:
+      - "I think it really must be yours, since you’re the one lying in it."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "You lie out on ’t, sir, and therefore it is not yours. For my part, I do not lie in ’t, and yet it is mine."
+    m:
+      - "And you’re lying outside of it, so it’s not yours. As for me, I’m not lying to you in it—it’s really mine."
+
+  - sp: HAMLET
+    o:
+      - "Thou dost lie in ’t, to be in ’t and say it is thine. ’Tis for the dead, not for the quick. Therefore thou liest."
+    m:
+      - "But you *are* lying in it, being in it and saying it’s yours. It’s for the dead, not the living. So you’re lying."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "’Tis a quick lie, sir. ’Twill away gain from me to you."
+    m:
+      - "That’s a lively lie, sir—it jumps so fast from me to you."
+
+  - sp: HAMLET
+    o:
+      - "What man dost thou dig it for?"
+    m:
+      - "What man are you digging it for?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "For no man, sir."
+    m:
+      - "For no man, sir."
+
+  - sp: HAMLET
+    o:
+      - "What woman, then?"
+    m:
+      - "What woman, then?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "For none, neither."
+    m:
+      - "For no woman, either."
+
+  - sp: HAMLET
+    o:
+      - "Who is to be buried in ’t?"
+    m:
+      - "Who’s to be buried in it?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "One that was a woman, sir, but, rest her soul, she’s dead."
+    m:
+      - "One who used to be a woman but—bless her soul—is dead now."
+
+  - sp: HAMLET
+    o:
+      - "How absolute the knave is! We must speak by the card, or equivocation will undo us. By the Lord, Horatio, these three years I have taken a note of it. The age is grown so picked that the toe of the peasant comes so near the heel of the courtier he galls his kibe.—How long hast thou been a grave-maker?"
+    m:
+      - "How literal this guy is! We have to speak precisely, or he’ll get the better of us with his wordplay. Lord, Horatio, I’ve been noticing this for a few years now. The peasants have become so clever and witty that they’re nipping at the heels of noblemen.—How long have you been a gravedigger?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Of all the days i’ the year, I came to ’t that day that our last"
+      - "King Hamlet overcame Fortinbras."
+    m:
+      - "Of all the days in the year, I started the day that the late King Hamlet defeated Fortinbras."
+
+  - sp: HAMLET
+    o:
+      - "How long is that since?"
+    m:
+      - "How long ago was that?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Cannot you tell that? Every fool can tell that. It was the very day that young Hamlet was born, he that is mad and sent into England."
+    m:
+      - "You don’t know that? Any fool could tell you, it was the day that young Hamlet was born—the one who went crazy and got sent off to England."
+
+  - sp: HAMLET
+    o:
+      - "Ay, marry, why was he sent into England?"
+    m:
+      - "Why was he sent to England?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Why, because he was mad. He shall recover his wits there, or, if he do not, it’s no great matter there."
+    m:
+      - "Because he was crazy. He’ll recover his sanity there. Or if he doesn’t, it won’t matter in England."
+
+  - sp: HAMLET
+    o:
+      - "Why?"
+    m:
+      - "Why not?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "’Twill not be seen in him there. There the men are as mad as he."
+    m:
+      - "Because nobody will notice he’s crazy. Everyone there is as crazy as he is."
+
+  - sp: HAMLET
+    o:
+      - "How came he mad?"
+    m:
+      - "How did he go crazy?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Very strangely, they say."
+    m:
+      - "In a strange way, they say."
+
+  - sp: HAMLET
+    o:
+      - "How “strangely”?"
+    m:
+      - "What do you mean, “in a strange way”?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Faith, e’en with losing his wits."
+    m:
+      - "By losing his mind."
+
+  - sp: HAMLET
+    o:
+      - "Upon what ground?"
+    m:
+      - "On what grounds?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Why, here in Denmark. I have been sexton here, man and boy, thirty years."
+    m:
+      - "Right here in Denmark. I’ve been the church warden here for thirty years, since childhood."
+
+  - sp: HAMLET
+    o:
+      - "How long will a man lie i’ the earth ere he rot?"
+    m:
+      - "How long will a man lie in his grave before he starts to rot?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Faith, if he be not rotten before he die—as we have many pocky corses nowadays that will scarce hold the laying in— he will last you some eight year or nine year. A tanner will last you nine year."
+    m:
+      - "Well, if he’s not rotten before he dies (and there are a lot of people now who are so rotten they start falling to pieces even before you put them in the coffin), he’ll last eight or nine years. A leathermaker will last nine years."
+
+  - sp: HAMLET
+    o:
+      - "Why he more than another?"
+    m:
+      - "Why does he last longer?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "Why, sir, his hide is so tanned with his trade that he will keep out water a great while, and your water is a sore decayer of your whoreson dead body. *(indicates a skull)* Here’s a skull now. This skull has lain in the earth three-and-twenty years."
+    m:
+      - "Because his hide is so leathery from his trade that he keeps the water off him a long time, and water is what makes your goddamn body rot more than anything. Here’s a skull that’s been here twenty-three years."
+
+  - sp: HAMLET
+    o:
+      - "Whose was it?"
+    m:
+      - "Whose was it?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "A whoreson mad fellow’s it was. Whose do you think it was?"
+    m:
+      - "A crazy bastard. Who do you think?"
+
+  - sp: HAMLET
+    o:
+      - "Nay, I know not."
+    m:
+      - "I really don’t know."
+
+  - sp: GRAVEDIGGER
+    o:
+      - "A pestilence on him for a mad rogue! He poured a flagon of Rhenish on my head once. This same skull, sir, was Yorick’s skull, the king’s jester."
+    m:
+      - "Damn that crazy madman! He poured a pitcher of white wine on my head once. This is the skull of Yorick, the king’s jester."
+
+  - sp: HAMLET
+    o:
+      - "This?"
+    m:
+      - "This one?"
+
+  - sp: GRAVEDIGGER
+    o:
+      - "E’en that."
+    m:
+      - "Yes, that one."
+
+  - sp: HAMLET
+    o:
+      - "Let me see. *(takes the skull)* Alas, poor Yorick! I knew him, Horatio, a fellow of infinite jest, of most excellent fancy. He hath borne me on his back a thousand times, and now, how abhorred in my imagination it is! My gorge rises at it. Here hung those lips that I have kissed I know not how oft. —Where be your gibes now? Your gambols? Your songs? Your flashes of merriment that were wont to set the table on a roar? Not one now to mock your own grinning? Quite chapfallen? Now get you to my lady’s chamber and tell her, let her paint an inch thick, to this favor she must come. Make her laugh at that.—Prithee, Horatio, tell me one thing."
+    m:
+      - "Let me see. *(he takes the skull)* Oh, poor Yorick! I used to know him, Horatio—a very funny guy, and with an excellent imagination. He carried me on his back a thousand times, and now—how terrible—this is him. It makes my stomach turn. I don’t know how many times I kissed the lips that used to be right here. Where are your jokes now? Your pranks? Your songs? Your flashes of wit that used to set the whole table laughing? You don’t make anybody smile now. Are you sad about that? You need to go to my lady’s room and tell her that no matter how much makeup she slathers on, she’ll end up just like you some day. That’ll make her laugh. Horatio, tell me something."
+
+  - sp: HORATIO
+    o:
+      - "What’s that, my lord?"
+    m:
+      - "What’s that, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "Dost thou think Alexander looked o’ this fashion i’ th’ earth?"
+    m:
+      - "Do you think Alexander the Great looked like this when he was buried?"
+
+  - sp: HORATIO
+    o:
+      - "E’en so."
+    m:
+      - "Exactly like that."
+
+  - sp: HAMLET
+    o:
+      - "And smelt so? Pah! *(puts down the skull)*"
+    m:
+      - "And smelled like that, too? Whew! *(he puts down the skull)*"
+
+  - sp: HORATIO
+    o:
+      - "E’en so, my lord."
+    m:
+      - "Just as bad, my lord."
+
+  - sp: HAMLET
+    o:
+      - "To what base uses we may return, Horatio. Why may not imagination trace the noble dust of Alexander till he find it stopping a bunghole?"
+    m:
+      - "How low we can fall, Horatio. Isn’t it possible to imagine that the noble ashes of Alexander the Great could end up plugging a hole in a barrel?"
+
+  - sp: HORATIO
+    o:
+      - "’Twere to consider too curiously, to consider so."
+    m:
+      - "If you thought that you’d be thinking too much."
+
+  - sp: HAMLET
+    o:
+      - "No, faith, not a jot. But to follow him thither with modesty enough, and likelihood to lead it, as thus: Alexander died, Alexander was buried, Alexander returneth to dust, the dust is earth, of earth we make loam—and why of that loam, whereto he was converted, might they not stop a beer barrel?"
+      - "Imperious Caesar, dead and turned to clay,"
+      - "Might stop a hole to keep the wind away."
+      - "Oh, that that earth, which kept the world in awe,"
+      - "Should patch a wall t’ expel the winter’s flaw!"
+      - "But soft, but soft a while."
+    m:
+      - "No, not at all. Just follow the logic: Alexander died, Alexander was buried, Alexander returned to dust, the dust is dirt, and dirt makes mud we use to stop up holes. So why can’t someone plug a beer barrel with the dirt that used to be Alexander? The great emperor Caesar, dead and turned to clay, might plug up a hole to keep the wind away. Oh, to think that the same body that once ruled the world could now patch up a wall! But quiet, be quiet a minute."
+
+  - os: "Enter King CLAUDIUS, Queen GERTRUDE, LAERTES, and a coffin, with a PRIEST and other lords attendant."
+    ms: "CLAUDIUS enters with GERTRUDE, LAERTES, and a coffin, with a PRIEST and other lords attendant."
+
+  - o:
+      - "    Here comes the king,"
+      - "The queen, the courtiers—who is this they follow,"
+      - "And with such maimèd rites? This doth betoken"
+      - "The corse they follow did with desperate hand"
+      - "Fordo its own life. ’Twas of some estate."
+      - "Couch we a while and mark."
+    m:
+      - "Here comes the king, the queen, and the noblemen of court. Who are they following? And with such a plain and scrawny ceremony? It means the corpse they’re following took its own life. Must have been from a wealthy family. Let’s stay and watch a while."
+
+  - os: "HAMLET and HORATIO withdraw"
+    ms: "HAMLET and HORATIO step aside."
+
+  - sp: LAERTES
+    o:
+      - "    What ceremony else?"
+    m:
+      - "What other rites are you going to give her?"
+
+  - sp: HAMLET
+    o:
+      - "That is Laertes, a very noble youth, mark."
+    m:
+      - "That’s Laertes, a very noble young man. Listen."
+
+  - sp: LAERTES
+    o:
+      - "What ceremony else?"
+    m:
+      - "What other rites are you going to give her?"
+
+  - sp: PRIEST
+    o:
+      - "Her obsequies have been as far enlarged"
+      - "As we have warranty. Her death was doubtful,"
+      - "And, but that great command o’ersways the order,"
+      - "She should in ground unsanctified have lodged"
+      - "Till the last trumpet. For charitable prayers"
+      - "Shards, flints and pebbles should be thrown on her."
+      - "Yet here she is allowed her virgin crants,"
+      - "Her maiden strewments, and the bringing home"
+      - "Of bell and burial."
+    m:
+      - "I’ve performed as many rites as I’m permitted. Her death was suspicious, and were it not for the fact that the king gave orders to bury her here, she’d have been buried outside the church graveyard. She deserves to have rocks and stones thrown on her body. But she has had prayers read for her and is dressed up like a pure virgin, with flowers tossed on her grave and the bell tolling for her."
+
+  - sp: LAERTES
+    o:
+      - "Must there no more be done?"
+    m:
+      - "Isn’t there any other rite you can perform?"
+
+  - sp: PRIEST
+    o:
+      - "No more be done."
+      - "We should profane the service of the dead"
+      - "To sing a requiem and such rest to her"
+      - "As to peace-parted souls."
+    m:
+      - "No, nothing. We would profane the other dead souls here if we sang the same requiem for her that we sang for them."
+
+  - sp: LAERTES
+    o:
+      - "    Lay her i’ th’ earth,"
+      - "And from her fair and unpolluted flesh"
+      - "May violets spring! I tell thee, churlish priest,"
+      - "A ministering angel shall my sister be"
+      - "When thou liest howling."
+    m:
+      - "Lay her in the ground, and let violets bloom from her lovely and pure flesh! I’m telling you, you jerk priest, my sister will be an angel in heaven while you’re howling in hell."
+
+  - sp: HAMLET
+    o:
+      - "*(to HORATIO)* What, the fair Ophelia?"
+    m:
+      - "*(to HORATIO)* What, the beautiful Ophelia?"
+
+  - sp: GERTRUDE
+    o:
+      - "Sweets to the sweet. Farewell! *(scatters flowers)*"
+      - "I hoped thou shouldst have been my Hamlet’s wife."
+      - "I thought thy bride-bed to have decked, sweet maid,"
+      - "And not have strewed thy grave."
+    m:
+      - "Sweet flowers for a sweet girl. Goodbye! *(she scatters flowers)* I once hoped you’d be my Hamlet’s wife. I thought I’d be tossing flowers on your wedding bed, my sweet girl, not on your grave."
+
+  - sp: LAERTES
+    o:
+      - "    Oh, treble woe"
+      - "Fall ten times treble on that cursèd head,"
+      - "Whose wicked deed thy most ingenious sense"
+      - "Deprived thee of! Hold off the earth awhile"
+      - "Till I have caught her once more in mine arms."
+    m:
+      - "Oh, damn three times, damn ten times the evil man whose wicked deed deprived you of your ingenious mind. Hold off burying her until I’ve caught her in my arms once more."
+
+  - os: "(leaps into the grave)"
+    ms: "(he jumps into the grave)"
+
+  - o:
+      - "Now pile your dust upon the quick and dead,"
+      - "Till of this flat a mountain you have made,"
+      - "T’ o’ertop old Pelion or the skyish head"
+      - "Of blue Olympus."
+    m:
+      - "Now pile the dirt onto the living and the dead alike, till you’ve made a mountain higher thanMount Pelion or Mount Olympus."
+
+  - sp: HAMLET
+    o:
+      - "*(comes forward)* What is he whose grief"
+      - "Bears such an emphasis, whose phrase of sorrow"
+      - "Conjures the wandering stars, and makes them stand"
+      - "Like wonder-wounded hearers? This is I,"
+      - "Hamlet the Dane. *(leaps into the grave)*"
+    m:
+      - "*(coming forward)* Who is the one whose grief is so loud and clear, whose words of sadness make the planets stand still in the heavens as if they’ve been hurt by what they’ve heard? It’s me, Hamlet the Dane. *(he jumps into the grave)*"
+
+  - sp: LAERTES
+    o:
+      - "The devil take thy soul!"
+    m:
+      - "To hell with your soul!"
+
+  - os: "HAMLET and LAERTES grapple"
+    ms: "HAMLET and LAERTES wrestle with each other."
+
+  - sp: HAMLET
+    o:
+      - "Thou pray’st not well."
+      - "I prithee, take thy fingers from my throat,"
+      - "For though I am not splenitive and rash,"
+      - "Yet have I something in me dangerous,"
+      - "Which let thy wisdom fear. Hold off thy hand."
+    m:
+      - "That’s no way to pray. *(they fight)* Please take your hands off my throat. I may not be rash and quick to anger, but I have something dangerous in me which you should beware of. Take your hands off."
+
+  - sp: CLAUDIUS
+    o:
+      - "Pluck them asunder."
+    m:
+      - "Pull them apart."
+
+  - sp: GERTRUDE
+    o:
+      - "  Hamlet, Hamlet!"
+    m:
+      - "Hamlet! Hamlet!"
+
+  - sp: ALL
+    o:
+      - "Gentlemen—"
+    m:
+      - "Gentlemen!"
+
+  - sp: HORATIO
+    o:
+      - "*(to HAMLET)* Good my lord, be quiet."
+    m:
+      - "*(to HAMLET)* Please, my lord, calm down."
+
+  - os: "Attendants separate HAMLET and LAERTES"
+    ms: "Attendants separate HAMLET and LAERTES"
+
+  - sp: HAMLET
+    o:
+      - "Why, I will fight with him upon this theme"
+      - "Until my eyelids will no longer wag."
+    m:
+      - "I’ll fight him over this issue till I don’t have the strength to blink."
+
+  - sp: GERTRUDE
+    o:
+      - "O my son, what theme?"
+    m:
+      - "Oh, my son, what issue is that?"
+
+  - sp: HAMLET
+    o:
+      - "I loved Ophelia. Forty thousand brothers"
+      - "Could not with all their quantity of love"
+      - "Make up my sum. What wilt thou do for her?"
+    m:
+      - "I loved Ophelia. Forty thousand brothers, if you added all their love together, couldn’t match mine. What are you going to do for her?"
+
+  - sp: CLAUDIUS
+    o:
+      - "O, he is mad, Laertes."
+    m:
+      - "Oh, he’s crazy, Laertes!"
+
+  - sp: GERTRUDE
+    o:
+      - "For love of God, forbear him."
+    m:
+      - "For the love of God, be patient with him."
+
+  - sp: HAMLET
+    o:
+      - "’Swounds, show me what thou’lt do."
+      - "Woo’t weep? Woo’t fight? Woo’t fast? Woo’t tear thyself?"
+      - "Woo’t drink up eisel, eat a crocodile?"
+      - "I’ll do ’t. Dost thou come here to whine,"
+      - "To outface me with leaping in her grave?"
+      - "Be buried quick with her?—and so will I."
+      - "And if thou prate of mountains let them throw"
+      - "Millions of acres on us, till our ground,"
+      - "Singeing his pate against the burning zone,"
+      - "Make Ossa like a wart! Nay, an thou’lt mouth,"
+      - "I’ll rant as well as thou."
+    m:
+      - "Damn it, show me what you’re going to do for her. Will you cry? Fight? Stop eating? Cut yourself? Drink vinegar? Eat a crocodile? I’ll do all that. Did you come here to whine? To outdo me by jumping into her grave so theatrically? To be buried alive with her? So will I. And if you rattle on about mountains, then let them throw millions of acres over us. It will be so high a peak that it scrapes against heaven and makes Mount Ossa look like a wart. See? I can talk crazy as well as you."
+
+  - sp: GERTRUDE
+    o:
+      - "  This is mere madness."
+      - "And thus a while the fit will work on him."
+      - "Anon, as patient as the female dove"
+      - "When that her golden couplets are disclosed,"
+      - "His silence will sit drooping."
+    m:
+      - "This is pure insanity. He’ll be like this for a little while. Then he’ll be as calm and quiet as a dove waiting for her eggs to hatch."
+
+  - sp: HAMLET
+    o:
+      - "    Hear you, sir."
+      - "What is the reason that you use me thus?"
+      - "I loved you ever. But it is no matter."
+      - "Let Hercules himself do what he may,"
+      - "The cat will mew and dog will have his day."
+    m:
+      - "Listen, sir, why do you treat me like this? I always loved you. But it doesn’t matter. Even a hero like Hercules can’t keep cats from acting like cats, and dogs like dogs."
+
+  - os: "Exit HAMLET"
+    ms: "HAMLET exits."
+
+  - sp: CLAUDIUS
+    o:
+      - "I pray thee, good Horatio, wait upon him."
+    m:
+      - "Please, Horatio, go with him."
+
+  - os: "Exit HORATIO"
+    ms: "HORATIO exits."
+
+  - o:
+      - "*(to LAERTES)* Strengthen your patience in our last night’s speech."
+      - "We’ll put the matter to the present push.—"
+      - "Good Gertrude, set some watch over your son.—"
+      - "This grave shall have a living monument."
+      - "An hour of quiet shortly shall we see."
+      - "Till then in patience our proceeding be."
+    m:
+      - "*(to LAERTES)* Don’t forget our talk last night, and try to be patient. We’ll take care of this problem soon.—Gertrude, have the guards keep an eye on your son. A monument shall be built for Ophelia that will last forever, I promise. We’ll have the quiet we need soon. In the meantime, let’s proceed patiently."
+
+  - os: "Exeunt"
+    ms: "They exit."

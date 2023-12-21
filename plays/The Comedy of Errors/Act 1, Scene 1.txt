@@ -1,0 +1,228 @@
+play: The Comedy of Errors
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter the DUKE, EGEON, JAILER, and other attendants"
+    ms: "The DUKE, EGEON, and the JAILER enter, with other attendants."
+
+  - sp: EGEON
+    o:
+      - "Proceed, Solinus, to procure my fall,"
+      - "And by the doom of death end woes and all."
+    m:
+      - "Continue, Solinus, and bring on my downfall. Give me the death sentence and end all my troubles."
+
+  - sp: DUKE
+    o:
+      - "Merchant of Syracuse, plead no more."
+      - "I am not partial to infringe our laws."
+      - "The enmity and discord which of late"
+      - "Sprung from the rancorous outrage of your duke"
+      - "To merchants, our well-dealing countrymen,"
+      - "Who, wanting guilders to redeem their lives,"
+      - "Have seal’d his rigorous statutes with their bloods,"
+      - "Excludes all pity from our threatening looks."
+      - "For, since the mortal and intestine jars"
+      - "’Twixt thy seditious countrymen and us,"
+      - "It hath in solemn synods been decreed"
+      - "Both by the Syracusians and ourselves,"
+      - "To admit no traffic to our adverse towns."
+      - "Nay, more, if any born at Ephesus"
+      - "Be seen at any Syracusian marts and fairs;"
+      - "Again, if any Syracusian born"
+      - "Come to the bay of Ephesus, he dies,"
+      - "His goods confiscate to the Duke’s dispose,"
+      - "Unless a thousand marks be levièd"
+      - "To quit the penalty and to ransom him."
+      - "Thy substance, valued at the highest rate,"
+      - "Cannot amount unto a hundred marks;"
+      - "Therefore by law thou art condemned to die."
+    m:
+      - "Merchant of Syracuse, stop your begging: I’m not inclined to bend our laws. The hatred and discord between our two cities is the result of the bitter offenses your duke has perpetrated against the merchants of Ephesus, our well-behaved countrymen. Lacking the money to ransom themselves, these merchants were executed under your duke’s harsh laws, and this has erased all looks of pity from my face. Ever since these deadly conflicts erupted between your violent countrymen and ours, both you Syracusians and we Ephesians have held serious councils and decided not to permit any travel between our two hostile towns. No-the law goes further: if anyone born in Ephesus is seen in Syracuse’s marketplaces or if anyone born in Syracuse comes to Ephesus, that man dies, and his possessions will be confiscated by the Duke, unless he can raise a thousand marks to pay the penalty and ransom himself. Your possessions, even if we calculate their worth very generously, don’t even add up to a hundred marks. Therefore, by law, you are condemned to die."
+
+  - sp: EGEON
+    o:
+      - "Yet this my comfort: when your words are done,"
+      - "My woes end likewise with the evening sun."
+    m:
+      - "At least I have this comfort: when you finish speaking, my troubles will also end, at sundown."
+
+  - sp: DUKE
+    o:
+      - "Well, Syracusian, say in brief the cause"
+      - "Why thou dep-artedst from thy native home"
+      - "And for what cause thou camest to Ephesus."
+    m:
+      - "Well, Syracusian, tell us-briefly-why you left your hometown and came to Ephesus."
+
+  - sp: EGEON
+    o:
+      - "A heavier task could not have been imposed"
+      - "Than I to speak my griefs unspeakable;"
+      - "Yet, that the world may witness that my end"
+      - "Was wrought by nature, not by vile offense,"
+      - "I’ll utter what my sorrow gives me leave."
+      - "In Syracusa was I born, and wed"
+      - "Unto a woman happy but for me,"
+      - "And by me, had not our hap been bad."
+      - "With her I lived in joy. Our wealth increased"
+      - "By prosperous voyages I often made"
+      - "To Epidamnum, till my factor’s death"
+      - "And the great care of goods at random left"
+      - "Drew me from kind embracements of my spouse;"
+      - "From whom my absence was not six months old"
+      - "Before herself-almost at fainting under"
+      - "The pleasing punishment that women bear-"
+      - "Had made provision for her following me"
+      - "And soon and safe arrivèd where I was."
+      - "There had she not been long but she became"
+      - "A joyful mother of two goodly sons,"
+      - "And, which was strange, the one so like the other"
+      - "As could not be distinguished but by names."
+      - "That very hour, and in the selfsame inn,"
+      - "A meaner woman was deliverèd"
+      - "Of such a burden, male twins, both alike."
+      - "Those, for their parents were exceeding poor,"
+      - "I bought and brought up to attend my sons."
+      - "My wife, not meanly proud of two such boys,"
+      - "Made daily motions for our home return."
+      - "Unwilling, I agreed. Alas, too soon"
+      - "We came aboard."
+      - "A league from Epidamnum had we sailed"
+      - "Before the always-wind-obeying deep"
+      - "Gave any tragic instance of our harm;"
+      - "But longer did we not retain much hope;"
+      - "For what obscured light the heavens did grant"
+      - "Did but convey unto our fearful minds"
+      - "A doubtful warrant of immediate death,"
+      - "Which though myself would gladly have embraced,"
+      - "Yet the incessant weepings of my wife,"
+      - "Weeping before for what she saw must come,"
+      - "And piteous plainings of the pretty babes,"
+      - "That mourned for fashion, ignorant what to fear,"
+      - "Forced me to seek delays for them and me."
+      - "And this it was, for other means was none:"
+      - "The sailors sought for safety by our boat"
+      - "And left the ship, then sinking-ripe, to us."
+      - "My wife, more careful for the latter-born,"
+      - "Had fastened him unto a small spare mast,"
+      - "Such as seafaring men provide for storms."
+      - "To him one of the other twins was bound,"
+      - "Whilst I had been like heedful of the other."
+      - "The children thus disposed, my wife and I,"
+      - "Fixing our eyes on whom our care was fixed,"
+      - "Fastened ourselves at either end the mast"
+      - "And, floating straight, obedient to the stream,"
+      - "Was carried towards Corinth, as we thought."
+      - "At length the sun, gazing upon the earth,"
+      - "Dispersed those vapors that offended us,"
+      - "And by the benefit of his wished light"
+      - "The seas waxed calm, and we discoverèd"
+      - "Two ships from far, making amain to us,"
+      - "Of Corinth that, of Epidaurus this."
+      - "But ere they came,-O, let me say no more!"
+      - "Gather the sequel by that went before."
+    m:
+      - "Asking me to speak of my unspeakable griefs-that’s the hardest task you could impose on me. But I’ll do it so that the world can see that it was natural emotion, and not a desire to break the law, that brought me to this fate. I’ll tell you whatever my sorrow permits me to say. I was born in Syracuse, and I married a woman-a fortunate woman, except for having been married to me. And yet I would have made her happy had our luck not been so bad. I lived with her in joy, and our wealth increased from the prosperous journeys I frequently made to Epidamnum. Then my agent died and, obligated to care for my now untended goods abroad, I was drawn away from my wife’s fond embraces. I hadn’t been gone for six months when my wife, almost fainting with the pains of pregnancy, made arrangements to follow me, and she soon arrived safely where I was. She hadn’t been there very long before she became the joyful mother of twin boys. It was strange: they looked so much alike that the only way to tell them apart was by their names. In the same hour, and in the same inn, a poor woman also delivered identical twin boys. Their parents had very little, so I bought the boys and raised them as companions and servants for our twin sons. My wife was more than a little proud of our two boys, and every day she would press me to return home. Reluctantly, I agreed-alas! Too quickly, we boarded a ship. We had sailed a league away from Epidamnum before the sea, which always obeys the winds’ commands, gave any indication of danger. We didn’t stay hopeful much longer: soon, the sky grew so dark that we were convinced we were going to die immediately. I could have accepted that, but I was forced by my wife’s incessant weeping-she wept in advance for the things that she saw ahead-and the piteous complaints of the sweet infants-who cried in imitation of the adults, without understanding why-to find a way to save us. Here’s the best I could do: the crew of our ship had fled for safety in the lifeboats and left us to sink with the ship. My wife, who was very concerned about the younger of our twins, tied him to a spare mast-the kind that sailors use for just such a purpose. She tied one of the other twins to him. I did the same with the remaining two boys. With the children taken care of, my wife and I tied ourselves to opposite ends of the mast and floated off, obedient to the current. It carried us toward Corinth-or so we thought. Eventually the sun, looking down upon the earth, burned off the threatening storm clouds. By the power of the sun’s wished-for light, the seas became calm. We saw two ships sailing toward us, one from Corinth, the other from Epidaurus. But before they reached us-let me say no more! You’ll have to imagine what came next, based on what had already happened."
+
+  - sp: DUKE
+    o:
+      - "Nay, forward, old man. Do not break off so,"
+      - "For we may pity though not pardon thee."
+    m:
+      - "No, keep going, old man; don’t stop like that. For we may take pity on you, even if we can’t pardon you."
+
+  - sp: EGEON
+    o:
+      - "O, had the gods done so, I had not now"
+      - "Worthily termed them merciless to us."
+      - "For, ere the ships could meet by twice five leagues,"
+      - "We were encounterd by a mighty rock,"
+      - "Which being violently borne upon,"
+      - "Our helpful ship was splitted in the midst;"
+      - "So that, in this unjust divorce of us,"
+      - "Fortune had left to both of us alike"
+      - "What to delight in, what to sorrow for."
+      - "Her part, poor soul, seeming as burdenèd"
+      - "With lesser weight, but not with lesser woe,"
+      - "Was carried with more speed before the wind,"
+      - "And in our sight they three were taken up"
+      - "By fishermen of Corinth, as we thought."
+      - "At length, another ship had seized on us"
+      - "And, knowing whom it was their hap to save,"
+      - "Gave healthful welcome to their shipwracked guests,"
+      - "And would have reft the fishers of their prey"
+      - "Had not their bark been very slow of sail;"
+      - "And therefore homeward did they bend their course."
+      - "Thus have you heard me severed from my bliss;"
+      - "That by misfortunes was my life prolonged"
+      - "To tell sad stories of my own mishaps."
+    m:
+      - "Had the gods taken pity on us, I wouldn’t be here calling them merciless. The two ships hadn’t come within ten leagues of us when our ship hit a huge rock and split down the middle. As we were unjustly separated from each other, both my wife and I were left with something to delight in and something to sorrow over. For her part-the poor soul! Her half of the mast weighed less, but she was no luckier than I was: the wind carried her away more quickly. I saw them rescued by fishermen from Corinth-or so I thought. After a while, another ship rescued me and the two boys who were with me. The sailors knew me, so they took good care of us. Our ship would have caught up with the other ship and taken back my wife and the children, but we sailed too slowly and their ship sped toward their home. So now you’ve heard how I was separated from everything I love. It’s been my bad luck to remain alive long enough to be able to tell the sad stories of my own misfortunes."
+
+  - sp: DUKE
+    o:
+      - "And for the sake of them thou sorrowest for,"
+      - "Do me the favour to dilate at full"
+      - "What hath befall’n of them and thee till now."
+    m:
+      - "And for the sake of those you grieve for, do me a favor: tell me the full story of what has happened to you and them, up to this point."
+
+  - sp: EGEON
+    o:
+      - "My youngest boy, and yet my eldest care,"
+      - "At eighteen years became inquisitive"
+      - "After his brother, and importuned me"
+      - "That his attendant-so his case was like,"
+      - "Reft of his brother, but retained his name-"
+      - "Might bear him company in the quest of him,"
+      - "Whom whilst I laboured of a love to see,"
+      - "I hazarded the loss of whom I loved."
+      - "Five summers have I spent in farthest Greece,"
+      - "Roaming clean through the bounds of Asia,"
+      - "And, coasting homeward, came to Ephesus,"
+      - "Hopeless to find, yet loath to leave unsought"
+      - "Or that or any place that harbors men."
+      - "But here must end the story of my life;"
+      - "And happy were I in my timely death"
+      - "Could all my travels warrant me they live."
+    m:
+      - "My youngest son, whom I care about the most, turned eighteen and started to wonder about his twin brother. He asked me to let him take his attendant-who had also lost a brother, though he had kept his brother’s name for himself-and go in search of him. I wanted to see my lost son as well, so I risked losing the one I loved in order to find the other. I’ve spent five years in the remotest parts of Greece and roaming all over Asia. On my way home, I came to Ephesus. I have no hope of finding my boys here, but I will check every place that is inhabited by men. But that is where the story of my life must end. I’d be happy to die if, in all my travels, I could prove that they are alive."
+
+  - sp: DUKE
+    o:
+      - "Hapless Egeon, whom the fates have marked"
+      - "To bear the extremity of dire mishap,"
+      - "Now, trust me, were it not against our laws,"
+      - "Against my crown, my oath, my dignity,"
+      - "Which princes, would they, may not disannul,"
+      - "My soul would sue as advocate for thee."
+      - "But though thou art adjudgèd to the death,"
+      - "And passèd sentence may not be recalled"
+      - "But to our honour’s great disparagement,"
+      - "Yet will I favor thee in what I can."
+      - "Therefore, merchant, I’ll limit thee this day"
+      - "To seek thy life by beneficial help."
+      - "Try all the friends thou hast in Ephesus;"
+      - "Beg thou, or borrow, to make up the sum,"
+      - "And live. If no, then thou art doom’d to die.-"
+      - "Jailer, take him to thy custody."
+    m:
+      - "Poor Egeon! Fate has decreed that you must endure the extremes of terrible misfortune. Believe me, if it weren’t against the law, my crown, my duty, and my position (which princes cannot disobey, not matter how they feel), my very soul would argue your case. But you are sentenced to death, and changing a sentence that’s already been passed would dishonor my title. However, I’ll do what I can for you. I will allow you one day to look for help in Ephesus. Call any friends you have. Beg or borrow to come up with the ransom. If you can, you live. If not, you are doomed to die. Jailer, take him into custody."
+
+  - sp: JAILER
+    o:
+      - "I will, my lord."
+    m:
+      - "I will."
+
+  - sp: EGEON
+    o:
+      - "Hopeless and helpless doth Egeon wend,"
+      - "But to procrastinate his lifeless end."
+    m:
+      - "Hopeless and helpless, I go my way, merely putting off my fatal end."
+
+  - os: "Exeunt"
+    ms: "They exit."

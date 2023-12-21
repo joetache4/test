@@ -1,0 +1,379 @@
+play: A Midsummer Night’s Dream
+title: Act 2, Scene 2
+group: 2
+order: 3
+text:
+  - os: "Enter TITANIA, Queen of Fairies, with her train of FAIRIES"
+    ms: "TITANIA, the Fairy Queen, enters with her following of FAIRIES."
+
+  - sp: TITANIA
+    o:
+      - "Come now, a roundel and a fairy song."
+      - "Then for the third part of a minute, hence—"
+      - "Some to kill cankers in the musk-rose buds,"
+      - "Some war with reremice for their leathern wings"
+      - "To make my small elves coats, and some keep back"
+      - "The clamorous owl that nightly hoots and wonders"
+      - "At our quaint spirits. Sing me now asleep."
+      - "Then to your offices and let me rest."
+    m:
+      - "Come, dance in a circle and sing a fairy song, and then go off for a while to do your work. Some of you will kill the worms infesting the rosebuds, some of you will fight with bats to get their leathery wings, so we can make coats for my small elves. Some of you will keep that loud owl away, the one that hoots and wonders every night at us dainty fairies. Sing me to sleep now, and then go off to do your duties and let me rest."
+
+  - os: "FAIRIES sing"
+    ms: "The FAIRIES sing."
+
+  - sp: FIRST FAIRY
+    o:
+      - "*(sings)*"
+      - "  *You spotted snakes with double tongue*,"
+      - "  *Thorny hedgehogs, be not seen*."
+      - "  *Newts and blindworms, do no wrong*."
+      - "  *Come not near our fairy queen.*"
+    m:
+      - "*(singing)*"
+      - "  *Snakes with forked tongues*,"
+      - "  *And porcupines, don’t be seen*."
+      - "  *Deadly lizards, don’t be mean*."
+      - "  *Don’t come near our fairy queen*."
+
+  - sp: FAIRIES
+    o:
+      - "*(sing)*"
+      - "  *Philomel, with melody*"
+      - "  *Sing in our sweet lullaby*."
+      - "  *Lulla, lulla, lullaby, lulla, lulla, lullaby*."
+      - "  *Never harm*"
+      - "  *Nor spell nor charm*"
+      - "  *Come our lovely lady nigh*."
+      - "  *So good night, with lullaby.*"
+    m:
+      - "*(singing)*"
+      - "  *Nightingale, melodiously*"
+      - "  *Sing our sweet lullaby*."
+      - "  *Lulla, lulla, lullaby, lulla, lulla, lullaby*."
+      - "  *Let no harm*"
+      - "  *Or spell or charm*"
+      - "  *Come near our lovely lady*."
+      - "  *Say good night with a lullaby*."
+
+  - sp: FIRST FAIRY
+    o:
+      - "*(sings)*"
+      - "  *Weaving spiders, come not here*."
+      - "  *Hence, you long-legged spinners, hence!*"
+    m:
+      - "*(singing)*"
+      - "  *Spiders with your webs, stay away*."
+      - "  *You long-legged things, begone!*"
+
+  - o:
+      - "  *Beetles black, approach not near*."
+      - "  *Worm nor snail, do no offense.*"
+    m:
+      - "  *Black beetles, don’t come near*."
+      - "  *Worms and snails, don’t be bad*."
+
+  - sp: FAIRIES
+    o:
+      - "*(sing)*"
+      - "  *Philomel, with melody*"
+      - "  *Sing in our sweet lullaby*."
+      - "  *Lulla, lulla, lullaby, lulla, lulla, lullaby*."
+      - "  *Never harm*"
+      - "  *Nor spell nor charm*"
+      - "  *Come our lovely lady nigh*."
+      - "  *So good night, with lullaby.*"
+    m:
+      - "*(singing)*"
+      - "  *Nightingale, melodiously*"
+      - "  *Sing our sweet lullaby*."
+      - "  *Lulla, lulla, lullaby, lulla, lulla, lullaby*."
+      - "  *Let no harm*"
+      - "  *Or spell or charm*"
+      - "  *Come near our lovely lady*."
+      - "  *Say good night with a lullaby*."
+
+  - os: "TITANIA sleeps"
+    ms: "TITANIA falls asleep."
+
+  - sp: SECOND FAIRY
+    o:
+      - "Hence, away! Now all is well."
+      - "One aloof stand sentinel."
+    m:
+      - "Okay, let’s go! Everything’s fine now. One of us will stay and stand guard."
+
+  - os: "Exeunt FAIRIES"
+    ms: "The FAIRIES exit."
+
+  - os: "Enter OBERON"
+    ms: "OBERON enters."
+
+  - sp: OBERON
+    o:
+      - "*(squeezing flower juice on TITANIA’s eyelids)*"
+      - "What thou seest when thou dost wake,"
+      - "Do it for thy true love take."
+      - "Love and languish for his sake."
+      - "Be it ounce or cat or bear,"
+      - "Pard or boar with bristled hair,"
+      - "In thy eye that shall appear,"
+      - "When thou wakest, it is thy dear."
+      - "Wake when some vile thing is near."
+    m:
+      - "*(he squeezes flower juice on TITANIA’s eyelids)*"
+      - "Whatever you see first when you wake up, think of it as your true love. Love him and yearn for him, even if he’s a lynx, a cat, a bear, a leopard, or a wild boar. Whatever’s there when you wake up will be dear to you. Wake up when something nasty is nearby."
+
+  - os: "Exit OBERON"
+    ms: "OBERON exits."
+
+  - os: "Enter LYSANDER and HERMIA"
+    ms: "LYSANDER and HERMIA enter."
+
+  - sp: LYSANDER
+    o:
+      - "Fair love, you faint with wandering in the wood."
+      - "And to speak troth, I have forgot our way."
+      - "We’ll rest us, Hermia, if you think it good."
+      - "And tarry for the comfort of the day."
+    m:
+      - "My love, you look like you’re about to faint from wandering in the woods for so long, and to tell you the truth, I’ve gotten us lost. We’ll take a rest, if you think it’s a good idea, and wait until daylight when things will be easier."
+
+  - sp: HERMIA
+    o:
+      - "Be it so, Lysander. Find you out a bed,"
+      - "For I upon this bank will rest my head."
+    m:
+      - "Let’s do that, Lysander. Find something to cushion you while you sleep. I’m going to rest my head on this little slope."
+
+  - sp: LYSANDER
+    o:
+      - "One turf shall serve as pillow for us both."
+      - "One heart, one bed, two bosoms, and one troth."
+    m:
+      - "We can both sleep together on the grass. We’ll have one heart, one bed, two bodies, and one faithful vow."
+
+  - sp: HERMIA
+    o:
+      - "Nay, good Lysander. For my sake, my dear,"
+      - "Lie further off yet. Do not lie so near."
+    m:
+      - "No, Lysander. Please, for my sake, sleep a little farther away. Don’t sleep so close to me."
+
+  - sp: LYSANDER
+    o:
+      - "O, take the sense, sweet, of my innocence."
+      - "Love takes the meaning in love’s conference."
+      - "I mean that my heart unto yours is knit"
+      - "So that but one heart we can make of it."
+      - "Two bosoms interchainèd with an oath—"
+      - "So then two bosoms and a single troth."
+      - "Then by your side no bed room me deny."
+      - "For, lying so, Hermia, I do not lie."
+    m:
+      - "Oh, sweetheart, I didn’t mean anything naughty when I said that. When lovers talk to each other, their hearts should understand each other. I just meant that our hearts are joined, so we can almost think of them as one heart. Our two bodies are linked together by the promises we’ve made to each other, so there are two bodies and one faithful vow. So let me sleep next to you. If I lie *next* to you, I won’t lie *to* you—I’ll be faithful and respect you."
+
+  - sp: HERMIA
+    o:
+      - "Lysander riddles very prettily."
+      - "Now much beshrew my manners and my pride"
+      - "If Hermia meant to say Lysander lied."
+      - "But, gentle friend, for love and courtesy"
+      - "Lie further off in human modesty."
+      - "Such separation as may well be said"
+      - "Becomes a virtuous bachelor and a maid."
+      - "So far be distant. And, good night, sweet friend."
+      - "Thy love ne’er alter till thy sweet life end!"
+    m:
+      - "Lysander’s got a way with words. I would certainly be rude and shameful if I had implied that you were a liar. But please, darling, sleep a little farther away so we can behave properly. It’s only proper for a well-behaved bachelor and a well-behaved girl to be physically separated like this. Stay away for now, and good night, my sweet friend. I hope your love for me remains this strong for your entire life!"
+
+  - sp: LYSANDER
+    o:
+      - "Amen, amen to that fair prayer, say I."
+      - "And then end life when I end loyalty!"
+      - "Here is my bed. Sleep give thee all his rest!"
+    m:
+      - "Amen to that. I hope my life ends before my loyalty to you does. I’ll sleep over here. Sleep well!"
+
+  - sp: HERMIA
+    o:
+      - "With half that wish the wisher’s eyes be pressed!"
+    m:
+      - "You sleep well too."
+
+  - os: "HERMIA and LYSANDER sleep"
+    ms: "HERMIA and LYSANDER sleep. ROBIN enters."
+
+  - os: "Enter ROBIN"
+    ms: "ROBIN enters."
+
+  - sp: ROBIN
+    o:
+      - "  Through the forest have I gone."
+      - "  But Athenian found I none,"
+      - "  On whose eyes I might approve"
+      - "  This flower’s force in stirring love."
+      - "*(sees LYSANDER and HERMIA)*"
+      - "  Night and silence! Who is here?"
+      - "  Weeds of Athens he doth wear."
+      - "  This is he, my master said,"
+      - "  Despisèd the Athenian maid."
+      - "  And here the maiden, sleeping sound"
+      - "  On the dank and dirty ground."
+      - "  Pretty soul! She durst not lie"
+      - "  Near this lack-love, this kill-courtesy."
+      - "*(squeezes flower juice on LYSANDER’s eyelids)*"
+      - "  Churl, upon thy eyes I throw"
+      - "  All the power this charm doth owe."
+      - "  When thou wakest, let love forbid"
+      - "  Sleep his seat on thy eyelid."
+      - "  So awake when I am gone,"
+      - "  For I must now to Oberon."
+    m:
+      - "I’ve been through the entire forest, but I haven’t found any Athenian man to use the flower on. *(he sees LYSANDER and HERMIA)* Wait a second, who’s this? He’s wearing Athenian clothes. This must be the guy who rejected the Athenian girl. And here’s the girl, sleeping soundly on the damp and dirty ground. Pretty girl! She shouldn’t lie near this rude and heartless man. *(he puts flower juice on LYSANDER’s eyelids)* Jerk, I throw all the power of this magic charm on your eyes. When you wake up, let love keep you from going back to sleep. Wake up when I’m gone, because now I have to go to Oberon."
+
+  - os: "Exit ROBIN"
+    ms: "ROBIN exits."
+
+  - os: "Enter DEMETRIUS and HELENA, running"
+    ms: "DEMETRIUS and HELENA enter, running."
+
+  - sp: HELENA
+    o:
+      - "Stay, though thou kill me, sweet Demetrius."
+    m:
+      - "Stop, Demetrius! Stop, even if only to kill me."
+
+  - sp: DEMETRIUS
+    o:
+      - "I charge thee, hence, and do not haunt me thus."
+    m:
+      - "I’m telling you, get out of here, and don’t follow me around like this."
+
+  - sp: HELENA
+    o:
+      - "O, wilt thou darkling leave me? Do not so."
+    m:
+      - "Oh, will you leave me alone in the dark? Don’t."
+
+  - sp: DEMETRIUS
+    o:
+      - "Stay, on thy peril. I alone will go."
+    m:
+      - "Stay here at your own risk. I’m going on alone."
+
+  - os: "Exit DEMETRIUS"
+    ms: "DEMETRIUS exits."
+
+  - sp: HELENA
+    o:
+      - "Oh, I am out of breath in this fond chase."
+      - "The more my prayer, the lesser is my grace."
+      - "Happy is Hermia, wheresoe’er she lies,"
+      - "For she hath blessèd and attractive eyes."
+      - "How came her eyes so bright? Not with salt tears."
+      - "If so, my eyes are oftener washed than hers."
+      - "No, no, I am as ugly as a bear,"
+      - "For beasts that meet me run away for fear."
+      - "Therefore no marvel though Demetrius"
+      - "Do, as a monster, fly my presence thus."
+      - "What wicked and dissembling glass of mine"
+      - "Made me compare with Hermia’s sphery eyne?"
+      - "*(sees LYSANDER)* But who is here? Lysander, on the ground?"
+      - "Dead or asleep? I see no blood, no wound.—"
+      - "Lysander, if you live, good sir, awake."
+    m:
+      - "Oh, I’m out of breath from this foolish chase. The more I pray, the less I get out of it. Hermia is lucky, wherever she is, because she has beautiful eyes. How did her eyes get so bright? Not from crying. If that’s the case, tears wash my eyes more than hers. No, no, I’m as ugly as a bear, since animals that see me run away in terror. So it’s no surprise that Demetrius runs away from me as if I were a monster. What evil and deceitful mirror made me think I could rival Hermia’s starry eyes? *(she sees LYSANDER)* But who’s this here? Lysander, on the ground? Is he dead or sleeping? I don’t see any blood or injuries—Lysander, if you’re alive, wake up."
+
+  - sp: LYSANDER
+    o:
+      - "*(waking)* And run through fire I will for thy sweet sake."
+      - "Transparent Helena! Nature shows art"
+      - "That through thy bosom makes me see thy heart."
+      - "Where is Demetrius? Oh, how fit a word"
+      - "Is that vile name to perish on my sword!"
+    m:
+      - "*(waking up)* I’d even run through fire if you told me to. Radiant, beautiful Helena! I feel like Mother Nature has allowed me to see into your heart, as if by magic. Where is Demetrius? Oh, I’d kill that name with my sword if I could!"
+
+  - sp: HELENA
+    o:
+      - "Do not say so, Lysander. Say not so."
+      - "What though he love your Hermia? Lord, what though?"
+      - "Yet Hermia still loves you. Then be content."
+    m:
+      - "Don’t say that, Lysander. Don’t say that. Why do you care that he loves Hermia? What does it matter? Hermia still loves you, so be happy."
+
+  - sp: LYSANDER
+    o:
+      - "Content with Hermia? No. I do repent"
+      - "The tedious minutes I with her have spent."
+      - "Not Hermia but Helena I love."
+      - "Who will not change a raven for a dove?"
+      - "The will of man is by his reason swayed,"
+      - "And reason says you are the worthier maid."
+      - "Things growing are not ripe until their season."
+      - "So I, being young, till now ripe not to reason."
+      - "And touching now the point of human skill,"
+      - "Reason becomes the marshal to my will"
+      - "And leads me to your eyes, where I o’erlook"
+      - "Love’s stories written in love’s richest book."
+    m:
+      - "Happy with Hermia? No. I regret all the boring time I wasted with her. I don’t love Hermia; I love Helena. Who wouldn’t love a dove more than a crow? A man’s desires are influenced by his logical mind, and it’s simply logical that you’re more worthy of love than Hermia is. Fruits and vegetables don’t ripen until the right season of the year. Likewise, I’m young, and my sense of reason has just ripened. I can finally see the light. My logic has more control over my desires than it used to, and it’s telling me to look into your eyes, where I see every love story ever told."
+
+  - sp: HELENA
+    o:
+      - "Wherefore was I to this keen mockery born?"
+      - "When at your hands did I deserve this scorn?"
+      - "Is ’t not enough, is ’t not enough, young man,"
+      - "That I did never, no, nor never can,"
+      - "Deserve a sweet look from Demetrius’ eye,"
+      - "But you must flout my insufficiency?"
+      - "Good troth, you do me wrong, good sooth, you do,"
+      - "In such disdainful manner me to woo."
+      - "But fare you well. Perforce I must confess"
+      - "I thought you lord of more true gentleness."
+      - "Oh, that a lady of one man refused"
+      - "Should of another therefore be abused!"
+    m:
+      - "Why does everyone always make fun of me? What have I done to deserve this kind of treatment from you? Is it not enough, is it not enough, young man, that I’ll never be pretty enough to get a kind look from Demetrius? Do you have to harp on my inadequacy? My God, it’s wrong for you to woo me in such a cruel, disdainful way. But goodbye. I have to tell you, I thought you were a much kinder person than this. Oh, how awful that a lady who’s been rejected by one man should therefore be treated horribly by another one!"
+
+  - os: "Exit HELENA"
+    ms: "HELENA exits."
+
+  - sp: LYSANDER
+    o:
+      - "She sees not Hermia.—Hermia, sleep thou there."
+      - "And never mayst thou come Lysander near!"
+      - "For as a surfeit of the sweetest things"
+      - "The deepest loathing to the stomach brings,"
+      - "Or as the heresies that men do leave"
+      - "Are hated most of those they did deceive,"
+      - "So thou, my surfeit and my heresy,"
+      - "Of all be hated, but the most of me.—"
+      - "And all my powers, address your love and might"
+      - "To honor Helen and to be her knight."
+    m:
+      - "She doesn’t see Hermia—Hermia, keep sleeping, and don’t come near me ever again! Eating too many sweets makes people sick to their stomachs, and people always hate the mistakes they made in the past worse than anyone else hates those mistakes. Hermia, you’re the sweet I’ve had too much of, and the mistake I used to make, so I hate you more than anyone else does.—I’ll use all my talents and efforts to serve Helen and bring her honor."
+
+  - os: "Exit LYSANDER"
+    ms: "LYSANDER exits."
+
+  - sp: HERMIA
+    o:
+      - "*(waking)* Help me, Lysander, help me! Do thy best"
+      - "To pluck this crawling serpent from my breast."
+      - "Ay me, for pity! What a dream was here."
+      - "Lysander, look how I do quake with fear."
+      - "Methought a serpent eat my heart away,"
+      - "And you sat smiling at his cruel pray."
+      - "Lysander!—What, removed?—Lysander, lord!—"
+      - "What, out of hearing, gone? No sound, no word?—"
+      - "Alack, where are you? Speak, an if you hear."
+      - "Speak, of all loves! I swoon almost with fear."
+      - "No? Then I well perceive you all not nigh."
+      - "Either death or you I’ll find immediately."
+    m:
+      - "*(waking up)* Help me, Lysander, help me! Get this snake off of my chest. Oh, my God! What a terrible dream I just had! Lysander, look how I’m shaking from fear. I thought a snake was eating my heart while you sat smiling and watching. Lysander!—What, is he gone?—Lysander, my lord!—What, is he out of earshot? Gone? No answer, nothing? Oh, God, where are you? Say something if you can hear me. Say something, please! I’m almost fainting with fear. Nothing? Then I guess you’re nowhere nearby. I’ll find you—or die—right away."
+
+  - os: "Exit"
+    ms: "HERMIA exits."

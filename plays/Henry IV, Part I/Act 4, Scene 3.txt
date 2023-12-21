@@ -1,0 +1,277 @@
+play: Henry IV, Part I
+title: Act 4, Scene 3
+group: 4
+order: 12
+text:
+  - os: "Enter HOTSPUR, WORCESTER, DOUGLAS, and VERNON"
+    ms: "HOTSPUR, WORCESTER, DOUGLAS, and VERNON enter."
+
+  - sp: HOTSPUR
+    o:
+      - "We’ll fight with him tonight."
+    m:
+      - "We’ll fight him tonight."
+
+  - sp: WORCESTER
+    o:
+      - "  It may not be."
+    m:
+      - "We can’t do that."
+
+  - sp: DOUGLAS
+    o:
+      - "You give him then advantage."
+    m:
+      - "Then you’re giving him the advantage."
+
+  - sp: VERNON
+    o:
+      - "  Not a whit."
+    m:
+      - "Not in the least."
+
+  - sp: HOTSPUR
+    o:
+      - "Why say you so? Looks he not for supply?"
+    m:
+      - "Why do you say that? Doesn’t he have backup coming?"
+
+  - sp: VERNON
+    o:
+      - "So do we."
+    m:
+      - "So do we."
+
+  - sp: HOTSPUR
+    o:
+      - "His is certain; ours is doubtful."
+    m:
+      - "His is guaranteed. Ours isn’t."
+
+  - sp: WORCESTER
+    o:
+      - "Good cousin, be advised. Stir not tonight."
+    m:
+      - "Nephew, I’m telling you. Don’t start the fighting tonight."
+
+  - sp: VERNON
+    o:
+      - "*(to HOTSPUR)* Do not, my lord."
+    m:
+      - "*(to HOTSPUR)* Don’t, my lord."
+
+  - sp: DOUGLAS
+    o:
+      - "  You do not counsel well."
+      - "You speak it out of fear and cold heart."
+    m:
+      - "You’re giving poor advice, based on fear and cowardice."
+
+  - sp: VERNON
+    o:
+      - "Do me no slander, Douglas. By my life"
+      - "(And I dare well maintain it with my life),"
+      - "If well-respected honor bid me on,"
+      - "I hold as little counsel with weak fear"
+      - "As you, my lord, or any Scot that this day lives."
+      - "Let it be seen tomorrow in the battle"
+      - "Which of us fears."
+    m:
+      - "Don’t slander me, Douglas. I swear on my life—and I’ll prove it with my life—that if I’m roused to fight through thoughtful, careful consideration, I’m just as unafraid as you, my lord, or any Scotsman alive. In tomorrow’s battle, we’ll see which one of us is afraid."
+
+  - sp: DOUGLAS
+    o:
+      - "  Yea, or tonight."
+    m:
+      - "Fine. Or tonight."
+
+  - sp: VERNON
+    o:
+      - "Content."
+    m:
+      - "That’s enough."
+
+  - sp: HOTSPUR
+    o:
+      - "Tonight, say I."
+    m:
+      - "Tonight, I say."
+
+  - sp: VERNON
+    o:
+      - "Come, come it nay not be. I wonder much,"
+      - "Being men of such great leading as you are,"
+      - "That you foresee not what impediments"
+      - "Drag back our expedition. Certain horse"
+      - "Of my cousin Vernon’s are not yet come up."
+      - "Your Uncle Worcester’s horse came but today,"
+      - "And now their pride and mettle is asleep,"
+      - "Their courage with hard labor tame and dull,"
+      - "That not a horse is half the half of himself."
+    m:
+      - "Come on, we can’t do that. I wonder how—being the great leaders you are—you cannot see the problems we’re facing. My cousin has yet to arrive with his horses, and your Uncle Worcester’s troops only arrived today. Their spirit and their bravery is asleep; their courage is dulled and tamed by the hard journey. They don’t have even a quarter of their usual strength."
+
+  - sp: HOTSPUR
+    o:
+      - "So are the horses of the enemy"
+      - "In general journey-bated and brought low."
+      - "The better part of ours are full of rest."
+    m:
+      - "The enemy’s horses are tired from the journey as well. The majority of ours are well-rested."
+
+  - sp: WORCESTER
+    o:
+      - "The number of the King exceedeth ours."
+      - "For God’s sake, cousin, stay till all come in."
+    m:
+      - "But the King has more men then we do. For God’s sake, nephew, wait until everyone arrives."
+
+  - os: "The trumpet sounds a parley"
+    ms: "A trumpet announces the approach of an envoy."
+
+  - os: "Enter BLUNT"
+    ms: "BLUNT enters."
+
+  - sp: BLUNT
+    o:
+      - "I come with gracious offers from the King,"
+      - "If you vouchsafe me hearing and respect."
+    m:
+      - "I’m here with a generous offer from the King, if you’ll listen to me and treat me with respect."
+
+  - sp: HOTSPUR
+    o:
+      - "Welcome, Sir Walter Blunt, and would to God"
+      - "You were of our determination."
+      - "Some of us love you well, and even those some"
+      - "Envy your great deservings and good name"
+      - "Because you are not of our quality"
+      - "But stand against us like an enemy."
+    m:
+      - "Welcome, Sir Walter Blunt. I wish to God you were on our side. Many of us think very highly of you, though we begrudge you your honor and reputation, since you fight on the enemy’s side."
+
+  - sp: BLUNT
+    o:
+      - "And God defend but still I should stand so,"
+      - "So long as out of limit and true rule"
+      - "You stand against anointed majesty."
+      - "But to my charge. The king hath sent to know"
+      - "The nature of your griefs, and whereupon"
+      - "You conjure from the breast of civil peace"
+      - "Such bold hostility, teaching his duteous land"
+      - "Audacious cruelty. If that the king"
+      - "Have any way your good deserts forgot,"
+      - "Which he confesseth to be manifold,"
+      - "He bids you name your griefs, and with all speed"
+      - "You shall have your desires with interest"
+      - "And pardon absolute for yourself and these"
+      - "Herein misled by your suggestion."
+    m:
+      - "And I hope to God I always will, so long as you overstep the bounds of allegiance and duty by standing against the anointed King. But let me get to the point. The King sent me to learn your complaints, and to find out why you are stirring up warfare in a time of peace, and spreading violent dissent throughout his loyal country. If the King has somehow overlooked one of your deserving acts—which, he admits, there are many—he asks you to name your complaints. He’ll meet your demands, with interest, as quickly as possible, and grant an absolute pardon to you and everyone who has followed your mistaken lead."
+
+  - sp: HOTSPUR
+    o:
+      - "The king is kind, and well we know the king"
+      - "Knows at what time to promise, when to pay."
+      - "My father and my uncle and myself"
+      - "Did give him that same royalty he wears,"
+      - "And when he was not six-and-twenty strong,"
+      - "Sick in the world’s regard, wretched and low,"
+      - "A poor unminded outlaw sneaking home,"
+      - "My father gave him welcome to the shore;"
+      - "And when he heard him swear and vow to God"
+      - "He came but to be Duke of Lancaster,"
+      - "To sue his livery, and beg his peace,"
+      - "With tears of innocency and terms of zeal,"
+      - "My father, in kind heart and pity moved,"
+      - "Swore him assistance and performed it too."
+      - "Now when the lords and barons of the realm"
+      - "Perceived Northumberland did lean to him,"
+      - "The more and less came in with cap and knee,"
+      - "Met him in boroughs, cities, villages,"
+      - "Attended him on bridges, stood in lanes,"
+      - "Laid gifts before him, proffered him their oaths,"
+      - "Gave him their heirs as pages, followed him"
+      - "Even at the heels in golden multitudes."
+      - "He presently, as greatness knows itself,"
+      - "Steps me a little higher than his vow"
+      - "Made to my father while his blood was poor"
+      - "Upon the naked shore at Ravenspurgh,"
+      - "And now forsooth takes on him to reform"
+      - "Some certain edicts and some strait decrees"
+      - "That lie too heavy on the commonwealth,"
+      - "Cries out upon abuses, seems to weep"
+      - "Over his country’s wrongs, and by this face,"
+      - "This seeming brow of justice, did he win"
+      - "The hearts of all that he did angle for,"
+      - "Proceeded further—cut me off the heads"
+      - "Of all the favourites that the absent King"
+      - "In deputation left behind him here"
+      - "When he was personal in the Irish war."
+    m:
+      - "That’s kind of the King. We know all too well about the promises the King makes, and the ways he keeps his word. My father, my uncle, and I put that crown on his head. And when he had barely twenty-six men supporting him, when no one cared about him, when he was wretched and low, a poor, forsaken criminal trying to sneak home, my father welcomed him. When he swore an oath to God, weeping and speaking passionately, that he had come back to England only to reclaim his father’s title and make peace with King Richard, my father took pity on him, swore to help him and did so. When the country’s most important men saw that Northumberland was on his side, they came to see Henry, and bowed down to him. They met him in towns, cities, villages; they waited for him on bridges, stood in the streets, lay gifts before him, swore their loyalty, pledged the support of their sons, followed him like servants. Soon enough, he began to understand his power. He overstepped the promise he’d made to my father at Ravenspurgh, when his blood was still humble. And then, suddenly, he took it upon himself to reform certain laws and strict decrees that weighed too heavily on the kingdom. He made angry speeches about the abuses we were suffering, and seemed to weep over the country’s problems. And with this face, this mask of righteousness, he won everyone’s hearts. Then he went even further, and cut off the heads of all of Richard’s deputies, who stayed behind to run the country while Richard was waging war in Ireland."
+
+  - sp: BLUNT
+    o:
+      - "Tut, I came not to hear this."
+    m:
+      - "I didn’t come here to listen to this."
+
+  - sp: HOTSPUR
+    o:
+      - "  Then to the point."
+      - "In short time after, he deposed the King,"
+      - "Soon after that deprived him of his life"
+      - "And, in the neck of that, tasked the whole state."
+      - "To make that worse, suffered his kinsman March"
+      - "(Who is, if every owner were well placed,"
+      - "Indeed his king) to be engaged in Wales,"
+      - "There without ransom to lie forfeited,"
+      - "Disgraced me in my happy victories,"
+      - "Sought to entrap me by intelligence,"
+      - "Rated mine uncle from the council board,"
+      - "In rage dismissed my father from the court,"
+      - "Broke oath on oath, committed wrong on wrong,"
+      - "And in conclusion drove us to seek out"
+      - "This head of safety, and withal to pry"
+      - "Into his title, the which we find"
+      - "Too indirect for long continuance."
+    m:
+      - "Then I’ll get to the point. A little while later, he overthrew King Richard. Soon after that, he killed him. And right after that, he raised taxes on everyone. To make matters worse, he allowed his kinsman Mortimer—who by rights ought to be the king—to be imprisoned in Wales, and remain there without ransom. He tried to use my victories to disgrace me, and tried to trap me with spies. He dismissed my uncle from his royal Council, threw my father out of the royal court, broke promise after promise, and committed crime after crime. In conclusion, he forced us to raise this army for our own safety, and to question his claim on the crown, which we believe is too flimsy to stand."
+
+  - sp: BLUNT
+    o:
+      - "Shall I return this answer to the King?"
+    m:
+      - "Should I bring this answer to the King?"
+
+  - sp: HOTSPUR
+    o:
+      - "Not so, Sir Walter. We’ll withdraw awhile."
+      - "Go to the King, and let there be impawned"
+      - "Some surety for a safe return again,"
+      - "And in the morning early shall my uncle"
+      - "Bring him our purposes. And so farewell."
+    m:
+      - "No, Sir Walter. We’ll stand down for a while. Go to the King. My uncle will bring him our demands early in the morning, provided that you arrange for a guarantee that he’ll be allowed to return safely. And so, farewell."
+
+  - sp: BLUNT
+    o:
+      - "I would you would accept of grace and love."
+    m:
+      - "I wish you would accept the King’s offer of kindness and love."
+
+  - sp: HOTSPUR
+    o:
+      - "And maybe so we shall."
+    m:
+      - "Perhaps we will."
+
+  - sp: BLUNT
+    o:
+      - "  Pray God you do."
+    m:
+      - "I pray to God you do."
+
+  - os: "Exeunt"
+    ms: "They exit."

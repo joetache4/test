@@ -1,0 +1,526 @@
+play: Richard III
+title: Act 3, Scene 7
+group: 3
+order: 14
+text:
+  - os: "Enter RICHARD and BUCKINGHAM, at several doors"
+    ms: "RICHARD and BUCKINGHAM, enter through different doors."
+
+  - sp: RICHARD
+    o:
+      - "How now, how now? What say the citizens?"
+    m:
+      - "So what did the citizens say?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Now, by the holy mother of our Lord,"
+      - "The citizens are mum, say not a word."
+    m:
+      - "It’s incredible—they didn’t say a word."
+
+  - sp: RICHARD
+    o:
+      - "Touched you the bastardy of Edward’s children?"
+    m:
+      - "Did you mention that Edward’s children are bastards?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "I did; with his contract with Lady Lucy"
+      - "And his contract by deputy in France;"
+      - "Th’ unsatiate greediness of his desire"
+      - "And his enforcement of the city wives;"
+      - "His tyranny for trifles; his own bastardy,"
+      - "As being got, your father then in France,"
+      - "His resemblance being not like the duke."
+      - "Withal, I did infer your lineaments,"
+      - "Being the right idea of your father,"
+      - "Both in your form and nobleness of mind;"
+      - "Laid open all your victories in Scotland,"
+      - "Your discipline in war, wisdom in peace,"
+      - "Your bounty, virtue, fair humility;"
+      - "Indeed, left nothing fitting for your purpose"
+      - "Untouched or slightly handled in discourse."
+      - "And when mine oratory grew toward end,"
+      - "I bid them that did love their country’s good"
+      - "Cry “God save Richard, England’s royal king!”"
+    m:
+      - "I did. I talked about how he was engaged to Lady Lucy, and how he was engaged to Lady Bona through the help of the earl of Warwick. I spoke of the unquenchable greediness of Edward’s desires and the way he forced himself on the wives of Londoners. I mentioned the way he punished people harshly for minor offenses. I said he was not the son of the noble duke of York, because your father was in France when he was conceived, which explains why he doesn’t have anything in common with his father. And then I suggested that you were the spitting image of your father, both in the way you look and in the nobleness of your character. I went into all your victories in Scotland, your skill as a warrior, your wisdom in peacetime, your generosity, your goodness, and your exceptional modesty. Indeed, I left nothing out. And when my oration came to a close, I asked those who loved their country to cry, “God save Richard, England’s royal king!”"
+
+  - sp: RICHARD
+    o:
+      - "And did they so?"
+    m:
+      - "And did they?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "No. So God help me, they spake not a word"
+      - "But, like dumb statues or breathing stones,"
+      - "Stared each on other and looked deadly pale;"
+      - "Which when I saw, I reprehended them"
+      - "And asked the mayor what meant this willful silence."
+      - "His answer was, the people were not used"
+      - "To be spoke to but by the recorder."
+      - "Then he was urged to tell my tale again:"
+      - "“Thus saith the duke. Thus hath the duke inferred”—"
+      - "But nothing spoke in warrant from himself."
+      - "When he had done, some followers of mine own,"
+      - "At the lower end of the hall, hurled up their caps,"
+      - "And some ten voices cried “God save King Richard!”"
+      - "And thus I took the vantage of those few."
+      - "“Thanks, gentle citizens and friends,” quoth I."
+      - "“This general applause and cheerful shout"
+      - "Argues your wisdoms and your love to Richard”—"
+      - "And even here brake off, and came away."
+    m:
+      - "No, God help me, they didn’t say a word. Like silent statues or stones that breathed, they just gazed at each other and turned as pale as the dead. When I saw this, I scolded them and asked the mayor what this stubborn silence meant. He said that the people weren’t used to being spoken to except by the Recorder. So I urged the Recorder to repeat my tale—you know, “The duke of Buckingham said this, Buckingham meant that,” but nothing on his own authority. When he was done, a few followers of my own at the far end of the hall hurled their caps in the air. Some ten voices cried, “God save King Richard!” I jumped on this slender opportunity and said, “Thank you, noble citizens and friends. This widespread applause and enthusiastic shouts make clear you stand behind Richard.” And then I broke off and quickly came away."
+
+  - sp: RICHARD
+    o:
+      - "What tongueless blocks were they! Would not they speak?"
+      - "Will not the mayor then and his brethren come?"
+    m:
+      - "What blocks of wood! They wouldn’t say anything? Aren’t the mayor and his fellow citizens coming?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "The mayor is here at hand. Intend some fear;"
+      - "Be not you spoke with but by mighty suit."
+      - "And look you get a prayer book in your hand"
+      - "And stand between two churchmen, good my lord,"
+      - "For on that ground I’ll make a holy descant."
+      - "And be not easily won to our requests."
+      - "Play the maid’s part: still answer “nay,” and take it."
+    m:
+      - "The mayor is here at hand. Pretend you’re afraid, my lord, and don’t speak until you’re pleaded with. And make sure to carry a prayer book in your hand and to stand between two priests, okay? Then I’ll have the grounds to build a holy sermon about why you should be king. But don’t be easily won over. Act like a virgin, always answering “No,” but taking it in the end."
+
+  - sp: RICHARD
+    o:
+      - "I go. An if you plead as well for them"
+      - "As I can say “nay” to thee for myself,"
+      - "No doubt we bring it to a happy issue."
+    m:
+      - "I’m going now. If you’re as good at pleading to them as I am at saying no to you, this will definitely come to a happy end."
+
+  - os: "Knocking within"
+    ms: "A sound of knocking from offstage."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Go, go, up to the leads. The Lord Mayor knocks."
+    m:
+      - "Hurry, go up to the roof. The Lord Mayor is knocking."
+
+  - os: "Exit RICHARD"
+    ms: "RICHARD exits."
+
+  - os: "Enter the LORD MAYOR and CITIZENS"
+    ms: "The LORD MAYOR and CITIZENS enter."
+
+  - o:
+      - "Welcome, my lord. I dance attendance here."
+      - "I think the duke will not be spoke withal."
+    m:
+      - "Welcome, my lord. I’m twiddling my thumbs waiting for the duke to show up. I don’t think he wants to be disturbed."
+
+  - os: "Enter CATESBY"
+    ms: "CATESBY enters."
+
+  - o:
+      - "Now, Catesby, what says your lord to my request?"
+    m:
+      - "Here comes his servant. Now, Catesby, what does your lord say to my request?"
+
+  - sp: CATESBY
+    o:
+      - "He doth entreat your Grace, my noble lord,"
+      - "To visit him tomorrow or next day."
+      - "He is within, with two right reverend fathers,"
+      - "Divinely bent to meditation,"
+      - "And in no worldly suits would he be moved"
+      - "To draw him from his holy exercise."
+    m:
+      - "My lord, he asks that you please visit him tomorrow or the next day. He’s inside in prayer, with two reverend fathers. He doesn’t want to be disturbed in his holy work by any worldly requests."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Return, good Catesby, to the gracious duke."
+      - "Tell him myself, the mayor, and aldermen,"
+      - "No less importing than our general good,"
+      - "In deep designs, and matters of great moment"
+      - "Are come to have some conference with his grace."
+    m:
+      - "Return to the gracious duke, good Catesby. Tell him that the mayor, some citizens, and I have come to confer with his grace in matters of great importance concerning the general good."
+
+  - sp: CATESBY
+    o:
+      - "I’ll signify so much unto him straight."
+    m:
+      - "I’ll tell him right away, my lord."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Ah, ha, my lord, this prince is not an Edward!"
+      - "He is not lolling on a lewd love bed,"
+      - "But on his knees at meditation;"
+      - "Not dallying with a brace of courtesans,"
+      - "But meditating with two deep divines;"
+      - "Not sleeping, to engross his idle body,"
+      - "But praying, to enrich his watchful soul."
+      - "Happy were England would this virtuous prince"
+      - "Take on his grave the sovereignty thereof."
+      - "But sure I fear we shall not win him to it."
+    m:
+      - "Ah, my lord, this prince is nothing like Edward! He is not lolling in bed but on his knees in prayer. He’s not enjoying himself with a couple of prostitutes but studying with two learned priests. He’s not sleeping to fatten up his lazy body, but praying, to nourish his attentive soul. England would be lucky to have this virtuous prince as king. But I’m afraid we’ll never get him to agree to be king."
+
+  - sp: LORD MAYOR
+    o:
+      - "Marry, God defend his grace should say us nay!"
+    m:
+      - "But God forbid he says no to us!"
+
+  - sp: BUCKINGHAM
+    o:
+      - "I fear he will. Here Catesby comes again."
+    m:
+      - "I’m afraid he will. Here comes Catesby again."
+
+  - os: "Enter CATESBY"
+    ms: "CATESBY returns."
+
+  - o:
+      - "Now, Catesby, what says his grace?"
+    m:
+      - "What’s up, Catesby, what does your master say?"
+
+  - sp: CATESBY
+    o:
+      - "He wonders to what end you have assembled"
+      - "Such troops of citizens to come to him,"
+      - "His grace not being warned thereof before."
+      - "He fears, my lord, you mean no good to him."
+    m:
+      - "My lord, he wonders why you have assembled such troops of citizens to speak with him, since he had no idea they were coming. My lord, he’s afraid you mean him harm."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Sorry I am my noble cousin should"
+      - "Suspect me that I mean no good to him."
+      - "By heaven, we come to him in perfect love,"
+      - "And so once more return and tell his grace."
+    m:
+      - "I’m sorry my noble brother is suspicious of me. By God, I’m here because I love him. Return and tell him so."
+
+  - os: "Exit CATESBY"
+    ms: "CATESBY exits."
+
+  - o:
+      - "When holy and devout religious men"
+      - "Are at their beads, ’tis much to draw them thence,"
+      - "So sweet is zealous contemplation."
+    m:
+      - "When devoutly religious men are praying, it’s hard to draw them out of it, because they get lost in the wonder of their contemplation."
+
+  - os: "Enter RICHARD aloft, between two bishops CATESBY returns"
+    ms: "RICHARD enters overhead, between two bishops. CATESBY returns."
+
+  - sp: LORD MAYOR
+    o:
+      - "See where his Grace stands, ’tween two clergymen."
+    m:
+      - "See how he stands between two clergymen!"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Two props of virtue for a Christian prince,"
+      - "To stay him from the fall of vanity;"
+      - "And, see, a book of prayer in his hand,"
+      - "True ornaments to know a holy man.—"
+      - "Famous Plantagenet, most gracious prince,"
+      - "Lend favorable ears to our requests,"
+      - "And pardon us the interruption"
+      - "Of thy devotion and right Christian zeal."
+    m:
+      - "Two props of virtue for a Christian prince, to prevent him from ever becoming vain. And, see, he has a prayer book in each hand, the signs of a holy man. Most gracious prince of the famous house of Plantagenet, pardon us for interrupting your righteous, Christian prayer. Please listen favorably to our request."
+
+  - sp: RICHARD
+    o:
+      - "My lord, there needs no such apology."
+      - "I do beseech your Grace pardon me,"
+      - "Who, earnest in the service of my God,"
+      - "Deferred the visitation of my friends."
+      - "But, leaving this, what is your Grace’s pleasure?"
+    m:
+      - "My lord, you don’t need to apologize. I beg you to pardon me. I’ve been so intent on serving God that I’ve kept my friends waiting. In any case, what would you like?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Even that, I hope, which pleaseth God above"
+      - "And all good men of this ungoverned isle."
+    m:
+      - "Only what, I hope, will please God above and all good men on this island, which currently has no king."
+
+  - sp: RICHARD
+    o:
+      - "I do suspect I have done some offense"
+      - "That seems disgracious in the city’s eye,"
+      - "And that you come to reprehend my ignorance."
+    m:
+      - "I suspect that I have committed some offence to the city and you have come to reprimand me for not knowing better."
+
+  - sp: BUCKINGHAM
+    o:
+      - "You have, my lord. Would it might please your Grace,"
+      - "On our entreaties, to amend your fault."
+    m:
+      - "You have, my lord. I hope you’ll make up for it!"
+
+  - sp: RICHARD
+    o:
+      - "Else wherefore breathe I in a Christian land?"
+    m:
+      - "Why else would I live in a Christian country, if I can’t ask forgiveness for my faults?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Know, then, it is your fault that you resign"
+      - "The supreme seat, the throne majestical,"
+      - "The sceptered office of your ancestors,"
+      - "Your state of fortune, and your due of birth,"
+      - "The lineal glory of your royal house,"
+      - "To the corruption of a blemished stock,"
+      - "Whiles in the mildness of your sleepy thoughts,"
+      - "Which here we waken to our country’s good,"
+      - "The noble isle doth want her proper limbs—"
+      - "Her face defaced with scars of infamy,"
+      - "Her royal stock graft with ignoble plants,"
+      - "And almost shouldered in the swallowing gulf"
+      - "Of dark forgetfulness and deep oblivion;"
+      - "Which to recure, we heartily solicit"
+      - "Your gracious self to take on you the charge"
+      - "And kingly government of this your land,"
+      - "Not as Protector, steward, substitute,"
+      - "Or lowly factor for another’s gain,"
+      - "But as successively, from blood to blood,"
+      - "Your right of birth, your empery, your own."
+      - "For this, consorted with the citizens,"
+      - "Your very worshipful and loving friends,"
+      - "And by their vehement instigation,"
+      - "In this just suit come I to move your Grace."
+    m:
+      - "Then you should know that we take fault with your resigning the supreme seat, the majestic throne, the sceptered office, of your ancestors—the power and greatness that destiny and your noble birth have handed you—to the wrong person. You aren’t respecting the lineage of your royal family. You’re lost in sleepy thoughts, and we have come to wake you to our country’s needs. This noble island has been compromised. She is scarred by the infamous deeds of King Edward IV. Her royal stock has been corrupted and nearly lost. We want that royalty remembered again. We heartily beg you, in all your goodness, to take upon yourself the responsibility and rule of this land, not merely as a servant, substitute, or other lowly agent of the king, but as the king himself. It is your birthright to be king. It’s for this reason that we are here—the citizens of England and your devoted friends. We strongly urge you on."
+
+  - sp: RICHARD
+    o:
+      - "I cannot tell if to depart in silence"
+      - "Or bitterly to speak in your reproof"
+      - "Best fitteth my degree or your condition."
+      - "If not to answer, you might haply think"
+      - "Tongue-tied ambition, not replying, yielded"
+      - "To bear the golden yoke of sovereignty,"
+      - "Which fondly you would here impose on me."
+      - "If to reprove you for this suit of yours,"
+      - "So seasoned with your faithful love to me,"
+      - "Then on the other side I checked my friends."
+      - "Therefore, to speak, and to avoid the first,"
+      - "And then, in speaking, not to incur the last,"
+      - "Definitively thus I answer you:"
+      - "Your love deserves my thanks, but my desert"
+      - "Unmeritable shuns your high request."
+      - "First, if all obstacles were cut away"
+      - "And that my path were even to the crown"
+      - "As the ripe revenue and due of birth,"
+      - "Yet so much is my poverty of spirit,"
+      - "So mighty and so many my defects,"
+      - "That I would rather hide me from my greatness,"
+      - "Being a bark to brook no mighty sea,"
+      - "Than in my greatness covet to be hid"
+      - "And in the vapor of my glory smothered."
+      - "But, God be thanked, there is no need of me,"
+      - "And much I need to help you, were there need."
+      - "The royal tree hath left us royal fruit,"
+      - "Which, mellowed by the stealing hours of time,"
+      - "Will well become the seat of majesty,"
+      - "And make, no doubt, us happy by his reign."
+      - "On him I lay what you would lay on me,"
+      - "The right and fortune of his happy stars,"
+      - "Which God defend that I should wring from him."
+    m:
+      - "I can’t tell which is the better course of action, to leave in silence or to scold you. If I don’t answer, perhaps you’ll think I’m accepting the heavy responsibility you foolishly want to impose on me. But if I do speak and refuse your request, then I’m guilty of reprimanding my friends, who have been faithful and loving toward me. So, I’ll speak to make clear I don’t want the crown but also that I am grateful to you. Here is my definitive answer: thank you for your love, but I’m going to have to turn down your weighty request because I don’t deserve to be king. First of all, even if all the obstacles were eliminated and my path led straight to the crown—if it were truly my birthright—I would rather hide from my greatness than hide inside the greatness of the position itself and be smothered by it. My spirit is poor, and I have so many terrible defects that as king I would be like a little boat tossed about on a mighty sea. So, thank God, there is no real need for me, as I wouldn’t be able to help you much. The royal tree has left us other fruit, which, with time, will do just fine on the throne and make us all happy as king, I’m sure. Someone other than I has the right and the good fortune to be made king. God forbid that I snatch the crown from him."
+
+  - sp: BUCKINGHAM
+    o:
+      - "My lord, this argues conscience in your Grace,"
+      - "But the respects thereof are nice and trivial,"
+      - "All circumstances well considerèd."
+      - "You say that Edward is your brother’s son;"
+      - "So say we too, but not by Edward’s wife."
+      - "For first was he contract to Lady Lucy—"
+      - "Your mother lives a witness to that vow—"
+      - "And afterward by substitute betrothed"
+      - "To Bona, sister to the king of France."
+      - "These both put off, a poor petitioner,"
+      - "A care-crazed mother to a many sons,"
+      - "A beauty-waning and distressèd widow,"
+      - "Even in the afternoon of her best days,"
+      - "Made prize and purchase of his wanton eye,"
+      - "Seduced the pitch and height of his degree"
+      - "To base declension and loathed bigamy."
+      - "By her in his unlawful bed he got"
+      - "This Edward, whom our manners term “the Prince.”"
+      - "More bitterly could I expostulate,"
+      - "Save that, for reverence to some alive,"
+      - "I give a sparing limit to my tongue."
+      - "Then, good my lord, take to your royal self"
+      - "This proffered benefit of dignity,"
+      - "If not to bless us and the land withal,"
+      - "Yet to draw forth your noble ancestry"
+      - "From the corruption of abusing times"
+      - "Unto a lineal, true-derivèd course."
+    m:
+      - "My lord, what you’ve said makes clear you have a conscience, but your objections are trivial, given the circumstances. You say that Prince Edward is your brother’s son. We agree, but not by your brother’s wife. King Edward was going to marry Lady Lucy—your mother can vouch for that—and then he was betrothed to Bona, the King of France’s sister-in-law. But both of these were put off by Elizabeth Grey, a careworn mother of many children who had once been a beauty but was now a stressed-out widow long past her prime. Nevertheless, under pretence of asking a favor of him, she attracted his lustful eye and seduced him so thoroughly that he completely debased himself, committing adultery with her. It resulted in this Edward, whom we’re polite enough to call “Prince.” Out of respect for the living, I’ll restrain myself from telling you everything. But, my good lord, if you don’t care about this country, at least use your own pure lineage to rescue us from the current corruption of the royal line."
+
+  - sp: LORD MAYOR
+    o:
+      - "Do, good my lord. Your citizens entreat you."
+    m:
+      - "Yes, my good lord, your citizens beg you."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Refuse not, mighty lord, this proffered love."
+    m:
+      - "Don’t refuse the love we offer you."
+
+  - sp: CATESBY
+    o:
+      - "O, make them joyful. Grant their lawful suit."
+    m:
+      - "Oh, make them joyful! Grant their law-abiding request!"
+
+  - sp: RICHARD
+    o:
+      - "Alas, why would you heap this care on me?"
+      - "I am unfit for state and majesty."
+      - "I do beseech you, take it not amiss;"
+      - "I cannot, nor I will not, yield to you."
+    m:
+      - "Alas, why would you heap all these responsibilities on me? I am unfit to rule and to be king. Please, don’t take it badly, but I cannot and will not give in to you."
+
+  - sp: BUCKINGHAM
+    o:
+      - "If you refuse it, as in love and zeal"
+      - "Loath to depose the child, your brother’s son—"
+      - "As well we know your tenderness of heart"
+      - "And gentle, kind, effeminate remorse,"
+      - "Which we have noted in you to your kindred"
+      - "And equally indeed to all estates—"
+      - "Yet know whe’er you accept our suit or no,"
+      - "Your brother’s son shall never reign our king,"
+      - "But we will plant some other in the throne,"
+      - "To the disgrace and downfall of your house."
+      - "And in this resolution here we leave you.—"
+      - "Come, citizens. Zounds, I’ll entreat no more."
+    m:
+      - "Perhaps you refuse our request out of love for your brother’s son. You don’t want to depose the child. We know how tender your heart is and what gentle, kind, womanly feelings you have for your relatives, as well as for people from all walks of life. But listen, if *you* won’t become king, we’ll just get someone else, to the disgrace and ruin of your family. We will not have your brother’s son as king. On this note, we’re leaving. Come, citizens. Damn it, I’m not going to beg anymore!"
+
+  - sp: RICHARD
+    o:
+      - "O, do not swear, my lord of Buckingham!"
+    m:
+      - "Oh, please don’t swear, my lord of Buckingham."
+
+  - os: "Exit BUCKINGHAM and some others"
+    ms: "BUCKINGHAM exits with CITIZENS and LORD MAYOR."
+
+  - sp: CATESBY
+    o:
+      - "Call them again, sweet prince. Accept their suit."
+      - "If you deny them, all the land will rue it."
+    m:
+      - "Call them back, my lord, and accept their request. If you refuse it, the whole country will regret it."
+
+  - sp: RICHARD
+    o:
+      - "Will you enforce me to a world of cares?"
+      - "Call them again. I am not made of stones,"
+      - "But penetrable to your kind entreaties,"
+      - "Albeit against my conscience and my soul."
+    m:
+      - "Would you tie me to a whole world of worries? Well, call them back again. I am not made of stone; I am affected by all these kind pleas, though it goes against my conscience and my soul."
+
+  - os: "Enter BUCKINGHAM and the rest"
+    ms: "BUCKINGHAM and the rest return."
+
+  - o:
+      - "Cousin of Buckingham and sage, grave men,"
+      - "Since you will buckle fortune on my back,"
+      - "To bear her burden, whe’er I will or no,"
+      - "I must have patience to endure the load;"
+      - "But if black scandal or foul-faced reproach"
+      - "Attend the sequel of your imposition,"
+      - "Your mere enforcement shall acquittance me"
+      - "From all the impure blots and stains thereof,"
+      - "For God doth know, and you may partly see,"
+      - "How far I am from the desire of this."
+    m:
+      - "Buckingham, my brother, and you wise, serious men, since you intend to force me to take responsibility for these changing times, whether I want to or not, I’m going to have to be brave and endure the load. But if this imposition you’ve put on me happens to result in dark scandal or ugly reproach, the fact that you forced me to accept this should clear me from blame. God knows, and you may have noticed, I’m not to eager to take on this job."
+
+  - sp: LORD MAYOR
+    o:
+      - "God bless your Grace! We see it and will say it."
+    m:
+      - "God bless your Grace! We understand you’re just doing it for us, and we’ll be sure to say so."
+
+  - sp: RICHARD
+    o:
+      - "In saying so, you shall but say the truth."
+    m:
+      - "If you say that, you’ll only be telling the truth."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Then I salute you with this royal title:"
+      - "Long live Richard, England’s worthy king!"
+    m:
+      - "Then I salute you with this royal title: long live Richard, England’s worthy king!"
+
+  - sp: ALL
+    o:
+      - "Amen."
+    m:
+      - "Amen."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Tomorrow will it please you to be crowned?"
+    m:
+      - "Will you be crowned tomorrow?"
+
+  - sp: RICHARD
+    o:
+      - "Even when you please, since you will have it so."
+    m:
+      - "Whenever you want, since you’re the one who wants it."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Tomorrow, then, we will attend your Grace,"
+      - "And so most joyfully we take our leave."
+    m:
+      - "Tomorrow, then, we will wait on your Grace. Now we’ll take our leave—joyfully."
+
+  - sp: RICHARD
+    o:
+      - "*(to the bishops)* Come, let us to our holy task again.—"
+      - "Farewell, my cousin. Farewell, gentle friends."
+    m:
+      - "*(to the bishops)* Come, let us get back to praying.—Farewell, my cousin; farewell, noble friends."
+
+  - os: "Exeunt"
+    ms: "They all exit."

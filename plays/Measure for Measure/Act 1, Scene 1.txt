@@ -1,0 +1,200 @@
+play: Measure for Measure
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "An apartment in the DUKE’s palace."
+    ms: "A room in the DUKE’s palace."
+
+  - os: "Enter DUKE VINCENTIO, ESCALUS, Lords and Attendants"
+    ms: "DUKE VINCENTIO enters, with ESCALUS and several lords and attendants."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Escalus."
+    m:
+      - "Escalus."
+
+  - sp: ESCALUS
+    o:
+      - "My lord."
+    m:
+      - "Yes, my lord?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Of government the properties to unfold,"
+      - "Would seem in me to affect speech and discourse;"
+      - "Since I am put to know that your own science"
+      - "Exceeds, in that, the lists of all advice"
+      - "My strength can give you: then no more remains,"
+      - "But that to your sufficiency as your Worth is able,"
+      - "And let them work. The nature of our people,"
+      - "Our city’s institutions, and the terms"
+      - "For common justice, you’re as pregnant in"
+      - "As art and practise hath enriched any"
+      - "That we remember. There is our commission,"
+      - "From which we would not have you warp. Call hither,"
+      - "I say, bid come before us Angelo."
+    m:
+      - "Explaining government affairs always makes me talk excitedly. But since you know more about matters of government than I can ever tell you, the only thing left for me to say is this: rely on your natural ability, and let it work with your knowledge. You know as much, from both learning and experience, about the nature of our people, our city’s laws and procedures, and our legal system as anyone I can think of. Here are your written orders; do not deviate from them. *(to Attendants)* Go and order Angelo to come to me."
+
+  - os: "Exit an Attendant"
+    ms: "An attendant exits."
+
+  - o:
+      - "What figure of us think you he will bear?"
+      - "For you must know, we have with special soul"
+      - "Elected him our absence to supply,"
+      - "Lent him our terror, dress’d him with our love,"
+      - "And given his deputation all the organs"
+      - "Of our own power: what think you of it?"
+    m:
+      - "How do you think he’ll represent me? For you must know, after careful consideration, I’ve chosen him to rule in my absence, deputizing him with the dread and love my presence inspires, and transferring to him all the tools in my power. What do you think?"
+
+  - sp: ESCALUS
+    o:
+      - "If any in Vienna be of worth"
+      - "To undergo such ample grace and honour,"
+      - "It is Lord Angelo."
+    m:
+      - "If anyone in Vienna deserves such an honor, it’s Lord Angelo."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Look where he comes."
+    m:
+      - "Here he comes."
+
+  - os: "Enter ANGELO"
+    ms: "ANGELO enters."
+
+  - sp: ANGELO
+    o:
+      - "Always obedient to your grace’s will,"
+      - "I come to know your pleasure."
+    m:
+      - "Here I am, obedient as always; what can I do for you?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Angelo,"
+      - "There is a kind of character in thy life,"
+      - "That to the observer doth thy history"
+      - "Fully unfold. Thyself and thy belongings"
+      - "Are not thine own so proper as to waste"
+      - "Thyself upon thy virtues, they on thee."
+      - "Heaven doth with us as we with torches do,"
+      - "Not light them for themselves; for if our virtues"
+      - "Did not go forth of us, ’twere all alike"
+      - "As if we had them not. Spirits are not finely touch’d"
+      - "But to fine issues, nor Nature never lends"
+      - "The smallest scruple of her excellence"
+      - "But, like a thrifty goddess, she determines"
+      - "Herself the glory of a creditor,"
+      - "Both thanks and use. But I do bend my speech"
+      - "To one that can my part in him advertise;"
+      - "Hold therefore, Angelo:—"
+      - "In our remove be thou at full ourself;"
+      - "Mortality and mercy in Vienna"
+      - "Live in thy tongue and heart: old Escalus,"
+      - "Though first in question, is thy secondary."
+      - "Take thy commission."
+    m:
+      - "Angelo, there is a distinctive pattern to your life that tells people what sort of man you are. But your talents don’t belong to you alone, and you mustn’t waste them by keeping them to yourself. Heaven uses us the way we use a torch—not to shine for itself, but to shed light onto the world. If we don’t use our talents in the world, it would be the same as if we didn’t have those talents at all. People are given certain natures to accomplish certain things. Mother Nature doesn’t lend you even a smidgen of talent without expecting you to pay her back—with interest and gratitude. But here I am talking to someone who could instruct me! So, stand firm, Angelo—in my absence, you’ll stand in for me completely. Vienna’s criminals will be executed or pardoned based on what you feel and say. Although old Escalus is senior to you, he’ll be your second-in-command. Take your written orders."
+
+  - sp: ANGELO
+    o:
+      - "Now, good my lord,"
+      - "Let there be some more test made of my metal,"
+      - "Before so noble and so great a figure"
+      - "Be stamp’d upon it."
+    m:
+      - "My good lord, please test me further before you raise me to such a high, prominent position."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "No more evasion:"
+      - "We have with a leaven’d and prepared choice"
+      - "Proceeded to you; therefore take your honours."
+      - "Our haste from hence is of so quick condition"
+      - "That it prefers itself and leaves unquestion’d"
+      - "Matters of needful value. We shall write to you,"
+      - "As time and our concernings shall importune,"
+      - "How it goes with us, and do look to know"
+      - "What doth befall you here. So, fare you well;"
+      - "To the hopeful execution do I leave you"
+      - "Of your commissions."
+    m:
+      - "No more procrastinating. I’ve chosen you after careful consideration, so accept the honor. It’s imperative that I leave now, even if it means leaving some important matters undiscussed. I’ll write to you when I have the time and feel the need, telling you how I am, and I’ll expect to hear how you’re doing. So, goodbye; I’ll leave you to carry out your orders—successfully, no doubt."
+
+  - sp: ANGELO
+    o:
+      - "Yet give leave, my lord,"
+      - "That we may bring you something on the way."
+    m:
+      - "My lord, will you allow us to escort you part of the way?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "My haste may not admit it;"
+      - "Nor need you, on mine honour, have to do"
+      - "With any scruple; your scope is as mine own"
+      - "So to enforce or qualify the laws"
+      - "As to your soul seems good. Give me your hand:"
+      - "I’ll privily away. I love the people,"
+      - "But do not like to stage me to their eyes:"
+      - "Through it do well, I do not relish well"
+      - "Their loud applause and Aves vehement;"
+      - "Nor do I think the man of safe discretion"
+      - "That does affect it. Once more, fare you well."
+    m:
+      - "Sorry, I’m in too big a rush. But please don’t have any doubts—you have all my authority to enforce or change the laws in any way that seems good to you. Let’s shake hands, and I’ll sneak off. I love the people but don’t like to parade before them. I don’t like their loud applause and emphatic cheering, though they can be politically useful; nor do I trust the judgment of any man who *does* desire such cheers and applause. Once again, goodbye."
+
+  - sp: ANGELO
+    o:
+      - "The heavens give safety to your purposes!"
+    m:
+      - "May heaven grant you a safe trip!"
+
+  - sp: ESCALUS
+    o:
+      - "Lead forth and bring you back in happiness!"
+    m:
+      - "A happy departure, and a happy homecoming as well!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I thank you. Fare you well."
+    m:
+      - "Thank you. Goodbye."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ESCALUS
+    o:
+      - "I shall desire you, sir, to give me leave"
+      - "To have free speech with you; and it concerns me"
+      - "To look into the bottom of my place:"
+      - "A power I have, but of what strength and nature"
+      - "I am not yet instructed."
+    m:
+      - "Sir, I’d like to have a frank talk with you because I want to figure out the exact nature of my new job. I know I’ve got some authority, but how much, and what kind, I’m not clear on."
+
+  - sp: ANGELO
+    o:
+      - "’Tis so with me. Let us withdraw together,"
+      - "And we may soon our satisfaction have"
+      - "Touching that point."
+    m:
+      - "Same with me. Let’s leave together and we’ll go figure it out."
+
+  - sp: ESCALUS
+    o:
+      - "I’ll wait upon your honour."
+    m:
+      - "I’ll accompany you."
+
+  - os: "Exeunt"
+    ms: "Everyone exits."

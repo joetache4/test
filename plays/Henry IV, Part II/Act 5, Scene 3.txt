@@ -1,0 +1,484 @@
+play: Henry IV, Part II
+title: Act 5, Scene 3
+group: 5
+order: 15
+text:
+  - os: "Enter FALSTAFF, SHALLOW, SILENCE, DAVY, BARDOLPH, and the PAGE"
+    ms: "FALSTAFF, SHALLOW, SILENCE, DAVY, BARDOLPH, and the PAGE enter."
+
+  - sp: SHALLOW
+    o:
+      - "Nay, you shall see my orchard, where, in an arbor, we will"
+      - "eat a last year’s pippin of my own graffing, with a dish of"
+      - "caraways, and so forth.—Come, cousin Silence.—And then"
+      - "to bed."
+    m:
+      - "No, you’re going to see my orchard. We’ll sit in an arbor and eat some of the pippin apples I cross-bred last season, along with some caraway seeds and so on. Come on, Silence. Then we’ll go to bed."
+
+  - sp: FALSTAFF
+    o:
+      - "Fore God, you have here a goodly dwelling and a rich."
+    m:
+      - "I swear, you have a good-looking place here, and it’s fancy."
+
+  - sp: SHALLOW
+    o:
+      - "Barren, barren, barren, beggars all, beggars all, Sir John."
+      - "Marry, good air.—Spread, Davy, spread, Davy. Well said,"
+      - "Davy."
+    m:
+      - "Cheap, cheap, cheap. We’re broke, broke, Sir John. But one thing we do have is good air. Set the table, Davy, set the table. Good job, Davy."
+
+  - sp: FALSTAFF
+    o:
+      - "This Davy serves you for good uses. He is your servingman"
+      - "and your husband."
+    m:
+      - "This Davy does a lot for you. He’s your right-hand man as well as your steward."
+
+  - sp: SHALLOW
+    o:
+      - "A good varlet, a good varlet, a very good varlet, Sir John. By"
+      - "the Mass, I have drunk too much sack at supper. A good"
+      - "varlet. Now sit down, now sit down.—Come, cousin."
+    m:
+      - "A good servant, a very good servant, Sir John. By God, I had too much wine with dinner. A good servant. Now sit down, sit down. Come on, cousin."
+
+  - sp: SILENCE
+    o:
+      - "Ah, sirrah, quoth he, we shall"
+      - "Do nothing but eat and make good cheer,"
+      - "*(sings)* And praise God for the merry year,"
+      - "When flesh is cheap and females dear,"
+      - "And lusty lads roam here and there"
+      - "So merrily,"
+      - "And ever among so merrily."
+    m:
+      - "Ah, Sirrah, he said. We will:"
+      - "Do nothing but eat and celebrate,"
+      - "*(sings)* And praise God for this happy year,"
+      - "When flesh is cheap but women are costly,"
+      - "And lusty men roam here and there,"
+      - "So merrily,"
+      - "And always so merrily."
+
+  - sp: FALSTAFF
+    o:
+      - "There’s a merry heart!—Good Master Silence, I’ll give you"
+      - "a health for that anon."
+    m:
+      - "That’s a merry heart! Master Silence, I’ll drink a toast to you in a minute."
+
+  - sp: SHALLOW
+    o:
+      - "Give Master Bardolph some wine, Davy."
+    m:
+      - "Davy, get Master Bardolph some wine."
+
+  - sp: DAVY
+    o:
+      - "Sweet sir, sit. I’ll be with you anon. Most sweet sir, sit."
+      - "Master page, good master page, sit. Proface. What you want"
+      - "in meat, we’ll have in drink, but you must bear. The heart’s"
+      - "all."
+    m:
+      - "Sit, kind sir; I’ll be with you in a second. Very kind sir, please sit. Here’s to you! What we lack in food, we make up for in drink. You must endure it; good intentions are what count."
+
+  - os: "Exit DAVY"
+    ms: "DAVY exits."
+
+  - sp: SHALLOW
+    o:
+      - "Be merry, Master Bardolph. —And, my little soldier there,"
+      - "be merry."
+    m:
+      - "Enjoy yourself, Master Bardolph, and you, my little soldier, enjoy yourself."
+
+  - sp: SILENCE
+    o:
+      - "*(sings)* Be merry, be merry, my wife has all,"
+      - "For women are shrews, both short and tall."
+      - "’Tis merry in hall when beards wag all,"
+      - "And welcome merry Shrovetide."
+      - "Be merry, be merry."
+    m:
+      - "*(sings)* Enjoy, enjoy! My wife has it all,"
+      - "Women are shrews, whether they’re short or they’re tall,"
+      - "It’s a merry party when men laugh and joke,"
+      - "So let’s enjoy ourselves this Shrovetide,"
+      - "Enjoy, enjoy!"
+
+  - sp: FALSTAFF
+    o:
+      - "I did not think Master Silence had been a man of this mettle."
+    m:
+      - "I didn’t think Master Silence had this in him."
+
+  - sp: SILENCE
+    o:
+      - "Who, I? I have been merry twice and once ere now."
+    m:
+      - "Who, me? I’ve let loose once or twice in my life."
+
+  - os: "Enter DAVY"
+    ms: "DAVY enters."
+
+  - sp: DAVY
+    o:
+      - "*(to BARDOLPH)* There’s a dish of leather-coats for you."
+    m:
+      - "*(to BARDOLPH)* Here’s a dish of red apples for you."
+
+  - sp: SHALLOW
+    o:
+      - "Davy!"
+    m:
+      - "Davy!"
+
+  - sp: DAVY
+    o:
+      - "Your Worship, I’ll be with you straight.—"
+      - "*(to BARDOLPH)* A cup of wine, sir?"
+    m:
+      - "Yes, sir! I’ll be with you in a second. *(to BARDOLPH)* A cup of wine, sir?"
+
+  - sp: SILENCE
+    o:
+      - "*(sings)* A cup of wine that’s brisk and fine,"
+      - "And drink unto thee, leman mine,"
+      - "And a merry heart lives long-a."
+    m:
+      - "*(sings)* A cup of wine that’s fresh and fine,"
+      - "And drink to you, darling mine,"
+      - "And a happy heart lives long!"
+
+  - sp: FALSTAFF
+    o:
+      - "Well said, Master Silence."
+    m:
+      - "Well said, Master Silence."
+
+  - sp: SILENCE
+    o:
+      - "And we shall be merry; now comes in the sweet o’ th’ night."
+    m:
+      - "And we will enjoy ourselves. Now’s the best time of night."
+
+  - sp: FALSTAFF
+    o:
+      - "Health and long life to you, Master Silence."
+    m:
+      - "Here’s to your health and long life, Master Silence."
+
+  - sp: SILENCE
+    o:
+      - "*(sings)* Fill the cup, and let it come,"
+      - "I’ll pledge you a mile to th’ bottom."
+    m:
+      - "*(sings)* Fill the cup, and pass it here,"
+      - "I’ll drink it to the bottom, even if it’s a mile down."
+
+  - sp: SHALLOW
+    o:
+      - "Honest Bardolph, welcome. If thou wantest anything and"
+      - "  wilt not call, beshrew thy heart.—"
+      - "*(to the PAGE)* Welcome, my little tiny thief, and welcome"
+      - "indeed too. I’ll drink to Master Bardolph, and to all the"
+      - "cabileros about London."
+    m:
+      - "Welcome, honest Master Bardolph. If you want something and don’t ask for it, that’s your tough luck. *(to the PAGE)* Welcome, my little tiny thief, welcome indeed. I’ll drink to Master Bardolph, and to all the good sports around London."
+
+  - sp: DAVY
+    o:
+      - "I hope to see London once ere I die."
+    m:
+      - "I hope to see London once before I die."
+
+  - sp: BARDOLPH
+    o:
+      - "An I might see you there, Davy!"
+    m:
+      - "If I see you there, Davy—"
+
+  - sp: SHALLOW
+    o:
+      - "By the Mass, you’ll crack a quart together, ha, will you not,"
+      - "Master Bardolph?"
+    m:
+      - "By God, you’ll break open a quart bottle together, ha! Won’t you, Master Bardolph?"
+
+  - sp: BARDOLPH
+    o:
+      - "Yea, sir, in a pottle-pot."
+    m:
+      - "Yessir, in a two-quart glass."
+
+  - sp: SHALLOW
+    o:
+      - "By God’s liggens, I thank thee. The knave will stick by thee,"
+      - "I can assure thee that. He will not out, he. ’Tis true bred!"
+    m:
+      - "By God’s fingers, I thank you. This rogue will stick with you, I promise you that. He won’t fail, he’s true blue."
+
+  - sp: BARDOLPH
+    o:
+      - "And I’ll stick by him, sir."
+    m:
+      - "And I’ll stick with him, sir."
+
+  - sp: SHALLOW
+    o:
+      - "Why, there spoke a king. Lack nothing, be merry."
+      - "*(One knocks at the door within)*"
+      - "Look who’s at door there, ho. Who knocks?"
+    m:
+      - "Spoken like a king. Take whatever you want: enjoy yourselves!"
+      - "*(Knocking is heard offstage.)*"
+      - "Hey, see who’s at the door there! Who’s knocking?"
+
+  - os: "Exit DAVY"
+    ms: "DAVY exits."
+
+  - sp: FALSTAFF
+    o:
+      - "*(to SILENCE)* Why, now you have done me right."
+    m:
+      - "*(to SILENCE)* You’re really keeping up with me!"
+
+  - sp: SILENCE
+    o:
+      - "*(sings)* Do me right,"
+      - "And dub me knight,"
+      - "Samingo."
+      - "Is ’t not so?"
+    m:
+      - "*(sings)* Keep up with me,"
+      - "Then dub me a knight!"
+      - "Samingo!"
+      - "Right?"
+
+  - sp: FALSTAFF
+    o:
+      - "’Tis so."
+    m:
+      - "Right."
+
+  - sp: SILENCE
+    o:
+      - "Is ’t so? Why then, say an old man can do somewhat."
+    m:
+      - "Right? Then you’ve got to admit that an old man can do some things."
+
+  - os: "Enter DAVY"
+    ms: "DAVY returns."
+
+  - sp: DAVY
+    o:
+      - "An ’t please your Worship, there’s one Pistol come from the"
+      - "court with news."
+    m:
+      - "Sir, if I may say so, there’s someone named Pistol here from the royal court. He’s got news."
+
+  - sp: FALSTAFF
+    o:
+      - "From the court? Let him come in."
+    m:
+      - "From the royal court? Let him in."
+
+  - os: "Enter PISTOL"
+    ms: "PISTOL enters."
+
+  - o:
+      - "How now, Pistol?"
+    m:
+      - "What’s up, Pistol!"
+
+  - sp: PISTOL
+    o:
+      - "Sir John, God save you."
+    m:
+      - "God save you, Sir John."
+
+  - sp: FALSTAFF
+    o:
+      - "What wind blew you hither, Pistol?"
+    m:
+      - "What wind blew you here, Pistol?"
+
+  - sp: PISTOL
+    o:
+      - "Not the ill wind which blows no man to good. Sweet knight,"
+      - "  thou art now one of the greatest men in this realm."
+    m:
+      - "Not the evil wind that blows no one toward any good. Sweet knight, you are now one of the hugest men in the country."
+
+  - sp: SILENCE
+    o:
+      - "By ’r Lady, I think he be, but Goodman Puff of Barson."
+    m:
+      - "I swear, I think he is—except for the good fellow Puff, from Barson."
+
+  - sp: PISTOL
+    o:
+      - "Puff?"
+      - "Puff in thy teeth, most recreant coward base!—"
+      - "Sir John, I am thy Pistol and thy friend,"
+      - "And helter-skelter have I rode to thee,"
+      - "And tidings do I bring, and lucky joys,"
+      - "And golden times, and happy news of price."
+    m:
+      - "Puff? Puff in your face, you degenerate coward! Sir John, I’m your Pistol and your friend, and I rode at full tilt to find you here. I bring you reports, and good luck, and golden times, and happy, valuable news."
+
+  - sp: FALSTAFF
+    o:
+      - "I pray thee now, deliver them like a man of this world."
+    m:
+      - "Then please, deliver this news like a human being who lives in this world."
+
+  - sp: PISTOL
+    o:
+      - "A foutre for the world and worldlings base!"
+      - "I speak of Africa and golden joys."
+    m:
+      - "Damn this world, and the vile little people who live in it! I’m talking about Africa, and its golden joys."
+
+  - sp: FALSTAFF
+    o:
+      - "O base Assyrian knight, what is thy news?"
+      - "Let King Cophetua know the truth thereof."
+    m:
+      - "Oh, you vulgar Assyrian knight, what is your news? Convey to King Cophetua the story therein."
+
+  - sp: SILENCE
+    o:
+      - "*(sings)* And Robin Hood, Scarlet, and John."
+    m:
+      - "*(sings)* And Robin Hood, Scarlet, and John."
+
+  - sp: PISTOL
+    o:
+      - "Shall dunghill curs confront the Helicons,"
+      - "And shall good news be baffled?"
+      - "Then, Pistol, lay thy head in Furies’ lap."
+    m:
+      - "Will junkyard dogs attack the Muses, goddesses of poetry? Will my good news be thwarted this way? Then Pistol, go ahead and plead with the Furies, the goddesses of revenge."
+
+  - sp: SILENCE
+    o:
+      - "Honest gentleman, I know not your breeding."
+    m:
+      - "Honest gentleman, I don’t know what kind of family you’re from."
+
+  - sp: PISTOL
+    o:
+      - "Why then, lament therefor."
+    m:
+      - "That’s your loss."
+
+  - sp: SHALLOW
+    o:
+      - "Give me pardon, sir. If, sir, you come with news from the"
+      - "court, I take it there’s but two ways, either to utter them, or"
+      - "to conceal them. I am, sir, under the King in some authority."
+    m:
+      - "Forgive me saying so, sir, but if you’ve got news from the court, then you have only two choices: you can either tell it or not tell it. I have some authority from the King, you know."
+
+  - sp: PISTOL
+    o:
+      - "Under which king, besonian? Speak or die."
+    m:
+      - "From which king, you beggar? Speak, or die."
+
+  - sp: SHALLOW
+    o:
+      - "Under King Harry."
+    m:
+      - "For King Henry."
+
+  - sp: PISTOL
+    o:
+      - "Harry the Fourth, or Fifth?"
+    m:
+      - "Henry the Fourth, or Fifth?"
+
+  - sp: SHALLOW
+    o:
+      - "Harry the Fourth."
+    m:
+      - "Henry the Fourth."
+
+  - sp: PISTOL
+    o:
+      - "A foutre for thine office!—"
+      - "Sir John, thy tender lambkin now is king."
+      - "Harry the Fifth’s the man. I speak the truth."
+      - "When Pistol lies, do this *(he makes an obscene gesture)* and"
+      - "  fig me, like"
+      - "The bragging Spaniard."
+    m:
+      - "Then screw your position! Sir John, your tender little lamb is now the king. Henry the Fifth’s the man, and I speak the truth. When Pistol tells a lie, do this *(he makes an obscene gesture)* and tell me to go screw myself, like some crazy Spaniard."
+
+  - sp: FALSTAFF
+    o:
+      - "What, is the old king dead?"
+    m:
+      - "What? Is the old King dead?"
+
+  - sp: PISTOL
+    o:
+      - "As nail in door. The things I speak are just."
+    m:
+      - "As a doornail: these things I say are true."
+
+  - sp: FALSTAFF
+    o:
+      - "Away, Bardolph.—Saddle my horse.—Master Robert"
+      - "Shallow, choose what office thou wilt in the land,"
+      - "’tis thine. Pistol, I will double-charge thee with dignities."
+    m:
+      - "Get going, Bardolph! Saddle up my horse. Master Robert Shallow, pick whatever job you want in the whole country: it’s yours. Pistol, I’ll pile honors on you."
+
+  - sp: BARDOLPH
+    o:
+      - "O joyful day! I would not take a knighthood for my fortune."
+    m:
+      - "Oh happy day! I wouldn’t even trade a knighthood for my new, good fortune."
+
+  - sp: PISTOL
+    o:
+      - "What, I do bring good news!"
+    m:
+      - "There you go! I brought good news!"
+
+  - sp: FALSTAFF
+    o:
+      - "Carry Master Silence to bed.—Master Shallow, my Lord"
+      - "Shallow, be what thou wilt. I am Fortune’s steward. Get on"
+      - "thy boots. We’ll ride all night.—O sweet Pistol!—Away,"
+      - "Bardolph!"
+    m:
+      - "Carry Master Silence to bed. Master Shallow—Lord Shallow—call yourself whatever you want. I’m in charge of all the luck in the world! Get your boots on. We’ll ride through the night. Oh sweet Pistol! Get going, Bardolph!"
+
+  - os: "Exit BARDOLPH"
+    ms: "BARDOLPH exits."
+
+  - o:
+      - "Come, Pistol, utter more to me, and withal devise something"
+      - "to do thyself good. Boot, boot, Master Shallow. I know the"
+      - "young King is sick for me. Let us take any man’s horses. The"
+      - "laws of England are at my commandment. Blessed are they"
+      - "that have been my friends, and woe to my Lord Chief"
+      - "Justice!"
+    m:
+      - "Pistol, tell me more, and help me think of something good we can do for you. Boots, boots, Master Shallow! I know the young King is dying to see me. Let’s just take anybody’s horses; I rule the laws of England now! Blessed are those who have been my friends, and watch out, Lord Chief Justice!"
+
+  - sp: PISTOL
+    o:
+      - "Let vultures vile seize on his lungs also!"
+      - "“Where is the life that late I led?” say they."
+      - "Why, here it is. Welcome these pleasant days."
+    m:
+      - "May vultures eat out his lungs, too! You know the old saying, “What happened to the life I used to lead?” Well, they’re here; welcome to these pleasant days."
+
+  - os: "Exeunt"
+    ms: "They exit."

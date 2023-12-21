@@ -1,0 +1,1394 @@
+play: The Tempest
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter PROSPERO and MIRANDA"
+    ms: "PROSPERO and MIRANDA enter."
+
+  - sp: MIRANDA
+    o:
+      - "If by your art, my dearest father, you have"
+      - "Put the wild waters in this roar, allay them."
+      - "The sky, it seems, would pour down stinking pitch,"
+      - "But that the sea, mounting to th’ welkin’s cheek,"
+      - "Dashes the fire out. Oh, I have suffered"
+      - "With those that I saw suffer. A brave vessel"
+      - "Who had, no doubt, some noble creature in her"
+      - "Dashed all to pieces. Oh, the cry did knock"
+      - "Against my very heart! Poor souls, they perished."
+      - "Had I been any god of power, I would"
+      - "Have sunk the sea within the earth or ere"
+      - "It should the good ship so have swallowed and"
+      - "The fraughting souls within her."
+    m:
+      - "Dear father, if you caused this terrible storm with your magic powers, please put an end to it. The sky’s so dark it looks like it would rain down boiling hot tar if the sea weren’t swelling up to the sky to put its fire out. Oh, I suffered along with all the men I watched suffer! A fine ship, with some good people in it, I’m sure, smashed to pieces. Their dying shouts broke my heart! The poor people died. If I’d been a god I would’ve let the sea sink inside the earth before it had a chance to swallow up that ship and all the people it was carrying."
+
+  - sp: PROSPERO
+    o:
+      - "    Be collected."
+      - "No more amazement. Tell your piteous heart"
+      - "There’s no harm done."
+    m:
+      - "Calm down. There’s nothing to get upset about. No harm was done."
+
+  - sp: MIRANDA
+    o:
+      - "    Oh, woe the day!"
+    m:
+      - "Oh, what a horrible day!"
+
+  - sp: PROSPERO
+    o:
+      - "    No harm."
+      - "I have done nothing but in care of thee,"
+      - "Of thee, my dear one—thee my daughter, who"
+      - "Art ignorant of what thou art, naught knowing"
+      - "Of whence I am, nor that I am more better"
+      - "Than Prospero, master of a full poor cell"
+      - "And thy no greater father."
+    m:
+      - "There was no harm, I’m telling you. Everything I’ve done has been for you, my dear daughter. You don’t know what you are, since you don’t know who I am or where I come from, or that I’m better than merely Prospero, your humble father who lives in a poor little shack."
+
+  - sp: MIRANDA
+    o:
+      - "    More to know"
+      - "Did never meddle with my thoughts."
+    m:
+      - "It never occurred to me to imagine there was anything more to know."
+
+  - sp: PROSPERO
+    o:
+      - "    ’Tis time"
+      - "I should inform thee farther. Lend thy hand"
+      - "And pluck my magic garment from me."
+    m:
+      - "It’s time for you to know the whole story. Give me a hand and help me off with this magic cloak."
+
+  - os: "MIRANDA helps PROSPERO remove his mantle"
+    ms: "MIRANDA helps PROSPERO remove his cloak."
+
+  - o:
+      - "    So,"
+      - "Lie there, my art.—Wipe thou thine eyes. Have comfort."
+      - "The direful spectacle of the wrack, which touched"
+      - "The very virtue of compassion in thee,"
+      - "I have with such provision in mine art"
+      - "So safely ordered that there is no soul—"
+      - "No, not so much perdition as an hair"
+      - "Betid to any creature in the vessel—"
+      - "Which thou heard’st cry, which thou sawst sink. Sit down."
+      - "For thou must now know farther."
+    m:
+      - "*(to the cloak)* So, lie there, my magic. *(to MIRANDA)* Wipe your eyes. Take comfort. I arranged the horrible sight of this shipwreck, which moved you to such pity, so carefully that not a single person was hurt—no, not so much as a hair on anyone’s head was destroyed in the ship that you saw sink. Sit down. It’s time for you to know more. *(they sit)*"
+
+  - sp: MIRANDA
+    o:
+      - "    You have often"
+      - "Begun to tell me what I am, but stopped"
+      - "And left me to a bootless inquisition,"
+      - "Concluding, “Stay. Not yet.”"
+    m:
+      - "You’ve often started to tell me who I am, but then suddenly stopped, leaving me asking questions that never get answered, telling me, “Wait. Not yet.”"
+
+  - sp: PROSPERO
+    o:
+      - "    The hour’s now come."
+      - "The very minute bids thee ope thine ear."
+      - "Obey and be attentive. Canst thou remember"
+      - "A time before we came unto this cell?"
+      - "I do not think thou canst, for then thou wast not"
+      - "Out three years old."
+    m:
+      - "Well, the time has come. This is the moment for you to listen hard and pay close attention. Can you remember the time before you came to live in this shack? I doubt it, since you weren’t even three at the time."
+
+  - sp: MIRANDA
+    o:
+      - "    Certainly, sir, I can."
+    m:
+      - "Sure I can, father."
+
+  - sp: PROSPERO
+    o:
+      - "By what? By any other house or person?"
+      - "Of anything the image tell me that"
+      - "Hath kept with thy remembrance."
+    m:
+      - "What do you remember? A house, a person? Tell me anything you remember."
+
+  - sp: MIRANDA
+    o:
+      - "    ’Tis far off,"
+      - "And rather like a dream than an assurance"
+      - "That my remembrance warrants. Had I not"
+      - "Four or five women once that tended me?"
+    m:
+      - "My memory is hazy, more like a dream than a recollection. Didn’t I use to have four or five women taking care of me?"
+
+  - sp: PROSPERO
+    o:
+      - "Thou hadst, and more, Miranda. But how is it"
+      - "That this lives in thy mind? What seest thou else"
+      - "In the dark backward and abysm of time?"
+      - "If thou rememberest aught ere thou camest here,"
+      - "How thou camest here thou mayst."
+    m:
+      - "Indeed you did, and more besides, Miranda. But how is it possible that you still remember this, through all the darkness of the past? If you remember your life before you came here, you may also remember how you got here."
+
+  - sp: MIRANDA
+    o:
+      - "    But that I do not."
+    m:
+      - "No, that I don’t remember."
+
+  - sp: PROSPERO
+    o:
+      - "Twelve year since, Miranda, twelve year since,"
+      - "Thy father was the Duke of Milan and"
+      - "A prince of power."
+    m:
+      - "Twelve years ago, Miranda, twelve years ago your father was the Duke of Milan, a powerful prince."
+
+  - sp: MIRANDA
+    o:
+      - "    Sir, are not you my father?"
+    m:
+      - "Aren’t you my father?"
+
+  - sp: PROSPERO
+    o:
+      - "Thy mother was a piece of virtue and"
+      - "She said thou wast my daughter. And thy father"
+      - "Was Duke of Milan, and thou his only heir"
+      - "And princess no worse issued."
+    m:
+      - "Your mother was extremely virtuous, and she said you were my daughter. And your father was Duke of Milan, and you were his heir, a princess."
+
+  - sp: MIRANDA
+    o:
+      - "    Oh, the heavens!"
+      - "What foul play had we that we came from thence?"
+      - "Or blessè was ’t we did?"
+    m:
+      - "Good lord! What evil things were done to us that we were driven here? Or was it a blessing that we came here?"
+
+  - sp: PROSPERO
+    o:
+      - "    Both, both, my girl."
+      - "By foul play, as thou sayst, were we heaved thence,"
+      - "But blessedly holp hither."
+    m:
+      - "Both, both, my girl. We were pushed out of power by evil deeds, as you call them. But we were blessed in being helped toward this island."
+
+  - sp: MIRANDA
+    o:
+      - "    Oh, my heart bleeds"
+      - "To think o’ th’ teen that I have turned you to,"
+      - "Which is from my remembrance! Please you, farther."
+    m:
+      - "Oh, it breaks my heart to think how painful it must be for you to recall all this, things that I can’t remember. But please tell me more."
+
+  - sp: PROSPERO
+    o:
+      - "My brother and thy uncle, called Antonio—"
+      - "I pray thee, mark me (that a brother should"
+      - "Be so perfidious!)—he whom next thyself"
+      - "Of all the world I loved and to him put"
+      - "The manage of my state, as at that time"
+      - "Through all the signories it was the first,"
+      - "And Prospero the prime duke, being so reputed"
+      - "In dignity, and for the liberal arts"
+      - "Without a parallel. Those being all my study,"
+      - "The government I cast upon my brother"
+      - "And to my state grew stranger, being transported"
+      - "And rapt in secret studies. Thy false uncle—"
+      - "Dost thou attend me?"
+    m:
+      - "My brother, your uncle Antonio—just listen to this (I still can’t believe a brother could be so disloyal!)—My brother whom—aside from you—I loved more than anyone else in the world, I trusted to run my state, which at that time was the strongest in the land, and Prospero the number one duke, famous for my dignity and my education. Since I was so drawn to studying things like logic, grammar, geometry, and astronomy, I let my control of the government slide a bit, being too wrapped up in my occult books. Your disloyal uncle—are you paying attention?"
+
+  - sp: MIRANDA
+    o:
+      - "    Sir, most heedfully."
+    m:
+      - "I’m hanging on every word."
+
+  - sp: PROSPERO
+    o:
+      - "Being once perfected how to grant suits,"
+      - "How to deny them, who t’ advance and who"
+      - "To trash for overtopping, new created"
+      - "The creatures that were mine, I say—or changed ’em,"
+      - "Or else new formed ’em—having both the key"
+      - "Of officer and office, set all hearts i’ th’ state"
+      - "To what tune pleased his ear, that now he was"
+      - "The ivy which had hid my princely trunk,"
+      - "And sucked my verdure out on ’t. Thou attend’st not."
+    m:
+      - "Once Antonio got the knack of granting certain requests, denying others, promoting some officials and keeping down those who were getting too ambitious, he won over the people who used to be mine, or changed them—remade them, you might say. Since he had control over the whole government and everyone in it, he soon made everyone sing his own song—whichever song he happened to like. He became like the ivy that sticks to the side of the tree, and sucked my vitality out of me.—You’re not paying attention."
+
+  - sp: MIRANDA
+    o:
+      - "O, good sir, I do."
+    m:
+      - "Oh, yes I am, father."
+
+  - sp: PROSPERO
+    o:
+      - "    I pray thee, mark me."
+      - "I, thus neglecting worldly ends, all dedicated"
+      - "To closeness and the bettering of my mind"
+      - "With that which, but by being so retired,"
+      - "O’erprized all popular rate, in my false brother"
+      - "Awaked an evil nature. And my trust,"
+      - "Like a good parent, did beget of him"
+      - "A falsehood in its contrary as great"
+      - "As my trust was, which had indeed no limit,"
+      - "A confidence sans bound. He being thus lorded,"
+      - "Not only with what my revenue yielded"
+      - "But what my power might else exact, like one"
+      - "Who having into truth, by telling of it,"
+      - "Made such a sinner of his memory"
+      - "To credit his own lie—he did believe"
+      - "He was indeed the duke, out o’ th’ substitution"
+      - "And executing th’ outward face of royalty,"
+      - "With all prerogative. Hence his ambition growing—"
+      - "Dost thou hear?"
+    m:
+      - "Please listen to me carefully. As I neglected practical matters, being totally dedicated to solitude and to improving my mind with subjects more valuable than most people imagine, I was so shut away from the world that I unwittingly stirred up evil wishes in my disloyal brother. My deep trust in him made him deeply untrustworthy, arousing in him a treachery as big as my trust was—my trust which had no limit, an infinite confidence. With Antonio possessing such powers and wealth, coming not only from my income but also from his ability to take whatever my authority allowed him to take, Antonio started to believe that he was the duke, like some liar who begins to believe in his own lie. He put on the face of royalty, with all the rights that go along with it. With his ambition growing like this—do you hear what I’m saying?"
+
+  - sp: MIRANDA
+    o:
+      - "    Your tale, sir, would cure deafness."
+    m:
+      - "What you’re saying could cure deafness, father. Of course I hear it."
+
+  - sp: PROSPERO
+    o:
+      - "To have no screen between this part he played"
+      - "And him he played it for, he needs will be"
+      - "Absolute Milan. Me, poor man, my library"
+      - "Was dukedom large enough. Of temporal royalties"
+      - "He thinks me now incapable, confederates—"
+      - "So dry he was for sway—wi’ th’ King of Naples"
+      - "To give him annual tribute, do him homage,"
+      - "Subject his coronet to his crown and bend"
+      - "The dukedom yet unbowed—alas, poor Milan!—"
+      - "To most ignoble stooping."
+    m:
+      - "To make his political performance absolutely perfect, he simply had to become the Duke of Milan himself. My library was a large enough dukedom for me. So, now Antonio judges me incapable of carrying out my duties. He’s so power-hungry that he allies himself with the King of Naples, agreeing to pay him a regular annual sum, swear subservience to him, and put the dukedom of Milan—never subservient to anyone before!—under the humiliating control of Naples."
+
+  - sp: MIRANDA
+    o:
+      - "    Oh, the heavens!"
+    m:
+      - "Good heavens!"
+
+  - sp: PROSPERO
+    o:
+      - "Mark his condition and the event. Then tell me"
+      - "If this might be a brother."
+    m:
+      - "Think about that, and about what followed afterward. Then tell me if Antonio can be called a brother."
+
+  - sp: MIRANDA
+    o:
+      - "    I should sin"
+      - "To think but nobly of my grandmother."
+      - "Good wombs have borne bad sons."
+    m:
+      - "It would be wrong for me to think poorly of my grandmother. Good women sometimes give birth to bad sons."
+
+  - sp: PROSPERO
+    o:
+      - "    Now the condition."
+      - "The King of Naples, being an enemy"
+      - "To me inveterate, hearkens my brother’s suit,"
+      - "Which was that he, in lieu o’ th’ premises"
+      - "Of homage and I know not how much tribute,"
+      - "Should presently extirpate me and mine"
+      - "Out of the dukedom, and confer fair Milan"
+      - "With all the honors on my brother. Whereon,"
+      - "A treacherous army levied, one midnight"
+      - "Fated to th’ purpose did Antonio open"
+      - "The gates of Milan, and, i’ th’ dead of darkness,"
+      - "The ministers for th’ purpose hurried thence"
+      - "Me and thy crying self."
+    m:
+      - "Now listen to the agreement they made. The king of Naples, my arch-enemy, listens to my brother’s request, which was that the king, in exchange for the respect and money paid to him, would get rid of me and make my brother Duke of Milan instead. A treacherous army was gathered, and one fateful night at midnight, Antonio opened the gates of Milan, and in the pitch black had his officers rush out me and you, my dear daughter. You were crying."
+
+  - sp: MIRANDA
+    o:
+      - "    Alack, for pity!"
+      - "I, not remembering how I cried out then,"
+      - "Will cry it o’er again. It is a hint"
+      - "That wrings mine eyes to ’t."
+    m:
+      - "How awful! I can’t remember how I cried then, but I’ll cry all over again. This story breaks my heart."
+
+  - sp: PROSPERO
+    o:
+      - "    Hear a little further"
+      - "And then I’ll bring thee to the present business"
+      - "Which now ’s upon ’s, without the which this story"
+      - "Were most impertinent."
+    m:
+      - "Just listen a little more, and I’ll bring you up to date about the present situation, which is the whole reason I’m telling you this story in the first place."
+
+  - sp: MIRANDA
+    o:
+      - "    Wherefore did they not"
+      - "That hour destroy us?"
+    m:
+      - "Why didn’t they just kill us that night?"
+
+  - sp: PROSPERO
+    o:
+      - "    Well demanded, wench."
+      - "My tale provokes that question. Dear, they durst not,"
+      - "So dear the love my people bore me, nor set"
+      - "A mark so bloody on the business, but"
+      - "With colors fairer painted their foul ends."
+      - "In few, they hurried us aboard a bark,"
+      - "Bore us some leagues to sea, where they prepared"
+      - "A rotten carcass of a butt, not rigged,"
+      - "Nor tackle, sail, nor mast. The very rats"
+      - "Instinctively had quit it. There they hoist us"
+      - "To cry to th’ sea that roared to us, to sigh"
+      - "To th’ winds whose pity, sighing back again,"
+      - "Did us but loving wrong."
+    m:
+      - "Good question, my girl. My story does raise that question. The answer, my dear, is that they didn’t dare, because the people of Milan loved me too much. The had to disguise their bloody intentions. So, to make a long story short, they hurried us onto a ship and carried us a number of miles out to sea, where they prepared a rotten carcass of a boat, with no sails or masts or ropes, which even the rats had abandoned. They tossed us in the water to cry to the sea that roared back at us, to sigh into the winds that sighed right back at us in pity."
+
+  - sp: MIRANDA
+    o:
+      - "    Alack, what trouble"
+      - "Was I then to you!"
+    m:
+      - "God, what a burden on you I must have been!"
+
+  - sp: PROSPERO
+    o:
+      - "    Oh, a cherubim"
+      - "Thou wast that did preserve me. Thou didst smile"
+      - "Infusèd with a fortitude from heaven,"
+      - "When I have decked the sea with drops full salt,"
+      - "Under my burthen groaned; which raised in me"
+      - "An undergoing stomach to bear up"
+      - "Against what should ensue."
+    m:
+      - "No, my dear, you were a little angel who kept me going. You smiled with a strength you must have gotten from heaven, while I cried salty tears into the salty sea, and groaned at our situation. Your smile sustained my spirits against whatever would come our way."
+
+  - sp: MIRANDA
+    o:
+      - "How came we ashore?"
+    m:
+      - "How did we manage to get ashore?"
+
+  - sp: PROSPERO
+    o:
+      - "    By providence divine."
+      - "Some food we had and some fresh water that"
+      - "A noble Neapolitan, Gonzalo,"
+      - "Out of his charity, who being then appointed"
+      - "Master of this design, did give us, with"
+      - "Rich garments, linens, stuffs, and necessaries,"
+      - "Which since have steaded much. So, of his gentleness,"
+      - "Knowing I loved my books, he furnished me"
+      - "From mine own library with volumes that"
+      - "I prize above my dukedom."
+    m:
+      - "With God’s help. We had a little food and fresh water that a nobleman from Naples, Gonzalo, had given us out of the kindness of his heart. He had been chosen to carry out the plan of putting us to sea. He also gave us clothes, linen, and other necessities that have been of great help. Knowing how much I loved my books, he gave me some books from my library that I value more than my dukedom."
+
+  - sp: MIRANDA
+    o:
+      - "    Would I might"
+      - "But ever see that man!"
+    m:
+      - "I wish I could see that man someday!"
+
+  - sp: PROSPERO
+    o:
+      - "    Now I arise."
+      - "*(stands and puts on his mantle)*"
+      - "Sit still, and hear the last of our sea-sorrow."
+      - "Here in this island we arrived, and here"
+      - "Have I, thy schoolmaster, made thee more profit"
+      - "Than other princesses can that have more time"
+      - "For vainer hours and tutors not so careful."
+    m:
+      - "Now I’ll stand up. *(he stands and puts on his magic cloak)* Sit still and listen to the last of our sad sea adventures. We arrived here on this island, where I, acting as your teacher, have given you a better education than most princesses get, princesses who have less careful tutors, who spend their time instead on empty fun."
+
+  - sp: MIRANDA
+    o:
+      - "Heavens thank you for ’t! And now, I pray you, sir—"
+      - "For still ’tis beating in my mind—your reason"
+      - "For raising this sea storm?"
+    m:
+      - "May God thank you for it. But please, father—the question is still nagging at me—why did you conjure up this storm?"
+
+  - sp: PROSPERO
+    o:
+      - "    Know thus far forth:"
+      - "By accident most strange, bountiful Fortune"
+      - "(Now my dear lady) hath mine enemies"
+      - "Brought to this shore. And by my prescience"
+      - "I find my zenith doth depend upon"
+      - "A most auspicious star, whose influence"
+      - "If now I court not but omit, my fortunes"
+      - "Will ever after droop. Here cease more questions."
+      - "Thou art inclined to sleep. ’Tis a good dullness,"
+      - "And give it way. I know thou canst not choose."
+    m:
+      - "You should know this: much luck is on my side, and my enemies have happened to wreck their ship on this island. As I see it, my fate hangs on this lucky event, and if I handle it wrong, I’ll suffer for the rest of my life. Now, no more questions. You look sleepy. It’s a nice hazy feeling, so give in to it. I know you have no choice."
+
+  - os: "MIRANDA sleeps"
+    ms: "MIRANDA falls asleep."
+
+  - o:
+      - "Come away, servant, come. I am ready now."
+      - "Approach, my Ariel, come."
+    m:
+      - "Come on, servant, come. I’m ready now. Come here, Ariel."
+
+  - os: "Enter ARIEL"
+    ms: "ARIEL enters."
+
+  - sp: ARIEL
+    o:
+      - "All hail, great master! Grave sir, hail! I come"
+      - "To answer thy best pleasure, be ’t to fly,"
+      - "To swim, to dive into the fire, to ride"
+      - "On the curled clouds. To thy strong bidding, task"
+      - "Ariel and all his quality."
+    m:
+      - "Humble greetings, great master! Worthy sir, greetings! Your wish is my command, whatever you want. If you want me to fly, to swim, to jump into fire, to ride the clouds in the sky, Ariel will get right to the task."
+
+  - sp: PROSPERO
+    o:
+      - "    Hast thou, spirit,"
+      - "Performed to point the tempest that I bade thee?"
+    m:
+      - "Spirit, did you carry out the storm just as I ordered?"
+
+  - sp: ARIEL
+    o:
+      - "To every article."
+      - "I boarded the king’s ship. Now on the beak,"
+      - "Now in the waist, the deck, in every cabin,"
+      - "I flamed amazement. Sometime I’d divide,"
+      - "And burn in many places. On the topmast,"
+      - "The yards, and bowsprit would I flame distinctly,"
+      - "Then meet and join. Jove’s lightning, the precursors"
+      - "O’ th’ dreadful thunderclaps, more momentary"
+      - "And sight-outrunning were not. The fire and cracks"
+      - "Of sulfurous roaring the most mighty Neptune"
+      - "Seem to besiege and make his bold waves tremble,"
+      - "Yea, his dread trident shake."
+    m:
+      - "Down to the last detail. I boarded the king’s ship, and in every corner of it, from the deck to the cabins, I made everyone astonished and terrified. Sometimes I appeared in many places at once. On the top sail and main mast I flamed in different spots, then I came together into a single flame. I flashed about faster than lightning. The fire and deafening cracks seemed to overwhelm even the god of the sea himself, making him tremble underwater."
+
+  - sp: PROSPERO
+    o:
+      - "    My brave spirit!"
+      - "Who was so firm, so constant, that this coil"
+      - "Would not infect his reason?"
+    m:
+      - "Good spirit! Who could ever be so steady and strong that a disturbance like that wouldn’t make him crazy?"
+
+  - sp: ARIEL
+    o:
+      - "    Not a soul"
+      - "But felt a fever of the mad and played"
+      - "Some tricks of desperation. All but mariners"
+      - "Plunged in the foaming brine and quit the vessel,"
+      - "Then all afire with me. The king’s son, Ferdinand,"
+      - "With hair up-staring—then, like reeds, not hair—"
+      - "Was the first man that leaped, cried, “Hell is empty"
+      - "And all the devils are here.”"
+    m:
+      - "Everyone there got a little crazy and pulled some desperate stunts. Everyone except the sailors dove into the sea, leaving behind the ship that I had set on fire. The king’s son, Ferdinand, with his hair standing straight up—it looked like reeds, not hair—was the first person to jump, shouting, “Hell is empty, and all the devils are here!”"
+
+  - sp: PROSPERO
+    o:
+      - "    Why, that’s my spirit!"
+      - "But was not this nigh shore?"
+    m:
+      - "Good job! But was this near the shore?"
+
+  - sp: ARIEL
+    o:
+      - "    Close by, my master."
+    m:
+      - "Very near, my master."
+
+  - sp: PROSPERO
+    o:
+      - "But are they, Ariel, safe?"
+    m:
+      - "But are they all safe, Ariel?"
+
+  - sp: ARIEL
+    o:
+      - "    Not a hair perished."
+      - "On their sustaining garments not a blemish,"
+      - "But fresher than before. And, as thou badest me,"
+      - "In troops I have dispersed them ’bout the isle."
+      - "The king’s son have I landed by himself,"
+      - "Whom I left cooling of the air with sighs"
+      - "In an odd angle of the isle, and sitting,"
+      - "His arms in this sad knot."
+    m:
+      - "Nobody was hurt in the slightest. Even their clothes are unstained, and look fresher than before the storm. I’ve separated them into groups around the island, just as you ordered. I sent the king’s son off by himself to a faraway nook on the island, where he’s sitting now sighing, with his arms crossed like this. *(he folds his arms*.)"
+
+  - sp: PROSPERO
+    o:
+      - "    Of the king’s ship,"
+      - "The mariners, say how thou hast disposed,"
+      - "And all the rest o’ th’ fleet."
+    m:
+      - "Tell me what you did with the king’s ship, the sailors, and the other ships."
+
+  - sp: ARIEL
+    o:
+      - "    Safely in harbor"
+      - "Is the king’s ship. In the deep nook where once"
+      - "Thou called’st me up at midnight to fetch dew"
+      - "From the still-vexed Bermoothes, there she’s hid."
+      - "The mariners all under hatches stowed,"
+      - "Who, with a charm joined to their suffered labor,"
+      - "I have left asleep. And for the rest o’ th’ fleet,"
+      - "Which I dispersed, they all have met again"
+      - "And are upon the Mediterranean float,"
+      - "Bound sadly home for Naples,"
+      - "Supposing that they saw the king’s ship wracked"
+      - "And his great person perish."
+    m:
+      - "The king’s ship is safely in the harbor, hidden in that deep cove where you once summoned me to bring back dew from the stormy Bermuda islands. The sailors are all below deck, sleeping both from their labor and from a magic spell I cast over them. As for the rest of the ships, I scattered them, and they’ve gathered again in the Mediterranean, sailing sadly home to Naples, believing that they witnessed the shipwreck and death of their great king."
+
+  - sp: PROSPERO
+    o:
+      - "    Ariel, thy charge"
+      - "Exactly is performed. But there’s more work."
+      - "What is the time o’ th’ day?"
+    m:
+      - "Ariel, you’ve done your work exactly as I ordered. But there’s more work to be done. What time is it?"
+
+  - sp: ARIEL
+    o:
+      - "    Past the mid season."
+    m:
+      - "Past noon."
+
+  - sp: PROSPERO
+    o:
+      - "At least two glasses. The time ’twixt six and now"
+      - "Must by us both be spent most preciously."
+    m:
+      - "At least two hours past. We can’t waste time between now and six o’clock."
+
+  - sp: ARIEL
+    o:
+      - "Is there more toil? Since thou dost give me pains,"
+      - "Let me remember thee what thou hast promised,"
+      - "Which is not yet performed me."
+    m:
+      - "Is there more work to do? Since you’re giving me new assignments, let me remind you what you promised me but haven’t come through with yet."
+
+  - sp: PROSPERO
+    o:
+      - "    How now? Moody?"
+      - "What is ’t thou canst demand?"
+    m:
+      - "What? You’re in a bad mood? What could you possibly ask for?"
+
+  - sp: ARIEL
+    o:
+      - "    My liberty."
+    m:
+      - "My freedom."
+
+  - sp: PROSPERO
+    o:
+      - "Before the time be out? No more!"
+    m:
+      - "Before your sentence has been completed? Don’t say anything else."
+
+  - sp: ARIEL
+    o:
+      - "    I prithee,"
+      - "Remember I have done thee worthy service,"
+      - "Told thee no lies, made thee no mistakings, served"
+      - "Without or grudge or grumblings. Thou didst promise"
+      - "To bate me a full year."
+    m:
+      - "I beg you, remember the good work I’ve done for you, and how I’ve never lied to you, never made mistakes, and never grumbled in my work. You promised to take a full year off my sentence."
+
+  - sp: PROSPERO
+    o:
+      - "    Dost thou forget"
+      - "From what a torment I did free thee?"
+    m:
+      - "Have you forgotten the torture I freed you from?"
+
+  - sp: ARIEL
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: PROSPERO
+    o:
+      - "Thou dost, and think’st it much to tread the ooze"
+      - "Of the salt deep,"
+      - "To run upon the sharp wind of the north,"
+      - "To do me business in the veins o’ th’ earth"
+      - "When it is baked with frost."
+    m:
+      - "You have forgotten, and you think it’s a burden when I ask you to walk through the ocean, or run on the north wind, or do business for me underground when the earth’s frozen solid."
+
+  - sp: ARIEL
+    o:
+      - "    I do not, sir."
+    m:
+      - "No, I don’t, sir."
+
+  - sp: PROSPERO
+    o:
+      - "Thou liest, malignant thing! Hast thou forgot"
+      - "The foul witch Sycorax, who with age and envy"
+      - "Was grown into a hoop? Hast thou forgot her?"
+    m:
+      - "You lie, you nasty, ungrateful thing! Have you forgotten the horrid witch Sycorax, stooped over with old age and ill will? Have you forgotten her?"
+
+  - sp: ARIEL
+    o:
+      - "No, sir."
+    m:
+      - "No, sir."
+
+  - sp: PROSPERO
+    o:
+      - "Thou hast. Where was she born? Speak. Tell me."
+    m:
+      - "You have. Where was she born? Speak. Tell me."
+
+  - sp: ARIEL
+    o:
+      - "Sir, in Argier."
+    m:
+      - "In Algiers, sir."
+
+  - sp: PROSPERO
+    o:
+      - "  Oh, was she so? I must"
+      - "Once in a month recount what thou hast been,"
+      - "Which thou forget’st. This damned witch Sycorax,"
+      - "For mischiefs manifold and sorceries terrible"
+      - "To enter human hearing, from Argier,"
+      - "Thou know’st, was banished. For one thing she did"
+      - "They would not take her life. Is not this true?"
+    m:
+      - "Oh, was she now? I’ll have to tell the story again every month, since you seem to forget it. This damned witch Sycorax was kicked out of Algiers for various witching crimes too terrible for humans to hear about. But for one reason they refused to execute her. Isn’t that true?"
+
+  - sp: ARIEL
+    o:
+      - "Ay, sir."
+    m:
+      - "Yes, sir."
+
+  - sp: PROSPERO
+    o:
+      - "This blue-eyed hag was hither brought with child"
+      - "And here was left by th’ sailors. Thou, my slave,"
+      - "As thou report’st thyself, wast then her servant."
+      - "And, for thou wast a spirit too delicate"
+      - "To act her earthy and abhorred commands,"
+      - "Refusing her grand hests, she did confine thee,"
+      - "By help of her more potent ministers"
+      - "And in her most unmitigable rage,"
+      - "Into a cloven pine, within which rift"
+      - "Imprisoned thou didst painfully remain"
+      - "A dozen years; within which space she died"
+      - "And left thee there, where thou didst vent thy groans"
+      - "As fast as mill wheels strike. Then was this island—"
+      - "Save for the son that she did litter here,"
+      - "A freckled whelp hag-born—not honored with"
+      - "A human shape."
+    m:
+      - "This sunken-eyed hag was brought here pregnant and left by the sailors. You, my slave, were her servant at the time, as you admit yourself. You were too delicate to carry out her horrible orders, and you refused. In a fit of rage she locked you up in a hollow pine tree, with the help of her powerful assistants, and left you there for twelve years. During that time she died, and you were trapped, moaning and groaning as fast as the blades of a mill wheel strike the water. At that time there were no people here. This island was not honored with a human being—except for the son that Sycorax gave birth to here, a freckled baby born of an old hag."
+
+  - sp: ARIEL
+    o:
+      - "  Yes, Caliban, her son."
+    m:
+      - "Yes, Caliban, her son."
+
+  - sp: PROSPERO
+    o:
+      - "Dull thing, I say so. He, that Caliban"
+      - "Whom now I keep in service. Thou best know’st"
+      - "What torment I did find thee in. Thy groans"
+      - "Of ever angry bears. It was a torment"
+      - "Did make wolves howl and penetrate the breasts"
+      - "To lay upon the damned, which Sycorax"
+      - "Could not again undo. It was mine art,"
+      - "When I arrived and heard thee, that made gape"
+      - "The pine and let thee out."
+    m:
+      - "That’s right, you stupid thing. Caliban, who now serves me. You know better than anyone how tortured you were when I found you. Your groans made wolves howl, and even made bears feel sorry for you. Nobody but the damned souls of hell deserves the spell that Sycorax put on you and couldn’t undo. It was my magic that saved you when I arrived on the island and heard you, making the pine tree open and let you out."
+
+  - sp: ARIEL
+    o:
+      - "    I thank thee, master."
+    m:
+      - "Thank you, master."
+
+  - sp: PROSPERO
+    o:
+      - "If thou more murmur’st, I will rend an oak"
+      - "And peg thee in his knotty entrails till"
+      - "Thou hast howled away twelve winters."
+    m:
+      - "If you complain any more, I’ll split an oak tree and lock you up in it till you’ve howled for twelve years."
+
+  - sp: ARIEL
+    o:
+      - "    Pardon, master."
+      - "I will be correspondent to command"
+      - "And do my spiriting gently."
+    m:
+      - "Please forgive me, master. I’ll be obedient and do all my tasks without complaining."
+
+  - sp: PROSPERO
+    o:
+      - "  Do so, and after two days"
+      - "I will discharge thee."
+    m:
+      - "Do that, and I’ll set you free in two days."
+
+  - sp: ARIEL
+    o:
+      - "    That’s my noble master!"
+      - "What shall I do? Say, what? What shall I do?"
+    m:
+      - "That’s noble of you, master. What shall I do for you? Just tell me. What shall I do?"
+
+  - sp: PROSPERO
+    o:
+      - "Go make thyself like a nymph o’ th’ sea. Be subject"
+      - "To no sight but thine and mine, invisible"
+      - "To every eyeball else. Go take this shape"
+      - "And hither come in ’t. Go hence with diligence."
+    m:
+      - "Go disguise yourself as a sea nymph. Be invisible to everyone except yourself and me. Take this garment, put it on, and then come back here. Hurry, go!"
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - o:
+      - "*(to MIRANDA)*"
+      - "Awake, dear heart, awake! Thou hast slept well."
+      - "Awake!"
+    m:
+      - "*(to MIRANDA)* Wake up, my dear. Wake up. You’ve slept well. Wake up."
+
+  - sp: MIRANDA
+    o:
+      - "*(waking)* The strangeness of your story put"
+      - "Heaviness in me."
+    m:
+      - "*(waking up)* Your strange story made me groggy."
+
+  - sp: PROSPERO
+    o:
+      - "    Shake it off. Come on."
+      - "We’ll visit Caliban, my slave who never"
+      - "Yields us kind answer."
+    m:
+      - "Shake off your sleepiness. Come on. We’ll go visit Caliban, my slave who always talks to us so nastily."
+
+  - sp: MIRANDA
+    o:
+      - "    ’Tis a villain, sir,"
+      - "I do not love to look on."
+    m:
+      - "He’s an evil one, father. I don’t like him."
+
+  - sp: PROSPERO
+    o:
+      - "    But as ’tis,"
+      - "We cannot miss him. He does make our fire,"
+      - "Fetch in our wood, and serves in offices"
+      - "That profit us.—What, ho! Slave! Caliban!"
+      - "Thou earth, thou! Speak."
+    m:
+      - "But even so, we can’t do without him. He builds our fires, gets our firewood, and does all kinds of useful things for us.—Hey! Caliban! Pile of dirt! Say something."
+
+  - sp: CALIBAN
+    o:
+      - "*(within)*    There’s wood enough within."
+    m:
+      - "*(offstage)* You’ve got enough firewood already."
+
+  - sp: PROSPERO
+    o:
+      - "Come forth, I say! There’s other business for thee."
+      - "Come, thou tortoise! When?"
+    m:
+      - "Come out, I order you. There’s other work for you to do. Come on, you turtle!"
+
+  - os: "Enter ARIEL, like a water nymph"
+    ms: "ARIEL enters disguised as a water nymph."
+
+  - o:
+      - "Fine apparition! My quaint Ariel,"
+      - "Hark in thine ear. *(whispers to ARIEL)*"
+    m:
+      - "What a fine sight! My dear clever Ariel, listen carefully. *(he whispers to ARIEL)*"
+
+  - sp: ARIEL
+    o:
+      - "    My lord it shall be done."
+    m:
+      - "My lord, I’ll do it right away."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - sp: PROSPERO
+    o:
+      - "*(to CALIBAN)* Thou poisonous slave, got by the devil himself"
+      - "Upon thy wicked dam, come forth!"
+    m:
+      - "*(to CALIBAN)* You horrible slave, with a wicked hag for a mother and the devil himself for a father, come out!"
+
+  - os: "Enter CALIBAN"
+    ms: "CALIBAN enters."
+
+  - sp: CALIBAN
+    o:
+      - "As wicked dew as e’er my mother brushed"
+      - "With raven’s feather from unwholesome fen"
+      - "Drop on you both! A southwest blow on ye"
+      - "And blister you all o’er!"
+    m:
+      - "I hope you both get drenched with a dew as evil as what my mother used to collect with a crow’s feather from the poison swamps. May a hot southwest wind blow on you and cover you with blisters all over."
+
+  - sp: PROSPERO
+    o:
+      - "For this, be sure, tonight thou shalt have cramps,"
+      - "Side-stitches that shall pen thy breath up. Urchins"
+      - "Shall, forth at vast of night that they may work,"
+      - "All exercise on thee. Thou shalt be pinched"
+      - "As thick as honeycomb, each pinch more stinging"
+      - "Than bees that made ’em."
+    m:
+      - "I’ll give you cramps for saying that—horrible pains in your sides that will keep you from breathing. I’ll send goblins out at night to work their nasty deeds on you. You’ll be pricked all over, and it’ll sting like bees."
+
+  - sp: CALIBAN
+    o:
+      - "    I must eat my dinner."
+      - "This island’s mine, by Sycorax my mother,"
+      - "Which thou takest from me. When thou camest first,"
+      - "Thou strok’st me and made much of me, wouldst give me"
+      - "Water with berries in ’t, and teach me how"
+      - "To name the bigger light, and how the less,"
+      - "That burn by day and night. And then I loved thee"
+      - "And showed thee all the qualities o’ th’ isle,"
+      - "The fresh springs, brine pits, barren place and fertile."
+      - "Cursed be I that did so! All the charms"
+      - "Of Sycorax, toads, beetles, bats, light on you!"
+      - "For I am all the subjects that you have,"
+      - "Which first was mine own king. And here you sty me"
+      - "In this hard rock, whiles you do keep from me"
+      - "The rest o’ th’ island."
+    m:
+      - "I have to eat my dinner now. This island belongs to me because Sycorax, my mother, left it to me. But you’ve taken it from me. When you first got here, you petted me and took care of me, you would give me water with berries in it, and you taught me the names for the sun and the moon, the big light and the smaller light that burn in daytime and nighttime. I loved you back then. I showed you all the features of the island, the freshwater springs, the saltwater pits, the barren places and the fertile ones. I curse myself for doing that! I wish I could use all the magic spells of Sycorax against you and plague you with toads, beetles, and bats. I’m the only subject you have in your kingdom, and you were my first king, and you pen me up in this cave and don’t let me go anywhere else on the island."
+
+  - sp: PROSPERO
+    o:
+      - "    Thou most lying slave,"
+      - "Whom stripes may move, not kindness! I have used thee,"
+      - "Filth as thou art, with human care, and lodged thee"
+      - "In mine own cell till thou didst seek to violate"
+      - "The honor of my child."
+    m:
+      - "You liar, you respond better to the whip than to kindness! I took good care of you—piece of filth that you are—and let you stay in my own hut until you tried to rape my daughter."
+
+  - sp: CALIBAN
+    o:
+      - "Oh ho, oh ho! Would ’t had been done!"
+      - "Thou didst prevent me. I had peopled else"
+      - "This isle with Calibans."
+    m:
+      - "Oh ho, oh ho! I wish I had! You stopped me. If you hadn’t, I would have filled this island with a race of Calibans."
+
+  - sp: MIRANDA
+    o:
+      - "    Abhorrèd slave,"
+      - "Which any print of goodness wilt not take,"
+      - "Being capable of all ill! I pitied thee,"
+      - "Took pains to make thee speak, taught thee each hour"
+      - "One thing or other. When thou didst not, savage,"
+      - "Know thine own meaning, but wouldst gabble like"
+      - "A thing most brutish, I endowed thy purposes"
+      - "With words that made them known. But thy vile race,"
+      - "Though thou didst learn, had that in ’t which good natures"
+      - "Could not abide to be with. Therefore wast thou"
+      - "Deservedly confined into this rock,"
+      - "Who hadst deserved more than a prison."
+    m:
+      - "You horrid slave, you can’t be trained to be good, and you’re capable of anything evil! I pitied you, worked hard to teach you to speak, and taught you some new thing practically every hour. When you didn’t know what you were saying, and were babbling like an animal, I helped you find words to make your point understandable. But you had bad blood in you, no matter how much you learned, and good people couldn’t stand to be near you. So you got what you deserved, and were locked up in this cave, which is more fitting for the likes of you than a prison would be."
+
+  - sp: CALIBAN
+    o:
+      - "You taught me language, and my profit on ’t"
+      - "Is I know how to curse. The red plague rid you"
+      - "For learning me your language!"
+    m:
+      - "You taught me language, and all I can do with it is curse. Damn you for teaching me your language!"
+
+  - sp: PROSPERO
+    o:
+      - "    Hag-seed, hence!"
+      - "Fetch us in fuel. And be quick, thou ’rt best,"
+      - "To answer other business. Shrug’st thou, malice?"
+      - "If thou neglect’st or dost unwillingly"
+      - "What I command, I’ll rack thee with old cramps,"
+      - "Fill all thy bones with aches, make thee roar"
+      - "That beasts shall tremble at thy din."
+    m:
+      - "Get out of here, you son of a bitch! Bring us wood, and be quick about it. Are you shrugging and making faces, you evil thing? If you neglect my orders or do them grudgingly, I’ll double you up with pains and cramps, and make all your bones ache, and make you scream so loud that the wild animals will tremble when they hear you."
+
+  - sp: CALIBAN
+    o:
+      - "    No, pray thee."
+      - "*(aside)* I must obey. His art is of such power,"
+      - "It would control my dam’s god, Setebos,"
+      - "And make a vassal of him."
+    m:
+      - "No, please. *(to himself)* I have to obey. He’s got such strong magic powers that he could conquer and enslave the god, Setebos, that my mother used to worship."
+
+  - sp: PROSPERO
+    o:
+      - "    So, slave, hence!"
+    m:
+      - "Go then, slave."
+
+  - os: "Exit CALIBAN"
+    ms: "CALIBAN exits."
+
+  - os: "Enter FERDINAND and ARIEL, invisible, playing and singing"
+    ms: "FERDINAND enters with ARIEL, who is invisible and playing music and singing."
+
+  - sp: ARIEL
+    o:
+      - "*(sings)*"
+      - "  *Come unto these yellow sands*,"
+      - "  *And then take hands*."
+      - "  *Curtsied when you have, and kissed*"
+      - "  *The wild waves whist*."
+      - "  *Foot it featly here and there*,"
+      - "  *And, sweet sprites, bear*"
+      - "  *The burden. Hark, hark!*"
+    m:
+      - "*(singing)*"
+      - "  *Come onto these yellow sands*,"
+      - "  *And we’ll join hands*,"
+      - "  *When you’ve curtsied and kissed*"
+      - "  *The waves into silence*."
+      - "  *Prance lightly here and there*,"
+      - "  *And the sweet spirits bear*"
+      - "  *The burden. Listen, listen!*"
+
+  - sp: SPIRITS
+    o:
+      - "*(dispersedly, within)* Bow-wow."
+    m:
+      - "*(refrain of the song is heard offstage, from different places, not in unison)* Bow-wow."
+
+  - sp: ARIEL
+    o:
+      - "The watchdogs bark."
+    m:
+      - "The watchdogs bark."
+
+  - sp: SPIRITS
+    o:
+      - "*(within)* Bow-wow."
+    m:
+      - "*(offstage)* Bow-wow."
+
+  - sp: ARIEL
+    o:
+      - "Hark, hark! I hear"
+      - "The strain of strutting chanticleer"
+      - "Cry “Cock-a-diddle-dow.”"
+    m:
+      - "Listen, listen! I hear The tune of the strutting rooster who cries cock-a-doodle-doo."
+
+  - sp: FERDINAND
+    o:
+      - "Where should this music be? I’ th’ air or th’ earth?"
+      - "It sounds no more, and sure, it waits upon"
+      - "Some god o’ th’ island. Sitting on a bank,"
+      - "Weeping again the king my father’s wrack,"
+      - "This music crept by me upon the waters,"
+      - "Allaying both their fury and my passion"
+      - "With its sweet air. Thence I have followed it,"
+      - "Or it hath drawn me rather. But ’tis gone."
+      - "No, it begins again."
+    m:
+      - "Where’s that music coming from? From the earth, or the air? It’s stopped now—it must be played for some local god of the island. As I sat on the shore crying over my father’s shipwreck, I heard the music creep over the wild waves, calming their fury and soothing my own grief with its sweet melodies. I followed it here, or I should say it dragged me here. But now it’s stopped. No, there it is again."
+
+  - sp: ARIEL
+    o:
+      - "*(sings)*"
+      - "  *Full fathom five thy father lies*."
+      - "  *Of his bones are coral made*."
+      - "  *Those are pearls that were his eyes*."
+      - "  *Nothing of him that doth fade*,"
+      - "  *But doth suffer a sea-change*"
+      - "  *Into something rich and strange*."
+      - "  *Sea-nymphs hourly ring his knell*"
+    m:
+      - "*(singing)*"
+      - "  *Your father lies five whole fathoms below*,"
+      - "  *His bones have turned to coral now*."
+      - "  *His eyes have turned to pearls*."
+      - "  *There’s nothing left of him*,"
+      - "  *He’s undergone a complete sea change*"
+      - "  *And become something rich and strange*."
+      - "  *Sea nymphs ring his death bell every hour*."
+
+  - sp: SPIRITS
+    o:
+      - "*(within)* Ding-dong."
+    m:
+      - "*(refrain, offstage)* Ding-dong."
+
+  - sp: ARIEL
+    o:
+      - "Hark, now I hear them."
+    m:
+      - "Listen, I hear them."
+
+  - sp: SPIRITS
+    o:
+      - "*(within)*  Ding-dong, bell."
+    m:
+      - "Ding dong, bell."
+
+  - sp: FERDINAND
+    o:
+      - "The ditty does remember my drowned father."
+      - "This is no mortal business, nor no sound"
+      - "That the earth owes. I hear it now above me."
+    m:
+      - "This song’s about my dead father. It couldn’t be sung by mere mortals. I hear it now overhead."
+
+  - sp: PROSPERO
+    o:
+      - "*(to MIRANDA)* The fringèd curtains of thine eye advance"
+      - "And say what thou seest yond."
+    m:
+      - "*(to MIRANDA)* Raise the curtains of your eyelids and go take a peek at what you can see out there."
+
+  - sp: MIRANDA
+    o:
+      - "    What is ’t? A spirit?"
+      - "Lord, how it looks about! Believe me, sir,"
+      - "It carries a brave form. But ’tis a spirit."
+    m:
+      - "What is it? A spirit? Lord, it’s glancing every which way! How handsome it is. It must be a spirit."
+
+  - sp: PROSPERO
+    o:
+      - "No, wench! It eats and sleeps and hath such senses"
+      - "As we have, such. This gallant which thou seest"
+      - "Was in the wrack. And, but he’s something stained"
+      - "With grief that’s beauty’s canker, thou mightst call him"
+      - "A goodly person. He hath lost his fellows"
+      - "And strays about to find ’em."
+    m:
+      - "No, girl! It eats and sleeps and has the same five senses we do. The gentleman you see now was in the shipwreck, and if he weren’t a little spoiled by grief, which always ruins good looks, you could call him handsome. He’s lost his comrades and is wandering around looking for them."
+
+  - sp: MIRANDA
+    o:
+      - "    I might call him"
+      - "A thing divine, for nothing natural"
+      - "I ever saw so noble."
+    m:
+      - "I could imagine he’s divine, since I never saw anything so noble-looking on earth before."
+
+  - sp: PROSPERO
+    o:
+      - "*(aside)*    It goes on, I see,"
+      - "As my soul prompts it.—Spirit, fine spirit! I’ll free thee"
+      - "Within two days for this."
+    m:
+      - "*(to himself)* It’s all happening according to plan, just as my soul wanted it to happen. *(to ARIEL)* Spirit, you fine spirit, I’ll set you free in two days for doing such a good job here."
+
+  - sp: FERDINAND
+    o:
+      - "*(seeing MIRANDA)*  Most sure, the goddess"
+      - "On whom these airs attend!—Vouchsafe my prayer"
+      - "May know if you remain upon this island,"
+      - "And that you will some good instruction give"
+      - "How I may bear me here. My prime request,"
+      - "Which I do last pronounce, is—O you wonder!—"
+      - "If you be maid or no."
+    m:
+      - "*(seeing MIRANDA)* This must surely be the goddess that the music is being played for!—Please, I beg you to answer me, tell me if you live on this island, and tell me how I should behave here. My main question, which I save for the last, is—Oh, you marvelous creature!—are you a maiden or a goddess?"
+
+  - sp: MIRANDA
+    o:
+      - "  No wonder, sir,"
+      - "But certainly a maid."
+    m:
+      - "I’m not marvelous, sir, but I’m certainly a maiden."
+
+  - sp: FERDINAND
+    o:
+      - "  My language! Heavens,"
+      - "I am the best of them that speak this speech,"
+      - "Were I but where ’tis spoken."
+    m:
+      - "She speaks my language! My God, I’m the highest-ranking person who speaks this language—if only we were back where it’s spoken."
+
+  - sp: PROSPERO
+    o:
+      - "  How? The best?"
+      - "What wert thou if the King of Naples heard thee?"
+    m:
+      - "What’s that? The highest-ranking? What would the King of Naples do if he heard you say that?"
+
+  - sp: FERDINAND
+    o:
+      - "A single thing, as I am now, that wonders"
+      - "To hear thee speak of Naples. He does hear me,"
+      - "And that he does I weep. Myself am Naples,"
+      - "Who with mine eyes, never since at ebb, beheld"
+      - "The king my father wracked."
+    m:
+      - "He would just see me for what I am, a person amazed to hear you talking about Naples. He does hear me, and that makes me cry. I myself am the King of Naples, since I saw with my own eyes—these eyes that haven’t been dry since—my father killed in a shipwreck."
+
+  - sp: MIRANDA
+    o:
+      - "  Alack, for mercy!"
+    m:
+      - "Ah, how pitiful!"
+
+  - sp: FERDINAND
+    o:
+      - "Yes, faith, and all his lords, the Duke of Milan"
+      - "And his brave son being twain."
+    m:
+      - "Yes, indeed, and all the King’s men, the Duke of Milan and his fine son too."
+
+  - sp: PROSPERO
+    o:
+      - "*(aside)*   The Duke of Milan"
+      - "And his more braver daughter could control thee"
+      - "If now ’twere fit to do ’t! At the first sight"
+      - "They have changed eyes.—Delicate Ariel,"
+      - "I’ll set thee free for this."
+      - "*(to FERDINAND)*"
+      - "  A word, good sir."
+      - "I fear you have done yourself some wrong. A word."
+    m:
+      - "*(to himself)* The real Duke of Milan and his far finer daughter could beat you in a heartbeat, if it were the right time. They’ve fallen in love at first sight!—Wonderful Ariel, I’ll set you free for doing such good work here. *(to FERDINAND)* Could I have a word with you, sir? I’m afraid you’ve made a mistake. Just a word."
+
+  - sp: MIRANDA
+    o:
+      - "*(aside)* Why speaks my father so ungently? This"
+      - "Is the third man that e’er I saw, the first"
+      - "That e’er I sighed for. Pity move my father"
+      - "To be inclined my way!"
+    m:
+      - "*(to herself)* Why is my father speaking to him so rudely? This is the third man I’ve ever seen in my life, and the first one I’ve felt romantic feelings for. I hope my father takes pity on me and treats him well for my sake!"
+
+  - sp: FERDINAND
+    o:
+      - "*(to MIRANDA)*"
+      - "    Oh, if a virgin,"
+      - "And your affection not gone forth, I’ll make you"
+      - "The queen of Naples."
+    m:
+      - "Oh, if you’re a virgin, and you haven’t given your heart to another man, then I’ll make you the queen of Naples."
+
+  - sp: PROSPERO
+    o:
+      - "  Soft, sir! One word more."
+      - "*(aside)*"
+      - "They are both in either’s powers, but this swift business"
+      - "I must uneasy make lest too light winning"
+      - "Make the prize light."
+      - "*(to FERDINAND)*"
+      - "  One word more. I charge thee"
+      - "That thou attend me. Thou dost here usurp"
+      - "The name thou owest not, and hast put thyself"
+      - "Upon this island as a spy to win it"
+      - "From me, the lord on ’t."
+    m:
+      - "Hang on, sir! Just a moment. *(to himself)* They’re both in love. But I need to cause a little trouble between them, or else they’ll never appreciate the value of their love. *(to FERDINAND)* I need a word with you, sir. I order you to listen to me. You’re calling yourself by a name that doesn’t belong to you. You’ve come onto this island as a spy, to snatch it away from me—I’m the rightful lord of it."
+
+  - sp: FERDINAND
+    o:
+      - "No, as I am a man!"
+    m:
+      - "No, I swear, that’s not true!"
+
+  - sp: MIRANDA
+    o:
+      - "There’s nothing ill can dwell in such a temple."
+      - "If the ill spirit have so fair a house,"
+      - "Good things will strive to dwell with ’t."
+    m:
+      - "A man as handsome as that can’t have anything evil in him. If the devil had such a beautiful house as his body, then good things would fight to live in it."
+
+  - sp: PROSPERO
+    o:
+      - "*(to FERDINAND)*   Follow me."
+      - "*(to MIRANDA)* Speak not you for him. He’s a traitor."
+      - "*(to FERDINAND)*    Come,"
+      - "I’ll manacle thy neck and feet together."
+      - "Seawater shalt thou drink. Thy food shall be"
+      - "The fresh-brook mussles, withered roots, and husks"
+      - "Wherein the acorn cradled. Follow."
+    m:
+      - "*(to FERDINAND)* Follow me. *(to MIRANDA)* Don’t defend him. He’s a traitor. *(to FERDINAND)* Come on, I’ll chain your neck and feet together, and I’ll give you sea water to drink. Your food will be slugs, dry roots, and acorn shells. Come on."
+
+  - sp: FERDINAND
+    o:
+      - "    No."
+      - "I will resist such entertainment till"
+      - "Mine enemy has more power."
+    m:
+      - "No, I’ll have to decline that offer—at least as long as I’m stronger than you are."
+
+  - os: "FERDINAND draws his sword, and is charmed from moving"
+    ms: "FERDINAND takes out his sword, but PROSPERO casts a spell on him that freezes him in place."
+
+  - sp: MIRANDA
+    o:
+      - "    O dear father,"
+      - "Make not too rash a trial of him, for"
+      - "He’s gentle and not fearful."
+    m:
+      - "Oh, dear father, don’t judge him too quickly. He’s a good man, and brave too."
+
+  - sp: PROSPERO
+    o:
+      - "    What, I say?"
+      - "My foot my tutor?—Put thy sword up, traitor,"
+      - "Who makest a show but darest not strike, thy conscience"
+      - "Is so possessed with guilt. Come from thy ward,"
+      - "For I can here disarm thee with this stick"
+      - "And make thy weapon drop."
+    m:
+      - "What’s that? The daughter knows more than the father?—Put away your sword, traitor. You make quite a show there, but you’re too scared to strike at me, since you feel too guilty. Get out of that position, because I can disarm you with my magic wand and make your sword drop."
+
+  - sp: MIRANDA
+    o:
+      - "    Beseech you, father."
+    m:
+      - "Please, father, I beg you."
+
+  - sp: PROSPERO
+    o:
+      - "Hence! Hang not on my garments."
+    m:
+      - "Let go of me! Don’t tug on my clothes."
+
+  - sp: MIRANDA
+    o:
+      - "    Sir, have pity,"
+      - "I’ll be his surety."
+    m:
+      - "Father, take pity on him. I’ll guarantee his goodness myself."
+
+  - sp: PROSPERO
+    o:
+      - "  Silence! One word more"
+      - "Shall make me chide thee, if not hate thee. What,"
+      - "An advocate for an imposter? Hush,"
+      - "Thou think’st there is no more such shapes as he,"
+      - "Having seen but him and Caliban. Foolish wench,"
+      - "To th’ most of men this is a Caliban"
+      - "And they to him are angels."
+    m:
+      - "Quiet! If you say one more word, I’ll punish you, maybe even hate you. You’re defending an impostor? Be quiet. You think he’s special, since you’ve only ever seen him and Caliban. Foolish girl, in the eyes of most people this man’s a Caliban, and compared to him, they’re angels."
+
+  - sp: MIRANDA
+    o:
+      - "    My affections"
+      - "Are then most humble. I have no ambition"
+      - "To see a goodlier man."
+    m:
+      - "Then my love is humble. I don’t feel any urge to see a more handsome man than this one."
+
+  - sp: PROSPERO
+    o:
+      - "*(to FERDINAND)*   Come on. Obey."
+      - "Thy nerves are in their infancy again"
+      - "And have no vigor in them."
+    m:
+      - "*(to FERDINAND)* Come on. Obey my orders. Your muscles are all limp and lifeless."
+
+  - sp: FERDINAND
+    o:
+      - "    So they are."
+      - "My spirits, as in a dream, are all bound up."
+      - "My father’s loss, the weakness which I feel,"
+      - "The wrack of all my friends, nor this man’s threats,"
+      - "To whom I am subdued, are but light to me,"
+      - "Might I but through my prison once a day"
+      - "Behold this maid. All corners else o’ th’ earth"
+      - "Let liberty make use of. Space enough"
+      - "Have I in such a prison."
+    m:
+      - "That’s true, they are. My strength is all gone, as if in a dream. The death of my father, my physical weakness, the loss of all my friends, the threats of this man who’s taken me prisoner—all that would be easy for me to take, if only I could look through my prison windows once a day and see this girl. I don’t need any more freedom than that. A prison like that would give me enough liberty."
+
+  - sp: PROSPERO
+    o:
+      - "*(aside)*  It works!"
+      - "*(to FERDINAND)*    Come on."
+      - "*(aside)* Thou hast done well, fine Ariel!"
+      - "*(to FERDINAND)*    Follow me."
+      - "*(to ARIEL)* Hark what thou else shalt do me."
+    m:
+      - "*(to himself)* It’s working! *(to FERDINAND)* Come on. *(to himself)* You’ve done well, Ariel.*(to FERDINAND)* Follow me. *(to ARIEL)* Listen to what you’ll do for me next."
+
+  - sp: MIRANDA
+    o:
+      - "*(to FERDINAND)*  Be of comfort."
+      - "My father’s of a better nature, sir,"
+      - "Than he appears by speech. This is unwonted"
+      - "Which now came from him."
+    m:
+      - "*(to FERDINAND)* Don’t worry, my father’s kinder than his words just now make him sound. What he said didn’t sound like him at all."
+
+  - sp: PROSPERO
+    o:
+      - "*(to ARIEL)*  Thou shalt be free"
+      - "As mountain winds. But then exactly do"
+      - "All points of my command."
+    m:
+      - "*(to ARIEL)* You’ll be free as a bird. But you have to do exactly what I order."
+
+  - sp: ARIEL
+    o:
+      - "To th’ syllable."
+    m:
+      - "Down to the last detail."
+
+  - sp: PROSPERO
+    o:
+      - "*(to FERDINAND)* Come, follow."
+      - "*(to MIRANDA)*—Speak not for him."
+    m:
+      - "*(to FERDINAND)* Come, follow me. *(to MIRANDA)* Don’t defend him."
+
+  - os: "Exeunt"
+    ms: "They exit."

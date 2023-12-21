@@ -1,0 +1,22 @@
+play: Sonnets
+title: Sonnet 13
+group: 1
+order: 12
+text:
+  - o:
+      - "O that you were yourself! But, love, you are"
+      - "No longer yours than you yourself here live."
+      - "Against this coming end you should prepare,"
+      - "And your sweet semblance to some other give."
+      - "So should that beauty which you hold in lease"
+      - "Find no determination; then you were"
+      - "Yourself again after yourself’s decease,"
+      - "When your sweet issue your sweet form should bear."
+      - "Who lets so fair a house fall to decay,"
+      - "Which husbandry in honor might uphold"
+      - "Against the stormy gusts of winter’s day"
+      - "And barren rage of death’s eternal cold?"
+      - "  O, none but unthrifts, dear my love you know,"
+      - "  You had a father; let your son say so."
+    m:
+      - "Oh, how I wish you were yourself! But, my love, your identity will only last as long as you’re alive. You should make preparations in anticipation of your inevitable death and pass on your beautiful appearance to someone else. That way, your beauty, which you’ve only borrowed, wouldn’t have to end. Then, even after you died, your beautiful body would be renewed in your children. Who would let such a beautiful house fall into disrepair when prudent maintenance might make it outlast the stormy gusts of winter and the frustrating barrenness surrounding death? Only the most irresponsible spender could do such a thing, you know, my dear love. You had a father—let your son be able to say the same."

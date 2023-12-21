@@ -1,0 +1,398 @@
+play: Richard II
+title: Act 3, Scene 2
+group: 3
+order: 9
+text:
+  - os: "The coast of Wales. A castle in view."
+    ms: "The coast of Wales. A castle is in view."
+
+  - os: "Drums; flourish and colours."
+    ms: "Drums are played. Trumpets blow. Military flags are carried onstage."
+
+  - os: "Enter KING RICHARD II, the BISHOP OF CARLISLE, DUKE OF AUMERLE, and Soldiers"
+    ms: "KING RICHARD II, the BISHOP OF CARLISLE, the DUKE OF AUMERLE, and some soldiers enter."
+
+  - sp: KING RICHARD II
+    o:
+      - "Barkloughly castle call they this at hand?"
+    m:
+      - "Do they call this castle Barkloughly castle?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Yea, my lord. How brooks your grace the air,"
+      - "After your late tossing on the breaking seas?"
+    m:
+      - "Yes, my lord. How do you like it here, after you’ve been tossing about on the open seas?"
+
+  - sp: KING RICHARD II
+    o:
+      - "Needs must I like it well: I weep for joy"
+      - "To stand upon my kingdom once again."
+      - "Dear earth, I do salute thee with my hand,"
+      - "Though rebels wound thee with their horses’ hoofs:"
+      - "As a long-parted mother with her child"
+      - "Plays fondly with her tears and smiles in meeting,"
+      - "So, weeping, smiling, greet I thee, my earth,"
+      - "And do thee favours with my royal hands."
+      - "Feed not thy sovereign’s foe, my gentle earth,"
+      - "Nor with thy sweets comfort his ravenous sense;"
+      - "But let thy spiders, that suck up thy venom,"
+      - "And heavy-gaited toads lie in their way,"
+      - "Doing annoyance to the treacherous feet"
+      - "Which with usurping steps do trample thee:"
+      - "Yield stinging nettles to mine enemies;"
+      - "And when they from thy bosom pluck a flower,"
+      - "Guard it, I pray thee, with a lurking adder"
+      - "Whose double tongue may with a mortal touch"
+      - "Throw death upon thy sovereign’s enemies."
+      - "Mock not my senseless conjuration, lords:"
+      - "This earth shall have a feeling and these stones"
+      - "Prove armed soldiers, ere her native king"
+      - "Shall falter under foul rebellion’s arms."
+    m:
+      - "Of course I like it here. Standing here on my kingdom again makes me cry with joy. Dear earth, I salute you, even though insurgents are wounding you by riding their horses over you. Like a mother who has been away from her child for a long time, I cry and smile and greet you. Please, gentle earth, provide no nourishment or shelter for my enemies. Instead, let your venomous spiders and your toads get in their way. Put stinging nettles in their path. And when they pick a flower from the ground, let a poisonous snake bite and kill them. Lords, don’t make fun of me for asking this. The earth will have feelings, and these stones will turn into armed soldiers, before I, England’s legitimate king, let these terrible rebels defeat us."
+
+  - sp: BISHOP OF CARLISLE
+    o:
+      - "Fear not, my lord: that Power that made you king"
+      - "Hath power to keep you king in spite of all."
+      - "The means that heaven yields must be embraced,"
+      - "And not neglected; else, if heaven would,"
+      - "And we will not, heaven’s offer we refuse,"
+      - "The proffer’d means of succor and redress."
+    m:
+      - "Don’t worry, my lord, the power that made you king is the same power that will keep you king in spite of all these troubles. We must embrace the opportunities that God gives us and not neglect them. Otherwise, we’re rejecting both God’s protection from these problems as well as his solution for them."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "He means, my lord, that we are too remiss;"
+      - "Whilst Bolingbroke, through our security,"
+      - "Grows strong and great in substance and in power."
+    m:
+      - "What he means, my lord, is that we’re being neglectful because of overconfidence, while Bolingbroke is growing stronger."
+
+  - sp: KING RICHARD II
+    o:
+      - "Discomfortable cousin! know’st thou not"
+      - "That when the searching eye of heaven is hid,"
+      - "Behind the globe, that lights the lower world,"
+      - "Then thieves and robbers range abroad unseen"
+      - "In murders and in outrage, boldly here;"
+      - "But when from under this terrestrial ball"
+      - "He fires the proud tops of the eastern pines"
+      - "And darts his light through every guilty hole,"
+      - "Then murders, treasons and detested sins,"
+      - "The cloak of night being pluck’d from off their backs,"
+      - "Stand bare and naked, trembling at themselves?"
+      - "So when this thief, this traitor, Bolingbroke,"
+      - "Who all this while hath revell’d in the night"
+      - "Whilst we were wandering with the antipodes,"
+      - "Shall see us rising in our throne, the east,"
+      - "His treasons will sit blushing in his face,"
+      - "Not able to endure the sight of day,"
+      - "But self-affrighted tremble at his sin."
+      - "Not all the water in the rough rude sea"
+      - "Can wash the balm off from an anointed king;"
+      - "The breath of worldly men cannot depose"
+      - "The deputy elected by the Lord:"
+      - "For every man that Bolingbroke hath press’d"
+      - "To lift shrewd steel against our golden crown,"
+      - "God for his Richard hath in heavenly pay"
+      - "A glorious angel: then, if angels fight,"
+      - "Weak men must fall, for heaven still guards the right."
+    m:
+      - "You are so discouraging, cousin! Don’t you know that at nighttime, when the sun has set, thieves roam the earth unseen, boldly committing murder and other crimes? But when the sun comes up and lights the treetops and every dark hole, then those same criminals stand trembling with no way to hide. So when this thief, this traitor Bolingbroke, who has been committing all these crimes during the nighttime, sees us coming up with the sun, he’ll be ashamed and will tremble at the light of day. All the water in an ocean can’t wash away a king’s right to the throne. Mere mortals can’t get rid of someone who has been appointed by God. For every solider Bolingbroke has enlisted to fight against me, God has given me an angel. And when angels fight, the weak men fall, since heaven always guards those who are right."
+
+  - os: "Enter EARL OF SALISBURY"
+    ms: "EARL OF SALISBURY enters."
+
+  - o:
+      - "Welcome, my lord how far off lies your power?"
+    m:
+      - "Welcome, my lord. How far away is your army?"
+
+  - sp: EARL OF SALISBURY
+    o:
+      - "Nor near nor farther off, my gracious lord,"
+      - "Than this weak arm: discomfort guides my tongue"
+      - "And bids me speak of nothing but despair."
+      - "One day too late, I fear me, noble lord,"
+      - "Hath clouded all thy happy days on earth:"
+      - "O, call back yesterday, bid time return,"
+      - "And thou shalt have twelve thousand fighting men!"
+      - "To-day, to-day, unhappy day, too late,"
+      - "O’erthrows thy joys, friends, fortune and thy state:"
+      - "For all the Welshmen, hearing thou wert dead."
+      - "Are gone to Bolingbroke, dispersed and fled."
+    m:
+      - "My army consists only of me, and I am too upset to talk of anything but despair. We are one day too late and have lost our chance of seeing happy times again. Oh, I wish it were still yesterday. If we could go back in time, we’d have twelve thousand men ready to fight on our side! Today, today—it is an unhappy day. Today has taken away any chance for joy, friends, wealth, and power. All the Welshmen heard that you were dead, and they’ve all joined Bolingbroke’s army."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Comfort, my liege; why looks your grace so pale?"
+    m:
+      - "Cheer up, my lord. Why are you so pale?"
+
+  - sp: KING RICHARD II
+    o:
+      - "But now the blood of twenty thousand men"
+      - "Did triumph in my face, and they are fled;"
+      - "And, till so much blood thither come again,"
+      - "Have I not reason to look pale and dead?"
+      - "All souls that will be safe fly from my side,"
+      - "For time hath set a blot upon my pride."
+    m:
+      - "Only a moment ago, I had twenty thousand men fighting for me, and now they’ve all fled. Until they return, aren’t I allowed to look as pale as if I were dead? Anyone who wants to be safe flees from me, as recent events have tarnished my reputation."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Comfort, my liege; remember who you are."
+    m:
+      - "Cheer up, my lord. Don’t forget that you’re the king."
+
+  - sp: KING RICHARD II
+    o:
+      - "I had forgot myself; am I not king?"
+      - "Awake, thou coward majesty! thou sleepest."
+      - "Is not the king’s name twenty thousand names?"
+      - "Arm, arm, my name! a puny subject strikes"
+      - "At thy great glory. Look not to the ground,"
+      - "Ye favourites of a king: are we not high?"
+      - "High be our thoughts: I know my uncle York"
+      - "Hath power enough to serve our turn. But who comes here?"
+    m:
+      - "I forgot. I’m the king, aren’t I? Awake, you cowardly king. You’re sleeping. Isn’t being the king worth as much as twenty thousand men? Prepare for action, my name! A young and weak subject is trying to damage your glory. Don’t hang your head low. You favorite men of the king—aren’t we high above them all? Then we should aim high as well: I know my uncle York has enough troops for our needs. But who’s coming now?"
+
+  - os: "Enter SIR STEPHEN SCROOP"
+    ms: "SIR STEPHEN SCROOP enters."
+
+  - sp: SIR STEPHEN SCROOP
+    o:
+      - "More health and happiness betide my liege"
+      - "Than can my care-tuned tongue deliver him!"
+    m:
+      - "I hope more health and happiness come to you, my lord, than my grief-stricken tongue can offer."
+
+  - sp: KING RICHARD II
+    o:
+      - "Mine ear is open and my heart prepared;"
+      - "The worst is worldly loss thou canst unfold."
+      - "Say, is my kingdom lost? why, ’twas my care"
+      - "And what loss is it to be rid of care?"
+      - "Strives Bolingbroke to be as great as we?"
+      - "Greater he shall not be; if he serve God,"
+      - "We’ll serve Him too and be his fellow so:"
+      - "Revolt our subjects? that we cannot mend;"
+      - "They break their faith to God as well as us:"
+      - "Cry woe, destruction, ruin and decay:"
+      - "The worst is death, and death will have his day."
+    m:
+      - "My ears are open, and my heart is ready. The worst you can tell me about are losses for me here on earth. So, did I lose my kingdom? It was my problem, and what loss is it to be rid of a problem? Is Bolingbroke still trying to overthrow me? If he serves God, we will serve God, too, and then the two of us will be merely equals. Are our subjects revolting? We can’t fix that. They break their faith with God as well as with us. Though you may cry out about woe, destruction, ruin, and decay, death is the worst fate of all, and the time for death will come."
+
+  - sp: SIR STEPHEN SCROOP
+    o:
+      - "Glad am I that your highness is so arm’d"
+      - "To bear the tidings of calamity."
+      - "Like an unseasonable stormy day,"
+      - "Which makes the silver rivers drown their shores,"
+      - "As if the world were all dissolved to tears,"
+      - "So high above his limits swells the rage"
+      - "Of Bolingbroke, covering your fearful land"
+      - "With hard bright steel and hearts harder than steel."
+      - "White-beards have arm’d their thin and hairless scalps"
+      - "Against thy majesty; boys, with women’s voices,"
+      - "Strive to speak big and clap their female joints"
+      - "In stiff unwieldy arms against thy crown:"
+      - "The very beadsmen learn to bend their bows"
+      - "Of double-fatal yew against thy state;"
+      - "Yea, distaff-women manage rusty bills"
+      - "Against thy seat: both young and old rebel,"
+      - "And all goes worse than I have power to tell."
+    m:
+      - "I’m glad that your highness is prepared for the worst. Bolingbroke is bursting with rage and his army is attacking all across England. It’s like an unexpected flood that makes it seem like the world is crying. Even old men with white beards have joined forces against your majesty, and young boys who still speak in high-pitched voices. The men whom we paid to pray for us are also now on their side, and women are fighting against you as well. Everything is going far worse for you than I can possibly describe."
+
+  - sp: KING RICHARD II
+    o:
+      - "Too well, too well thou tell’st a tale so ill."
+      - "Where is the Earl of Wiltshire? where is Bagot?"
+      - "What is become of Bushy? where is Green?"
+      - "That they have let the dangerous enemy"
+      - "Measure our confines with such peaceful steps?"
+      - "If we prevail, their heads shall pay for it:"
+      - "I warrant they have made peace with Bolingbroke."
+    m:
+      - "You are describing these horrible things too vividly. Where is the Earl of Wiltshire? Where is Bagot? What happened to Bushy? Where is Green? They didn’t let the dangerous enemy cross over our territories without any opposition, did they? If we win, they’ll pay for their failures with their heads. I’ll bet they’ve made peace with Bolingbroke."
+
+  - sp: SIR STEPHEN SCROOP
+    o:
+      - "Peace have they made with him indeed, my lord."
+    m:
+      - "Oh, yes, they’ve made peace, my lord."
+
+  - sp: KING RICHARD II
+    o:
+      - "O villains, vipers, damn’d without redemption!"
+      - "Dogs, easily won to fawn on any man!"
+      - "Snakes, in my heart-blood warm’d, that sting my heart!"
+      - "Three Judases, each one thrice worse than Judas!"
+      - "Would they make peace? terrible hell make war"
+      - "Upon their spotted souls for this offence!"
+    m:
+      - "Oh, they are villains and vipers, damned without any hope for redemption! They’re like dogs that will suck up to anyone! They’re three Judases, but each three times worse than Judas! I hope their guilt-stained souls are punished terribly for what they’ve done!"
+
+  - sp: SIR STEPHEN SCROOP
+    o:
+      - "Sweet love, I see, changing his property,"
+      - "Turns to the sourest and most deadly hate:"
+      - "Again uncurse their souls; their peace is made"
+      - "With heads, and not with hands; those whom you curse"
+      - "Have felt the worst of death’s destroying wound"
+      - "And lie full low, graved in the hollow ground."
+    m:
+      - "I see how your love turns into the deadliest of hatred. Please, take back your curses. Their peace wasn’t made by joining forces with Bolingbroke. It was made with God, when they were executed. They are all in their graves now."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Is Bushy, Green, and the Earl of Wiltshire dead?"
+    m:
+      - "Are Bushy, Green, and the Earl of Wiltshire dead?"
+
+  - sp: SIR STEPHEN SCROOP
+    o:
+      - "Ay, all of them at Bristol lost their heads."
+    m:
+      - "Yes, they were all beheaded at Bristol."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Where is the duke my father with his power?"
+    m:
+      - "Where is my father with his army?"
+
+  - sp: KING RICHARD II
+    o:
+      - "No matter where; of comfort no man speak:"
+      - "Let’s talk of graves, of worms, and epitaphs;"
+      - "Make dust our paper and with rainy eyes"
+      - "Write sorrow on the bosom of the earth,"
+      - "Let’s choose executors and talk of wills:"
+      - "And yet not so, for what can we bequeath"
+      - "Save our deposed bodies to the ground?"
+      - "Our lands, our lives and all are Bolingbroke’s,"
+      - "And nothing can we call our own but death"
+      - "And that small model of the barren earth"
+      - "Which serves as paste and cover to our bones."
+      - "For God’s sake, let us sit upon the ground"
+      - "And tell sad stories of the death of kings;"
+      - "How some have been deposed; some slain in war,"
+      - "Some haunted by the ghosts they have deposed;"
+      - "Some poison’d by their wives: some sleeping kill’d;"
+      - "All murder’d: for within the hollow crown"
+      - "That rounds the mortal temples of a king"
+      - "Keeps Death his court and there the antic sits,"
+      - "Scoffing his state and grinning at his pomp,"
+      - "Allowing him a breath, a little scene,"
+      - "To monarchize, be fear’d and kill with looks,"
+      - "Infusing him with self and vain conceit,"
+      - "As if this flesh which walls about our life,"
+      - "Were brass impregnable, and humour’d thus"
+      - "Comes at the last and with a little pin"
+      - "Bores through his castle wall, and farewell king!"
+      - "Cover your heads and mock not flesh and blood"
+      - "With solemn reverence: throw away respect,"
+      - "Tradition, form and ceremonious duty,"
+      - "For you have but mistook me all this while:"
+      - "I live with bread like you, feel want,"
+      - "Taste grief, need friends: subjected thus,"
+      - "How can you say to me, I am a king?"
+    m:
+      - "It doesn’t matter where he is. Let’s not try to cheer ourselves up. We must talk about graves and worms and epitaphs. We’ll make the dust our paper and use our tears to write a message of sorrow on the earth. Let’s choose our executors and talk of wills. And, yet, what can we bequeath to anyone other than leaving our rotting bodies to the ground? Our lands and our lives now belong to Bolingbroke, and we can call nothing our own except for our deaths and that little patch of earth that will cover our buried bodies. For God’s sake, let’s sit on the ground and tell sad stories of the death of kings, how some were overthrown and others killed in war. Some were haunted by the ghosts of the kings they had overthrown. Still others were poisoned by their wives, while others were killed in their sleep. All of them, however, were murdered. There is always death around kings, and there’s no way to escape it. Death laughs at the king’s reign and mocks his great ceremonies, allowing him to live a little while and play the monarch. Death fills him with pride as if the king’s body were immortal, and at the end death comes and with little effort kills the body. Then goodbye, king! So stop treating me so respectfully. There’s no need to pretend that I am any different than you. You’ve been wrong about me all this time. I feel all the same things that you do. I have desires and feel sad and need friends, just like you. How, then, can you say that I’m a king?"
+
+  - sp: BISHOP OF CARLISLE
+    o:
+      - "My lord, wise men ne’er sit and wail their woes,"
+      - "But presently prevent the ways to wail."
+      - "To fear the foe, since fear oppresseth strength,"
+      - "Gives in your weakness strength unto your foe,"
+      - "And so your follies fight against yourself."
+      - "Fear and be slain; no worse can come to fight:"
+      - "And fight and die is death destroying death;"
+      - "Where fearing dying pays death servile breath."
+    m:
+      - "My lord, wise men never sit and feel sorry for themselves but try to fix the causes of their sorrow. Since fear weakens you, fearing your enemy only works against you and helps your enemy. If you’re scared, you’ll die. That’s the worst that can happen in battle. But fighting and dying is a way of beating death, because then you die nobly. But being scared and dying gives death the victory."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "My father hath a power; inquire of him"
+      - "And learn to make a body of a limb."
+    m:
+      - "My father has soldiers. Let’s figure out where he is and make an army out of the men he has."
+
+  - sp: KING RICHARD II
+    o:
+      - "Thou chidest me well: proud Bolingbroke, I come"
+      - "To change blows with thee for our day of doom."
+      - "This ague fit of fear is over-blown;"
+      - "An easy task it is to win our own."
+      - "Say, Scroop, where lies our uncle with his power?"
+      - "Speak sweetly, man, although thy looks be sour."
+    m:
+      - "Your scolding does me good. Proud Bolingbroke, I’ll exchange blows with you on our day of destiny. My fit of fear has passed. It should be easy to get our men together. Scroop, where is my uncle with his men? Tell me good news, man, even though you look bad."
+
+  - sp: SIR STEPHEN SCROOP
+    o:
+      - "Men judge by the complexion of the sky"
+      - "The state and inclination of the day:"
+      - "So may you by my dull and heavy eye,"
+      - "My tongue hath but a heavier tale to say."
+      - "I play the torturer, by small and small"
+      - "To lengthen out the worst that must be spoken:"
+      - "Your uncle York is join’d with Bolingbroke,"
+      - "And all your northern castles yielded up,"
+      - "And all your southern gentlemen in arms"
+      - "Upon his party."
+    m:
+      - "Men often determine what the day is going to be like by looking at the sky, so you should know by my dull and gloomy eyes that I’m about to deliver bad news. I’m acting like a torturer, drawing out the pain of what I have to say. Your uncle York has joined forces with Bolingbroke. They have possession of all your northern castles now, and all your men of rank in the south are fighting for them, too."
+
+  - sp: KING RICHARD II
+    o:
+      - "Thou hast said enough."
+    m:
+      - "You have said enough."
+
+  - os: "To DUKE OF AUMERLE"
+    ms: "To the DUKE OF AUMERLE"
+
+  - o:
+      - "Beshrew thee, cousin, which didst lead me forth"
+      - "Of that sweet way I was in to despair!"
+      - "What say you now? what comfort have we now?"
+      - "By heaven, I’ll hate him everlastingly"
+      - "That bids me be of comfort any more."
+      - "Go to Flint castle: there I’ll pine away;"
+      - "A king, woe’s slave, shall kingly woe obey."
+      - "That power I have, discharge; and let them go"
+      - "To ear the land that hath some hope to grow,"
+      - "For I have none: let no man speak again"
+      - "To alter this, for counsel is but vain."
+    m:
+      - "I curse you, cousin, for convincing me not to be sad anymore. What do you have to say now? What comforts us now? I swear to God, I will forever hate the man who tells me not to despair now. Go to Flint Castle. That’s where I will wait. I am a king, but I am a slave of sorrow, and I will follow sorrow’s orders. Tell my army that they may leave and go work for some cause that has hope, since I have none. I don’t want to hear anyone trying to change my mind. Any advice is pointless."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "My liege, one word."
+    m:
+      - "My lord, may I have a word."
+
+  - sp: KING RICHARD II
+    o:
+      - "He does me double wrong"
+      - "That wounds me with the flatteries of his tongue."
+      - "Discharge my followers: let them hence away,"
+      - "From Richard’s night to Bolingbroke’s fair day."
+    m:
+      - "The person who tries to convince me again not to despair will become the second person to treat me poorly. Let my army go. England will be Bolingbroke’s very soon."
+
+  - os: "Exeunt"
+    ms: "They exit."

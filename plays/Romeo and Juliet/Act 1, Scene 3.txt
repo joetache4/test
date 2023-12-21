@@ -1,0 +1,263 @@
+play: Romeo and Juliet
+title: Act 1, Scene 3
+group: 1
+order: 3
+text:
+  - os: "Enter LADY CAPULET and NURSE"
+    ms: "LADY CAPULET and the NURSE enter."
+
+  - sp: LADY CAPULET
+    o:
+      - "Nurse, where’s my daughter? Call her forth to me."
+    m:
+      - "Nurse, where’s my daughter? Tell her to come to me."
+
+  - sp: NURSE
+    o:
+      - "Now, by my maidenhead at twelve year old"
+      - "I bade her come. What, lamb! What, ladybird!"
+      - "God forbid! Where’s this girl? What, Juliet!"
+    m:
+      - "I swear to you by my virginity at age twelve, I already told her to come. Come on! Where is she? What is she doing? What, Juliet!"
+
+  - os: "Enter JULIET"
+    ms: "JULIET enters."
+
+  - sp: JULIET
+    o:
+      - "How now, who calls?"
+    m:
+      - "What is it? Who’s calling me?"
+
+  - sp: NURSE
+    o:
+      - "Your mother."
+    m:
+      - "Your mother."
+
+  - sp: JULIET
+    o:
+      - "Madam, I am here. What is your will?"
+    m:
+      - "Madam, I’m here. What do you want?"
+
+  - sp: LADY CAPULET
+    o:
+      - "This is the matter.—Nurse, give leave awhile,"
+      - "We must talk in secret.—Nurse, come back again."
+      - "I have remembered me. Thou’s hear our counsel."
+      - "Thou know’st my daughter’s of a pretty age."
+    m:
+      - "I’ll tell you what’s the matter—Nurse, leave us alone for a little while. We must talk privately—Nurse, come back here. I just remembered, you can listen to our secrets. You know how young my daughter is."
+
+  - sp: NURSE
+    o:
+      - "Faith, I can tell her age unto an hour."
+    m:
+      - "Yes, I know her age down to the hour."
+
+  - sp: LADY CAPULET
+    o:
+      - "She’s not fourteen."
+    m:
+      - "She’s not even fourteen."
+
+  - sp: NURSE
+    o:
+      - "I’ll lay fourteen of my teeth—and yet, to my teen be it spoken, I have but four—she is not fourteen. How long is it now to Lammastide?"
+    m:
+      - "I’d bet fourteen of my own teeth—but, I’m sorry to say, I only have four teeth—she’s not fourteen. How long is it until Lammastide?"
+
+  - sp: LADY CAPULET
+    o:
+      - "A fortnight and odd days."
+    m:
+      - "Two weeks and a few odd days."
+
+  - sp: NURSE
+    o:
+      - "Even or odd, of all days in the year,"
+      - "Come Lammas Eve at night shall she be fourteen."
+      - "Susan and she—God rest all Christian souls!—"
+      - "Were of an age. Well, Susan is with God."
+      - "She was too good for me. But, as I said,"
+      - "On Lammas Eve at night shall she be fourteen."
+      - "That shall she. Marry, I remember it well."
+      - "’Tis since the earthquake now eleven years,"
+      - "And she was weaned—I never shall forget it—"
+      - "Of all the days of the year, upon that day."
+      - "For I had then laid wormwood to my dug,"
+      - "Sitting in the sun under the dovehouse wall."
+      - "My lord and you were then at Mantua.—"
+      - "Nay, I do bear a brain.—But, as I said,"
+      - "When it did taste the wormwood on the nipple"
+      - "Of my dug and felt it bitter, pretty fool,"
+      - "To see it tetchy and fall out with the dug!"
+      - "“Shake!” quoth the dovehouse. ’Twas no need, I trow,"
+      - "To bid me trudge."
+      - "And since that time it is eleven years,"
+      - "For then she could stand alone. Nay, by the rood,"
+      - "She could have run and waddled all about,"
+      - "For even the day before, she broke her brow."
+      - "And then my husband—God be with his soul!"
+      - "He was a merry man—took up the child."
+      - "“Yea,” quoth he, “Dost thou fall upon thy face?"
+      - "Thou wilt fall backward when thou hast more wit,"
+      - "Wilt thou not, Jule?” and, by my holy dame,"
+      - "The pretty wretch left crying and said “ay.”"
+      - "To see now, how a jest shall come about!"
+      - "I warrant, an I should live a thousand years,"
+      - "I never should forget it. “Wilt thou not, Jule?” quoth he."
+      - "And, pretty fool, it stinted and said “ay.”"
+    m:
+      - "Whether it’s even or odd, of all the days in the year, on the night of Lammas Eve, she’ll be fourteen. She and Susan—God rest her and all Christian souls—were born on the same day. Well, Susan died and is with God. She was too good for me. But like I said, on the night of Lammas Eve, she will be fourteen. Yes, she will. Indeed, I remember it well. It’s been eleven years since the earthquake. She stopped nursing from my breast on that very day. I’ll never forget it. I had put bitter wormwood on my breast as I was sitting in the sun, under the wall of the dovehouse. You and your husband were in Mantua. Boy, do I have some memory! But like I said, when she tasted the bitter wormwood on my nipple, the pretty little babe got irritated and started to quarrel with my breast. Then the dovehouse shook with the earthquake. There was no need to tell me to get out of there. That was eleven years ago. By then she could stand up all by herself. No, I swear, by that time she could run and waddle all around. I remember because she had cut her forehead just the day before. My husband—God rest his soul, he was a happy man—picked up the child. “Oh,” he said, “Did you fall on your face? You’ll fall backward when you grow smarter. Won’t you, Jule.” And I swear, the poor pretty thing stopped crying and said, “Yes.” Oh, to watch a joke come true! I bet if I live a thousand years, I’ll never forget it. “Won’t you, Jule,” he said. And the pretty fool stopped crying and said, “Yes.”"
+
+  - sp: LADY CAPULET
+    o:
+      - "Enough of this. I pray thee, hold thy peace."
+    m:
+      - "Enough of this. Please be quiet."
+
+  - sp: NURSE
+    o:
+      - "Yes, madam. Yet I cannot choose but laugh"
+      - "To think it should leave crying and say “ay.”"
+      - "And yet, I warrant, it had upon its brow"
+      - "A bump as big as a young cockerel’s stone,"
+      - "A perilous knock, and it cried bitterly."
+      - "“Yea,” quoth my husband, “Fall’st upon thy face?"
+      - "Thou wilt fall backward when thou comest to age."
+      - "Wilt thou not, Jule?” It stinted and said “ay.”"
+    m:
+      - "Yes ,madam. But I can’t help laughing to think that the baby stopped crying and said, “Yes.” I swear, she had a bump on her forehead as big as a rooster’s testicle. It was a painful bruise, and she was crying bitterly. “Yes,” said my husband, “Did you fall on your face? You’ll fall backward when you grow up, won’t you, Jule?” And she stopped crying and said, “Yes.”"
+
+  - sp: JULIET
+    o:
+      - "And stint thou too, I pray thee, Nurse, say I."
+    m:
+      - "Now you stop too, Nurse, please."
+
+  - sp: NURSE
+    o:
+      - "Peace, I have done. God mark thee to his grace!"
+      - "Thou wast the prettiest babe that e’er I nursed."
+      - "An I might live to see thee married once,"
+      - "I have my wish."
+    m:
+      - "Peace. I’m done talking. May God choose you to receive his grace. You were the prettiest baby I ever nursed. If I live to see you get married someday, all my wishes will come true."
+
+  - sp: LADY CAPULET
+    o:
+      - "Marry, that “marry” is the very theme"
+      - "I came to talk of. Tell me, daughter Juliet,"
+      - "How stands your disposition to be married?"
+    m:
+      - "Well, marriage is exactly what we have to discuss. Tell me, my daughter Juliet, what is your attitude about getting married?"
+
+  - sp: JULIET
+    o:
+      - "It is an honor that I dream not of."
+    m:
+      - "It is an honor that I do not dream of."
+
+  - sp: NURSE
+    o:
+      - "An honor! Were not I thine only nurse,"
+      - "I would say thou hadst sucked wisdom from thy teat."
+    m:
+      - "“An honor?” If I weren’t your only nurse, I’d say you had sucked wisdom from the breast that fed you."
+
+  - sp: LADY CAPULET
+    o:
+      - "Well, think of marriage now. Younger than you"
+      - "Here in Verona, ladies of esteem"
+      - "Are made already mothers. By my count,"
+      - "I was your mother much upon these years"
+      - "That you are now a maid. Thus then in brief:"
+      - "The valiant Paris seeks you for his love."
+    m:
+      - "Well, start thinking about marriage now. Here in Verona there are girls younger than you—girls from noble families—who have already become mothers. By my count, I was already your mother at just about your age, while you remain a virgin. Well then, I’ll say this quickly: the valiant Paris wants you as his bride."
+
+  - sp: NURSE
+    o:
+      - "A man, young lady! Lady, such a man"
+      - "As all the world. Why, he’s a man of wax."
+    m:
+      - "What a man, young lady. He’s as great a man as any in the whole world. He’s as perfect as if he were sculpted from wax."
+
+  - sp: LADY CAPULET
+    o:
+      - "Verona’s summer hath not such a flower."
+    m:
+      - "Summertime in Verona has no flower as fine as him."
+
+  - sp: NURSE
+    o:
+      - "Nay, he’s a flower. In faith, a very flower."
+    m:
+      - "No, he’s a fine flower, truly, a flower."
+
+  - sp: LADY CAPULET
+    o:
+      - "What say you? Can you love the gentleman?"
+      - "This night you shall behold him at our feast."
+      - "Read o’er the volume of young Paris’ face"
+      - "And find delight writ there with beauty’s pen."
+      - "Examine every married lineament"
+      - "And see how one another lends content,"
+      - "And what obscured in this fair volume lies"
+      - "Find written in the margin of his eyes."
+      - "This precious book of love, this unbound lover,"
+      - "To beautify him only lacks a cover."
+      - "The fish lives in the sea, and ’tis much pride"
+      - "For fair without the fair within to hide."
+      - "That book in many’s eyes doth share the glory"
+      - "That in gold clasps locks in the golden story."
+      - "So shall you share all that he doth possess"
+      - "By having him, making yourself no less."
+    m:
+      - "*(to JULIET)* What do you say? Can you love this gentleman? Tonight you’ll see him at our feast. Study Paris’ face and find pleasure in his beauty. Examine every line of his features and see how they work together to make him handsome. If you are confused, just look into his eyes. This man is single, and he lacks only a bride to make him perfect and complete. As is right, fish live in the sea, and it’s wrong for a beauty like you to hide from a handsome man like him. Many people think he’s handsome, and whoever becomes his bride will be just as admired. You would share all that he possesses, and by having him, you would lose nothing."
+
+  - sp: NURSE
+    o:
+      - "No less? Nay, bigger. Women grow by men."
+    m:
+      - "Lose nothing? In fact, you’d get bigger. Men make women bigger by getting them pregnant."
+
+  - sp: LADY CAPULET
+    o:
+      - "Speak briefly. Can you like of Paris, love?"
+    m:
+      - "*(to JULIET)* Give us a quick answer. Can you accept Paris’ love?"
+
+  - sp: JULIET
+    o:
+      - "I’ll look to like if looking liking move."
+      - "But no more deep will I endart mine eye"
+      - "Than your consent gives strength to make it fly."
+    m:
+      - "I’ll look at him and try to like him, at least if what I see is likable. But I won’t let myself fall for him any more than your permission allows."
+
+  - os: "Enter PETER"
+    ms: "PETER enters."
+
+  - sp: PETER
+    o:
+      - "Madam, the guests are come, supper served up, you called, my young lady asked for, the Nurse cursed in the pantry, and every thing in extremity. I must hence to wait. I beseech you, follow straight."
+    m:
+      - "Madam, the guests are here, dinner is served, people are calling for you, people have asked for Juliet, and in the pantry, people are cursing the Nurse. Everything’s out of control. I must go and serve the guests. Please, follow straight after me."
+
+  - sp: LADY CAPULET
+    o:
+      - "We follow thee.—Juliet, the county stays."
+    m:
+      - "We’ll follow you.—Juliet, the count is waiting for you."
+
+  - sp: NURSE
+    o:
+      - "Go, girl, seek happy nights to happy days."
+    m:
+      - "Go, girl, look for a man who’ll give you happy nights at the end of happy days."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,270 @@
+play: Much Ado About Nothing
+title: Act 5, Scene 2
+group: 5
+order: 14
+text:
+  - os: "Enter BENEDICK andMARGARET"
+    ms: "BENEDICK andMARGARET enter."
+
+  - sp: BENEDICK
+    o:
+      - "Pray thee, sweet Mistress Margaret, deserve well at my"
+      - "hands by helping me to the speech of Beatrice."
+    m:
+      - "Please Margaret, help me write this poem for Beatrice."
+
+  - sp: MARGARET
+    o:
+      - "Will you then write me a sonnet in praise of my beauty?"
+    m:
+      - "Afterward, will you write a sonnet for me, praising my beauty?"
+
+  - sp: BENEDICK
+    o:
+      - "In so high a style, Margaret, that no man living shall come"
+      - "over it, for in most comely truth thou deservest it."
+    m:
+      - "I’ll write you such a glorious sonnet, Margaret, that no man will ever be able to come over it. You certainly deserve it."
+
+  - sp: MARGARET
+    o:
+      - "To have no man come over me! Why, shall I always keep"
+      - "below stairs?"
+    m:
+      - "No man will come over me! What a life that would be!"
+
+  - sp: BENEDICK
+    o:
+      - "Thy wit is as quick as the greyhound’s mouth; it catches."
+    m:
+      - "Your wit is as quick as a greyhound’s jaws—it catches whatever it goes after."
+
+  - sp: MARGARET
+    o:
+      - "And yours as blunt as the fencer’s foils, which hit but hurt"
+      - "not."
+    m:
+      - "And your wit is as blunt as a practice sword, with its dull tip; it hits people but doesn’t hurt them."
+
+  - sp: BENEDICK
+    o:
+      - "A most manly wit, Margaret, it will not hurt a woman. And"
+      - "so, I pray thee, call Beatrice. I give thee the bucklers."
+    m:
+      - "It’s just that my wit is very gentlemanly, Margaret, and refuses to hurt a woman. Now please, tell Beatrice to come out. I admit defeat; I give you the bucklers."
+
+  - sp: MARGARET
+    o:
+      - "Give us the swords; we have bucklers of our own."
+    m:
+      - "No, you should give a woman your sword—we have our own bucklers!"
+
+  - sp: BENEDICK
+    o:
+      - "If you use them, Margaret, you must put in the pikes with"
+      - "a vice, and they are dangerous weapons for maids."
+    m:
+      - "Watch out, though, Margaret—virgins shouldn’t be brandishing their bucklers around."
+
+  - sp: MARGARET
+    o:
+      - "Well, I will call Beatrice to you, who I think hath legs."
+    m:
+      - "I’ll go get Beatrice for you, who can walk here by herself—she has legs."
+
+  - sp: BENEDICK
+    o:
+      - "And therefore will come."
+    m:
+      - "So that means she’ll come."
+
+  - os: "Exit MARGARET"
+    ms: "MARGARET exits."
+
+  - o:
+      - "*(sings)*"
+      - "  *The god of love*,"
+      - "  *That sits above*,"
+      - "  *And knows me, and knows me*,"
+      - "  *How pitiful I deserve*—"
+      - "I mean in singing. But in loving, Leander the good swimmer, Troilus the first employer of panders, and a whole bookful of these quondam carpetmongers, whose names yet run smoothly in the even road of a blank verse, why, they were never so truly turned over and over as my poor self in love. Marry, I cannot show it in rhyme. I have tried. I can find out no rhyme to “lady” but “baby”—an innocent rhyme; for “scorn,” “horn”—a hard rhyme; for, “school,” “fool”—a babbling rhyme; very ominous endings. No, I was not born under a rhyming planet, nor I cannot woo in festival terms."
+    m:
+      - "*(singing)*"
+      - "  *The god of love*"
+      - "  *He sits in heaven above*"
+      - "  *And he knows me, he knows me*"
+      - "  *He knows how much pity I deserve—*"
+      - "I’m really a pitiful singer. But as a lover, well, that’s another story. Take Leander, Troilus, or an entire book’s worth of those legendary lover-boys, whose names sound so smooth and nice in a line of verse—not one of them has been driven as crazy by love as I have been. But I can’t prove it in a poem. I have tried. I can’t think of any rhyme for “lady” but “baby,” which is a childish rhyme. The only rhyme for “scorn” I can come up with is “horn”—a bit off for a love poem. Nothing rhymes with “school” but “fool,” and that’s a ridiculous jingle. These are all very unpromising line endings. No, I wasn’t destined to be a poet, and I can’t woo a lady with pretty words."
+
+  - os: "Enter BEATRICE"
+    ms: "BEATRICE enters."
+
+  - o:
+      - "Sweet Beatrice, wouldst thou come when I called thee?"
+    m:
+      - "Beatrice, have you come because I called for you?"
+
+  - sp: BEATRICE
+    o:
+      - "Yea, Signior, and depart when you bid me."
+    m:
+      - "Yes, sir, and I’ll leave when you ask me to."
+
+  - sp: BENEDICK
+    o:
+      - "Oh , stay but till then!"
+    m:
+      - "Oh, well, stay till then!"
+
+  - sp: BEATRICE
+    o:
+      - "“Then” is spoken. Fare you well now. And yet, ere I go, let"
+      - "me go with that I came, which is, with knowing what hath"
+      - "passed between you and Claudio."
+    m:
+      - "There—you said “then.” So I’ll leave now. But before I go, let me get what I came for. What happened between you and Claudio?"
+
+  - sp: BENEDICK
+    o:
+      - "Only foul words, and thereupon I will kiss thee."
+    m:
+      - "I spoke angry, foul words to him, and with that I will kiss you."
+
+  - sp: BEATRICE
+    o:
+      - "Foul words is but foul wind, and foul wind is but foul"
+      - "breath, and foul breath is noisome. Therefore I will depart"
+      - "unkissed."
+    m:
+      - "If you had foul words in your mouth, then your breath must be foul, and foul breath is nauseating. Thus, I’ll leave without being kissed."
+
+  - sp: BENEDICK
+    o:
+      - "Thou hast frighted the word out of his right sense, so"
+      - "forcible is thy wit. But I must tell thee plainly, Claudio"
+      - "undergoes my challenge, and either I must shortly hear"
+      - "from him, or I will subscribe him a coward. And I pray thee"
+      - "now tell me, for which of my bad parts didst thou first fall"
+      - "in love with me?"
+    m:
+      - "Your wit is so forceful, it frightens the very meaning out of your words. But I will tell you this very plainly: I have challenged Claudio, and either he’ll accept the challenge or admit he’s a coward. Now, tell me—which of my bad qualities did you fall in love with first?"
+
+  - sp: BEATRICE
+    o:
+      - "For them all together, which maintained so politic a state of"
+      - "evil that they will not admit any good part to intermingle"
+      - "with them. But for which of my good parts did you first"
+      - "suffer love for me?"
+    m:
+      - "With all of them at once: they work together to create such an entirely evil person that no good ever manages to enter the mix. But tell me—which of my good qualities first made you suffer love for me?"
+
+  - sp: BENEDICK
+    o:
+      - "Suffer love! A good epithet! I do suffer love indeed, for I"
+      - "love thee against my will."
+    m:
+      - "Suffer love! That’s a good way of putting it. I do suffer love, because I love you against my will."
+
+  - sp: BEATRICE
+    o:
+      - "In spite of your heart, I think. Alas, poor heart, if you spite"
+      - "it for my sake, I will spite it for yours, for I will never love"
+      - "that which my riend hates."
+    m:
+      - "You love me in spite of your heart, I think. If you spite your heart for my sake, then I will spite it for yours. I will never love the thing my friend hates."
+
+  - sp: BENEDICK
+    o:
+      - "Thou and I are too wise to woo peaceably."
+    m:
+      - "You and I are too wise to woo each other peacefully."
+
+  - sp: BEATRICE
+    o:
+      - "It appears not in this confession. There’s not one wise man"
+      - "among twenty that will praise himself."
+    m:
+      - "It’s said that no truly wise man will praise himself. If you say that you are wise, it’s likely you’re not."
+
+  - sp: BENEDICK
+    o:
+      - "An old, an old instance, Beatrice, that lived in the lime of"
+      - "good neighbors. If a man do not erect in this age his own"
+      - "tomb ere he dies, he shall live no longer in monument than"
+      - "the bell rings and the widow weeps."
+    m:
+      - "That’s an old proverb, Beatrice, from the time when neighbors praised each other. In this day and age, if a man doesn’t erect his own monument before he dies, he won’t be remembered past the funeral bell’s ringing and his widow’s crying."
+
+  - sp: BEATRICE
+    o:
+      - "And how long is that, think you?"
+    m:
+      - "Exactly how long is that, do you think?"
+
+  - sp: BENEDICK
+    o:
+      - "Question: why, an hour in clamor and a quarter in rheum."
+      - "Therefore is it most expedient for the wise, if Don Worm,"
+      - "his conscience, find no impediment to the contrary, to be"
+      - "the trumpet of his own virtues, as I am to myself. So much"
+      - "for praising myself, who, I myself will bear witness, is"
+      - "praiseworthy. An now tell me, how doth your cousin?"
+    m:
+      - "About an hour for the ringing and fifteen minutes for the crying. That’s why it’s better for wise men to trumpet their own virtues, like I do. That’s why I praise myself, who—if I do say so myself—is quite praiseworthy. But tell me, how is your cousin?"
+
+  - sp: BEATRICE
+    o:
+      - "Very ill."
+    m:
+      - "She’s very sick."
+
+  - sp: BENEDICK
+    o:
+      - "And how do you?"
+    m:
+      - "And how are you?"
+
+  - sp: BEATRICE
+    o:
+      - "Very ill, too."
+    m:
+      - "I’m very sick, too."
+
+  - sp: BENEDICK
+    o:
+      - "Serve God, love me, and mend. There will I leave you too,"
+      - "for here comes one in haste."
+    m:
+      - "Have faith, love me, and you will get better. And that’s where I’ll end, because someone is hurrying this way."
+
+  - os: "Enter URSULA"
+    ms: "URSULA enters."
+
+  - sp: URSULA
+    o:
+      - "Madam, you must come to your uncle. Yonder’s old coil at"
+      - "home. It is proved my Lady Hero hath been falsely"
+      - "accused, the Prince and Claudio mightily abused, and Don"
+      - "John is the author of all, who is fled and gone. Will you"
+      - "come presently?"
+    m:
+      - "Madam, you have to go to your uncle’s. There’s a huge racket going on there. It’s been proven that Lady Hero is innocent, that the Prince and Claudio have been utterly deceived, and that Don John—who has run away—is the source of all the trouble. Will you come immediately?"
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: BEATRICE
+    o:
+      - "Will you go hear this news, Signior?"
+    m:
+      - "Will you come with me to hear this news, sir?"
+
+  - sp: BENEDICK
+    o:
+      - "I will live in thy heart, die in thy lap, and be buried in thy"
+      - "eyes—and moreover, I will go with thee to thy uncle’s."
+    m:
+      - "I will live in your heart, die in your lap, and be buried in your eyes—and, what’s more, I will go with you to your uncle’s."
+
+  - os: "Exeunt"
+    ms: "They exit."

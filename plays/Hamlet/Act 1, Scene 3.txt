@@ -1,0 +1,286 @@
+play: Hamlet
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter LAERTES and OPHELIA, his sister"
+    ms: "LAERTES and his sister OPHELIA enter."
+
+  - sp: LAERTES
+    o:
+      - "My necessaries are embarked. Farewell."
+      - "And, sister, as the winds give benefit"
+      - "And convey is assistant, do not sleep,"
+      - "But let me hear from you."
+    m:
+      - "My belongings are on the ship already. Good-bye. And, my dear sister, as long as the winds are blowing and ships are sailing, let me hear from you—write."
+
+  - sp: OPHELIA
+    o:
+      - "    Do you doubt that?"
+    m:
+      - "Do you doubt I’ll write?"
+
+  - sp: LAERTES
+    o:
+      - "For Hamlet and the trifling of his favor,"
+      - "Hold it a fashion and a toy in blood,"
+      - "A violet in the youth of primy nature,"
+      - "Forward, not permanent, sweet, not lasting,"
+      - "The perfume and suppliance of a minute."
+      - "No more."
+    m:
+      - "As for Hamlet and his attentions to you, just consider it a big flirtation, the temporary phase of a hot-blooded youth. It won’t last. It’s sweet, but his affection will fade after a minute. Not a second more."
+
+  - sp: OPHELIA
+    o:
+      - "  No more but so?"
+    m:
+      - "No more than a minute?"
+
+  - sp: LAERTES
+    o:
+      - "    Think it no more."
+      - "For nature, crescent, does not grow alone"
+      - "In thews and bulk, but, as this temple waxes,"
+      - "The inward service of the mind and soul"
+      - "Grows wide withal. Perhaps he loves you now,"
+      - "And now no soil nor cautel doth besmirch"
+      - "The virtue of his will, but you must fear."
+      - "His greatness weighed, his will is not his own,"
+      - "For he himself is subject to his birth."
+      - "He may not, as unvalued persons do,"
+      - "Carve for himself, for on his choice depends"
+      - "The safety and health of this whole state."
+      - "And therefore must his choice be circumscribed"
+      - "Unto the voice and yielding of that body"
+      - "Whereof he is the head. Then if he says he loves you,"
+      - "It fits your wisdom so far to believe it"
+      - "As he in his particular act and place"
+      - "May give his saying deed, which is no further"
+      - "Than the main voice of Denmark goes withal."
+      - "Then weigh what loss your honor may sustain"
+      - "If with too credent ear you list his songs,"
+      - "Or lose your heart, or your chaste treasure open"
+      - "To his unmastered importunity."
+      - "Fear it, Ophelia. Fear it, my dear sister,"
+      - "And keep you in the rear of your affection,"
+      - "Out of the shot and danger of desire."
+      - "The chariest maid is prodigal enough"
+      - "If she unmask her beauty to the moon."
+      - "Virtue itself ’scapes not calumnious strokes."
+      - "The canker galls the infants of the spring"
+      - "Too oft before their buttons be disclosed."
+      - "And in the morn and liquid dew of youth,"
+      - "Contagious blastments are most imminent."
+      - "Be wary, then. Best safety lies in fear."
+      - "Youth to itself rebels, though none else near."
+    m:
+      - "Try to think of it like that, anyway. When a youth grows into a man, he doesn’t just get bigger in his body—his responsibilities grow too. He may love you now, and may have only the best intentions, but you have to be on your guard. Remember that he belongs to the royal family, and his intentions don’t matter that much—he’s a slave to his family obligations. He can’t simply make personal choices for himself the way common people can, since the whole country depends on what he does. His choice has to agree with what the nation wants. So if he says he loves you, you should be wise enough to see that his words only mean as much as the state of Denmark allows them to mean. Then think about how shameful it would be for you to give in to his seductive talk and surrender your treasure chest to his greedy hands. Watch out, Ophelia. Just keep your love under control, and don’t let yourself become a target of his lust. Simply exposing your beauty to the moon at night is risky enough—you don’t have to expose yourself to him. Even good girls sometimes get a bad reputation. Worms ruin flowers before they blossom. Baby blooms are most susceptible to disease. So be careful. Fear will keep you safe. Young people often lose their self-control even without any help from others."
+
+  - sp: OPHELIA
+    o:
+      - "I shall the effect of this good lesson keep"
+      - "As watchman to my heart. But, good my brother,"
+      - "Do not, as some ungracious pastors do,"
+      - "Show me the steep and thorny way to heaven"
+      - "Whiles, like a puffed and reckless libertine,"
+      - "Himself the primrose path of dalliance treads"
+      - "And recks not his own rede."
+    m:
+      - "I’ll keep your words of wisdom close to my heart. But, my dear brother, don’t be like a bad priest who fails to practice what he preaches, showing me the steep and narrow way to heaven while you frolic on the primrose path of sin."
+
+  - sp: LAERTES
+    o:
+      - "    O, fear me not."
+    m:
+      - "Don’t worry, I won’t."
+
+  - os: "Enter POLONIUS"
+    ms: "POLONIUS enters."
+
+  - o:
+      - "I stay too long. But here my father comes."
+      - "A double blessing is a double grace."
+      - "Occasion smiles upon a second leave."
+    m:
+      - "I’ve been here too long. And here comes father. What good luck, to have him bless my leaving not once but twice."
+
+  - sp: POLONIUS
+    o:
+      - "Yet here, Laertes? Aboard, aboard, for shame!"
+      - "The wind sits in the shoulder of your sail"
+      - "And you are stayed for. There, my blessing with thee."
+      - "And these few precepts in thy memory"
+      - "Look thou character. Give thy thoughts no tongue,"
+      - "Nor any unproportioned thought his act."
+      - "Be thou familiar but by no means vulgar."
+      - "Those friends thou hast, and their adoption tried,"
+      - "Grapple them unto thy soul with hoops of steel,"
+      - "But do not dull thy palm with entertainment"
+      - "Of each new-hatched, unfledged comrade. Beware"
+      - "Of entrance to a quarrel, but being in,"
+      - "Bear ’t that th’ opposèd may beware of thee."
+      - "Give every man thy ear but few thy voice."
+      - "Take each man’s censure but reserve thy judgment."
+      - "Costly thy habit as thy purse can buy,"
+      - "But not expressed in fancy—rich, not gaudy,"
+      - "For the apparel oft proclaims the man,"
+      - "And they in France of the best rank and station"
+      - "Are of a most select and generous chief in that."
+      - "Neither a borrower nor a lender be,"
+      - "For loan oft loses both itself and friend,"
+      - "And borrowing dulls the edge of husbandry."
+      - "This above all: to thine own self be true,"
+      - "And it must follow, as the night the day,"
+      - "Thou canst not then be false to any man."
+      - "Farewell. My blessing season this in thee."
+    m:
+      - "You’re still here? Shame on you—get on board! The wind is filling your ship’s sail, and they’re waiting for you. Here, I give you my blessing again. And just try to remember a few rules of life. Don’t say what you’re thinking, and don’t be too quick to act on what you think. Be friendly to people but don’t overdo it. Once you’ve tested out your friends and found them trustworthy, hold onto them. But don’t waste your time shaking hands with every new guy you meet. Don’t be quick to pick a fight, but once you’re in one, hold your own. Listen to many people, but talk to few. Hear everyone’s opinion, but reserve your judgment. Spend all you can afford on clothes, but make sure they’re quality, not flashy, since clothes make the man—which is doubly true in France. Don’t borrow money and don’t lend it, since when you lend to a friend, you often lose the friendship as well as the money, and borrowing turns a person into a spendthrift. And, above all, be true to yourself. Then you won’t be false to anybody else. Good-bye, son. I hope my blessing will help you absorb what I’ve said."
+
+  - sp: LAERTES
+    o:
+      - "Most humbly do I take my leave, my lord."
+    m:
+      - "I humbly say good-bye to you, father."
+
+  - sp: POLONIUS
+    o:
+      - "The time invites you. Go. Your servants tend."
+    m:
+      - "Now go, the time is right. Your servants are waiting."
+
+  - sp: LAERTES
+    o:
+      - "Farewell, Ophelia, and remember well"
+      - "What I have said to you."
+    m:
+      - "Good-bye, Ophelia. Remember what I’ve told you."
+
+  - sp: OPHELIA
+    o:
+      - "    ’Tis in my memory locked,"
+      - "And you yourself shall keep the key of it."
+    m:
+      - "It’s locked away in my memory, and you’ve got the key."
+
+  - sp: LAERTES
+    o:
+      - "Farewell."
+    m:
+      - "Good-bye."
+
+  - os: "Exit LAERTES"
+    ms: "LAERTES exits."
+
+  - sp: POLONIUS
+    o:
+      - "What is ’t, Ophelia, he hath said to you?"
+    m:
+      - "What did he tell you, Ophelia?"
+
+  - sp: OPHELIA
+    o:
+      - "So please you, something touching the Lord Hamlet."
+    m:
+      - "Something about Hamlet."
+
+  - sp: POLONIUS
+    o:
+      - "Marry, well bethought."
+      - "’Tis told me he hath very oft of late"
+      - "Given private time to you, and you yourself"
+      - "Have of your audience been most free and bounteous."
+      - "If it be so as so ’tis put on me—"
+      - "And that in way of caution—I must tell you,"
+      - "You do not understand yourself so clearly"
+      - "As it behooves my daughter and your honor."
+      - "What is between you? Give me up the truth."
+    m:
+      - "A good thing he did, by God. I’ve heard Hamlet’s been spending a lot of time alone with you recently, and you’ve made yourself quite available to him. If things are the way people tell me they are—and they’re only telling me this to warn me—then I have to say, you’re not conducting yourself with the self-restraint a daughter of mine should show. What’s going on between you two? Tell me the truth."
+
+  - sp: OPHELIA
+    o:
+      - "He hath, my lord, of late made many tenders"
+      - "Of his affection to me."
+    m:
+      - "He’s offered me a lot of affection lately."
+
+  - sp: POLONIUS
+    o:
+      - "Affection! Pooh, you speak like a green girl,"
+      - "Unsifted in such perilous circumstance."
+      - "Do you believe his “tenders,” as you call them?"
+    m:
+      - "“Affection!” That’s nothing! You’re talking like some innocent girl who doesn’t understand the ways of the world. Do you believe his “offers,” as you call them?"
+
+  - sp: OPHELIA
+    o:
+      - "I do not know, my lord, what I should think."
+    m:
+      - "I don’t know what to believe, father."
+
+  - sp: POLONIUS
+    o:
+      - "Marry, I’ll teach you. Think yourself a baby"
+      - "That you have ta’en these tenders for true pay,"
+      - "Which are not sterling. Tender yourself more dearly,"
+      - "Or—not to crack the wind of the poor phrase,"
+      - "Running it thus—you’ll tender me a fool."
+    m:
+      - "Then I’ll tell you. Believe that you are a foolish little baby for believing these “offers” are something real. Offer yourself more respect, or—not to beat this word to death—you’ll offer me the chance to be a laughing-stock."
+
+  - sp: OPHELIA
+    o:
+      - "My lord, he hath importuned me with love"
+      - "In honorable fashion."
+    m:
+      - "Father, he’s always talked about love in an honorable fashion—"
+
+  - sp: POLONIUS
+    o:
+      - "Ay, “fashion” you may call it. Go to, go to."
+    m:
+      - "Yes, “fashion” is just the word—a passing whim. Go on."
+
+  - sp: OPHELIA
+    o:
+      - "And hath given countenance to his speech, my lord,"
+      - "With almost all the holy vows of heaven."
+    m:
+      - "And he’s made the holiest vows to me, to back up what he says."
+
+  - sp: POLONIUS
+    o:
+      - "Ay, springes to catch woodcocks. I do know,"
+      - "When the blood burns, how prodigal the soul"
+      - "Lends the tongue vows. These blazes, daughter,"
+      - "Giving more light than heat, extinct in both"
+      - "Even in their promise as it is a-making,"
+      - "You must not take for fire. From this time"
+      - "Be somewhat scanter of your maiden presence."
+      - "Set your entreatments at a higher rate"
+      - "Than a command to parley. For Lord Hamlet,"
+      - "Believe so much in him that he is young,"
+      - "And with a larger tether may he walk"
+      - "Than may be given you. In few, Ophelia,"
+      - "Do not believe his vows, for they are brokers"
+      - "Not of that dye which their investments show,"
+      - "But mere implorators of unholy suits,"
+      - "Breathing like sanctified and pious bawds,"
+      - "The better to beguile. This is for all:"
+      - "I would not, in plain terms, from this time forth,"
+      - "Have you so slander any moment leisure,"
+      - "As to give words or talk with the Lord Hamlet."
+      - "Look to ’t, I charge you. Come your ways."
+    m:
+      - "These vows are just traps for stupid birds. I know when a man is on fire, he’ll swear anything. But when a heart’s on fire, it gives out more light than heat, and the fire will be out even before he’s done making his promises. Don’t mistake that for true love. From now on, spend a little less time with him and talk to him less. Make yourself a precious commodity. Remember that Hamlet is young and has a lot more freedom to fool around than you do. In short, Ophelia, don’t believe his love vows, since they’re like flashy pimps who wear nice clothes to lead a woman into filthy acts. To put it plainly, don’t waste your time with Hamlet. Do as I say. Now come along."
+
+  - sp: OPHELIA
+    o:
+      - "I shall obey, my lord."
+    m:
+      - "I’ll do as you say, father."
+
+  - os: "Exeunt"
+    ms: "They exit."

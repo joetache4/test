@@ -1,0 +1,216 @@
+play: The Comedy of Errors
+title: Act 4, Scene 3
+group: 4
+order: 8
+text:
+  - os: "Enter ANTIPHOLUS OF SYRACUSE"
+    ms: "ANTIPHOLUS OF SYRACUSE enters."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "There’s not a man I meet but doth salute me"
+      - "As if I were their well-acquainted friend,"
+      - "And every one doth call me by my name."
+      - "Some tender money to me; some invite me;"
+      - "Some other give me thanks for kindnesses;"
+      - "Some offer me commodities to buy."
+      - "Even now a tailor called me in his shop"
+      - "And showed me silks that he had bought for me,"
+      - "And therewithal took measure of my body."
+      - "Sure, these are but imaginary wiles,"
+      - "And lapland sorcerers inhabit here."
+    m:
+      - "Every person I meet greets me like an old friend, and every one of them knows my name. Some of them give me money, some invite me places, some thank me for the kind things I’ve done for them, some try to sell me things. Just now a tailor showed me fabrics he bought especially for me and then started to take my measurements. These are tricks of the imagination, and this place is filled with magicians."
+
+  - os: "Enter DROMIO OF SYRACUSE"
+    ms: "DROMIO OF SYRACUSE enters."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Master, here’s The gold you sent me for. What, have you got the picture of old Adam new-appareled?"
+    m:
+      - "Here’s the money you wanted, master. Hey, have you gotten rid of that Adam?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What gold is this? What Adam dost thou mean?"
+    m:
+      - "What gold is this? Who’s this Adam you speak of?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Not that Adam that kept the Paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."
+    m:
+      - "Not the Adam from the garden of Eden, but the Adam from the jailhouse. The one that wears leather clothes. The one that grabbed you and arrested you."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I understand thee not."
+    m:
+      - "I don’t know what you’re talking about."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "No? Why, ’tis a plain case: he that went, like a bass viol in a case of leather; the man, sir, that, when gentlemen are tired, gives them a sob and ’rests them; he, sir, that takes pity on decayed men and gives them suits of durance; he that sets up his rest to do more exploits with his mace than a morris-pike."
+    m:
+      - "No? It’s plain enough. The Adam who looks like a cello, in a big leather case. The one who gives tired people “arrest.” The one who gives ruined men new suits—law suits. The one who’s determined to do more damage with his nightstick than a soldier does with his pike."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What, thou meanest an officer?"
+    m:
+      - "You mean an officer?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Ay, sir, the sergeant of the band; he that brings any man to answer it that breaks his band; one that thinks a man always going to bed and says “God give you good rest.”"
+    m:
+      - "Yes, the leader of the team; the one that gets you if you can’t pay a debt; the one who assumes people are always going to bed and says to them, “Have arrest.”"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Well, sir, there rest in your foolery. Is there any ships put forth tonight? May we be gone?"
+    m:
+      - "Well, sir, stop your joking there. Are any ships leaving tonight? Can we go?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Why, sir, I brought you word an hour since that the bark *Expedition* put forth tonight, and then were you hindered by the sergeant to tarry for the hoy *Delay*. Here are the angels that you sent for to deliver you."
+    m:
+      - "Why, sir, I told you an hour ago that the good ship *Expedition* was leaving tonight, but then the officer got you, and you decided to wait for the little rowboat *Delay*. Here’s the bail money you sent me to get."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "The fellow is distract, and so am I,"
+      - "And here we wander in illusions."
+      - "Some blessed power deliver us from hence!"
+    m:
+      - "This fellow’s gone mad, and so have I. We’re in some kind of dream world. Please, somebody, get us out of here!"
+
+  - os: "Enter a COURTESAN"
+    ms: "A COURTESAN enters."
+
+  - sp: COURTESAN
+    o:
+      - "Well met, well met, Master Antipholus."
+      - "I see, sir, you have found the goldsmith now."
+      - "Is that the chain you promised me today?"
+    m:
+      - "Good to see you, Master Antipholus. I see you’ve met with the jeweler. Is that chain you’re wearing the one you promised to give to me?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Satan, avoid! I charge thee, tempt me not."
+    m:
+      - "Get away from me, Satan! Don’t try to tempt me!"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Master, is this Mistress Satan?"
+    m:
+      - "Master, is this Satan’s mistress?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "It is the devil."
+    m:
+      - "She’s the devil."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Nay, she is worse; she is the devil’s dam, and here she comes in the habit of a light wench. And thereof comes that the wenches say “God damn me” that’s as much to say “God make me a light wench.” It is written they appear to men like angels of light. Light is an effect of fire, and fire will burn: ergo, light wenches will burn. Come not near her."
+    m:
+      - "No, she’s worse: she’s the devil’s mother, and she comes to us disguised as an easy wench. And that’s why some women say, “God damn me,” which is the same thing as saying, “God make me an easy wench.” The Bible says the devil looks like an angel of light. But fire also gives off light, and fire will burn you. In other words, easy wenches will burn you. Keep away from this one."
+
+  - sp: COURTESAN
+    o:
+      - "Your man and you are marvelous merry, sir."
+      - "Will you go with me? We’ll mend our dinner here."
+    m:
+      - "You and your servant are very funny, sir. Will you come with me? Can we finish our lunch?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Master, if you do, expect spoon meat; or bespeak a long spoon."
+    m:
+      - "Master, if you eat with her, bring really long silverware."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Why, Dromio?"
+    m:
+      - "Why, Dromio?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Marry, he must have a long spoon that must eat with the devil."
+    m:
+      - "Because of the old saying: “He who eats with the devil needs a very long spoon.” You need to keep far away from them."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "*(to COURTESAN)* Avoid then, fiend! What tell’st thou me of supping?"
+      - "Thou art, as you are all, a sorceress."
+      - "I conjure thee to leave me and be gone."
+    m:
+      - "*(to COURTESAN)* Get away, you demon! You talk about eating? You’re a sorceress, like everyone else here. I’ll conjure you, like a spell: get away from me."
+
+  - sp: COURTESAN
+    o:
+      - "Give me the ring of mine you had at dinner"
+      - "Or, for my diamond, the chain you promised,"
+      - "And I’ll be gone, sir, and not trouble you."
+    m:
+      - "Give me back the ring I gave you at lunch, or give me the necklace you promised in exchange. Then I’ll be gone, sir, and stop troubling you."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Some devils ask but the parings of one’s nail, a rush, a hair, a drop of blood, a pin, a nut, a cherrystone; but she, more covetous, would have a chain. Master, be wise. An if you give it her, the devil will shake her chain and fright us with it."
+    m:
+      - "Some devils ask for nothing more than nail clippings, a hair, a drop of blood, a pin, a nut, or a cherry pit. But this one’s greedy: she wants a necklace. Be wise, master. If you give it to her, she’ll shake the chain and frighten us, like the angel in the Bible."
+
+  - sp: COURTESAN
+    o:
+      - "I pray you, sir, my ring or else the chain."
+      - "I hope you do not mean to cheat me so."
+    m:
+      - "Now listen, either give me my ring or give me the necklace. I hope you’re not trying to cheat me."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Avaunt, thou witch!—Come, Dromio, let us go."
+    m:
+      - "Be gone, witch! Come, Dromio, let’s go."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "“Fly pride,” says the peacock. Mistress, that you know."
+    m:
+      - "Accusing us of cheating is like the proud peacock accusing someone else of pride. Mistress, you know about that."
+
+  - os: "Exeunt ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE"
+    ms: "ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE exit."
+
+  - sp: COURTESAN
+    o:
+      - "Now, out of doubt Antipholus is mad;"
+      - "Else would he never so demean himself."
+      - "A ring he hath of mine worth forty ducats,"
+      - "And for the same he promised me a chain."
+      - "Both one and other he denies me now."
+      - "The reason that I gather he is mad,"
+      - "Besides this present instance of his rage,"
+      - "Is a mad tale he told today at dinner"
+      - "Of his own doors being shut against his entrance."
+      - "Belike his wife, acquainted with his fits,"
+      - "On purpose shut the doors against his way."
+      - "My way is now to hie home to his house"
+      - "And tell his wife that, being lunatic,"
+      - "He rushed into my house and took perforce"
+      - "My ring away. This course I fittest choose,"
+      - "For forty ducats is too much to lose."
+    m:
+      - "Antipholus has gone insane, no question about it. If not, he’d never behave like this. He has a ring of mine, worth forty ducats, and he promised to give me a necklace in exchange for it. Now he won’t give me either. The reason I think he’s insane, besides the way he just acted, is that he told a senseless story over lunch about being locked out of his own house. His wife probably did it on purpose because she knows what kind of fits he’s having. I must go to his house and tell his wife that he came bursting into my place like a lunatic and stole my ring. It’s my best option: I can’t afford to lose forty ducats."
+
+  - os: "Exit"
+    ms: "She exits."

@@ -1,0 +1,311 @@
+play: Henry V
+title: Act 4, Scene 8
+group: 4
+order: 24
+text:
+  - os: "Enter GOWER and WILLIAMS"
+    ms: "GOWER and WILLIAMS enter."
+
+  - sp: WILLIAMS
+    o:
+      - "I warrant it is to knight you, Captain."
+    m:
+      - "I’m sure it is to knight you, Captain."
+
+  - os: "Enter FLUELLEN"
+    ms: "FLUELLEN enters, wearing WILLIAMS’ glove."
+
+  - sp: FLUELLEN
+    o:
+      - "God’s will and His pleasure, Captain, I beseech you now, come apace to the king. There is more good toward you peradventure than is in your knowledge to dream of."
+    m:
+      - "As it is God’s will and pleasure, Captain, I entreat you to come quickly to the king. There is more good fortune in store for you than you could ever imagine."
+
+  - sp: WILLIAMS
+    o:
+      - "Sir, know you this glove?"
+    m:
+      - "Sir, do you recognize this glove?"
+
+  - sp: FLUELLEN
+    o:
+      - "Know the glove! I know the glove is a glove."
+    m:
+      - "Know the glove! I know the glove is a glove."
+
+  - sp: WILLIAMS
+    o:
+      - "I know this, and thus I challenge it. *(strikes him)*"
+    m:
+      - "Well, I recognize this one *(indicates the glove FLUELLENwears in his cap)*, and I hereby challenge you. *(strikes him)*"
+
+  - sp: FLUELLEN
+    o:
+      - "’Sblood, an arrant traitor as any ’s in the universal world, or in France, or in England!"
+    m:
+      - "Good God! As absolute a traitor as any in the whole entire world—or even France or England!"
+
+  - sp: GOWER
+    o:
+      - "How now, sir? You villain!"
+    m:
+      - "What is this, you villain!"
+
+  - sp: WILLIAMS
+    o:
+      - "Do you think I’ll be forsworn?"
+    m:
+      - "Do you think I’d break my oath?"
+
+  - sp: FLUELLEN
+    o:
+      - "Stand away, Captain Gower. I will give treason his payment into plows, I warrant you."
+    m:
+      - "Stand aside, Captain Gower. I’ll reward treason with blows, I promise you."
+
+  - sp: WILLIAMS
+    o:
+      - "I am no traitor."
+    m:
+      - "I’m not a traitor."
+
+  - sp: FLUELLEN
+    o:
+      - "That’s a lie in thy throat.—I charge you in his Majesty’s name, apprehend him. He’s a friend of the Duke Alençon’s."
+    m:
+      - "An infamous lie! I accuse you in the name of the king. Arrest him: he’s a friend of the duke of Alençon’s."
+
+  - os: "Enter WARWICK and GLOUCESTER"
+    ms: "WARWICK and GLOUCESTER enter."
+
+  - sp: WARWICK
+    o:
+      - "How now, how now, what’s the matter?"
+    m:
+      - "Now, now! What’s all this? What’s going on?"
+
+  - sp: FLUELLEN
+    o:
+      - "My Lord of Warwick, here is, praised be God for it, a most contagious treason come to light, look you, as you shall desire in a summer’s day."
+    m:
+      - "My Lord of Warwick, a most corrupt treason—God be praised for it!—has been discovered, as plain as any you’d hope to see on a summer’s day."
+
+  - os: "Enter KING HENRY and EXETER"
+    ms: "KING HENRY and EXETER enter."
+
+  - o:
+      - "Here is his Majesty."
+    m:
+      - "Here is his Majesty."
+
+  - sp: KING HENRY
+    o:
+      - "How now, what’s the matter?"
+    m:
+      - "Well, now! What’s the matter?"
+
+  - sp: FLUELLEN
+    o:
+      - "My liege, here is a villain and a traitor, that, look your Grace, has struck the glove which your Majesty is take out of the helmet of Alençon."
+    m:
+      - "My liege, this man is a villain and a traitor, who—see, your Grace—has struck the glove which your Majesty took from Alençon’s helmet."
+
+  - sp: WILLIAMS
+    o:
+      - "My liege, this was my glove; here is the fellow of it. And he that I gave it to in change promised to wear it in his cap. I promised to strike him if he did. I met this man with my glove in his cap, and I have been as good as my word."
+    m:
+      - "My liege, this was my glove. Here is its mate, and the man I gave it to promised to wear it in his cap, and I promised to strike him if he did. I met this man with my glove in his cap, and I have been as good as my word."
+
+  - sp: FLUELLEN
+    o:
+      - "Your Majesty, hear now, saving your Majesty’s manhood, what an arrant, rascally, beggarly, lousy knave it is. I hope your Majesty is pear me testimony and witness, and will avouchment that this is the glove of Alençon that your Majesty is give me, in your conscience now."
+    m:
+      - "Your Majesty, see here—if it won’t offend your Grace—what a complete, rascally, beggarly, lousy rat this is. I hope your Majesty will, in all good conscience, bear me out and vouch for the fact that this is the glove of Alençon and that your Majesty gave it to me."
+
+  - sp: KING HENRY
+    o:
+      - "Give me thy glove, soldier. Look, here is the fellow of it."
+      - "’Twas I indeed thou promised’st to strike,"
+      - "And thou hast given me most bitter terms."
+    m:
+      - "Give me your glove, soldier: look, here is its mate. It was I, in fact, whom you promised to strike. And you spoke of me in the harshest terms."
+
+  - sp: FLUELLEN
+    o:
+      - "An please your Majesty, let his neck answer for it, if there is any martial law in the world."
+    m:
+      - "If it pleases your Majesty, let his neck pay the price, if there is any martial law in the world."
+
+  - sp: KING HENRY
+    o:
+      - "How canst thou make me satisfaction?"
+    m:
+      - "How can you square things with me?"
+
+  - sp: WILLIAMS
+    o:
+      - "All offenses, my lord, come from the heart. Never came any from mine that might offend your Majesty."
+    m:
+      - "All offenses come from the heart, my lord, and nothing intended to offend your Majesty ever came from mine."
+
+  - sp: KING HENRY
+    o:
+      - "It was ourself thou didst abuse."
+    m:
+      - "You abused me to my face."
+
+  - sp: WILLIAMS
+    o:
+      - "Your Majesty came not like yourself. You appeared to me but as a common man. Witness the night, your garments, your lowliness. And what your Highness suffered under that shape, I beseech you take it for your own fault and not mine, for, had you been as I took you for, I made no offense. Therefore, I beseech your Highness pardon me."
+    m:
+      - "Your Majesty didn’t present yourself as the king. You represented yourself as just a common man. Consider the time of night, what you were wearing, and how ordinary you looked. Anything your Highness suffered in that disguise, I beg you to see it as your own fault and not mine, because if you’d been what I took you for, there would have been no offense. Therefore, I beg your Highness, pardon me."
+
+  - sp: KING HENRY
+    o:
+      - "Here, uncle Exeter, fill this glove with crowns"
+      - "And give it to this fellow.—Keep it, fellow,"
+      - "And wear it for an honor in thy cap"
+      - "Till I do challenge it.—Give him the crowns."
+      - "—And, captain, you must needs be friends with him."
+    m:
+      - "Here, uncle Exeter, fill this glove with gold coins and give it to this fellow. Keep it, my friend, and wear it as a badge of honor in your cap until I challenge it.—Give him the money.—And you, Captain, must make it up with him."
+
+  - sp: FLUELLEN
+    o:
+      - "By this day and this light, the fellow has mettle enough in his belly.—Hold, there is twelve pence for you, and I pray you to serve God and keep you out of prawls and prabbles and quarrels and dissensions, and I warrant you it is the better for you."
+    m:
+      - "By this day and this light, the fellow is certainly brave. Here, twelve pence for you. I urge you to serve God and stay out of brawls and dust-ups and quarrels and disputes. I promise it will be better for you if you do."
+
+  - sp: WILLIAMS
+    o:
+      - "I will none of your money."
+    m:
+      - "I’ll have none of your money."
+
+  - sp: FLUELLEN
+    o:
+      - "It is with a good will. I can tell you it will serve you to mend your shoes. Come, wherefore should you be so pashful? Your shoes is not so good. ’Tis a good silling, I warrant you, or I will change it."
+    m:
+      - "It’s meant in good will. I tell you, you can use it to get your shoes fixed. Come, why be so hesitant? Your shoes are in pretty bad shape. It’s a good shilling, I promise you. If not, I’ll get another one for you."
+
+  - os: "Enter an English HERALD"
+    ms: "An English HERALD nters."
+
+  - sp: KING HENRY
+    o:
+      - "Now, herald, are the dead numbered?"
+    m:
+      - "Now, herald, have the dead been counted?"
+
+  - sp: HERALD
+    o:
+      - "Here is the number of the slaughtered French."
+    m:
+      - "Here is the count of the slaughtered French."
+
+  - sp: KING HENRY
+    o:
+      - "What prisoners of good sort are taken, uncle?"
+    m:
+      - "What prisoners of rank have been taken, uncle?"
+
+  - sp: EXETER
+    o:
+      - "Charles, duke of Orléans, nephew to the king;"
+      - "John, duke of Bourbon, and Lord Bouciqualt."
+      - "Of other lords and barons, knights and squires,"
+      - "Full fifteen hundred, besides common men."
+    m:
+      - "Charles duke of Orléans, nephew to the king; John duke of Bourbon, and Lord Bouciqualt: of other lords and barons, knights and squires, a full fifteen hundred, besides common men."
+
+  - sp: KING HENRY
+    o:
+      - "This note doth tell me of ten thousand French"
+      - "That in the field lie slain. Of princes in this number"
+      - "And nobles bearing banners, there lie dead"
+      - "One hundred twenty-six. Added to these,"
+      - "Of knights, esquires, and gallant gentlemen,"
+      - "Eight thousand and four hundred, of the which,"
+      - "Five hundred were but yesterday dubbed knights."
+      - "So that in these ten thousand they have lost,"
+      - "There are but sixteen hundred mercenaries."
+      - "The rest are princes, barons, lords, knights, squires,"
+      - "And gentlemen of blood and quality."
+      - "The names of those their nobles that lie dead:"
+      - "Charles Delabreth, high constable of France;"
+      - "Jaques of Chatillon, admiral of France;"
+      - "The Master of the Crossbows, Lord Rambures;"
+      - "Great Master of France, the brave Sir Guichard Dauphin;"
+      - "John, duke of Alençon; Anthony, duke of Brabant,"
+      - "The brother of the duke of Burgundy,"
+      - "And Edward, duke of Bar. Of lusty earls:"
+      - "Grandpré and Roussi, Faulconbridge and Foix,"
+      - "Beaumont and Marle, Vaudemont and Lestrale."
+      - "Here was a royal fellowship of death."
+      - "Where is the number of our English dead?"
+    m:
+      - "This paper tells me of ten thousand Frenchmen who lie dead on the battlefield. Among them are one hundred twenty-six princes and standard-bearing nobles. Add to these eight thousand four hundred knights, squires, and brave gentlemen, five hundred of whom were given the title of knight only yesterday. Among the ten thousand the French have lost only sixteen hundred are mercenaries. The rest of the dead are princes, barons, lords, knights, squires, and gentlemen of birth and rank. The names of those of their nobles that lie dead: Charles Delabreth, high constable of France; Jaques of Chatillon, admiral of France; the master of the crossbows, Lord Rambures; Great Master of France, the brave Sir Guichard Dolphin, John duke of Alençon, Anthony duke of Brabant, the brother of the duke of Burgundy, and Edward duke of Bar. Of brave earls, Grandpré and Roussi, Fauconberg and Foix, Beaumont and Marle, Vaudemont and Lestrale. Here was a royal fellowship of death! Where is the number of our English dead?"
+
+  - os: "HERALD shows him another paper"
+    ms: "The HERALD shows him another aper."
+
+  - o:
+      - "Edward the duke of York, the earl of Suffolk,"
+      - "Sir Richard Ketly, Davy Gam, esquire;"
+      - "None else of name, and of all other men"
+      - "But five and twenty. O God, thy arm was here,"
+      - "And not to us but to thy arm alone"
+      - "Ascribe we all! When, without stratagem,"
+      - "But in plain shock and even play of battle,"
+      - "Was ever known so great and little loss"
+      - "On one part and on th’ other? Take it, God,"
+      - "For it is none but thine."
+    m:
+      - "Edward the duke of York, the earl of Suffolk, Sir Richard Ketly, Davy Gam, esquire. No one else of name, and only twenty-five other men. Oh, God, your power was with us. What happened here is your doing alone, not ours. When was there ever before so great a loss on one side and so little on the other, in the ordinary and equal clash of battle? Take credit, God, for it is no one’s doing but yours."
+
+  - sp: EXETER
+    o:
+      - "’Tis wonderful."
+    m:
+      - "It’s unbelievable."
+
+  - sp: KING HENRY
+    o:
+      - "Come, go we in procession to the village,"
+      - "And be it death proclaimèd through our host"
+      - "To boast of this or take that praise from God"
+      - "Which is His only."
+    m:
+      - "Come, let’s make a solemn procession to the village. And let it be proclaimed throughout our army that it shall be a hanging offense for anyone to boast of this or take from God the credit that belongs to Him alone."
+
+  - sp: FLUELLEN
+    o:
+      - "Is it not lawful, an please your Majesty, to tell how many is killed?"
+    m:
+      - "If it pleases your Majesty, isn’t it permissible to mention the number of casualties?"
+
+  - sp: KING HENRY
+    o:
+      - "Yes, Captain, but with this acknowledgement:"
+      - "That God fought for us."
+    m:
+      - "Yes, Captain, but with this acknowledgement—that God fought for us."
+
+  - sp: FLUELLEN
+    o:
+      - "Yes, my conscience, He did us great good."
+    m:
+      - "Yes, I truly think He did great good."
+
+  - sp: KING HENRY
+    o:
+      - "Do we all holy rites."
+      - "Let there be sung *Non nobis* and *Te Deum,*"
+      - "The dead with charity enclosed in clay,"
+      - "And then to Calais, and to England then,"
+      - "Where ne’er from France arrived more happy men."
+    m:
+      - "We’ll perform all the holy rites. Let *Non nobis* and *Te Deum* be sung, and let the dead be buried properly. Then on to Calais and from there to England. There have never been more fortunate men than we to return from France."
+
+  - os: "Exeunt"
+    ms: "They all exit."

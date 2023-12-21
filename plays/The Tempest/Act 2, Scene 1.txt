@@ -1,0 +1,1184 @@
+play: The Tempest
+title: Act 2, Scene 1
+group: 2
+order: 2
+text:
+  - os: "Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others"
+    ms: "ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others enter."
+
+  - sp: GONZALO
+    o:
+      - "*(to ALONSO)*"
+      - "Beseech you, sir, be merry. You have cause,"
+      - "So have we all, of joy, for our escape"
+      - "Is much beyond our loss. Our hint of woe"
+      - "Is common. Every day some sailor’s wife,"
+      - "The masters of some merchant, and the merchant"
+      - "Have just our theme of woe. But for the miracle—"
+      - "I mean our preservation—few in millions"
+      - "Can speak like us. Then wisely, good sir, weigh"
+      - "Our sorrow with our comfort."
+    m:
+      - "*(to ALONSO)* Please cheer up, sir. Like all of us, you have a good reason to be happy. The fact that we’re alive outweighs our losses. Many people every day feel the sadness we feel now. Every day some sailor’s wife, a ship’s crew, the merchant who hired the ship all experience the same loss we’ve undergone. But the miracle—the fact that we were saved—only happens to a few people out of millions. So remember that, and take comfort in it, to counterbalance our sadness."
+
+  - sp: ALONSO
+    o:
+      - "    Prithee, peace."
+    m:
+      - "Please say no more."
+
+  - sp: SEBASTIAN
+    o:
+      - "*(to ANTONIO)* He receives comfort like cold porridge."
+    m:
+      - "*(to ANTONIO)* Alonso enjoys these comforting words about as much as cold oatmeal."
+
+  - sp: ANTONIO
+    o:
+      - "*(to SEBASTIAN)* The visitor will not give him o’er so."
+    m:
+      - "*(to SEBASTIAN)* But the goodwill ambassador won’t give up that easily."
+
+  - sp: SEBASTIAN
+    o:
+      - "Look he’s winding up the watch of his wit. By and by it will strike."
+    m:
+      - "*(to ANTONIO)* Look. He’s like a clock winding up to strike the hour."
+
+  - sp: GONZALO
+    o:
+      - "*(to ALONSO)* Sir—"
+    m:
+      - "*(to ALONSO)* Sir—"
+
+  - sp: SEBASTIAN
+    o:
+      - "*(to ANTONIO)* One. Tell."
+    m:
+      - "*(to ANTONIO)* There he goes! Now we can tell what time it is."
+
+  - sp: GONZALO
+    o:
+      - "When every grief is entertained that’s offered,"
+      - "Comes to th’ entertainer—"
+    m:
+      - "If we let every sad thing that happens to us get us down, then we would find ourselves—"
+
+  - sp: SEBASTIAN
+    o:
+      - "A dollar."
+    m:
+      - "What a pain."
+
+  - sp: GONZALO
+    o:
+      - "Dolor comes to him, indeed. You have spoken truer than you purposed."
+    m:
+      - "Pain, yes indeed. We would find ourselves in pain. You thought you were being funny, but you said the truth."
+
+  - sp: SEBASTIAN
+    o:
+      - "You have taken it wiselier than I meant you should."
+    m:
+      - "You’re taking it more seriously than I meant it."
+
+  - sp: GONZALO
+    o:
+      - "*(to ALONSO)* Therefore, my lord—"
+    m:
+      - "*(to ALONSO)* Therefore, sir—"
+
+  - sp: ANTONIO
+    o:
+      - "*(to SEBASTIAN)* Fie, what a spendthrift is he of his tongue!"
+    m:
+      - "*(to SEBASTIAN)* God, doesn’t he ever shut up?"
+
+  - sp: ALONSO
+    o:
+      - "*(to GONZALO)* I prithee, spare."
+    m:
+      - "*(to GONZALO)* Please, no more."
+
+  - sp: GONZALO
+    o:
+      - "Well, I have done. But yet—"
+    m:
+      - "Well, I’m nearly finished. But just one last thing—"
+
+  - sp: SEBASTIAN
+    o:
+      - "*(to ANTONIO)* He will be talking."
+    m:
+      - "*(to ANTONIO)* He insists on talking."
+
+  - sp: ANTONIO
+    o:
+      - "Which, of he or Adrian, for a good wager, first begins to crow?"
+    m:
+      - "Hey, let’s bet. Which one will start yammering first, Gonzalo or Adrian?"
+
+  - sp: SEBASTIAN
+    o:
+      - "The old cock."
+    m:
+      - "The old guy."
+
+  - sp: ANTONIO
+    o:
+      - "The cockerel."
+    m:
+      - "I pick the younger one."
+
+  - sp: SEBASTIAN
+    o:
+      - "Done. The wager?"
+    m:
+      - "You’re on. What’s the prize?"
+
+  - sp: ANTONIO
+    o:
+      - "A laughter."
+    m:
+      - "A good laugh."
+
+  - sp: SEBASTIAN
+    o:
+      - "A match!"
+    m:
+      - "It’s a deal!"
+
+  - sp: ADRIAN
+    o:
+      - "Though this island seem to be desert—"
+    m:
+      - "Though this island may appear desolate—"
+
+  - sp: ANTONIO
+    o:
+      - "*(to SEBASTIAN)* Ha, ha, ha!"
+    m:
+      - "*(to SEBASTIAN)* Ha, ha, ha!"
+
+  - sp: SEBASTIAN
+    o:
+      - "So you’re paid."
+    m:
+      - "Fine, you win."
+
+  - sp: ADRIAN
+    o:
+      - "Uninhabitable and almost inaccessible—"
+    m:
+      - "Uninhabitable and almost inaccessible, as it were—"
+
+  - sp: SEBASTIAN
+    o:
+      - "Yet—"
+    m:
+      - "Now he’s going to say “but”—"
+
+  - sp: ADRIAN
+    o:
+      - "Yet—"
+    m:
+      - "But—"
+
+  - sp: ANTONIO
+    o:
+      - "He could not miss ’t."
+    m:
+      - "He had to say it, it was unavoidable."
+
+  - sp: ADRIAN
+    o:
+      - "It must needs be of subtle, tender, and delicate temperance."
+    m:
+      - "The island must be mild, and have a temperate climate."
+
+  - sp: ANTONIO
+    o:
+      - "Temperance was a delicate wench."
+    m:
+      - "I knew Temperance—she was a fine girl."
+
+  - sp: SEBASTIAN
+    o:
+      - "Ay, and a subtle, as he most learnedly delivered."
+    m:
+      - "Yes, and she was mild too."
+
+  - sp: ADRIAN
+    o:
+      - "The air breathes upon us here most sweetly."
+    m:
+      - "There’s always a breath of fresh air here."
+
+  - sp: SEBASTIAN
+    o:
+      - "As if it had lungs, and rotten ones."
+    m:
+      - "A breath from rotten lungs, maybe."
+
+  - sp: ANTONIO
+    o:
+      - "Or as ’twere perfumed by a fen."
+    m:
+      - "Stinking like a swamp."
+
+  - sp: GONZALO
+    o:
+      - "Here is everything advantageous to life."
+    m:
+      - "This island contains everything beneficial to life."
+
+  - sp: ANTONIO
+    o:
+      - "True. Save means to live."
+    m:
+      - "True. Everything except something to live on."
+
+  - sp: SEBASTIAN
+    o:
+      - "Of that there’s none, or little."
+    m:
+      - "There’s little or nothing of that."
+
+  - sp: GONZALO
+    o:
+      - "How lush and lusty the grass looks! How green!"
+    m:
+      - "Look how lush and healthy the grass is! How green!"
+
+  - sp: ANTONIO
+    o:
+      - "The ground indeed is tawny."
+    m:
+      - "The ground is brown."
+
+  - sp: SEBASTIAN
+    o:
+      - "With an eye of green in ’t."
+    m:
+      - "With a touch of green in it."
+
+  - sp: ANTONIO
+    o:
+      - "He misses not much."
+    m:
+      - "He doesn’t miss a thing."
+
+  - sp: SEBASTIAN
+    o:
+      - "No, he doth but mistake the truth totally."
+    m:
+      - "No, he just gets reality completely wrong."
+
+  - sp: GONZALO
+    o:
+      - "But the rarity of it is—which is indeed almost beyond credit—"
+    m:
+      - "But the really unbelievable thing is—and this is incredible—"
+
+  - sp: SEBASTIAN
+    o:
+      - "As many vouched rarities are."
+    m:
+      - "As most unbelievable things are."
+
+  - sp: GONZALO
+    o:
+      - "That our garments, being, as they were, drenched in the sea, hold notwithstanding their freshness and glosses, being rather new-dyed than stained with salt water."
+    m:
+      - "That our clothes were drenched with sea water, but they came out looking brand-new."
+
+  - sp: ANTONIO
+    o:
+      - "If but one of his pockets could speak, would it not say he lies?"
+    m:
+      - "Listen to him. If his clothes could talk, they’d call him a liar."
+
+  - sp: SEBASTIAN
+    o:
+      - "Ay, or very falsely pocket up his report."
+    m:
+      - "Or stuff what he says into their pockets."
+
+  - sp: GONZALO
+    o:
+      - "Methinks our garments are now as fresh as when we put them on first in Afric, at the marriage of the king’s fair daughter Claribel to the King of Tunis."
+    m:
+      - "Seriously, I think our clothes are as fresh now as they were the day we put them on in Africa, when we attended the marriage of the king’s daughter Claribel to the King of Tunis."
+
+  - sp: SEBASTIAN
+    o:
+      - "’Twas a sweet marriage, and we prosper well in our return."
+    m:
+      - "It was a lovely wedding, and we’re doing really well on our trip home."
+
+  - sp: ADRIAN
+    o:
+      - "Tunis was never graced before with such a paragon to their queen."
+    m:
+      - "Tunis has never had such a beautiful queen."
+
+  - sp: GONZALO
+    o:
+      - "Not since widow Dido’s time."
+    m:
+      - "Not since the days of widow Dido."
+
+  - sp: ANTONIO
+    o:
+      - "Widow! A pox o’ that! How came that “widow” in? Widow Dido!"
+    m:
+      - "Widow? Why the hell is he calling her “widow Dido”?"
+
+  - sp: SEBASTIAN
+    o:
+      - "What if he had said “widower Æneas” too? Good Lord, how you take it!"
+    m:
+      - "Next thing you know, he’ll be saying “widower Aeneas.”"
+
+  - sp: ADRIAN
+    o:
+      - "“Widow Dido” said you? You make me study of that. She was of Carthage, not of Tunis."
+    m:
+      - "“Widow Dido,” did you say? I’m not sure about that. Dido was from Carthage, not Tunis."
+
+  - sp: GONZALO
+    o:
+      - "This Tunis, sir, was Carthage."
+    m:
+      - "Tunis *was* Carthage, sir."
+
+  - sp: ADRIAN
+    o:
+      - "Carthage?"
+    m:
+      - "Carthage?"
+
+  - sp: GONZALO
+    o:
+      - "I assure you, Carthage."
+    m:
+      - "I’m telling you, it was Carthage."
+
+  - sp: SEBASTIAN
+    o:
+      - "His word is more than the miraculous harp. He hath raised the wall and houses too."
+    m:
+      - "Gonzalo is a miracle-worker. If he says Carthage was here, then Carthage must be here."
+
+  - sp: ANTONIO
+    o:
+      - "What impossible matter will he make easy next?"
+    m:
+      - "What miracle will he work next?"
+
+  - sp: SEBASTIAN
+    o:
+      - "I think he will carry this island home in his pocket and give it his son for an apple."
+    m:
+      - "I think he’ll carry this island home in his pocket and give it to his son like an apple."
+
+  - sp: ANTONIO
+    o:
+      - "And sowing the kernels of it in the sea, bring forth more islands."
+    m:
+      - "And then throw the seeds in the sea, to make more islands grow."
+
+  - sp: GONZALO
+    o:
+      - "Ay."
+    m:
+      - "Yes indeed."
+
+  - sp: ANTONIO
+    o:
+      - "Why, in good time."
+    m:
+      - "Absolutely, yes indeed."
+
+  - sp: GONZALO
+    o:
+      - "*(to ALONSO)* Sir, we were talking that our garments seem now as fresh as when we were at Tunis at the marriage of your daughter, who is now queen."
+    m:
+      - "*(to ALONSO)* Sir, we were saying that our clothes seem just as fresh as they did when we attended the wedding of your daughter, who’s now queen of Tunis."
+
+  - sp: ANTONIO
+    o:
+      - "And the rarest that e’er came there."
+    m:
+      - "The most beautiful queen they ever had."
+
+  - sp: SEBASTIAN
+    o:
+      - "Bate, I beseech you, widow Dido."
+    m:
+      - "I beg your pardon, except for the widow Dido."
+
+  - sp: ANTONIO
+    o:
+      - "Oh, widow Dido? Ay, widow Dido."
+    m:
+      - "Oh, except for the widow Dido? That’s right, except for the widow Dido."
+
+  - sp: GONZALO
+    o:
+      - "Is not, sir, my doublet as fresh as the first day I wore it? I mean, in a sort."
+    m:
+      - "Isn’t my vest just as clean and fresh as the day I put it on? In a way, I mean."
+
+  - sp: ANTONIO
+    o:
+      - "That “sort” was well fished for."
+    m:
+      - "“In a way” is the right way to go."
+
+  - sp: GONZALO
+    o:
+      - "When I wore it at your daughter’s marriage?"
+    m:
+      - "I mean when I wore it at your daughter’s wedding."
+
+  - sp: ALONSO
+    o:
+      - "You cram these words into mine ears against"
+      - "The stomach of my sense. Would I had never"
+      - "Married my daughter there! For, coming thence,"
+      - "My son is lost and, in my rate, she too,"
+      - "Who is so far from Italy removed"
+      - "I ne’er again shall see her.—O thou mine heir"
+      - "Of Naples and of Milan, what strange fish"
+      - "Hath made his meal on thee?"
+    m:
+      - "You keep cramming words into my ears that I don’t want to hear. I wish that wedding had never happened, since I lost my son because of it, and I lost my daughter too in a way, since she’s moved so far from Milan that I’ll never see her again.—Oh, dear son of mine and heir of Naples and Milan, what strange fish has made a meal of you?"
+
+  - sp: FRANCISCO
+    o:
+      - "    Sir, he may live."
+      - "I saw him beat the surges under him,"
+      - "And ride upon their backs. He trod the water,"
+      - "Whose enmity he flung aside, and breasted"
+      - "The surge most swoll’n that met him. His bold head"
+      - "’Bove the contentious waves he kept, and oared"
+      - "Himself with his good arms in lusty stroke"
+      - "To th’ shore, that o’er his wave-worn basis bowed,"
+      - "As stooping to relieve him. I not doubt"
+      - "He came alive to land."
+    m:
+      - "Sir, he may still be alive. I saw him swimming strongly, almost as if he was riding the waves. He treaded water and kept his head well above the wild waters coming at him, swimming with his strong arms toward the shore, which almost seemed eager to welcome him. I have no doubt he got ashore alive."
+
+  - sp: ALONSO
+    o:
+      - "    No, no, he’s gone."
+    m:
+      - "No, no, he’s dead."
+
+  - sp: SEBASTIAN
+    o:
+      - "Sir, you may thank yourself for this great loss,"
+      - "That would not bless our Europe with your daughter,"
+      - "But rather loose her to an African,"
+      - "Where she at least is banished from your eye,"
+      - "Who hath cause to wet the grief on ’t."
+    m:
+      - "Sir, you can thank yourself for this great loss, because you wouldn’t bless Europe with your daughter, but instead pimped her out to an African. At least you can be thankful that she won’t be around to remind you of your loss."
+
+  - sp: ALONSO
+    o:
+      - "    Prithee, peace."
+    m:
+      - "Please be quiet."
+
+  - sp: SEBASTIAN
+    o:
+      - "You were kneeled to and importuned otherwise"
+      - "By all of us, and the fair soul herself"
+      - "Weighed between loathness and obedience, at"
+      - "Which end o’ th’ beam should bow. We have lost your son,"
+      - "I fear, forever. Milan and Naples have"
+      - "More widows in them of this business’ making"
+      - "Than we bring men to comfort them."
+      - "The fault’s your own."
+    m:
+      - "We all begged you not to go ahead with those marriage plans, and your lovely daughter struggled between disgust at marrying an African and the desire to obey you. Now I’m afraid we’ve lost your son forever. Our shipwreck has made more women widows in Milan and Naples than there are survivors to comfort them. And it’s all your fault."
+
+  - sp: ALONSO
+    o:
+      - "    So is the dearest o’ th’ loss."
+    m:
+      - "And the greatest sorrow is mine too."
+
+  - sp: GONZALO
+    o:
+      - "My lord Sebastian,"
+      - "The truth you speak doth lack some gentleness"
+      - "And time to speak it in. You rub the sore"
+      - "When you should bring the plaster."
+    m:
+      - "My lord Sebastian, even though what you say is true, your way of saying it is tactless and comes at the wrong time. You’re rubbing salt in his wounds when you should be applying bandages."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Very well."
+    m:
+      - "All right, I’ll stop."
+
+  - sp: ANTONIO
+    o:
+      - "And most chirurgeonly."
+    m:
+      - "Like a good doctor."
+
+  - sp: GONZALO
+    o:
+      - "*(to ALONSO)* It is foul weather in us all, good sir,"
+      - "When you are cloudy."
+    m:
+      - "*(to ALONSO)* It’s bad times for all of us, sir, when you’re feeling gloomy."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Foul weather?"
+    m:
+      - "Bad times?"
+
+  - sp: ANTONIO
+    o:
+      - "    Very foul."
+    m:
+      - "Yes, very bad."
+
+  - sp: GONZALO
+    o:
+      - "Had I plantation of this isle, my lord—"
+    m:
+      - "If I could colonize this island, my lord—"
+
+  - sp: ANTONIO
+    o:
+      - "He’d sow ’t with nettle seed."
+    m:
+      - "He’d cultivate weeds on it."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Or docks, or mallows."
+    m:
+      - "Or thorn-bushes."
+
+  - sp: GONZALO
+    o:
+      - "And were the king on ’t, what would I do?"
+    m:
+      - "And if I were king of it, you know what I’d do?"
+
+  - sp: SEBASTIAN
+    o:
+      - "’Scape being drunk for want of wine."
+    m:
+      - "He wouldn’t get drunk much, since there’s no wine here."
+
+  - sp: GONZALO
+    o:
+      - "I’ th’ commonwealth I would by contraries"
+      - "Execute all things. For no kind of traffic"
+      - "Would I admit. No name of magistrate."
+      - "Letters should not be known. Riches, poverty,"
+      - "And use of service—none. Contract, succession,"
+      - "Bourn, bound of land, tilth, vineyard—none."
+      - "No use of metal, corn, or wine, or oil."
+      - "No occupation. All men idle, all."
+      - "And women too, but innocent and pure."
+      - "No sovereignty—"
+    m:
+      - "In my kingdom I’d do everything differently from the way it’s usually done. I wouldn’t allow any commerce. There’d be no officials or administrators. There’d be no schooling or literature. There’d be no riches, no poverty, and no servants—none. No contracts or inheritance laws; no division of the land into private farms, no metal-working, agriculture, or vineyards. There’d be no work. Men would have nothing to do, and women also—but they’d be innocent and pure. There’d be no kingship—"
+
+  - sp: SEBASTIAN
+    o:
+      - "    Yet he would be king on ’t."
+    m:
+      - "He wants to be king in a place with no kingship."
+
+  - sp: ANTONIO
+    o:
+      - "The latter end of his commonwealth forgets the beginning."
+    m:
+      - "Yes, he’s getting a bit confused."
+
+  - sp: GONZALO
+    o:
+      - "All things in common nature should produce"
+      - "Without sweat or endeavor. Treason, felony,"
+      - "Sword, pike, knife, gun, or need of any engine,"
+      - "Would I not have. But nature should bring forth"
+      - "Of its own kind all foison, all abundance,"
+      - "To feed my innocent people."
+    m:
+      - "Everything would be produced without labor, and would be shared by all. There’d be no treason, crimes, or weapons. Nature would produce its harvests in abundance, to feed my innocent people."
+
+  - sp: SEBASTIAN
+    o:
+      - "No marrying ’mong his subjects?"
+    m:
+      - "There’d be no marriage?"
+
+  - sp: ANTONIO
+    o:
+      - "None, man. All idle. Whores and knaves."
+    m:
+      - "No. Everyone would have nothing to do. They’d all be whores and slackers."
+
+  - sp: GONZALO
+    o:
+      - "I would with such perfection govern, sir,"
+      - "T’ excel the Golden Age."
+    m:
+      - "I would rule so perfectly that my country would outshine the Golden Age they had in ancient times."
+
+  - sp: SEBASTIAN
+    o:
+      - "    ’Save his majesty!"
+    m:
+      - "Long live his Majesty!"
+
+  - sp: ANTONIO
+    o:
+      - "Long live Gonzalo!"
+    m:
+      - "All hail Gonzalo!"
+
+  - sp: GONZALO
+    o:
+      - "*(to ALONSO)*     And—do you mark me, sir?"
+    m:
+      - "*(to ALONSO)* Are you listening to me, sir?"
+
+  - sp: ALONSO
+    o:
+      - "Prithee, no more. Thou dost talk nothing to me."
+    m:
+      - "Oh, please be quiet. You’re spouting empty words."
+
+  - sp: GONZALO
+    o:
+      - "I do well believe your highness, and did it to minister occasion to these gentlemen, who are of such sensible and nimble lungs that they always use to laugh at nothing."
+    m:
+      - "You’re absolutely right, your highness. I talked like that to give these gentlemen here a chance to have a good laugh. They love to laugh at empty words."
+
+  - sp: ANTONIO
+    o:
+      - "’Twas you we laughed at."
+    m:
+      - "It’s you we were laughing at."
+
+  - sp: GONZALO
+    o:
+      - "Who in this kind of merry fooling am nothing to you. So you may continue and laugh at nothing still."
+    m:
+      - "But from your perspective I don’t matter, so I’m just an empty nobody for you. Go ahead and laugh at my empty words some more."
+
+  - sp: ANTONIO
+    o:
+      - "What a blow was there given!"
+    m:
+      - "Ouch, what a comeback!"
+
+  - sp: SEBASTIAN
+    o:
+      - "An it had not fallen flat-long."
+    m:
+      - "He sure did. Too bad it fell flat."
+
+  - sp: GONZALO
+    o:
+      - "You are gentlemen of brave mettle. You would lift the moon out of her sphere if she would continue in it five weeks without changing."
+    m:
+      - "You’re brave gentlemen. You’d give the moon a shove if it got stuck five weeks in its orbit."
+
+  - os: "Enter ARIEL invisible, playing solemn music"
+    ms: "ARIEL enters, invisible, playing solemn music."
+
+  - sp: SEBASTIAN
+    o:
+      - "We would so, and then go a-batfowling."
+    m:
+      - "That’s right, and then after we fixed the moon, we’d go bird-hunting."
+
+  - sp: ANTONIO
+    o:
+      - "*(to GONZALO)* Nay, good my lord, be not angry."
+    m:
+      - "*(to GONZALO)* Don’t be angry with us, my lord."
+
+  - sp: GONZALO
+    o:
+      - "No, I warrant you. I will not adventure my discretion so weakly. Will you laugh me asleep, for I am very heavy?"
+    m:
+      - "I’m not. I’ve got good judgment, and I know you’ve got nothing against me. Will you laugh me to sleep? I’m feeling very sleepy."
+
+  - sp: ANTONIO
+    o:
+      - "Go sleep, and hear us."
+    m:
+      - "Go to sleep, and listen to us laughing."
+
+  - os: "All sleep except ALONSO, SEBASTIAN, and ANTONIO"
+    ms: "Everyone sleeps except ALONSO, SEBASTIAN, and ANTONIO."
+
+  - sp: ALONSO
+    o:
+      - "What, all so soon asleep? I wish mine eyes"
+      - "Would with themselves shut up my thoughts. I find"
+      - "They are inclined to do so."
+    m:
+      - "What, everybody falls asleep so fast? I wish I could sleep too—it would stop me from thinking. Come to think of it, I am feeling sleepy."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Please you, sir,"
+      - "Do not omit the heavy offer of it."
+      - "It seldom visits sorrow. When it doth,"
+      - "It is a comforter."
+    m:
+      - "In that case you should sleep. People in grief need a good sleep. It doesn’t come to them often, but when it does come they should enjoy it."
+
+  - sp: ANTONIO
+    o:
+      - "  We two, my lord,"
+      - "Will guard your person while you take your rest"
+      - "And watch your safety."
+    m:
+      - "The two of us will guard you while you sleep, my lord, and keep you safe."
+
+  - sp: ALONSO
+    o:
+      - "    Thank you. Wondrous heavy."
+    m:
+      - "Thank you. I’m terribly sleepy."
+
+  - os: "(falls asleep)"
+    ms: "He falls asleep."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - sp: SEBASTIAN
+    o:
+      - "What a strange drowsiness possesses them!"
+    m:
+      - "How strange that they all got so sleepy!"
+
+  - sp: ANTONIO
+    o:
+      - "It is the quality o’ th’ climate."
+    m:
+      - "There must be something in the air here."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Why"
+      - "Doth it not then our eyelids sink? I find not"
+      - "Myself disposed to sleep."
+    m:
+      - "So why aren’t our eyelids heavy? I’m not sleepy at all."
+
+  - sp: ANTONIO
+    o:
+      - "    Nor I. My spirits are nimble."
+      - "They fell together all, as by consent."
+      - "They dropped, as by a thunderstroke. What might,"
+      - "Worthy Sebastian, O, what might—? No more.—"
+      - "And yet methinks I see it in thy face,"
+      - "What thou shouldst be. Th’ occasion speaks thee, and"
+      - "My strong imagination sees a crown"
+      - "Dropping upon thy head."
+    m:
+      - "Me neither. I’m wide awake. They all fell asleep together, as if they’d planned it. Like they’d all been struck by lightning. What might happen, Sebastian, what might happen if—No, it’s time for me to shut up.— But still, I think I can see in your face what you ought to be. Opportunity’s knocking for you, and in my imagination I see a crown dropping onto your head."
+
+  - sp: SEBASTIAN
+    o:
+      - "    What, art thou waking?"
+    m:
+      - "Are you dreaming or awake?"
+
+  - sp: ANTONIO
+    o:
+      - "Do you not hear me speak?"
+    m:
+      - "Don’t you hear me speaking?"
+
+  - sp: SEBASTIAN
+    o:
+      - "    I do, and surely"
+      - "It is a sleepy language, and thou speak’st"
+      - "Out of thy sleep. What is it thou didst say?"
+      - "This is a strange repose, to be asleep"
+      - "With eyes wide open, standing, speaking, moving,"
+      - "And yet so fast asleep."
+    m:
+      - "I do, and it sounds like you’re talking in your sleep. What did you say? It’s weird for you to be dreaming with your eyes wide open—standing, talking, moving, but sound asleep."
+
+  - sp: ANTONIO
+    o:
+      - "    Noble Sebastian,"
+      - "Thou let’st thy fortune sleep—die, rather—wink’st"
+      - "Whiles thou art waking."
+    m:
+      - "Good Sebastian, you’re the one who’s sleeping if you let this opportunity pass you by without acting on it."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Thou dost snore distinctly."
+      - "There’s meaning in thy snores."
+    m:
+      - "You’re snoring, but it sounds like you’re talking. There’s meaning in your snoring."
+
+  - sp: ANTONIO
+    o:
+      - "I am more serious than my custom. You"
+      - "Must be so too if heed me, which to do"
+      - "Trebles thee o’er."
+    m:
+      - "I’m not kidding when I say this, I’m not joking around like usual. You should be serious too when you listen to what I’m saying. You can become a great man if you listen to me."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Well, I am standing water."
+    m:
+      - "I’m hanging on every word you say."
+
+  - sp: ANTONIO
+    o:
+      - "I’ll teach you how to flow."
+    m:
+      - "You need to do more than hang around—you have to act. I’ll show you how."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Do so. To ebb"
+      - "Hereditary sloth instructs me."
+    m:
+      - "You need to. I’m lazy by nature."
+
+  - sp: ANTONIO
+    o:
+      - "    Oh,"
+      - "If you but knew how you the purpose cherish"
+      - "Whiles thus you mock it! How, in stripping it,"
+      - "You more invest it! Ebbing men indeed"
+      - "Most often do so near the bottom run"
+      - "By their own fear or sloth."
+    m:
+      - "Oh, if you only knew how close to success you are, even while you make fun of what I’m telling you! The more you joke about it, the more clearly I feel how serious it is! Lazy people end up at the bottom, and you deserve to be at the top."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Prithee, say on."
+      - "The setting of thine eye and cheek proclaim"
+      - "A matter from thee, and a birth indeed"
+      - "Which throes thee much to yield."
+    m:
+      - "Please, tell me more. There’s something in your expression that tells me you have something serious to say, and you’re having a lot of difficulty saying it."
+
+  - sp: ANTONIO
+    o:
+      - "    Thus, sir:"
+      - "Although this lord of weak remembrance—this,"
+      - "Who shall be of as little memory"
+      - "When he is earthed—hath here almost persuade"
+      - "(For he’s a spirit of persuasion only,"
+      - "Professes to persuade) the king his son’s alive,"
+      - "’Tis as impossible that he’s undrowned"
+      - "And he that sleeps here swims."
+    m:
+      - "This is what I’m saying. *(points at GONZALO)* Although this lord who has such a bad memory—and who will be forgotten by the world when he’s dead and buried—almost succeeded in convincing the king that his son’s alive, it’s impossible that he survived. It’s as far from the truth as saying this sleeping man is swimming."
+
+  - sp: SEBASTIAN
+    o:
+      - "    I have no hope"
+      - "That he’s undrowned."
+    m:
+      - "Yes, I’m sure he’s dead. I’ve got no hope that he survived."
+
+  - sp: ANTONIO
+    o:
+      - "    Oh, out of that “no hope”"
+      - "What great hope have you! No hope that way is"
+      - "Another way so high a hope that even"
+      - "Ambition cannot pierce a wink beyond,"
+      - "But doubt discovery there. Will you grant with me"
+      - "That Ferdinand is drowned?"
+    m:
+      - "But in that “no hope” there are great hopes for you! That “no hope” means you’re on the way to glory so brilliant you couldn’t even imagine it, no matter how ambitious you were. Do you agree that Ferdinand must have drowned?"
+
+  - sp: SEBASTIAN
+    o:
+      - "    He’s gone."
+    m:
+      - "He’s dead."
+
+  - sp: ANTONIO
+    o:
+      - "    Then, tell me,"
+      - "Who’s the next heir of Naples?"
+    m:
+      - "So, in that case, tell me who’s next in line to inherit the kingdom of Naples?"
+
+  - sp: SEBASTIAN
+    o:
+      - "    Claribel."
+    m:
+      - "Claribel, his daughter."
+
+  - sp: ANTONIO
+    o:
+      - "She that is Queen of Tunis; she that dwells"
+      - "Ten leagues beyond man’s life; she that from Naples"
+      - "Can have no note, unless the sun were post—"
+      - "The man i’ th’ moon’s too slow—till newborn chins"
+      - "Be rough and razorable; she that from whom"
+      - "We all were sea-swallowed, though some cast again,"
+      - "And by that destiny to perform an act"
+      - "Whereof what’s past is prologue, what to come"
+      - "In yours and my discharge."
+    m:
+      - "The one who’s now Queen of Tunis, living at the edge of the world, out of reach of mail service. It takes a letter longer to reach her than it takes a baby boy to grow old enough to shave. Claribel who was the cause of our shipwreck, which a few of us survived—she was destined to give us an opportunity that we are destined to act on."
+
+  - sp: SEBASTIAN
+    o:
+      - "    What stuff is this? How say you?"
+      - "’Tis true, my brother’s daughter’s Queen of Tunis,"
+      - "So is she heir of Naples, ’twixt which regions"
+      - "There is some space."
+    m:
+      - "What in the world are you talking about? It’s true that my brother’s daughter is Queen of Tunis, and heir of Naples. And it’s true those two places are far apart."
+
+  - sp: ANTONIO
+    o:
+      - "    A space whose every cubit"
+      - "Seems to cry out, “How shall that Claribel"
+      - "Measure us back to Naples? Keep in Tunis,"
+      - "And let Sebastian wake.” Say this were death"
+      - "That now hath seized them. Why, they were no worse"
+      - "Than now they are. There be that can rule Naples"
+      - "As well as he that sleeps, lords that can prate"
+      - "As amply and unnecessarily"
+      - "As this Gonzalo. I myself could make"
+      - "A chough of as deep chat. Oh, that you bore"
+      - "The mind that I do, what a sleep were this"
+      - "For your advancement! Do you understand me?"
+    m:
+      - "So far that every foot of distance between them seems to shout, “It’s too far for Claribel to come back to Naples. Let her stay in Tunis and give Sebastian a chance to start living.” If these sleeping men were dead instead of sleeping, they’d be no worse off than they are now. There are a lot of men who can rule Naples just as well as this sleeping guy here can. There are a lot of men who babble nonsense as well as Gonzalo. I could do it myself. Oh, I wish you understood what I’m saying—you’d see how you’re missing out on a great opportunity for yourself! Do you even get what I’m saying?"
+
+  - sp: SEBASTIAN
+    o:
+      - "Methinks I do."
+    m:
+      - "I think I do."
+
+  - sp: ANTONIO
+    o:
+      - "  And how does your content"
+      - "Tender your own good fortune?"
+    m:
+      - "And does this prospect of good fortune make you happy?"
+
+  - sp: SEBASTIAN
+    o:
+      - "    I remember"
+      - "You did supplant your brother Prospero."
+    m:
+      - "I remember you took the throne from your brother Prospero."
+
+  - sp: ANTONIO
+    o:
+      - "    True."
+      - "And look how well my garments sit upon me,"
+      - "Much feater than before. My brother’s servants"
+      - "Were then my fellows. Now they are my men."
+    m:
+      - "Yes I did, and look how good I look in my new role—much better than before. My brother’s servants used to be my equals. Now they work for me."
+
+  - sp: SEBASTIAN
+    o:
+      - "But, for your conscience?"
+    m:
+      - "But what about your guilty conscience?"
+
+  - sp: ANTONIO
+    o:
+      - "Ay, sir. Where lies that? If ’twere a kibe,"
+      - "’Twould put me to my slipper. But I feel not"
+      - "This deity in my bosom. Twenty consciences,"
+      - "That stand ’twixt me and Milan, candied be they"
+      - "And melt ere they molest! Here lies your brother,"
+      - "No better than the earth he lies upon,"
+      - "If he were that which now he’s like—that’s dead—"
+      - "Whom I, with this obedient steel, three inches of it,"
+      - "Can lay to bed for ever; whiles you, doing thus,"
+      - "To the perpetual wink for aye might put"
+      - "This ancient morsel, this Sir Prudence, who"
+      - "Should not upbraid our course. For all the rest,"
+      - "They’ll take suggestion as a cat laps milk."
+      - "They’ll tell the clock to any business that"
+      - "We say befits the hour."
+    m:
+      - "Yes. What guilty conscience? I don’t feel anything. If my feet were cold, I’d put my slippers on, but I don’t feel any pangs of guilt. If there were twenty guilty consciences between me and the dukedom, they’d melt away to nothing before they caused me any trouble. Here’s your brother sleeping, worth no more than the dirt he’s lying on. If he were as dead as he appears to be now—and I could quickly make him dead with this sword of mine—he wouldn’t stand in our way. As for the other men, we can make them believe anything we choose. They’ll set their watches to whatever time we say."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Thy case, dear friend,"
+      - "Shall be my precedent. As thou got’st Milan,"
+      - "I’ll come by Naples. Draw thy sword. One stroke"
+      - "Shall free thee from the tribute which thou payest."
+      - "And I the king shall love thee."
+    m:
+      - "You’ll be my role model. Just as you got Milan, I’ll get Naples. Take out your sword. With one cut you can be through paying money to Naples. And as king I’ll love you forever."
+
+  - sp: ANTONIO
+    o:
+      - "    Draw together."
+      - "And when I rear my hand, do you the like,"
+      - "To fall it on Gonzalo."
+    m:
+      - "You take out your sword too. When I raise my hand, you do the same, and bring it down on Gonzalo’s head."
+
+  - os: "ANTONIO and SEBASTIAN draw their swords"
+    ms: "ANTONIO and SEBASTIAN take out their swords."
+
+  - sp: SEBASTIAN
+    o:
+      - "    O, but one word."
+      - "*(speaks quietly to ANTONIO)*"
+    m:
+      - "Oh, but there’s one more thing to tell you. *(he speaks quietly to ANTONIO)*"
+
+  - os: "Enter ARIEL invisible, with music and song"
+    ms: "ARIEL enters, invisible, singing and playing music."
+
+  - sp: ARIEL
+    o:
+      - "*(to GONZALO)* My master through his art foresees the danger"
+      - "That you, his friend, are, and sends me forth—"
+      - "For else his project dies—to keep them living."
+      - "*(sings in GONZALO’s ear)*"
+      - "  *While you here do snoring lie*,"
+      - "  *Open-eyed conspiracy*"
+      - "  *His time doth take*."
+      - "  *If of life you keep a care*,"
+      - "  *Shake off slumber and beware*."
+      - "  *Awake, awake!*"
+    m:
+      - "*(to GONZALO)* With his magic powers my master can see the dangers that you are in, my friend. So he sent me to make sure these men survive—and to guarantee his plans succeed. *(sings in GONZALO’s ear)*"
+      - "  *While you lie here snoring,*"
+      - "  *Men are plotting against you.*"
+      - "  *If you want to stay alive,*"
+      - "  *Wake up and beware.*"
+      - "  *Wake up, wake up!*"
+
+  - sp: ANTONIO
+    o:
+      - "Then let us both be sudden."
+    m:
+      - "Let’s act quickly."
+
+  - sp: GONZALO
+    o:
+      - "*(waking and seeing them)*"
+      - "Now, good angels preserve the king!"
+    m:
+      - "*(waking and seeing them)* God help the king! Save him!"
+
+  - sp: ALONSO
+    o:
+      - "*(waking)* Why, how now? Ho, awake!"
+    m:
+      - "*(waking up)* Hey, what’s this, what’s going on? Wake up!"
+
+  - os: "All wake"
+    ms: "Everyone wakes up."
+
+  - o:
+      - "    Why are you drawn?"
+      - "Wherefore this ghastly looking?"
+    m:
+      - "Why are your swords out? Why do you look like that?"
+
+  - sp: GONZALO
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s this all about?"
+
+  - sp: SEBASTIAN
+    o:
+      - "Whiles we stood here securing your repose,"
+      - "Even now, we heard a hollow burst of bellowing"
+      - "Like bulls, or rather lions. Did ’t not wake you?"
+      - "It struck mine ear most terribly."
+    m:
+      - "While we were here guarding you as you slept, we heard a loud roar that sounded like bulls, or lions. Didn’t you hear it? We heard it very clearly."
+
+  - sp: ALONSO
+    o:
+      - "    I heard nothing."
+    m:
+      - "I didn’t hear anything."
+
+  - sp: ANTONIO
+    o:
+      - "Oh, ’twas a din to fright a monster’s ear,"
+      - "To make an earthquake! Sure, it was the roar"
+      - "Of a whole herd of lions."
+    m:
+      - "Oh, it was a monstrous roar, to make the earth tremble! I’m sure there was a herd of lions nearby."
+
+  - sp: ALONSO
+    o:
+      - "    Heard you this, Gonzalo?"
+    m:
+      - "Did you hear this, Gonzalo?"
+
+  - sp: GONZALO
+    o:
+      - "Upon mine honor, sir, I heard a humming,"
+      - "And that a strange one too, which did awake me."
+      - "I shaked you, sir, and cried. As mine eyes opened,"
+      - "I saw their weapons drawn. There was a noise,"
+      - "That’s verily. ’Tis best we stand upon our guard,"
+      - "Or that we quit this place. Let’s draw our weapons."
+    m:
+      - "It’s true I heard a humming sound, a strange one, which woke me up. I shook you and shouted at you, sir. When I opened my eyes, I saw their swords out. There was a noise, that’s certainly true. We should either be on guard here constantly or move to a different camp. Let’s draw our own swords too."
+
+  - sp: ALONSO
+    o:
+      - "Lead off this ground, and let’s make further search"
+      - "For my poor son."
+    m:
+      - "Lead us away from this area. We can search for my poor son while we’re at it."
+
+  - sp: GONZALO
+    o:
+      - "    Heavens keep him from these beasts!"
+      - "For he is, sure, i’ th’ island."
+    m:
+      - "I hope those lions stay far away from him. I’m sure he’s somewhere on the island."
+
+  - sp: ALONSO
+    o:
+      - "    Lead away."
+    m:
+      - "Get us out of here."
+
+  - sp: ARIEL
+    o:
+      - "*(aside)* Prospero my lord shall know what I have done."
+      - "So, King, go safely on to seek thy son."
+    m:
+      - "*(to himself)* My lord Prospero will know what I’ve done. So go ahead, King, and look for your son."
+
+  - os: "Exeunt"
+    ms: "They exit."

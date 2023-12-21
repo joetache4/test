@@ -1,0 +1,123 @@
+play: The Winter’s Tale
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Antechamber in LEONTES’ palace."
+    ms: "A waiting room in Leontes’ palace."
+
+  - os: "Enter CAMILLO and ARCHIDAMUS"
+    ms: "CAMILLO and ARCHIDAMUS enter."
+
+  - sp: ARCHIDAMUS
+    o:
+      - "If you shall chance, Camillo, to visit Bohemia, on"
+      - "the like occasion whereon my services are now on"
+      - "foot, you shall see, as I have said, great"
+      - "difference betwixt our Bohemia and your Sicilia."
+    m:
+      - "Camillo, if you ever happen to accompany your King to Bohemia, as I am accompanying mine to Sicilia, you’ll see there’s a great difference between our countries—and our masters."
+
+  - sp: CAMILLO
+    o:
+      - "I think, this coming summer, the King of Sicilia"
+      - "means to pay Bohemia the visitation which he justly owes him."
+    m:
+      - "I think the King of Sicilia plans to visit the King of Bohemia this coming summer."
+
+  - sp: ARCHIDAMUS
+    o:
+      - "Wherein our entertainment shall shame us we will be"
+      - "justified in our loves; for indeed—"
+    m:
+      - "If our hospitality is inadequate, we’ll make up for it with our love for you; in fact—"
+
+  - sp: CAMILLO
+    o:
+      - "Beseech you,—"
+    m:
+      - "Please—"
+
+  - sp: ARCHIDAMUS
+    o:
+      - "Verily, I speak it in the freedom of my knowledge:"
+      - "we cannot with such magnificence—in so rare—I know"
+      - "not what to say. We will give you sleepy drinks,"
+      - "that your senses, unintelligent of our insufficience,"
+      - "may, though they cannot praise us, as little accuse"
+      - "us."
+    m:
+      - "Truly, I say it from experience. We can’t match the magnificence, the excellence—I don’t even know how to describe it. We’ll give you drinks to dull your senses, so that you won’t be aware of our inadequacies, and even if you will be too sleepy to praise us, you won’t be able to accuse us of negligence, either."
+
+  - sp: CAMILLO
+    o:
+      - "You pay a great deal too dear for what’s given freely."
+    m:
+      - "You are putting too great a value on something that is given for free."
+
+  - sp: ARCHIDAMUS
+    o:
+      - "Believe me, I speak as my understanding instructs me"
+      - "and as mine honesty puts it to utterance."
+    m:
+      - "Believe me, I say what my knowledge tells me, and I say it honestly."
+
+  - sp: CAMILLO
+    o:
+      - "Sicilia cannot show himself over-kind to Bohemia."
+      - "They were trained together in their childhoods; and"
+      - "there rooted betwixt them then such an affection,"
+      - "which cannot choose but branch now. Since their"
+      - "more mature dignities and royal necessities made"
+      - "separation of their society, their encounters,"
+      - "though not personal, have been royally attorneyed"
+      - "with interchange of gifts, letters, loving"
+      - "embassies; that they have seemed to be together,"
+      - "though absent, shook hands, as over a vast, and"
+      - "embraced, as it were, from the ends of opposed"
+      - "winds. The heavens continue their loves!"
+    m:
+      - "The King of Sicily could never be anything but kind to the King of Bohemia. They were brought up together as children, and so they have a deep-rooted affection for one another that can only grow. Because of their adult responsibilities and their duties as kings, they have not been able to meet personally. Instead their meetings have taken place via royal deputies and through the exchange of presents, letters, and fond words. Through these means they’ve stayed in touch despite the great distance between them. May the heavens keep their friendship strong!"
+
+  - sp: ARCHIDAMUS
+    o:
+      - "I think there is not in the world either malice or"
+      - "matter to alter it. You have an unspeakable"
+      - "comfort of your young prince Mamillius: it is a"
+      - "gentleman of the greatest promise that ever came"
+      - "into my note."
+    m:
+      - "I don’t think there is anything in the world that can shake their friendship. And you have an indescribable comfort in the young prince Mamillius. He has the greatest potential of any young gentleman I’ve ever seen."
+
+  - sp: CAMILLO
+    o:
+      - "I very well agree with you in the hopes of him: it"
+      - "is a gallant child; one that indeed physics the"
+      - "subject, makes old hearts fresh: they that went on"
+      - "crutches ere he was born desire yet their life to"
+      - "see him a man."
+    m:
+      - "I agree with you regarding his potential. He is a noble child, and he is like a medicine for his subjects. The old feel young, and those who were crippled even before he was born now hope to live long enough to see him grow into a man."
+
+  - sp: ARCHIDAMUS
+    o:
+      - "Would they else be content to die?"
+    m:
+      - "Would they otherwise want to die?"
+
+  - sp: CAMILLO
+    o:
+      - "Yes; if there were no other excuse why they should"
+      - "desire to live."
+    m:
+      - "Yes, if they didn’t have any other reason for them to want to live."
+
+  - sp: ARCHIDAMUS
+    o:
+      - "If the king had no son, they would desire to live"
+      - "on crutches till he had one."
+    m:
+      - "If the king didn’t have a son, they would want to live as cripples until he had one."
+
+  - os: "Exeunt"
+    ms: "They exit."

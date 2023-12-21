@@ -1,0 +1,862 @@
+play: Julius Caesar
+title: Act 2, Scene 1
+group: 2
+order: 3
+text:
+  - os: "Enter BRUTUS in his orchard"
+    ms: "BRUTUS enters in his orchard."
+
+  - sp: BRUTUS
+    o:
+      - "What, Lucius, ho!—"
+      - "I cannot by the progress of the stars"
+      - "Give guess how near to day.—Lucius, I say!—"
+      - "I would it were my fault to sleep so soundly.—"
+      - "When, Lucius, when? Awake, I say! What, Lucius!"
+    m:
+      - "Lucius, are you there? I can’t tell by the position of the stars how near it is to daybreak—Lucius, are you there? I wish I had that weakness, to sleep too soundly. Come on, Lucius! Wake up, I say! Lucius!"
+
+  - os: "Enter LUCIUS"
+    ms: "LUCIUS enters."
+
+  - sp: LUCIUS
+    o:
+      - "Called you, my lord?"
+    m:
+      - "Did you call me, my lord?"
+
+  - sp: BRUTUS
+    o:
+      - "Get me a taper in my study, Lucius."
+      - "When it is lighted, come and call me here."
+    m:
+      - "Put a candle in my study, Lucius. Call me when it’s lit."
+
+  - sp: LUCIUS
+    o:
+      - "I will, my lord."
+    m:
+      - "I will, my lord."
+
+  - os: "Exit LUCIUS"
+    ms: "LUCIUS exits."
+
+  - sp: BRUTUS
+    o:
+      - "It must be by his death, and for my part"
+      - "I know no personal cause to spurn at him"
+      - "But for the general. He would be crowned."
+      - "How that might change his nature, there’s the question."
+      - "It is the bright day that brings forth the adder"
+      - "And that craves wary walking. Crown him that,"
+      - "And then I grant we put a sting in him"
+      - "That at his will he may do danger with."
+      - "Th’ abuse of greatness is when it disjoins"
+      - "Remorse from power. And, to speak truth of Caesar,"
+      - "I have not known when his affections swayed"
+      - "More than his reason. But ’tis a common proof"
+      - "That lowliness is young ambition’s ladder,"
+      - "Whereto the climber upward turns his face."
+      - "But when he once attains the upmost round,"
+      - "He then unto the ladder turns his back,"
+      - "Looks in the clouds, scorning the base degrees"
+      - "By which he did ascend. So Caesar may."
+      - "Then, lest he may, prevent. And since the quarrel"
+      - "Will bear no color for the thing he is,"
+      - "Fashion it thus: that what he is, augmented,"
+      - "Would run to these and these extremities."
+      - "And therefore think him as a serpent’s egg—"
+      - "Which, hatched, would as his kind grow mischievous—"
+      - "And kill him in the shell."
+    m:
+      - "The only way is to kill Caesar. I have no personal reason to strike at him—only the best interest of the people. He wants to be crowned. The question is, how would being king change him? Evil can come from good, just as poisonous snakes tend to come out into the open on bright sunny days—which means we have to walk carefully. If we crown him, I have to admit we’d be giving him the power to do damage. Rulers abuse their power when they separate it from compassion. To be honest, I’ve never known Caesar to let his emotions get the better of his reason. But everyone knows that an ambitious young man uses humility to advance himself, but when he reaches the top, he turns his back on his supporters and reaches for the skies while scorning those who helped him get where he is. Caesar might act like that. Therefore, in case he does, we must hold him back. And since our quarrel is with his future behavior, not what he does now, I must frame the argument like this: if his position is furthered, his character will fulfill these predictions. And therefore we should liken him to a serpent’s egg—once it has hatched, it becomes dangerous, like all serpents. Thus we must kill him while he’s still in the shell."
+
+  - os: "Enter LUCIUS"
+    ms: "LUCIUS enters."
+
+  - sp: LUCIUS
+    o:
+      - "The taper burneth in your closet, sir."
+      - "Searching the window for a flint, I found"
+      - "This paper, thus sealed up, and I am sure"
+      - "It did not lie there when I went to bed."
+      - "*(gives him a letter)*"
+    m:
+      - "The candle is burning in your study, sir. While I was looking for a flint to light it, I found this paper on the window, sealed up like this, and I’m sure it wasn’t there when I went to bed. *(he gives BRUTUS the letter)*"
+
+  - sp: BRUTUS
+    o:
+      - "Get you to bed again. It is not day."
+      - "Is not tomorrow, boy, the ides of March?"
+    m:
+      - "Go back to bed. It isn’t daybreak yet. Is tomorrow the 15th of March, boy?"
+
+  - sp: LUCIUS
+    o:
+      - "I know not, sir."
+    m:
+      - "I don’t know, sir."
+
+  - sp: BRUTUS
+    o:
+      - "Look in the calendar and bring me word."
+    m:
+      - "Check the calendar and come tell me."
+
+  - sp: LUCIUS
+    o:
+      - "I will, sir."
+    m:
+      - "I will, sir."
+
+  - os: "Exit LUCIUS"
+    ms: "LUCIUS exits."
+
+  - sp: BRUTUS
+    o:
+      - "The exhalations whizzing in the air"
+      - "Give so much light that I may read by them."
+      - "*(opens the letter and reads)*"
+      - "“Brutus, thou sleep’st. Awake, and see thyself."
+      - "Shall Rome, etc. Speak, strike, redress!”"
+      - "“Brutus, thou sleep’st. Awake.”"
+      - "Such instigations have been often dropped"
+      - "Where I have took them up."
+      - "—“Shall Rome, etc.” Thus must I piece it out:"
+      - "“Shall Rome stand under one man’s awe?” What, Rome?"
+      - "My ancestors did from the streets of Rome"
+      - "The Tarquin drive when he was called a king."
+      - "—“Speak, strike, redress!” Am I entreated"
+      - "To speak and strike? O Rome, I make thee promise,"
+      - "If the redress will follow, thou receivest"
+      - "Thy full petition at the hand of Brutus!"
+    m:
+      - "The meteors whizzing in the sky are so bright that I can read by them. *(he opens the letter and reads)* “Brutus, you’re sleeping. Wake up and look at yourself. Is Rome going to … etc. Speak, strike, fix the wrongs!” “Brutus, you’re sleeping. Wake up.” I’ve noticed many such calls to action left where I would find them. “Is Rome going to … etc.” What does this mean? Will Rome submit to one man’s power? My ancestors drove Tarquin from the streets of Rome when he was pronounced a king. “Speak, strike, fix it!” Is this asking me to speak and strike? Oh, Rome, I promise you, if you’re meant to receive justice, you’ll receive it by my hand!"
+
+  - os: "Enter LUCIUS"
+    ms: "LUCIUS enters."
+
+  - sp: LUCIUS
+    o:
+      - "Sir, March is wasted fifteen days."
+    m:
+      - "Sir, fifteen days of March have gone by."
+
+  - os: "Knock within"
+    ms: "The sound of a knock offstage."
+
+  - sp: BRUTUS
+    o:
+      - "’Tis good. Go to the gate. Somebody knocks."
+    m:
+      - "Good. Go to the gate. Somebody’s knocking."
+
+  - os: "Exit LUCIUS"
+    ms: "LUCIUS exits."
+
+  - o:
+      - "Since Cassius first did whet me against Caesar,"
+      - "I have not slept."
+      - "Between the acting of a dreadful thing"
+      - "And the first motion, all the interim is"
+      - "Like a phantasma or a hideous dream."
+      - "The genius and the mortal instruments"
+      - "Are then in council, and the state of man,"
+      - "Like to a little kingdom, suffers then"
+      - "The nature of an insurrection."
+    m:
+      - "I haven’t slept since Cassius first began to turn me against Caesar. From the time when you decide to do something terrible to the moment you do it, everything feels unreal, like a horrible dream. The unconscious and the body work together and rebel against the conscious mind."
+
+  - os: "Enter LUCIUS"
+    ms: "LUCIUS enters."
+
+  - sp: LUCIUS
+    o:
+      - "Sir, ’tis your brother Cassius at the door,"
+      - "Who doth desire to see you."
+    m:
+      - "Sir, it’s your brother-in-law Cassius at the door. He wants to see you."
+
+  - sp: BRUTUS
+    o:
+      - "    Is he alone?"
+    m:
+      - "Is he alone?"
+
+  - sp: LUCIUS
+    o:
+      - "No, sir, there are more with him."
+    m:
+      - "No, sir. There are others with him."
+
+  - sp: BRUTUS
+    o:
+      - "    Do you know them?"
+    m:
+      - "Do you know them?"
+
+  - sp: LUCIUS
+    o:
+      - "No, sir. Their hats are plucked about their ears,"
+      - "And half their faces buried in their cloaks,"
+      - "That by no means I may discover them"
+      - "By any mark of favor."
+    m:
+      - "No, sir, their hats are pulled down over their ears and their faces are half buried under their cloaks, so there’s no way to tell who they are."
+
+  - sp: BRUTUS
+    o:
+      - "    Let ’em enter."
+    m:
+      - "Let them in."
+
+  - os: "Exit LUCIUS"
+    ms: "LUCIUS exits."
+
+  - o:
+      - "They are the faction. O conspiracy,"
+      - "Shamest thou to show thy dangerous brow by night"
+      - "When evils are most free? O, then by day"
+      - "Where wilt thou find a cavern dark enough"
+      - "To mask thy monstrous visage? Seek none, conspiracy."
+      - "Hide it in smiles and affability."
+      - "For if thou path, thy native semblance on,"
+      - "Not Erebus itself were dim enough"
+      - "To hide thee from prevention."
+    m:
+      - "It’s the faction that wants to kill Caesar. Oh, conspiracy, are you ashamed to show your face even at night, when evil things are most free? If so, when it’s day, where are you going to find a cave dark enough to hide your monstrous face? No, don’t bother to find a cave, conspiracy. Instead, hide your true face behind smiles and friendliness. If you went ahead and exposed your true face, Hell itself wouldn’t be dark enough to keep you from being found and stopped."
+
+  - os: "Enter the conspirators: CASSIUS, CASCA, DECIUS, CINNA, METELLUS, and TREBONIUS"
+    ms: "The conspirators—CASSIUS, CASCA, DECIUS, CINNA, METELLUS, and TREBONIUS—enter."
+
+  - sp: CASSIUS
+    o:
+      - "I think we are too bold upon your rest."
+      - "Good morrow, Brutus. Do we trouble you?"
+    m:
+      - "I’m afraid we’re intruding too boldly on your sleep time. Good morning, Brutus. Are we bothering you?"
+
+  - sp: BRUTUS
+    o:
+      - "I have been up this hour, awake all night."
+      - "Know I these men that come along with you?"
+    m:
+      - "I was awake. I’ve been up all night. Do I know these men who are with you?"
+
+  - sp: CASSIUS
+    o:
+      - "Yes, every man of them, and no man here"
+      - "But honors you, and every one doth wish"
+      - "You had but that opinion of yourself"
+      - "Which every noble Roman bears of you."
+      - "This is Trebonius."
+    m:
+      - "Yes, every one of them. There isn’t one of them who doesn’t admire you, and each one of them wishes you had as high an opinion of yourself as every noble Roman has of you. This is Trebonius."
+
+  - sp: BRUTUS
+    o:
+      - "    He is welcome hither."
+    m:
+      - "He’s welcome here."
+
+  - sp: CASSIUS
+    o:
+      - "This, Decius Brutus."
+    m:
+      - "This is Decius Brutus."
+
+  - sp: BRUTUS
+    o:
+      - "He is welcome too."
+    m:
+      - "He’s welcome too."
+
+  - sp: CASSIUS
+    o:
+      - "This, Casca. This, Cinna. And this, Metellus Cimber."
+    m:
+      - "This is Casca. This is Cinna. And this is Metellus Cimber."
+
+  - sp: BRUTUS
+    o:
+      - "They are all welcome."
+      - "What watchful cares do interpose themselves"
+      - "Betwixt your eyes and night?"
+    m:
+      - "They’re all welcome. What worries have kept you awake tonight?"
+
+  - sp: CASSIUS
+    o:
+      - "Shall I entreat a word?"
+    m:
+      - "Can I have a word with you?"
+
+  - os: "BRUTUS and CASSIUS withdraw and whisper"
+    ms: "BRUTUS and CASSIUS whisper together."
+
+  - sp: DECIUS
+    o:
+      - "Here lies the east. Doth not the day break here?"
+    m:
+      - "Here’s the east. Won’t the dawn come from here?"
+
+  - sp: CASCA
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: CINNA
+    o:
+      - "O, pardon, sir, it doth, and yon gray lines"
+      - "That fret the clouds are messengers of day."
+    m:
+      - "Excuse me, sir, it will. These gray lines that lace the clouds are the beginnings of the dawn."
+
+  - sp: CASCA
+    o:
+      - "You shall confess that you are both deceived."
+      - "*(points his sword)*"
+      - "Here, as I point my sword, the sun arises,"
+      - "Which is a great way growing on the south,"
+      - "Weighing the youthful season of the year."
+      - "Some two months hence up higher toward the north"
+      - "He first presents his fire, and the high east"
+      - "Stands, as the Capitol, directly here."
+    m:
+      - "You’re both wrong. *(pointing his sword)* Here, where I point my sword, the sun rises. It’s quite near the south, since it’s still winter. About two months from now, the dawn will break further toward the north, and due east is where the Capitol stands, here."
+
+  - sp: BRUTUS
+    o:
+      - "*(comes forward with CASSIUS)*"
+      - "Give me your hands all over, one by one."
+      - "*(shakes their hands)*"
+    m:
+      - "*(coming forward with CASSIUS)* Give me your hands, all of you, one by one. *(he shakes their hands)*"
+
+  - sp: CASSIUS
+    o:
+      - "And let us swear our resolution."
+    m:
+      - "And let us swear to our resolution."
+
+  - sp: BRUTUS
+    o:
+      - "No, not an oath. If not the face of men,"
+      - "The sufferance of our souls, the time’s abuse—"
+      - "If these be motives weak, break off betimes,"
+      - "And every man hence to his idle bed."
+      - "So let high-sighted tyranny range on"
+      - "Till each man drop by lottery. But if these—"
+      - "As I am sure they do—bear fire enough"
+      - "To kindle cowards and to steel with valor"
+      - "The melting spirits of women, then, countrymen,"
+      - "What need we any spur but our own cause"
+      - "To prick us to redress? What other bond"
+      - "Than secret Romans that have spoke the word"
+      - "And will not palter? And what other oath"
+      - "Than honesty to honesty engaged,"
+      - "That this shall be, or we will fall for it?"
+      - "Swear priests and cowards and men cautelous,"
+      - "Old feeble carrions and such suffering souls"
+      - "That welcome wrongs. Unto bad causes swear"
+      - "Such creatures as men doubt. But do not stain"
+      - "The even virtue of our enterprise,"
+      - "Nor th’ insuppressive mettle of our spirits,"
+      - "To think that or our cause or our performance"
+      - "Did need an oath, when every drop of blood"
+      - "That every Roman bears—and nobly bears—"
+      - "Is guilty of a several bastardy"
+      - "If he do break the smallest particle"
+      - "Of any promise that hath passed from him."
+    m:
+      - "No, let’s not swear an oath. If the sad faces of our fellow men, the suffering of our own souls, and the corruption of the present time aren’t enough to motivate us, let’s break it off now and each of us go back to bed. Then we can let this ambitious tyrant continue unchallenged until each of us is killed at his whim. But if we have reasons that are strong enough to ignite cowards into action and to make weak women brave—and I think we do—then, countrymen, what else could we possibly need to spur us to action? What bond do we need other than that of discreet Romans who have said what they’re going to do and won’t back down? And what oath do we need other than that we honest men have told each other that this will happen or we will die trying? Swearing is for priests, cowards, overly cautious men, feeble old people, and those long-suffering weaklings who welcome abuse. Only men whom you wouldn’t trust anyway would swear oaths, and for the worst reasons. Don’t spoil the justness and virtue of our endeavor nor weaken our own irrepressible spirits by thinking that we need a binding oath, when the blood that every noble Roman contains within him would be proven bastard’s blood if he broke the smallest part of any promise he had made."
+
+  - sp: CASSIUS
+    o:
+      - "But what of Cicero? Shall we sound him?"
+      - "I think he will stand very strong with us."
+    m:
+      - "But what about Cicero? Should we see what he thinks? I think he will stand strong with us."
+
+  - sp: CASCA
+    o:
+      - "Let us not leave him out."
+    m:
+      - "Let’s not leave him out."
+
+  - sp: CINNA
+    o:
+      - "    No, by no means."
+    m:
+      - "No, by no means."
+
+  - sp: METELLUS
+    o:
+      - "O, let us have him, for his silver hairs"
+      - "Will purchase us a good opinion"
+      - "And buy men’s voices to commend our deeds."
+      - "It shall be said his judgment ruled our hands."
+      - "Our youths and wildness shall no whit appear,"
+      - "But all be buried in his gravity."
+    m:
+      - "Yes, we should get his support, for his mature presence will make others think well of us and speak out in support of our actions. They’ll assume that Cicero, with his sound judgment, ordered the actions. His dignified maturity will distract attention from our youth and wildness."
+
+  - sp: BRUTUS
+    o:
+      - "O, name him not. Let us not break with him,"
+      - "For he will never follow anything"
+      - "That other men begin."
+    m:
+      - "No, don’t even mention him. We shouldn’t tell him about our plans. He’ll never follow anything that other men have started."
+
+  - sp: CASSIUS
+    o:
+      - "Then leave him out."
+    m:
+      - "Then leave him out."
+
+  - sp: CASCA
+    o:
+      - "Indeed he is not fit."
+    m:
+      - "Indeed, he’s not right for this."
+
+  - sp: DECIUS
+    o:
+      - "Shall no man else be touched but only Caesar?"
+    m:
+      - "But should we only go after Caesar? No one else?"
+
+  - sp: CASSIUS
+    o:
+      - "Decius, well urged. I think it is not meet"
+      - "Mark Antony, so well beloved of Caesar,"
+      - "Should outlive Caesar. We shall find of him"
+      - "A shrewd contriver. And, you know, his means,"
+      - "If he improve them, may well stretch so far"
+      - "As to annoy us all; which to prevent,"
+      - "Let Antony and Caesar fall together."
+    m:
+      - "Good point, Decius. I don’t think it would be wise to let Mark Antony, whom Caesar is so fond of, outlive Caesar. We’d find that he was a dangerous plotter. And as you know, his connections, if he put them to good use, might be enough to hurt us all. To prevent this, Mark Antony should die along with Caesar."
+
+  - sp: BRUTUS
+    o:
+      - "Our course will seem too bloody, Caius Cassius,"
+      - "To cut the head off and then hack the limbs,"
+      - "Like wrath in death and envy afterwards,"
+      - "For Antony is but a limb of Caesar."
+      - "Let us be sacrificers but not butchers, Caius."
+      - "We all stand up against the spirit of Caesar,"
+      - "And in the spirit of men there is no blood."
+      - "Oh, that we then could come by Caesar’s spirit"
+      - "And not dismember Caesar! But, alas,"
+      - "Caesar must bleed for it. And, gentle friends,"
+      - "Let’s kill him boldly but not wrathfully."
+      - "Let’s carve him as a dish fit for the gods,"
+      - "Not hew him as a carcass fit for hounds."
+      - "And let our hearts, as subtle masters do,"
+      - "Stir up their servants to an act of rage"
+      - "And after seem to chide ’em. This shall make"
+      - "Our purpose necessary and not envious,"
+      - "Which so appearing to the common eyes,"
+      - "We shall be called purgers, not murderers."
+      - "And for Mark Antony, think not of him,"
+      - "For he can do no more than Caesar’s arm"
+      - "When Caesar’s head is off."
+    m:
+      - "Our action will seem too bloody if we cut off Caesar’s head and then hack at his arms and legs too, Caius Cassius—because Mark Antony is merely one of Caesar’s arms. It’ll look like we killed Caesar out of anger and Mark Antony out of envy. Let’s be sacrificers but not butchers, Caius. We’re all against what Caesar stands for, and there’s no blood in that. Oh, how I wish we could oppose Caesar’s spirit—his overblown ambition—and not hack up Caesar himself! But, unfortunately, Caesar has to bleed if we’re going to stop him. Noble friends, let’s kill him boldly but not with anger. Let’s carve him up like a dish fit for the gods, not chop him up like a carcass fit for dogs. Let’s be angry only long enough to do the deed, and then let’s act like we’re disgusted by what we had to do. This will make our actions seem practical and not vengeful. If we appear calm to the people, they’ll call us surgeons rather than murderers. As for Mark Antony—forget him. He’ll be as useless as Caesar’s arm after Caesar’s head is cut off."
+
+  - sp: CASSIUS
+    o:
+      - "    Yet I fear him."
+      - "For in the engrafted love he bears to Caesar—"
+    m:
+      - "But I’m still afraid of him, because the deep-rooted love he has for Caesar—"
+
+  - sp: BRUTUS
+    o:
+      - "Alas, good Cassius, do not think of him."
+      - "If he love Caesar, all that he can do"
+      - "Is to himself: take thought and die for Caesar."
+      - "And that were much he should, for he is given"
+      - "To sports, to wildness and much company."
+    m:
+      - "Alas, good Cassius, don’t think about him. If he loves Caesar, then he can only hurt himself—by grieving and dying for Caesar. And I’d be surprised if he even did that, for he prefers sports, fun, and friends."
+
+  - sp: TREBONIUS
+    o:
+      - "There is no fear in him. Let him not die,"
+      - "For he will live and laugh at this hereafter."
+    m:
+      - "There’s nothing to fear in him. Let’s not kill him. He’ll live and laugh at this afterward."
+
+  - os: "Clock strikes"
+    ms: "A clock strikes."
+
+  - sp: BRUTUS
+    o:
+      - "Peace! Count the clock."
+    m:
+      - "Quiet! Count how many times the clock chimes."
+
+  - sp: CASSIUS
+    o:
+      - "The clock hath stricken three."
+    m:
+      - "The clock struck three."
+
+  - sp: TREBONIUS
+    o:
+      - "’Tis time to part."
+    m:
+      - "It’s time to leave."
+
+  - sp: CASSIUS
+    o:
+      - "    But it is doubtful yet"
+      - "Whether Caesar will come forth today or no."
+      - "For he is superstitious grown of late,"
+      - "Quite from the main opinion he held once"
+      - "Of fantasy, of dreams and ceremonies."
+      - "It may be, these apparent prodigies,"
+      - "The unaccustomed terror of this night,"
+      - "And the persuasion of his augurers"
+      - "May hold him from the Capitol today."
+    m:
+      - "But we still don’t know whether Caesar will go out in public today or not, because he’s become superstitious lately, a complete turnaround from when he used to have such a bad opinion of fortune-tellers, dream interpreters, and ritual mumbo-jumbo. It might happen that these strange signs, the unusual terror of this night, and the urgings of his fortune-tellers will keep him away from the Capitol today."
+
+  - sp: DECIUS
+    o:
+      - "Never fear that. If he be so resolved,"
+      - "I can o’ersway him. For he loves to hear"
+      - "That unicorns may be betrayed with trees,"
+      - "And bears with glasses, elephants with holes,"
+      - "Lions with toils, and men with flatterers."
+      - "But when I tell him he hates flatterers,"
+      - "He says he does, being then most flatterèd."
+      - "Let me work."
+      - "For I can give his humor the true bent,"
+      - "And I will bring him to the Capitol."
+    m:
+      - "Don’t worry about that. If he’s reluctant, I can convince him. He loves to hear me tell him how men can be snared by flatterers, just like unicorns can be captured in trees, elephants in holes, and lions with nets. When I tell him he hates flatterers, he agrees, just at the moment when I’m flattering him the most. Let me work on him. I can put him in the right mood, and I’ll bring him to the Capitol."
+
+  - sp: CASSIUS
+    o:
+      - "Nay, we will all of us be there to fetch him."
+    m:
+      - "No, we’ll all go there to bring him."
+
+  - sp: BRUTUS
+    o:
+      - "By the eighth hour. Is that the uttermost?"
+    m:
+      - "By eight o’clock. Is that the latest we can do it?"
+
+  - sp: CINNA
+    o:
+      - "Be that the uttermost, and fail not then."
+    m:
+      - "Let’s make that the latest, but be sure to get there before then."
+
+  - sp: METELLUS
+    o:
+      - "Caius Ligarius doth bear Caesar hard,"
+      - "Who rated him for speaking well of Pompey."
+      - "I wonder none of you have thought of him."
+    m:
+      - "Caius Ligarius doesn’t like Caesar, who berated him for speaking well of Pompey. I wonder that none of you thought about getting his support."
+
+  - sp: BRUTUS
+    o:
+      - "Now, good Metellus, go along by him."
+      - "He loves me well, and I have given him reasons."
+      - "Send him but hither and I’ll fashion him."
+    m:
+      - "Good Metellus, go to him now. He likes me, and I’ve given him good reason to. Just send him here, and I’ll persuade him."
+
+  - sp: CASSIUS
+    o:
+      - "The morning comes upon ’s. We’ll leave you, Brutus."
+      - "—And, friends, disperse yourselves. But all remember"
+      - "What you have said, and show yourselves true Romans."
+    m:
+      - "The morning is approaching. We’ll leave, Brutus. Friends, go your separate ways. But all of you, remember what you’ve said and prove yourselves true Romans."
+
+  - sp: BRUTUS
+    o:
+      - "Good gentlemen, look fresh and merrily."
+      - "Let not our looks put on our purposes,"
+      - "But bear it as our Roman actors do,"
+      - "With untired spirits and formal constancy."
+      - "And so good morrow to you every one."
+    m:
+      - "Good gentlemen, look like you’re rested and happy. Don’t let our faces betray our plans. Instead, carry yourselves like Roman actors, with cheerful spirits and well-composed faces. And so, good morning to all of you."
+
+  - os: "Exeunt. Manet BRUTUS"
+    ms: "Everyone except BRUTUS exits."
+
+  - o:
+      - "Boy! Lucius!—Fast asleep? It is no matter."
+      - "Enjoy the honey-heavy dew of slumber."
+      - "Thou hast no figures nor no fantasies,"
+      - "Which busy care draws in the brains of men."
+      - "Therefore thou sleep’st so sound."
+    m:
+      - "Boy! Lucius! Fast asleep? Well, enjoy the sweetness of deep sleep. Your brain isn’t stuffed with the strange shapes and fantasies that come to men who are overwhelmed by worries. That’s why you sleep so soundly."
+
+  - os: "Enter PORTIA"
+    ms: "PORTIA enters."
+
+  - sp: PORTIA
+    o:
+      - "    Brutus, my lord."
+    m:
+      - "Brutus, my lord."
+
+  - sp: BRUTUS
+    o:
+      - "Portia, what mean you? Wherefore rise you now?"
+      - "It is not for your health thus to commit"
+      - "Your weak condition to the raw, cold morning."
+    m:
+      - "Portia, what are you doing awake? It isn’t good for your health to expose your weak body to the raw, cold morning."
+
+  - sp: PORTIA
+    o:
+      - "Nor for yours neither. Y’ have ungently, Brutus,"
+      - "Stole from my bed. And yesternight, at supper,"
+      - "You suddenly arose and walked about,"
+      - "Musing and sighing, with your arms across,"
+      - "And when I asked you what the matter was,"
+      - "You stared upon me with ungentle looks."
+      - "I urged you further, then you scratched your head"
+      - "And too impatiently stamped with your foot."
+      - "Yet I insisted; yet you answered not,"
+      - "But with an angry wafture of your hand"
+      - "Gave sign for me to leave you. So I did,"
+      - "Fearing to strengthen that impatience"
+      - "Which seemed too much enkindled, and withal"
+      - "Hoping it was but an effect of humor,"
+      - "Which sometime hath his hour with every man."
+      - "It will not let you eat nor talk nor sleep,"
+      - "And could it work so much upon your shape"
+      - "As it hath much prevailed on your condition,"
+      - "I should not know you, Brutus. Dear my lord,"
+      - "Make me acquainted with your cause of grief."
+    m:
+      - "It’s not good for your health, either. You rudely snuck out of bed. And last night at dinner, you got up abruptly and paced back and forth with your arms crossed, brooding and sighing, and when I asked you what was the matter, you gave me a dirty look. I asked you again, and you scratched your head and stamped your foot impatiently. I still insisted on knowing what the matter was, but you wouldn’t answer me, instead giving me an angry wave of your hand and telling me to leave you alone. So I left, afraid of further provoking anger that was already inflamed but still hoping this was merely moodiness, which everyone is affected by once in awhile. Your strange mood won’t let you eat or talk or sleep. If it had changed your outward appearance as much as it has affected you on the inside, I wouldn’t even be able to recognize you, Brutus. My dear lord, tell me what’s bothering you."
+
+  - sp: BRUTUS
+    o:
+      - "I am not well in health, and that is all."
+    m:
+      - "I’m not feeling well—that’s all."
+
+  - sp: PORTIA
+    o:
+      - "Brutus is wise, and were he not in health,"
+      - "He would embrace the means to come by it."
+    m:
+      - "You’re smart, though, and if you were sick, you’d take what you needed to get better."
+
+  - sp: BRUTUS
+    o:
+      - "Why, so I do. Good Portia, go to bed."
+    m:
+      - "I’m doing so. Good Portia, go to bed."
+
+  - sp: PORTIA
+    o:
+      - "Is Brutus sick? And is it physical"
+      - "To walk unbracèd and suck up the humors"
+      - "Of the dank morning? What, is Brutus sick,"
+      - "And will he steal out of his wholesome bed,"
+      - "To dare the vile contagion of the night"
+      - "And tempt the rheumy and unpurgèd air"
+      - "To add unto his sickness? No, my Brutus."
+      - "You have some sick offense within your mind,"
+      - "Which by the right and virtue of my place"
+      - "I ought to know of."
+      - "*(kneels)* And upon my knees"
+      - "I charm you, by my once-commended beauty,"
+      - "By all your vows of love and that great vow"
+      - "Which did incorporate and make us one"
+      - "That you unfold to me, your self, your half,"
+      - "Why you are heavy, and what men tonight"
+      - "Have had to resort to you. For here have been"
+      - "Some six or seven who did hide their faces"
+      - "Even from darkness."
+    m:
+      - "Are you sick? And is it healthy to walk uncovered and breathe in the dampness of the morning? You’re sick, yet you sneak out of your warm bed and let the humid and disease-infested air make you sicker? No, my Brutus, you have some sickness within your mind, which by virtue of my position I deserve to know about. *(she kneels)* And on my knees, I urge you, by my once-praised beauty, by all your vows of love and that great vow of marriage which made the two of us one person, that you should reveal to me, who is one half of yourself, why you’re troubled and what men have visited you tonight. For there were six or seven men here, who hid their faces even in the darkness."
+
+  - sp: BRUTUS
+    o:
+      - "    Kneel not, gentle Portia."
+    m:
+      - "Don’t kneel, noble Portia."
+
+  - sp: PORTIA
+    o:
+      - "*(rising)* I should not need if you were gentle, Brutus."
+      - "Within the bond of marriage, tell me, Brutus,"
+      - "Is it excepted I should know no secrets"
+      - "That appertain to you? Am I yourself"
+      - "But, as it were, in sort or limitation,"
+      - "To keep with you at meals, comfort your bed,"
+      - "And talk to you sometimes?"
+      - "    Dwell I but in the suburbs"
+      - "Of your good pleasure? If it be no more,"
+      - "Portia is Brutus’ harlot, not his wife."
+    m:
+      - "*(getting up)* I wouldn’t need to if you were acting nobly. Tell me, Brutus, as your wife, aren’t I supposed to be told the secrets that concern you? Am I part of you only in a limited sense—I get to have dinner with you, sleep with you, and talk to you sometimes? Is my place only on the outskirts of your happiness? If it’s nothing more than that, then I’m your whore, not your wife."
+
+  - sp: BRUTUS
+    o:
+      - "You are my true and honorable wife,"
+      - "As dear to me as are the ruddy drops"
+      - "That visit my sad heart."
+    m:
+      - "You’re my true and honorable wife, as dear to me as the blood that runs through my sad heart."
+
+  - sp: PORTIA
+    o:
+      - "If this were true, then should I know this secret."
+      - "I grant I am a woman, but withal"
+      - "A woman that Lord Brutus took to wife."
+      - "I grant I am a woman, but withal"
+      - "A woman well-reputed, Cato’s daughter."
+      - "Think you I am no stronger than my sex,"
+      - "Being so fathered and so husbanded?"
+      - "Tell me your counsels. I will not disclose ’em."
+      - "I have made strong proof of my constancy,"
+      - "Giving myself a voluntary wound"
+      - "Here in the thigh. Can I bear that with patience,"
+      - "And not my husband’s secrets?"
+    m:
+      - "If that were true, then I’d know your secret. I admit I’m only a woman, but nevertheless I’m the woman Lord Brutus took for his wife. I admit I’m only a woman, but I’m still a woman from a noble family—I’m Cato’s daughter. Do you really think I’m no stronger than the rest of my sex, with such a father and such a husband? Tell me your secrets. I won’t betray them. I’ve proved my trustworthiness by giving myself a voluntary wound here in my thigh. If I can bear that pain, then I can bear my husband’s secrets."
+
+  - sp: BRUTUS
+    o:
+      - "    O ye gods,"
+      - "Render me worthy of this noble wife!"
+    m:
+      - "Oh, gods, make me worthy of this noble wife!"
+
+  - os: "Knock within"
+    ms: "A knocking sound offstage."
+
+  - o:
+      - "Hark, hark! One knocks. Portia, go in awhile."
+      - "And by and by thy bosom shall partake"
+      - "The secrets of my heart."
+      - "All my engagements I will construe to thee,"
+      - "All the charactery of my sad brows."
+      - "Leave me with haste."
+    m:
+      - "Listen! Someone knocks. Portia, go inside awhile, and soon enough you’ll share the secrets of my heart. I’ll explain all that I have committed to do and all the reasons for my sad face. Leave me quickly."
+
+  - os: "Exit PORTIA"
+    ms: "PORTIA exits."
+
+  - o:
+      - "Lucius, who’s that knocking?"
+    m:
+      - "Lucius, who’s that knocking?"
+
+  - os: "Enter LUCIUS and LIGARIUS"
+    ms: "LUCIUS and LIGARIUS enter. Ligarius wears a cloth wrapped around his head, indicating that he’s sick."
+
+  - sp: LUCIUS
+    o:
+      - "He is a sick man that would speak with you."
+    m:
+      - "Here’s a sick man who wants to speak with you."
+
+  - sp: BRUTUS
+    o:
+      - "Caius Ligarius, that Metellus spake of.—"
+      - "Boy, stand aside.—Caius Ligarius, how?"
+    m:
+      - "It’s Caius Ligarius, whom Metellus spoke of. Boy, stand aside. Caius Ligarius! How are you?"
+
+  - sp: LIGARIUS
+    o:
+      - "Vouchsafe good morrow from a feeble tongue."
+    m:
+      - "Please accept my feeble “good morning.”"
+
+  - sp: BRUTUS
+    o:
+      - "O, what a time have you chose out, brave Caius,"
+      - "To wear a kerchief! Would you were not sick!"
+    m:
+      - "Oh, what a time you’ve chosen to be sick, brave Caius! How I wish you felt better!"
+
+  - sp: LIGARIUS
+    o:
+      - "I am not sick if Brutus have in hand"
+      - "Any exploit worthy the name of honor."
+    m:
+      - "I’m not sick if you’ve prepared some honorable exploit for me."
+
+  - sp: BRUTUS
+    o:
+      - "Such an exploit have I in hand, Ligarius,"
+      - "Had you a healthful ear to hear of it."
+    m:
+      - "Indeed, I would have such an exploit for you, Ligarius, if you were healthy enough to hear it."
+
+  - sp: LIGARIUS
+    o:
+      - "*(removes his kerchief)*"
+      - "By all the gods that Romans bow before,"
+      - "I here discard my sickness! Soul of Rome,"
+      - "Brave son derived from honorable loins,"
+      - "Thou, like an exorcist, hast conjured up"
+      - "My mortifièd spirit. Now bid me run,"
+      - "And I will strive with things impossible,"
+      - "Yea, get the better of them. What’s to do?"
+    m:
+      - "*(takes off his head covering)* By all the gods that Romans worship, I hereby throw off my sickness! Soul of Rome! Brave son of honorable ancestors! You’ve conjured up my deadened spirit like an exorcist. Now say the word, and I will tackle all kinds of impossible things, and succeed too. What is there to do?"
+
+  - sp: BRUTUS
+    o:
+      - "A piece of work that will make sick men whole."
+    m:
+      - "A deed that will make sick men healthy."
+
+  - sp: LIGARIUS
+    o:
+      - "But are not some whole that we must make sick?"
+    m:
+      - "But aren’t there some healthy men whom we have to make sick?"
+
+  - sp: BRUTUS
+    o:
+      - "That must we also. What it is, my Caius,"
+      - "I shall unfold to thee as we are going"
+      - "To whom it must be done."
+    m:
+      - "That too. My dear Caius, I’ll explain the task at hand to you as we walk toward the man we must do it to."
+
+  - sp: LIGARIUS
+    o:
+      - "    Set on your foot,"
+      - "And with a heart new-fired I follow you,"
+      - "To do I know not what. But it sufficeth"
+      - "That Brutus leads me on."
+    m:
+      - "Start walking, and with an energized heart, I’ll follow you—to what, I don’t know, but I’m satisfied, simply knowing that Brutus leads me."
+
+  - os: "Thunder"
+    ms: "Thunder."
+
+  - sp: BRUTUS
+    o:
+      - "    Follow me, then."
+    m:
+      - "Follow me, then."
+
+  - os: "Exeunt"
+    ms: "They all exit."

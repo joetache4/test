@@ -1,0 +1,274 @@
+play: As You Like It
+title: Act 2, Scene 4
+group: 2
+order: 6
+text:
+  - os: "Enter ROSALIND for Ganymede, CELIA for Aliena, and TOUCHSTONE"
+    ms: "ROSALIND (dressed as Ganymede), CELIA (dressed as Aliena), and TOUCHSTONE enter."
+
+  - sp: ROSALIND
+    o:
+      - "O Jupiter, how weary are my spirits!"
+    m:
+      - "Oh Lord, my spirits are tired!"
+
+  - sp: TOUCHSTONE
+    o:
+      - "I care not for my spirits, if my legs were not weary."
+    m:
+      - "I wouldn’t care about my spirits, if my legs weren’t tired."
+
+  - sp: ROSALIND
+    o:
+      - "I could find in my heart to disgrace my man’s apparel and to cry like a woman, but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to petticoat. Therefore courage, good Aliena."
+    m:
+      - "I’d insult my manly wardrobe by weeping like a woman if I didn’t have to comfort the weaker vessel here, as the jacket and hose ought to be brave for the sake of the petticoat. So, have courage, good Aliena."
+
+  - sp: CELIA
+    o:
+      - "I pray you bear with me. I cannot go no further."
+    m:
+      - "Please bear with me. I can’t go any further."
+
+  - sp: TOUCHSTONE
+    o:
+      - "For my part, I had rather bear with you than bear you. Yet I should bear no cross if I did bear you, for I think you have no money in your purse."
+    m:
+      - "I’d rather bear with you than bear you. But if I did carry you, it would be no cross to bear, because I’m pretty sure you don’t have any money."
+
+  - sp: ROSALIND
+    o:
+      - "Well, this is the Forest of Arden."
+    m:
+      - "Well, this is the Forest of Arden."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Ay, now am I in Arden, the more fool I. When I was at home"
+      - "I was in a better place, but travelers must be content."
+    m:
+      - "Yes, now I’m in Arden, and that makes me the bigger fool. When I was at home, I was in a better place. But travelers have to be content."
+
+  - sp: ROSALIND
+    o:
+      - "Ay, be so, good Touchstone."
+    m:
+      - "Yes, be content, good Touchstone."
+
+  - os: "Enter CORIN and SILVIUS"
+    ms: "CORIN and SILVIUS enter."
+
+  - o:
+      - "Look you who comes here, a young man and an old in solemn talk."
+    m:
+      - "Look who’s coming: a young man and an old man, having a serious talk."
+
+  - sp: CORIN
+    o:
+      - "That is the way to make her scorn you still."
+    m:
+      - "What you’re doing is the way to make her scorn you continually."
+
+  - sp: SILVIUS
+    o:
+      - "O Corin, that thou knew’st how I do love her!"
+    m:
+      - "Oh, Corin, I wish you could understand how much I love her!"
+
+  - sp: CORIN
+    o:
+      - "I partly guess, for I have loved ere now."
+    m:
+      - "I’m sure I can guess. I have been in love too, you know."
+
+  - sp: SILVIUS
+    o:
+      - "No, Corin, being old, thou canst not guess,"
+      - "Though in thy youth thou wast as true a lover"
+      - "As ever sighed upon a midnight pillow."
+      - "But if thy love were ever like to mine—"
+      - "As sure I think did never man love so—"
+      - "How many actions most ridiculous"
+      - "Hast thou been drawn to by thy fantasy?"
+    m:
+      - "No Corin, since you’re old, you cannot guess—even if you were as dedicated a lover in your youth as there ever was, sighing and mooning all night long. If your love was anything like mine—and I’m sure that no man has loved as I love now—exactly how many ridiculous actions did your fantasizing lead you to?"
+
+  - sp: CORIN
+    o:
+      - "Into a thousand that I have forgotten."
+    m:
+      - "Oh, a thousand of them, all of which I’ve forgotten."
+
+  - sp: SILVIUS
+    o:
+      - "Oh, thou didst then ne’er love so heartily."
+      - "If thou rememb’rest not the slightest folly"
+      - "That ever love did make thee run into,"
+      - "Thou hast not loved."
+      - "Or if thou hast not sat as I do now,"
+      - "Wearying thy hearer in thy mistress’ praise,"
+      - "Thou hast not loved."
+      - "Or if thou hast not broke from company"
+      - "Abruptly, as my passion now makes me,"
+      - "Thou hast not loved."
+      - "O Phoebe, Phoebe, Phoebe!"
+    m:
+      - "Oh, then you never loved as wholeheartedly as me. If you can’t remember the stupidest little thing love made you do, you haven’t loved. Or if you haven’t sat as I do now, boring your listener with all your lover’s virtues, then you haven’t loved. Or if you haven’t broken away from human company, as my feelings now lead me to do, you haven’t loved. O Phoebe, Phoebe, Phoebe!"
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ROSALIND
+    o:
+      - "Alas, poor shepherd, searching of thy wound,"
+      - "I have by hard adventure found mine own."
+    m:
+      - "Oh, poor shepherd! Listening to you speak of your wounded heart reminds me of my own pain."
+
+  - sp: TOUCHSTONE
+    o:
+      - "And I mine. I remember when I was in love I broke my sword upon a stone and bid him take that for coming a- night to Jane Smile. And I remember the kissing of her batler, and the cow’s dugs that her pretty chopped hands had milked. And I remember the wooing of a peascod instead of her, from whom I took two cods and, giving her them again, said with weeping tears, “Wear these for my sake.” We that are true lovers run into strange capers. But as all is mortal in nature, so is all nature in love mortal in folly."
+    m:
+      - "Me too. I remember when I was in love, I broke my sword on a stone, and told him to take that for coming at night to see Jane Smile. I remember kissing her washing stick and the cow’s udders that her pretty, chapped hands had milked. I remember wooing a pea plant in her name, and then taking two pea pods and begging her to wear them “for my sake.” Those of us who are really in love will do the strangest things. But everything that lives is mortal, including the foolishness of love."
+
+  - sp: ROSALIND
+    o:
+      - "Thou speak’st wiser than thou art ware of."
+    m:
+      - "You speak more wisely than you know."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Nay, I shall ne’er be ware of mine own wit till I break my shins against it."
+    m:
+      - "Nah, I’ll never be aware of my own wit, until I break my shins on it."
+
+  - sp: ROSALIND
+    o:
+      - "Jove, Jove, this shepherd’s passion"
+      - "Is much upon my fashion."
+    m:
+      - "By God! This shepherd’s condition is like my own."
+
+  - sp: TOUCHSTONE
+    o:
+      - "And mine, but it grows something stale with me."
+    m:
+      - "And like mine, but I’m getting a little tired of it."
+
+  - sp: CELIA
+    o:
+      - "I pray you, one of you question yond man, if he for gold will give us any food. I faint almost to death."
+    m:
+      - "Please, one of you go ask that man over there if we can buy some food off him. I’m faint with hunger."
+
+  - sp: TOUCHSTONE
+    o:
+      - "*(to CORIN)* Holla, you clown!"
+    m:
+      - "*(to CORIN)* Hey, clown!"
+
+  - sp: ROSALIND
+    o:
+      - "Peace, fool. He’s not thy kinsman."
+    m:
+      - "Shut up, fool. He’s not your relative."
+
+  - sp: CORIN
+    o:
+      - "Who calls?"
+    m:
+      - "Who’s calling?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Your betters, sir."
+    m:
+      - "Your superiors."
+
+  - sp: CORIN
+    o:
+      - "Else are they very wretched."
+    m:
+      - "If they weren’t my betters, they’d be pretty wretched indeed."
+
+  - sp: ROSALIND
+    o:
+      - "Peace, I say. —Good even to you, friend."
+    m:
+      - "*(to TOUCHSTONE)* Stop it, I say.—Good evening to you, friend."
+
+  - sp: CORIN
+    o:
+      - "And to you, gentle sir, and to you all."
+    m:
+      - "Good evening to you, too, noble sir, and to all of you."
+
+  - sp: ROSALIND
+    o:
+      - "I prithee, shepherd, if that love or gold"
+      - "Can in this desert place buy entertainment,"
+      - "Bring us where we may rest ourselves and feed."
+      - "Here’s a young maid with travel much oppressed,"
+      - "And faints for succor."
+    m:
+      - "Please sir, if love or money can buy anything in this empty place, tell us where we can rest and feed ourselves. We’ll pay you for the information. We have a young woman here who is very tired from traveling and faint with hunger."
+
+  - sp: CORIN
+    o:
+      - "Fair sir, I pity her"
+      - "And wish, for her sake more than for mine own,"
+      - "My fortunes were more able to relieve her."
+      - "But I am shepherd to another man"
+      - "And do not shear the fleeces that I graze."
+      - "My master is of churlish disposition"
+      - "And little recks to find the way to heaven"
+      - "By doing deeds of hospitality."
+      - "Besides, his cote, his flocks, and bounds of feed"
+      - "Are now on sale, and at our sheepcote now,"
+      - "By reason of his absence, there is nothing"
+      - "That you will feed on. But what is, come see,"
+      - "And in my voice most welcome shall you be."
+    m:
+      - "Dear sir, I pity the lady and wish—more for her sake than my own—that I was more able to help her. But I’m a hired hand: I don’t profit from the flocks I tend. My master is a brutish man and doesn’t care much if he gets to heaven by deeds of hospitality or not. Besides, his cottage, his flocks, and his grazing rights are on sale now, and since he’s not there, there’s nothing to eat at our house. But let’s see what’s on hand. If I have anything to say about it, you will be most welcome there."
+
+  - sp: ROSALIND
+    o:
+      - "What is he that shall buy his flock and pasture?"
+    m:
+      - "Who wants to buy the flock and the pasture?"
+
+  - sp: CORIN
+    o:
+      - "That young swain that you saw here but erewhile,"
+      - "That little cares for buying anything."
+    m:
+      - "That young man who was just here. But he doesn’t really care about buying anything."
+
+  - sp: ROSALIND
+    o:
+      - "I pray thee, if it stand with honesty,"
+      - "Buy thou the cottage, pasture, and the flock,"
+      - "And thou shalt have to pay for it of us."
+    m:
+      - "Please, if you can do it without taking advantage of the young man, buy the cottage, pasture, and flock for us, and we’ll pay you for it."
+
+  - sp: CELIA
+    o:
+      - "And we will mend thy wages. I like this place,"
+      - "And willingly could waste my time in it."
+    m:
+      - "And we will raise your wages. I like this place. I could see myself wasting time here."
+
+  - sp: CORIN
+    o:
+      - "Assuredly the thing is to be sold."
+      - "Go with me. If you like upon report"
+      - "The soil, the profit, and this kind of life,"
+      - "I will your very faithful feeder be"
+      - "And buy it with your gold right suddenly."
+    m:
+      - "The thing is definitely going to be sold. Come with me. If you like what you see of the land, the profit that’s possible, and this rustic life, I’ll be your faithful servant, and buy the place with your gold right away."
+
+  - os: "Exeunt"
+    ms: "They all exit."

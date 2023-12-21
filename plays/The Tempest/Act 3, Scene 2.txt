@@ -1,0 +1,465 @@
+play: The Tempest
+title: Act 3, Scene 2
+group: 3
+order: 5
+text:
+  - os: "Enter CALIBAN, STEPHANO, and TRINCULO"
+    ms: "CALIBAN, STEPHANO, and TRINCULO enter."
+
+  - sp: STEPHANO
+    o:
+      - "Tell not me. When the butt is out, we will drink water. Not a drop before. Therefore bear up and board ’em.—Servant- monster, drink to me."
+    m:
+      - "Don’t tell me that. When the barrel’s empty, we’ll drink water. Not one drop sooner. Therefore, drink up.—Servant-monster, drink a toast to me."
+
+  - sp: TRINCULO
+    o:
+      - "“Servant-monster”? The folly of this island. They say there’s but five upon this isle. We are three of them. If th’ other two be brained like us, the state totters."
+    m:
+      - "“Servant monster”? What a crazy island this is. They say there are only five people on it. We’re three of them. If the other two are as loopy as we are, our country’s in bad shape."
+
+  - sp: STEPHANO
+    o:
+      - "Drink, servant-monster, when I bid thee. Thy eyes are almost set in thy head."
+    m:
+      - "Drink when I order you, servant-monster. Your eyes look like they’ve sunk into your head."
+
+  - sp: TRINCULO
+    o:
+      - "Where should they be set else? He were a brave monster indeed, if they were set in his tail."
+    m:
+      - "Where else should his eyes be, if not in his head? He’d be quite a monster if his eyes were in his tail."
+
+  - sp: STEPHANO
+    o:
+      - "My man-monster hath drowned his tongue in sack. For my part, the sea cannot drown me. I swam, ere I could recover the shore, five and thirty leagues off and on. By this light, thou shalt be my lieutenant, monster, or my standard."
+    m:
+      - "My man—monster is so drunk he can’t talk. As for me, no liquid can harm me, neither booze nor the whole sea itself. Before I could get to shore, I swam thirty-five leagues in it and still survived.—Monster, you’ll be my lieutenant, or my flag-bearer."
+
+  - sp: TRINCULO
+    o:
+      - "Your lieutenant, if you list. He’s no standard."
+    m:
+      - "Lieutenant is better. He’s not standing straight enough to hold a flag."
+
+  - sp: STEPHANO
+    o:
+      - "We’ll not run, Monsieur Monster."
+    m:
+      - "We’re not going to run in our army, Monsieur Monster."
+
+  - sp: TRINCULO
+    o:
+      - "Nor go neither. But you’ll lie like dogs, and yet say nothing neither."
+    m:
+      - "Or walk either. You’ll just lie there like sleeping dogs and say nothing."
+
+  - sp: STEPHANO
+    o:
+      - "Mooncalf, speak once in thy life, if thou beest a good mooncalf."
+    m:
+      - "Monster sweetie, be a good monster and just speak once."
+
+  - sp: CALIBAN
+    o:
+      - "How does thy honor? Let me lick thy shoe."
+      - "*(indicates TRINCULO)* I’ll not serve him. He’s not valiant."
+    m:
+      - "How is your Highness? Let me lick your shoe. *(he points to TRINCULO)* I’ll never serve that guy there. He’s not courageous like you."
+
+  - sp: TRINCULO
+    o:
+      - "*(to CALIBAN)* Thou liest, most ignorant monster. I am in case to justle a constable. Why, thou deboshed fish, thou, was there ever man a coward that hath drunk so much sack as I today? Wilt thou tell a monstrous lie, being but half a fish and half a monster?"
+    m:
+      - "*(to CALIBAN)* You’re a liar, you ignorant monster. I’m courageous. I could shake up a police officer right now. You drunken fish, you, how could you call me a coward after all the booze I’ve drunk today? Do you tell such monstrous lies because you’re half fish and half monster?"
+
+  - sp: CALIBAN
+    o:
+      - "*(to STEPHANO)*"
+      - "Lo, how he mocks me! Wilt thou let him, mylord?"
+    m:
+      - "*(to STEPHANO)* Look how he’s making fun of me! Will you let him talk to me like, my lord?"
+
+  - sp: TRINCULO
+    o:
+      - "“Lord,” quoth he? That a monster should be such a natural!"
+    m:
+      - "“Lord,” he calls you? What an idiot that monster is!"
+
+  - sp: CALIBAN
+    o:
+      - "*(to STEPHANO)*"
+      - "Lo, lo, again! Bite him to death, I prithee."
+    m:
+      - "*(to STEPHANO)* There he goes again! Please, bite him to death, I’m begging you."
+
+  - sp: STEPHANO
+    o:
+      - "Trinculo, keep a good tongue in your head. If you prove a mutineer, the next tree. The poor monster’s my subject and he shall not suffer indignity."
+    m:
+      - "Trinculo, speak politely. If you mutiny against me, I’ll hang you from the next tree. This poor monster is my subject, and I will not allow him to be insulted."
+
+  - sp: CALIBAN
+    o:
+      - "I thank my noble lord. Wilt thou be pleased to hearken once again to the suit I made to thee?"
+    m:
+      - "Thank you, my noble lord. Now would you please listen once again to the request I made to you earlier?"
+
+  - sp: STEPHANO
+    o:
+      - "Marry, will I. Kneel and repeat it. I will stand, and so shall"
+      - "Trinculo."
+    m:
+      - "Indeed, I will. Kneel and tell me again. I’ll stand, and so will Trinculo."
+
+  - os: "Enter ARIEL, invisible"
+    ms: "ARIEL enters, invisible."
+
+  - sp: CALIBAN
+    o:
+      - "*(kneeling)* As I told thee before, I am subject to a tyrant, a sorcerer that by his cunning hath cheated me of the island."
+    m:
+      - "*(kneeling)* As I told you before, I’m enslaved to a tyrant, a magician who tricked me with magic spells and took my island from me."
+
+  - sp: ARIEL
+    o:
+      - "Thou liest."
+    m:
+      - "You lie."
+
+  - sp: CALIBAN
+    o:
+      - "*(to TRINCULO)* Thou liest, thou jesting monkey, thou! I would my valiant master would destroy thee. I do not lie."
+    m:
+      - "*(to TRINCULO)* You’re the liar, you big fat monkey. I wish my courageous master would kill you. I’m not lying."
+
+  - sp: STEPHANO
+    o:
+      - "Trinculo, if you trouble him any more in ’s tale, by this hand, I will supplant some of your teeth."
+    m:
+      - "Trinculo, if you interrupt him any more, I swear I’ll knock some teeth out of your head."
+
+  - sp: TRINCULO
+    o:
+      - "Why, I said nothing."
+    m:
+      - "I didn’t say anything."
+
+  - sp: STEPHANO
+    o:
+      - "Mum, then, and no more. Proceed."
+    m:
+      - "Okay, just stay quiet. Go on."
+
+  - sp: CALIBAN
+    o:
+      - "I say, by sorcery he got this isle."
+      - "From me he got it. If thy greatness will"
+      - "Revenge it on him—for I know thou darest,"
+      - "But this thing dare not—"
+    m:
+      - "I was telling you he used witchcraft to take this island. He stole it from me. If your highness is willing, take revenge on him for that—because I know you’re brave enough, I don’t dare to—"
+
+  - sp: STEPHANO
+    o:
+      - "That’s most certain."
+    m:
+      - "That’s for sure."
+
+  - sp: CALIBAN
+    o:
+      - "Thou shalt be lord of it and I’ll serve thee."
+    m:
+      - "You’ll be lord of the island then, and I’ll be your servant."
+
+  - sp: STEPHANO
+    o:
+      - "How now shall this be compassed?"
+      - "Canst thou bring me to th’ party?"
+    m:
+      - "And how would we go about doing that? Can you bring me to him?"
+
+  - sp: CALIBAN
+    o:
+      - "Yea, yea, my lord. I’ll yield him thee asleep,"
+      - "Where thou mayst knock a nail into his head."
+    m:
+      - "Yes, yes, my lord. I’ll take you to where he sleeps, and you can pound a nail into his head."
+
+  - sp: ARIEL
+    o:
+      - "Thou liest. Thou canst not."
+    m:
+      - "You lie. You can’t do that."
+
+  - sp: CALIBAN
+    o:
+      - "What a pied ninny’s this!—Thou scurvy patch!—"
+      - "I do beseech thy greatness, give him blows"
+      - "And take his bottle from him. When that’s gone,"
+      - "He shall drink naught but brine, for I’ll not show him"
+      - "Where the quick freshes are."
+    m:
+      - "What an idiot this guy is!—You’re a rotten piece of work!—I beg your highness, beat him up and take his wine bottle from him. When he loses that, he’ll be drinking salt water, since I’ll never tell him where the freshwater springs are."
+
+  - sp: STEPHANO
+    o:
+      - "Trinculo, run into no further danger. Interrupt the monster one word further, and, by this hand, I’ll turn my mercy out o’ doors and make a stockfish of thee."
+    m:
+      - "Trinculo, watch out. If you interrupt this monster with one more word, I’ll beat you like a piece of salted fish."
+
+  - sp: TRINCULO
+    o:
+      - "Why, what did I? I did nothing. I’ll go farther off."
+    m:
+      - "What did I do? I didn’t do anything. I need to get away from you."
+
+  - sp: STEPHANO
+    o:
+      - "Didst thou not say he lied?"
+    m:
+      - "Didn’t you call him a liar?"
+
+  - sp: ARIEL
+    o:
+      - "Thou liest."
+    m:
+      - "You lie."
+
+  - sp: STEPHANO
+    o:
+      - "*(to TRINCULO)* Do I so? Take thou that."
+      - "*(beats TRINCULO)*"
+      - "As you like this, give me the lie another time."
+    m:
+      - "*(to TRINCULO)* Oh, I did? Take that, then. *(he beats TRINCULO)* If you want more beatings like that, just accuse me of lying again."
+
+  - sp: TRINCULO
+    o:
+      - "I did not give the lie. Out o’ your wits and hearing too? A pox o’ your bottle! This can sack and drinking do. A murrain on your monster, and the devil take your fingers!"
+    m:
+      - "I didn’t accuse you of lying. Are you out of your mind and deaf too? Damn your wine! This is what happens when you drink too much. Your monster can go to hell, and you can too!"
+
+  - sp: CALIBAN
+    o:
+      - "Ha, ha, ha!"
+    m:
+      - "Ha, ha, ha!"
+
+  - sp: STEPHANO
+    o:
+      - "Now, forward with your tale.—Prithee, stand farther off."
+    m:
+      - "Now go ahead and tell me the rest of your story.—Please go stand farther away."
+
+  - sp: CALIBAN
+    o:
+      - "Beat him enough. After a little time,"
+      - "I’ll beat him too."
+    m:
+      - "Beat him up. After a little while, I’ll beat him too."
+
+  - sp: STEPHANO
+    o:
+      - "Stand farther.—Come, proceed."
+    m:
+      - "Stand farther away.— Come on, continue your story."
+
+  - sp: CALIBAN
+    o:
+      - "Why, as I told thee, ’tis a custom with him,"
+      - "I’ th’ afternoon to sleep. There thou mayst brain him,"
+      - "Having first seized his books; or with a log"
+      - "Batter his skull; or paunch him with a stake;"
+      - "Or cut his weasand with thy knife. Remember"
+      - "First to possess his books, for without them"
+      - "He’s but a sot, as I am, nor hath not"
+      - "One spirit to command. They all do hate him"
+      - "As rootedly as I. Burn but his books."
+      - "He has brave utensils—for so he calls them—"
+      - "Which when he has a house, he’ll deck withal."
+      - "And that most deeply to consider is"
+      - "The beauty of his daughter. He himself"
+      - "Calls her a nonpareil. I never saw a woman,"
+      - "But only Sycorax my dam and she."
+      - "But she as far surpasseth Sycorax"
+      - "As great’st does least."
+    m:
+      - "Just as I told you, he usually sleeps in the afternoon. At that time you can smash in his skull after seizing his books; or you can bash his skull with a log; or you can stab him in the belly; or cut his windpipe. Just remember to grab his books first, since without them he’s just a poor fool like me, and can’t command a single spirit. All the spirits hate him as much as I do. Be sure to burn his magic books. He has some wonderful home furnishings—that’s what he calls them—that he’ll use to decorate his house when he gets one. The most important thing for you to think about is how beautiful his daughter is. He says she has no equal. I never saw a woman except her and Sycorax, my mother. But Miranda is so much more beautiful, you can’t even compare the two."
+
+  - sp: STEPHANO
+    o:
+      - "    Is it so brave a lass?"
+    m:
+      - "Is she really that wonderful?"
+
+  - sp: CALIBAN
+    o:
+      - "Ay, lord. She will become thy bed, I warrant."
+      - "And bring thee forth brave brood."
+    m:
+      - "Yes, my lord. She’ll look good in your bed, and she’ll produce some fine children too."
+
+  - sp: STEPHANO
+    o:
+      - "Monster, I will kill this man. His daughter and I will be king and queen—save our graces!—and Trinculo and thyself shall be viceroys.—Dost thou like the plot, Trinculo?"
+    m:
+      - "Monster, I’ll kill this man. His daughter and I will be king and queen—God protect us!—and you and Trinculo will be our governors.—Do you like that idea, Trinculo?"
+
+  - sp: TRINCULO
+    o:
+      - "Excellent."
+    m:
+      - "Excellent."
+
+  - sp: STEPHANO
+    o:
+      - "Give me thy hand. I am sorry I beat thee. But while thou livest, keep a good tongue in thy head."
+    m:
+      - "Give me your hand. I’m sorry I hit you. But try to control your speech."
+
+  - sp: CALIBAN
+    o:
+      - "Within this half hour will he be asleep. Wilt thou destroy him then?"
+    m:
+      - "In a half an hour he’ll be asleep. Will you kill him then?"
+
+  - sp: STEPHANO
+    o:
+      - "Ay, on mine honor."
+    m:
+      - "Yes, I swear."
+
+  - sp: ARIEL
+    o:
+      - "*(aside)* This will I tell my master."
+    m:
+      - "*(to himself)* I’ll tell my master this."
+
+  - sp: CALIBAN
+    o:
+      - "Thou makest me merry. I am full of pleasure."
+      - "Let us be jocund. Will you troll the catch"
+      - "You taught me but whilere?"
+    m:
+      - "You make me so happy. I’m full of joy. Let’s be light-hearted. Will you sing the tune you taught me just a little while ago?"
+
+  - sp: STEPHANO
+    o:
+      - "At thy request, monster, I will do reason, any reason.—"
+      - "Come on, Trinculo, let us sing."
+      - "*(sings)*"
+      - "  *Flout ’em and scout ’em*,"
+      - "  *And scout ’em and flout ’em*."
+      - "  *Thought is free*."
+    m:
+      - "I’ll do anything you ask, monster, anything reasonable.—"
+      - "Come on, Trinculo, let’s sing."
+      - "*(he sings)*"
+      - "  *Dismiss ’em and ziss ’em*"
+      - "  *And diss ’em and dismiss ’em*."
+      - "  *Thought is free*."
+
+  - sp: CALIBAN
+    o:
+      - "That’s not the tune."
+    m:
+      - "That’s not the tune I had in mind."
+
+  - os: "ARIEL plays the tune on a tabor and pipe"
+    ms: "ARIEL plays the tune on a drum and a pipe."
+
+  - sp: STEPHANO
+    o:
+      - "What is this same?"
+    m:
+      - "What’s this song?"
+
+  - sp: TRINCULO
+    o:
+      - "This is the tune of our catch, played by the picture of Nobody."
+    m:
+      - "That’s the melody, played by Nobody."
+
+  - sp: STEPHANO
+    o:
+      - "If thou beest a man, show thyself in thy likeness. If thou beest a devil, take ’t as thou list."
+    m:
+      - "*(to the invisible musician)* If you’re a man, then let us see what you look like. If you’re a devil, then go to hell."
+
+  - sp: TRINCULO
+    o:
+      - "O, forgive me my sins!"
+    m:
+      - "Oh, forgive all my sins!"
+
+  - sp: STEPHANO
+    o:
+      - "He that dies pays all debts.—I defy thee!—Mercy upon us!"
+    m:
+      - "Dead men have to pay their debts.—I challenge you!—God help us."
+
+  - sp: CALIBAN
+    o:
+      - "Art thou afeard?"
+    m:
+      - "Are you scared?"
+
+  - sp: STEPHANO
+    o:
+      - "No, monster, not I."
+    m:
+      - "No, monster, not me."
+
+  - sp: CALIBAN
+    o:
+      - "Be not afeard. The isle is full of noises,"
+      - "Sounds, and sweet airs that give delight and hurt not."
+      - "Sometimes a thousand twangling instruments"
+      - "Will hum about mine ears, and sometime voices"
+      - "That, if I then had waked after long sleep,"
+      - "Will make me sleep again. And then, in dreaming,"
+      - "The clouds methought would open and show riches"
+      - "Ready to drop upon me, that when I waked"
+      - "I cried to dream again."
+    m:
+      - "Don’t be scared. This island is full of noises, strange sounds and sweet melodies that make you feel good and don’t hurt anyone. Sometimes I hear a thousand twanging instruments hum at my ears, and sometimes voices that send me back to sleep even if I had just woken up—and then I dreamed of clouds opening up and dropping such riches on me that when I woke up, I cried because I wanted to dream again."
+
+  - sp: STEPHANO
+    o:
+      - "This will prove a brave kingdom to me, where I shall have my music for nothing."
+    m:
+      - "This’ll be a wonderful kingdom to live in, where they play music for free."
+
+  - sp: CALIBAN
+    o:
+      - "When Prospero is destroyed."
+    m:
+      - "As soon as you kill Prospero."
+
+  - sp: STEPHANO
+    o:
+      - "That shall be by and by. I remember the story."
+    m:
+      - "That’ll happen soon enough. I remember the plan."
+
+  - sp: TRINCULO
+    o:
+      - "The sound is going away. Let’s follow it, and after do our work."
+    m:
+      - "The sound is going away. But let’s follow it, and then do our dirty work afterward."
+
+  - sp: STEPHANO
+    o:
+      - "Lead, monster; we’ll follow. I would I could see this taborer. He lays it on."
+    m:
+      - "Lead us, monster; we’ll follow. I wish I could see this invisible drummer. He really plays well."
+
+  - sp: TRINCULO
+    o:
+      - "Wilt come? I’ll follow, Stephano."
+    m:
+      - "I’m right behind you, Stephano. Are you coming monster?"
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,345 @@
+play: King Lear
+title: Act 4, Scene 7
+group: 4
+order: 22
+text:
+  - os: "Enter CORDELIA, KENT disguised, GENTLEMAN, and DOCTOR"
+    ms: "CORDELIA enters with KENT in disguise, the GENTLEMAN, and the DOCTOR."
+
+  - sp: CORDELIA
+    o:
+      - "O thou good Kent, how shall I live and work"
+      - "To match thy goodness? My life will be too short,"
+      - "And every measure fail me."
+    m:
+      - "Oh, Kent, what could I ever do to become as good as you are? I won’t live long enough, and all my efforts will fail me."
+
+  - sp: KENT
+    o:
+      - "To be acknowledged, madam, is o’erpaid."
+      - "All my reports go with the modest truth,"
+      - "Nor more, nor clipped, but so."
+    m:
+      - "Just being thanked is more than enough for me, madam. I hope all reports about me simply tell the truth, no more or less."
+
+  - sp: CORDELIA
+    o:
+      - "    Be better suited."
+      - "These weeds are memories of those worser hours."
+      - "I prithee, put them off."
+    m:
+      - "Change into better clothes. These rags will just remind us of those bad times when you had to wear a disguise. Please take them off."
+
+  - sp: KENT
+    o:
+      - "  Pardon, dear madam."
+      - "Yet to be known shortens my made intent."
+      - "My boon I make it that you know me not"
+      - "Till time and I think meet."
+    m:
+      - "I’m sorry, madam, but I can’t do that yet. If people recognize me now, I won’t be able to carry out my plans. I have to ask you, as a favor, not to let on that you recognize me until the time is right."
+
+  - sp: CORDELIA
+    o:
+      - "  Then be ’t so, my good lord.—"
+      - "How does the king?"
+    m:
+      - "All right, my lord.—How’s the king doing?"
+
+  - sp: DOCTOR
+    o:
+      - "  Madam, sleeps still."
+    m:
+      - "He’s still sleeping, ma’am."
+
+  - sp: CORDELIA
+    o:
+      - "    O you kind gods,"
+      - "Cure this great breach in his abusèd nature,"
+      - "Th’ untuned and jarring senses, O, wind up,"
+      - "Of this child-changèd father!"
+    m:
+      - "Kind gods, heal the wounds that he’s wrongly suffered! Restore the sanity of this father whose children have driven him mad and changed him into a child again!"
+
+  - sp: DOCTOR
+    o:
+      - "    So please your majesty"
+      - "That we may wake the king? He hath slept long."
+    m:
+      - "Would you mind if we woke up the king? He’s slept a long time."
+
+  - sp: CORDELIA
+    o:
+      - "Be governed by your knowledge, and proceed"
+      - "I’ th’ sway of your own will. Is he arrayed?"
+    m:
+      - "Do whatever you think best. Is he in his royal garments?"
+
+  - os: "Enter LEAR asleep in a chair carried by servants"
+    ms: "Servants carry in LEAR sleeping in a chair."
+
+  - sp: GENTLEMAN
+    o:
+      - "Ay, madam. In the heaviness of his sleep"
+      - "We put fresh garments on him."
+    m:
+      - "Yes, ma’am. We changed his clothes while he was fast asleep."
+
+  - sp: DOCTOR
+    o:
+      - "Be by, good madam, when we do awake him."
+      - "I doubt not of his temperance."
+    m:
+      - "Stay close by when we wake him up, ma’am. I’m sure he will stay under control."
+
+  - sp: CORDELIA
+    o:
+      - "    Very well."
+    m:
+      - "All right."
+
+  - sp: DOCTOR
+    o:
+      - "Please you, draw near.—Louder the music there!"
+    m:
+      - "Please come closer.— Make the music louder, please!"
+
+  - sp: CORDELIA
+    o:
+      - "*(kisses LEAR)* O my dear father, restoration hang"
+      - "Thy medicine on my lips, and let this kiss"
+      - "Repair those violent harms that my two sisters"
+      - "Have in thy reverence made!"
+    m:
+      - "*(kisses LEAR)* Oh, my dear father, please get better. May my kiss heal the wounds inflicted on you by my sisters—who should have respected and cherished you."
+
+  - sp: KENT
+    o:
+      - "    Kind and dear princess!"
+    m:
+      - "Kind and dear princess!"
+
+  - sp: CORDELIA
+    o:
+      - "Had you not been their father, these white flakes"
+      - "Did challenge pity of them. Was this a face"
+      - "To be opposed against the warring winds?"
+      - "To stand against the deep dread-bolted thunder"
+      - "In the most terrible and nimble stroke"
+      - "Of quick cross lightning? To watch—poor perdu!—"
+      - "With this thin helm? Mine enemy’s meanest dog,"
+      - "Though he had bit me, should have stood that night"
+      - "Against my fire. And wast thou fain, poor father,"
+      - "To hovel thee with swine and rogues forlorn"
+      - "In short and musty straw? Alack, alack!"
+      - "’Tis wonder that thy life and wits at once"
+      - "Had not concluded all.—He wakes. Speak to him."
+    m:
+      - "If you hadn’t been their father, your white hair would have inspired in them only compassion. Is this a face that should have endured the freezing winds or withstood the dreadful thunder or the terrible lightning? To stay awake all night like a guardsman—poor lost soul!—with only your thinning hair for a helmet? I would’ve let even my enemy’s nastiest dog stay inside by the fireplace on that night, even if he had bit me. And were you then happy to find shelter on a bed of hay along with swine and homeless bums? Oh, oh! It’s a wonder you didn’t lose your life and your mind all at once.—He’s waking up. Talk to him."
+
+  - sp: DOCTOR
+    o:
+      - "Madam, do you. ’Tis fittest."
+    m:
+      - "You talk to him, ma’am. That’s most appropriate."
+
+  - sp: CORDELIA
+    o:
+      - "How does my royal lord? How fares your majesty?"
+    m:
+      - "How are you, my royal lord? How is your majesty doing?"
+
+  - sp: LEAR
+    o:
+      - "You do me wrong to take me out o’ th’ grave."
+      - "Thou art a soul in bliss, but I am bound"
+      - "Upon a wheel of fire, that mine own tears"
+      - "Do scald like molten lead."
+    m:
+      - "You do me wrong by taking me out of the grave. You’re a soul in heaven, but I’m tied to the fiery wheel of a torture machine in hell. Even my tears burn me like molten lead."
+
+  - sp: CORDELIA
+    o:
+      - "  Sir, do you know me?"
+    m:
+      - "Sir, do you know who I am?"
+
+  - sp: LEAR
+    o:
+      - "You are a spirit, I know. Where did you die?"
+    m:
+      - "You’re a spirit, I know. Where did you die?"
+
+  - sp: CORDELIA
+    o:
+      - "*(aside to DOCTOR)* Still, still far wide!"
+    m:
+      - "*(whispering to the DOCTOR)* He’s still in outer space."
+
+  - sp: DOCTOR
+    o:
+      - "He’s scarce awake. Let him alone awhile."
+    m:
+      - "He’s still half asleep. Let him be for a bit."
+
+  - sp: LEAR
+    o:
+      - "Where have I been? Where am I? Fair daylight?"
+      - "I am mightily abused. I should ev’n die with pity"
+      - "To see another thus. I know not what to say."
+      - "I will not swear these are my hands. Let’s see."
+      - "I feel this pinprick. Would I were assured"
+      - "Of my condition."
+    m:
+      - "Where have I been? Where am I? Is it daytime? I’ve been tricked. I would die of pity to see someone else in my condition. I don’t know what to say. I can’t even be sure these are my hands. Let’s see. I feel this pinprick. I wish I knew what is happening."
+
+  - sp: CORDELIA
+    o:
+      - "*(kneels)*"
+      - "  O, look upon me, sir,"
+      - "And hold your hands in benediction o’er me."
+      - "No, sir, you must not kneel."
+    m:
+      - "*(kneeling)* Look at me, sir, and give me your blessing. No, sir, don’t kneel."
+
+  - sp: LEAR
+    o:
+      - "    Pray, do not mock me."
+      - "I am a very foolish fond old man,"
+      - "Fourscore and upward, not an hour more nor less."
+      - "And to deal plainly"
+      - "I fear I am not in my perfect mind."
+      - "Methinks I should know you, and know this man."
+      - "Yet I am doubtful, for I am mainly ignorant"
+      - "What place this is, and all the skill I have"
+      - "Remembers not these garments. Nor I know not"
+      - "Where I did lodge last night. Do not laugh at me,"
+      - "For as I am a man, I think this lady"
+      - "To be my child Cordelia."
+    m:
+      - "Please don’t make fun of me. I’m a foolish, senile old man, eighty-something years old, not an hour more or less. To put it plainly, I’m afraid I’m not quite sane. I feel I should recognize you and that man *(he points to KENT)*, but I’m not sure. I don’t know where I am. I don’t remember these clothes. I can’t recall where I slept last night. Don’t laugh at me, but I swear I think this lady is my child Cordelia."
+
+  - sp: CORDELIA
+    o:
+      - "  And so I am, I am."
+    m:
+      - "And I am, I am."
+
+  - sp: LEAR
+    o:
+      - "Be your tears wet? Yes, faith. I pray, weep not."
+      - "If you have poison for me, I will drink it."
+      - "I know you do not love me, for your sisters"
+      - "Have, as I do remember, done me wrong."
+      - "You have some cause; they have not."
+    m:
+      - "Are your tears wet? Yes, indeed they are. Please don’t cry. If you have poison for me, I’ll drink it. I know you don’t love me. If I remember, your sisters did me wrong for no reason. But you didn’t, even though you had every reason."
+
+  - sp: CORDELIA
+    o:
+      - "    No cause, no cause."
+    m:
+      - "I had no reason, no reason."
+
+  - sp: LEAR
+    o:
+      - "Am I in France?"
+    m:
+      - "Am I in France?"
+
+  - sp: KENT
+    o:
+      - "In your own kingdom, sir."
+    m:
+      - "You’re in your own kingdom, sir."
+
+  - sp: LEAR
+    o:
+      - "Do not abuse me."
+    m:
+      - "Don’t deceive me."
+
+  - sp: DOCTOR
+    o:
+      - "Be comforted, good madam. The great rage,"
+      - "You see, is killed in him. And yet it is danger"
+      - "To make him even o’er the time he has lost."
+      - "Desire him to go in. Trouble him no more"
+      - "Till further settling."
+    m:
+      - "You can relax, ma’am. His insane period is over. But it’s dangerous to make him try to make sense of the time he lost. Ask him to go in. Don’t trouble him further until his mind is more settled."
+
+  - sp: CORDELIA
+    o:
+      - "Will ’t please your highness walk?"
+    m:
+      - "Would your highness like to take a walk?"
+
+  - sp: LEAR
+    o:
+      - "You must bear with me."
+      - "Pray you now, forget and forgive."
+      - "I am old and foolish."
+    m:
+      - "You’ll have to bear with me. Please forgive and forget. I’m old and foolish."
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Manent KENT and GENTLEMAN"
+    ms: "KENT and the GENTLEMAN remain."
+
+  - sp: GENTLEMAN
+    o:
+      - "  Holds it true, sir, that the Duke of Cornwall was so slain?"
+    m:
+      - "Is it true, sir, that the Duke of Cornwall was killed as they say?"
+
+  - sp: KENT
+    o:
+      - "  Most certain, sir."
+    m:
+      - "Yes, it’s true, sir."
+
+  - sp: GENTLEMAN
+    o:
+      - "Who is conductor of his people?"
+    m:
+      - "Who is leading his men?"
+
+  - sp: KENT
+    o:
+      - "As ’tis said, the bastard son of Gloucester."
+    m:
+      - "They say Gloucester’s bastard son is."
+
+  - sp: GENTLEMAN
+    o:
+      - "They say Edgar, his banished son, is with the Earl of Kent in Germany."
+    m:
+      - "I hear that Edgar, Gloucester’s exiled son, is with the Earl of Kent in Germany."
+
+  - sp: KENT
+    o:
+      - "Report is changeable. Tis time to look about. The powers of the kingdom approach apace."
+    m:
+      - "You can’t trust all the rumors. It’s time to reassess the situation. The British troops are coming near."
+
+  - sp: GENTLEMAN
+    o:
+      - "The arbitrament is like to be bloody. Fare you well, sir."
+    m:
+      - "It will likely be a bloody fight. Goodbye, sir."
+
+  - os: "Exit GENTLEMAN"
+    ms: "He exits."
+
+  - sp: KENT
+    o:
+      - "My point and period will be throughly wrought,"
+      - "Or well or ill, as this day’s battle’s fought."
+    m:
+      - "My life and my plans completely depend on how today’s battle ends."
+
+  - os: "Exit"
+    ms: "He exits."

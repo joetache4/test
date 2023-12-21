@@ -1,0 +1,63 @@
+play: Measure for Measure
+title: Act 4, Scene 6
+group: 4
+order: 15
+text:
+  - os: "Street near the city gate."
+    ms: "A street near the city gate."
+
+  - os: "Enter ISABELLA and MARIANA"
+    ms: "ISABELLA and MARIANA enter."
+
+  - sp: ISABELLA
+    o:
+      - "To speak so indirectly I am loath:"
+      - "I would say the truth; but to accuse him so,"
+      - "That is your part: yet I am advised to do it;"
+      - "He says, to veil full purpose."
+    m:
+      - "I hate to speak so evasively. I’d rather tell the truth. But to accuse Angelo is your job, the friar says, and he advises me to lie, to hide our real aim."
+
+  - sp: MARIANA
+    o:
+      - "Be ruled by him."
+    m:
+      - "We should do as he says."
+
+  - sp: ISABELLA
+    o:
+      - "Besides, he tells me that, if peradventure"
+      - "He speak against me on the adverse side,"
+      - "I should not think it strange; for ’tis a physic"
+      - "That’s bitter to sweet end."
+    m:
+      - "Besides, he tells me that I shouldn’t think it strange if he happens to contradict me. It’ll be like swallowing a bitter pill that offers a sweet cure."
+
+  - sp: MARIANA
+    o:
+      - "I would Friar Peter—"
+    m:
+      - "I wish Friar Peter—"
+
+  - sp: ISABELLA
+    o:
+      - "O, peace! the friar is come."
+    m:
+      - "Oh, wait! The friar’s here."
+
+  - os: "Enter FRIAR PETER"
+    ms: "FRIAR PETER enters."
+
+  - sp: FRIAR PETER
+    o:
+      - "Come, I have found you out a stand most fit,"
+      - "Where you may have such vantage on the duke,"
+      - "He shall not pass you. Twice have the trumpets sounded;"
+      - "The generous and gravest citizens"
+      - "Have hent the gates, and very near upon"
+      - "The duke is entering: therefore, hence, away!"
+    m:
+      - "Come on, I’ve found you a good place to stand, where you’ll be so positioned that the duke won’t be able to bypass you. The trumpets have blown twice, the most high-born and important people have already gathered at the gates, and the duke’s about to enter. So, let’s go!"
+
+  - os: "Exeunt"
+    ms: "They exit."

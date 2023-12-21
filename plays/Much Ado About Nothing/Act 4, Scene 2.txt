@@ -1,0 +1,296 @@
+play: Much Ado About Nothing
+title: Act 4, Scene 2
+group: 4
+order: 12
+text:
+  - os: "Enter DOGBERRY,VERGES, andSEXTON, in gowns; and the Watch, withCONRADE and BORACHIO"
+    ms: "DOGBERRY, VERGES, the SEXTON (in his official gown), and theWATCHMEN enter, bringing CONRADE and BORACHIO."
+
+  - sp: DOGBERRY
+    o:
+      - "Is our whole dissembly appeared?"
+    m:
+      - "Is our whole dissembly here?"
+
+  - sp: VERGES
+    o:
+      - "Oh, a stool and a cushion for the Sexton."
+    m:
+      - "Oh, we need a stool and a cushion for the sexton."
+
+  - os: "A stool is brought in. SEXTON sits"
+    ms: "A stool is brought in. The SEXTON sits down."
+
+  - sp: SEXTON
+    o:
+      - "Which be the malefactors?"
+    m:
+      - "Which ones are the malefactors?"
+
+  - sp: DOGBERRY
+    o:
+      - "Marry, that am I and my partner."
+    m:
+      - "Sir, that would be me and my partner."
+
+  - sp: VERGES
+    o:
+      - "Nay, that’s certain; we have the exhibition to examine."
+    m:
+      - "Yes, yes, we’ve been exhibitioned to examine this case."
+
+  - sp: SEXTON
+    o:
+      - "But which are the offenders that are to be examined? Let"
+      - "them come before Master Constable."
+    m:
+      - "No, you’ve misunderstood me—where are the criminals whom I’m supposed to examine? Have them come in front of the master constable."
+
+  - sp: DOGBERRY
+    o:
+      - "Yea, marry, let them come before me."
+      - "What is your name, friend?"
+    m:
+      - "Yes, indeed, bring them before me."
+
+  - os: "BORACHIO andCONRADE come forward"
+    ms: "BORACHIO and CONRADE come forward."
+
+  - o:
+      - "What’s your name, friend?"
+    m:
+      - "What’s your name, friend?"
+
+  - sp: BORACHIO
+    o:
+      - "Borachio."
+    m:
+      - "Borachio."
+
+  - sp: DOGBERRY
+    o:
+      - "Pray, write down, “Borachio.”—Yours, sirrah?"
+    m:
+      - "Please, write down “Borachio.”—And yours?"
+
+  - sp: CONRADE
+    o:
+      - "I am a gentleman, sir, and my name is Conrade."
+    m:
+      - "I’m a gentleman, sir, and my name is Conrade."
+
+  - sp: DOGBERRY
+    o:
+      - "Write down “Master Gentleman Conrade.”—Masters, do"
+      - "you serve God?"
+    m:
+      - "Write down “Master Gentleman Conrade.”—Gentlemen, are you good Christians, and do you serve God?"
+
+  - sp: CONRADE, BORACHIO
+    o:
+      - "Yea, sir, we hope."
+    m:
+      - "Yes, sir, we hope so."
+
+  - sp: DOGBERRY
+    o:
+      - "Write down that they hope they serve God; and write God"
+      - "first, for God defend but God should go before such"
+      - "villains!—Masters, it is proved already that you are little"
+      - "better than false knaves, and it will go near to be thought so"
+      - "shortly. How answer you for yourselves?"
+    m:
+      - "Write down that they hope they serve God. Oh, and write “God” first—for God forbid we put these criminals before God!—Gentlemen, it’s already been proven that you aren’t much better than lying criminals, and soon we’ll know almost for certain. How do you both plead?"
+
+  - sp: CONRADE
+    o:
+      - "Marry, sir, we say we are none."
+    m:
+      - "Honestly, sir, we say that we are not criminals."
+
+  - sp: DOGBERRY
+    o:
+      - "A marvelous witty fellow, I assure you, but I will go about"
+      - "with him.—Come you hither, sirrah, a word in your ear."
+      - "Sir, I say to you it is thought you are false knaves."
+    m:
+      - "He’s a marvelously witty fellow, no doubt, but I’ll outmaneuver him.—Come over here; I’ll whisper a word in your ear. Sir, I tell you we believe you’re both lying criminals."
+
+  - sp: BORACHIO
+    o:
+      - "Sir, I say to you we are none."
+    m:
+      - "Sir, I tell you that we are not."
+
+  - sp: DOGBERRY
+    o:
+      - "Well, stand aside.—’Fore God, they are both in a ale. Have"
+      - "you writ down that they are none?"
+    m:
+      - "Well, okay.—I swear to God, both their stories match. Have you written that down, that they aren’t criminals?"
+
+  - sp: SEXTON
+    o:
+      - "Master Constable, you go not the way to examine. You"
+      - "must call forth the watch that are their accusers."
+    m:
+      - "Master Constable, you’re going about this all wrong. First, you have to speak to the watchmen who accused them."
+
+  - sp: DOGBERRY
+    o:
+      - "Yea, marry, that’s the eftest way.—Let the watch come"
+      - "forth. Masters, I charge you in the Prince’s name, accuse"
+      - "these men."
+    m:
+      - "Yes, good idea; that’s the eftest way. Bring the watchmen forward. Gentlemen, I order you in the Prince’s name to accuse these men."
+
+  - sp: FIRST WATCHMAN
+    o:
+      - "This man said, sir, that Don John, the Prince’s brother, was"
+      - "a villain."
+    m:
+      - "This man said, sir, that Don John, the Prince’s brother, was a villain."
+
+  - sp: DOGBERRY
+    o:
+      - "Write down Prince John a villain. Why, this is flat perjury,"
+      - "to call a prince’s brother villain."
+    m:
+      - "Write down that Prince John is a villain. Why, that’s flat-out perjury—to call a prince’s brother a villain."
+
+  - sp: BORACHIO
+    o:
+      - "Master Constable—"
+    m:
+      - "Master Constable—"
+
+  - sp: DOGBERRY
+    o:
+      - "Pray thee, fellow, peace. I do not like thy look, I promise"
+      - "thee."
+    m:
+      - "Be quiet, you. I swear, I don’t like the look of you."
+
+  - sp: SEXTON
+    o:
+      - "*(to Watch)* What heard you him say else?"
+    m:
+      - "*(to the watchmen)* What else did you hear him say?"
+
+  - sp: SECOND WATCHMAN
+    o:
+      - "Marry, that he had received a thousand ducats of Don John"
+      - "for accusing the Lady Hero wrongfully."
+    m:
+      - "That Don John had given him a thousand pieces of gold for wrongfully accusing the Lady Hero."
+
+  - sp: DOGBERRY
+    o:
+      - "Flat burglary as ever was committed."
+    m:
+      - "That’s burglary, that is."
+
+  - sp: VERGES
+    o:
+      - "Yea, by Mass, that it is."
+    m:
+      - "Yes, by God, that it is."
+
+  - sp: SEXTON
+    o:
+      - "What else, fellow?"
+    m:
+      - "What else did you hear?"
+
+  - sp: FIRST WATCHMAN
+    o:
+      - "And that Count Claudio did mean upon his words to"
+      - "disgrace Hero before the whole assembly, and not marry"
+      - "her."
+    m:
+      - "I heard that Count Claudio meant to disgrace Hero in front of the whole wedding party and refuse to marry her."
+
+  - sp: DOGBERRY
+    o:
+      - "*(to BORACHIO)* O villain! Thou wilt be condemned into"
+      - "everlasting redemption for this."
+    m:
+      - "*(to BORACHIO)* Oh, you villain! You’ll be condemned to everlasting redemption for this!"
+
+  - sp: SEXTON
+    o:
+      - "What else?"
+    m:
+      - "What else?"
+
+  - sp: FIRST WATCHMAN
+    o:
+      - "This is all."
+    m:
+      - "That’s all."
+
+  - sp: SEXTON
+    o:
+      - "And this is more, masters, than you can deny. Prince John"
+      - "is this morning secretly stolen away. Hero was in this"
+      - "manner accused, in this very manner refused, and upon the"
+      - "grief of this, suddenly died.—Master Constable, let these"
+      - "men be bound and brought to Leonato’s. I will go before"
+      - "and show him their examination."
+    m:
+      - "*(to CONRADE and BORACHIO)* You can’t deny this, gentlemen. This morning, Prince John secretly snuck out of Messina. Hero was accused exactly as the watchman described, and died on the spot from the grief. Master Constable, tie up these men and bring them to Leonato’s. I’ll get there first and tell him what we found out."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: DOGBERRY
+    o:
+      - "Come, let them be opinioned."
+    m:
+      - "Come on, let’s get them opinioned."
+
+  - sp: VERGES
+    o:
+      - "Let them be in the hands—"
+    m:
+      - "Let them be in the hands—"
+
+  - sp: CONRADE
+    o:
+      - "Off, coxcomb!"
+    m:
+      - "Get off me, you fool!"
+
+  - sp: DOGBERRY
+    o:
+      - "God’s my life, where’s the Sexton? Let him write down the"
+      - "Prince’s officer “coxcomb.” Come, bind them.—Thou"
+      - "naughty varlet!"
+    m:
+      - "Honest to God, where’s the sexton? He should write down that the Prince’s officer was called a fool. Come on, tie them up. *(to CONRADE)* You’re a nasty little stinker!"
+
+  - sp: CONRADE
+    o:
+      - "Away! You are an ass, you are an ass!"
+    m:
+      - "Get away from me, you ass! You ass!"
+
+  - sp: DOGBERRY
+    o:
+      - "Dost thou not suspect my place? Dost thou not suspect my"
+      - "years? Oh, that he were here to write me down an ass! But"
+      - "masters, remember that I am an ass, though it be not"
+      - "written down, yet forget not that I am an ass.—No, thou"
+      - "villain, thou art full of piety, as shall be proved upon thee by"
+      - "good witness. I am a wise fellow and, which is more, an"
+      - "officer and, which is more, a householder and, which is"
+      - "more, as pretty a piece of flesh as any is in Messina, and one"
+      - "that knows the law, go to, and a rich fellow enough, go to,"
+      - "and a fellow that hath had losses, and one that hath two"
+      - "gowns and everything handsome about him.—Bring him"
+      - "away.—Oh, that I had been writ down an ass!"
+    m:
+      - "How can you call me that? Don’t you suspect my office? Don’t you suspect my age? Oh, if only the sexton were here to write down that I’m an ass! Gentlemen, remember that I am an ass; even though it’s not written down, don’t forget that I’m an ass. Oh, you’re a rotten bastard, you are. I’m a wise man and, what’s more, I’m an officer of the law and, what’s more, I’m a householder and, what’s more, I’m as handsome a hunk of meat as any in Messina. And I know the law, damn you, and I’m rich enough, damn you, and I used to have more, but I still have two robes and lots of lovely things.—Take him away!—Oh, if only the sexton had recorded that I’m an ass!"
+
+  - os: "Exeunt"
+    ms: "They all exit."

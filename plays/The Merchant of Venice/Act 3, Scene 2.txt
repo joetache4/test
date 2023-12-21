@@ -1,0 +1,628 @@
+play: The Merchant of Venice
+title: Act 3, Scene 2
+group: 3
+order: 13
+text:
+  - os: "Enter BASSANIO, PORTIA, GRATIANO, NERISSA, and all their trains, including a SINGER"
+    ms: "BASSANIO, PORTIA, GRATIANO, and NERISSA enter with all their attendants, including a SINGER."
+
+  - sp: PORTIA
+    o:
+      - "*(to BASSANIO)* I pray you, tarry. Pause a day or two"
+      - "Before you hazard, for in choosing wrong"
+      - "I lose your company. Therefore forbear awhile."
+      - "There’s something tells me—but it is not love—"
+      - "I would not lose you, and you know yourself"
+      - "Hate counsels not in such a quality."
+      - "But lest you should not understand me well—"
+      - "And yet a maiden hath no tongue but thought—"
+      - "I would detain you here some month or two"
+      - "Before you venture for me. I could teach you"
+      - "How to choose right, but I am then forsworn."
+      - "So will I never be. So may you miss me."
+      - "But if you do, you’ll make me wish a sin,"
+      - "That I had been forsworn. Beshrew your eyes,"
+      - "They have o’erlooked me and divided me."
+      - "One half of me is yours, the other half yours—"
+      - "Mine own, I would say. But if mine, then yours,"
+      - "And so all yours. Oh, these naughty times"
+      - "Put bars between the owners and their rights!"
+      - "And so, though yours, not yours. Prove it so."
+      - "Let Fortune go to hell for it, not I."
+      - "I speak too long, but ’tis to peize the time,"
+      - "To eke it and to draw it out in length,"
+      - "To stay you from election."
+    m:
+      - "*(to BASSANIO)* Please wait a day or two before making your choice. If you choose wrong, I’ll lose your company. So wait a while. Something tells me—not love, but something—that I don’t want to lose you, and you know that if I hated you I wouldn’t think that. But let me put it more clearly in case you don’t understand—though I know girls aren’t supposed to express their thoughts—I’m just saying I’d like you to stay here for a month or two before you undergo the test for me. I could tell you how to choose correctly, but then I’d be disregarding the oath I took. So I’ll never tell. But you might lose me by making the wrong choice. If you do choose wrong, you’ll make me wish for something very bad. I’d wish I had ignored my oath and told you everything. God, your eyes have bewitched me. They’ve divided me in two. One half of me is yours, and the other half—my own half, I’d call it—belongs to you too. If it’s mine, then it’s yours, and so I’m all yours. But in this awful day and age people don’t even have the right to their own property! So though I’m yours, I’m not yours. If there’s no chance for me to be yours, then it’s just bad luck. I know I’m talking too much, but I do that just to make the time last longer, and to postpone your test."
+
+  - sp: BASSANIO
+    o:
+      - "    Let me choose,"
+      - "For as I am, I live upon the rack."
+    m:
+      - "Let me choose now. I feel tortured by all this talking."
+
+  - sp: PORTIA
+    o:
+      - "Upon the rack, Bassanio? Then confess"
+      - "What treason there is mingled with your love."
+    m:
+      - "Tortured, Bassanio? Then confess to your crime. Tell us about the treason you’ve mixed in with your love."
+
+  - sp: BASSANIO
+    o:
+      - "None but that ugly treason of mistrust"
+      - "Which makes me fear th’ enjoying of my love."
+      - "There may as well be amity and life"
+      - "’Tween snow and fire, as treason and my love."
+    m:
+      - "The only treason I’m guilty of is worrying that I’m never going to get to enjoy you. Treason has nothing at all to do with my love. They’re as opposite as hot and cold."
+
+  - sp: PORTIA
+    o:
+      - "Ay, but I fear you speak upon the rack"
+      - "Where men enforcèd do speak anything."
+    m:
+      - "Hmmm, I’m not sure I believe what you’re saying. Men under torture will confess anything."
+
+  - sp: BASSANIO
+    o:
+      - "Promise me life, and I’ll confess the truth."
+    m:
+      - "Promise me you’ll let me live, and I’ll confess the truth."
+
+  - sp: PORTIA
+    o:
+      - "Well then, confess and live."
+    m:
+      - "All right then, confess and live."
+
+  - sp: BASSANIO
+    o:
+      - "  “Confess and love”"
+      - "Had been the very sum of my confession."
+      - "O happy torment, when my torturer"
+      - "Doth teach me answers for deliverance!"
+      - "But let me to my fortune and the caskets."
+    m:
+      - "“Confess and love” is more like it. Oh, torture’s fun when my torturer tells me what I have to say to go free! But let me try my luck on the boxes."
+
+  - sp: PORTIA
+    o:
+      - "Away, then. I am locked in one of them."
+      - "If you do love me you will find me out.—"
+      - "Nerissa and the rest, stand all aloof."
+      - "Let music sound while he doth make his choice."
+      - "Then if he lose he makes a swanlike end,"
+      - "Fading in music. That the comparison"
+      - "May stand more proper, my eye shall be the stream"
+      - "And watery deathbed for him. He may win,"
+      - "And what is music then? Then music is"
+      - "Even as the flourish when true subjects bow"
+      - "To a new-crownèd monarch. Such it is"
+      - "As are those dulcet sounds in break of day"
+      - "That creep into the dreaming bridegroom’s ear"
+      - "And summon him to marriage."
+      - "    Now he goes"
+      - "With no less presence but with much more love"
+      - "Than young Alcides, when he did redeem"
+      - "The virgin tribute paid by howling Troy"
+      - "To the sea monster. I stand for sacrifice."
+      - "The rest aloof are the Dardanian wives,"
+      - "With blearèd visages come forth to view"
+      - "The issue of th’ exploit.—Go, Hercules!"
+      - "Live thou, I live. With much, much more dismay"
+      - "I view the fight than thou that makest the fray."
+    m:
+      - "Go ahead, then. I’m locked in one of them. If you really love me, you’ll find me.—Nerissa and the rest of you, get away from him. Play some music while he chooses. Then if he loses, it’ll be his swan song, music before the end. And since swans need water to swim in, I’ll cry him a river when he loses. But on the other hand, he may win. What music should we play then? If he wins, the music should be like the majestic trumpets that blare when subjects bow to a newly crowned monarch. It’s the sweet sounds at daybreak that the dreaming bridegroom hears on his wedding morning, calling him to the church. Bassanio’s walking to the boxes now. He looks as dignified as Hercules did when he saved the princess Hesione from the sea monster. But he loves me more than Hercules loved the princess. I’ll play Hesione, and everyone else will be the bystanders watching with tear-streaked faces. We’ve all come out to see what will happen.—Go, Hercules! If you survive, I’ll live. I’m more anxious watching you fight than you are in the fight itself."
+
+  - os: "A song, the whilst BASSANIO comments on the caskets to himself"
+    ms: "A song plays while BASSANIO mulls over the boxes."
+
+  - sp: SINGER
+    o:
+      - "*(sings)*"
+      - "*Tell me where is fancy bred.*"
+      - "*Or in the heart or in the head?*"
+      - "*How begot, how nourishèd?*"
+    m:
+      - "*(singing)*"
+      - "*Tell me where do our desires start,*"
+      - "*In the heart or in the head?*"
+      - "*How are they created, how sustained?*"
+
+  - sp: ALL
+    o:
+      - "Reply, reply."
+    m:
+      - "  Answer me, answer me."
+
+  - sp: SINGER
+    o:
+      - "*(sings)*"
+      - "*It is engendered in the eyes,*"
+      - "*With gazing fed, and fancy dies*"
+      - "*In the cradle where it lies.*"
+      - "*Let us all ring fancy’s knell*"
+      - "*I’ll begin it.—Ding, dong, bell.*"
+    m:
+      - "*(singing)*"
+      - "*Desires start in the eyes,*"
+      - "*Sustained by gazing, and desires die*"
+      - "*Very young.*"
+      - "*Let’s all mourn our dead desires.*"
+      - "*I’ll begin—Ding, dong, bell.*"
+
+  - sp: ALL
+    o:
+      - "Ding, dong, bell."
+    m:
+      - "  Ding, dong, bell."
+
+  - sp: BASSANIO
+    o:
+      - "So may the outward shows be least themselves."
+      - "The world is still deceived with ornament."
+      - "In law, what plea so tainted and corrupt"
+      - "But, being seasoned with a gracious voice,"
+      - "Obscures the show of evil? In religion,"
+      - "What damnèd error, but some sober brow"
+      - "Will bless it and approve it with a text,"
+      - "Hiding the grossness with fair ornament?"
+      - "There is no vice so simple but assumes"
+      - "Some mark of virtue on his outward parts."
+      - "How many cowards whose hearts are all as false"
+      - "As stairs of sand wear yet upon their chins"
+      - "The beards of Hercules and frowning Mars,"
+      - "Who, inward searched, have livers white as milk,"
+      - "And these assume but valor’s excrement"
+      - "To render them redoubted. Look on beauty,"
+      - "And you shall see ’tis purchased by the weight,"
+      - "Which therein works a miracle in nature,"
+      - "Making them lightest that wear most of it."
+      - "So are those crispèd snaky golden locks"
+      - "Which maketh such wanton gambols with the wind,"
+      - "Upon supposèd fairness, often known"
+      - "To be the dowry of a second head,"
+      - "The skull that bred them in the sepulcher."
+      - "Thus ornament is but the guilèd shore"
+      - "To a most dangerous sea, the beauteous scarf"
+      - "Veiling an Indian beauty—in a word,"
+      - "The seeming truth which cunning times put on"
+      - "To entrap the wisest. Therefore then, thou gaudy gold,"
+      - "Hard food for Midas, I will none of thee."
+      - "Nor none of thee, thou pale and common drudge"
+      - "’Tween man and man. But thou, thou meagre lead,"
+      - "Which rather threaten’st than dost promise aught,"
+      - "Thy paleness moves me more than eloquence,"
+      - "And here choose I. Joy be the consequence!"
+    m:
+      - "You can’t always judge a book by its cover. People are often tricked by false appearances. In court, someone can deliver a false plea but hide its wickedness with a pretty voice. In religion, don’t serious men defend sins with Scripture, covering up evil with a show of good. Every sin in the world manages to make itself look good somehow. How many people are cowards at heart but wear beards like Hercules or Mars, the god of war? Take another example: beauty. It can be bought by the ounce in makeup, which works miracles. Women who wear it the most are respected the least. It’s the same thing with hair. Curly golden hair moves so nicely in the wind and makes a woman beautiful. But you can buy that kind of hair as a wig, and wigs are made from dead people’s hair. Decoration’s nothing but a danger, meant to trick and trap the viewer. A lovely, cunning shore can distract a man from the perils of a stormy sea, just as a pretty scarf can hide a dangerous dark-skinned beauty. Nowadays, everyone’s fooled by appearances. So I’ll have nothing to do with that gaudy gold box—it’s like the gold that Midas couldn’t eat. And I’ll have nothing to do with the pale silver either, the metal that common coins are made of. But this humble lead one, though it looks too threatening to promise me anything good, moves me more than I can say. So this is the one I choose. I hope I’m happy with my choice!"
+
+  - sp: PORTIA
+    o:
+      - "*(aside)* How all the other passions fleet to air,"
+      - "As doubtful thoughts, and rash-embraced despair,"
+      - "And shuddering fear, and green-eyed jealousy!"
+      - "O love, be moderate. Allay thy ecstasy."
+      - "In measure rein thy joy. Scant this excess."
+      - "I feel too much thy blessing. Make it less,"
+      - "For fear I surfeit."
+    m:
+      - "*(to herself)* All my other emotions are vanishing into thin air, as all my doubts and desperation and fears and jealousy are all flying away! Oh, I need to calm down, make my love and my joy less intense. I’m feeling this too strongly. Please make my love less, or I’m going to overindulge, making myself sick."
+
+  - sp: BASSANIO
+    o:
+      - "*(opening the lead casket)*"
+      - "  What find I here?"
+      - "Fair Portia’s counterfeit! What demigod"
+      - "Hath come so near creation? Move these eyes?"
+      - "Or whether, riding on the balls of mine,"
+      - "Seem they in motion? Here are severed lips,"
+      - "Parted with sugar breath. So sweet a bar"
+      - "Should sunder such sweet friends. Here in her hairs,"
+      - "The painter plays the spider and hath woven"
+      - "A golden mesh t’ entrap the hearts of men"
+      - "Faster than gnats in cobwebs. But her eyes—"
+      - "How could he see to do them? Having made one,"
+      - "Methinks it should have power to steal both his"
+      - "And leave itself unfurnished. Yet look how far"
+      - "The substance of my praise doth wrong this shadow"
+      - "In underprizing it, so far this shadow"
+      - "Doth limp behind the substance. Here’s the scroll,"
+      - "The continent and summary of my fortune."
+      - "*(reads)*"
+      - "“You that choose not by the view,"
+      - "Chance as fair and choose as true."
+      - "Since this fortune falls to you,"
+      - "Be content and seek no new."
+      - "If you be well pleased with this"
+      - "And hold your fortune for your bliss,"
+      - "Turn you where your lady is"
+      - "And claim her with a loving kiss.”"
+    m:
+      - "*(opening the lead box)* What do we have here? A picture of beautiful Portia! What artist captured her likeness so well? Are these eyes moving? Or do they just seem to move as my eyes move? Her sweet breath forces her lips open, a lovely divider of lovely lips. And look at her hair, looking like a golden mesh to trap the hearts of men, like little flies in a cobweb. The painter was like a spider in creating it so delicately. But her eyes—how could he keep looking at them long enough to paint them? I would’ve expected that when he finished one of them, it would have enraptured him and kept him from painting the other. But I’m giving only faint praise of the picture, just as the picture, as good as it is, is only a faint imitation of the real woman herself. Here’s the scroll that sums up my fate:"
+      - "*(he reads)*"
+      - "“You who don’t judge by looks alone,"
+      - "Have better luck, and make the right choice."
+      - "Since this prize is yours,"
+      - "Be happy with it, and don’t look for a new one."
+      - "If you’re happy with what you’ve won"
+      - "And accept this prize as your blissful destiny,"
+      - "Then turn to where your lady is,"
+      - "And claim her with a loving kiss.”"
+
+  - o:
+      - "A gentle scroll. Fair lady, by your leave,"
+      - "I come by note to give and to receive."
+      - "Like one of two contending in a prize"
+      - "That thinks he hath done well in people’s eyes,"
+      - "Hearing applause and universal shout,"
+      - "Giddy in spirit, still gazing in a doubt"
+      - "Whether these pearls of praise be his or no—"
+      - "So, thrice fair lady, stand I even so,"
+      - "As doubtful whether what I see be true"
+      - "Until confirmed, signed, ratified by you."
+    m:
+      - "A nice message. My lady, with your permission, this note authorizes me to give myself to you with a kiss. But I’m in a daze, like someone who’s just won a contest and thinks that all the applause and cheering is for him, but isn’t sure yet. And so, beautiful lady, I’m standing here just like that, wondering whether all this can be true until you tell me it is."
+
+  - sp: PORTIA
+    o:
+      - "You see me, Lord Bassanio, where I stand"
+      - "Such as I am. Though for myself alone"
+      - "I would not be ambitious in my wish"
+      - "To wish myself much better, yet for you"
+      - "I would be trebled twenty times myself—"
+      - "A thousand times more fair, ten thousand times more rich—"
+      - "That only to stand high in your account"
+      - "I might in virtue, beauties, livings, friends"
+      - "Exceed account. But the full sum of me"
+      - "Is sum of something which, to term in gross,"
+      - "Is an unlessoned girl, unschooled, unpracticèd;"
+      - "Happy in this—she is not yet so old"
+      - "But she may learn. Happier than this—"
+      - "She is not bred so dull but she can learn."
+      - "Happiest of all is that her gentle spirit"
+      - "Commits itself to yours to be directed"
+      - "As from her lord, her governor, her king."
+      - "Myself and what is mine to you and yours"
+      - "Is now converted. But now I was the lord"
+      - "Of this fair mansion, master of my servants,"
+      - "Queen o’er myself. And even now, but now,"
+      - "This house, these servants, and this same myself"
+      - "Are yours, my lord’s. I give them with this ring,"
+      - "Which when you part from, lose, or give away,"
+      - "Let it presage the ruin of your love"
+      - "And be my vantage to exclaim on you."
+      - "*(gives BASSANIO a ring)*"
+    m:
+      - "You see me standing here, Lord Bassanio. What you see is what you get. Though I wouldn’t wish to be better for my own sake, for your sake I wish I were twenty times more than myself—a thousand times more beautiful and ten thousand times richer—just so you might value me more, so my good qualities, beauty, possessions, and friends would be more than you could calculate. What you’re getting is an innocent and inexperienced girl. I’m happy that at least I’m not too old to learn new things. I’m even happier that I’m not stupid, and I can learn. I’m happiest of all that I’m yours now, my lord, my king, and you can guide me as you wish. Everything I am and everything I have now belongs to you. Just a minute ago I was the owner of this beautiful mansion, master of these servants, and queen over myself. But as of right this second all these things are yours. With this ring I give them all to you. If you ever give away this ring or lose it, it means our love’s doomed, and I’ll have a right to be angry with you. *(she gives BASSANIO the ring)*"
+
+  - sp: BASSANIO
+    o:
+      - "Madam, you have bereft me of all words."
+      - "Only my blood speaks to you in my veins."
+      - "And there is such confusion in my powers"
+      - "As after some oration fairly spoke"
+      - "By a belovèd prince there doth appear"
+      - "Among the buzzing pleasèd multitude,"
+      - "Where every something, being blent together,"
+      - "Turns to a wild of nothing, save of joy,"
+      - "Expressed and not expressed. But when this ring"
+      - "Parts from this finger, then parts life from hence."
+      - "O, then be bold to say Bassanio’s dead!"
+    m:
+      - "Madam, you’ve left me speechless, but my feelings are responding to your words. I’m as confused as a crowd of people going wild after hearing their prince give a speech. But the day I take this ring off will be the day I die. If you see me without it, you can be confident I’m dead."
+
+  - sp: NERISSA
+    o:
+      - "My lord and lady, it is now our time,"
+      - "That have stood by and seen our wishes prosper,"
+      - "To cry, “Good joy, good joy, my lord and lady!”"
+    m:
+      - "My lord and lady, it’s now our turn, who have been watching as our dreams came true. Now we can shout, “Congratulations, congratulations, my lord and lady!”"
+
+  - sp: GRATIANO
+    o:
+      - "My Lord Bassanio and my gentle lady,"
+      - "I wish you all the joy that you can wish,"
+      - "For I am sure you can wish none from me."
+      - "And when your honors mean to solemnize"
+      - "The bargain of your faith, I do beseech you"
+      - "Even at that time I may be married too."
+    m:
+      - "My Lord Bassanio, and my dear lady, I wish you all the joy I can wish for. And when you get married, I hope I can be married at the same time."
+
+  - sp: BASSANIO
+    o:
+      - "With all my heart, so thou canst get a wife."
+    m:
+      - "Absolutely, if you can find a wife by then."
+
+  - sp: GRATIANO
+    o:
+      - "I thank your lordship, you have got me one."
+      - "My eyes, my lord, can look as swift as yours."
+      - "You saw the mistress, I beheld the maid."
+      - "You loved, I loved. For intermission"
+      - "No more pertains to me, my lord, than you."
+      - "Your fortune stood upon the casket there,"
+      - "And so did mine too, as the matter falls."
+      - "For wooing here until I sweat again,"
+      - "And swearing till my very roof was dry"
+      - "With oaths of love, at last—if promise last—"
+      - "I got a promise of this fair one here"
+      - "To have her love, provided that your fortune"
+      - "Achieved her mistress."
+    m:
+      - "I think I’ve found one already, thanks to you, my lord. I can fall in love just as quickly as you can, and I loved Nerissa as soon as I laid eyes on her. You fell in love with Portia, and I fell in love with Nerissa, because I’m not in the habit of delaying any more than you are, my lord. Your fate depended on those boxes, and it turns out that mine did too. I couldn’t help but chase her. I started making love vows to her till my mouth was dry. Then finally she said she loved me and would marry me if you two got married as well."
+
+  - sp: PORTIA
+    o:
+      - "    Is this true, Nerissa?"
+    m:
+      - "Is that true, Nerissa?"
+
+  - sp: NERISSA
+    o:
+      - "Madam, it is, so you stand pleased withal."
+    m:
+      - "Yes, madam, it is, if it’s all right with you."
+
+  - sp: BASSANIO
+    o:
+      - "And do you, Gratiano, mean good faith?"
+    m:
+      - "And do you mean what you’re saying, Gratiano?"
+
+  - sp: GRATIANO
+    o:
+      - "Yes, faith, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: BASSANIO
+    o:
+      - "Our feast shall be much honored in your marriage."
+    m:
+      - "Then we’d be honored to have you join us in our wedding ceremony."
+
+  - sp: GRATIANO
+    o:
+      - "*(to NERISSA)* We’ll play with them the first boy for a thousand ducats."
+    m:
+      - "*(to NERISSA)* Let’s bet them a thousand ducats that we will have a son first."
+
+  - sp: NERISSA
+    o:
+      - "What, and stake down?"
+    m:
+      - "You want to stake the money down now?"
+
+  - sp: GRATIANO
+    o:
+      - "No, we shall ne’er win at that sport and stake down. But who comes here? Lorenzo and his infidel? What, and my old Venetian friend Salerio?"
+    m:
+      - "Hey, if I lay down my “stake,” I’ll never be able to have a son. But who’s this coming? Lorenzo and his pagan girlfriend? What, and my old Venetian friend Salerio?"
+
+  - os: "Enter LORENZO, JESSICA, and SALERIO, a messenger from Venice"
+    ms: "LORENZO and JESSICA enter with SALERIO, a messenger from Venice."
+
+  - sp: BASSANIO
+    o:
+      - "Lorenzo and Salerio, welcome hither,"
+      - "If that the youth of my new interest here"
+      - "Have power to bid you welcome."
+      - "*(to PORTIA)*"
+      - "    By your leave,"
+      - "I bid my very friends and countrymen,"
+      - "Sweet Portia, welcome."
+    m:
+      - "Welcome, Lorenzo and Salerio. I hope my position in this new house is firm enough to allow me the right to welcome my friends. *(to PORTIA)* With your permission, Portia, I welcome my good friends and countrymen."
+
+  - sp: PORTIA
+    o:
+      - "    So do I, my lord."
+      - "They are entirely welcome."
+    m:
+      - "I do too, my lord. They’re entirely welcome."
+
+  - sp: LORENZO
+    o:
+      - "*(to BASSANIO)* I thank your honor. For my part, my lord,"
+      - "My purpose was not to have seen you here."
+      - "But meeting with Salerio by the way,"
+      - "He did entreat me, past all saying nay,"
+      - "To come with him along."
+    m:
+      - "*(to BASSANIO)* Thank you, sir. I didn’t intend to come see you. But I ran into Salerio on the way, and he begged me to come along with him until I couldn’t say no."
+
+  - sp: SALERIO
+    o:
+      - "    I did, my lord."
+      - "And I have reason for it. Signor Antonio"
+      - "Commends him to you."
+      - "*(gives BASSANIO letter)*"
+    m:
+      - "That’s true, and with good reason. This letter is for you from Signor Antonio. *(he gives BASSANIO a letter)*"
+
+  - sp: BASSANIO
+    o:
+      - "    Ere I ope his letter,"
+      - "I pray you tell me how my good friend doth."
+    m:
+      - "Before I open this letter, please tell me how my good friend is doing."
+
+  - sp: SALERIO
+    o:
+      - "Not sick, my lord, unless it be in mind,"
+      - "Nor well, unless in mind. His letter there"
+      - "Will show you his estate."
+    m:
+      - "He’s not sick, my lord, but he’s very upset, and his problems are serious. His letter will tell you how he’s doing."
+
+  - os: "BASSANIO opens the letter and reads it"
+    ms: "BASSANIO opens the letter and reads it."
+
+  - sp: GRATIANO
+    o:
+      - "*(indicating JESSICA)*"
+      - "Nerissa, cheer yond stranger. Bid her welcome.—"
+      - "Your hand, Salerio. What’s the news from Venice?"
+      - "How doth that royal merchant, good Antonio?"
+      - "I know he will be glad of our success."
+      - "We are the Jasons, we have won the fleece."
+    m:
+      - "*(pointing at JESSICA)* Nerissa, welcome this stranger. —Salerio, welcome. Any news from Venice? How’s the great merchant Antonio doing? I know he’ll be happy to hear of our success. We’re like the ancient hero Jason, we went looking for the Golden Fleece and we won it!"
+
+  - sp: SALERIO
+    o:
+      - "I would you had won the fleece that he hath lost."
+    m:
+      - "I wish you’d won the fleece he lost."
+
+  - sp: PORTIA
+    o:
+      - "There are some shrewd contents in yond same paper"
+      - "That steals the color from Bassanio’s cheek."
+      - "Some dear friend dead, else nothing in the world"
+      - "Could turn so much the constitution"
+      - "Of any constant man. What, worse and worse?—"
+      - "With leave, Bassanio, I am half yourself,"
+      - "And I must freely have the half of anything"
+      - "That this same paper brings you."
+    m:
+      - "Something bad in that letter is making Bassanio turn pale. Some good friend of his must have died, because nothing else in the world could change a man so much. What, does the news only get worse?—Please, Bassanio, I’m half of you, so let me bear half the burden this letter brings you."
+
+  - sp: BASSANIO
+    o:
+      - "    O sweet Portia,"
+      - "Here are a few of the unpleasant’st words"
+      - "That ever blotted paper. Gentle lady,"
+      - "When I did first impart my love to you,"
+      - "I freely told you, all the wealth I had"
+      - "Ran in my veins. I was a gentleman,"
+      - "And then I told you true. And yet, dear lady,"
+      - "Rating myself at nothing, you shall see"
+      - "How much I was a braggart. When I told you"
+      - "My state was nothing, I should then have told you"
+      - "That I was worse than nothing, for indeed"
+      - "I have engaged myself to a dear friend,"
+      - "Engaged my friend to his mere enemy"
+      - "To feed my means."
+      - "  Here is a letter, lady,"
+      - "The paper as the body of my friend,"
+      - "And every word in it a gaping wound,"
+      - "Issuing life blood.—But is it true, Salerio?"
+      - "Have all his ventures failed? What, not one hit?"
+      - "From Tripolis, from Mexico and England,"
+      - "From Lisbon, Barbary, and India?"
+      - "And not one vessel ’scape the dreadful touch"
+      - "Of merchant-marring rocks?"
+    m:
+      - "Oh Portia, these are some of the worst words that ever stained a piece of paper. My darling, when I gave my love to you, I told you that all the wealth I had ran within my veins—that I have noble blood, but no money. When I said that, I told you the truth. But my dear, when I said I was worth nothing, I was actually bragging—I should’ve said that I was worse than nothing. I’ve borrowed money from a dear friend who in turn borrowed money from his mortal enemy for my sake. Here’s a letter, my dear. The paper’s like my friend’s body, and every word in it is a bleeding wound on that body.—But is it true, Salerio? Have all his business ventures failed? Not even one success? He had ships to Tripolis, Mexico, England, Lisbon, North Africa, and India, and not one of these ships avoided the rocks?"
+
+  - sp: SALERIO
+    o:
+      - "    Not one, my lord."
+      - "Besides, it should appear that if he had"
+      - "The present money to discharge the Jew,"
+      - "He would not take it. Never did I know"
+      - "A creature that did bear the shape of man"
+      - "So keen and greedy to confound a man."
+      - "He plies the duke at morning and at night,"
+      - "And doth impeach the freedom of the state"
+      - "If they deny him justice. Twenty merchants,"
+      - "The duke himself, and the magnificoes"
+      - "Of greatest port have all persuaded with him."
+      - "But none can drive him from the envious plea"
+      - "Of forfeiture, of justice, and his bond."
+    m:
+      - "Not one, my lord. Anyway, even if he had the money now, the Jew probably wouldn’t take it. I’ve never seen a creature with a human shape who was so eager to destroy a man. He’s at the duke’s morning and night, accusing the state of harming free trade if they deny him justice. Twenty merchants, the duke himself, and the highest-ranking Venetian nobles have all tried to persuade him to forget his contract, but nobody can do it. He’s determined to get the penalty specified in his contract with Antonio."
+
+  - sp: JESSICA
+    o:
+      - "When I was with him I have heard him swear"
+      - "To Tubal and to Chus, his countrymen,"
+      - "That he would rather have Antonio’s flesh"
+      - "Than twenty times the value of the sum"
+      - "That he did owe him. And I know, my lord,"
+      - "If law, authority, and power deny not,"
+      - "It will go hard with poor Antonio."
+    m:
+      - "When I was still living with him I heard him swear to Tubal and Cush, his countrymen, that he’d rather have Antonio’s flesh than twenty times the sum Antonio owed. And I know that unless the law intervenes, it’ll be bad news for poor Antonio."
+
+  - sp: PORTIA
+    o:
+      - "Is it your dear friend that is thus in trouble?"
+    m:
+      - "Is this your good friend who’s in so much trouble?"
+
+  - sp: BASSANIO
+    o:
+      - "The dearest friend to me, the kindest man,"
+      - "The best conditioned and unwearied spirit"
+      - "In doing courtesies, and one in whom"
+      - "The ancient Roman honor more appears"
+      - "Than any that draws breath in Italy."
+    m:
+      - "Yes, he’s my best friend, the kindest man and most courteous to others. He’s more honorable than anyone else in Italy."
+
+  - sp: PORTIA
+    o:
+      - "What sum owes he the Jew?"
+    m:
+      - "How much does he owe the Jew?"
+
+  - sp: BASSANIO
+    o:
+      - "For me, three thousand ducats."
+    m:
+      - "Three thousand ducats."
+
+  - sp: PORTIA
+    o:
+      - "    What, no more?"
+      - "Pay him six thousand and deface the bond!"
+      - "Double six thousand, and then treble that,"
+      - "Before a friend of this description"
+      - "Shall lose a hair through Bassanio’s fault."
+      - "First go with me to church and call me wife,"
+      - "And then away to Venice to your friend."
+      - "For never shall you lie by Portia’s side"
+      - "With an unquiet soul. You shall have gold"
+      - "To pay the petty debt twenty times over."
+      - "When it is paid, bring your true friend along."
+      - "My maid Nerissa and myself meantime"
+      - "Will live as maids and widows. Come, away!"
+      - "For you shall hence upon your wedding day."
+      - "Bid your friends welcome, show a merry cheer."
+      - "Since you are dear bought, I will love you dear."
+      - "But let me hear the letter of your friend."
+    m:
+      - "What, that’s all? Pay him six thousand and cancel the debt. I’d pay twelve thousand before I’d let a friend like that suffer in the slightest because of you. First come with me to church to get married. Then you can leave for Venice to see your friend. You have to go, because you’ll never sleep next to me peacefully without settling this. I’ll give you enough gold to pay back your debt twenty times over. When it’s paid, bring your friend back. Until you get back, Nerissa and I will live like virgins and widows. Come on, let’s go, because you’re going to leave me the same day we get married. Put on a happy face, and welcome your friends. Since it’s costing me a lot to marry you, I’ll think of you as even more precious. But let me hear the letter from your friend."
+
+  - sp: BASSANIO
+    o:
+      - "*(reads)*"
+      - "“Sweet Bassanio, my ships have all miscarried. My creditors grow cruel. My estate is very low. My bond to the Jew is forfeit. And since in paying it, it is impossible I should live, all debts are cleared between you and I if I might but see you at my death. Notwithstanding, use your pleasure. If your love do not persuade you to come, let not my letter.”"
+    m:
+      - "*(he reads)* “Dear Bassanio, my ships have all been wrecked. My creditors are getting mean. My money’s almost run out. I couldn’t pay my debt to the Jew on the due date. Since I’ll certainly die when he takes his collateral out of my flesh, all debts are cleared between you and me if I can just see you again before I die. In any case, do what you want. If your affection for me doesn’t convince you to come, don’t let my letter do so.”"
+
+  - sp: PORTIA
+    o:
+      - "O love, dispatch all business and be gone!"
+    m:
+      - "Oh, my darling, make your arrangements and go!"
+
+  - sp: BASSANIO
+    o:
+      - "Since I have your good leave to go away,"
+      - "I will make haste. But till I come again,"
+      - "No bed shall e’er be guilty of my stay,"
+      - "No rest be interposer ’twixt us twain."
+    m:
+      - "Since you’re letting me leave, I’ll hurry. But I won’t sleep till I get back."
+
+  - os: "Exeunt"
+    ms: "They exit."

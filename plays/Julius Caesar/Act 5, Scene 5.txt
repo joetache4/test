@@ -1,0 +1,308 @@
+play: Julius Caesar
+title: Act 5, Scene 5
+group: 5
+order: 17
+text:
+  - os: "Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS"
+    ms: "BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS enter."
+
+  - sp: BRUTUS
+    o:
+      - "Come, poor remains of friends, rest on this rock."
+    m:
+      - "Come, last of my friends, rest on this rock."
+
+  - sp: CLITUS
+    o:
+      - "Statilius showed the torchlight but, my lord,"
+      - "He came not back. He is or ta’en or slain."
+    m:
+      - "Statilius waved the torchlight at us, but he hasn’t come back. He’s been captured or killed."
+
+  - sp: BRUTUS
+    o:
+      - "Sit thee down, Clitus. Slaying is the word."
+      - "It is a deed in fashion. Hark thee, Clitus."
+      - "*(whispers to CLITUS)*"
+    m:
+      - "Sit down, Clitus. Killed, most likely—it’s become a trend. Listen, Clitus. *(he whispers to CLITUS)*"
+
+  - sp: CLITUS
+    o:
+      - "What, I, my lord? No, not for all the world."
+    m:
+      - "Who, me, my lord? No, not for all the world."
+
+  - sp: BRUTUS
+    o:
+      - "Peace then! No words."
+    m:
+      - "Silence, then! Don’t give it away."
+
+  - sp: CLITUS
+    o:
+      - "    I’ll rather kill myself."
+    m:
+      - "I’d rather kill myself."
+
+  - sp: BRUTUS
+    o:
+      - "Hark thee, Dardanius."
+      - "*(whispers to DARDANIUS)*"
+    m:
+      - "Listen, Dardanius. *(he whispers toDARDANIUS)*"
+
+  - sp: DARDANIUS
+    o:
+      - "    Shall I do such a deed?"
+    m:
+      - "Would I dare do something like that?"
+
+  - sp: CLITUS
+    o:
+      - "O Dardanius!"
+    m:
+      - "Oh Dardanius!"
+
+  - sp: DARDANIUS
+    o:
+      - "O Clitus!"
+    m:
+      - "Oh Clitus!"
+
+  - sp: CLITUS
+    o:
+      - "*(aside to DARDANIUS)* What ill request did Brutus make to thee?"
+    m:
+      - "*(speaking so that only DARDANIUS can hear)* What awful thing did Brutus ask of you?"
+
+  - sp: DARDANIUS
+    o:
+      - "*(aside to CLITUS)* To kill him, Clitus. Look, he meditates."
+    m:
+      - "*(speaking so that only CLITUS can hear)* To kill him, Clitus. Look, he’s meditating on what to do."
+
+  - sp: CLITUS
+    o:
+      - "*(aside to DARDANIUS)* Now is that noble vessel full of grief, That it runs over even at his eyes."
+    m:
+      - "*(speaking so that only DARDANIUS can hear)* That noble man is so full of grief that it spills out of his eyes."
+
+  - sp: BRUTUS
+    o:
+      - "Come hither, good Volumnius. List a word."
+    m:
+      - "Come here, good Volumnius. Listen a minute."
+
+  - sp: VOLUMNIUS
+    o:
+      - "What says my lord?"
+    m:
+      - "What is it, my lord?"
+
+  - sp: BRUTUS
+    o:
+      - "    Why this, Volumnius:"
+      - "The ghost of Caesar hath appeared to me"
+      - "Two several times by night. At Sardis once,"
+      - "And this last night here in Philippi fields."
+      - "I know my hour is come."
+    m:
+      - "Just this, Volumnius. The ghost of Caesar has appeared to me at night twice. Once at Sardis and once last night, here in Philippi fields. I know that my hour has come."
+
+  - sp: VOLUMNIUS
+    o:
+      - "    Not so, my lord."
+    m:
+      - "No, it hasn’t, my lord."
+
+  - sp: BRUTUS
+    o:
+      - "Nay, I am sure it is, Volumnius."
+      - "Thou seest the world, Volumnius, how it goes."
+      - "Our enemies have beat us to the pit."
+    m:
+      - "No, I’m sure it has, Volumnius. You see how the world goes, Volumnius. Our enemies have driven us to the edge of the grave."
+
+  - os: "Low alarums"
+    ms: "Faint sounds of battle."
+
+  - o:
+      - "It is more worthy to leap in ourselves"
+      - "Than tarry till they push us. Good Volumnius,"
+      - "Thou know’st that we two went to school together."
+      - "Even for that our love of old, I prithee,"
+      - "Hold thou my sword hilts, whilst I run on it."
+    m:
+      - "It’s nobler to leap in ourselves than dawdle until they push us. Good Volumnius, you know that we went to school together. For the sake of our old friendship, I ask you, hold my sword handle while I run on it."
+
+  - sp: VOLUMNIUS
+    o:
+      - "That’s not an office for a friend, my lord."
+    m:
+      - "That’s not a job for a friend, my lord."
+
+  - os: "Alarum still"
+    ms: "Continued sounds of battle."
+
+  - sp: CLITUS
+    o:
+      - "Fly, fly, my lord. There is no tarrying here."
+    m:
+      - "Run, run, my lord. We can’t wait here."
+
+  - sp: BRUTUS
+    o:
+      - "Farewell to you.—And you.—And you, Volumnius."
+      - "—Strato, thou hast been all this while asleep."
+      - "Farewell to thee too, Strato.—Countrymen,"
+      - "My heart doth joy that yet in all my life"
+      - "I found no man but he was true to me."
+      - "I shall have glory by this losing day"
+      - "More than Octavius and Mark Antony"
+      - "By this vile conquest shall attain unto."
+      - "So fare you well at once, for Brutus’ tongue"
+      - "Hath almost ended his life’s history."
+      - "Night hangs upon mine eyes. My bones would rest,"
+      - "That have but labored to attain this hour."
+    m:
+      - "Farewell to you, and you, and you, Volumnius. Strato, you’ve slept this whole time. Farewell to you too, Strato. Countrymen, my heart rejoices that in all my life I knew no men who were untrue to me. I’ll have glory in this losing day—more than Octavius and Mark Antony will gain by their foul conquest. So farewell, all, for my tongue has almost finished with its life. I can’t see ahead of me. My bones want to rest after helping me up to this hour."
+
+  - os: "Alarum. Cry within “Fly, fly, fly!”"
+    ms: "Sounds of battle. Offstage, someone cries, “Run, run, run!”"
+
+  - sp: CLITUS
+    o:
+      - "Fly, my lord, fly."
+    m:
+      - "Run, my lord, run."
+
+  - sp: BRUTUS
+    o:
+      - "    Hence. I will follow."
+    m:
+      - "Go on! I’ll follow."
+
+  - os: "Exeunt CLITUS, DARDANIUS, and VOLUMNIUS"
+    ms: "CLITUS, DARDANIUS, and VOLUMNIUS exit."
+
+  - o:
+      - "I prithee, Strato, stay thou by thy lord."
+      - "Thou art a fellow of a good respect."
+      - "Thy life hath had some smatch of honor in it."
+      - "Hold then my sword and turn away thy face"
+      - "While I do run upon it. Wilt thou, Strato?"
+    m:
+      - "I beg you, Strato, stay by me. You’re a man with a good reputation. Your life has had honor in it. Then, hold my sword and turn your face away while I run on it. Will you, Strato?"
+
+  - sp: STRATO
+    o:
+      - "Give me your hand first."
+      - "*(holds BRUTUS’ sword)* Fare you well, my lord."
+    m:
+      - "Give me your hand, first. *(holds BRUTUS’ sword)* Farewell, my lord."
+
+  - sp: BRUTUS
+    o:
+      - "Farewell, good Strato."
+      - "*(runs on his sword)*    Caesar, now be still."
+      - "I killed not thee with half so good a will."
+      - "*(dies)*"
+    m:
+      - "Farewell, good Strato. *(runs on his sword)* Caesar, you can rest now. I didn’t kill you half as willingly. *(he dies)*"
+
+  - os: "Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA, LUCILLIUS, and the army"
+    ms: "Sounds of battle. Trumpets sound a retreat. OCTAVIUS, ANTONY, MESSALA, and LUCILLIUS enter with the army."
+
+  - sp: OCTAVIUS
+    o:
+      - "What man is that?"
+    m:
+      - "What man is that?"
+
+  - sp: MESSALA
+    o:
+      - "My master’s man.—Strato, where is thy master?"
+    m:
+      - "My master’s man. Strato, where’s your master?"
+
+  - sp: STRATO
+    o:
+      - "Free from the bondage you are in, Messala."
+      - "The conquerors can but make a fire of him."
+      - "For Brutus only overcame himself,"
+      - "And no man else hath honor by his death."
+    m:
+      - "Free from the bondage you are in, Messala. The conquerors can only make a fire of him, because only Brutus triumphed over himself, and no other man gets to triumph in his death."
+
+  - sp: LUCILLIUS
+    o:
+      - "So Brutus should be found.—I thank thee, Brutus,"
+      - "That thou hast proved Lucillius’ saying true."
+    m:
+      - "It’s fitting that Brutus be found like this. Thank you, Brutus, for proving my prediction true."
+
+  - sp: OCTAVIUS
+    o:
+      - "All that served Brutus, I will entertain them."
+      - "—Fellow, wilt thou bestow thy time with me?"
+    m:
+      - "I’ll take all who served Brutus into my service. You, will you join with me?"
+
+  - sp: STRATO
+    o:
+      - "Ay, if Messala will prefer me to you."
+    m:
+      - "Yes, if Messala recommends me to you."
+
+  - sp: OCTAVIUS
+    o:
+      - "Do so, good Messala."
+    m:
+      - "Do so, good Messala."
+
+  - sp: MESSALA
+    o:
+      - "    How died my master, Strato?"
+    m:
+      - "How did my master die, Strato?"
+
+  - sp: STRATO
+    o:
+      - "I held the sword and he did run on it."
+    m:
+      - "I held the sword and he ran on it."
+
+  - sp: MESSALA
+    o:
+      - "Octavius, then take him to follow thee,"
+      - "That did the latest service to my master."
+    m:
+      - "Then take this man into your service, Octavius, for he did the final service to my master."
+
+  - sp: ANTONY
+    o:
+      - "This was the noblest Roman of them all."
+      - "All the conspirators save only he"
+      - "Did that they did in envy of great Caesar."
+      - "He only in a general honest thought"
+      - "And common good to all, made one of them."
+      - "His life was gentle, and the elements"
+      - "So mixed in him that Nature might stand up"
+      - "And say to all the world, “This was a man.”"
+    m:
+      - "This was the noblest Roman of them all. All the rest of the conspirators acted out of jealousy of great Caesar. Only he acted from honesty and for the general good. His life was gentle, and the elements mixed so well in him that Nature might stand up and say to all the world, “This was a man.”"
+
+  - sp: OCTAVIUS
+    o:
+      - "According to his virtue let us use him,"
+      - "With all respect and rites of burial."
+      - "Within my tent his bones tonight shall lie"
+      - "Most like a soldier, ordered honorably."
+      - "So call the field to rest, and let’s away"
+      - "To part the glories of this happy day."
+    m:
+      - "Let’s treat him according to his virtue, with all the respect and rituals of burial. His body will lie in my tent tonight, with the honorable observance that suits a soldier. So order the armies to rest, and let’s go home to share the glories of this happy day."
+
+  - os: "Exeunt omnes"
+    ms: "Everyone exits."

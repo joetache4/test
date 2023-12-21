@@ -1,0 +1,687 @@
+play: Hamlet
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter CLAUDIUS, king of Denmark; GERTRUDE the queen; HAMLET; POLONIUS; his son LAERTES; and his daughter OPHELIA; LORDS attendant"
+    ms: "CLAUDIUS, the king of Denmark, enters, along with GERTRUDE the queen, HAMLET, POLONIUS, POLONIUS’ son LAERTES and daughter OPHELIA, and LORDS who wait on the king."
+
+  - sp: CLAUDIUS
+    o:
+      - "Though yet of Hamlet our dear brother’s death"
+      - "The memory be green, and that it us befitted"
+      - "To bear our hearts in grief and our whole kingdom"
+      - "To be contracted in one brow of woe,"
+      - "Yet so far hath discretion fought with nature"
+      - "That we with wisest sorrow think on him"
+      - "Together with remembrance of ourselves."
+      - "Therefore our sometime sister, now our queen,"
+      - "Th’ imperial jointress to this warlike state,"
+      - "Have we—as ’twere with a defeated joy,"
+      - "With an auspicious and a dropping eye,"
+      - "With mirth in funeral and with dirge in marriage,"
+      - "In equal scale weighing delight and dole—"
+      - "Taken to wife. Nor have we herein barred"
+      - "Your better wisdoms, which have freely gone"
+      - "With this affair along. For all, our thanks."
+      - "Now follows that you know. Young Fortinbras,"
+      - "Holding a weak supposal of our worth"
+      - "Or thinking by our late dear brother’s death"
+      - "Our state to be disjoint and out of frame,"
+      - "Colleaguèd with the dream of his advantage,"
+      - "He hath not failed to pester us with message"
+      - "Importing the surrender of those lands"
+      - "Lost by his father, with all bonds of law,"
+      - "To our most valiant brother. So much for him."
+    m:
+      - "Although I still have fresh memories of my brother the elder Hamlet’s death, and though it was proper to mourn him throughout our kingdom, life still goes on—I think it’s wise to mourn him while also thinking about my own well being. Therefore, I’ve married my former sister-in-law, the queen, with mixed feelings of happiness and sadness. I know that in marrying Gertrude I’m only doing what all of you have wisely advised all along—for which I thank you. Now, down to business. You all know what’s happening. Young Fortinbras, underestimating my strength or imagining that the death of the king has thrown my country into turmoil, dreams of getting the better of me, and never stops pestering me with demands that I surrender the territory his father lost to the elder Hamlet, my dead brother-in-law. So much for Fortinbras."
+
+  - os: "Enter VOLTEMAND and CORNELIUS"
+    ms: "VOLTEMAND and CORNELIUS enter."
+
+  - o:
+      - "Now for ourself and for this time of meeting"
+      - "Thus much the business is: we have here writ"
+      - "To Norway, uncle of young Fortinbras—"
+      - "Who, impotent and bedrid, scarcely hears"
+      - "Of this his nephew’s purpose—to suppress"
+      - "His further gait herein, in that the levies,"
+      - "The lists, and full proportions are all made"
+      - "Out of his subject; and we here dispatch"
+      - "You, good Cornelius, and you, Voltemand,"
+      - "For bearers of this greeting to old Norway,"
+      - "Giving to you no further personal power"
+      - "To business with the king more than the scope"
+      - "Of these dilated articles allow. *(gives them a paper)*"
+      - "Farewell, and let your haste commend your duty."
+    m:
+      - "Now, here’s what needs to be done. I’ve written to Fortinbras’ uncle, the present head of Norway, an old bedridden man who knows next to nothing about his nephew’s plans. I’ve told the uncle to stop those plans, which he has the power to do, since all the troops assembled by young Fortinbras are Norwegian, and thus under the uncle’s control. I’m giving the job of delivering this letter to you, good Cornelius, and you, Voltemand. Your business in Norway will be limited to this task. *(he gives them a paper)* Now good-bye. Show your loyalty by leaving quickly, rather than with elaborate speeches."
+
+  - sp: CORNELIUS, VOLTEMAND
+    o:
+      - "In that and all things will we show our duty."
+    m:
+      - "We’ll do our duty to you in that and everything else."
+
+  - sp: CLAUDIUS
+    o:
+      - "We doubt it nothing. Heartily farewell."
+    m:
+      - "I have no doubt you will. Good-bye."
+
+  - os: "Exeunt VOLTEMAND and CORNELIUS"
+    ms: "CORNELIUS and VOLTEMAND exit."
+
+  - o:
+      - "And now, Laertes, what’s the news with you?"
+      - "You told us of some suit. What is ’t, Laertes?"
+      - "You cannot speak of reason to the Dane"
+      - "And lose your voice. What wouldst thou beg, Laertes,"
+      - "That shall not be my offer, not thy asking?"
+      - "The head is not more native to the heart,"
+      - "The hand more instrumental to the mouth,"
+      - "Than is the throne of Denmark to thy father."
+      - "What wouldst thou have, Laertes?"
+    m:
+      - "And now, Laertes, what do you have to tell me? You have a favor you to ask of me. What is it, Laertes? You’ll never waste your words when talking to the king of Denmark. What could you ever ask for that I wouldn’t give you? Your father and the Danish throne are as close as the mind and the heart, or the hand and the mouth. What would you like, Laertes?"
+
+  - sp: LAERTES
+    o:
+      - "    My dread lord,"
+      - "Your leave and favor to return to France,"
+      - "From whence though willingly I came to Denmark"
+      - "To show my duty in your coronation,"
+      - "Yet now, I must confess, that duty done,"
+      - "My thoughts and wishes bend again toward France"
+      - "And bow them to your gracious leave and pardon."
+    m:
+      - "My lord, I want your permission to go back to France, which I left to come to Denmark for your coronation. I confess, my thoughts are on France, now that my duty is done. Please, let me go."
+
+  - sp: CLAUDIUS
+    o:
+      - "Have you your father’s leave? What says Polonius?"
+    m:
+      - "Do you have your father’s permission? What does Polonius say?"
+
+  - sp: POLONIUS
+    o:
+      - "He hath, my lord, wrung from me my slow leave"
+      - "By laborsome petition, and at last"
+      - "Upon his will I sealed my hard consent."
+      - "I do beseech you, give him leave to go."
+    m:
+      - "My son has worn me down by asking me so many times. In the end I grudgingly consented. I beg you, let him go."
+
+  - sp: CLAUDIUS
+    o:
+      - "Take thy fair hour, Laertes. Time be thine,"
+      - "And thy best graces spend it at thy will.—"
+      - "But now, my cousin Hamlet, and my son—"
+    m:
+      - "In that case, leave when you like, Laertes, and spend your time however you wish. I hereby grant your request, and hope you have a good time. And now, Hamlet, my nephew and my son—"
+
+  - sp: HAMLET
+    o:
+      - "*(aside)* A little more than kin and less than kind."
+    m:
+      - "*(speaking so no one else can hear)* Too many family ties there for me."
+
+  - sp: CLAUDIUS
+    o:
+      - "How is it that the clouds still hang on you?"
+    m:
+      - "Why are you still so gloomy, with a cloud hanging over you?"
+
+  - sp: HAMLET
+    o:
+      - "Not so, my lord. I am too much i’ the sun."
+    m:
+      - "It’s not true, sir. Your son is out in the sun."
+
+  - sp: GERTRUDE
+    o:
+      - "Good Hamlet, cast thy nighted color off,"
+      - "And let thine eye look like a friend on Denmark."
+      - "Do not forever with thy vailèd lids"
+      - "Seek for thy noble father in the dust."
+      - "Thou know’st ’tis common. All that lives must die,"
+      - "Passing through nature to eternity."
+    m:
+      - "My dear Hamlet, stop wearing these black clothes, and be friendly to the king. You can’t spend your whole life with your eyes to the ground remembering your noble father. It happens all the time, what lives must die eventually, passing to eternity."
+
+  - sp: HAMLET
+    o:
+      - "Ay, madam, it is common."
+    m:
+      - "Yes, mother, it happens all the time."
+
+  - sp: GERTRUDE
+    o:
+      - "    If it be,"
+      - "Why seems it so particular with thee?"
+    m:
+      - "So why does it seem so particular to you?"
+
+  - sp: HAMLET
+    o:
+      - "“Seems,” madam? Nay, it is. I know not “seems.”"
+      - "’Tis not alone my inky cloak, good mother,"
+      - "Nor customary suits of solemn black,"
+      - "Nor windy suspiration of forced breath,"
+      - "No, nor the fruitful river in the eye,"
+      - "Nor the dejected ’havior of the visage,"
+      - "Together with all forms, moods, shapes of grief,"
+      - "That can denote me truly. These indeed “seem,”"
+      - "For they are actions that a man might play."
+      - "But I have that within which passeth show,"
+      - "These but the trappings and the suits of woe."
+    m:
+      - "“Seem,” mother? No, it *is*. I don’t know what you mean by “seem.” Neither my black clothes, my dear mother, nor my heavy sighs, nor my weeping, nor my downcast eyes, nor any other display of grief can show what I really feel. It’s true that all these things “seem” like grief, since a person could use them to fake grief if he wanted to. But I’ve got more real grief inside me that you could ever see on the surface. These clothes are just a hint of it."
+
+  - sp: CLAUDIUS
+    o:
+      - "’Tis sweet and commendable in your nature, Hamlet,"
+      - "To give these mourning duties to your father."
+      - "But you must know your father lost a father,"
+      - "That father lost, lost his, and the survivor bound"
+      - "In filial obligation for some term"
+      - "To do obsequious sorrow. But to persever"
+      - "In obstinate condolement is a course"
+      - "Of impious stubbornness. ’Tis unmanly grief."
+      - "It shows a will most incorrect to heaven,"
+      - "A heart unfortified, a mind impatient,"
+      - "An understanding simple and unschooled."
+      - "For what we know must be and is as common"
+      - "As any the most vulgar thing to sense,"
+      - "Why should we in our peevish opposition"
+      - "Take it to heart? Fie! ’Tis a fault to heaven,"
+      - "A fault against the dead, a fault to nature,"
+      - "To reason most absurd, whose common theme"
+      - "Is death of fathers, and who still hath cried,"
+      - "From the first corse till he that died today,"
+      - "“This must be so.” We pray you, throw to earth"
+      - "This unprevailing woe, and think of us"
+      - "As of a father. For let the world take note,"
+      - "You are the most immediate to our throne,"
+      - "And with no less nobility of love"
+      - "Than that which dearest father bears his son"
+      - "Do I impart toward you. For your intent"
+      - "In going back to school in Wittenberg,"
+      - "It is most retrograde to our desire."
+      - "And we beseech you, bend you to remain"
+      - "Here in the cheer and comfort of our eye,"
+      - "Our chiefest courtier, cousin, and our son."
+    m:
+      - "Hamlet, you are so sweet and such a good son to mourn your father like this. But you have to remember, that your father lost his father, who lost his father before him, and every time, each son has had to mourn his father for a certain period. But overdoing it is just stubborn. It’s not manly. It’s not what God wants, and it betrays a vulnerable heart and an ignorant and weak mind. Since we know that everyone must die sooner or later, why should we take it to heart? You’re committing a crime against heaven, against the dead, and against nature. And it’s irration-al, since the truth is that all fathers must die. Please give up this useless mourning of yours and start thinking of me as your new father. Because everyone knows that you are the man closest to this throne, and I love you just as much as any father loves his son. And your plans for going back to Wittenberg are not what I want. I’m asking you now to stay here in my company as the number-one member of my court, my nephew and now my son too."
+
+  - sp: GERTRUDE
+    o:
+      - "Let not thy mother lose her prayers, Hamlet."
+      - "I pray thee, stay with us. Go not to Wittenberg."
+    m:
+      - "Please answer my prayers, Hamlet, and stay with us. Don’t go back to Wittenberg."
+
+  - sp: HAMLET
+    o:
+      - "I shall in all my best obey you, madam."
+    m:
+      - "I’ll obey you as well as I can, ma’am."
+
+  - sp: CLAUDIUS
+    o:
+      - "Why, ’tis a loving and a fair reply."
+      - "Be as ourself in Denmark.—Madam, come."
+      - "This gentle and unforced accord of Hamlet"
+      - "Sits smiling to my heart, in grace whereof"
+      - "No jocund health that Denmark drinks today"
+      - "But the great cannon to the clouds shall tell,"
+      - "And the king’s rouse the heavens shall bruit again,"
+      - "Respeaking earthly thunder. Come away."
+    m:
+      - "That’s the right answer—it shows your love. Stay in Denmark like us.—My dear wife, come. Hamlet’s agreeing to stay makes me happy, and every merry toast I’ll drink today will be heard as far as the clouds overhead. My drinking will be echoed in the heavens. Let’s go."
+
+  - os: "Flourish. Exeunt all but HAMLET"
+    ms: "Trumpets play. Everyone except HAMLET exits."
+
+  - sp: HAMLET
+    o:
+      - "Oh, that this too, too sullied flesh would melt,"
+      - "Thaw, and resolve itself into a dew,"
+      - "Or that the Everlasting had not fixed"
+      - "His canon ’gainst self-slaughter! O God, God!"
+      - "How weary, stale, flat, and unprofitable"
+      - "Seem to me all the uses of this world!"
+      - "Fie on ’t, ah fie! ’Tis an unweeded garden"
+      - "That grows to seed. Things rank and gross in nature"
+      - "Possess it merely. That it should come to this."
+      - "But two months dead—nay, not so much, not two."
+      - "So excellent a king, that was to this"
+      - "Hyperion to a satyr. So loving to my mother"
+      - "That he might not beteem the winds of heaven"
+      - "Visit her face too roughly.—Heaven and earth,"
+      - "Must I remember? Why, she would hang on him"
+      - "As if increase of appetite had grown"
+      - "By what it fed on, and yet, within a month—"
+      - "Let me not think on ’t. Frailty, thy name is woman!—"
+      - "A little month, or ere those shoes were old"
+      - "With which she followed my poor father’s body,"
+      - "Like Niobe, all tears. Why she, even she—"
+      - "O God, a beast that wants discourse of reason"
+      - "Would have mourned longer!—married with my uncle,"
+      - "My father’s brother, but no more like my father"
+      - "Than I to Hercules. Within a month,"
+      - "Ere yet the salt of most unrighteous tears"
+      - "Had left the flushing in her gallèd eyes,"
+      - "She married. O most wicked speed, to post"
+      - "With such dexterity to incestuous sheets!"
+      - "It is not nor it cannot come to good,"
+      - "But break, my heart, for I must hold my tongue."
+    m:
+      - "Ah, I wish my dirty flesh could melt away into a vapor, or that God had not made a law against suicide. Oh God, God! How tired, stale, and pointless life is to me. Damn it! It’s like a garden that no one’s taking care of, and that’s growing wild. Only nasty weeds grow in it now. I can’t believe it’s come to this. My father’s only been dead for two months—no, not even two. Such an excellent king, as superior to my uncle as a god is to a beast, and so loving toward my mother that he kept the wind from blowing too hard on her face. Oh God, do I have to remember that? She would hang on to him, and the more she was with him the more she wanted to be with him; she couldn’t get enough of him. Yet even so, within a month of my father’s death (I don’t even want to think about it. Oh women! You are so weak!), even before she had broken in the shoes she wore to his funeral, crying like crazy—even an animal would have mourned its mate longer than she did!—there she was marrying my uncle, my father’s brother, who’s about as much like my father as I’m like Hercules. Less than a month after my father’s death, even before the tears on her cheeks had dried, she remarried. Oh, so quick to jump into a bed of incest! That’s not good, and no good can come of it either. But my heart must break in silence, since I can’t mention my feelings aloud."
+
+  - os: "Enter HORATIO, MARCELLUS, and BARNARDO"
+    ms: "HORATIO, MARCELLUS, and BARNARDO enter."
+
+  - sp: HORATIO
+    o:
+      - "Hail to your lordship."
+    m:
+      - "Hello, sir."
+
+  - sp: HAMLET
+    o:
+      - "    I am glad to see you well.—"
+      - "Horatio? Or I do forget myself?"
+    m:
+      - "Nice to see you again, Horatio—that is your name, right?"
+
+  - sp: HORATIO
+    o:
+      - "The same, my lord, and your poor servant ever."
+    m:
+      - "That’s me, sir. Still your respectful servant."
+
+  - sp: HAMLET
+    o:
+      - "Sir, my good friend, I’ll change that name with you."
+      - "And what make you from Wittenberg, Horatio?—"
+      - "Marcellus!"
+    m:
+      - "Not my servant, but my friend. I’ll change that name for you. But what are you doing so far from Wittenberg, Horatio? —Oh, Marcellus?"
+
+  - sp: MARCELLUS
+    o:
+      - "  My good lord."
+    m:
+      - "Hello, sir."
+
+  - sp: HAMLET
+    o:
+      - "*(to MARCELLUS)* I am very glad to see you.—*(to BARNARDO)* Good even, sir. *(to HORATIO)* —But what, in faith, make you from Wittenberg?"
+    m:
+      - "*(to MARCELLUS)* So nice to see you.—*(to BARNARDO)* Hello, sir.*(to HORATIO)*—But what are you doing away from Wittenberg, Horatio?"
+
+  - sp: HORATIO
+    o:
+      - "A truant disposition, good my lord."
+    m:
+      - "I felt like skipping school, sir."
+
+  - sp: HAMLET
+    o:
+      - "I would not hear your enemy say so,"
+      - "Nor shall you do mine ear that violence,"
+      - "To make it truster of your own report"
+      - "Against yourself. I know you are no truant."
+      - "But what is your affair in Elsinore?"
+      - "We’ll teach you to drink deep ere you depart."
+    m:
+      - "I wouldn’t allow your enemies to say that, and I won’t believe it from you. I know you’d never skip school. What are you doing here in Elsinore? I’ll teach you to drink hard by the time you leave."
+
+  - sp: HORATIO
+    o:
+      - "My lord, I came to see your father’s funeral."
+    m:
+      - "Sir, we came to see your father’s funeral."
+
+  - sp: HAMLET
+    o:
+      - "I pray thee, do not mock me, fellow student."
+      - "I think it was to see my mother’s wedding."
+    m:
+      - "Please, don’t make fun of me. I think you came to see my mother’s wedding instead."
+
+  - sp: HORATIO
+    o:
+      - "Indeed, my lord, it followed hard upon."
+    m:
+      - "Well, sir, it’s true it came soon after."
+
+  - sp: HAMLET
+    o:
+      - "Thrift, thrift, Horatio! The funeral baked meats"
+      - "Did coldly furnish forth the marriage tables."
+      - "Would I had met my dearest foe in heaven"
+      - "Or ever I had seen that day, Horatio."
+      - "My father—methinks I see my father."
+    m:
+      - "It was all about saving a few bucks, Horatio. The leftovers from the funeral dinner made a convenient wedding banquet. Oh, I’d rather have met my fiercest enemy in heaven, Horatio, than have lived through that terrible day! My father—I think I see my father."
+
+  - sp: HORATIO
+    o:
+      - "Where, my lord?"
+    m:
+      - "Where, sir?"
+
+  - sp: HAMLET
+    o:
+      - "  In my mind’s eye, Horatio."
+    m:
+      - "In my imagination, Horatio."
+
+  - sp: HORATIO
+    o:
+      - "I saw him once. He was a goodly king."
+    m:
+      - "I saw him once. He was an admirable king."
+
+  - sp: HAMLET
+    o:
+      - "He was a man. Take him for all in all."
+      - "I shall not look upon his like again."
+    m:
+      - "He was a great human being. He was perfect in everything. I’ll never see the likes of him again."
+
+  - sp: HORATIO
+    o:
+      - "My lord, I think I saw him yesternight."
+    m:
+      - "Sir, I think I saw him last night."
+
+  - sp: HAMLET
+    o:
+      - "Saw who?"
+    m:
+      - "Saw who?"
+
+  - sp: HORATIO
+    o:
+      - "My lord, the king your father."
+    m:
+      - "Your father, sir. The dead king."
+
+  - sp: HAMLET
+    o:
+      - "The king my father?!"
+    m:
+      - "The king my father?!"
+
+  - sp: HORATIO
+    o:
+      - "Season your admiration for a while"
+      - "With an attent ear, till I may deliver,"
+      - "Upon the witness of these gentlemen,"
+      - "This marvel to you."
+    m:
+      - "Don’t get too excited yet, sir. Just listen carefully while I tell you the amazing thing I saw, with these gentlemen as witnesses."
+
+  - sp: HAMLET
+    o:
+      - "  For God’s love, let me hear."
+    m:
+      - "For God’s sake, let me hear it."
+
+  - sp: HORATIO
+    o:
+      - "Two nights together had these gentlemen,"
+      - "Marcellus and Barnardo, on their watch,"
+      - "In the dead waste and middle of the night,"
+      - "Been thus encountered: a figure like your father,"
+      - "Armed at point exactly, cap-à-pie,"
+      - "Appears before them and with solemn march"
+      - "Goes slow and stately by them. Thrice he walked"
+      - "By their oppressed and fear-surprisèd eyes"
+      - "Within his truncheon’s length, whilst they, distilled"
+      - "Almost to jelly with the act of fear,"
+      - "Stand dumb and speak not to him. This to me"
+      - "In dreadful secrecy impart they did,"
+      - "And I with them the third night kept the watch,"
+      - "Where—as they had delivered, both in time,"
+      - "Form of the thing, each word made true and good—"
+      - "The apparition comes. I knew your father."
+      - "These hands are not more like."
+    m:
+      - "After midnight, for two nights running, these two guards, Marcellus and Barnardo, saw a figure that looked very much like your father, in full armor from head to toe. It just appeared before them and marched past them with slow dignity three times, a staff’s distance from their amazed eyes, while they turned, quaking with fear and too shocked to speak. They told me all about this, so on the third night I agreed to come stand guard with them, to see for myself. It happened again, just as they had described. I knew your father. This ghost looked as much like him as my two hands are like each other."
+
+  - sp: HAMLET
+    o:
+      - "    But where was this?"
+    m:
+      - "But where did this happen?"
+
+  - sp: MARCELLUS
+    o:
+      - "My lord, upon the platform where we watch."
+    m:
+      - "On the platform where we stand guard, sir."
+
+  - sp: HAMLET
+    o:
+      - "Did you not speak to it?"
+    m:
+      - "Didn’t you talk to it?"
+
+  - sp: HORATIO
+    o:
+      - "    My lord, I did,"
+      - "But answer made it none. Yet once methought"
+      - "It lifted up its head and did address"
+      - "Itself to motion, like as it would speak."
+      - "But even then the morning cock crew loud,"
+      - "And at the sound it shrunk in haste away"
+      - "And vanished from our sight."
+    m:
+      - "I did, sir, but it didn’t answer me. It raised its head once as if it was about to speak, but just then the rooster started crowing, and the ghost vanished from sight."
+
+  - sp: HAMLET
+    o:
+      - "    ’Tis very strange."
+    m:
+      - "That’s very strange."
+
+  - sp: HORATIO
+    o:
+      - "As I do live, my honored lord, ’tis true."
+      - "And we did think it writ down in our duty"
+      - "To let you know of it."
+    m:
+      - "I swear to God it’s true, sir. We thought you ought to know about it."
+
+  - sp: HAMLET
+    o:
+      - "Indeed, indeed, sirs, but this troubles me."
+      - "Hold you the watch tonight?"
+    m:
+      - "Yes, I should know, but it disturbs me. Are you on duty again tonight?"
+
+  - sp: MARCELLUS, BARNARDO
+    o:
+      - "    We do, my lord."
+    m:
+      - "Yes, sir."
+
+  - sp: HAMLET
+    o:
+      - "Armed, say you?"
+    m:
+      - "It was armed, you say?"
+
+  - sp: MARCELLUS, BARNARDO
+    o:
+      - "  Armed, my lord."
+    m:
+      - "Armed, sir."
+
+  - sp: HAMLET
+    o:
+      - "    From top to toe?"
+    m:
+      - "From head to toe?"
+
+  - sp: MARCELLUS, BARNARDO
+    o:
+      - "My lord, from head to foot."
+    m:
+      - "Yes, from top to bottom, sir."
+
+  - sp: HAMLET
+    o:
+      - "    Then saw you not his face?"
+    m:
+      - "So you couldn’t see his face, then?"
+
+  - sp: HORATIO
+    o:
+      - "Oh yes, my lord. He wore his beaver up."
+    m:
+      - "Oh, yes, we could, sir. He had his helmet visor up."
+
+  - sp: HAMLET
+    o:
+      - "What, looked he frowningly?"
+    m:
+      - "Was he frowning?"
+
+  - sp: HORATIO
+    o:
+      - "    A countenance more"
+      - "In sorrow than in anger."
+    m:
+      - "He looked more sad than angry."
+
+  - sp: HAMLET
+    o:
+      - "    Pale or red?"
+    m:
+      - "Was he pale or flushed and red-faced?"
+
+  - sp: HORATIO
+    o:
+      - "Nay, very pale."
+    m:
+      - "Very pale, sir."
+
+  - sp: HAMLET
+    o:
+      - "  And fixed his eyes upon you?"
+    m:
+      - "Did he stare at you?"
+
+  - sp: HORATIO
+    o:
+      - "Most constantly."
+    m:
+      - "The whole time."
+
+  - sp: HAMLET
+    o:
+      - "I would I had been there."
+    m:
+      - "I wish I’d been there."
+
+  - sp: HORATIO
+    o:
+      - "It would have much amazed you."
+    m:
+      - "You would have been very shocked."
+
+  - sp: HAMLET
+    o:
+      - "Very like. Stayed it long?"
+    m:
+      - "I’m sure I would have. Did it stay a long time?"
+
+  - sp: HORATIO
+    o:
+      - "While one with moderate haste might tell a hundred."
+    m:
+      - "About as long as it would take someone to count slowly to a hundred."
+
+  - sp: MARCELLUS, BARNARDO
+    o:
+      - "Longer, longer."
+    m:
+      - "No, longer than that."
+
+  - sp: HORATIO
+    o:
+      - "Not when I saw ’t."
+    m:
+      - "Not the time I saw it."
+
+  - sp: HAMLET
+    o:
+      - "His beard was grizzled, no?"
+    m:
+      - "His beard was gray, right?"
+
+  - sp: HORATIO
+    o:
+      - "It was, as I have seen it in his life,"
+      - "A sable silvered."
+    m:
+      - "It was just like in real life, dark brown with silver whiskers in it."
+
+  - sp: HAMLET
+    o:
+      - "  I will watch tonight. Perchance"
+      - "’Twill walk again."
+    m:
+      - "I’ll stand guard with you tonight. Maybe it’ll come again."
+
+  - sp: HORATIO
+    o:
+      - "  I warrant it will."
+    m:
+      - "I bet it will."
+
+  - sp: HAMLET
+    o:
+      - "If it assume my noble father’s person,"
+      - "I’ll speak to it, though Hell itself should gape"
+      - "And bid me hold my peace. I pray you all,"
+      - "If you have hitherto concealed this sight,"
+      - "Let it be tenable in your silence still."
+      - "And whatsoever else shall hap tonight,"
+      - "Give it an understanding, but no tongue."
+      - "I will requite your loves. So fare you well."
+      - "Upon the platform, ’twixt eleven and twelve,"
+      - "I’ll visit you."
+    m:
+      - "If it looks like my good father, I’ll speak to it, even if Hell itself opens up and tells me to be quiet. I ask you, if you’ve kept this a secret, keep doing so. Whatever happens tonight, don’t talk about it. I’ll return the favor. So good-bye for now. I’ll see you on the guards’ platform between eleven and twelve tonight."
+
+  - sp: HORATIO, MARCELLUS, BARNARDO
+    o:
+      - "  Our duty to your honor."
+    m:
+      - "We’ll do our duty to you, sir."
+
+  - sp: HAMLET
+    o:
+      - "Your loves, as mine to you. Farewell."
+    m:
+      - "Give me your love instead, as I give you mine. Good-bye."
+
+  - os: "Exeunt all but HAMLET"
+    ms: "Everyone except HAMLET exits."
+
+  - o:
+      - "My father’s spirit in arms. All is not well."
+      - "I doubt some foul play. Would the night were come!"
+      - "Till then sit still, my soul. Foul deeds will rise,"
+      - "Though all the earth o’erwhelm them, to men’s eyes."
+    m:
+      - "My father’s ghost—armed! Something’s wrong. I suspect some foul play. I wish the night were here already! Until then, I have to remain calm. Bad deeds will be revealed, no matter how people try to hide them."
+
+  - os: "Exit"
+    ms: "HAMLET exits."

@@ -1,0 +1,251 @@
+play: The Comedy of Errors
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter ANTIPHOLUS OF SYRACUSE, DROMIO OF SYRACUSE, and FIRST MERCHANT"
+    ms: "ANTIPHOLUS OF SYRACUSE,DROMIO OF SYRACUSE, and FIRST MERCHANT enter."
+
+  - sp: FIRST MERCHANT
+    o:
+      - "Therefore give out you are of Epidamnum,"
+      - "Lest that your goods too soon be confiscate."
+      - "This very day a Syracusian merchant"
+      - "Is apprehended for arrival here"
+      - "And, not being able to buy out his life,"
+      - "According to the statute of the town"
+      - "Dies ere the weary sun set in the west."
+      - "There is your money that I had to keep."
+    m:
+      - "So, tell people that you’re from Epidamnum-otherwise all your goods will be confiscated. Just today, a merchant from Syracuse was arrested for coming here. He couldn’t afford the ransom, so by law, he’ll be put to death before the sun sets. Here’s the money you asked me to hold."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Go bear it to the Centaur, where we host,"
+      - "And stay there, Dromio, till I come to thee."
+      - "Within this hour it will be dinnertime."
+      - "Till that, I’ll view the manners of the town,"
+      - "Peruse the traders, gaze upon the buildings,"
+      - "And then return and sleep within mine inn,"
+      - "For with long travel I am stiff and weary."
+      - "Get thee away."
+    m:
+      - "Dromio, bring this money to the Centaur Inn, where we’re lodging, and wait there until I come. It’ll be lunchtime within an hour. Until then, I’ll walk around town, peruse the markets, and gaze upon the buildings, and then I’ll return and sleep at the inn. I’m stiff and weary from all this travel. Get going now."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Many a man would take you at your word"
+      - "And go indeed, having so good a mean."
+    m:
+      - "Many men would take you literally and take off with all this money."
+
+  - os: "Exit DROMIO OF SYRACUSE"
+    ms: "DROMIO OF SYRACUSE exists."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "A trusty villain, sir, that very oft,"
+      - "When I am dull with care and melancholy,"
+      - "Lightens my humor with his merry jests."
+      - "What, will you walk with me about the town"
+      - "And then go to my inn and dine with me?"
+    m:
+      - "He’s a trustworthy servant. Often, when I’m dulled by worry and melancholy, he lightens my mood with his merry pranks. Listen, will you walk with me around the town and then dine with me at the inn?"
+
+  - sp: FIRST MERCHANT
+    o:
+      - "I am invited, sir, to certain merchants,"
+      - "Of whom I hope to make much benefit."
+      - "I crave your pardon. Soon at five o’clock,"
+      - "Please you, I’ll meet with you upon the mart"
+      - "And afterward consort you till bedtime."
+      - "My present business calls me from you now."
+    m:
+      - "Begging your pardon, but I’ve been invited to see some merchants, who I’m hoping to see a profit from. But if it pleases you, I’ll meet you in the marketplace at five and will keep you company until bedtime. Right now, my pressing business calls me away."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Farewell till then. I will go lose myself"
+      - "And wander up and down to view the city."
+    m:
+      - "Farewell till then. I will go lose myself, wandering up and down throughout the city."
+
+  - sp: FIRST MERCHANT
+    o:
+      - "Sir, I commend you to your own content."
+    m:
+      - "Sir, I leave you to your own contentment."
+
+  - os: "Exit FIRST MERCHANTexits."
+    ms: "FIRST MERCHANT exits."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "He that commends me to mine own content"
+      - "Commends me to the thing I cannot get."
+      - "I to the world am like a drop of water"
+      - "That in the ocean seeks another drop,"
+      - "Who, falling there to find his fellow forth,"
+      - "Unseen, inquisitive, confounds himself."
+      - "So I, to find a mother and a brother,"
+      - "In quest of them, unhappy, lose myself."
+    m:
+      - "He leaves me to my own contentment, but that’s the one thing I cannot find. Out in the world, I’m like a drop of water, trying to find a drop that matches in the whole wide ocean. When that drop fails its task-unnoticed, inquisitive-it dissipates into the ocean and destroys itself. In order to find a mother and a brother, I too have lost myself, unhappily."
+
+  - os: "Enter DROMIO OF EPHESUS"
+    ms: "DROMIO OF EPHESUS enters."
+
+  - o:
+      - "Here comes the almanac of my true date.—"
+      - "What now? How chance thou art returned so soon?"
+    m:
+      - "Here comes the man who shares my birthday. What is it? How is it that you’ve come back so soon?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Returned so soon? Rather approach’d too late!"
+      - "The capon burns; the pig falls from the spit;"
+      - "The clock hath strucken twelve upon the bell;"
+      - "My mistress made it one upon my cheek."
+      - "She is so hot because the meat is cold;"
+      - "The meat is cold because you come not home;"
+      - "You come not home because you have no stomach;"
+      - "You have no stomach, having broke your fast;"
+      - "But we that know what ’tis to fast and pray"
+      - "Are penitent for your default today."
+    m:
+      - "Back so soon? Too late is more like it. The chicken is burning, the pig is overcooked, the clock has already struck twelve, and my mistress has clocked me one on the cheek. She’s hot because lunch is cold; lunch is cold because you’re not home; you’re not home because you’re not hungry; you’re not hungry because you’ve eaten already. But we servants—who know how to properly fast and pray—are being punished for your offenses today."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Stop in your wind, sir. Tell me this, I pray:"
+      - "Where have you left the money that I gave you?"
+    m:
+      - "Hold on a second. Answer me this, please: where’s the money I gave you?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "O, sixpence, that I had o’ Wednesday last"
+      - "To pay the saddler for my mistress’ crupper?"
+      - "The saddler had it, sir; I kept it not."
+    m:
+      - "Oh, the sixpence you gave me last Wednesday to buy leather goods for my mistress? The saddle maker has it, sir—I didn’t keep it."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I am not in a sportive humor now."
+      - "Tell me, and dally not: where is the money?"
+      - "We being strangers here, how dar’st thou trust"
+      - "So great a charge from thine own custody?"
+    m:
+      - "I’m not in a joking mood. Tell me right now and stop fooling: where’s the money? We’re strangers here. How dare you let such a large amount escape your keeping?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "I pray you, jest, sir, as you sit at dinner."
+      - "I from my mistress come to you in post;"
+      - "If I return, I shall be post indeed,"
+      - "For she will scour your fault upon my pate."
+      - "Methinks your maw, like mine, should be your clock,"
+      - "And strike you home without a messenger."
+    m:
+      - "Please, sir; crack jokes over lunch. My mistress made me hurry here. If I go back without you, she’ll punish your faults by breaking my head open. I should think that your appetite would act like a clock (as mine does) and bring you home on its own, without the need for a messenger."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Come, Dromio, come, these jests are out of season."
+      - "Reserve them till a merrier hour than this."
+      - "Where is the gold I gave in charge to thee?"
+    m:
+      - "That’s enough, Dromio, please. This isn’t a good moment for jokes—save them till a happier time. Where’s the gold I gave you?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "To me, sir? Why, you gave no gold to me!"
+    m:
+      - "Gave me, sir? You didn’t give me any gold."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Come on, sir knave, have done your foolishness,"
+      - "And tell me how thou hast disposed thy charge."
+    m:
+      - "Come on, you rogue. Quit joking. Tell me what you’ve done with the money I entrusted to you."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "My charge was but to fetch you from the mart"
+      - "Home to your house, the Phoenix, sir, to dinner."
+      - "My mistress and her sister stays for you."
+    m:
+      - "The only thing that I’ve been entrusted with was getting you from the market and bringing you to your house, the Phoenix, for lunch. My mistress and her sister are waiting for you."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Now, as I am a Christian, answer me"
+      - "In what safe place you have bestowed my money,"
+      - "Or I shall break that merry sconce of yours"
+      - "That stands on tricks when I am undisposed."
+      - "Where is the thousand marks thou hadst of me?"
+    m:
+      - "Tell me where you’ve stowed away my money, or I swear I’ll break that comical head of yours for goofing when I’m not in the mood. Where are the thousand marks you had from me?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "I have some marks of yours upon my pate,"
+      - "Some of my mistress’ marks upon my shoulders,"
+      - "But not a thousand marks between you both."
+      - "If I should pay your worship those again,"
+      - "Perchance you will not bear them patiently."
+    m:
+      - "I have some marks from you on my head and some of my mistress’ marks on my body. But between the both of you, I don’t have a thousand marks. If I gave those marks back to you, chances are you wouldn’t take them as patiently as I did."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Thy mistress’ marks? what mistress, slave, hast thou?"
+    m:
+      - "Your mistress’ marks? What mistress do you have?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Your worship’s wife, my mistress at the Phoenix,"
+      - "She that doth fast till you come home to dinner"
+      - "And prays that you will hie you home to dinner."
+    m:
+      - "Your wife, sir. My mistress. At the Phoenix. The one who’s waiting for you to come home for lunch and praying that you’ll get home quickly."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What, wilt thou flout me thus unto my face,"
+      - "Being forbid? There, take you that, sir knave. *(beats DROMIO OF EPHESUS)*"
+    m:
+      - "What, are you going to mock me to my face when I told you not to? There, take that, you scoundrel! *(beats* DROMIO OF EPHESUS)*"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "What mean you, sir? For God’s sake, hold your hands."
+      - "Nay, an you will not, sir, I’ll take my heels."
+    m:
+      - "What are you doing? Stop, for God’s sake! Well, if you don’t, then I’m out of here."
+
+  - os: "Exit DROMIO OF EPHESUS"
+    ms: "DROMIO OF EPHESUS exits."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Upon my life, by some device or other"
+      - "The villain is o’erraught of all my money."
+      - "They say this town is full of cozenage,"
+      - "As nimble jugglers that deceive the eye,"
+      - "Dark-working sorcerers that change the mind,"
+      - "Soul-killing witches that deform the body,"
+      - "Disguised cheaters, prating mountebanks,"
+      - "And many suchlike liberties of sin."
+      - "If it prove so, I will be gone the sooner."
+      - "I’ll to the Centaur to go seek this slave."
+      - "I greatly fear my money is not safe."
+    m:
+      - "I swear, somehow the fool has been cheated out of all my money. They say that this town is full of deception—illusionists that can fool the eye, dark sorcerers who can bewitch your mind, soul-killing witches who can disfigure your body, disguised swindlers, fast-talking fakers, and all kinds of other unchecked sins. If this is true, then I’ll be leaving all the sooner. I’ll go to the Centaur to find this servant of mine—I fear that my money isn’t safe."
+
+  - os: "Exit"
+    ms: "He exits."

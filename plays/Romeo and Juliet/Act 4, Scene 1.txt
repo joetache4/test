@@ -1,0 +1,311 @@
+play: Romeo and Juliet
+title: Act 4, Scene 1
+group: 4
+order: 18
+text:
+  - os: "Enter FRIAR LAWRENCE and PARIS"
+    ms: "FRIAR LAWRENCE and PARISenter."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "On Thursday, sir? The time is very short."
+    m:
+      - "On Thursday, sir? That’s very soon."
+
+  - sp: PARIS
+    o:
+      - "My father Capulet will have it so,"
+      - "And I am nothing slow to slack his haste."
+    m:
+      - "That’s how my future father-in-law Capulet wants it, and I’m not dragging my feet."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "You say you do not know the lady’s mind."
+      - "Uneven is the course. I like it not."
+    m:
+      - "You say you don’t know what the girl thinks. That’s a rocky road to be riding. I don’t like it."
+
+  - sp: PARIS
+    o:
+      - "Immoderately she weeps for Tybalt’s death,"
+      - "And therefore have I little talked of love,"
+      - "For Venus smiles not in a house of tears."
+      - "Now, sir, her father counts it dangerous"
+      - "That she do give her sorrow so much sway,"
+      - "And in his wisdom hastes our marriage"
+      - "To stop the inundation of her tears—"
+      - "Which, too much minded by herself alone,"
+      - "May be put from her by society."
+      - "Now do you know the reason of this haste."
+    m:
+      - "She’s grieving too much over the death of Tybalt. So I haven’t had the chance to talk to her about love. Romantic love doesn’t happen when people are in mourning. Now, sir, her father thinks it’s dangerous that she allows herself to become so sad. He’s being smart by rushing our marriage to stop her from crying. She cries too much by herself. If she had someone to be with her, she would stop crying. Now you know the reason for the rush."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "*(aside)* I would I knew not why it should be slowed.—"
+      - "Look, sir, here comes the lady toward my cell."
+    m:
+      - "*(to himself)* I wish I didn’t know the reason why the marriage should be slowed down. Look, sir, here comes the lady walking toward my cell."
+
+  - os: "Enter JULIET"
+    ms: "JULIET enters."
+
+  - sp: PARIS
+    o:
+      - "Happily met, my lady and my wife."
+    m:
+      - "I’m happy to meet you, my lady and my wife."
+
+  - sp: JULIET
+    o:
+      - "That may be, sir, when I may be a wife."
+    m:
+      - "That might be the case sir, *after* I’m married."
+
+  - sp: PARIS
+    o:
+      - "That “may be” must be, love, on Thursday next."
+    m:
+      - "That “may be” must be, love, on Thursday."
+
+  - sp: JULIET
+    o:
+      - "What must be shall be."
+    m:
+      - "What must be will be."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "That’s a certain text."
+    m:
+      - "That is a certain truth."
+
+  - sp: PARIS
+    o:
+      - "Come you to make confession to this Father?"
+    m:
+      - "Have you come to make confession to this father?"
+
+  - sp: JULIET
+    o:
+      - "To answer that, I should confess to you."
+    m:
+      - "If I answered that question, I’d be making confession to you."
+
+  - sp: PARIS
+    o:
+      - "Do not deny to him that you love me."
+    m:
+      - "Don’t deny to him that you love me."
+
+  - sp: JULIET
+    o:
+      - "I will confess to you that I love him."
+    m:
+      - "I’ll confess to you that I love him."
+
+  - sp: PARIS
+    o:
+      - "So will ye, I am sure, that you love me."
+    m:
+      - "You will also confess, I’m sure, that you love me."
+
+  - sp: JULIET
+    o:
+      - "If I do so, it will be of more price"
+      - "Being spoke behind your back than to your face."
+    m:
+      - "If I do so, it will mean more if I say it behind your back than if I say it to your face."
+
+  - sp: PARIS
+    o:
+      - "Poor soul, thy face is much abused with tears."
+    m:
+      - "You poor soul, your face has suffered many tears."
+
+  - sp: JULIET
+    o:
+      - "The tears have got small victory by that,"
+      - "For it was bad enough before their spite."
+    m:
+      - "The tears haven’t done much because my face looked bad enough before I started to cry."
+
+  - sp: PARIS
+    o:
+      - "Thou wrong’st it more than tears with that report."
+    m:
+      - "You’re treating your face even worse by saying that."
+
+  - sp: JULIET
+    o:
+      - "That is no slander, sir, which is a truth,"
+      - "And what I spake, I spake it to my face."
+    m:
+      - "What I say isn’t slander, sir. It’s the truth. And what I said, I said to my face."
+
+  - sp: PARIS
+    o:
+      - "Thy face is mine, and thou hast slandered it."
+    m:
+      - "Your face is mine, and you have slandered it."
+
+  - sp: JULIET
+    o:
+      - "It may be so, for it is not mine own.—"
+      - "Are you at leisure, holy Father, now,"
+      - "Or shall I come to you at evening mass?"
+    m:
+      - "That may be the case, because my face doesn’t belong to me.—Do you have time for me now, Father, or should I come to you at evening mass?"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "My leisure serves me, pensive daughter, now.—"
+      - "My lord, we must entreat the time alone."
+    m:
+      - "I have time for you now, my sad daughter. *(to PARIS)* My lord, we must ask you to leave us alone."
+
+  - sp: PARIS
+    o:
+      - "God shield I should disturb devotion!—"
+      - "Juliet, on Thursday early will I rouse ye."
+      - "*(kisses her)* Till then, adieu, and keep this holy kiss."
+    m:
+      - "God forbid that I should prevent sacred devotion! Juliet, I will wake you early on Thursday*. (kissing her)* Until then, good-bye, and keep this holy kiss."
+
+  - os: "Exit PARIS"
+    ms: "PARIS exits."
+
+  - sp: JULIET
+    o:
+      - "O, shut the door! And when thou hast done so,"
+      - "Come weep with me, past hope, past cure, past help."
+    m:
+      - "Oh, shut the door, and after you shut it, come over here and weep with me. This mess is beyond hope, beyond cure, beyond help!"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "O Juliet, I already know thy grief."
+      - "It strains me past the compass of my wits."
+      - "I hear thou must, and nothing may prorogue it,"
+      - "On Thursday next be married to this county."
+    m:
+      - "Oh, Juliet, I already know about your sad situation. It’s a problem too hard for me to solve. I hear that you must marry this count on Thursday, and that nothing can delay it."
+
+  - sp: JULIET
+    o:
+      - "Tell me not, Friar, that thou hear’st of this,"
+      - "Unless thou tell me how I may prevent it."
+      - "If in thy wisdom thou canst give no help,"
+      - "Do thou but call my resolution wise,"
+      - "And with this knife I’ll help it presently."
+      - "*(shows him a knife)*"
+      - "God joined my heart and Romeo’s, thou our hands."
+      - "And ere this hand, by thee to Romeo sealed,"
+      - "Shall be the label to another deed,"
+      - "Or my true heart with treacherous revolt"
+      - "Turn to another, this shall slay them both."
+      - "Therefore out of thy long-experienced time,"
+      - "Give me some present counsel, or, behold,"
+      - "’Twixt my extremes and me this bloody knife"
+      - "Shall play the umpire, arbitrating that"
+      - "Which the commission of thy years and art"
+      - "Could to no issue of true honor bring."
+      - "Be not so long to speak. I long to die"
+      - "If what thou speak’st speak not of remedy."
+    m:
+      - "Don’t tell me that you’ve heard about this marriage, Friar, unless you can tell me how to prevent it. If you who are so wise can’t help, please be kind enough to call my solution wise. *(she shows him a knife)* And I’ll solve the problem now with this knife. God joined my heart to Romeo’s. You joined our hands. And before I—who was married to Romeo by you—am married to another man, I’ll kill myself. You are wise and you have so much experience. Give me some advice about the current situation. Or watch. Caught between these two difficulties, I’ll act like a judge with my bloody knife. I will truly and honorably resolve the situation that you can’t fix, despite your experience and education. Don’t wait long to speak. I want to die if what you say isn’t another solution."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Hold, daughter. I do spy a kind of hope,"
+      - "Which craves as desperate an execution"
+      - "As that is desperate which we would prevent."
+      - "If, rather than to marry County Paris,"
+      - "Thou hast the strength of will to slay thyself,"
+      - "Then is it likely thou wilt undertake"
+      - "A thing like death to chide away this shame,"
+      - "That copest with death himself to ’scape from it."
+      - "An if thou darest, I’ll give thee remedy."
+    m:
+      - "Hold on, daughter, I see some hope. But we must act boldly because the situation is so desperate. If you’ve made up your mind to kill yourself instead of marrying Count Paris, then you’ll probably be willing to try something like death to solve this shameful problem. You can wrestle with death to escape from shame. And if you dare to do it, I’ll give you the solution."
+
+  - sp: JULIET
+    o:
+      - "O, bid me leap, rather than marry Paris,"
+      - "From off the battlements of yonder tower;"
+      - "Or walk in thievish ways; or bid me lurk"
+      - "Where serpents are; chain me with roaring bears;"
+      - "Or shut me nightly in a charnel house,"
+      - "O’ercovered quite with dead men’s rattling bones,"
+      - "With reeky shanks and yellow chapless skulls;"
+      - "Or bid me go into a new-made grave"
+      - "And hide me with a dead man in his shroud—"
+      - "Things that, to hear them told, have made me tremble—"
+      - "And I will do it without fear or doubt,"
+      - "To live an unstained wife to my sweet love."
+    m:
+      - "Oh, you can tell me to jump off the battle posts of any tower, or to walk down the crime-ridden streets of a slum. Or tell me to sit in a field full of poisonous snakes. Chain me up with wild bears. Hide me every night in a morgue full of dead bodies with wet, smelly flesh and skulls without jawbones. Or tell me to climb down into a freshly dug grave, and hide me with a dead man in his tomb. All those ideas make me tremble when I hear them named. But I will do them without fear or dread in order to be a pure wife to my sweet love."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Hold, then. Go home, be merry. Give consent"
+      - "To marry Paris. Wednesday is tomorrow."
+      - "Tomorrow night look that thou lie alone."
+      - "Let not the Nurse lie with thee in thy chamber."
+      - "*(shows her a vial)*"
+      - "Take thou this vial, being then in bed,"
+      - "And this distillèd liquor drink thou off,"
+      - "When presently through all thy veins shall run"
+      - "A cold and drowsy humor, for no pulse"
+      - "Shall keep his native progress, but surcease."
+      - "No warmth, no breath shall testify thou livest."
+      - "The roses in thy lips and cheeks shall fade"
+      - "To paly ashes, thy eyes’ windows fall"
+      - "Like death when he shuts up the day of life."
+      - "Each part, deprived of supple government,"
+      - "Shall, stiff and stark and cold, appear like death."
+      - "And in this borrowed likeness of shrunk death"
+      - "Thou shalt continue two and forty hours,"
+      - "And then awake as from a pleasant sleep."
+      - "Now, when the bridegroom in the morning comes"
+      - "To rouse thee from thy bed, there art thou dead."
+      - "Then, as the manner of our country is,"
+      - "In thy best robes uncovered on the bier"
+      - "Thou shalt be borne to that same ancient vault"
+      - "Where all the kindred of the Capulets lie."
+      - "In the meantime, against thou shalt awake,"
+      - "Shall Romeo by my letters know our drift,"
+      - "And hither shall he come, and he and I"
+      - "Will watch thy waking, and that very night"
+      - "Shall Romeo bear thee hence to Mantua."
+      - "And this shall free thee from this present shame,"
+      - "If no inconstant toy, nor womanish fear,"
+      - "Abate thy valor in the acting it."
+    m:
+      - "Hold on, then. Go home, be cheerful, and tell them you agree to marry Paris. Tomorrow is Wednesday. Tomorrow night make sure that you are alone. Don’t let the Nurse stay with you in your bedroom. *(showing her a vial)* When you’re in bed, take this vial, mix its contents with liquor, and drink. Then a cold, sleep-inducing drug will run through your veins, and your pulse will stop. Your flesh will be cold, and you’ll stop breathing. The red in your lips and your cheeks will turn pale, and your eyes will shut. It will seem like you’re dead. You won’t be able to move, and your body will be stiff like a corpse. You’ll remain in this deathlike state for forty-two hours, and then you’ll wake up as if from a pleasant sleep. Now, when the bridegroom comes to get you out of bed on Thursday morning, you’ll seem dead. Then, as tradition demands, you’ll be dressed up in your best clothes, put in an open coffin, and carried to the Capulet family tomb. Meanwhile, I’ll send Romeo word of our plan. He’ll come here, and we’ll keep a watch for when you wake up. That night, Romeo will take you away to Mantua. This plan will free you from the shameful situation that troubles you now as long as you don’t change your mind, or become scared like a silly woman and ruin your brave effort."
+
+  - sp: JULIET
+    o:
+      - "Give me, give me! O, tell not me of fear!"
+    m:
+      - "Give me the vial. Give it to me! Don’t talk to me about fear."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "*(gives her a vial)*"
+      - "Hold. Get you gone. Be strong and prosperous"
+      - "In this resolve. I’ll send a friar with speed"
+      - "To Mantua with my letters to thy lord."
+    m:
+      - "*(giving her the vial)* Now go along on your way. Be strong and successful in this decision. I’ll send a friar quickly to Mantua with my letter for Romeo."
+
+  - sp: JULIET
+    o:
+      - "Love give me strength, and strength shall help afford."
+      - "Farewell, dear Father."
+    m:
+      - "Love will give me strength, and strength will help me accomplish this plan. Goodbye, dear Father."
+
+  - os: "Exeunt, separately"
+    ms: "They exit separately."

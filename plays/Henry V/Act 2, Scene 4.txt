@@ -1,0 +1,280 @@
+play: Henry V
+title: Act 2, Scene 4
+group: 2
+order: 7
+text:
+  - os: "Flourish. Enter the KING OF FRANCE, the DAUPHIN, the Dukes of Berri and Brittany, the CONSTABLE, and others"
+    ms: "Trumpets sound. The KING OF FRANCE, the DAUPHIN, the CONSTABLE, the dukes of Berri and Bretagne, and others enter."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Thus comes the English with full power upon us,"
+      - "And more than carefully it us concerns"
+      - "To answer royally in our defenses."
+      - "Therefore the Dukes of Berri and of Brittany,"
+      - "Of Brabant and of Orléans, shall make forth,"
+      - "And you, Prince Dauphin, with all swift dispatch,"
+      - "To line and new-repair our towns of war"
+      - "With men of courage and with means defendant."
+      - "For England his approaches makes as fierce"
+      - "As waters to the sucking of a gulf."
+      - "It fits us then to be as provident"
+      - "As fear may teach us out of late examples"
+      - "Left by the fatal and neglected English"
+      - "Upon our fields."
+    m:
+      - "The English army is advancing on us at full strength. It is more important that we respond majestically than that we respond carefully. Therefore the dukes of Berri, Bretagne, Brabant, and Orléans shall advance, and you, Prince Dauphin, will swiftly entrench and fortify our fortress towns with men of courage and the means to defend themselves. The king of England’s approach is as forceful as a whirlpool. It is right for us to prepare like people who are afraid, as we’ve been taught by the recent lessons given us by the deadly and underestimated English on our own soil."
+
+  - sp: DAUPHIN
+    o:
+      - "To view the sick and feeble parts of France."
+      - "And let us do it with no show of fear,"
+      - "No, with no more than if we heard that England"
+      - "Were busied with a Whitsun morris-dance."
+      - "For, my good liege, she is so idly kinged,"
+      - "Her scepter so fantastically borne"
+      - "By a vain, giddy, shallow, humorous youth,"
+      - "That fear attends her not."
+      - "My most redoubted father,"
+      - "It is most meet we arm us ’gainst the foe,"
+      - "For peace itself should not so dull a kingdom,"
+      - "Though war nor no known quarrel were in question,"
+      - "But that defenses, musters, preparations,"
+      - "Should be maintained, assembled, and collected,"
+      - "As were a war in expectation."
+      - "Therefore I say ’tis meet we all go forth"
+    m:
+      - "My most feared father, it is certainly appropriate for us to arm ourselves against the enemy, because even in peace time, when no war or conflict is at hand, a kingdom should not lose its edge, but always be ready—with defenses, men, and training—as though it expected a war. Therefore, I agree that we should all go and inspect those French territories that are weak. Let’s do it with no show of anxiety—no, with no more fear than if we’d heard that the English were busying themselves with folk dancing. Because, my good king, England is so poorly led, her scepter so foolishly borne by a vain, silly, shallow, impulsive youth, that she’s hardly a threat."
+
+  - sp: CONSTABLE
+    o:
+      - "Oh peace, Prince Dauphin!"
+      - "You are too much mistaken in this king."
+      - "Question your Grace the late ambassadors"
+      - "With what great state he heard their embassy,"
+      - "How well supplied with noble counselors,"
+      - "How modest in exception, and withal"
+      - "How terrible in constant resolution,"
+      - "And you shall find his vanities forespent"
+      - "Were but the outside of the Roman Brutus,"
+      - "Covering discretion with a coat of folly,"
+      - "As gardeners do with ordure hide those roots"
+      - "That shall first spring and be most delicate."
+    m:
+      - "Oh, please, Prince Dauphin! You are completely wrong about this king. Talk to the ambassadors who’ve just come back: ask them how majestically he responded to their message, how well supplied he was with good advisors, how restrained in expressing his displeasure, and, moreover, how terrifyingly firm he was in his resolve. You’ll discover that his youthful follies were like the persona that Lucius Junius Brutus adopted to deceive Tarquin—cloaking wisdom in folly the way gardeners cover the most delicate roots with manure when they first sprout up."
+
+  - sp: DAUPHIN
+    o:
+      - "Well, ’tis not so, my Lord High Constable."
+      - "But though we think it so, it is no matter."
+      - "In cases of defense ’tis best to weigh"
+      - "The enemy more mighty than he seems."
+      - "So the proportions of defense are filled,"
+      - "Which of a weak or niggardly projection"
+      - "Doth, like a miser, spoil his coat with scanting"
+      - "A little cloth."
+    m:
+      - "Well, you’re wrong, my Lord High Constable. But even if I thought you were right, it doesn’t matter. When it comes to defense, it’s best to assume that the enemy is more powerful than he seems. That way, we fill the gaps in our defenses. Otherwise, if we do it on the cheap, we’ll be like the miser who spoils his new coat by not buying quite enough cloth to make it."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Think we King Harry strong,"
+      - "And, princes, look you strongly arm to meet him."
+      - "The kindred of him hath been fleshed upon us,"
+      - "And he is bred out of that bloody strain"
+      - "That haunted us in our familiar paths."
+      - "Witness our too-much-memorable shame"
+      - "When Cressy battle fatally was struck"
+      - "And all our princes captived by the hand"
+      - "Of that black name, Edward, Black Prince of Wales,"
+      - "Whiles that his mountain sire, on mountain standing"
+      - "Up in the air, crowned with the golden sun,"
+      - "Saw his heroical seed and smiled to see him"
+      - "Mangle the work of nature and deface"
+      - "The patterns that by God and by French fathers"
+      - "Had twenty years been made. This is a stem"
+      - "Of that victorious stock, and let us fear"
+      - "The native mightiness and fate of him."
+    m:
+      - "I think King Harry is strong, so the rest of you princes make sure to arm yourselves to meet him with strength. His ancestors got their first taste of blood in battle with us, and he is born of that warlike strain that haunted us on our home ground. Reflect on the battle of Crécy, where, to our everlasting shame, all our princes were taken prisoner by the Prince of Wales, he whom they called Edward the Black Prince. Remember how his mountain-bred father, standing high on a mountain, crowned by the golden sun, observed his heroic son and smiled to see him mangle the work of nature, French youth whose fathers and God had nurtured for twenty years, since they were babies. This king is a branch of that same victorious stock. So let us be wary both of his inborn might and of his destiny."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "Ambassadors from Harry King of England"
+      - "Do crave admittance to your Majesty."
+    m:
+      - "Ambassadors of Harry, king of England, request a hearing with your Majesty."
+
+  - sp: KING OF FRANCE
+    o:
+      - "We’ll give them present audience. Go, and bring them."
+    m:
+      - "We’ll see them immediately. Bring them right in."
+
+  - os: "Exit MESSENGER"
+    ms: "MESSENGER and certain lords exit."
+
+  - o:
+      - "You see this chase is hotly followed, friends."
+    m:
+      - "Notice, my friends, how closely this hunter follows his prey."
+
+  - sp: DAUPHIN
+    o:
+      - "Turn head and stop pursuit, for coward dogs"
+      - "Most spend their mouths when what they seem to threaten"
+      - "Runs far before them. Good my sovereign,"
+      - "Take up the English short, and let them know"
+      - "Of what a monarchy you are the head."
+      - "Self-love, my liege, is not so vile a sin"
+      - "As self-neglecting."
+    m:
+      - "Turn and face them and you’ll stop the pursuit. The cowardly pack barks loudest when the quarry is way out front. My good King, surprise the English and let them know what kind of kingdom you rule over. Self-love, my liege, is not so great a sin as self-neglect."
+
+  - os: "Enter EXETER and train, and lords"
+    ms: "The Lords and EXETER enter with followers."
+
+  - sp: KING OF FRANCE
+    o:
+      - "From our brother England?"
+    m:
+      - "From our brother monarch, the king of England?"
+
+  - sp: EXETER
+    o:
+      - "From him, and thus he greets your Majesty:"
+      - "He wills you, in the name of God Almighty,"
+      - "That you divest yourself and lay apart"
+      - "The borrowed glories that, by gift of heaven,"
+      - "By law of nature and of nations, ’longs"
+      - "To him and to his heirs—namely, the crown"
+      - "And all wide-stretchèd honors that pertain"
+      - "By custom and the ordinance of times"
+      - "Unto the crown of France. That you may know"
+      - "’Tis no sinister nor no awkward claim"
+      - "Picked from the wormholes of long-vanished days,"
+      - "Nor from the dust of old oblivion raked,"
+      - "He sends you this most memorable line,"
+      - "In every branch truly demonstrative,"
+      - "Willing you overlook this pedigree,"
+      - "And when you find him evenly derived"
+      - "From his most famed of famous ancestors,"
+      - "Edward the Third, he bids you then resign"
+      - "Your crown and kingdom, indirectly held"
+      - "From him, the native and true challenger."
+    m:
+      - "Yes, from him. Thus he greets your Majesty. He commands you, in the name of God: give up. Relinquish the stolen titles that, by the gift of heaven and the laws of nature and of nations, belong to him and his heirs. That is, give up the crown and all the extensive titles that go with it, according to custom and long use. So that you’ll know this is no dubious or farfetched claim, he sends you his family tree, every line of which supports the claim. Look over this document, and when you see that he is directly descended from his most famous of famous ancestors, Edward the Third, he demands that you resign your crown and kingdom, which you wrongfully hold at the expense of himself, the true and natural owner."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Or else what follows?"
+    m:
+      - "And what will happen if I don’t?"
+
+  - sp: EXETER
+    o:
+      - "Bloody constraint, for if you hide the crown"
+      - "Even in your hearts, there will he rake for it."
+      - "Therefore in fierce tempest is he coming,"
+      - "In thunder and in earthquake like a Jove,"
+      - "That, if requiring fail, he will compel,"
+      - "And bids you, in the bowels of the Lord,"
+      - "Deliver up the crown and to take mercy"
+      - "On the poor souls for whom this hungry war"
+      - "Opens his vasty jaws, and on your head"
+      - "Turning the widows’ tears, the orphans’ cries,"
+      - "The dead men’s blood, the pining maidens’ groans,"
+      - "For husbands, fathers, and betrothèd lovers,"
+      - "That shall be swallowed in this controversy."
+      - "This is his claim, his threat’ning, and my message—"
+      - "Unless the Dauphin be in presence here,"
+      - "To whom expressly I bring greeting too."
+    m:
+      - "Bloodshed will force you to. No matter how deeply you hid the crown, even if you hid it in your own hearts, he’d dig it up. That’s why he’s coming after you like a fierce storm, with thunder and earthquakes like Jove could stir up. So, if asking you for the crown doesn’t work, he will force you to give it to him. In the name of God, then, he asks that you deliver up the crown. He says to take pity on the poor souls whom this ravenous war will swallow up. The widows’ tears, the orphans’ cries, the dead men’s blood, the girls mourning for their husbands, the fathers and the men they might have married will all be your fault. This is his claim, his threat, and my message. If the Dauphin is here, I have a message for him, too."
+
+  - sp: KING OF FRANCE
+    o:
+      - "For us, we will consider of this further."
+      - "Tomorrow shall you bear our full intent"
+      - "Back to our brother England."
+    m:
+      - "I’ll think it over. Tomorrow, I’ll let you know what I’ve decided and what answer you should deliver to the king of England."
+
+  - sp: DAUPHIN
+    o:
+      - "For the Dauphin,"
+      - "I stand here for him. What to him from England?"
+    m:
+      - "Regarding the Dauphin, you can speak to me. What’s the message from the English king?"
+
+  - sp: EXETER
+    o:
+      - "Scorn and defiance, slight regard, contempt,"
+      - "And anything that may not misbecome"
+      - "The mighty sender, doth he prize you at."
+      - "Thus says my king: an if your father’s Highness"
+      - "Do not, in grant of all demands at large,"
+      - "Sweeten the bitter mock you sent his Majesty,"
+      - "He’ll call you to so hot an answer of it"
+      - "That caves and womby vaultages of France"
+      - "Shall chide your trespass and return your mock"
+      - "In second accent of his ordinance."
+    m:
+      - "Scorn and defiance, indifference, contempt, and any insult that wouldn’t disgrace the mighty sender—that’s the value he puts on you. And my king goes on: if your royal father does not sweeten the bitter insult you sent my king and grant all our demands, Henry’s artillery will give you so resounding an answer that the very caves and vaulted cathedrals of France shall echo your mocking of him back in your face."
+
+  - sp: DAUPHIN
+    o:
+      - "Say, if my father render fair return,"
+      - "It is against my will, for I desire"
+      - "Nothing but odds with England. To that end,"
+      - "As matching to his youth and vanity,"
+      - "I did present him with the Paris balls."
+    m:
+      - "Say this: if my father sends a friendly answer, it is against my will. I want nothing but conflict with England. To that end, I presented him with the tennis balls, the perfect expression of his inexperience and frivolity."
+
+  - sp: EXETER
+    o:
+      - "He’ll make your Paris Louvre shake for it,"
+      - "Were it the mistress court of mighty Europe."
+      - "And be assured you’ll find a difference,"
+      - "As we his subjects have in wonder found,"
+      - "Between the promise of his greener days"
+      - "And these he masters now. Now he weighs time"
+      - "Even to the utmost grain. That you shall read"
+      - "In your own losses, if he stay in France."
+    m:
+      - "He’ll make your palace tremble for this insult, even if it were the mightiest in all of Europe. And, make no mistake, you’ll find, as we his subjects have, an amazing difference between the king as a young man and the way he is now. Now he uses his time wisely, as you will see by your own casualties, if he remains in France."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Tomorrow shall you know our mind at full."
+    m:
+      - "We’ll give you an answer tomorrow."
+
+  - os: "Flourish"
+    ms: "A trumpet plays."
+
+  - sp: EXETER
+    o:
+      - "Dispatch us with all speed, lest that our king"
+      - "Come here himself to question our delay,"
+      - "For he is footed in this land already."
+    m:
+      - "Don’t take too long, unless you want our king to come after me to ask what’s holding things up, because he’s already landed here."
+
+  - sp: KING OF FRANCE
+    o:
+      - "You shall be soon dispatched with fair conditions."
+      - "A night is but small breath and little pause"
+      - "To answer matters of this consequence."
+    m:
+      - "You’ll have your answer soon. A night isn’t much time for addressing matters of this importance."
+
+  - os: "Flourish"
+    ms: "A trumpet sounds."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,680 @@
+play: Antony and Cleopatra
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter ENOBARBUS, LAMPRIUS, a SOOTHSAYER, Rannius, LUCILLIUS, CHARMIAN, IRAS, MARDIAN the eunuch, and ALEXAS"
+    ms: "ENOBARBUS, LAMPRIUS, the FORTUNETELLER, Rannius, LUCILLUS, CHARMIAN, IRAS, MARDIAN the eunuch, and ALEXAS enter."
+
+  - sp: CHARMIAN
+    o:
+      - "Lord Alexas, sweet Alexas, most anything Alexas, almost most absolute Alexas, where’s the soothsayer that you praised so to th’ Queen? Oh that I knew this husband, which, you say, must charge his horns with garlands!"
+    m:
+      - "Lord Alexas, sweet Alexas, most anything Alexas, almost the most consummate Alexas, where’s the fortuneteller you recommended so highly to the Queen? Oh, I only wish I knew the name of that husband you said he predicted will have a cheating wife!"
+
+  - sp: ALEXAS
+    o:
+      - "Soothsayer!"
+    m:
+      - "*(calling)* Fortuneteller!"
+
+  - sp: SOOTHSAYER
+    o:
+      - "Your will?"
+    m:
+      - "What can I do for you?"
+
+  - sp: CHARMIAN
+    o:
+      - "*(to ALEXAS)* Is this the man? *(to SOOTHSAYER)* Is ’t you, sir, that know things?"
+    m:
+      - "*(to ALEXAS)* Is this the man you recommended? *(to the FORTUNETELLER)* Are you the man who knows the future?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "In nature’s infinite book of secrecy"
+      - "A little I can read."
+    m:
+      - "I can understand a few of nature’s infinite secrets."
+
+  - sp: ALEXAS
+    o:
+      - "*(to CHARMIAN)*         Show him your hand."
+    m:
+      - "*(to CHARMIAN)* Give him your hand to read."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(to servants within)* Bring in the banquet quickly. Wine enough"
+      - "Cleopatra’s health to drink."
+    m:
+      - "*(to the servants)* Bring the dessert in right away, and make sure there’s enough wine to toast Cleopatra’s health."
+
+  - sp: CHARMIAN
+    o:
+      - "*(giving hand to SOOTHSAYER)* Good sir, give me good fortune."
+    m:
+      - "*(giving her hand to the FORTUNETELLER)* Kind sir, give me a good fortune."
+
+  - sp: SOOTHSAYER
+    o:
+      - "I make not, but foresee."
+    m:
+      - "I don’t make fortunes; I only see them."
+
+  - sp: CHARMIAN
+    o:
+      - "Pray, then, foresee me one."
+    m:
+      - "Then see a good one for me."
+
+  - sp: SOOTHSAYER
+    o:
+      - "You shall be yet far fairer than you are."
+    m:
+      - "Your beauty will be even greater than it is now."
+
+  - sp: CHARMIAN
+    o:
+      - "*(to the others)* He means in flesh."
+    m:
+      - "*(to the others)* He means I’ll get fat."
+
+  - sp: IRAS
+    o:
+      - "No, you shall paint when you are old."
+    m:
+      - "No, he means you’ll use makeup when you’re old."
+
+  - sp: CHARMIAN
+    o:
+      - "Wrinkles forbid!"
+    m:
+      - "May my wrinkles forbid that!"
+
+  - sp: ALEXAS
+    o:
+      - "Vex not his prescience. Be attentive."
+    m:
+      - "Don’t joke about his predictions. Pay attention."
+
+  - sp: CHARMIAN
+    o:
+      - "Hush!"
+    m:
+      - "Quiet!"
+
+  - sp: SOOTHSAYER
+    o:
+      - "You shall be more beloving than beloved."
+    m:
+      - "You will love more than you are loved."
+
+  - sp: CHARMIAN
+    o:
+      - "I had rather heat my liver with drinking."
+    m:
+      - "I would rather get passion from drink than from love."
+
+  - sp: ALEXAS
+    o:
+      - "Nay, hear him."
+    m:
+      - "Just listen to him."
+
+  - sp: CHARMIAN
+    o:
+      - "Good now, some excellent fortune! Let me be married to three kings in a forenoon and widow them all. Let me have a child at fifty, to whom Herod of Jewry may do homage. Find me to marry me with Octavius Caesar, and companion me with my mistress."
+    m:
+      - "Be kind now and tell me some excellent fortune. Tell me that I’ll marry three kings before noon and be widowed by all of them. Tell me I’ll have a child when I’m fifty who will be honored even by Herod of Judea. Let me marry Octavius Caesar and become my Queen’s equal."
+
+  - sp: SOOTHSAYER
+    o:
+      - "You shall outlive the lady whom you serve."
+    m:
+      - "You will outlive the Queen."
+
+  - sp: CHARMIAN
+    o:
+      - "Oh, excellent! I love long life better than figs."
+    m:
+      - "Oh, excellent! I love long life better than figs."
+
+  - sp: SOOTHSAYER
+    o:
+      - "You have seen and proved a fairer former fortune"
+      - "Than that which is to approach."
+    m:
+      - "You have already had better fortune than the future will bring."
+
+  - sp: CHARMIAN
+    o:
+      - "Then belike my children shall have no names. Prithee, how many boys and wenches must I have?"
+    m:
+      - "Then my children will probably be illegitimate. Tell me, please: how many boys and girls will I have?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "If every of your wishes had a womb,"
+      - "And fertile every wish, a million."
+    m:
+      - "If every time you wished for a child you could have had one, you would have a million children."
+
+  - sp: CHARMIAN
+    o:
+      - "Out, fool! I forgive thee for a witch."
+    m:
+      - "Get out of here, you fool! Since you’re a fortuneteller I won’t bring charges of witchcraft against you."
+
+  - sp: ALEXAS
+    o:
+      - "You think none but your sheets are privy to your wishes."
+    m:
+      - "You seem to think no one outside of your bedroom knows what you wish."
+
+  - sp: CHARMIAN
+    o:
+      - "*(to SOOTHSAYER)* Nay, come, tell Iras hers."
+    m:
+      - "*(to FORTUNETELLER)* Never mind. Tell Iras’ fortune."
+
+  - sp: ALEXAS
+    o:
+      - "We’ll know all our fortunes."
+    m:
+      - "We’ll all want our fortune told."
+
+  - sp: ENOBARBUS
+    o:
+      - "Mine, and most of our fortunes tonight, shall be—drunk to bed."
+    m:
+      - "My fortune—like that of many of us tonight—is to go drunk to bed."
+
+  - sp: IRAS
+    o:
+      - "*(giving her hand to the SOOTHSAYER)* There’s a palm presages chastity, if nothing else."
+    m:
+      - "*(giving her hand to the FORTUNETELLER)* There’s a palm that will predict a chaste life, if nothing else."
+
+  - sp: CHARMIAN
+    o:
+      - "E’en as the o’erflowing Nilus presageth famine."
+    m:
+      - "Like the overflowing Nile predicts famine."
+
+  - sp: IRAS
+    o:
+      - "Go, you wild bedfellow, you cannot soothsay."
+    m:
+      - "Oh stop it, you lusty bed-hopper. You can’t see the future."
+
+  - sp: CHARMIAN
+    o:
+      - "Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear.—Prithee, tell her but a workaday fortune."
+    m:
+      - "Well, if a moist palm isn’t a clear sign of promiscuity, then I can’t scratch my own ear. *(to FORTUNETELLER)* Please, tell her an ordinary fortune."
+
+  - sp: SOOTHSAYER
+    o:
+      - "Your fortunes are alike."
+    m:
+      - "Your fortunes are the same."
+
+  - sp: IRAS
+    o:
+      - "But how, but how? Give me particulars."
+    m:
+      - "But how? How is that possible? Give me details."
+
+  - sp: SOOTHSAYER
+    o:
+      - "I have said."
+    m:
+      - "I’ve said what I have to say."
+
+  - sp: IRAS
+    o:
+      - "Am I not an inch of fortune better than she?"
+    m:
+      - "Isn’t my fortune just a little better than hers? By an inch, even?"
+
+  - sp: CHARMIAN
+    o:
+      - "Well, if you were but an inch of fortune better than I, where would you choose it?"
+    m:
+      - "Well, if you could have just an inch of better fortune than me, where would you like the improvement?"
+
+  - sp: IRAS
+    o:
+      - "Not in my husband’s nose."
+    m:
+      - "Not in my husband’s nose."
+
+  - sp: CHARMIAN
+    o:
+      - "Our worser thoughts heavens mend. Alexas! *(to SOOTHSAYER)* Come, his fortune, his fortune! Oh, let him marry a woman that cannot go, sweet Isis, I beseech thee, and let her die too, and give him a worse, and let worse follow worse, till the worst of all follow him laughing to his grave, fifty-fold a cuckold! Good Isis, hear me this prayer, though thou deny me a matter of more weight, good Isis, I beseech thee!"
+    m:
+      - "May heaven save us from indecent thoughts! Alexas! *(to the FORTUNETELLER)* Come and tell his fortune. Let him marry a woman he can’t satisfy, dear Isis, I pray! And then let her die, and give him someone worse. Then let *her* die, and let her replacement be even worse. And so on until the last one, who is unfaithful with at least fifty other men and laughs at him until he dies. I beg you to grant my prayer, good Isis, even though it means you deny me something more important for myself. Good Isis, I beg you!"
+
+  - sp: IRAS
+    o:
+      - "Amen, dear goddess, hear that prayer of the people! For, as it is a heartbreaking to see a handsome man loose-wived, so it is a deadly sorrow to behold a foul knave uncuckolded. Therefore, dear Isis, keep decorum, and fortune him accordingly."
+    m:
+      - "Amen, dear goddess. Listen to our prayer. If it’s sad to see a handsome man with a cheating wife, it’s a tragedy to see an ugly thug with a wife who’s faithful. Therefore, dear Isis, do the right thing and give him the fortune he deserves."
+
+  - sp: CHARMIAN
+    o:
+      - "Amen."
+    m:
+      - "Amen."
+
+  - sp: ALEXAS
+    o:
+      - "*(to himself)* Lo now, if it lay in their hands to make me a cuckold, they would make themselves whores but they’d do ’t."
+    m:
+      - "*(to himself)* See! If they could make me a cuckold, they’d whore themselves in order to see it done."
+
+  - sp: ENOBARBUS
+    o:
+      - "Hush! Here comes Antony."
+    m:
+      - "Quiet! Here comes Antony."
+
+  - sp: CHARMIAN
+    o:
+      - "Not he. The Queen."
+    m:
+      - "It’s not him; it’s the Queen."
+
+  - os: "*Enter* CLEOPATRA"
+    ms: "CLEOPATRA enters."
+
+  - sp: CLEOPATRA
+    o:
+      - "Saw you my lord?"
+    m:
+      - "Have you seen my lord?"
+
+  - sp: ENOBARBUS
+    o:
+      - "No, lady."
+    m:
+      - "No, lady."
+
+  - sp: CLEOPATRA
+    o:
+      - "Was he not here?"
+    m:
+      - "Wasn’t he here?"
+
+  - sp: CHARMIAN
+    o:
+      - "No, madam."
+    m:
+      - "No, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "He was disposed to mirth, but on the sudden"
+      - "A Roman thought hath struck him.—Enobarbus!"
+    m:
+      - "He was in a good mood, and then suddenly he started thinking of Rome. Enobarbus?"
+
+  - sp: ENOBARBUS
+    o:
+      - "Madam?"
+    m:
+      - "Madam?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Seek him and bring him hither.—"
+      - "Where’s Alexas?"
+    m:
+      - "Find him and bring him here. Where’s Alexas?"
+
+  - sp: ALEXAS
+    o:
+      - "Here at your service. My lord approaches."
+    m:
+      - "Here, at your service. Here comes my lord."
+
+  - os: "Enter ANTONY with the FIRST MESSENGER"
+    ms: "ANTONY and the FIRST MESSENGER enter."
+
+  - sp: CLEOPATRA
+    o:
+      - "We will not look upon him. Go with us."
+    m:
+      - "I won’t see him. Everyone come with me."
+
+  - os: "Exeunt all but ANTONY and the FIRST MESSENGER"
+    ms: "Everyone follows CLEOPATRA out, leaving ANTONY and the FIRST MESSENGER."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "Fulvia thy wife first came into the field."
+    m:
+      - "Your wife, Fulvia, mustered her army first."
+
+  - sp: ANTONY
+    o:
+      - "Against my brother Lucius?"
+    m:
+      - "Against my brother Lucius?"
+
+  - sp: FIRST MESSENGER
+    o:
+      - "Ay."
+      - "But soon that war had end, and the time’s state"
+      - "Made friends of them, joining their force ’gainst Caesar,"
+      - "Whose better issue in the war from Italy"
+      - "Upon the first encounter drave them."
+    m:
+      - "Yes. But that war ended as soon as circumstances made it advisable for them to join together against Caesar. But in their very first battle, Caesar won and drove them out of Italy."
+
+  - sp: ANTONY
+    o:
+      - "Well, what worst?"
+    m:
+      - "Well, give me the worst news."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "The nature of bad news infects the teller."
+    m:
+      - "The bearer of bad news is often blamed for it."
+
+  - sp: ANTONY
+    o:
+      - "When it concerns the fool or coward. On."
+      - "Things that are past are done, with me. ’Tis thus:"
+      - "Who tells me true, though in his tale lie death,"
+      - "I hear him as he flattered."
+    m:
+      - "Only if the hearer is a fool or a coward. Go on. As far as I’m concerned, what’s past is done. It’s like this: as long as a person tells me the truth, even though it means my death, I will listen as though he praised me."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "    Labienus—"
+      - "This is stiff news—hath with his Parthian force"
+      - "Extended Asia: from Euphrates"
+      - "His conquering banner shook, from Syria"
+      - "To Lydia and to Ionia,"
+      - "Whilst—"
+    m:
+      - "The news is disturbing. Labienus, with the army he led in Parthia, has conquered all of Asia, all the way to the Euphrates River, including Syria, Lydia, and Ionia, while—"
+
+  - sp: ANTONY
+    o:
+      - "“Antony,” thou wouldst say."
+    m:
+      - "“While Antony . . .” is what you want to say."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "    O my lord!"
+    m:
+      - "Oh, my lord!"
+
+  - sp: ANTONY
+    o:
+      - "Speak to me home. Mince not the general tongue."
+      - "Name Cleopatra as she is called in Rome."
+      - "Rail thou in Fulvia’s phrase, and taunt my faults"
+      - "With such full license as both truth and malice"
+      - "Have power to utter. Oh, then we bring forth weeds"
+      - "When our quick minds lie still, and our ills told us"
+      - "Is as our earing."
+    m:
+      - "Speak plainly. Don’t tone down what the people are saying. Call Cleopatra what the Romans call her. Use Fulvia’s abusive language. Freely scold me for my faults with as much severity as an enemy with truth on his side. It’s easy to err when left to our own devices, but criticism helps us to see our faults and correct them."
+
+  - os: "Enter SECOND MESSENGER"
+    ms: "A SECOND MESSENGER enters."
+
+  - o:
+      - "    Fare thee well awhile."
+    m:
+      - "Good-bye for a while."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "At your noble pleasure."
+    m:
+      - "I’ll be at your service."
+
+  - os: "Exit FIRST MESSENGER"
+    ms: "The FIRST MESSENGER exits."
+
+  - sp: ANTONY
+    o:
+      - "From Sicyon, how, the news? Speak there."
+    m:
+      - "What’s the news from Sicyon. Tell me."
+
+  - sp: SECOND MESSENGER
+    o:
+      - "The man from Sicyon—"
+    m:
+      - "The man from Sicyon—"
+
+  - sp: ANTONY
+    o:
+      - "    Is there such an one?"
+    m:
+      - "Is he here?"
+
+  - sp: SECOND MESSENGER
+    o:
+      - "He stays upon your will."
+    m:
+      - "He’s waiting outside."
+
+  - sp: ANTONY
+    o:
+      - "    Let him appear."
+    m:
+      - "Have him come in."
+
+  - os: "Exit SECOND MESSENGER"
+    ms: "The SECOND MESSENGER exits."
+
+  - o:
+      - "These strong Egyptian fetters I must break,"
+      - "Or lose myself in dotage."
+    m:
+      - "*(to himself)* I must break Cleopatra’s powerful hold over me or else I’ll lose myself in foolish infatuation."
+
+  - os: "Enter THIRD MESSENGER, with a letter"
+    ms: "A THIRD MESSENGER enters with a letter."
+
+  - o:
+      - "    What are you?"
+    m:
+      - "What’s your message?"
+
+  - sp: THIRD MESSENGER
+    o:
+      - "Fulvia thy wife is dead."
+    m:
+      - "Your wife, Fulvia, is dead."
+
+  - sp: ANTONY
+    o:
+      - "    Where died she?"
+    m:
+      - "Where did she die?"
+
+  - sp: THIRD MESSENGER
+    o:
+      - "In Sicyon."
+      - "Her length of sickness, with what else more serious"
+      - "Importeth thee to know, this bears."
+    m:
+      - "In Sicyon. In this letter you’ll find details of her illness and other, more serious matters that concern you."
+
+  - os: "He gives ANTONY a letter"
+    ms: "He hands the letter to ANTONY."
+
+  - sp: ANTONY
+    o:
+      - "    Forbear me."
+    m:
+      - "Leave me."
+
+  - os: "*Exit* THIRD MESSENGER"
+    ms: "The THIRD MESSENGER exits."
+
+  - o:
+      - "*(to himself)* There’s a great spirit gone! Thus did I desire it."
+      - "What our contempts doth often hurl from us"
+      - "We wish it ours again. The present pleasure,"
+      - "By revolution lowering, does become"
+      - "The opposite of itself. She’s good, being gone."
+      - "The hand could pluck her back that shoved her on."
+      - "I must from this enchanting Queen break off."
+      - "Ten thousand harms, more than the ills I know"
+      - "My idleness doth hatch.—How now, Enobarbus!"
+    m:
+      - "*(to himself)* A great spirit has gone from the world! This is what I wanted. Once it’s gone, the very thing we reject becomes what we desire. What’s enjoyable one day becomes the opposite as time rolls around. Now that she’s gone, I want her. Now I would call her back, though I pushed her away. I have to break from this beguiling Queen. The time I’ve wasted here has caused ten thousand more problems than the ones I know about*. (calling)* Are you there, Enobarbus?"
+
+  - os: "Enter ENOBARBUS"
+    ms: "ENOBARBUS enters."
+
+  - sp: ENOBARBUS
+    o:
+      - "What’s your pleasure, sir?"
+    m:
+      - "What would you like, sir?"
+
+  - sp: ANTONY
+    o:
+      - "I must with haste from hence."
+    m:
+      - "I have to leave right away."
+
+  - sp: ENOBARBUS
+    o:
+      - "Why, then, we kill all our women. We see how mortal an unkindness is to them. If they suffer our departure, death’s the word."
+    m:
+      - "That will kill our lovers. We know how much they suffer if we are unkind to them. If we leave, it will feel like nothing less than death to them."
+
+  - sp: ANTONY
+    o:
+      - "I must be gone."
+    m:
+      - "I must be gone."
+
+  - sp: ENOBARBUS
+    o:
+      - "Under a compelling occasion, let women die. It were pity to cast them away for nothing, though between them and a great cause they should be esteemed nothing. Cleopatra, catching but the least noise of this, dies instantly. I have seen her die twenty times upon far poorer moment. I do think there is mettle in death, which commits some loving act upon her, she hath such a celerity in dying."
+    m:
+      - "If it’s that important, then let the women die. It would be a pity to throw them away for nothing, but if it’s a matter of choosing between them and a great cause, then they’re worthless. If Cleopatra hears even a breath of this, she’ll die immediately. I’ve seen her claim to be dying twenty times before, and for far less reason. I think there must be something invigorating about death, since she dies with such enthusiasm."
+
+  - sp: ANTONY
+    o:
+      - "She is cunning past man’s thought."
+    m:
+      - "She’s more cunning than anyone can imagine."
+
+  - sp: ENOBARBUS
+    o:
+      - "Alack, sir, no, her passions are made of nothing but the finest part of pure love. We cannot call her winds and waters sighs and tears. They are greater storms and tempests than almanacs can report. This cannot be cunning in her. If it be, she makes a shower of rain as well as Jove."
+    m:
+      - "Alas, sir, no, her feelings come from pure love, not cleverness. Her sighs and tears are like great winds and floods. She has more storms and tempests in her than a weather almanac. Her temper is not a trick or a skill—if it is, she can make it rain as well as Jove."
+
+  - sp: ANTONY
+    o:
+      - "Would I had never seen her!"
+    m:
+      - "I wish I’d never seen her!"
+
+  - sp: ENOBARBUS
+    o:
+      - "O sir, you had then left unseen a wonderful piece of work which not to have been blessed withal would have discredited your travel."
+    m:
+      - "Then you’d have missed an amazing piece of work, sir, and your trip would have been poorer for the loss."
+
+  - sp: ANTONY
+    o:
+      - "Fulvia is dead."
+    m:
+      - "Fulvia is dead."
+
+  - sp: ENOBARBUS
+    o:
+      - "Sir?"
+    m:
+      - "Pardon me?"
+
+  - sp: ANTONY
+    o:
+      - "Fulvia is dead."
+    m:
+      - "Fulvia is dead."
+
+  - sp: ENOBARBUS
+    o:
+      - "Fulvia?"
+    m:
+      - "Fulvia?"
+
+  - sp: ANTONY
+    o:
+      - "Dead."
+    m:
+      - "Dead."
+
+  - sp: ENOBARBUS
+    o:
+      - "Why, sir, give the gods a thankful sacrifice. When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth, comforting therein, that when old robes are worn out, there are members to make new. If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented. This grief is crowned with consolation. Your old smock brings forth a new petticoat, and indeed the tears live in an onion that should water this sorrow."
+    m:
+      - "Then you should offer the gods a sacrifice to show your thanks. When a man’s wife dies, he can be comforted by the knowledge that there are replacements to be found. If Fulvia were the last woman on earth, there would be a reason to grieve. But in this way, grief and comfort appear together. The only kind of tears you should shed in this case are the kind you might get from holding an onion to your nose."
+
+  - sp: ANTONY
+    o:
+      - "The business she hath broached in the state"
+      - "Cannot endure my absence."
+    m:
+      - "I must go and continue the business Fulvia started."
+
+  - sp: ENOBARBUS
+    o:
+      - "And the business you have broached here cannot be without you, especially that of Cleopatra’s, which wholly depends on your abode."
+    m:
+      - "The business you began here needs you as well—especially the business with Cleopatra, which only you can attend to."
+
+  - sp: ANTONY
+    o:
+      - "No more light answers. Let our officers"
+      - "Have notice what we purpose. I shall break"
+      - "The cause of our expedience to the Queen"
+      - "And get her leave to part. For not alone"
+      - "The death of Fulvia, with more urgent touches,"
+      - "Do strongly speak to us, but the letters too"
+      - "Of many our contriving friends in Rome"
+      - "Petition us at home. Sextus Pompeius"
+      - "Hath given the dare to Caesar and commands"
+      - "The empire of the sea. Our slippery people,"
+      - "Whose love is never linked to the deserver"
+      - "Till his deserts are past, begin to throw"
+      - "Pompey the Great and all his dignities"
+      - "Upon his son, who—high in name and power,"
+      - "Higher than both in blood and life—stands up"
+      - "For the main soldier, whose quality, going on,"
+      - "The sides o’ th’ world may danger. Much is breeding"
+      - "Which, like the courser’s hair, hath yet but life,"
+      - "And not a serpent’s poison. Say our pleasure,"
+      - "To such whose place is under us, requires"
+      - "Our quick remove from hence."
+    m:
+      - "Enough of this frivolous talk. Give our officers notice of our intentions. I’ll tell the Queen the reason for our quick departure and get her permission to leave. Fulvia’s death and the pressing concerns related to it are not the only reasons I am eager to go; friends in Rome have also sent many letters advising my return. Sextus Pompeius has challenged Caesar. His fleet controls the sea. Our fickle citizens—who never reward service until that service is over—are now giving all the rights and honors won by Pompey the Great to his son, Sextus. Sextus has great honor and power, and his spirit and energy are even greater, all of which makes him the most formidable soldier in the empire. The empire may be in danger if he’s not restrained before he reaches his full potential. There are many troubles brewing now that have yet to become full-fledged threats. Like horse’s hairs dropped in a bucket of water, they come alive like snakes but as yet they bear no poison. Relay our intentions to the officers who will be in charge of the move."
+
+  - sp: ENOBARBUS
+    o:
+      - "I shall do ’t."
+    m:
+      - "I will."
+
+  - os: "Exeunt"
+    ms: "They both exit."

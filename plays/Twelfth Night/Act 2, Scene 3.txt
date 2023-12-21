@@ -1,0 +1,553 @@
+play: Twelfth Night
+title: Act 2, Scene 3
+group: 2
+order: 7
+text:
+  - os: "Enter SIR TOBY BELCH and SIR ANDREW"
+    ms: "SIR TOBY BELCH and SIR ANDREW enter."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Approach, Sir Andrew. Not to be abed after midnight is to be up betimes, and *diluculo surgere,* thou know’st,—"
+    m:
+      - "Come on, Sir Andrew. If we’re still awake after midnight, then we’re up early in the morning. And the doctors say it’s healthy to get up early—"
+
+  - sp: SIR ANDREW
+    o:
+      - "Nay, my troth, I know not. But I know to be up late is to be up late."
+    m:
+      - "I don’t know what the doctors say. All I know is that staying up late is staying up late."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "A false conclusion. I hate it as an unfilled can. To be up after midnight and to go to bed then, is early, so that to go to bed after midnight is to go to bed betimes. Does not our life consist of the four elements?"
+    m:
+      - "A false conclusion. I hate your logic as much as I hate an empty drinking cup. Staying up after midnight means that you go to bed after midnight, in the wee hours of the morning, which is early. So it’s like going to bed early. Isn’t everybody made up of the four elements—earth, water, fire, and air?"
+
+  - sp: SIR ANDREW
+    o:
+      - "Faith, so they say, but I think it rather consists of eating and drinking."
+    m:
+      - "That’s what they say, but I think life consists of food and booze."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Thou’rt a scholar. Let us therefore eat and drink. Marian,"
+      - "I say! A stoup of wine!"
+    m:
+      - "You’re a smart guy. So we should eat and drink. Maria! Bring us some wine!"
+
+  - os: "Enter FOOL"
+    ms: "The FOOL enters."
+
+  - sp: SIR ANDREW
+    o:
+      - "Here comes the fool, i’ faith."
+    m:
+      - "Look, here comes the fool."
+
+  - sp: FOOL
+    o:
+      - "How now, my hearts! Did you never see the picture of “We"
+      - "Three”?"
+    m:
+      - "Hello, my friends! What a pretty picture, three fools all together."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Welcome, ass. Now let’s have a catch."
+    m:
+      - "Hello, you idiot. Sing us a song."
+
+  - sp: SIR ANDREW
+    o:
+      - "By my troth, the fool has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the fool has.—*(to the FOOL)* In sooth, thou wast in very gracious fooling last night when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus. ’Twas very good, i’ faith. I sent thee sixpence for thy leman. Hadst it?"
+    m:
+      - "I swear, this fool has an excellent singing voice. I’d give forty shillings to have his nice legs and his beautiful voice. *(to the FOOL)* Fool, you were very funny last night talking that astrological nonsense about Pigrogromitus and the Vapians passing the equinox of Queubus. Very amusing. I sent you some money to spend on your girlfriend. Did you get it?"
+
+  - sp: FOOL
+    o:
+      - "I did impeticos thy gratillity, for Malvolio’s nose is no whipstock. My lady has a white hand, and the Myrmidons are no bottle-ale houses."
+    m:
+      - "I gave your little present to my girlfriend because you can’t get a grip on Malvolio’s nose to whip your horse with it. My girlfriend has beautiful white hands, and great warriors aren’t mom-and-pop diners, you know."
+
+  - sp: SIR ANDREW
+    o:
+      - "Excellent! Why, this is the best fooling when all is done."
+      - "Now, a song."
+    m:
+      - "Ha, ha! I love it when you talk nonsense—that’s what fools should do. Come on now, sing for us."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(giving money to the FOOL)*"
+      - "Come on. There is sixpence for you. Let’s have a song."
+    m:
+      - "*(giving the FOOL money)* Yes, come on. Here’s sixpence for you. Let’s hear a song."
+
+  - sp: SIR ANDREW
+    o:
+      - "*(giving money to the FOOL)*"
+      - "There’s a testril of me too. If one knight give a—"
+    m:
+      - "*(giving the FOOL money)* Here’s something from me too. If one knight gives—"
+
+  - sp: FOOL
+    o:
+      - "Would you have a love song or a song of good life?"
+    m:
+      - "Would you rather hear a love song or a song about the good life?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "A love song, a love song."
+    m:
+      - "A love song, a love song."
+
+  - sp: SIR ANDREW
+    o:
+      - "Ay, ay. I care not for good life."
+    m:
+      - "Yes, yes. I’m not interested in being good."
+
+  - sp: FOOL
+    o:
+      - "*(sings)*"
+      - "*O mistress mine, where are you roaming?*"
+      - "*O, stay and hear! Your true love’s coming,*"
+      - "*That can sing both high and low:*"
+      - "*Trip no further, pretty sweeting.*"
+      - "*Journeys end in lovers meeting,*"
+      - "*Every wise man’s son doth know.*"
+    m:
+      - "*(he sings)*"
+      - "*Oh my lover, where are you roaming? Stay and listen! Your true love’s coming, the one who can sing both high and low: Don’t roam any further, pretty darling. Your journey ends when you meet a lover, as every wise man’s son knows.*"
+
+  - sp: SIR ANDREW
+    o:
+      - "Excellent good, i’ faith."
+    m:
+      - "That was excellent, really excellent."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Good, good."
+    m:
+      - "Good, very good."
+
+  - sp: FOOL
+    o:
+      - "*(sings)*"
+      - "*What is love? ’Tis not hereafter.*"
+      - "*Present mirth hath present laughter.*"
+      - "*What’s to come is still unsure.*"
+      - "*In delay there lies no plenty.*"
+      - "*Then come kiss me, sweet and twenty.*"
+      - "*Youth’s a stuff will not endure.*"
+    m:
+      - "*(singing)*"
+      - "*What is love? It isn’t in the future. When you’re having fun now, you’re laughing right now. The future’s unsure, and there’s no reason to waste time. Come kiss me while you’re twenty. You won’t be young forever.*"
+
+  - sp: SIR ANDREW
+    o:
+      - "A mellifluous voice, as I am true knight."
+    m:
+      - "A beautiful voice, I swear."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "A contagious breath."
+    m:
+      - "His breath stinks."
+
+  - sp: SIR ANDREW
+    o:
+      - "Very sweet and contagious, i’ faith."
+    m:
+      - "Yes, it stinks very sweetly."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "To hear by the nose, it is dulcet in contagion. But shall we make the welkin dance indeed? Shall we rouse the night owl in a catch that will draw three souls out of one weaver? Shall we do that?"
+    m:
+      - "If we could listen to him with our noses, we would definitely say he stinks very sweetly. So what do you say, should we sing loud enough to shake the heavens? Should we sing a round to wake up the night owl? Should we do that?"
+
+  - sp: SIR ANDREW
+    o:
+      - "An you love me, let’s do ’t. I am dog at a catch."
+    m:
+      - "Let’s go for it. I’m a very good singer, and can sing rounds like a dog."
+
+  - sp: FOOL
+    o:
+      - "By ’r lady, sir, and some dogs will catch well."
+    m:
+      - "Then you’ll be good at catchy tunes. Dogs like to play catch."
+
+  - sp: SIR ANDREW
+    o:
+      - "Most certain. Let our catch be “Thou Knave.”"
+    m:
+      - "Absolutely. Let’s dance to “You Jerk.”"
+
+  - sp: FOOL
+    o:
+      - "“Hold thy peace, thou knave,” knight? I shall be constrained in ’t to call thee knave, knight."
+    m:
+      - "You mean, “Shut up, you jerk”? That’s the song where the singers call each other jerks, right? So I’ll be forced to call you a jerk, Sir Andrew."
+
+  - sp: SIR ANDREW
+    o:
+      - "’Tis not the first time I have constrained one to call me"
+      - "“knave.” Begin, Fool. It begins “Hold thy peace.”"
+    m:
+      - "It won’t be the first time someone was forced to call me that. You start, Fool. It starts, “Shut up.”"
+
+  - sp: FOOL
+    o:
+      - "I shall never begin if I hold my peace."
+    m:
+      - "I’ll never be able to start if I shut up."
+
+  - sp: SIR ANDREW
+    o:
+      - "Good, i’ faith. Come, begin."
+    m:
+      - "That’s true. But come on, start."
+
+  - os: "Catch sung"
+    ms: "They sing."
+
+  - os: "Enter MARIA"
+    ms: "MARIA enters."
+
+  - sp: MARIA
+    o:
+      - "What a caterwauling do you keep here! If my lady have not called up her steward Malvolio and bid him turn you out of doors, never trust me."
+    m:
+      - "You’re making a terrible racket out here! Lady Olivia told her servant Malvolio to kick you out of the house. I swear it’s true."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "My lady’s a Cataian. We are politicians, Malvolio’s a Peg- a-Ramsey, and *(sings) Three merry men be we.*—Am not I consanguineous? Am I not of her blood? Tillyvally! “Lady”! *(sings) There dwelt a man in Babylon, lady, lady!*"
+    m:
+      - "Lady Olivia can go to China for all I care. We’re very smart guys, and Malvolio’s Little Bo Peep. *(he sings) We’re just having some fun.*—Aren’t I her relative, after all? Aren’t we related? Fiddle-dee-dee, “Lady!” *(singing) There lived a man in Babylon, lady, lady!*"
+
+  - sp: FOOL
+    o:
+      - "Beshrew me, the knight’s in admirable fooling."
+    m:
+      - "Gosh, the knight’s very good at acting like a fool."
+
+  - sp: SIR ANDREW
+    o:
+      - "Ay, he does well enough if he be disposed, and so do I too."
+      - "He does it with a better grace, but I do it more natural."
+    m:
+      - "Yes, he’s good at it when he’s in the mood, and so am I. He’s practiced more, but it comes more naturally to me."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(sings)* O’ the twelfth day of December—"
+    m:
+      - "*(he sings)* On the twelfth day of December—"
+
+  - sp: MARIA
+    o:
+      - "For the love o’ God, peace!"
+    m:
+      - "For God’s sake, shut up!"
+
+  - os: "Enter MALVOLIO"
+    ms: "MALVOLIO enters."
+
+  - sp: MALVOLIO
+    o:
+      - "My masters, are you mad? Or what are you? Have you no wit, manners, nor honesty but to gabble like tinkers at this time of night? Do you make an alehouse of my lady’s house, that you squeak out your coziers’ catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor time in you?"
+    m:
+      - "Are you all crazy? What’s wrong with you? Are you making all this noise at this time of night because you have no manners, or because you’re just stupid? Are you trying to turn my mistress’ house into a noisy bar? Is that why you’re squealing out these ridiculous vulgar songs without lowering your voices at all? Don’t you have any respect for anything?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "We did keep time, sir, in our catches. Sneck up!"
+    m:
+      - "We respected the beat of the song, sir. So shut up!"
+
+  - sp: MALVOLIO
+    o:
+      - "Sir Toby, I must be round with you. My lady bade me tell you, that, though she harbors you as her kinsman, she’s nothing allied to your disorders. If you can separate yourself and your misdemeanors, you are welcome to the house. If not, an it would please you to take leave of her, she is very willing to bid you farewell."
+    m:
+      - "Sir Toby, I’ve got to be frank with you. My lady told me to tell you that while she lets you stay at her house because you’re a relative, she doesn’t approve of your behavior. If you can shape up, you’re welcome to stay in the house. If you can’t, and would prefer to leave, she’s very willing to say goodbye to you."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(sings) Farewell, dear heart, since I must needs be gone.*"
+    m:
+      - "*(he sings) Goodnight, sweetheart, I’m going to leave you now.*"
+
+  - sp: MARIA
+    o:
+      - "Nay, good Sir Toby."
+    m:
+      - "No, good Sir Toby."
+
+  - sp: FOOL
+    o:
+      - "*(sings) His eyes do show his days are almost done.*"
+    m:
+      - "*(singing) You can tell from his eyes that his life is almost over.*"
+
+  - sp: MALVOLIO
+    o:
+      - "Is ’t even so?"
+    m:
+      - "Is this how it’s going to be?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(sings) But I will never die.*"
+    m:
+      - "*(singing) But I will never die.*"
+
+  - sp: FOOL
+    o:
+      - "*(sings) Sir Toby, there you lie.*"
+    m:
+      - "*(singing) Sir Toby, that’s a lie.*"
+
+  - sp: MALVOLIO
+    o:
+      - "This is much credit to you."
+    m:
+      - "This behavior really makes you look great."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(sings) Shall I bid him go?*"
+    m:
+      - "*(singing) Should I tell him to go?*"
+
+  - sp: FOOL
+    o:
+      - "*(sings) What an if you do?*"
+    m:
+      - "*(singing) What if y,ou do?*"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(sings) Shall I bid him go, and spare not?*"
+    m:
+      - "*(singing) Should I tell him to go, and be harsh with him?*"
+
+  - sp: FOOL
+    o:
+      - "*(sings) O no, no, no, no, you dare not.*"
+    m:
+      - "*(singing) Oh no, no, no, no, don’t you dare.*"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Out o’ tune, sir. You lie. Art any more than a steward? Dost thou think, because thou art virtuous, there shall be no more cakes and ale?"
+    m:
+      - "That’s out of tune, sir. You lie. *(to MALVOLIO)* You’re nothing more than a servant here. Do you think that just because you’re a goody two shoes, no one else can enjoy himself?"
+
+  - sp: FOOL
+    o:
+      - "Yes, by Saint Anne, and ginger shall be hot i’ the mouth too."
+    m:
+      - "They certainly will. They’ll have double helpings, too."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Thou’rt i’ the right. Go, sir, rub your chain with crumbs. A stoup of wine, Maria!"
+    m:
+      - "You’re right. *(to MALVOLIO)* Go polish your steward’s chain, sir. Maria, bring us some wine!"
+
+  - sp: MALVOLIO
+    o:
+      - "Mistress Mary, if you prized my lady’s favor at anything more than contempt, you would not give means for this uncivil rule. She shall know of it, by this hand."
+    m:
+      - "Miss Mary, if you cared what Lady Olivia thinks about you at all, you wouldn’t contribute to this rude behavior. I assure you, she’ll find out about this."
+
+  - os: "Exit"
+    ms: "MALVOLIO exits."
+
+  - sp: MARIA
+    o:
+      - "Go shake your ears!"
+    m:
+      - "Go and wiggle your ears!"
+
+  - sp: SIR ANDREW
+    o:
+      - "’Twere as good a deed as to drink when a man’s a-hungry, to challenge him the field and then to break promise with him and make a fool of him."
+    m:
+      - "There’s nothing I’d love more than to make a fool out of that guy somehow. I could challenge him to a duel and then not show up. That would do the trick."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Do ’t, knight. I’ll write thee a challenge. Or I’ll deliver thy indignation to him by word of mouth."
+    m:
+      - "Do that. I’ll write a letter challenging him to a duel on your behalf. Or I’ll deliver your insults to his face."
+
+  - sp: MARIA
+    o:
+      - "Sweet Sir Toby, be patient for tonight. Since the youth of the count’s was today with thy lady, she is much out of quiet. For Monsieur Malvolio, let me alone with him. If I do not gull him into a nayword and make him a common recreation, do not think I have wit enough to lie straight in my bed. I know I can do it."
+    m:
+      - "Dear Sir Toby, don’t do anything rash tonight. Ever since the Duke’s messenger visited Olivia, she’s been upset. As for Monsieur Malvolio, let me take care of him. I’ll make a big fool out of him, just trust me. I’ll make him famous for his stupidity. Everyone will laugh at him. I know I can do it."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Possess us, possess us, tell us something of him."
+    m:
+      - "Tell us something about him. Come on, tell us something."
+
+  - sp: MARIA
+    o:
+      - "Marry, sir, sometimes he is a kind of puritan."
+    m:
+      - "Well, sometimes he acts like a goody two shoes."
+
+  - sp: SIR ANDREW
+    o:
+      - "O, if I thought that, I’d beat him like a dog!"
+    m:
+      - "Oh, I’ll beat him up for that!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "What, for being a puritan? Thy exquisite reason, dear knight?"
+    m:
+      - "You’re going to beat him up for being good? And what’s your brilliant reason for that, please?"
+
+  - sp: SIR ANDREW
+    o:
+      - "I have no exquisite reason for ’t, but I have reason good enough."
+    m:
+      - "I don’t have any “brilliant” reason for it, but I have a good enough reason."
+
+  - sp: MARIA
+    o:
+      - "The devil a puritan that he is, or anything constantly, but a time-pleaser; an affectioned ass that cons state without book and utters it by great swarths; the best persuaded of himself, so crammed, as he thinks, with excellencies, that it is his grounds of faith that all that look on him love him. And on that vice in him will my revenge find notable cause to work."
+    m:
+      - "He isn’t really that pure and good. He’s just a conceited flatterer. He’s a pretentious guy who aspires to speak and act like nobility. He’s proud, and he thinks he’s so stuffed full of wonderful qualities that everyone loves him. That’s the weakness I’ll use to get revenge on him."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "What wilt thou do?"
+    m:
+      - "What are you going to do?"
+
+  - sp: MARIA
+    o:
+      - "I will drop in his way some obscure epistles of love, wherein by the color of his beard, the shape of his leg, the manner of his gait, the expressure of his eye, forehead, and complexion,he shall find himself most feelingly personated. I can write very like my lady your niece: on a forgotten matter we can hardly make distinction of our hands."
+    m:
+      - "I’ll drop some mysterious love letters in his path. He’ll think they’re addressed to him, because they’ll describe the color of his beard, the shape of his legs, the way he walks, and the expression on his face. I can make my handwriting look just like Lady Olivia’s: she and I can’t tell the difference between each other’s handwriting."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Excellent! I smell a device."
+    m:
+      - "Excellent! Sounds like you’ve got a good trick in mind."
+
+  - sp: SIR ANDREW
+    o:
+      - "I have ’t in my nose too."
+    m:
+      - "I like it too."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "He shall think, by the letters that thou wilt drop, that they come from my niece, and that she’s in love with him."
+    m:
+      - "He’ll think these letters are from Olivia and that she’s in love with him."
+
+  - sp: MARIA
+    o:
+      - "My purpose is, indeed, a horse of that color."
+    m:
+      - "Yes, that’s the idea."
+
+  - sp: SIR ANDREW
+    o:
+      - "And your horse now would make him an ass."
+    m:
+      - "He’s going to look like a total idiot."
+
+  - sp: MARIA
+    o:
+      - "Ass, I doubt not."
+    m:
+      - "Absolutely, you idiot."
+
+  - sp: SIR ANDREW
+    o:
+      - "Oh, ’twill be admirable!"
+    m:
+      - "This is going to be great!"
+
+  - sp: MARIA
+    o:
+      - "Sport royal, I warrant you. I know my physic will work with him. I will plant you two, and let the fool make a third, where he shall find the letter. Observe his construction of it. For this night, to bed, and dream on the event. Farewell."
+    m:
+      - "It’s going to be fun, I promise. I know my medicine will work on him. I’ll have you two hide—and the fool too—right where he’ll find the letter. Watch his reaction. Meanwhile, let’s go to bed and dream about this. Good night."
+
+  - os: "Exit"
+    ms: "MARIA exits."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Good night, Penthesilea."
+    m:
+      - "Good night, you amazing woman, you."
+
+  - sp: SIR ANDREW
+    o:
+      - "Before me, she’s a good wench."
+    m:
+      - "She’s a fine woman, all right."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "She’s a beagle, true-bred, and one that adores me. What o’ that?"
+    m:
+      - "She’s a good little woman, and she adores me. What about it?"
+
+  - sp: SIR ANDREW
+    o:
+      - "I was adored once too."
+    m:
+      - "Someone adored me once, too."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Let’s to bed, knight. Thou hadst need send for more money."
+    m:
+      - "Let’s go to bed, knight. Tomorrow you need to get more money sent to you."
+
+  - sp: SIR ANDREW
+    o:
+      - "If I cannot recover your niece, I am a foul way out."
+    m:
+      - "If I can’t persuade your niece to marry me, I’m going to be in some serious financial trouble."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Send for money, knight. If thou hast her not i’ the end, call me “Cut.”"
+    m:
+      - "Get your hands on some money and everything will be all right. I know you’ll win over Olivia in the end."
+
+  - sp: SIR ANDREW
+    o:
+      - "If I do not, never trust me, take it how you will."
+    m:
+      - "I know I will too, if it’s the last thing I do."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Come, come, I’ll go burn some sack. ’Tis too late to go to bed now. Come, knight. Come, knight."
+    m:
+      - "Come on, I’ll go warm up a nice glass of sherry for us. It’s too late to go to bed now. Come on, my friend, come on."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,825 @@
+play: The Tempest
+title: Act 5, Scene 1
+group: 5
+order: 8
+text:
+  - os: "Enter PROSPERO in his magic robes and ARIEL"
+    ms: "PROSPERO enters in his magic robes, with ARIEL."
+
+  - sp: PROSPERO
+    o:
+      - "Now does my project gather to a head."
+      - "My charms crack not, my spirits obey, and time"
+      - "Goes upright with his carriage. How’s the day?"
+    m:
+      - "My plans are almost at their climax. My spells are working well, my spirits are obeying me, and everything is right on schedule. What time is it?"
+
+  - sp: ARIEL
+    o:
+      - "On the sixth hour, at which time, my lord,"
+      - "You said our work should cease."
+    m:
+      - "It’s after six o’clock, my lord, when you said our work would be finished."
+
+  - sp: PROSPERO
+    o:
+      - "    I did say so"
+      - "When first I raised the tempest. Say, my spirit,"
+      - "How fares the king and ’s followers?"
+    m:
+      - "That’s what I said when I first conjured the tempest. Tell me, spirit, how’s the king and his entourage?"
+
+  - sp: ARIEL
+    o:
+      - "    Confined together"
+      - "In the same fashion as you gave in charge,"
+      - "Just as you left them, all prisoners, sir,"
+      - "In the line grove which weather-fends your cell."
+      - "They cannot budge till your release. The king,"
+      - "His brother, and yours, abide all three distracted,"
+      - "And the remainder mourning over them,"
+      - "Brimful of sorrow and dismay. But chiefly"
+      - "Him that you termed, sir, “the good old Lord Gonzalo,”"
+      - "His tears run down his beard like winter’s drops"
+      - "From eaves of reeds. Your charm so strongly works ’em"
+      - "That if you now beheld them, your affections"
+      - "Would become tender."
+    m:
+      - "All cooped up together, just as you ordered, all imprisoned in the grove of linden trees that protects your room from bad weather. They can’t move till you release them. The king, his brother, and your brother are all waiting there in a crazed state of mind, and the rest are grieving over them, sad and astonished. “Good old lord Gonzalo,” as you call him, is saddest of all, with tears running down his beard. Your magic spell has such an effect on them that if you saw them now, you’d feel sorry for them."
+
+  - sp: PROSPERO
+    o:
+      - "    Dost thou think so, spirit?"
+    m:
+      - "Do you think so, spirit?"
+
+  - sp: ARIEL
+    o:
+      - "Mine would, sir, were I human."
+    m:
+      - "I’d feel sorry for them, if I were human."
+
+  - sp: PROSPERO
+    o:
+      - "    And mine shall."
+      - "Hast thou, which art but air, a touch, a feeling"
+      - "Of their afflictions, and shall not myself,"
+      - "One of their kind, that relish all as sharply"
+      - "Passion as they, be kindlier moved than thou art?"
+      - "Though with their high wrongs I am struck to th’ quick,"
+      - "Yet with my nobler reason ’gainst my fury"
+      - "Do I take part. The rarer action is"
+      - "In virtue than in vengeance. They being penitent,"
+      - "The sole drift of my purpose doth extend"
+      - "Not a frown further. Go release them, Ariel."
+      - "My charms I’ll break, their senses I’ll restore,"
+      - "And they shall be themselves."
+    m:
+      - "I will too. You’re made of air, so if even you feel sorry for them, imagine the pity that I’ll feel, being one of their own human race. I suffer pain just as much as they do, so I’ll sympathize far more than you. Though I’m indignant about their evil deeds, I’ll go with my nobler instincts, which tell me to feel some compassion for them. It’s better to act virtuously rather than vengefully. Now that they’re sorry, I don’t want anything more. Go release them, Ariel. I’ll break my spells and bring them back to their senses, and they’ll feel like themselves again."
+
+  - sp: ARIEL
+    o:
+      - "    I’ll fetch them, sir."
+    m:
+      - "I’ll go get them, sir."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - sp: PROSPERO
+    o:
+      - "*(tracing a circle on the ground)*"
+      - "Ye elves of hills, brooks, standing lakes, and groves,"
+      - "And ye that on the sands with printless foot"
+      - "Do chase the ebbing Neptune and do fly him"
+      - "When he comes back; you demi-puppets that"
+      - "By moonshine do the green sour ringlets make,"
+      - "Whereof the ewe not bites; and you whose pastime"
+      - "Is to make midnight mushrooms, that rejoice"
+      - "To hear the solemn curfew; by whose aid,"
+      - "Weak masters though ye be, I have bedimmed"
+      - "The noontide sun, called forth the mutinous winds,"
+      - "And ’twixt the green sea and the azured vault"
+      - "Set roaring war—to th’ dread rattling thunder"
+      - "Have I given fire, and rifted Jove’s stout oak"
+      - "With his own bolt;"
+      - "    the strong-based promontory"
+      - "Have I made shake, and by the spurs plucked up"
+      - "The pine and cedar; graves at my command"
+      - "Have waked their sleepers, oped, and let ’em forth"
+      - "By my so potent art. But this rough magic"
+      - "I here abjure, and when I have required"
+      - "Some heavenly music, which even now I do,"
+      - "To work mine end upon their senses that"
+      - "This airy charm is for, I’ll break my staff,"
+      - "Bury it certain fathoms in the earth,"
+      - "And deeper than did ever plummet sound"
+      - "I’ll drown my book."
+    m:
+      - "*(drawing a large circle on the stage with his staff)* I’ve darkened the noontime sun with the aid of you elves who live in the hills and brooks and groves, and you who chase the sea on the beach without leaving footprints in the sand, and run away when the waves come back; and you who make toadstools while the moon shines; who make mushrooms as a hobby after the evening bell has rung. With your help I’ve called up the angry winds, and set the green sea and blue sky at war with each other. I’ve given lightning to the thunderclouds, and burned up Jupiter’s beloved oak. With his own lightning bolts; I’ve shaken up the sturdy cliffs and uprooted pines and cedars; I’ve opened up graves and awakened the corpses sleeping in them, letting them out with my powerful magic. But I surrender all this magic now, when I’ve summoned some heavenly music to cast a spell, as I’m doing now, I’ll break my staff and bury it far underground, and throw my book of magic spells deeper into the sea than any anchor ever sank."
+
+  - os: "Solemn music"
+    ms: "Solemn music plays."
+
+  - os: "Enter ARIEL before, Then ALONSO, with a frantic gesture, attended by GONZALO; SEBASTIAN and ANTONIO in like manner, attended by ADRIAN and FRANCISCO—they all enter the circle which PROSPERO had made, and there stand charmed; which PROSPERO observing, speaks:"
+    ms: "ARIEL enters, followed by ALONSO gesturing frantically, accompanied by GONZALO. SEBASTIAN and ANTONIO enter in the same way, accompanied by ADRIAN and FRANCISCO. They all enter the circle that PROSPERO has drawn and stand there under a spell. PROSPERO, watching all of this, speaks, though the others do not hear him."
+
+  - o:
+      - "A solemn air and the best comforter"
+      - "To an unsettled fancy cure thy brains,"
+      - "Now useless, boiled within thy skull.—There stand,"
+      - "For you are spell-stopped.—"
+      - "*(to GONZALO)* Holy Gonzalo, honorable man,"
+      - "Mine eyes, ev’n sociable to the show of thine,"
+      - "Fall fellowly drops."
+      - "*(aside)*    The charm dissolves apace,"
+      - "And as the morning steals upon the night,"
+      - "Melting the darkness, so their rising senses"
+      - "Begin to chase the ignorant fumes that mantle"
+      - "Their clearer reason.—"
+      - "*(to GONZALO)*     O good Gonzalo,"
+      - "My true preserver and a loyal sir"
+      - "To him you follow’st, I will pay thy graces"
+      - "Home both in word and deed.—"
+      - "*(to ALONSO)*     Most cruelly"
+      - "Didst thou, Alonso, use me and my daughter."
+      - "Thy brother was a furtherer in the act.—"
+      - "*(to SEBASTIAN)* Thou art pinched for ’t now, Sebastian.—"
+      - "*(to ANTONIO)* Flesh and blood,"
+      - "You brother mine, that entertained ambition,"
+      - "Expelled remorse and nature, whom, with Sebastian,"
+      - "Whose inward pinches therefore are most strong,"
+      - "Would here have killed your king—I do forgive thee,"
+      - "Unnatural though thou art."
+      - "*(aside)*     Their understanding"
+      - "Begins to swell, and the approaching tide"
+      - "Will shortly fill the reasonable shore"
+      - "That now lies foul and muddy. Not one of them"
+      - "That yet looks on me, or would know me.—"
+      - "*(to ARIEL)*      Ariel,"
+      - "Fetch me the hat and rapier in my cell."
+      - "I will discase me, and myself present"
+      - "As I was sometime Milan. Quickly, spirit."
+      - "Thou shalt ere long be free."
+    m:
+      - "Let this solemn melody comfort your fevered minds, which are now useless, seething inside your skulls.—All of you stand there in my spell.—*(to GONZALO)* Good Gonzalo, you honorable man, my eyes weep for you, since I feel what you must feel now. *(to himself)* The spell is breaking gradually, and just as dawn creeps in and melts away the darkness, they will slowly return to their senses.—*(to GONZALO)* Oh, my dear Gonzalo, you’re my savior and loyal to your lord, I’ll reward you fully, not just with praise but with actions too.— *(to ALONSO)* You, Alonso, manipulated me and my daughter cruelly, and your brother helped you.—*(to SEBASTIAN)* You’re paying the price for it now, Sebastian.—*(to ANTONIO)* My brother, you were so greedy for power that you forgot natural compassion and our bond as brothers, and were ready to kill your king—I forgive you, though you’re a monster.—*(to himself)* Look at them, they’re starting to understand. Soon their confused minds will clear up. But at this point not a single one of them recognizes me.—*(to ARIEL)* Ariel, get me my hat and sword from my room. I’ll take off the clothes I’m wearing now, and put on the ones I used to wear in Milan.—Soon, spirit, you’ll be free."
+
+  - sp: ARIEL
+    o:
+      - "*(sings and helps to attire PROSPERO)*"
+      - "  *Where the bee sucks, there suck I*."
+      - "  *In a cowslip’s bell I lie*."
+      - "  *There I couch when owls do cry*."
+      - "  *On the bat’s back I do fly*"
+      - "  *After summer merrily*."
+      - "  *Merrily, merrily shall I live now*"
+      - "  *Under the blossom that hangs on the bough*."
+    m:
+      - "*(he sings and helps PROSPERO dress)*"
+      - "  *Where the bee drinks, I drink dew*."
+      - "  *I lie in the cup of a cowslip flower*."
+      - "  *I sleep there when the owls hoot*."
+      - "  *I fly on a bat’s back*,"
+      - "  *following the summer around the globe*."
+      - "  *Happily, happily I will live now*"
+      - "  *Under the blossom that hangs on the bough*."
+
+  - sp: PROSPERO
+    o:
+      - "Why, that’s my dainty Ariel. I shall miss thee,"
+      - "But yet thou shalt have freedom.—So, so, so.—"
+      - "To the king’s ship, invisible as thou art."
+      - "There shalt thou find the mariners asleep"
+      - "Under the hatches. The Master and the Boatswain"
+      - "Being awake, enforce them to this place,"
+      - "And presently, I prithee."
+    m:
+      - "Why, that’s my dainty Ariel singing now. I’ll miss you, Ariel, but you’ll be free.—Yes, you will, yes.—Go to the king’s ship in your invisible state. There you’ll find the sailors asleep below deck. Find the Master and Boatswain, who will be awake, and bring them here right away, please."
+
+  - sp: ARIEL
+    o:
+      - "I drink the air before me, and return"
+      - "Or ere your pulse twice beat."
+    m:
+      - "I’ll go so fast I’ll burn up the air, and come back in two heartbeats."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - sp: GONZALO
+    o:
+      - "All torment, trouble, wonder, and amazement"
+      - "Inhabits here. Some heavenly power guide us"
+      - "Out of this fearful country!"
+    m:
+      - "This place is full of trouble, torments, and amazements. Please come, heavenly powers, and guide us out of this godforsaken country!"
+
+  - sp: PROSPERO
+    o:
+      - "*(to ALONSO)*     Behold, sir King,"
+      - "The wrongèd Duke of Milan, Prospero."
+      - "For more assurance that a living prince"
+      - "Does now speak to thee, I embrace thy body."
+      - "And to thee and thy company I bid"
+      - "A hearty welcome. *(embraces ALONSO)*"
+    m:
+      - "*(to ALONSO)* Your Highness, you see before you the Duke of Milan, Prospero, who’s been wronged. I’ll embrace you now so you will know it’s really me, a living prince, talking to you. I heartily welcome you and your entourage here. *(he embraces ALONSO)*"
+
+  - sp: ALONSO
+    o:
+      - "    Whe’er thou beest he or no,"
+      - "Or some enchanted trifle to abuse me,"
+      - "As late I have been, I not know. Thy pulse"
+      - "Beats as of flesh and blood. And since I saw thee,"
+      - "Th’ affliction of my mind amends, with which"
+      - "I fear a madness held me. This must crave—"
+      - "An if this be at all—a most strange story."
+      - "Thy dukedom I resign and do entreat"
+      - "Thou pardon me my wrongs. But how should Prospero"
+      - "Be living and be here?"
+    m:
+      - "Whether you’re really him or whether this is some magic trick like I was recently subjected to, I don’t know. Your heart beats like you were real, and ever since I saw you, I feel my mind becoming sane again, released from its earlier insanity. There must be a strange explanation for this—if it’s true. I surrender your dukedom and beg you to forgive me all my crimes. But how is it possible that Prospero’s alive and well and living on this island?"
+
+  - sp: PROSPERO
+    o:
+      - "*(to GONZALO)*    First, noble friend,"
+      - "Let me embrace thine age, whose honor cannot"
+      - "Be measured or confined."
+    m:
+      - "*(to GONZALO)* First, my noble old friend, let me embrace you, who are more honorable than I can say."
+
+  - sp: GONZALO
+    o:
+      - "    Whether this be"
+      - "Or be not, I’ll not swear."
+    m:
+      - "I won’t bet on whether or not any of this is real."
+
+  - sp: PROSPERO
+    o:
+      - "    You do yet taste"
+      - "Some subtleties o’ th’ isle, that will not let you"
+      - "Believe things certain. Welcome, my friends all."
+      - "*(aside to SEBASTIAN and ANTONIO)*"
+      - "But you, my brace of lords, were I so minded,"
+      - "I here could pluck his highness’ frown upon you"
+      - "And justify you traitors. At this time"
+      - "I will tell no tales."
+    m:
+      - "You’re still experiencing some of the little quirks of this island, which makes so many things seem uncertain. Welcome, my friends. *(speaking so that only SEBASTIAN and ANTONIO can hear)* But you two lords, if I felt like it, I could turn you in as the traitors you are. But as for now, I won’t say a word."
+
+  - sp: SEBASTIAN
+    o:
+      - "  The devil speaks in him."
+    m:
+      - "It’s the devil speaking through him."
+
+  - sp: PROSPERO
+    o:
+      - "    No.—*(to ANTONIO)*"
+      - "For you, most wicked sir, whom to call brother"
+      - "Would even infect my mouth, I do forgive"
+      - "Thy rankest fault, all of them, and require"
+      - "My dukedom of thee, which perforce, I know,"
+      - "Thou must restore."
+    m:
+      - "No.—*(to ANTONIO)* As for you, you evil man that I can’t even call brother, I forgive you for even your worst sin, all your sins. I demand my dukedom back from you, which I know you have to give me."
+
+  - sp: ALONSO
+    o:
+      - "    If thou beest Prospero,"
+      - "Give us particulars of thy preservation,"
+      - "How thou hast met us here, whom three hours since"
+      - "Were wracked upon this shore, where I have lost—"
+      - "How sharp the point of this remembrance is!"
+      - "My dear son Ferdinand."
+    m:
+      - "If you’re Prospero, give us the details of how you were saved, how you met us here, when we were just shipwrecked here three hours ago, when I lost—How painful the memory is!—my dear son Ferdinand"
+
+  - sp: PROSPERO
+    o:
+      - "    I am woe for ’t, sir."
+    m:
+      - "I’m sorry about that, sir."
+
+  - sp: ALONSO
+    o:
+      - "Irreparable is the loss, and patience"
+      - "Says it is past her cure."
+    m:
+      - "No one can undo this loss of mine, and trying to endure it patiently doesn’t help."
+
+  - sp: PROSPERO
+    o:
+      - "    I rather think"
+      - "You have not sought her help, of whose soft grace"
+      - "For the like loss I have her sovereign aid,"
+      - "And rest myself content."
+    m:
+      - "I don’t think you’ve tried to endure it. Being patient has helped me a lot, for I have suffered a loss similar to yours."
+
+  - sp: ALONSO
+    o:
+      - "    You the like loss?"
+    m:
+      - "You suffered a loss like mine?"
+
+  - sp: PROSPERO
+    o:
+      - "As great to me as late. And supportable"
+      - "To make the dear loss have I means much weaker"
+      - "Than you may call to comfort you, for I"
+      - "Have lost my daughter."
+    m:
+      - "Yes, just as great and just as recent. And I have much less to comfort me than you do, since I’ve lost my daughter."
+
+  - sp: ALONSO
+    o:
+      - "    A daughter?"
+      - "O heavens, that they were living both in Naples,"
+      - "The king and queen there! That they were, I wish"
+      - "Myself were mudded in that oozy bed"
+      - "Where my son lies.—When did you lose your daughter?"
+    m:
+      - "A daughter? Oh God, I wish the two of them were alive and living in Naples, as king and queen! I’d give up my life and take my son’s place in the mud on the ocean floor if I could see them alive in Naples.—When did you lose your daughter?"
+
+  - sp: PROSPERO
+    o:
+      - "In this last tempest. I perceive these lords"
+      - "At this encounter do so much admire"
+      - "That they devour their reason and scarce think"
+      - "Their eyes do offices of truth, their words"
+      - "Are natural breath.—But howsoev’r you have"
+      - "Been justled from your senses, know for certain"
+      - "That I am Prospero and that very duke"
+      - "Which was thrust forth of Milan, who most strangely"
+      - "Upon this shore where you were wracked, was landed,"
+      - "To be the lord on ’t."
+      - "    No more yet of this,"
+      - "For ’tis a chronicle of day by day,"
+      - "Not a relation for a breakfast, nor"
+      - "Befitting this first meeting."
+      - "*(to ALONSO)*  Welcome, sir."
+      - "This cell’s my court. Here have I few attendants"
+      - "And subjects none abroad. Pray you, look in."
+      - "My dukedom since you have given me again,"
+      - "I will requite you with as good a thing,"
+      - "At least bring forth a wonder to content ye"
+      - "As much as me my dukedom."
+    m:
+      - "In this recent storm. These lords seem so astonished that they’ve lost their use of reason and can hardly believe what they see with their own eyes.—But whatever the reason for your losing your senses, you can know for sure that I’m Prospero, that same duke who was kicked out of Milan and landed on this same island where you landed, and became the lord of it. No more of this story now, for it takes days to tell, not just a chat over breakfast or during this first meeting of ours. *(to ALONSO)* Welcome, sir. This room’s my royal court. I have hardly any servants and no subjects outside this room. Please, have a look. Since you’ve given my dukedom back to me, I’ll give you something equally nice, or at least I’ll give you an amazement to satisfy you as much as my dukedom satisfies me."
+
+  - os: "Here PROSPERO uncovers FERDINAND and MIRANDA playing at chess"
+    ms: "PROSPERO draws a curtain to reveal FERDINAND and MIRANDA playing chess."
+
+  - sp: MIRANDA
+    o:
+      - "*(to FERDINAND)* Sweet lord, you play me false."
+    m:
+      - "*(to FERDINAND)* My sweet lord, you’re cheating."
+
+  - sp: FERDINAND
+    o:
+      - "No, my dearest love,"
+      - "I would not for the world."
+    m:
+      - "No, my dearest love, I wouldn’t cheat you for the whole world."
+
+  - sp: MIRANDA
+    o:
+      - "Yes, for a score of kingdoms you should wrangle,"
+      - "And I would call it fair play."
+    m:
+      - "Maybe not the whole world, but you’d cheat for twenty kingdoms. But even then I’d still lie and say you were playing by the rules."
+
+  - sp: ALONSO
+    o:
+      - "    If this prove"
+      - "A vision of the Island, one dear son"
+      - "Shall I twice lose."
+    m:
+      - "If this dream vision is typical of what this island conjures up, then I’ll lose my son twice."
+
+  - sp: SEBASTIAN
+    o:
+      - "  A most high miracle!"
+    m:
+      - "A wonderful miracle!"
+
+  - sp: FERDINAND
+    o:
+      - "*(seeing ALONSO and kneeling)*"
+      - "Though the seas threaten, they are merciful."
+      - "I have cursed them without cause."
+    m:
+      - "*(seeing ALONSO and kneeling)* The seas may threaten us, but they show mercy sometimes too. I cursed them for no reason."
+
+  - sp: ALONSO
+    o:
+      - "    Now all the blessings"
+      - "Of a glad father, compass thee about."
+      - "Arise, and say how thou camest here."
+    m:
+      - "Receive all the blessings of a happy father. Get up and tell me how you came here."
+
+  - sp: MIRANDA
+    o:
+      - "    Oh, wonder!"
+      - "How many goodly creatures are there here!"
+      - "How beauteous mankind is! O brave new world,"
+      - "That has such people in ’t!"
+    m:
+      - "How amazing! How many wonderful creatures there are here! Mankind is so beautiful! Oh, what a wonderful new world, that has such people in it!"
+
+  - sp: PROSPERO
+    o:
+      - "    ’Tis new to thee."
+    m:
+      - "It’s new to you."
+
+  - sp: ALONSO
+    o:
+      - "*(to FERDINAND)*"
+      - "What is this maid with whom thou wast at play?"
+      - "Your eld’st acquaintance cannot be three hours."
+      - "Is she the goddess that hath severed us"
+      - "And brought us thus together?"
+    m:
+      - "*(to FERDINAND)* Who is this girl you were playing chess with? You can’t have known her for more than three hours. Is she the goddess that separated us and then brought us back together?"
+
+  - sp: FERDINAND
+    o:
+      - "    Sir, she is mortal."
+      - "But by immortal providence, she’s mine."
+      - "I chose her when I could not ask my father"
+      - "For his advice, nor thought I had one. She"
+      - "Is daughter to this famous Duke of Milan,"
+      - "Of whom so often I have heard renown"
+      - "But never saw before, of whom I have"
+      - "Received a second life. And second father"
+      - "This lady makes him to me."
+    m:
+      - "No, sir, she’s human. But by the grace of God, she’s mine. I chose her for my wife when I thought I had no father to ask advice of. She’s the daughter of this famous Duke of Milan I heard so much about but never saw before. He’s given me a second life, and marrying her makes him a second father to me."
+
+  - sp: ALONSO
+    o:
+      - "    I am hers."
+      - "But oh, how oddly will it sound that I"
+      - "Must ask my child forgiveness!"
+    m:
+      - "And I’m her father as well. But oh, how odd it is to have to ask for my child’s forgiveness!"
+
+  - sp: PROSPERO
+    o:
+      - "    There, sir, stop."
+      - "Let us not burden our remembrances with"
+      - "A heaviness that’s gone."
+    m:
+      - "Stop right there, sir. Let’s not get gloomy in our reminiscing, since there’s no reason for sadness anymore."
+
+  - sp: GONZALO
+    o:
+      - "    I have inly wept,"
+      - "Or should have spoke ere this. Look down, you gods,"
+      - "And on this couple drop a blessèd crown,"
+      - "For it is you that have chalked forth the way"
+      - "Which brought us hither."
+    m:
+      - "I’ve been crying to myself just now, or I would’ve said the same thing. Dear gods, bless this couple, since you’re the ones who have shown us the path that led us here."
+
+  - sp: ALONSO
+    o:
+      - "    I say amen, Gonzalo."
+    m:
+      - "Amen to that, Gonzalo."
+
+  - sp: GONZALO
+    o:
+      - "Was Milan thrust from Milan, that his issue"
+      - "Should become kings of Naples? O, rejoice"
+      - "Beyond a common joy, and set it down"
+      - "With gold on lasting pillars. In one voyage"
+      - "Did Claribel her husband find at Tunis;"
+      - "And Ferdinand, her brother, found a wife"
+      - "Where he himself was lost; Prospero, his dukedom"
+      - "In a poor isle; and all of us, ourselves"
+      - "When no man was his own."
+    m:
+      - "Was the Duke of Milan kicked out of Milan so his children could become kings of Naples? Oh, this is cause for an extraordinary joy that should be engraved in gold on pillars to last forever. On one and the same trip Claribel found a husband in Tunis, and Ferdinand, her brother, found a wife where he was shipwrecked; Prospero found his dukedom on a poor island; and all of us found ourselves when we lost control of ourselves."
+
+  - sp: ALONSO
+    o:
+      - "*(to FERDINAND and MIRANDA)* Give me your hands."
+      - "Let grief and sorrow still embrace his heart"
+      - "That doth not wish you joy."
+    m:
+      - "*(to FERDINAND and MIRANDA)* Give me your hands. May anyone who doesn’t wish you joy feel grief and sorrow."
+
+  - sp: GONZALO
+    o:
+      - "    Be it so. Amen."
+    m:
+      - "So be it. Amen."
+
+  - os: "Enter ARIEL, with the MASTER and BOATSWAIN amazedly following"
+    ms: "ARIEL enters with the MASTER and BOATSWAIN following in amazement."
+
+  - o:
+      - "Oh, look, sir, look, sir! Here is more of us."
+      - "I prophesied if a gallows were on land,"
+      - "This fellow could not drown."
+      - "*(to BOATSWAIN)*  Now, blasphemy,"
+      - "That swear’st grace o’erboard, not an oath on shore?"
+      - "Hast thou no mouth by land? What is the news?"
+    m:
+      - "Oh, look, sir, look, sir! More of us are here. I remember I predicted that this guy could never drown, as long as there are gallows around on the land. *(to BOATSWAIN)* Hey, you curser, who defiled our ship with your foul language, don’t you have any gutter talk for us on shore? What’s going on?"
+
+  - sp: BOATSWAIN
+    o:
+      - "The best news is that we have safely found"
+      - "Our king and company. The next, our ship—"
+      - "Which, but three glasses since, we gave out split—"
+      - "Is tight and yare and bravely rigged as when"
+      - "We first put out to sea."
+    m:
+      - "The best news of all is that we’ve located our king and our men. The next bit of good news is that our ship—which we gave up for ruined only three hours ago—is as well-outfitted and seaworthy as it was when we first set sail."
+
+  - sp: ARIEL
+    o:
+      - "*(aside to PROSPERO)* Sir, all this service"
+      - "Have I done since I went."
+    m:
+      - "*(speaking so that only PROSPERO can hear)* Sir, I’ve done all this work for you since I left you last."
+
+  - sp: PROSPERO
+    o:
+      - "*(aside to ARIEL)* My tricksy spirit!"
+    m:
+      - "*(speaking so that only ARIEL can hear)* My clever spirit!"
+
+  - sp: ALONSO
+    o:
+      - "These are not natural events. They strengthen"
+      - "From strange to stranger.—"
+      - "*(to BOATSWAIN)* Say, how came you hither?"
+    m:
+      - "These are unnatural events. They get stranger all the time.—*(to BOATSWAIN)* Tell me, how did you get here?"
+
+  - sp: BOATSWAIN
+    o:
+      - "If I did think, sir, I were well awake,"
+      - "I’d strive to tell you. We were dead of sleep"
+      - "And—how, we know not—all clapped under hatches,"
+      - "Where but even now with strange and several noises"
+      - "Of roaring, shrieking, howling, jingling chains,"
+      - "And more diversity of sounds, all horrible,"
+      - "We were awaked, straightway at liberty,"
+      - "Where we, in all her trim, freshly beheld"
+      - "Our royal, good, and gallant ship, our Master"
+      - "Capering to eye her. On a trice, so please you,"
+      - "Even in a dream were we divided from them"
+      - "And were brought moping hither."
+    m:
+      - "If I were sure I was wide awake, I’d try to tell you. We were fast asleep and somehow—we don’t know how—we were stowed below deck, where we heard lots of roaring, shrieking, howling, and jingling chains. The sounds were so horrible that we woke up liberated, and saw our wonderful ship safe and sound. The master was dancing with joy to see it. In an instant we were separated from them, as if in a dream, and brought here in a daze."
+
+  - sp: ARIEL
+    o:
+      - "*(aside to PROSPERO)*  Was ’t well done?"
+    m:
+      - "*(speaking so that only PROSPERO can hear)* Did I do it right?"
+
+  - sp: PROSPERO
+    o:
+      - "*(aside to ARIEL)* Bravely, my diligence. Thou shalt be free."
+    m:
+      - "*(speaking so that only ARIEL can hear)* You did it perfectly, my little worker. You’ll get your freedom."
+
+  - sp: ALONSO
+    o:
+      - "This is as strange a maze as e’er men trod,"
+      - "And there is in this business more than nature"
+      - "Was ever conduct of. Some oracle"
+      - "Must rectify our knowledge."
+    m:
+      - "This is a stranger business than men have ever set foot in before, and it’s not natural either. We need some oracle to tell us what’s going on."
+
+  - sp: PROSPERO
+    o:
+      - "    Sir, my liege,"
+      - "Do not infest your mind with beating on"
+      - "The strangeness of this business. At picked leisure"
+      - "Which shall be shortly, single I’ll resolve you—"
+      - "Which to you shall seem probable—of every"
+      - "These happened accidents. Till when, be cheerful"
+      - "And think of each thing well."
+      - "*(aside to ARIEL)*  Come hither, spirit."
+      - "Set Caliban and his companions free."
+      - "Untie the spell."
+    m:
+      - "Sir, my king, don’t waste your time mulling over how strange this business is. When the time is right, and it’ll be soon, I promise I alone will explain everything that’s happened. Until then, be cheerful and keep an open mind. *(speaking so that only ARIEL can hear)* Come here, spirit; set Caliban and his fellow slaves free. Break the spell that enslaves them to me."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - o:
+      - "  How fares my gracious sir?"
+      - "There are yet missing of your company"
+      - "Some few odd lads that you remember not."
+    m:
+      - "How is my lord? There are a few men still missing from the ship, a few odd guys you’ve forgotten about."
+
+  - os: "Enter ARIEL, driving in CALIBAN, STEPHANO, and TRINCULO in their stolen apparel"
+    ms: "ARIEL enters, driving in CALIBAN, STEPHANO, and TRINCULO in their stolen clothes."
+
+  - sp: STEPHANO
+    o:
+      - "Every man shift for all the rest and let no man take care for himself, for all is but fortune. Coraggio, bully-monster, *coraggio!*"
+    m:
+      - "Look out for the other guy, and don’t put yourself first, since everything happens randomly. Courage! Courage, you fine old monster."
+
+  - sp: TRINCULO
+    o:
+      - "If these be true spies which I wear in my head, here’s a goodly sight."
+    m:
+      - "If I can believe my eyes, this is a fine sight to see."
+
+  - sp: CALIBAN
+    o:
+      - "O Setebos, these be brave spirits indeed!"
+      - "How fine my master is! I am afraid"
+      - "He will chastise me."
+    m:
+      - "Oh Setebos, these are handsome spirits! How wonderful my master is! I’m afraid he’ll punish me."
+
+  - sp: SEBASTIAN
+    o:
+      - "    Ha, ha!"
+      - "What things are these, my lord Antonio?"
+      - "Will money buy ’em?"
+    m:
+      - "Ha, ha! What are these things we’re looking at, my lord Antonio? Can you buy them with money?"
+
+  - sp: ANTONIO
+    o:
+      - "    Very like. One of them"
+      - "Is a plain fish, and no doubt marketable."
+    m:
+      - "Definitely. The one that looks like a fish is very marketable."
+
+  - sp: PROSPERO
+    o:
+      - "Mark but the badges of these men, my lords,"
+      - "Then say if they be true."
+      - "*(indicates CALIBAN)* This misshapen knave,"
+      - "His mother was a witch, and one so strong"
+      - "That could control the moon, make flows and ebbs,"
+      - "And deal in her command without her power."
+      - "These three have robbed me, and this demi-devil—"
+      - "For he’s a bastard one—had plotted with them"
+      - "To take my life. Two of these fellows you"
+      - "Must know and own. This thing of darkness I"
+      - "Acknowledge mine."
+    m:
+      - "Take a look at their servants’ name tags, my lords, then tell me what they are. *(he points at CALIBAN)* This misshapen monster, his mother was a witch so powerful she could control the moon and the tides. These three have robbed me, and this bastard half-devil plotted with them to kill me. Two of these men you must recognize and claim as your own. This evil monster I acknowledge is mine."
+
+  - sp: CALIBAN
+    o:
+      - "I shall be pinched to death."
+    m:
+      - "He’ll kill me with tortures."
+
+  - sp: ALONSO
+    o:
+      - "Is not this Stephano, my drunken butler?"
+    m:
+      - "Isn’t this Stephano, my drunken butler?"
+
+  - sp: SEBASTIAN
+    o:
+      - "He is drunk now. Where had he wine?"
+    m:
+      - "He’s definitely drunk now. Where did he get wine?"
+
+  - sp: ALONSO
+    o:
+      - "And Trinculo is reeling ripe. Where should they"
+      - "Find this grand liquor that hath gilded ’em?—"
+      - "How camest thou in this pickle?"
+    m:
+      - "And Trinculo’s drunk. Where did they find the liquor to get drunk on?—*(to TRINCULO)* How did you get this way?"
+
+  - sp: TRINCULO
+    o:
+      - "I have been in such a pickle since I saw you last that, I fear me, will never out of my bones. I shall not fear flyblowing."
+    m:
+      - "I’ve been so wasted since I saw you last that I’m worried I’ll never be sober again. But at least I won’t rot, being so full of alcohol."
+
+  - sp: SEBASTIAN
+    o:
+      - "Why, how now, Stephano?"
+    m:
+      - "How are you doing, Stephano?"
+
+  - sp: STEPHANO
+    o:
+      - "O, touch me not. I am not Stephano, but a cramp."
+    m:
+      - "Oh, don’t touch me. I’m not Stephano, I’m a walking cramp."
+
+  - sp: PROSPERO
+    o:
+      - "You’d be king o’ th’ isle, sirrah?"
+    m:
+      - "You wanted to be king of the island, sir?"
+
+  - sp: STEPHANO
+    o:
+      - "I should have been a sore one then."
+    m:
+      - "I would’ve been a sore king then."
+
+  - sp: ALONSO
+    o:
+      - "*(indicating CALIBAN)*"
+      - "This is a strange thing as e’er I looked on."
+    m:
+      - "*(pointing at CALIBAN)* This is the strangest thing I ever saw in my life."
+
+  - sp: PROSPERO
+    o:
+      - "He is as disproportioned in his manners"
+      - "As in his shape.—*(to CALIBAN)* Go, sirrah, to my cell."
+      - "Take with you your companions. As you look"
+      - "To have my pardon, trim it handsomely."
+    m:
+      - "He’s as ugly in his manners as he is in appearance.—*(to CALIBAN)* Go, sir, to my room, and take your companions with you. If you want me to forgive you, make it neat and tidy."
+
+  - sp: CALIBAN
+    o:
+      - "Ay, that I will. And I’ll be wise hereafter"
+      - "And seek for grace. What a thrice-double ass"
+      - "Was I, to take this drunkard for a god"
+      - "And worship this dull fool!"
+    m:
+      - "I will indeed. And after this I’ll be good and hope you forgive me. What an idiot I was to think this drunkard was a god and to worship such a stupid fool!"
+
+  - sp: PROSPERO
+    o:
+      - "    Go to, away."
+    m:
+      - "Go away, now."
+
+  - sp: ALONSO
+    o:
+      - "*(to STEPHANO and TRINCULO)*"
+      - "Hence, and bestow your luggage where you found it."
+    m:
+      - "*(to STEPHANO and TRINCULO)* Go, and put your garbage back where you found it."
+
+  - sp: SEBASTIAN
+    o:
+      - "Or stole it, rather."
+    m:
+      - "Or stole it, rather."
+
+  - os: "Exeunt CALIBAN, STEPHANO, and TRINCULO"
+    ms: "CALIBAN, STEPHANO, and TRINCULO exit."
+
+  - sp: PROSPERO
+    o:
+      - "Sir, I invite your highness and your train"
+      - "To my poor cell, where you shall take your rest"
+      - "For this one night, which—part of it—I’ll waste"
+      - "With such discourse as, I not doubt, shall make it"
+      - "Go quick away: the story of my life"
+      - "And the particular accidents gone by"
+      - "Since I came to this isle. And in the morn"
+      - "I’ll bring you to your ship and so to Naples,"
+      - "Where I have hope to see the nuptial"
+      - "Of these our dear-belovèd solemnized,"
+      - "And thence retire me to my Milan, where"
+      - "Every third thought shall be my grave."
+    m:
+      - "Sir, I invite your highness and your entourage to my little room, where you can sleep tonight. But for this evening—part of it, at least—I’ll tell you tales to make the time pass quickly. I’ll narrate the story of my life, and give you all the details of what happened to me since I first came to this island. And in the morning I’ll take you to your ship and we’ll sail to Naples, where I hope to see this loving couple married. After that I’ll retire to Milan, where I’ll contemplate my death, which is soon to come."
+
+  - sp: ALONSO
+    o:
+      - "    I long"
+      - "To hear the story of your life, which must"
+      - "Take the ear strangely."
+    m:
+      - "I’m dying to hear your life story, which must be a strange tale."
+
+  - sp: PROSPERO
+    o:
+      - "    I’ll deliver all,"
+      - "And promise you calm seas, auspicious gales,"
+      - "And sail so expeditious that shall catch"
+      - "Your royal fleet far off.—*(aside to ARIEL)* My Ariel, chick,"
+      - "That is thy charge. Then to the elements"
+      - "Be free, and fare thou well!—Please you, draw near."
+    m:
+      - "I’ll tell you everything, and I promise to give you calm seas and favorable winds for your trip. You’ll sail so fast that you’ll catch up with the royal navy.—*(speaking so that only ARIEL can hear)* My Ariel, baby, that job’s for you. After that you’ll be free as the air. Farewell!—Please, all the rest of you, come closer."
+
+  - os: "Exeunt omnes"
+    ms: "They all exit."

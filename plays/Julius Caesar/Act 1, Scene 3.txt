@@ -1,0 +1,384 @@
+play: Julius Caesar
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Thunder and lightning. Enter CASCA and CICERO"
+    ms: "Thunder and lightning. CASCA and CICERO enter."
+
+  - sp: CICERO
+    o:
+      - "Good even, Casca. Brought you Caesar home?"
+      - "Why are you breathless? And why stare you so?"
+    m:
+      - "Good evening, Casca. Did you accompany Caesar home? Why are you breathless, and why are you staring like that?"
+
+  - sp: CASCA
+    o:
+      - "Are not you moved when all the sway of earth"
+      - "Shakes like a thing unfirm? O Cicero,"
+      - "I have seen tempests when the scolding winds"
+      - "Have rived the knotty oaks, and I have seen"
+      - "Th’ ambitious ocean swell and rage and foam"
+      - "To be exalted with the threatening clouds,"
+      - "But never till tonight, never till now,"
+      - "Did I go through a tempest dropping fire."
+      - "Either there is a civil strife in heaven,"
+      - "Or else the world, too saucy with the gods,"
+      - "Incenses them to send destruction."
+    m:
+      - "Aren’t you disturbed when the earth itself is shaking and swaying as if it were a flimsy thing? Cicero, I’ve seen storms in which the angry winds split old oak trees, and I’ve seen the ocean swell, rage, and foam, as if it wanted to reach the storm clouds, but never before tonight, never until now, have I experienced a storm that drops fire. Either there are wars in heaven, or else the world, too insolent toward the gods, provokes them to send destruction."
+
+  - sp: CICERO
+    o:
+      - "Why, saw you anything more wonderful?"
+    m:
+      - "What—have you seen something so strange that it is clearly an omen from the gods?"
+
+  - sp: CASCA
+    o:
+      - "A common slave—you know him well by sight—"
+      - "Held up his left hand, which did flame and burn"
+      - "Like twenty torches joined, and yet his hand,"
+      - "Not sensible of fire, remained unscorched."
+      - "Besides—I ha’ not since put up my sword—"
+      - "Against the Capitol I met a lion,"
+      - "Who glared upon me and went surly by,"
+      - "Without annoying me. And there were drawn"
+      - "Upon a heap a hundred ghastly women,"
+      - "Transformèd with their fear, who swore they saw"
+      - "Men all in fire walk up and down the streets."
+      - "And yesterday the bird of night did sit"
+      - "Even at noon-day upon the marketplace,"
+      - "Hooting and shrieking. When these prodigies"
+      - "Do so conjointly meet, let not men say,"
+      - "“These are their reasons. They are natural.”"
+      - "For I believe they are portentous things"
+      - "Unto the climate that they point upon."
+    m:
+      - "A common slave—you’d know him if you saw him—held up his left hand, which flamed and burned like twenty torches together. And yet his hand was immune to the fire and didn’t get burned. Also—I’ve kept my sword unsheathed since I saw this—in front of the Capitol I met a lion who looked at me and strutted by without bothering to attack me. And there were a hundred spooked women huddled together in fear who swore they saw men on fire walk up and down the streets. And yesterday the night owl sat hooting and shrieking in the marketplace at noon. When all these extraordinary things happen at once, we shouldn’t say, “These happenings can be explained rationally. They’re natural enough.” I think these things are omens of things to come in our country."
+
+  - sp: CICERO
+    o:
+      - "Indeed, it is a strange-disposèd time."
+      - "But men may construe things after their fashion,"
+      - "Clean from the purpose of the things themselves."
+      - "Comes Caesar to the Capitol tomorrow?"
+    m:
+      - "Indeed, it’s a strange time. But men tend to interpret things however suits them and totally miss the actual meaning of the things themselves. Is Caesar visiting the Capitol tomorrow?"
+
+  - sp: CASCA
+    o:
+      - "He doth, for he did bid Antonius"
+      - "Send word to you he would be there tomorrow."
+    m:
+      - "He is, because he told Antonius to tell you he’d be there tomorrow."
+
+  - sp: CICERO
+    o:
+      - "Good night then, Casca. This disturbèd sky"
+      - "Is not to walk in."
+    m:
+      - "Good night then, Casca. This bad weather isn’t good to walk around in."
+
+  - sp: CASCA
+    o:
+      - "Farewell, Cicero."
+    m:
+      - "Farewell, Cicero"
+
+  - os: "Exit CICERO"
+    ms: "CICERO exits."
+
+  - os: "Enter CASSIUS"
+    ms: "CASSIUS enters."
+
+  - sp: CASSIUS
+    o:
+      - "Who’s there?"
+    m:
+      - "Who’s there?"
+
+  - sp: CASCA
+    o:
+      - "  A Roman."
+    m:
+      - "A Roman."
+
+  - sp: CASSIUS
+    o:
+      - "    Casca, by your voice."
+    m:
+      - "It’s Casca—I know your voice."
+
+  - sp: CASCA
+    o:
+      - "Your ear is good. Cassius, what night is this!"
+    m:
+      - "Your ear is good. Cassius, what a night this is!"
+
+  - sp: CASSIUS
+    o:
+      - "A very pleasing night to honest men."
+    m:
+      - "It’s a very pleasing night to honest men."
+
+  - sp: CASCA
+    o:
+      - "Who ever knew the heavens menace so?"
+    m:
+      - "Who ever saw the heavens threaten like this?"
+
+  - sp: CASSIUS
+    o:
+      - "Those that have known the earth so full of faults."
+      - "For my part, I have walked about the streets,"
+      - "Submitting me unto the perilous night,"
+      - "And, thus unbracèd, Casca, as you see,"
+      - "Have bared my bosom to the thunder-stone."
+      - "And when the cross blue lightning seemed to open"
+      - "The breast of heaven, I did present myself"
+      - "Even in the aim and very flash of it."
+    m:
+      - "Those who have known how bad things are here on earth. I have walked around the streets, exposing myself to the perilous night, unbuttoned like this, as you see, Casca, baring my chest to the thunderbolt. When the forked blue lightning seemed to break open the sky, I put myself right where I thought it would hit."
+
+  - sp: CASCA
+    o:
+      - "But wherefore did you so much tempt the heavens?"
+      - "It is the part of men to fear and tremble"
+      - "When the most mighty gods by tokens send"
+      - "Such dreadful heralds to astonish us."
+    m:
+      - "But why did you tempt the heavens like that? Mankind’s role is to fear and tremble when the almighty gods send warning signals."
+
+  - sp: CASSIUS
+    o:
+      - "You are dull, Casca, and those sparks of life"
+      - "That should be in a Roman you do want,"
+      - "Or else you use not. You look pale, and gaze,"
+      - "And put on fear, and cast yourself in wonder"
+      - "To see the strange impatience of the heavens."
+      - "But if you would consider the true cause"
+      - "Why all these fires, why all these gliding ghosts,"
+      - "Why birds and beasts from quality and kind,"
+      - "Why old men fool and children calculate,"
+      - "Why all these things change from their ordinance"
+      - "Their natures and preformèd faculties"
+      - "To monstrous quality—why, you shall find"
+      - "That heaven hath infused them with these spirits"
+      - "To make them instruments of fear and warning"
+      - "Unto some monstrous state."
+      - "Now could I, Casca, name to thee a man"
+      - "Most like this dreadful night,"
+      - "That thunders, lightens, opens graves, and roars"
+      - "As doth the lion in the Capitol—"
+      - "A man no mightier than thyself or me"
+      - "In personal action, yet prodigious grown,"
+      - "And fearful as these strange eruptions are."
+    m:
+      - "You’re acting stupid, Casca, and you lack the quick wits that a Roman should have—or else you don’t use them. You go pale, you stare, and you act in awe of the strange disturbance in the heavens. But if you thought about the real reason for all these fires, all these gliding ghosts, for why birds and animals abandon their natural behavior, why old men, fools, and children make predictions, why all sorts of things have departed from the usual course of their natures and become monstrosities, then you’d understand that heaven had them act this way so they would serve as frightening warnings of an unnatural state to come. Right this minute, Casca, I could name a man who’s just like this dreadful night. A man who thunders, throws lightning, splits open graves, and roars like the lion in the Capitol. A man no mightier than you or I in ability, yet grown as huge and frightening as tonight’s strange happenings."
+
+  - sp: CASCA
+    o:
+      - "’Tis Caesar that you mean. Is it not, Cassius?"
+    m:
+      - "You’re talking about Caesar, right, Cassius?"
+
+  - sp: CASSIUS
+    o:
+      - "Let it be who it is. For Romans now"
+      - "Have thews and limbs like to their ancestors,"
+      - "But—woe the while!—our fathers’ minds are dead,"
+      - "And we are governed with our mothers’ spirits."
+      - "Our yoke and sufferance show us womanish."
+    m:
+      - "Let it be who it is. Romans today still have the powerful bodies of their ancestors, but, unfortunately, we don’t have their manly spirits, and instead we take after our mothers. Our tolerance for slavery and oppression shows us to be weak, like women."
+
+  - sp: CASCA
+    o:
+      - "Indeed, they say the senators tomorrow"
+      - "Mean to establish Caesar as a king,"
+      - "And he shall wear his crown by sea and land"
+      - "In every place save here in Italy."
+    m:
+      - "Indeed, they say that the senators plan to establish Caesar as a king tomorrow, and he’ll wear his crown at sea and on land everywhere except here in Italy."
+
+  - sp: CASSIUS
+    o:
+      - "I know where I will wear this dagger then."
+      - "Cassius from bondage will deliver Cassius."
+      - "Therein, ye gods, you make the weak most strong."
+      - "Therein, ye gods, you tyrants do defeat."
+      - "Nor stony tower, nor walls of beaten brass,"
+      - "Nor airless dungeon, nor strong links of iron"
+      - "Can be retentive to the strength of spirit."
+      - "But life, being weary of these worldly bars,"
+      - "Never lacks power to dismiss itself."
+      - "If I know this, know all the world besides,"
+      - "That part of tyranny that I do bear"
+      - "I can shake off at pleasure."
+    m:
+      - "I know where I’ll wear this dagger, then. I’ll kill myself to save myself from slavery. In suicide, gods make the weak strong. In suicide, gods allow tyrants to be defeated. No stony tower, no brass walls, no airless dungeon, no iron chains can contain a strong mind. But if a man becomes weary of these obstacles, he can always kill himself. Let everyone beware: I can shake off the tyranny that now oppresses me whenever I choose."
+
+  - os: "Thunder still"
+    ms: "Thunder continues."
+
+  - sp: CASCA
+    o:
+      - "  So can I."
+      - "So every bondman in his own hand bears"
+      - "The power to cancel his captivity."
+    m:
+      - "So can I. In fact, every imprisoned man holds in his own hand the tool to free himself."
+
+  - sp: CASSIUS
+    o:
+      - "And why should Caesar be a tyrant then?"
+      - "Poor man! I know he would not be a wolf"
+      - "But that he sees the Romans are but sheep."
+      - "He were no lion were not Romans hinds."
+      - "Those that with haste will make a mighty fire"
+      - "Begin it with weak straws. What trash is Rome,"
+      - "What rubbish and what offal, when it serves"
+      - "For the base matter to illuminate"
+      - "So vile a thing as Caesar! But, O grief,"
+      - "Where hast thou led me? I perhaps speak this"
+      - "Before a willing bondman. Then I know"
+      - "My answer must be made. But I am armed,"
+      - "And dangers are to me indifferent."
+    m:
+      - "How can Caesar be a tyrant then? Poor man! I know he wouldn’t be a wolf if the Romans didn’t act like sheep. He couldn’t be a lion if the Romans weren’t such easy prey. People who want to start a big fire quickly start with little twigs. Rome becomes complete trash, nothing but rubbish and garbage, when it works to light up the ambitions of someone as worthless as Caesar. But, oh no! What have I said in my grief? I might be speaking to someone who *wants* to be a slave, in which case I’ll be held accountable for my words. But I’m armed and I don’t care about danger."
+
+  - sp: CASCA
+    o:
+      - "You speak to Casca, and to such a man"
+      - "That is no fleering telltale. Hold, my hand."
+      - "Be factious for redress of all these griefs,"
+      - "And I will set this foot of mine as far"
+      - "As who goes farthest."
+    m:
+      - "You’re talking to Casca, not to some smiling, two-faced tattletale. Say no more. Shake my hand. If you’re joining together to right these wrongs, I’ll go as far as any one of you."
+
+  - sp: CASSIUS
+    o:
+      - "    There’s a bargain made."
+      - "Now know you, Casca, I have moved already"
+      - "Some certain of the noblest-minded Romans"
+      - "To undergo with me an enterprise"
+      - "Of honorable-dangerous consequence."
+      - "And I do know by this they stay for me"
+      - "In Pompey’s porch. For now, this fearful night,"
+      - "There is no stir or walking in the streets,"
+      - "And the complexion of the element"
+      - "In favor’s like the work we have in hand,"
+      - "Most bloody, fiery, and most terrible."
+    m:
+      - "That’s a deal. Now let me tell you, Casca, I have already convinced some of the noblest Romans to join me in an honorable but dangerous mission. And I know that by now they’re waiting for me on the porch outside Pompey’s theater. We’re meeting on this fearful night because no one is out on the streets. The sky tonight looks bloody, fiery, and terrible, just like the work we have to do."
+
+  - os: "Enter CINNA"
+    ms: "CINNA enters."
+
+  - sp: CASCA
+    o:
+      - "Stand close awhile, for here comes one in haste."
+    m:
+      - "Hide for a minute—someone’s approaching fast."
+
+  - sp: CASSIUS
+    o:
+      - "’Tis Cinna. I do know him by his gait."
+      - "He is a friend.—Cinna, where haste you so?"
+    m:
+      - "It’s Cinna. I recognize his walk. He’s a friend. Cinna, where are you going in such a hurry?"
+
+  - sp: CINNA
+    o:
+      - "To find out you. Who’s that? Metellus Cimber?"
+    m:
+      - "To find you. Who’s that? Metellus Cimber?"
+
+  - sp: CASSIUS
+    o:
+      - "No, it is Casca, one incorporate"
+      - "To our attempts. Am I not stayed for, Cinna?"
+    m:
+      - "No, it’s Casca, someone who’s going to work with us. Aren’t the others waiting for me, Cinna?"
+
+  - sp: CINNA
+    o:
+      - "I am glad on ’t. What a fearful night is this!"
+      - "There’s two or three of us have seen strange sights."
+    m:
+      - "I’m glad Casca is with us. What a fearful night this is! Two or three of us have seen strange things."
+
+  - sp: CASSIUS
+    o:
+      - "Am I not stayed for? Tell me."
+    m:
+      - "Are the others waiting? Tell me."
+
+  - sp: CINNA
+    o:
+      - "Yes, you are."
+      - "O Cassius, if you could"
+      - "But win the noble Brutus to our party—"
+    m:
+      - "Yes, they are. Oh, Cassius, if you could only convince Brutus to join us—"
+
+  - sp: CASSIUS
+    o:
+      - "Be you content. Good Cinna, take this paper,"
+      - "And look you lay it in the praetor’s chair"
+      - "Where Brutus may but find it. And throw this"
+      - "In at his window. Set this up with wax"
+      - "Upon old Brutus’ statue. All this done,"
+      - "Repair to Pompey’s porch, where you shall find us."
+      - "Is Decius Brutus and Trebonius there?"
+    m:
+      - "Don’t worry. Good Cinna, take this paper and be sure to lay it in the judge’s chair where Brutus sits, so he’ll find it. And throw this one in his window, and attach this one with wax to the statue of Brutus’ ancestor, old Brutus. When you’ve finished all this, return to the porch of Pompey’s theater, where you’ll find us. Are Decius Brutus and Trebonius there?"
+
+  - sp: CINNA
+    o:
+      - "All but Metellus Cimber, and he’s gone"
+      - "To seek you at your house. Well, I will hie,"
+      - "And so bestow these papers as you bade me."
+    m:
+      - "Everyone’s there except Metellus Cimber, and he’s gone to look for you at your house. Well, I’ll hurry and put these papers where you told me."
+
+  - sp: CASSIUS
+    o:
+      - "That done, repair to Pompey’s theatre."
+    m:
+      - "When you’ve finished, go back to Pompey’s theater."
+
+  - os: "Exit CINNA"
+    ms: "CINNA exits."
+
+  - o:
+      - "Come, Casca, you and I will yet ere day"
+      - "See Brutus at his house. Three parts of him"
+      - "Is ours already, and the man entire"
+      - "Upon the next encounter yields him ours."
+    m:
+      - "Come on, Casca, you and I will go see Brutus at his house before sunrise. He’s three-quarters on our side already, and we’ll win him over entirely at this meeting."
+
+  - sp: CASCA
+    o:
+      - "Oh, he sits high in all the people’s hearts,"
+      - "And that which would appear offense in us,"
+      - "His countenance, like richest alchemy,"
+      - "Will change to virtue and to worthiness."
+    m:
+      - "Oh, the people love him well. Things that would look bad if we did them, Brutus could do and look virtuous—just like an alchemist turns worthless tin to gold."
+
+  - sp: CASSIUS
+    o:
+      - "Him and his worth and our great need of him"
+      - "You have right well conceited. Let us go,"
+      - "For it is after midnight, and ere day"
+      - "We will awake him and be sure of him."
+    m:
+      - "Yes, you’re absolutely right about how worthy Brutus is and how much we need him. Let’s go, because it’s already after midnight, and we want him on our side before daylight."
+
+  - os: "Exeunt"
+    ms: "They exit."

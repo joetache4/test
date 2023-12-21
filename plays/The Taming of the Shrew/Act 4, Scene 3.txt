@@ -1,0 +1,595 @@
+play: The Taming of the Shrew
+title: Act 4, Scene 3
+group: 4
+order: 9
+text:
+  - os: "Enter KATHERINE and GRUMIO"
+    ms: "KATHERINE and GRUMIO enter."
+
+  - sp: GRUMIO
+    o:
+      - "No, no, forsooth, I dare not for my life."
+    m:
+      - "No, no, I can’t, really. He’d kill me."
+
+  - sp: KATHERINE
+    o:
+      - "The more my wrong, the more his spite appears."
+      - "What, did he marry me to famish me?"
+      - "Beggars that come unto my father’s door"
+      - "Upon entreaty have a present alms."
+      - "If not, elsewhere they meet with charity."
+      - "But I, who never knew how to entreat,"
+      - "Nor never needed that I should entreat,"
+      - "Am starved for meat, giddy for lack of sleep,"
+      - "With oaths kept waking and with brawling fed."
+      - "And that which spites me more than all these wants,"
+      - "He does it under name of perfect love,"
+      - "As who should say, if I should sleep or eat,"
+      - "’Twere deadly sickness or else present death."
+      - "I prithee, go and get me some repast,"
+      - "I care not what, so it be wholesome food."
+    m:
+      - "The more I suffer, the more spiteful he becomes. Did he marry me just to starve me? Beggars at my father’s door are given money as soon as they ask for it. And if they don’t find charity there, they find it someplace else. But I, who have never known how to beg and never had to beg, am starved for food, dizzy with lack of sleep, kept awake with curses and fed with brawling. And what irks me more than all these things put together is that he does it under the pretense of love—as though for me to eat or sleep would bring on fatal illness or sudden death. Please, go and get me something to eat. I don’t care what so long as it’s nutritious."
+
+  - sp: GRUMIO
+    o:
+      - "What say you to a neat’s foot?"
+    m:
+      - "What do you say to a calf’s foot?"
+
+  - sp: KATHERINE
+    o:
+      - "’Tis passing good. I prithee let me have it."
+    m:
+      - "Oh, lovely. Can I have some?"
+
+  - sp: GRUMIO
+    o:
+      - "I fear it is too choleric a meat."
+      - "How say you to a fat tripe finely broiled?"
+    m:
+      - "I’m afraid it will raise your blood pressure. What do you say to an ox stomach, nicely broiled?"
+
+  - sp: KATHERINE
+    o:
+      - "I like it well. Good Grumio, fetch it me."
+    m:
+      - "I’d love it. Nice Grumio, bring me some."
+
+  - sp: GRUMIO
+    o:
+      - "I cannot tell. I fear ’tis choleric. What say you to a piece of beef and mustard?"
+    m:
+      - "I don’t know. I’m afraid it will make you too hot, too. What do you say to a piece of beef with mustard?"
+
+  - sp: KATHERINE
+    o:
+      - "A dish that I do love to feed upon."
+    m:
+      - "A favorite dish of mine."
+
+  - sp: GRUMIO
+    o:
+      - "Ay, but the mustard is too hot a little."
+    m:
+      - "Yes, but the mustard is probably too hot."
+
+  - sp: KATHERINE
+    o:
+      - "Why then, the beef, and let the mustard rest."
+    m:
+      - "Well then, the beef without the mustard."
+
+  - sp: GRUMIO
+    o:
+      - "Nay then, I will not. You shall have the mustard"
+      - "Or else you get no beef of Grumio."
+    m:
+      - "Absolutely not. You’ll take the mustard or you’ll get no beef from Grumio."
+
+  - sp: KATHERINE
+    o:
+      - "Then both, or one, or anything thou wilt."
+    m:
+      - "Then both, or one, or anything you like."
+
+  - sp: GRUMIO
+    o:
+      - "Why then, the mustard without the beef."
+    m:
+      - "How about the mustard without the beef."
+
+  - sp: KATHERINE
+    o:
+      - "Go, get thee gone, thou false deluding slave,"
+      - "*Beats him*"
+      - "That feed’st me with the very name of meat."
+      - "Sorrow on thee and all the pack of you"
+      - "That triumph thus upon my misery."
+      - "Go, get thee gone, I say."
+    m:
+      - "Get out of here, you measly, lying wretch. *(she beats him.)* You feed me with only the names of foods. To hell with you and the whole pack of you who triumph at my misery. Go on, I said get out of here."
+
+  - os: "Enter PETRUCHIO and HORTENSIO with meat"
+    ms: "PETRUCHIO and HORTENSIO enter with a dish of meat."
+
+  - sp: PETRUCHIO
+    o:
+      - "How fares my Kate? What, sweeting, all amort?"
+    m:
+      - "How is my Kate? Feeling blue, darling?"
+
+  - sp: HORTENSIO
+    o:
+      - "Mistress, what cheer?"
+    m:
+      - "Mistress, how are you?"
+
+  - sp: KATHERINE
+    o:
+      - "    Faith, as cold as can be."
+    m:
+      - "Believe me, I’ve been better."
+
+  - sp: PETRUCHIO
+    o:
+      - "Pluck up thy spirits. Look cheerfully upon me."
+      - "Here love, thou seest how diligent I am,"
+      - "To dress thy meat myself and bring it thee."
+      - "I am sure, sweet Kate, this kindness merits thanks."
+      - "What, not a word? Nay, then thou lov’st it not"
+      - "And all my pains is sorted to no proof."
+      - "Here, take away this dish."
+    m:
+      - "Cheer up. Give us a smile. Look, love, see how devoted I am? I’ve prepared a meal for you myself, and here it is. I am sure, sweet Kate, this kindness deserves thanks. What, not a word? I guess you don’t want it. Ah well, all my trouble was for nothing. Here, take away the dish."
+
+  - sp: KATHERINE
+    o:
+      - "    I pray you, let it stand."
+    m:
+      - "Please, leave it here."
+
+  - sp: PETRUCHIO
+    o:
+      - "The poorest service is repaid with thanks,"
+      - "And so shall mine, before you touch the meat."
+    m:
+      - "The smallest service is repaid with thanks. Mine will be, too, before you touch the food."
+
+  - sp: KATHERINE
+    o:
+      - "I thank you, sir."
+    m:
+      - "Thank you, sir."
+
+  - sp: HORTENSIO
+    o:
+      - "Signior Petruchio, fie, you are to blame."
+      - "Come, mistress Kate, I’ll bear you company."
+    m:
+      - "Shame on you, Petruchio! You are too harsh. Come, mistress Kate, I’ll join you."
+
+  - sp: PETRUCHIO
+    o:
+      - "*(aside to HORTENSIO)*"
+      - "Eat it up all, Hortensio, if thou lovest me.—"
+      - "Much good do it unto thy gentle heart."
+      - "Kate, eat apace. And now, my honey love,"
+      - "Will we return unto thy father’s house"
+      - "And revel it as bravely as the best,"
+      - "With silken coats and caps and golden rings,"
+      - "With ruffs and cuffs and farthingales and things,"
+      - "With scarves and fans and double change of brav’ry,"
+      - "With amber bracelets, beads, and all this knav’ry."
+      - "What, hast thou dined? The tailor stays thy leisure"
+      - "To deck thy body with his ruffling treasure."
+    m:
+      - "*(speaking so that only HORTENSIO can hear)* Do me a favor and scarf it all down yourself, Hortensio.—May it do your gentle heart good, Kate. Eat up quickly, my honey lamb, we’re off to your father’s house to join in the revelry, where we’ll dress as well as the best of them, with silk robes and caps and golden rings, collars and cuffs and fancy frocks and things, with scarves and fans and two changes of clothes, amber bracelets, beads, and plenty of gewgaws. All finished? The tailor is waiting to deck you out in ruffled finery."
+
+  - os: "Enter TAILOR"
+    ms: "A TAILOR enters."
+
+  - o:
+      - "Come, tailor, let us see these ornaments."
+      - "Lay forth the gown."
+    m:
+      - "Now, tailor, let’s see what you’ve got. Lay out the gown."
+
+  - os: "Enter HABERDASHER"
+    ms: "A HATMAKER enters."
+
+  - o:
+      - "    What news with you, sir?"
+    m:
+      - "What can I do for you, sir?"
+
+  - sp: HABERDASHER
+    o:
+      - "Here is the cap your Worship did bespeak."
+    m:
+      - "Here is the cap your Worship ordered."
+
+  - sp: PETRUCHIO
+    o:
+      - "Why, this was molded on a porringer!"
+      - "A velvet dish! Fie, fie, ’tis lewd and filthy!"
+      - "Why, ’tis a cockle or a walnut shell,"
+      - "A knack, a toy, a trick, a baby’s cap."
+      - "Away with it! Come, let me have a bigger."
+    m:
+      - "Why, this was modeled on a porridge bowl! It’s a velvet dish! No, definitely not! It’s cheap and nasty! It’s like a cockleshell or a walnut shell, a joke, a prank, a doll’s cap. Take it away. Bring me a bigger one."
+
+  - sp: KATHERINE
+    o:
+      - "I’ll have no bigger. This doth fit the time,"
+      - "And gentlewomen wear such caps as these."
+    m:
+      - "I won’t have one any bigger. This is the fashion. Gentlewomen are wearing caps like this right now."
+
+  - sp: PETRUCHIO
+    o:
+      - "When you are gentle, you shall have one too,"
+      - "And not till then."
+    m:
+      - "When you are gentle, you shall have one, too, and not till then."
+
+  - sp: HORTENSIO
+    o:
+      - "*(aside)* That will not be in haste."
+    m:
+      - "*(to himself)* That won’t be anytime soon."
+
+  - sp: KATHERINE
+    o:
+      - "Why, sir, I trust I may have leave to speak,"
+      - "And speak I will. I am no child, no babe."
+      - "Your betters have endured me say my mind,"
+      - "And if you cannot, best you stop your ears."
+      - "My tongue will tell the anger of my heart"
+      - "Or else my heart, concealing it, will break,"
+      - "And, rather than it shall, I will be free"
+      - "Even to the uttermost, as I please, in words."
+    m:
+      - "Sir, I think I have the right to speak, and speak I certainly will. I am not a child or an infant. Better men than you have heard me speak my mind, and if you can’t take it, then you’d better plug your ears. I’ll express my anger or die concealing it. And rather than have that happen, I’ll give myself permission to speak as freely as I like, whatever I may have to say."
+
+  - sp: PETRUCHIO
+    o:
+      - "Why, thou say’st true. It is a paltry cap,"
+      - "A custard-coffin, a bauble, a silken pie."
+      - "I love thee well in that thou lik’st it not."
+    m:
+      - "You know, you’re right. It’s a measly little cap, a dessert crust, a plaything, a silk pie. I love you all the more for not liking it."
+
+  - sp: KATHERINE
+    o:
+      - "Love me or love me not, I like the cap,"
+      - "And it I will have, or I will have none."
+    m:
+      - "I don’t care if you love me or not, I like the cap and I’ll have it or I won’t have any."
+
+  - os: "Exit HABERDASHER"
+    ms: "HATMAKER exits."
+
+  - sp: PETRUCHIO
+    o:
+      - "Thy gown? Why, ay. Come, tailor, let us see ’t."
+      - "O mercy, God! What masking stuff is here?"
+      - "What’s this? A sleeve? ’Tis like a demi-cannon."
+      - "What, up and down, carved like an apple tart?"
+      - "Here’s snip and nip and cut and slish and slash,"
+      - "Like to a censer in a barber’s shop."
+      - "Why, what i’ devil’s name, tailor, call’st thou this?"
+    m:
+      - "Now, your gown? Yes, yes. Come, tailor, show it to us. Merciful God! What sort of costume do we have here? What do you call this? A sleeve? It’s like a cannon. What have you done? Carved it up and down like an apple tart? Snip and snip and cut and slash—it’s got more holes than a sieve! What in the world do you call this, tailor!"
+
+  - sp: HORTENSIO
+    o:
+      - "*(aside)* I see she’s like to have neither cap nor gown."
+    m:
+      - "*(to himself)* I see she’s likely to have neither cap nor gown."
+
+  - sp: TAILOR
+    o:
+      - "You bid me make it orderly and well,"
+      - "According to the fashion and the time."
+    m:
+      - "You told me to make it well and properly and in keeping with the current style."
+
+  - sp: PETRUCHIO
+    o:
+      - "Marry, and did. But if you be remembered,"
+      - "I did not bid you mar it to the time."
+      - "Go, hop me over every kennel home,"
+      - "For you shall hop without my custom, sir."
+      - "I’ll none of it. Hence, make your best of it."
+    m:
+      - "Certainly, I did. But if you remember, I didn’t tell you to parody the style. Go on home, sir. You’ve lost me as a customer. I won’t take it. Do whatever you want with it."
+
+  - sp: KATHERINE
+    o:
+      - "I never saw a better-fashioned gown,"
+      - "More quaint, more pleasing, nor more commendable."
+      - "Belike you mean to make a puppet of me."
+    m:
+      - "I never saw a better-designed gown, more elegant and pleasing and well made. Perhaps you think you can make me into some sort of plaything?"
+
+  - sp: PETRUCHIO
+    o:
+      - "Why, true, he means to make a puppet of thee."
+    m:
+      - "Yes, that’s it! The tailor thinks he can make you into some sort of plaything."
+
+  - sp: TAILOR
+    o:
+      - "She says your Worship means to make a puppet of her."
+    m:
+      - "She says your Worship thinks *you* can make her into some sort of plaything."
+
+  - sp: PETRUCHIO
+    o:
+      - "O monstrous arrogance! Thou liest, thou thread, thou thimble,"
+      - "Thou yard, three-quarters, half-yard, quarter, nail!"
+      - "Thou flea, thou nit, thou winter cricket thou!"
+      - "Braved in mine own house with a skein of thread?"
+      - "Away, thou rag, thou quantity, thou remnant,"
+      - "Or I shall so be-mete thee with thy yard"
+      - "As thou shalt think on prating whilst thou liv’st!"
+      - "I tell thee, I, that thou hast marred her gown."
+    m:
+      - "What monstrous arrogance! It’s a lie, you thread, you thimble, you measurement! You flea, you louse, you winter cricket! Disrespected in my own house by a spool of thread! Get out of here you rag, you remnant, you piece of yardage, or I’ll measure you within an inch of your life with your own yardstick, and you’ll remember your yammering for the rest of your life. I tell you, you’ve ruined her gown."
+
+  - sp: TAILOR
+    o:
+      - "Your Worship is deceived. The gown is made"
+      - "Just as my master had direction."
+      - "Grumio gave order how it should be done."
+    m:
+      - "It’s not true. The gown was made just as my master was directed. Grumio gave the order for how it should be done."
+
+  - sp: GRUMIO
+    o:
+      - "I gave him no order. I gave him the stuff."
+    m:
+      - "I gave him no order. I gave him the material."
+
+  - sp: TAILOR
+    o:
+      - "But how did you desire it should be made?"
+    m:
+      - "But how did you want it made?"
+
+  - sp: GRUMIO
+    o:
+      - "Marry, sir, with needle and thread."
+    m:
+      - "With a needle and thread."
+
+  - sp: TAILOR
+    o:
+      - "But did you not request to have it cut?"
+    m:
+      - "But didn’t you expect us to cut the cloth?"
+
+  - sp: GRUMIO
+    o:
+      - "Thou hast faced many things."
+    m:
+      - "You’ve faced many things, haven’t you?"
+
+  - sp: TAILOR
+    o:
+      - "I have."
+    m:
+      - "I have."
+
+  - sp: GRUMIO
+    o:
+      - "Face not me. Thou hast braved many men; brave not me. I will neither be faced nor braved. I say unto thee, I bid thy master cutout the gown, but I did not bid him cut it to pieces. *Ergo,* thou liest."
+    m:
+      - "Well, don’t face off with me. You have bested many things, well don’t try and best me. I will not be faced or bested. I tell you I requested that your master cut out the gown, but I didn’t ask him to cut it all to pieces. Therefore, it follows you’re a liar."
+
+  - sp: TAILOR
+    o:
+      - "Why, here is the note of the fashion to testify."
+    m:
+      - "Why, here is the order to prove it."
+
+  - os: "Holds up a paper"
+    ms: "He holds up a piece of paper."
+
+  - sp: PETRUCHIO
+    o:
+      - "Read it."
+    m:
+      - "Read it."
+
+  - sp: GRUMIO
+    o:
+      - "The note lies in ’s throat, if he say I said so."
+    m:
+      - "The note is a big fat liar if it says I said so."
+
+  - sp: TAILOR
+    o:
+      - "*(reads)* “*Imprimis,* a loose-bodied gown—”"
+    m:
+      - "*(reading)* “Item one, a loose-bodied gown—”"
+
+  - sp: GRUMIO
+    o:
+      - "Master, if ever I said “loose-bodied gown,” sew me in the skirts of it, and beat me to death with a bottom of brown thread. I said “a gown.”"
+    m:
+      - "Master, if ever I said “ loose-bodied gown ,” sew me into the skirts of it and beat me to death with a bobbin of brown thread. I said “a gown.”"
+
+  - sp: PETRUCHIO
+    o:
+      - "Proceed."
+    m:
+      - "Go on."
+
+  - sp: TAILOR
+    o:
+      - "*(reads)* “With a small-compassed cape—”"
+    m:
+      - "*(he reads)* “With a half-circle cape—”"
+
+  - sp: GRUMIO
+    o:
+      - "I confess the cape."
+    m:
+      - "I admit the cape."
+
+  - sp: TAILOR
+    o:
+      - "*(reads)* “With a trunk sleeve—”"
+    m:
+      - "*(he reads)* “With a wide sleeve—”"
+
+  - sp: GRUMIO
+    o:
+      - "I confess two sleeves."
+    m:
+      - "I admit two sleeves."
+
+  - sp: TAILOR
+    o:
+      - "*(reads)* “The sleeves curiously cut.”"
+    m:
+      - "*(he reads)* “The sleeves carefully cut.”"
+
+  - sp: PETRUCHIO
+    o:
+      - "Ay, there’s the villany."
+    m:
+      - "Ah, there’s the problem."
+
+  - sp: GRUMIO
+    o:
+      - "Error i’ the bill, sir, error i’ the bill! I commanded the sleeves should be cut out and sewed up again, and that I’ll prove upon thee, though thy little finger be armed in a thimble."
+    m:
+      - "Error in the bill, sir, error in the bill! I ordered that the sleeves be cut out and sewed up again, and I’ll prove it in combat even if your little finger is armed with your thimble."
+
+  - sp: TAILOR
+    o:
+      - "This is true that I say: an I had thee in place where, thou shouldst know it."
+    m:
+      - "What I say is true. And if this were a fitting place, I’d prove it."
+
+  - sp: GRUMIO
+    o:
+      - "I am for thee straight. Take thou the bill, give me thy mete- yard, and spare not me."
+    m:
+      - "I am ready for you. You take the bill and I’ll take your yardstick. Do your worst!"
+
+  - sp: HORTENSIO
+    o:
+      - "God-a-mercy, Grumio! Then he shall have no odds."
+    m:
+      - "God have mercy, Grumio! He won’t have a chance."
+
+  - sp: PETRUCHIO
+    o:
+      - "Well, sir, in brief, the gown is not for me."
+    m:
+      - "Well, sir, the gown is not for me."
+
+  - sp: GRUMIO
+    o:
+      - "You are i’ the right, sir, ’tis for my mistress."
+    m:
+      - "You are right, it’s for my mistress."
+
+  - sp: PETRUCHIO
+    o:
+      - "Go, take it up unto thy master’s use."
+    m:
+      - "Go, take it away and let your master make whatever use of it he can."
+
+  - sp: GRUMIO
+    o:
+      - "Villain, not for thy life! Take up my mistress’ gown for thy master’s use!"
+    m:
+      - "Certainly not! Take off my mistress’ gown for your master’s use!"
+
+  - sp: PETRUCHIO
+    o:
+      - "Why, sir, what’s your conceit in that?"
+    m:
+      - "Why, what’s the problem?"
+
+  - sp: GRUMIO
+    o:
+      - "O, sir, the conceit is deeper than you think for. Take up my mistress’ gown to his master’s use! O, fie, fie, fie!"
+    m:
+      - "Oh, sir, the problem goes far deeper than you realize. Take up my mistress’ gown for his master’s use! Oh, that’s disgusting!"
+
+  - sp: PETRUCHIO
+    o:
+      - "*(aside)* Hortensio, say thou wilt see the tailor paid."
+      - "*(to TAILOR)* Go, take it hence. Begone, and say no more."
+    m:
+      - "*(speaking so that only HORTENSIO can hear)* Hortensio, tell the tailor you’ll make sure he gets paid. *(to TAILOR)* Take it away. Off you go. There’s no more to be said."
+
+  - sp: HORTENSIO
+    o:
+      - "*(aside to TAILOR)*"
+      - "Tailor, I’ll pay thee for thy gown tomorrow."
+      - "Take no unkindness of his hasty words."
+      - "Away, I say. Commend me to thy master."
+    m:
+      - "*(speaking so that only TAILOR can hear)* Tailor, I’ll pay you for the gown tomorrow. Don’t be offended at his angry words. Go on, then. Regards to your master."
+
+  - os: "Exit TAILOR"
+    ms: "TAILOR exits."
+
+  - sp: PETRUCHIO
+    o:
+      - "Well, come, my Kate. We will unto your father’s"
+      - "Even in these honest mean habiliments."
+      - "Our purses shall be proud, our garments poor,"
+      - "For ’tis the mind that makes the body rich,"
+      - "And as the sun breaks through the darkest clouds,"
+      - "So honor peereth in the meanest habit."
+      - "What, is the jay more precious than the lark"
+      - "Because his feathers are more beautiful?"
+      - "Or is the adder better than the eel"
+      - "Because his painted skin contents the eye?"
+      - "Oh, no, good Kate. Neither art thou the worse"
+      - "For this poor furniture and mean array."
+      - "If thou account’st it shame, lay it on me,"
+      - "And therefore frolic! We will hence forthwith"
+      - "To feast and sport us at thy father’s house."
+      - "*(to GRUMIO)* Go, call my men, and let us straight to him,"
+      - "And bring our horses unto Long Lane end."
+      - "There will we mount, and thither walk on foot."
+      - "Let’s see, I think ’tis now some seven o’clock,"
+      - "And well we may come there by dinnertime."
+    m:
+      - "Ah well, my Kate. We’ll go to your father’s house dressed as we are, in simple but honest clothes. Our purses shall be rich, our garments poor. After all, it’s the mind that enriches the body, and just as the sun shines through the darkest clouds, well, that’s how clearly honor peeps through even the humblest style of dress. I mean, is the jay more precious than the lark because his feather is more beautiful? Is the snake better than the eel because the pattern on his back pleases the eye? Hardly, Kate. By the same token you are worth no less for your simple clothes and lack of finery. If you regard it as shameful, put the shame on me. So, let’s perk up! We’re off to eat and whoop it up at your father’s house.*(to GRUMIO)* Go, call my men so we can leave right away. And bring our horses to the end of Long Lane. We’ll walk there on foot and mount up there. Let’s see, I think it must be seven o’clock, so we should get there easily by lunchtime."
+
+  - sp: KATHERINE
+    o:
+      - "I dare assure you, sir, ’tis almost two,"
+      - "And ’twill be supper time ere you come there."
+    m:
+      - "I hate to say it, but it’s almost two and we won’t get there before suppertime."
+
+  - sp: PETRUCHIO
+    o:
+      - "It shall be seven ere I go to horse."
+      - "Look what I speak, or do, or think to do,"
+      - "You are still crossing it. Sirs, let ’t alone."
+      - "I will not go today, and ere I do"
+      - "It shall be what o’clock I say it is."
+    m:
+      - "It shall be seven o’clock before I get on my horse. Whatever I say, or think, or do, you’re continually contradicting it. Sirs, never mind. We won’t go today—or any day until it’s clear that it shall be whatever time I say it is."
+
+  - sp: HORTENSIO
+    o:
+      - "*(aside)* Why, so this gallant will command the sun."
+    m:
+      - "*(to himself)* I see this fellow intends to command the sun."
+
+  - os: "Exeunt"
+    ms: "They all exit."

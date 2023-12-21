@@ -1,0 +1,374 @@
+play: Richard II
+title: Act 5, Scene 2
+group: 5
+order: 14
+text:
+  - os: "The DUKE OF YORK’s palace."
+    ms: "The DUKE OF YORK’s palace."
+
+  - os: "Enter DUKE OF YORK and DUCHESS OF YORK"
+    ms: "The DUKE OF YORK and the DUCHESS OF YORK enter."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "My lord, you told me you would tell the rest,"
+      - "When weeping made you break the story off,"
+      - "of our two cousins coming into London."
+    m:
+      - "My lord, you told me you would tell the rest of the story about our two relatives coming to London, until weeping made you stop."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Where did I leave?"
+    m:
+      - "Where did I stop the story?"
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "At that sad stop, my lord,"
+      - "Where rude misgovern’d hands from windows’ tops"
+      - "Threw dust and rubbish on King Richard’s head."
+    m:
+      - "At the sad place, my lord, when rude hands were throwing dust and rubbish on King Richard’s head from the upper windows."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Then, as I said, the duke, great Bolingbroke,"
+      - "Mounted upon a hot and fiery steed"
+      - "Which his aspiring rider seem’d to know,"
+      - "With slow but stately pace kept on his course,"
+      - "Whilst all tongues cried “God save thee,"
+      - "Bolingbroke!”"
+      - "You would have thought the very windows spake,"
+      - "So many greedy looks of young and old"
+      - "Through casements darted their desiring eyes"
+      - "Upon his visage, and that all the walls"
+      - "With painted imagery had said at once"
+      - "“Jesu preserve thee! welcome, Bolingbroke!”"
+      - "Whilst he, from the one side to the other turning,"
+      - "Bareheaded, lower than his proud steed’s neck,"
+      - "Bespake them thus: “I thank you, countrymen:”"
+      - "And thus still doing, thus he pass’d along."
+    m:
+      - "Then, as I said, the duke, great Bolingbroke, got on a magnificent horse that seemed to know it was him and kept going in a slow and stately way. All around, people were calling, “God save you, Bolingbroke!” You would have thought the windows themselves were talking. Both old and young people were looking out on him with happy desire, and on the painted walls all around was written, “Jesus protect you! Welcome, Bolingbroke!” Meanwhile, he was turning his head, bare of any helmet and not even as tall as his horse’s neck, and said, “I thank you, countrymen.” And he continued along saying this as he went."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Alack, poor Richard! where rode he the whilst?"
+    m:
+      - "Alas, poor Richard? Where was he riding then?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "As in a theatre, the eyes of men,"
+      - "After a well-graced actor leaves the stage,"
+      - "Are idly bent on him that enters next,"
+      - "Thinking his prattle to be tedious;"
+      - "Even so, or with much more contempt, men’s eyes"
+      - "Did scowl on gentle Richard; no man cried “God save him!”"
+      - "No joyful tongue gave him his welcome home:"
+      - "But dust was thrown upon his sacred head:"
+      - "Which with such gentle sorrow he shook off,"
+      - "His face still combating with tears and smiles,"
+      - "The badges of his grief and patience,"
+      - "That had not God, for some strong purpose, steel’d"
+      - "The hearts of men, they must perforce have melted"
+      - "And barbarism itself have pitied him."
+      - "But heaven hath a hand in these events,"
+      - "To whose high will we bound our calm contents."
+      - "To Bolingbroke are we sworn subjects now,"
+      - "Whose state and honour I for aye allow."
+    m:
+      - "People looked at him with the dissatisfaction they might have for a supporting actor who comes on stage after the star has left. They stared at him with contempt, and no one cried out, “God save him!” No one welcomed him back. Instead, they threw dust on his sacred head. He shook it off with gentle sorrow, while he both cried and smiled as he wrestled with grief and patience. For some reason God must have hardened everyone’s hearts, otherwise they would have melted so that even a barbarian would have pitied him. But heaven has ordered all this, and we must follow its will. We are Bolingbroke’s subjects now, and I must forever acknowledge his rule and honor."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Here comes my son Aumerle."
+    m:
+      - "Here comes my son Aumerle."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Aumerle that was;"
+      - "But that is lost for being Richard’s friend,"
+      - "And, madam, you must call him Rutland now:"
+      - "I am in parliament pledge for his truth"
+      - "And lasting fealty to the new-made king."
+    m:
+      - "He was Duke of Aumerle, but because he was Richard’s friend, he has lost his title. You must call him Rutland now. I’ve sworn in Parliament that he will honor and obey our new king."
+
+  - os: "Enter DUKE OF AUMERLE"
+    ms: "The DUKE OF AUMERLE enters."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Welcome, my son: who are the violets now"
+      - "That strew the green lap of the new come spring?"
+    m:
+      - "Welcome, my son. Who are the new favorites of the king?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Madam, I know not, nor I greatly care not:"
+      - "God knows I had as lief be none as one."
+    m:
+      - "Madam, I don’t know and I don’t care. God knows I prefer just as much not to be one."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Well, bear you well in this new spring of time,"
+      - "Lest you be cropp’d before you come to prime."
+      - "What news from Oxford? hold those jousts and triumphs?"
+    m:
+      - "Well, hold yourself upright in this new regime, or you’ll die before your time. What’s the news from Oxford? Are the jousts and festivities happening?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "For aught I know, my lord, they do."
+    m:
+      - "For all I know they are."
+
+  - sp: DUKE OF YORK
+    o:
+      - "You will be there, I know."
+    m:
+      - "You will be there, I know."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "If God prevent not, I purpose so."
+    m:
+      - "I mean to, unless God prevents it."
+
+  - sp: DUKE OF YORK
+    o:
+      - "What seal is that, that hangs without thy bosom?"
+      - "Yea, look’st thou pale? let me see the writing."
+    m:
+      - "What is the note that I see in your shirt? You’ve just gone white. Let me see what it says."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "My lord, ’tis nothing."
+    m:
+      - "My lord, it’s nothing."
+
+  - sp: DUKE OF YORK
+    o:
+      - "No matter, then, who see it;"
+      - "I will be satisfied; let me see the writing."
+    m:
+      - "Then it doesn’t matter who sees it. I want to see it, and I will."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "I do beseech your grace to pardon me:"
+      - "It is a matter of small consequence,"
+      - "Which for some reasons I would not have seen."
+    m:
+      - "I beg you to forgive me. It’s a small matter, but one that I don’t want to share for certain reasons."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Which for some reasons, sir, I mean to see."
+      - "I fear, I fear,—"
+    m:
+      - "I want to see it because of those reasons. I fear—"
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "What should you fear?"
+      - "’Tis nothing but some bond, that he is enter’d into"
+      - "For gay apparel ’gainst the triumph day."
+    m:
+      - "What should you fear? It’s just a bill for some festive clothing for the celebration."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Bound to himself! what doth he with a bond"
+      - "That he is bound to? Wife, thou art a fool."
+      - "Boy, let me see the writing."
+    m:
+      - "A bill that he’s wearing so close to himself! Wife, you are a fool. Boy, let me see what it says."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "I do beseech you, pardon me; I may not show it."
+    m:
+      - "I beg you, forgive me. I can’t show you."
+
+  - sp: DUKE OF YORK
+    o:
+      - "I will be satisfied; let me see it, I say."
+    m:
+      - "I will see it."
+
+  - os: "He plucks it out of his bosom and reads it"
+    ms: "He grabs it and reads it."
+
+  - o:
+      - "Treason! foul treason! Villain! traitor! slave!"
+    m:
+      - "Treason! Foul treason! Villain! Traitor! Slave!"
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "What is the matter, my lord?"
+    m:
+      - "What is the matter, my lord?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Ho! who is within there?"
+    m:
+      - "Hey, who is inside?"
+
+  - os: "Enter a Servant"
+    ms: "A servant enters."
+
+  - o:
+      - "Saddle my horse."
+      - "God for his mercy, what treachery is here!"
+    m:
+      - "Saddle my horse. God have mercy, what treachery is this!"
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Why, what is it, my lord?"
+    m:
+      - "Why, what is it, my lord?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Give me my boots, I say; saddle my horse."
+      - "Now, by mine honour, by my life, by my troth,"
+      - "I will appeach the villain."
+    m:
+      - "Give me my boots and saddle my horse. Now, by my honor, my life, and my vow, I will accuse the villain."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "What is the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Peace, foolish woman."
+    m:
+      - "Be quiet, foolish woman."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "I will not peace. What is the matter, Aumerle."
+    m:
+      - "I won’t be quiet. What is the matter, Aumerle?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Good mother, be content; it is no more"
+      - "Than my poor life must answer."
+    m:
+      - "Good mother, don’t worry. It is something that I have to answer with my own life."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Thy life answer!"
+    m:
+      - "Answer with your life!"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Bring me my boots: I will unto the king."
+    m:
+      - "Bring me my boots. I must go to the king."
+
+  - os: "Re-enter Servant with boots"
+    ms: "The servant enters, carrying boots."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Strike him, Aumerle. Poor boy, thou art amazed."
+      - "Hence, villain! never more come in my sight."
+    m:
+      - "Hit him, Aumerle! Poor boy, you are distraught. Go away, villain! Don’t come back."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Give me my boots, I say."
+    m:
+      - "Give me my boots, I say."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Why, York, what wilt thou do?"
+      - "Wilt thou not hide the trespass of thine own?"
+      - "Have we more sons? or are we like to have?"
+      - "Is not my teeming date drunk up with time?"
+      - "And wilt thou pluck my fair son from mine age,"
+      - "And rob me of a happy mother’s name?"
+      - "Is he not like thee? is he not thine own?"
+    m:
+      - "Why, York, what are you going to do? Won’t you hide the crime of your own child? Do we have any other sons? Are we likely to have more? Aren’t I too old to have children? And are you going to take away my son in my old age, so I can no longer call myself a mother? Doesn’t he look like you? Isn’t he your son?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Thou fond mad woman,"
+      - "Wilt thou conceal this dark conspiracy?"
+      - "A dozen of them here have ta’en the sacrament,"
+      - "And interchangeably set down their hands,"
+      - "To kill the king at Oxford."
+    m:
+      - "Foolish madwoman, will you try to cover up this terrible conspiracy? A dozen have sworn and signed here that they’ll kill the king at Oxford."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "He shall be none;"
+      - "We’ll keep him here: then what is that to him?"
+    m:
+      - "He won’t be one of them. We’ll keep him here, and then what will this affair have to do with him?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Away, fond woman! were he twenty times my son,"
+      - "I would appeach him."
+    m:
+      - "Get away, foolish woman! Even if he were my son twenty times over, I would accuse him."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "Hadst thou groan’d for him"
+      - "As I have done, thou wouldst be more pitiful."
+      - "But now I know thy mind; thou dost suspect"
+      - "That I have been disloyal to thy bed,"
+      - "And that he is a bastard, not thy son:"
+      - "Sweet York, sweet husband, be not of that mind:"
+      - "He is as like thee as a man may be,"
+      - "Not like to me, or any of my kin,"
+      - "And yet I love him."
+    m:
+      - "If you had gone through labor with him as I had, you would be more sorrowful. But now I know what you think. You think that I’ve cheated on you, and that he’s a bastard and not your son. Sweet York, my sweet husband, don’t think that way. He looks as much like you as anyone could. He doesn’t look anything like me, or like anyone in my family, but I still love him."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Make way, unruly woman!"
+    m:
+      - "Make way, you wild woman!"
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: DUCHESS OF YORK
+    o:
+      - "After, Aumerle! mount thee upon his horse;"
+      - "Spur post, and get before him to the king,"
+      - "And beg thy pardon ere he do accuse thee."
+      - "I’ll not be long behind; though I be old,"
+      - "I doubt not but to ride as fast as York:"
+      - "And never will I rise up from the ground"
+      - "Till Bolingbroke have pardon’d thee. Away, be gone!"
+    m:
+      - "Go after him, Aumerle! Take his horse, get to the king before him, and beg forgiveness before he can even accuse you. I’ll be right behind. Though I am old, I can ride as fast as York. I’ll prostrate myself before the king until he has forgiven you. Go on!"
+
+  - os: "Exeunt"
+    ms: "They exit."

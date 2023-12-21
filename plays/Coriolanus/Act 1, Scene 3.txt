@@ -1,0 +1,340 @@
+play: Coriolanus
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Rome. A room in Martius’ house."
+    ms: "A room in Martius’ house in Rome."
+
+  - os: "Enter VOLUMNIA and VIRGILIA they set them down on two low stools, and sew"
+    ms: "VOLUMNIA and VIRGILIA enter. They sit down on two low stools and sew."
+
+  - sp: VOLUMNIA
+    o:
+      - "I pray you, daughter, sing; or express yourself in a"
+      - "more comfortable sort: if my son were my husband, I"
+      - "should freelier rejoice in that absence wherein he"
+      - "won honour than in the embracements of his bed where"
+      - "he would show most love. When yet he was but"
+      - "tender-bodied and the only son of my womb, when"
+      - "youth with comeliness plucked all gaze his way, when"
+      - "for a day of kings’ entreaties a mother should not"
+      - "sell him an hour from her beholding, I, considering"
+      - "how honour would become such a person. that it was"
+      - "no better than picture-like to hang by the wall, if"
+      - "renown made it not stir, was pleased to let him seek"
+      - "danger where he was like to find fame. To a cruel"
+      - "war I sent him; from whence he returned, his brows"
+      - "bound with oak. I tell thee, daughter, I sprang not"
+      - "more in joy at first hearing he was a man-child"
+      - "than now in first seeing he had proved himself a"
+      - "man."
+    m:
+      - "Please, my daughter-in-law, sing or express yourself more cheerfully. If my son were my husband, I would be happier with him away winning honors than lovingly embracing me in bed. Before he was full grown, when he was still my only child, when he was boyishly handsome and attracting much attention, when even if the king begged me I shouldn’t have let him out of my sight for an hour, I considered how honored he would become, and that unless he were inspired to make a name for himself, he would be no better than a picture hanging on the wall, so I happily let him face danger, because that’s how he was likely to find fame. I sent him to a cruel war from which he returned crowned with garlands of oak. I tell you, daughter-in-law, I jumped for joy more to see that he had proven himself as a man than I did when I first heard he was a boy child."
+
+  - sp: VIRGILIA
+    o:
+      - "But had he died in the business, madam; how then?"
+    m:
+      - "But if had he died in the war, madam, how would you feel then?"
+
+  - sp: VOLUMNIA
+    o:
+      - "Then his good report should have been my son; I"
+      - "therein would have found issue. Hear me profess"
+      - "sincerely: had I a dozen sons, each in my love"
+      - "alike and none less dear than thine and my good"
+      - "Martius, I had rather had eleven die nobly for their"
+      - "country than one voluptuously surfeit out of action."
+    m:
+      - "Then his noble deeds would have been my son—in them I would have found my legacy. Listen to me seriously: if I had a dozen sons and loved them equally, as much as I love our Martius, I would rather that eleven of them die nobly for their country than one choose the pleasures of making love over doing his duty."
+
+  - os: "Enter a Gentlewoman"
+    ms: "A Gentlewoman enters."
+
+  - sp: GENTLEWOMAN
+    o:
+      - "*(to Volumnia)* Madam, the Lady Valeria is come to visit you."
+    m:
+      - "*(to Volumnia)* Madam, the Lady Valeria has come to see you."
+
+  - sp: VIRGILIA
+    o:
+      - "Beseech you, give me leave to retire myself."
+    m:
+      - "May I please be excused to have some time alone?"
+
+  - sp: VOLUMNIA
+    o:
+      - "Indeed, you shall not."
+      - "Methinks I hear hither your husband’s drum,"
+      - "See him pluck Aufidius down by the hair,"
+      - "As children from a bear, the Volsces shunning him:"
+      - "Methinks I see him stamp thus, and call thus:"
+      - "“Come on, you cowards! you were got in fear,"
+      - "Though you were born in Rome:” his bloody brow"
+      - "With his mail’d hand then wiping, forth he goes,"
+      - "Like to a harvest-man that’s task’d to mow"
+      - "Or all or lose his hire."
+    m:
+      - "No, you may not. I think I hear your husband’s drum coming toward us. He must have plucked out all Aufidius’ hairs so the Volsces will avoid him the way children run from a bear. I think I see him stamping like this, and calling like this: “Come on, you cowards! You were born in fear even though you were born in Rome.” He’s wiping his bloody forehead with his armored hand. He’s unrelenting like a laborer who must harvest a whole field or not be paid at all."
+
+  - sp: VIRGILIA
+    o:
+      - "His bloody brow! O Jupiter, no blood!"
+    m:
+      - "His bloody forehead! Oh, Jupiter, king of the gods, not blood!"
+
+  - sp: VOLUMNIA
+    o:
+      - "Away, you fool! it more becomes a man"
+      - "Than gilt his trophy: the breasts of Hecuba,"
+      - "When she did suckle Hector, look’d not lovelier"
+      - "Than Hector’s forehead when it spit forth blood"
+      - "At Grecian sword, contemning. Tell Valeria,"
+      - "We are fit to bid her welcome."
+    m:
+      - "Don’t be foolish! Blood belongs on a man more than gold belongs on his trophy. When Hecuba suckled Hector, her breasts were no lovelier than Hector’s forehead when a Grecian sword struck it and it gushed furiously with blood. Tell Valeria that we welcome her in."
+
+  - os: "Exit Gentlewoman"
+    ms: "The Gentlewoman exits."
+
+  - sp: VIRGILIA
+    o:
+      - "Heavens bless my lord from fell Aufidius!"
+    m:
+      - "Heavens protect my husband from the deadly Aufidius!"
+
+  - sp: VOLUMNIA
+    o:
+      - "He’ll beat Aufidius’ head below his knee"
+      - "And tread upon his neck."
+    m:
+      - "He’ll beat Aufidius’ head down below his knees and then stand on his neck."
+
+  - os: "Enter VALERIA, with an Usher and Gentlewoman"
+    ms: "VALERIA enters with an usher and a gentlewoman."
+
+  - sp: VALERIA
+    o:
+      - "My ladies both, good day to you."
+    m:
+      - "My ladies, good day to you both."
+
+  - sp: VOLUMNIA
+    o:
+      - "Sweet madam."
+    m:
+      - "Sweet madam."
+
+  - sp: VIRGILIA
+    o:
+      - "I am glad to see your ladyship."
+    m:
+      - "I’m glad to see you, your ladyship."
+
+  - sp: VALERIA
+    o:
+      - "How do you both? you are manifest house-keepers."
+      - "*(to Volumnia)* What are you sewing here? A fine spot, in good"
+      - "faith. *(to Virgilia)* How does your little son?"
+    m:
+      - "How are you both? You are remarkable house-keepers."
+      - "*(to Volumnia)* What are you sewing here? It looks like fine embroidery."
+      - "*(to Virgilia)* How is your little son?"
+
+  - sp: VIRGILIA
+    o:
+      - "I thank your ladyship; well, good madam."
+    m:
+      - "Thank you, your ladyship. He’s fine, good madam."
+
+  - sp: VOLUMNIA
+    o:
+      - "He had rather see the swords, and hear a drum, than"
+      - "look upon his school-master."
+    m:
+      - "He’d rather see the soldiers and hear a drum than do his schoolwork."
+
+  - sp: VALERIA
+    o:
+      - "O’ my word, the father’s son: I’ll swear, ’tis a"
+      - "very pretty boy. O’ my troth, I looked upon him o’"
+      - "Wednesday half an hour together: has such a"
+      - "confirmed countenance. I saw him run after a gilded"
+      - "butterfly: and when he caught it, he let it go"
+      - "again; and after it again; and over and over he"
+      - "comes, and again; catched it again; or whether his"
+      - "fall enraged him, or how ’twas, he did so set his"
+      - "teeth and tear it; O, I warrant it, how he mammocked"
+      - "it!"
+    m:
+      - "It’s true, he’s his father’s son. He’s a very good-looking boy. I spent half an hour with him on Wednesday. He is so determined. I saw him run after a golden butterfly, and when he caught it, he let it go and then went after it again. He fell down and got back up and again he caught the butterfly. I don’t know whether his fall enraged him or what, but he clenched his teeth and tore it. I tell you, he ripped it apart!"
+
+  - sp: VOLUMNIA
+    o:
+      - "One on ’s father’s moods."
+    m:
+      - "He has his father’s moods."
+
+  - sp: VALERIA
+    o:
+      - "Indeed, la, ’tis a noble child."
+    m:
+      - "Indeed, dear, he’s a noble child."
+
+  - sp: VIRGILIA
+    o:
+      - "A crack, madam."
+    m:
+      - "He’s devilish, madam."
+
+  - sp: VALERIA
+    o:
+      - "Come, lay aside your stitchery; I must have you play"
+      - "the idle husewife with me this afternoon."
+    m:
+      - "Set aside your stitching. Pretend to be an idle housewife with me this afternoon."
+
+  - sp: VIRGILIA
+    o:
+      - "No, good madam; I will not out of doors."
+    m:
+      - "No, good madam. I can’t go out today."
+
+  - sp: VALERIA
+    o:
+      - "Not out of doors!"
+    m:
+      - "Can’t go out?"
+
+  - sp: VOLUMNIA
+    o:
+      - "She shall, she shall."
+    m:
+      - "She will, she will."
+
+  - sp: VIRGILIA
+    o:
+      - "Indeed, no, by your patience; I’ll not over the"
+      - "threshold till my lord return from the wars."
+    m:
+      - "No. Please let me stay in. I won’t cross the threshold until my husband returns from the war."
+
+  - sp: VALERIA
+    o:
+      - "Fie, you confine yourself most unreasonably: come,"
+      - "you must go visit the good lady that lies in."
+    m:
+      - "You’re being unreasonable to confine yourself. Come, you must go visit our neighbor, who’s expecting a baby."
+
+  - sp: VIRGILIA
+    o:
+      - "I will wish her speedy strength, and visit her with"
+      - "my prayers; but I cannot go thither."
+    m:
+      - "I wish her an easy birth and send her my prayers, but I can’t go see her."
+
+  - sp: VOLUMNIA
+    o:
+      - "Why, I pray you?"
+    m:
+      - "Why not?"
+
+  - sp: VIRGILIA
+    o:
+      - "’Tis not to save labour, nor that I want love."
+    m:
+      - "It’s not because I’m lazy or don’t care for her."
+
+  - sp: VALERIA
+    o:
+      - "You would be another Penelope: yet, they say, all"
+      - "the yarn she spun in Ulysses’ absence did but fill"
+      - "Ithaca full of moths. Come; I would your cambric"
+      - "were sensible as your finger, that you might leave"
+      - "pricking it for pity. Come, you shall go with us."
+    m:
+      - "You’re like another Penelope, except they say that all the yarn she spun in Ulysses’ absence only filled Ithaca with moths. I wish your embroidery cloth were as sensitive as your finger, that way you might take pity on it and stop pricking it. Come with us."
+
+  - sp: VIRGILIA
+    o:
+      - "No, good madam, pardon me; indeed, I will not forth."
+    m:
+      - "No, good madam, please excuse me. I won’t go."
+
+  - sp: VALERIA
+    o:
+      - "In truth, la, go with me; and I’ll tell you"
+      - "excellent news of your husband."
+    m:
+      - "Truly, come with me, and I’ll tell you excellent news about your husband."
+
+  - sp: VIRGILIA
+    o:
+      - "O, good madam, there can be none yet."
+    m:
+      - "Oh, good madam, there can’t be good news yet."
+
+  - sp: VALERIA
+    o:
+      - "Verily, I do not jest with you; there came news from"
+      - "him last night."
+    m:
+      - "I’m not kidding you. News came from him last night."
+
+  - sp: VIRGILIA
+    o:
+      - "Indeed, madam?"
+    m:
+      - "Really, madam?"
+
+  - sp: VALERIA
+    o:
+      - "In earnest, it’s true; I heard a senator speak it."
+      - "Thus it is: the Volsces have an army forth; against"
+      - "whom Cominius the general is gone, with one part of"
+      - "our Roman power: your lord and Titus Lartius are set"
+      - "down before their city Corioli; they nothing doubt"
+      - "prevailing and to make it brief wars. This is true,"
+      - "on mine honour; and so, I pray, go with us."
+    m:
+      - "Yes, it’s true. I heard a senator talking. He said Cominius the general is leading one part of our Roman army against the oncoming Volsces. Your husband and Titus Lartius are attacking their city Corioles. They have no doubt that they’ll win and that the battle won’t last long. On my honor, this news is true. Please come out with us."
+
+  - sp: VIRGILIA
+    o:
+      - "Give me excuse, good madam; I will obey you in every"
+      - "thing hereafter."
+    m:
+      - "Forgive me, good madam. I’ll do as you say from now on."
+
+  - sp: VOLUMNIA
+    o:
+      - "*(to Valeria)* Let her alone, lady: as she is now, she will but"
+      - "disease our better mirth."
+    m:
+      - "*(to Valeria)* Let her stay home, lady. The way she is now, she’ll only detract from our celebration."
+
+  - sp: VALERIA
+    o:
+      - "In troth, I think she would. Fare you well, then."
+      - "Come, good sweet lady. Prithee, Virgilia, turn thy"
+      - "solemness out o’ door and go along with us."
+    m:
+      - "I think you’re right—she will. Cheer up then, good sweet lady. Please, Virgilia, shake off your sad mood and come out with us."
+
+  - sp: VIRGILIA
+    o:
+      - "No, at a word, madam; indeed, I must not. I wish"
+      - "you much mirth."
+    m:
+      - "No. In a word, madam, I simply can’t. I wish you much happiness."
+
+  - sp: VALERIA
+    o:
+      - "Well, then, farewell."
+    m:
+      - "Well then, goodbye."
+
+  - os: "Exeunt"
+    ms: "They all exit."

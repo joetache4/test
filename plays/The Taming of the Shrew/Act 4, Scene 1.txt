@@ -1,0 +1,557 @@
+play: The Taming of the Shrew
+title: Act 4, Scene 1
+group: 4
+order: 7
+text:
+  - os: "Enter GRUMIO"
+    ms: "GRUMIO enters."
+
+  - sp: GRUMIO
+    o:
+      - "Fie, fie on all tired jades, on all mad masters, and all foul ways! Was ever man so beaten? Was ever man so ’rayed? Was ever man so weary? I am sent before to make a fire, and they are coming after to warm them. Now, were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly, ere I should come by a fire to thaw me. But I with blowing the fire shall warm myself. For, considering the weather, a taller man than I will take cold.—Holla, ho! Curtis!"
+    m:
+      - "To hell with all worn-out horses, all crazy masters, and all bad roads. Was a man ever beaten as much as me? Was a man ever as dirty as me? Was a man ever so tired? I have been sent on ahead to light a fire, and they are coming after to warm themselves. It’s a good thing I’m like a little pot and warm up quickly, or else my lips themselves would freeze and stick to my teeth, my tongue to the roof of my mouth, and my heart would freeze in my belly, before I managed to get thawed out. I’ll warm myself by blowing on the fire. A taller man than I would catch cold in weather like this. Hey! Curtis! Hello!"
+
+  - os: "Enter CURTIS"
+    ms: "CURTIS enters."
+
+  - sp: CURTIS
+    o:
+      - "Who is that calls so coldly?"
+    m:
+      - "Who calls so coldly?"
+
+  - sp: GRUMIO
+    o:
+      - "A piece of ice. If thou doubt it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A fire, good Curtis."
+    m:
+      - "A piece of ice. Trust me, you could slide all the way from my shoulder to my heel taking no more of a running start than the distance between my head and my neck. Start the fire, good Curtis."
+
+  - sp: CURTIS
+    o:
+      - "Is my master and his wife coming, Grumio?"
+    m:
+      - "Are my master and his wife coming, Grumio?"
+
+  - sp: GRUMIO
+    o:
+      - "Oh, ay, Curtis, ay, and therefore fire, fire. Cast on no water."
+    m:
+      - "Yes, yes, Curtis, so hurry up and start the fire. Leave out the water."
+
+  - sp: CURTIS
+    o:
+      - "Is she so hot a shrew as she’s reported?"
+    m:
+      - "Is she as fiery a shrew as they say?"
+
+  - sp: GRUMIO
+    o:
+      - "She was, good Curtis, before this frost. But thou knowest winter tames man, woman and beast, for it hath tamed my old master and my new mistress and myself, fellow Curtis."
+    m:
+      - "Well she was, good Curtis, before this frost. But you know how winter tames man, woman, and beast. And it’s tamed my old master and my new mistress and myself, my good colleague."
+
+  - sp: CURTIS
+    o:
+      - "Away, you three-inch fool! I am no beast."
+    m:
+      - "Who are you calling “beast,” midget. You’re no bigger than three inches!"
+
+  - sp: GRUMIO
+    o:
+      - "Am I but three inches? Why, thy horn is a foot, and so long am I, at the least. But wilt thou make a fire, or shall I complain on thee to our mistress, whose hand, she being now at hand, thou shalt soon feel, to thy cold comfort, for being slow in thy hot office?"
+    m:
+      - "Three inches? Really? Your horn is a foot long, and I’m at least that size. Now are you going to make a fire, or am I going to have to report you to our mistress, whose hand, now that she is herself at hand, you’ll be feeling soon. You’ll find it cold comfort, but that’s what you get for being slow with your warming duties."
+
+  - sp: CURTIS
+    o:
+      - "I prithee, good Grumio, tell me, how goes the world?"
+    m:
+      - "So tell me, Grumio, how goes the world?"
+
+  - sp: GRUMIO
+    o:
+      - "A cold world, Curtis, in every office but thine, and therefore fire! Do thy duty, and have thy duty, for my master and mistress are almost frozen to death."
+    m:
+      - "Cold, Curtis. It’s a cold world, except for people who have to start fires. Therefore, do your duty and take your reward, because my master and mistress are nearly frozen to death."
+
+  - sp: CURTIS
+    o:
+      - "There’s fire ready. And therefore, good Grumio, the news."
+    m:
+      - "The fire is ready. So go on, tell me the news."
+
+  - sp: GRUMIO
+    o:
+      - "Why, “Jack, boy! Ho, boy!” and as much news as wilt thou."
+    m:
+      - "“Why, Jack boy, ho boy!” and all the news you want."
+
+  - sp: CURTIS
+    o:
+      - "Come, you are so full of cony-catching!"
+    m:
+      - "Oh, you’re just *so* funny."
+
+  - sp: GRUMIO
+    o:
+      - "Why, therefore fire, for I have caught extreme cold. Where’s the cook? Is supper ready, the house trimmed, rushes strewed, cobwebs swept, the servingmen in their new fustian, their white stockings, and every officer his wedding garment on? Be the Jacks fair within, the Jills fair without, the carpets laid, and everything in order?"
+    m:
+      - "Well, make a fire, then. I think I’m getting delirious. Where’s the cook? Is supper ready? Is the house fixed up, the floor covered, the cobwebs swept out of the corners, the servingmen in their new work clothes and the household servants each in his wedding suit? Are all the cups and glasses in their places, the tablecloths laid out—everything in order?"
+
+  - sp: CURTIS
+    o:
+      - "All ready. And therefore, I pray thee, news."
+    m:
+      - "Everything’s ready. So tell me what’s been going on."
+
+  - sp: GRUMIO
+    o:
+      - "First, know my horse is tired, my master and mistress fallen out."
+    m:
+      - "Well, first of all, my horse is tired and my master and mistress have had a falling out."
+
+  - sp: CURTIS
+    o:
+      - "How?"
+    m:
+      - "How?"
+
+  - sp: GRUMIO
+    o:
+      - "Out of their saddles into the dirt, and thereby hangs a tale."
+    m:
+      - "From their saddles into the dirt—but that’s another story."
+
+  - sp: CURTIS
+    o:
+      - "Let’s ha’ ’t, good Grumio."
+    m:
+      - "Well, let’s have it, Grumio."
+
+  - sp: GRUMIO
+    o:
+      - "Lend thine ear."
+    m:
+      - "Lean forward."
+
+  - sp: CURTIS
+    o:
+      - "Here."
+    m:
+      - "Here."
+
+  - sp: GRUMIO
+    o:
+      - "There!"
+    m:
+      - "There!"
+
+  - os: "Strikes him"
+    ms: "GRUMIO strikes CURTIS."
+
+  - sp: CURTIS
+    o:
+      - "This ’tis to feel a tale, not to hear a tale."
+    m:
+      - "This is to feel the news, not hear it."
+
+  - sp: GRUMIO
+    o:
+      - "And therefore ’tis called a sensible tale. And this cuff was but to knock at your ear and beseech list’ning. Now I begin: Imprimis, we came down a foul hill, my master riding behind my mistress—"
+    m:
+      - "That’s what makes it “sensitive” news. I was just knocking to see if anyone was home. Now, I’ll begin: first, we came down a steep hill, my master riding behind my mistress—"
+
+  - sp: CURTIS
+    o:
+      - "Both of one horse?"
+    m:
+      - "Both on one horse?"
+
+  - sp: GRUMIO
+    o:
+      - "What’s that to thee?"
+    m:
+      - "What’s the difference?"
+
+  - sp: CURTIS
+    o:
+      - "Why, a horse."
+    m:
+      - "Well, the difference of a horse!"
+
+  - sp: GRUMIO
+    o:
+      - "Tell thou the tale! But hadst thou not crossed me, thou shouldst have heard how her horse fell, and she under her horse. Thou shouldst have heard in how miry a place, how she was bemoiled, how he left her with the horse upon her, how he beat me because her horse stumbled, how she waded through the dirt to pluck him off me, how he swore, how she prayed that never prayed before, how I cried, how the horses ran away, how her bridle was burst, how I lost my crupper, with many things of worthy memory which now shall die in oblivion, and thou return unexperienced to thy grave."
+    m:
+      - "Oh, tell it yourself if you’re so smart. It’s too bad. If you hadn’t made me angry, you would have heard all about how her horse fell with her under it, how swampy the place was, too, and how she was covered in mud, and how he left her like that, with the horse on top of her, and how he beat *me* because *her* horse stumbled, and how she waded through the dirt to pull him off me, and how he swore, how she prayed—this woman who never prayed before—and how I yelled, and how the horses ran away, and how her bridle broke, and how I lost my riding crop, and many other things worth telling, which now will all be lost to memory, and you’ll go to your grave ignorant."
+
+  - sp: CURTIS
+    o:
+      - "By this reck’ning he is more shrew than she."
+    m:
+      - "By the sound of it, he’s a bigger shrew than she is."
+
+  - sp: GRUMIO
+    o:
+      - "Ay, and that thou and the proudest of you all shall find when he comes home. But what talk I of this? Call forth Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop, and the rest. Let their heads be slickly combed, their blue coats brushed, and their garters of an indifferent knit. Let them curtsy with their left legs, and not presume to touch a hair of my master’s horse-tail till they kiss their hands. Are they all ready?"
+    m:
+      - "Yes—as you and the rest will find out as soon as he’s home. But why am I telling you this? Get them in here—Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop, and the rest. Tell them to slick down their hair, brush their blue coats, and make sure their socks match. Have them click their heels together and don’t dare touch a hair of the master’s horse’s tail till they kiss their hands. Are they all ready?"
+
+  - sp: CURTIS
+    o:
+      - "They are."
+    m:
+      - "They are."
+
+  - sp: GRUMIO
+    o:
+      - "Call them forth."
+    m:
+      - "Get them in here."
+
+  - sp: CURTIS
+    o:
+      - "*(calling offstage)* Do you hear, ho? you must meet my master to countenance my mistress."
+    m:
+      - "*(calling offstage)* Hey! Does anyone hear me? Hey! You have to come and greet the master and face the new mistress."
+
+  - sp: GRUMIO
+    o:
+      - "Why, she hath a face of her own."
+    m:
+      - "She already has a face."
+
+  - sp: CURTIS
+    o:
+      - "Who knows not that?"
+    m:
+      - "Yeah, so?"
+
+  - sp: GRUMIO
+    o:
+      - "Thou, it seems, that calls for company to countenance her."
+    m:
+      - "You just said they had to face her."
+
+  - sp: CURTIS
+    o:
+      - "I call them forth to credit her."
+    m:
+      - "I meant they had to give her credit."
+
+  - sp: GRUMIO
+    o:
+      - "Why, she comes to borrow nothing of them."
+    m:
+      - "She’s not going to borrow money from them."
+
+  - os: "Enter four or five Servingmen"
+    ms: "Four or five servants enter."
+
+  - sp: NATHANIEL
+    o:
+      - "Welcome home, Grumio."
+    m:
+      - "Welcome home, Grumio."
+
+  - sp: PHILIP
+    o:
+      - "How now, Grumio?"
+    m:
+      - "What’s up, Grumio?"
+
+  - sp: JOSEPH
+    o:
+      - "What, Grumio!"
+    m:
+      - "Hey, Grumio!"
+
+  - sp: NICHOLAS
+    o:
+      - "Fellow Grumio!"
+    m:
+      - "My man Grumio!"
+
+  - sp: NATHANIEL
+    o:
+      - "How now, old lad?"
+    m:
+      - "So what’s the story, old boy?"
+
+  - sp: GRUMIO
+    o:
+      - "Welcome, you!—How now, you?—What, you!—Fellow, you!—And thus much for greeting. Now, my spruce companions, is all ready, and all things neat?"
+    m:
+      - "Welcome yourself!—What’s up with *you?*—Hey to *you!*—So much for greetings. Now, my well-dressed friends, is everything ready and in order?"
+
+  - sp: NATHANIEL
+    o:
+      - "All things is ready. How near is our master?"
+    m:
+      - "Everything’s ready. How soon will the master be here?"
+
+  - sp: GRUMIO
+    o:
+      - "E’en at hand, alighted by this. And therefore be not—"
+      - "Cock’s passion, silence! I hear my master."
+    m:
+      - "Any minute. Probably here already. So be careful, and don’t—God! Quiet, I hear him coming."
+
+  - os: "Enter PETRUCHIO and KATHERINE"
+    ms: "PETRUCHIO and KATHERINE enter."
+
+  - sp: PETRUCHIO
+    o:
+      - "Where be these knaves? What, no man at door"
+      - "To hold my stirrup nor to take my horse!"
+      - "Where is Nathaniel, Gregory, Philip?"
+    m:
+      - "Where are those bastards? Where is the boy who’s supposed to help me get off my horse and take him to the stable? Where is Nathaniel? Where’s Gregory? Where’s Philip?"
+
+  - sp: ALL SERVINGMEN
+    o:
+      - "Here, here, sir! Here, sir!"
+    m:
+      - "Here, here, sir! Here, sir!"
+
+  - sp: PETRUCHIO
+    o:
+      - "“Here, sir! Here, sir! Here, sir! Here, sir!”"
+      - "You loggerheaded and unpolished grooms!"
+      - "What, no attendance? No regard? No duty?"
+      - "Where is the foolish knave I sent before?"
+    m:
+      - "“Here, sir! Here, sir! Here, sir! Here, sir!” You stupid, unpolished dolts! I get no service, no respect, no attention! Where is the fool I sent on ahead?"
+
+  - sp: GRUMIO
+    o:
+      - "Here, sir, as foolish as I was before."
+    m:
+      - "Here, sir, as foolish as ever."
+
+  - sp: PETRUCHIO
+    o:
+      - "You peasant swain! You whoreson malt-horse drudge!"
+      - "Did I not bid thee meet me in the park"
+      - "And bring along these rascal knaves with thee?"
+    m:
+      - "You unwashed farmworker! You bastard workhorse drudge! Didn’t I tell you to meet me outside and bring these morons with you?"
+
+  - sp: GRUMIO
+    o:
+      - "Nathaniel’s coat, sir, was not fully made,"
+      - "And Gabriel’s pumps were all unpinked i’ th’ heel."
+      - "There was no link to color Peter’s hat,"
+      - "And Walter’s dagger was not come from sheathing."
+      - "There were none fine but Adam, Rafe, and Gregory."
+      - "The rest were ragged, old, and beggarly."
+      - "Yet, as they are, here are they come to meet you."
+    m:
+      - "Nathaniel’s coat was being fixed, sir. And one of Gabriel’s shoes had a broken heel. And Peter couldn’t find a matching hat. And Walter couldn’t get his dagger out of its sheath. Only Adam, Rafe, and Gregory were ready. The rest were just a mess—but such as they are, sir, they’re here to welcome you."
+
+  - sp: PETRUCHIO
+    o:
+      - "Go, rascals, go, and fetch my supper in."
+    m:
+      - "Go, blockheads, go, and bring my supper to me."
+
+  - os: "Exeunt Servants"
+    ms: "The servants exit."
+
+  - o:
+      - "*Singing*"
+      - "*Where is the life that late I led—*"
+      - "*Where are those*—Sit down, Kate, and welcome.—"
+      - "Soud, soud, soud, soud!"
+    m:
+      - "*(singing) Where is the life I led until recently? Where are those*—Sit down, Kate, make yourself at home.—Come on, come on, come on, come on."
+
+  - os: "Enter Servants with supper"
+    ms: "Servants enter with supper."
+
+  - o:
+      - "Why, when, I say?—Nay, good sweet Kate, be merry.—"
+      - "Off with my boots, you rogues! You villains, when?"
+      - "*(Sings)*"
+      - "*It was the friar of orders gray,*"
+      - "*As he forth walkèd on his way*:—"
+      - "*A servant tries to take off* PETRUCHIO’s boots.*"
+      - "Out, you rogue! You pluck my foot awry."
+      - "Take that, and mend the plucking off the other."
+      - "*(Strikes him)*"
+      - "Be merry, Kate.—Some water, here, what, ho!"
+      - "Where’s my spaniel Troilus? Sirrah, get you hence"
+      - "And bid my cousin Ferdinand come hither."
+    m:
+      - "Did I say later? I said *now!*—Smile, Kate! Be happy.—Get my boots off, you apes! You idiots, *now!* *(singing)It was a friar in robes of gray, who walked along the road one day*:—*(a servant tries to take off PETRUCHIO’s boots)* Stop, you moron! You’re twisting my foot! Take that, and see you do a better job with the other one. *(he strikes the servant)* Be happy, Kate!—Bring me some water! Where’s my spaniel Troilus? Hey boy, go tell my cousin Ferdinand to get in here."
+
+  - os: "Exit a servant"
+    ms: "A servant exits."
+
+  - o:
+      - "One, Kate, that you must kiss and be acquainted with.—"
+      - "Where are my slippers? Shall I have some water?—"
+    m:
+      - "You’ll love this guy, Kate—anyway, you’d better! Where are my slippers? Can we have some water please here?—"
+
+  - os: "Enter one with water"
+    ms: "A servant enters with water."
+
+  - o:
+      - "Come, Kate, and wash, and welcome heartily.—"
+      - "You whoreson villain! Will you let it fall?"
+      - "*Strikes him*"
+    m:
+      - "Come and wash, Kate, make yourself at home. Son of a bitch, you spilled it! *(he strikes the servant)*"
+
+  - sp: KATHERINE
+    o:
+      - "Patience, I pray you! ’Twas a fault unwilling."
+    m:
+      - "Take it easy! Please! It was just an accident!"
+
+  - sp: PETRUCHIO
+    o:
+      - "A whoreson, beetle-headed, flap-eared knave!—"
+      - "Come, Kate, sit down. I know you have a stomach."
+      - "Will you give thanks, sweet Kate, or else shall I?—"
+      - "What’s this? Mutton?"
+    m:
+      - "He’s a son of a bitch, a moron, a total jerk.—Come sit down, Kate, I know you must be hungry. Will you say grace, sweet Kate, or shall I?—What is this? Mutton?"
+
+  - sp: FIRST SERVANT
+    o:
+      - "Ay."
+    m:
+      - "Yes."
+
+  - sp: PETRUCHIO
+    o:
+      - "  Who brought it?"
+    m:
+      - "Who brought it out here?"
+
+  - sp: PETER
+    o:
+      - "    I."
+    m:
+      - "I did."
+
+  - sp: PETRUCHIO
+    o:
+      - "’Tis burnt, and so is all the meat."
+      - "What dogs are these! Where is the rascal cook?"
+      - "How durst you, villains, bring it from the dresser"
+      - "And serve it thus to me that love it not?"
+      - "There, take it to you, trenchers, cups, and all!"
+      - "*(Throws the meat, &c. about the stage)*"
+      - "You heedless joltheads and unmannered slaves!"
+      - "What, do you grumble? I’ll be with you straight."
+    m:
+      - "It’s burnt. The whole thing is burnt. You bastards! Where is that moron of a cook? You devils! How dare you serve it to me this way! There, take it all back—plates, cups, the whole thing. *(throws the meat and everything else around the stage)* You careless blockheads and unwashed slaves! I heard that! I’ll deal with you in a minute."
+
+  - os: "Exeunt servants"
+    ms: "Servants exit."
+
+  - sp: KATHERINE
+    o:
+      - "I pray you, husband, be not so disquiet."
+      - "The meat was well, if you were so contented."
+    m:
+      - "Please, dear, calm down. The meat was fine if you wanted to eat it."
+
+  - sp: PETRUCHIO
+    o:
+      - "I tell thee, Kate, ’twas burnt and dried away."
+      - "And I expressly am forbid to touch it,"
+      - "For it engenders choler, planteth anger;"
+      - "And better ’twere that both of us did fast,"
+      - "Since of ourselves, ourselves are choleric,"
+      - "Than feed it with such over-roasted flesh."
+      - "Be patient, tomorrow ’t shall be mended,"
+      - "And, for this night, we’ll fast for company."
+      - "Come, I will bring thee to thy bridal chamber."
+    m:
+      - "And I’m telling you it was burnt and dried out. I’m not allowed to eat overcooked meat. It gives me indigestion and that makes me irritable. Very, very irritable.Better for us to go hungry, since we’re both hotheaded, than for us to eat meat that’s been cooked too long. But don’t worry, tomorrow it will get straightened out. Tonight we’ll go without food. Come, I’ll show you your bridal chamber."
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Enter Servants severally"
+    ms: "Servants enter from different parts of the stage."
+
+  - sp: NATHANIEL
+    o:
+      - "Peter, didst ever see the like?"
+    m:
+      - "Peter, did you ever see anything like it?"
+
+  - sp: PETER
+    o:
+      - "He kills her in her own humor."
+    m:
+      - "He’s giving her a taste of her own medicine."
+
+  - os: "Enter CURTIS"
+    ms: "CURTIS enters."
+
+  - sp: GRUMIO
+    o:
+      - "Where is he?"
+    m:
+      - "Where is he?"
+
+  - sp: CURTIS
+    o:
+      - "In her chamber,"
+      - "Making a sermon of continency to her,"
+      - "And rails and swears and rates, that she, poor soul,"
+      - "Knows not which way to stand, to look, to speak,"
+      - "And sits as one new-risen from a dream."
+      - "Away, away, for he is coming hither!"
+    m:
+      - "In her room, lecturing her on the virtues of self-control. He rants and rails and swears and she, poor thing, doesn’t know how to stand or look or speak. She sits like a person who’s just woken up from a dream. Look out, he’s coming!"
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Enter PETRUCHIO"
+    ms: "PETRUCHIO enters."
+
+  - sp: PETRUCHIO
+    o:
+      - "Thus have I politicly begun my reign,"
+      - "And ’tis my hope to end successfully."
+      - "My falcon now is sharp and passing empty,"
+      - "And, till she stoop, she must not be full-gorged,"
+      - "For then she never looks upon her lure."
+      - "Another way I have to man my haggard,"
+      - "To make her come and know her keeper’s call."
+    m:
+      - "Well, I’ve begun my reign with a carefully thought-out plan, and I have every hope of succeeding. My falcon is now hungry and unfed and must not be given enough to eat until she comes to me, for if her hunger is satisfied, she’ll pay no attention to the bait. I have another plan to make my bird come to me and recognize her owner’s call is to keep her from sleeping—"
+
+  - sp: PETRUCHIO
+    o:
+      - "That is, to watch her, as we watch these kites"
+      - "That bate and beat and will not be obedient."
+      - "She ate no meat today, nor none shall eat."
+      - "Last night she slept not, nor tonight she shall not."
+      - "As with the meat, some undeservèd fault"
+      - "I’ll find about the making of the bed,"
+      - "And here I’ll fling the pillow, there the bolster,"
+      - "This way the coverlet, another way the sheets."
+      - "Ay, and amid this hurly I intend"
+      - "That all is done in reverend care of her."
+      - "And, in conclusion, she shall watch all night,"
+      - "And if she chance to nod I’ll rail and brawl,"
+      - "And with the clamor keep her still awake."
+      - "This is a way to kill a wife with kindness,"
+      - "And thus I’ll curb her mad and headstrong humor."
+      - "He that knows better how to tame a shrew,"
+      - "Now let him speak; ’tis charity to show."
+    m:
+      - "the way trainers do with young hawks that flutter and flap and will not obey. She had no food today and will have none. Last night she got no sleep, and she won’t get any tonight. Just as I did with the meat, I’ll make up some problem with the way the bed is made, and throw the pillow one way and the cushion the other, and the blanket over here and the sheets over there. And through all the shouting and fuss, I’ll swear that it’s all out of love for her. The end result will be that she’ll sit up all night. And if she starts to drop off, I’ll rant and yell until I wake her up. This is how to kill a wife with kindness. And this way I’ll cure her wild and willful nature. If anyone here knows a better way to tame a shrew, speak up, please. It would be much appreciated."
+
+  - os: "Exit"
+    ms: "He exits."

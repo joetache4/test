@@ -1,0 +1,281 @@
+play: Much Ado About Nothing
+title: Act 3, Scene 1
+group: 3
+order: 6
+text:
+  - os: "Enter HERO,MARGARET, and URSULA"
+    ms: "HERO, MARGARET, andURSULA enter."
+
+  - sp: HERO
+    o:
+      - "Good Margaret, run thee to the parlor."
+      - "There shalt thou find my cousin Beatrice"
+      - "Proposing with the Prince and Claudio."
+      - "Whisper her ear and tell her I and Ursula"
+      - "Walk in the orchard, and our whole discourse"
+      - "Is all of her. Say that thou overheardst us,"
+      - "And bid her steal into the pleachèd bower"
+      - "Where honeysuckles ripened by the sun"
+      - "Forbid the sun to enter, like favorites"
+      - "Made proud by princes, that advance their pride"
+      - "Against that power that bred it. There will she hide her"
+      - "To listen our propose. This is thy office."
+      - "Bear thee well in it and leave us alone."
+    m:
+      - "Margaret, run into the sitting room. You’ll find Beatrice there, talking to Claudio and the Prince. Whisper to her that Ursula and I are walking in the orchard and that we’re talking all about her. Tell her you heard us, and that she should sneak into the arbor where the crisscrossing branches overhead keep the honeysuckles out of the sun. (The same honeysuckles that were once ripened in the sun; they’re like courtiers who rise because the king favors them, then plot to overthrow his Majesty.) She can hide there and eavesdrop on our conversation. This is your job. Do it well, and then leave us."
+
+  - sp: MARGARET
+    o:
+      - "I’ll make her come, I warrant you, presently."
+    m:
+      - "I’ll make her come right away, I promise you."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: HERO
+    o:
+      - "Now, Ursula, when Beatrice doth come,"
+      - "As we do trace this alley up and down,"
+      - "Our talk must only be of Benedick."
+      - "When I do name him, let it be thy part"
+      - "To praise him more than ever man did merit."
+      - "My talk to thee must be how Benedick"
+      - "Is sick in love with Beatrice. Of this matter"
+      - "Is little Cupid’s crafty arrow made,"
+      - "That only wounds by hearsay."
+    m:
+      - "All right Ursula, as Beatrice arrives, we’ll be walking up and down this alley and speaking about nothing but Benedick. Whenever I mention him, praise him more than any man deserves. It’ll be my job to talk about how Benedick is sick with love for Beatrice. We’ll make our arrows the same way Cupid does: with gossip and rumor."
+
+  - os: "Enter BEATRICE, behind"
+    ms: "BEATRICE enters, behind."
+
+  - o:
+      - "    Now begin,"
+      - "For look where Beatrice like a lapwing runs"
+      - "Close by the ground, to hear our conference."
+    m:
+      - "Let’s start. See, Beatrice has run over like a little bird, keeping close to the ground and trying to overhear us."
+
+  - sp: URSULA
+    o:
+      - "*(aside to HERO)*"
+      - "The pleasant’st angling is to see the fish"
+      - "Cut with her golden oars the silver stream"
+      - "And greedily devour the treacherous bait."
+      - "So angle we for Beatrice, who even now"
+      - "Is couchèd in the woodbine coverture."
+      - "Fear you not my part of the dialogue."
+    m:
+      - "*(speaking so that only HERO can hear)* The best part of fishing is watching the fish cut through the water and greedily take the bait. Now we’re fishing for Beatrice, who’s hiding right now in the honeysuckle arbor. Don’t worry, I’ll do my part."
+
+  - sp: HERO
+    o:
+      - "*(aside to URSULA)*"
+      - "Then go we near her, that her ear lose nothing"
+      - "Of the false sweet bait that we lay for it.—"
+      - "*(approaching the bower)*"
+      - "No, truly, Ursula, she is too disdainful."
+      - "I know her spirits are as coy and wild"
+      - "As haggards of the rock."
+    m:
+      - "*(speaking so that only URSULAcan hear)* Then let’s get closer, so she can hear all the false, sweet bait we’re setting for her.— *(approaching the bower)* No, truly, Ursula, she’s too scornful. She’s as devious and fierce as the wild hawks on the rocks."
+
+  - sp: URSULA
+    o:
+      - "    But are you sure"
+      - "That Benedick loves Beatrice so entirely?"
+    m:
+      - "But are you sure that Benedick loves Beatrice that much?"
+
+  - sp: HERO
+    o:
+      - "So says the Prince and my new-trothèd lord."
+    m:
+      - "That’s what the Prince and my fiancé say."
+
+  - sp: URSULA
+    o:
+      - "And did they bid you tell her of it, madam?"
+    m:
+      - "And did they ask you to tell Beatrice about this, madam?"
+
+  - sp: HERO
+    o:
+      - "They did entreat me to acquaint her of it,"
+      - "But I persuaded them, if they loved Benedick,"
+      - "To wish him wrestle with affection"
+      - "And never to let Beatrice know of it."
+    m:
+      - "They did want me to tell her, but I persuaded them that, if they truly loved Benedick, they would try to get him to battle his emotions and keep Beatrice in the dark."
+
+  - sp: URSULA
+    o:
+      - "Why did you so? Doth not the gentleman"
+      - "Deserve as full as fortunate a bed"
+      - "As ever Beatrice shall couch upon?"
+    m:
+      - "Why did you do that? Doesn’t Benedick deserve as much luck with a mate as he would have with Beatrice?"
+
+  - sp: HERO
+    o:
+      - "O god of love! I know he doth deserve"
+      - "As much as may be yielded to a man,"
+      - "But Nature never framed a woman’s heart"
+      - "Of prouder stuff than that of Beatrice."
+      - "Disdain and scorn ride sparkling in her eyes,"
+      - "Misprizing what they look on, and her wit"
+      - "Values itself so highly that to her"
+      - "All matter else seems weak. She cannot love"
+      - "Nor take no shape nor project of affection"
+      - "She is so self-endeared."
+    m:
+      - "By the god of love, I know that he deserves all that a man might possess. But Nature never made a woman’s heart as proud and tough as Beatrice’s. There is scorn and disdain in her eyes, and those sparkling eyes despise everything they look upon. She values her wit more highly than anything else, which looks weak by comparison. She’s so in love with herself, she’s incapable of loving anyone else. She can’t even imagine what “love” is."
+
+  - sp: URSULA
+    o:
+      - "    Sure, I think so,"
+      - "And therefore certainly it were not good"
+      - "She knew his love, lest she make sport at it."
+    m:
+      - "Yes, you’re right. It would be bad if she knew about Benedick’s love and teased him about it."
+
+  - sp: HERO
+    o:
+      - "Why, you speak truth. I never yet saw man,"
+      - "How wise, how noble, young, how rarely featured"
+      - "But she would spell him backward. If fair-faced,"
+      - "She would swear the gentleman should be her sister;"
+      - "If black, why, Nature, drawing of an antic,"
+      - "Made a foul blot; if tall, a lance ill-headed;"
+      - "If low, an agate very vilely cut;"
+      - "If speaking, why, a vane blown with all winds;"
+      - "If silent, why, a block moved with none."
+      - "So turns she every man the wrong side out"
+      - "And never gives to truth and virtue that"
+      - "Which simpleness and merit purchaseth."
+    m:
+      - "It’s true. Whenever she meets a man—no matter how wise, noble, young, handsome—she rearranges all his good qualities so they end up looking bad. If he has a fair complexion, she’ll say the pretty man should be her sister, not her husband. If he’s dark-skinned, Nature must have spilled some ink while drawing his foolish face. If he’s tall, she’ll say he’s a spear topped by an odd head; if he’s short, she says he looks like a badly carved miniature. If he’s talkative, he’s a weathervane, moving in all directions at once; if he’s silent, he’s a block that can’t be moved at all. And so she turns men inside out and never acknowledges the integrity and merit that a man has."
+
+  - sp: URSULA
+    o:
+      - "Sure, sure, such carping is not commendable."
+    m:
+      - "It’s true, her nitpicking is hardly admirable."
+
+  - sp: HERO
+    o:
+      - "No, not to be so odd and from all fashions"
+      - "As Beatrice is, cannot be commendable."
+      - "But who dare tell her so? If I should speak,"
+      - "She would mock me into air. O, she would laugh me"
+      - "Out of myself, press me to death with wit."
+      - "Therefore let Benedick, like covered fire,"
+      - "Consume away in sighs, waste inwardly."
+      - "It were a better death than die with mocks,"
+      - "Which is as bad as die with tickling."
+    m:
+      - "No, it certainly is not admirable to be so perverse and eccentric. But who would dare tell her? If I said something, she’d mock me so mercilessly that I’d probably disintegrate into air. She’d laugh me right out of my body and kill me with her wit. So Benedick should conceal his emotions. Like a fire that gets covered up, Benedick should smother his love and waste away. It would be better to die that way than to die from being mocked, which is as bad as being killed by tickling."
+
+  - sp: URSULA
+    o:
+      - "Yet tell her of it. Hear what she will say."
+    m:
+      - "But you should tell her about this, and hear what she has to say."
+
+  - sp: HERO
+    o:
+      - "No, rather I will go to Benedick"
+      - "And counsel him to fight against his passion;"
+      - "And truly I’ll devise some honest slanders"
+      - "To stain my cousin with. One doth not know"
+      - "How much an ill word may empoison liking."
+    m:
+      - "No, instead I’ll go to Benedick and advise him to fight his emotions. I’ll make up some awful things about my cousin and ruin her reputation. You don’t know how quickly affection can be killed with a single nasty word."
+
+  - sp: URSULA
+    o:
+      - "O, do not do your cousin such a wrong!"
+      - "She cannot be so much without true judgment,"
+      - "Having so swift and excellent a wit"
+      - "As she is prized to have, as to refuse"
+      - "So rare a gentleman as Signior Benedick."
+    m:
+      - "Oh, don’t injure your cousin like that! With the quick, intelligent wit she’s rumored to have, she can’t really be such a bad judge of character that she’d refuse a man as exceptional as Signior Benedick."
+
+  - sp: HERO
+    o:
+      - "He is the only man of Italy,"
+      - "Always excepted my dear Claudio."
+    m:
+      - "He’s the only worthy man in Italy, aside from my dear Claudio."
+
+  - sp: URSULA
+    o:
+      - "I pray you, be not angry with me, madam,"
+      - "Speaking my fancy. Signor Benedick,"
+      - "For shape, for bearing, argument and valor,"
+      - "Goes foremost in report through Italy."
+    m:
+      - "Don’t be angry with me for speaking my mind, but throughout Italy, Benedick is considered the best man in looks, bearing, intelligence, and bravery."
+
+  - sp: HERO
+    o:
+      - "Indeed, he hath an excellent good name."
+    m:
+      - "True, he has an excellent reputation."
+
+  - sp: URSULA
+    o:
+      - "His excellence did earn it, ere he had it."
+      - "When are you married, madam?"
+    m:
+      - "And he deserves it, having been excellent before he had a reputation for it. When are you getting married, madam?"
+
+  - sp: HERO
+    o:
+      - "Why, every day, tomorrow. Come, go in."
+      - "I’ll show thee some attires, and have thy counsel"
+      - "Which is the best to furnish me tomorrow."
+    m:
+      - "Tomorrow, and then every day after that. Come on, let’s go inside. I want to show you some clothing, so you can tell me what I should wear tomorrow."
+
+  - os: "They move aside from the bower"
+    ms: "They move away from the bower."
+
+  - sp: URSULA
+    o:
+      - "*(aside to HERO)*"
+      - "She’s limed, I warrant you. We have caught her, madam."
+    m:
+      - "*(speaking so that only HERO can hear)* We caught her in our trap, madam, I’m sure of it."
+
+  - sp: HERO
+    o:
+      - "*(aside to URSULA)*"
+      - "If it proves so, then loving goes by haps;"
+      - "Some Cupid kills with arrows, some with traps."
+    m:
+      - "*(speaking so that only URSULAcan hear)* If so, then you never know where love will come from. Cupid gets some lovers with arrows, but some he lays traps for!"
+
+  - os: "Exeunt HERO andURSULA"
+    ms: "Everyone but BEATRICE exits."
+
+  - sp: BEATRICE
+    o:
+      - "*(coming forward)*"
+      - "What fire is in mine ears? Can this be true?"
+      - "Stand I condemned for pride and scorn so much?"
+      - "Contempt, farewell, and maiden pride, adieu!"
+      - "No glory lives behind the back of such."
+      - "And Benedick, love on; I will requite thee,"
+      - "Taming my wild heart to thy loving hand."
+      - "If thou dost love, my kindness shall incite thee"
+      - "To bind our loves up in a holy band."
+      - "For others say thou dost deserve, and I"
+      - "Believe it better than reportingly."
+    m:
+      - "*(coming forward)* I’m burning up with shame! Can this be true? Do people criticize me this much for being proud and scornful? Then I’ll say goodbye to my contempt and my pride in being unmarried! No good is spoken of such a person as me behind her back. Benedick, keep on loving me and I will return your love, like a wild hawk being tamed by her handler. I’ll be kind to you from now on, and if you really do love me, that kindness will encourage you to seal our love with a wedding band. People say that you deserve my love, and I believe it—not just because they’ve said so."
+
+  - os: "Exit"
+    ms: "She exits."

@@ -1,0 +1,827 @@
+play: Julius Caesar
+title: Act 3, Scene 1
+group: 3
+order: 7
+text:
+  - os: "Flourish Enter CAESAR, BRUTUS, CASSIUS, CASCA, DECIUS, METELLUS, TREBONIUS, CINNA, ANTONY, LEPIDUS, PUBLIUS, and POPILLIUS LENA with a crowd of people, including ARTEMIDORUS and the SOOTHSAYER"
+    ms: "A crowd of people enters, among them ARTEMIDORUS and the SOOTHSAYER. A trumpet plays. CAESAR, BRUTUS, CASSIUS, CASCA, DECIUS, METELLUS, TREBONIUS, CINNA, ANTONY, LEPIDUS, POPILLIUS, PUBLIUS, and others enter."
+
+  - sp: CAESAR
+    o:
+      - "*(to the SOOTHSAYER)* The ides of March are come."
+    m:
+      - "*(to the SOOTHSAYER)* March 15th has come."
+
+  - sp: SOOTHSAYER
+    o:
+      - "Ay, Caesar, but not gone."
+    m:
+      - "Yes, Caesar, but it’s not gone yet."
+
+  - sp: ARTEMIDORUS
+    o:
+      - "*(offering his letter)* Hail, Caesar! Read this schedule."
+    m:
+      - "*(offering his letter)* Hail, Caesar! Read this schedule."
+
+  - sp: DECIUS
+    o:
+      - "*(offering CAESAR another paper)*"
+      - "Trebonius doth desire you to o’er-read,"
+      - "At your best leisure, this his humble suit."
+    m:
+      - "*(offering CAESAR another paper)* Trebonius wants you to look over his humble petition, at your leisure."
+
+  - sp: ARTEMIDORUS
+    o:
+      - "O Caesar, read mine first, for mine’s a suit"
+      - "That touches Caesar nearer. Read it, great Caesar."
+    m:
+      - "Oh, Caesar, read mine first, for my petition affects you more directly. Read it, great Caesar."
+
+  - sp: CAESAR
+    o:
+      - "What touches us ourself shall be last served."
+    m:
+      - "Whatever pertains to myself I will deal with last."
+
+  - sp: ARTEMIDORUS
+    o:
+      - "Delay not, Caesar. Read it instantly."
+    m:
+      - "Don’t delay, Caesar. Read it instantly."
+
+  - sp: CAESAR
+    o:
+      - "What, is the fellow mad?"
+    m:
+      - "What, is the man insane?"
+
+  - sp: PUBLIUS
+    o:
+      - "*(to ARTEMIDORUS)*    Sirrah, give place."
+    m:
+      - "*(to ARTEMIDORUS)* Stand aside, you."
+
+  - sp: CASSIUS
+    o:
+      - "*(to ARTEMIDORUS)*"
+      - "What, urge you your petitions in the street?"
+      - "Come to the Capitol."
+    m:
+      - "*(to ARTEMIDORUS)* What? Are you pressing your petition on the street? Go to the Capitol."
+
+  - os: "CAESAR’s party moves aside to the senate house"
+    ms: "CAESAR goes up to the senate house, the rest following."
+
+  - sp: POPILLIUS
+    o:
+      - "*(to CASSIUS)* I wish your enterprise today may thrive."
+    m:
+      - "*(to CASSIUS)* I hope your endeavor goes well today."
+
+  - sp: CASSIUS
+    o:
+      - "What enterprise, Popillius?"
+    m:
+      - "What endeavor, Popillius?"
+
+  - sp: POPILLIUS
+    o:
+      - "    Fare you well."
+    m:
+      - "Good luck."
+
+  - os: "(approaches CAESAR)"
+    ms: "POPILLIUS approaches CAESAR."
+
+  - sp: BRUTUS
+    o:
+      - "*(to CASSIUS)* What said Popillius Lena?"
+    m:
+      - "*(to CASSIUS)* What did Popillius Lena say?"
+
+  - sp: CASSIUS
+    o:
+      - "*(aside to BRUTUS)*"
+      - "He wished today our enterprise might thrive."
+      - "I fear our purpose is discoverèd."
+    m:
+      - "*(speaking so that only BRUTUS can hear)* He wished that our endeavor would go well today. I’m afraid we’ve been found out."
+
+  - sp: BRUTUS
+    o:
+      - "Look how he makes to Caesar. Mark him."
+    m:
+      - "Look, he’s approaching Caesar. Keep an eye on him."
+
+  - sp: CASSIUS
+    o:
+      - "Casca, be sudden, for we fear prevention"
+      - "—Brutus, what shall be done? If this be known,"
+      - "Cassius or Caesar never shall turn back,"
+      - "For I will slay myself."
+    m:
+      - "Casca, be quick, because we’re worried we might be stopped. Brutus, what will we do? If our secret’s known, either Caesar or I will die, for I’ll kill myself."
+
+  - sp: BRUTUS
+    o:
+      - "    Cassius, be constant."
+      - "Popillius Lena speaks not of our purposes."
+      - "For, look, he smiles, and Caesar doth not change."
+    m:
+      - "Cassius, stand firm. Popillius Lena wasn’t talking about our plot—for, look, he’s smiling, and Caesar’s expression is the same."
+
+  - sp: CASSIUS
+    o:
+      - "Trebonius knows his time. For, look you, Brutus."
+      - "He draws Mark Antony out of the way."
+    m:
+      - "Trebonius knows his cue. See, Brutus, he’s pulling Mark Antony aside."
+
+  - os: "Exeunt TREBONIUS and ANTONY"
+    ms: "TREBONIUS and ANTONY exit."
+
+  - sp: DECIUS
+    o:
+      - "Where is Metellus Cimber? Let him go"
+      - "And presently prefer his suit to Caesar."
+    m:
+      - "Where’s Metellus Cimber? He should go up and offer his petition to Caesar now."
+
+  - sp: BRUTUS
+    o:
+      - "He is addressed. Press near and second him."
+    m:
+      - "They’re speaking to him. Go up there and second his petition."
+
+  - sp: CINNA
+    o:
+      - "Casca, you are the first that rears your hand."
+    m:
+      - "Casca, you’ll be the first to raise your hand."
+
+  - sp: CAESAR
+    o:
+      - "Are we all ready? What is now amiss"
+      - "That Caesar and his senate must redress?"
+    m:
+      - "Are we all ready? What problem should I discuss with you first?"
+
+  - sp: METELLUS
+    o:
+      - "*(kneeling)*"
+      - "Most high, most mighty, and most puissant Caesar,"
+      - "Metellus Cimber throws before thy seat"
+      - "An humble heart—"
+    m:
+      - "*(kneeling)* Most high, most mighty, and most powerful Caesar, Metellus Cimber kneels before you with a humble heart—"
+
+  - sp: CAESAR
+    o:
+      - "    I must prevent thee, Cimber."
+      - "These couchings and these lowly courtesies"
+      - "Might fire the blood of ordinary men"
+      - "And turn preordinance and first decree"
+      - "Into the law of children. Be not fond,"
+      - "To think that Caesar bears such rebel blood"
+      - "That will be thawed from the true quality"
+      - "With that which melteth fools—I mean, sweet words,"
+      - "Low-crookèd curtsies, and base spaniel fawning."
+      - "Thy brother by decree is banishèd."
+      - "If thou dost bend and pray and fawn for him,"
+      - "I spurn thee like a cur out of my way."
+      - "Know, Caesar doth not wrong, nor without cause"
+      - "Will he be satisfied."
+    m:
+      - "I have to stop you, Cimber. These kneelings and humble courtesies might excite ordinary men, flattering them into turning Roman law into children’s games. But don’t be so foolish as to think you can sway *me* from what’s right by using the tactics that persuade fools—I mean this flattery, low bows, and puppy-like fawning. Your brother has been banished by decree. If you kneel and beg and flatter for him, I’ll kick you out of my way like I would a dog. Know that I am not unjust, and I will not grant him a pardon without reason."
+
+  - sp: METELLUS
+    o:
+      - "Is there no voice more worthy than my own"
+      - "To sound more sweetly in great Caesar’s ear"
+      - "For the repealing of my banished brother?"
+    m:
+      - "Is there no voice worthier than my own to appeal to Caesar to repeal the order that my brother be banished?"
+
+  - sp: BRUTUS
+    o:
+      - "*(kneeling)* I kiss thy hand, but not in flattery, Caesar,"
+      - "Desiring thee that Publius Cimber may"
+      - "Have an immediate freedom of repeal."
+    m:
+      - "*(kneeling)* I kiss your hand, but not in flattery, Caesar. I ask you to repeal Publius Cimber’s banishment immediately."
+
+  - sp: CAESAR
+    o:
+      - "What, Brutus?"
+    m:
+      - "What, even you, Brutus?"
+
+  - sp: CASSIUS
+    o:
+      - "*(kneeling)*   Pardon, Caesar. Caesar, pardon."
+      - "As low as to thy foot doth Cassius fall"
+      - "To beg enfranchisement for Publius Cimber."
+    m:
+      - "*(kneeling)* Pardon him, Caesar, pardon him. I fall to your feet to beg you to restore Publius Cimber to citizenship."
+
+  - sp: CAESAR
+    o:
+      - "I could be well moved if I were as you."
+      - "If I could pray to move, prayers would move me."
+      - "But I am constant as the northern star,"
+      - "Of whose true-fixed and resting quality"
+      - "There is no fellow in the firmament."
+      - "The skies are painted with unnumbered sparks."
+      - "They are all fire and every one doth shine,"
+      - "But there’s but one in all doth hold his place."
+      - "So in the world. ’Tis furnished well with men,"
+      - "And men are flesh and blood, and apprehensive,"
+      - "Yet in the number I do know but one"
+      - "That unassailable holds on his rank,"
+      - "Unshaked of motion. And that I am he"
+      - "Let me a little show it even in this:"
+      - "That I was constant Cimber should be banished,"
+      - "And constant do remain to keep him so."
+    m:
+      - "I could be convinced if I were like you. If I could beg others to change their minds, begging would convince me, too. But I’m as immovable as the northern star, whose stable and stationary quality has no equal in the sky. The sky shows countless stars. They’re all made of fire, and each one shines. But only one among all of them remains in a fixed position. So it is on earth. The world is full of men, and men are flesh and blood, and they are capable of reason. Yet out of all of them, I know only one who is unassailable, who never moves from his position. To show you that that’s me, let me prove it a little even in this case. I was firm in ordering that Cimber be banished, and I remain firm in that decision."
+
+  - sp: CINNA
+    o:
+      - "*(kneeling)* O Caesar—"
+    m:
+      - "*(kneeling)* Oh, Caesar—"
+
+  - sp: CAESAR
+    o:
+      - "Hence! Wilt thou lift up Olympus?"
+    m:
+      - "Enough! Would you try to lift Mount Olympus?"
+
+  - sp: DECIUS
+    o:
+      - "*(kneeling)* Great Caesar—"
+    m:
+      - "*(kneeling)* Great Caesar—"
+
+  - sp: CAESAR
+    o:
+      - "Doth not Brutus bootless kneel?"
+    m:
+      - "Haven’t I resisted even Brutus, begging from his knees?"
+
+  - sp: CASCA
+    o:
+      - "Speak, hands, for me!"
+    m:
+      - "Hands, speak for me!"
+
+  - os: "CASCA and the other conspirators stab CAESAR, BRUTUS last"
+    ms: "CASCA and the other conspirators stab CAESAR. BRUTUS stabs him last."
+
+  - sp: CAESAR
+    o:
+      - "*Et tu, Bruté?*—Then fall, Caesar."
+      - "*(dies)*"
+    m:
+      - "And you too, Brutus? In that case, die, Caesar."
+      - "*(he dies)*"
+
+  - sp: CINNA
+    o:
+      - "Liberty! Freedom! Tyranny is dead!"
+      - "Run hence, proclaim, cry it about the streets."
+    m:
+      - "Liberty! Freedom! Tyranny is dead! Run and proclaim it in the streets."
+
+  - sp: CASSIUS
+    o:
+      - "Some to the common pulpits, and cry out,"
+      - "“Liberty, freedom, and enfranchisement!”"
+    m:
+      - "Some should go to the public platforms and cry out, “Liberty, freedom, and democracy!”"
+
+  - os: "Confusion. Exeunt some plebians and senators"
+    ms: "Confusion. Some citizens and senators exit."
+
+  - sp: BRUTUS
+    o:
+      - "People and senators, be not affrighted."
+      - "Fly not. Stand still. Ambition’s debt is paid."
+    m:
+      - "People and senators, don’t be afraid. Don’t run away—stay where you are. Only Caesar had to die for his ambition."
+
+  - sp: CASCA
+    o:
+      - "Go to the pulpit, Brutus."
+    m:
+      - "Go to the platform, Brutus."
+
+  - sp: DECIUS
+    o:
+      - "And Cassius too."
+    m:
+      - "And Cassius too."
+
+  - sp: BRUTUS
+    o:
+      - "Where’s Publius?"
+    m:
+      - "Where’s Publius?"
+
+  - sp: CINNA
+    o:
+      - "Here, quite confounded with this mutiny."
+    m:
+      - "Here. He’s completely stunned by this mutiny."
+
+  - sp: METELLUS
+    o:
+      - "Stand fast together, lest some friend of Caesar’s"
+      - "Should chance—"
+    m:
+      - "Stand close together, in case someone loyal to Caesar tries to—"
+
+  - sp: BRUTUS
+    o:
+      - "Talk not of standing.—Publius, good cheer."
+      - "There is no harm intended to your person,"
+      - "Nor to no Roman else. So tell them, Publius."
+    m:
+      - "Don’t talk about standing together.—Publius, cheer up. We don’t intend any harm to you, nor to anyone else. Tell them this, Publius."
+
+  - sp: CASSIUS
+    o:
+      - "And leave us, Publius, lest that the people,"
+      - "Rushing on us, should do your age some mischief."
+    m:
+      - "And leave us, Publius, in case the people storming us should harm you."
+
+  - sp: BRUTUS
+    o:
+      - "Do so. And let no man abide this deed"
+      - "But we the doers."
+    m:
+      - "Do so. And let no one suffer for this deed except us, the perpetrators."
+
+  - os: "Exit PUBLIUS"
+    ms: "PUBLIUS exits."
+
+  - os: "Enter TREBONIUS"
+    ms: "TREBONIUS enters."
+
+  - sp: CASSIUS
+    o:
+      - "Where is Antony?"
+    m:
+      - "Where’s Antony?"
+
+  - sp: TREBONIUS
+    o:
+      - "Fled to his house amazed."
+      - "Men, wives, and children stare, cry out, and run"
+      - "As it were doomsday."
+    m:
+      - "He ran to his house, stunned. Men, wives, and children stare, cry out, and run in the streets as though it were doomsday."
+
+  - sp: BRUTUS
+    o:
+      - "    Fates, we will know your pleasures."
+      - "That we shall die, we know. ’Tis but the time,"
+      - "And drawing days out, that men stand upon."
+    m:
+      - "We’ll soon find out what fate has in store for us. All we know is that we’ll die sometime, which is all anyone ever knows, though we try to draw out our days for as long as possible."
+
+  - sp: CASSIUS
+    o:
+      - "Why, he that cuts off twenty years of life"
+      - "Cuts off so many years of fearing death."
+    m:
+      - "Why, the man who shortens his life by twenty years cuts off twenty years of worrying about death."
+
+  - sp: BRUTUS
+    o:
+      - "Grant that, and then is death a benefit."
+      - "So are we Caesar’s friends, that have abridged"
+      - "His time of fearing death. Stoop, Romans, stoop,"
+      - "And let us bathe our hands in Caesar’s blood"
+      - "Up to the elbows, and besmear our swords."
+      - "Then walk we forth, even to the marketplace,"
+      - "And waving our red weapons o’er our heads"
+      - "Let’s all cry, “Peace, freedom, and liberty!”"
+    m:
+      - "So, then, death is a gift, and we are Caesar’s friends, for we’ve done him a service by shortening his time spent fearing death. Kneel, Romans, kneel, and let’s wash our hands, up to the elbows, in Caesar’s blood and smear it on our swords. Then we’ll go out, even to the marketplace, and, waving our bloody swords over our heads, let’s cry, “Peace, freedom, and liberty!”"
+
+  - sp: CASSIUS
+    o:
+      - "Stoop, then, and wash."
+    m:
+      - "Kneel then, and wash."
+
+  - os: "The conspirators smear their hands and swords with CAESAR’s blood"
+    ms: "The conspirators smear their hands and swords with CAESAR’s blood."
+
+  - o:
+      - "    How many ages hence"
+      - "Shall this our lofty scene be acted over"
+      - "In states unborn and accents yet unknown!"
+    m:
+      - "How many years from now will this heroic scene be reenacted in countries that don’t even exist yet and in languages not yet known!"
+
+  - sp: BRUTUS
+    o:
+      - "How many times shall Caesar bleed in sport,"
+      - "That now on Pompey’s basis lies along"
+      - "No worthier than the dust!"
+    m:
+      - "How many times will Caesar bleed again in show, though he now lies at the base of Pompey’s statue, as worthless as dust!"
+
+  - sp: CASSIUS
+    o:
+      - "    So oft as that shall be,"
+      - "So often shall the knot of us be called"
+      - "“The men that gave their country liberty.”"
+    m:
+      - "As often as it’s replayed, our group will be hailed as the men who gave their country liberty."
+
+  - sp: DECIUS
+    o:
+      - "What, shall we forth?"
+    m:
+      - "Well, should we go out?"
+
+  - sp: CASSIUS
+    o:
+      - "    Ay, every man away."
+      - "Brutus shall lead, and we will grace his heels"
+      - "With the most boldest and best hearts of Rome."
+    m:
+      - "Yes, every man forward. Brutus will lead, and we’ll follow him with the boldest and best hearts of Rome."
+
+  - os: "Enter ANTONY’S SERVANT"
+    ms: "ANTONY’S SERVANT enters."
+
+  - sp: BRUTUS
+    o:
+      - "Soft! Who comes here? A friend of Antony’s."
+    m:
+      - "Wait a minute. Who’s that coming? It’s a friend of Antony’s."
+
+  - sp: ANTONY’S SERVANT
+    o:
+      - "*(kneeling)* Thus, Brutus, did my master bid me kneel."
+      - "*(falls prostrate)* Thus did Mark Antony bid me fall down,"
+      - "And, being prostrate, thus he bade me say:"
+      - "Brutus is noble, wise, valiant, and honest."
+      - "Caesar was mighty, bold, royal, and loving."
+      - "Say I love Brutus, and I honor him."
+      - "Say I feared Caesar, honored him, and loved him."
+      - "If Brutus will vouchsafe that Antony"
+      - "May safely come to him and be resolved"
+      - "How Caesar hath deserved to lie in death,"
+      - "Mark Antony shall not love Caesar dead"
+      - "So well as Brutus living, but will follow"
+      - "The fortunes and affairs of noble Brutus"
+      - "Thorough the hazards of this untrod state"
+      - "With all true faith. So says my master Antony."
+    m:
+      - "*(kneeling)* Brutus, my master ordered me to kneel like this. *(he kneels, head bowed low)* He ordered me to kneel low, and, from the ground, like this, he ordered me to say: “Brutus is noble, wise, brave, and honest. Caesar was mighty, bold, royal, and loving. Antony loves Brutus and honors him. Antony feared Caesar, honored him, and loved him. If Brutus will swear that Antony may come to him safely and be convinced that Caesar deserved to be killed, Mark Antony will love dead Caesar not nearly as much as living Brutus, and with true faith he’ll follow the destiny and affairs of noble Brutus through the difficulties of this unprecedented state of affairs.” That’s what my master, Antony, says."
+
+  - sp: BRUTUS
+    o:
+      - "Thy master is a wise and valiant Roman."
+      - "I never thought him worse."
+      - "Tell him, so please him come unto this place,"
+      - "He shall be satisfied and, by my honor,"
+      - "Depart untouched."
+    m:
+      - "Your master is a wise and honorable Roman. I never thought any less of him. Tell him, if he comes here, I’ll explain everything to him and, on my word, he’ll leave unharmed."
+
+  - sp: ANTONY’S SERVANT
+    o:
+      - "*(rising)*    I’ll fetch him presently."
+    m:
+      - "*(getting up)* I’ll get him now."
+
+  - os: "Exit ANTONY’S SERVANT"
+    ms: "ANTONY’S SERVANT exits."
+
+  - sp: BRUTUS
+    o:
+      - "I know that we shall have him well to friend."
+    m:
+      - "I know that he’ll be on our side."
+
+  - sp: CASSIUS
+    o:
+      - "I wish we may. But yet have I a mind"
+      - "That fears him much, and my misgiving still"
+      - "Falls shrewdly to the purpose."
+    m:
+      - "I hope we can count on him, but I still fear him, and my hunches are usually accurate."
+
+  - os: "Enter ANTONY"
+    ms: "ANTONY enters."
+
+  - sp: BRUTUS
+    o:
+      - "But here comes Antony.—Welcome, Mark Antony."
+    m:
+      - "But here comes Antony.—Welcome, Mark Antony."
+
+  - sp: ANTONY
+    o:
+      - "O mighty Caesar! Dost thou lie so low?"
+      - "Are all thy conquests, glories, triumphs, spoils,"
+      - "Shrunk to this little measure? Fare thee well."
+      - "—I know not, gentlemen, what you intend,"
+      - "Who else must be let blood, who else is rank."
+      - "If I myself, there is no hour so fit"
+      - "As Caesar’s death’s hour, nor no instrument"
+      - "Of half that worth as those your swords, made rich"
+      - "With the most noble blood of all this world."
+      - "I do beseech ye, if you bear me hard,"
+      - "Now, whilst your purpled hands do reek and smoke,"
+      - "Fulfill your pleasure. Live a thousand years,"
+      - "I shall not find myself so apt to die."
+      - "No place will please me so, no mean of death,"
+      - "As here by Caesar, and by you cut off,"
+      - "The choice and master spirits of this age."
+    m:
+      - "Oh, mighty Caesar! Do you lie so low? Have all your conquests, glories, triumphs, achievements, come to so little? Farewell. Gentlemen, I don’t know what you intend to do, who else you intend to kill, who else you consider corrupt. If it’s me, there’s no time as good as this hour of Caesar’s death, and no weapon better than your swords, covered with the noblest blood in the world. I ask you, if you have a grudge against me, to kill me now, while your stained hands still reek of blood. I could live a thousand years and I wouldn’t be as ready to die as I am now. There’s no place I’d rather die than here by Caesar, and no manner of death would please me more than being stabbed by you, the masters of this new era."
+
+  - sp: BRUTUS
+    o:
+      - "O Antony, beg not your death of us."
+      - "Though now we must appear bloody and cruel—"
+      - "As by our hands and this our present act"
+      - "You see we do—yet see you but our hands"
+      - "And this the bleeding business they have done."
+      - "Our hearts you see not. They are pitiful."
+      - "And pity to the general wrong of Rome—"
+      - "As fire drives out fire, so pity pity—"
+      - "Hath done this deed on Caesar. For your part,"
+      - "To you our swords have leaden points, Mark Antony."
+      - "Our arms in strength of malice and our hearts"
+      - "Of brothers’ temper do receive you in"
+      - "With all kind love, good thoughts, and reverence."
+    m:
+      - "Oh, Antony, don’t beg us to kill you. Though we seem bloody and cruel right now, with our bloody hands and this deed we’ve done, you’ve only seen our hands and their bloody business; you haven’t looked into our hearts. They are full of pity for Caesar. But a stronger pity, for the wrongs committed against Rome, drove out our pity for Caesar, as fire drives out fire, and so we killed him. For you, our swords have blunt edges, too dull to harm you, Mark Antony. Our arms, which can be strong and cruel, and our hearts, filled with brotherly love, embrace you with kind love, good thoughts, and reverence."
+
+  - sp: CASSIUS
+    o:
+      - "Your voice shall be as strong as any man’s"
+      - "In the disposing of new dignities."
+    m:
+      - "Your vote will be as strong as anyone’s in the reordering of the government."
+
+  - sp: BRUTUS
+    o:
+      - "Only be patient till we have appeased"
+      - "The multitude, beside themselves with fear,"
+      - "And then we will deliver you the cause,"
+      - "Why I, that did love Caesar when I struck him,"
+      - "Have thus proceeded."
+    m:
+      - "But just be patient until we’ve calmed the masses, who are beside themselves with fear. Then we’ll explain to you why I, who loved Caesar even while I stabbed him, have taken this course of action."
+
+  - sp: ANTONY
+    o:
+      - "    I doubt not of your wisdom."
+      - "Let each man render me his bloody hand."
+      - "*(shakes hands with the conspirators)*"
+      - "First, Marcus Brutus, will I shake with you."
+      - "—Next, Caius Cassius, do I take your hand."
+      - "—Now, Decius Brutus, yours.—Now yours, Metellus."
+      - "—Yours, Cinna.—And, my valiant Casca, yours."
+      - "—Though last, not last in love, yours, good Trebonius."
+      - "—Gentlemen all, alas, what shall I say?"
+      - "My credit now stands on such slippery ground"
+      - "That one of two bad ways you must conceit me,"
+      - "Either a coward or a flatterer"
+      - "—That I did love thee, Caesar, O, ’tis true."
+      - "If then thy spirit look upon us now,"
+      - "Shall it not grieve thee dearer than thy death"
+      - "To see thy Antony making his peace,"
+      - "Shaking the bloody fingers of thy foes—"
+      - "Most noble!—in the presence of thy corse?"
+      - "Had I as many eyes as thou hast wounds,"
+      - "Weeping as fast as they stream forth thy blood,"
+      - "It would become me better than to close"
+      - "In terms of friendship with thine enemies."
+      - "Pardon me, Julius! Here wast thou bayed, brave hart;"
+      - "Here didst thou fall; and here thy hunters stand,"
+      - "Signed in thy spoil, and crimsoned in thy lethe."
+      - "O world, thou wast the forest to this hart,"
+      - "And this indeed, O world, the heart of thee."
+      - "How like a deer, strucken by many princes,"
+      - "Dost thou here lie!"
+    m:
+      - "I don’t doubt your wisdom. Each of you, give me your bloody hand. *(he shakes hands with the conspirators)* First, Marcus Brutus, I shake your hand. Next, Caius Cassius, I take your hand. Now, Decius Brutus, yours. Now yours, Metellus. Yours, Cinna. And yours, my brave Casca. Last but not least, yours, good Trebonius. You are all gentlemen—alas, what can I say? Now that I’ve shaken your hands, you’ll take me for either a coward or a flatterer—in either case, my credibility stands on slippery ground. It’s true that I loved you, Caesar—nothing could be truer. If your spirit is looking down upon us now, it must hurt you more than even your death to see your Antony making peace—shaking the bloody hands of your enemies—in front of your corpse. If I had as many eyes as you have wounds, and they wept as fast as your wounds stream blood—even that would be more becoming than joining your enemies in friendship. Forgive me, Julius! On this very spot you were hunted down, like a brave deer. And here you fell, where your hunters are now standing. The spot is marked by your death and stained by your blood. Oh world, you were the forest to this deer, and this deer, oh world, was your dear. Now you lie here, stabbed by many princes!"
+
+  - sp: CASSIUS
+    o:
+      - "Mark Antony—"
+    m:
+      - "Mark Antony—"
+
+  - sp: ANTONY
+    o:
+      - "Pardon me, Caius Cassius."
+      - "The enemies of Caesar shall say this;"
+      - "Then, in a friend, it is cold modesty."
+    m:
+      - "Pardon me, Caius Cassius. Even Caesar’s enemies would say the same. From a friend, it’s a cool assessment—no more than that."
+
+  - sp: CASSIUS
+    o:
+      - "I blame you not for praising Caesar so."
+      - "But what compact mean you to have with us?"
+      - "Will you be pricked in number of our friends?"
+      - "Or shall we on, and not depend on you?"
+    m:
+      - "I don’t blame you for praising Caesar like this, but what agreement do you intend to reach with us? Will you be counted as our friend, or should we proceed without depending on you?"
+
+  - sp: ANTONY
+    o:
+      - "Therefore I took your hands, but was indeed"
+      - "Swayed from the point by looking down on Caesar."
+      - "Friends am I with you all and love you all"
+      - "Upon this hope: that you shall give me reasons"
+      - "Why and wherein Caesar was dangerous."
+    m:
+      - "I took your hands in friendship, but, indeed, I was distracted when I looked down at Caesar. I am friends with you all and love you all, on one condition—that you prove to me that Caesar was dangerous."
+
+  - sp: BRUTUS
+    o:
+      - "Or else were this a savage spectacle!"
+      - "Our reasons are so full of good regard"
+      - "That were you, Antony, the son of Caesar,"
+      - "You should be satisfied."
+    m:
+      - "Without that proof, this would’ve been a savage action! Our reasons are so well considered that even if you, Antony, were Caesar’s son, you would be satisfied with them."
+
+  - sp: ANTONY
+    o:
+      - "    That’s all I seek."
+      - "And am moreover suitor that I may"
+      - "Produce his body to the marketplace,"
+      - "And in the pulpit, as becomes a friend,"
+      - "Speak in the order of his funeral."
+    m:
+      - "That’s all I ask—and that you let me carry his body to the marketplace and, as a friend ought to do, stand on the platform and give a proper funeral oration."
+
+  - sp: BRUTUS
+    o:
+      - "You shall, Mark Antony."
+    m:
+      - "You may, Mark Antony."
+
+  - sp: CASSIUS
+    o:
+      - "    Brutus, a word with you."
+      - "*(aside to BRUTUS)* You know not what you do."
+      - "Do not consent"
+      - "That Antony speak in his funeral."
+      - "Know you how much the people may be moved"
+      - "By that which he will utter?"
+    m:
+      - "Brutus, may I have a word with you? *(speaking so that only BRUTUS can hear)* You don’t know what you’re doing. Don’t let Antony speak at his funeral. Don’t you know how much the people could be affected by what he says?"
+
+  - sp: BRUTUS
+    o:
+      - "*(aside to CASSIUS)*    By your pardon."
+      - "I will myself into the pulpit first,"
+      - "And show the reason of our Caesar’s death."
+      - "What Antony shall speak, I will protest,"
+      - "He speaks by leave and by permission,"
+      - "And that we are contented Caesar shall"
+      - "Have all true rites and lawful ceremonies."
+      - "It shall advantage more than do us wrong."
+    m:
+      - "*(speaking so that only CASSIUS can hear)* With your permission, I’ll stand on the platform first and explain the reason for Caesar’s death. What Antony says, I’ll announce, he says only by our permission and by our conviction that Caesar should be honored with all the usual and lawful ceremonies. It’ll help us more than hurt us."
+
+  - sp: CASSIUS
+    o:
+      - "*(aside to BRUTUS)* I know not what may fall. I like it not."
+    m:
+      - "*(speaking so that only BRUTUS can hear)* I’m worried about the outcome of his speech. I don’t like this plan."
+
+  - sp: BRUTUS
+    o:
+      - "Mark Antony, here, take you Caesar’s body."
+      - "You shall not in your funeral speech blame us,"
+      - "But speak all good you can devise of Caesar,"
+      - "And say you do ’t by our permission."
+      - "Else shall you not have any hand at all"
+      - "About his funeral. And you shall speak"
+      - "In the same pulpit whereto I am going,"
+      - "After my speech is ended."
+    m:
+      - "Mark Antony, take Caesar’s body. You will not blame us in your funeral speech, but will say all the good you want to about Caesar and that you do it by our permission. Otherwise, you’ll have no role at all in his funeral. And you’ll speak on the same platform as I do, after I’m done."
+
+  - sp: ANTONY
+    o:
+      - "Be it so."
+      - "I do desire no more."
+    m:
+      - "So be it. I don’t want anything more."
+
+  - sp: BRUTUS
+    o:
+      - "Prepare the body then, and follow us."
+    m:
+      - "Prepare the body, then, and follow us."
+
+  - os: "Exeunt. Manet ANTONY"
+    ms: "Everyone except ANTONY exits."
+
+  - sp: ANTONY
+    o:
+      - "O, pardon me, thou bleeding piece of earth,"
+      - "That I am meek and gentle with these butchers!"
+      - "Thou art the ruins of the noblest man"
+      - "That ever livèd in the tide of times."
+      - "Woe to the hand that shed this costly blood!"
+      - "Over thy wounds now do I prophesy—"
+      - "Which, like dumb mouths, do ope their ruby lips"
+      - "To beg the voice and utterance of my tongue—"
+      - "A curse shall light upon the limbs of men."
+      - "Domestic fury and fierce civil strife"
+      - "Shall cumber all the parts of Italy."
+      - "Blood and destruction shall be so in use,"
+      - "And dreadful objects so familiar,"
+      - "That mothers shall but smile when they behold"
+      - "Their infants quartered with the hands of war,"
+      - "All pity choked with custom of fell deeds,"
+      - "And Caesar’s spirit, ranging for revenge,"
+      - "With Ate by his side come hot from hell,"
+      - "Shall in these confines with a monarch’s voice"
+      - "Cry “Havoc!” and let slip the dogs of war,"
+      - "That this foul deed shall smell above the earth"
+      - "With carrion men, groaning for burial."
+    m:
+      - "Oh, pardon me, you bleeding corpse, for speaking politely and acting mildly with these butchers! You are what’s left of the noblest man that ever lived. Pity the hand that shed this valuable blood. Over your wounds—which, like speechless mouths, open their red lips, as though to beg me to speak—I predict that a curse will fall upon the bodies of men. Fierce civil war will paralyze all of Italy. Blood and destruction will be so common and familiar that mothers will merely smile when their infants are cut to pieces by the hands of war. People’s capacity for sympathy will grow tired and weak from the sheer quantity of cruel deeds. And Caesar’s ghost, searching for revenge with the goddess Ate by his side, just up from Hell, will cry in the voice of a king, “Havoc!” and unleash the dogs of war. This foul deed will stink up to the sky with men’s corpses, which will beg to be buried."
+
+  - os: "Enter OCTAVIUS’ SERVANT"
+    ms: "OCTAVIUS’ SERVANT enters."
+
+  - o:
+      - "You serve Octavius Caesar, do you not?"
+    m:
+      - "You serve Octavius Caesar, right?"
+
+  - sp: OCTAVIUS’ SERVANT
+    o:
+      - "I do, Mark Antony."
+    m:
+      - "I do, Mark Antony."
+
+  - sp: ANTONY
+    o:
+      - "Caesar did write for him to come to Rome."
+    m:
+      - "Caesar wrote for him to come to Rome."
+
+  - sp: OCTAVIUS’ SERVANT
+    o:
+      - "He did receive his letters and is coming."
+      - "And bid me say to you by word of mouth—"
+      - "*(sees CAESAR’s body)* O Caesar!—"
+    m:
+      - "He received Caesar’s letters, and he is coming. He told me to say to you—*(seeing CAESAR’s body)* Oh, Caesar!—"
+
+  - sp: ANTONY
+    o:
+      - "Thy heart is big. Get thee apart and weep."
+      - "Passion, I see, is catching, for mine eyes,"
+      - "Seeing those beads of sorrow stand in thine,"
+      - "Began to water. Is thy master coming?"
+    m:
+      - "Your heart is big; go ahead and weep. Grief seems to be contagious, for my eyes, seeing the tears in yours, began to fill. Is your master coming?"
+
+  - sp: OCTAVIUS’ SERVANT
+    o:
+      - "He lies tonight within seven leagues of Rome."
+    m:
+      - "He rests tonight within twenty-one miles of Rome."
+
+  - sp: ANTONY
+    o:
+      - "Post back with speed, and tell him what hath chanced."
+      - "Here is a mourning Rome, a dangerous Rome,"
+      - "No Rome of safety for Octavius yet."
+      - "Hie hence, and tell him so.—Yet, stay awhile."
+      - "Thou shalt not back till I have borne this corse"
+      - "Into the marketplace. There shall I try,"
+      - "In my oration, how the people take"
+      - "The cruèl issue of these bloody men."
+      - "According to the which, thou shalt discourse"
+      - "To young Octavius of the state of things."
+      - "Lend me your hand."
+    m:
+      - "Report back to him fast and tell him what has happened. This is now a Rome in mourning, a dangerous Rome. It’s not safe enough for Octavius yet. Hurry away and tell him so. No, wait, stay a minute. Don’t go back until I’ve carried the corpse into the marketplace. There I’ll use my speech to test what the people think of these bloody men’s cruel action. You’ll report back to young Octavius how they respond. Help me here."
+
+  - os: "Exeunt with CAESAR’s body"
+    ms: "They exit with CAESAR’s body."

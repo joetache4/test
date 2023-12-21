@@ -1,0 +1,150 @@
+play: Macbeth
+title: Act 3, Scene 3
+group: 3
+order: 13
+text:
+  - os: "Enter three MURDERERS"
+    ms: "The two MURDERERS enter with a third MURDERER."
+
+  - sp: FIRST MURDERER
+    o:
+      - "But who did bid thee join with us?"
+    m:
+      - "But who told you to come here and join us?"
+
+  - sp: THIRD MURDERER
+    o:
+      - "Macbeth."
+    m:
+      - "Macbeth."
+
+  - sp: SECOND MURDERER
+    o:
+      - "He needs not our mistrust, since he delivers"
+      - "Our offices and what we have to do"
+      - "To the direction just."
+    m:
+      - "We can trust this guy. He was given exactly the same orders we were."
+
+  - sp: FIRST MURDERER
+    o:
+      - "Then stand with us."
+      - "The west yet glimmers with some streaks of day."
+      - "Now spurs the lated traveler apace"
+      - "To gain the timely inn, and near approaches"
+      - "The subject of our watch."
+    m:
+      - "Then stay with us. There’s still a bit of daylight in the sky. Now all the late travellers are hurrying to reach their inns. Banquo is almost here."
+
+  - sp: THIRD MURDERER
+    o:
+      - "    Hark, I hear horses."
+    m:
+      - "Listen! I hear horses."
+
+  - sp: BANQUO
+    o:
+      - "*(within)* Give us a light there, ho!"
+    m:
+      - "*(from offstage)* Hey, give us some light here!"
+
+  - sp: SECOND MURDERER
+    o:
+      - "    Then ’tis he: the rest"
+      - "That are within the note of expectation"
+      - "Already are i’ th’ court."
+    m:
+      - "That must be him. The rest of the king’s guests are already inside."
+
+  - sp: FIRST MURDERER
+    o:
+      - "    His horses go about."
+    m:
+      - "You can hear his horses moving around as the servants take them to the stables."
+
+  - sp: THIRD MURDERER
+    o:
+      - "Almost a mile; but he does usually—"
+      - "So all men do—from hence to the palace gate"
+      - "Make it their walk."
+    m:
+      - "It’s almost a mile to the palace gate, but Banquo, like everybody else, usually walks from here to the palace."
+
+  - os: "Enter BANQUO and FLEANCE with a torch"
+    ms: "BANQUO and FLEANCE enter with a torch."
+
+  - sp: SECOND MURDERER
+    o:
+      - "    A light, a light!"
+    m:
+      - "Here comes a light! Here comes a light!"
+
+  - sp: THIRD MURDERER
+    o:
+      - "    ’Tis he."
+    m:
+      - "That’s him."
+
+  - sp: FIRST MURDERER
+    o:
+      - "Stand to ’t."
+    m:
+      - "Prepare yourselves."
+
+  - sp: BANQUO
+    o:
+      - "It will be rain tonight."
+    m:
+      - "It will rain tonight."
+
+  - sp: FIRST MURDERER
+    o:
+      - "    Let it come down."
+    m:
+      - "Then let the rain come down."
+
+  - os: "The MURDERERS attack BANQUO"
+    ms: "The MURDERERS attack BANQUO."
+
+  - sp: BANQUO
+    o:
+      - "O treachery! Fly, good Fleance, fly, fly, fly!"
+      - "Thou may ’st revenge —O slave!"
+    m:
+      - "Oh, this is treachery! Get out of here, good Fleance, run, run, run! Someday you can get revenge.—Oh, you bastard!"
+
+  - os: "BANQUO dies. Exit FLEANCE"
+    ms: "BANQUO dies. FLEANCE escapes."
+
+  - sp: THIRD MURDERER
+    o:
+      - "Who did strike out the light?"
+    m:
+      - "Who put out the light?"
+
+  - sp: FIRSTMURDERER
+    o:
+      - "    Was ’t not the way?"
+    m:
+      - "Wasn’t that the best thing to do?"
+
+  - sp: THIRD MURDERER
+    o:
+      - "There’s but one down. The son is fled."
+    m:
+      - "There’s only one body here. The son ran away."
+
+  - sp: SECOND MURDERER
+    o:
+      - "We have lost best half of our affair."
+    m:
+      - "We failed in half of our mission."
+
+  - sp: FIRST MURDERER
+    o:
+      - "Well, let’s away and say how much is done."
+    m:
+      - "Well, let’s get out of here and tell Macbeth what we did accomplish."
+
+  - os: "Exeunt"
+    ms: "They exit."

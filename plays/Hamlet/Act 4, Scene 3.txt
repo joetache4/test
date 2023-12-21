@@ -1,0 +1,228 @@
+play: Hamlet
+title: Act 4, Scene 3
+group: 4
+order: 13
+text:
+  - os: "Enter King CLAUDIUS and two or three attendants"
+    ms: "CLAUDIUS enters with two or three of his attendants."
+
+  - sp: CLAUDIUS
+    o:
+      - "I have sent to seek him and to find the body."
+      - "How dangerous is it that this man goes loose!"
+      - "Yet must not we put the strong law on him."
+      - "He’s loved of the distracted multitude,"
+      - "Who like not in their judgment, but their eyes."
+      - "And where ’tis so, th’ offender’s scourge is weighed,"
+      - "But never the offense. To bear all smooth and even,"
+      - "This sudden sending him away must seem"
+      - "Deliberate pause. Diseases desperate grown"
+      - "By desperate appliance are relieved,"
+      - "Or not at all."
+    m:
+      - "I’ve sent men to find him and retrieve the body. How dangerous to have this madman on the loose! But we can’t throw him in jail. The people love him, because they judge based on appearance rather than reason. They’ll pay attention to the severity of the punishment, not the severity of the crime. No, we must seem calm and fair-minded, and our sending him away must seem like a carefully considered move. But a terminal disease requires extreme treatment, or nothing at all."
+
+  - os: "Enter ROSENCRANTZ"
+    ms: "ROSENCRANTZ enters."
+
+  - o:
+      - "  How now, what hath befall’n?"
+    m:
+      - "So what’s happened?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Where the dead body is bestowed, my lord,"
+      - "We cannot get from him."
+    m:
+      - "We can’t get him to tell us where he’s put the body."
+
+  - sp: CLAUDIUS
+    o:
+      - "But where is he?"
+    m:
+      - "But where is he?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Without, my lord; guarded, to know your pleasure."
+    m:
+      - "Outside, my lord, under guard, waiting for your orders."
+
+  - sp: CLAUDIUS
+    o:
+      - "Bring him before us."
+    m:
+      - "Bring him to me."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Ho, Guildenstern! Bring in my lord."
+    m:
+      - "Hey, Guildenstern! Bring in my lord."
+
+  - os: "Enter HAMLET and GUILDENSTERN"
+    ms: "GUILDENSTERN enters with HAMLET."
+
+  - sp: CLAUDIUS
+    o:
+      - "Now, Hamlet, where’s Polonius?"
+    m:
+      - "Now, Hamlet, where’s Polonius?"
+
+  - sp: HAMLET
+    o:
+      - "At supper."
+    m:
+      - "At dinner."
+
+  - sp: CLAUDIUS
+    o:
+      - "At supper where?"
+    m:
+      - "At dinner where?"
+
+  - sp: HAMLET
+    o:
+      - "Not where he eats, but where he is eaten. A certain convocation of politic worms are e’en at him. Your worm is your only emperor for diet. We fat all creatures else to fat us, and we fat ourselves for maggots. Your fat king and your lean beggar is but variable service—two dishes, but to one table. That’s the end."
+    m:
+      - "Not where he’s eating, but where he’s being eaten. A certain conference of worms is chowing down on him. Worms are the emperor of all diets. We fatten up all creatures to feed ourselves, and we fatten ourselves for the worms to eat when we’re dead. A fat king and a skinny beggar are just two dishes at the same meal. That’s all I have to say."
+
+  - sp: CLAUDIUS
+    o:
+      - "Alas, alas!"
+    m:
+      - "Oh no, oh no!"
+
+  - sp: HAMLET
+    o:
+      - "A man may fish with the worm that hath eat of a king, and eat of the fish that hath fed of that worm."
+    m:
+      - "A man can fish with the worm that ate a king, and then eat the fish he catches with that worm."
+
+  - sp: CLAUDIUS
+    o:
+      - "What dost you mean by this?"
+    m:
+      - "What do you mean by that?"
+
+  - sp: HAMLET
+    o:
+      - "Nothing but to show you how a king may go a progress through the guts of a beggar."
+    m:
+      - "Nothing much, just to demonstrate that a king can move through the bowels of a beggar."
+
+  - sp: CLAUDIUS
+    o:
+      - "Where is Polonius?"
+    m:
+      - "Where is Polonius?"
+
+  - sp: HAMLET
+    o:
+      - "In heaven. Send hither to see. If your messenger find him not there, seek him i’ th’ other place yourself. But if indeed you find him not within this month, you shall nose him as you go up the stairs into the lobby."
+    m:
+      - "In heaven. Send a messager there if you want to be sure. If your messenger can’t find him, you can check hell yourself. But seriously, if you don’t find him within the next month, you’ll be sure to smell him as you go upstairs into the main hall."
+
+  - sp: CLAUDIUS
+    o:
+      - "*(to attendants)* Go seek him there."
+    m:
+      - "*(to attendants)* Go look for him there."
+
+  - os: "Exeunt some attendants"
+    ms: "Some attendants exit."
+
+  - sp: HAMLET
+    o:
+      - "He will stay till ye come."
+    m:
+      - "No need to hurry, he’s not going anywhere."
+
+  - sp: CLAUDIUS
+    o:
+      - "Hamlet, this deed, for thine especial safety—"
+      - "Which we do tender as we dearly grieve"
+      - "For that which thou hast done—must send thee hence"
+      - "With fiery quickness. Therefore prepare thyself."
+      - "The bark is ready and the wind at help,"
+      - "Th’ associates tend, and everything is bent"
+      - "For England."
+    m:
+      - "Hamlet, I care for you just as much as I grieve for Polonius. For your own protection, I must send you to England at once. So get ready to leave. The ship is set to sail, the wind is favorable, your servants are waiting for you—everything is ready for you to go to England."
+
+  - sp: HAMLET
+    o:
+      - "For England?"
+    m:
+      - "To England?"
+
+  - sp: CLAUDIUS
+    o:
+      - "Ay, Hamlet."
+    m:
+      - "Yes, Hamlet."
+
+  - sp: HAMLET
+    o:
+      - "Good."
+    m:
+      - "Good."
+
+  - sp: CLAUDIUS
+    o:
+      - "So is it, if thou knew’st our purposes."
+    m:
+      - "Yes, you’d think so, if you knew why I was sending you."
+
+  - sp: HAMLET
+    o:
+      - "I see a cherub that sees them. But come, for England."
+      - "Farewell, dear mother."
+    m:
+      - "I know an angel who can read your mind. But okay, off to England! Good-bye, dear mother."
+
+  - sp: CLAUDIUS
+    o:
+      - "Thy loving father, Hamlet."
+    m:
+      - "I’m your father, Hamlet—your father who loves you."
+
+  - sp: HAMLET
+    o:
+      - "My mother. Father and mother is man and wife, man and wife is one flesh, and so, my mother.—Come, for England!"
+    m:
+      - "You’re my mother. When you married my mother, the two of you became one flesh, so if you’re my father you’re also my mother. Come on, off to England!"
+
+  - os: "Exit HAMLET"
+    ms: "HAMLET exits."
+
+  - sp: CLAUDIUS
+    o:
+      - "Follow him at foot. Tempt him with speed aboard."
+      - "Delay it not. I’ll have him hence tonight."
+      - "Away! For everything is sealed and done"
+      - "That else leans on the affair. Pray you, make haste."
+    m:
+      - "Follow him on foot, and get him on board as quickly as possible. Don’t waste any time. I want him out of here tonight. Go now; everything else is ready. Please hurry."
+
+  - os: "Exeunt all but CLAUDIUS"
+    ms: "Everyone except CLAUDIUS exits."
+
+  - o:
+      - "And, England, if my love thou hold’st at aught—"
+      - "As my great power thereof may give thee sense,"
+      - "Since yet thy cicatrice looks raw and red"
+      - "After the Danish sword and thy free awe"
+      - "Pays homage to us—thou mayst not coldly set"
+      - "Our sovereign process, which imports at full,"
+      - "By letters congruing to that effect,"
+      - "The present death of Hamlet. Do it, England,"
+      - "For like the hectic in my blood he rages,"
+      - "And thou must cure me. Till I know ’tis done,"
+      - "Howe’er my haps, my joys were ne’er begun."
+    m:
+      - "And you, dear king of England, if you care about me at all—and you should, since you can still feel the damage that Denmark has done to you in the past and, so, fear and respect us—then you won’t ignore my letters instructing you to kill Hamlet immediately. Do it, English king, since he’s raging like a fever in my brain, and you must cure me. Until I know it’s been done, I’ll never be happy, no matter how much luck I have."
+
+  - os: "Exit"
+    ms: "He exits."

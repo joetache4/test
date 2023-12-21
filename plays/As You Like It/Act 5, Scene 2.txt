@@ -1,0 +1,290 @@
+play: As You Like It
+title: Act 5, Scene 2
+group: 5
+order: 19
+text:
+  - os: "Enter ORLANDO and OLIVER"
+    ms: "ORLANDO and OLIVER enter."
+
+  - sp: ORLANDO
+    o:
+      - "Is ’t possible that on so little acquaintance you should like her? That, but seeing, you should love her? And loving, woo? And wooing, she should grant? And will you persever to enjoy her?"
+    m:
+      - "Is it really possible that you could like her right after meeting her? And fall in love with her after merely seeing her? And as soon as you fall in love, with her, woo her? And as soon as you woo her, have her accept? And do you really mean to marry her?"
+
+  - sp: OLIVER
+    o:
+      - "Neither call the giddiness of it in question, the poverty of her, the small acquaintance, my sudden wooing, nor her sudden consenting, but say with me “I love Aliena”; say with her that she loves me; consent with both that we may enjoy each other. It shall be to your good, for my father’s house and all the revenue that was old Sir Rowland’s will I estate upon you, and here live and die a shepherd."
+    m:
+      - "Don’t question the foolish haste of it all—or her poverty or our short time together or the abruptness of my courtship or the abruptness of her consent—but say with me, “I love Aliena.” And say with me that she loves me. Agree to this match, so we can enjoy each other. It will be to your advantage, because I’ll leave our father’s house and all his property to you, while I live and die a shepherd here in the forest."
+
+  - sp: ORLANDO
+    o:
+      - "You have my consent. Let your wedding be tomorrow."
+      - "Thither will I invite the duke and all’s contented followers."
+      - "Go you and prepare Aliena, for look you, here comes my"
+      - "Rosalind."
+    m:
+      - "You have my consent. You can be married tomorrow if you want. I’ll invite the duke and all of his followers. Go get Aliena ready—because, look, here comes my Rosalind."
+
+  - os: "Enter ROSALIND"
+    ms: "ROSALIND enters."
+
+  - sp: ROSALIND
+    o:
+      - "*(as Ganymede)* God save you, brother."
+    m:
+      - "Hello, brother."
+
+  - sp: OLIVER
+    o:
+      - "And you, fair sister."
+    m:
+      - "And hello to you, fair sister."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ROSALIND
+    o:
+      - "O my dear Orlando, how it grieves me to see thee wear thy heart in a scarf."
+    m:
+      - "Oh, darling Orlando, it’s so hard to see you wearing your heart in a sling."
+
+  - sp: ORLANDO
+    o:
+      - "It is my arm."
+    m:
+      - "Actually, it’s my arm."
+
+  - sp: ROSALIND
+    o:
+      - "I thought thy heart had been wounded with the claws of a lion."
+    m:
+      - "I thought your heart had been wounded by a lion’s claws."
+
+  - sp: ORLANDO
+    o:
+      - "Wounded it is, but with the eyes of a lady."
+    m:
+      - "My heart *has*  been wounded, but by a lady, not a lion."
+
+  - sp: ROSALIND
+    o:
+      - "Did your brother tell you how I counterfeited to swoon when he showed me your handkercher?"
+    m:
+      - "Did your brother tell you how well I pretended to faint when he showed me the handkerchief?"
+
+  - sp: ORLANDO
+    o:
+      - "Ay, and greater wonders than that."
+    m:
+      - "Yes, and he told me some things that were even more amazing."
+
+  - sp: ROSALIND
+    o:
+      - "Oh, I know where you are. Nay, ’tis true. There was never anything so sudden but the fight of two rams and Caesar’s thrasonical brag of “I came, saw, and overcame.” For your brother and my sister no sooner met but they looked, no sooner looked but they loved, no sooner loved but they sighed, no sooner sighed but they asked one another the reason, no sooner knew the reason but they sought the remedy; and in these degrees have they made a pair of stairs to marriage, which they will climb incontinent, or else be incontinent before marriage. They are in the very wrath of love, and they will together. Clubs cannot part them."
+    m:
+      - "Oh, I know what you’re talking about. It’s true: it was as sudden as two rams rushing at each other, and as quick as Julius Caesar’s “I came, I saw, I conquered.” Your brother and my sister had no sooner met than they gave each other a good once over; they had no sooner looked at each other than they fell in love; no sooner fell in love than they sighed; no sooner sighed than they asked each other why they had sighed; no sooner answered than they sought a solution. And in this way, degree by degree, they’ve built a staircase toward marriage. And they had better climb those stairs immediately, or else they’ll end up in bed before they ought to. They’re in the heat of passion; they simply have to be together. You couldn’t beat the two of them apart."
+
+  - sp: ORLANDO
+    o:
+      - "They shall be married tomorrow, and I will bid the duke to the nuptial. But Oh, how bitter a thing it is to look into happiness through another man’s eyes. By so much the more shall I tomorrow be at the height of heart-heaviness, by how much I shall think my brother happy in having what he wishes for."
+    m:
+      - "They’ll be married tomorrow, and I’ll invite the duke to the ceremony. But, oh, it makes me bitter to look at happiness through another man’s eyes. Tomorrow I’ll be at the depths of my misery thinking about the happiness my brother has achieved, in having what he wished for."
+
+  - sp: ROSALIND
+    o:
+      - "Why, then, tomorrow I cannot serve your turn for Rosalind?"
+    m:
+      - "Well then, can’t I act as Rosalind for you tomorrow?"
+
+  - sp: ORLANDO
+    o:
+      - "I can live no longer by thinking."
+    m:
+      - "I can’t live by pretending anymore."
+
+  - sp: ROSALIND
+    o:
+      - "I will weary you then no longer with idle talking. Know of me then—for now I speak to some purpose—that I know you are a gentleman of good conceit. I speak not this that you should bear a good opinion of my knowledge, insomuch I say I know you are. Neither do I labor for a greater esteem than may in some little measure draw a belief from you to do yourself good, and not to grace me. Believe then, if you please, that I can do strange things. I have, since I was three year old, conversed with a magician, most profound in his art and yet not damnable. If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena shall you marry her. I know into what straits of fortune she is driven, and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."
+    m:
+      - "I won’t exhaust you anymore with idle chitchat. You should know that I think you’re a smart man. I really mean it. I’m not telling you this so you’ll think well of me (who wouldn’t think well of someone who thought well of him, after all?) And I’m not trying to enhance my own reputation, but only to do you good. Believe me, then, that I have special powers. Since I was three years old, I’ve been in contact with a powerful but virtuous magician—no black magic here. If you love Rosalind as much as you say you do, you will marry her when your brother marries Aliena. I know where she is and, if you don’t mind, I will set her before you tomorrow, whole and unharmed."
+
+  - sp: ORLANDO
+    o:
+      - "Speak’st thou in sober meanings?"
+    m:
+      - "Are you serious?"
+
+  - sp: ROSALIND
+    o:
+      - "By my life I do, which I tender dearly, though I say I am a magician. Therefore put you in your best array, bid your friends; for if you will be married tomorrow, you shall, and to Rosalind, if you will."
+    m:
+      - "I swear on my life, which I take pretty seriously, even if I am a magician. So put on your best clothes and tell your friends to come. Because if you want to be married tomorrow, you will, and if you want to be married to Rosalind, you will."
+
+  - os: "Enter SILVIUS and PHOEBE"
+    ms: "SILVIUS and PHOEBE enter."
+
+  - o:
+      - "Look, here comes a lover of mine and a lover of hers."
+    m:
+      - "Look, here comes someone who loves me, along with someone who loves her."
+
+  - sp: PHOEBE
+    o:
+      - "Youth, you have done me much ungentleness"
+      - "To show the letter that I writ to you."
+    m:
+      - "Young man, it was very rude of you to show him the letter I wrote you."
+
+  - sp: ROSALIND
+    o:
+      - "I care not if I have. It is my study"
+      - "To seem despiteful and ungentle to you."
+      - "You are there followed by a faithful shepherd."
+      - "Look upon him, love him; he worships you."
+    m:
+      - "I don’t care. I’m being contemptuous and cruel toward you on purpose. A faithful shepherd worships you. Why don’t you pay attention to him? Why don’t you love him? He adores you."
+
+  - sp: PHOEBE
+    o:
+      - "Good shepherd, tell this youth what ’tis to love."
+    m:
+      - "Silvius, tell this youth what it means to be in love."
+
+  - sp: SILVIUS
+    o:
+      - "It is to be all made of sighs and tears,"
+      - "And so am I for Phoebe."
+    m:
+      - "It means being full of sighs and tears, like I am for Phoebe."
+
+  - sp: PHOEBE
+    o:
+      - "And I for Ganymede."
+    m:
+      - "And like I am for Ganymede."
+
+  - sp: ORLANDO
+    o:
+      - "And I for Rosalind."
+    m:
+      - "And like I am for Rosalind."
+
+  - sp: ROSALIND
+    o:
+      - "And I for no woman."
+    m:
+      - "And like I am for no woman."
+
+  - sp: SILVIUS
+    o:
+      - "It is to be all made of faith and service,"
+      - "And so am I for Phoebe."
+    m:
+      - "It means being faithful and ready to serve, just like I am for Phoebe."
+
+  - sp: PHOEBE
+    o:
+      - "And I for Ganymede."
+    m:
+      - "And like I am for Ganymede."
+
+  - sp: ORLANDO
+    o:
+      - "And I for Rosalind."
+    m:
+      - "And like I am for Rosalind."
+
+  - sp: ROSALIND
+    o:
+      - "And I for no woman."
+    m:
+      - "And like I am for no woman."
+
+  - sp: SILVIUS
+    o:
+      - "It is to be all made of fantasy,"
+      - "All made of passion and all made of wishes,"
+      - "All adoration, duty, and observance,"
+      - "All humbleness, all patience and impatience,"
+      - "All purity, all trial, all observance,"
+      - "And so am I for Phoebe."
+    m:
+      - "It means being filled with fantasy; with passion and wishes; with adoration, loyalty, and devotion. It means being humble, being patient, being impatient, being pure, being put-upon, being obedient. Just as I am for Phoebe."
+
+  - sp: PHOEBE
+    o:
+      - "And so am I for Ganymede."
+    m:
+      - "And I for Ganymede."
+
+  - sp: ORLANDO
+    o:
+      - "And so am I for Rosalind."
+    m:
+      - "And I for Rosalind."
+
+  - sp: ROSALIND
+    o:
+      - "And so am I for no woman."
+    m:
+      - "And I for no woman."
+
+  - sp: PHOEBE
+    o:
+      - "If this be so, why blame you me to love you?"
+    m:
+      - "Since you know all this is true, why do you blame me for loving you?"
+
+  - sp: SILVIUS
+    o:
+      - "If this be so, why blame you me to love you?"
+    m:
+      - "And why do you blame me for loving you?"
+
+  - sp: ORLANDO
+    o:
+      - "If this be so, why blame you me to love you?"
+    m:
+      - "And why do you blame me for loving you?"
+
+  - sp: ROSALIND
+    o:
+      - "Why do you speak, too, “Why blame you me to love you?”?"
+    m:
+      - "Who are you talking to?"
+
+  - sp: ORLANDO
+    o:
+      - "To her that is not here, nor doth not hear."
+    m:
+      - "I’m saying it to the girl who isn’t here and doesn’t hear me."
+
+  - sp: ROSALIND
+    o:
+      - "Pray you, no more of this. ’Tis like the howling of Irish wolves against the moon. *(to SILVIUS)*  I will help you, if I can. *(to PHOEBE)*  I would love you if I could.—Tomorrow meet me all together. *(to PHOEBE)* I will marry you if ever I marry woman, and I’ll be married tomorrow. *(to ORLANDO)* I will satisfy you if ever I satisfy man, and you shall be married tomorrow. *(to SILVIUS)* I will content you, if what pleases you contents you, and you shall be married tomorrow. *(to ORLANDO)*  As you love Rosalind, meet.*(to SILVIUS)* As you love Phoebe, meet.—And as I love no woman, I’ll meet. So fare you well. I have left you commands."
+    m:
+      - "All right, stop this. You sound like a pack of wolves howling at the moon.*(to SILVIUS)*  I’ll help you, if I can.*(to PHOEBE)* If I could love you, I would. All of you, meet me here tomorrow.*(to PHOEBE)*  If I’m ever going to marry a woman, I’ll marry you. And I *am* getting married tomorrow.*(to ORLANDO)*  If I will ever satisfy a man, I’ll satisfy you. And you will get married tomorrow.*(to SILVIUS)*  If the thing you desire will make you happy, I’ll make you happy. And you’ll get married tomorrow.*(to ORLANDO)*  By the love you have for Rosalind, come back tomorrow.*(to SILVIUS)*  By the love you have for Phoebe, come here tomorrow.—And by my love for no woman, I’ll also be here tomorrow. So, goodbye for now. You all know what to do."
+
+  - sp: SILVIUS
+    o:
+      - "I’ll not fail, if I live."
+    m:
+      - "As long as I’m alive, I’ll be here."
+
+  - sp: PHOEBE
+    o:
+      - "Nor I."
+    m:
+      - "Me too."
+
+  - sp: ORLANDO
+    o:
+      - "Nor I."
+    m:
+      - "Me too."
+
+  - os: "Exeunt"
+    ms: "They all exit."

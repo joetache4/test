@@ -1,0 +1,963 @@
+play: Henry IV, Part II
+title: Act 3, Scene 2
+group: 3
+order: 9
+text:
+  - os: "Enter Justice SHALLOW and Justice SILENCE, with MOULDY, SHADOW, WART, FEEBLE, BULLCALF, and a servant or two"
+    ms: "Justice SHALLOW and Justice SILENCE enter. They are followed by MOULDY, SHADOW, WART, FEEBLE, BULLCALF, and a servant or two."
+
+  - sp: SHALLOW
+    o:
+      - "Come on, come on, come on. Give me your hand, sir, give"
+      - "me your hand, sir. An early stirrer, by the rood. And how"
+      - "doth my good cousin Silence?"
+    m:
+      - "Come on, come on, come on, sir. Shake my hand, sir, shake my hand. You’re an early riser, I swear. How are you, cousin Silence?"
+
+  - sp: SILENCE
+    o:
+      - "Good morrow, good cousin Shallow."
+    m:
+      - "Good morning, cousin Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "And how doth my cousin your bedfellow? And your fairest"
+      - "daughter and mine, my goddaughter Ellen?"
+    m:
+      - "And how’s my cousin, your wife? And your prettiest daughter, my fair god-daughter Ellen?"
+
+  - sp: SILENCE
+    o:
+      - "Alas, a black ousel, cousin Shallow."
+    m:
+      - "I’m afraid she’s got dark hair, cousin Shallow!"
+
+  - sp: SHALLOW
+    o:
+      - "By yea and no, sir. I dare say my cousin William is become"
+      - "a good scholar. He is at Oxford still, is he not?"
+    m:
+      - "By gum, I bet William’s become a real scholar. He’s still at Oxford, right?"
+
+  - sp: SILENCE
+    o:
+      - "Indeed, sir, to my cost."
+    m:
+      - "He sure is, and I’m the one who’s paying for it."
+
+  - sp: SHALLOW
+    o:
+      - "He must then to the Inns o’ Court shortly. I was once of"
+      - "Clement’s Inn, where I think they will talk of mad Shallow"
+      - "yet."
+    m:
+      - "He’ll be going to law school soon. I studied law at Clement’s Inn, where I think they still talk about crazy old Shallow."
+
+  - sp: SILENCE
+    o:
+      - "You were called “Lusty Shallow” then, cousin."
+    m:
+      - "You were known as lusty Shallow back then, cousin."
+
+  - sp: SHALLOW
+    o:
+      - "By the Mass, I was called anything, and I would have done"
+      - "anything indeed too, and roundly too. There was I, and little"
+      - "John Doit of Staffordshire, and black George Barnes, and"
+      - "Francis Pickbone, and Will Squele, a Cotswold man. You"
+      - "had not four such swinge-bucklers in all the Inns o’ Court"
+    m:
+      - "I was known as anything, I swear. And I would have done anything too, and all the way, too. I was there, and little John Doit from Staffordshire, and black-haired George Barnes, and Francis Pickbone, and Will Squele, from the Cotswolds. Since then, no law college"
+
+  - sp: SHALLOW
+    o:
+      - "again. And I may say to you, we knew where the bona robas"
+      - "were and had the best of them all at commandment. Then"
+      - "was Jack Falstaff, now Sir John, a boy, and page to Thomas"
+      - "Mowbray, Duke of Norfolk."
+    m:
+      - "in the world has seen four swashbucklers like us. And let me tell you this: we knew where to find the highest-quality whores, and the best of them were at our beck and call. At that time, Jack Falstaff, now Sir John, was just a boy. He worked as a page for Thomas Mowbray, the Duke of Norfolk."
+
+  - sp: SILENCE
+    o:
+      - "This Sir John, cousin, that comes hither anon about soldiers?"
+    m:
+      - "Do you mean the same Sir John that’s coming here soon to recruit soldiers?"
+
+  - sp: SHALLOW
+    o:
+      - "The same Sir John, the very same. I see him break Scoggin’s"
+      - "head at the court gate, when he was a crack not thus high; and"
+      - "the very same day did I fight with one Sampson Stockfish,"
+      - "a fruiterer, behind Grey’s Inn. Jesu, Jesu, the mad days that"
+      - "I have spent! And to see how many of my old acquaintance"
+      - "are dead."
+    m:
+      - "The same Sir John, the very same. I saw him beat Skogan upon the head when he was a little tyke, not this high. The same day, I had a fight with a guy named Sampson Stockfish. He sold fruit behind Gray’s Inn. Jesus, Jesus! I’ve had some crazy times! To think that so many of my old pals are dead!"
+
+  - sp: SILENCE
+    o:
+      - "We shall all follow, cousin."
+    m:
+      - "We’ll all follow them, cousin."
+
+  - sp: SHALLOW
+    o:
+      - "Certain, ’tis certain; very sure, very sure. Death, as the"
+      - "Psalmist saith, is certain to all. All shall die. How a good"
+      - "yoke of bullocks at Stamford Fair?"
+    m:
+      - "Right you are, very right. That’s for sure, that’s for sure. Death, as the Psalms say, is certain. Everyone dies. How much are they getting for good young bulls at the Stamford county fair?"
+
+  - sp: SILENCE
+    o:
+      - "By my troth, cousin, I was not there."
+    m:
+      - "Truly, I wasn’t there."
+
+  - sp: SHALLOW
+    o:
+      - "Death is certain. Is old Dooble of your town living yet?"
+    m:
+      - "Death is certain. Is old Double from your hometown still alive?"
+
+  - sp: SILENCE
+    o:
+      - "Dead, sir."
+    m:
+      - "Dead, sir."
+
+  - sp: SHALLOW
+    o:
+      - "Jesu, Jesu, dead! He drew a good bow, and dead? He shot a"
+      - "fine shoot. John o’ Gaunt loved him well, and betted much"
+      - "money on his head. Dead! He would have clapped i’ th’"
+      - "clout at twelve score, and carried you a forehand shaft a"
+      - "fourteen and fourteen and a half, that it would have done a"
+      - "man’s heart good to see. How a score of ewes now?"
+    m:
+      - "Jesus, Jesus, dead! He was a good archer, and dead! He could fire one heck of a shot. John of Gaunt loved him, and used to wager on his shooting. Dead! He could hit a target from two hundred and forty yards, and he could shoot a straight arrow two hundred and eighty yards—maybe even two hundred and ninety. That was something to see. How much are they getting for twenty ewes?"
+
+  - sp: SILENCE
+    o:
+      - "Thereafter as they be, a score of good ewes may be worth ten"
+      - "pounds."
+    m:
+      - "Depends on the quality. Twenty good ewes could be worth ten pounds."
+
+  - sp: SHALLOW
+    o:
+      - "And is old Dooble dead?"
+    m:
+      - "And old Double’s dead?"
+
+  - sp: SILENCE
+    o:
+      - "Here come two of Sir John Falstaff’s men, as I think."
+    m:
+      - "Here come two of Sir John Falstaff’s men, I think."
+
+  - os: "Enter BARDOLPH and one with him"
+    ms: "BARDOLPH and another man enter."
+
+  - sp: SHALLOW
+    o:
+      - "Good morrow, honest gentlemen."
+    m:
+      - "Good morning, gentlemen."
+
+  - sp: BARDOLPH
+    o:
+      - "I beseech you, which is Justice Shallow?"
+    m:
+      - "If you don’t mind, which of you is Judge Shallow?"
+
+  - sp: SHALLOW
+    o:
+      - "I am Robert Shallow, sir, a poor esquire of this county and"
+      - "one of the King’s justices of the peace. What is your good"
+      - "pleasure with me?"
+    m:
+      - "I’m Robert Shallow, sir, a poor landowner in this county, and one of the King’s justices of the peace. How can I help you?"
+
+  - sp: BARDOLPH
+    o:
+      - "My captain, sir, commends him to you, my captain, Sir John"
+      - "Falstaff, a tall gentleman, by heaven, and a most gallant"
+      - "leader."
+    m:
+      - "My captain sends his regards. My captain, Sir John Falstaff. He’s a valiant gentleman, I swear, and a brave leader."
+
+  - sp: SHALLOW
+    o:
+      - "He greets me well, sir. I knew him a good backsword man."
+      - "How doth the good knight? May I ask how my lady his wife"
+      - "doth?"
+    m:
+      - "It’s great to hear from him. I knew him to be a good fencer. How’s the good knight doing? And, if you don’t mind my asking, how’s his wife?"
+
+  - sp: BARDOLPH
+    o:
+      - "Sir, pardon. A soldier is better accommodated than with a"
+      - "wife."
+    m:
+      - "I beg your pardon, sir. A soldier has no need for a wife; he is well enough accommodated."
+
+  - sp: SHALLOW
+    o:
+      - "It is well said, in faith, sir, and it is well said indeed too."
+      - "“Better accommodated.” It is good, yea, indeed, is it. Good"
+      - "phrases are surely, and ever were, very commendable."
+      - "“Accommodated.” It comes of *accommodo*. Very good, a good phrase."
+    m:
+      - "Well said, I swear, sir. Well said. “Well enough accommodated!” That’s good. That’s very good. Good turns of phrase deserve to be praised. “Accommodated!” It comes from the Latin, “*accommodo*.” Very good. That’s a good turn of phrase."
+
+  - sp: BARDOLPH
+    o:
+      - "Pardon, sir; I have heard the word—“phrase” call you it? By"
+      - "this day, I know not the phrase, but I will maintain the word"
+      - "with my sword to be a soldierlike word, and a word of"
+      - "exceeding good command, by heaven. “Accommodated,”"
+      - "that is when a man is, as they say, accommodated, or when"
+      - "a man is being whereby he may be thought to be"
+      - "accommodated, which is an excellent thing."
+    m:
+      - "Excuse me, sir. I’ve heard the word. You call it a turn of phrase? I don’t know anything about phrases, but I’ll fight for the word. It’s a good, soldier-like word; a word with many uses, to be sure. “Accommodated.” You can say that a man is accommodated when he has been furnished with supplies. And you can also say that a man is being accommodated when he’s, you know, being accommodated. Which is an excellent thing."
+
+  - os: "Enter FALSTAFF"
+    ms: "FALSTAFF enters."
+
+  - sp: SHALLOW
+    o:
+      - "It is very just. Look, here comes good Sir John.—Give me"
+      - "your good hand, give me your Worship’s good hand. By my"
+      - "troth, you like well and bear your years very well. Welcome,"
+      - "good Sir John."
+    m:
+      - "It certainly is. Look, here comes good Sir John. Let me shake your hand; let me shake your hand, sir. I swear, you look good, like you haven’t aged a day. Welcome, good Sir John."
+
+  - sp: FALSTAFF
+    o:
+      - "I am glad to see you well, good Master Robert Shallow.—"
+      - "Master Sure-card, as I think?"
+    m:
+      - "I’m glad to see you’re well, Master Robert Shallow. And this is Master Surecard, isn’t it?"
+
+  - sp: SHALLOW
+    o:
+      - "No, Sir John. It is my cousin Silence, in commission with me."
+    m:
+      - "No, Sir John. It’s my cousin Silence. Like me, he’s also a justice of the peace."
+
+  - sp: FALSTAFF
+    o:
+      - "Good Master Silence, it well befits you should be of the"
+      - "peace."
+    m:
+      - "Master Silence. Your name suits a justice of “the peace.”"
+
+  - sp: SILENCE
+    o:
+      - "Your good Worship is welcome."
+    m:
+      - "Welcome, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "Fie, this is hot weather, gentlemen. Have you provided me"
+      - "here half a dozen sufficient men?"
+    m:
+      - "Damn! It’s hot out, gentlemen. Have you found half a dozen able-bodied men for me?"
+
+  - sp: SHALLOW
+    o:
+      - "Marry, have we, sir. Will you sit?"
+    m:
+      - "Yes sir, we have. Won’t you sit?"
+
+  - sp: FALSTAFF
+    o:
+      - "Let me see them, I beseech you."
+    m:
+      - "Let me see them, please."
+
+  - sp: SHALLOW
+    o:
+      - "Where’s the roll? Where’s the roll? Where’s the roll? Let me"
+      - "see, let me see, let me see. So, so, so, so, so. So, so. Yea,"
+      - "marry, sir.—Rafe Mouldy!—Let them appear as I call, let"
+      - "them do so, let them do so. Let me see, where is Mouldy?"
+    m:
+      - "Where’s the list? Where’s the list? Where’s the list? Let’s see, let’s see, let’s see. Right, right. Yes, sir: Ralph Mouldy! Let them come when I call. Let them do that, let them do that. Let’s see. Where’s Mouldy?"
+
+  - sp: MOULDY
+    o:
+      - "Here, an it please you."
+    m:
+      - "Here, sir."
+
+  - sp: SHALLOW
+    o:
+      - "What think you, Sir John? A good-limbed fellow; young,"
+      - "strong, and of good friends."
+    m:
+      - "What do you think, Sir John? He’s got good muscles. Young, strong, and well-connected."
+
+  - sp: FALSTAFF
+    o:
+      - "Is thy name Mouldy?"
+    m:
+      - "Are you Mouldy?"
+
+  - sp: MOULDY
+    o:
+      - "Yea, an ’t please you."
+    m:
+      - "Yes, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "’Tis the more time thou wert used."
+    m:
+      - "Well then, it’s about time you were put to use."
+
+  - sp: SHALLOW
+    o:
+      - "Ha, ha, ha, most excellent, i’ faith! Things that are mouldy"
+      - "lack use. Very singular good, in faith. Well said, Sir John,"
+      - "very well said."
+    m:
+      - "Ha, ha, ha! Excellent, I swear! Things that don’t get used enough do indeed become moldy. Good one, I swear. Well said, Sir John, very well said."
+
+  - sp: FALSTAFF
+    o:
+      - "Prick him."
+    m:
+      - "Prick him."
+
+  - sp: MOULDY
+    o:
+      - "I was pricked well enough before, an you could have let me"
+      - "alone. My old dame will be undone now for one to do her"
+      - "husbandry and her drudgery. You need not to have pricked"
+      - "me. There are other men fitter to go out than I."
+    m:
+      - "I’ve already been pricked well enough, thanks. You could have left me alone. My old lady’s in trouble now: she won’t have anyone to do her husbandry or her housework. You didn’t have to prick me; there are abler men than me."
+
+  - sp: FALSTAFF
+    o:
+      - "Go to. Peace, Mouldy. You shall go. Mouldy, it is time you were"
+      - "spent."
+    m:
+      - "That’s enough; quiet, Mouldy. You’re going. Mouldy, it’s time you were put to use."
+
+  - sp: MOULDY
+    o:
+      - "Spent?"
+    m:
+      - "Put to use?"
+
+  - sp: SHALLOW
+    o:
+      - "Peace, fellow, peace. Stand aside. Know you where you"
+      - "are?—For th’ other, Sir John. Let me see.—Simon Shadow!"
+    m:
+      - "Quiet, man, quiet. Step aside. Don’t you know where you are? Now the next, Sir John. Let’s see. Simon Shadow!"
+
+  - sp: FALSTAFF
+    o:
+      - "Yea, marry, let me have him to sit under. He’s like to be a"
+      - "cold soldier."
+    m:
+      - "Now you’re talking. I’d like to sit under him. He’ll be a cool soldier."
+
+  - sp: SHALLOW
+    o:
+      - "Where’s Shadow?"
+    m:
+      - "Where’s Shadow?"
+
+  - sp: SHADOW
+    o:
+      - "Here, sir."
+    m:
+      - "Here, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "Shadow, whose son art thou?"
+    m:
+      - "Shadow, whose son are you?"
+
+  - sp: SHADOW
+    o:
+      - "My mother’s son, sir."
+    m:
+      - "My mother’s son, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "Thy mother’s son! Like enough, and thy father’s shadow. So"
+      - "the son of the female is the shadow of the male. It is often"
+      - "so, indeed, but much of the father’s substance."
+    m:
+      - "Your mother’s son? Probably, and you got your father’s name. The woman’s son is a portrait of the father; yes, that’s usually the case, though the son is little more than a dim copy, without any of the father’s true substance."
+
+  - sp: SHALLOW
+    o:
+      - "Do you like him, Sir John?"
+    m:
+      - "Do you like him, Sir John?"
+
+  - sp: FALSTAFF
+    o:
+      - "Shadow will serve for summer. Prick him, for we have a"
+      - "number of shadows to fill up the muster book."
+    m:
+      - "Shadow will be useful in the summer. Prick him, too. We’ll need him, for there are a lot of shadows filling up this roster."
+
+  - sp: SHALLOW
+    o:
+      - "Thomas Wart!"
+    m:
+      - "Thomas Wart!"
+
+  - sp: FALSTAFF
+    o:
+      - "Where’s he?"
+    m:
+      - "Where’s he?"
+
+  - sp: WART
+    o:
+      - "Here, sir."
+    m:
+      - "Here, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "Is thy name Wart?"
+    m:
+      - "Is your name Wart?"
+
+  - sp: WART
+    o:
+      - "Yea, sir."
+    m:
+      - "Yup."
+
+  - sp: FALSTAFF
+    o:
+      - "Thou art a very ragged wart."
+    m:
+      - "You’re a pretty ragged wart."
+
+  - sp: SHALLOW
+    o:
+      - "Shall I prick him down, Sir John?"
+    m:
+      - "Should I prick him on the list, Sir John?"
+
+  - sp: FALSTAFF
+    o:
+      - "It were superfluous, for his apparel is built upon his back,"
+      - "and the whole frame stands upon pins. Prick him no more."
+    m:
+      - "Not necessary. For look: his clothing is just a bunch of pieces sewn together, and his whole body rests on legs as skinny as pins. He’s been pricked enough by pins and needles—don’t prick him anymore."
+
+  - sp: SHALLOW
+    o:
+      - "Ha, ha, ha. You can do it, sir, you can do it. I commend you"
+      - "well.—Francis Feeble!"
+    m:
+      - "Ha, ha, ha! You are funny, sir. You are funny. I’ve got to hand it to you. Francis Feeble!"
+
+  - sp: FEEBLE
+    o:
+      - "Here, sir."
+    m:
+      - "Here, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "What trade art thou, Feeble?"
+    m:
+      - "What kind of work do you do, Feeble?"
+
+  - sp: FEEBLE
+    o:
+      - "A woman’s tailor, sir."
+    m:
+      - "I’m a woman’s tailor, sir."
+
+  - sp: SHALLOW
+    o:
+      - "Shall I prick him, sir?"
+    m:
+      - "Should I prick him, sir?"
+
+  - sp: FALSTAFF
+    o:
+      - "You may, but if he had been a man’s tailor, he’d ha’ pricked"
+      - "you.—Wilt thou make as many holes in an enemy’s battle as"
+      - "thou hast done in a woman’s petticoat?"
+    m:
+      - "You might as well. But if he had been a man’s tailor, he would have already pricked you with his pins. Will you make as many holes in the enemy’s armor as you have in women’s underwear?"
+
+  - sp: FEEBLE
+    o:
+      - "I will do my good will, sir. You can have no more."
+    m:
+      - "I’ll do my best, sir. I can’t do any more."
+
+  - sp: FALSTAFF
+    o:
+      - "Well said, good woman’s tailor, well said, courageous"
+      - "Feeble. Thou wilt be as valiant as the wrathful dove or most"
+      - "magnanimous mouse.—Prick the woman’s tailor well,"
+      - "Master Shallow, deep, Master Shallow."
+    m:
+      - "Well said, good woman’s tailor! Well said, courageous Feeble! You’ll be as brave as the angriest dove or the most valiant mouse. Prick the woman’s tailor. A big one, Master Shallow; a deep one, Master Shallow."
+
+  - sp: FEEBLE
+    o:
+      - "I would Wart might have gone, sir."
+    m:
+      - "I wish Wart were going, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "I would thou wert a man’s tailor, that thou mightst mend him"
+      - "and make him fit to go. I cannot put him to a private soldier"
+      - "that is the leader of so many thousands. Let that suffice, most"
+      - "forcible Feeble."
+    m:
+      - "And I wish you were a man’s tailor. You could have mended his clothes and made him fit to go. I can’t make him a private soldier when he’s already the leader of thousands—of lice, that is. But never mind, oh forcible Feeble."
+
+  - sp: FEEBLE
+    o:
+      - "It shall suffice, sir."
+    m:
+      - "Never mind, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "I am bound to thee, reverend Feeble.—Who is next?"
+    m:
+      - "I like you, good Feeble. Who’s next?"
+
+  - sp: SHALLOW
+    o:
+      - "Peter Bullcalf o’ th’ green."
+    m:
+      - "Peter Bullcalf from the village green!"
+
+  - sp: FALSTAFF
+    o:
+      - "Yea, marry, let’s see Bullcalf."
+    m:
+      - "Oh yeah. Let’s see Bullcalf."
+
+  - sp: BULLCALF
+    o:
+      - "Here, sir."
+    m:
+      - "Here, sir!"
+
+  - sp: FALSTAFF
+    o:
+      - "Fore God, a likely fellow. Come, prick me Bullcalf till he"
+      - "roar again."
+    m:
+      - "My God! What a great man! Prick Bullcalf until he shouts again."
+
+  - sp: BULLCALF
+    o:
+      - "O Lord, good my lord captain—"
+    m:
+      - "Oh Lord! My lord, good Captain—"
+
+  - sp: FALSTAFF
+    o:
+      - "What, dost thou roar before thou art pricked?"
+    m:
+      - "What, you’re yelling before you’ve even been pricked?"
+
+  - sp: BULLCALF
+    o:
+      - "O Lord, sir, I am a diseased man."
+    m:
+      - "Oh Lord, sir! I’m a sick man."
+
+  - sp: FALSTAFF
+    o:
+      - "What disease hast thou?"
+    m:
+      - "What disease do you have?"
+
+  - sp: BULLCALF
+    o:
+      - "A whoreson cold, sir, a cough, sir, which I caught with"
+      - "ringing in the King’s affairs upon his coronation day, sir."
+    m:
+      - "A nasty cold, sir. A cough, sir. I caught it when I was ringing the church bells in honor of the King’s coro-nation."
+
+  - sp: FALSTAFF
+    o:
+      - "Come, thou shalt go to the wars in a gown. We will have"
+      - "away thy cold, and I will take such order that my friends"
+      - "shall ring for thee.— *(to SHALLOW)* Is here all?"
+    m:
+      - "Then you’ll go to war in a dressing gown. We’ll get rid of your cold, and I’ll give orders for some of my men to ring the bells for you while you’re away. *(to SHALLOW)* Is this everybody?"
+
+  - sp: SHALLOW
+    o:
+      - "Here is two more called than your number. You must have"
+      - "but four here, sir, and so I pray you go in with me to dinner."
+    m:
+      - "We’ve got two more here than you need. You can have four, sir. Now, come inside and eat lunch with me."
+
+  - sp: FALSTAFF
+    o:
+      - "Come, I will go drink with you, but I cannot tarry dinner. I"
+      - "am glad to see you, by my troth, Master Shallow."
+    m:
+      - "I’ll have a drink with you, but I can’t stay to eat. But I’m truly glad to see you, Master Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "O, Sir John, do you remember since we lay all night in the"
+      - "windmill in Saint George’s Field?"
+    m:
+      - "Oh, Sir John, do you remember the time we spent all night in the windmill in St. George’s field?"
+
+  - sp: FALSTAFF
+    o:
+      - "No more of that, good Master Shallow, no more of that."
+    m:
+      - "Don’t go there, Master Shallow. Don’t go there."
+
+  - sp: SHALLOW
+    o:
+      - "Ha, ’twas a merry night. And is Jane Nightwork alive?"
+    m:
+      - "Ha! That was a fun night. Is Jane Nightwork still alive?"
+
+  - sp: FALSTAFF
+    o:
+      - "She lives, Master Shallow."
+    m:
+      - "She’s alive, Master Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "She never could away with me."
+    m:
+      - "She never could stand me."
+
+  - sp: FALSTAFF
+    o:
+      - "Never, never; she would always say she could not abide"
+      - "Master Shallow."
+    m:
+      - "Never, never. She always said she couldn’t stand Master Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "By the Mass, I could anger her to th’ heart. She was then a"
+      - "bona roba. Doth she hold her own well?"
+    m:
+      - "Truly, I could anger her to the core. She was a good-looking wench then. Does she still look good?"
+
+  - sp: FALSTAFF
+    o:
+      - "Old, old, Master Shallow."
+    m:
+      - "Old, old, Master Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "Nay, she must be old. She cannot choose but be old. Certain,"
+      - "she’s old, and had Robin Nightwork by old Nightwork"
+      - "before I came to Clement’s Inn."
+    m:
+      - "Well, she must be old. She’s got no choice but to be old. Of course she’s old. She gave birth to Robin Nightwork, the son of old man Nightwork, before I even got to Clement’s Inn."
+
+  - sp: SILENCE
+    o:
+      - "That’s fifty-five year ago."
+    m:
+      - "That’s fifty-five years ago."
+
+  - sp: SHALLOW
+    o:
+      - "Ha, cousin Silence, that thou hadst seen that that this knight"
+      - "and I have seen!—Ha, Sir John, said I well?"
+    m:
+      - "Ha, cousin Silence, if only you’d seen what this knight and I have seen! Ha! Am I right, Sir John?"
+
+  - sp: FALSTAFF
+    o:
+      - "We have heard the chimes at midnight, Master Shallow."
+    m:
+      - "We’ve seen the clock strike midnight, Master Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "That we have, that we have, that we have. In faith, Sir John,"
+      - "we have. Our watchword was “Hem, boys.” Come, let’s to"
+      - "dinner; come, let’s to dinner. Jesus, the days that we have"
+      - "seen! Come, come."
+    m:
+      - "We sure have, we sure have, we sure have. I swear, Sir John, we sure have. Our slogan was “Down the hatch, boys!” Come, let’s have lunch, let’s have lunch. Jesus, the things we’ve seen! Come, come."
+
+  - os: "Exeunt FALSTAFF, SHALLOW, and SILENCE"
+    ms: "FALSTAFF, SHALLOW, and SILENCE exit."
+
+  - sp: BULLCALF
+    o:
+      - "Good Master Corporate Bardolph, stand my friend, and"
+      - "here’s four Harry ten-shillings in French crowns for you. In"
+      - "very truth, sir, I had as lief be hanged, sir, as go. And yet, for"
+      - "mine own part, sir, I do not care, but rather because I am"
+      - "unwilling, and, for mine own part, have a desire to stay with"
+      - "my friends. Else, sir, I did not care, for mine own part, so much."
+    m:
+      - "Good Master Corporate Bardolph, be my friend. Here are some French crowns for you, worth four Harry ten shillings. I’m telling you, sir, I’d just as soon be hanged as go fight. It’s not that I care about my well-being. It’s just that I’m not willing to go, and furthermore, I’d like to stay here with my friends. But really, I don’t care about myself."
+
+  - sp: BARDOLPH
+    o:
+      - "Go to. Stand aside."
+    m:
+      - "Whatever. Stand over there."
+
+  - sp: MOULDY
+    o:
+      - "And, good Master Corporal Captain, for my old dame’s"
+      - "sake, stand my friend. She has nobody to do anything about"
+      - "her when I am gone, and she is old and cannot help herself:"
+      - "You shall have forty, sir."
+    m:
+      - "And, good Master Corporal Captain, for my old lady’s sake, be my friend. She has nobody here to help her do anything once I’m gone. She’s old and can’t do much by herself. I’ll give you forty shillings, sir."
+
+  - sp: BARDOLPH
+    o:
+      - "Go to. Stand aside."
+    m:
+      - "Whatever. Stand over there."
+
+  - sp: FEEBLE
+    o:
+      - "By my troth, I care not. A man can die but once. We owe God"
+      - "a death. I’ll ne’er bear a base mind. An ’t be my destiny, so;"
+      - "an ’t be not, so. No man’s too good to serve ’s prince, and let"
+      - "it go which way it will, he that dies this year is quit for the"
+      - "next."
+    m:
+      - "I’ll tell you the truth: I don’t care one way or the other. You only die once, and we all owe God a death. I won’t do anything underhanded. If it’s my fate, it’s my fate. If not, not. No man is too good to serve his country. Whatever happens, happens. If you die this year, you’re paid up for next year."
+
+  - sp: BARDOLPH
+    o:
+      - "Well said. Th’ art a good fellow."
+    m:
+      - "Well said. You’re a good man."
+
+  - sp: FEEBLE
+    o:
+      - "Faith, I’ll bear no base mind."
+    m:
+      - "I’m telling you. I won’t do anything underhanded."
+
+  - os: "Enter FALSTAFF, SHALLOW, and SILENCE"
+    ms: "FALSTAFF, SHALLOW and SILENCE enter."
+
+  - sp: FALSTAFF
+    o:
+      - "Come, sir, which men shall I have?"
+    m:
+      - "All right, sir. Which men can I have?"
+
+  - sp: SHALLOW
+    o:
+      - "Four of which you please."
+    m:
+      - "Any four you choose."
+
+  - sp: BARDOLPH
+    o:
+      - "Sir, a word with you. *(aside to FALSTAFF)* I have three pound"
+      - "to free Mouldy and Bullcalf."
+    m:
+      - "Sir, may I have a word with you? *(whispers to FALSTAFF)* I’ve gotten three pounds to free Mouldy and Bullcalf."
+
+  - sp: FALSTAFF
+    o:
+      - "Go to, well."
+    m:
+      - "No kidding. Great."
+
+  - sp: SHALLOW
+    o:
+      - "Come, Sir John, which four will you have?"
+    m:
+      - "Come on, Sir John, which four do you want?"
+
+  - sp: FALSTAFF
+    o:
+      - "Do you choose for me."
+    m:
+      - "You pick."
+
+  - sp: SHALLOW
+    o:
+      - "Marry, then, Mouldy, Bullcalf, Feeble, and Shadow."
+    m:
+      - "All right, then. Mouldy, Bullcalf, Feeble, and Shadow."
+
+  - sp: FALSTAFF
+    o:
+      - "Mouldy and Bullcalf! For you, Mouldy, stay at home till you"
+      - "are past service.—And for your part, Bullcalf, grow till you"
+      - "come unto it. I will none of you."
+    m:
+      - "Mouldy and Bullcalf. Mouldy, you stay home till you’re too old to fight. And as for you, Bullcalf, wait till you’ve reached fighting age. I don’t want either of you."
+
+  - os: "Exeunt MOULDY and BULLCALF"
+    ms: "MOULDY and BULLCALF exit."
+
+  - sp: SHALLOW
+    o:
+      - "Sir John, Sir John, do not yourself wrong. They are your"
+      - "likeliest men, and I would have you served with the best."
+    m:
+      - "Sir John, Sir John. Don’t make a mistake. They’re the best men of the bunch, and I want you to have only the best."
+
+  - sp: FALSTAFF
+    o:
+      - "Will you tell me, Master Shallow, how to choose a man?"
+      - "Care I for the limb, the thews, the stature, bulk, and big"
+      - "assemblance of a man? Give me the spirit, Master Shallow."
+      - "Here’s Wart. You see what a ragged appearance it is. He shall"
+      - "charge you and discharge you with the motion of a"
+      - "pewterer’s hammer, come off and on swifter than he that"
+      - "gibbets on the brewer’s bucket. And this same half-faced"
+      - "fellow, Shadow, give me this man. He presents no mark to"
+      - "the enemy. The foeman may with as great aim level at the"
+      - "edge of a penknife. And for a retreat, how swiftly will this"
+      - "Feeble the woman’s tailor, run off! O, give me the spare"
+      - "men, and spare me the great ones.—Put me a caliver into"
+      - "Wart’s hand, Bardolph."
+    m:
+      - "Master Shallow, are you going to tell me how to choose a soldier? Do you think I care about a man’s body, strength, height, bulk, and overall size? Give me his spirit, Master Shallow! Take a look at Wart. You see how ragged he looks? He can load and fire steadily—as steadily as a tinsmith’s hammer. He can advance and regroup fast—faster than a brewer’s delivery pail can be refilled. And this skinny guy, Shadow—give me this man. He offers no target to the enemy. The enemy might as well try aiming at a knife’s edge. And as for retreating, Feeble, the woman’s tailor, will run faster than you can imagine. Oh, give me the spare men and spare me the great ones! Bardolph, give Wart a musket."
+
+  - sp: BARDOLPH
+    o:
+      - "Hold, Wart. Traverse. Thas, thas, thas."
+    m:
+      - "Here you go, Wart. Present arms! Right shoulder, arms! Left shoulder, arms!"
+
+  - sp: FALSTAFF
+    o:
+      - "Come, manage me your caliver: so, very well, go to, very"
+      - "good, exceeding good. O, give me always a little, lean, old,"
+      - "chopped, bald shot. Well said, i’ faith, Wart. Th’ art a good"
+      - "scab. Hold, there’s a tester for thee."
+    m:
+      - "Come on, handle your weapon. Yes, good. Very good. Very, very good. Oh, give me a little, skinny, old, dried-out, bald rifleman any day. Good job, Wart. You’re a good scab of a guy. Wait, here’s a tester for you."
+
+  - sp: SHALLOW
+    o:
+      - "He is not his craft’s master. He doth not do it right. I"
+      - "remember at Mile End Green, when I lay at Clement’s Inn—"
+      - "I was then Sir Dagonet in Arthur’s show—there was a little"
+      - "quiver fellow, and he would manage you his piece thus. And"
+      - "he would about and about, and come you in, and come you"
+      - "in. “Rah, tah, tah,” would he say. “Bounce,” would he say,"
+      - "and away again would he go, and again would he come. I"
+      - "shall ne’er see such a fellow."
+    m:
+      - "He’s no expert. He’s not doing it right. I remember up at Mile-End Park, when I was at Clement’s Inn—I played the fool in the archery pageant. There was a nimble little guy, and he would handle his weapon like this, and he would run all over the place, and he’d charge and charge. “Rat-a-tat tat,” he’d say. “Bang!” he’d say. Then he’d run away, then come back. I never saw anybody like him."
+
+  - sp: FALSTAFF
+    o:
+      - "These fellows will do well, Master Shallow.—God keep"
+      - "you, Master Silence. I will not use many words with you."
+      - "Fare you well, gentlemen both. I thank you. I must a dozen"
+      - "mile to-night.—Bardolph, give the soldiers coats."
+    m:
+      - "These guys will be fine, Master Shallow. God bless you, Master Silence—I won’t say much to you. Farewell, gentlemen, and thank you. I have to march twelve miles tonight. Bardolph, give the soldiers uniforms."
+
+  - sp: SHALLOW
+    o:
+      - "Sir John, the Lord bless you. God prosper your affairs. God"
+      - "send us peace. At your return, visit our house. Let our old"
+      - "acquaintance be renewed. Peradventure I will with you to"
+      - "the court."
+    m:
+      - "God bless you, Sir John. May God bring you good luck, and bring us peace. When you come back, pay us a visit. Let’s renew our old friendship. Maybe I’ll even come with you to the royal court!"
+
+  - sp: FALSTAFF
+    o:
+      - "Fore God, would you would, Master Shallow."
+    m:
+      - "I swear, I wish you would, Master Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "Go to. I have spoke at a word. God keep you."
+    m:
+      - "I meant what I said. May God keep you."
+
+  - sp: FALSTAFF
+    o:
+      - "Fare you well, gentle gentlemen."
+    m:
+      - "Farewell, gentle gentlemen."
+
+  - os: "Exeunt SHALLOW and SILENCE"
+    ms: "SHALLOW and SILENCE exit."
+
+  - o:
+      - "On, Bardolph. Lead the men away."
+    m:
+      - "March, Bardolph. Lead the men away."
+
+  - os: "Exeunt BARDOLPH and the recruits"
+    ms: "BARDOLPH and the recruits exit."
+
+  - o:
+      - "As I return, I will fetch off these justices. I do see the bottom"
+      - "of Justice Shallow. Lord, Lord, how subject we old men are"
+      - "to this vice of lying. This same starved justice hath done"
+      - "nothing but prate to me of the wildness of his youth and the"
+      - "feats he hath done about Turnbull Street, and every third"
+      - "word a lie, duer paid to the hearer than the Turk’s tribute. I"
+      - "do remember him at Clement’s Inn, like a man made after"
+      - "supper of a cheese paring. When he was naked, he was, for"
+      - "all the world, like a forked radish with a head fantastically"
+      - "carved upon it with a knife. He was so forlorn that his"
+      - "dimensions to any thick sight were invincible. He was the"
+      - "very genius of famine, yet lecherous as a monkey, and the"
+      - "whores called him “mandrake.” He came ever in the"
+      - "rearward of the fashion, and sung those tunes to the"
+      - "overscutched huswives that he heard the carmen whistle,"
+      - "and swore they were his fancies or his good-nights."
+      - "And now is this Vice’s dagger become a squire, and talks as"
+      - "familiarly of John o’ Gaunt as if he had been sworn brother"
+      - "to him, and I’ll be sworn he ne’er saw him but once in the"
+      - "tilt-yard, and then he burst his head for crowding among the"
+      - "Marshal’s men. I saw it and told John o’ Gaunt he beat his"
+      - "own name, for you might have thrust him and all his apparel"
+      - "into an eel-skin; the case of a treble hautboy was a mansion"
+      - "for him, a court. And now has he land and beefs. Well, I’ll"
+      - "be acquainted with him, if I return, and ’t shall go hard but"
+      - "I’ll make him a philosopher’s two stones to me. If the young"
+      - "dace be a bait for the old pike, I see no reason in the law of"
+      - "nature but I may snap at him. Let time shape, and there an"
+      - "end."
+    m:
+      - "When I come back, I’ll expose these judges for the frauds that they are. I can see through this Judge Shallow. Lord, Lord; we old men sure know how to tell lies! This dried-up old judge has done nothing but go on and on to me about how wild he was when he was as a youth, and how many stunts he pulled in the seedy parts of town. Every third word he speaks is a lie, and he’ll tell lies quicker than a Turk will scramble to pay the sultan. I remember him at Clement’s Inn: he looked like a man someone carved after dinner out of a scrap of cheese. When he was naked he looked like a mandrake root, with a fanciful head someone had carved in with a knife. He was so skinny that he was invisible to any man with imperfect vision; he truly was the embodiment of starvation. But he was as horny as a monkey: the whores called him “mandrake,” because mandrake stimulates the sex drive. He was always a little bit behind the times. He would hear the wagon drivers sing their songs, and then he’d go to his worn-out whores and sing them what he’d heard, pretending he had written them himself. And now this vile stick has become a landowner, and he talks about John of Gaunt like he was his own brother. I swear, he only saw Gaunt once, and that was in the arena at the jousting tournament; John of Gaunt cut Shallow’s head with his sword. I saw it all, and I told John of Gaunt that he had beaten his own name, since Shallow was such a gaunt man back then. You could fit him and all his clothes into the skin an eel sheds. An instrument case was as huge as a mansion to him, as big as a courtroom. Now he has land and livestock. Well, I’ll be his friend if I come back. He won’t like it, but I’ll turn him into an unending source of wealth for myself. If small fish can be bait for big fish, I see no reason why I can’t snap my jaws at Shallow. Time will tell, and that’s all I have to say about that."
+
+  - os: "Exit"
+    ms: "He exits."

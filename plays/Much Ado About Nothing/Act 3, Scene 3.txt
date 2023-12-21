@@ -1,0 +1,506 @@
+play: Much Ado About Nothing
+title: Act 3, Scene 3
+group: 3
+order: 8
+text:
+  - os: "Enter DOGBERRY andVERGES with the Watch"
+    ms: "  DOGBERRY and VERGES with several of the Prince’sWATCHMEN enter."
+
+  - sp: DOGBERRY
+    o:
+      - "Are you good men and true?"
+    m:
+      - "Are you all good and honest men?"
+
+  - sp: VERGES
+    o:
+      - "Yea, or else it were pity but they should suffer salvation,"
+      - "body and soul."
+    m:
+      - "Yes they are, otherwise it would be proper for them to suffer salvation, body and soul."
+
+  - sp: DOGBERRY
+    o:
+      - "Nay, that were a punishment too good for them, if they"
+      - "should have any allegiance in them, being chosen for the"
+      - "Prince’s watch."
+    m:
+      - "If they had any allegiance when they were chosen for the Prince’s watch, a punishment like that would be too good for them."
+
+  - sp: VERGES
+    o:
+      - "Well, give them their charge, neighbor Dogberry."
+    m:
+      - "Well, give them their assignment, Sir Dogberry."
+
+  - sp: DOGBERRY
+    o:
+      - "First, who think you the most desartless man to be constable?"
+    m:
+      - "First, which man do you think is most desertless to be leader of the watch?"
+
+  - sp: FIRST WATCHMAN
+    o:
+      - "Hugh Otecake, sir, or George Seacole, for they can write"
+      - "and read."
+    m:
+      - "Either Hugh Otecake, sir, or else George Seacole, because both of them can read and write."
+
+  - sp: DOGBERRY
+    o:
+      - "Come hither, neighbor Seacole. God hath blessed you with"
+      - "a good name. To be a well-favored man is the gift of fortune,"
+      - "but to write and read comes by nature."
+    m:
+      - "Come here, Sir Seacole. God has blessed you with a good name. To be good-looking is a matter of luck, but to read and write is a natural gift."
+
+  - sp: SEACOLE
+    o:
+      - "Both which, Master Constable—"
+    m:
+      - "Both of which, master constable—"
+
+  - sp: DOGBERRY
+    o:
+      - "You have. I knew it would be your answer. Well, for your"
+      - "favor, sir, why, give God thanks, and make no boast of it,"
+      - "and for your writing and reading, let that appear when there"
+      - "is no need of such vanity. You are thought here to be the"
+      - "most senseless and fit man for the constable of the watch;"
+      - "therefore bear you the lantern. This is your charge:"
+      - "you shall comprehend all vagrom men; you are to bid any"
+      - "man stand, in the Prince’s name."
+    m:
+      - "You have. I knew that would be your answer. Well, for your good looks, sir, thank God and don’t boast about it. As for your reading and writing, use those skills when you can’t use your looks. You’re thought to be the most senseless and fit man here, so you will carry the lantern and be constable. This is your assignment: you will comprehend any vagrant men you see. You are to order all men to stop, in the Prince’s name."
+
+  - sp: SECOND WATCHMAN
+    o:
+      - "How if he will not stand?"
+    m:
+      - "And what if he won’t stop?"
+
+  - sp: DOGBERRY
+    o:
+      - "Why, then, take no note of him, but let him go and"
+      - "presently call the rest of the watch together and thank God"
+      - "you are rid of a knave."
+    m:
+      - "Well then, don’t bother with him and let him go. Then immediately call the rest of the watch together and thank God that you’ve gotten rid of such a criminal."
+
+  - sp: VERGES
+    o:
+      - "If he will not stand when he is bidden, he is none of the"
+      - "Prince’s subjects."
+    m:
+      - "If he won’t stop when he’s told to, then he isn’t one of the Prince’s subjects."
+
+  - sp: DOGBERRY
+    o:
+      - "True, and they are to meddle with none but the Prince’s"
+      - "subjects.—You shall also make no noise in the streets; for,"
+      - "for the watch to babble and to talk is most tolerable and not"
+      - "to be endured."
+    m:
+      - "True, and you aren’t supposed to meddle with anyone but the Prince’s subjects. You will also stay quiet in the streets, for a babbling watch is most tolerable and will not be endured."
+
+  - sp: WATCHMAN
+    o:
+      - "We will rather sleep than talk. We know what belongs to a"
+      - "watch."
+    m:
+      - "We’ll sleep instead of talk. We know what’s appropriate for a watch."
+
+  - sp: DOGBERRY
+    o:
+      - "Why, you speak like an ancient and most quiet watchman,"
+      - "for I cannot see how sleeping should offend. Only have a"
+      - "care that your bills be not stolen. Well, you are to call at all"
+      - "the alehouses and bid those that are drunk get them to bed."
+    m:
+      - "Why, you speak like an experienced and quiet watchman. Sleeping on the watch shouldn’t be a problem; just make sure that your weapons don’t get stolen. Also, you’re supposed to visit all the bars and tell anyone who’s drunk to go home and go to bed."
+
+  - sp: WATCHMAN
+    o:
+      - "How if they will not?"
+    m:
+      - "And what if they won’t go?"
+
+  - sp: DOGBERRY
+    o:
+      - "Why, then, let them alone till they are sober. If they make"
+      - "you not then the better answer, you may say they are not the"
+      - "men you took them for."
+    m:
+      - "Well then, leave them alone until they’re sober. If even then they don’t answer to your satisfaction, you can say that they’re not the men you thought they were."
+
+  - sp: WATCHMAN
+    o:
+      - "Well, sir."
+    m:
+      - "Very good, sir."
+
+  - sp: DOGBERRY
+    o:
+      - "If you meet a thief, you may suspect him, by virtue of your"
+      - "office, to be no true man, and for such kind of men, the less"
+      - "you meddle or make with them, why the more is for your"
+      - "honesty."
+    m:
+      - "If you meet a thief, you can expect him to be dishonest. The less you have to do with that kind of man, the more honest you will be."
+
+  - sp: WATCHMAN
+    o:
+      - "If we know him to be a thief, shall we not lay hands on him?"
+    m:
+      - "So if we know that a man is a thief, should we try to arrest him?"
+
+  - sp: DOGBERRY
+    o:
+      - "Truly, by your office you may, but I think they that touch"
+      - "pitch will be defiled. The most peaceable way for you, if"
+      - "you"
+      - "do take a thief, is to let him show himself what he is and steal"
+      - "out of your company."
+    m:
+      - "Your position permits you to, but I think that those who stick their hands in pitch get their hands dirty. If you encounter a thief, I think the most peaceable thing to do is to let him be himself—and steal away."
+
+  - sp: VERGES
+    o:
+      - "You have been always called a merciful man, partner."
+    m:
+      - "You have always been known as a merciful man, partner."
+
+  - sp: DOGBERRY
+    o:
+      - "Truly, I would not hang a dog by my will, much more a man"
+      - "who hath any honesty in him."
+    m:
+      - "Truly, I wouldn’t even hang a dog, much more a man who has any honesty in him."
+
+  - sp: VERGES
+    o:
+      - "*(to the Watch)* If you hear a child cry in the night, you must"
+      - "call to the nurse and bid her still it."
+    m:
+      - "*(to the watchmen)* If you hear a child crying in the night, you should call the nurse and tell her to quiet the child."
+
+  - sp: WATCHMAN
+    o:
+      - "How if the nurse be asleep and will not hear us?"
+    m:
+      - "What if the nurse is asleep and doesn’t hear us?"
+
+  - sp: DOGBERRY
+    o:
+      - "Why then, depart in peace and let the child wake her with"
+      - "crying, for the ewe that will not hear her lamb when it baas"
+      - "will never answer a calf when he bleats."
+    m:
+      - "Well then, leave quietly, and let the child’s crying wake up the nurse. The ewe that doesn’t go to her lamb when it *baas* will never tend to another animal’s child."
+
+  - sp: VERGES
+    o:
+      - "’Tis very true."
+    m:
+      - "That’s very true."
+
+  - sp: DOGBERRY
+    o:
+      - "This is the end of the charge. You, constable, are to present"
+      - "the Prince’s own person. If you meet the Prince in the night,"
+      - "you may stay him."
+    m:
+      - "And that’s the end of your assignment. You, constable, are representing the Prince himself. If you meet the Prince in the night, you can order him to stop."
+
+  - sp: VERGES
+    o:
+      - "Nay, by ’r Lady, that I think he cannot."
+    m:
+      - "No, by our Lady, I don’t think he can."
+
+  - sp: DOGBERRY
+    o:
+      - "Five shillings to one on ’t, with any man that knows the"
+      - "statutes, he may stay him—marry, not without the Prince"
+      - "be willing, for indeed the watch ought to offend no man,"
+      - "and it is an offense to stay a man against his will."
+    m:
+      - "I’ll bet any man who knows the law five shillings to one on it. Truly though, you can’t stop the Prince without the Prince’s consent, for the watch shouldn’t offend anyone, and it’s an offense to keep a man without his consent."
+
+  - sp: VERGES
+    o:
+      - "By ’r lady, I think it be so."
+    m:
+      - "By our Lady, I think that’s true."
+
+  - sp: DOGBERRY
+    o:
+      - "Ha, ha, ha!—Well, masters, good night."
+      - "An there be any matter of weight chances, call up me. Keep your fellows’"
+      - "counsels and your own; and good night.—Come, neighbor."
+    m:
+      - "Ha, ha, ha! Well, gentlemen, good night. And if anything important happens, find me and let me know. Keep each other’s secrets and your own. Good night. Come, friend."
+
+  - sp: WATCHMAN
+    o:
+      - "Well, masters, we hear our charge. Let us go sit here upon"
+      - "the church bench till two, and then all to bed."
+    m:
+      - "Well gentlemen, we’ve heard our assignment. Let’s sit here on the church bench until two and then go off to bed."
+
+  - sp: DOGBERRY
+    o:
+      - "One word more, honest neighbors. I pray you watch about"
+      - "Signior Leonato’s door, for the wedding being there"
+      - "tomorrow, there is a great coil tonight. Adieu, be vigitant,"
+      - "I beseech you."
+    m:
+      - "One more thing, good gentlemen. Watch over Signior Leonato’s house; with the wedding being held there tomorrow, there’s a great to-do there tonight. Adieu. Be vigitant, I beg you."
+
+  - os: "Exeunt DOGBERRY andVERGES"
+    ms: "DOGBERRY and VERGES exit."
+
+  - os: "Enter BORACHIO andCONRADE"
+    ms: "BORACHIO and CONRADE enter."
+
+  - sp: BORACHIO
+    o:
+      - "What Conrade!"
+    m:
+      - "Conrade!"
+
+  - sp: SEACOAL
+    o:
+      - "*(aside)* Peace! Stir not."
+    m:
+      - "*(whispering)* Quiet! Don’t move!"
+
+  - sp: BORACHIO
+    o:
+      - "Conrade, I say!"
+    m:
+      - "Conrade, I say!"
+
+  - sp: CONRADE
+    o:
+      - "Here, man. I am at thy elbow."
+    m:
+      - "I’m here, man, at your elbow."
+
+  - sp: BORACHIO
+    o:
+      - "Mass, and my elbow itched, I thought there would a scab"
+      - "follow."
+    m:
+      - "Come to think of it, I thought I felt a scab there."
+
+  - sp: CONRADE
+    o:
+      - "I will owe thee an answer for that. And now forward with"
+      - "thy tale."
+    m:
+      - "I’ll get you for that. Now get on with your story."
+
+  - sp: BORACHIO
+    o:
+      - "Stand thee close, then, under this penthouse, for it drizzles"
+      - "rain, and I will, like a true drunkard, utter all to thee."
+    m:
+      - "Since it’s drizzling, stand under this overhang with me and, like a true drunk, I’ll tell you everything."
+
+  - sp: WATCHMAN
+    o:
+      - "*(aside)* Some treason, masters. Yet stand close."
+    m:
+      - "*(speaking so that only the other WATCHMEN can hear)* There’s some treason occurring, gentlemen. Stay here."
+
+  - sp: BORACHIO
+    o:
+      - "Therefore know I have earned of Don John a thousand"
+      - "ducats."
+    m:
+      - "You should know I’ve earned a thousand gold pieces from Don John."
+
+  - sp: CONRADE
+    o:
+      - "Is it possible that any villainy should be so dear?"
+    m:
+      - "Is it possible that any crime could be so valuable?"
+
+  - sp: BORACHIO
+    o:
+      - "Thou shouldst rather ask if it were possible any villainy"
+      - "should be so rich. For when rich villains have need of poor"
+      - "ones, poor ones may make what price they will."
+    m:
+      - "You should ask instead if it’s possible that any criminal could be so rich. Because when rich villains need poor villains’ services, those poor ones can name the price."
+
+  - sp: CONRADE
+    o:
+      - "I wonder at it."
+    m:
+      - "I can’t believe it."
+
+  - sp: BORACHIO
+    o:
+      - "That shows thou art unconfirmed. Thou knowest that the"
+      - "fashion of a doublet, or a hat, or a cloak, is nothing to a man."
+    m:
+      - "That only proves how inexperienced you are. You know that the style of a man’s jacket or hat or coat means nothing."
+
+  - sp: CONRADE
+    o:
+      - "Yes, it is apparel."
+    m:
+      - "Yes, it’s just clothing."
+
+  - sp: BORACHIO
+    o:
+      - "I mean the fashion."
+    m:
+      - "No, I mean, the fashion of a man’s clothing tells us nothing about the man."
+
+  - sp: CONRADE
+    o:
+      - "Yes, the fashion is the fashion."
+    m:
+      - "Yes, fashion is fashion."
+
+  - sp: BORACHIO
+    o:
+      - "Tush, I may as well say the fool’s the fool. But seest thou not"
+      - "what a deformed thief this fashion is?"
+    m:
+      - "C’mon, I might as well say the fool’s the fool! But don’t you see what a deformed villain fashion is?"
+
+  - sp: WATCHMAN
+    o:
+      - "*(aside)* I know that Deformed. He has been a vile thief this"
+      - "seven year. He goes up and down like a gentleman. I"
+      - "remember his name."
+    m:
+      - "*(speaking so that only the other WATCHMEN can hear)* I know that man, Deformed. For the past seven years, he’s been a wicked thief. He walks around as if he were a gentleman. I remember that name."
+
+  - sp: BORACHIO
+    o:
+      - "Didst thou not hear somebody?"
+    m:
+      - "Did you hear someone?"
+
+  - sp: CONRADE
+    o:
+      - "No, ’twas the vane on the house."
+    m:
+      - "Just the weathervane moving."
+
+  - sp: BORACHIO
+    o:
+      - "Seest thou not, I say, what a deformed thief this fashion is,"
+      - "how giddily he turns about all the hot bloods between"
+      - "fourteen and five-and-thirty, sometimes fashioning them"
+      - "like Pharaoh’s soldiers in the reechy painting, sometime"
+      - "like god Bel’s priests in the old church-window, sometime"
+      - "like the shaven Hercules in the smirched worm-eaten"
+      - "tapestry, where his codpiece seems as massy as his club?"
+    m:
+      - "As I was saying, fashion is a deformed villain. It makes hot-blooded young men spin around feverishly, forever changing their appearances, dictating that sometimes they dress like Pharoah’s soldiers in that grimy painting and sometimes like the priests of the god Baal, as seen in old church windows. And sometimes fashion dresses them like the great Hercules in that dirty, worm-eaten tapestry—the one where his codpiece seems almost as big as his club."
+
+  - sp: CONRADE
+    o:
+      - "All this I see, and I see that the fashion wears out more"
+      - "apparel than the man. But art not thou thyself giddy with"
+      - "the fashion too, that thou hast shifted out of thy tale into"
+      - "telling me of the fashion?"
+    m:
+      - "I get all this. And I also understand how fashion changes so quickly that a man’s clothing never gets a chance to wear itself out. But you’re all wound up about fashion, too. Otherwise, why would you stray from your story to blabber on about it?"
+
+  - sp: BORACHIO
+    o:
+      - "Not so, neither. But know that I have tonight wooed"
+      - "Margaret, the Lady Hero’s gentlewoman, by the name of"
+      - "Hero. She leans me out at her mistress’ chamber window,"
+      - "bids me a thousand times good night. I tell this tale vilely."
+      - "I should first tell thee how the Prince, Claudio and my"
+      - "master, planted and placed and possessed by my master"
+      - "Don John, saw afar off in the orchard this amiable"
+      - "encounter."
+    m:
+      - "No, I’m not wound up. But I will tell you that I seduced Margaret, the Lady Hero’s waiting woman, tonight. I called her “Hero” the whole time. She leaned out of her mistress’ bedroom window and told me good night a thousand times—but I am telling this story poorly. I should backtrack and begin with how my master, Don John, arranged for the Prince, Claudio, and himself to witness this friendly encounter from the orchard."
+
+  - sp: CONRADE
+    o:
+      - "And thought they Margaret was Hero?"
+    m:
+      - "And they thought Margaret was Hero?"
+
+  - sp: BORACHIO
+    o:
+      - "Two of them did, the Prince and Claudio, but the devil my"
+      - "master knew she was Margaret; and partly by his oaths,"
+      - "which first possessed them, partly by the dark night, which"
+      - "did deceive them, but chiefly by my villainy, which did"
+      - "confirm any slander that Don John had made, away went"
+      - "Claudio enraged, swore he would meet her as he was"
+      - "appointed next morning at the temple, and there, before the"
+      - "whole congregation, shame her with what he saw o’ernight"
+      - "and send her home again without a husband."
+    m:
+      - "The Prince and Claudio did, but the devil, my master, knew that it was Margaret. They believed the charade partially because of my master’s testimony—which first caused them to doubt Hero—and partially because of how dark and deceiving the night was, but mostly because of my villainous actions, which confirmed Don John’s slander. Claudio went away enraged, swearing that he’d meet Hero at the temple as planned and there, before the entire congregation, shame her with what he’d discovered and send her home without a husband."
+
+  - sp: SECOND WATCHMAN
+    o:
+      - "We charge you, in the Prince’s name, stand!"
+    m:
+      - "We charge you, in the Prince’s name, to stop!"
+
+  - sp: FIRST WATCHMAN
+    o:
+      - "Call up the right Master Constable. We have here"
+      - "recovered the most dangerous piece of lechery that ever was"
+      - "known in the commonwealth."
+    m:
+      - "Call up the Master Constable Dogberry. We have recovered the most dangerous piece of lechery that was ever known in the commonwealth."
+
+  - sp: SECOND WATCHMAN
+    o:
+      - "And one Deformed is one of them. I know him; he wears a"
+      - "lock."
+    m:
+      - "And one of them is the criminal Deformed. I know him; he wears a lock of hair."
+
+  - sp: CONRADE
+    o:
+      - "Masters, masters—"
+    m:
+      - "Gentlemen, gentlemen—"
+
+  - sp: SECOND WATCHMAN
+    o:
+      - "*(to BORACHIO)* You’ll be made bring Deformed forth, I"
+      - "warrant you."
+    m:
+      - "*(to BORACHIO)* I bet you’ll be forced to bring Deformed forward."
+
+  - sp: FIRST WATCHMAN
+    o:
+      - "Masters, never speak, we charge you, let us obey you go"
+      - "with us."
+    m:
+      - "Gentlemen, don’t speak. We obey you to go with us."
+
+  - sp: BORACHIO
+    o:
+      - "We are like to prove a goodly commodity, being taken up of"
+      - "these men’s bills."
+    m:
+      - "We’re probably a very valuable catch for these guys."
+
+  - sp: CONRADE
+    o:
+      - "A commodity in question, I warrant you.—Come, we’ll"
+      - "obey you."
+    m:
+      - "Well, our value is debatable, I bet. Let’s go, we’ll obey you."
+
+  - os: "Exeunt"
+    ms: "They all exit."

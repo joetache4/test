@@ -1,0 +1,108 @@
+play: Romeo and Juliet
+title: Act 2, Scene 1
+group: 2
+order: 7
+text:
+  - os: "Enter ROMEO alone"
+    ms: "ROMEO enters alone."
+
+  - sp: ROMEO
+    o:
+      - "Can I go forward when my heart is here?"
+      - "Turn back, dull earth, and find thy center out."
+    m:
+      - "Can I go away while my heart stays here? I have to go back to where my heart is."
+
+  - os: "Moves away Enter BENVOLIO with MERCUTIO"
+    ms: "ROMEO moves away. BENVOLIO and MERCUTIO enter."
+
+  - sp: BENVOLIO
+    o:
+      - "Romeo, my cousin Romeo! Romeo!"
+    m:
+      - "*(calling)* Romeo, my cousin, Romeo, Romeo!"
+
+  - sp: MERCUTIO
+    o:
+      - "    He is wise,"
+      - "And, on my life, hath stol’n him home to bed."
+    m:
+      - "He’s a smart boy. I bet he slipped away and went home to bed."
+
+  - sp: BENVOLIO
+    o:
+      - "He ran this way and leapt this orchard wall."
+      - "Call, good Mercutio."
+    m:
+      - "He ran this way and jumped over this orchard wall. Call to him, Mercutio."
+
+  - sp: MERCUTIO
+    o:
+      - "    Nay, I’ll conjure too!"
+      - "Romeo! Humours, madman, passion, lover!"
+      - "Appear thou in the likeness of a sigh!"
+      - "Speak but one rhyme, and I am satisfied."
+      - "Cry but “Ay me!” Pronounce but “love” and “dove.”"
+      - "Speak to my gossip Venus one fair word,"
+      - "One nickname for her purblind son and heir,"
+      - "Young Abraham Cupid, he that shot so true"
+      - "When King Cophetua loved the beggar maid.—"
+      - "He heareth not, he stirreth not, he moveth not."
+      - "The ape is dead, and I must conjure him.—"
+      - "I conjure thee by Rosaline’s bright eyes,"
+      - "By her high forehead and her scarlet lip,"
+      - "By her fine foot, straight leg, and quivering thigh,"
+      - "And the demesnes that there adjacent lie,"
+      - "That in thy likeness thou appear to us."
+    m:
+      - "I’ll conjure him as if I were summoning a spirit. Romeo! Madman! Passion! Lover! Show yourself in the form of a sigh. Speak one rhyme, and I’ll be satisfied. Just cry out, “Ah me!” Just say “love” and “dove.” Say just one lovely word to my good friend Venus. Just say the nickname of her blind son Cupid, the one who shot arrows so well in the old story.—Romeo doesn’t hear me. He doesn’t stir. He doesn’t move. The silly ape is dead, but I must make him appear.—I summon you by Rosaline’s bright eyes, by her high forehead and her red lips, by her fine feet, by her straight legs, by her trembling thighs, and by the regions right next to her thighs. In the name of all of these things, I command you to appear before us in your true form."
+
+  - sp: BENVOLIO
+    o:
+      - "An if he hear thee, thou wilt anger him."
+    m:
+      - "If he hears you, you’ll make him angry."
+
+  - sp: MERCUTIO
+    o:
+      - "This cannot anger him. ’Twould anger him"
+      - "To raise a spirit in his mistress’ circle"
+      - "Of some strange nature, letting it there stand"
+      - "Till she had laid it and conjured it down."
+      - "That were some spite. My invocation"
+      - "Is fair and honest. In his mistress’ name"
+      - "I conjure only but to raise up him."
+    m:
+      - "What I’m saying can’t anger him. He would be angry if I summoned a strange spirit for her to have sex with—that’s what would make him angry. The things I’m saying are fair and honest. All I’m doing is saying the name of the woman he loves to lure him out of the darkness."
+
+  - sp: BENVOLIO
+    o:
+      - "Come, he hath hid himself among these trees,"
+      - "To be consorted with the humorous night."
+      - "Blind is his love and best befits the dark."
+    m:
+      - "Come on. He’s hidden behind these trees to keep the night company. His love is blind, so it belongs in the dark."
+
+  - sp: MERCUTIO
+    o:
+      - "If love be blind, love cannot hit the mark."
+      - "Now will he sit under a medlar tree"
+      - "And wish his mistress were that kind of fruit"
+      - "As maids call medlars when they laugh alone.—"
+      - "O Romeo, that she were! Oh, that she were"
+      - "An open arse, and thou a poperin pear."
+      - "Romeo, good night. I’ll to my truckle bed."
+      - "This field-bed is too cold for me to sleep.—"
+      - "Come, shall we go?"
+    m:
+      - "If love is blind, it can’t hit the target. Now he’ll sit under a medlar tree and wish his mistress were one of those fruits that look like female genitalia. Oh Romeo, I wish she *were* an open-arse, and you a Popperin pear to “pop her in.” Good night, Romeo. I’ll go to my little trundle bed. This open field is too cold a place for me to sleep. *(to BENVOLIO)* Come on, should we go?"
+
+  - sp: BENVOLIO
+    o:
+      - "  Go, then, for ’tis in vain"
+      - "To seek him here that means not to be found."
+    m:
+      - "Let’s go. There’s no point in looking for him if he doesn’t want to be found."
+
+  - os: "Exeunt"
+    ms: "BENVOLIO and MERCUTIO exit."

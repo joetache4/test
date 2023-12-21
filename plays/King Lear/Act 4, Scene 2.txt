@@ -1,0 +1,294 @@
+play: King Lear
+title: Act 4, Scene 2
+group: 4
+order: 17
+text:
+  - os: "Enter GONERIL and EDMUND the bastard"
+    ms: "GONERIL enters with EDMUND."
+
+  - sp: GONERIL
+    o:
+      - "Welcome, my lord. I marvel our mild husband"
+      - "Not met us on the way."
+    m:
+      - "Welcome, my lord. I’m surprised my bland husband didn’t meet me on the way here."
+
+  - os: "Enter OSWALD"
+    ms: "OSWALD enters."
+
+  - o:
+      - "  Now, where’s your master?"
+    m:
+      - "Where’s your master?"
+
+  - sp: OSWALD
+    o:
+      - "Madam, within—but never man so changed."
+      - "I told him of the army that was landed."
+      - "He smiled at it. I told him you were coming."
+      - "His answer was “The worse.” Of Gloucester’s treachery"
+      - "And of the loyal service of his son,"
+      - "When I informed him, then he called me “sot,”"
+      - "And told me I had turned the wrong side out."
+      - "What most he should dislike seems pleasant to him;"
+      - "What like, offensive."
+    m:
+      - "He’s inside, ma’am, but he has changed dramatically since you last saw him. When I told him that the invading army has landed, he just smiled at me. When I told him you were on your way, he replied, “Too bad.” When I told him about Gloucester’s betrayal and his son Edmund’s loyal service, he called me an idiot and said I had it all wrong. He was delighted by the bad news and disgusted by the good news."
+
+  - sp: GONERIL
+    o:
+      - "*(to EDMUND)*"
+      - "  Then shall you go no further."
+      - "It is the cowish terror of his spirit"
+      - "That dares not undertake. He’ll not feel wrongs"
+      - "Which tie him to an answer. Our wishes on the way"
+      - "May prove effects. Back, Edmund, to my brother."
+      - "Hasten his musters and conduct his powers."
+      - "I must change names at home, and give the distaff"
+      - "Into my husband’s hands. This trusty servant"
+      - "Shall pass between us. Ere long you are like to hear—"
+      - "If you dare venture in your own behalf—"
+      - "A mistress’ command. Wear this. Spare speech."
+      - "Decline your head. This kiss, if it durst speak,"
+      - "Would stretch thy spirits up into the air."
+      - "*(kisses EDMUND)* Conceive, and fare thee well."
+    m:
+      - "*(to EDMUND)* Then don’t come in with me. He’s a coward and can’t commit himself to doing anything risky. He chooses not to be insulted rather than challenge those who offend him. But what we talked about with longing on the way may soon come true. Edmund, go back to see my brother-in-law. Gather his soldiers and organize his troops. I plan to take charge of my household. From now on I will wear the pants, and my husband can play the housewife. We can trust Oswald to carry messages between us. If you act boldly, you will soon obey me as your true mistress. Take this as a token of my esteem. Don’t speak. Lean down. This kiss should encourage you. *(she kisses EDMUND)* I hope you understand me. Goodbye, and good luck."
+
+  - sp: EDMUND
+    o:
+      - "Yours in the ranks of death."
+    m:
+      - "I’m at your service until death."
+
+  - sp: GONERIL
+    o:
+      - "My most dear Gloucester!"
+    m:
+      - "My dear Gloucester!"
+
+  - os: "Exit EDMUND"
+    ms: "EDMUND exits."
+
+  - o:
+      - "Oh, the difference of man and man!"
+      - "To thee a woman’s services are due."
+      - "My fool usurps my body."
+    m:
+      - "What a man!—especially compared to my husband. Edmund, you deserve me to be your woman. There’s a fool sharing my bed now."
+
+  - sp: OSWALD
+    o:
+      - "  Madam, here comes my lord."
+    m:
+      - "Ma’am, my master’s coming."
+
+  - os: "Exit OSWALD"
+    ms: "He exits."
+
+  - os: "Enter ALBANY"
+    ms: "ALBANY enters."
+
+  - sp: GONERIL
+    o:
+      - "I have been worth the whistle."
+    m:
+      - "So you finally find me worthy of your attentions."
+
+  - sp: ALBANY
+    o:
+      - "    O Goneril,"
+      - "You are not worth the dust which the rude wind"
+      - "Blows in your face. I fear your disposition."
+      - "That nature, which contemns its origin"
+      - "Cannot be bordered certain in itself."
+      - "She that herself will sliver and disbranch"
+      - "From her material sap perforce must wither"
+      - "And come to deadly use."
+    m:
+      - "Goneril, you aren’t worth the dust the wind blows in your face. I don’t trust you. You can’t trust anyone who abuses her own father, her flesh and blood. A woman who breaks off relations with her bloodline is like a branch that tries to break away from the tree. She will wither and come to a bad end."
+
+  - sp: GONERIL
+    o:
+      - "  No more. The text is foolish."
+    m:
+      - "Oh, shut up. Your words are idiotic."
+
+  - sp: ALBANY
+    o:
+      - "Wisdom and goodness to the vile seem vile."
+      - "Filths savor but themselves. What have you done?"
+      - "Tigers, not daughters, what have you performed?"
+      - "A father, and a gracious agèd man,"
+      - "Whose reverence even the head-lugged bear would lick,"
+      - "Most barbarous, most degenerate, have you madded."
+      - "Could my good brother suffer you to do it—"
+      - "A man, a prince by him so benefited?"
+      - "If that the heavens do not their visible spirits"
+      - "Send quickly down to tame these vile offenses,"
+      - "It will come:"
+      - "Humanity must perforce prey on itself"
+      - "Like monsters of the deep."
+    m:
+      - "Bad people can’t appreciate wisdom or goodness. They only like things as bad as themselves. What have you two sisters done? You’re tigers, not daughters. Barbaric degenerates, you’ve driven insane a kindly old father, whom even an angry bear would treat gent-ly. Could my good brother-in-law—a man to whom the king gave half his kingdom—have allowed you to do it? If the heavens don’t punish these crimes immediately, the end will come. Human beings will become cannibals, like ravenous sea fishes."
+
+  - sp: GONERIL
+    o:
+      - "  Milk-livered man"
+      - "That bear’st a cheek for blows, a head for wrongs—"
+      - "Who hast not in thy brows an eye discerning"
+      - "Thine honor from thy suffering; that not know’st"
+      - "Fools do those villains pity who are punished"
+      - "Ere they have done their mischief. Where’s thy drum?"
+      - "France spreads his banners in our noiseless land,"
+      - "With plumèd helm thy state begins to threat,"
+      - "Whiles thou, a moral fool, sits still and cries,"
+      - "“Alack, why does he so?”"
+    m:
+      - "Coward! You take everything lying down, you just turn the other cheek—you can’t even see the difference between being honored and being taken advantage of! If we punish criminals before they have a chance to commit their crimes, you’re a fool to pity them. Why aren’t you preparing for war? The French have invaded our peaceful country. Your territory is at risk, and all you can do is sit around like a preachy fool and whine, “Ah, why is he doing that?”"
+
+  - sp: ALBANY
+    o:
+      - "  See thyself, devil!"
+      - "Proper deformity shows not in the fiend"
+      - "So horrid as in woman."
+    m:
+      - "Look at yourself, devilish shrew! A woman deformed by hatred and rage is more horrifying than the devil!—at least the devil is *supposed* to look that way."
+
+  - sp: GONERIL
+    o:
+      - "  O vain fool!"
+    m:
+      - "You useless fool!"
+
+  - sp: ALBANY
+    o:
+      - "Thou changèd and self-covered thing, for shame!"
+      - "Bemonster not thy feature. Were ’t my fitness"
+      - "To let these hands obey my blood,"
+      - "They are apt enough to dislocate and tear"
+      - "Thy flesh and bones. Howe’er thou art a fiend,"
+      - "A woman’s shape doth shield thee."
+    m:
+      - "Shame on you, warped hag! Your true demonic features are distorting your body. If I let myself do what I yearn to, I’d rip the flesh off your bones. But I won’t attack a woman, even if she is a demon."
+
+  - sp: GONERIL
+    o:
+      - "Marry, your manhood, mew!"
+    m:
+      - "I sneeze on your manhood. Ha!"
+
+  - os: "Enter FIRST MESSENGER"
+    ms: "The FIRST MESSENGER enters."
+
+  - sp: ALBANY
+    o:
+      - "What news?"
+    m:
+      - "What news do you bring?"
+
+  - sp: FIRST MESSENGER
+    o:
+      - "O my good lord, the Duke of Cornwall’s dead,"
+      - "Slain by his servant, going to put out"
+      - "The other eye of Gloucester."
+    m:
+      - "Oh my lord, the Duke of Cornwall’s dead. He was killed by his servant as he about to gouge out Glouces-ter’s other eye."
+
+  - sp: ALBANY
+    o:
+      - "    Gloucester’s eyes?"
+    m:
+      - "Gloucester’s eyes?"
+
+  - sp: FIRST MESSENGER
+    o:
+      - "A servant that he bred, thrilled with remorse,"
+      - "Opposed against the act, bending his sword"
+      - "To his great master; who thereat enraged"
+      - "Flew on him and amongst them felled him dead—"
+      - "But not without that harmful stroke, which since"
+      - "Hath plucked him after."
+    m:
+      - "A servant Gloucester had raised in his house, full of compunction, opposed the blinding and turned his sword on the Duke of Cornwall. Enraged, Cornwall attacked and killed the servant, but not without receiving his own wound, of which he later died."
+
+  - sp: ALBANY
+    o:
+      - "  This shows you are above,"
+      - "You justicers, that these our nether crimes"
+      - "So speedily can venge! But oh, poor Gloucester—"
+      - "Lost he his other eye?"
+    m:
+      - "There’s justice in heaven after all! That these crimes are punished so quickly is proof. But oh, poor Glou-cester! Did he lose his other eye?"
+
+  - sp: FIRST MESSENGER
+    o:
+      - "  Both, both, my lord.—"
+      - "This letter, madam, craves a speedy answer."
+      - "’Tis from your sister."
+    m:
+      - "He lost both, my lord.—Ma’am, this letter is from your sister, and needs an immediate answer."
+
+  - sp: GONERIL
+    o:
+      - "*(aside)*"
+      - "  One way I like this well."
+      - "But being widow, and my Gloucester with her,"
+      - "May all the building in my fancy pluck"
+      - "Upon my hateful life. Another way"
+      - "The news is not so tart.—I’ll read and answer."
+    m:
+      - "*(to herself)* In a way I’m glad to hear that Cornwall is dead. But on the other hand, Edmund is traveling with Regan, who is now a widow. If something happens between them on the road, it would shatter my hopes of having Edmund for myself and escaping this hateful life. Still, there are benefits to having Cornwall out of the way.—I’ll read this letter and answer it."
+
+  - os: "Exit GONERIL"
+    ms: "She exits."
+
+  - sp: ALBANY
+    o:
+      - "Where was his son when they did take his eyes?"
+    m:
+      - "Where was Gloucester’s son Edmund when they gouged his eyes out?"
+
+  - sp: FIRST MESSENGER
+    o:
+      - "Come with my lady hither."
+    m:
+      - "He was on his way here with your wife."
+
+  - sp: ALBANY
+    o:
+      - "  He is not here."
+    m:
+      - "But he isn’t here now."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "No, my good lord. I met him back again."
+    m:
+      - "No, my lord. I met him going back again."
+
+  - sp: ALBANY
+    o:
+      - "Knows he the wickedness?"
+    m:
+      - "Does he know about this wicked crime?"
+
+  - sp: FIRST MESSENGER
+    o:
+      - "Ay, my good lord. ’Twas he informed against him,"
+      - "And quit the house on purpose that their punishment"
+      - "Might have the freer course."
+    m:
+      - "Yes, my lord. He was the one who denounced his father. He then left the house specifically so that the punishment might be carried out without concern for their father-son bond."
+
+  - sp: ALBANY
+    o:
+      - "  Gloucester, I live"
+      - "To thank thee for the love thou showed’st the king,"
+      - "And to revenge thine eyes.—Come hither, friend."
+      - "Tell me what more thou know’st."
+    m:
+      - "Gloucester, I’ll thank you forever for the love you’ve shown the king. I’ll get revenge for what they did to your eyes.—Come here, my friend. What else you do know?"
+
+  - os: "Exeunt"
+    ms: "They exit."

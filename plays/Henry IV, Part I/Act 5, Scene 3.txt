@@ -1,0 +1,191 @@
+play: Henry IV, Part I
+title: Act 5, Scene 3
+group: 5
+order: 16
+text:
+  - os: "The KING enters with his power and they cross the stage. Alarum to the battle."
+    ms: "The KING crosses the stage with his army. The trumpets sound the call to battle."
+
+  - os: "Then enter DOUGLAS and Sir Walter BLUNT, disguised as the KING"
+    ms: "DOUGLAS and Sir Walter BLUNT enter. BLUNT is disguised as the KING"
+
+  - sp: BLUNT
+    o:
+      - "What is thy name that in the battle thus"
+      - "Thou crossest me? What honor dost thou seek"
+      - "Upon my head?"
+    m:
+      - "What is your name—you, who are attacking me like this? What honor do you think you’ll get by fighting me?"
+
+  - sp: DOUGLAS
+    o:
+      - "Know then, my name is Douglas,"
+      - "And I do haunt thee in the battle thus"
+      - "Because some tell me that thou art a king."
+    m:
+      - "My name is Douglas, and I’m haunting you in this battle because they tell me you are a king."
+
+  - sp: BLUNT
+    o:
+      - "They tell thee true."
+    m:
+      - "They tell you the truth."
+
+  - sp: DOUGLAS
+    o:
+      - "The Lord of Stafford dear today hath bought"
+      - "Thy likeness, for instead of thee, King Harry,"
+      - "This sword hath ended him. So shall it thee,"
+      - "Unless thou yield thee as my prisoner."
+    m:
+      - "Today, Lord Stafford paid for resembling you so well, for instead of you, King Harry, my sword killed him. Now it will kill you, unless you surrender as my prisoner."
+
+  - sp: BLUNT
+    o:
+      - "I was not born a yielder, thou proud Scot,"
+      - "And thou shalt find a king that will revenge"
+      - "Lord Stafford’s death."
+    m:
+      - "I was not born to surrender, you arrogant Scotsman. You’re about to see a king take revenge for Stafford’s death."
+
+  - os: "They fight. DOUGLAS kills BLUNT. Enter HOTSPUR"
+    ms: "They fight. DOUGLAS kills BLUNT. HOTSPUR enters."
+
+  - sp: HOTSPUR
+    o:
+      - "O Douglas, hadst thou fought at Holmedon thus,"
+      - "I never had triumphed upon a Scot."
+    m:
+      - "Oh, Douglas! If you’d fought like this at Holmedon, I would never have been able to beat you."
+
+  - sp: DOUGLAS
+    o:
+      - "All’s done, all’s won; here breathless lies the King."
+    m:
+      - "It’s over, we’ve won: here’s the King, dead."
+
+  - sp: HOTSPUR
+    o:
+      - "Where?"
+    m:
+      - "Where?"
+
+  - sp: DOUGLAS
+    o:
+      - "Here."
+    m:
+      - "Here."
+
+  - sp: HOTSPUR
+    o:
+      - "This, Douglas? No, I know this face full well."
+      - "A gallant knight he was; his name was Blunt,"
+      - "Semblably furnished like the King himself."
+    m:
+      - "This, Douglas? No. I know this man: he was a brave knight, by the name of Blunt; he is disguised as the King."
+
+  - sp: DOUGLAS
+    o:
+      - "*(to BLUNT)* A fool go with thy soul whither it goes!"
+      - "A borrowed title hast thou bought too dear."
+      - "Why didst thou tell me that thou wert a king?"
+    m:
+      - "*(to BLUNT)* Wherever your soul is off to now, let it carry the name of fool! You paid too much for that borrowed title. Why did you tell me you were a king?"
+
+  - sp: HOTSPUR
+    o:
+      - "The King hath many marching in his coats."
+    m:
+      - "The King has many men on the battlefield disguised in his uniform."
+
+  - sp: DOUGLAS
+    o:
+      - "Now, by my sword, I will kill all his coats."
+      - "I’ll murder all his wardrobe, piece by piece,"
+      - "Until I meet the King."
+    m:
+      - "Now, I swear on my sword, I’ll kill all his uniforms! I’ll murder every item of his clothing, one piece at a time, until I find the King himself."
+
+  - sp: HOTSPUR
+    o:
+      - "  Up and away!"
+      - "Our soldiers stand full fairly for the day."
+    m:
+      - "Get going! Our side looks like it will win today."
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Alarum. Enter FALSTAFF alone."
+    ms: "The trumpets play a call to arms.FALSTAFF enters, alone."
+
+  - sp: FALSTAFF
+    o:
+      - "Though I could ’scape shot-free at London, I fear the shot here. Here’s no scoring but upon the pate.—Soft, who are you? Sir Walter Blunt. There’s honor for you. Here’s no vanity. I am as hot as molten lead, and as heavy too. God keep lead out of me; I need no more weight than mine own bowels. I have led my ragamuffins where they are peppered. There’s not three of my hundred and fifty left alive, and they are for the town’s end, to beg during life. But who comes here?"
+    m:
+      - "I could always escape shot-free in London, but I’m scared of getting shot out here. Here, you take it on the head. Wait a minute—who’s this? Sir Walter Blunt! There’s honor for you, but no vanity! I’m as hot as molten lead, and as heavy, too; so God keep the lead out of me. I don’t need any lead bullets in my belly—my own guts are heavy enough. My army of ragged bums has been massacred. Not even three of my hundred-fifty troops are still alive, and the ones who are have run away, to panhandle in the streets. Who’s coming?"
+
+  - os: "Enter PRINCE HENRY"
+    ms: "PRINCE HENRY enters."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, stand’st thou idle here? Lend me thy sword."
+      - "Many a nobleman lies stark and stiff"
+      - "Under the hoofs of vaunting enemies,"
+      - "Whose deaths are yet unrevenged. I prithee,"
+      - "Lend me thy sword."
+    m:
+      - "What, are you standing here doing nothing? Give me your sword. Many good men are lying cold and dead on the ground, with the enemy’s horses galloping over them. Their deaths have not been revenged. Come, give me your sword."
+
+  - sp: FALSTAFF
+    o:
+      - "O Hal, I prithee, give me leave to breathe awhile. Turk Gregory never did such deeds in arms as I have done this day. I have paid Percy; I have made him sure."
+    m:
+      - "Oh, Hal, please, give me a moment to catch my breath. No one has ever fought as heroically as I did today. I’ve killed Percy, I’ve made him safe."
+
+  - sp: PRINCE HENRY
+    o:
+      - "He is indeed, and living to kill thee."
+      - "I prithee, lend me thy sword."
+    m:
+      - "You’re right; he’s safe, and now he’s coming to kill you. Now please, give me your sword."
+
+  - sp: FALSTAFF
+    o:
+      - "Nay, before God, Hal, if Percy be alive, thou gett’st not my sword; but take my pistol, if thou wilt."
+    m:
+      - "No, Hal, I swear to God! If Percy’s alive, you’re not taking my sword. But you can have my gun, if you want."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Give it to me. What, is it in the case?"
+    m:
+      - "Give it to me. Is it in its holster?"
+
+  - sp: FALSTAFF
+    o:
+      - "Ay, Hal, ’tis hot, ’tis hot. There’s that will sack a city.*(PRINCE HENRYdraws it out and finds it to be a bottle of sack)*"
+    m:
+      - "Yup. It’s hot, hot; it could sack a city.*(PRINCE HENRY opens the holster and finds a bottle of white wine)*"
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, is it a time to jest and dally now?"
+    m:
+      - "Is this a time to joke and fool around?"
+
+  - os: "He throws the bottle at him."
+    ms: "He throws the bottle atFALSTAFF."
+
+  - os: "Exit PRINCE HENRY"
+    ms: "PRINCE HENRY exits."
+
+  - sp: FALSTAFF
+    o:
+      - "Well, if Percy be alive, I’ll pierce him. If he do come in my way, so; if he do not, if I come in his willingly, let him make a carbonado of me. I like not such grinning honor as Sir Walter hath. Give me life, which if I can save, so: if not, honor comes unlooked for, and there’s an end."
+    m:
+      - "If Percy’s alive, I’ll pierce him. If he runs into me, fine. If he doesn’t run into me, but I run into him, let him slice me like a butcher. I don’t want the kind of honor Sir Walter has: give me life. If I manage to save my life, fine. If not, I’ll have honor that I never looked for, and that’ll be that."
+
+  - os: "Exit"
+    ms: "He exits."

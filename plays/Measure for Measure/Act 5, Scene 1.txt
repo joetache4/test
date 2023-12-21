@@ -1,0 +1,1513 @@
+play: Measure for Measure
+title: Act 5, Scene 1
+group: 5
+order: 16
+text:
+  - os: "The city gate."
+    ms: "The city gate."
+
+  - os: "MARIANA veiled, ISABELLA, and FRIAR PETER, at their stand. Enter DUKE VINCENTIO, VARRIUS, Lords, ANGELO, ESCALUS, LUCIO, Provost, Officers, and Citizens, at several doors"
+    ms: "MARIANA wearing a veil, ISABELLA, and FRIAR PETER are at their stand. DUKE VINCENTIO, VARRIUS, lords, ANGELO, ESCALUS, LUCIO, the Provost, officers, and citizens enter from several directions."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "My very worthy cousin, fairly met!"
+      - "Our old and faithful friend, we are glad to see you."
+    m:
+      - "*(to Angelo)* My fellow nobleman, welcome! *(to Escalus)* My faithful old friend, I’m glad to see you."
+
+  - sp: ANGELO, ESCALUS
+    o:
+      - "Happy return be to your royal grace!"
+    m:
+      - "Welcome home, your royal grace!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Many and hearty thankings to you both."
+      - "We have made inquiry of you; and we hear"
+      - "Such goodness of your justice, that our soul"
+      - "Cannot but yield you forth to public thanks,"
+      - "Forerunning more requital."
+    m:
+      - "Many hearty thanks to you both. I’ve been asking about you, and I’ve heard such good things about your rule that I just had to thank you publicly, as a preview of more rewards to come."
+
+  - sp: ANGELO
+    o:
+      - "You make my bonds still greater."
+    m:
+      - "You make my debt to you even greater."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "O, your desert speaks loud; and I should wrong it,"
+      - "To lock it in the wards of covert bosom,"
+      - "When it deserves, with characters of brass,"
+      - "A forted residence ’gainst the tooth of time"
+      - "And razure of oblivion. Give me your hand,"
+      - "And let the subject see, to make them know"
+      - "That outward courtesies would fain proclaim"
+      - "Favours that keep within. Come, Escalus,"
+      - "You must walk by us on our other hand;"
+      - "And good supporters are you."
+    m:
+      - "Oh, you’re extremely worthy, and it’d be wrong of me to hide it in my heart, when it deserves to be written in brass letters, as on a monument, where time can’t erase it. Give me your hand, and let the people see, so they’ll know how proud I am to display my high regard for you. Come, Escalus, you must walk with me on my other side. You make a fine supporter."
+
+  - os: "FRIAR PETER and ISABELLA come forward"
+    ms: "FRIAR PETER and ISABELLA come forward."
+
+  - sp: FRIAR PETER
+    o:
+      - "Now is your time: speak loud and kneel before him."
+    m:
+      - "Now’s the time: speak up and kneel before him."
+
+  - sp: ISABELLA
+    o:
+      - "Justice, O royal duke! Vail your regard"
+      - "Upon a wrong’d, I would fain have said, a maid!"
+      - "O worthy prince, dishonour not your eye"
+      - "By throwing it on any other object"
+      - "Till you have heard me in my true complaint"
+      - "And given me justice, justice, justice, justice!"
+    m:
+      - "Justice, royal duke! Look down here, at a girl—I wish I could say a virgin—who has been wronged. Oh, worthy prince, don’t consider anything else until you’ve heard my valid case and given me justice, justice, justice, justice!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Relate your wrongs; in what? by whom? be brief."
+      - "Here is Lord Angelo shall give you justice:"
+      - "Reveal yourself to him."
+    m:
+      - "Describe how you’ve been wronged—in what way? By whom? Be brief. Lord Angelo here will give you justice. Tell him your complaint."
+
+  - sp: ISABELLA
+    o:
+      - "O worthy duke,"
+      - "You bid me seek redemption of the devil:"
+      - "Hear me yourself; for that which I must speak"
+      - "Must either punish me, not being believed,"
+      - "Or wring redress from you. Hear me, O hear me, here!"
+    m:
+      - "Oh, worthy duke, you’re urging me to ask the devil for help. Listen to me yourself. What I have to say will result either in you not believing and punishing me, or you feeling compelled to right the wrong. Hear me, oh hear me, here!"
+
+  - sp: ANGELO
+    o:
+      - "My lord, her wits, I fear me, are not firm:"
+      - "She hath been a suitor to me for her brother"
+      - "Cut off by course of justice,—"
+    m:
+      - "My lord, I’m afraid she’s not in her right mind. She’s appeared before me, begging for her brother, who was executed by the justice system—"
+
+  - sp: ISABELLA
+    o:
+      - "By course of justice!"
+    m:
+      - "By the justice system!"
+
+  - sp: ANGELO
+    o:
+      - "And she will speak most bitterly and strange."
+    m:
+      - "And she will speak in a very bitter, strange way."
+
+  - sp: ISABELLA
+    o:
+      - "Most strange, but yet most truly, will I speak:"
+      - "That Angelo’s forsworn; is it not strange?"
+      - "That Angelo’s a murderer; is ’t not strange?"
+      - "That Angelo is an adulterous thief,"
+      - "An hypocrite, a virgin-violator;"
+      - "Is it not strange and strange?"
+    m:
+      - "I’ll speak strangely, but truthfully. That Angelo’s a liar, isn’t that strange? That Angelo’s a murderer, isn’t that strange? That Angelo’s an adulterous thief, a hypocrite, a man who rapes virgins, isn’t that extremely strange?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Nay, it is ten times strange."
+    m:
+      - "That’s strange to the tenth degree."
+
+  - sp: ISABELLA
+    o:
+      - "It is not truer he is Angelo"
+      - "Than this is all as true as it is strange:"
+      - "Nay, it is ten times true; for truth is truth"
+      - "To the end of reckoning."
+    m:
+      - "It’s just as true as the fact that he’s Angelo, and this is all as true as it is strange. No, it’s true to the tenth degree, for the truth is the truth, no matter how much you multiply it."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Away with her! Poor soul,"
+      - "She speaks this in the infirmity of sense."
+    m:
+      - "Take her away! Poor soul, she’s insane."
+
+  - sp: ISABELLA
+    o:
+      - "O prince, I conjure thee, as thou believest"
+      - "There is another comfort than this world,"
+      - "That thou neglect me not, with that opinion"
+      - "That I am touch’d with madness! Make not impossible"
+      - "That which but seems unlike: ’tis not impossible"
+      - "But one, the wicked’st caitiff on the ground,"
+      - "May seem as shy, as grave, as just, as absolute"
+      - "As Angelo; even so may Angelo,"
+      - "In all his dressings, characts, titles, forms,"
+      - "Be an arch-villain; believe it, royal prince:"
+      - "If he be less, he’s nothing; but he’s more,"
+      - "Had I more name for badness."
+    m:
+      - "Oh, prince, I beg you, as you believe in a better world than this one, don’t dismiss me by thinking I’m mad! Don’t assume something’s impossible because it’s unlikely. It’s not impossible that the wickedest wretch on the face of the earth may look just as cautious, as dignified, as fair, as perfect as Angelo—even as Angelo, for all his official finery, badges, titles, and ceremonies, can be an arch-villain. Believe it, royal prince. If he’s less than a wretch, he’s nothing. But he’s more, if only I had more names for badness."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "By mine honesty,"
+      - "If she be mad,—as I believe no other,—"
+      - "Her madness hath the oddest frame of sense,"
+      - "Such a dependency of thing on thing,"
+      - "As e’er I heard in madness."
+    m:
+      - "I declare, if she’s mad—as I believe she is—her madness has an oddly rational sound. I’ve rarely heard such coherent logic from someone insane."
+
+  - sp: ISABELLA
+    o:
+      - "O gracious duke,"
+      - "Harp not on that, nor do not banish reason"
+      - "For inequality; but let your reason serve"
+      - "To make the truth appear where it seems hid,"
+      - "And hide the false seems true."
+    m:
+      - "Oh, gracious duke, don’t harp on that. But don’t dismiss rational statements because they don’t jibe with appearances. Use your intelligence to uncover the hidden truth, which is obscured by lies that seem like truth."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Many that are not mad"
+      - "Have, sure, more lack of reason. What would you say?"
+    m:
+      - "A lot of sane people make a lot less sense. What would you like to say?"
+
+  - sp: ISABELLA
+    o:
+      - "I am the sister of one Claudio,"
+      - "Condemn’d upon the act of fornication"
+      - "To lose his head; condemn’d by Angelo:"
+      - "I, in probation of a sisterhood,"
+      - "Was sent to by my brother; one Lucio"
+      - "As then the messenger,—"
+    m:
+      - "I am the sister of one Claudio, sentenced to die by the decree against fornication—sentenced by Angelo. I was about to enter a convent, when my brother contacted me. He sent me a message through a man named Lucio—"
+
+  - sp: LUCIO
+    o:
+      - "That’s I, an’t like your grace:"
+      - "I came to her from Claudio, and desired her"
+      - "To try her gracious fortune with Lord Angelo"
+      - "For her poor brother’s pardon."
+    m:
+      - "That’s me, if it please your grace: I came to her from Claudio, and asked her to try her good luck in asking Lord Angelo for her poor brother’s pardon."
+
+  - sp: ISABELLA
+    o:
+      - "That’s he indeed."
+    m:
+      - "Yes, that’s the man."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You were not bid to speak."
+    m:
+      - "No one asked you to speak."
+
+  - sp: LUCIO
+    o:
+      - "No, my good lord;"
+      - "Nor wish’d to hold my peace."
+    m:
+      - "No, my good lord, but no one asked me to be quiet, either."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I wish you now, then;"
+      - "Pray you, take note of it: and when you have"
+      - "A business for yourself, pray heaven you then"
+      - "Be perfect."
+    m:
+      - "I’m asking you now, then. Remember it. And when you have your own business before me, pray heaven you behave yourself."
+
+  - sp: LUCIO
+    o:
+      - "I warrant your honour."
+    m:
+      - "I’ll take notice, your honor."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "The warrants for yourself; take heed to’t."
+    m:
+      - "The notice is for yourself. Pay attention to it."
+
+  - sp: ISABELLA
+    o:
+      - "This gentleman told somewhat of my tale,—"
+    m:
+      - "This gentleman has told some of my story—"
+
+  - sp: LUCIO
+    o:
+      - "Right."
+    m:
+      - "Right."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "It may be right; but you are i’ the wrong"
+      - "To speak before your time. Proceed."
+    m:
+      - "It may be right, but you’re wrong to interrupt. Proceed."
+
+  - sp: ISABELLA
+    o:
+      - "I went"
+      - "To this pernicious caitiff deputy,—"
+    m:
+      - "I went to this wicked, evil deputy—"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "That’s somewhat madly spoken."
+    m:
+      - "You’re sounding crazy."
+
+  - sp: ISABELLA
+    o:
+      - "Pardon it;"
+      - "The phrase is to the matter."
+    m:
+      - "Excuse me—the choice of words is appropriate."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Mended again. The matter; proceed."
+    m:
+      - "That’s better. Continue."
+
+  - sp: ISABELLA
+    o:
+      - "In brief, to set the needless process by,"
+      - "How I persuaded, how I pray’d, and kneel’d,"
+      - "How he refell’d me, and how I replied,—"
+      - "For this was of much length,—the vile conclusion"
+      - "I now begin with grief and shame to utter:"
+      - "He would not, but by gift of my chaste body"
+      - "To his concupiscible intemperate lust,"
+      - "Release my brother; and, after much debatement,"
+      - "My sisterly remorse confutes mine honour,"
+      - "And I did yield to him: but the next morn betimes,"
+      - "His purpose surfeiting, he sends a warrant"
+      - "For my poor brother’s head."
+    m:
+      - "To make a long story short—because it took a while, how I begged, how I prayed and kneeled, how he refused me, and how I replied—I’ll sadly and shamefully get to the awful ending. He wouldn’t release my brother unless I gave my chaste body over to his yearning lust. And after much internal debate, my sisterly pity overcame my honor, and I gave in to him. But having got what he wanted, early the next morning he sent an order for my poor brother’s head."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "This is most likely!"
+    m:
+      - "*(sarcastically)* This is very believable!"
+
+  - sp: ISABELLA
+    o:
+      - "O, that it were as like as it is true!"
+    m:
+      - "Oh, I wish it were as believable as it is true!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "By heaven, fond wretch, thou knowist not what thou speak’st,"
+      - "Or else thou art suborn’d against his honour"
+      - "In hateful practise. First, his integrity"
+      - "Stands without blemish. Next, it imports no reason"
+      - "That with such vehemency he should pursue"
+      - "Faults proper to himself: if he had so offended,"
+      - "He would have weigh’d thy brother by himself"
+      - "And not have cut him off. Some one hath set you on:"
+      - "Confess the truth, and say by whose advice"
+      - "Thou camest here to complain."
+    m:
+      - "Heavens above, you poor fool, you don’t know what you’re saying, or else you’ve been bribed to falsely accuse him. First of all, his integrity is beyond reproach. Next, it makes no sense that he should so vigorously prosecute crimes he himself commits. If he had committed such a crime, he would’ve judged your brother against himself, and not executed him. Someone has put you up to this. Confess the truth, and tell us who urged you to come here with this accusation."
+
+  - sp: ISABELLA
+    o:
+      - "And is this all?"
+      - "Then, O you blessed ministers above,"
+      - "Keep me in patience, and with ripen’d time"
+      - "Unfold the evil which is here wrapt up"
+      - "In countenance! Heaven shield your grace from woe,"
+      - "As I, thus wrong’d, hence unbelieved go!"
+    m:
+      - "That’s it? Then, oh, you blessed angels above, help me be patient, and let time reveal the evil hiding here behind appearances! Heaven protect your grace from harm. Since you don’t believe me, I have to go."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I know you’ld fain be gone. An officer!"
+      - "To prison with her! Shall we thus permit"
+      - "A blasting and a scandalous breath to fall"
+      - "On him so near us? This needs must be a practise."
+      - "Who knew of Your intent and coming hither?"
+    m:
+      - "I bet you’d like to go. Officer, take her to prison! Should I permit such destructive, scandalous rumors about someone so close to me? This must be a conspiracy. Who knew about your plan, and that you were coming here?"
+
+  - sp: ISABELLA
+    o:
+      - "One that I would were here, Friar Lodowick."
+    m:
+      - "Someone I wish were here now, Friar Lodowick."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "A ghostly father, belike. Who knows that Lodowick?"
+    m:
+      - "A holy ghost, probably. Who knows this Lodowick?"
+
+  - sp: LUCIO
+    o:
+      - "My lord, I know him; ’tis a meddling friar;"
+      - "I do not like the man: had he been lay, my lord"
+      - "For certain words he spake against your grace"
+      - "In your retirement, I had swinged him soundly."
+    m:
+      - "My lord, I know him. He’s the sort of friar who’s always meddling in people’s business. I don’t like the man. If he hadn’t been a member of the clergy, I would have punched him out for certain words he spoke against your grace while you were away."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Words against me? this is a good friar, belike!"
+      - "And to set on this wretched woman here"
+      - "Against our substitute! Let this friar be found."
+    m:
+      - "Words against me? Some holy friar this is! And to set this wretched woman here against my replacement! Someone locate this friar."
+
+  - sp: LUCIO
+    o:
+      - "But yesternight, my lord, she and that friar,"
+      - "I saw them at the prison: a saucy friar,"
+      - "A very scurvy fellow."
+    m:
+      - "Just yesterday, my lord, I saw her and this friar at the prison. He’s a smart-aleck, a very nasty piece of work."
+
+  - sp: FRIAR PETER
+    o:
+      - "Blessed be your royal grace!"
+      - "I have stood by, my lord, and I have heard"
+      - "Your royal ear abused. First, hath this woman"
+      - "Most wrongfully accused your substitute,"
+      - "Who is as free from touch or soil with her"
+      - "As she from one ungot."
+    m:
+      - "God bless your royal grace! I’ve stood by, my lord, and I’ve heard your royal ears deceived. First, this woman has wrongfully accused your replacement, who is as far from any sexual or moral misbehavior with her as she is from a virgin birth."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "We did believe no less."
+      - "Know you that Friar Lodowick that she speaks of?"
+    m:
+      - "I never believed anything else. Do you know this Friar Lodowick she’s talking about?"
+
+  - sp: FRIAR PETER
+    o:
+      - "I know him for a man divine and holy;"
+      - "Not scurvy, nor a temporary meddler,"
+      - "As he’s reported by this gentleman;"
+      - "And, on my trust, a man that never yet"
+      - "Did, as he vouches, misreport your grace."
+    m:
+      - "I know him for a divine and holy man, not lowdown, and not someone who meddles in earthly pleasures, as this gentleman reports. And, trust me, he’s a man that never slandered your grace."
+
+  - sp: LUCIO
+    o:
+      - "My lord, most villanously; believe it."
+    m:
+      - "My lord, he did, and very maliciously too. Believe it."
+
+  - sp: FRIAR PETER
+    o:
+      - "Well, he in time may come to clear himself;"
+      - "But at this instant he is sick my lord,"
+      - "Of a strange fever. Upon his mere request,"
+      - "Being come to knowledge that there was complaint"
+      - "Intended ’gainst Lord Angelo, came I hither,"
+      - "To speak, as from his mouth, what he doth know"
+      - "Is true and false; and what he with his oath"
+      - "And all probation will make up full clear,"
+      - "Whensoever he’s convented. First, for this woman."
+      - "To justify this worthy nobleman,"
+      - "So vulgarly and personally accused,"
+      - "Her shall you hear disproved to her eyes,"
+      - "Till she herself confess it."
+    m:
+      - "Well, in time he may come to clear himself, but at this instant he’s sick, my lord, suffering a rare fever. Learning there was an accusation planned against Lord Angelo, he personally asked me to come here and speak, as he would have, about what he knows is true and false. And when he’s summoned, he’ll give his oath and furnish proof that will clear everything up. This worthy nobleman, who’s been so publicly and personally accused, will be vindicated, and this woman will be discredited to her face, to such an extent that she herself will have to admit it."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Good friar, let’s hear it."
+    m:
+      - "Good friar, let’s hear it."
+
+  - os: "ISABELLA is carried off guarded; and MARIANA comes forward"
+    ms: "ISABELLA is taken away, under guard, and MARIANA comes forward, wearing a veil."
+
+  - o:
+      - "Do you not smile at this, Lord Angelo?"
+      - "O heaven, the vanity of wretched fools!"
+      - "Give us some seats. Come, cousin Angelo;"
+      - "In this I’ll be impartial; be you judge"
+      - "Of your own cause. Is this the witness, friar?"
+      - "First, let her show her face, and after speak."
+    m:
+      - "Isn’t this funny, Lord Angelo? Oh, heaven, the nerve of these wretched fools! Give us some seats. Come, Angelo, my friend. I won’t take any part in this. You be the judge of your own case. Is this the witness, friar? First, let her show her face, and then speak."
+
+  - sp: MARIANA
+    o:
+      - "Pardon, my lord; I will not show my face"
+      - "Until my husband bid me."
+    m:
+      - "Pardon me, my lord. I will not show my face until my husband bids me to."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "What, are you married?"
+    m:
+      - "What, are you married?"
+
+  - sp: MARIANA
+    o:
+      - "No, my lord."
+    m:
+      - "No, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Are you a maid?"
+    m:
+      - "Are you single?"
+
+  - sp: MARIANA
+    o:
+      - "No, my lord."
+    m:
+      - "No, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "A widow, then?"
+    m:
+      - "A widow, then?"
+
+  - sp: MARIANA
+    o:
+      - "Neither, my lord."
+    m:
+      - "Neither, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Why, you are nothing then: neither maid, widow, nor wife?"
+    m:
+      - "So, you are neither single, widow, nor wife?"
+
+  - sp: LUCIO
+    o:
+      - "My lord, she may be a punk; for many of them are"
+      - "neither maid, widow, nor wife."
+    m:
+      - "My lord, she may be a prostitute. Many of them are neither virgin, widow, nor wife."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Silence that fellow: I would he had some cause"
+      - "To prattle for himself."
+    m:
+      - "Keep that fellow quiet. I wish he were up on some charge of his own."
+
+  - sp: LUCIO
+    o:
+      - "Well, my lord."
+    m:
+      - "OK, my lord."
+
+  - sp: MARIANA
+    o:
+      - "My lord; I do confess I ne’er was married;"
+      - "And I confess besides I am no maid:"
+      - "I have known my husband; yet my husband"
+      - "Knows not that ever he knew me."
+    m:
+      - "My lord, I do admit I’ve never been married, and I also admit I’m not a virgin. I’ve slept with my husband, but my husband doesn’t know he’s slept with me."
+
+  - sp: LUCIO
+    o:
+      - "He was drunk then, my lord: it can be no better."
+    m:
+      - "He was drunk then, my lord. That’s the best explanation."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "For the benefit of silence, would thou wert so too!"
+    m:
+      - "For silence’s sake, be silent yourself!"
+
+  - sp: LUCIO
+    o:
+      - "Well, my lord."
+    m:
+      - "OK, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "This is no witness for Lord Angelo."
+    m:
+      - "This is hardly a witness for Lord Angelo."
+
+  - sp: MARIANA
+    o:
+      - "Now I come to’t my lord"
+      - "She that accuses him of fornication,"
+      - "In self-same manner doth accuse my husband,"
+      - "And charges him my lord, with such a time"
+      - "When I’ll depose I had him in mine arms"
+      - "With all the effect of love."
+    m:
+      - "I’m coming to it now, my lord. The woman who’s accusing him of fornication is actually accusing my husband. And she charges it was at the very time when, as I’ll swear, he was in my arms, making love to me."
+
+  - sp: ANGELO
+    o:
+      - "Charges she more than me?"
+    m:
+      - "Is she accusing more men besides me?"
+
+  - sp: MARIANA
+    o:
+      - "Not that I know."
+    m:
+      - "Not that I know of."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "No? you say your husband."
+    m:
+      - "No? You say your husband."
+
+  - sp: MARIANA
+    o:
+      - "Why, just, my lord, and that is Angelo,"
+      - "Who thinks he knows that he ne’er knew my body,"
+      - "But knows he thinks that he knows Isabel’s."
+    m:
+      - "Why, exactly, my lord. He’s Angelo, who believes he never slept with me, and who believes he slept with Isabel."
+
+  - sp: ANGELO
+    o:
+      - "This is a strange abuse. Let’s see thy face."
+    m:
+      - "This is a strange deception. Let’s see your face."
+
+  - sp: MARIANA
+    o:
+      - "My husband bids me; now I will unmask."
+    m:
+      - "My husband bids me to, so I’ll lift my veil."
+
+  - os: "Unveiling"
+    ms: "Removing her veil."
+
+  - o:
+      - "This is that face, thou cruel Angelo,"
+      - "Which once thou sworest was worth the looking on;"
+      - "This is the hand which, with a vow’d contract,"
+      - "Was fast belock’d in thine; this is the body"
+      - "That took away the match from Isabel,"
+      - "And did supply thee at thy garden-house"
+      - "In her imagined person."
+    m:
+      - "This is the face, you cruel Angelo, that you once swore was well worth looking at. This is the hand that was locked in yours with a signed contract. This is the body that kept your appointment with Isabel, and satisfied you in your garden-house, pretending to be her."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Know you this woman?"
+    m:
+      - "Do you know this woman?"
+
+  - sp: LUCIO
+    o:
+      - "Carnally, she says."
+    m:
+      - "Sexually, she says."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Sirrah, no more!"
+    m:
+      - "Quiet, you!"
+
+  - sp: LUCIO
+    o:
+      - "Enough, my lord."
+    m:
+      - "Right, my lord."
+
+  - sp: ANGELO
+    o:
+      - "My lord, I must confess I know this woman:"
+      - "And five years since there was some speech of marriage"
+      - "Betwixt myself and her; which was broke off,"
+      - "Partly for that her promised proportions"
+      - "Came short of composition, but in chief"
+      - "For that her reputation was disvalued"
+      - "In levity: since which time of five years"
+      - "I never spake with her, saw her, nor heard from her,"
+      - "Upon my faith and honour."
+    m:
+      - "My lord, I must confess I know this woman. Five years ago, there was some talk of marriage between she and I. It was broken off, partly because her dowry fell short of the agreed amount, but mainly because she had a reputation for promiscuity. For the last five years, I haven’t spoken with her, seen her, or heard from her, I swear."
+
+  - sp: MARIANA
+    o:
+      - "Noble prince,"
+      - "As there comes light from heaven and words from breath,"
+      - "As there is sense in truth and truth in virtue,"
+      - "I am affianced this man’s wife as strongly"
+      - "As words could make up vows: and, my good lord,"
+      - "But Tuesday night last gone in’s garden-house"
+      - "He knew me as a wife. As this is true,"
+      - "Let me in safety raise me from my knees"
+      - "Or else for ever be confixed here,"
+      - "A marble monument!"
+    m:
+      - "Noble prince, as light comes from heaven and words from breath, as there is meaning in truth and truth in virtue, I am engaged to this man as strongly as words can make vows. And, my good lord, last Tuesday night in a garden house, he treated me as a wife. This being the truth, let me safely rise from my knees, or else let me be fixed here forever, like a marble monument!"
+
+  - sp: ANGELO
+    o:
+      - "I did but smile till now:"
+      - "Now, good my lord, give me the scope of justice."
+      - "My patience here is touch’d. I do perceive"
+      - "These poor informal women are no more"
+      - "But instruments of some more mightier member"
+      - "That sets them on: let me have way, my lord,"
+      - "To find this practise out."
+    m:
+      - "I was amused up until now, but now my patience is exhausted. My good lord, let me apply the full force of the law. I believe these poor, demented women are just tools of some more powerful person who has put them up to this. Give me the chance, my lord, to unravel this plot."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Ay, with my heart"
+      - "And punish them to your height of pleasure."
+      - "Thou foolish friar, and thou pernicious woman,"
+      - "Compact with her that’s gone, think’st thou thy oaths,"
+      - "Though they would swear down each particular saint,"
+      - "Were testimonies against his worth and credit"
+      - "That’s seal’d in approbation? You, Lord Escalus,"
+      - "Sit with my cousin; lend him your kind pains"
+      - "To find out this abuse, whence ’tis derived."
+      - "There is another friar that set them on;"
+      - "Let him be sent for."
+    m:
+      - "Yes, with all my heart, and punish them as much as you like. You foolish friar and you wicked woman, in collusion with that one we just took away—even if you swore by every single saint, do you think your oaths would mean anything against his worthiness and reputation, which are proven beyond a doubt? You, Lord Escalus, sit with my colleague. Do all you can to help him unravel this conspiracy and discover where it came from. There’s another friar who put them up to this. Send for him."
+
+  - sp: FRIAR PETER
+    o:
+      - "Would he were here, my lord! for he indeed"
+      - "Hath set the women on to this complaint:"
+      - "Your provost knows the place where he abides"
+      - "And he may fetch him."
+    m:
+      - "I wish he were here, my lord! Because he did encourage the women to make this accusation. Your provost knows where he lives and can go get him."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Go do it instantly."
+    m:
+      - "Go do it, immediately."
+
+  - os: "Exit Provost"
+    ms: "The Provost exits."
+
+  - o:
+      - "And you, my noble and well-warranted cousin,"
+      - "Whom it concerns to hear this matter forth,"
+      - "Do with your injuries as seems you best,"
+      - "In any chastisement: I for a while will leave you;"
+      - "But stir not you till you have well determined"
+      - "Upon these slanderers."
+    m:
+      - "*(to Angelo)* And you, my noble and respected friend, who have a stake in seeing this matter to the end, deal with the crimes against you as you think best, with any form of punishment. I’ll leave you for a while, but don’t move until you have fully decided the fate of these slanderers."
+
+  - sp: ESCALUS
+    o:
+      - "My lord, we’ll do it throughly."
+    m:
+      - "My lord, we’ll do it thoroughly."
+
+  - os: "Exit DUKE"
+    ms: "DUKE VINCENTO exits."
+
+  - o:
+      - "Signior Lucio, did not you say you knew that"
+      - "Friar Lodowick to be a dishonest person?"
+    m:
+      - "Signor Lucio, didn’t you say you knew this Friar Lodowick to be a dishonest person?"
+
+  - sp: LUCIO
+    o:
+      - "“Cucullus non facit monachum:” honest in nothing"
+      - "but in his clothes; and one that hath spoke most"
+      - "villanous speeches of the duke."
+    m:
+      - "“A hood does not make a monk”—his friar’s clothes are the only holy thing about him. And he’s said very evil things about the duke."
+
+  - sp: ESCALUS
+    o:
+      - "We shall entreat you to abide here till he come and"
+      - "enforce them against him: we shall find this friar a"
+      - "notable fellow."
+    m:
+      - "We’ll ask you to stay here until he comes and we lay those charges against him. We think this friar’s a notorious character."
+
+  - sp: LUCIO
+    o:
+      - "As any in Vienna, on my word."
+    m:
+      - "As much as anyone in Vienna, on my word."
+
+  - sp: ESCALUS
+    o:
+      - "Call that same Isabel here once again; I would speak with her."
+    m:
+      - "Call that Isabel here once again. I want to speak with her."
+
+  - os: "Exit an Attendant"
+    ms: "An attendant exits."
+
+  - o:
+      - "Pray you, my lord, give me leave to question; you"
+      - "shall see how I’ll handle her."
+    m:
+      - "Please, my lord, let me do the questioning. You’ll see how I’ll handle her."
+
+  - sp: LUCIO
+    o:
+      - "Not better than he, by her own report."
+    m:
+      - "Not better than he, according to her."
+
+  - sp: ESCALUS
+    o:
+      - "Say you?"
+    m:
+      - "What did you say?"
+
+  - sp: LUCIO
+    o:
+      - "Marry, sir, I think, if you handled her privately,"
+      - "she would sooner confe perchance, publicly,"
+      - "she’ll be ashamed."
+    m:
+      - "Frankly, sir, I think, if you handled her privately, she’d be more likely to confess. She might be ashamed to do it in public."
+
+  - sp: ESCALUS
+    o:
+      - "I will go darkly to work with her."
+    m:
+      - "I’ll keep the matter out of the spotlight."
+
+  - sp: LUCIO
+    o:
+      - "That’s the way; for women are light at midnight."
+    m:
+      - "That’s the way. Women are easiest in the dark."
+
+  - os: "Re-enter Officers with ISABELLA; and Provost with the DUKE VINCENTIO in his friar’s habit"
+    ms: "Officers re-enter with ISABELLA. The Provost re-enters with DUKE VINCENTIO in his friar’s habit."
+
+  - sp: ESCALUS
+    o:
+      - "Come on, mistre here’s a gentlewoman denies all"
+      - "that you have said."
+    m:
+      - "*(to Isabella)* Listen, mi this woman contradicts everything you’ve said."
+
+  - sp: LUCIO
+    o:
+      - "My lord, here comes the rascal I spoke of; here with"
+      - "the provost."
+    m:
+      - "My lord, here comes the rascal I was talking about, with the provost."
+
+  - sp: ESCALUS
+    o:
+      - "In very good time: speak not you to him till we"
+      - "call upon you."
+    m:
+      - "All in good time. Don’t speak to him until we summon you."
+
+  - sp: LUCIO
+    o:
+      - "Mum."
+    m:
+      - "Mum’s the word."
+
+  - sp: ESCALUS
+    o:
+      - "Come, sir: did you set these women on to slander"
+      - "Lord Angelo? they have confessed you did."
+    m:
+      - "Now, sir, did you egg these women on to slander Lord Angelo? They have confessed you did."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "’Tis false."
+    m:
+      - "It’s a lie."
+
+  - sp: ESCALUS
+    o:
+      - "How! know you where you are?"
+    m:
+      - "What! Do you know where you are?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Respect to your great place! and let the devil"
+      - "Be sometime honour’d for his burning throne!"
+      - "Where is the duke? ’tis he should hear me speak."
+    m:
+      - "All due respect to your great office—even the devil gets some respect for being the king of Hell. Where’s the duke? He’s the one who should hear me speak."
+
+  - sp: ESCALUS
+    o:
+      - "The duke’s in us; and we will hear you speak:"
+      - "Look you speak justly."
+    m:
+      - "We represent the duke, and we will hear you speak. See that you speak honestly."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Boldly, at least. But, O, poor souls,"
+      - "Come you to seek the lamb here of the fox?"
+      - "Good night to your redress! Is the duke gone?"
+      - "Then is your cause gone too. The duke’s unjust,"
+      - "Thus to retort your manifest appeal,"
+      - "And put your trial in the villain’s mouth"
+      - "Which here you come to accuse."
+    m:
+      - "Boldly, at least. But, oh, you poor souls, did you come to find your lambs in the fox’s den? Say goodnight to any justice, then. Is the duke gone? Then your case is gone too. The duke’s unjust, rejecting your accusation and turning your case over to the very villain you came here to accuse."
+
+  - sp: LUCIO
+    o:
+      - "This is the rascal; this is he I spoke of."
+    m:
+      - "This is the rascal I was talking about."
+
+  - sp: ESCALUS
+    o:
+      - "Why, thou unreverend and unhallow’d friar,"
+      - "Is’t not enough thou hast suborn’d these women"
+      - "To accuse this worthy man, but, in foul mouth"
+      - "And in the witness of his proper ear,"
+      - "To call him villain? and then to glance from him"
+      - "To the duke himself, to tax him with injustice?"
+      - "Take him hence; to the rack with him! We’ll touse you"
+      - "Joint by joint, but we will know his purpose."
+      - "What “unjust”?"
+    m:
+      - "Why, you disrespectful and unholy friar, it’s not enough that you’ve enlisted these women to accuse this worthy man, but with your foul mouth you call him a villain within his earshot? And then to shift your attack from him to the duke himself, to accuse the duke of being unjust? Take him away, to the rack with him! We’ll tear you limb from limb, until we discover your motive. To call the duke “unjust”!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Be not so hot; the duke"
+      - "Dare no more stretch this finger of mine than he"
+      - "Dare rack his own: his subject am I not,"
+      - "Nor here provincial. My business in this state"
+      - "Made me a looker on here in Vienna,"
+      - "Where I have seen corruption boil and bubble"
+      - "Till it o’er-run the stew; laws for all faults,"
+      - "But faults so countenanced, that the strong statutes"
+      - "Stand like the forfeits in a barber’s shop,"
+      - "As much in mock as mark."
+    m:
+      - "Don’t get so excited. The duke doesn’t dare to hurt my little finger any more than he’d torture his own. I’m not his subject, or a native of this province. My business in this state has made me an on-looker here in Vienna, where I’ve seen corruption boil and bubble until it overflows out of the brothels. You’ve got laws for all the crimes, but the crimes are so tolerated that the strong statutes are like those joke lists of “house rules” in stores —people look at them just to laugh."
+
+  - sp: ESCALUS
+    o:
+      - "Slander to the state! Away with him to prison!"
+    m:
+      - "Slandering the state! Take him away to prison!"
+
+  - sp: ANGELO
+    o:
+      - "What can you vouch against him, Signior Lucio?"
+      - "Is this the man that you did tell us of?"
+    m:
+      - "What evidence do you have against him, Signor Lucio? Is this the man you told us about?"
+
+  - sp: LUCIO
+    o:
+      - "’Tis he, my lord. Come hither, goodman baldpate:"
+      - "do you know me?"
+    m:
+      - "He’s the one, my lord. Come here, baldy. Do you know me?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I remember you, sir, by the sound of your voice: I"
+      - "met you at the prison, in the absence of the duke."
+    m:
+      - "I remember you, sir, by the sound of your voice. I met you at the prison, back when the duke was away."
+
+  - sp: LUCIO
+    o:
+      - "O, did you so? And do you remember what you said of the duke?"
+    m:
+      - "Oh, you did? And do you remember what you said about the duke?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Most notedly, sir."
+    m:
+      - "Definitely, sir."
+
+  - sp: LUCIO
+    o:
+      - "Do you so, sir? And was the duke a fleshmonger, a"
+      - "fool, and a coward, as you then reported him to be?"
+    m:
+      - "Do you, sir? And was the duke a pimp, a fool, and a coward, as you then reported him to be?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You must, sir, change persons with me, ere you make"
+      - "that my report: you, indeed, spoke so of him; and"
+      - "much more, much worse."
+    m:
+      - "You must, sir, switch identities with me, before you claim those were my words. You were the one who said that about him, and much more, much worse."
+
+  - sp: LUCIO
+    o:
+      - "O thou damnable fellow! Did not I pluck thee by the"
+      - "nose for thy speeches?"
+    m:
+      - "Damn you, fellow! Didn’t I smack you in the nose for your comments?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I protest I love the duke as I love myself."
+    m:
+      - "I swear I love the duke like I love myself."
+
+  - sp: ANGELO
+    o:
+      - "Hark, how the villain would close now, after his"
+      - "treasonable abuses!"
+    m:
+      - "Look, how the villain would appease us now, after his treasonable slanders!"
+
+  - sp: ESCALUS
+    o:
+      - "Such a fellow is not to be talked withal. Away with"
+      - "him to prison! Where is the provost? Away with him"
+      - "to prison! lay bolts enough upon him: let him"
+      - "speak no more. Away with those giglots too, and"
+      - "with the other confederate companion!"
+    m:
+      - "You can’t talk to this type of fellow. Take him away to prison! Where is the provost? Take him to prison! Put him in chains, gag him. Away with those loose women, too, and their co-conspirator."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "*(to Provost)* Stay, sir; stay awhile."
+    m:
+      - "*(to the Provost)* Wait, sir, stay a minute."
+
+  - sp: ANGELO
+    o:
+      - "What, resists he? Help him, Lucio."
+    m:
+      - "Is he resisting arrest? Help the provost, Lucio."
+
+  - sp: LUCIO
+    o:
+      - "Come, sir; come, sir; come, sir; foh, sir! Why, you"
+      - "bald-pated, lying rascal, you must be hooded, must"
+      - "you? Show your knave’s visage, with a pox to you!"
+      - "show your sheep-biting face, and be hanged an hour!"
+      - "Will’t not off?"
+    m:
+      - "Come on, sir. Come on, sir. Come on, sir. Ugh! So, you bald, lying rascal, you want to keep your hood on, do you? Show your lowlife face, damn you! Show your thieving face, and be hanged in an hour! Won’t it come off?"
+
+  - os: "Pulls off the friar’s hood, and discovers DUKE VINCENTIO"
+    ms: "He pulls off the friar’s hood, revealing DUKE VINCENTIO."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Thou art the first knave that e’er madest a duke."
+      - "First, provost, let me bail these gentle three. *(to LUCIO)* Sneak not away, sir; for the friar and you"
+      - "Must have a word anon. Lay hold on him."
+    m:
+      - "You’re the first lowlife to ever turn someone into a duke. First, provost, let me free these three gentle people. *(to LUCIO)* Don’t you sneak away, sir. The friar and you will have a chat later on. Hold him."
+
+  - sp: LUCIO
+    o:
+      - "This may prove worse than hanging."
+    m:
+      - "This may turn out worse than hanging."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "*(to ESCALUS)* What you have spoke I pardon: sit you down:"
+      - "We’ll borrow place of him. *(to ANGELO)* Sir, by your leave."
+      - "Hast thou or word, or wit, or impudence,"
+      - "That yet can do thee office? If thou hast,"
+      - "Rely upon it till my tale be heard,"
+      - "And hold no longer out."
+    m:
+      - "*(to ESCALUS)* I forgive the things you said to me. Sit down. We’ll take Angelo’s seat. *(to ANGELO)* Sir, if I may. Do you have any words, either intelligent or impudent, that can help you? If so, keep them until I tell my story. Don’t hold the truth back any longer."
+
+  - sp: ANGELO
+    o:
+      - "O my dread lord,"
+      - "I should be guiltier than my guiltiness,"
+      - "To think I can be undiscernible,"
+      - "When I perceive your grace, like power divine,"
+      - "Hath look’d upon my passes. Then, good prince,"
+      - "No longer session hold upon my shame,"
+      - "But let my trial be mine own confession:"
+      - "Immediate sentence then and sequent death"
+      - "Is all the grace I beg."
+    m:
+      - "Oh my dreaded lord, I’d be even more guilty to think I could go undiscovered, now that I realize your grace, like some divine power, has seen my sins. So, good prince, stop inquiring about my shame. Let my confession count as my trial. I beg only for the mercy of an immediate sentence and then death."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Come hither, Mariana."
+      - "Say, wast thou e’er contracted to this woman?"
+    m:
+      - "Come here, Mariana. *(to Angelo)* Were you ever engaged to this woman?"
+
+  - sp: ANGELO
+    o:
+      - "I was, my lord."
+    m:
+      - "I was, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Go take her hence, and marry her instantly."
+      - "Do you the office, friar; which consummate,"
+      - "Return him here again. Go with him, provost."
+    m:
+      - "Take her and marry her at once. You perform the ceremony, friar, and when it’s done, bring him back here. Go with him, provost."
+
+  - os: "Exeunt ANGELO, MARIANA, FRIAR PETER and Provost"
+    ms: "ANGELO, MARIANA, FRIAR PETER, and the Provost exit."
+
+  - sp: ESCALUS
+    o:
+      - "My lord, I am more amazed at his dishonour"
+      - "Than at the strangeness of it."
+    m:
+      - "My lord, I’m more amazed by Angelo’s dishonesty than by the strangeness of this situation."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Come hither, Isabel."
+      - "Your friar is now your prince: as I was then"
+      - "Advertising and holy to your business,"
+      - "Not changing heart with habit, I am still"
+      - "Attorney’d at your service."
+    m:
+      - "Come here, Isabel. Your friar is now your prince, but my heart hasn’t changed with my clothes. I guided and devoted myself to your affairs then, and I’m still acting for you now."
+
+  - sp: ISABELLA
+    o:
+      - "O, give me pardon,"
+      - "That I, your vassal, have employ’d and pain’d"
+      - "Your unknown sovereignty!"
+    m:
+      - "Oh, forgive me! To think that I, your servant, unknowingly used and created problems for your royal person!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You are pardon’d, Isabel:"
+      - "And now, dear maid, be you as free to us."
+      - "Your brother’s death, I know, sits at your heart;"
+      - "And you may marvel why I obscured myself,"
+      - "Labouring to save his life, and would not rather"
+      - "Make rash remonstrance of my hidden power"
+      - "Than let him so be lost. O most kind maid,"
+      - "It was the swift celerity of his death,"
+      - "Which I did think with slower foot came on,"
+      - "That brain’d my purpose. But, peace be with him!"
+      - "That life is better life, past fearing death,"
+      - "Than that which lives to fear: make it your comfort,"
+      - "So happy is your brother."
+    m:
+      - "You’re forgiven, Isabel. And now, dear girl, be as generous to me. I know your brother’s death hurts you deeply. And you may be wondering why I disguised myself, working behind the scenes to save his life, and didn’t just use my authority rather than let him die. Sweet girl, it was the speed of his execution, which I thought would take longer, that ruined my plan. But, peace be with him! The afterlife is a better life, since you don’t have to fear death anymore. Try to take comfort in the fact that your brother has that happiness."
+
+  - sp: ISABELLA
+    o:
+      - "I do, my lord."
+    m:
+      - "I do, my lord."
+
+  - os: "Re-enter ANGELO, MARIANA, FRIAR PETER, and Provost"
+    ms: "ANGELO, MARIANA, FRIAR PETER, and the Provost re-enter."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "For this new-married man approaching here,"
+      - "Whose salt imagination yet hath wrong’d"
+      - "Your well defended honour, you must pardon"
+      - "For Mariana’s sake: but as he adjudged your brother,—"
+      - "Being criminal, in double violation"
+      - "Of sacred chastity and of promise-breach"
+      - "Thereon dependent, for your brother’s life,—"
+      - "The very mercy of the law cries out"
+      - "Most audible, even from his proper tongue,"
+      - "“An Angelo for Claudio, death for death!”"
+      - "Haste still pays haste, and leisure answers leisure;"
+      - "Like doth quit like, and MEASURE still FOR MEASURE."
+      - "Then, Angelo, thy fault’s thus manifested;"
+      - "Which, though thou wouldst deny, denies thee vantage."
+      - "We do condemn thee to the very block"
+      - "Where Claudio stoop’d to death, and with like haste."
+      - "Away with him!"
+    m:
+      - "For Mariana’s sake, you must forgive this newly married man, whose lecherous imagination wronged your well-defended honor. But after he condemned your brother, he committed two crimes, violating your virginity and breaking his promise about the pardon that your brother’s life depended on. Even the merciful part of the law cries out, “an Angelo for Claudio, death for death!” Haste always results in hasty decisions, and deliberation comes from slowness. One thing is rewarded by a similar thing, and the measure of justice you use will be the measure used against you. So, Angelo, your crime is clear for all to see, and it denies you the right to any preferential treatment, even if you yourself feel otherwise. I sentence you to be executed on the very block where Claudio knelt to die, and just as quickly. Take him away!"
+
+  - sp: MARIANA
+    o:
+      - "O my most gracious lord,"
+      - "I hope you will not mock me with a husband."
+    m:
+      - "Oh, my most gracious lord, please don’t make a mockery of my marriage!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "It is your husband mock’d you with a husband."
+      - "Consenting to the safeguard of your honour,"
+      - "I thought your marriage fit; else imputation,"
+      - "For that he knew you, might reproach your life"
+      - "And choke your good to come; for his possessions,"
+      - "Although by confiscation they are ours,"
+      - "We do instate and widow you withal,"
+      - "To buy you a better husband."
+    m:
+      - "It’s your husband who’s made a mockery of your marriage. I thought it appropriate that you be married, to protect your honor. Otherwise, revealing that he’d slept with you would haunt your life and destroy your future prospects. As for his possessions, technically they belong to the state, but we are giving you a widow’s rights and bequeathing them to you, to buy you a better husband."
+
+  - sp: MARIANA
+    o:
+      - "O my dear lord,"
+      - "I crave no other, nor no better man."
+    m:
+      - "Oh my dear lord, I don’t want any other man or any better man."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Never crave him; we are definitive."
+    m:
+      - "You shouldn’t want him. My decision is final."
+
+  - sp: MARIANA
+    o:
+      - "Gentle my liege,—"
+    m:
+      - "My gentle lord—"
+
+  - os: "Kneeling"
+    ms: "kneeling"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You do but lose your labour."
+      - "Away with him to death!"
+    m:
+      - "You’re just wasting your time. Take him to his death!"
+
+  - os: "*(to LUCIO)*"
+    ms: "*(to LUCIO)*"
+
+  - o:
+      - "Now, sir, to you."
+    m:
+      - "Now, sir, about you."
+
+  - sp: MARIANA
+    o:
+      - "O my good lord! Sweet Isabel, take my part;"
+      - "Lend me your knees, and all my life to come"
+      - "I’ll lend you all my life to do you service."
+    m:
+      - "Oh, my good lord! Sweet Isabel, take my side. Kneel with me, and for the rest of my life I’ll be at your service."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Against all sense you do importune her:"
+      - "Should she kneel down in mercy of this fact,"
+      - "Her brother’s ghost his paved bed would break,"
+      - "And take her hence in horror."
+    m:
+      - "It makes no sense to beg her. If she were to kneel and plead for mercy, her brother’s horrified ghost would break through his stone-covered grave and drag her away with him."
+
+  - sp: MARIANA
+    o:
+      - "Isabel,"
+      - "Sweet Isabel, do yet but kneel by me;"
+      - "Hold up your hands, say nothing; I’ll speak all."
+      - "They say, best men are moulded out of faults;"
+      - "And, for the most, become much more the better"
+      - "For being a little bad: so may my husband."
+      - "O Isabel, will you not lend a knee?"
+    m:
+      - "Isabel, sweet Isabel, just kneel beside me, and hold out your hands. Don’t say anything, I’ll do all the talking. They say the best men are formed out of their faults, and most of them become much better for being a little bad. That might happen with my husband. Oh, Isabel, won’t you kneel?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "He dies for Claudio’s death."
+    m:
+      - "He dies for Claudio’s death."
+
+  - sp: ISABELLA
+    o:
+      - "*(Kneeling)* Most bounteous sir, Look, if it please you, on this man condemn’d,"
+      - "As if my brother lived: I partly think"
+      - "A due sincerity govern’d his deeds,"
+      - "Till he did look on me: since it is so,"
+      - "Let him not die. My brother had but justice,"
+      - "In that he did the thing for which he died:"
+      - "For Angelo,"
+      - "His act did not o’ertake his bad intent,"
+      - "And must be buried but as an intent"
+      - "That perish’d by the way: thoughts are no subjects;"
+      - "Intents but merely thoughts."
+    m:
+      - "*(kneeling)* Generous sir, please look on this condemned man as if my brother were still alive. To some extent, I think his behavior was sincere, until he laid eyes on me. So, don’t let him die. My brother was justly treated, in the sense that he did the thing he was executed for. But Angelo didn’t actually fulfill his bad intentions, and his behavior should be considered with that fact in mind. Intentions are merely thoughts, and thoughts aren’t subject to our control."
+
+  - sp: MARIANA
+    o:
+      - "Merely, my lord."
+    m:
+      - "Merely, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Your suit’s unprofitable; stand up, I say."
+      - "I have bethought me of another fault."
+      - "Provost, how came it Claudio was beheaded"
+      - "At an unusual hour?"
+    m:
+      - "Your pleading’s no use. Stand up, I say. Another crime has just occurred to me. Provost, why was Claudio beheaded at such an unusual hour?"
+
+  - sp: PROVOST
+    o:
+      - "It was commanded so."
+    m:
+      - "It was so ordered."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Had you a special warrant for the deed?"
+    m:
+      - "Did you have a special warrant?"
+
+  - sp: PROVOST
+    o:
+      - "No, my good lord; it was by private message."
+    m:
+      - "No, my good lord, it was a private message."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "For which I do discharge you of your office:"
+      - "Give up your keys."
+    m:
+      - "You’re fired for this. Turn in your keys."
+
+  - sp: PROVOST
+    o:
+      - "Pardon me, noble lord:"
+      - "I thought it was a fault, but knew it not;"
+      - "Yet did repent me, after more advice;"
+      - "For testimony whereof, one in the prison,"
+      - "That should by private order else have died,"
+      - "I have reserved alive."
+    m:
+      - "Forgive me, noble lord. I thought it might be wrong, but wasn’t sure. After further consideration, I did change my mind, and to prove I did, I kept alive another prisoner who was to be executed by a private order."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "What’s he?"
+    m:
+      - "Who’s he?"
+
+  - sp: PROVOST
+    o:
+      - "His name is Barnardine."
+    m:
+      - "His name is Barnardine."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I would thou hadst done so by Claudio."
+      - "Go fetch him hither; let me look upon him."
+    m:
+      - "I wish you had done the same with Claudio. Go get him. Let me see him."
+
+  - os: "Exit Provost"
+    ms: "The Provost exits."
+
+  - sp: ESCALUS
+    o:
+      - "I am sorry, one so learned and so wise"
+      - "As you, Lord Angelo, have still appear’d,"
+      - "Should slip so grossly, both in the heat of blood."
+      - "And lack of temper’d judgment afterward."
+    m:
+      - "Lord Angelo, I am sorry that someone so educated and wise, as you always appeared to be, should slip so badly, both in the heat of desire and the lack of judgment afterward."
+
+  - sp: ANGELO
+    o:
+      - "I am sorry that such sorrow I procure:"
+      - "And so deep sticks it in my penitent heart"
+      - "That I crave death more willingly than mercy;"
+      - "’Tis my deserving, and I do entreat it."
+    m:
+      - "I am sorry that I cause such sorrow, and it sticks so deeply in my penitent heart that it makes me crave death more than mercy. I deserve death, and beg for it."
+
+  - os: "Re-enter Provost, with BARNARDINE, CLAUDIO muffled, and JULIET"
+    ms: "The Provost re-enters, with BARNARDINE, CLAUDIO with his face covered, and JULIET."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Which is that Barnardine?"
+    m:
+      - "Which one is this Barnardine?"
+
+  - sp: PROVOST
+    o:
+      - "This, my lord."
+    m:
+      - "This one, my lord."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "There was a friar told me of this man."
+      - "Sirrah, thou art said to have a stubborn soul."
+      - "That apprehends no further than this world,"
+      - "And squarest thy life according. Thou’rt condemn’d:"
+      - "But, for those earthly faults, I quit them all;"
+      - "And pray thee take this mercy to provide"
+      - "For better times to come. Friar, advise him;"
+      - "I leave him to your hand. What muffled fellow’s that?"
+    m:
+      - "A certain friar told me about this man. *(to BARNARDINE)* Fellow, you’re said to have a stubborn soul, one that can’t imagine an existence beyond this one, and shapes your life accordingly. You’re doomed. But I pardon you for all your crimes here on earth, and hope you’ll take advantage of this mercy to prepare for the better world to come. Friar, counsel him. I leave him in your hands. Who’s that covered-up fellow?"
+
+  - sp: PROVOST
+    o:
+      - "This is another prisoner that I saved."
+      - "Who should have died when Claudio lost his head;"
+      - "As like almost to Claudio as himself."
+    m:
+      - "This is another prisoner I saved, who should have died when Claudio lost his head. He looks almost exactly like Claudio."
+
+  - os: "Unmuffles CLAUDIO"
+    ms: "He uncovers CLAUDIO."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "*(to ISABELLA)* If he be like your brother, for his sake"
+      - "Is he pardon’d; and, for your lovely sake,"
+      - "Give me your hand and say you will be mine."
+      - "He is my brother too: but fitter time for that."
+      - "By this Lord Angelo perceives he’s safe;"
+      - "Methinks I see a quickening in his eye."
+      - "Well, Angelo, your evil quits you well:"
+      - "Look that you love your wife; her worth worth yours."
+      - "I find an apt remission in myself;"
+      - "And yet here’s one in place I cannot pardon. *(to LUCIO)* You, sirrah, that knew me for a fool, a coward,"
+      - "One all of luxury, an ass, a madman;"
+      - "Wherein have I so deserved of you,"
+      - "That you extol me thus?"
+    m:
+      - "*(to ISABELLA)* If he resembles your brother, then for his sake, he’s pardoned. And for your own lovely sake, give me your hand and say you’ll be mine. He’s my brother, too, but there’ll be a more appropriate time for that. By the way Angelo is behaving, I think he realizes this means he’s safe. Well, Angelo, your evil has repaid you well. Make sure you love your wife since her worth is equal to yours. I’m feeling merciful, and yet here’s someone I can’t forgive. *(to LUCIO)* You, who called me a fool, a coward, a lecher, an ass, a madman. What did I ever do to you that you call me these things?"
+
+  - sp: LUCIO
+    o:
+      - "’Faith, my lord. I spoke it but according to the"
+      - "trick. If you will hang me for it, you may; but I"
+      - "had rather it would please you I might be whipt."
+    m:
+      - "I swear, my lord, I only spoke according to what people say of you. You can hang me for it, if you want, but I wouldn’t mind if you preferred to whip me."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Whipt first, sir, and hanged after."
+      - "Proclaim it, provost, round about the city."
+      - "Is any woman wrong’d by this lewd fellow,"
+      - "As I have heard him swear himself there’s one"
+      - "Whom he begot with child, let her appear,"
+      - "And he shall marry her: the nuptial finish’d,"
+      - "Let him be whipt and hang’d."
+    m:
+      - "Whipping first, sir, and hanging afterward. Proclaim it, provost, around the city, that if this lecher wronged any woman, as I heard him swear himself he got someone pregnant, let her appear, and he’ll marry her. After the wedding, let him be whipped and hanged."
+
+  - sp: LUCIO
+    o:
+      - "I beseech your highness, do not marry me to a whore."
+      - "Your highness said even now, I made you a duke:"
+      - "good my lord, do not recompense me in making me a cuckold."
+    m:
+      - "I beg your highness, don’t marry me to a whore. Your highness just said I made you a duke. My good lord, don’t pay me back by making me husband of a cheating wife."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Upon mine honour, thou shalt marry her."
+      - "Thy slanders I forgive; and therewithal"
+      - "Remit thy other forfeits. Take him to prison;"
+      - "And see our pleasure herein executed."
+    m:
+      - "By my honor, you will marry her. I forgive your slurs, and in so doing, lift your other punishments. Take him to prison, and see that my wishes are carried out."
+
+  - sp: LUCIO
+    o:
+      - "Marrying a punk, my lord, is pressing to death,"
+      - "whipping, and hanging."
+    m:
+      - "Marrying a whore, my lord, is like being pressed to death, whipped, and hanged."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Slandering a prince deserves it."
+    m:
+      - "You deserve it for slandering a prince."
+
+  - os: "Exit Officers with LUCIO"
+    ms: "Officers exit with LUCIO."
+
+  - o:
+      - "She, Claudio, that you wrong’d, look you restore."
+      - "Joy to you, Mariana! Love her, Angelo:"
+      - "I have confess’d her and I know her virtue."
+      - "Thanks, good friend Escalus, for thy much goodne"
+      - "There’s more behind that is more gratulate."
+      - "Thanks, provost, for thy care and secrecy:"
+      - "We shill employ thee in a worthier place."
+      - "Forgive him, Angelo, that brought you home"
+      - "The head of Ragozine for Claudio’s:"
+      - "The offence pardons itself. Dear Isabel,"
+      - "I have a motion much imports your good;"
+      - "Whereto if you’ll a willing ear incline,"
+      - "What’s mine is yours and what is yours is mine."
+      - "So, bring us to our palace; where we’ll show"
+      - "What’s yet behind, that’s meet you all should know."
+    m:
+      - "Claudio, the girl you wronged, make sure you marry her. Joy to you, Mariana! Love her, Angelo. I’ve heard her confession, and I know her virtue. Thanks, good friend Escalus, for being so good. A greater expression of my gratitude is yet to come. Thanks, provost, for your care and ability to keep secrets. I’m going to give you a better position. Forgive him, Angelo, for bringing you Ragozine’s head in place of Claudio’s. The crime redeems itself. Dear Isabel, I have a proposal that’s greatly to your benefit, if you’ll lend a willing ear. It’s along the lines of what’s mine is yours, and what’s yours is mine. So, accompany me to my palace, where I’ll show and tell you everything you ought to know."
+
+  - os: "Exeunt"
+    ms: "All exit."

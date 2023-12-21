@@ -1,0 +1,137 @@
+play: As You Like It
+title: Act 2, Scene 3
+group: 2
+order: 5
+text:
+  - os: "Enter ORLANDO and ADAM, meeting"
+    ms: "ORLANDO and ADAM enter from opposite sides of the stage."
+
+  - sp: ORLANDO
+    o:
+      - "Who’s there?"
+    m:
+      - "Who’s there?"
+
+  - sp: ADAM
+    o:
+      - "What, my young master, O my gentle master,"
+      - "O my sweet master, O you memory"
+      - "Of old Sir Rowland! Why, what make you here?"
+      - "Why are you virtuous? Why do people love you?"
+      - "And wherefore are you gentle, strong, and valiant?"
+      - "Why would you be so fond to overcome"
+      - "The bonny prizer of the humorous duke?"
+      - "Your praise is come too swiftly home before you."
+      - "Know you not, master, to some kind of men"
+      - "Their graces serve them but as enemies?"
+      - "No more do yours. Your virtues, gentle master,"
+      - "Are sanctified and holy traitors to you."
+      - "Oh, what a world is this when what is comely"
+      - "Envenoms him that bears it!"
+    m:
+      - "My young master! Oh, my gentle master! My sweet master! Oh, you living memory of old Sir Rowland! What are you doing here? Why are you so strong and good? Why do people love you? And why are you noble, strong, and brave? Why would you be so foolish as to beat the moody duke’s favorite champion? Your praise has beaten you home. Don’t you know, master, that some men’s best qualities do them in? Yours are like that—complete and utter traitors to you. Oh, what a world this is, when even what is beautiful in a man poisons him!"
+
+  - sp: ORLANDO
+    o:
+      - "Why, what’s the matter?"
+    m:
+      - "Why, what’s the matter?"
+
+  - sp: ADAM
+    o:
+      - "O unhappy youth,"
+      - "Come not within these doors. Within this roof"
+      - "The enemy of all your graces lives."
+      - "Your brother—no, no brother—yet the son—"
+      - "Yet not the son, I will not call him son—"
+      - "Of him I was about to call his father"
+      - "Hath heard your praises, and this night he means"
+      - "To burn the lodging where you use to lie,"
+      - "And you within it. If he fail of that,"
+      - "He will have other means to cut you off."
+      - "I overheard him and his practices."
+      - "This is no place, this house is but a butchery."
+      - "Abhor it, fear it, do not enter it."
+    m:
+      - "Oh, unlucky boy! Don’t walk through these doors. In this house lives a man who despises all that is good in you. Oliver, your brother—no, not your brother; and yet he’s the son—but no, I won’t call him the son—of that great man I was about to call his father, has heard about how well you did in the wrestling match, and tonight he’s planning on burning your house down, with you in it. And if he fails at that, he will find other ways to kill you. I overheard him and his plans. This is no place for you; this home is now a slaughterhouse. Hate it, fear it, do not come inside."
+
+  - sp: ORLANDO
+    o:
+      - "Why, whither, Adam, wouldst thou have me go?"
+    m:
+      - "Then where would you have me go, Adam?"
+
+  - sp: ADAM
+    o:
+      - "No matter whither, so you come not here."
+    m:
+      - "It doesn’t matter where, so long as it’s not here."
+
+  - sp: ORLANDO
+    o:
+      - "What, wouldst thou have me go and beg my food,"
+      - "Or with a base and boist’rous sword enforce"
+      - "A thievish living on the common road?"
+      - "This I must do, or know not what to do."
+      - "Yet this I will not do, do how I can."
+      - "I rather will subject me to the malice"
+      - "Of a diverted blood and bloody brother."
+    m:
+      - "What, would you have me beg for my food? Or become a lowlife, sticking up travelers on the road? This is all that’s left for me to do, but I won’t do it. I’d rather give myself up to the hatred of a violent brother who refuses to recognize that we are brothers."
+
+  - sp: ADAM
+    o:
+      - "But do not so. I have five hundred crowns,"
+      - "The thrifty hire I saved under your father,"
+      - "Which I did store to be my foster nurse"
+      - "When service should in my old limbs lie lame"
+      - "And unregarded age in corners thrown."
+      - "Take that, and He that doth the ravens feed,"
+      - "Yea, providently caters for the sparrow,"
+      - "Be comfort to my age. Here is the gold."
+      - "All this I give you. Let me be your servant."
+      - "Though I look old, yet I am strong and lusty,"
+      - "For in my youth I never did apply"
+      - "Hot and rebellious liquors in my blood"
+      - "Nor did not with unbashful forehead woo"
+      - "The means of weakness and debility."
+      - "Therefore my age is as a lusty winter,"
+      - "Frosty but kindly. Let me go with you."
+      - "I’ll do the service of a younger man"
+      - "In all your business and necessities."
+    m:
+      - "But don’t do that. I have five-hundred gold coins, which I carefully saved when I was working for your late father. I meant to use it for my retirement, to help me when my old body was lame and forgotten in some dark corner. But take the money, and God, who feeds even the raven and looks after even the sparrow, will comfort me in my old age. Here is the gold, I give it all to you. Let me be your servant. I know I may be old, but I’m strong and healthy, because in my youth I never drank nor lived recklessly. Therefore, my old age is like a blustery winter: cold, but kindly. Let me go with you. I’ll do everything a younger man could do for you."
+
+  - sp: ORLANDO
+    o:
+      - "O good old man, how well in thee appears"
+      - "The constant service of the antique world,"
+      - "When service sweat for duty, not for meed."
+      - "Thou art not for the fashion of these times,"
+      - "Where none will sweat but for promotion,"
+      - "And having that do choke their service up"
+      - "Even with the having. It is not so with thee."
+      - "But, poor old man, thou prun’st a rotten tree"
+      - "That cannot so much as a blossom yield"
+      - "In lieu of all thy pains and husbandry."
+      - "But come thy ways. We’ll go along together,"
+      - "And ere we have thy youthful wages spent,"
+      - "We’ll light upon some settled low content."
+    m:
+      - "Oh, good old man, you’re a great example of that old work ethic, where people worked because it was their duty, not just for the money. Your approach isn’t the fashion these days, when no one works hard except for a promotion, and, as soon as they’ve got it, they stop working. But in working for me, old man, you are pruning a rotten tree: despite all your pains and efforts, it won’t yield a single blossom. Come along, though. We’ll go together, and before we’ve spent all the savings of your youth, we’ll find a way to make a living."
+
+  - sp: ADAM
+    o:
+      - "Master, go on, and I will follow thee"
+      - "To the last gasp, with truth and loyalty."
+      - "From seventeen years till now almost fourscore"
+      - "Here livèd I, but now live here no more."
+      - "At seventeen years, many their fortunes seek,"
+      - "But at fourscore, it is too late a week."
+      - "Yet fortune cannot recompense me better"
+      - "Than to die well, and not my master’s debtor."
+    m:
+      - "Go on, master, and I will follow you—with truth and loyalty to my last breath. From the time I was seventeen, over sixty years ago, I have lived in this house, but now I will live here no more. Many men seek their fortune at seventeen; at eighty, it’s a bit late. But fortune could not reward me better than to let me die well, without owing my master anything."
+
+  - os: "Exeunt"
+    ms: "They exit."

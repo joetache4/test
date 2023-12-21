@@ -1,0 +1,227 @@
+play: The Winter’s Tale
+title: Act 2, Scene 2
+group: 2
+order: 3
+text:
+  - os: "A prison."
+    ms: "A prison."
+
+  - os: "Enter PAULINA, a Gentleman, and Attendants"
+    ms: "PAULINA, a gentleman, and attendants enter."
+
+  - sp: PAULINA
+    o:
+      - "The keeper of the prison, call to him;"
+      - "let him have knowledge who I am."
+    m:
+      - "Call the prison overseer. Tell him who I am."
+
+  - os: "Exit Gentleman"
+    ms: "The gentleman exits."
+
+  - o:
+      - "Good lady,"
+      - "No court in Europe is too good for thee;"
+      - "What dost thou then in prison?"
+    m:
+      - "No court in Europe is good enough for you, good lady, so why are you in prison?"
+
+  - os: "Re-enter Gentleman, with the Gaoler"
+    ms: "The gentleman re-enters, with the Jailer."
+
+  - o:
+      - "Now, good sir,"
+      - "You know me, do you not?"
+    m:
+      - "Good sir, you know me, don’t you?"
+
+  - sp: GAOLER
+    o:
+      - "For a worthy lady"
+      - "And one whom much I honour."
+    m:
+      - "I know you as a worthy woman and one I have great respect for."
+
+  - sp: PAULINA
+    o:
+      - "Pray you then,"
+      - "Conduct me to the queen."
+    m:
+      - "Please, then, take me to the queen."
+
+  - sp: GAOLER
+    o:
+      - "I may not, madam:"
+      - "To the contrary I have express commandment."
+    m:
+      - "I can’t, madam. I have explicit orders not to."
+
+  - sp: PAULINA
+    o:
+      - "Here’s ado,"
+      - "To lock up honesty and honour from"
+      - "The access of gentle visitors!"
+      - "Is’t lawful, pray you,"
+      - "To see her women? any of them? Emilia?"
+    m:
+      - "Such a fuss just to keep kind visitors from seeing such an honest and honorable lady! Am I allowed to see her attendants? Any of them? Emilia?"
+
+  - sp: GAOLER
+    o:
+      - "So please you, madam,"
+      - "To put apart these your attendants, I"
+      - "Shall bring Emilia forth."
+    m:
+      - "If you would please send away your attendants, I’ll bring out Emilia."
+
+  - sp: PAULINA
+    o:
+      - "I pray now, call her."
+      - "Withdraw yourselves."
+    m:
+      - "Please, call her. *(to her attendants)* Leave me here."
+
+  - os: "Exeunt Gentleman and Attendants"
+    ms: "The gentleman and the attendants exit."
+
+  - sp: GAOLER
+    o:
+      - "And, madam,"
+      - "I must be present at your conference."
+    m:
+      - "Madam, I must be present while you speak with Emilia."
+
+  - sp: PAULINA
+    o:
+      - "Well, be’t so, prithee."
+    m:
+      - "Well, if you must."
+
+  - os: "Exit Gaoler"
+    ms: "The Jailer exits."
+
+  - o:
+      - "Here’s such ado to make no stain a stain"
+      - "As passes colouring."
+    m:
+      - "What a great effort to make the queen guilty beyond justification when she is actually innocent."
+
+  - os: "Re-enter Gaoler, with EMILIA"
+    ms: "The Jailer re-enters, with EMILIA."
+
+  - o:
+      - "Dear gentlewoman,"
+      - "How fares our gracious lady?"
+    m:
+      - "Dear gentlewoman, how is our gracious lady?"
+
+  - sp: EMILIA
+    o:
+      - "As well as one so great and so forlorn"
+      - "May hold together: on her frights and griefs,"
+      - "Which never tender lady hath born greater,"
+      - "She is something before her time deliver’d."
+    m:
+      - "As well as can be expected for one so great and so sad. Because of her overwhelming grief and fright, which are greater than a kind woman has ever suffered, she has delivered her baby prematurely."
+
+  - sp: PAULINA
+    o:
+      - "A boy?"
+    m:
+      - "A boy?"
+
+  - sp: EMILIA
+    o:
+      - "A daughter, and a goodly babe,"
+      - "Lusty and like to live: the queen receives"
+      - "Much comfort in’t; says “My poor prisoner,"
+      - "I am innocent as you.”"
+    m:
+      - "A strong and healthy daughter. The queen draws comfort from the child, saying, “My poor prisoner, I am as innocent as you are.”"
+
+  - sp: PAULINA
+    o:
+      - "I dare be sworn"
+      - "These dangerous unsafe lunes i’ the king,"
+      - "beshrew them!"
+      - "He must be told on’t, and he shall: the office"
+      - "Becomes a woman best; I’ll take’t upon me:"
+      - "If I prove honey-mouth’d let my tongue blister"
+      - "And never to my red-look’d anger be"
+      - "The trumpet any more. Pray you, Emilia,"
+      - "Commend my best obedience to the queen:"
+      - "If she dares trust me with her little babe,"
+      - "I’ll show’t the king and undertake to be"
+      - "Her advocate to the loud’st. We do not know"
+      - "How he may soften at the sight o’ the child:"
+      - "The silence often of pure innocence"
+      - "Persuades when speaking fails."
+    m:
+      - "I swear that the king must give up these dangerous fits of madness—curse them! He must be told, and I’ll do it—it’s a task best suited to a woman. If I am deceitful, let my tongue blister and never be capable of expressing my anger ever again. Please, Emilia, tell the queen that I am her devoted supporter, and if she’ll trust me with the baby I’ll show her to the king and be her loudest advocate. Maybe he will soften up at the sight of the child. Pure silent innocence can sometimes convince when speech fails to do so."
+
+  - sp: EMILIA
+    o:
+      - "Most worthy madam,"
+      - "Your honour and your goodness is so evident"
+      - "That your free undertaking cannot miss"
+      - "A thriving issue: there is no lady living"
+      - "So meet for this great errand. Please your ladyship"
+      - "To visit the next room, I’ll presently"
+      - "Acquaint the queen of your most noble offer;"
+      - "Who but to-day hammer’d of this design,"
+      - "But durst not tempt a minister of honour,"
+      - "Lest she should be denied."
+    m:
+      - "Worthy madam, you are so obviously honorable and good that your generous mission cannot fail to have a positive outcome. There is no lady living more suitable for this great errand. If you’ll make your way to the next room, I’ll tell the queen of your noble offer. Just today she had come up with a similar plan, but was afraid to approach any noble person, fearing she’d be rejected."
+
+  - sp: PAULINA
+    o:
+      - "Tell her, Emilia."
+      - "I’ll use that tongue I have: if wit flow from’t"
+      - "As boldness from my bosom, let ’t not be doubted"
+      - "I shall do good."
+    m:
+      - "Emilia, tell her that I’ll speak as well as I can. If I have as much intelligence as I have courage, don’t doubt that I’ll do some good."
+
+  - sp: EMILIA
+    o:
+      - "Now be you blest for it!"
+      - "I’ll to the queen: please you,"
+      - "come something nearer."
+    m:
+      - "Bless you for it! I’ll go to the queen. Please, come closer."
+
+  - sp: GAOLER
+    o:
+      - "Madam, if’t please the queen to send the babe,"
+      - "I know not what I shall incur to pass it,"
+      - "Having no warrant."
+    m:
+      - "Madam, if the queen wants to send the baby, I don’t know how I’ll be punished for allowing it, since I don’t have any official approval."
+
+  - sp: PAULINA
+    o:
+      - "You need not fear it, sir:"
+      - "This child was prisoner to the womb and is"
+      - "By law and process of great nature thence"
+      - "Freed and enfranchised, not a party to"
+      - "The anger of the king nor guilty of,"
+      - "If any be, the trespass of the queen."
+    m:
+      - "Don’t worry, sir. The child was a prisoner of the womb, and now by natural law she is free from it. She’s not part of the king’s anger, or guilty of any trespass of the queen, if any even exists."
+
+  - sp: GAOLER
+    o:
+      - "I do believe it."
+    m:
+      - "I believe it."
+
+  - sp: PAULINA
+    o:
+      - "Do not you fear: upon mine honour,"
+      - "I will stand betwixt you and danger."
+    m:
+      - "Don’t worry. On my honor, I will you defend you myself."
+
+  - os: "Exeunt"
+    ms: "They exit."

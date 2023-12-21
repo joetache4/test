@@ -1,0 +1,324 @@
+play: King Lear
+title: Act 3, Scene 6
+group: 3
+order: 14
+text:
+  - os: "Enter GLOUCESTER, LEAR, KENT disguised, FOOL, and EDGAR disguised"
+    ms: "GLOUCESTER enters with LEAR, the FOOL, and KENT and EDGAR, both in disguise."
+
+  - sp: GLOUCESTER
+    o:
+      - "Here is better than the open air. Take it thankfully. I will piece out the comfort with what addition I can. I will not be long from you."
+    m:
+      - "It’s better here than outside. Be happy about it. I’ll do what I can to make you even more comfortable. I won’t be gone long."
+
+  - sp: KENT
+    o:
+      - "All the power of his wits have given way to his impatience."
+      - "The gods reward your kindness!"
+    m:
+      - "He can’t bear his grief and so he’s losing his mind. May God reward you for your kindness!"
+
+  - os: "Exit GLOUCESTER"
+    ms: "GLOUCESTER exits."
+
+  - sp: EDGAR
+    o:
+      - "Frateretto calls me and tells me Nero is an angler in the lake of darkness. Pray, innocent, and beware the foul fiend."
+    m:
+      - "The devil Frateretto is telling me that the diabolical Roman emperor Nero likes to go fishing in hell. Pray to the gods, you fool, and beware the foul devil."
+
+  - sp: FOOL
+    o:
+      - "Prithee, nuncle, tell me whether a madman be a gentleman or a yeoman?"
+    m:
+      - "Here’s a riddle, uncle. Is the lunatic a gentleman or an ordinary guy?"
+
+  - sp: LEAR
+    o:
+      - "A king, a king!"
+    m:
+      - "He’s a king, a king!"
+
+  - sp: FOOL
+    o:
+      - "No, he’s a yeoman that has a gentleman to his son, for he’s a mad yeoman that sees his son a gentleman before him."
+    m:
+      - "No, he’s an ordinary guy who ’s got a gentleman for a son, since someone would have to be crazy to let his son become a gentleman before he’s achieved that distinction himself."
+
+  - sp: LEAR
+    o:
+      - "To have a thousand with red burning spits"
+      - "Come hissing in upon ’em!"
+    m:
+      - "I see Regan and Goneril in hell—A thousand hissing devils with sizzling red pitchforks come up to them!"
+
+  - sp: EDGAR
+    o:
+      - "The foul fiend bites my back."
+    m:
+      - "The nasty devil’s biting my butt."
+
+  - sp: FOOL
+    o:
+      - "He’s mad that trusts in the tameness of a wolf, a horse’s health, a boy’s love, or a whore’s oath."
+    m:
+      - "You’ve got to be crazy to trust a wolf that pretends to be tame, a horse that seems healthy, a teenager in love, or a whore who swears she’ll be faithful."
+
+  - sp: LEAR
+    o:
+      - "It shall be done. I will arraign them straight."
+      - "*(to EDGAR)* Come, sit thou here, most learnèd justicer."
+      - "*(to FOOL)*"
+      - "Thou, sapient sir, sit here.—Now, you she-foxes—"
+    m:
+      - "I’ll do it. I’ll put them on trial right now. *(to EDGAR)* Come sit here, our able judge. *(to FOOL)* And you sit here, wise sir.—Now, you she-foxes—"
+
+  - sp: EDGAR
+    o:
+      - "Look, where he stands and glares!—Want’st thou eyes at trial, madam?"
+      - "*(sings)*"
+      - "*Come o’er the bourn, Bessy, to me—*"
+    m:
+      - "There he is, standing and glaring at me!—Hey, lady, can’t you see how the judge is?"
+      - "*(sings)*"
+      - "*Come over the stream to me, dear Bessy—*"
+
+  - sp: FOOL
+    o:
+      - "*(sings)*"
+      - "*Her boat hath a leak,*"
+      - "*And she must not speak*"
+      - "*Why she dares not come over to thee.*"
+    m:
+      - "*(sings)*"
+      - "*She’s getting her period,*"
+      - "*And she won’t tell you*"
+      - "*Why she won’t come see you.*"
+
+  - sp: EDGAR
+    o:
+      - "The foul fiend haunts Poor Tom in the voice of a nightingale. Hoppedance cries in Tom’s belly for two white herring. Croak not, black angel. I have no food for thee."
+    m:
+      - "The devil sings like a nightingale to haunt Poor Tom. The demon Hoppedance is in Tom’s belly, crying for some fish to eat. Stop whining, devil. I’ve got no food to give you."
+
+  - sp: KENT
+    o:
+      - "*(to LEAR)* How do you, sir? Stand you not so amazed."
+      - "Will you lie down and rest upon the cushions?"
+    m:
+      - "*(to LEAR)* How are you, sir? Please don’t stand there in a daze. Wouldn’t you like to lie down on the pillows?"
+
+  - sp: LEAR
+    o:
+      - "I’ll see their trial first. Bring in the evidence."
+      - "*(to EDGAR)* Thou robèd man of justice, take thy place."
+      - "*(to FOOL)* And thou, his yoke-fellow of equity,"
+      - "Bench by his side."
+      - "*(to KENT)*"
+      - "  You are o’ th’ commission."
+      - "Sit you too."
+    m:
+      - "No, I want to see their trial first. Let’s have the evidence. *(to EDGAR)* Take your place, honorable judge. *(to FOOL)* And you, his fellow justice of the peace, sit next to him. *(to KENT)* You can also be a judge. Sit down as well."
+
+  - sp: EDGAR
+    o:
+      - "Let us deal justly."
+      - "*(sings)*"
+      - "*Sleepest or wakest thou, jolly shepherd?*"
+      - "*Thy sheep be in the corn.*"
+      - "*And for one blast of thy minikin mouth,*"
+      - "*Thy sheep shall take no harm.*"
+      - "*Purr! The cat is gray.*"
+    m:
+      - "Let’s give a fair verdict."
+      - "*(sings)*"
+      - "*Are you asleep or awake, happy shepherd?*"
+      - "*Your sheep are running around the cornfield.*"
+      - "*But if you blow your cute little horn,*"
+      - "*Your sheep will be fine.*"
+      - "*Purr! The devil-cat is gray.*"
+
+  - sp: LEAR
+    o:
+      - "Arraign her first. ’Tis Goneril. I here take my oath before this honorable assembly, she kicked the poor king her father."
+    m:
+      - "Let’s put Goneril on trial first. There she is. I hereby swear before this honored assembly that she kicked her father when he was down."
+
+  - sp: FOOL
+    o:
+      - "Come hither, mistress. Is your name Goneril?"
+    m:
+      - "Come here, ma’am. Is your name Goneril?"
+
+  - sp: LEAR
+    o:
+      - "She cannot deny it."
+    m:
+      - "She can’t deny it."
+
+  - sp: FOOL
+    o:
+      - "Cry you mercy, I took you for a joint-stool."
+    m:
+      - "I’m so sorry, ma’am, I thought you were a good person, a well-made chair instead of a crude stool."
+
+  - sp: LEAR
+    o:
+      - "And here’s another, whose warped looks proclaim"
+      - "What store her heart is made on. Stop her there!"
+      - "Arms, arms, sword, fire, corruption in the place!"
+      - "False justicer, why hast thou let her ’scape?"
+    m:
+      - "And here’s Regan, whose grotesque face betrays her twisted heart. Stop her! Guards, guards, use your weapons. Fire! The courtroom is in chaos. You corrupt judge, why did you let her escape?"
+
+  - sp: EDGAR
+    o:
+      - "Bless thy five wits."
+    m:
+      - "Bless your heart."
+
+  - sp: KENT
+    o:
+      - "*(to LEAR)* O pity! Sir, where is the patience now,"
+      - "That thou so oft have boasted to retain?"
+    m:
+      - "*(to LEAR)* How sorrowful! Sir, where’s the self-control you used to be so proud of?"
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* My tears begin to take his part so much,"
+      - "They’ll mar my counterfeiting."
+    m:
+      - "*(to himself)* I feel so sorry for him that my tears are starting to ruin my disguise."
+
+  - sp: LEAR
+    o:
+      - "    The little dogs and all,"
+      - "Tray, Blanch, and Sweetheart—see, they bark at me."
+    m:
+      - "Look at the three little dogs, Tray, Blanch, and Sweetheart—all barking at me."
+
+  - sp: EDGAR
+    o:
+      - "Tom will throw his head at them.—Avaunt, you curs!"
+      - "Tooth that poisons if it bite,"
+      - "Mastiff, greyhound, mongrel grim,"
+    m:
+      - "Tom will chase them off.—Go away, you mongrels!"
+      - "Whether you bite to kill,"
+      - "Mastiff, greyhound, or ugly mutt,"
+
+  - o:
+      - "Hound or spaniel, brach or him,"
+      - "Bobtail tyke or trundle-tail—"
+      - "Tom will make them weep and wail."
+      - "For with throwing thus my head,"
+      - "Dogs leap the hatch, and all are fled."
+      - "Be thy mouth or black or white,"
+      - "Do-de, de-de. Cessez! Come, march to wakes and fairs and market towns. Poor Tom, thy horn is dry."
+    m:
+      - "Hound or spaniel, bitch or dog,"
+      - "Whether your tail is short or curly—"
+      - "Tom will make you cry and wail."
+      - "With one little toss of his head,"
+      - "He can scare you off for good."
+      - "Whether your mouth is black or white,"
+      - "Do-dee, dee-dee da. Stop! Run off, go visit fairs and festivals! Poor Tom, your cup is empty."
+
+  - sp: LEAR
+    o:
+      - "Then let them anatomize Regan. See what breeds about her heart. Is there any cause in nature that makes these hard hearts? *(to EDGAR)* You, sir, I entertain you for one of my hundred. Only I do not like the fashion of your garments. You will say they are Persian attire, but let them be changed."
+    m:
+      - "Now let them dissect Regan and her hard heart. Is there any natural cause for hardening of the heart? *(to EDGAR)* Sir, you can serve me as one of my hundred knights. But I don’t like your style of clothes. I’m sure you’ll tell me they’re fabulous, but I think you should change them anyway."
+
+  - sp: KENT
+    o:
+      - "Now, good my lord, lie here and rest awhile."
+    m:
+      - "Please lie down and rest a while, my lord."
+
+  - sp: LEAR
+    o:
+      - "Make no noise, make no noise. Draw the curtains—so, so, so. We’ll go to supper i’ th’ morning. So, so, so. *(sleeps)*"
+    m:
+      - "Be quiet, be quiet. Draw the curtains, just like that. We’ll have supper in the morning. That’s right. *(he falls asleep)*"
+
+  - sp: FOOL
+    o:
+      - "And I’ll go to bed at noon."
+    m:
+      - "And I’ll go to bed at noon."
+
+  - os: "Enter GLOUCESTER"
+    ms: "GLOUCESTER enters."
+
+  - sp: GLOUCESTER
+    o:
+      - "*(to KENT)* Come hither, friend. Where is the king my master?"
+    m:
+      - "*(to KENT)* Come here, my friend. Where’s my master the king?"
+
+  - sp: KENT
+    o:
+      - "Here, sir, but trouble him not. His wits are gone."
+    m:
+      - "He’s here, sir, but please don’t bother him. He’s out of his right mind."
+
+  - sp: GLOUCESTER
+    o:
+      - "Good friend, I prithee, take him in thy arms."
+      - "I have o’erheard a plot of death upon him."
+      - "There is a litter ready. Lay him in ’t"
+      - "And drive towards Dover, friend, where thou shalt meet"
+      - "Both welcome and protection. Take up thy master."
+      - "If thou shouldst dally half an hour, his life,"
+      - "With thine and all that offer to defend him,"
+      - "Stand in assurèd loss. Take up, take up,"
+      - "And follow me, that will to some provision"
+      - "Give thee quick conduct."
+    m:
+      - "Please get him, my friend, I beg you. I’ve overheard people plotting to kill him. I have a carriage ready. Put him inside and take him to Dover, where you’ll find people who’ll welcome and protect him. Carry your master out. If you waste even half an hour, he’ll be killed, along with you and everyone else helping him. Bring him here, carry him and follow me. I’ll quickly take you to where you can find supplies."
+
+  - sp: KENT
+    o:
+      - "  Oppressèd nature sleeps.—"
+      - "This rest might yet have balmed thy broken sinews,"
+      - "Which, if convenience will not allow,"
+      - "Stand in hard cure."
+      - "*(to FOOL)*"
+      - "    Come, help to bear thy master."
+      - "Thou must not stay behind."
+    m:
+      - "Lear’s suffering has finally put him to sleep. *(to the sleeping LEAR)* This rest might have calmed your shattered nerves. It will be difficult for you to get better now that rest is impossible. *(to FOOL)* Come on, help me carry your master. You can’t stay here."
+
+  - sp: GLOUCESTER
+    o:
+      - "    Come, come, away."
+    m:
+      - "Come on, come on."
+
+  - os: "Exeunt all but EDGAR"
+    ms: "Everyone exits except EDGAR."
+
+  - sp: EDGAR
+    o:
+      - "When we our betters see bearing our woes,"
+      - "We scarcely think our miseries our foes."
+      - "Who alone suffers, suffers most i’ th’ mind,"
+      - "Leaving free things and happy shows behind."
+      - "But then the mind much sufferance doth o’erskip"
+      - "When grief hath mates and bearing fellowship."
+      - "How light and portable my pain seems now"
+      - "When that which makes me bend makes the king bow."
+      - "He childed as I fathered. Tom, away!"
+      - "Mark the high noises and thyself bewray"
+      - "When false opinion, whose wrong thought defiles thee,"
+      - "In thy just proof repeals and reconciles thee."
+      - "What will hap more tonight, safe ’scape the king!"
+      - "Lurk, lurk."
+    m:
+      - "When we see that our betters have the same problems we do, we can almost forget our own misery. The person who suffers alone suffers the most. Companions in sorrow alleviate our grief. My troubles seem so easy to bear now that I see the king collapsing under a similar sorrow. His children have done the same to him as my father has to me. Let’s go, Tom. We’ll pay attention to the political situation, and you’ll be able to reveal your true identity when you’re proven innocent. Whatever else happens tonight, I hope the king escapes safely! Lurk out of sight."
+
+  - os: "Exit"
+    ms: "He exits."

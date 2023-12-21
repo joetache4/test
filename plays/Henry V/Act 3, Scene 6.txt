@@ -1,0 +1,315 @@
+play: Henry V
+title: Act 3, Scene 6
+group: 3
+order: 14
+text:
+  - os: "Enter GOWER and FLUELLEN, meeting"
+    ms: "GOWER and FLUELLEN enter from opposite sides of the stage."
+
+  - sp: GOWER
+    o:
+      - "How now, Captain Fluellen? Come you from the bridge?"
+    m:
+      - "Greetings, Captain Fluellen! Have you just come from the bridge?"
+
+  - sp: FLUELLEN
+    o:
+      - "I assure you, there is very excellent services committed at the bridge."
+    m:
+      - "I assure you, there are some excellent military operations being carried out at the bridge."
+
+  - sp: GOWER
+    o:
+      - "Is the duke of Exeter safe?"
+    m:
+      - "Is the duke of Exeter safe?"
+
+  - sp: FLUELLEN
+    o:
+      - "The duke of Exeter is as magnanimous as Agamemnon, and a man that I love and honor with my soul and my heart and my duty and my life and my living and my uttermost power. He is not, God be praised and blessed, any hurt in the world, but keeps the bridge most valiantly, with excellent discipline. There is an aunchient lieutenant there at the pridge. I think in my very conscience he is as valiant a man as Mark Antony, and he is a man of no estimation in the world, but I did see him do as gallant service."
+    m:
+      - "The duke of Exeter is as courageous as Agamemnonand a man whom I love and honor deeply, with my soul, and my heart, and my duty, and my life, and my livelihood, to the very utmost of my being. He is not—God be praised and blessed—hurt in any way but is holding the bridge most valiantly, with excellent discipline. There is a standard-bearer there at the bridge. I truly think he is as valiant a man as Mark Antony. He is a man of no rank or consequence, but I saw him fight as gallantly as though he were."
+
+  - sp: GOWER
+    o:
+      - "What do you call him?"
+    m:
+      - "What is his name?"
+
+  - sp: FLUELLEN
+    o:
+      - "He is called Aunchient Pistol."
+    m:
+      - "He is called Ensign Pistol."
+
+  - sp: GOWER
+    o:
+      - "I know him not."
+    m:
+      - "I don’t know him."
+
+  - os: "Enter PISTOL"
+    ms: "PISTOL enters."
+
+  - sp: FLUELLEN
+    o:
+      - "Here is the man."
+    m:
+      - "Here he is."
+
+  - sp: PISTOL
+    o:
+      - "Captain, I thee beseech to do me favors."
+      - "The duke of Exeter doth love thee well."
+    m:
+      - "Captain, I have a favor to beg of you. You’re on very good terms with the duke of Exeter."
+
+  - sp: FLUELLEN
+    o:
+      - "Ay, I praise God, and I have merited some love at his hands."
+    m:
+      - "Yes, God be praised, I have managed to earn his favor."
+
+  - sp: PISTOL
+    o:
+      - "Bardolph, a soldier firm and sound of heart"
+      - "And of buxom valor, hath, by cruel Fate"
+      - "And giddy Fortune’s furious fickle wheel,"
+      - "That goddess blind"
+      - "That stands upon the rolling restless stone—"
+    m:
+      - "Bardolph, a soldier who is loyal and stout-hearted and full of valour, has, by a cruel trick of fate and a turn of silly Fortune’s wildly spinning wheel, that blind goddess who stands upon an ever-rolling stone—"
+
+  - sp: FLUELLEN
+    o:
+      - "By your patience, Aunchient Pistol, Fortune is painted blind, with a muffler afore her eyes, to signify to you that Fortune is blind; and she is painted also with a wheel to signify to you, which is the moral of it, that she is turning and inconstant, and mutability and variation; and her foot, look you, is fixed upon a spherical stone, which rolls and rolls and rolls. In good truth, the poet makes a most excellent description of it. Fortune is an excellent moral."
+    m:
+      - "Now, now, Ensign Pistol. Fortune is depicted as blind, with a scarf over her eyes, to signify that she is blind. And she is depicted with a wheel to signify—this is the point—that she is turning and inconstant, and all about change and variation. And her foot, see, is planted on a spherical stone that rolls and rolls and rolls. Truly, artists do wonderful things with the image of Fortune. She provides an excellent moral."
+
+  - sp: PISTOL
+    o:
+      - "Fortune is Bardolph’s foe and frowns on him,"
+      - "For he hath stolen a pax and hangèd must he be."
+      - "A damnèd death!"
+      - "Let gallows gape for dog, let man go free,"
+      - "And let not hemp his windpipe suffocate."
+      - "But Exeter hath given the doom of death"
+      - "For pax of little price."
+      - "Therefore go speak—the duke will hear thy voice—"
+      - "And let not Bardolph’s vital thread be cut"
+      - "With edge of penny cord and vile reproach."
+      - "Speak, Captain, for his life, and I will thee requite."
+    m:
+      - "Fortune is Bardolph’s enemy. She frowns on him, for he has stolen a pax from a church and he must be hanged. A damnable death! It’s fine for dogs to be hung, but men should go free and not have their windpipes strangled with hemp. But Exeter has pronounced a death sentence—and for a cheap little pax. Therefore, go and speak for him! The duke will listen to you. Don’t let Bardolph’s life be brought to an end by a length of cheap rope and with this shame. Save his life, Captain, and I will repay you."
+
+  - sp: FLUELLEN
+    o:
+      - "Aunchient Pistol, I do partly understand your meaning."
+    m:
+      - "Ensign Pistol, I think I understand you."
+
+  - sp: PISTOL
+    o:
+      - "Why then, rejoice therefore."
+    m:
+      - "I’m glad to hear it."
+
+  - sp: FLUELLEN
+    o:
+      - "Certainly, aunchient, it is not a thing to rejoice at, for if, look you, he were my brother, I would desire the duke to use his good pleasure and put him to execution, for discipline ought to be used."
+    m:
+      - "Actually, you shouldn’t be, because, see, even if he were my own brother I’d want the duke to stick to his plan and have Bardolph executed. Discipline must be kept."
+
+  - sp: PISTOL
+    o:
+      - "Die and be damned, and *figo* for thy friendship!"
+    m:
+      - "Then die and be damned! And I’m giving the finger to your friendship!"
+
+  - sp: FLUELLEN
+    o:
+      - "It is well."
+    m:
+      - "Very well."
+
+  - sp: PISTOL
+    o:
+      - "The fig of Spain!"
+    m:
+      - "And the Spanish finger to you!"
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: FLUELLEN
+    o:
+      - "Very good."
+    m:
+      - "Very good."
+
+  - sp: GOWER
+    o:
+      - "Why, this is an arrant counterfeit rascal. I remember him now, a bawd, a cutpurse."
+    m:
+      - "Why, that man is a total fraud and rascal. I remember him now. A pimp, a pickpocket."
+
+  - sp: FLUELLEN
+    o:
+      - "I’ll assure you, he uttered as prave words at the pridge as you shall see in a summer’s day. But it is very well; what he has spoke to me, that is well, I warrant you, when time is serve."
+    m:
+      - "At the bridge he spoke as excellently as anyone I’ve ever heard, I promise you. But that’s alright. What he just said to me—it’s alright. I assure you, when the time comes—"
+
+  - sp: GOWER
+    o:
+      - "Why, ’tis a gull, a fool, a rogue, that now and then goes to the wars to grace himself at his return into London under the form of a soldier. And such fellows are perfect in the great commanders’ names, and they will learn you by rote where services were done—at such and such a sconce, at such a breach, at such a convoy; who came off bravely, who was shot, who disgraced, what terms the enemy stood on. And this they con perfectly in the phrase of war, which they trick up with new-tuned oaths; and what a beard of the general’s cut and a horrid suit of the camp will do among foaming bottles and ale-washed wits is wonderful to be thought on. But you must learn to know such slanders of the age, or else you may be marvelously mistook."
+    m:
+      - "Why, he’s a fool, an idiot, a moron, a man who now and then joins the army so as to be able to give himself airs when he gets back to London and masquerades as a soldier. Such fellows have memorized the names of famous commanders, and they can tell you—having learned such things by rote, not by experience—where this or that battle was fought, at such and such fort, at such and such wall, with such and such protective escort. And they can say who fought well, who was shot, who was disgraced, what terms the enemy insisted on. And they study how to express these things in proper military jargon, which they embellish with fashionable oaths. And what a beard trimmed like the general’s or a rough uniform will do among foaming mugs and brains washed with ale, you wouldn’t believe. But you must learn to recognize such liars, or you will be greatly taken advantage of."
+
+  - sp: FLUELLEN
+    o:
+      - "I tell you what, Captain Gower. I do perceive he is not the man that he would gladly make show to the world he is. If I find a hole in his coat, I will tell him my mind."
+    m:
+      - "I tell you what, Captain Gower; I perceive that he is not the man that he would have the world think he is. If I find an opportunity, I will give him a piece of my mind."
+
+  - os: "Drum and colors Enter KING HENRY, GLOUCESTER, and soldiers"
+    ms: "KING HENRY, GLOUCESTER, and soldiers enter, with a drum roll and military flags."
+
+  - o:
+      - "Hark you, the king is coming, and I must speak with him from the pridge.—God pless your Majesty."
+    m:
+      - "Listen. The king is coming, and I must speak with him about what went on at the bridge.—God bless your Majesty!"
+
+  - sp: KING HENRY
+    o:
+      - "How now, Fluellen, cam’st thou from the bridge?"
+    m:
+      - "Tell me, Fluellen: did you just come from the bridge?"
+
+  - sp: FLUELLEN
+    o:
+      - "Ay, so please your Majesty. The duke of Exeter has very gallantly maintained the pridge. The French is gone off, look you, and there is gallant and most prave passages. Marry, th’ athversary was have possession of the pridge, but he is enforced to retire, and the duke of Exeter is master of the pridge. I can tell your Majesty, the duke is a prave man."
+    m:
+      - "Yes, your Majesty. The duke of Exeter has held the bridge very gallantly. The French have retreated, see, and there were great acts of courage. Indeed, the enemy nearly took the bridge, but he was forced to retreat, and the duke of Exeter holds the bridge. I can tell your Majesty, the duke is a brave man."
+
+  - sp: KING HENRY
+    o:
+      - "What men have you lost, Fluellen?"
+    m:
+      - "What men have you lost, Fluellen?"
+
+  - sp: FLUELLEN
+    o:
+      - "The perdition of th’ athversary hath been very great, reasonable great. Marry, for my part, I think the duke hath lost never a man, but one that is like to be executed for robbing a church, one Bardolph, if your Majesty know the man. His face is all bubukles and whelks and knobs and flames o’ fire; and his lips blows at his nose, and it is like a coal of fire, sometimes plue and sometimes red, but his nose is executed, and his fire’s out."
+    m:
+      - "The enemy’s losses have been very great, pretty substantial. To tell the truth, though, I think the duke hasn’t lost a single man, except for one who will probably be executed for robbing a church, one Bardolph—I don’t know if your Majesty knows the man. His face is all pustules and pockmarks, and pimples and inflammation, and his lips blow up toward his nose, which is like a red-hot coal, sometimes blue, sometimes red. But his nose is dead, and the fire’s put out."
+
+  - sp: KING HENRY
+    o:
+      - "We would have all such offenders so cut off, and we give express charge that in our marches through the country there be nothing compelled from the villages, nothing taken but paid for, none of the French upbraided or abused in disdainful language; for when lenity and cruelty play for a kingdom, the gentler gamester is the soonest winner."
+    m:
+      - "I want all such offenders to be dealt with that way, and I give precise orders that in our progress through the country there shall be nothing seized from the villages, nothing taken that is not paid for, none of the French harassed or abused in disrespectful language. For when mercy and cruelty compete for a kingdom, the gentler player is bound to win."
+
+  - os: "Tucket Enter MONTJOY"
+    ms: "A trumpet plays. MONTJOY enters."
+
+  - sp: MONTJOY
+    o:
+      - "You know me by my habit."
+    m:
+      - "You know from my clothing who I am."
+
+  - sp: KING HENRY
+    o:
+      - "Well then, I know thee. What shall I know of thee?"
+    m:
+      - "Well then, I know who you are. What do you have to tell me?"
+
+  - sp: MONTJOY
+    o:
+      - "My master’s mind."
+    m:
+      - "My master’s decision."
+
+  - sp: KING HENRY
+    o:
+      - "Unfold it."
+    m:
+      - "Go ahead."
+
+  - sp: MONTJOY
+    o:
+      - "Thus says my king: “Say thou to Harry of England, though we seemed dead, we did but sleep. Advantage is a better soldier than rashness. Tell him we could have rebuked him at Harfleur, but that we thought not good to bruise an injury till it were full ripe. Now we speak upon our cue, and our voice is imperial. England shall repent his folly, see his weakness, and admire our sufferance. Bid him therefore consider of his ransom, which must proportion the losses we have borne, the subjects we have lost, the disgrace we have digested, which, in weight to reanswer, his pettiness would bow under. For our losses, his exchequer is too poor; for th’ effusion of our blood, the muster of his kingdom too faint a number; and for our disgrace, his own person, kneeling at our feet but a weak and worthless satisfaction. To this, add defiance, and tell him, for conclusion, he hath betrayed his followers, whose condemnation is pronounced.” So far my king and master; so much my office."
+    m:
+      - "My king says this: “Tell Harry of England: though we appeared dead, we were only asleep. Strategy makes a better soldier than haste. Tell him we could have driven him back at Harfleur but thought it unwise to burst a pustule before it had fully ripened. Now the time is right for us to speak, and we do so with imperial authority. The king of England will regret his foolishness, discover his weakness, and marvel at our restraint. Tell him therefore to consider what ransom he can offer as a prisoner of war. It must be commensurate with the losses we have suffered, the subjects we have lost, and the indignity we have endured, for which he is too insignificant to sufficiently pay us back. His coffers are too poor to atone for our losses, his entire kingdom too small to account for the amount of blood we’ve shed, and the sight of him kneeling at our feet an empty satisfaction compared to the indignity we have put up with. Add defiance to all this and, by way of conclusion, tell him that he has betrayed the men who follow him, whose death sentence has been pronounced.” My king and master’s message delivered, my task is done."
+
+  - sp: KING HENRY
+    o:
+      - "What is thy name? I know thy quality."
+    m:
+      - "What is your name? I know your position."
+
+  - sp: MONTJOY
+    o:
+      - "Montjoy."
+    m:
+      - "Montjoy."
+
+  - sp: KING HENRY
+    o:
+      - "Thou dost thy office fairly. Turn thee back,"
+      - "And tell thy king I do not seek him now"
+      - "But could be willing to march on to Calais"
+      - "Without impeachment, for, to say the sooth,"
+      - "Though ’tis no wisdom to confess so much"
+      - "Unto an enemy of craft and vantage,"
+      - "My people are with sickness much enfeebled,"
+      - "My numbers lessened, and those few I have"
+      - "Almost no better than so many French,"
+      - "Who when they were in health, I tell thee, herald,"
+      - "I thought upon one pair of English legs"
+      - "Did march three Frenchmen. Yet, forgive me, God,"
+      - "That I do brag thus. This your air of France"
+      - "Hath blown that vice in me. I must repent."
+      - "Go therefore, tell thy master: here I am."
+      - "My ransom is this frail and worthless trunk,"
+      - "My army but a weak and sickly guard,"
+      - "Yet, God before, tell him we will come on"
+      - "Though France himself and such another neighbor"
+      - "Stand in our way. There’s for thy labor, Montjoy."
+      - "Go bid thy master well advise himself:"
+      - "If we may pass, we will; if we be hindered,"
+      - "We shall your tawny ground with your red blood"
+      - "Discolor. And so, Montjoy, fare you well."
+      - "The sum of all our answer is but this:"
+      - "We would not seek a battle as we are,"
+      - "Nor, as we are, we say we will not shun it."
+      - "So tell your master."
+    m:
+      - "You do your job well. Go back and tell your king I do not seek an encounter with him now but would be willing to march on to Calais without interference, for—to be honest, though it’s probably unwise to confess this to a powerful enemy who has the advantage—my men are considerably weakened by illness, my numbers reduced, and those few men I have almost no better than so many Frenchmen, though when they were in good form, I tell you, herald, I thought three Frenchmen walked on every pair of English legs. But God forgive me for bragging. It’s a vice I’ve picked up since I’ve been here, and I must get rid of it. Anyway, go tell your master I am here. My ransom is my own fragile, worthless body, my army but a weak and sickly escort. But, before God, tell him we will advance, even if the king of France himself and another foe as strong should stand in our way. *(giving him money)* That’s for your trouble, Montjoy. Go tell your master to consider carefully. If we’re allowed to pass, we will. If we’re prevented, we’ll discolor your golden ground with your red blood. And so, Montjoy, farewell. This is our whole answer: We do not seek a battle nor will we avoid one. Tell your master this."
+
+  - sp: MONTJOY
+    o:
+      - "I shall deliver so. Thanks to your Highness."
+    m:
+      - "I’ll deliver the message. I thank your Highness."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: GLOUCESTER
+    o:
+      - "I hope they will not come upon us now."
+    m:
+      - "I hope they don’t attack us now."
+
+  - sp: KING HENRY
+    o:
+      - "We are in God’s hand, brother, not in theirs."
+      - "March to the bridge. It now draws toward night."
+      - "Beyond the river we’ll encamp ourselves,"
+      - "And on tomorrow bid them march away."
+    m:
+      - "We’re in God’s hands, brother, not in theirs. March to the bridge. Night is approaching. We’ll set up camp across the river and continue on tomorrow. Give the order to march."
+
+  - os: "Exeunt"
+    ms: "They all exit."

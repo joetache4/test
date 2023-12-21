@@ -1,0 +1,231 @@
+play: Two Gentlemen of Verona
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter ANTONIO and PANTHINO."
+    ms: "ANTONIO and PANTHINO enter."
+
+  - sp: ANTONIO
+    o:
+      - "Tell me, Panthino, what sad talk was that"
+      - "Wherewith my brother held you in the cloister?"
+    m:
+      - "Tell me, Panthino, what were you and my brother talking so seriously about in the walkway back there?"
+
+  - sp: PANTHINO
+    o:
+      - "’Twas of his nephew Proteus, your son."
+    m:
+      - "We were talking about his nephew, your son, Proteus."
+
+  - sp: ANTONIO
+    o:
+      - "Why, what of him?"
+    m:
+      - "Why? What about him?"
+
+  - sp: PANTHINO
+    o:
+      - "He wondered that your lordship"
+      - "Would suffer him to spend his youth at home,"
+      - "While other men, of slender reputation,"
+      - "Put forth their sons to seek preferment out,"
+      - "Some to the wars, to try their fortune there,"
+      - "Some to discover islands far away,"
+      - "Some to the studious universities."
+      - "For any or for all these exercises"
+      - "He said that Proteus your son was meet,"
+      - "And did request me to importune you"
+      - "To let him spend his time no more at home,"
+      - "Which would be great impeachment to his age"
+      - "In having known no travel in his youth."
+    m:
+      - "He wondered why your lordship would let him spend his youth here at home. Other men with lesser reputations send their sons to seek opportunities abroad, or to find their fortunes fighting in the wars, or to discover far away islands, or to study in the universities. He said that Proteus was capable of doing any or all of these things, and he asked me to urge you not to let him spend any more time at home. It would be a shame for him in old age not to have traveled in his youth."
+
+  - sp: ANTONIO
+    o:
+      - "Nor need’st thou much importune me to that"
+      - "Whereon this month I have been hammering."
+      - "I have considered well his loss of time,"
+      - "And how he cannot be a perfect man,"
+      - "Not being tried and tutored in the world."
+      - "Experience is by industry achieved"
+      - "And perfected by the swift course of time."
+      - "Then tell me, whither were I best to send him?"
+    m:
+      - "You don’t need to urge me on this matter. I’ve thought about it a lot this month. I’ve considered how much time he’s wasting, and how he cannot be a complete man without having some real-world trials and tests. Experience comes from hard work and is perfected over the course of time. Tell me, though, where would it be best to send him?"
+
+  - sp: PANTHINO
+    o:
+      - "I think your lordship is not ignorant"
+      - "How his companion, youthful Valentine,"
+      - "Attends the Emperor in his royal court."
+    m:
+      - "I think your lordship knows that his friend, the young Valentine, has gone off to visit the emperor in his royal court in Milan."
+
+  - sp: ANTONIO
+    o:
+      - "I know it well."
+    m:
+      - "I’m fully aware."
+
+  - sp: PANTHINO
+    o:
+      - "’Twere good, I think, your lordship sent him thither."
+      - "There shall he practice tilts and tournaments,"
+      - "Hear sweet discourse, converse with noblemen,"
+      - "And be in eye of every exercise"
+      - "Worthy his youth and nobleness of birth."
+    m:
+      - "It would be good, I think, if your lordship sent him there. There he can take part in jousts and tournaments, listen to learned discussions, speak with noblemen, and witness everything befitting his youth and nobleness of birth."
+
+  - sp: ANTONIO
+    o:
+      - "I like thy counsel; well hast thou advised;"
+      - "And that thou mayst perceive how well I like it,"
+      - "The execution of it shall make known."
+      - "Even with the speediest expedition"
+      - "I will dispatch him to the Emperor’s court."
+    m:
+      - "I like what you say. You’ve advised me well. And so you may see how much I like it, I’ll announce it publicly. I’ll send him off to the emperor’s court immediately."
+
+  - sp: PANTHINO
+    o:
+      - "Tomorrow, may it please you, Don Alphonso"
+      - "With other gentlemen of good esteem"
+      - "Are journeying to salute the Emperor"
+      - "And to commend their service to his will."
+    m:
+      - "If it pleases you, Don Alphonso and some other noblemen are setting off tomorrow to visit the emperor and to offer their services to help him in whatever he needs."
+
+  - sp: ANTONIO
+    o:
+      - "Good company. With them shall Proteus go–"
+      - "And in good time! Now will we break with him."
+    m:
+      - "Sounds like a good group. Proteus will go with them. Just in time! I’ll talk to him now."
+
+  - os: "Enter PROTEUS"
+    ms: "PROTEUS enters, reading a letter."
+
+  - sp: PROTEUS
+    o:
+      - "*(to himself)* Sweet love, sweet lines, sweet life!"
+      - "Here is her hand, the agent of her heart;"
+      - "Here is her oath for love, her honor’s pawn."
+      - "O, that our fathers would applaud our loves,"
+      - "To seal our happiness with their consents!"
+      - "O heavenly Julia!"
+    m:
+      - "*(to himself)* Sweet love, sweet poetry, sweet life! Here is a letter in her handwriting, which does the bidding of her heart. Here is her pledge of love, which vows she will be faithful. Oh, I wish our fathers would approve of our love and consent to let us marry, sealing our happiness forever. Oh, heavenly Julia!"
+
+  - sp: ANTONIO
+    o:
+      - "How now? What letter are you reading there?"
+    m:
+      - "What’s that you say? What’s that letter you’re reading there?"
+
+  - sp: PROTEUS
+    o:
+      - "May ’t please your lordship, ’tis a word or two"
+      - "Of commendations sent from Valentine,"
+      - "Delivered by a friend that came from him."
+    m:
+      - "Your lordship, it’s just a short note of greeting from Valentine, delivered to me by a friend of his."
+
+  - sp: ANTONIO
+    o:
+      - "Lend me the letter. Let me see what news."
+    m:
+      - "Give me the letter. Let me see what news it brings."
+
+  - sp: PROTEUS
+    o:
+      - "There is no news, my lord, but that he writes"
+      - "How happily he lives, how well beloved"
+      - "And daily gracèd by the Emperor;"
+      - "Wishing me with him, partner of his fortune."
+    m:
+      - "There is no news, my lord. He just writes how happy he is and that the emperor likes him and honors him each day. He wishes I were with him to share his good luck."
+
+  - sp: ANTONIO
+    o:
+      - "And how stand you affected to his wish?"
+    m:
+      - "And how do you feel about his wish?"
+
+  - sp: PROTEUS
+    o:
+      - "As one relying on your lordship’s will,"
+      - "And not depending on his friendly wish."
+    m:
+      - "Like one who is used to following your orders and not able to honor Valentine’s wishes."
+
+  - sp: ANTONIO
+    o:
+      - "My will is something sorted with his wish."
+      - "Muse not that I thus suddenly proceed,"
+      - "For what I will, I will, and there an end."
+      - "I am resolved that thou shalt spend some time"
+      - "With Valentinus in the Emperor’s court."
+      - "What maintenance he from his friends receives,"
+      - "Like exhibition thou shalt have from me."
+      - "Tomorrow be in readiness to go."
+      - "Excuse it not, for I am peremptory."
+    m:
+      - "My wish is similar to Valentine’s. Now don’t think that I decided this rashly, because I get what I want, and that’s final. I’ve decided that you should spend some time with Valentine in the emperor’s court. I’ll provide you with the same money for room and board that he receives from his family. Be ready to go tomorrow. Don’t try to get out of it now, because I’ve made up my mind."
+
+  - sp: PROTEUS
+    o:
+      - "My lord, I cannot be so soon provided."
+      - "Please you, deliberate a day or two."
+    m:
+      - "My lord, I can’t get ready that quickly. Please, think about this a day or two longer."
+
+  - sp: ANTONIO
+    o:
+      - "Look what thou want’st shall be sent after thee."
+      - "No more of stay. Tomorrow thou must go."
+      - "Come on, Panthino; you shall be employed"
+      - "To hasten on his expedition."
+    m:
+      - "Look, whatever you want will be sent to you after you leave. You’re not going to stay here any longer. You must go tomorrow. Come on, Panthino, you will help get everything ready so he can leave as soon as possible."
+
+  - os: "Exeunt ANTONIO and PANTHINO."
+    ms: "ANTONIO and PANTHINO exit."
+
+  - sp: PROTEUS
+    o:
+      - "Thus have I shunned the fire for fear of burning,"
+      - "And drenched me in the sea, where I am drowned."
+      - "I feared to show my father Julia’s letter"
+      - "Lest he should take exceptions to my love,"
+      - "And with the vantage of mine own excuse"
+      - "Hath he excepted most against my love."
+      - "O, how this spring of love resembleth"
+      - "The uncertain glory of an April day,"
+      - "Which now shows all the beauty of the sun,"
+      - "And by and by a cloud takes all away!"
+    m:
+      - "I dove into the sea to avoid being burned by the fire, and now I’m drowning instead. I was afraid to show Julia’s letter to my father because I didn’t want him to disapprove of my love, but taking advantage of my lie he raised more obstacles against it. Oh, our new love is like the uncertain days of April, which will be sunny one moment, and suddenly a cloud takes the sunshine away!"
+
+  - os: "Enter PANTHINO."
+    ms: "PANTHINO enters."
+
+  - sp: PANTHINO
+    o:
+      - "Sir Proteus, your father calls for you."
+      - "He is in haste; therefore, I pray you, go."
+    m:
+      - "Sir Proteus, your father calls for you. He’s in a hurry, so I beg you, go quickly."
+
+  - sp: PROTEUS
+    o:
+      - "Why, this it is: my heart accords thereto,"
+      - "And yet a thousand times it answers no."
+    m:
+      - "This is how it is: my heart agrees to it but wants to say no a thousand times."
+
+  - os: "Exeunt."
+    ms: "They exit."

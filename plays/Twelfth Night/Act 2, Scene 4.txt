@@ -1,0 +1,370 @@
+play: Twelfth Night
+title: Act 2, Scene 4
+group: 2
+order: 8
+text:
+  - os: "Enter ORSINO, VIOLA, CURIO, and others"
+    ms: "ORSINO, VIOLA, CURIO, and others enter."
+
+  - sp: ORSINO
+    o:
+      - "Give me some music. *(music plays)*"
+      - "Now, good morrow, friends.—"
+      - "Now, good Cesario, but that piece of song,"
+      - "That old and antique song we heard last night."
+      - "Methought it did relieve my passion much,"
+      - "More than light airs and recollected terms"
+      - "Of these most brisk and giddy-paced times:"
+      - "Come, but one verse."
+    m:
+      - "Play me some music. *(music plays)* Good morning, my friends.—Have them sing me that song again, Cesario, that old-fashioned song someone sang last night. It made me feel better and took my mind off my troubles much better than the silly songs they sing nowadays. Please, have them sing just one verse."
+
+  - sp: CURIO
+    o:
+      - "He is not here, so please your lordship, that should sing it."
+    m:
+      - "Sir, the person who should sing that song isn’t here."
+
+  - sp: ORSINO
+    o:
+      - "Who was it?"
+    m:
+      - "Who was it?"
+
+  - sp: CURIO
+    o:
+      - "Feste, the jester, my lord, a fool that the lady Olivia’s father took much delight in. He is about the house."
+    m:
+      - "Feste, the jester, my lord. Olivia’s father used to like him. He’s somewhere else in the house."
+
+  - sp: ORSINO
+    o:
+      - "Seek him out, and play the tune the while."
+    m:
+      - "Then go find him. Meanwhile, play the tune."
+
+  - os: "Exit CURIO. Music plays"
+    ms: "CURIO exits. Music plays."
+
+  - o:
+      - "*(to VIOLA)* Come hither, boy. If ever thou shalt love,"
+      - "In the sweet pangs of it remember me;"
+      - "For such as I am, all true lovers are,"
+      - "Unstaid and skittish in all motions else"
+      - "Save in the constant image of the creature"
+      - "That is beloved. How dost thou like this tune?"
+    m:
+      - "*(to VIOLA)* Come here, boy. If you ever fall in love and feel the bittersweet pain it brings, think of me. Because the way I am now, moody and unable to focus on anything except the face of the woman I love, is exactly how all true lovers are. What do you think of this song?"
+
+  - sp: VIOLA
+    o:
+      - "It gives a very echo to the seat"
+      - "Where Love is throned."
+    m:
+      - "It really makes you feel what a lover feels."
+
+  - sp: ORSINO
+    o:
+      - "  Thou dost speak masterly."
+      - "My life upon ’t, young though thou art, thine eye"
+      - "Hath stay’d upon some favor that it loves."
+      - "Hath it not, boy?"
+    m:
+      - "You’re absolutely right. I’d bet my life that, as young as you are, you’ve fallen in love with someone. Haven’t you, boy?"
+
+  - sp: VIOLA
+    o:
+      - "  A little, by your favor."
+    m:
+      - "A little bit."
+
+  - sp: ORSINO
+    o:
+      - "What kind of woman is’t?"
+    m:
+      - "What kind of woman is she?"
+
+  - sp: VIOLA
+    o:
+      - "  Of your complexion."
+    m:
+      - "She’s a lot like you."
+
+  - sp: ORSINO
+    o:
+      - "She is not worth thee, then. What years, i’ faith?"
+    m:
+      - "She’s not good enough for you, then. How old is she?"
+
+  - sp: VIOLA
+    o:
+      - "About your years, my lord."
+    m:
+      - "About as old as you are, my lord."
+
+  - sp: ORSINO
+    o:
+      - "Too old by heaven. Let still the woman take"
+      - "An elder than herself. So wears she to him,"
+      - "So sways she level in her husband’s heart."
+      - "For, boy, however we do praise ourselves,"
+      - "Our fancies are more giddy and unfirm,"
+      - "More longing, wavering, sooner lost and worn,"
+      - "Than women’s are."
+    m:
+      - "That’s definitely too old. A woman should always pick an older man. That way she’ll adjust herself to what her husband wants, and the husband will be happy and faithful to her. Because however much we like to brag, boy, the truth is that we men change our minds a lot more than women do, and our desires come and go a lot faster than theirs."
+
+  - sp: VIOLA
+    o:
+      - "  I think it well, my lord."
+    m:
+      - "I think you’re right, sir."
+
+  - sp: ORSINO
+    o:
+      - "Then let thy love be younger than thyself,"
+      - "Or thy affection cannot hold the bent."
+      - "For women are as roses, whose fair flower"
+      - "Being once displayed, doth fall that very hour."
+    m:
+      - "So find someone younger to love, or you won’t be able to maintain your feelings. Women are like roses: the moment their beauty is in full bloom, it’s about to decay."
+
+  - sp: VIOLA
+    o:
+      - "And so they are. Alas, that they are so,"
+      - "To die even when they to perfection grow!"
+    m:
+      - "That’s true. It’s too bad their beauty fades right when it reaches perfection!"
+
+  - os: "Enter CURIO and FOOL"
+    ms: "CURIO and the FOOL enter."
+
+  - sp: ORSINO
+    o:
+      - "O, fellow, come, the song we had last night.—"
+      - "Mark it, Cesario, it is old and plain;"
+      - "The spinsters and the knitters in the sun"
+      - "And the free maids that weave their thread with bones"
+      - "Do use to chant it. It is silly sooth,"
+      - "And dallies with the innocence of love,"
+      - "Like the old age."
+    m:
+      - "My friend, sing us the song you sang last night.—Listen to it carefully, Cesario, it’s a simple old song. Spinners and knitters used to sing it while they sewed, and maidens used to sing it over their weaving. It tells the simple truth about innocent love, as it was in the good old days."
+
+  - sp: FOOL
+    o:
+      - "  Are you ready, sir?"
+    m:
+      - "Are you ready, sir?"
+
+  - sp: ORSINO
+    o:
+      - "Ay; prithee, sing."
+    m:
+      - "Yes. Please, sing."
+
+  - os: "Music"
+    ms: "Music plays."
+
+  - sp: FOOL
+    o:
+      - "*(sings)*"
+      - "*Come away, come away, death,*"
+      - "*And in sad cypress let me be laid.*"
+      - "*Fly away, fly away breath,*"
+      - "*I am slain by a fair cruel maid.*"
+      - "*My shroud of white, stuck all with yew,*"
+      - "*O, prepare it!*"
+      - "*My part of death, no one so true*"
+      - "*Did share it.*"
+      - "*Not a flower, not a flower sweet*"
+      - "*On my black coffin let there be strown.*"
+      - "*Not a friend, not a friend greet*"
+      - "*My poor corpse, where my bones shall be thrown.*"
+      - "*A thousand thousand sighs to save,*"
+      - "*Lay me, O, where*"
+      - "*Sad true lover never find my grave,*"
+      - "*To weep there!*"
+    m:
+      - "*(he sings)*"
+      - "*Come on, let me die now*"
+      - "*And put my body in a dark coffin.*"
+      - "*I feel my breath leaving me.*"
+      - "*I’ve been killed by a beautiful girl.*"
+      - "*Prepare my shroud of white,*"
+      - "*Adorned with sprigs of yew-tree.*"
+      - "*I’m the most faithful person*"
+      - "*Who ever lived or died.*"
+      - "*Don’t scatter sweet flowers*"
+      - "*On my black coffin.*"
+      - "*Don’t let my friends*"
+      - "*See my poor corpse.*"
+      - "*I don’t want to hear sad sighs,*"
+      - "*So bury me where no sad lovers*"
+      - "*can find my grave to weep over it!*"
+
+  - sp: ORSINO
+    o:
+      - "*(giving money)* There’s for thy pains."
+    m:
+      - "*(giving the FOOL money)* Here’s some money for your trouble."
+
+  - sp: FOOL
+    o:
+      - "No pains, sir. I take pleasure in singing, sir."
+    m:
+      - "No trouble, sir. I like singing."
+
+  - sp: ORSINO
+    o:
+      - "I’ll pay thy pleasure then."
+    m:
+      - "Then I’ll pay you for doing what you like."
+
+  - sp: FOOL
+    o:
+      - "Truly, sir, and pleasure will be paid, one time or another."
+    m:
+      - "Well, in that case, all right. We all pay for what we like sooner or later."
+
+  - sp: ORSINO
+    o:
+      - "Give me now leave to leave thee."
+    m:
+      - "You may leave."
+
+  - sp: FOOL
+    o:
+      - "Now, the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal. I would have men of such constancy put to sea, that their business might be everything and their intent everywhere, for that’s it that always makes a good voyage of nothing. Farewell."
+    m:
+      - "I’ll pray for the god of sadness to protect you, sir. And I hope your tailor will make you an outfit out of fabric that changes color, because your mind is like an opal that changes colors constantly. Men as wonderfully changeable as you are should all go drifting on the sea, where they can do whatever comes their way, and go wherever the current takes them. Those are the men whose trips are always successful. Goodbye."
+
+  - os: "Exit"
+    ms: "The FOOL exits."
+
+  - sp: ORSINO
+    o:
+      - "Let all the rest give place."
+    m:
+      - "All the rest of you can leave too."
+
+  - os: "CURIO and attendants retire"
+    ms: "CURIO and attendants retire."
+
+  - o:
+      - "    Once more, Cesario,"
+      - "Get thee to yond same sovereign cruelty."
+      - "Tell her my love, more noble than the world,"
+      - "Prizes not quantity of dirty lands;"
+      - "The parts that fortune hath bestowed upon her,"
+      - "Tell her, I hold as giddily as fortune;"
+      - "But ’tis that miracle and queen of gems"
+      - "That nature pranks her in attracts my soul."
+    m:
+      - "Cesario, go visit that cruel Olivia one more time. Tell her my love is purer than anything else in the whole world, and has nothing to do with her property. The wealth she’s inherited isn’t what makes me value her. It’s her rich, jewel-like beauty that attracts me."
+
+  - sp: VIOLA
+    o:
+      - "But if she cannot love you, sir?"
+    m:
+      - "But if she can’t love you, sir?"
+
+  - sp: ORSINO
+    o:
+      - "I cannot be so answer’d."
+    m:
+      - "I refuse to accept that."
+
+  - sp: VIOLA
+    o:
+      - "  Sooth, but you must."
+      - "Say that some lady, as perhaps there is,"
+      - "Hath for your love a great a pang of heart"
+      - "As you have for Olivia. You cannot love her."
+      - "You tell her so. Must she not then be answered?"
+    m:
+      - "But you have to. Just imagine some lady might exist who loves you as powerfully and agonizingly as you love Olivia. But you can’t love her, and you tell her so. Shouldn’t she just accept that?"
+
+  - sp: ORSINO
+    o:
+      - "There is no woman’s sides"
+      - "Can bide the beating of so strong a passion"
+      - "As love doth give my heart. No woman’s heart"
+      - "So big, to hold so much. They lack retention."
+      - "Alas, their love may be called appetite,"
+      - "No motion of the liver, but the palate,"
+      - "That suffer surfeit, cloyment, and revolt;"
+      - "But mine is all as hungry as the sea,"
+      - "And can digest as much. Make no compare"
+      - "Between that love a woman can bear me"
+      - "And that I owe Olivia."
+    m:
+      - "No woman is strong enough to put up with the kind of intense passion I feel. No woman’s heart is big enough to hold all my love. Women don’t feel love like that—love is as shallow as appetite for them. It has nothing to do with their hearts, just their sense of taste. They eat too much and get indigestion and nausea. But my love’s different. It’s as all-consuming and insatiable as the sea, and it can swallow as much as the sea can. Don’t compare a woman’s love for a man with my love for Olivia."
+
+  - sp: VIOLA
+    o:
+      - "  Ay, but I know—"
+    m:
+      - "Yes, but I know—"
+
+  - sp: ORSINO
+    o:
+      - "What dost thou know?"
+    m:
+      - "What do you know?"
+
+  - sp: VIOLA
+    o:
+      - "Too well what love women to men may owe."
+      - "In faith, they are as true of heart as we."
+      - "My father had a daughter loved a man"
+      - "As it might be, perhaps, were I a woman,"
+      - "I should your lordship."
+    m:
+      - "I know a lot about the love women can feel for men. Actually, their hearts are as sensitive and loyal as ours are. My father had a daughter who loved a man in the same way that I might love you, if I were a woman."
+
+  - sp: ORSINO
+    o:
+      - "  And what’s her history?"
+    m:
+      - "And what’s her story?"
+
+  - sp: VIOLA
+    o:
+      - "A blank, my lord. She never told her love,"
+      - "But let concealment, like a worm i’ the bud,"
+      - "Feed on her damask cheek. She pined in thought,"
+      - "And with a green and yellow melancholy"
+      - "She sat like patience on a monument,"
+      - "Smiling at grief. Was not this love indeed?"
+      - "We men may say more, swear more, but indeed"
+      - "Our shows are more than will, for still we prove"
+      - "Much in our vows, but little in our love."
+    m:
+      - "There was no story, my lord. She never told him she loved him. She kept her love bottled up inside her until it destroyed her, ruining her beauty. She pined away. She just sat waiting patiently, sadly, smiling despite her sadness. Her complexion turned greenish from depression. Doesn’t that sound like true love? We men might talk more and promise more, but in fact we talk more than we really feel. We might be great at making vows, but our love isn’t sincere."
+
+  - sp: ORSINO
+    o:
+      - "But died thy sister of her love, my boy?"
+    m:
+      - "But did your sister die of love?"
+
+  - sp: VIOLA
+    o:
+      - "I am all the daughters of my father’s house,"
+      - "And all the brothers too—and yet I know not."
+      - "Sir, shall I to this lady?"
+    m:
+      - "I am the only daughter in my father’s family, and all the brothers too—but I’m not completely sure about that. Anyway, sir, should I go see the lady?"
+
+  - sp: ORSINO
+    o:
+      - "  Ay, that’s the theme."
+      - "To her in haste. Give her this jewel. Say"
+      - "My love can give no place, bide no denay."
+      - "*(he hands her a jewel)*"
+    m:
+      - "Yes, go quickly and give her this jewel. Tell her my love won’t go away and won’t be denied. *(he hands her a jewel)*"
+
+  - os: "Exeunt"
+    ms: "They exit."

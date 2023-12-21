@@ -1,0 +1,97 @@
+play: Macbeth
+title: Act 5, Scene 2
+group: 5
+order: 21
+text:
+  - os: "Drum and colors. Enter MENTEITH, CAITHNESS, ANGUS, LENNOX, and soldiers"
+    ms: "MENTEITH, CAITHNESS, ANGUS, LENNOX, and soldiers enter with a drummer and flag."
+
+  - sp: MENTEITH
+    o:
+      - "The English power is near, led on by Malcolm,"
+      - "His uncle Siward and the good Macduff."
+      - "Revenges burn in them, for their dear causes"
+      - "Would to the bleeding and the grim alarm"
+      - "Excite the mortified man."
+    m:
+      - "The English army is near, led by Malcolm, his uncle Siward, and the good Macduff. They burn for revenge. The wrongs they have suffered would make dead men rise up and fight."
+
+  - sp: ANGUS
+    o:
+      - "    Near Birnam Wood"
+      - "Shall we well meet them; that way are they coming."
+    m:
+      - "We’ll meet them near Birnam Wood. They are coming that way."
+
+  - sp: CAITHNESS
+    o:
+      - "Who knows if Donalbain be with his brother?"
+    m:
+      - "Does anyone know if Donalbain is with his brother?"
+
+  - sp: LENNOX
+    o:
+      - "For certain, sir, he is not. I have a file"
+      - "Of all the gentry. There is Siward’s son,"
+      - "And many unrough youths that even now"
+      - "Protest their first of manhood."
+    m:
+      - "He is definitely not there, sir. I have a list of all the important men. Siward’s son is there, as well as many boys too young to have beards who will become men by joining in this battle."
+
+  - sp: MENTEITH
+    o:
+      - "    What does the tyrant?"
+    m:
+      - "What is the tyrant Macbeth doing?"
+
+  - sp: CAITHNESS
+    o:
+      - "Great Dunsinane he strongly fortifies."
+      - "Some say he’s mad, others that lesser hate him"
+      - "Do call it valiant fury. But, for certain,"
+      - "He cannot buckle his distempered cause"
+      - "Within the belt of rule."
+    m:
+      - "He is fortifying his castle at Dunsinane with heavy defenses. Some say he’s insane. Those who hate him less call it brave anger. One thing is certain: he’s out of control."
+
+  - sp: ANGUS
+    o:
+      - "    Now does he feel"
+      - "His secret murders sticking on his hands."
+      - "Now minutely revolts upbraid his faith-breach."
+      - "Those he commands move only in command,"
+      - "Nothing in love. Now does he feel his title"
+      - "Hang loose about him, like a giant’s robe"
+      - "Upon a dwarfish thief."
+    m:
+      - "Now Macbeth feels the blood of his murdered enemies sticking to his hands. Now, rebel armies punish him every minute for his treachery. The soldiers he commands are only following orders. They don’t fight because they love Macbeth. Now he seems too small to be a great king, like a midget trying to wear the robes of a giant."
+
+  - sp: MENTEITH
+    o:
+      - "    Who then shall blame"
+      - "His pestered senses to recoil and start,"
+      - "When all that is within him does condemn"
+      - "Itself for being there?"
+    m:
+      - "Who can blame him for acting crazy, when inside he condemns himself for everything he’s done?"
+
+  - sp: CAITHNESS
+    o:
+      - "    Well, march we on,"
+      - "To give obedience where ’tis truly owed."
+      - "Meet we the medicine of the sickly weal,"
+      - "And with him pour we in our country’s purge"
+      - "Each drop of us."
+    m:
+      - "Well, let’s keep marching and give our loyalty to someone who truly deserves it. We’re going to meet Malcolm, the doctor who will cure our sick country. We’ll pour out our own blood to help him."
+
+  - sp: LENNOX
+    o:
+      - "    Or so much as it needs,"
+      - "To dew the sovereign flower and drown the weeds."
+      - "Make we our march towards Birnam."
+    m:
+      - "However much blood we need to give to water the royal flower and drown the weeds—to make Malcolm king and get rid of Macbeth. Let’s proceed on our march to Birnam."
+
+  - os: "Exeunt, marching"
+    ms: "They exit, marching."

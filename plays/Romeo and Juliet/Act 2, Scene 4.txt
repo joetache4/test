@@ -1,0 +1,602 @@
+play: Romeo and Juliet
+title: Act 2, Scene 4
+group: 2
+order: 10
+text:
+  - os: "Enter BENVOLIO and MERCUTIO"
+    ms: "BENVOLIO and MERCUTIO enter."
+
+  - sp: MERCUTIO
+    o:
+      - "Where the devil should this Romeo be?"
+      - "Came he not home tonight?"
+    m:
+      - "Where the devil can Romeo be? Didn’t he come home last night?"
+
+  - sp: BENVOLIO
+    o:
+      - "Not to his father’s. I spoke with his man."
+    m:
+      - "Not to his father’s house. I asked a servant."
+
+  - sp: MERCUTIO
+    o:
+      - "Why, that same pale hard-hearted wench, that Rosaline,"
+      - "Torments him so, that he will sure run mad."
+    m:
+      - "That fair-skinned, hard-hearted hussy, Rosaline is going to torment him until he goes insane."
+
+  - sp: BENVOLIO
+    o:
+      - "Tybalt, the kinsman to old Capulet,"
+      - "Hath sent a letter to his father’s house."
+    m:
+      - "Tybalt, old Capulet’s nephew, has sent a letter to Romeo’s father’s house."
+
+  - sp: MERCUTIO
+    o:
+      - "A challenge, on my life."
+    m:
+      - "I bet it’s a challenge."
+
+  - sp: BENVOLIO
+    o:
+      - "Romeo will answer it."
+    m:
+      - "Romeo will answer the challenge."
+
+  - sp: MERCUTIO
+    o:
+      - "Any man that can write may answer a letter."
+    m:
+      - "Any man who knows how to write can answer a letter."
+
+  - sp: BENVOLIO
+    o:
+      - "Nay, he will answer the letter’s master, how he dares, being dared."
+    m:
+      - "No, Romeo will respond to the letter’s writer, telling him whether he accepts the challenge."
+
+  - sp: MERCUTIO
+    o:
+      - "Alas, poor Romeo! He is already dead, stabbed with a white wench’s black eye, shot through the ear with a love song, the very pin of his heart cleft with the blind bow-boy’s butt shaft. And is he a man to encounter Tybalt?"
+    m:
+      - "Oh, poor Romeo! He’s already dead. He’s been stabbed by a white girl’s black eye. He’s been cut through the ear with a love song. The center of his heart has been split by blind Cupid’s arrow. Is he man enough at this point to face off with Tybalt?"
+
+  - sp: BENVOLIO
+    o:
+      - "Why, what is Tybalt?"
+    m:
+      - "Why, what’s Tybalt’s story?"
+
+  - sp: MERCUTIO
+    o:
+      - "More than Prince of Cats. Oh, he’s the courageous captain of compliments. He fights as you sing prick-song, keeps time, distance, and proportion. He rests his minim rests—one, two, and the third in your bosom. The very butcher of a silk button, a duelist, a duelist, a gentleman of the very first house of the first and second cause. Ah, the immortal *passado*, the *punto reverso*, the *hai!*"
+    m:
+      - "He’s tougher than the Prince of Cats. He does everything by the book. He fights like you sing at a recital, paying attention to time, distance, and proportion. He takes the proper breaks: one, two, and the third in your heart. He’s the butcher who can hit any silk button. A master of duels. He’s a gentleman from the finest school of fencing. He knows how to turn any argument into a swordfight. He knows *passado*—the forward thrust—the *punto reverso*—the backhand thrust—and the *hai*—the thrust that goes straight through."
+
+  - sp: BENVOLIO
+    o:
+      - "The what?"
+    m:
+      - "He knows what?"
+
+  - sp: MERCUTIO
+    o:
+      - "The pox of such antic, lisping, affecting fantasmines, these new tuners of accents! “By Jesu, a very good blade! A very tall man! A very good whore!” Why, is not this a lamentable thing, grandsire, that we should be thus afflicted with these strange flies, these fashion-mongers, these “pardon me’s,” who stand so much on the new form, that they cannot sit at ease on the old bench? Oh, their bones, their bones!"
+    m:
+      - "I hate these crazy, affected guys who use foreign phrases and newfangled expressions. I hate their strange manners and their weird accents! I hate it when they say, “By Jesus, this is a very good blade, a very brave man, a very good whore.” Isn’t this a sad thing, my good man? Why should we put up with these foreign buzzards, these fashionmongers, these guys who say “pardon me,” these guys who care so much about manners that they can’t kick back on a bench without whining? “Oh, my aching bones!”"
+
+  - os: "Enter ROMEO"
+    ms: "ROMEO enters."
+
+  - sp: BENVOLIO
+    o:
+      - "Here comes Romeo, here comes Romeo."
+    m:
+      - "Here comes Romeo, here comes Romeo!"
+
+  - sp: MERCUTIO
+    o:
+      - "Without his roe, like a dried herring. O flesh, flesh, how art thou fishified! Now is he for the numbers that Petrarch flowed in. Laura to his lady was but a kitchen-wench— marry, she had a better love to berhyme her—Dido a dowdy, Cleopatra a gypsy, Helen and Hero hildings and harlots, Thisbe a grey eye or so, but not to the purpose.— Signior Romeo, *bonjour!* There’s a French salutation to your French slop. You gave us the counterfeit fairly last night."
+    m:
+      - "He looks skinny, like a dried herring without its eggs, and he hasn’t got his girl. O flesh, flesh, you’ve turned pale and weak like a fish. Now he’s ready for Petrarch’s poetry. Compared to Romeo’s girl, Laura was a kitchen slave. Surely she has a better love to make rhymes for her. Dido was shabbily dressed. Cleopatra was a gypsy girl. Helen and Hero were sluts and harlots. Thisbe might have had a blue eye or two, but that doesn’t matter. Signor Romeo, *bonjour.* There’s a French greeting that matches your drooping French-style pants. You faked us out pretty good last night."
+
+  - sp: ROMEO
+    o:
+      - "Good morrow to you both. What counterfeit did I give you?"
+    m:
+      - "Good morning to you both. What do you mean I faked you out?"
+
+  - sp: MERCUTIO
+    o:
+      - "The slip, sir, the slip. Can you not conceive?"
+    m:
+      - "You gave us the slip, sir, the slip. Can’t you understand what I’m saying?"
+
+  - sp: ROMEO
+    o:
+      - "Pardon, good Mercutio, my business was great, and in such a case as mine a man may strain courtesy."
+    m:
+      - "Excuse me, good Mercutio. I had very important business to take care of. It was so important that I had to forget about courtesy and good manners."
+
+  - sp: MERCUTIO
+    o:
+      - "That’s as much as to say, such a case as yours constrains a man to bow in the hams."
+    m:
+      - "In other words “important business” made you flex your buttocks."
+
+  - sp: ROMEO
+    o:
+      - "Meaning “to curtsy”?"
+    m:
+      - "You mean do a curtsy?"
+
+  - sp: MERCUTIO
+    o:
+      - "Thou hast most kindly hit it."
+    m:
+      - "You’ve hit the target, sir."
+
+  - sp: ROMEO
+    o:
+      - "A most courteous exposition."
+    m:
+      - "That’s a very polite and courteous explanation."
+
+  - sp: MERCUTIO
+    o:
+      - "Nay, I am the very pink of courtesy."
+    m:
+      - "Yes, I am the pink flower—the master, of courtesy and manners."
+
+  - sp: ROMEO
+    o:
+      - "Pink for flower."
+    m:
+      - "The pink flower."
+
+  - sp: MERCUTIO
+    o:
+      - "Right."
+    m:
+      - "Right."
+
+  - sp: ROMEO
+    o:
+      - "Why, then is my pump well flowered."
+    m:
+      - "Well, then my pump is well decorated with flowers."
+
+  - sp: MERCUTIO
+    o:
+      - "Sure wit, follow me this jest now till thou hast worn out thy pump, that when the single sole of it is worn, the jest may remain, after the wearing solely singular."
+    m:
+      - "Alright my witty friend, this joke has worn out your pump. Its thin skin is all worn out. The joke is all you have left."
+
+  - sp: ROMEO
+    o:
+      - "O single-soled jest, solely singular for the singleness."
+    m:
+      - "This is a bad joke. It’s all silliness."
+
+  - sp: MERCUTIO
+    o:
+      - "Come between us, good Benvolio. My wits faints."
+    m:
+      - "Come break this up, Benvolio. I’m losing this duel of wits."
+
+  - sp: ROMEO
+    o:
+      - "Switch and spurs, switch and spurs, or I’ll cry a match."
+    m:
+      - "Keep going, keep going, or I’ll declare myself the winner."
+
+  - sp: MERCUTIO
+    o:
+      - "Nay, if our wits run the wild-goose chase, I am done, for thou hast more of the wild-goose in one of thy wits than, I am sure, I have in my whole five. Was I with you there for the goose?"
+    m:
+      - "Now, if our jokes go on a wild-goose chase, I’m finished. You have more wild goose in one of your jokes than I have in five of mine. Was I even close to you in the chase for the goose?"
+
+  - sp: ROMEO
+    o:
+      - "Thou wast never with me for anything when thou wast not there for the goose."
+    m:
+      - "You were never with me for anything if you weren’t there for the goose."
+
+  - sp: MERCUTIO
+    o:
+      - "I will bite thee by the ear for that jest."
+    m:
+      - "I’ll bite you on the ear for that joke."
+
+  - sp: ROMEO
+    o:
+      - "Nay, good goose, bite not."
+    m:
+      - "No, good goose, don’t bite me."
+
+  - sp: MERCUTIO
+    o:
+      - "Thy wit is a very bitter sweeting. It is a most sharp sauce."
+    m:
+      - "Your joke is a very bitter apple. Your humor is a spicy sauce."
+
+  - sp: ROMEO
+    o:
+      - "And is it not well served into a sweet goose?"
+    m:
+      - "Then isn’t it just the right dish for a sweet goose?"
+
+  - sp: MERCUTIO
+    o:
+      - "Oh, here’s a wit of cheveril, that stretches from an inch narrow to an ell broad!"
+    m:
+      - "Oh, that’s a joke made out of leather that spreads itself thin, from the width of an inch to as fat as a yard."
+
+  - sp: ROMEO
+    o:
+      - "I stretch it out for that word “broad,” which, added to the goose, proves thee far and wide a broad goose."
+    m:
+      - "I stretch my joke for that word “fat.” If you add that word to the word “goose,” it shows that you are a fat goose."
+
+  - sp: MERCUTIO
+    o:
+      - "Why, is not this better now than groaning for love? Now art thou sociable. Now art thou Romeo. Now art thou what thou art—by art as well as by nature, for this driveling love is like a great natural that runs lolling up and down to hide his bauble in a hole."
+    m:
+      - "Why, isn’t all this joking better than groaning about love? Now you’re sociable. Now you’re Romeo. Now you are what you’ve learned to be and what you are naturally. This love of yours was like a blithering idiot who runs up and down looking for a hole to hide his toy in."
+
+  - sp: BENVOLIO
+    o:
+      - "Stop there, stop there."
+    m:
+      - "Stop there, stop there."
+
+  - sp: MERCUTIO
+    o:
+      - "Thou desirest me to stop in my tale against the hair."
+    m:
+      - "You want me to stop my tale before I’m done."
+
+  - sp: BENVOLIO
+    o:
+      - "Thou wouldst else have made thy tale large."
+    m:
+      - "Otherwise your tale would have gotten too long."
+
+  - sp: MERCUTIO
+    o:
+      - "Oh, thou art deceived. I would have made it short, for I was come to the whole depth of my tale, and meant, indeed, to occupy the argument no longer."
+    m:
+      - "Oh, you’re wrong. I would have made it short. I had come to the deepest part of my tale, and I planned to say nothing more on the topic."
+
+  - os: "Enter NURSE and her man PETER"
+    ms: "The NURSE enters with her servant, PETER."
+
+  - sp: ROMEO
+    o:
+      - "Here’s goodly gear."
+    m:
+      - "Here’s something good."
+
+  - sp: BENVOLIO
+    o:
+      - "A sail, a sail!"
+    m:
+      - "A sail, a sail!"
+
+  - sp: MERCUTIO
+    o:
+      - "Two, two—a shirt and a smock."
+    m:
+      - "There’s two—a man and a woman."
+
+  - sp: NURSE
+    o:
+      - "Peter!"
+    m:
+      - "Peter!"
+
+  - sp: PETER
+    o:
+      - "Anon!"
+    m:
+      - "I’m at your service."
+
+  - sp: NURSE
+    o:
+      - "My fan, Peter."
+    m:
+      - "Give me my fan, Peter."
+
+  - sp: MERCUTIO
+    o:
+      - "Good, Peter, to hide her face, for her fan’s the fairer face."
+    m:
+      - "Good Peter, give her her fan to hide her face. Her fan is prettier than her face."
+
+  - sp: NURSE
+    o:
+      - "God ye good morrow, gentlemen."
+    m:
+      - "Good morning, gentlemen."
+
+  - sp: MERCUTIO
+    o:
+      - "God ye good e’en, fair gentlewoman."
+    m:
+      - "Good afternoon, fair lady."
+
+  - sp: NURSE
+    o:
+      - "Is it good e’en?"
+    m:
+      - "Is it now afternoon?"
+
+  - sp: MERCUTIO
+    o:
+      - "’Tis no less, I tell you, for the bawdy hand of the dial is now upon the prick of noon."
+    m:
+      - "It’s not earlier than that, I tell you. The lusty hand of the clock is now pricking noon."
+
+  - sp: NURSE
+    o:
+      - "Out upon you! What a man are you?"
+    m:
+      - "Get out of here! What kind of man are you?"
+
+  - sp: MERCUTIO
+    o:
+      - "One, gentlewoman, that God hath made, himself to mar."
+    m:
+      - "I’m a man, my lady, that God has made for himself to ruin."
+
+  - sp: NURSE
+    o:
+      - "By my troth, it is well said. “For himself to mar,” quoth he? Gentlemen, can any of you tell me where I may find the young Romeo?"
+    m:
+      - "I swear, you speak the truth. “For himself to ruin,” he says. Gentlemen, can any of you tell me where I can find young Romeo?"
+
+  - sp: ROMEO
+    o:
+      - "I can tell you, but young Romeo will be older when you have found him than he was when you sought him. I am the youngest of that name, for fault of a worse."
+    m:
+      - "I can tell you, but young Romeo will be older when you find him than he was when you started looking for him. I am the youngest man by that name, because there is no one younger, or worse."
+
+  - sp: NURSE
+    o:
+      - "You say well."
+    m:
+      - "You speak well."
+
+  - sp: MERCUTIO
+    o:
+      - "Yea, is the worst well? Very well took, i’ faith, wisely, wisely."
+    m:
+      - "Is the worst well? Very well taken, I believe, very wise."
+
+  - sp: NURSE
+    o:
+      - "If you be he, sir, I desire some confidence with you."
+    m:
+      - "*(to ROMEO)* If you’re the Romeo I’m looking for, sir, I would like to have a confidence with you."
+
+  - sp: BENVOLIO
+    o:
+      - "She will indite him to some supper."
+    m:
+      - "She will indite him to some dinner party."
+
+  - sp: MERCUTIO
+    o:
+      - "A bawd, a bawd, a bawd! So ho!"
+    m:
+      - "A pimp! A pimp! A pimp! I’ve found it out."
+
+  - sp: ROMEO
+    o:
+      - "What hast thou found?"
+    m:
+      - "What have you found out?"
+
+  - sp: MERCUTIO
+    o:
+      - "No hare, sir, unless a hare, sir, in a Lenten pie—that is, something stale and hoar ere it be spent."
+      - "*(sings)*"
+      - "  *An old hare hoar,*"
+      - "  *And an old hare hoar,*"
+      - "  *Is very good meat in Lent.*"
+      - "  *But a hare that is hoar*"
+      - "  *Is too much for a score*"
+      - "  *When it hoars ere it be spent.*"
+      - "*(speaks)*"
+      - "Romeo, will you come to your father’s? We’ll to dinner, thither."
+    m:
+      - "She’s not a prostitute unless she’s using her ugliness to hide her promiscuity."
+      - "*(he walks by them and sings)*"
+      - "  *Old rabbit meat is good to eat,*"
+      - "  *If you can’t get anything else.*"
+      - "  *But if it’s so old,*"
+      - "  *That it goes bad before you eat it,*"
+      - "  *Then it was a waste of money.*"
+      - "*(speaking)*"
+      - "Romeo, are you going to your father’s for lunch? Let’s go there."
+
+  - sp: ROMEO
+    o:
+      - "I will follow you."
+    m:
+      - "I’ll follow after you."
+
+  - sp: MERCUTIO
+    o:
+      - "Farewell, ancient lady. Farewell, lady, lady, lady."
+    m:
+      - "Goodbye, old lady. Goodbye, lady, lady, lady."
+
+  - os: "Exeunt MERCUTIO and BENVOLIO"
+    ms: "BENVOLIO and MERCUTIO exit."
+
+  - sp: NURSE
+    o:
+      - "I pray you, sir, what saucy merchant was this that was so full of his ropery?"
+    m:
+      - "Please tell me, sir, who was that foulmouthed punk who was so full of crude jokes?"
+
+  - sp: ROMEO
+    o:
+      - "A gentleman, Nurse, that loves to hear himself talk, and will speak more in a minute than he will stand to in a month."
+    m:
+      - "Nurse, he’s a man who likes to hear the sound of his own voice. He says more in one minute than he does in a whole month."
+
+  - sp: NURSE
+    o:
+      - "An he speak any thing against me, I’ll take him down, an he were lustier than he is, and twenty such Jacks. And if I cannot, I’ll find those that shall. Scurvy knave! I am none of his flirt-gills. I am none of his skains-mates. *(to PETER)* And thou must stand by, too, and suffer every knave to use me at his pleasure?"
+    m:
+      - "If he says anything against me, I’ll humble him, even if he were stronger than he is—and twenty punks like him. If I can’t do it myself, I’ll find someone who can. That dirty rat! I’m not one of his sluts. I’m not one of his punk friends who carries a knife. *(to PETER)* And you just stand there letting every jerk make fun of me for kicks."
+
+  - sp: PETER
+    o:
+      - "I saw no man use you at his pleasure. If I had, my weapon should quickly have been out, I warrant you. I dare draw as soon as another man if I see occasion in a good quarrel and the law on my side."
+    m:
+      - "I didn’t see anybody use you for kicks. If I had seen something like that, I would have quickly pulled out my weapon. Believe me, I’ll draw my sword as quick as any other man if I see a fight starting and the law is on my side."
+
+  - sp: NURSE
+    o:
+      - "Now, afore God, I am so vexed that every part about me quivers. Scurvy knave!"
+      - "*(to ROMEO)* Pray you, sir, a word. And as I told you, my young lady bid me inquire you out. What she bade me say, I will keep to myself. But first let me tell ye, if ye should lead her into a fool’s paradise, as they say, it were a very gross kind of behavior, as they say. For the gentlewoman is young, and therefore, if you should deal double with her, truly it were an ill thing to be offered to any gentlewoman, and very weak dealing."
+    m:
+      - "Now, I swear, I’m so angry that I’m shaking all over. That rotten scoundrel! *(to ROMEO)* Now, please, may I have a word with you, sir? My young mistress asked me to find you. What she asked me to say I’ll keep to myself. But let me tell you this first. If you lead her into a fool’s paradise, as the saying goes, it would be an outrageous crime because the girl is so young. And if you try to trick her, it would be an evil thing to do to any woman and very poor behavior."
+
+  - sp: ROMEO
+    o:
+      - "Nurse, commend me to thy lady and mistress. I protest unto thee—"
+    m:
+      - "Nurse, give my regards to to your lady. I swear to you—"
+
+  - sp: NURSE
+    o:
+      - "Good heart, and i’ faith, I will tell her as much. Lord, Lord, she will be a joyful woman."
+    m:
+      - "You have a good heart, and believe me, I’ll tell her that. Lord, Lord, she’ll be a happy woman."
+
+  - sp: ROMEO
+    o:
+      - "What wilt thou tell her, Nurse? Thou dost not mark me."
+    m:
+      - "What are you going to tell her, Nurse? You’re not paying attention to me."
+
+  - sp: NURSE
+    o:
+      - "I will tell her, sir, that you do protest, which, as I take it, is a gentlemanlike offer."
+    m:
+      - "Sir, I’ll tell her that you protest to her, which I think is the gentlemanly thing to do.."
+
+  - sp: ROMEO
+    o:
+      - "Bid her devise"
+      - "Some means to come to shrift this afternoon."
+      - "And there she shall at Friar Lawrence’ cell"
+      - "Be shrived and married. *(gives her coins)* Here is for thy pains."
+    m:
+      - "Tell her to devise a plan to get out of her house and come to confession at the abbey this afternoon. At Friar Lawrence’s cell she can make confession and be married. *(giving her coins)* Here is a reward for your efforts."
+
+  - sp: NURSE
+    o:
+      - "No, truly, sir. Not a penny."
+    m:
+      - "No, really, I won’t take a penny."
+
+  - sp: ROMEO
+    o:
+      - "Go to. I say you shall."
+    m:
+      - "Go on, I insist you take it."
+
+  - sp: NURSE
+    o:
+      - "*(takes the money)* This afternoon, sir? Well, she shall be there."
+    m:
+      - "*(taking the money)* This afternoon, sir? She’ll be there."
+
+  - sp: ROMEO
+    o:
+      - "And stay, good Nurse. Behind the abbey wall"
+      - "Within this hour my man shall be with thee"
+      - "And bring thee cords made like a tackled stair,"
+      - "Which to the high top-gallant of my joy"
+      - "Must be my convoy in the secret night."
+      - "Farewell. Be trusty, and I’ll quit thy pains."
+      - "Farewell. Commend me to thy mistress."
+    m:
+      - "Wait good Nurse. Within an hour, one of my men will come to you behind the abbey wall and give you a rope ladder. I’ll use the rope ladder to climb over the walls at night. Then I’ll meet Juliet joyfully and in secret. Goodbye. Be honest and helpful, and I’ll repay you for your efforts. Goodbye. Sing my praises to your mistress."
+
+  - sp: NURSE
+    o:
+      - "Now God in heaven bless thee! Hark you, sir."
+    m:
+      - "May God in heaven bless you. Now please listen, sir."
+
+  - sp: ROMEO
+    o:
+      - "What sayst thou, my dear Nurse?"
+    m:
+      - "What do you have to say, my dear Nurse?"
+
+  - sp: NURSE
+    o:
+      - "Is your man secret? Did you ne’er hear say,"
+      - "“Two may keep counsel, putting one away”?"
+    m:
+      - "Can your man keep a secret? Haven’t you ever heard the saying, “Two can conspire to put one away”?"
+
+  - sp: ROMEO
+    o:
+      - "Warrant thee, my man’s as true as steel."
+    m:
+      - "I assure you, my man is as true as steel."
+
+  - sp: NURSE
+    o:
+      - "Well, sir, my mistress is the sweetest lady.—Lord, Lord! when ’twas a little prating thing.—Oh, there is a nobleman in town, one Paris, that would fain lay knife aboard, but she, good soul, had as lief see a toad, a very toad, as see him. I anger her sometimes and tell her that Paris is the properer man. But, I’ll warrant you, when I say so, she looks as pale as any clout in the versal world. Doth not *rosemary* and *Romeo* begin both with a letter?"
+    m:
+      - "Well, sir, my mistress is the sweetest lady. Lord, Lord, when she was a little baby—Oh, there is one nobleman in the city, a guy named Paris, who would be happy to claim her as his own. Juliet would rather look at a toad than at him. I make her angry sometimes by saying that Paris is more handsome than you are. But when I say so, I swear she turns white as a sheet. Don’t “rosemary” and “Romeo” begin with the same letter?"
+
+  - sp: ROMEO
+    o:
+      - "Ay, Nurse, what of that? Both with an *R*."
+    m:
+      - "Yes, Nurse, what about that? They both begin with the letter “R.”"
+
+  - sp: NURSE
+    o:
+      - "Ah, mocker, that’s the dog’s name. *R* is for the—No, I know it begins with some other letter, and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it."
+    m:
+      - "Ah, you jokester—that’s the dog’s name. “R” is for the—no, I know it begins with another letter. She says the most beautiful things about you and rosemary. It would be good for you to hear the things she says."
+
+  - sp: ROMEO
+    o:
+      - "Commend me to thy lady."
+    m:
+      - "Give my compliments to your lady."
+
+  - sp: NURSE
+    o:
+      - "Ay, a thousand times.—Peter!"
+    m:
+      - "Yes, a thousand times. Peter!"
+
+  - sp: PETER
+    o:
+      - "Anon!"
+    m:
+      - "I’m ready."
+
+  - sp: NURSE
+    o:
+      - "Before and apace."
+    m:
+      - "*(giving PETER her fan)* Go ahead. Go quickly."
+
+  - os: "Exeunt"
+    ms: "They all exit."

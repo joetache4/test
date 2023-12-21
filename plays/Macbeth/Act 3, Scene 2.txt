@@ -1,0 +1,151 @@
+play: Macbeth
+title: Act 3, Scene 2
+group: 3
+order: 12
+text:
+  - os: "Enter LADY MACBETH and a SERVANT"
+    ms: "LADY MACBETH and a SERVANT enter."
+
+  - sp: LADY MACBETH
+    o:
+      - "Is Banquo gone from court?"
+    m:
+      - "Has Banquo left the court?"
+
+  - sp: SERVANT
+    o:
+      - "Ay, madam, but returns again tonight."
+    m:
+      - "Yes, madam, but he’ll be back tonight."
+
+  - sp: LADY MACBETH
+    o:
+      - "Say to the king I would attend his leisure"
+      - "For a few words."
+    m:
+      - "Go tell the king I want to talk to him for a few minutes."
+
+  - sp: SERVANT
+    o:
+      - "Madam, I will."
+    m:
+      - "No problem, madam."
+
+  - os: "Exit SERVANT"
+    ms: "The SERVANT exits."
+
+  - sp: LADY MACBETH
+    o:
+      - "Naught’s had, all’s spent,"
+      - "Where our desire is got without content."
+      - "’Tis safer to be that which we destroy"
+      - "Than by destruction dwell in doubtful joy."
+    m:
+      - "If you get what you want and you’re still not happy, you’ve spent everything and gained nothing. It’s better to be the person who gets murdered than to be the killer and be tormented with anxiety."
+
+  - os: "Enter MACBETH"
+    ms: "MACBETH enters."
+
+  - o:
+      - "How now, my lord! Why do you keep alone,"
+      - "Of sorriest fancies your companions making,"
+      - "Using those thoughts which should indeed have died"
+      - "With them they think on? Things without all remedy"
+      - "Should be without regard. What’s done is done."
+    m:
+      - "What’s going on, my lord? Why are you keeping to yourself, with only your sad thoughts to keep you company? Those thoughts should have died when you killed the men you’re thinking about. If you can’t fix it, you shouldn’t give it a second thought. What’s done is done."
+
+  - sp: MACBETH
+    o:
+      - "We have scorched the snake, not killed it."
+      - "She’ll close and be herself whilst our poor malice"
+      - "Remains in danger of her former tooth."
+      - "But let the frame of things disjoint, both the worlds suffer,"
+      - "Ere we will eat our meal in fear, and sleep"
+      - "In the affliction of these terrible dreams"
+      - "That shake us nightly. Better be with the dead,"
+      - "Whom we, to gain our peace, have sent to peace,"
+      - "Than on the torture of the mind to lie"
+      - "In restless ecstasy. Duncan is in his grave."
+      - "After life’s fitful fever he sleeps well."
+      - "Treason has done his worst; nor steel nor poison,"
+      - "Malice domestic, foreign levy, nothing"
+      - "Can touch him further."
+    m:
+      - "We have slashed the snake but not killed it. It will heal and be as good as new, and we’ll be threatened by its fangs once again. But the universe can fall apart, and heaven and earth crumble, before I’ll eat my meals in fear and spend my nights tossing and turning with these nightmares I’ve been having. I’d rather be dead than endure this endless mental torture and harrowing sleep deprivation. We killed those men and sent them to rest in peace so that we could gain our own peace. Duncan lies in his grave, through with life’s troubles, and he’s sleeping well. We have already done the worst we can do to him with our treason. After that, nothing can hurt him further—not weapons, poison, rebellion, invasion, or anything else."
+
+  - sp: LADY MACBETH
+    o:
+      - "Come on, gentle my lord,"
+      - "Sleek o’er your rugged looks. Be bright and jovial"
+      - "Among your guests tonight."
+    m:
+      - "Come on, relax, dear. Put on a happy face and look cheerful and agreeable for your guests tonight."
+
+  - sp: MACBETH
+    o:
+      - "    So shall I, love,"
+      - "And so, I pray, be you. Let your remembrance"
+      - "Apply to Banquo; present him eminence,"
+      - "Both with eye and tongue: unsafe the while that we"
+      - "Must lave our honors in these flattering streams,"
+      - "And make our faces vizards to our hearts,"
+      - "Disguising what they are."
+    m:
+      - "That’s exactly what I’ll do, my love, and I hope you’ll do the same. Give Banquo your special attention. Talk to him and look at him in a way that will make him feel important. We’re in a dangerous situation, where we have to flatter him and hide our true feelings."
+
+  - sp: LADY MACBETH
+    o:
+      - "    You must leave this."
+    m:
+      - "You have to stop talking like this."
+
+  - sp: MACBETH
+    o:
+      - "Oh, full of scorpions is my mind, dear wife!"
+      - "Thou know’st that Banquo, and his Fleance, lives."
+    m:
+      - "Argh! I feel like my mind is full of scorpions, my dear wife. You know that Banquo and his son Fleance are still alive."
+
+  - sp: LADY MACBETH
+    o:
+      - "But in them nature’s copy’s not eterne."
+    m:
+      - "But they can’t live forever."
+
+  - sp: MACBETH
+    o:
+      - "There’s comfort yet; they are assailable."
+      - "Then be thou jocund. Ere the bat hath flown"
+      - "His cloistered flight, ere to black Hecate’s summons"
+      - "The shard-borne beetle with his drowsy hums"
+      - "Hath rung night’s yawning peal, there shall be done"
+      - "A deed of dreadful note."
+    m:
+      - "That’s comforting. They can be killed, it’s true. So be cheerful. Before the bat flies through the castle, and before the dung beetle makes his little humming noise to tell us it’s nighttime, a dreadful deed will be done."
+
+  - sp: LADY MACBETH
+    o:
+      - "    What’s to be done?"
+    m:
+      - "What are you going to do?"
+
+  - sp: MACBETH
+    o:
+      - "Be innocent of the knowledge, dearest chuck,"
+      - "Till thou applaud the deed. Come, seeling night,"
+      - "Scarf up the tender eye of pitiful day"
+      - "And with thy bloody and invisible hand"
+      - "Cancel and tear to pieces that great bond"
+      - "Which keeps me pale. Light thickens, and the crow"
+      - "Makes wing to th’ rooky wood."
+      - "Good things of day begin to droop and drowse;"
+      - "Whiles night’s black agents to their preys do rouse."
+      - "Thou marvel’st at my words: but hold thee still."
+      - "Things bad begun make strong themselves by ill."
+      - "So, prithee, go with me."
+    m:
+      - "It’s better you don’t know about it until after it’s done, when you can applaud it. *(to the night)* Come, night, and blindfold the kindhearted day. Use your bloody and invisible hand to tear up Banquo’s lease on life, which keeps me in fear. *(to himself)* The sky’s getting dark, and the crow is returning home to the woods. The gentle creatures of the day are falling asleep, while night’s predators are waking up to look for their prey. *(to LADY MACBETH)* You seem surprised at my words, but don’t question me yet. Bad deeds force you to commit more bad deeds. So please, come with me."
+
+  - os: "Exeunt"
+    ms: "They exit."

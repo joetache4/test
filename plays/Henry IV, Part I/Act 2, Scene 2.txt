@@ -1,0 +1,336 @@
+play: Henry IV, Part I
+title: Act 2, Scene 2
+group: 2
+order: 4
+text:
+  - os: "Enter PRINCE HENRY, POINS, BARDOLPH, and PETO"
+    ms: "PRINCE HENRY, POINS, PETO, and BARDOLPH enter."
+
+  - sp: POINS
+    o:
+      - "Come, shelter, shelter! I have removed Falstaff’s horse, and he frets like a gummed velvet."
+    m:
+      - "Come on, hide, hide! I stole Falstaff’s horse, and he’s rubbed the wrong way; he’s fraying like cheap velvet."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Stand close."
+    m:
+      - "Stay hidden."
+
+  - os: "Exit POINS, BARDOLPH, and PETO exit"
+    ms: "POINS, PETO and BARDOLPH exit."
+
+  - os: "Enter FALSTAFF"
+    ms: "FALSTAFF enters."
+
+  - sp: FALSTAFF
+    o:
+      - "Poins! Poins, and be hanged! Poins!"
+    m:
+      - "Poins! Poins, damn you! Poins!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Peace, you fat-kidneyed rascal. What a brawling dost thou keep!"
+    m:
+      - "Quiet, you fat-bellied jerk! What a racket you’re making!"
+
+  - sp: FALSTAFF
+    o:
+      - "Where’s Poins, Hal?"
+    m:
+      - "Where’s Poins, Hal?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "He is walked up to the top of the hill. I’ll go seek him."
+    m:
+      - "He walked up the hill. I’ll go find him."
+
+  - os: "Exit PRINCE HENRY"
+    ms: "PRINCE HENRY exits."
+
+  - sp: FALSTAFF
+    o:
+      - "I am accursed to rob in that thief’s company. The rascal hath removed my horse and tied him I know not where. If I travel but four foot by the square further afoot, I shall break my wind. Well, I doubt not but to die a fair death for all this, if I ’scape hanging for killing that rogue. I have forsworn his company hourly any time this two-and-twenty years, and yet I am bewitched with the rogue’s company. If the rascal hath not given me medicines to make me love him, I’ll be hanged. It could not be else: I have drunk medicines.— Poins! Hal! A plague upon you both.—Bardolph! Peto!— I’ll starve ere I’ll rob a foot further. An ’twere not as good a deed as drink to turn true man and to leave these rogues, I am the veriest varlet that ever chewed with a tooth. Eight yards of uneven ground is threescore and ten miles afoot with me, and the stony-hearted villains know it well enough. A plague upon it when thieves cannot be true one to another!"
+    m:
+      - "I got a raw deal, to be out robbing with him. He stole my horse and tied him up someplace. If I have to walk even four feet more, I’ll be totally out of breath. Still, I bet I’ll die a natural death—if I don’t get hanged for killing that jerk, that is. Every hour for the past twenty-two years, I’ve sworn I’d never talk to him again, but I love his company. He must have slipped me a love potion that makes me adore him. Damn, that must be it: I have drunk love potions. Poins! Hal! Drop dead, the both of you! Bardolph! Peto! I’ll die if I have to walk another foot. If turning honest and abandoning these jerks weren’t the best things I could possibly do for myself, then I’m the worst scoundrel that ever lived. Eight yards of rough road is like seventy miles to me, and these hard-hearted crooks know it. It stinks when there’s no honor among thieves."
+
+  - os: "They whistle."
+    ms: "They whistle from offstage."
+
+  - o:
+      - "Whew!"
+    m:
+      - "Whew!"
+
+  - os: "Enter PRINCE HENRY, POINS, PETO, and BARDOLPH"
+    ms: "PRINCE HENRY, POINS, PETO, and BARDOLPHenter."
+
+  - o:
+      - "A plague upon you all! Give me my horse, you rogues. Give me my horse and be hanged!"
+    m:
+      - "The hell with you all! Give me my horse, you deadbeats. Give me my horse and the hell with you!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Peace, you fat guts! Lie down, lay thine ear close to the ground, and list if thou canst hear the tread of travelers."
+    m:
+      - "Shut up, fatso! Lie down, put your ear to the ground, and listen for the footsteps of travelers."
+
+  - sp: FALSTAFF
+    o:
+      - "Have you any levers to lift me up again being down? ’Sblood, I’ll not bear mine own flesh so far afoot again for all the coin in thy father’s Exchequer. What a plague mean you to colt me thus?"
+    m:
+      - "Do you have a crane to lift me up again once I’m down? Damn, I wouldn’t walk my fat self this far again for all the money in your father’s treasury. What are you doing horsing around with me like this?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Thou liest. Thou art not colted; thou art uncolted."
+    m:
+      - "You’re lying. We can’t horse around, because you don’t have a horse."
+
+  - sp: FALSTAFF
+    o:
+      - "I prithee, good Prince Hal, help me to my horse, good king’s son."
+    m:
+      - "Please, my good Hal, help me find my horse, you good king’s son."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Out, you rogue! Shall I be your ostler?"
+    m:
+      - "Later with that! You want me to be your stable boy?"
+
+  - sp: FALSTAFF
+    o:
+      - "Hang thyself in thine own heir-apparent garters! If I be ta’en, I’ll peach for this. An I have not ballads made on you all and sung to filthy tunes, let a cup of sack be my poison—when a jest is so forward, and afoot too! I hate it."
+    m:
+      - "Go drop dead in your own heir-apparent pants. If I’m arrested, I’ll rat you out, too. If I don’t get them singing dirty songs in the street about you all, let me be poisoned to death with booze. I hate it when a practical joke gets so out of hand—and with me out of a horse, too!"
+
+  - os: "Enter GADSHILL"
+    ms: "GADSHILL enters."
+
+  - sp: GADSHILL
+    o:
+      - "Stand."
+    m:
+      - "Freeze!"
+
+  - sp: FALSTAFF
+    o:
+      - "So I do, against my will."
+    m:
+      - "I am, and I don’t like it."
+
+  - sp: POINS
+    o:
+      - "O, ’tis our setter. I know his voice, Bardolph. —What news?"
+    m:
+      - "Oh, that’s the man who planned the whole thing; I recognize his voice, Bardolph.— What’s going on?"
+
+  - sp: GADSHILL
+    o:
+      - "Case you, case you. On with your vizards. There’s money of the King’s coming down the hill. ’Tis going to the King’s Exchequer."
+    m:
+      - "Cover your faces, cover your faces. Get your masks on. There’s tax money coming down the hill, on its way to the King’s treasury."
+
+  - sp: FALSTAFF
+    o:
+      - "You lie, you rogue. ’Tis going to the King’s Tavern."
+    m:
+      - "That’s a lie, you clown. It’s on its way to the king’s bank."
+
+  - sp: GADSHILL
+    o:
+      - "There’s enough to make us all."
+    m:
+      - "There’s enough to make us all rich."
+
+  - sp: FALSTAFF
+    o:
+      - "To be hanged."
+    m:
+      - "Or to get us all hanged."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Sirs, you four shall front them in the narrow lane. Ned Poins and I will walk lower. If they ’scape from your encounter, then they light on us."
+    m:
+      - "Listen, you four confront them in the narrow lane. Ned Poins and I will wait further down. If they get away from you, they’ll run right into us."
+
+  - sp: PETO
+    o:
+      - "How many be there of them?"
+    m:
+      - "How many of them are there?"
+
+  - sp: GADSHILL
+    o:
+      - "Some eight or ten."
+    m:
+      - "About eight or ten."
+
+  - sp: FALSTAFF
+    o:
+      - "Zounds, will they not rob us?"
+    m:
+      - "Damn! Won’t they rob us?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, a coward, Sir John Paunch?"
+    m:
+      - "What, are you a coward, Sir John Fatstuff?"
+
+  - sp: FALSTAFF
+    o:
+      - "Indeed, I am not John of Gaunt, your grandfather, but yet no coward, Hal."
+    m:
+      - "Well, I’m certainly not John of Gaunt, your grandfather, but I’m no coward, Hal."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Well, we leave that to the proof."
+    m:
+      - "Well, we’ll see about that."
+
+  - sp: POINS
+    o:
+      - "Sirrah Jack, thy horse stands behind the hedge. When thou needest him, there thou shalt find him. Farewell, and stand fast."
+    m:
+      - "Jack, sirrah, your horse is there behind the hedge. When you need him, that’s where you’ll find him. So long, and be brave."
+
+  - sp: FALSTAFF
+    o:
+      - "Now cannot I strike him, if I should be hanged."
+    m:
+      - "I can’t hit him. I’d be hanged."
+
+  - sp: PRINCE HENRY
+    o:
+      - "*(aside to POINS)* Ned, where are our disguises?"
+    m:
+      - "*(to POINS, so others cannot hear)* Ned, where are our disguises?"
+
+  - sp: POINS
+    o:
+      - "*(aside to PRINCE HENRY)* Here, hard by. Stand close."
+    m:
+      - "*(to PRINCE HENRY)* They’re here, close by. Now hide."
+
+  - os: "Exeunt PRINCE HENRY and POINS"
+    ms: "PRINCE HENRY and POINS exit."
+
+  - sp: FALSTAFF
+    o:
+      - "Now, my masters, happy man be his dole, say I. Every man to his business."
+    m:
+      - "Now, men, here’s to happy endings. Every man to his station."
+
+  - os: "Enter the TRAVELERS"
+    ms: "The TRAVELERS enter."
+
+  - sp: FIRST TRAVELER
+    o:
+      - "Come, neighbor, the boy shall lead our horses down the hill."
+      - "We’ll walk afoot awhile and ease our legs."
+    m:
+      - "Come on, friend. The boy will lead our horses down the hill while we walk a bit and stretch our legs."
+
+  - sp: THIEVES
+    o:
+      - "Stand!"
+    m:
+      - "Freeze!"
+
+  - sp: TRAVELERS
+    o:
+      - "Jesus bless us!"
+    m:
+      - "Jesus bless us!"
+
+  - sp: FALSTAFF
+    o:
+      - "Strike! Down with them! Cut the villains’ throats! Ah, whoreson caterpillars, bacon-fed knaves, they hate us youth. Down with them! Fleece them!"
+    m:
+      - "Hit them! Down with them! Cut their throats! Yahhhhh! No-good bloodsuckers! Overfed morons! They hate young people like us. Down with them! Rob them blind!"
+
+  - sp: TRAVELERS
+    o:
+      - "O, we are undone, both we and ours forever!"
+    m:
+      - "Oh! We’re done for!"
+
+  - sp: FALSTAFF
+    o:
+      - "Hang, you gorbellied knaves! Are you undone? No, you fat chuffs. I would your store were here. On, bacons, on! What, you knaves, young men must live. You are grandjurors, are you? We’ll jure you, faith."
+    m:
+      - "Damn it, you potbellied morons, are you finished? No, you fat misers. I wish everything you owned were here. Come on, pigs, come on! What, you idiots! Young men have to survive. You’re Grand Jurors, aren’t you? Well here’s some justice for you!"
+
+  - os: "Here they rob them and bind them. Exeunt"
+    ms: "The thieves rob the travelers and tie them up. They all exit."
+
+  - os: "Enter PRINCE HENRY and POINS"
+    ms: "PRINCE HENRY and POINS enter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "The thieves have bound the true men. Now could thou and I rob the thieves and go merrily to London, it would be argument for a week, laughter for a month, and a good jest forever."
+    m:
+      - "The thieves have tied up the honest men. If you and I can now rob the robbers and run laughing to London, we would talk about it for a week, laugh about it for a month, and it would be a hilarious story forever."
+
+  - sp: POINS
+    o:
+      - "Stand close, I hear them coming."
+    m:
+      - "Get down. I hear them coming."
+
+  - os: "PRINCE HENRY and POINS hide. Enter the thieves again"
+    ms: "PRINCE HENRY and POINS hide. The THIEVES return."
+
+  - sp: FALSTAFF
+    o:
+      - "Come, my masters, let us share, and then to horse before day. An the Prince and Poins be not two arrant cowards, there’s no equity stirring. There’s no more valor in that Poins than in a wild duck."
+    m:
+      - "Come on, boys, let’s divide up the spoils and then ride off before dawn. If the Prince and Poins aren’t cowards, there’s no justice in the universe. Poins is about as brave as a duck."
+
+  - os: "As they are sharing, PRINCE HENRY and POINS set upon them."
+    ms: "As the thieves split the money, PRINCE HENRY and POINS attack them."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Your money!"
+    m:
+      - "*(in disguise)* Give us your money!"
+
+  - sp: POINS
+    o:
+      - "Villains!"
+    m:
+      - "*(in disguise)* Crooks!"
+
+  - os: "They all run away, and FALSTAFF , after a blow or two, runs away too, leaving the booty behind them."
+    ms: "The thieves all run away. FALSTAFF fights for a moment, then runs away as well, leaving all of the money behind."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Got with much ease. Now merrily to horse."
+      - "The thieves are all scattered, and possessed with fear"
+      - "So strongly that they dare not meet each other."
+      - "Each takes his fellow for an officer."
+      - "Away, good Ned. Falstaff sweats to death,"
+      - "And lards the lean earth as he walks along."
+      - "Were ’t not for laughing, I should pity him."
+    m:
+      - "Too easy. Now we ride off happily. The thieves have scattered, and they’re so terrified that they don’t even want to run into each other—they’ll each think that the other guy is an officer! Let’s go, Ned. Falstaff is sweating so hard that he’s watering the ground as he walks along. If I weren’t laughing so hard, I’d actually feel sorry for him."
+
+  - sp: POINS
+    o:
+      - "How the fat rogue roared!"
+    m:
+      - "How loud that fat rogue screamed!"
+
+  - os: "Exeunt"
+    ms: "They exit."

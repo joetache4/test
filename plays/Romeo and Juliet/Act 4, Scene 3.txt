@@ -1,0 +1,101 @@
+play: Romeo and Juliet
+title: Act 4, Scene 3
+group: 4
+order: 20
+text:
+  - os: "Enter JULIET and NURSE"
+    ms: "JULIET and the NURSE enter."
+
+  - sp: JULIET
+    o:
+      - "Ay, those attires are best. But, gentle Nurse,"
+      - "I pray thee, leave me to myself tonight,"
+      - "For I have need of many orisons"
+      - "To move the heavens to smile upon my state,"
+      - "Which, well thou know’st, is cross and full of sin."
+    m:
+      - "Yes, those are the best clothes. But, gentle Nurse, please leave me alone tonight. I have to say a lot of prayers to make the heavens bless me. You know that my life is troubled and full of sin."
+
+  - os: "Enter LADY CAPULET"
+    ms: "LADY CAPULET enters."
+
+  - sp: LADY CAPULET
+    o:
+      - "What, are you busy, ho? Need you my help?"
+    m:
+      - "What, are you busy? Do you need my help?"
+
+  - sp: JULIET
+    o:
+      - "No, madam. We have culled such necessaries"
+      - "As are behooveful for our state tomorrow."
+      - "So please you, let me now be left alone,"
+      - "And let the Nurse this night sit up with you."
+      - "For, I am sure, you have your hands full all"
+      - "In this so sudden business."
+    m:
+      - "No, madam, we’ve figured out the best things for me to wear tomorrow at the ceremony. So if it’s okay with you, I’d like to be left alone now. Let the Nurse sit up with you tonight. I’m sure you have your hands full preparing for the sudden festivities."
+
+  - sp: LADY CAPULET
+    o:
+      - "    Good night."
+      - "Get thee to bed and rest, for thou hast need."
+    m:
+      - "Good night. Go to bed and get some rest. I’m sure you need it."
+
+  - os: "Exeunt LADY CAPULET and NURSE"
+    ms: "LADY CAPULET and the NURSE exit."
+
+  - sp: JULIET
+    o:
+      - "Farewell!—God knows when we shall meet again."
+      - "I have a faint cold fear thrills through my veins"
+      - "That almost freezes up the heat of life."
+      - "I’ll call them back again to comfort me.—"
+      - "Nurse!—What should she do here?"
+      - "My dismal scene I needs must act alone."
+      - "Come, vial. *(holds out the vial)*"
+      - "What if this mixture do not work at all?"
+      - "Shall I be married then tomorrow morning?"
+      - "No, no. This shall forbid it. Lie thou there."
+      - "*(lays her knife down)*"
+      - "What if it be a poison, which the friar"
+      - "Subtly hath ministered to have me dead,"
+      - "Lest in this marriage he should be dishonored"
+      - "Because he married me before to Romeo?"
+      - "I fear it is. And yet, methinks, it should not,"
+      - "For he hath still been tried a holy man."
+      - "How if, when I am laid into the tomb,"
+      - "I wake before the time that Romeo"
+      - "Come to redeem me? There’s a fearful point."
+      - "Shall I not, then, be stifled in the vault"
+      - "To whose foul mouth no healthsome air breathes in,"
+      - "And there die strangled ere my Romeo comes?"
+      - "Or, if I live, is it not very like"
+      - "The horrible conceit of death and night,"
+      - "Together with the terror of the place—"
+      - "As in a vault, an ancient receptacle,"
+      - "Where for these many hundred years the bones"
+      - "Of all my buried ancestors are packed;"
+      - "Where bloody Tybalt, yet but green in earth,"
+      - "Lies festering in his shroud; where, as they say,"
+      - "At some hours in the night spirits resort—?"
+      - "Alack, alack, is it not like that I,"
+      - "So early waking, what with loathsome smells,"
+      - "And shrieks like mandrakes torn out of the earth,"
+      - "That living mortals, hearing them, run mad—?"
+      - "Oh, if I wake, shall I not be distraught,"
+      - "Environèd with all these hideous fears,"
+      - "And madly play with my forefather’s joints,"
+      - "And pluck the mangled Tybalt from his shroud,"
+      - "And, in this rage, with some great kinsman’s bone,"
+      - "As with a club, dash out my desperate brains?"
+      - "Oh, look! Methinks I see my cousin’s ghost"
+      - "Seeking out Romeo, that did spit his body"
+      - "Upon a rapier’s point. Stay, Tybalt, stay!"
+      - "Romeo, Romeo, Romeo! Here’s drink. I drink to thee."
+    m:
+      - "Good-bye. Only God knows when we’ll meet again. There is a slight cold fear cutting through my veins. It almost freezes the heat of life. I’ll call them back here to comfort me. Nurse!—Oh, what good would she do here? In my desperate situation, I have to act alone. Alright, here’s the vial. What if this mixture doesn’t work at all? Will I be married tomorrow morning? No, no, this knife will stop it. Lie down right there. *(she lays down the knife)* What if the Friar mixed the potion to kill me? Is he worried that he will be disgraced if I marry Paris after he married me to Romeo? I’m afraid that it’s poison. And yet, it shouldn’t be poison because he is a trustworthy holy man. What if, when I am put in the tomb, I wake up before Romeo comes to save me? That’s a frightening idea. Won’t I suffocate in the tomb? There’s no healthy air to breathe in there. Will I die of suffocation before Romeo comes? Or if I live, I’ll be surrounded by death and darkness. It will be terrible. There will be bones hundreds of years old in that tomb, my ancestors’ bones. Tybalt’s body will be in there, freshly entombed, and his corpse will be rotting. They say that during the night the spirits are in tombs. Oh no, oh no. I’ll wake up and smell awful odors. I’ll hear screams that would drive people crazy. If I wake up too early, won’t I go insane with all these horrible, frightening things around me, start playing with my ancestors’ bones, and pull Tybalt’s corpse out of his death shroud? Will I grab one of my dead ancestor’s bones and bash in my own skull? Oh, look! I think I see my cousin Tybalt’s ghost. He’s looking for Romeo because Romeo killed him with his sword. Wait, Tybalt, wait! Romeo, Romeo, Romeo! Here’s a drink. I drink to you."
+
+  - os: "She drinks and falls down on the bed, hidden by the bed curtains"
+    ms: "She drinks from the vial and falls on her bed, hidden by her bed curtains."

@@ -1,0 +1,425 @@
+play: Henry IV, Part II
+title: Act 1, Scene 1
+group: 1
+order: 1
+text:
+  - os: "Enter LORD BARDOLPH"
+    ms: "  LORD BARDOLPH enters."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "Who keeps the gate here, ho?"
+    m:
+      - "Hello? Who’s the doorman around here?"
+
+  - os: "Enter the PORTER"
+    ms: "The PORTER opens the door."
+
+  - o:
+      - "  Where is the Earl?"
+    m:
+      - "*(to the PORTER)* Where’s the Earl?"
+
+  - sp: PORTER
+    o:
+      - "What shall I say you are?"
+    m:
+      - "Who shall I say you are?"
+
+  - sp: LORD BARDOLPH
+    o:
+      - "  Tell thou the Earl"
+      - "That the Lord Bardolph doth attend him here."
+    m:
+      - "Tell the Earl that the Lord Bardolph is here to see him."
+
+  - sp: PORTER
+    o:
+      - "His lordship is walked forth into the orchard."
+      - "Please it your Honor knock but at the gate"
+      - "And he himself will answer."
+    m:
+      - "His lordship is out walking in the orchard. If you don’t mind, knock at the orchard gate and he’ll answer it himself."
+
+  - os: "NORTHUMBERLAND Enter"
+    ms: "NORTHUMBERLAND enters from another side of the stage."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "  Here comes the Earl."
+    m:
+      - "Here comes the Earl."
+
+  - os: "Exit PORTER"
+    ms: "The PORTER exits."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "What news, Lord Bardolph? Every minute now"
+      - "Should be the father of some stratagem."
+      - "The times are wild. Contention, like a horse"
+      - "Full of high feeding, madly hath broke loose"
+      - "And bears down all before him."
+    m:
+      - "What’s the news, Lord Bardolph? Every minute, new violence erupts; it is a wild time. Conflict is like a horse, fed with too much rich food: it has broken out uncontrollably, and tramples everyone who stands before it."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "  Noble Earl,"
+      - "I bring you certain news from Shrewsbury."
+    m:
+      - "Noble Earl, I have reliable news from Shrewsbury."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Good, an God will!"
+    m:
+      - "Good news, God willing."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "As good as heart can wish."
+      - "The King is almost wounded to the death,"
+      - "And, in the fortune of my lord your son,"
+      - "Prince Harry slain outright; and both the Blunts"
+      - "Killed by the hand of Douglas; young Prince John"
+      - "And Westmoreland and Stafford fled the field;"
+      - "And Harry Monmouth’s brawn, the hulk Sir John,"
+      - "Is prisoner to your son. O, such a day,"
+      - "So fought, so followed, and so fairly won,"
+      - "Came not till now to dignify the times"
+      - "Since Caesar’s fortunes."
+    m:
+      - "As good as one could wish for. The King has been wounded and is near death. And, thanks to your son’s luck, Prince Harry has been killed. Douglas killed both Lords Blunt. Prince John of Lancaster, Westmoreland, and Stafford fled the battlefield. And your son captured that hulking Sir John Falstaff, Prince Harry’s fattened pig. Oh, there hasn’t been a battle so well fought or a victory so well won since the days of Julius Caesar! It brings honor to our times."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "  How is this derived?"
+      - "Saw you the field? Came you from Shrewsbury?"
+    m:
+      - "How do you know all this? Did you see the battlefield? Did you come from Shrewsbury?"
+
+  - sp: LORD BARDOLPH
+    o:
+      - "I spake with one, my lord, that came from thence,"
+      - "A gentleman well bred and of good name,"
+      - "That freely rendered me these news for true."
+    m:
+      - "I talked with someone, my lord, who was coming from there. He was a gentleman, with good breeding and a good reputation. He swore that all this was the truth."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Here comes my servant Travers, who I sent"
+      - "On Tuesday last to listen after news."
+    m:
+      - "Here comes my servant, Travers. I sent him last Tuesday to find out what was happening."
+
+  - os: "Enter TRAVERS"
+    ms: "TRAVERS enters."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "My lord, I overrode him on the way;"
+      - "And he is furnished with no certainties"
+      - "More than he haply may retail from me."
+    m:
+      - "Sir, I passed him on my way here. He doesn’t know anything more than what I told him."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Now, Travers, what good tidings comes with you?"
+    m:
+      - "Now Travers, what good news do you have?"
+
+  - sp: TRAVERS
+    o:
+      - "My lord, Sir John Umfrevile turned me back"
+      - "With joyful tidings and, being better horsed,"
+      - "Outrode me. After him came spurring hard"
+      - "A gentleman, almost forspent with speed,"
+      - "That stopp’d by me to breathe his bloodied horse."
+      - "He asked the way to Chester, and of him"
+      - "I did demand what news from Shrewsbury."
+      - "He told me that rebellion had bad luck"
+      - "And that young Harry Percy’s spur was cold."
+      - "With that he gave his able horse the head"
+      - "And, bending forward, struck his armèd heels"
+      - "Against the panting sides of his poor jade"
+      - "Up to the rowel-head, and starting so"
+      - "He seemed in running to devour the way,"
+      - "Staying no longer question."
+    m:
+      - "Sir, Lord Bardolph told me happy news and I turned around, to come back here. But he had a faster horse, so he passed me and got here first. Another man came after him, riding hard. He was nearly exhausted from going so fast, and he stopped to give his bleeding horse a break. He asked me for directions to Chester, and I demanded to hear news from Shrewsbury. He said that the rebels had been beaten, and that Harry Percy’s spur was cold. Then he took off on his horse, leaned forward in his saddle, and jammed his heels into the animal’s side so hard that they almost disappeared. He rode so fast he seemed to be devouring the highway. He didn’t stay around to answer any of my questions."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "  Ha? Again:"
+      - "Said he young Harry Percy’s spur was cold?"
+      - "Of Hotspur, Coldspur? That rebellion"
+      - "Had met ill luck?"
+    m:
+      - "What? Say that again: he said that Harry Percy’s spur was cold? Hotspur is now “Coldspur?” That the rebels had bad luck?"
+
+  - sp: LORD BARDOLPH
+    o:
+      - "  My lord, I’ll tell you what:"
+      - "If my young lord your son have not the day,"
+      - "Upon mine honor, for a silken point"
+      - "I’ll give my barony. Never talk of it."
+    m:
+      - "My lord, I’ll tell you what—if your son hasn’t won, on my honor, I’ll exchange all my land for a lace to tie stockings with; don’t even say such a thing."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Why should that gentleman that rode by Travers"
+      - "Give then such instances of loss?"
+    m:
+      - "But why would that gentleman who rode past Travers describe such examples of loss?"
+
+  - sp: LORD BARDOLPH
+    o:
+      - "  Who, he?"
+      - "He was some hilding fellow that had stolen"
+      - "The horse he rode on and, upon my life,"
+      - "Spoke at a venture. Look, here comes more news."
+    m:
+      - "Who, him? He was some insignificant nobody who stole the horse he was riding and, I bet my life, was just talking nonsense. Look, here comes another messenger."
+
+  - os: "Enter MORTON"
+    ms: "MORTON enters."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Yea, this man’s brow, like to a title leaf,"
+      - "Foretells the nature of a tragic volume."
+      - "So looks the strand whereon the imperious flood"
+      - "Hath left a witness’d usurpation.—"
+      - "Say, Morton, didst thou come from Shrewsbury?"
+    m:
+      - "Yes. And the look on his face is like the title page of a book: it hints at the tragic story within. His brow is lined with furrows, like a beach after a wild flood. Morton, did you come from Shrewsbury?"
+
+  - sp: MORTON
+    o:
+      - "I ran from Shrewsbury, my noble lord,"
+      - "Where hateful death put on his ugliest mask"
+      - "To fright our party."
+    m:
+      - "I ran from Shrewsbury, my noble lord. Death was there, frightening our side with his ugliest mask."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "How doth my son and brother?"
+      - "Thou tremblest, and the whiteness in thy cheek"
+      - "Is apter than thy tongue to tell thy errand."
+      - "Even such a man, so faint, so spiritless,"
+      - "So dull, so dead in look, so woebegone,"
+      - "Drew Priam’s curtain in the dead of night,"
+      - "And would have told him half his Troy was burnt;"
+      - "But Priam found the fire ere he his tongue,"
+      - "And I my Percy’s death ere thou report’st it."
+      - "This thou wouldst say, “Your son did thus and thus;"
+      - "Your brother thus; so fought the noble Douglas”—"
+      - "Stopping my greedy ear with their bold deeds."
+      - "But in the end, to stop my ear indeed,"
+      - "Thou hast a sigh to blow away this praise,"
+      - "Ending with “Brother, son, and all are dead.”"
+    m:
+      - "How are my son and my brother? You’re trembling, and the paleness of your face is more likely to convey your news than your tongue. This is like that old story about the burning of Troy. A man like you—faint, lifeless, dull, deadly-looking, sad—woke King Priam in the dead of night to tell him that half the city of Troy had been burned down. But Priam saw the fire before this man could speak, and I can see my Percy’s death before you report it. You’re going to tell me, “Your son did such-and-such; your brother did this; the noble Douglas fought like so.” You’ll stuff my greedy ears with stories of their bold deeds. But in the end, you’ll stop my ears forever with a sigh that blows away all your words of praise. You will end your story by saying, “Your brother, your son, everyone-dead.”"
+
+  - sp: MORTON
+    o:
+      - "Douglas is living, and your brother yet,"
+      - "But for my lord your son—"
+    m:
+      - "Douglas is alive, and so is your brother, for now. But as for your son, my lord—"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "  Why, he is dead."
+      - "See what a ready tongue suspicion hath!"
+      - "He that but fears the thing he would not know"
+      - "Hath, by instinct, knowledge from others’ eyes"
+      - "That what he feared is chancèd. Yet speak, Morton."
+      - "Tell thou an earl his divination lies,"
+      - "And I will take it as a sweet disgrace"
+      - "And make thee rich for doing me such wrong."
+    m:
+      - "Why, he is dead. My suspicion is so quick to speak! When a man fears something, and doesn’t want to know the truth, he can still tell when that thing has happened; by instinct, he can read it in another man’s eyes. But speak, Morton. Tell me, who am an earl, that I have no talent for prophecy. I’ll take it as a pleasant insult, and I’ll pay you richly for doing me that wrong."
+
+  - sp: MORTON
+    o:
+      - "You are too great to be by me gainsaid,"
+      - "Your spirit is too true, your fears too certain."
+    m:
+      - "You are too great a man to be slandered by me. Your instinct is correct; your fears are true."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Yet, for all this, say not that Percy’s dead."
+      - "I see a strange confession in thine eye."
+      - "Thou shak’st thy head and hold’st it fear or sin"
+      - "To speak a truth. If he be slain, say so."
+      - "The tongue offends not that reports his death;"
+      - "And he doth sin that doth belie the dead,"
+      - "Not he which says the dead is not alive."
+      - "Yet the first bringer of unwelcome news"
+      - "Hath but a losing office, and his tongue"
+      - "Sounds ever after as a sullen bell"
+      - "Remembered tolling a departing friend."
+    m:
+      - "But despite all this, don’t say that Percy’s dead. I can see a strange sort of confession in your eyes. You shake your head; you’re afraid to tell the truth, or you think it would be sinful. If he’s been killed, say so. The man who reports a death doesn’t offend with that report. To lie about the dead is a sin, but it is no sin to say that a dead man is not alive. It’s a losing situation, being the first man to bring unwelcome news. That man’s voice sounds forever like a sad bell, and it will always be remembered for tolling the death of a friend."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "I cannot think, my lord, your son is dead."
+    m:
+      - "My lord, I cannot believe your son is dead."
+
+  - sp: MORTON
+    o:
+      - "I am sorry I should force you to believe"
+      - "That which I would to God I had not seen,"
+      - "But these mine eyes saw him in bloody state,"
+      - "Rend’ring faint quittance, wearied and outbreathed,"
+      - "To Harry Monmouth; whose swift wrath beat down"
+      - "The never-daunted Percy to the earth,"
+      - "From whence with life he never more sprung up."
+      - "In few, his death, whose spirit lent a fire"
+      - "Even to the dullest peasant in his camp,"
+      - "Being bruited once, took fire and heat away"
+      - "From the best tempered courage in his troops;"
+      - "For from his metal was his party steeled,"
+      - "Which, once in him abated, all the rest"
+      - "Turned on themselves, like dull and heavy lead."
+      - "And as the thing that’s heavy in itself"
+      - "Upon enforcement flies with greatest speed,"
+      - "So did our men, heavy in Hotspur’s loss,"
+      - "Lend to this weight such lightness with their fear"
+      - "That arrows fled not swifter toward their aim"
+      - "Than did our soldiers, aiming at their safety,"
+      - "Fly from the field. Then was the noble Worcester"
+      - "Too soon ta’en prisoner; and that furious Scot,"
+      - "The bloody Douglas, whose well-laboring sword"
+      - "Had three times slain th’appearance of the King,"
+      - "Gan vail his stomach and did grace the shame"
+      - "Of those that turned their backs and in his flight,"
+      - "Stumbling in fear, was took. The sum of all"
+      - "Is that the King hath won and hath sent out"
+      - "A speedy power to encounter you, my lord,"
+      - "Under the conduct of young Lancaster"
+      - "And Westmoreland. This is the news at full."
+    m:
+      - "I’m sorry that I must force you to believe this, when I wish to God that I hadn’t seen it myself. But I saw him, in his bloody state, with my own eyes. He was barely able to fight back, exhausted and out of breath. Harry Monmouth’s swift fury beat the unflinching Percy down to the ground, and once he was there, Percy never rose again. To be brief, Percy’s spirit inspired the entire army, down to the dullest peasant. When the news got out that he had been killed, it took the fire and courage away from even the bravest soldiers. Percy’s metal steeled the whole army; when they learned that he had been blunted, they bent and warped like dull, heavy lead. And just as a heavy object gains momentum once it’s pushed into motion, our army, made heavy by Hotspur’s death, suddenly started moving fast—faster than arrows flying toward a target—but they flew toward safety, not toward the battle. Soon, Worcester, that furious Scotsman, was captured. The warlike Douglas, who killed three enemies disguised as King Henry, began to lose courage: he ran away as well, lending his authority to the shameful retreat. But running in fear, he stumbled and was captured. The bottom line is that King Henry has won. He’s sent a speedy force after you, sir, led by young John of Lancaster and Westmoreland. That is the whole story."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "For this I shall have time enough to mourn."
+      - "In poison there is physic, and these news,"
+      - "Having been well, that would have made me sick,"
+      - "Being sick, have in some measure made me well."
+      - "And as the wretch whose fever-weakened joints,"
+      - "Like strengthless hinges, buckle under life,"
+      - "Impatient of his fit, breaks like a fire"
+      - "Out of his keeper’s arms, even so my limbs,"
+      - "Weakened with grief, being now enraged with grief,"
+      - "Are thrice themselves. Hence therefore, thou nice crutch."
+      - "A scaly gauntlet now with joints of steel"
+      - "Must glove this hand. And hence, thou sickly coif."
+      - "Thou art a guard too wanton for the head"
+      - "Which princes, fleshed with conquest, aim to hit."
+      - "Now bind my brows with iron, and approach"
+      - "The ragged’st hour that time and spite dare bring"
+      - "To frown upon th’enraged Northumberland."
+      - "Let heaven kiss earth! Now let not Nature’s hand"
+      - "Keep the wild flood confined. Let order die,"
+      - "And let this world no longer be a stage"
+      - "To feed contention in a lingering act;"
+      - "But let one spirit of the firstborn Cain"
+      - "Reign in all bosoms, that, each heart being set"
+      - "On bloody courses, the rude scene may end,"
+      - "And darkness be the burier of the dead."
+    m:
+      - "There will be time to mourn for this. Sometimes poison can be a kind of medicine: this news, which would have made me sick had I been well, has, because I am sick, made me well. A dying man—his joints weakened by fever, dangling like useless hinges and crumpling under the man’s own weight—will sometimes be stuck with a fit of impatience, causing him to burst out of his caretaker’s arms. My limbs are like that now; once weakened by grief, they’re now enraged by grief, and are three times as powerful as they were before. Away from me, you unmanly crutch! Chain mail armor will cover my hands now. Away from me, you invalid’s cap! You are too fanciful a helmet for this head which is now the target of kings, grown arrogant with their victories. Wrap my head in iron, and then attack me with the roughest things that destiny and hatred will dare to bring upon me in my rage. Let the sky come crashing down! Let the ocean overflow the shores! Let law and order die! And let the world no longer be a stage for a long, drawn-out struggle: let the spirit of Cain, who committed the first murder against his brother Abel, live in every heart. If every heart is a murderer’s heart, this violent play will end, and darkness will shroud the corpses."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "This strainèd passion doth you wrong, my lord."
+    m:
+      - "This extreme passion is bad for you, sir."
+
+  - sp: MORTON
+    o:
+      - "Sweet Earl, divorce not wisdom from your honor."
+      - "The lives of all your loving complices"
+      - "Lean on your health, the which, if you give o’er"
+      - "To stormy passion, must perforce decay."
+      - "You cast th’ event of war, my noble lord,"
+      - "And summed the account of chance before you said"
+      - "“Let us make head.” It was your presurmise"
+      - "That, in the dole of blows your son might drop."
+      - "You knew he walked o’er perils on an edge,"
+      - "More likely to fall in than to get o’er."
+      - "You were advised his flesh was capable"
+      - "Of wounds and scars, and that his forward spirit"
+      - "Would lift him where most trade of danger ranged."
+      - "Yet did you say “Go forth,” and none of this,"
+      - "Though strongly apprehended, could restrain"
+      - "The stiff-borne action. What hath then befall’n,"
+      - "Or what did this bold enterprise brought forth,"
+      - "More than that being which was like to be?"
+    m:
+      - "Gentle Earl, don’t abandon your wisdom. All your allies are depending on you and your well-being. If you allow yourself to indulge in this kind of stormy emotion, your health will deteriorate even further. Before you said, “Let’s raise an army,” you calculated how the war might end, and you thought carefully about the likeliness of a victory. You knew from the beginning that, once the fighting started, your son might die. You knew that he was treading dangerously, as if on the edge of a precipice: you knew he was more likely to fall over than make it across. You were warned that your son was made of flesh and blood, and that it was possible he’d get hurt. You were warned that his temper and hot-headedness would push him into the most dangerous situations. But you still said, “Go forward.” None of this consideration, even though it was clearly understood, could stop the stubborn course of events. So what happened here? What has been the result of this brave undertaking? Only this: precisely what was likely to happen in the first place."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "We all that are engagèd to this loss"
+      - "Knew that we ventured on such dangerous seas"
+      - "That if we wrought out life, ’twas ten to one;"
+      - "And yet we ventured, for the gain proposed"
+      - "Choked the respect of likely peril feared;"
+      - "And since we are o’erset, venture again."
+      - "Come, we will all put forth, body and goods."
+    m:
+      - "We all knew that we were venturing into dangerous waters. We knew the odds were ten to one that we would come out alive, and yet we ventured forward anyway. The potential reward of winning outweighed the fear of our probable loss. We lost this time, but let’s try again. Come, we’ll all go for it, body and soul."
+
+  - sp: MORTON
+    o:
+      - "’Tis more than time.—And, my most noble lord,"
+      - "I hear for certain, and do speak the truth:"
+      - "The gentle Archbishop of York is up"
+      - "With well-appointed powers. He is a man"
+      - "Who with a double surety binds his followers."
+      - "My lord your son had only but the corpse,"
+      - "But shadows and the shows of men, to fight;"
+      - "For that same word “rebellion” did divide"
+      - "The action of their bodies from their souls,"
+      - "And they did fight with queasiness, constrained,"
+      - "As men drink potions, that their weapons only"
+      - "Seemed on our side. But, for their spirits and souls,"
+      - "This word “rebellion,” it had froze them up"
+      - "As fish are in a pond. But now the Bishop"
+      - "Turns insurrection to religion."
+      - "Supposed sincere and holy in his thoughts,"
+      - "He’s followed both with body and with mind,"
+      - "And doth enlarge his rising with the blood"
+      - "Of fair King Richard, scraped from Pomfret stones;"
+      - "Derives from heaven his quarrel and his cause;"
+      - "Tells them he doth bestride a bleeding land,"
+      - "Gasping for life under great Bolingbroke;"
+      - "And more and less do flock to follow him."
+    m:
+      - "It is the appropriate time. Good sir, I hear for certain, and I tell you truthfully, that the Archbishop of York has raised a powerful army. He motivates his men with both his earthly and his spiritual powers. My lord, your son commanded only his soldiers’ bodies. The word “rebellion” frightened them, separating their bodies from their hearts. It caused them to fight timidly, hesitantly, as though they were taking medicine: their weapons seemed to be on our side, but their spirits and souls were frozen, like fish in an icy pond. But now, the Archbishop turns our rebellion into a religious cause. Everyone believes he’s a righteous and holy man, and they follow him not only in body but also in mind. He enhances his cause by preaching about the blood of good King Richard, which was spilled at Pomfret Castle. The Archbishop claims that he derives his authority from heaven; tells the men that the whole country is bleeding, gasping for life under the terrible leadership of Bolingbroke. And so men from every walk of life flock like sheep to follow him."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "I knew of this before, but, to speak truth,"
+      - "This present grief had wiped it from my mind."
+      - "Go in with me and counsel every man"
+      - "The aptest way for safety and revenge."
+      - "Get posts and letters, and make friends with speed."
+      - "Never so few, and never yet more need."
+    m:
+      - "I knew all this, but to tell you the truth, this terrible grief had pushed it out of my thoughts. Come inside; I want to hear everyone’s ideas on the best way to defend ourselves and enact our revenge. Send out messengers and letters, and make new allies quickly. Our numbers have never been smaller, but there’s never been more need for what we have to do."
+
+  - os: "Exeunt"
+    ms: "They exit."

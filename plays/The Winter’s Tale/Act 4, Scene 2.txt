@@ -1,0 +1,112 @@
+play: The Winter’s Tale
+title: Act 4, Scene 2
+group: 4
+order: 9
+text:
+  - os: "Bohemia. The palace of POLIXENES."
+    ms: "Bohemia. The palace of POLIXENES"
+
+  - os: "Enter POLIXENES and CAMILLO"
+    ms: "POLIXENES and CAMILLO enter."
+
+  - sp: POLIXENES
+    o:
+      - "I pray thee, good Camillo, be no more importunate:"
+      - "’tis a sickness denying thee any thing; a death to"
+      - "grant this."
+    m:
+      - "I beg you, Camillo, stop being so persistent. It’s terrible to deny you anything, but it would be death to grant this."
+
+  - sp: CAMILLO
+    o:
+      - "It is sixteen years since I saw my country: though"
+      - "I have for the most part been aired abroad, I"
+      - "desire to lay my bones there. Besides, the penitent"
+      - "king, my master, hath sent for me; to whose feeling"
+      - "sorrows I might be some allay, or I o’erween to"
+      - "think so, which is another spur to my departure."
+    m:
+      - "It’s been sixteen years since I’ve seen my country. Although I’ve lived abroad so long, I want to be buried at home. Besides, my master, the king, regrets his actions and has sent for me. Perhaps I can ease his grief, if I’m not too presumptuous in thinking I might, and that makes my departure all the more urgent."
+
+  - sp: POLIXENES
+    o:
+      - "As thou lovest me, Camillo, wipe not out the rest of"
+      - "thy services by leaving me now: the need I have of"
+      - "thee thine own goodness hath made; better not to"
+      - "have had thee than thus to want thee: thou, having"
+      - "made me businesses which none without thee can"
+      - "sufficiently manage, must either stay to execute"
+      - "them thyself or take away with thee the very"
+      - "services thou hast done; which if I have not enough"
+      - "considered, as too much I cannot, to be more"
+      - "thankful to thee shall be my study, and my profit"
+      - "therein the heaping friendships. Of that fatal"
+      - "country, Sicilia, prithee speak no more; whose very"
+      - "naming punishes me with the remembrance of that"
+      - "penitent, as thou callest him, and reconciled king,"
+      - "my brother; whose loss of his most precious queen"
+      - "and children are even now to be afresh lamented."
+      - "Say to me, when sawest thou the Prince Florizel, my"
+      - "son? Kings are no less unhappy, their issue not"
+      - "being gracious, than they are in losing them when"
+      - "they have approved their virtues."
+    m:
+      - "If you love me, Camillo, don’t renounce the rest of your service to me by leaving me now. It’s your own excellence that makes me need you so much. It would have been better not to have known you at all than to miss you. Since you’ve managed matters here in a way that no one can do without you, you must either stay and see them through or take them with you. If I haven’t been thankful enough—and I can’t be too thankful—I’ll apply myself to it even more and find my profit in your great friendship. Please don’t speak of that deadly country, Sicilia, anymore. Its very name hurts by making me remember that remorseful—as you call him—and reconciled king, whose loss of his precious queen and children should be mourned anew even now. Tell me, when did you last see my son, Prince Florizel? Kings are just as unhappy when their children are not virtuous as when they lose them after they’ve proved their virtues."
+
+  - sp: CAMILLO
+    o:
+      - "Sir, it is three days since I saw the prince. What"
+      - "his happier affairs may be, are to me unknown: but I"
+      - "have missingly noted, he is of late much retired"
+      - "from court and is less frequent to his princely"
+      - "exercises than formerly he hath appeared."
+    m:
+      - "Sir, it has been three days since I saw the prince. I don’t know what happiness he might have, but I have noticed that lately he’s more often absent from the court and neglectful of his princely duties than in the past."
+
+  - sp: POLIXENES
+    o:
+      - "I have considered so much, Camillo, and with some"
+      - "care; so far that I have eyes under my service which"
+      - "look upon his removedness; from whom I have this"
+      - "intelligence, that he is seldom from the house of a"
+      - "most homely shepherd; a man, they say, that from"
+      - "very nothing, and beyond the imagination of his"
+      - "neighbours, is grown into an unspeakable estate."
+    m:
+      - "I have thought about this, and with some concern, Camillo, so much so that I’ve had some of my servants keep an eye on him while he’s been absent. From them I’ve learned that he is often at the home of a simple shepherd, a man, they say, who has gone from nothing to amazing riches, greater than any of his neighbors could have imagined."
+
+  - sp: CAMILLO
+    o:
+      - "I have heard, sir, of such a man, who hath a"
+      - "daughter of most rare note: the report of her is"
+      - "extended more than can be thought to begin from such a cottage."
+    m:
+      - "I’ve heard of such a man, sir, who has a most exceptional daughter. What people say of her is beyond what one would expect to have come from such a cottage."
+
+  - sp: POLIXENES
+    o:
+      - "That’s likewise part of my intelligence; but, I"
+      - "fear, the angle that plucks our son thither. Thou"
+      - "shalt accompany us to the place; where we will, not"
+      - "appearing what we are, have some question with the"
+      - "shepherd; from whose simplicity I think it not"
+      - "uneasy to get the cause of my son’s resort thither."
+      - "Prithee, be my present partner in this business, and"
+      - "lay aside the thoughts of Sicilia."
+    m:
+      - "I’ve heard the same thing, and I fear that she’s what takes my son there. You shall go with me to that place, and in disguise we’ll question the shepherd, whose simple nature I think will make it easy to find out why my son visits there. Please, be my partner in this matter and forget about Sicilia."
+
+  - sp: CAMILLO
+    o:
+      - "I willingly obey your command."
+    m:
+      - "I willingly obey your command."
+
+  - sp: POLIXENES
+    o:
+      - "My best Camillo! We must disguise ourselves."
+    m:
+      - "Wonderful Camillo! We must disguise ourselves."
+
+  - os: "Exeunt"
+    ms: "They exit."

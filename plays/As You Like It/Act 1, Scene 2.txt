@@ -1,0 +1,763 @@
+play: As You Like It
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter CELIA and ROSALIND"
+    ms: "CELIA and ROSALIND enter."
+
+  - sp: CELIA
+    o:
+      - "I pray thee, Rosalind, sweet my coz, be merry."
+    m:
+      - "Please, Rosalind, my sweet cousin—be happy."
+
+  - sp: ROSALIND
+    o:
+      - "Dear Celia, I show more mirth than I am mistress of, and would you yet I were merrier? Unless you could teach me to forget a banished father, you must not learn me how to remember any extraordinary pleasure."
+    m:
+      - "Dear Celia—I already look much happier than I feel, but you want me to look even happier? Unless you can also teach me how to forget my banished father, you shouldn’t try to teach me how to be happy."
+
+  - sp: CELIA
+    o:
+      - "Herein I see thou lov’st me not with the full weight that I love thee. If my uncle, thy banished father, had banished thy uncle, the duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine. So wouldst thou, if the truth of thy love to me were so righteously tempered as mine is to thee."
+    m:
+      - "Well, by this I can see that you don’t love me as much as I love you. If *your*  father had banished my father, I could have learned to love your father as my own, as long as I still had you. You’d do the same, if your love for me were as true as mine for you."
+
+  - sp: ROSALIND
+    o:
+      - "Well, I will forget the condition of my estate to rejoice in yours."
+    m:
+      - "Well, I’ll just forget the difficulties of my situation, in order to focus on the happiness of yours."
+
+  - sp: CELIA
+    o:
+      - "You know my father hath no child but I, nor none is like to have, and, truly, when he dies, thou shalt be his heir, for what he hath taken away from thy father perforce, I will render thee again in affection. By mine honor I will, and when I break that oath, let me turn monster. Therefore, my sweet Rose, my dear Rose, be merry."
+    m:
+      - "You know I’m my father’s only child, and he isn’t likely to have another. And when he dies, you will inherit his fortune—because whatever he took from your father by force, I will return to you as affection. I swear I will, and if I ever break my promise let me turn into a monster. So please, my sweet Rose, my dear Rose, be happy."
+
+  - sp: ROSALIND
+    o:
+      - "From henceforth I will, coz, and devise sports. Let me see—what think you of falling in love?"
+    m:
+      - "From now on I will, cousin, and I’ll think of all kinds of games for us. Let me see—what do you think about falling in love?"
+
+  - sp: CELIA
+    o:
+      - "Marry, I prithee do, to make sport withal, but love no man in good earnest, nor no further in sport neither than with safety of a pure blush thou mayst in honor come off again."
+    m:
+      - "Yes, please do, so we can have a good laugh about it. But don’t fall in love for real, and don’t take the game too far. You want to get out of it easily, and with your honor intact."
+
+  - sp: ROSALIND
+    o:
+      - "What shall be our sport, then?"
+    m:
+      - "Well, then, what should we do for fun instead?"
+
+  - sp: CELIA
+    o:
+      - "Let us sit and mock the good housewife Fortune from her wheel, that her gifts may henceforth be bestowed equally."
+    m:
+      - "Let’s go find that hussy, Fortune, and and mock her till she starts distributing her gifts more equally."
+
+  - sp: ROSALIND
+    o:
+      - "I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."
+    m:
+      - "I wish we could do that, because Fortune gives all of her gifts to the wrong people, and she especially gets things wrong where women are concerned."
+
+  - sp: CELIA
+    o:
+      - "’Tis true, for those that she makes fair she scarce makes honest, and those that she makes honest she makes very ill- favoredly."
+    m:
+      - "It’s true: the women she makes beautiful she also makes slutty, and the women she makes pure and virginal she also makes ugly."
+
+  - sp: ROSALIND
+    o:
+      - "Nay, now thou goest from Fortune’s office to Nature’s."
+      - "Fortune reigns in gifts of the world, not in the lineaments of"
+      - "Nature."
+    m:
+      - "No, you’re getting Fortune and Nature mixed up: Nature determines how we’re made, and Fortune decides what happens to us."
+
+  - os: "Enter TOUCHSTONE"
+    ms: "TOUCHSTONE enters."
+
+  - sp: CELIA
+    o:
+      - "No? When Nature hath made a fair creature, may she not by Fortune fall into the fire? Though Nature hath given us wit to flout at Fortune, hath not Fortune sent in this fool to cut off the argument?"
+    m:
+      - "Oh, really? Well, when Nature makes a person beautiful, can’t Fortune make her fall into a fire, thereby making her ugly after all? And even though Nature has given us the wit to have this argument, hasn’t Fortune sent this fool here to stop us?"
+
+  - sp: ROSALIND
+    o:
+      - "Indeed, there is Fortune too hard for Nature, when Fortune makes Nature’s natural the cutter-off of Nature’s wit."
+    m:
+      - "Yes, and now Fortune is playing a nasty trick on Nature: she’s breaking up a show of wit between two naturally witty women with the arrival of a natural fool."
+
+  - sp: CELIA
+    o:
+      - "Peradventure this is not Fortune’s work neither, but Nature’s, who perceiveth our natural wits too dull to reason of such goddesses, and hath sent this natural for our whetstone, for always the dullness of the fool is the whetstone of the wits. How now, wit, whither wander you?"
+    m:
+      - "Well, maybe this is Nature’s work after all. Maybe Nature sensed that we’re not smart enough to be having this high-flown discussion about goddesses, so she sent us this fool to use as a mental whetstone. After all, smart peoples’ wits are always sharpened by the presence of a fool. What’s up, you wit? Where are you wandering off to?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Mistress, you must come away to your father."
+    m:
+      - "Mistress, you have to go see your father."
+
+  - sp: CELIA
+    o:
+      - "Were you made the messenger?"
+    m:
+      - "Did they make you the messenger?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "No, by mine honor, but I was bid to come for you."
+    m:
+      - "No, by my honor, but they told me to come get you."
+
+  - sp: ROSALIND
+    o:
+      - "Where learned you that oath, fool?"
+    m:
+      - "Where’d you learn a phrase like, “by my honor,” fool?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Of a certain knight that swore by his honor they were good pancakes, and swore by his honor the mustard was naught. Now, I’ll stand to it, the pancakes were naught and the mustard was good, and yet was not the knight forsworn."
+    m:
+      - "From a certain knight who swore on his honor that the pancakes he was eating were good, and that the mustard on top of them—he swore on his honor—was bad. Now, I’ll swear to the opposite—that the pancakes were rotten, and the mustard was fine—but even so, the knight wasn’t lying."
+
+  - sp: CELIA
+    o:
+      - "How prove you that in the great heap of your knowledge?"
+    m:
+      - "And how, out of your great heap of knowledge, will you manage to prove that?"
+
+  - sp: ROSALIND
+    o:
+      - "Ay, marry, now unmuzzle your wisdom."
+    m:
+      - "Yes, please; unleash your wisdom."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Stand you both forth now: stroke your chins and swear by your beards that I am a knave."
+    m:
+      - "Watch me: stroke your chins and swear by your beards that I am a knave."
+
+  - sp: CELIA
+    o:
+      - "By our beards (if we had them), thou art."
+    m:
+      - "By our beards (if we had them), you are a knave."
+
+  - sp: TOUCHSTONE
+    o:
+      - "By my knavery (if I had it), then I were. But if you swear by that that is not, you are not forsworn. No more was this knight swearing by his honor, for he never had any; or if he had, he had sworn it away before ever he saw those pancakes or that mustard."
+    m:
+      - "And I swear by my wickedness (if I had any) that I am a knave. But you can’t swear by what you don’t have—and this knight had no honor, or if he did, he swore it off before he ever saw those pancakes and that mustard."
+
+  - sp: CELIA
+    o:
+      - "Prithee, who is ’t that thou mean’st?"
+    m:
+      - "Tell me, who is this knight?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "One that old Frederick, your father, loves."
+    m:
+      - "A man old Frederick, your father, loves."
+
+  - sp: CELIA
+    o:
+      - "My father’s love is enough to honor him. Enough. Speak no more of him; you’ll be whipped for taxation one of these days."
+    m:
+      - "If he has my father’s love, then that’s enough honor for me. Enough of this. No more talk about my father; you’ll be whipped for slander one of these days."
+
+  - sp: TOUCHSTONE
+    o:
+      - "The more pity that fools may not speak wisely what wise men do foolishly."
+    m:
+      - "It’s a pity that fools aren’t allowed to speak wisely about the foolish things that wise men do."
+
+  - sp: CELIA
+    o:
+      - "By my troth, thou sayest true. For, since the little wit that fools have was silenced, the little foolery that wise men have makes a great show. Here comes Monsieur Le Beau."
+    m:
+      - "Honestly, you’re speaking the truth—ever since the fools were silenced, the foolishness of wise men has become all the more apparent. Here comes Monsieur Le Beau."
+
+  - os: "Enter LE BEAU"
+    ms: "LE BEAU enters."
+
+  - sp: ROSALIND
+    o:
+      - "With his mouth full of news."
+    m:
+      - "With his mouth full of news."
+
+  - sp: CELIA
+    o:
+      - "Which he will put on us as pigeons feed their young."
+    m:
+      - "Which he’ll shove down our throats the way pigeons feed their young."
+
+  - sp: ROSALIND
+    o:
+      - "Then shall we be news-crammed."
+    m:
+      - "Then we’ll be stuffed with news."
+
+  - sp: CELIA
+    o:
+      - "All the better. We shall be the more marketable.—Bonjour,"
+      - "Monsieur Le Beau. What’s the news?"
+    m:
+      - "Well that’s good. If we’re fattened up, we’ll be worth more. Hello, Monsieur Le Beau. What’s the news?"
+
+  - sp: LE BEAU
+    o:
+      - "Fair princess, you have lost much good sport."
+    m:
+      - "Fair princess, you’ve missed some good sport."
+
+  - sp: CELIA
+    o:
+      - "Sport? Of what color?"
+    m:
+      - "Sport? Of what color?"
+
+  - sp: LE BEAU
+    o:
+      - "What color, madam? How shall I answer you?"
+    m:
+      - "What color, madam? I don’t understand—how should I answer that?"
+
+  - sp: ROSALIND
+    o:
+      - "As wit and fortune will."
+    m:
+      - "However your wit and luck allow."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Or as the Destinies decrees."
+    m:
+      - "Or however the Destinies say you should."
+
+  - sp: CELIA
+    o:
+      - "Well said. That was laid on with a trowel."
+    m:
+      - "Nicely done; you laid *that*  on thick."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Nay, if I keep not my rank—"
+    m:
+      - "Well, if I don’t keep up my rank—"
+
+  - sp: ROSALIND
+    o:
+      - "Thou losest thy old smell."
+    m:
+      - "—you’ll lose your smell."
+
+  - sp: LE BEAU
+    o:
+      - "You amaze me, ladies. I would have told you of good wrestling, which you have lost the sight of."
+    m:
+      - "You’re confusing me, ladies. I was going to tell you all about a good wrestling match that’s going on, which you’re missing."
+
+  - sp: ROSALIND
+    o:
+      - "You tell us the manner of the wrestling."
+    m:
+      - "Tell us about this wrestling."
+
+  - sp: LE BEAU
+    o:
+      - "I will tell you the beginning, and if it please your Ladyships, you may see the end, for the best is yet to do, and here, where you are, they are coming to perform it."
+    m:
+      - "I’ll tell you about the beginning, and if you find that interesting you can see the end. The best is yet to come, and they’re going to perform it right here."
+
+  - sp: CELIA
+    o:
+      - "Well, the beginning that is dead and buried."
+    m:
+      - "Well, we’ve missed the beginning; it’s dead and buried."
+
+  - sp: LE BEAU
+    o:
+      - "There comes an old man and his three sons—"
+    m:
+      - "There comes an old man with his three sons—"
+
+  - sp: CELIA
+    o:
+      - "I could match this beginning with an old tale."
+    m:
+      - "It sounds like the beginning of an old folktale."
+
+  - sp: LE BEAU
+    o:
+      - "Three proper young men of excellent growth and presence."
+    m:
+      - "Three proper young men, all good looking and with great presence—"
+
+  - sp: ROSALIND
+    o:
+      - "With bills on their necks: “Be it known unto all men by these presents.”"
+    m:
+      - "Right, and they wore proclamations around their necks, saying, “Be it known to all men by these presents—”"
+
+  - sp: LE BEAU
+    o:
+      - "The eldest of the three wrestled with Charles, the duke’s wrestler, which Charles in a moment threw him and broke three of his ribs, that there is little hope of life in him. So he served the second, and so the third. Yonder they lie, the poor old man their father making such pitiful dole over them that all the beholders take his part with weeping."
+    m:
+      - "The eldest of the three brothers wrestled with Charles, the duke’s wrestler. Immediately, Charles threw the brother, breaking three of his ribs; it’s not likely he will survive. Charles did the same to the second brother, and the third. They’re lying over there, and the poor old man, their father, weeps so piteously over them that the whole audience has joined him in grieving."
+
+  - sp: ROSALIND
+    o:
+      - "Alas!"
+    m:
+      - "Oh, dear!"
+
+  - sp: TOUCHSTONE
+    o:
+      - "But what is the sport, monsieur, that the ladies have lost?"
+    m:
+      - "But tell me, monsieur—what sport are the ladies missing?"
+
+  - sp: LE BEAU
+    o:
+      - "Why, this that I speak of."
+    m:
+      - "Why, the one I just told you about."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Thus men may grow wiser every day. It is the first time that ever I heard breaking of ribs was sport for ladies."
+    m:
+      - "Men must be getting wiser every day; that’s the first time I’ve heard that rib-breaking was appropriate entertainment for ladies."
+
+  - sp: CELIA
+    o:
+      - "Or I, I promise thee."
+    m:
+      - "Me too, I swear."
+
+  - sp: ROSALIND
+    o:
+      - "But is there any else longs to see this broken music in his sides? Is there yet another dotes upon rib-breaking? Shall we see this wrestling, cousin?"
+    m:
+      - "Doesn’t anyone else want to see this, and hear breath wheezing out from broken ribs? Does anyone else love rib breaking? Shall we go watch this wrestling, cousin?"
+
+  - sp: LE BEAU
+    o:
+      - "You must if you stay here, for here is the place appointed for the wrestling, and they are ready to perform it."
+    m:
+      - "You’re going to have to, if you stay here. This is the place they’re scheduled to wrestle, and they’re ready to go."
+
+  - sp: CELIA
+    o:
+      - "Yonder sure they are coming. Let us now stay and see it."
+    m:
+      - "Yes, I see them coming. Let’s stay and watch."
+
+  - os: "Flourish. Enter DUKE FREDERICK, lords, ORLANDO, CHARLES, and attendants"
+    ms: "Trumpets play. DUKE FREDERICK, lords, ORLANDO, CHARLES, and attendants enter."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Come on. Since the youth will not be entreated, his own peril on his forwardness."
+    m:
+      - "Come on. Since the youth won’t be reasoned with, he’ll have to suffer for his stubbornness."
+
+  - sp: ROSALIND
+    o:
+      - "Is yonder the man?"
+    m:
+      - "Is that the man?"
+
+  - sp: LE BEAU
+    o:
+      - "Even he, madam."
+    m:
+      - "That’s him, madam."
+
+  - sp: CELIA
+    o:
+      - "Alas, he is too young. Yet he looks successfully."
+    m:
+      - "Alas, he is too young. Yet he seems capable."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "How now, daughter and cousin? Are you crept hither to see the wrestling?"
+    m:
+      - "What’s up, daughter and niece? Have you snuck over here to watch the wrestling?"
+
+  - sp: ROSALIND
+    o:
+      - "Ay, my liege, so please you give us leave."
+    m:
+      - "Yes, my lord, if you give us permission."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "You will take little delight in it, I can tell you, there is such odds in the man. In pity of the challenger’s youth, I would fain dissuade him, but he will not be entreated. Speak to him, ladies; see if you can move him."
+    m:
+      - "You won’t enjoy it much, I can tell you, the odds are so against this young man. Because he’s so young, I’ve tried to discourage him, but he won’t listen. Talk to him, ladies. See if you can persuade him."
+
+  - sp: CELIA
+    o:
+      - "Call him hither, good Monsieur Le Beau."
+    m:
+      - "Call him over here, good Monsieur Le Beau."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Do so. I’ll not be by."
+    m:
+      - "Go ahead. I’ll make myself scarce."
+
+  - os: "He steps aside."
+    ms: "He steps aside."
+
+  - sp: LE BEAU
+    o:
+      - "Monsieur the challenger, the Princess calls for you."
+    m:
+      - "Mister Challenger, the princess wants to speak to you."
+
+  - sp: ORLANDO
+    o:
+      - "I attend them with all respect and duty."
+    m:
+      - "I’ll wait on them with all respect and duty."
+
+  - sp: ROSALIND
+    o:
+      - "Young man, have you challenged Charles the wrestler?"
+    m:
+      - "Young man, have you challenged Charles the Wrestler?"
+
+  - sp: ORLANDO
+    o:
+      - "No, fair princess. He is the general challenger. I come but in as others do, to try with him the strength of my youth."
+    m:
+      - "No, lovely princess. He is the general challenger. I have only come in—like the others have—to try to fight him with the strength of my youth."
+
+  - sp: CELIA
+    o:
+      - "Young gentleman, your spirits are too bold for your years. You have seen cruel proof of this man’s strength. If you saw yourself with your eyes or knew yourself with your judgment, the fear of your adventure would counsel you to a more equal enterprise. We pray you for your own sake to embrace your own safety and give over this attempt."
+    m:
+      - "Young gentleman, you are too bold for your age. You have seen the cruel proof of this man’s strength. If you took a good look at yourself, or if you thought about this more carefully, your fear would teach you to act more cautiously. We beg you, for your own sake, to respect your safety and give up."
+
+  - sp: ROSALIND
+    o:
+      - "Do, young sir. Your reputation shall not therefore be misprized. We will make it our suit to the duke that the wrestling might not go forward."
+    m:
+      - "Please, young sir. We’ll make sure your reputation isn’t hurt; we’ll take it upon ourselves to argue with the duke that the wrestling match should be called off."
+
+  - sp: ORLANDO
+    o:
+      - "I beseech you, punish me not with your hard thoughts, wherein I confess me much guilty to deny so fair and excellent ladies anything. But let your fair eyes and gentle wishes go with me to my trial, wherein, if I be foiled, there is but one shamed that was never gracious; if killed, but one dead that was willing to be so. I shall do my friends no wrong, for I have none to lament me; the world no injury, for in it I have nothing. Only in the world I fill up a place which may be better supplied when I have made it empty."
+    m:
+      - "I beg you not to think poorly of me—though I suppose anyone who could deny anything to such beautiful women deserves to be scorned. But please, send me good thoughts in this match. If I’m beaten, the shame is all mine, and I wasn’t in anyone’s good graces to begin with. If I’m killed, it will only be the death of a man who was willing to be dead. I won’t wrong any of my friends, because I don’t have any to mourn for me, and I won’t have wronged the world, because I don’t have anything in the world. In this world, I’m only taking up space. If I leave, maybe someone more worthy will fill it."
+
+  - sp: ROSALIND
+    o:
+      - "The little strength that I have, I would it were with you."
+    m:
+      - "I wish I could give you the little strength that I have."
+
+  - sp: CELIA
+    o:
+      - "And mine, to eke out hers."
+    m:
+      - "Mine too, to join hers."
+
+  - sp: ROSALIND
+    o:
+      - "Fare you well. Pray heaven I be deceived in you."
+    m:
+      - "Good luck. I hope to God I’m wrong about your chances."
+
+  - sp: CELIA
+    o:
+      - "Your heart’s desires be with you."
+    m:
+      - "I hope you get what you desire!"
+
+  - sp: CHARLES
+    o:
+      - "Come, where is this young gallant that is so desirous to lie with his mother earth?"
+    m:
+      - "Come on, where’s the young show-off who’s so eager to lie with mother earth?"
+
+  - sp: ORLANDO
+    o:
+      - "Ready, sir; but his will hath in it a more modest working."
+    m:
+      - "Ready, sir, but I have more modest ambitions."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "You shall try but one fall."
+    m:
+      - "You get only one round."
+
+  - sp: CHARLES
+    o:
+      - "No, I warrant your Grace you shall not entreat him to a second, that have so mightily persuaded him from a first."
+    m:
+      - "No, I’m sure your Grace won’t be able to persuade him to try a second round, even though you couldn’t dissuade him from trying the first."
+
+  - sp: ORLANDO
+    o:
+      - "You mean to mock me after, you should not have mocked me before. But come your ways."
+    m:
+      - "You should mock me *after*  you’ve beaten me, not before. Come on."
+
+  - sp: ROSALIND
+    o:
+      - "Now Hercules be thy speed, young man!"
+    m:
+      - "Hercules give you speed, young man!"
+
+  - sp: CELIA
+    o:
+      - "I would I were invisible, to catch the strong fellow by the leg."
+    m:
+      - "I wish I were invisible, so I could grab that strong fellow by the leg."
+
+  - os: "They wrestle"
+    ms: "They wrestle."
+
+  - sp: ROSALIND
+    o:
+      - "O excellent young man!"
+    m:
+      - "Oh, what an excellent young man!"
+
+  - sp: CELIA
+    o:
+      - "If I had a thunderbolt in mine eye, I can tell who should down."
+    m:
+      - "If I could shoot lightning bolts from my eyes, I can tell you who’d be on the ground."
+
+  - os: "CHARLES is thrown Shout"
+    ms: "ORLANDO throws Charles. The crowd shouts."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "No more, no more."
+    m:
+      - "No more, no more."
+
+  - sp: ORLANDO
+    o:
+      - "Yes, I beseech your Grace. I am not yet well breathed."
+    m:
+      - "Oh, come on, your Grace—I’m barely out of breath."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "How dost thou, Charles?"
+    m:
+      - "How are you doing, Charles?"
+
+  - sp: LE BEAU
+    o:
+      - "He cannot speak, my lord."
+    m:
+      - "He can’t speak, my lord."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Bear him away. What is thy name, young man?"
+    m:
+      - "Carry him away. What is your name, young man?"
+
+  - sp: ORLANDO
+    o:
+      - "Orlando, my liege, the youngest son of Sir Rowland de"
+      - "Boys."
+    m:
+      - "Orlando, my lord, the youngest son of Sir Rowland de Boys."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "I would thou hadst been son to some man else."
+      - "The world esteemed thy father honorable,"
+      - "But I did find him still mine enemy."
+      - "Thou shouldst have better pleased me with this deed"
+      - "Hadst thou descended from another house."
+      - "But fare thee well. Thou art a gallant youth."
+      - "I would thou hadst told me of another father."
+    m:
+      - "I wish you were someone else’s son. The whole world thought your father was an honorable man, but he was always my enemy. Your victory would have pleased me more if you’d been someone else’s son. But good luck; you are a brave young man. I wish you had told me you had a different father."
+
+  - os: "Exeunt DUKE FREDERICK, train, and LE BEAU"
+    ms: "DUKE FREDERICK, his train, and LE BEAU exit."
+
+  - sp: CELIA
+    o:
+      - "Were I my father, coz, would I do this?"
+    m:
+      - "If I were my father, cousin, would I do this?"
+
+  - sp: ORLANDO
+    o:
+      - "I am more proud to be Sir Rowland’s son,"
+      - "His youngest son, and would not change that calling"
+      - "To be adopted heir to Frederick."
+    m:
+      - "I’m proud to be Sir Rowland’s son—his youngest son—and I would never change that, not even to be Frederick’s adopted heir."
+
+  - sp: ROSALIND
+    o:
+      - "My father loved Sir Rowland as his soul,"
+      - "And all the world was of my father’s mind."
+      - "Had I before known this young man his son,"
+      - "I should have given him tears unto entreaties"
+      - "Ere he should thus have ventured."
+    m:
+      - "My father loved Sir Rowland as much as he loved his own soul, and the rest of the world shared my father’s opinion. If I had known this young man was his son, I would have tried harder to convince him not to fight."
+
+  - sp: CELIA
+    o:
+      - "Gentle cousin,"
+      - "Let us go thank him and encourage him."
+      - "My father’s rough and envious disposition"
+      - "Sticks me at heart.—Sir, you have well deserved."
+      - "If you do keep your promises in love"
+      - "But justly, as you have exceeded all promise,"
+      - "Your mistress shall be happy."
+    m:
+      - "Gentle cousin, let’s go thank him and encourage him. My my father’s rude and envious behavior is like a knife through my heart. *(to  ORLANDO)*  Sir, you fought very well. If you live up to your potential in love as well, your wife will be a very happy woman."
+
+  - sp: ROSALIND
+    o:
+      - "Gentleman,"
+      - "*(giving him a chain from her neck)*"
+      - "Wear this for me—one out of suits with fortune"
+      - "That could give more but that her hand lacks means."
+      - "—Shall we go, coz?"
+    m:
+      - "*(giving him a chain from her neck)* Gentleman, wear this for me. I’m a woman who’s down on her luck, and I’d give more if I could. Shall we go, cousin?"
+
+  - sp: CELIA
+    o:
+      - "Ay.—Fare you well, fair gentleman."
+    m:
+      - "Yes. Good luck, fair gentleman."
+
+  - sp: ORLANDO
+    o:
+      - "Can I not say “I thank you”? My better parts"
+      - "Are all thrown down, and that which here stands up"
+      - "Is but a quintain, a mere lifeless block."
+    m:
+      - "*(to himself)*  Can’t I even say “thank you”? I left my brain back on the wrestling field. What’s left of me is a dummy, just a lifeless block."
+
+  - sp: ROSALIND
+    o:
+      - "He calls us back. My pride fell with my fortunes."
+      - "I’ll ask him what he would.—Did you call, sir?"
+      - "Sir, you have wrestled well and overthrown"
+      - "More than your enemies."
+    m:
+      - "He’s calling us back. My pride fell when my fortunes did; I’ll ask him what he wants.—Did you call us, sir? Sir, you wrestled well and conquered more than just your enemies."
+
+  - sp: CELIA
+    o:
+      - "Will you go, coz?"
+    m:
+      - "Will you come on, cousin?"
+
+  - sp: ROSALIND
+    o:
+      - "Have with you. Fare you well."
+    m:
+      - "I’m coming. Farewell."
+
+  - os: "Exeunt ROSALIND and CELIA"
+    ms: "ROSALIND and CELIA exit."
+
+  - sp: ORLANDO
+    o:
+      - "What passion hangs these weights upon my tongue?"
+      - "I cannot speak to her, yet she urged conference."
+      - "O poor Orlando! Thou art overthrown."
+      - "Or Charles or something weaker masters thee."
+    m:
+      - "What is this passion that ties up my tongue? I can’t speak to her, even though she asked me to. Oh, poor Orlando, you’ve been overthrown! Either Charles or some prettier thing has mastered you."
+
+  - os: "Enter LE BEAU"
+    ms: "LE BEAU enters."
+
+  - sp: LE BEAU
+    o:
+      - "Good sir, I do in friendship counsel you"
+      - "To leave this place. Albeit you have deserved"
+      - "High commendation, true applause, and love,"
+      - "Yet such is now the duke’s condition"
+      - "That he misconsters all that you have done."
+      - "The duke is humorous. What he is indeed"
+      - "More suits you to conceive than I to speak of."
+    m:
+      - "Good sir, as a friend, I advise you to leave this place. Although you deserve praise, applause, and love, right now the duke misconstrues everything you’ve done. The duke is temperamental. I’m sure you can imagine what I mean without my having to spell it out."
+
+  - sp: ORLANDO
+    o:
+      - "I thank you, sir, and pray you tell me this:"
+      - "Which of the two was daughter of the duke"
+      - "That here was at the wrestling?"
+    m:
+      - "Thank you, sir. Now please tell me this: which of the two ladies who were at the wrestling match is the duke’s daughter?"
+
+  - sp: LE BEAU
+    o:
+      - "Neither his daughter, if we judge by manners,"
+      - "But yet indeed the smaller is his daughter"
+      - "The other is daughter to the banished duke,"
+      - "And here detained by her usurping uncle"
+      - "To keep his daughter company, whose loves"
+      - "Are dearer than the natural bond of sisters."
+      - "But I can tell you that of late this duke"
+      - "Hath ta’en displeasure ’gainst his gentle niece,"
+      - "Grounded upon no other argument"
+      - "But that the people praise her for her virtues"
+      - "And pity her for her good father’s sake;"
+      - "And, on my life, his malice ’gainst the lady"
+      - "Will suddenly break forth. Sir, fare you well."
+      - "Hereafter, in a better world than this,"
+      - "I shall desire more love and knowledge of you."
+    m:
+      - "Neither one is his daughter, to judge from their good manners. But really, the smaller one is his daughter. The other is the daughter of the banished duke. Duke Frederick keeps her for his daughter’s sake; the love between the two of them is stronger than the bond between sisters. But I will tell you that lately the duke has been displeased with his niece, and for no other reason than that people praise her virtues and pity her for her father’s sake. I swear, one day the duke’s malice toward Rosalind will suddenly erupt. Goodbye, sir. Later, in a better world than this, I’d love to get to know you."
+
+  - sp: ORLANDO
+    o:
+      - "I rest much bounden to you. Fare you well."
+    m:
+      - "I’m indebted to you. Goodbye."
+
+  - os: "Exit LE BEAU"
+    ms: "LE BEAU exits."
+
+  - o:
+      - "Thus must I from the smoke into the smother,"
+      - "From tyrant duke unto a tyrant brother."
+      - "But heavenly Rosalind!"
+    m:
+      - "Out of the frying pan and into the fire—from a tyrant duke to a tyrant brother! But, oh, heavenly Rosalind!"
+
+  - os: "Exit"
+    ms: "He exits."

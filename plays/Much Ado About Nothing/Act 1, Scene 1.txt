@@ -1,0 +1,870 @@
+play: Much Ado About Nothing
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter LEONATO, Governor of Messina; HERO, his daughter; and BEATRICE his niece, with a MESSENGER"
+    ms: "LEONATO, Governor of Messina; HERO, his daughter; and BEATRICE, his niece, enter with a MESSENGER"
+
+  - sp: LEONATO
+    o:
+      - "I learn in this letter that Don Pedro of Aragon comes this"
+      - "night to Messina."
+    m:
+      - "*(holding a letter)* According to this letter, Don Pedro of Aragon and his army are coming to Messina tonight."
+
+  - sp: MESSENGER
+    o:
+      - "He is very near by this. He was not three leagues off when"
+      - "I left him."
+    m:
+      - "He must be very near by now. When I left him, he was less than nine miles from here."
+
+  - sp: LEONATO
+    o:
+      - "How many gentlemen have you lost in this action?"
+    m:
+      - "How many noblemen were killed in the battle you just fought?"
+
+  - sp: MESSENGER
+    o:
+      - "But few of any sort, and none of name."
+    m:
+      - "Not many, and no one important."
+
+  - sp: LEONATO
+    o:
+      - "A victory is twice itself when the achiever brings home full"
+      - "numbers. I find here that Don Pedro hath bestowed much"
+      - "honor on a young Florentine called Claudio."
+    m:
+      - "A victory in battle is twice as victorious when all the soldiers return home safely. This letter also says that Don Pedro has given honors to a young man from Florence named Claudio."
+
+  - sp: MESSENGER
+    o:
+      - "Much deserved on his part, and equally remembered by"
+      - "Don Pedro. He hath borne himself beyond the promise of"
+      - "his age, doing in the figure of a lamb the feats of a lion. He"
+      - "hath indeed better bettered expectation than you must"
+      - "expect of me to tell you how."
+    m:
+      - "Claudio deserves to be honored, and Don Pedro has rewarded him accordingly. Claudio has done more than anyone would expect of a man his age. He looks like a lamb but fights like a lion. He has so greatly exceeded all expectations that I can’t even describe all he’s done."
+
+  - sp: LEONATO
+    o:
+      - "He hath an uncle here in Messina will be very much glad of"
+      - "it."
+    m:
+      - "He has an uncle here in Messina who will be glad to hear this news."
+
+  - sp: MESSENGER
+    o:
+      - "I have already delivered him letters, and there appears"
+      - "much joy in him—even so much that joy could not show"
+      - "itself modest enough without a badge of bitterness."
+    m:
+      - "I have delivered some letters to his uncle, and he seemed very happy. He got so emotional that he actually looked like he was in pain."
+
+  - sp: LEONATO
+    o:
+      - "Did he break out into tears?"
+    m:
+      - "Did he start weeping?"
+
+  - sp: MESSENGER
+    o:
+      - "In great measure."
+    m:
+      - "Yes, heavily."
+
+  - sp: LEONATO
+    o:
+      - "A kind overflow of kindness. There are no faces truer than"
+      - "those that are so washed. How much better is it to weep at"
+      - "joy than to joy at weeping!"
+    m:
+      - "That’s a very natural display of affection. There’s no face more sincere than one washed in tears. And it’s definitely better to cry because you’re happy than laugh because you’re sad!"
+
+  - sp: BEATRICE
+    o:
+      - "I pray you, is Signor Montanto returned from the wars or"
+      - "no?"
+    m:
+      - "Please tell me, has Signior Montanto returned from battle?"
+
+  - sp: MESSENGER
+    o:
+      - "I know none of that name, lady. There was none such in the"
+      - "army of any sort."
+    m:
+      - "I don’t know anyone with that name, ma’am. There was no Signior Montanto in our army."
+
+  - sp: LEONATO
+    o:
+      - "What is he that you ask for, niece?"
+    m:
+      - "Who are you talking about, niece?"
+
+  - sp: HERO
+    o:
+      - "My cousin means Signor Benedick of Padua."
+    m:
+      - "My cousin means Signior Benedick of Padua."
+
+  - sp: MESSENGER
+    o:
+      - "Oh, he’s returned, and as pleasant as ever he was."
+    m:
+      - "Oh, yes, Benedick has returned and is as cheerful as ever."
+
+  - sp: BEATRICE
+    o:
+      - "He set up his bills here in Messina and challenged Cupid at"
+      - "the flight, and my uncle’s Fool, reading the challenge,"
+      - "subscribed for Cupid and challenged him at the bird-bolt."
+      - "I pray you, how many hath he killed and eaten in these"
+      - "wars? But how many hath he killed? For indeed I promised"
+      - "to eat all of his killing."
+    m:
+      - "Benedick once put up a public notice in Messina challenging Cupid to an archery match. My uncle’s jester accepted the contest on Cupid’s behalf but used toy arrows at the shooting match. But tell me, how many men did he kill and eat in this battle? I promised him I would eat anyone he killed."
+
+  - sp: LEONATO
+    o:
+      - "Faith, niece, you tax Signor Benedick too much, but he’ll be"
+      - "meet with you, I doubt it not."
+    m:
+      - "For God’s sake, Beatrice, you’re criticizing Signior Benedick too heavily. But I’m sure he’ll get even with you."
+
+  - sp: MESSENGER
+    o:
+      - "He hath done good service, lady, in these wars."
+    m:
+      - "Signior Benedick served well in the war, my lady."
+
+  - sp: BEATRICE
+    o:
+      - "You had musty victual, and he hath holp to eat it. He is a"
+      - "very valiant trencherman. He hath an excellent stomach."
+    m:
+      - "You had rotten food, and he helped you eat it. He’s a very brave eater—he has a strong stomach."
+
+  - sp: MESSENGER
+    o:
+      - "And a good soldier too, lady."
+    m:
+      - "He’s a good soldier too, lady."
+
+  - sp: BEATRICE
+    o:
+      - "And a good soldier to a lady, but what is he to a lord?"
+    m:
+      - "He’s a good soldier to a lady? Well then, what is he to a lord?"
+
+  - sp: MESSENGER
+    o:
+      - "A lord to a lord, a man to a man, stuffed with all honorable"
+      - "virtues."
+    m:
+      - "He’s a lord to a lord and a man to a man. He is positively stuffed with honorable virtues."
+
+  - sp: BEATRICE
+    o:
+      - "It is so indeed. He is no less than a stuffed man. But for the"
+      - "stuffing—well, we are all mortal."
+    m:
+      - "Absolutely—he is stuffed, like a dummy. As for what he’s stuffed with—well, nobody’s perfect."
+
+  - sp: LEONATO
+    o:
+      - "You must not, sir, mistake my niece. There is a kind of"
+      - "merry war betwixt Signor Benedick and her. They never"
+      - "meet but there’s a skirmish of wit between them."
+    m:
+      - "Please don’t take my niece the wrong way, sir. Benedick and Beatrice have been waging a war of wits between themselves. Whenever they meet, there’s a little battle."
+
+  - sp: BEATRICE
+    o:
+      - "Alas, he gets nothing by that. In our last conflict four of his"
+      - "five wits went halting off, and now is the whole man"
+      - "governed with one, so that if he have wit enough to keep"
+      - "himself warm, let him bear it for a difference between"
+      - "himself and his horse, for it is all the wealth that he hath left"
+      - "to be known a reasonable creature. Who is his companion"
+      - "now? He hath every month a new sworn brother."
+    m:
+      - "And I always win. The last time we fought, he was so dazed by the end that he wasn’t much smarter than his horse. So tell me, who is he hanging around with these days? Every month he has a new best friend."
+
+  - sp: MESSENGER
+    o:
+      - "Is ’t possible?"
+    m:
+      - "Is that possible?"
+
+  - sp: BEATRICE
+    o:
+      - "Very easily possible. He wears his faith but as the fashion of"
+      - "his hat; it ever changes with the next block."
+    m:
+      - "It’s entirely possible. He’s incredibly fickle—his affection changes faster than the latest fashions."
+
+  - sp: MESSENGER
+    o:
+      - "I see, lady, the gentleman is not in your books."
+    m:
+      - "I can see you don’t like this gentleman."
+
+  - sp: BEATRICE
+    o:
+      - "No. An he were, I would burn my study. But I pray you,"
+      - "who is his companion? Is there no young squarer now that"
+      - "will make a voyage with him to the devil?"
+    m:
+      - "No, absolutely not. But please tell me, who’s his best friend? Isn’t there some new swaggering young ruffian who will happily go to hell with Benedick?"
+
+  - sp: MESSENGER
+    o:
+      - "He is most in the company of the right noble Claudio."
+    m:
+      - "He spends most of his time with the good, noble Claudio."
+
+  - sp: BEATRICE
+    o:
+      - "O Lord, he will hang upon him like a disease! He is sooner"
+      - "caught than the pestilence, and the taker runs presently"
+      - "mad. God help the noble Claudio! If he have caught the"
+      - "Benedick, it will cost him a thousand pound ere a be cured."
+    m:
+      - "Oh God, Benedick will plague him like a disease! Benedick is an infection that’s easy to catch but hard to get rid of—and he’ll drive you crazy once you’ve been infected. God help Claudio! If he’s caught the Benedick, he’ll lose all his money before he’s cured."
+
+  - sp: MESSENGER
+    o:
+      - "I will hold friends with you, lady."
+    m:
+      - "I’m going to make sure I stay on your good side, lady."
+
+  - sp: BEATRICE
+    o:
+      - "Do, good friend."
+    m:
+      - "Do that, my friend."
+
+  - sp: LEONATO
+    o:
+      - "You will never run mad, niece."
+    m:
+      - "You will never fall victim to Benedick’s charms, my niece."
+
+  - sp: BEATRICE
+    o:
+      - "No, not till a hot January."
+    m:
+      - "No, not until we see a hot January."
+
+  - sp: MESSENGER
+    o:
+      - "Don Pedro is approached."
+    m:
+      - "Don Pedro is here."
+
+  - os: "Enter DON PEDRO, Prince of Aragon, with CLAUDIO, BENEDICK,BALTHASAR, and DON JOHN the bastard"
+    ms: "DON PEDRO, Prince of Aragon, enters with CLAUDIO, BENEDICK,BALTHASAR, andDON JOHN, the bastard."
+
+  - sp: DON PEDRO
+    o:
+      - "Good Signor Leonato, are you come to meet your trouble?"
+      - "The fashion of the world is to avoid cost, and you encounter"
+      - "it."
+    m:
+      - "My dear Signior Leonato, hosting my whole army is such a huge burden, but you accept it—and me—with open arms. Most people choose to avoid trouble, but you run to it."
+
+  - sp: LEONATO
+    o:
+      - "Never came trouble to my house in the likeness of your"
+      - "Grace, for trouble being gone, comfort should remain, but"
+      - "when you depart from me, sorrow abides and happiness"
+      - "takes his leave."
+    m:
+      - "You are never trouble to this house, your Grace. It’s comforting when trouble departs. But when *you* leave, you take happiness with you and leave sorrow in its place."
+
+  - sp: DON PEDRO
+    o:
+      - "You embrace your charge too willingly. I think this is your"
+      - "daughter."
+    m:
+      - "You take up your duties too cheerfully. *(turning to HERO)* This must be your daughter."
+
+  - sp: LEONATO
+    o:
+      - "Her mother hath many times told me so."
+    m:
+      - "That’s what her mother always tells me."
+
+  - sp: BENEDICK
+    o:
+      - "Were you in doubt, sir, that you asked her?"
+    m:
+      - "Did you doubt that she was your daughter, since you had to ask her mother?"
+
+  - sp: LEONATO
+    o:
+      - "Signor Benedick, no, for then were you a child."
+    m:
+      - "*(teasing)* Of course not, Signior Benedick. You were only a child when my daughter was born, and not yet old enough to seduce my wife."
+
+  - sp: DON PEDRO
+    o:
+      - "You have it full, Benedick. We may guess by this what you"
+      - "are, being a man. Truly, the lady fathers herself.—Be"
+      - "happy, lady, for you are like an honorable father."
+    m:
+      - "Ah, he got you back, Benedick! Leonato clearly knows your reputation with women. Seriously, though, the lady resembles Leonato so much that there can be no doubt about who her father is. Congratulations, lady: you resemble a most honorable man."
+
+  - os: "LEONATO and DON PEDRO move to one side, still talking"
+    ms: "LEONATO and DON PEDRO move to one side, still talking."
+
+  - sp: BENEDICK
+    o:
+      - "If Signor Leonato be her father, she would not have his"
+      - "head on her shoulders for all Messina, as like him as she is."
+    m:
+      - "Well, even if he is her father, I’m sure she wouldn’t want to have the head of the old man on her shoulders!"
+
+  - sp: BEATRICE
+    o:
+      - "I wonder that you will still be talking, Signor Benedick."
+      - "Nobody marks you."
+    m:
+      - "I’m amazed you’re still talking, Signior Benedick. No one’s listening to you."
+
+  - sp: BENEDICK
+    o:
+      - "What, my dear Lady Disdain! Are you yet living?"
+    m:
+      - "Look, it’s my dear Lady Disdain! Aren’t you dead yet?"
+
+  - sp: BEATRICE
+    o:
+      - "Is it possible disdain should die while she hath such meet"
+      - "food to feed it as Signor Benedick? Courtesy itself must"
+      - "convert to disdain if you come in her presence."
+    m:
+      - "How could disdain die when you’re here? When you’re around, even Lady Courtesy becomes Lady Disdain."
+
+  - sp: BENEDICK
+    o:
+      - "Then is courtesy a turncoat. But it is certain I am loved of"
+      - "all ladies, only you excepted. And I would I could find in"
+      - "my heart that I had not a hard heart, for truly I love none."
+    m:
+      - "That makes Lady Courtesy a traitor. All ladies love me, except you. It’s too bad I’m so hard-hearted, because I really don’t love anyone."
+
+  - sp: BEATRICE
+    o:
+      - "A dear happiness to women. They would else have been"
+      - "troubled with a pernicious suitor. I thank God and my cold"
+      - "blood I am of your humor for that. I had rather hear my dog"
+      - "bark at a crow than a man swear he loves me."
+    m:
+      - "Women are lucky, then. You would make a nasty suitor. Thankfully, I feel the same way you do. I have no need for romance. I would rather listen to my dog bark at a crow than hear a man swear that he loves me."
+
+  - sp: BENEDICK
+    o:
+      - "God keep your Ladyship still in that mind, so some gentle-"
+      - "man or other shall ’scape a predestinate scratched face."
+    m:
+      - "Well, I hope you stay in that frame of mind or some poor man will end up with his face all scratched up."
+
+  - sp: BEATRICE
+    o:
+      - "Scratching could not make it worse an ’twere such a face as"
+      - "yours were."
+    m:
+      - "If he has a face like yours, a good scratching couldn’t make him look any worse."
+
+  - sp: BENEDICK
+    o:
+      - "Well, you are a rare parrot-teacher."
+    m:
+      - "Listen to you, instructing me like a parrot would."
+
+  - sp: BEATRICE
+    o:
+      - "A bird of my tongue is better than a beast of yours."
+    m:
+      - "I’d rather be a squawking bird than an animal like you."
+
+  - sp: BENEDICK
+    o:
+      - "I would my horse had the speed of your tongue and so good"
+      - "a continuer. But keep your way, i’ God’s name. I have done."
+    m:
+      - "I wish my horse moved as fast as your mouth and was as tireless. That’s it—I’m done."
+
+  - sp: BEATRICE
+    o:
+      - "You always end with a jade’s trick. I know you of old."
+    m:
+      - "You always slip out of the argument like this. I know you from before."
+
+  - os: "LEONATO and DON PEDRO come forward"
+    ms: "LEONATO and DON PEDRO come forward"
+
+  - sp: DON PEDRO
+    o:
+      - "That is the sum of all, Leonato.—Signior Claudio and"
+      - "Signior Benedick, my dear friend Leonato hath invited you"
+      - "all. I tell him we shall stay here at the least a month, and he"
+      - "heartily prays some occasion may detain us longer. I dare"
+      - "swear he is no hypocrite but prays from his heart."
+    m:
+      - "And that’s everything, Leonato.—Claudio, Benedick—my dear friend Leonato has invited you all to stay here at Messina. I told him we’ll stay for at least a month, and he says that he hopes we’ll stay longer. I think he’s actually serious, and not just being polite."
+
+  - sp: LEONATO
+    o:
+      - "If you swear, my lord, you shall not be forsworn."
+      - "*(to DON JOHN)* Let me bid you welcome, my lord. Being reconciled"
+      - "to the Prince your brother, I owe you all duty."
+    m:
+      - "I am being serious, my lord. *(to DON JOHN)* I welcome you here as well. Now that you and your brother have made friends again, I owe you the same allegiance I owe Don Pedro."
+
+  - sp: DON JOHN
+    o:
+      - "I thank you. I am not of many words, but I thank you."
+    m:
+      - "Thank you. I’m not a man who talks a lot, but I thank you."
+
+  - sp: LEONATO
+    o:
+      - "Please it your Grace lead on?"
+    m:
+      - "If it pleases you, your highness, will you lead us all inside?"
+
+  - sp: DON PEDRO
+    o:
+      - "Your hand, Leonato. We will go together."
+    m:
+      - "Give me your hand, Leonato. We will go in together."
+
+  - os: "Exeunt. Manent BENEDICK andCLAUDIO"
+    ms: "Everyone exits except BENEDICK andCLAUDIO."
+
+  - sp: CLAUDIO
+    o:
+      - "Benedick, didst thou note the daughter of Signior Leonato?"
+    m:
+      - "Benedick, did you notice Signior Leonato’s daughter?"
+
+  - sp: BENEDICK
+    o:
+      - "I noted her not, but I looked on her."
+    m:
+      - "I saw her, but I didn’t notice her."
+
+  - sp: CLAUDIO
+    o:
+      - "Is she not a modest young lady?"
+    m:
+      - "Isn’t she a well-mannered young lady?"
+
+  - sp: BENEDICK
+    o:
+      - "Do you question me as an honest man should do, for my"
+      - "simple true judgment? Or would you have me speak after"
+      - "my custom, as being a professed tyrant to their sex?"
+    m:
+      - "Do you want my true opinion? Or do you want me to criticize her like I do all women?"
+
+  - sp: CLAUDIO
+    o:
+      - "No, I pray thee speak in sober judgment."
+    m:
+      - "No, please, speak seriously."
+
+  - sp: BENEDICK
+    o:
+      - "Why, i’ faith, methinks she’s too low for a high praise, too"
+      - "brown for a fair praise, and too little for a great praise. Only"
+      - "this commendation I can afford her, that were she other"
+      - "than she is, she were unhandsome, and being no other but"
+      - "as she is, I do not like her."
+    m:
+      - "Well, it seems to me that she is too short to be praised highly, too dark to be praised fairly, and too small to be praised greatly. I can only say this about her: if she looked different than she does, she would be ugly, and since she can’t be anything but herself, I don’t like her."
+
+  - sp: CLAUDIO
+    o:
+      - "Thou thinkest I am in sport. I pray thee tell me truly how"
+      - "thou lik’st her."
+    m:
+      - "You think I’m kidding. Please tell me seriously what you think of her."
+
+  - sp: BENEDICK
+    o:
+      - "Would you buy her, that you enquire after her?"
+    m:
+      - "Are you thinking of buying her? Is that why you’re asking?"
+
+  - sp: CLAUDIO
+    o:
+      - "Can the world buy such a jewel?"
+    m:
+      - "Would it even be possible to buy a jewel as rare and precious as Hero?"
+
+  - sp: BENEDICK
+    o:
+      - "Yea, and a case to put it into. But speak you this with a sad"
+      - "brow? Or do you play the flouting jack, to tell us Cupid is"
+      - "a good hare-finder and Vulcan a rare carpenter? Come, in"
+      - "what key shall a man take you to go in the song?"
+    m:
+      - "Yes, and you could buy a case to put it in, too. But tell me, are you speaking seriously? Or are you just teasing? If I’m going to sing along with you, I need to know what key you’re singing in."
+
+  - sp: CLAUDIO
+    o:
+      - "In mine eye she is the sweetest lady that ever I looked on."
+    m:
+      - "I think she’s the most wonderful woman I’ve ever laid eyes on."
+
+  - sp: BENEDICK
+    o:
+      - "I can see yet without spectacles, and I see no such matter."
+      - "There’s her cousin, an she were not possessed with a fury,"
+      - "exceeds her as much in beauty as the first of May doth the"
+      - "last of December. But I hope you have no intent to turn"
+      - "husband, have you?"
+    m:
+      - "I’m still young enough to see without glasses, and I don’t see what you’re talking about. If her cousin Beatrice didn’t have such a nasty temper, she’d be so much more beautiful than Hero that it would be like comparing May to December. But, hey, this doesn’t mean you’re looking to get married, does it?"
+
+  - sp: CLAUDIO
+    o:
+      - "I would scarce trust myself, though I had sworn the"
+      - "contrary, if Hero would be my wife."
+    m:
+      - "Even if I had sworn never to marry, I wouldn’t trust myself to keep that promise if Hero would marry me."
+
+  - sp: BENEDICK
+    o:
+      - "Is ’t come to this? In faith, hath not the world one man but"
+      - "he will wear his cap with suspicion? Shall I never see a"
+      - "bachelor of three-score again? Go to, i’ faith, an thou wilt"
+      - "needs thrust thy neck into a yoke, wear the print of it, and"
+      - "sigh away Sundays. Look, Don Pedro is returned to seek"
+      - "you."
+    m:
+      - "What’s going on these days? Isn’t there one man left in the world who knows not to take a wife? She’s just going to cheat on him. Will I never see a sixty-year old bachelor again or will all men be swindled into marriage while they’re young? Go ahead, then, if you have to yoke yourself to marriage, like an ox carrying his load, and throw away your free time. Look, Don Pedro has come back for you."
+
+  - os: "Enter DON PEDRO"
+    ms: "DON PEDRO enters."
+
+  - sp: DON PEDRO
+    o:
+      - "What secret hath held you here that you followed not to"
+      - "Leonato’s?"
+    m:
+      - "What secrets between you have kept you from following us to Leonato’s?"
+
+  - sp: BENEDICK
+    o:
+      - "I would your grace would constrain me to tell."
+    m:
+      - "Your highness will have to force me to tell."
+
+  - sp: DON PEDRO
+    o:
+      - "I charge thee on thy allegiance."
+    m:
+      - "Your loyalty to me requires you to tell me what you’ve been talking about."
+
+  - sp: BENEDICK
+    o:
+      - "You hear, Count Claudio? I can be secret as a dumb man, I"
+      - "would have you think so, but on my allegiance—mark you"
+      - "this, on my allegiance—*(to DON PEDRO)* he is in love. With"
+      - "who? Now, that is your Grace’s part. Mark how short his"
+      - "answer is: with Hero, Leonato’s short daughter."
+    m:
+      - "Look, Claudio, I can keep secrets like a mute; I want you to know that. But I owe Don Pedro my allegiance—look, I *have* to tell him—*(to DON PEDRO)* Claudio is in love. With whom? That’s what you’re supposed to ask me next, your Grace. Look how short the answer is—with Hero, Leonato’s short daughter."
+
+  - sp: CLAUDIO
+    o:
+      - "If this were so, so were it uttered."
+    m:
+      - "If you say so."
+
+  - sp: BENEDICK
+    o:
+      - "Like the old tale, my lord: “It is not so nor ’twas not so but,"
+      - "indeed, God forbid it should be so.”"
+    m:
+      - "Listen to him deny it, like that man in the old tale “Mr. Fox”: “It isn’t true and wasn’t true and God forbid it should be so.”"
+
+  - sp: CLAUDIO
+    o:
+      - "If my passion change not shortly, God forbid it should be"
+      - "otherwise."
+    m:
+      - "Unless my feelings change very soon, I have to admit it’s true."
+
+  - sp: DON PEDRO
+    o:
+      - "Amen, if you love her, for the lady is very well worthy."
+    m:
+      - "It’s good if you love Hero, because she’s worthy of your love."
+
+  - sp: CLAUDIO
+    o:
+      - "You speak this to fetch me in, my lord."
+    m:
+      - "You’re trying to trick me, my lord."
+
+  - sp: DON PEDRO
+    o:
+      - "By my troth, I speak my thought."
+    m:
+      - "I swear, I’m telling you what I honestly think."
+
+  - sp: CLAUDIO
+    o:
+      - "And, in faith, my lord, I spoke mine."
+    m:
+      - "And I swear I spoke honestly to Benedick—I am in love with Hero."
+
+  - sp: BENEDICK
+    o:
+      - "And by my two faiths and troths, my lord, I spoke mine."
+    m:
+      - "And *I* swear all up and down I spoke honestly when I said that this was a horrible idea."
+
+  - sp: CLAUDIO
+    o:
+      - "That I love her, I feel."
+    m:
+      - "I feel that I love her."
+
+  - sp: DON PEDRO
+    o:
+      - "That she is worthy, I know."
+    m:
+      - "I know that she is worthy of that love."
+
+  - sp: BENEDICK
+    o:
+      - "That I neither feel how she should be loved nor know how"
+      - "she should be worthy is the opinion that fire cannot melt"
+      - "out"
+      - "of me. I will die in it at the stake."
+    m:
+      - "I, on the other hand, don’t *feel* how she could be loved and don’t *know* how she could be worthy. Even fire can’t melt that opinion out of me. You could burn me at the stake, and I’d still think this."
+
+  - sp: DON PEDRO
+    o:
+      - "Thou wast ever an obstinate heretic in the despite of beauty."
+    m:
+      - "You never did believe in the power of beauty."
+
+  - sp: CLAUDIO
+    o:
+      - "And never could maintain his part but in the force of his will."
+    m:
+      - "Or in the power of reason."
+
+  - sp: BENEDICK
+    o:
+      - "That a woman conceived me, I thank her. That she brought"
+      - "me up, I likewise give her most humble thanks. But that I"
+      - "will have a recheat winded in my forehead or hang my bugle"
+      - "in an invisible baldrick, all women shall pardon me."
+      - "Because I will not do them the wrong to mistrust any, I will"
+      - "do myself the right to trust none. And the fine is, for the"
+      - "which I may go the finer, I will live a bachelor."
+    m:
+      - "I was conceived by a woman, and I thank her very much for all her effort. And then she brought me up, and I thank her for that, too. But all the other women will have to forgive me for not being willing to be made a fool of—cheated on by a wife. I don’t want to insult any particular woman by doubting and mistrusting her, so I’ll just avoid them all. And the conclusion of this is that I’ll live as a bachelor—and, with the money I save, dress better."
+
+  - sp: DON PEDRO
+    o:
+      - "I shall see thee, ere I die, look pale with love."
+    m:
+      - "I swear, before I die I’m going to see you sick with love."
+
+  - sp: BENEDICK
+    o:
+      - "With anger, with sickness, or with hunger, my lord, not"
+      - "with love. Prove that ever I lose more blood with love than"
+      - "I will get again with drinking, pick out mine eyes with a"
+      - "ballad-maker’s pen and hang me up at the door of a brothel"
+      - "house for the sign of blind Cupid."
+    m:
+      - "With anger, with fever, or with hunger, sure, my friend, but never sick with love. If you can prove that I’ll ever be so in love that I can’t be brought to my senses with a good round of beers, you can pluck out my eyes with a love-poet’s pen and hang me on a brothel’s door where the picture of blind Cupid usually goes."
+
+  - sp: DON PEDRO
+    o:
+      - "Well, if ever thou dost fall from this faith, thou wilt prove"
+      - "a notable argument."
+    m:
+      - "I’ll be sure to remember this fuss you’ve made, in case you ever do fall in love. That’ll be news."
+
+  - sp: BENEDICK
+    o:
+      - "If I do, hang me in a bottle like a cat and shoot at me, and he"
+      - "that hits me, let him be clapped on the shoulder and called"
+      - "Adam."
+    m:
+      - "If I ever change my mind, you can use me for target practice. And whoever hits the bull’s eye gets to be a hero."
+
+  - sp: DON PEDRO
+    o:
+      - "Well, as time shall try."
+      - "In time the savage bull doth bear the yoke."
+    m:
+      - "Well, time will tell. Even the most savage bull is eventually domesticated."
+
+  - sp: BENEDICK
+    o:
+      - "The savage bull may, but if ever the sensible Benedick bear"
+      - "it, pluck off the bull’s horns and set them in my forehead,"
+      - "and let me be vilely painted, and in such great letters as they"
+      - "write “Here is good horse to hire” let them signify under my"
+      - "sign “Here you may see Benedick the married man.”"
+    m:
+      - "Maybe the bull is, but if *I* am ever domesticated, you can take that bull’s horns and put them right on my forehead, as my wife is sure to cuckold me soon enough. You might as well hang a big sign with enormous lettering around my neck. But instead of it saying “Horse for hire,” it will say “Take a look at Benedick, the married man.”"
+
+  - sp: CLAUDIO
+    o:
+      - "If this should ever happen, thou wouldst be horn-mad."
+    m:
+      - "If that ever happened, you’d go absolutely mad."
+
+  - sp: DON PEDRO
+    o:
+      - "Nay, if Cupid have not spent all his quiver in Venice, thou"
+      - "wilt quake for this shortly."
+    m:
+      - "Well, if Cupid hasn’t used up all his arrows in Venice, where the courtesans are famous for making men lovesick, he’ll get you to quiver and shake. Just you wait."
+
+  - sp: BENEDICK
+    o:
+      - "I look for an earthquake too, then."
+    m:
+      - "That’s about as likely as an earthquake."
+
+  - sp: DON PEDRO
+    o:
+      - "Well, you temporize with the hours. In the meantime, good"
+      - "Signior Benedick, repair to Leonato’s. Commend me to"
+      - "him and tell him I will not fail him at supper, for indeed he"
+      - "hath made great preparation."
+    m:
+      - "Oh, you’ll soften as time passes. While you’re waiting for that to happen, though, hurry to Leonato’s. Give him my respects, and tell him I’ll definitely be there for dinner, since I know he has gone to great lengths for this meal."
+
+  - sp: BENEDICK
+    o:
+      - "I have almost matter enough in me for such an embassage,"
+      - "and so I commit you—"
+    m:
+      - "I think I can handle this mission. And so I commit you—"
+
+  - sp: CLAUDIO
+    o:
+      - "To the tuition of God. From my house, if I had it—"
+    m:
+      - "“Into God’s hands. From my house, if I had a house—”"
+
+  - sp: DON PEDRO
+    o:
+      - "The sixth of July. Your loving friend, Benedick."
+    m:
+      - "“The sixth of July. Sincerely, your loving friend, Benedick.”"
+
+  - sp: BENEDICK
+    o:
+      - "Nay, mock not, mock not. The body of your discourse is"
+      - "sometimes guarded with fragments and the guards are but"
+      - "slightly basted on neither. Ere you flout old ends any"
+      - "further, examine your conscience. And so I leave you."
+    m:
+      - "Oh, stop joking around. You know, sometimes you two dress up your conversation with flimsy little bits of wit that don’t hold together too well. Before you make fun of everyone else, look at yourselves in the mirror! And with that, I’m leaving."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: CLAUDIO
+    o:
+      - "My liege, your highness now may do me good."
+    m:
+      - "My lord, you could really help me out now."
+
+  - sp: DON PEDRO
+    o:
+      - "My love is thine to teach. Teach it but how,"
+      - "And thou shalt see how apt it is to learn"
+      - "Any hard lesson that may do thee good."
+    m:
+      - "I am at your service. Just tell me what you want me to do, and however hard it is, you’ll see that I’m eager to do it."
+
+  - sp: CLAUDIO
+    o:
+      - "Hath Leonato any son, my lord?"
+    m:
+      - "Does Leonato have a son, my lord?"
+
+  - sp: DON PEDRO
+    o:
+      - "No child but Hero; she’s his only heir."
+      - "Dost thou affect her, Claudio?"
+    m:
+      - "Hero is his only child, and his only heir. Do you like her, Claudio?"
+
+  - sp: CLAUDIO
+    o:
+      - "    O, my lord,"
+      - "When you went onward on this ended action,"
+      - "I looked upon her with a soldier’s eye,"
+      - "That liked but had a rougher task in hand"
+      - "Than to drive liking to the name of love."
+      - "But now I am returned and that war thoughts"
+      - "Have left their places vacant, in their rooms"
+      - "Come thronging soft and delicate desires,"
+      - "All prompting me how fair young Hero is,"
+      - "Saying I liked her ere I went to wars."
+    m:
+      - "Oh, my lord, when we left Messina to fight the war, I looked at Hero with the eyes of a soldier. I liked what I saw, but my mind was so occupied with the rough, violent task ahead of me that there was no chance that *like* would turn into*love*. But now that I’m back, the room in my head that I used to fill with war plans has become crowded with soft and delicate feelings. They all lead me to the same thought—how beautiful young Hero is and how I must have liked her even before I left to fight."
+
+  - sp: DON PEDRO
+    o:
+      - "Thou wilt be like a lover presently"
+      - "And tire the hearer with a book of words."
+      - "If thou dost love fair Hero, cherish it,"
+      - "And I will break with her and with her father,"
+      - "And thou shalt have her. Was ’t not to this end"
+      - "That thou began’st to twist so fine a story?"
+    m:
+      - "You will become a true lover soon, and exhaust your friends with your endless chatter about your feelings. Look, if you really love the beautiful Hero, enjoy it. I will speak to her and her father about the matter, and I’ll convince Leonato to promise Hero to you. Isn’t that the reason you told me all this?"
+
+  - sp: CLAUDIO
+    o:
+      - "How sweetly you do minister to love,"
+      - "That know love’s grief by his complexion!"
+      - "But lest my liking might too sudden seem,"
+      - "I would have salved it with a longer treatise."
+    m:
+      - "You can see that I’m sick with love, and you’re taking care of me in just the right way! But I didn’t want you to think that I’m hasty in my emotions. I was going to explain my feelings with a longer story."
+
+  - sp: DON PEDRO
+    o:
+      - "What need the bridge much broader than the flood?"
+      - "The fairest grant is the necessity."
+      - "Look what will serve is fit. ’Tis once, thou lovest,"
+      - "And I will fit thee with the remedy."
+      - "I know we shall have reveling tonight."
+      - "I will assume thy part in some disguise"
+      - "And tell fair Hero I am Claudio,"
+      - "And in her bosom I’ll unclasp my heart"
+      - "And take her hearing prisoner with the force"
+      - "And strong encounter of my amorous tale."
+      - "Then after to her father will I break,"
+      - "And the conclusion is, she shall be thine."
+      - "In practice let us put it presently."
+    m:
+      - "Why speak longer than you have to? That’s like building a bridge wider than the river it crosses. Whatever gets the job done is best. You love Hero; that’s all I need to know to want to find a remedy. They’re going to have a costume party with dancing tonight. I’ll disguise myself as you and pour out “my” feelings to Hero, taking her prisoner with the force of my love story. Then I’ll talk to her father. And in the end, she’s yours! Let’s get started right away."
+
+  - os: "Exeunt"
+    ms: "They exit."

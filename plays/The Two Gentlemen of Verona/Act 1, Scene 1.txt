@@ -1,0 +1,475 @@
+play: Two Gentlemen of Verona
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter VALENTINE and PROTEUS"
+    ms: "VALENTINE and PROTEUS enter."
+
+  - sp: VALENTINE
+    o:
+      - "Cease to persuade, my loving Proteus;"
+      - "Home-keeping youth have ever homely wits."
+      - "Were ’t not affection chains thy tender days"
+      - "To the sweet glances of thy honored love,"
+      - "I rather would entreat thy company"
+      - "To see the wonders of the world abroad"
+      - "Than, living dully sluggardized at home,"
+      - "Wear out thy youth with shapeless idleness."
+      - "But since thou lov’st, love still and thrive therein,"
+      - "Even as I would when I to love begin."
+    m:
+      - "Stop trying to persuade me, Proteus. Young homebodies have dull minds. If you weren’t so tied to the girl you love, I’d ask you to come with me to see the distant wonders of the world rather than waste your youth living aimlessly as a sluggard at home. But, since you’re in love, love constantly and thrive in your love. I would do the same were I in love."
+
+  - sp: PROTEUS
+    o:
+      - "Wilt thou be gone? Sweet Valentine, adieu!"
+      - "Think on thy Proteus when thou haply seest"
+      - "Some rare noteworthy object in thy travel."
+      - "Wish me partaker in thy happiness"
+      - "When thou dost meet good hap; and in thy danger,"
+      - "If ever danger do environ thee,"
+      - "Commend thy grievance to my holy prayers,"
+      - "For I will be thy beadsman, Valentine."
+    m:
+      - "Are you going now? Goodbye, Valentine, my dear friend! Think of me when you happen to see some rare and noteworthy object in your travels. Wish me happiness, too, when you have good fortune. And if you’re ever in danger, trust that my prayers will protect you, for I will pray for you, Valentine."
+
+  - sp: VALENTINE
+    o:
+      - "And on a love book pray for my success?"
+    m:
+      - "And you’ll be praying for me on a book about love, I suspect?"
+
+  - sp: PROTEUS
+    o:
+      - "Upon some book I love I’ll pray for thee."
+    m:
+      - "I’ll pray for you on a book I love."
+
+  - sp: VALENTINE
+    o:
+      - "That’s on some shallow story of deep love,"
+      - "How young Leander crossed the Hellespont."
+    m:
+      - "No doubt on some shallow story of “true” love, like the one about young Leander crossing the Hellespont."
+
+  - sp: PROTEUS
+    o:
+      - "That’s a deep story of a deeper love,"
+      - "For he was more than over shoes in love."
+    m:
+      - "That’s a deep story of a deeper love—the love was so deep it covered his shoes."
+
+  - sp: VALENTINE
+    o:
+      - "’Tis true; for you are over boots in love,"
+      - "And yet you never swam the Hellespont."
+    m:
+      - "It’s true. And your love is so deep it covers your boots, and yet you never swam across the Hellespont."
+
+  - sp: PROTEUS
+    o:
+      - "Over the boots? Nay, give me not the boots."
+    m:
+      - "Covers my boots? Don’t make fun of me."
+
+  - sp: VALENTINE
+    o:
+      - "No, I will not, for it boots thee not."
+    m:
+      - "No, I won’t, for it doesn’t profit you any."
+
+  - sp: PROTEUS
+    o:
+      - "What?"
+    m:
+      - "What?"
+
+  - sp: VALENTINE
+    o:
+      - "To be in love, where scorn is bought with groans,"
+      - "Coy looks with heartsore sighs, one fading moment’s mirth"
+      - "With twenty watchful, weary, tedious nights."
+      - "If haply won, perhaps a hapless gain;"
+      - "If lost, why then a grievous labour won;"
+      - "However, but a folly bought with wit,"
+      - "Or else a wit by folly vanquishèd."
+    m:
+      - "When you’re in love, your love-sick groans only earn her scorn, your brokenhearted sighs just get you flirtatious glances, and twenty tedious, sleepless nights spent pining for your sweetheart only yield you a brief moment of happiness. If by chance you succeed, it may turn out to be an unlucky win. And if you don’t, then you’ve only managed to waste your time. Either way, you win foolishness by being clever, or your cleverness is killed by foolishness."
+
+  - sp: PROTEUS
+    o:
+      - "So, by your circumstance, you call me fool."
+    m:
+      - "So, by your logic, I’m a fool."
+
+  - sp: VALENTINE
+    o:
+      - "So, by your circumstance, I fear you’ll prove."
+    m:
+      - "Because of your logic, I fear you’ll become a fool."
+
+  - sp: PROTEUS
+    o:
+      - "’Tis love you cavil at. I am not Love."
+    m:
+      - "It’s love you have a problem with. But don’t blame me—I’m not Love."
+
+  - sp: VALENTINE
+    o:
+      - "Love is your master, for he masters you;"
+      - "And he that is so yokèd by a fool"
+      - "Methinks, should not be chronicled for wise."
+    m:
+      - "Love is your master, because he’s got the better of you. And in my opinion, anyone who’s been taken in by a fool shouldn’t be considered very wise himself."
+
+  - sp: PROTEUS
+    o:
+      - "Yet writers say, as in the sweetest bud"
+      - "The eating canker dwells, so eating love"
+      - "Inhabits in the finest wits of all."
+    m:
+      - "Yet writers say that just as the destructive caterpillar dwells within the sweetest flower buds, love inhabits the cleverest minds."
+
+  - sp: VALENTINE
+    o:
+      - "And writers say, as the most forward bud"
+      - "Is eaten by the canker ere it blow,"
+      - "Even so by love the young and tender wit"
+      - "Is turned to folly, blasting in the bud,"
+      - "Losing his verdure even in the prime,"
+      - "And all the fair effects of future hopes."
+      - "But wherefore waste I time to counsel thee"
+      - "That art a votary to fond desire?"
+      - "Once more adieu! My father at the road"
+      - "Expects my coming, there to see me shipped."
+    m:
+      - "And writers also say that just as the caterpillar eats the greatest flower bud before it blooms, so too does love make young and fragile minds foolish. It destroys the young lover, who loses his youth while still in his prime, and takes away all his future hopes. But why am I wasting my time giving advice to you, a man who is devoted to foolish love? So, once again, farewell! My father expects to meet me at the harbor to see my ship off."
+
+  - sp: PROTEUS
+    o:
+      - "And thither will I bring thee, Valentine."
+    m:
+      - "I’ll go with you, Valentine."
+
+  - sp: VALENTINE
+    o:
+      - "Sweet Proteus, no. Now let us take our leave."
+      - "To Milan let me hear from thee by letters"
+      - "Of thy success in love, and what news else"
+      - "Betideth here in absence of thy friend;"
+      - "And I likewise will visit thee with mine."
+    m:
+      - "My dear Proteus, no. We should say goodbye to each other now. Write to me in Milan, and tell me of your luck with love and whatever other news happens while I’m away. I’ll likewise write to you."
+
+  - sp: PROTEUS
+    o:
+      - "All happiness bechance to thee in Milan!"
+    m:
+      - "May you find happiness in Milan!"
+
+  - sp: VALENTINE
+    o:
+      - "As much to you at home! And so, farewell!"
+    m:
+      - "And the same to you here at home! Farewell!"
+
+  - os: "Exit VALENTINE"
+    ms: "VALENTINE exits."
+
+  - sp: PROTEUS
+    o:
+      - "He after honor hunts, I after love."
+      - "He leaves his friends to dignify them more;"
+      - "I leave myself, my friends, and all, for love."
+      - "Thou, Julia, thou hast metamorphosed me,"
+      - "Made me neglect my studies, lose my time,"
+      - "War with good counsel, set the world at naught;"
+      - "Made wit with musing weak, heart sick with thought."
+    m:
+      - "He hunts for honor, while I hunt for love. He leaves his friends to bring them more honor, but I neglect myself, my friends, and everything else for love. Oh, Julia, you’ve transformed me. You’ve made me neglect my studies, waste my time, argue against all reasonable advice, and set myself against the world. You’ve made my brain weak from thinking about you so much, and my heart sick with melancholy."
+
+  - os: "Enter SPEED"
+    ms: "SPEED enters."
+
+  - sp: SPEED
+    o:
+      - "Sir Proteus, save you! Saw you my master?"
+    m:
+      - "God save you, Sir Proteus! Have you seen my master?"
+
+  - sp: PROTEUS
+    o:
+      - "But now he parted hence, to embark for Milan."
+    m:
+      - "He just left here a minute ago on his way to Milan."
+
+  - sp: SPEED
+    o:
+      - "Twenty to one, then, he is shipped already,"
+      - "And I have played the sheep in losing him."
+    m:
+      - "I’d wager twenty to one, then, that his ship has already left. I’m foolish for having lost him."
+
+  - sp: PROTEUS
+    o:
+      - "Indeed, a sheep doth very often stray,"
+      - "An if the shepherd be a while away."
+    m:
+      - "Indeed, sheep often go astray when the shepherd has gone away."
+
+  - sp: SPEED
+    o:
+      - "You conclude that my master is a shepherd, then, and I a sheep?"
+    m:
+      - "You’re saying that my master is a shepherd, then, and I’m a sheep?"
+
+  - sp: PROTEUS
+    o:
+      - "I do."
+    m:
+      - "Yes."
+
+  - sp: SPEED
+    o:
+      - "Why then, my horns are his horns, whether I wake or sleep."
+    m:
+      - "Well then, my horns are his horns, whether I’m awake or asleep."
+
+  - sp: PROTEUS
+    o:
+      - "A silly answer, and fitting well a sheep."
+    m:
+      - "What a silly answer—very fitting for a sheep."
+
+  - sp: SPEED
+    o:
+      - "This proves me still a sheep."
+    m:
+      - "This means you think I’m still a sheep."
+
+  - sp: PROTEUS
+    o:
+      - "True; and thy master a shepherd."
+    m:
+      - "Yes, and your master a shepherd."
+
+  - sp: SPEED
+    o:
+      - "Nay, that I can deny by a circumstance."
+    m:
+      - "No, I can disprove that with an example."
+
+  - sp: PROTEUS
+    o:
+      - "It shall go hard but I’ll prove it by another."
+    m:
+      - "It’ll be a challenge, but I’ll prove it with another example."
+
+  - sp: SPEED
+    o:
+      - "The shepherd seeks the sheep, and not the sheep the shepherd; but I seek my master, and my master seeks not me. Therefore I am no sheep."
+    m:
+      - "The shepherd looks for the sheep, but the sheep doesn’t look for the shepherd. I’m looking for my master, but my master isn’t looking for me. Therefore, I’m not a sheep."
+
+  - sp: PROTEUS
+    o:
+      - "The sheep for fodder follow the shepherd; the shepherd for food follows not the sheep. Thou for wages followest thy master; thy master for wages follows not thee. Therefore thou art a sheep."
+    m:
+      - "The sheep follows the shepherd because it wants food, but the shepherd doesn’t follow the sheep for food. You follow your master for your pay, but your master doesn’t follow you for pay. Therefore, you’re a sheep."
+
+  - sp: SPEED
+    o:
+      - "Such another proof will make me cry “Baa.”"
+    m:
+      - "Another bad example like that and I’ll say, “Baa.”"
+
+  - sp: PROTEUS
+    o:
+      - "But dost thou hear?  Gav’st thou my letter to Julia?"
+    m:
+      - "But anyway, what happened? Did you give my letter to Julia?"
+
+  - sp: SPEED
+    o:
+      - "Ay, sir. I, a lost mutton, gave your letter to her, a laced mutton, and she, a laced mutton, gave me, a lost mutton, nothing for my labor."
+    m:
+      - "Yes, sir. I, a lost sheep, gave your letter to her, a prostitute. And she, the prostitute, gave me, a lost sheep, nothing for all my hard work."
+
+  - sp: PROTEUS
+    o:
+      - "Here’s too small a pasture for such store of muttons."
+    m:
+      - "The world isn’t big enough for all these darn sheep."
+
+  - sp: SPEED
+    o:
+      - "If the ground be overcharged, you were best stick her."
+    m:
+      - "If it’s too crowded for you, then you should stick her."
+
+  - sp: PROTEUS
+    o:
+      - "Nay, in that you are astray: ’twere best pound you."
+    m:
+      - "No, now you’ve really gone astray. I ought to pound you."
+
+  - sp: SPEED
+    o:
+      - "Nay, sir, less than a pound shall serve me for carrying your letter."
+    m:
+      - "No, sir, less than a pound will suffice for delivering your letter."
+
+  - sp: PROTEUS
+    o:
+      - "You mistake. I mean the pound—a pinfold."
+    m:
+      - "You misunderstood. I meant *give you a pounding*, pinhead."
+
+  - sp: SPEED
+    o:
+      - "From a pound to a pin?  Fold it over and over,"
+      - "’Tis threefold too little for carrying a letter to your lover."
+    m:
+      - "You’ve gone from a pound down to a pinhead? No, I want more than that—that’s far too little payment for delivering a letter to your lover."
+
+  - sp: PROTEUS
+    o:
+      - "But what said she?"
+    m:
+      - "So what did she say?"
+
+  - sp: SPEED
+    o:
+      - "*(Nodding)* Ay."
+    m:
+      - "*(nodding)* Ay."
+
+  - sp: PROTEUS
+    o:
+      - "Nod-ay—why, that’s “noddy.”"
+    m:
+      - "Nod-ay? Well, that’s “naughty.”"
+
+  - sp: SPEED
+    o:
+      - "You mistook, sir. I say she did nod, and you ask me if she did nod, and I say, “Ay.”"
+    m:
+      - "You misunderstood, sir. I said she nodded, and you asked me if she nodded, and I said, “Ay.”"
+
+  - sp: PROTEUS
+    o:
+      - "And that set together is “noddy.”"
+    m:
+      - "And all that put together is “naughty.”"
+
+  - sp: SPEED
+    o:
+      - "Now you have taken the pains to set it together, take it for your pains."
+    m:
+      - "Now that you’ve taken the trouble to figure it out, take that for your trouble and consider it your answer."
+
+  - sp: PROTEUS
+    o:
+      - "No, no, you shall have it for bearing the letter."
+    m:
+      - "No, no, you shall have it for delivering the letter."
+
+  - sp: SPEED
+    o:
+      - "Well, I perceive I must be fain to bear with you."
+    m:
+      - "Well, I guess I must be willing to put up with you."
+
+  - sp: PROTEUS
+    o:
+      - "Why, sir, how do you bear with me?"
+    m:
+      - "Why, sir, what do you mean, “put up with me”?"
+
+  - sp: SPEED
+    o:
+      - "Marry, sir, the letter, very orderly, having nothing but the word “noddy” for my pains."
+    m:
+      - "Geez, sir, I mean getting nothing but the word “naughty” as payment for my delivery."
+
+  - sp: PROTEUS
+    o:
+      - "Beshrew me, but you have a quick wit."
+    m:
+      - "Damn, you have a quick wit."
+
+  - sp: SPEED
+    o:
+      - "And yet it cannot overtake your slow purse."
+    m:
+      - "And yet I can’t speed past your slowness in paying me."
+
+  - sp: PROTEUS
+    o:
+      - "Come, come, open the matter in brief. What said she?"
+    m:
+      - "Come on, come on, tell me briefly. What did she say?"
+
+  - sp: SPEED
+    o:
+      - "Open your purse, that the money and the matter may be both at once delivered."
+    m:
+      - "Open your wallet, and the money and her response will both be delivered."
+
+  - sp: PROTEUS
+    o:
+      - "*(Giving him money)* Well, sir, here is for your pains. What said she?"
+    m:
+      - "*(giving him money)* Well, sir, here’s something for your trouble. What did she say?"
+
+  - sp: SPEED
+    o:
+      - "Truly, sir, I think you’ll hardly win her."
+    m:
+      - "Honestly, sir, I think you’ll have a hard time winning her."
+
+  - sp: PROTEUS
+    o:
+      - "Why, couldst thou perceive so much from her?"
+    m:
+      - "Why? Did you get that from speaking with her?"
+
+  - sp: SPEED
+    o:
+      - "Sir, I could perceive nothing at all from her, no, not so much as a ducat for delivering your letter. And being so hard to me that brought your mind, I fear she’ll prove as hard to you in telling your mind. Give her no token but stones, for she’s as hard as steel."
+    m:
+      - "Sir, I couldn’t get anything at all out of her, not even so much as a tip for delivering your letter. And since she was so stingy to me for having delivered your thoughts, I fear she’ll prove just as stingy with you. Don’t give her any little gifts except stones, because she’s as hard as steel."
+
+  - sp: PROTEUS
+    o:
+      - "What said she? Nothing?"
+    m:
+      - "What did she say? Nothing?"
+
+  - sp: SPEED
+    o:
+      - "No, not so much as “Take this for thy pains.” To testify your bounty, I thank you, you have testerned me; in requital whereof, henceforth carry your letters yourself. And so, sir, I’ll commend you to my master."
+    m:
+      - "No, not even so much as “Take this for your trouble.” I can attest to your generosity since you’ve given me a small tip. In return, you can deliver your own letters from now on. And so, sir, I’ll say hello to my master for you."
+
+  - sp: PROTEUS
+    o:
+      - "Go, go, begone, to save your ship from wreck,"
+      - "Which cannot perish having thee aboard,"
+      - "Being destined to a drier death on shore."
+    m:
+      - "Go on, get out of here. You’ll save your ship from sinking since you’re destined to die on dry land."
+
+  - os: "Exit SPEED"
+    ms: "SPEED exits."
+
+  - o:
+      - "I must go send some better messenger."
+      - "I fear my Julia would not deign my lines,"
+      - "Receiving them from such a worthless post."
+    m:
+      - "I must send a letter with a better messenger. I’m afraid my Julia wouldn’t accept my letter because she received it from such a worthless postman."
+
+  - os: "Exit"
+    ms: "PROTEUS exits."

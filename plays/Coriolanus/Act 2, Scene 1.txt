@@ -1,0 +1,803 @@
+play: Coriolanus
+title: Act 2, Scene 1
+group: 2
+order: 10
+text:
+  - os: "Rome. A public place."
+    ms: "A public place in Rome."
+
+  - os: "Enter MENENIUS with the two Tribunes of the people, SICINIUS and BRUTUS."
+    ms: "MENENIUS enters with SICINIUS and BRUTUS, the two tribunes of the people."
+
+  - sp: MENENIUS
+    o:
+      - "The augurer tells me we shall have news to-night."
+    m:
+      - "The fortuneteller tells me we’ll receive news tonight."
+
+  - sp: BRUTUS
+    o:
+      - "Good or bad?"
+    m:
+      - "Good news or bad?"
+
+  - sp: MENENIUS
+    o:
+      - "Not according to the prayer of the people, for they"
+      - "love not Martius."
+    m:
+      - "Not the news people prayed for—they have no love for Martius."
+
+  - sp: SICINIUS
+    o:
+      - "Nature teaches beasts to know their friends."
+    m:
+      - "In nature, animals learn who their friends are."
+
+  - sp: MENENIUS
+    o:
+      - "Pray you, who does the wolf love?"
+    m:
+      - "Tell me, who does the wolf love?"
+
+  - sp: SICINIUS
+    o:
+      - "The lamb."
+    m:
+      - "The lamb."
+
+  - sp: MENENIUS
+    o:
+      - "Ay, to devour him; as the hungry plebeians would the"
+      - "noble Martius."
+    m:
+      - "Yes, to devour him, as the hungry citizens would love to devour the noble Martius."
+
+  - sp: BRUTUS
+    o:
+      - "He’s a lamb indeed, that baes like a bear."
+    m:
+      - "Martius is like a lamb, a lamb that roars like a bear."
+
+  - sp: MENENIUS
+    o:
+      - "He’s a bear indeed, that lives like a lamb. You two"
+      - "are old men: tell me one thing that I shall ask you."
+    m:
+      - "Martius is like a bear, a bear that lives like a lamb. You two have been around a long time, answer one question for me."
+
+  - sp: BOTH
+    o:
+      - "Well, sir."
+    m:
+      - "What do you want to know, sir?"
+
+  - sp: MENENIUS
+    o:
+      - "In what enormity is Martius poor in, that you two"
+      - "have not in abundance?"
+    m:
+      - "Tell me a quality that Martius lacks but that you two have in abundance."
+
+  - sp: BRUTUS
+    o:
+      - "He’s poor in no one fault, but stored with all."
+    m:
+      - "He doesn’t have just one fault—he has every fault."
+
+  - sp: SICINIUS
+    o:
+      - "Especially in pride."
+    m:
+      - "Especially pride."
+
+  - sp: BRUTUS
+    o:
+      - "And topping all others in boasting."
+    m:
+      - "And boasting, above all."
+
+  - sp: MENENIUS
+    o:
+      - "This is strange now: do you two know how you are"
+      - "censured here in the city, I mean of us o’ the"
+      - "right-hand file? do you?"
+    m:
+      - "One thing is strange though. Do you two know how you are regarded by the nobles of the city? Do you?"
+
+  - sp: BOTH
+    o:
+      - "Why, how are we censured?"
+    m:
+      - "How are we seen?"
+
+  - sp: MENENIUS
+    o:
+      - "Because you talk of pride now,—will you not be angry?"
+    m:
+      - "Because you talk of pride now, won’t you get angry if I tell you?"
+
+  - sp: BOTH
+    o:
+      - "Well, well, sir, well."
+    m:
+      - "No, not at all, sir."
+
+  - sp: MENENIUS
+    o:
+      - "Why, ’tis no great matter; for a very little thief of"
+      - "occasion will rob you of a great deal of patience:"
+      - "give your dispositions the reins, and be angry at"
+      - "your pleasures; at the least if you take it as a"
+      - "pleasure to you in being so. You blame Martius for"
+      - "being proud?"
+    m:
+      - "Well, it doesn’t take much. Even the slightest incident will cause you to lose your patience and let your disposition take over. You become angry at what you should have enjoyed, and your only enjoyment comes from being angry. And yet you blame Martius for being proud?"
+
+  - sp: BRUTUS
+    o:
+      - "We do it not alone, sir."
+    m:
+      - "We’re not alone in our opinion, sir."
+
+  - sp: MENENIUS
+    o:
+      - "I know you can do very little alone; for your helps"
+      - "are many, or else your actions would grow wondrous"
+      - "single: your abilities are too infant-like for"
+      - "doing much alone. You talk of pride: O that you"
+      - "could turn your eyes toward the napes of your necks,"
+      - "and make but an interior survey of your good selves!"
+      - "O that you could!"
+    m:
+      - "I know you can do very little alone. Without all the help you get, your actions would be totally insignificant. Your abilities aren’t strong enough for you to do much on your own. You talk of pride. If only you could see yourselves as you really are! I wish you could!"
+
+  - sp: BRUTUS
+    o:
+      - "What then, sir?"
+    m:
+      - "And what if we could, sir?"
+
+  - sp: MENENIUS
+    o:
+      - "Why, then you should discover a brace of unmeriting,"
+      - "proud, violent, testy magistrates, alias fools, as"
+      - "any in Rome."
+    m:
+      - "You’d see that you are equal to all the other unqualified, proud, violent, testy government officials—in other words, fools—in Rome."
+
+  - sp: SICINIUS
+    o:
+      - "Menenius, you are known well enough too."
+    m:
+      - "Menenius, you have a bad reputation, too."
+
+  - sp: MENENIUS
+    o:
+      - "I am known to be a humorous patrician, and one that"
+      - "loves a cup of hot wine with not a drop of allaying"
+      - "Tiber in’t; said to be something imperfect in"
+      - "favouring the first complaint; hasty and tinder-like"
+      - "upon too trivial motion; one that converses more"
+      - "with the buttock of the night than with the forehead"
+      - "of the morning: what I think I utter, and spend my"
+      - "malice in my breath. Meeting two such wealsmen as"
+      - "you are—I cannot call you Lycurguses—if the drink"
+      - "you give me touch my palate adversely, I make a"
+      - "crooked face at it. I can’t say your worships have"
+      - "delivered the matter well, when I find the ass in"
+      - "compound with the major part of your syllables: and"
+      - "though I must be content to bear with those that say"
+      - "you are reverend grave men, yet they lie deadly that"
+      - "tell you you have good faces. If you see this in"
+      - "the map of my microcosm, follows it that I am known"
+      - "well enough too? what barm can your bisson"
+      - "conspectuities glean out of this character, if I be"
+      - "known well enough too?"
+    m:
+      - "I’m known as a moody aristocrat, and one that loves a cup of hot wine not diluted by even a drop of water from the Tiber River. I’m said to be somewhat flawed as a judge because I’m hastily swayed by the first argument I hear. I’m quick to anger at the slightest disturbance. I stay up late at night and don’t rise early in the morning. I say whatever I think and express my anger when I speak. Meeting two statesmen such as yourselves—I cannot call you lawmakers—if I don’t like the drink you give me, I make a crooked face at it. I don’t think you deserve the respectful titles of your profession, when I find most of what you say to be asinine. And though I can tolerate those that say you are respectable, serious men, the ones who say you are honest are deadly liars. If you see these same qualities in me, doesn’t it make sense that I’m known for my bad qualities? What harm can your misperceptions do to my character, if I already have a bad reputation?"
+
+  - sp: BRUTUS
+    o:
+      - "Come, sir, come, we know you well enough."
+    m:
+      - "That’s enough, sir. We know your reputation well."
+
+  - sp: MENENIUS
+    o:
+      - "You know neither me, yourselves nor any thing. You"
+      - "are ambitious for poor knaves’ caps and legs: you"
+      - "wear out a good wholesome forenoon in hearing a"
+      - "cause between an orange wife and a fosset-seller;"
+      - "and then rejourn the controversy of three pence to a"
+      - "second day of audience. When you are hearing a"
+      - "matter between party and party, if you chance to be"
+      - "pinched with the colic, you make faces like"
+      - "mummers; set up the bloody flag against all"
+      - "patience; and, in roaring for a chamber-pot,"
+      - "dismiss the controversy bleeding the more entangled"
+      - "by your hearing: all the peace you make in their"
+      - "cause is, calling both the parties knaves. You are"
+      - "a pair of strange ones."
+    m:
+      - "You don’t know anything about me, or about yourselves. Your ambition is to have poor citizens take off their hats and bow down to you. You’ll waste a whole morning listening to a dispute over three pence between an orange vendor and a wine tap seller and then postpone settling the issue until the next day. When you’re hearing a matter between two parties, if you’re feeling the tiniest bit sick, you become very dramatic: you violently refuse to be patient and, demanding a chamber pot, dismiss the controversy, leaving it even more entangled as a result of your hearing it.  The only justice you show is in calling both parties scoundrels. You’re a pair of strange men."
+
+  - sp: BRUTUS
+    o:
+      - "Come, come, you are well understood to be a"
+      - "perfecter giber for the table than a necessary"
+      - "bencher in the Capitol."
+    m:
+      - "Come, come. You’re well known to be a better dinner-table conversationalist than a serious judge."
+
+  - sp: MENENIUS
+    o:
+      - "Our very priests must become mockers, if they shall"
+      - "encounter such ridiculous subjects as you are. When"
+      - "you speak best unto the purpose, it is not worth the"
+      - "wagging of your beards; and your beards deserve not"
+      - "so honourable a grave as to stuff a botcher’s"
+      - "cushion, or to be entombed in an ass’ pack-"
+      - "saddle. Yet you must be saying, Martius is proud;"
+      - "who in a cheap estimation, is worth predecessors"
+      - "since Deucalion, though peradventure some of the"
+      - "best of ’em were hereditary hangmen. God-den to"
+      - "your worships: more of your conversation would"
+      - "infect my brain, being the herdsmen of the beastly"
+      - "plebeians: I will be bold to take my leave of you."
+    m:
+      - "Even our priests would become mockers if they encountered anyone as ridiculous as you. When you stay on topic, what you say isn’t worth the wagging of your beards. And your beards don’t even deserve the honorable burial of being stuffed in a seamstress’ cushion or being entombed in the pack saddle of a donkey. You say Martius is proud, but even guessing conservatively, he’s worth all your predecessors since Deucalion, who survived the flood, even though some of them may have been hangmen. Good evening to you both. To keep talking with you would infect my brain, since you are the herdsmen of the beastly common people. I must go."
+
+  - os: "BRUTUS and SICINIUS go aside"
+    ms: "BRUTUS and SICINIUS go aside."
+
+  - os: "Enter VOLUMNIA, VIRGILIA, and VALERIA"
+    ms: "VOLUMNIA, VIRGILIA, and VALERIA enter."
+
+  - o:
+      - "How now, my as fair as noble ladies,—and the moon,"
+      - "were she earthly, no nobler,—whither do you follow"
+      - "your eyes so fast?"
+    m:
+      - "How are you, my dear noble ladies? You are like the moon on earth—what are you looking at?"
+
+  - sp: VOLUMNIA
+    o:
+      - "Honourable Menenius, my boy Martius approaches; for"
+      - "the love of Juno, let’s go."
+    m:
+      - "Honorable Menenius, my son Martius approaches.  For the love of Juno, let’s go."
+
+  - sp: MENENIUS
+    o:
+      - "Ha! Martius coming home!"
+    m:
+      - "What? Martius is coming home?"
+
+  - sp: VOLUMNIA
+    o:
+      - "Ay, worthy Menenius; and with most prosperous approbation."
+    m:
+      - "Yes, worthy Menenius, and he’s proudly victorious."
+
+  - sp: MENENIUS
+    o:
+      - "Take my cap, Jupiter, and I thank thee. Hoo!"
+      - "Martius coming home!"
+    m:
+      - "I take my hat off in thanks to you, Jupiter, king of the gods. Hoo! Martius is coming home!"
+
+  - sp: VOLUMNIA AND VIRGILIA
+    o:
+      - "Nay, ’tis true."
+    m:
+      - "Yes, it’s true."
+
+  - sp: VOLUMNIA
+    o:
+      - "Look, here’s a letter from him: the state hath"
+      - "another, his wife another; and, I think, there’s one"
+      - "at home for you."
+    m:
+      - "Look, here’s a letter from him. He sent another to the Senate and another to his wife. I think there’s one at home for you."
+
+  - sp: MENENIUS
+    o:
+      - "I will make my very house reel tonight: a letter for"
+      - "me!"
+    m:
+      - "My household will be thrilled tonight. A letter for me!"
+
+  - sp: VIRGILIA
+    o:
+      - "Yes, certain, there’s a letter for you; I saw’t."
+    m:
+      - "Yes, I’m certain there’s a letter for you. I saw it."
+
+  - sp: MENENIUS
+    o:
+      - "A letter for me! it gives me an estate of seven"
+      - "years’ health; in which time I will make a lip at"
+      - "the physician: the most sovereign prescription in"
+      - "Galen is but empiricutic, and, to this preservative,"
+      - "of no better report than a horse-drench. Is he"
+      - "not wounded? he was wont to come home wounded."
+    m:
+      - "A letter for me! It makes me live seven years longer, and all the while I’ll laugh at my doctor. The most well-established prescription according to the great doctor Galen is nothing but an experimental cure, and compared to this news, it’s worth no more than horse medicine. Is he wounded? He was likely to come home wounded."
+
+  - sp: VIRGILIA
+    o:
+      - "O, no, no, no."
+    m:
+      - "Oh, no, no, no."
+
+  - sp: VOLUMNIA
+    o:
+      - "O, he is wounded; I thank the gods for’t."
+    m:
+      - "Oh, yes, he’s wounded, and I thank the gods for it."
+
+  - sp: MENENIUS
+    o:
+      - "So do I too, if it be not too much: brings a’"
+      - "victory in his pocket? the wounds become him."
+    m:
+      - "As do I, if he’s not wounded too much. If he brings home victory, the wounds are appropriate."
+
+  - sp: VOLUMNIA
+    o:
+      - "On’s brows: Menenius, he comes the third time home"
+      - "with the oaken garland."
+    m:
+      - "He’s wounded on his forehead. Menenius, this is the third time he’s come home with the garland of oak."
+
+  - sp: MENENIUS
+    o:
+      - "Has he disciplined Aufidius soundly?"
+    m:
+      - "Has he thoroughly beaten Aufidius?"
+
+  - sp: VOLUMNIA
+    o:
+      - "Titus Lartius writes, they fought together, but"
+      - "Aufidius got off."
+    m:
+      - "Titus Lartius writes that they fought each other, but Aufidius got away."
+
+  - sp: MENENIUS
+    o:
+      - "And ’twas time for him too, I’ll warrant him that:"
+      - "an he had stayed by him, I would not have been so"
+      - "fidiused for all the chests in Corioli, and the gold"
+      - "that’s in them. Is the senate possessed of this?"
+    m:
+      - "It was Aufidius’ time to die. For all the chests in Corioles and the gold that’s in them, I bet that if Martius had captured him, he would’ve gotten the beating he deserved. Does the Senate know about this?"
+
+  - sp: VOLUMNIA
+    o:
+      - "Good ladies, let’s go. Yes, yes, yes; the senate"
+      - "has letters from the general, wherein he gives my"
+      - "son the whole name of the war: he hath in this"
+      - "action outdone his former deeds doubly"
+    m:
+      - "Good ladies, let’s go. Yes, yes, yes! Cominius has written to the Senate and named my son responsible for the victory. His accomplishments in this war are double all his past deeds."
+
+  - sp: VALERIA
+    o:
+      - "In troth, there’s wondrous things spoke of him."
+    m:
+      - "It’s true, there are wonderful things said about him."
+
+  - sp: MENENIUS
+    o:
+      - "Wondrous! ay, I warrant you, and not without his"
+      - "true purchasing."
+    m:
+      - "Wonderful! Yes, it’s true, and none that he didn’t earn."
+
+  - sp: VIRGILIA
+    o:
+      - "The gods grant them true!"
+    m:
+      - "Oh, gods, may these words be true!"
+
+  - sp: VOLUMNIA
+    o:
+      - "True! pow, wow."
+    m:
+      - "True? Pooh-whoo!"
+
+  - sp: MENENIUS
+    o:
+      - "True! I’ll be sworn they are true."
+      - "Where is he wounded?"
+    m:
+      - "True? I promise they’re true."
+      - "Where is he wounded?"
+
+  - os: "To the Tribunes"
+    ms: "To the Tribunes"
+
+  - o:
+      - "God save your good worships! Martius is coming"
+      - "home: he has more cause to be proud. Where is he wounded?"
+    m:
+      - "May you be well, good sirs! Martius is coming home. He has new reasons to be proud. *(to Volumnia)* Where is he wounded?"
+
+  - sp: VOLUMNIA
+    o:
+      - "I’ the shoulder and i’ the left arm there will be"
+      - "large cicatrices to show the people, when he shall"
+      - "stand for his place. He received in the repulse of"
+      - "Tarquin seven hurts i’ the body."
+    m:
+      - "In the shoulder and in the left arm. There will be large scars to show the people, when he stands to receive his place as consul. When he defeated the king Tarquin, he was wounded seven times."
+
+  - sp: MENENIUS
+    o:
+      - "One i’ the neck, and two i’ the thigh,—there’s"
+      - "nine that I know."
+    m:
+      - "Once in the neck and twice in the thigh. There are nine wounds that I know of."
+
+  - sp: VOLUMNIA
+    o:
+      - "He had, before this last expedition, twenty-five"
+      - "wounds upon him."
+    m:
+      - "Before this last expedition, he had twenty-five wounds in total."
+
+  - sp: MENENIUS
+    o:
+      - "Now it’s twenty-seven: every gash was an enemy’s grave."
+    m:
+      - "Now it’s twenty-seven. Every gash represents an enemy who has died."
+
+  - os: "A shout and flourish"
+    ms: "Trumpets sound, and a shout comes from offstage."
+
+  - o:
+      - "Hark! the trumpets."
+    m:
+      - "Hark! The trumpets."
+
+  - sp: VOLUMNIA
+    o:
+      - "These are the ushers of Martius: before him he"
+      - "carries noise, and behind him he leaves tears:"
+      - "Death, that dark spirit, in ’s nervy arm doth lie;"
+      - "Which, being advanced, declines, and then men die."
+    m:
+      - "These men walk ahead of Martius to introduce him. Many cheers welcome him, and he leaves behind many tears.  Death, that dark spirit, lies within his strong arm. When he raises his arm, it comes down upon his enemies and they die."
+
+  - os: "A sennet. Trumpets sound. Enter COMINIUS the general, and TITUS LARTIUS; between them, CORIOLANUS, crowned with an oaken garland; with Captains and Soldiers, and a Herald"
+    ms: "Trumpets sound in a different melody. COMINIUS, the general, and TITUS LARTIUS enter. Between them stands CORIOLANUS crowned with a garland of oak, with captains and soldiers and a Herald"
+
+  - sp: HERALD
+    o:
+      - "Know, Rome, that all alone Martius did fight"
+      - "Within Corioli gates: where he hath won,"
+      - "With fame, a name to Caius Martius; these"
+      - "In honour follows Coriolanus."
+      - "Welcome to Rome, renowned Coriolanus!"
+    m:
+      - "Romans, let it be known that Martius fought all alone within Corioles’ gates. There he won, along with honor, a new name. The name “Coriolanus” now respectfully follows “Caius Martius.” Welcome to Rome, the renowned Coriolanus!"
+
+  - os: "Flourish"
+    ms: "Trumpets sound."
+
+  - sp: ALL
+    o:
+      - "Welcome to Rome, renowned Coriolanus!"
+    m:
+      - "Welcome to Rome, renowned Coriolanus!"
+
+  - sp: CORIOLANUS
+    o:
+      - "No more of this; it does offend my heart:"
+      - "Pray now, no more."
+    m:
+      - "No more praise. I don’t like it. Please now, no more."
+
+  - sp: COMINIUS
+    o:
+      - "Look, sir, your mother!"
+    m:
+      - "Look, sir, your mother!"
+
+  - sp: CORIOLANUS
+    o:
+      - "O,"
+      - "You have, I know, petition’d all the gods"
+      - "For my prosperity!"
+    m:
+      - "You have, I know, begged all the gods to grant me victory!"
+
+  - os: "Kneels"
+    ms: "He kneels."
+
+  - sp: VOLUMNIA
+    o:
+      - "Nay, my good soldier, up;"
+      - "My gentle Martius, worthy Caius, and"
+      - "By deed-achieving honour newly named,—"
+      - "What is it?—Coriolanus must I call thee?—"
+      - "But O, thy wife!"
+    m:
+      - "No, my good soldier, get up. My gentle Martius, worthy Caius, and through your honor achieved by your actions, newly named—what is it?—Coriolanus must I call thee? *(Coriolanus rises)* But oh, your wife!"
+
+  - sp: CORIOLANUS
+    o:
+      - "My gracious silence, hail!"
+      - "Wouldst thou have laugh’d had I come coffin’d home,"
+      - "That weep’st to see me triumph? Ay, my dear,"
+      - "Such eyes the widows in Corioli wear,"
+      - "And mothers that lack sons."
+    m:
+      - "There you are, my lovely silent wife! Would you have laughed if I had come home in a coffin, since you are crying to see me come home in victory? Ah, my dear, your eyes look like the widows and the mothers who have lost sons in Corioles."
+
+  - sp: MENENIUS
+    o:
+      - "Now, the gods crown thee!"
+    m:
+      - "Now, the gods crown you!"
+
+  - sp: CORIOLANUS
+    o:
+      - "And live you yet?"
+      - "*(to VALERIA)* O my sweet lady, pardon."
+    m:
+      - "Are you still alive?"
+      - "*(to Valeria)* I’m sorry, my sweet lady."
+
+  - sp: VOLUMNIA
+    o:
+      - "I know not where to turn: O, welcome home:"
+      - "And welcome, general: and ye’re welcome all."
+    m:
+      - "I don’t know where to turn. Oh, welcome home! And welcome, general! Welcome all!"
+
+  - sp: MENENIUS
+    o:
+      - "A hundred thousand welcomes. I could weep"
+      - "And I could laugh, I am light and heavy. Welcome."
+      - "A curse begin at very root on’s heart,"
+      - "That is not glad to see thee! You are three"
+      - "That Rome should dote on: yet, by the faith of men,"
+      - "We have some old crab-trees here"
+      - "at home that will not"
+      - "Be grafted to your relish. Yet welcome, warriors:"
+      - "We call a nettle but a nettle and"
+      - "The faults of fools but folly."
+    m:
+      - "A hundred thousand welcomes. I could weep and I could laugh. I’m happy and sad. Welcome. May a curse reach to the very root of anyone’s heart who isn’t happy to see you! Rome should honor you as it would three men. However, we have some bitter old men here who refuse to applaud you. But welcome, warriors! Some things just are what they are, and fools don’t understand."
+
+  - sp: COMINIUS
+    o:
+      - "Ever right."
+    m:
+      - "You’re right."
+
+  - sp: CORIOLANUS
+    o:
+      - "Menenius ever, ever."
+    m:
+      - "You’re always right, Menenius."
+
+  - sp: HERALD
+    o:
+      - "Give way there, and go on!"
+    m:
+      - "Make way. Keep walking."
+
+  - sp: CORIOLANUS
+    o:
+      - "*(to VOLUMNIA and VIRGILIA)* Your hand, and yours:"
+      - "Ere in our own house I do shade my head,"
+      - "The good patricians must be visited;"
+      - "From whom I have received not only greetings,"
+      - "But with them change of honours."
+    m:
+      - "*(to Volumnia and Virgilia)* Give me your hands. Before I can go home and rest, I must visit the nobles because they haven’t only welcomed me back but have also honored me with this new name."
+
+  - sp: VOLUMNIA
+    o:
+      - "I have lived"
+      - "To see inherited my very wishes"
+      - "And the buildings of my fancy: only"
+      - "There’s one thing wanting, which I doubt not but"
+      - "Our Rome will cast upon thee."
+    m:
+      - "I’ve lived to see all my wishes come true and to possess all the things I wanted. Now there’s only one thing left, which I’m sure that Rome will give you."
+
+  - sp: CORIOLANUS
+    o:
+      - "Know, good mother,"
+      - "I had rather be their servant in my way,"
+      - "Than sway with them in theirs."
+    m:
+      - "Mother, you know I’d prefer to serve the senators as a soldier than to be a public servant myself."
+
+  - sp: COMINIUS
+    o:
+      - "On, to the Capitol!"
+    m:
+      - "Let’s go the capitol!"
+
+  - os: "Flourish. Cornets. Exeunt in state, as before. BRUTUS and SICINIUS come forward"
+    ms: "Trumpets sounds.  All exit except BRUTUS and SICINIUS."
+
+  - sp: BRUTUS
+    o:
+      - "All tongues speak of him, and the bleared sights"
+      - "Are spectacled to see him: your prattling nurse"
+      - "Into a rapture lets her baby cry"
+      - "While she chats him: the kitchen malkin pins"
+      - "Her richest lockram ’bout her reechy neck,"
+      - "Clambering the walls to eye him: stalls, bulks, windows,"
+      - "Are smother’d up, leads fill’d, and ridges horsed"
+      - "With variable complexions, all agreeing"
+      - "In earnestness to see him: seld-shown flamens"
+      - "Do press among the popular throngs and puff"
+      - "To win a vulgar station: or veil’d dames"
+      - "Commit the war of white and damask in"
+      - "Their nicely-gawded cheeks to the wanton spoil"
+      - "Of Phoebus’ burning kisses: such a pother"
+      - "As if that whatsoever god who leads him"
+      - "Were slily crept into his human powers"
+      - "And gave him graceful posture."
+    m:
+      - "Everyone is talking about him. People who are nearly blind wear glasses just to see him.  Babbling nurses let babies cry in a tantrum while they talk about him. The kitchen maid pins her best linen around her dirty neck and climbs up the wall to see him. Storefronts are boarded up, leaden roofs covered over and all different types of people are riding their horses on top of the roofs, all trying to see him. Priests who rarely come out in public are mixed in with the common people and struggle to find a place in the crowd. Women who usually wear veils are letting their pale cheeks get sunburned. There is such mayhem that it seems like whichever god is guiding Martius has taken over his very body and given him a godly way of being."
+
+  - sp: SICINIUS
+    o:
+      - "On the sudden,"
+      - "I warrant him consul."
+    m:
+      - "It seems like he may become a member of the consul."
+
+  - sp: BRUTUS
+    o:
+      - "Then our office may,"
+      - "During his power, go sleep."
+    m:
+      - "We’d lose power if he were admitted to the consul."
+
+  - sp: SICINIUS
+    o:
+      - "He cannot temperately transport his honours"
+      - "From where he should begin and end, but will"
+      - "Lose those he hath won."
+    m:
+      - "He won’t be able to translate his fame in battle into some other kind of victory. If he tries, he’ll lose the honor he has won."
+
+  - sp: BRUTUS
+    o:
+      - "In that there’s comfort."
+    m:
+      - "That’s comforting."
+
+  - sp: SICINIUS
+    o:
+      - "Doubt not"
+      - "The commoners, for whom we stand, but they"
+      - "Upon their ancient malice will forget"
+      - "With the least cause these his new honours, which"
+      - "That he will give them make I as little question"
+      - "As he is proud to do’t."
+    m:
+      - "Don’t doubt the common people we represent. Their longstanding hatred for him will cause them to overlook his new honors with only the slightest provocation. And given his pride, he’ll undoubtedly provoke them."
+
+  - sp: BRUTUS
+    o:
+      - "I heard him swear,"
+      - "Were he to stand for consul, never would he"
+      - "Appear i’ the market-place nor on him put"
+      - "The napless vesture of humility;"
+      - "Nor showing, as the manner is, his wounds"
+      - "To the people, beg their stinking breaths."
+    m:
+      - "I heard him declare that if he were to seek nomination to the consul, he would never appear in the marketplace wearing the traditional poor man’s gown to show his humility. Nor would he show off his wounds to the people to win their approval."
+
+  - sp: SICINIUS
+    o:
+      - "’Tis right."
+    m:
+      - "Is that so?"
+
+  - sp: BRUTUS
+    o:
+      - "It was his word: O, he would miss it rather"
+      - "Than carry it but by the suit of the gentry to him,"
+      - "And the desire of the nobles."
+    m:
+      - "He said he’d rather not be in the consul if he couldn’t be admitted simply by the wishes of the middle class and the nobles."
+
+  - sp: SICINIUS
+    o:
+      - "I wish no better"
+      - "Than have him hold that purpose and to put it"
+      - "In execution."
+    m:
+      - "I hope he stays with that plan."
+
+  - sp: BRUTUS
+    o:
+      - "’Tis most like he will."
+    m:
+      - "Most likely, he will."
+
+  - sp: SICINIUS
+    o:
+      - "It shall be to him then as our good wills,"
+      - "A sure destruction."
+    m:
+      - "What will happen to him then will be as we wish: he’ll surely lose."
+
+  - sp: BRUTUS
+    o:
+      - "So it must fall out"
+      - "To him or our authorities. For an end,"
+      - "We must suggest the people in what hatred"
+      - "He still hath held them; that to’s power he would"
+      - "Have made them mules, silenced their pleaders and"
+      - "Dispropertied their freedoms, holding them,"
+      - "In human action and capacity,"
+      - "Of no more soul nor fitness for the world"
+      - "Than camels in the war, who have their provand"
+      - "Only for bearing burdens, and sore blows"
+      - "For sinking under them."
+    m:
+      - "He must lose, or else our power will be over. We must remind the people of how much he still hates them, that if he were in charge, he’d make them work like mules, he would never listen to their requests and he’d take away their freedoms. He wouldn’t recognize their humanity or their souls. He’d hold them captive like the camels who only get fed so that they can carry heavy loads in service of the war and develop sores in the process."
+
+  - sp: SICINIUS
+    o:
+      - "This, as you say, suggested"
+      - "At some time when his soaring insolence"
+      - "Shall touch the people—which time shall not want,"
+      - "If he be put upon ’t; and that’s as easy"
+      - "As to set dogs on sheep—will be his fire"
+      - "To kindle their dry stubble; and their blaze"
+      - "Shall darken him for ever."
+    m:
+      - "We need to suggest this possibility to the people at a time when they’re already irritated by his arrogance. There will be many occasions for this. It’s as easy to get him to show off his pride as it is to get dogs to chase sheep. His pride will be like fire to their kindling wood, and their blaze will ruin him forever."
+
+  - os: "Enter a Messenger"
+    ms: "A Messenger enters."
+
+  - sp: BRUTUS
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s going on?"
+
+  - sp: MESSENGER
+    o:
+      - "You are sent for to the Capitol. ’Tis thought"
+      - "That Martius shall be consul:"
+      - "I have seen the dumb men throng to see him and"
+      - "The blind to bear him speak: matrons flung gloves,"
+      - "Ladies and maids their scarfs and handkerchers,"
+      - "Upon him as he pass’d: the nobles bended,"
+      - "As to Jove’s statue, and the commons made"
+      - "A shower and thunder with their caps and shouts:"
+      - "I never saw the like."
+    m:
+      - "The capitol sends for you. It’s thought that Martius will be admitted to the consul. I saw mute people form crowds to see him and blind people to hear him speak. Married women threw their gloves to him and ladies and maids their scarfs and handkerchiefs. As he passed by, the nobles bowed to him as they would to Jupiter’s statue. The common people made a shower with their caps and thunder with their shouts. I’ve never seen anything like it."
+
+  - sp: BRUTUS
+    o:
+      - "Let’s to the Capitol;"
+      - "And carry with us ears and eyes for the time,"
+      - "But hearts for the event."
+    m:
+      - "Let’s go to the Capitol and keep our eyes and ears open for the time being, while our heart remains set on our plan."
+
+  - sp: SICINIUS
+    o:
+      - "Have with you."
+    m:
+      - "I’m with you."
+
+  - os: "Exeunt"
+    ms: "All exit."

@@ -1,0 +1,264 @@
+play: Richard II
+title: Act 3, Scene 4
+group: 3
+order: 11
+text:
+  - os: "Langley. The Duke of York’s garden."
+    ms: "The village of Langley, in the Duke of York’s garden."
+
+  - os: "Enter the QUEEN and two Ladies"
+    ms: "The QUEEN enters, with two Ladies."
+
+  - sp: QUEEN
+    o:
+      - "What sport shall we devise here in this garden,"
+      - "To drive away the heavy thought of care?"
+    m:
+      - "What game should we play here in the garden to distract us from our worries?"
+
+  - sp: LADY
+    o:
+      - "Madam, we’ll play at bowls."
+    m:
+      - "Madam, let’s play bowls."
+
+  - sp: QUEEN
+    o:
+      - "’Twill make me think the world is full of rubs,"
+      - "And that my fortune rubs against the bias."
+    m:
+      - "It will make me think the world is full of obstacles, and that my fortune sends me the wrong way."
+
+  - sp: LADY
+    o:
+      - "Madam, we’ll dance."
+    m:
+      - "Madam, we’ll dance."
+
+  - sp: QUEEN
+    o:
+      - "My legs can keep no measure in delight,"
+      - "When my poor heart no measure keeps in grief:"
+      - "Therefore, no dancing, girl; some other sport."
+    m:
+      - "My legs can’t move with delight when my heart is so full of grief. Therefore, no dancing, girl. Let’s find some other sport."
+
+  - sp: LADY
+    o:
+      - "Madam, we’ll tell tales."
+    m:
+      - "Madam, we’ll tell stories."
+
+  - sp: QUEEN
+    o:
+      - "Of sorrow or of joy?"
+    m:
+      - "Sad ones or happy ones?"
+
+  - sp: LADY
+    o:
+      - "Of either, madam."
+    m:
+      - "Either, madam."
+
+  - sp: QUEEN
+    o:
+      - "Of neither, girl:"
+      - "For of joy, being altogether wanting,"
+      - "It doth remember me the more of sorrow;"
+      - "Or if of grief, being altogether had,"
+      - "It adds more sorrow to my want of joy:"
+      - "For what I have I need not to repeat;"
+      - "And what I want it boots not to complain."
+    m:
+      - "Neither, girl. Since I have no happiness, happy stories only remind me of sorrow. Since I am full of grief, sad stories only add more sorrow to my lack of happiness. I don’t need to add on to what I already have, and it does no good to complain about what I want."
+
+  - sp: LADY
+    o:
+      - "Madam, I’ll sing."
+    m:
+      - "Madam, I’ll sing."
+
+  - sp: QUEEN
+    o:
+      - "’Tis well that thou hast cause"
+      - "But thou shouldst please me better, wouldst thou weep."
+    m:
+      - "It’s wonderful that you are happy enough to sing, but it would make me happier if you wept."
+
+  - sp: LADY
+    o:
+      - "I could weep, madam, would it do you good."
+    m:
+      - "If it would do you any good, madam, I could weep."
+
+  - sp: QUEEN
+    o:
+      - "And I could sing, would weeping do me good,"
+      - "And never borrow any tear of thee."
+    m:
+      - "And if weeping would do me any good, I would do it enough that I’d be able to sing."
+
+  - os: "Enter a Gardener, and two Servants"
+    ms: "A Gardener enters, with two Servants."
+
+  - o:
+      - "But stay, here come the gardeners:"
+      - "Let’s step into the shadow of these trees."
+      - "My wretchedness unto a row of pins,"
+      - "They’ll talk of state; for every one doth so"
+      - "Against a change; woe is forerun with woe."
+    m:
+      - "But stop, here come the gardeners. Let’s move into the shadows of these trees. I’d only bet my most worthless possessions that they won’t talk about politics, since that’s what everyone does in anticipation of a change. Sorrow is always announced with sorrow."
+
+  - os: "QUEEN and Ladies retire"
+    ms: "The QUEEN and her Ladies step into the background."
+
+  - sp: GARDENER
+    o:
+      - "Go, bind thou up yon dangling apricocks,"
+      - "Which, like unruly children, make their sire"
+      - "Stoop with oppression of their prodigal weight:"
+      - "Give some supportance to the bending twigs."
+      - "Go thou, and like an executioner,"
+      - "Cut off the heads of too fast growing sprays,"
+      - "That look too lofty in our commonwealth:"
+      - "All must be even in our government."
+      - "You thus employ’d, I will go root away"
+      - "The noisome weeds, which without profit suck"
+      - "The soil’s fertility from wholesome flowers."
+    m:
+      - "Go, gather up those dangling apricots. The tree is bending under their excessive weight, like a father oppressed by his unruly children. Give the twigs some support. Cut off the branches that are growing too fast and high in our country. Everything must be equal. While you’re doing that, I’ll go dig up those harmful weeds that are stealing all the nutrients in the soil from the flowers."
+
+  - sp: SERVANT
+    o:
+      - "Why should we in the compass of a pale"
+      - "Keep law and form and due proportion,"
+      - "Showing, as in a model, our firm estate,"
+      - "When our sea-walled garden, the whole land,"
+      - "Is full of weeds, her fairest flowers choked up,"
+      - "Her fruit-trees all upturned, her hedges ruin’d,"
+      - "Her knots disorder’d and her wholesome herbs"
+      - "Swarming with caterpillars?"
+    m:
+      - "Why should we make this garden look like a model of beauty and order when the whole country is in disarray? If England were a garden, it would be full of weeds, with the most beautiful flowers choked to death. All the fruit trees would be torn out of the ground, the hedges would be ruined, the carefully designed flowerbeds would be a mess, and the herbs would be covered in caterpillars."
+
+  - sp: GARDENER
+    o:
+      - "Hold thy peace:"
+      - "He that hath suffer’d this disorder’d spring"
+      - "Hath now himself met with the fall of leaf:"
+      - "The weeds which his broad-spreading leaves did shelter,"
+      - "That seem’d in eating him to hold him up,"
+      - "Are pluck’d up root and all by Bolingbroke,"
+      - "I mean the Earl of Wiltshire, Bushy, Green."
+    m:
+      - "Be quiet. The one who allowed this disordered mess to grow is now withering like a tree in autumn. The weeds that he sheltered with his leaves, and that seemed to prop him up while simultaneously destroying him, have been ripped up by Bolingbroke. I’m talking about the Earl of Wiltshire, Bushy, and Green."
+
+  - sp: SERVANT
+    o:
+      - "What, are they dead?"
+    m:
+      - "What, they are dead?"
+
+  - sp: GARDENER
+    o:
+      - "They are; and Bolingbroke"
+      - "Hath seized the wasteful king. O, what pity is it"
+      - "That he had not so trimm’d and dress’d his land"
+      - "As we this garden! We at time of year"
+      - "Do wound the bark, the skin of our fruit-trees,"
+      - "Lest, being over-proud in sap and blood,"
+      - "With too much riches it confound itself:"
+      - "Had he done so to great and growing men,"
+      - "They might have lived to bear and he to taste"
+      - "Their fruits of duty: superfluous branches"
+      - "We lop away, that bearing boughs may live:"
+      - "Had he done so, himself had borne the crown,"
+      - "Which waste of idle hours hath quite thrown down."
+    m:
+      - "They are, and Bolingbroke has taken the wasteful king into custody. Oh, it’s too bad that the king didn’t take care of his land as carefully as we tend this garden! At this time of year we pierce the bark, so that the fruit trees aren’t spoiled by too much of their own rich sap. If he had done the same thing to his men, who were spoiling from too much wealth and power, they might have served him better, and he would have profited. We cut the unnecessary branches off the trees, so that the ones that bear fruit will live. If he had done the same and cut away the unnecessary men in his service, he would still have the crown. But he wasted his time and lost it."
+
+  - sp: SERVANT
+    o:
+      - "What, think you then the king shall be deposed?"
+    m:
+      - "What, do you think the king will be dethroned?"
+
+  - sp: GARDENER
+    o:
+      - "Depress’d he is already, and deposed"
+      - "’Tis doubt he will be: letters came last night"
+      - "To a dear friend of the good Duke of York’s,"
+      - "That tell black tidings."
+    m:
+      - "He’s already been brought low, and it’s feared he’ll be dethroned. A dear friend of the Duke of York received letters last night with bad news."
+
+  - sp: QUEEN
+    o:
+      - "O, I am press’d to death through want of speaking!"
+    m:
+      - "Oh, not saying anything is killing me!"
+
+  - os: "Coming forward"
+    ms: "She comes forward."
+
+  - o:
+      - "Thou, old Adam’s likeness, set to dress this garden,"
+      - "How dares thy harsh rude tongue sound this unpleasing news?"
+      - "What Eve, what serpent, hath suggested thee"
+      - "To make a second fall of cursed man?"
+      - "Why dost thou say King Richard is deposed?"
+      - "Darest thou, thou little better thing than earth,"
+      - "Divine his downfall? Say, where, when, and how,"
+      - "Camest thou by this ill tidings? speak, thou wretch."
+    m:
+      - "You, gardener, how dare you say such awful things? What snake has tempted you to invent a second fall of man? Why do you say that King Richard is deposed? Do you dare predict his downfall when you are as low as the dirt? Tell me where, when, and how you heard these terrible things. Speak, you wretch."
+
+  - sp: GARDENER
+    o:
+      - "Pardon me, madam: little joy have I"
+      - "To breathe this news; yet what I say is true."
+      - "King Richard, he is in the mighty hold"
+      - "Of Bolingbroke: their fortunes both are weigh’d:"
+      - "In your lord’s scale is nothing but himself,"
+      - "And some few vanities that make him light;"
+      - "But in the balance of great Bolingbroke,"
+      - "Besides himself, are all the English peers,"
+      - "And with that odds he weighs King Richard down."
+      - "Post you to London, and you will find it so;"
+      - "I speak no more than every one doth know."
+    m:
+      - "Forgive me, madam. I’m not happy to say it, but it’s true. Bolingbroke has captured King Richard. Their fortunes are being weighed out. Your lord has only himself and his vanity, which makes him lighter. Great Bolingbroke has all the English peers with him, and that gives him greater weight than King Richard. If you hurry to London, you’ll see. I’m only saying what everyone knows."
+
+  - sp: QUEEN
+    o:
+      - "Nimble mischance, that art so light of foot,"
+      - "Doth not thy embassage belong to me,"
+      - "And am I last that knows it? O, thou think’st"
+      - "To serve me last, that I may longest keep"
+      - "Thy sorrow in my breast. Come, ladies, go,"
+      - "To meet at London London’s king in woe."
+      - "What, was I born to this, that my sad look"
+      - "Should grace the triumph of great Bolingbroke?"
+      - "Gardener, for telling me these news of woe,"
+      - "Pray God the plants thou graft’st may never grow."
+    m:
+      - "Why am I the last to hear this bad news that concerns me? I’ll feel the sorrow the longest and yet I’m the last to know. Come, ladies, let’s go. We must go to London to see the king in his sorrow. Was this why I was born, to show my sad face while great Bolingbroke triumphs? Gardener, for telling me this awful news, I pray that your plants never grow."
+
+  - os: "Exeunt QUEEN and Ladies"
+    ms: "The QUEEN and her Ladies exit."
+
+  - sp: GARDENER
+    o:
+      - "Poor queen! so that thy state might be no worse,"
+      - "I would my skill were subject to thy curse."
+      - "Here did she fall a tear; here in this place"
+      - "I’ll set a bank of rue, sour herb of grace:"
+      - "Rue, even for ruth, here shortly shall be seen,"
+      - "In the remembrance of a weeping queen."
+    m:
+      - "Poor queen! I wish her curse would strike my skill if it would help her. Her tear fell right here. I’ll plant rue there, since it is a bitter and sad herb. If only out of pity, rue will soon grow here in remembrance of a weeping queen."
+
+  - os: "Exeunt"
+    ms: "They exit."

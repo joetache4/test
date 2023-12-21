@@ -1,0 +1,1242 @@
+play: Antony and Cleopatra
+title: Act 5, Scene 2
+group: 5
+order: 41
+text:
+  - os: "Enter CLEOPATRA, CHARMIAN, and IRAS"
+    ms: "CLEOPATRA, CHARMIAN, and IRAS enter."
+
+  - sp: CLEOPATRA
+    o:
+      - "My desolation does begin to make"
+      - "A better life. ’Tis paltry to be Caesar."
+      - "Not being Fortune, he’s but Fortune’s knave,"
+      - "A minister of her will. And it is great"
+      - "To do that thing that ends all other deeds,"
+      - "Which shackles accidents and bolts up change,"
+      - "Which sleeps and never palates more the dung,"
+      - "The beggar’s nurse, and Caesar’s."
+    m:
+      - "Being alone has helped me better understand my life. It’s pathetic to be Caesar. He can’t be Fortune; he’s only Fortune’s errand boy. It would be a great deed to commit suicide—that act which ends all other things, which makes all accidents and changes stop. Which causes you to sleep, and takes you away from earthly concerns."
+
+  - os: "Enter PROCULEIUS"
+    ms: "PROCULEIUS enters."
+
+  - sp: PROCULEIUS
+    o:
+      - "Caesar sends greeting to the Queen of Egypt,"
+      - "And bids thee study on what fair demands"
+      - "Thou mean’st to have him grant thee."
+    m:
+      - "Caesar greets the Queen of Egypt and asks that you consider what you will ask from him."
+
+  - sp: CLEOPATRA
+    o:
+      - "    What’s thy name?"
+    m:
+      - "What’s your name?"
+
+  - sp: PROCULEIUS
+    o:
+      - "My name is Proculeius."
+    m:
+      - "My name is Proculeius."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Antony"
+      - "Did tell me of you, bade me trust you, but"
+      - "I do not greatly care to be deceived,"
+      - "That have no use for trusting. If your master"
+      - "Would have a queen his beggar, you must tell him,"
+      - "That majesty, to keep decorum, must"
+      - "No less beg than a kingdom. If he please"
+      - "To give me conquered Egypt for my son,"
+      - "He gives me so much of mine own as I"
+      - "Will kneel to him with thanks."
+    m:
+      - "Antony told me about you. He said you were a man I could trust. But I don’t worry about being deceived because I don’t need to trust. If your master wants a queen to beg from him, you should tell him that a queen will beg for no less than a kingdom. If he will grant me conquered Egypt, so that I may give it to my son, I will kneel to him with thanks."
+
+  - sp: PROCULEIUS
+    o:
+      - "    Be of good cheer."
+      - "You’re fall’n into a princely hand. Fear nothing."
+      - "Make your full reference freely to my lord,"
+      - "Who is so full of grace that it flows over"
+      - "On all that need. Let me report to him"
+      - "Your sweet dependency, and you shall find"
+      - "A conqueror that will pray in aid for kindness"
+      - "Where he for grace is kneeled to."
+    m:
+      - "Be content. You’re in the charge of an honorable man. Don’t be afraid. You can ask for anything from my lord. His generosity flows to anyone in need. If I can tell him that you have submitted to him sweetly, he’ll request your assistance in finding ways in which he can support you."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Pray you, tell him"
+      - "I am his fortune’s vassal, and I send him"
+      - "The greatness he has got. I hourly learn"
+      - "A doctrine of obedience, and would gladly"
+      - "Look him i’ th’ face."
+    m:
+      - "Please tell him I have surrendered to his fortune. I give up to him the glory he has won. I’m learning every hour how to be subservient. I’d be happy to meet with him in person."
+
+  - sp: PROCULEIUS
+    o:
+      - "    This I’ll report, dear lady."
+      - "Have comfort, for I know your plight is pitied"
+      - "Of him that caused it."
+    m:
+      - "I’ll tell him all of this, dear lady. Be at ease. I know he’s sorry for your situation, especially since he caused it."
+
+  - os: "GALLUS and Roman soldiers enter from behind and take CLEOPATRA prisoner"
+    ms: "GALLUS enters with soldiers. They seize CLEOPATRA."
+
+  - sp: GALLUS
+    o:
+      - "You see how easily she may be surprised."
+      - "*(to the soldiers)* Guard her till Caesar come."
+    m:
+      - "*(to PROCULEIUS)* See how easy it was to capture her? *(to soldiers)* Guard her until Caesar arrives."
+
+  - sp: IRAS
+    o:
+      - "    Royal Queen!"
+    m:
+      - "Your majesty!"
+
+  - sp: CHARMIAN
+    o:
+      - "O Cleopatra! Thou art taken, Queen."
+    m:
+      - "Oh, Cleopatra! You’ve been betrayed, my Queen!"
+
+  - os: "CLEOPATRA draws a dagger"
+    ms: "CLEOPATRA pulls out a knife."
+
+  - sp: CLEOPATRA
+    o:
+      - "Quick, quick, good hands."
+    m:
+      - "Quick, quick good hands!"
+
+  - os: "PROCULEIUS seizes the dagger"
+    ms: "She tries to stab herself, but PROCULEIUS seizes the dagger."
+
+  - sp: PROCULEIUS
+    o:
+      - "    Hold, worthy lady, hold!"
+      - "Do not yourself such wrong, who are in this"
+      - "Relieved but not betrayed."
+    m:
+      - "Stop, brave lady, stop! Don’t do such a shameful thing to yourself. We’ve rescued you from yourself. We have not betrayed you."
+
+  - sp: CLEOPATRA
+    o:
+      - "    What, of death too, That rids our dogs of languish?"
+    m:
+      - "What, am I being denied death, as well? The thing which even dogs are given, to rid them of their suffering?"
+
+  - sp: PROCULEIUS
+    o:
+      - "    Cleopatra,"
+      - "Do not abuse my master’s bounty by"
+      - "Th’ undoing of yourself. Let the world see"
+      - "His nobleness well acted, which your death"
+      - "Will never let come forth."
+    m:
+      - "Don’t insult my master’s generosity by killing yourself. The world will see how noble he is by the way he treats you. Your death would prevent that."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Where art thou, Death?"
+      - "Come hither, come! Come, come and take a queen"
+      - "Worth many babes and beggars!"
+    m:
+      - "Where are you, Death? Come here. Come, and you can have a queen. One queen is worth more than a whole number of babies and beggars, your cheapest conquests."
+
+  - sp: PROCULEIUS
+    o:
+      - "    Oh, temperance, lady!"
+    m:
+      - "Oh, control yourself, lady!"
+
+  - sp: CLEOPATRA
+    o:
+      - "Sir, I will eat no meat, I’ll not drink, sir."
+      - "If idle talk will once be necessary,"
+      - "I’ll not sleep neither. This mortal house I’ll ruin,"
+      - "Do Caesar what he can. Know, sir, that I"
+      - "Will not wait pinioned at your master’s court,"
+      - "Nor once be chastised with the sober eye"
+      - "Of dull Octavia. Shall they hoist me up"
+      - "And show me to the shouting varletry"
+      - "Of censuring Rome? Rather a ditch in Egypt"
+      - "Be gentle grave unto me. Rather on Nilus’ mud"
+      - "Lay me stark naked and let the waterflies"
+      - "Blow me into abhorring. Rather make"
+      - "My country’s high pyramides my gibbet"
+      - "And hang me up in chains!"
+    m:
+      - "Sir, I won’t eat. I won’t drink. And don’t expect me to talk. I won’t sleep either. I’ll destroy my body. Let Caesar do whatever he wants. You’d better understand that I won’t wait till I’m chained up in your master’s court, and I won’t let myself be scolded even once by dull Octavia. Shall I let them exhibit me to the shouting mobs of Rome? I’d rather die in a ditch in Egypt, and make it my gentle grave. I’d rather lie in the Nile mud with flies laying their eggs in me, making me disgusting. I’d rather be hung in chains from one of our pyramids!"
+
+  - sp: PROCULEIUS
+    o:
+      - "    You do extend"
+      - "These thoughts of horror further than you shall"
+      - "Find cause in Caesar."
+    m:
+      - "You’re letting yourself get carried away with these horrible thoughts. You’ll see that Caesar is giving you no reason to do so."
+
+  - os: "Enter DOLABELLA"
+    ms: "DOLABELLA enters."
+
+  - sp: DOLABELLA
+    o:
+      - "    Proculeius,"
+      - "What thou hast done thy master Caesar knows,"
+      - "And he hath sent for thee. For the Queen,"
+      - "I’ll take her to my guard."
+    m:
+      - "Proculeius, Caesar has heard about what you’ve done here and has sent for you. I’ll take the Queen into my custody."
+
+  - sp: PROCULEIUS
+    o:
+      - "    So, Dolabella,"
+      - "It shall content me best. Be gentle to her."
+      - "*(to CLEOPATRA)* To Caesar I will speak what you shall please,"
+      - "If you’ll employ me to him."
+    m:
+      - "So be it, Dolabella. Caesar’s thanks are my greatest reward. Be kind to her. *(to CLEOPATRA)* I’ll relay to Caesar any request you want to give me."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Say I would die."
+    m:
+      - "Tell him I’d like to die."
+
+  - os: "Exit PROCULEIUS"
+    ms: "PROCULEIUS exits."
+
+  - sp: DOLABELLA
+    o:
+      - "Most noble Empress, you have heard of me?"
+    m:
+      - "Have you heard of me, most noble Empress?"
+
+  - sp: CLEOPATRA
+    o:
+      - "I cannot tell."
+    m:
+      - "I don’t remember."
+
+  - sp: DOLABELLA
+    o:
+      - "Assuredly you know me."
+    m:
+      - "I’m sure you’ve heard of me."
+
+  - sp: CLEOPATRA
+    o:
+      - "No matter, sir, what I have heard or known."
+      - "You laugh when boys or women tell their dreams."
+      - "Is ’t not your trick?"
+    m:
+      - "It doesn’t matter what I’ve heard or known. You must be the one who laughs when boys or women tell you their dreams. Isn’t that your habit?"
+
+  - sp: DOLABELLA
+    o:
+      - "    I understand not, madam."
+    m:
+      - "I don’t know what you mean, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "I dreamt there was an emperor Antony."
+      - "Oh, such another sleep, that I might see"
+      - "But such another man!"
+    m:
+      - "I dreamed about an emperor called Antony. Oh, I wish I could sleep again, so I could have another dream like that!"
+
+  - sp: DOLABELLA
+    o:
+      - "    If it might please ye—"
+    m:
+      - "If you’d like—"
+
+  - sp: CLEOPATRA
+    o:
+      - "His face was as the heavens, and therein stuck"
+      - "A sun and moon, which kept their course and lighted"
+      - "The little “O,” the earth."
+    m:
+      - "Authority radiated from his face, and his presence brought knowledge and order to the people of earth."
+
+  - sp: DOLABELLA
+    o:
+      - "    Most sovereign creature—"
+    m:
+      - "Your majesty—"
+
+  - sp: CLEOPATRA
+    o:
+      - "His legs bestrid the ocean. His reared arm"
+      - "Crested the world. His voice was propertied"
+      - "As all the tunèd spheres, and that to friends."
+      - "But when he meant to quail and shake the orb,"
+      - "He was as rattling thunder. For his bounty,"
+      - "There was no winter in ’t, an autumn ’twas"
+      - "That grew the more by reaping. His delights"
+      - "Were dolphinlike; they showed his back above"
+      - "The element they lived in. In his livery"
+      - "Walked crowns and crownets. Realms and islands were"
+      - "As plates dropped from his pocket."
+    m:
+      - "His power extended from one shore to the other, as if he straddled the ocean with his legs. When he raised his arm in command, the world trembled. He spoke exquisitely to his friends, but when he wanted to terrify the world, his voice was like thunder. There was no end to his generosity. The more he gave, the more he wanted to give. His amusements showed another side of him, one detached from his world of responsibility and duty. Kings and noblemen served him. Kingdoms and provinces dropped from his pockets like loose change."
+
+  - sp: DOLABELLA
+    o:
+      - "    Cleopatra—"
+    m:
+      - "Cleopatra—"
+
+  - sp: CLEOPATRA
+    o:
+      - "Think you there was or might be such a man"
+      - "As this I dreamt of?"
+    m:
+      - "Do you think there ever was, or could there ever be, a man such as the one I dreamed about?"
+
+  - sp: DOLABELLA
+    o:
+      - "    Gentle madam, no."
+    m:
+      - "No, gentle madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "You lie up to the hearing of the gods."
+      - "But if there be nor ever were one such,"
+      - "It’s past the size of dreaming. Nature wants stuff"
+      - "To vie strange forms with fancy, yet t’ imagine"
+      - "An Antony were nature’s piece ’gainst fancy,"
+      - "Condemning shadows quite."
+    m:
+      - "The gods can hear you lying! But if there ever were such a man, simple dreams could never contain his greatness. When it comes to creating fantastical things, the natural world cannot compete with imagination. And yet, if the natural world could create something like Antony, it would have a masterpiece to rival anything fantasy might construct. Antony would easily outshine all imaginary beings."
+
+  - sp: DOLABELLA
+    o:
+      - "    Hear me, good madam."
+      - "Your loss is as yourself, great, and you bear it"
+      - "As answering to the weight. Would I might never"
+      - "O’ertake pursued success, but I do feel,"
+      - "By the rebound of yours, a grief that smites"
+      - "My very heart at root."
+    m:
+      - "Listen to me, madam. You are a remarkable person and your loss is equally remarkable. You are responding appropriately to the greatness of that loss. I hope I never achieve success if I don’t feel some of your heartbroken grief right now."
+
+  - sp: CLEOPATRA
+    o:
+      - "    I thank you, sir. Know you what Caesar means to do with me?"
+    m:
+      - "Thank you, sir. Do you know what Caesar intends to do with me?"
+
+  - sp: DOLABELLA
+    o:
+      - "I am loath to tell you what I would you knew."
+    m:
+      - "I’m reluctant to tell you what I wish you knew."
+
+  - sp: CLEOPATRA
+    o:
+      - "Nay, pray you, sir."
+    m:
+      - "Please, sir—"
+
+  - sp: DOLABELLA
+    o:
+      - "    Though he be honorable—"
+    m:
+      - "Though he is honorable—"
+
+  - sp: CLEOPATRA
+    o:
+      - "He’ll lead me, then, in triumph."
+    m:
+      - "He’ll still parade me through Rome as a trophy of war."
+
+  - sp: DOLABELLA
+    o:
+      - "Madam, he will. I know ’t."
+    m:
+      - "I know he will, madam."
+
+  - os: "Flourish. Enter CAESAR, PROCULEIUS, GALLUS, MAECENAS, and other ATTENDANTS"
+    ms: "Trumpets sound a royal fanfare. CAESAR, PROCULEIUS, GALLUS, MAECENAS, and other ATTENDANTS enter."
+
+  - sp: ATTENDANTS
+    o:
+      - "Make way there! Caesar!"
+    m:
+      - "Stand aside for Caesar."
+
+  - sp: CAESAR
+    o:
+      - "Which is the Queen of Egypt?"
+    m:
+      - "Which of these ladies is the Queen of Egypt?"
+
+  - sp: DOLABELLA
+    o:
+      - "*(to CLEOPATRA)* It is the Emperor, madam."
+    m:
+      - "*(to CLEOPATRA)* It’s the Emperor, madam."
+
+  - os: "CLEOPATRA kneels"
+    ms: "CLEOPATRA kneels."
+
+  - sp: CAESAR
+    o:
+      - "Arise, you shall not kneel."
+      - "I pray you, rise. Rise, Egypt."
+    m:
+      - "Arise. You need not kneel to me. Please rise, Queen."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Sir, the gods"
+      - "Will have it thus. My master and my lord"
+      - "I must obey."
+    m:
+      - "The gods have ordained it to be like this, sir. You are my lord and master. I must obey."
+
+  - os: "CLEOPATRA stands"
+    ms: "CLEOPATRA stands up."
+
+  - sp: CAESAR
+    o:
+      - "    Take to you no hard thoughts."
+      - "The record of what injuries you did us,"
+      - "Though written in our flesh, we shall remember"
+      - "As things but done by chance."
+    m:
+      - "Don’t think I blame you. Whatever injuries I received in the war, I put down to the fortunes of war."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Sole sir o’ th’ world,"
+      - "I cannot project mine own cause so well"
+      - "To make it clear, but do confess I have"
+      - "Been laden with like frailties which before"
+      - "Have often shamed our sex."
+    m:
+      - "You are now the sole lord of the entire world. I can’t explain my cause very clearly. I must admit to having the weaknesses that all women are accused of."
+
+  - sp: CAESAR
+    o:
+      - "    Cleopatra, know"
+      - "We will extenuate rather than enforce."
+      - "If you apply yourself to our intents,"
+      - "Which towards you are most gentle, you shall find"
+      - "A benefit in this change, but if you seek"
+      - "To lay on me a cruelty by taking"
+      - "Antony’s course, you shall bereave yourself"
+      - "Of my good purposes and put your children"
+      - "To that destruction which I’ll guard them from"
+      - "If thereon you rely. I’ll take my leave."
+    m:
+      - "Cleopatra, understand that, rather than emphasize our power over you, we will soften if you accept our intentions, which are very compassionate toward you. Your acceptance will benefit you, but if you try to make me look cruel by committing suicide as Antony did, I won’t be so generous. Your children will be destroyed, a fate your submission will save them from. I’ll leave you now."
+
+  - sp: CLEOPATRA
+    o:
+      - "And may, through all the world! ’Tis yours, and we,"
+      - "Your scutcheons and your signs of conquest, shall"
+      - "Hang in what place you please. Here, my good lord."
+    m:
+      - "You may do whatever you want in the world. It’s yours, and you may hang us, your trophies of war, anywhere you like. Here, my good lord."
+
+  - os: "She gives him a scroll"
+    ms: "She hands him a list."
+
+  - sp: CAESAR
+    o:
+      - "You shall advise me in all for Cleopatra."
+    m:
+      - "You shall advise me in everything having to do with Cleopatra."
+
+  - sp: CLEOPATRA
+    o:
+      - "This is the brief of money, plate, and jewels"
+      - "I am possessed of. ’Tis exactly valued,"
+      - "Not petty things admitted. Where’s Seleucus?"
+    m:
+      - "This is the inventory of the money, silverware, dishes, and jewels that are still in my possession. It’s an exact list. Not even trivial things were left out. Where’s Seleucus?"
+
+  - os: "Enter SELEUCUS"
+    ms: "SELEUCUS enters."
+
+  - sp: SELEUCUS
+    o:
+      - "Here, madam."
+    m:
+      - "Here, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "This is my treasurer. Let him speak, my lord,"
+      - "Upon his peril, that I have reserved"
+      - "To myself nothing.*—*Speak the truth, Seleucus."
+    m:
+      - "This is my treasurer. My lord, he will swear on his life that I haven’t kept a thing.—Tell the truth, Seleucus."
+
+  - sp: SELEUCUS
+    o:
+      - "Madam, I had rather seal my lips"
+      - "Than to my peril speak that which is not."
+    m:
+      - "Madam, I’d rather sew my lips shut than tell a lie when my life depends upon it."
+
+  - sp: CLEOPATRA
+    o:
+      - "What have I kept back?"
+    m:
+      - "What did I keep for myself?"
+
+  - sp: SELEUCUS
+    o:
+      - "Enough to purchase what you have made known."
+    m:
+      - "Enough to buy everything you have declared."
+
+  - sp: CAESAR
+    o:
+      - "Nay, blush not, Cleopatra. I approve"
+      - "Your wisdom in the deed."
+    m:
+      - "No, don’t be ashamed, Cleopatra. You’re very prudent to set a little aside."
+
+  - sp: CLEOPATRA
+    o:
+      - "    See, Caesar! Oh, behold"
+      - "How pomp is followed! Mine will now be yours,"
+      - "And, should we shift estates, yours would be mine."
+      - "The ingratitude of this Seleucus does"
+      - "Even make me wild. *(to SELEUCUS)* O slave, of no more trust"
+      - "Than love that’s hired!"
+      - "    What, goest thou back? Thou shalt"
+      - "Go back, I warrant thee! But I’ll catch thine eyes,"
+      - "Though they had wings. Slave, soulless villain, dog!"
+      - "Oh, rarely base!"
+    m:
+      - "Look around you, Caesar. Oh, just see what happens after the pageantry is over! What is mine will be yours now. If we were to change places, what is yours would be mine. Seleucus’ ingratitude makes me wild. *(to SELEUCUS)* Oh, you slave! I can’t trust you any more than a prostitute. What are you doing? Cringing away? I’ll give you a good reason to cringe, I promise you. I’ll scratch out your eyes, even if they could fly. You slave! Soulless villain! Dog! Oh, that was unbelievably low!"
+
+  - sp: CAESAR
+    o:
+      - "    Good Queen, let us entreat you—"
+    m:
+      - "Good Queen, let me implore you—"
+
+  - sp: CLEOPATRA
+    o:
+      - "O Caesar, what a wounding shame is this,"
+      - "That thou, vouchsafing here to visit me,"
+      - "Doing the honor of thy lordliness"
+      - "To one so meek, that mine own servant should"
+      - "Parcel the sum of my disgraces by"
+      - "Addition of his envy! Say, good Caesar,"
+      - "That I some lady trifles have reserved,"
+      - "Immoment toys, things of such dignity"
+      - "As we greet modern friends withal, and say"
+      - "Some nobler token I have kept apart"
+      - "For Livia and Octavia, to induce"
+      - "Their mediation, must I be unfolded"
+      - "With one that I have bred? The gods! It smites me"
+      - "Beneath the fall I have. *(to SELEUCUS)* Prithee, go hence,"
+      - "Or I shall show the cinders of my spirit"
+      - "Through th’ ashes of my chance. Wert thou a man,"
+      - "Thou wouldst have mercy on me."
+    m:
+      - "Oh, Caesar, I am so ashamed. You condescended to visit me here, honoring my humble self with your lordly presence. And one of my own servants increases my disgrace by adding his envy! Suppose, good Caesar, that I have saved a few feminine trifles, some unimportant trinkets. These have worth only as gifts to friends. And suppose I have kept a few more expensive gifts aside for Livia and Octavia, to solicit their good wishes. Must I then be exposed by a person I’ve supported? By the gods! It adds another blow to the many I have already. *(to SELEUCUS)* Please leave, or I’ll show you what’s left of my spirit since my fortune was ruined. If you were a real man, you would have had mercy on me."
+
+  - sp: CAESAR
+    o:
+      - "    Forbear, Seleucus."
+    m:
+      - "Leave, Seleucus."
+
+  - os: "Exit SELEUCUS"
+    ms: "SELEUCUS exits."
+
+  - sp: CLEOPATRA
+    o:
+      - "Be it known that we, the greatest, are misthought"
+      - "For things that others do, and when we fall"
+      - "We answer others’ merits in our name,"
+      - "Are therefore to be pitied."
+    m:
+      - "You should also know that as head of state, we are often blamed for the crimes of others. And though we may fall, we are still responsible for their offenses. I am therefore to be pitied."
+
+  - sp: CAESAR
+    o:
+      - "    Cleopatra,"
+      - "Not what you have reserved nor what acknowledged"
+      - "Put we i’ th’ roll of conquest. Still be ’t yours."
+      - "Bestow it at your pleasure, and believe"
+      - "Caesar’s no merchant, to make prize with you"
+      - "Of things that merchants sold. Therefore be cheered."
+      - "Make not your thoughts your prison. No, dear Queen,"
+      - "For we intend so to dispose you as"
+      - "Yourself shall give us counsel. Feed and sleep."
+      - "Our care and pity is so much upon you"
+      - "That we remain your friend. And so, adieu."
+    m:
+      - "Cleopatra, our conquest won’t include either the things you kept back or the ones you listed. It’s all still yours. Do whatever you like with it. You can trust that Caesar is not a merchant to haggle with you over your property. So cheer up. Don’t be captured by your depressed thoughts. No, dear Queen. We want to follow your own counsel when making arrangements for you. Eat and sleep. I have so much care and pity for you that you could call me friend. And so, good-bye."
+
+  - sp: CLEOPATRA
+    o:
+      - "My master, and my lord!"
+    m:
+      - "My master and my lord!"
+
+  - sp: CAESAR
+    o:
+      - "    Not so. Adieu."
+    m:
+      - "Not true. Good-bye."
+
+  - os: "Flourish. Exeunt CAESAR and his train"
+    ms: "Trumpet flourish. CAESAR and his entourage exit."
+
+  - sp: CLEOPATRA
+    o:
+      - "He words me, girls, he words me, that I should not"
+      - "Be noble to myself. But, hark thee, Charmian."
+    m:
+      - "He’s trying to talk me into forgetting my nobility, girls. But listen, Charmian."
+
+  - os: "She whispers to CHARMIAN"
+    ms: "She whispers to CHARMIAN."
+
+  - sp: IRAS
+    o:
+      - "Finish, good lady. The bright day is done,"
+      - "And we are for the dark."
+    m:
+      - "It’s time to end it, good lady. The bright day of our lives is over, and now there will only be darkness."
+
+  - sp: CLEOPATRA
+    o:
+      - "*(to CHARMIAN)* Hie thee again."
+      - "I have spoke already, and it is provided."
+      - "Go put it to the haste."
+    m:
+      - "*(to CHARMIAN)* Go out again. I’ve already given the order, and it is ready. Hurry with your errand."
+
+  - sp: CHARMIAN
+    o:
+      - "    Madam, I will."
+    m:
+      - "I will, madam."
+
+  - os: "Enter DOLABELLA"
+    ms: "DOLABELLA enters."
+
+  - sp: DOLABELLA
+    o:
+      - "Where’s the Queen?"
+    m:
+      - "Where’s the Queen?"
+
+  - sp: CHARMIAN
+    o:
+      - "    Behold, sir."
+    m:
+      - "Look, sir."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Dolabella!"
+    m:
+      - "Dolabella."
+
+  - sp: DOLABELLA
+    o:
+      - "Madam, as thereto sworn by your command,"
+      - "Which my love makes religion to obey,"
+      - "I tell you this: Caesar through Syria"
+      - "Intends his journey, and within three days"
+      - "You with your children will he send before."
+      - "Make your best use of this. I have performed"
+      - "Your pleasure and my promise."
+    m:
+      - "Madam, according to my promise—which my love to you has made a religious vow—I tell you that Caesar intends to travel through Syria. Within three days you and your children will be sent ahead. Make the best use of this information you can. I have done your bidding and fulfilled my promise."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Dolabella, I shall remain your debtor."
+    m:
+      - "Dolabella, I will always be in debt to you."
+
+  - sp: DOLABELLA
+    o:
+      - "    I your servant. Adieu, good Queen. I must attend on Caesar."
+    m:
+      - "And I your servant. Good-bye, good Queen. I must go attend Caesar."
+
+  - sp: CLEOPATRA
+    o:
+      - "Farewell, and thanks."
+    m:
+      - "Farewell, and thanks."
+
+  - os: "Exit DOLABELLA"
+    ms: "DOLABELLA exits."
+
+  - o:
+      - "    Now, Iras, what think’st thou?"
+      - "Thou an Egyptian puppet shalt be shown"
+      - "In Rome, as well as I. Mechanic slaves"
+      - "With greasy aprons, rules, and hammers shall"
+      - "Uplift us to the view. In their thick breaths,"
+      - "Rank of gross diet, shall be enclouded,"
+      - "And forced to drink their vapor."
+    m:
+      - "Now, Iras, what do you think? You will be exhibited in Rome along with me, like Egyptian puppets. Crude slaves with greasy aprons, rulers, and hammers shall lift us up so everyone can see. Their stinking breath will form a cloud around us, and we’ll be forced to inhale it."
+
+  - sp: IRAS
+    o:
+      - "    The gods forbid!"
+    m:
+      - "The gods forbid!"
+
+  - sp: CLEOPATRA
+    o:
+      - "Nay, ’tis most certain, Iras. Saucy lictors"
+      - "Will catch at us like strumpets, and scald rhymers"
+      - "Ballad us out o’ tune. The quick comedians"
+      - "Extemporally will stage us and present"
+      - "Our Alexandrian revels. Antony"
+      - "Shall be brought drunken forth, and I shall see"
+      - "Some squeaking Cleopatra boy my greatness"
+      - "I’ th’ posture of a whore."
+    m:
+      - "No, it’s certain, Iras. Insolent lictors will paw us as if we were streetwalkers. Disreputable minstrels will write bawdy songs about us. Hotheaded comedians will stage impromptu impersonations of us and depict the celebrations we had in Alexandria. Antony will be portrayed as a drunk, and I’ll see some boy with a squeaking voice play Cleopatra as if I were a whore."
+
+  - sp: IRAS
+    o:
+      - "    Oh, the good gods!"
+    m:
+      - "Oh, the good gods!"
+
+  - sp: CLEOPATRA
+    o:
+      - "Nay, that’s certain."
+    m:
+      - "No, that’s the truth."
+
+  - sp: IRAS
+    o:
+      - "I’ll never see ’t! For I am sure mine nails"
+      - "Are stronger than mine eyes."
+    m:
+      - "I’ll never see it. I know my nails are stronger than my eyes; I’ll scratch them out."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Why, that’s the way"
+      - "To fool their preparation and to conquer"
+      - "Their most absurd intents."
+    m:
+      - "Why, that’s just the way to frustrate their plans and defeat their absurd intentions."
+
+  - os: "Enter CHARMIAN"
+    ms: "CHARMIAN enters."
+
+  - o:
+      - "    Now, Charmian!"
+      - "Show me, my women, like a queen. Go fetch"
+      - "My best attires. I am again for Cydnus,"
+      - "To meet Mark Antony.—Sirrah Iras, go.—"
+      - "Now, noble Charmian, we’ll dispatch indeed,"
+      - "And when thou hast done this chare I’ll give thee leave"
+      - "To play till doomsday. *(to IRAS)* Bring our crown and all."
+    m:
+      - "Now, Charmian! Women, dress me like a queen. Go get my best clothes. I will once again be as fine as when I went to Cydnus to meet Marc Antony.—Iras, go.—Now, Charmian, we’ll be quick indeed. And after you’ve done this chore, I’ll give you permission to amuse yourself until doomsday. *(to IRAS)* Bring our crown and all the royal symbols of office."
+
+  - os: "Exit IRAS. A noise within"
+    ms: "IRAS exits. A noise offstage."
+
+  - o:
+      - "Wherefore’s this noise?"
+    m:
+      - "What’s that noise?"
+
+  - os: "Enter a GUARDSMAN"
+    ms: "A GUARDSMAN enters."
+
+  - sp: GUARDSMAN
+    o:
+      - "    Here is a rural fellow"
+      - "That will not be denied your Highness’ presence."
+      - "He brings you figs."
+    m:
+      - "There’s a farmer here who won’t leave without seeing your Highness. He has brought you figs."
+
+  - sp: CLEOPATRA
+    o:
+      - "Let him come in."
+    m:
+      - "Let him come in."
+
+  - os: "Exit GUARDSMAN"
+    ms: "The GUARDSMAN exits."
+
+  - o:
+      - "    What poor an instrument"
+      - "May do a noble deed! He brings me liberty."
+      - "My resolution’s placed, and I have nothing"
+      - "Of woman in me. Now from head to foot"
+      - "I am marble-constant. Now the fleeting moon"
+      - "No planet is of mine."
+    m:
+      - "What a poor instrument, that can do such a noble deed! He brings me freedom. My mind is made up. There’s nothing of the weak woman left in me. Now from head to foot I’m as firm as marble. Now the inconstant moon has nothing to do with me."
+
+  - os: "Enter GUARDSMAN, and COUNTRYMAN bringing in a basket"
+    ms: "The GUARDSMAN enters with a COUNTRYMAN, who carries a basket."
+
+  - sp: GUARDSMAN
+    o:
+      - "    This is the man."
+    m:
+      - "This is the man."
+
+  - sp: CLEOPATRA
+    o:
+      - "Avoid, and leave him."
+    m:
+      - "Leave us."
+
+  - os: "Exit GUARDSMAN"
+    ms: "The GUARDSMAN exits."
+
+  - o:
+      - "Hast thou the pretty worm of Nilus there,"
+      - "That kills and pains not?"
+    m:
+      - "Do you have in there the pretty snake of the Nile that kills without pain?"
+
+  - sp: COUNTRYMAN
+    o:
+      - "Truly, I have him, but I would not be the party that should desire you to touch him, for his biting is immortal. Those that do die of it do seldom or never recover."
+    m:
+      - "I certainly do have him, but I wouldn’t advise you to touch him. His bite is fatal. People who die of it seldom or never recover."
+
+  - sp: CLEOPATRA
+    o:
+      - "Remember’st thou any that have died on ’t?"
+    m:
+      - "Do you remember anyone who died of it?"
+
+  - sp: COUNTRYMAN
+    o:
+      - "Very many, men and women too. I heard of one of them no longer than yesterday—a very honest woman, but something given to lie, as a woman should not do but in the way of honesty—how she died of the biting of it, what pain she felt. Truly, she makes a very good report o’ th’ worm. But he that will believe all that they say shall never be saved by half that they do. But this is most falliable, the worm’s an odd worm."
+    m:
+      - "Many people, men and women alike. I heard of one just yesterday. She was a very honest woman but rather inclined to lie—which a woman shouldn’t do unless she’s protecting her reputation. I heard how she died of its bite, how much pain she felt. Indeed, she gives a very good testimony of the snake’s power. But if you believe everything they say, you won’t be saved by half of what they do. But this is a sure thing: the snake’s an odd snake."
+
+  - sp: CLEOPATRA
+    o:
+      - "Get thee hence, farewell."
+    m:
+      - "You may leave now. Farewell."
+
+  - sp: COUNTRYMAN
+    o:
+      - "I wish you all joy of the worm."
+    m:
+      - "I hope you are pleased with the snake."
+
+  - os: "He sets down his basket"
+    ms: "He sets down the basket."
+
+  - sp: CLEOPATRA
+    o:
+      - "Farewell."
+    m:
+      - "Farewell."
+
+  - sp: COUNTRYMAN
+    o:
+      - "You must think this, look you, that the worm will do his kind."
+    m:
+      - "You must know that the snake will act according to his nature."
+
+  - sp: CLEOPATRA
+    o:
+      - "Ay, ay. Farewell."
+    m:
+      - "Yes, yes. Farewell."
+
+  - sp: COUNTRYMAN
+    o:
+      - "Look you, the worm is not to be trusted but in the keeping of wise people, for indeed there is no goodness in the worm."
+    m:
+      - "Listen, the snake is dangerous unless handled by people who are used to him. There isn’t any kindness in the snake."
+
+  - sp: CLEOPATRA
+    o:
+      - "Take thou no care. It shall be heeded."
+    m:
+      - "Don’t worry; we’ll remember your warnings."
+
+  - sp: COUNTRYMAN
+    o:
+      - "Very good. Give it nothing, I pray you, for it is not worth the feeding."
+    m:
+      - "Good. Don’t feed it, I beg you. It’s not worth feeding."
+
+  - sp: CLEOPATRA
+    o:
+      - "Will it eat me?"
+    m:
+      - "Will it eat me?"
+
+  - sp: COUNTRYMAN
+    o:
+      - "You must not think I am so simple but I know the devil himself will not eat a woman. I know that a woman is a dish for the gods, if the devil dress her not. But, truly, these same whoreson devils do the gods great harm in their women, for in every ten that they make, the devils mar five."
+    m:
+      - "Don’t think I’m so dumb that I don’t know that the devil himself won’t eat a woman. I know that a woman is a dish fit only for the gods, as long as the devil hasn’t prepared the meal. But devils cause a lot of trouble for the gods regarding their women. For every ten women the gods make, the devils ruin five."
+
+  - sp: CLEOPATRA
+    o:
+      - "Well, get thee gone. Farewell."
+    m:
+      - "Well, you can go now. Farewell."
+
+  - sp: COUNTRYMAN
+    o:
+      - "Yes, forsooth. I wish you joy o’ th’ worm."
+    m:
+      - "Yes, truly, I wish you good luck with the snake."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter IRAS with royal attire"
+    ms: "IRAS enters, carrying CLEOPATRA’s royal regalia."
+
+  - sp: CLEOPATRA
+    o:
+      - "Give me my robe. Put on my crown. I have"
+      - "Immortal longings in me. Now no more"
+      - "The juice of Egypt’s grape shall moist this lip."
+    m:
+      - "Give me my robe. Put on my crown. I long to be immortal. I won’t drink Egyptian wine again."
+
+  - os: "The women dress her"
+    ms: "CHARMIAN and IRAS begin to dress her."
+
+  - o:
+      - "Yare, yare, good Iras, quick. Methinks I hear"
+      - "Antony call. I see him rouse himself"
+      - "To praise my noble act. I hear him mock"
+      - "The luck of Caesar, which the gods give men"
+      - "To excuse their after wrath.—Husband, I come!"
+      - "Now to that name my courage prove my title!"
+      - "I am fire and air, my other elements"
+      - "I give to baser life.—So, have you done?"
+      - "Come then and take the last warmth of my lips."
+      - "Farewell, kind Charmian. Iras, long farewell."
+    m:
+      - "Quickly, quickly, good Iras, quickly. I think I hear Antony call me. I see him revive himself to praise my noble act. I hear him mock Caesar’s luck, which the gods give to men in order to balance out their subsequent wrath. Husband, I’m coming! Now let my courage prove my title as wife. I am now made of fire and air, and I leave the other elements, earth and water, to this mortal life. So, are you done? Come then, kiss me and take the last bit of warmth from my lips. Good-bye, kind Charmian. Iras, I won’t see you again for a long time."
+
+  - os: "She kisses them. IRAS falls and dies"
+    ms: "She kisses them. IRAS collapses and dies."
+
+  - o:
+      - "Have I the aspic in my lips? Dost fall?"
+      - "If thou and nature can so gently part,"
+      - "The stroke of death is as a lover’s pinch,"
+      - "Which hurts, and is desired. Dost thou lie still?"
+      - "If thus thou vanishest, thou tell’st the world"
+      - "It is not worth leave-taking."
+    m:
+      - "Do I have the asp’s poison on my lips? Did you fall? If you can leave your body so easily, then the touch of death is like a lover’s pinch, which hurts but is desired. Do you lie still? If you leave like that, you tell the world that it’s not worthy of a good-bye."
+
+  - sp: CHARMIAN
+    o:
+      - "Dissolve, thick cloud, and rain, that I may say"
+      - "The gods themselves do weep!"
+    m:
+      - "Clouds, dissolve into rain, so that I could say the gods themselves are weeping!"
+
+  - sp: CLEOPATRA
+    o:
+      - "    This proves me base."
+      - "If she first meet the curlèd Antony,"
+      - "He’ll make demand of her and spend that kiss"
+      - "Which is my heaven to have. —Come, thou mortal wretch,"
+    m:
+      - "This proves that I’m petty: if Iras meets Antony before me, he’ll want her first and give her the kiss that is my bliss to have. Come, you deadly villain."
+
+  - os: "She places an asp on her breast"
+    ms: "She puts the snake on her breast."
+
+  - o:
+      - "With thy sharp teeth this knot intrinsicate"
+      - "Of life at once untie. Poor venomous fool"
+      - "Be angry and dispatch. Oh, couldst thou speak,"
+      - "That I might hear thee call great Caesar ass"
+      - "Unpolicied!"
+    m:
+      - "Separate me from life with your sharp teeth. Poor poisonous fool, be angry and bite. Oh, if you could speak, I might hear you call Caesar an ass who’s been outsmarted!"
+
+  - sp: CHARMIAN
+    o:
+      - "    O eastern star!"
+    m:
+      - "Oh, eastern star!"
+
+  - sp: CLEOPATRA
+    o:
+      - "    Peace, peace!"
+      - "Dost thou not see my baby at my breast,"
+      - "That sucks the nurse asleep?"
+    m:
+      - "Quiet, quiet! Don’t you see my baby suckling at my breast so that its nurse will fall asleep?"
+
+  - sp: CHARMIAN
+    o:
+      - "    Oh, break! Oh, break!"
+    m:
+      - "Oh, if my heart would only break!"
+
+  - sp: CLEOPATRA
+    o:
+      - "As sweet as balm, as soft as air, as gentle—"
+      - "O Antony!—Nay, I will take thee too."
+    m:
+      - "The poison is as sweet as balm, as soft as air, as gentle—Oh, Antony!—No, I’ll take you too."
+
+  - os: "Applying another asp to her arm"
+    ms: "She puts another snake on her arm."
+
+  - o:
+      - "What should I stay—"
+    m:
+      - "Why should I stay—"
+
+  - os: "Dies"
+    ms: "She dies."
+
+  - sp: CHARMIAN
+    o:
+      - "In this wild world? So, fare thee well."
+      - "Now boast thee, Death, in thy possession lies"
+      - "A lass unparalleled. Downy windows, close,"
+    m:
+      - "In this vile world? So, good-bye. Now, Death, you can boast that you have an incomparable girl in your possession. Close, soft eyes."
+
+  - os: "She closes CLEOPATRA’s eyes"
+    ms: "She closes CLEOPATRA’s eyes."
+
+  - o:
+      - "And golden Phoebus never be beheld"
+      - "Of eyes again so royal! Your crown’s awry."
+      - "I’ll mend it and then play—"
+    m:
+      - "The sun will never be seen by such royal eyes again. Your crown is crooked. I’ll straighten it, then play—"
+
+  - os: "Enter the GUARD, rustling in"
+    ms: "The GUARDS rush in noisily."
+
+  - sp: FIRST GUARD
+    o:
+      - "Where’s the Queen?"
+    m:
+      - "Where’s the Queen?"
+
+  - sp: CHARMIAN
+    o:
+      - "    Speak softly. Wake her not."
+    m:
+      - "Speak softly. Don’t wake her."
+
+  - sp: FIRST GUARD
+    o:
+      - "Caesar hath sent—"
+    m:
+      - "Caesar has sent—"
+
+  - sp: CHARMIAN
+    o:
+      - "    Too slow a messenger."
+    m:
+      - "Too slow a messenger."
+
+  - os: "She applies an asp to herself."
+    ms: "She applies an asp to herself."
+
+  - o:
+      - "Oh, come apace, dispatch! I partly feel thee."
+    m:
+      - "Oh, come quickly! I almost feel you."
+
+  - sp: FIRST GUARD
+    o:
+      - "*(calling)* Approach, ho! All’s not well. Caesar’s beguiled."
+    m:
+      - "*(calling)* Come in. Ho! All’s not well. Caesar’s been deceived."
+
+  - sp: SECOND GUARD
+    o:
+      - "There’s Dolabella sent from Caesar. Call him."
+    m:
+      - "There’s Dolabella, who was sent from Caesar. Call him."
+
+  - os: "*Exit* SECOND GUARD"
+    ms: "The SECOND GUARD exits."
+
+  - sp: FIRST GUARD
+    o:
+      - "What work is here, Charmian? Is this well done?"
+    m:
+      - "What kind of work is this, Charmian? Is this well done?"
+
+  - sp: CHARMIAN
+    o:
+      - "It is well done and fitting for a princess"
+      - "Descended of so many royal kings."
+      - "Ah, soldier!"
+    m:
+      - "It is well done, and appropriate for a princess who has descended from so many royal kings. Ah, soldier!"
+
+  - os: "CHARMIAN dies"
+    ms: "She dies."
+
+  - os: "Enter DOLABELLA"
+    ms: "DOLABELLA enters."
+
+  - sp: DOLABELLA
+    o:
+      - "How goes it here?"
+    m:
+      - "What’s going on in here?"
+
+  - sp: SECOND GUARD
+    o:
+      - "    All dead."
+    m:
+      - "They’re all dead."
+
+  - sp: DOLABELLA
+    o:
+      - "    Caesar, thy thoughts"
+      - "Touch their effects in this. Thyself art coming"
+      - "To see performed the dreaded act which thou"
+      - "So sought’st to hinder."
+    m:
+      - "Caesar, you thought this would happen. You’re coming here yourself to see the dreaded act you had tried to stop."
+
+  - os: "Enter CAESAR and all his train, marching"
+    ms: "CAESAR and his entourage enter, marching."
+
+  - sp: ALL
+    o:
+      - "A way there, a way for Caesar!"
+    m:
+      - "Step aside, step aside for Caesar!"
+
+  - sp: DOLABELLA
+    o:
+      - "O sir, you are too sure an augurer."
+      - "That you did fear is done."
+    m:
+      - "Oh, sir, you are too good at predicting the future. What you were afraid of has happened."
+
+  - sp: CAESAR
+    o:
+      - "Bravest at the last,"
+      - "She leveled at our purposes and, being royal,"
+      - "Took her own way. The manner of their deaths?"
+      - "I do not see them bleed."
+    m:
+      - "She was bravest at the end. She knew what I intended to do with her and, being royal, she took her own way out. How did they die? I don’t see any blood."
+
+  - sp: DOLABELLA
+    o:
+      - "    Who was last with them?"
+    m:
+      - "Who was with them last?"
+
+  - sp: FIRST GUARD
+    o:
+      - "A simple countryman that brought her figs."
+      - "This was his basket."
+    m:
+      - "A simple country farmer who brought her figs. This was the basket."
+
+  - sp: CAESAR
+    o:
+      - "    Poisoned, then."
+    m:
+      - "They were poisoned, then."
+
+  - sp: FIRST GUARD
+    o:
+      - "    Oh, Caesar,"
+      - "This Charmian lived but now. She stood and spake."
+      - "I found her trimming up the diadem"
+      - "On her dead mistress. Tremblingly she stood"
+      - "And on the sudden dropped."
+    m:
+      - "Oh, Caesar, this Charmian lived until a moment ago. She stood and spoke. I found her adjusting the crown on her dead mistress. She stood trembling, then suddenly dropped dead."
+
+  - sp: CAESAR
+    o:
+      - "    Oh, noble weakness!"
+      - "If they had swallowed poison, ’twould appear"
+      - "By external swelling, but she looks like sleep,"
+      - "As she would catch another Antony"
+      - "In her strong toil of grace."
+    m:
+      - "Oh, noble weakness! If they had swallowed poison, it would be evident by external swelling. But she looks like she’s asleep, as if she would charm another Antony."
+
+  - sp: DOLABELLA
+    o:
+      - "    Here on her breast"
+      - "There is a vent of blood, and something blown."
+      - "The like is on her arm."
+    m:
+      - "Here on her breast there’s a little bloody mark. There’s a similar mark on her arm."
+
+  - sp: FIRST GUARD
+    o:
+      - "This is an aspic’s trail, and these fig leaves"
+      - "Have slime upon them, such as th’ aspic leaves"
+      - "Upon the caves of Nile."
+    m:
+      - "This is an asp’s trail, and these fig leaves have slime on them, just like the kind that asps deposit on the caves by the Nile."
+
+  - sp: CAESAR
+    o:
+      - "    Most probable"
+      - "That so she died, for her physician tells me"
+      - "She hath pursued conclusions infinite"
+      - "Of easy ways to die. Take up her bed"
+      - "And bear her women from the monument."
+      - "She shall be buried by her Antony."
+      - "No grave upon the earth shall clip in it"
+      - "A pair so famous. High events as these"
+      - "Strike those that make them, and their story is"
+      - "No less in pity than his glory which"
+      - "Brought them to be lamented. Our army shall"
+      - "In solemn show attend this funeral,"
+      - "And then to Rome. Come, Dolabella, see"
+      - "High order in this great solemnity."
+    m:
+      - "That’s probably how she died. Her doctor told me she had searched for an infinite number of easy ways to die. Pick up her bed and carry her ladies out of the tomb. She shall be buried next to her Antony. No other grave on earth shall hold a pair this famous. Momentous events like these strike those that cause them. Antony and Cleopatra’s story is as pitiable as my military exploits are glorious. Our army shall somberly attend this funeral and then depart for Rome. Come, Dolabella. See that there is a dignified splendor to this great solemnity."
+
+  - os: "Exeunt, bearing the dead bodies"
+    ms: "They exit, with the GUARDS carrying CLEOPATRA’s bed and the two ladies."

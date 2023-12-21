@@ -1,0 +1,498 @@
+play: Macbeth
+title: Act 4, Scene 1
+group: 4
+order: 17
+text:
+  - os: "A cavern. In the middle, a boiling cauldron. Thunder. Enter the three WITCHES."
+    ms: "A cavern. In the middle, a boiling cauldron. Thunder. The three WITCHES enter."
+
+  - sp: FIRST WITCH
+    o:
+      - "Thrice the brinded cat hath mewed."
+    m:
+      - "The tawny cat has meowed three times."
+
+  - sp: SECOND WITCH
+    o:
+      - "Thrice, and once the hedge-pig whined."
+    m:
+      - "Three times. And the hedgehog has whined once."
+
+  - sp: THIRD WITCH
+    o:
+      - "Harpier cries, “’Tis time, ’tis time.”"
+    m:
+      - "My spirit friend, Harpier, is yelling, “It’s time, it’s time!”"
+
+  - sp: FIRST WITCH
+    o:
+      - "Round about the cauldron go,"
+      - "In the poisoned entrails throw."
+      - "Toad, that under cold stone"
+      - "Days and nights has thirty-one"
+      - "Sweltered venom sleeping got,"
+      - "Boil thou first i’ th’ charmèd pot."
+    m:
+      - "Dance around the cauldron and throw in the poisoned entrails. *(holding up a toad)* You’ll go in first—a toad that sat under a cold rock for a month, oozing poison from its pores."
+
+  - sp: ALL
+    o:
+      - "Double, double toil and trouble,"
+      - "Fire burn, and cauldron bubble."
+    m:
+      - "Double, double toil and trouble,"
+      - "Fire burn, and cauldron bubble."
+
+  - sp: SECOND WITCH
+    o:
+      - "Fillet of a fenny snake,"
+      - "In the cauldron boil and bake."
+      - "Eye of newt and toe of frog,"
+      - "Wool of bat and tongue of dog,"
+      - "Adder’s fork and blind-worm’s sting,"
+      - "Lizard’s leg and owlet’s wing,"
+      - "For a charm of powerful trouble,"
+      - "Like a hell-broth boil and bubble."
+    m:
+      - "*(holding something up)* We’ll boil you in the cauldron next—a slice of swamp snake. All the rest of you in too: a newt’s eye, a frog’s tongue, fur from a bat, a dog’s tongue, the forked tongue of an adder, the stinger of a burrowing worm, a lizard’s leg, an owl’s wing. *(speaking to the ingredients)* Make a charm to cause powerful trouble, and boil and bubble like a broth of hell."
+
+  - sp: ALL
+    o:
+      - "Double, double toil and trouble,"
+      - "Fire burn and cauldron bubble."
+    m:
+      - "Double, double toil and trouble,"
+      - "Fire burn and cauldron bubble."
+
+  - sp: THIRD WITCH
+    o:
+      - "Scale of dragon, tooth of wolf,"
+      - "Witches’ mummy, maw and gulf"
+      - "Of the ravined salt-sea shark,"
+      - "Root of hemlock digged i’ th’ dark,"
+      - "Liver of blaspheming Jew,"
+      - "Gall of goat and slips of yew"
+      - "Slivered in the moon’s eclipse,"
+      - "Nose of Turk and Tartar’s lips,"
+      - "Finger of birth-strangled babe"
+      - "Ditch-delivered by a drab,"
+      - "Make the gruel thick and slab."
+      - "Add thereto a tiger’s chaudron,"
+      - "For the ingredients of our cauldron."
+    m:
+      - "Here come some more ingredients: the scale of a dragon, a wolf’s tooth, a witch’s mummified flesh, the gullet and stomach of a ravenous shark, a root of hemlock that was dug up in the dark, a Jew’s liver, a goat’s bile, some twigs of yew that were broken off during a lunar eclipse, a Turk’s nose, a Tartar’s lips, the finger of a baby that was strangled as a prostitute gave birth to it in a ditch. *(to the ingredients)* Make this potion thick and gluey. *(to the other WITCHES)* Now let’s add a tiger’s entrails to the mix."
+
+  - sp: ALL
+    o:
+      - "Double, double toil and trouble,"
+      - "Fire burn and cauldron bubble."
+    m:
+      - "Double, double toil and trouble,"
+      - "Fire burn and cauldron bubble."
+
+  - sp: SECOND WITCH
+    o:
+      - "Cool it with a baboon’s blood,"
+      - "Then the charm is firm and good."
+    m:
+      - "We’ll cool the mixture with baboon blood. After that the charm is finished."
+
+  - os: "Enter HECATE and the other three WITCHES"
+    ms: "HECATE enters with three other WITCHES."
+
+  - sp: HECATE
+    o:
+      - "Oh well done! I commend your pains,"
+      - "And every one shall share i’ th’ gains."
+      - "And now about the cauldron sing,"
+      - "Like elves and fairies in a ring,"
+      - "Enchanting all that you put in."
+    m:
+      - "Well done! I admire your efforts, and all of you will share the rewards. Now come sing around the cauldron like a ring of elves and fairies, enchanting everything you put in."
+
+  - os: "Music and a song: “Black spirits,” &c. HECATE retires"
+    ms: "Music plays and the six WITCHES sing a song called “Black Spirits.” HECATE leaves."
+
+  - sp: SECOND WITCH
+    o:
+      - "By the pricking of my thumbs,"
+      - "Something wicked this way comes."
+      - "Open, locks,"
+      - "Whoever knocks."
+    m:
+      - "I can tell that something wicked is coming by the tingling in my thumbs. Doors, open up for whoever is knocking!"
+
+  - os: "Enter MACBETH"
+    ms: "MACBETH enters."
+
+  - sp: MACBETH
+    o:
+      - "How now, you secret, black, and midnight hags?"
+      - "What is ’t you do?"
+    m:
+      - "What’s going on here, you secret, evil, midnight hags? What are you doing?"
+
+  - sp: ALL
+    o:
+      - "    A deed without a name."
+    m:
+      - "Something there isn’t a word for."
+
+  - sp: MACBETH
+    o:
+      - "I conjure you by that which you profess—"
+      - "Howe’er you come to know it—answer me."
+      - "Though you untie the winds and let them fight"
+      - "Against the churches, though the yeasty waves"
+      - "Confound and swallow navigation up,"
+      - "Though bladed corn be lodged and trees blown down,"
+      - "Though castles topple on their warders’ heads,"
+      - "Though palaces and pyramids do slope"
+      - "Their heads to their foundations, though the treasure"
+      - "Of nature’s germens tumble all together,"
+      - "Even till destruction sicken, answer me"
+      - "To what I ask you."
+    m:
+      - "I don’t know how you know the things you do, but I insist that you answer my questions. I command you in the name of whatever dark powers you serve. I don’t care if you unleash violent winds that tear down churches, make the foamy waves overwhelm ships and send sailors to their deaths, flatten crops and trees, make castles fall down on their inhabitants’ heads, make palaces and pyramids collapse, and mix up everything in nature. Tell me what I want to know."
+
+  - sp: FIRST WITCH
+    o:
+      - "Speak."
+    m:
+      - "Speak."
+
+  - sp: SECOND WITCH
+    o:
+      - "    Demand."
+    m:
+      - "Demand."
+
+  - sp: THIRD WITCH
+    o:
+      - "    We’ll answer."
+    m:
+      - "We’ll answer."
+
+  - sp: FIRST WITCH
+    o:
+      - "Say, if th’ hadst rather hear it from our mouths,"
+      - "Or from our masters’."
+    m:
+      - "Would you rather hear these things from our mouths or from our master’s?"
+
+  - sp: MACBETH
+    o:
+      - "    Call ’em. Let me see ’em."
+    m:
+      - "Call them. Let me see them."
+
+  - sp: FIRST WITCH
+    o:
+      - "Pour in sow’s blood, that hath eaten"
+      - "Her nine farrow; grease that’s sweaten"
+      - "From the murderer’s gibbet throw"
+      - "Into the flame."
+    m:
+      - "Pour in the blood of a sow who has eaten her nine offspring. Take the sweat of a murderer on the gallows and throw it into the flame."
+
+  - sp: ALL
+    o:
+      - "Come, high or low;"
+      - "Thyself and office deftly show!"
+    m:
+      - "Come, high or low spirits. Show yourself and what you do."
+
+  - os: "Thunder. FIRST APPARITION : an armed head"
+    ms: "Thunder. The FIRST APPARITION appears, looking like a head with an armored helmet."
+
+  - sp: MACBETH
+    o:
+      - "Tell me, thou unknown power—"
+    m:
+      - "Tell me, you unknown power—"
+
+  - sp: FIRST WITCH
+    o:
+      - "    He knows thy thought."
+      - "Hear his speech but say thou nought."
+    m:
+      - "He can read your thoughts. Listen, but don’t speak."
+
+  - sp: FIRST APPARITION
+    o:
+      - "Macbeth! Macbeth! Macbeth! Beware Macduff."
+      - "Beware the thane of Fife. Dismiss me. Enough."
+    m:
+      - "Macbeth! Macbeth! Macbeth! Beware Macduff. Beware the thane of Fife. Let me go. Enough."
+
+  - os: "Descends"
+    ms: "The FIRST APPARITION descends."
+
+  - sp: MACBETH
+    o:
+      - "Whate’er thou art, for thy good caution, thanks."
+      - "Thou hast harped my fear aright. But one word more—"
+    m:
+      - "Whatever you are, thanks for your advice. You have guessed exactly what I feared. But one word more—"
+
+  - sp: FIRST WITCH
+    o:
+      - "He will not be commanded. Here’s another"
+      - "More potent than the first."
+    m:
+      - "He will not be commanded by you. Here’s another, stronger than the first."
+
+  - os: "Thunder. SECOND APPARITION : a bloody child"
+    ms: "Thunder. The SECOND APPARITION appears, looking like a bloody child."
+
+  - sp: SECOND APPARITION
+    o:
+      - "Macbeth! Macbeth! Macbeth!—"
+    m:
+      - "Macbeth! Macbeth! Macbeth!"
+
+  - sp: MACBETH
+    o:
+      - "Had I three ears, I’d hear thee."
+    m:
+      - "If I had three ears I’d listen with all three."
+
+  - sp: SECOND APPARITION
+    o:
+      - "Be bloody, bold, and resolute. Laugh to scorn"
+      - "The power of man, for none of woman born"
+      - "Shall harm Macbeth."
+      - "*Descends*"
+    m:
+      - "Be violent, bold, and firm. Laugh at the power of other men, because nobody born from a woman will ever harm Macbeth. *The* SECOND APPARITION *descends*."
+
+  - sp: MACBETH
+    o:
+      - "Then live, Macduff. What need I fear of thee?"
+      - "But yet I’ll make assurance double sure,"
+      - "And take a bond of fate. Thou shalt not live,"
+      - "That I may tell pale-hearted fear it lies,"
+      - "And sleep in spite of thunder."
+    m:
+      - "Then I don’t need to kill Macduff. I have no reason to fear him. But even so, I’ll make doubly sure. I’ll guarantee my own fate by having you killed, Macduff. That way I can conquer my own fear and sleep easy at night."
+
+  - os: "Thunder. THIRD APPARITION : a child crowned, with a tree in his hand"
+    ms: "Thunder. The THIRD APPARITION appears, in the form of a child with a crown on his head and a tree in his hand."
+
+  - o:
+      - "What is this"
+      - "That rises like the issue of a king,"
+      - "And wears upon his baby-brow the round"
+      - "And top of sovereignty?"
+    m:
+      - "What is this spirit that looks like the son of a king and wears a crown on his young head?"
+
+  - sp: ALL
+    o:
+      - "    Listen but speak not to ’t."
+    m:
+      - "Listen but don’t speak to it."
+
+  - sp: THIRD APPARITION
+    o:
+      - "Be lion-mettled, proud, and take no care"
+      - "Who chafes, who frets, or where conspirers are."
+      - "Macbeth shall never vanquished be until"
+      - "Great Birnam Wood to high Dunsinane Hill"
+      - "Shall come against him."
+    m:
+      - "Be brave like the lion and proud. Don’t even worry about who hates you, who resents you, and who conspires against you. Macbeth will never be defeated until Birnam Wood marches to fight you at Dunsinane Hill."
+
+  - os: "Descends"
+    ms: "The THIRD APPARITION descends."
+
+  - sp: MACBETH
+    o:
+      - "    That will never be."
+      - "Who can impress the forest, bid the tree"
+      - "Unfix his earthbound root? Sweet bodements! Good!"
+      - "Rebellious dead, rise never till the wood"
+      - "Of Birnam rise, and our high-placed Macbeth"
+      - "Shall live the lease of nature, pay his breath"
+      - "To time and mortal custom. Yet my heart"
+      - "Throbs to know one thing. Tell me, if your art"
+      - "Can tell so much: shall Banquo’s issue ever"
+      - "Reign in this kingdom?"
+    m:
+      - "That will never happen. Who can command the forest and make the trees pull their roots out of the earth? These were sweet omens! Good! My murders will never come back to threaten me until the forest of Birnam gets up and moves, and I will be king for my entire natural life. But my heart is still throbbing to know one thing. Tell me, if your dark powers can see this far: will Banquo’s sons ever reign in this kingdom?"
+
+  - sp: ALL
+    o:
+      - "Seek to know no more."
+    m:
+      - "Don’t try to find out more."
+
+  - sp: MACBETH
+    o:
+      - "I will be satisfied. Deny me this,"
+      - "And an eternal curse fall on you! Let me know."
+      - "Why sinks that cauldron? And what noise is this?"
+    m:
+      - "I demand to be satisfied. If you refuse, let an eternal curse fall on you. Let me know. Why is that cauldron sinking? And what is that music?"
+
+  - os: "Hautboys"
+    ms: "Hautboys play music for a ceremonial procession."
+
+  - sp: FIRST WITCH
+    o:
+      - "Show."
+    m:
+      - "Show."
+
+  - sp: SECOND WITCH
+    o:
+      - "Show."
+    m:
+      - "Show."
+
+  - sp: THIRD WITCH
+    o:
+      - "Show."
+    m:
+      - "Show."
+
+  - sp: ALL
+    o:
+      - "Show his eyes and grieve his heart."
+      - "Come like shadows; so depart!"
+    m:
+      - "Show him and make him grieve. Come like shadows and depart in the same way!"
+
+  - os: "A show of eight kings, the last with a glass in his hand, followed by BANQUO"
+    ms: "Eight kings march across the stage, the last one with a mirror in his hand, followed by the GHOST OF BANQUO."
+
+  - sp: MACBETH
+    o:
+      - "Thou art too like the spirit of Banquo. Down!"
+      - "Thy crown does sear mine eyeballs. And thy hair,"
+      - "Thou other gold-bound brow, is like the first."
+      - "A third is like the former.—Filthy hags!"
+      - "Why do you show me this? A fourth? Start, eyes!"
+      - "What, will the line stretch out to th’ crack of doom?"
+      - "Another yet? A seventh? I’ll see no more."
+      - "And yet the eighth appears, who bears a glass"
+      - "Which shows me many more, and some I see"
+      - "That twofold balls and treble scepters carry."
+      - "Horrible sight! Now I see ’tis true;"
+      - "For the blood-boltered Banquo smiles upon me"
+      - "And points at them for his."
+    m:
+      - "You look too much like the ghost of Banquo. Go away!     *(to the first)* Your crown hurts my eyes. *(to the second)* Your blond hair, which looks like another crown underneath the one you’re wearing, looks just like the first king’s hair. Now I see a third king who looks just like the second. Filthy hags! Why are you showing me this? A fourth! My eyes are bulging out of their sockets! Will this line stretch on forever? Another one! And a seventh! I don’t want to see any more. And yet an eighth appears, holding a mirror in which I see many more men. And some are carrying double balls and triple scepters, meaning they’re kings of more than one country! Horrible sight! Now I see it is true, they are Banquo’s descendants. Banquo, with his blood-clotted hair, is smiling at me and pointing to them as his."
+
+  - os: "Apparitions vanish"
+    ms: "The spirits of the kings and the GHOST OF BANQUO vanish."
+
+  - o:
+      - "    What, is this so?"
+    m:
+      - "What? Is this true?"
+
+  - sp: FIRST WITCH
+    o:
+      - "Ay, sir, all this is so. But why"
+      - "Stands Macbeth thus amazedly?"
+      - "Come, sisters, cheer we up his sprites,"
+      - "And show the best of our delights."
+      - "I’ll charm th’ air to give a sound,"
+      - "While you perform your antic round."
+      - "That this great king may kindly say,"
+      - "Our duties did his welcome pay."
+    m:
+      - "Yes, this is true, but why do you stand there so dumbfounded? Come, sisters, let’s cheer him up and show him our talents. I will charm the air to produce music while you all dance around like crazy, so this king will say we did our duty and entertained him."
+
+  - os: "Music. The WITCHES dance and then vanish"
+    ms: "Music plays. The WITCHES dance and then vanish."
+
+  - sp: MACBETH
+    o:
+      - "Where are they? Gone? Let this pernicious hour"
+      - "Stand aye accursèd in the calendar!"
+      - "Come in, without there."
+    m:
+      - "Where are they? Gone? Let this evil hour be marked forever in the calendar as cursed. *(calls to someone offstage)* You outside, come in!"
+
+  - os: "Enter LENNOX"
+    ms: "LENNOX enters."
+
+  - sp: LENNOX
+    o:
+      - "    What’s your grace’s will?"
+    m:
+      - "What does your grace want?"
+
+  - sp: MACBETH
+    o:
+      - "Saw you the weird sisters?"
+    m:
+      - "Did you see the weird sisters?"
+
+  - sp: LENNOX
+    o:
+      - "    No, my lord."
+    m:
+      - "No, my lord."
+
+  - sp: MACBETH
+    o:
+      - "Came they not by you?"
+    m:
+      - "Didn’t they pass by you?"
+
+  - sp: LENNOX
+    o:
+      - "    No, indeed, my lord."
+    m:
+      - "No, indeed, my lord."
+
+  - sp: MACBETH
+    o:
+      - "Infected be the air whereon they ride,"
+      - "And damned all those that trust them! I did hear"
+      - "The galloping of horse. Who was ’t came by?"
+    m:
+      - "The air on which they ride is infected. Damn all those who trust them! I heard the galloping of horses. Who was it that came here?"
+
+  - sp: LENNOX
+    o:
+      - "’Tis two or three, my lord, that bring you word"
+      - "Macduff is fled to England."
+    m:
+      - "Two or three men, my lord, who brought the message that Macduff has fled to England."
+
+  - sp: MACBETH
+    o:
+      - "Fled to England?"
+    m:
+      - "Fled to England?"
+
+  - sp: LENNOX
+    o:
+      - "Ay, my good lord."
+    m:
+      - "Yes, my good lord."
+
+  - sp: MACBETH
+    o:
+      - "Time, thou anticipat’st my dread exploits."
+      - "The flighty purpose never is o’ertook"
+      - "Unless the deed go with it. From this moment"
+      - "The very firstlings of my heart shall be"
+      - "The firstlings of my hand. And even now,"
+      - "To crown my thoughts with acts, be it thought and done:"
+      - "The castle of Macduff I will surprise,"
+      - "Seize upon Fife, give to th’ edge o’ th’ sword"
+      - "His wife, his babes, and all unfortunate souls"
+      - "That trace him in his line. No boasting like a fool."
+      - "This deed I’ll do before this purpose cool."
+      - "But no more sights!—Where are these gentlemen?"
+      - "Come, bring me where they are."
+    m:
+      - "Time, you thwart my dreadful plans. Unless a person does something the second he thinks of it, he’ll never get a chance to do it. From now on, as soon as I decide to do something I’m going to act immediately. In fact, I’ll start following up my thoughts with actions right now. I’ll raid Macduff’s castle, seize the town of Fife, and kill his wife, his children, and anyone else unfortunate enough to stand in line for his inheritance. No more foolish talk. I will do this deed before I lose my sense of purpose. But no more spooky visions!—Where are the messengers? Come, bring me to them."
+
+  - os: "Exeunt"
+    ms: "They exit."

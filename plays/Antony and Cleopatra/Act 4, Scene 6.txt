@@ -1,0 +1,117 @@
+play: Antony and Cleopatra
+title: Act 4, Scene 6
+group: 4
+order: 30
+text:
+  - os: "Flourish. Enter AGRIPPA, and CAESAR, with ENOBARBUS and DOLABELLA"
+    ms: "Trumpet fanfare. AGRIPPA and CAESAR enter with ENOBARBUS and DOLABELLA."
+
+  - sp: CAESAR
+    o:
+      - "Go forth, Agrippa, and begin the fight."
+      - "Our will is Antony be took alive."
+      - "Make it so known."
+    m:
+      - "Agrippa, go start the battle. We want Antony taken alive. Make sure everyone knows that."
+
+  - sp: AGRIPPA
+    o:
+      - "Caesar, I shall."
+    m:
+      - "I will, Caesar."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: CAESAR
+    o:
+      - "The time of universal peace is near."
+      - "Prove this a prosp’rous day, the three-nooked world"
+      - "Shall bear the olive freely."
+    m:
+      - "An era of universal peace is about to start. If this battle goes well for us, there will be peace in all three corners of the world."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "    Antony Is come into the field."
+    m:
+      - "Antony has come onto the battlefield."
+
+  - sp: CAESAR
+    o:
+      - "    Go charge Agrippa"
+      - "Plant those that have revolted in the vant,"
+      - "That Antony may seem to spend his fury"
+      - "Upon himself."
+    m:
+      - "Go order Agrippa to put the men who deserted Antony’s army at the front. That way Antony will feel like he’s fighting his own men."
+
+  - os: "Exeunt all but ENOBARBUS"
+    ms: "Everyone exits except ENOBARBUS."
+
+  - sp: ENOBARBUS
+    o:
+      - "Alexas did revolt and went to Jewry on"
+      - "Affairs of Antony, there did dissuade"
+      - "Great Herod to incline himself to Caesar"
+      - "And leave his master Antony. For this pains"
+      - "Caesar hath hanged him. Canidius and the rest"
+      - "That fell away have entertainment but"
+      - "No honorable trust. I have done ill,"
+      - "Of which I do accuse myself so sorely"
+      - "That I will joy no more."
+    m:
+      - "Alexas deserted. He went to Judea as if on Antony’s business, but he persuaded Herod to support Caesar instead. Caesar hanged him for this service. Canidius and the others that left Antony are given hospitality here but no positions of trust. I’ve done a bad thing, for which I will blame myself so much that I’ll never be happy again."
+
+  - os: "Enter a SOLDIER of Caesar’s"
+    ms: "A SOLDIER of Caesar’s enters."
+
+  - sp: SOLDIER
+    o:
+      - "    Enobarbus, Antony"
+      - "Hath after thee sent all thy treasure, with"
+      - "His bounty overplus. The messenger"
+      - "Came on my guard, and at thy tent is now"
+      - "Unloading of his mules."
+    m:
+      - "Enobarbus, Antony has sent you all your treasure, with generous gifts besides. The messenger arrived on my watch and is unloading his mules at your tent."
+
+  - sp: ENOBARBUS
+    o:
+      - "I give it you."
+    m:
+      - "It’s yours."
+
+  - sp: SOLDIER
+    o:
+      - "Mock not, Enobarbus."
+      - "I tell you true. Best you safed the bringer"
+      - "Out of the host. I must attend mine office,"
+      - "Or would have done ’t myself. Your Emperor"
+      - "Continues still a Jove."
+    m:
+      - "Don’t joke about this, Enobarbus. I’m telling you the truth. You’d better bring the messenger safely through the lines so he can return. I’d do it myself, but I can’t leave my post. Your Emperor is still a king among gods."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ENOBARBUS
+    o:
+      - "I am alone the villain of the earth,"
+      - "And feel I am so most. O Antony,"
+      - "Thou mine of bounty, how wouldst thou have paid"
+      - "My better service, when my turpitude"
+      - "Thou dost so crown with gold! This blows my heart."
+      - "If swift thought break it not, a swifter mean"
+      - "Shall outstrike thought, but thought will do ’t, I feel."
+      - "I fight against thee? No, I will go seek"
+      - "Some ditch wherein to die. The foul’st best fits"
+      - "My latter part of life."
+    m:
+      - "I am the worst person alive, and I know it the best. Oh, Antony, you extravagantly generous man, how would you have rewarded me for serving you faithfully when you reward my badness with all of this gold! My heart feels like it’s about to explode. If grief doesn’t kill me, I’ll find a quicker way to kill myself—even though I think grief will do the job just as well. I, fight against you, Antony? No, I’ll go find some ditch to die in. The foulest fate would be most appropriate for me now in this latest phase of my life."
+
+  - os: "Exit"
+    ms: "He exits."

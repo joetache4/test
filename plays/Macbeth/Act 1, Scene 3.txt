@@ -1,0 +1,450 @@
+play: Macbeth
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Thunder. Enter the three WITCHES"
+    ms: "Thunder. The three WITCHES enter."
+
+  - sp: FIRST WITCH
+    o:
+      - "Where hast thou been, sister?"
+    m:
+      - "Where have you been, sister?"
+
+  - sp: SECOND WITCH
+    o:
+      - "Killing swine."
+    m:
+      - "Killing pigs."
+
+  - sp: THIRD WITCH
+    o:
+      - "Sister, where thou?"
+    m:
+      - "And you, sister?"
+
+  - sp: FIRST WITCH
+    o:
+      - "A sailor’s wife had chestnuts in her lap,"
+      - "And munched, and munched, and munched. “Give me,”"
+      - "    quoth I."
+      - "“Aroint thee, witch!” the rump-fed runnion cries."
+      - "Her husband’s to Aleppo gone, master o’ th’ *Tiger*;"
+      - "But in a sieve I’ll thither sail,"
+      - "And like a rat without a tail,"
+      - "I’ll do, I’ll do, and I’ll do."
+    m:
+      - "A sailor’s wife had chestnuts in her lap and munched away at them. “Give me one,” I said. “Get away from me, witch!” the fat woman cried. Her husband has sailed off to Aleppo as master of a ship called the *Tiger*. I’ll sail there in a kitchen strainer, turn myself into a tailless rat, and do things to him—"
+
+  - sp: SECOND WITCH
+    o:
+      - "I’ll give thee a wind."
+    m:
+      - "I’ll give you some wind to sail there."
+
+  - sp: FIRST WITCH
+    o:
+      - "Thou ’rt kind."
+    m:
+      - "How nice of you!"
+
+  - sp: THIRD WITCH
+    o:
+      - "And I another."
+    m:
+      - "And I will give you some more."
+
+  - sp: FIRST WITCH
+    o:
+      - "I myself have all the other,"
+      - "And the very ports they blow,"
+      - "All the quarters that they know"
+      - "I’ th’ shipman’s card."
+      - "I’ll drain him dry as hay."
+      - "Sleep shall neither night nor day"
+      - "Hang upon his penthouse lid."
+      - "He shall live a man forbid."
+      - "Weary sev’nnights nine times nine"
+      - "Shall he dwindle, peak and pine."
+      - "Though his bark cannot be lost,"
+      - "Yet it shall be tempest-tossed."
+      - "Look what I have."
+    m:
+      - "I already have control of all the other winds, along with the ports from which they blow and every direction on the sailor’s compass in which they can go. I’ll drain the life out of him. He won’t catch a wink of sleep, either at night or during the day. He will live as a cursed man. For eighty-one weeks he will waste away in agony. Although I can’t make his ship disappear, I can still make his journey miserable. Look what I have here."
+
+  - sp: SECOND WITCH
+    o:
+      - "Show me, show me."
+    m:
+      - "Show me, show me."
+
+  - sp: FIRST WITCH
+    o:
+      - "Here I have a pilot’s thumb,"
+      - "Wrecked as homeward he did come."
+    m:
+      - "Here I have the thumb of a pilot who was drowned while trying to return home."
+
+  - os: "Drum within"
+    ms: "A drum sounds offstage."
+
+  - sp: THIRD WITCH
+    o:
+      - "A drum, a drum!"
+      - "Macbeth doth come."
+    m:
+      - "A drum, a drum! Macbeth has come."
+
+  - sp: ALL
+    o:
+      - "*(dancing together in a circle)* The weird sisters, hand in"
+      - "    hand,"
+      - "Posters of the sea and land,"
+      - "Thus do go about, about,"
+      - "Thrice to thine and thrice to mine"
+      - "And thrice again, to make up nine."
+      - "Peace! The charm’s wound up."
+    m:
+      - "*(dancing together in a circle)* We weird sisters, hand in hand, swift travelers over the sea and land, dance around and around like so. Three times to yours, and three times to mine, and three times again, to add up to nine. Enough! The charm is ready."
+
+  - os: "Enter MACBETH and BANQUO"
+    ms: "MACBETH and BANQUO enter."
+
+  - sp: MACBETH
+    o:
+      - "So foul and fair a day I have not seen."
+    m:
+      - "*(to BANQUO)* I have never seen a day that was so good and bad at the same time."
+
+  - sp: BANQUO
+    o:
+      - "How far is ’t called to Forres?—What are these"
+      - "So withered and so wild in their attire,"
+      - "That look not like th’ inhabitants o’ th’ Earth,"
+      - "And yet are on ’t?—Live you? Or are you aught"
+      - "That man may question? You seem to understand me,"
+      - "By each at once her choppy finger laying"
+      - "Upon her skinny lips. You should be women,"
+      - "And yet your beards forbid me to interpret"
+      - "That you are so."
+    m:
+      - "How far is it supposed to be to Forres? *(he sees the WITCHES)* What are these creatures? They’re so withered-looking and crazily dressed. They don’t look like they belong on this planet, but I see them standing here on Earth. *(to the WITCHES)* Are you alive? Can you answer questions? You seem to understand me, because each of you has put a gruesome finger to her skinny lips. You look like women, but your beards keep me from believing that you really are."
+
+  - sp: MACBETH
+    o:
+      - "Speak, if you can: what are you?"
+    m:
+      - "Speak, if you can. What kind of creatures are you?"
+
+  - sp: FIRST WITCH
+    o:
+      - "All hail, Macbeth! Hail to thee, thane of Glamis!"
+    m:
+      - "All hail, Macbeth! Hail to you, thane of Glamis!"
+
+  - sp: SECOND WITCH
+    o:
+      - "All hail, Macbeth! Hail to thee, thane of Cawdor!"
+    m:
+      - "All hail, Macbeth! Hail to you, thane of Cawdor!"
+
+  - sp: THIRD WITCH
+    o:
+      - "All hail, Macbeth, that shalt be king hereafter!"
+    m:
+      - "All hail, Macbeth, the future king!"
+
+  - sp: BANQUO
+    o:
+      - "Good sir, why do you start and seem to fear"
+      - "Things that do sound so fair? *(to the WITCHES)* I’ th’ name of truth,"
+      - "Are ye fantastical, or that indeed"
+      - "Which outwardly ye show? My noble partner"
+      - "You greet with present grace and great prediction"
+      - "Of noble having and of royal hope,"
+      - "That he seems rapt withal. To me you speak not."
+      - "If you can look into the seeds of time"
+      - "And say which grain will grow and which will not,"
+      - "Speak, then, to me, who neither beg nor fear"
+      - "Your favors nor your hate."
+    m:
+      - "My dear Macbeth, why do you look so startled and afraid of these nice things they’re saying? *(to the WITCHES)* Tell me honestly, are you illusions, or are you really what you seem to be? You’ve greeted my noble friend with honors and talk of a future so glorious that you’ve made him speechless. But you don’t say anything to me. If you can see the future and say how things will turn out, tell me. I don’t want your favors and I’m not afraid of your hatred."
+
+  - sp: FIRST WITCH
+    o:
+      - "Hail!"
+    m:
+      - "Hail!"
+
+  - sp: SECOND WITCH
+    o:
+      - "Hail!"
+    m:
+      - "Hail!"
+
+  - sp: THIRD WITCH
+    o:
+      - "Hail!"
+    m:
+      - "Hail!"
+
+  - sp: FIRST WITCH
+    o:
+      - "Lesser than Macbeth and greater."
+    m:
+      - "You are lesser than Macbeth but also greater."
+
+  - sp: SECOND WITCH
+    o:
+      - "Not so happy, yet much happier."
+    m:
+      - "You are not as happy as Macbeth, yet much happier."
+
+  - sp: THIRD WITCH
+    o:
+      - "Thou shalt get kings, though thou be none."
+      - "So all hail, Macbeth and Banquo!"
+    m:
+      - "Your descendants will be kings, even though you will not be one. So all hail, Macbeth and Banquo!"
+
+  - sp: FIRST WITCH
+    o:
+      - "Banquo and Macbeth, all hail!"
+    m:
+      - "Banquo and Macbeth, all hail!"
+
+  - sp: MACBETH
+    o:
+      - "Stay, you imperfect speakers, tell me more."
+      - "By Sinel’s death I know I am thane of Glamis."
+      - "But how of Cawdor? The thane of Cawdor lives,"
+      - "A prosperous gentleman, and to be king"
+      - "Stands not within the prospect of belief,"
+      - "No more than to be Cawdor. Say from whence"
+      - "You owe this strange intelligence, or why"
+      - "Upon this blasted heath you stop our way"
+      - "With such prophetic greeting. Speak, I charge you."
+    m:
+      - "Wait! You only told me part of what I want to know. Stay and tell me more. I already know I am the thane of Glamis because I inherited the position when my father, Sinel, died. But how can you call me the thane of Cawdor? The thane of Cawdor is alive, and he’s a rich and powerful man. And for me to be the king is completely impossible, just as it’s impossible for me to be thane of Cawdor. Tell me where you learned these strange things, and why you stop us at this desolate place with this prophetic greeting? Speak, I command you."
+
+  - os: "WITCHES vanish"
+    ms: "The WITCHESvanish."
+
+  - sp: BANQUO
+    o:
+      - "The earth hath bubbles, as the water has,"
+      - "And these are of them. Whither are they vanished?"
+    m:
+      - "The earth has bubbles, just like the water, and these creatures must have come from a bubble in the earth. Where did they disappear to?"
+
+  - sp: MACBETH
+    o:
+      - "Into the air, and what seemed corporal"
+      - "Melted, as breath into the wind. Would they had stayed."
+    m:
+      - "Into thin air. Their bodies melted like breath in the wind. I wish they had stayed!"
+
+  - sp: BANQUO
+    o:
+      - "Were such things here as we do speak about?"
+      - "Or have we eaten on the insane root"
+      - "That takes the reason prisoner?"
+    m:
+      - "Were these things we’re talking about really here? Or are we both on drugs?"
+
+  - sp: MACBETH
+    o:
+      - "Your children shall be kings."
+    m:
+      - "Your children will be kings."
+
+  - sp: BANQUO
+    o:
+      - "    You shall be king."
+    m:
+      - "You will be the king."
+
+  - sp: MACBETH
+    o:
+      - "And thane of Cawdor too: went it not so?"
+    m:
+      - "And thane of Cawdor too. Isn’t that what they said?"
+
+  - sp: BANQUO
+    o:
+      - "To the selfsame tune and words. Who’s here?"
+    m:
+      - "That’s exactly what they said. Who’s this?"
+
+  - os: "Enter ROSS and ANGUS"
+    ms: "ROSS and ANGUS enter."
+
+  - sp: ROSS
+    o:
+      - "The king hath happily received, Macbeth,"
+      - "The news of thy success, and when he reads"
+      - "Thy personal venture in the rebels’ fight,"
+      - "His wonders and his praises do contend"
+      - "Which should be thine or his. Silenced with that,"
+      - "In viewing o’er the rest o’ the selfsame day,"
+      - "He finds thee in the stout Norweyan ranks,"
+      - "Nothing afeard of what thyself didst make,"
+      - "Strange images of death. As thick as tale"
+      - "Can post with post, and every one did bear"
+      - "Thy praises in his kingdom’s great defense,"
+      - "And poured them down before him."
+    m:
+      - "The king was happy to hear of your success, Macbeth. Whenever he hears the story of your exploits in the fight against the rebels, he becomes so amazed it makes him speechless. He was also shocked to learn that on the same day you fought the rebels you also fought against the army of Norway, and that you weren’t the least bit afraid of death, even as you killed everyone around you. Messenger after messenger delivered news of your bravery to the king with praise for how you defended his country."
+
+  - sp: ANGUS
+    o:
+      - "    We are sent"
+      - "To give thee from our royal master thanks,"
+      - "Only to herald thee into his sight,"
+      - "Not pay thee."
+    m:
+      - "The king sent us to give you his thanks and to bring you to him. Your real reward won’t come from us."
+
+  - sp: ROSS
+    o:
+      - "And, for an earnest of a greater honor,"
+      - "He bade me, from him, call thee thane of Cawdor:"
+      - "In which addition, hail, most worthy thane,"
+      - "For it is thine."
+    m:
+      - "And to give you a taste of what’s in store for you, he told me to call you the thane of Cawdor. So hail, thane of Cawdor! That title belongs to you now."
+
+  - sp: BANQUO
+    o:
+      - "    What, can the devil speak true?"
+    m:
+      - "*(shocked)* Can the devil tell the truth?"
+
+  - sp: MACBETH
+    o:
+      - "The thane of Cawdor lives. Why do you dress me"
+      - "In borrowed robes?"
+    m:
+      - "The thane of Cawdor is still alive. Why are you putting his clothes on me?"
+
+  - sp: ANGUS
+    o:
+      - "    Who was the thane lives yet,"
+      - "But under heavy judgment bears that life"
+      - "Which he deserves to lose. Whether he was combined"
+      - "With those of Norway, or did line the rebel"
+      - "With hidden help and vantage, or that with both"
+      - "He labored in his country’s wrack, I know not;"
+      - "But treasons capital, confessed and proved,"
+      - "Have overthrown him."
+    m:
+      - "The man who was the thane of Cawdor is still alive, but he’s been sentenced to death, and he deserves to die. I don’t know whether he fought on Norway’s side, or if he secretly aided the rebels, or if he fought with both of our enemies. But his treason, which has been proven, and to which he’s confessed, means he’s finished."
+
+  - sp: MACBETH
+    o:
+      - "*(aside)*      Glamis, and thane of Cawdor!"
+      - "The greatest is behind. *(to ROSS and ANGUS)* Thanks for your pains."
+      - "*(aside to BANQUO)* Do you not hope your children shall be kings,"
+      - "When those that gave the thane of Cawdor to me"
+      - "Promised no less to them?"
+    m:
+      - "*(to himself)* It’s just like they said—now I’m the thane of Glamis and the thane of Cawdor. And the best part of what they predicted is still to come. *(to ROSS and ANGUS)* Thank you for the news. *(speaking so that only BANQUO can hear)* Aren’t you beginning to hope your children will be kings? After all, the witches who said I was thane of Cawdor promised them nothing less."
+
+  - sp: BANQUO
+    o:
+      - "    That, trusted home,"
+      - "Might yet enkindle you unto the crown,"
+      - "Besides the thane of Cawdor. But ’tis strange."
+      - "And oftentimes, to win us to our harm,"
+      - "The instruments of darkness tell us truths,"
+      - "Win us with honest trifles, to betray ’s"
+      - "In deepest consequence."
+      - "*(to ROSS and ANGUS)* Cousins, a word, I pray you."
+    m:
+      - "If you trust what they say, you might be on your way to becoming king, as well as thane of Cawdor. But this whole thing is strange. The agents of evil often tell us part of the truth in order to lead us to our destruction. They earn our trust by telling us the truth about little things, but then they betray us when it will damage us the most. *(to ROSS and ANGUS)* Gentlemen, I’d like to have a word with you, please."
+
+  - os: "BANQUO, ROSS, and ANGUS move to one side"
+    ms: "ROSS, ANGUS, and BANQUO move to one side."
+
+  - sp: MACBETH
+    o:
+      - "*(aside)*      Two truths are told,"
+      - "As happy prologues to the swelling act"
+      - "Of the imperial theme. *(to ROSS and ANGUS)* I thank you, gentlemen."
+      - "*(aside)* This supernatural soliciting"
+      - "Cannot be ill, cannot be good. If ill,"
+      - "Why hath it given me earnest of success,"
+      - "Commencing in a truth? I am thane of Cawdor."
+      - "If good, why do I yield to that suggestion"
+      - "Whose horrid image doth unfix my hair"
+      - "And make my seated heart knock at my ribs,"
+      - "Against the use of nature? Present fears"
+      - "Are less than horrible imaginings."
+      - "My thought, whose murder yet is but fantastical,"
+      - "Shakes so my single state of man"
+      - "That function is smothered in surmise,"
+      - "And nothing is but what is not."
+    m:
+      - "*(to himself)* So far the witches have told me two things that came true, so it seems like this will culminate in my becoming king. *(to ROSS and ANGUS)* Thank you, gentlemen. *(to himself)* This supernatural temptation doesn’t seem like it can be a bad thing, but it can’t be good either. If it’s a bad thing, why was I promised a promotion that turned out to be true? Now I’m the thane of Cawdor, just like they said I would be. But if this is a good thing, why do I find myself thinking about murdering King Duncan, a thought so horrifying that it makes my hair stand on end and my heart pound inside my chest? The dangers that actually threaten me here and now frighten me less than the horrible things I’m imagining. Even though it’s just a fantasy so far, the mere thought of committing murder shakes me up so much that I hardly know who I am anymore. My ability to act is stifled by my thoughts and speculations, and the only things that matter to me are things that don’t really exist."
+
+  - sp: BANQUO
+    o:
+      - "Look how our partner’s rapt."
+    m:
+      - "Look at Macbeth—he’s in a daze."
+
+  - sp: MACBETH
+    o:
+      - "*(aside)* If chance will have me king, why, chance may crown me"
+      - "Without my stir."
+    m:
+      - "*(to himself)* If fate wants me to be king, perhaps fate will just make it happen and I won’t have to do anything."
+
+  - sp: BANQUO
+    o:
+      - "    New honors come upon him,"
+      - "Like our strange garments, cleave not to their mold"
+      - "But with the aid of use."
+    m:
+      - "*(to ROSS and ANGUS)* Macbeth is not used to his new titles. They’re like new clothes: they don’t fit until you break them in over time."
+
+  - sp: MACBETH
+    o:
+      - "*(aside)*      Come what come may,"
+      - "Time and the hour runs through the roughest day."
+    m:
+      - "*(to himself)* One way or another, what’s going to happen is going to happen."
+
+  - sp: BANQUO
+    o:
+      - "Worthy Macbeth, we stay upon your leisure."
+    m:
+      - "Good Macbeth, we’re ready when you are."
+
+  - sp: MACBETH
+    o:
+      - "Give me your favor. My dull brain was wrought"
+      - "With things forgotten. Kind gentlemen, your pains"
+      - "Are registered where every day I turn"
+      - "The leaf to read them. Let us toward the king."
+      - "*(aside to BANQUO)* Think upon what hath chanced, and, at more time,"
+      - "The interim having weighed it, let us speak"
+      - "Our free hearts each to other."
+    m:
+      - "I beg your pardon; I was distracted. Kind gentlemen, I won’t forget the trouble you’ve taken for me whenever I think of this day. Let’s go to the king. *(speaking so that only BANQUO can hear)* Think about what happened today, and when we’ve both had time to consider things, let’s talk."
+
+  - sp: BANQUO
+    o:
+      - "Very gladly."
+    m:
+      - "Absolutely."
+
+  - sp: MACBETH
+    o:
+      - "Till then, enough. *(to ROSS and ANGUS)* Come, friends."
+    m:
+      - "Until then, we’ve said enough. *(to ROSS and ANGUS)* Let’s go, my friends."
+
+  - os: "Exeunt"
+    ms: "They all exit."

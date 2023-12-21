@@ -1,0 +1,442 @@
+play: As You Like It
+title: Act 4, Scene 3
+group: 4
+order: 17
+text:
+  - os: "Enter ROSALIND and CELIA"
+    ms: "ROSALIND and CELIA enter."
+
+  - sp: ROSALIND
+    o:
+      - "How say you now? Is it not past two o’clock? And here much Orlando."
+    m:
+      - "What do you say now? Isn’t it past two o’clock? And I see a lot of Orlando here."
+
+  - sp: CELIA
+    o:
+      - "I warrant you, with pure love and troubled brain he hath ta’en his bow and arrows and is gone forth to sleep."
+    m:
+      - "I’m telling you, he’s taken his bow and arrows and, with a pure love and a worried brain, has gone to take a nap."
+
+  - os: "Enter SILVIUS"
+    ms: "SILVIUS enters."
+
+  - o:
+      - "Look who comes here."
+    m:
+      - "Look who’s coming."
+
+  - sp: SILVIUS
+    o:
+      - "*(to ROSALIND)* My errand is to you, fair youth."
+      - "My gentle Phoebe did bid me give you this."
+      - "I know not the contents, but as I guess"
+      - "By the stern brow and waspish action"
+      - "Which she did use as she was writing of it,"
+      - "It bears an angry tenor. Pardon me."
+      - "I am but as a guiltless messenger."
+      - "*(Gives the letter)*"
+    m:
+      - "*(to ROSALIND)* I’ve been sent to find you, young man. My lovely Phoebe told me to give you this letter. I don’t know what’s in it, but guessing from her stern expression and her wasp-like demeanor as she was writing it, I bet she’s angry. You’ll have to excuse me, as I’m just the messenger."
+
+  - sp: ROSALIND
+    o:
+      - "*(Examines the letter) (as Ganymede)* Patience herself would startle at this letter"
+      - "And play the swaggerer. Bear this, bear all."
+      - "She says I am not fair, that I lack manners."
+      - "She calls me proud, and that she could not love me"
+      - "Were man as rare as phoenix. ’Od’s my will,"
+      - "Her love is not the hare that I do hunt."
+      - "Why writes she so to me? Well, shepherd, well,"
+      - "This is a letter of your own device."
+    m:
+      - "*(reading the letter as Ganymede)* Patience herself would be shocked by this letter and become feisty. If I can take this, I can take anything. She says I’m not handsome and have no manners. She says I’m arrogant and that she couldn’t love me even if men were as rare as the mythical phoenix. Honestly! I’m not hunting after her love. Why would she write this way to me? Tell the truth, shepherd: you wrote this letter."
+
+  - sp: SILVIUS
+    o:
+      - "No, I protest, I know not the contents."
+      - "Phoebe did write it."
+    m:
+      - "No, I swear, I don’t even know what’s in it. Phoebe wrote it."
+
+  - sp: ROSALIND
+    o:
+      - "Come, come, you are a fool,"
+      - "And turned into the extremity of love."
+      - "I saw her hand. She has a leathern hand,"
+      - "A freestone-colored hand. I verily did think"
+      - "That her old gloves were on, but ’twas her hands."
+      - "She has a huswife’s hand—but that’s no matter."
+      - "I say she never did invent this letter."
+      - "This is a man’s invention, and his hand."
+    m:
+      - "Come on, you’re a fool, and driven to extreme measures by love. I saw her hands: they were as rough as leather and just as brown; I thought she was wearing old gloves, but they were, in fact, her hands. These are the hands of a hard-working housewife, but that’s not the point. The point is that she didn’t write this letter. These are a man’s words, and his handwriting."
+
+  - sp: SILVIUS
+    o:
+      - "Sure it is hers."
+    m:
+      - "I’m telling you, it’s hers."
+
+  - sp: ROSALIND
+    o:
+      - "Why, ’tis a boisterous and a cruel style,"
+      - "A style for challengers. Why, she defies me"
+      - "Like Turk to Christian. Women’s gentle brain"
+      - "Could not drop forth such giant-rude invention,"
+      - "Such Ethiop words, blacker in their effect"
+      - "Than in their countenance. Will you hear the letter?"
+    m:
+      - "Well, it’s written in a boisterous and rude style—someone is up for a fight. Why, she challenges me like a Muslim would challenge a Christian. No, a woman’s gentle brain could never have come up with such crude expressions and even harsher meanings. Do you want to hear what she says?"
+
+  - sp: SILVIUS
+    o:
+      - "So please you, for I never heard it yet,"
+      - "Yet heard too much of Phoebe’s cruelty."
+    m:
+      - "If you want to read it, as I haven’t heard it yet, though I’ve heard too much of Phoebe’s cruelty."
+
+  - sp: ROSALIND
+    o:
+      - "She Phoebes me. Mark how the tyrant writes."
+      - "*(reads)* Art thou god to shepherd turned,"
+      - "That a maiden’s heart hath burned?"
+      - "Can a woman rail thus?"
+    m:
+      - "She’s Phoebe-ing me. Listen to what the tyrant says. *(reading)* “Are you a god disguised as a shepherd, that you know so expertly how to burn my heart?” Now, honestly, would a woman rant like this?"
+
+  - sp: SILVIUS
+    o:
+      - "Call you this railing?"
+    m:
+      - "You call that ranting?"
+
+  - sp: ROSALIND
+    o:
+      - "*(reads)*"
+      - "Why, thy godhead laid apart,"
+      - "Warr’st thou with a woman’s heart?"
+      - "Did you ever hear such railing?"
+      - "Whiles the eye of man did woo me,"
+      - "That could do no vengeance to me."
+      - "Meaning me a beast."
+      - "If the scorn of your bright eyne"
+      - "Have power to raise such love in mine,"
+      - "Alack, in me what strange effect"
+      - "Would they work in mild aspect?"
+      - "Whiles you chid me, I did love."
+      - "How then might your prayers move?"
+      - "He that brings this love to thee"
+      - "Little knows this love in me,"
+      - "And by him seal up thy mind"
+      - "Whether that thy youth and kind"
+      - "Will the faithful offer take"
+      - "Of me, and all that I can make,"
+      - "Or else by him my love deny,"
+      - "And then I’ll study how to die."
+    m:
+      - "*(reading)* “Why have you set aside your divine nature just to battle with a woman’s affections?” Did you ever hear such ranting? *(reading)* “When other men have wooed me, they didn’t hurt me.” In other words, she thinks I’m not a man, but an animal. *(reading)* “If the scorn in your bright eyes can make me fall so deeply in love, can you imagine what power they might have if they looked at me more kindly? While you sneered at me, I loved you. Consider what effect kind prayers might have. The man that brings you this letter doesn’t know how I feel about you. Send me your answer via him. Tell me via him whether you will accept my faithful offer of myself and all that I can do. Or tell him you will deny my love, in which case I’ll figure out how to die.”"
+
+  - sp: SILVIUS
+    o:
+      - "Call you this chiding?"
+    m:
+      - "You call this sneering?"
+
+  - sp: CELIA
+    o:
+      - "*(as Aliena)* Alas, poor shepherd."
+    m:
+      - "*(as Aliena)* Oh, you poor shepherd!"
+
+  - sp: ROSALIND
+    o:
+      - "Do you pity him? No, he deserves no pity.—Wilt thou love such a woman? What, to make thee an instrument and play false strains upon thee? Not to be endured. Well, go your way to her, for I see love hath made thee a tame snake, and say this to her: that if she love me, I charge her to love thee; if she will not, I will never have her unless thou entreat for her. If you be a true lover, hence and not a word, for here comes more company."
+    m:
+      - "Why do you pity him? He doesn’t deserve any pity. *(to SILVIUS)* Why would you love such a woman? So she can turn you into an instrument and play lousy tunes on you? It’s unbearable. Well, go back to her—I can tell she’s turned you into a perfectly tame snake—and tell her this: if she loves me, I command her to love you. And if she won’t love you, tell her I’ll never take her unless you beg me to. If you’re a true lover, get out of here. No, don’t say another word, because here comes more company."
+
+  - os: "Exit SILVIUS"
+    ms: "SILVIUS exits."
+
+  - os: "Enter OLIVER"
+    ms: "OLIVER enters."
+
+  - sp: OLIVER
+    o:
+      - "Good morrow, fair ones. Pray you, if you know,"
+      - "Where in the purlieus of this forest stands"
+      - "A sheepcote fenced about with olive trees?"
+    m:
+      - "Good morning, pretty ones. Tell me, if you know: where in this forest is there a shepherd’s cottage surrounded by olive trees?"
+
+  - sp: CELIA
+    o:
+      - "*(as Aliena)*"
+      - "West of this place, down in the neighbor bottom,"
+      - "The rank of osiers by the murmuring stream"
+      - "Left on your right hand brings you to the place."
+      - "But at this hour the house doth keep itself."
+      - "There’s none within."
+    m:
+      - "West of here, in the valley next to us. Passing by on your right, there is a row of willows. Follow them straight to the cottage. But right now, the house is keeping to itself— there’s no one home."
+
+  - sp: OLIVER
+    o:
+      - "If that an eye may profit by a tongue,"
+      - "Then should I know you by description."
+      - "Such garments, and such years. “The boy is fair,"
+      - "Of female favor, and bestows himself"
+      - "Like a ripe sister; the woman low"
+      - "And browner than her brother.” Are not you"
+      - "The owner of the house I did inquire for?"
+    m:
+      - "I think I recognize you from a description I was given of your clothing and age: “The boy is pretty and feminine, and carries himself like a blooming young woman. The woman is short, with a darker complexion than her brother.” Aren’t you the owners of the house I was just asking about?"
+
+  - sp: CELIA
+    o:
+      - "It is no boast, being asked, to say we are."
+    m:
+      - "Since you asked, I suppose it’s not bragging to say that we are."
+
+  - sp: OLIVER
+    o:
+      - "Orlando doth commend him to you both,"
+      - "And to that youth he calls his Rosalind"
+      - "He sends this bloody napkin. Are you he?"
+    m:
+      - "Orlando sends his regards to you both, and he sends this bloody handkerchief to the boy he calls “his Rosalind.” Is that you?"
+
+  - sp: ROSALIND
+    o:
+      - "*(as Ganymede)* I am. What must we understand by this?"
+    m:
+      - "It is. What does this mean?"
+
+  - sp: OLIVER
+    o:
+      - "Some of my shame, if you will know of me"
+      - "What man I am, and how, and why, and where"
+      - "This handkercher was stained."
+    m:
+      - "It’s a story that involves some shame on my part. It’s about who I am, and how, why, and where this handkerchief was stained."
+
+  - sp: CELIA
+    o:
+      - "I pray you, tell it."
+    m:
+      - "Please, tell us."
+
+  - sp: OLIVER
+    o:
+      - "When last the young Orlando parted from you,"
+      - "He left a promise to return again"
+      - "Within an hour, and pacing through the forest,"
+      - "Chewing the food of sweet and bitter fancy,"
+      - "Lo, what befell. He threw his eye aside—"
+      - "And mark what object did present itself:"
+      - "Under an old oak, whose boughs were mossed with age"
+      - "And high top bald with dry antiquity,"
+      - "A wretched, ragged man, o’ergrown with hair,"
+      - "Lay sleeping on his back. About his neck"
+      - "A green and gilded snake had wreathed itself,"
+      - "Who with her head, nimble in threats, approached"
+      - "The opening of his mouth. But suddenly,"
+      - "Seeing Orlando, it unlinked itself"
+      - "And, with indented glides, did slip away"
+      - "Into a bush, under which bush’s shade"
+      - "A lioness, with udders all drawn dry,"
+      - "Lay couching, head on ground, with catlike watch"
+      - "When that the sleeping man should stir—for ’tis"
+      - "The royal disposition of that beast"
+      - "To prey on nothing that doth seem as dead."
+      - "This seen, Orlando did approach the man"
+      - "And found it was his brother, his elder brother."
+    m:
+      - "When young Orlando left you last, he promised to return within an hour. He was pacing through the forest, thinking bittersweet thoughts of love, and listen what happened! He looked to the side, and pay attention to what he saw then: under an oak tree—whose lower branches were mossy with age and top branches ancient and brittle—he saw a wretched beggar, with overgrown hair and beard, asleep on his back. A green and gold snake had wound itself around this man’s neck and was slowly making its way toward the man’s mouth. However, when it saw Orlando, it unwound itself and slunk away into a bush. But there happened to be a lioness crouching under that bush. Her cubs had nursed from her until she was dry, so she was ravenously hungry, and she was lying with her head on the ground, watching the man as cats do and waiting to see if he would wake up—a lion won’t prey on anything that seems dead. Seeing the lioness, Orlando approached the sleeping man. He discovered that the man was his older brother."
+
+  - sp: CELIA
+    o:
+      - "Oh, I have heard him speak of that same brother,"
+      - "And he did render him the most unnatural"
+      - "That lived amongst men."
+    m:
+      - "Oh, I’ve heard him talk about that brother, and he described him as the most inhumane man alive."
+
+  - sp: OLIVER
+    o:
+      - "And well he might so do,"
+      - "For well I know he was unnatural."
+    m:
+      - "And he was right. I know exactly how inhumane he was."
+
+  - sp: ROSALIND
+    o:
+      - "But to Orlando: did he leave him there,"
+      - "Food to the sucked and hungry lioness?"
+    m:
+      - "But, back to Orlando, did he leave his brother there, to be food for the hungry mother-lioness?"
+
+  - sp: OLIVER
+    o:
+      - "Twice did he turn his back and purposed so,"
+      - "But kindness, nobler ever than revenge,"
+      - "And nature, stronger than his just occasion,"
+      - "Made him give battle to the lioness,"
+      - "Who quickly fell before him; in which hurtling,"
+      - "From miserable slumber I awaked."
+    m:
+      - "He turned away twice and almost left him there. But his kindness was nobler than even his desire for revenge, his natural goodness was stronger than his need to give his brother what he deserved. He fought the lioness and quickly defeated her. I woke from my miserable sleep when I heard the noise of their struggle."
+
+  - sp: CELIA
+    o:
+      - "Are you his brother?"
+    m:
+      - "Are you his brother?"
+
+  - sp: ROSALIND
+    o:
+      - "Was ’t you he rescued?"
+    m:
+      - "Was it you that he rescued?"
+
+  - sp: CELIA
+    o:
+      - "Was ’t you that did so oft contrive to kill him?"
+    m:
+      - "Was it you that was always plotting to kill him?"
+
+  - sp: OLIVER
+    o:
+      - "’Twas I, but ’tis not I. I do not shame"
+      - "To tell you what I was, since my conversion"
+      - "So sweetly tastes, being the thing I am."
+    m:
+      - "That was me, but it’s not me— I’m not ashamed to tell you what I once was, since I’m so happy to have since converted."
+
+  - sp: ROSALIND
+    o:
+      - "But for the bloody napkin?"
+    m:
+      - "But what about the bloody handkerchief?"
+
+  - sp: OLIVER
+    o:
+      - "By and by."
+      - "When from the first to last betwixt us two"
+      - "Tears our recountments had most kindly bathed—"
+      - "As how I came into that desert place—"
+      - "In brief, he led me to the gentle duke,"
+      - "Who gave me fresh array and entertainment,"
+      - "Committing me unto my brother’s love,"
+      - "Who led me instantly unto his cave,"
+      - "There stripped himself, and here upon his arm"
+      - "The lioness had torn some flesh away,"
+      - "Which all this while had bled. And now he fainted,"
+      - "And cried in fainting upon Rosalind."
+      - "Brief, I recovered him, bound up his wound,"
+      - "And after some small space, being strong at heart,"
+      - "He sent me hither, stranger as I am,"
+      - "To tell this story, that you might excuse"
+      - "His broken promise, and to give this napkin"
+      - "Dyed in his blood unto the shepherd youth"
+      - "That he in sport doth call his Rosalind."
+    m:
+      - "I’ll get there. When we had told each other our entire stories and cried, and I’d told him how I’d ended up in in the forest—well, he brought me to the duke, who gave me fresh clothing and hospitality, and put me in my brother’s care. My brother immediately took me to his cave, where he took off his clothing and there on his arm was a wound where the lioness had attacked him, ripping off some of his flesh. The wound had been bleeding the entire time. So, now he fainted, and as he fainted, he called out, “Rosalind!” Quickly, I resuscitated him and bound up his wound. After a brief time—as he is a strong, brave man— he sent me out to find you, even though I’m a stranger to you. He wanted me to tell you this story and beg your forgiveness for his having broken his promise. He wanted me to give this handkerchief, soaked in his blood, to the boy that he jokingly calls his Rosalind."
+
+  - os: "ROSALIND swoons"
+    ms: "ROSALIND faints."
+
+  - sp: CELIA
+    o:
+      - "Why, how now, Ganymede, sweet Ganymede?"
+    m:
+      - "Oh no! Ganymede! Ganymede, sweetheart?"
+
+  - sp: OLIVER
+    o:
+      - "Many will swoon when they do look on blood."
+    m:
+      - "Many people faint when they see blood."
+
+  - sp: CELIA
+    o:
+      - "There is more in it.—Cousin Ganymede."
+    m:
+      - "There’s more to it than that.—Ganymede!"
+
+  - sp: OLIVER
+    o:
+      - "Look, he recovers."
+    m:
+      - "Look, he’s recovering."
+
+  - sp: ROSALIND
+    o:
+      - "I would I were at home."
+    m:
+      - "I want to go home."
+
+  - sp: CELIA
+    o:
+      - "We’ll lead you thither."
+      - "—I pray you, will you take him by the arm?"
+    m:
+      - "We’ll take you there. Please, will you take his arm?"
+
+  - sp: OLIVER
+    o:
+      - "Be of good cheer, youth. You a man? You lack a man’s heart."
+    m:
+      - "Buck up, boy! You’re a man? You don’t have a man’s courage."
+
+  - sp: ROSALIND
+    o:
+      - "I do so, I confess it. Ah, sirrah, a body would think this was well-counterfeited. I pray you tell your brother how well I counterfeited. Heigh-ho."
+    m:
+      - "It’s true, I confess. Oh, sir, someone would think I was a good fake. Please tell your brother what a convincing show I put on. Whoo-hoo!"
+
+  - sp: OLIVER
+    o:
+      - "This was not counterfeit. There is too great testimony in your complexion that it was a passion of earnest."
+    m:
+      - "That was no show. Your cheeks are too flushed for me to believe that was a fake faint."
+
+  - sp: ROSALIND
+    o:
+      - "Counterfeit, I assure you."
+    m:
+      - "Fake, I’m telling you."
+
+  - sp: OLIVER
+    o:
+      - "Well then, take a good heart and counterfeit to be a man."
+    m:
+      - "Well, then, be brave and pretend to be a man."
+
+  - sp: ROSALIND
+    o:
+      - "So I do. But i’ faith, I should have been a woman by right."
+    m:
+      - "That’s what I’m doing. But honestly, I should have been a woman."
+
+  - sp: CELIA
+    o:
+      - "Come, you look paler and paler. Pray you, draw homewards.—Good sir, go with us."
+    m:
+      - "Come on, you keep getting paler. Please, let’s go home. Sir, please come with us."
+
+  - sp: OLIVER
+    o:
+      - "That will I, for I must bear answer back"
+      - "How you excuse my brother, Rosalind."
+    m:
+      - "I’ll do that, because I have to tell my brother how you forgave him, Rosalind."
+
+  - sp: ROSALIND
+    o:
+      - "I shall devise something. But I pray you commend my counterfeiting to him. Will you go?"
+    m:
+      - "I’ll think of something. But please, tell him how well I faked a faint. Will you come with us?"
+
+  - os: "Exeunt"
+    ms: "They all exit."

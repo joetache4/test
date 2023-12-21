@@ -1,0 +1,486 @@
+play: Henry IV, Part I
+title: Act 3, Scene 3
+group: 3
+order: 9
+text:
+  - os: "Enter FALSTAFF and BARDOLPH"
+    ms: "FALSTAFF and BARDOLPH enter."
+
+  - sp: FALSTAFF
+    o:
+      - "Bardolph, am I not fallen away vilely since this last action? Do I not bate? Do I not dwindle? Why, my skin hangs about me like an like an old lady’s loose gown. I am withered like an old applejohn. Well, I’ll repent, and that suddenly, while I am in some liking. I shall be out of heart shortly, and then I shall have no strength to repent. An I have not forgotten what the inside of a church is made of, I am a peppercorn, a brewer’s horse. The inside of a church! Company, villanous company, hath been the spoil of me."
+    m:
+      - "Bardolph, haven’t I shrivelled since our last robbery? Haven’t I gotten thin? Aren’t I shrinking? My skin is hanging off me like a loose gown on an old lady; I’m puckered like a rotten apple. I’d better repent my sins, and fast, while there’s still something left of me. I’ll be in bad shape soon, and then I won’t have the strength to repent. If I haven’t forgotten what the inside of a church looks like, I’m a withered berry, a lame old nag. The inside of a church! The wrong crowd, the wrong crowd has ruined me."
+
+  - sp: BARDOLPH
+    o:
+      - "Sir John, you are so fretful you cannot live long."
+    m:
+      - "Sir John, you complain so much, you’re sure not to live much longer."
+
+  - sp: FALSTAFF
+    o:
+      - "Why, there is it. Come sing me a bawdy song, make me merry. I was as virtuously given as a gentleman need to be, virtuous enough: swore little; diced not above seven times— a week; went to a bawdy house once in a quarter—of an hour; paid money that I borrowed, three or four times; lived well and in good compass; and now I live out of all order, out of all compass."
+    m:
+      - "You’re absolutely right. Come on then, sing me a dirty song. Make me laugh. I lived my life as properly as a gentleman should. Well, properly enough, anyway. I didn’t swear much. I didn’t gamble—more than seven days a week. I went to a whorehouse no more than once—every fifteen minutes. I paid my debts—three or four times. I lived well and within reasonable boundaries. And now, I live poorly and out of moderation."
+
+  - sp: BARDOLPH
+    o:
+      - "Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John."
+    m:
+      - "You’re so fat, Sir John, that you have no choice but to live out of moderation: moderation could not fit you."
+
+  - sp: FALSTAFF
+    o:
+      - "Do thou amend thy face, and I’ll amend my life. Thou art our admiral, thou bearest the lantern in the poop, but ’tis in the nose of thee. Thou art the knight of the burning lamp."
+    m:
+      - "You fix your face and I’ll fix my life. You’re like the flagship of our fleet, with a light on its bow—except that your light is in your nose."
+
+  - sp: BARDOLPH
+    o:
+      - "Why, Sir John, my face does you no harm."
+    m:
+      - "Why, Sir John, my face isn’t hurting you."
+
+  - sp: FALSTAFF
+    o:
+      - "No, I’ll be sworn, I make as good use of it as many a man doth of a death’s-head or a *memento mori*. I never see thy face but I think upon hellfire and Dives that lived in purple, for there he is in his robes, burning, burning. If thou wert any way given to virtue, I would swear by thy face. My oath should be “By this fire, that’s God’s angel.” But thou art altogether given over, and wert indeed, but for the light in thy face, the son of utter darkness. When thou rannest up Gadshill in the night to catch my horse, if I did not think thou hadst been an *ignis fatuus*, or a ball of wildfire, there’s no purchase in money. O, thou art a perpetual triumph, an everlasting bonfire-light! Thou hast saved me a thousand marks in links and torches, walking with thee in the night betwixt tavern and tavern: but the sack that thou hast drunk me would have bought me lights as good cheap at the dearest chandler’s in Europe. I have maintained that salamander of yours with fire any time this two and thirty years, God reward me for it."
+    m:
+      - "No, you’re right. I actually get some good from your face: it’s like a skull, or a death token. I can’t look at your face without thinking of the flames of hell, and Dives from the Bible, who burned eternally. If there were anything pious about you, I could swear oaths on your face. I could say, “Now, by this fire, which is God’s angel …” But you’re a complete sinner, and if it weren’t for the light in your face, you’d be the son of darkness. When you ran up Gadshill at night to find my horse, I could have sworn you were a will-o-the-wisp or a fireball. You’re an endless torchlight parade, a permanent bonfire. Walking with you from tavern to tavern at night has saved me a thousand marks in candles and flashlights. But the money I’ve spent on wine for you would have been enough to buy the most expensive candles in Europe. I’ve kept that nose of yours burning for thirty-two years, God bless me."
+
+  - sp: BARDOLPH
+    o:
+      - "’Sblood, I would my face were in your belly!"
+    m:
+      - "Dammit! I wish my face were in your belly."
+
+  - sp: FALSTAFF
+    o:
+      - "Godamercy, so should I be sure to be heart-burned!"
+    m:
+      - "God have mercy! Then I’d surely have heartburn."
+
+  - os: "Enter MISTRESS QUICKLY"
+    ms: "MISTRESS QUICKLY enters."
+
+  - o:
+      - "How now, Dame Partlet the hen, have you enquired yet who picked my pocket?"
+    m:
+      - "Hello there, Madame Clucking Chicken! Have you figured out yet who picked my pocket?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Why, Sir John, what do you think, Sir John, do you think I keep thieves in my house? I have searched, I have enquired, so has my husband, man by man, boy by boy, servant by servant. The tithe of a hair was never lost in my house before."
+    m:
+      - "Now Sir John, what do you think, Sir John? Do you think I have thieves in my establishment? I’ve searched, I’ve asked questions; so has my husband. We’ve asked every man, boy and servant here. No one’s ever lost so much as a fraction of a hair in this tavern before."
+
+  - sp: FALSTAFF
+    o:
+      - "You lie, hostess. Bardolph was shaved and lost many a hair; and I’ll be sworn my pocket was picked. Go to, you are a woman, go."
+    m:
+      - "You lie! Bardolph got a shave here, and he lost a lot of hair. And I swear my pocket was picked. To hell with you, you’re a woman. To hell with you."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Who, I? No; I defy thee! God’s light, I was never called so in mine own house before."
+    m:
+      - "Who, me? No, I say. By God, I’ve never been called such a thing in my own tavern before."
+
+  - sp: FALSTAFF
+    o:
+      - "Go to, I know you well enough."
+    m:
+      - "Oh come on, I know all about you."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "No, Sir John, you do not know me, Sir John. I know you, Sir John. You owe me money, Sir John, and now you pick a quarrel to beguile me of it. I bought you a dozen of shirts to your back."
+    m:
+      - "No, Sir John; you don’t know me, Sir John. I know you, Sir John. You owe me money, Sir John, and now you’re making a fuss so that you can cheat me out of it. I have bought you a dozen shirts to wear."
+
+  - sp: FALSTAFF
+    o:
+      - "Dowlas, filthy dowlas. I have given them away to bakers’ wives; they have made bolters of them."
+    m:
+      - "Junk, cheap junk. I gave them away to bakers’ wives, to sift flour with."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Now, as I am a true woman, holland of eight shillings an ell. You owe money here besides, Sir John, for your diet and by- drinkings, and money lent you, four and twenty pound."
+    m:
+      - "I swear, as an honest woman, that they were made of expensive fabric, eight shillings an ell. Besides, you owe me money for food and drink, plus twenty-four pounds I lent you."
+
+  - sp: FALSTAFF
+    o:
+      - "*(points at BARDOLPH)* He had his part of it. Let him pay."
+    m:
+      - "*(points at BARDOLPH)* He had some of it. Let him pay."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "He? Alas, he is poor. He hath nothing."
+    m:
+      - "Him? He’s poor, he has nothing."
+
+  - sp: FALSTAFF
+    o:
+      - "How, poor? Look upon his face. What call you rich? Let them coin his nose. Let them coin his cheeks. I’ll not pay a denier. What, will you make a younker of me? Shall I not take mine case in mine inn but I shall have my pocket picked? I have lost a seal ring of my grandfather’s worth forty mark."
+    m:
+      - "What? Poor? Look at his face. What do you call rich? They could make coins from his nose, mint his cheeks. I won’t pay a denier. You think I’m a rube? What, I can’t relax at a tavern without getting my pocket picked? I lost my grandfather’s sealing ring, worth forty marks."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O Jesu, I have heard the Prince tell him, I know not how oft, that that ring was copper!"
+    m:
+      - "Jesus! I’ve heard the Prince tell him countless times that ring was only made out of copper."
+
+  - sp: FALSTAFF
+    o:
+      - "How? The Prince is a jack, a sneak-up. ’Sblood, an he were here, I would cudgel him like a dog if he would say so."
+    m:
+      - "What? The Prince is a bastard, a sneak. Dammit, if he were here and said something like that, I’d beat him like a dog."
+
+  - os: "Enter PRINCE HENRY and PETO, marching, and FALSTAFF meets them laying on his truncheon like a fife"
+    ms: "PRINCE HENRY and PETO enter, marching like soldiers. FALSTAFF joins them, pretending that his cudgel is a fife, or military flute."
+
+  - o:
+      - "How now, lad, is the wind in that door, i’ faith? Must we all march?"
+    m:
+      - "Hey there, lad! Is that what’s happening? Are we all going to march?"
+
+  - sp: BARDOLPH
+    o:
+      - "Yea, two and two, Newgate fashion."
+    m:
+      - "Yes, side by side, like prisoners to the gallows."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "My lord, I pray you, hear me."
+    m:
+      - "My lord, please, listen to me."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What sayest thou, Mistress Quickly? How doth thy husband? I love him well; he is an honest man."
+    m:
+      - "What is it, Mistress Quickly? How’s your husband? I think highly of him; he’s an honest man."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Good my lord, hear me."
+    m:
+      - "My lord, please listen to me."
+
+  - sp: FALSTAFF
+    o:
+      - "Prithee, let her alone, and list to me."
+    m:
+      - "Forget about her, and listen to me."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What say’st thou, Jack?"
+    m:
+      - "What is it, Jack?"
+
+  - sp: FALSTAFF
+    o:
+      - "The other night I fell asleep here behind the arras, and had my pocket picked. This house is turned bawdy house; they pick pockets."
+    m:
+      - "The other night I fell asleep here behind the arras and I had my pocket picked. This bar’s like a whorehouse: they pick your pockets."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What didst thou lose, Jack?"
+    m:
+      - "What did you lose, Jack?"
+
+  - sp: FALSTAFF
+    o:
+      - "Wilt thou believe me, Hal, three or four bonds of forty pound apiece, and a seal ring of my grandfather’s."
+    m:
+      - "Would you believe it, Hal? Three or four I.O.U.’s worth forty pounds each, and my grandfather’s sealing ring."
+
+  - sp: PRINCE HENRY
+    o:
+      - "A trifle, some eightpenny matter."
+    m:
+      - "Junk, not worth more than eight pennies."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "So I told him, my lord, and I said I heard your Grace say so. And, my lord, he speaks most vilely of you, like a foul- mouthed man as he is;,and said he would cudgel you."
+    m:
+      - "That’s what I said, my lord. And I said I’d heard you say so, and then he said awful things about you, like the foul-mouthed man that he is. He said he’d beat you."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, he did not!"
+    m:
+      - "What? He did?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "There’s neither faith, truth, nor womanhood in me else."
+    m:
+      - "If he didn’t, I’m not faithful, trustworthy or womanly."
+
+  - sp: FALSTAFF
+    o:
+      - "There’s no more faith in thee than in a stewed prune, nor no more truth in thee than in a drawn fox, and for womanhood, Maid Marian may be the deputy’s wife of the ward to thee. Go, you thing, go."
+    m:
+      - "You’re about as faithful as a whore, as trustworthy as a fox on the run, and—as for womanhood—a man in a dress is the minister’s wife compared to you. Get out of here, you thing, get out."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Say, what thing, what thing?"
+    m:
+      - "Thing? What thing?"
+
+  - sp: FALSTAFF
+    o:
+      - "What thing! Why, a thing to thank God on."
+    m:
+      - "What thing? A thing to say “thank God” for."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "I am no thing to thank God on, I would thou shouldst know it! I am an honest man’s wife, and, setting thy knighthood aside, thou art a knave to call me so."
+    m:
+      - "I am not a thing to say “thank God” for, I want you to know; I am an honest man’s wife. And ignoring the fact that you are a knight, you are a brute for calling me that."
+
+  - sp: FALSTAFF
+    o:
+      - "Setting thy womanhood aside, thou art a beast to say otherwise."
+    m:
+      - "Well, if you ignore the fact that you’re a woman, then I suppose that would make you an animal."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Say, what beast, thou knave, thou?"
+    m:
+      - "What animal, you brute?"
+
+  - sp: FALSTAFF
+    o:
+      - "What beast? Why, an otter."
+    m:
+      - "What animal? Why, an otter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "An otter, Sir John. Why an otter?"
+    m:
+      - "An otter, Sir John? Why an otter?"
+
+  - sp: FALSTAFF
+    o:
+      - "Why, she’s neither fish nor flesh; a man knows not where to have her."
+    m:
+      - "Because she’s not quite a fish and not quite a mammal. A man wouldn’t know where to put her."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Thou art an unjust man in saying so. Thou or any man knows where to have me, thou knave, thou."
+    m:
+      - "You’re awful for saying so: you or any man would know where to put me, you brute, you!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Thou sayest true, hostess, and he slanders thee most grossly."
+    m:
+      - "You’re right, hostess, and he has really insulted you."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "So he doth you, my lord, and said this other day you owed him a thousand pound."
+    m:
+      - "He insulted you, too, my lord. Just the other day, he said you owed him a thousand pounds."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Sirrah, do I owe you a thousand pound?"
+    m:
+      - "Sirrah, do I owe you a thousand pounds?"
+
+  - sp: FALSTAFF
+    o:
+      - "A thousand pound, Hal? A million. Thy love is worth a million; thou owest me thy love."
+    m:
+      - "A thousand pounds, Hal? A million. Your love is worth a million, and you owe me your love."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Nay, my lord, he called you “jack,” and said he would cudgel you."
+    m:
+      - "No, sir. He called you a bastard and said he’d beat you."
+
+  - sp: FALSTAFF
+    o:
+      - "Did I, Bardolph?"
+    m:
+      - "Did I, Bardolph?"
+
+  - sp: BARDOLPH
+    o:
+      - "Indeed, Sir John, you said so."
+    m:
+      - "Indeed, Sir John, you said so."
+
+  - sp: FALSTAFF
+    o:
+      - "Yea, if he said my ring was copper."
+    m:
+      - "That’s right, if he said my ring was junk and made of copper."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I say ’tis copper. Darest thou be as good as thy word now?"
+    m:
+      - "And I do say that it’s made of copper. So will you dare keep your word and beat me?"
+
+  - sp: FALSTAFF
+    o:
+      - "Why, Hal, thou knowest, as thou art but man, I dare, but as thou art Prince, I fear thee as I fear the roaring of a lion’s whelp."
+    m:
+      - "Hal, know this: if you were only a man, I would dare. But since you’re also a Prince, I’m scared of you, as much as I’m scared by the roar of a lion’s cub."
+
+  - sp: PRINCE HENRY
+    o:
+      - "And why not as the lion?"
+    m:
+      - "Why the cub and not the lion?"
+
+  - sp: FALSTAFF
+    o:
+      - "The King is to be feared as the lion. Dost thou think I’ll fear thee as I fear thy father? Nay, an I do, I pray God my girdle break."
+    m:
+      - "Only the King is as frightening as the lion. You think I’m as scared of you as I am of your father? If I am, I pray to God for my belt to break."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O, if it should, how would thy guts fall about thy knees! But, sirrah, there’s no room for faith, truth, nor honesty in this bosom of thine. It is all filled up with guts and midriff. Charge an honest woman with picking thy pocket? Why, thou whoreson, impudent, embossed rascal, if there were anything in thy pocket but tavern reckonings, memorandums of bawdy houses, and one poor pennyworth, of sugar candy to make thee long-winded, if thy pocket were enriched with any other injuries but these, I am a villain. And, yet you will stand to it! You will not pocket up wrong! Art thou not ashamed?"
+    m:
+      - "Oh, but if it did, your guts would fall down to your knees! Sirrah, there’s no room in your chest for trustworthiness, truthfulness, or honesty. It’s all filled up with guts and stomach. Accuse an honest woman of picking your pocket? You son of a whore; you rude, bloated cheat. I’ll be damned if there was anything in your pocket besides tavern bills, notes about whorehouses, and a penny’s worth of candy for energy. If you had anything else in your pockets, then I’m a liar; yet you stand by your lies. You won’t even try to hide how bad you are. Aren’t you ashamed of yourself?"
+
+  - sp: FALSTAFF
+    o:
+      - "Dost thou hear, Hal? Thou knowest in the state of innocency Adam fell, and what should poor Jack Falstaff do in the days of villany? Thou seest I have more flesh than another man and therefore more frailty. You confess, then, you picked my pocket?"
+    m:
+      - "Don’t you know, Hal? Adam fell from grace when the world was innocent. What should poor Jack Falstaff do, now that the world is wicked? You see I have more flesh than other men. It follows that I’m more fallible than other men.—So you’re confessing to picking my pocket?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "It appears so by the story."
+    m:
+      - "It looks that way."
+
+  - sp: FALSTAFF
+    o:
+      - "Hostess, I forgive thee. Go make ready breakfast, love thy, husband, look to thy servants, cherish thy guests. Thou shalt find me tractable to any honest reason. Thou seest I am pacified still. Nay, prithee, be gone."
+    m:
+      - "Hostess, I forgive you. Go get breakfast ready; love your husband; tend to your servants; cherish your guests. You’ll find me a perfectly reasonable man. See? I’m calm, as always. Now please, get going!"
+
+  - os: "Exit MISTRESS QUICKLY"
+    ms: "MISTRESS QUICKLY exits."
+
+  - o:
+      - "Now, Hal, to the news at court. For the robbery, lad, how is that answered?"
+    m:
+      - "Now Hal, what’s the news at court? What ever happened about our robbery?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "O, my sweet beef, I must still be good angel to thee. The money is paid back again."
+    m:
+      - "I’m your guardian angel again, you fresh piece of meat. The money’s been paid back."
+
+  - sp: FALSTAFF
+    o:
+      - "O, I do not like that paying back. ’Tis a double labor."
+    m:
+      - "I don’t like that “paying back.” It means twice the work!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "I am good friends with my father and may do anything."
+    m:
+      - "My father and I are friends again, and I can do whatever I want."
+
+  - sp: FALSTAFF
+    o:
+      - "Rob me the Exchequer the first thing thou dost, and do it with unwashed hands too."
+    m:
+      - "Then rob the treasury right away, and don’t even delay long enough to wash your hands."
+
+  - sp: BARDOLPH
+    o:
+      - "Do, my lord."
+    m:
+      - "Do it, my lord."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I have procured thee, Jack, a charge of foot."
+    m:
+      - "I have gotten you an infantry company to command, Jack."
+
+  - sp: FALSTAFF
+    o:
+      - "I would it had been of horse. Where shall I find one that can steal well? O, for a fine thief of the age of two and twenty or thereabouts! I am heinously unprovided. Well, God be thanked for these rebels. They offend none but the virtuous. I laud them; I praise them."
+    m:
+      - "I wish it were the horse brigade. Where can I recruit a talented crook? Oh, if I only had a gifted thief, about twenty-two years old! I’m terribly lacking in help. Well, thank God for these rebels. The only people they bother are the good people. I like that. I honor and salute them."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Bardolph!"
+    m:
+      - "Bardolph!"
+
+  - sp: BARDOLPH
+    o:
+      - "My lord."
+    m:
+      - "My lord?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Go bear this letter to Lord John of Lancaster,"
+      - "To my brother John; this to my Lord of Westmoreland."
+    m:
+      - "Deliver this letter to Lord John of Lancaster, my brother. Give this one to Westmoreland."
+
+  - os: "Exit BARDOLPH"
+    ms: "BARDOLPH exits."
+
+  - o:
+      - "Go, Peto, to horse, to horse, for thou and I have thirty miles to ride yet ere dinner time."
+    m:
+      - "Peto, get to your horse, get to your horse! You and I have to be thirty miles from here by lunchtime."
+
+  - os: "Exit PETO"
+    ms: "PETO exits."
+
+  - o:
+      - "Jack, meet me tomorrow in the Temple hall"
+      - "At two o’clock in the afternoon;"
+      - "There shalt thou know thy charge, and there receive"
+      - "Money and order for their furniture."
+      - "The land is burning. Percy stands on high,"
+      - "And either we or they must lower lie."
+    m:
+      - "Jack, meet me at Temple Hall at two o’clock tomorrow. You’ll get the list of your troops there, plus some money and an order for their equipment. The country is on fire, and Percy’s riding high. Either they or we must die."
+
+  - os: "Exit PRINCE HENRY"
+    ms: "PRINCE HENRY exits."
+
+  - sp: FALSTAFF
+    o:
+      - "Rare words, brave world!—Hostess, my breakfast, come.—"
+      - "O, I could wish this tavern were my drum."
+    m:
+      - "Well spoken! What a splendid world! Bring my breakfast, hostess! I wish that I could lead my troops from here!"
+
+  - os: "Exit"
+    ms: "He exits."

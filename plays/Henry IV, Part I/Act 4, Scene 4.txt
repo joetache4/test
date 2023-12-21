@@ -1,0 +1,96 @@
+play: Henry IV, Part I
+title: Act 4, Scene 4
+group: 4
+order: 13
+text:
+  - os: "Enter the ARCHBISHOP of York and SIR MICHAEL"
+    ms: "The ARCHBISHOP of York and SIR MICHAEL enter."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Hie, good Sir Michael, bear this sealèd brief"
+      - "With winged haste to the Lord Marshal,"
+      - "This to my cousin Scroop, and all the rest"
+      - "To whom they are directed. If you knew"
+      - "How much they do import, you would make haste."
+    m:
+      - "Hurry, Sir Michael, bring this sealed letter as fast as you can to the Lord Marshal. Bring this one to Scroop, and all the rest to whom they are addressed. If you knew how important they were, you would hurry."
+
+  - sp: SIR MICHAEL
+    o:
+      - "My good lord, I guess their tenor."
+    m:
+      - "My good lord, I can guess what they say."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Like enough you do."
+      - "Tomorrow, good Sir Michael, is a day"
+      - "Wherein the fortune of ten thousand men"
+      - "Must bide the touch. For, sir, at Shrewsbury,"
+      - "As I am truly given to understand,"
+      - "The King with mighty and quick-raisèd power"
+      - "Meets with Lord Harry. And I fear, Sir Michael,"
+      - "What with the sickness of Northumberland,"
+      - "Whose power was in the first proportion,"
+      - "And what with Owen Glendower’s absence thence,"
+      - "Who with them was a rated sinew too"
+      - "And comes not in, o’er-ruled by prophecies,"
+      - "I fear the power of Percy is too weak"
+      - "To wage an instant trial with the King."
+    m:
+      - "I’m sure you can. Tomorrow, Sir Michael, ten thousand men will try their luck. I’m told that at Shrewsbury, the King—with a huge and quickly assembled army—will fight Harry Percy. I’m afraid, Michael, that without Northumberland, whose army was the largest of all, and without Owen Glendower, who was also being counted on but is absent because his horoscope told him to stay away, I’m afraid that Percy’s army will be too weak to fight the King right now."
+
+  - sp: SIR MICHAEL
+    o:
+      - "Why, my good lord, you need not fear."
+      - "There is Douglas and Lord Mortimer."
+    m:
+      - "Don’t worry, sir. Douglas and Mortimer are there."
+
+  - sp: ARCHBISHOP
+    o:
+      - "No, Mortimer is not there."
+    m:
+      - "No, Mortimer isn’t there."
+
+  - sp: SIR MICHAEL
+    o:
+      - "But there is Mordake, Vernon, Lord Harry Percy,"
+      - "And there is my Lord of Worcester and a head"
+      - "Of gallant warriors, noble gentlemen."
+    m:
+      - "But Mordake is there, and Vernon, and Harry Percy, and Worcester and a slew of brave warriors and excellent men."
+
+  - sp: ARCHBISHOP
+    o:
+      - "And so there is. But yet the King hath drawn"
+      - "The special head of all the land together:"
+      - "The Prince of Wales, Lord John of Lancaster,"
+      - "The noble Westmoreland, and warlike Blunt,"
+      - "And many more corrivals and dear men"
+      - "Of estimation and command in arms."
+    m:
+      - "That’s correct. But the King has pulled together the best men in the country: the Prince of Wales, Lord John of Lancaster, the noble Westmoreland, warlike Blunt, and many other acquaintances and valuable men of good reputation, with great skill in battle."
+
+  - sp: SIR MICHAEL
+    o:
+      - "Doubt not, my lord, they shall be well opposed."
+    m:
+      - "No doubt they will face great opposition."
+
+  - sp: ARCHBISHOP
+    o:
+      - "I hope no less, yet needful ’tis to fear;"
+      - "And to prevent the worst, Sir Michael, speed."
+      - "For if Lord Percy thrive not, ere the King"
+      - "Dismiss his power, he means to visit us,"
+      - "For he hath heard of our confederacy,"
+      - "And ’tis but wisdom to make strong against him:"
+      - "Therefore make haste. I must go write again"
+      - "To other friends. And so farewell, Sir Michael."
+    m:
+      - "I hope so, but still I’m afraid. Now hurry, Sir Michael, to prevent an absolute disaster. For if Percy doesn’t prevail, the King will come after us before he disbands his army. He’s heard that we’re part of the rebellion, so we’d be wise to prepare against him. Now hurry. I have to go write to more friends. Farewell, Sir Michael."
+
+  - os: "Exeunt"
+    ms: "They exit."

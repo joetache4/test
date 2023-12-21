@@ -1,0 +1,161 @@
+play: Julius Caesar
+title: Act 2, Scene 4
+group: 2
+order: 6
+text:
+  - os: "Enter PORTIA and LUCIUS"
+    ms: "PORTIA and LUCIUS enter."
+
+  - sp: PORTIA
+    o:
+      - "I prithee, boy, run to the senate house."
+      - "Stay not to answer me, but get thee gone."
+      - "Why dost thou stay?"
+    m:
+      - "Boy, I beg you to run to the senate house. Don’t stay to answer me—get going. Why are you still standing there?"
+
+  - sp: LUCIUS
+    o:
+      - "    To know my errand, madam."
+    m:
+      - "To find out what you want me to do there, madam."
+
+  - sp: PORTIA
+    o:
+      - "I would have had thee there and here again"
+      - "Ere I can tell thee what thou shouldst do there."
+      - "—O constancy, be strong upon my side,"
+      - "Set a huge mountain ’tween my heart and tongue!"
+      - "I have a man’s mind but a woman’s might."
+      - "How hard it is for women to keep counsel!"
+      - "—Art thou here yet?"
+    m:
+      - "I want you there and back again before I can even tell you what you should do there. *(to herself, so that no one can hear her)* Oh, let my determination keep me from speaking what is in my heart! I have a man’s mind, but only a woman’s strength. How hard it is for women to keep secrets! *(to LUCIUS)* Are you still here?"
+
+  - sp: LUCIUS
+    o:
+      - "    Madam, what should I do?"
+      - "Run to the Capitol, and nothing else?"
+      - "And so return to you, and nothing else?"
+    m:
+      - "Madam, what should I do? Run to the Capitol and nothing else? And then return to you and nothing else?"
+
+  - sp: PORTIA
+    o:
+      - "Yes, bring me word, boy, if thy lord look well,"
+      - "For he went sickly forth. And take good note"
+      - "What Caesar doth, what suitors press to him."
+      - "Hark, boy! What noise is that?"
+    m:
+      - "Yes, return and tell me if your master looks well, because he was sick when he left. And pay attention to what Caesar does and which men are close to him. Listen, boy! What’s that noise?"
+
+  - sp: LUCIUS
+    o:
+      - "I hear none, madam."
+    m:
+      - "I don’t hear anything, madam."
+
+  - sp: PORTIA
+    o:
+      - "Prithee, listen well."
+      - "I heard a bustling rumor like a fray,"
+      - "And the wind brings it from the Capitol."
+    m:
+      - "I beg you, listen well. I heard a noise like a scuffle. The wind brings it from the Capitol."
+
+  - sp: LUCIUS
+    o:
+      - "Sooth, madam, I hear nothing."
+    m:
+      - "Truly, madam, I don’t hear anything."
+
+  - os: "Enter the SOOTHSAYER"
+    ms: "The SOOTHSAYER enters."
+
+  - sp: PORTIA
+    o:
+      - "Come hither, fellow. Which way hast thou been?"
+    m:
+      - "Come here, you. Where are you coming from?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "At mine own house, good lady."
+    m:
+      - "My own house, good lady."
+
+  - sp: PORTIA
+    o:
+      - "What is ’t o’clock?"
+    m:
+      - "What time is it?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "About the ninth hour, lady."
+    m:
+      - "Around nine o’clock, madam."
+
+  - sp: PORTIA
+    o:
+      - "Is Caesar yet gone to the Capitol?"
+    m:
+      - "Has Caesar gone to the Capital yet?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "Madam, not yet. I go to take my stand"
+      - "To see him pass on to the Capitol."
+    m:
+      - "Madam, not yet. I’m going to stand so I can see him pass on the way to the Capitol."
+
+  - sp: PORTIA
+    o:
+      - "Thou hast some suit to Caesar, hast thou not?"
+    m:
+      - "You have some plea for Caesar, don’t you?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "That I have, lady. If it will please Caesar"
+      - "To be so good to Caesar as to hear me,"
+      - "I shall beseech him to befriend himself."
+    m:
+      - "Yes, I do, lady. If it pleases Caesar to be so good to himself as to hear me, I’ll try to get him to do what’s good for him."
+
+  - sp: PORTIA
+    o:
+      - "Why, know’st thou any harm’s intended towards him?"
+    m:
+      - "Why, do you know of any harm intended toward him?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "None that I know will be; much that I fear may chance."
+      - "Good morrow to you. Here the street is narrow."
+      - "The throng that follows Caesar at the heels,"
+      - "Of senators, of praetors, common suitors,"
+      - "Will crowd a feeble man almost to death."
+      - "I’ll get me to a place more void, and there"
+      - "Speak to great Caesar as he comes along."
+    m:
+      - "Nothing that I know for sure, but a lot that I’m afraid might happen. Good morning to you. The street is narrow here. The crowd that follows Caesar at his heels—senators, justices, common petitioners—will suffocate a feeble man almost to death. I’ll move to a more open place and there speak to great Caesar as he walks past."
+
+  - os: "Exit SOOTHSAYER"
+    ms: "He exits."
+
+  - sp: PORTIA
+    o:
+      - "I must go in. *(aside)* Ay me, how weak a thing"
+      - "The heart of woman is! O Brutus,"
+      - "The heavens speed thee in thine enterprise!"
+      - "Sure, the boy heard me. *(to LUCIUS)* Brutus hath a suit"
+      - "That Caesar will not grant.—Oh, I grow faint.—"
+      - "Run, Lucius, and commend me to my lord."
+      - "Say I am merry. Come to me again,"
+      - "And bring me word what he doth say to thee."
+    m:
+      - "I must go in. *(speaking quietly to herself)* Oh, a woman’s heart is so weak! Oh Brutus, may the gods aid you in your endeavor! Surely, the boy heard me. *(toLUCIUS)* Brutus has a claim that Caesar won’t grant. Oh, I feel faint. Run, Lucius, and speak well of me to my lord. Say that I’m happy. Then return to me and tell me what he says to you."
+
+  - os: "Exeunt severally"
+    ms: "They exit in opposite directions."

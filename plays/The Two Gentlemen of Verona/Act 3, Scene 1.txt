@@ -1,0 +1,1051 @@
+play: Two Gentlemen of Verona
+title: Act 3, Scene 1
+group: 3
+order: 10
+text:
+  - os: "Enter DUKE, THURIO, and PROTEUS"
+    ms: "DUKE, THURIO, and PROTEUS enter."
+
+  - sp: DUKE
+    o:
+      - "Sir Thurio, give us leave, I pray, awhile."
+      - "We have some secrets to confer about."
+    m:
+      - "Sir Thurio, leave us alone a while, please. We have some private matters to discuss."
+
+  - os: "Exit THURIO"
+    ms: "THURIO exits."
+
+  - o:
+      - "Now tell me, Proteus, what’s your will with me?"
+    m:
+      - "Now tell me, Proteus, why did you want to see me?"
+
+  - sp: PROTEUS
+    o:
+      - "My gracious lord, that which I would discover"
+      - "The law of friendship bids me to conceal;"
+      - "But when I call to mind your gracious favors"
+      - "Done to me, undeserving as I am,"
+      - "My duty pricks me on to utter that"
+      - "Which else no worldly good should draw from me."
+      - "Know, worthy prince, Sir Valentine, my friend,"
+      - "This night intends to steal away your daughter."
+      - "Myself am one made privy to the plot."
+      - "I know you have determined to bestow her"
+      - "On Thurio, whom your gentle daughter hates;"
+      - "And should she thus be stolen away from you,"
+      - "It would be much vexation to your age."
+      - "Thus, for my duty’s sake, I rather chose"
+      - "To cross my friend in his intended drift"
+      - "Than, by concealing it, heap on your head"
+      - "A pack of sorrows which would press you down,"
+      - "Being unprevented, to your timeless grave."
+    m:
+      - "My gracious lord, the rules of friendship require that I keep secret what I’m about to reveal to you. But when I think of all you’ve graciously done for me, undeserving as I am, my duty urges me to divulge what nothing else in the world could pull out of me. You should know, your highness, that Sir Valentine, my friend, intends to run away with your daughter tonight. I was informed of the plot. I know you’ve decided to marry her to Thurio, whom your lovely daughter hates. And should she be taken away from you this way, it would greatly upset you in your old age. So, for the sake of my duty, I chose to go against my friend and his intended scheme rather than hide it and burden your mind with a pack of sorrows that would weigh you down and send you to an early grave."
+
+  - sp: DUKE
+    o:
+      - "Proteus, I thank thee for thine honest care,"
+      - "Which to requite, command me while I live."
+      - "This love of theirs myself have often seen,"
+      - "Haply when they have judged me fast asleep,"
+      - "And oftentimes have purposed to forbid"
+      - "Sir Valentine her company and my court."
+      - "But, fearing lest my jealous aim might err,"
+      - "And so, unworthily, disgrace the man—"
+      - "A rashness that I ever yet have shunned—"
+      - "I gave him gentle looks, thereby to find"
+      - "That which thyself hast now disclosed to me."
+      - "And, that thou mayst perceive my fear of this,"
+      - "Knowing that tender youth is soon suggested,"
+      - "I nightly lodge her in an upper tower,"
+      - "The key whereof myself have ever kept;"
+      - "And thence she cannot be conveyed away."
+    m:
+      - "Proteus, I thank you for your honest concern. In return, ask anything you want of me while I still live. I’ve often happened to see this love of theirs for myself, when they’ve thought me asleep, and frequently I’ve considered forbidding Sir Valentine from seeing her or attending my court. But I’ve been afraid my jealousy might be misplaced, and as a result I might needlessly disgrace him—I’ve always disdained foolish impulsiveness. So I treated him kindly, only to learn of this deceitful plot you’ve just revealed. And, so you know how much I fear this, I make her sleep in one of the upper towers of the castle every night, because I know how impressionable youth can be led astray. I always keep the key myself, so that she cannot be taken away."
+
+  - sp: PROTEUS
+    o:
+      - "Know, noble lord, they have devised a means"
+      - "How he her chamber window will ascend"
+      - "And with a corded ladder fetch her down;"
+      - "For which the youthful lover now is gone,"
+      - "And this way comes he with it presently,"
+      - "Where, if it please you, you may intercept him."
+      - "But, good my lord, do it so cunningly"
+      - "That my discovery be not aimèd at;"
+      - "For, love of you, not hate unto my friend,"
+      - "Hath made me publisher of this pretence."
+    m:
+      - "You should know, my noble lord, they have devised a way for him to climb up to her bedroom window and bring her down using a rope ladder. That’s why this young lover has gone away, but he’s coming back with it soon, allowing you to intercept him, if you like. But, my good lord, be cunning about it, so that he won’t know I told you. It was because of my love for you, not hatred for my friend, that I told you of this plot."
+
+  - sp: DUKE
+    o:
+      - "Upon mine honor, he shall never know"
+      - "That I had any light from thee of this."
+    m:
+      - "I swear on my honor he will never know I learned this information from you."
+
+  - sp: PROTEUS
+    o:
+      - "Adieu, my lord. Sir Valentine is coming."
+    m:
+      - "Goodbye, my lord. Sir Valentine is coming."
+
+  - os: "Exit PROTEUS"
+    ms: "PROTEUS exits."
+
+  - os: "Enter VALENTINE hurrying elsewhere, concealing a rope ladder beneath his cloak"
+    ms: "VALENTINE enters, hurrying to go somewhere and concealing a rope beneath his cloak."
+
+  - sp: DUKE
+    o:
+      - "Sir Valentine, whither away so fast?"
+    m:
+      - "Sir Valentine, what’s the rush?"
+
+  - sp: VALENTINE
+    o:
+      - "Please it your Grace, there is a messenger"
+      - "That stays to bear my letters to my friends,"
+      - "And I am going to deliver them."
+    m:
+      - "If you please, Your Grace, there is a messenger that waits to take my letters to my friends, and I am on my way to deliver them."
+
+  - sp: DUKE
+    o:
+      - "Be they of much import?"
+    m:
+      - "Are they very important?"
+
+  - sp: VALENTINE
+    o:
+      - "The tenor of them doth but signify"
+      - "My health and happy being at your court."
+    m:
+      - "In essence they describe how healthy and happy I am here in your kingdom."
+
+  - sp: DUKE
+    o:
+      - "Nay then, no matter. Stay with me awhile."
+      - "I am to break with thee of some affairs"
+      - "That touch me near, wherein thou must be secret."
+      - "’Tis not unknown to thee that I have sought"
+      - "To match my friend Sir Thurio to my daughter."
+    m:
+      - "No, then, they don’t matter. Stay with me a while. I want to tell you about some affairs that affect me personally, which you must keep secret. You’re surely aware that I have sought to match my friend Sir Thurio with my daughter."
+
+  - sp: VALENTINE
+    o:
+      - "I know it well, my lord, and sure the match"
+      - "Were rich and honorable. Besides, the gentleman"
+      - "Is full of virtue, bounty, worth, and qualities"
+      - "Beseeming such a wife as your fair daughter."
+      - "Cannot your Grace win her to fancy him?"
+    m:
+      - "I know that very well, my lord, and surely the match would be profitable and honorable. Besides, the gentleman is full of virtue, wealth, worth, and qualities fit for a wife such as your beautiful daughter. Can Your Grace not get her to want him for a husband?"
+
+  - sp: DUKE
+    o:
+      - "No, trust me. She is peevish, sullen, froward,"
+      - "Proud, disobedient, stubborn, lacking duty,"
+      - "Neither regarding that she is my child"
+      - "Nor fearing me as if I were her father."
+      - "And, may I say to thee, this pride of hers,"
+      - "Upon advice, hath drawn my love from her;"
+      - "And, where I thought the remnant of mine age"
+      - "Should have been cherished by her childlike duty,"
+      - "I now am full resolved to take a wife,"
+      - "And turn her out to who will take her in."
+      - "Then let her beauty be her wedding dower,"
+      - "For me and my possessions she esteems not."
+    m:
+      - "No, trust me. She is irritable, sullen, difficult, proud, disobedient, stubborn, irresponsible, and neither does she care that she must obey me as my child nor does she fear me as her father. And, may I tell you, after thinking about it, this pride of hers has made me love her less. I once thought she would fulfill her duty and take care of me in my old age, but now I’ve resolved to find a new wife and marry my daughter off to whomever will take her. Her beauty will be her dowry, because she doesn’t value me or my possessions."
+
+  - sp: VALENTINE
+    o:
+      - "What would your Grace have me to do in this?"
+    m:
+      - "What part would Your Grace like me to play in this?"
+
+  - sp: DUKE
+    o:
+      - "There is a lady in Verona here"
+      - "Whom I affect, but she is nice and coy,"
+      - "And naught esteems my agèd eloquence."
+      - "Now therefore would I have thee to my tutor—"
+      - "For long agone I have forgot to court;"
+      - "Besides, the fashion of the time is changed—"
+      - "How and which way I may bestow myself"
+      - "To be regarded in her sun-bright eye."
+    m:
+      - "There is a lady here in Verona whom I love, but she is hard to please and coy and doesn’t appreciate my old-fashioned eloquence. I’d like you to teach me how to win her over, since I long ago forgot how to court a woman, and besides, times have changed. How should I act in order for her bright eyes to take notice of me?"
+
+  - sp: VALENTINE
+    o:
+      - "Win her with gifts, if she respect not words."
+      - "Dumb jewels often in their silent kind"
+      - "More than quick words do move a woman’s mind."
+    m:
+      - "Win her with gifts if she doesn’t pay attention to words. Jewels, which can’t speak, often sway a woman’s mind more than fast-talking."
+
+  - sp: DUKE
+    o:
+      - "But she did scorn a present that I sent her."
+    m:
+      - "But she already sneered at one present I sent her."
+
+  - sp: VALENTINE
+    o:
+      - "A woman sometime scorns what best contents her."
+      - "Send her another. Never give her o’er,"
+      - "For scorn at first makes after-love the more."
+      - "If she do frown, ’tis not in hate of you,"
+      - "But rather to beget more love in you."
+      - "If she do chide, ’tis not to have you gone,"
+      - "Forwhy the fools are mad if left alone."
+      - "Take no repulse, whatever she doth say;"
+      - "For “Get you gone,” she doth not mean “Away!’”"
+      - "Flatter and praise, commend, extol their graces;"
+      - "Though ne’er so black, say they have angels’ faces."
+      - "That man that hath a tongue, I say, is no man"
+      - "If with his tongue he cannot win a woman."
+    m:
+      - "A woman will sometimes scorn the very thing that pleases her most. Send her another gift. Never give up, because her initial disdain will make her eventual feelings of love even stronger. If she frowns, it’s not out of hatred for you but rather to make you love her even more. If she chides you, it’s not so that you’ll go away, because the fools will go crazy if they’re left alone. Don’t be offended, whatever she says. By “Get out of here,” she doesn’t really mean, “Go away!” Flatter and praise women, compliment them, talk about their graces. Even if they have the blackest skin, say they have the faces of angels. In my opinion, any man that has a tongue isn’t really a man unless he can use it to win a woman."
+
+  - sp: DUKE
+    o:
+      - "But she I mean is promised by her friends"
+      - "Unto a youthful gentleman of worth,"
+      - "And kept severely from resort of men,"
+      - "That no man hath access by day to her."
+    m:
+      - "But the family of the woman I’m talking about has promised her to a young, worthy gentleman, and they’ve strictly kept her away from other men so that no man can meet with her during the day."
+
+  - sp: VALENTINE
+    o:
+      - "Why then I would resort to her by night."
+    m:
+      - "Why, then I would see her at night."
+
+  - sp: DUKE
+    o:
+      - "Ay, but the doors be locked and keys kept safe,"
+      - "That no man hath recourse to her by night."
+    m:
+      - "Yes, but the doors are locked and the keys tightly guarded so that no man has access to her at night."
+
+  - sp: VALENTINE
+    o:
+      - "What lets but one may enter at her window?"
+    m:
+      - "What’s stopping anyone from entering her room through the window?"
+
+  - sp: DUKE
+    o:
+      - "Her chamber is aloft, far from the ground,"
+      - "And built so shelving that one cannot climb it"
+      - "Without apparent hazard of his life."
+    m:
+      - "Her room is high up, far from the ground, and it projects out like a shelf so that one cannot climb it without risking his life."
+
+  - sp: VALENTINE
+    o:
+      - "Why then, a ladder quaintly made of cords"
+      - "To cast up, with a pair of anchoring hooks,"
+      - "Would serve to scale another Hero’s tower,"
+      - "So bold Leander would adventure it."
+    m:
+      - "Why then, a skillfully made ladder of rope to toss up, with a pair of grappling hooks to anchor it, would work to scale this new Hero’s tower, allowing another daring Leander to climb it."
+
+  - sp: DUKE
+    o:
+      - "Now, as thou art a gentleman of blood,"
+      - "Advise me where I may have such a ladder."
+    m:
+      - "Now, from one nobleman by birth to another, tell me where I can get such a ladder."
+
+  - sp: VALENTINE
+    o:
+      - "When would you use it? Pray, sir, tell me that."
+    m:
+      - "When would you need to use it? Please, sir, tell me that."
+
+  - sp: DUKE
+    o:
+      - "This very night; for Love is like a child,"
+      - "That longs for everything that he can come by."
+    m:
+      - "Tonight, because Love is like a child that wants everything he sees."
+
+  - sp: VALENTINE
+    o:
+      - "By seven o’clock I’ll get you such a ladder."
+    m:
+      - "I’ll get you such a ladder by seven o’clock."
+
+  - sp: DUKE
+    o:
+      - "But, hark thee, I will go to her alone;"
+      - "How shall I best convey the ladder thither?"
+    m:
+      - "But listen, I will go see her alone. What’s the best way to carry the ladder there?"
+
+  - sp: VALENTINE
+    o:
+      - "It will be light, my lord, that you may bear it"
+      - "Under a cloak that is of any length."
+    m:
+      - "It will be so light, my lord, that you’ll be able to carry it under any size cloak."
+
+  - sp: DUKE
+    o:
+      - "A cloak as long as thine will serve the turn?"
+    m:
+      - "A cloak as long as yours will do?"
+
+  - sp: VALENTINE
+    o:
+      - "Ay, my good lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: DUKE
+    o:
+      - "Then let me see thy cloak."
+      - "I’ll get me one of such another length."
+    m:
+      - "Then let me see your cloak. I’ll get one of that same length."
+
+  - sp: VALENTINE
+    o:
+      - "Why, any cloak will serve the turn, my lord."
+    m:
+      - "Why, any cloak will work just fine, my lord."
+
+  - sp: DUKE
+    o:
+      - "How shall I fashion me to wear a cloak?"
+      - "I pray thee, let me feel thy cloak upon me."
+    m:
+      - "How will I get used to wearing a cloak? Please, let me try on your cloak."
+
+  - os: "He pulls open VALENTINE’s cloak."
+    ms: "He pulls open Valentine’s cloak."
+
+  - o:
+      - "What letter is this same? What’s here? “To Sylvia”!"
+      - "And here an engine fit for my proceeding."
+      - "I’ll be so bold to break the seal for once."
+    m:
+      - "What’s this letter? What does it say? “To Sylvia”! And a tool for climbing like the kind you suggested. I’ll be so bold as to break the seal."
+
+  - os: "Reads"
+    ms: "He reads."
+
+  - o:
+      - "“My thoughts do harbor with my Sylvia nightly,"
+      - "And slaves they are to me, that send them flying."
+      - "O, could their master come and go as lightly,"
+      - "Himself would lodge where, senseless, they are lying!"
+      - "My herald thoughts in thy pure bosom rest them,"
+      - "While I, their king, that thither them importune,"
+      - "Do curse the grace that with such grace hath blest them,"
+      - "Because myself do want my servants’ fortune."
+      - "I curse myself, for they are sent by me,"
+      - "That they should harbor where their lord should be.”"
+      - "What’s here?"
+      - "“Sylvia, this night I will enfranchise thee.”"
+      - "’Tis so; and here’s the ladder for the purpose."
+      - "Why, Phaëthon, for thou art Merops’ son"
+      - "Wilt thou aspire to guide the heavenly car"
+      - "And with thy daring folly burn the world?"
+      - "Wilt thou reach stars because they shine on thee?"
+      - "Go, base intruder, overweening slave!"
+      - "Bestow thy fawning smiles on equal mates,"
+      - "And think my patience, more than thy desert,"
+      - "Is privilege for thy departure hence."
+      - "Thank me for this more than for all the favors"
+      - "Which, all too much, I have bestowed on thee."
+      - "But if thou linger in my territories"
+      - "Longer than swiftest expedition"
+      - "Will give thee time to leave our royal court,"
+      - "By heaven, my wrath shall far exceed the love"
+      - "I ever bore my daughter or thyself."
+      - "Begone! I will not hear thy vain excuse,"
+      - "But, as thou lov’st thy life, make speed from hence."
+    m:
+      - "“My thoughts are with my Sylvia every night. They are like my slaves, and I send them flying. Oh, I wish that I could come and go to her just as easily, and lie where my thoughts, which cannot feel, are lying. Let my thoughts, which come to you as my messengers, rest in your breast, while I, their king who sent them, curse the luck that has blessed them with such favor. I want to be as fortunate as my slaves. I curse myself, too, because I sent them to the place where I, their lord, should be.” What’s this here at the end? “Sylvia, this night I will free you.” So that’s it, and here’s the ladder you planned to use. Why, Phaethon—for you are Merops’ son —will you try to drive the sun god’s chariot and burn the world in your brash idiocy? Will you grasp at the stars because they shine on you, as you grasp at my daughter for favoring you? Go, vulgar intruder, arrogant slave! Flash your fawning smiles on someone in your own class, and know that my patience—which is more than you deserve—allows you to leave this place. Thank me for this more than you’ve thanked me for all the favors I’ve granted you, which were too many. But if you stay here in my kingdom any longer than it takes to hurry away, then by heaven my anger will be far greater than any love I’ve ever felt for my daughter or for you. Get out of here! I will not hear your futile excuses. If you love your life, then you’ll hurry on your way from here."
+
+  - os: "Exit DUKE"
+    ms: "The DUKE exits."
+
+  - sp: VALENTINE
+    o:
+      - "And why not death rather than living torment?"
+      - "To die is to be banished from myself,"
+      - "And Sylvia is myself. Banished from her"
+      - "Is self from self—a deadly banishment!"
+      - "What light is light, if Sylvia be not seen?"
+      - "What joy is joy, if Sylvia be not by?"
+      - "Unless it be to think that she is by"
+      - "And feed upon the shadow of perfection."
+      - "Except I be by Sylvia in the night,"
+      - "There is no music in the nightingale;"
+      - "Unless I look on Sylvia in the day,"
+      - "There is no day for me to look upon."
+      - "She is my essence, and I leave to be"
+      - "If I be not by her fair influence"
+      - "Fostered, illumined, cherished, kept alive."
+      - "I fly not death, to fly his deadly doom;"
+      - "Tarry I here, I but attend on death,"
+      - "But, fly I hence, I fly away from life."
+    m:
+      - "Why not death instead of being tortured alive? To die is to be banished from myself, and Sylvia is my very being. Being banished from her is like being banished from myself—a deadly banishment! What good is light if I can’t see Sylvia? What joy is joy if Sylvia isn’t nearby? Unless I can be happy to think she is near and live on the mere thought of her perfection. Unless I can be near Sylvia in the night, there is no music in the nightingale’s singing. Unless I can look on Sylvia in the day, the day doesn’t even exist. She is my essence, and I’ll cease to exist if I’m not cared for, shined upon, valued, and kept alive by her gentle power. I don’t run from death if I run from the duke’s deadly threats. If I stay here, I am just waiting for death, but if I flee this place, then I flee from life itself."
+
+  - os: "Enter PROTEUS and LANCE"
+    ms: "PROTEUS and LANCE enter."
+
+  - sp: PROTEUS
+    o:
+      - "Run, boy, run, run, and seek him out."
+    m:
+      - "Run, boy, run, run, and find him."
+
+  - sp: LANCE
+    o:
+      - "So-ho, so-ho!"
+    m:
+      - "I found him! I found him!"
+
+  - sp: PROTEUS
+    o:
+      - "What seest thou?"
+    m:
+      - "What do you see?"
+
+  - sp: LANCE
+    o:
+      - "Him we go to find. There’s not a hair on ’s head but ’tis a Valentine."
+    m:
+      - "The man we were looking for. It’s a Valentine, down to the last hair."
+
+  - sp: PROTEUS
+    o:
+      - "Valentine?"
+    m:
+      - "Valentine?"
+
+  - sp: VALENTINE
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: PROTEUS
+    o:
+      - "Who then? His spirit?"
+    m:
+      - "Who are you then? His ghost?"
+
+  - sp: VALENTINE
+    o:
+      - "Neither."
+    m:
+      - "Not his ghost either."
+
+  - sp: PROTEUS
+    o:
+      - "What then?"
+    m:
+      - "What are you then?"
+
+  - sp: VALENTINE
+    o:
+      - "Nothing."
+    m:
+      - "Nothing."
+
+  - sp: LANCE
+    o:
+      - "Can nothing speak? Master, shall I strike?"
+    m:
+      - "Can “nothing” speak? Master, should I attack?"
+
+  - sp: PROTEUS
+    o:
+      - "Who wouldst thou strike?"
+    m:
+      - "Who would you attack?"
+
+  - sp: LANCE
+    o:
+      - "Nothing."
+    m:
+      - "“Nothing.”"
+
+  - sp: PROTEUS
+    o:
+      - "Villain, forbear."
+    m:
+      - "Stop, man."
+
+  - sp: LANCE
+    o:
+      - "Why, sir, I’ll strike nothing. I pray you—"
+    m:
+      - "But, sir, I’m going to attack “nothing.” Please—"
+
+  - sp: PROTEUS
+    o:
+      - "Sirrah, I say, forbear.—Friend Valentine, a word."
+    m:
+      - "Man, I say stop. Valentine, my friend, let’s talk."
+
+  - sp: VALENTINE
+    o:
+      - "My ears are stopped and cannot hear good news,"
+      - "So much of bad already hath possessed them."
+    m:
+      - "My ears are plugged up and cannot hear good news—they are already filled with bad news."
+
+  - sp: PROTEUS
+    o:
+      - "Then in dumb silence will I bury mine,"
+      - "For they are harsh, untuneable, and bad."
+    m:
+      - "Then I’ll stay silent and not tell you, because my news is harsh, uncomfortable to hear, and bad."
+
+  - sp: VALENTINE
+    o:
+      - "Is Sylvia dead?"
+    m:
+      - "Is Sylvia dead?"
+
+  - sp: PROTEUS
+    o:
+      - "No, Valentine."
+    m:
+      - "No, Valentine."
+
+  - sp: VALENTINE
+    o:
+      - "No Valentine, indeed, for sacred Sylvia."
+      - "Hath she forsworn me?"
+    m:
+      - "There is no Valentine, indeed, for sacred Sylvia. Has she renounced her love for me?"
+
+  - sp: PROTEUS
+    o:
+      - "No, Valentine."
+    m:
+      - "No, Valentine."
+
+  - sp: VALENTINE
+    o:
+      - "No Valentine, if Sylvia have forsworn me."
+      - "What is your news?"
+    m:
+      - "There’s no Valentine if Sylvia ever stops loving me. What’s your news?"
+
+  - sp: LANCE
+    o:
+      - "Sir, there is a proclamation that you are vanished."
+    m:
+      - "Sir, there’s been an announcement that you are banished."
+
+  - sp: PROTEUS
+    o:
+      - "That thou art banished—O, that’s the news!—"
+      - "From hence, from Sylvia, and from me thy friend."
+    m:
+      - "That you are banished. Oh, that’s the news! Banished from here, from Sylvia, and from me, your friend."
+
+  - sp: VALENTINE
+    o:
+      - "O, I have fed upon this woe already,"
+      - "And now excess of it will make me surfeit."
+      - "Doth Sylvia know that I am banished?"
+    m:
+      - "Oh, I’ve already had my fill of this awful news, and now hearing more of it will make me sick. Does Sylvia know that I’m banished?"
+
+  - sp: PROTEUS
+    o:
+      - "Ay, ay; and she hath offered to the doom—"
+      - "Which, unreversed, stands in effectual force—"
+      - "A sea of melting pearl, which some call tears."
+      - "Those at her father’s churlish feet she tendered;"
+      - "With them, upon her knees, her humble self,"
+      - "Wringing her hands, whose whiteness so became them"
+      - "As if but now they waxed pale for woe."
+      - "But neither bended knees, pure hands held up,"
+      - "Sad sighs, deep groans, nor silver-shedding tears"
+      - "Could penetrate her uncompassionate sire,"
+      - "But Valentine, if he be ta’en, must die."
+      - "Besides, her intercession chafed him so,"
+      - "When she for thy repeal was suppliant,"
+      - "That to close prison he commanded her,"
+      - "With many bitter threats of biding there."
+    m:
+      - "Yes, yes, and she’s responded to the sentence—which, if not revoked, will be enforced—by crying a sea of melting pearls, which some people call tears. She cried them out at the feet of her ill-mannered father, and did so upon her knees, wringing her hands, whose beautiful whiteness appropriately seemed to result from her sorrow. But neither begging on her knees, nor extending her pure hands, nor heaving sad sighs, deep groans, or crying tears that flow like silver streams would move her unsympathetic father to change his order that Valentine must die if captured. Besides, her begging to repeal the order of banishment against you bothered him so much that he ordered her locked away and threatened to keep her there permanently."
+
+  - sp: VALENTINE
+    o:
+      - "No more, unless the next word that thou speak’st"
+      - "Have some malignant power upon my life!"
+      - "If so, I pray thee, breathe it in mine ear,"
+      - "As ending anthem of my endless dolor."
+    m:
+      - "Don’t say any more, or the next word you say may kill me! If so, I beg you to whisper it into my ear as a final hymn for my endless misery."
+
+  - sp: PROTEUS
+    o:
+      - "Cease to lament for that thou canst not help,"
+      - "And study help for that which thou lament’st."
+      - "Time is the nurse and breeder of all good."
+      - "Here if thou stay thou canst not see thy love;"
+      - "Besides, thy staying will abridge thy life."
+      - "Hope is a lover’s staff; walk hence with that"
+      - "And manage it against despairing thoughts."
+      - "Thy letters may be here, though thou art hence,"
+      - "Which, being writ to me, shall be delivered"
+      - "Even in the milk-white bosom of thy love."
+      - "The time now serves not to expostulate."
+      - "Come, I’ll convey thee through the city gate,"
+      - "And, ere I part with thee confer at large"
+      - "Of all that may concern thy love affairs."
+      - "As thou lov’st Sylvia, though not for thyself,"
+      - "Regard thy danger, and along with me!"
+    m:
+      - "Stop grieving over things you can’t help, and think of ways to fix the things that cause you grief. Time nurtures and breeds all good things. If you stay here, you can’t see your love. Besides, staying here will shorten your life. Hope is a lover’s crutch—walk forward with it and use it to prop yourself up against despair. Your letters can be here though you are far away, and if you write them to me I will deliver them to the milk-white breast of your love. Now is not the time to complain. Come, I’ll escort you through the city gate, and we can talk about everything concerning your love affairs before I part with you. Consider the danger you’re in, if not for yourself then for your love of Sylvia, and come along with me!"
+
+  - sp: VALENTINE
+    o:
+      - "I pray thee, Lance, an if thou seest my boy,"
+      - "Bid him make haste and meet me at the north gate."
+    m:
+      - "Please, Lance, if you see my servant boy, tell him to hurry and meet me at the north gate."
+
+  - sp: PROTEUS
+    o:
+      - "Go, sirrah, find him out.—Come, Valentine."
+    m:
+      - "Go, boy, find him. Come, Valentine."
+
+  - sp: VALENTINE
+    o:
+      - "O my dear Sylvia! Hapless Valentine!"
+    m:
+      - "Oh, my dear Sylvia! Unlucky Valentine!"
+
+  - os: "Exeunt VALENTINE and PROTEUS"
+    ms: "VALENTINE and PROTEUS exit."
+
+  - sp: LANCE
+    o:
+      - "I am but a fool, look you, and yet I have the wit to think my master is a kind of a knave. But that’s all one, if he be but one knave. He lives not now that knows me to be in love, yet I am in love. But a team of horse shall not pluck that from me, nor who ’tis I love. And yet ’tis a woman, but what woman, I will not tell myself. And yet ’tis a milkmaid. Yet ’tis not a maid, for she hath had gossips. Yet ’tis a maid, for she is her master’s maid, and serves for wages. She hath more qualities than a water spaniel, which is much in a bare Christian."
+    m:
+      - "You know, I’m just a fool, but I still have enough brains to think my master is kind of a scoundrel. But it’s fine if he is a scoundrel if he’s only a scoundrel regarding love. No one thinks I am in love, yet I am. But a whole team of horses couldn’t tear that secret, or who it is I love, out of me. And yet it’s a woman, but what kind of woman I won’t even say to myself. It’s a milkmaid, but she’s not a virgin since she has given birth. Yet she is a maid, because she is her master’s maid and works for wages. She has more abilities than a water spaniel, which is a lot for a simple Christian."
+
+  - os: "Pulling out a paper"
+    ms: "Pulling out a paper"
+
+  - o:
+      - "Here is the catalog of her condition. “Imprimis: She can fetch and carry.” Why, a horse can do no more. Nay, a horse cannot fetch, but only"
+      - "carry; therefore is she better than a jade. “Item: She can milk.” Look you, a sweet virtue in a maid with clean hands."
+    m:
+      - "Here is a list of all her traits. “In the first place, she can fetch and carry.” Why, a horse can’t do more. No, a horse can’t fetch. It can only carry. Therefore, she is better than a horse. “Also: she can milk.” Look at that! What a sweet virtue for a maid with clean hands."
+
+  - os: "Enter SPEED"
+    ms: "SPEED enters."
+
+  - sp: SPEED
+    o:
+      - "How now, Signor Lance, what news with your mastership?"
+    m:
+      - "How goes it, Signor Lance? Any news of your mastership?"
+
+  - sp: LANCE
+    o:
+      - "With my master’s ship? Why, it is at sea."
+    m:
+      - "About my master’s ship? Well, it’s at sea."
+
+  - sp: SPEED
+    o:
+      - "Well, your old vice still: mistake the word. What news, then, in your paper?"
+    m:
+      - "There you go again—you misunderstand me. What news is that, then, on your piece of paper?"
+
+  - sp: LANCE
+    o:
+      - "The black’st news that ever thou heardest."
+    m:
+      - "The darkest news that you’ve ever heard."
+
+  - sp: SPEED
+    o:
+      - "Why, man, how black?"
+    m:
+      - "Why, man, how dark?"
+
+  - sp: LANCE
+    o:
+      - "Why, as black as ink."
+    m:
+      - "Well, as dark as ink."
+
+  - sp: SPEED
+    o:
+      - "Let me read them."
+    m:
+      - "Let me read it."
+
+  - sp: LANCE
+    o:
+      - "Fie on thee, jolt-head! Thou canst not read."
+    m:
+      - "Get away, you blockhead! You can’t read."
+
+  - sp: SPEED
+    o:
+      - "Thou liest. I can."
+    m:
+      - "You lie. I can."
+
+  - sp: LANCE
+    o:
+      - "I will try thee. Tell me this: who begot thee?"
+    m:
+      - "I’ll test you. Tell me: who conceived you?"
+
+  - sp: SPEED
+    o:
+      - "Marry, the son of my grandfather."
+    m:
+      - "The son of my grandfather, of course."
+
+  - sp: LANCE
+    o:
+      - "O, illiterate loiterer! It was the son of thy grandmother. This proves that thou canst not read."
+    m:
+      - "Oh, illiterate loafer! It was the son of your grandmother. This proves that you cannot read."
+
+  - sp: SPEED
+    o:
+      - "Come, fool, come. Try me in thy paper."
+    m:
+      - "Come on, fool, come on. Test me with the paper."
+
+  - sp: LANCE
+    o:
+      - "There, *(giving him the paper)* and Saint Nicholas be thy speed!"
+    m:
+      - "*(giving him the paper)* There, and Saint Nicholas protect you!"
+
+  - sp: SPEED
+    o:
+      - "*(Reads.)* “Imprimis, She can milk.”"
+    m:
+      - "*(reads)*  “In the first place, she can milk.”"
+
+  - sp: LANCE
+    o:
+      - "Ay, that she can."
+    m:
+      - "Yes, that she can."
+
+  - sp: SPEED
+    o:
+      - "“Item: She brews good ale.”"
+    m:
+      - "“Also: she can brew good beer.”"
+
+  - sp: LANCE
+    o:
+      - "And thereof comes the proverb: “Blessing of your heart, you brew good ale.”"
+    m:
+      - "And that’s where the proverb comes in—“Blessing of your heart, you brew good ale.”"
+
+  - sp: SPEED
+    o:
+      - "“Item: She can sew.”"
+    m:
+      - "“Also: she can sew.”"
+
+  - sp: LANCE
+    o:
+      - "That’s as much as to say “Can she so?”"
+    m:
+      - "To that I say, “Can she so?”"
+
+  - sp: SPEED
+    o:
+      - "“Item: She can knit.”"
+    m:
+      - "“Also: she can knit.”"
+
+  - sp: LANCE
+    o:
+      - "What need a man care for a stock with a wench, when she can knit him a stock?"
+    m:
+      - "What does a man care if a girl’s dowry doesn’t include stockings, when she can knit him a stocking?"
+
+  - sp: SPEED
+    o:
+      - "“Item: She can wash and scour.”"
+    m:
+      - "“Also: she can wash and scour.”"
+
+  - sp: LANCE
+    o:
+      - "A special virtue, for then she need not be washed and scoured."
+    m:
+      - "That’s a special virtue, because then she doesn’t need to be washed and scoured to keep her in line."
+
+  - sp: SPEED
+    o:
+      - "“Item: She can spin.”"
+    m:
+      - "“Also: she can spin yarn.”"
+
+  - sp: LANCE
+    o:
+      - "Then may I set the world on wheels, when she can spin for her living."
+    m:
+      - "Then I can take it easy, since she can spin for a living."
+
+  - sp: SPEED
+    o:
+      - "“Item: She hath many nameless virtues.”"
+    m:
+      - "“Also: she has many virtues that can’t be named.”"
+
+  - sp: LANCE
+    o:
+      - "That’s as much as to say, bastard virtues, that indeed know not their fathers and therefore have no names."
+    m:
+      - "That’s the same as saying they’re bastard virtues that don’t know their fathers and therefore have no names."
+
+  - sp: SPEED
+    o:
+      - "Here follow her vices."
+    m:
+      - "Now comes a list of her vices."
+
+  - sp: LANCE
+    o:
+      - "Close at the heels of her virtues."
+    m:
+      - "Following right behind her virtues."
+
+  - sp: SPEED
+    o:
+      - "“Item: She is not to be kissed fasting, in respect of her breath.”"
+    m:
+      - "“Also: she is not to be kissed while fasting, because of her bad breath.”"
+
+  - sp: LANCE
+    o:
+      - "Well, that fault may be mended with a breakfast. Read on."
+    m:
+      - "Well, that fault can be fixed with some breakfast. Read on."
+
+  - sp: SPEED
+    o:
+      - "“Item: She hath a sweet mouth.”"
+    m:
+      - "“Also: she has a sweet tooth.”"
+
+  - sp: LANCE
+    o:
+      - "That makes amends for her sour breath."
+    m:
+      - "That makes up for her sour breath."
+
+  - sp: SPEED
+    o:
+      - "“Item: She doth talk in her sleep.”"
+    m:
+      - "“Also: she talks in her sleep.”"
+
+  - sp: LANCE
+    o:
+      - "It’s no matter for that, so she sleep not in her talk."
+    m:
+      - "That doesn’t matter, as long as she doesn’t sleep while she talks."
+
+  - sp: SPEED
+    o:
+      - "“Item: She is slow in words.”"
+    m:
+      - "“Also: she is slow with words.”"
+
+  - sp: LANCE
+    o:
+      - "O villain, that set this down among her vices! To be slow in words is a woman’s only virtue. I pray thee, out with ’t, and place it for her chief virtue."
+    m:
+      - "What a scoundrel who listed this among her vices! To speak little is a woman’s only virtue! Please, cross that out and list it as her chief virtue."
+
+  - sp: SPEED
+    o:
+      - "“Item: She is proud.”"
+    m:
+      - "“Also: she is proud.”"
+
+  - sp: LANCE
+    o:
+      - "Out with that too; it was Eve’s legacy, and cannot be ta’en from her."
+    m:
+      - "Cross that out, too. It was Eve’s legacy to all women, so it can’t be taken from her."
+
+  - sp: SPEED
+    o:
+      - "“Item: She hath no teeth.”"
+    m:
+      - "“Also: she has no teeth.”"
+
+  - sp: LANCE
+    o:
+      - "I care not for that neither, because I love crusts."
+    m:
+      - "I don’t care about that either, because I love gums."
+
+  - sp: SPEED
+    o:
+      - "“Item: She is curst.”"
+    m:
+      - "“Also: she’s a bitch.”"
+
+  - sp: LANCE
+    o:
+      - "Well, the best is, she hath no teeth to bite."
+    m:
+      - "Well, at least she has no teeth with which to bite."
+
+  - sp: SPEED
+    o:
+      - "“Item: She will often praise her liquor.”"
+    m:
+      - "“Also: she will taste and appraise her liquor before buying it.”"
+
+  - sp: LANCE
+    o:
+      - "If her liquor be good, she shall. If she will not, I will, for good things should be praised."
+    m:
+      - "If her liquor is good, then she should. And if she won’t, I will, because good things should be praised."
+
+  - sp: SPEED
+    o:
+      - "“Item: She is too liberal.”"
+    m:
+      - "“Also: she is too loose.”"
+
+  - sp: LANCE
+    o:
+      - "Of her tongue she cannot, for that’s writ down she is slow of; of her purse she shall not, for that I’ll keep shut. Now of another thing she may, and that cannot I help. Well, proceed."
+    m:
+      - "That can’t mean her tongue, since it’s already written down that she’s slow with words. And it isn’t about her purse, because I’ll keep that shut. Now she may be loose in another way, and that I can’t help. Well, keep going."
+
+  - sp: SPEED
+    o:
+      - "“Item: She hath more hair than wit, and more faults than hairs, and more wealth than faults.”"
+    m:
+      - "“Also: she has more hair than brains, and more faults than hair, and more wealth than faults.”"
+
+  - sp: LANCE
+    o:
+      - "Stop there; I’ll have her; she was mine and not mine twice or thrice in that last article. Rehearse that once more."
+    m:
+      - "Stop right there. I’ll take her. She was mine and then not mine two or three times in that last item. Repeat it once more."
+
+  - sp: SPEED
+    o:
+      - "“Item: She hath more hair than wit—”"
+    m:
+      - "“Also: she has more hair than brains—”"
+
+  - sp: LANCE
+    o:
+      - "More hair than wit? It may be: I’ll prove it. The cover of the salt hides the salt, and therefore it is more than the salt; the hair that covers the wit is more than the wit, for the greater hides the less. What’s next?"
+    m:
+      - "More hair than brains? Maybe that’s so. I’ll prove it. The top of a saltshaker hides the salt, so therefore it is more than the salt. The hair that covers the brains is more than the brains, because the larger thing hides the smaller thing. Okay, what’s next?"
+
+  - sp: SPEED
+    o:
+      - "“And more faults than hairs—”"
+    m:
+      - "“And more faults than hair—”"
+
+  - sp: LANCE
+    o:
+      - "That’s monstrous. O, that that were out!"
+    m:
+      - "That’s awful. Oh, I wish that weren’t on the list!"
+
+  - sp: SPEED
+    o:
+      - "“And more wealth than faults.”"
+    m:
+      - "“And more wealth than the faults.”"
+
+  - sp: LANCE
+    o:
+      - "Why, that word makes the faults gracious. Well, I’ll have her; an if it be a match, as nothing is impossible—"
+    m:
+      - "Why, that line makes the many faults a good thing. Well, I’ll have her. If it is a good match, since nothing is impossible—”"
+
+  - sp: SPEED
+    o:
+      - "What then?"
+    m:
+      - "What then?"
+
+  - sp: LANCE
+    o:
+      - "Why, then will I tell thee—that thy master stays for thee at the north gate."
+    m:
+      - "Why, then I’ll tell you that your master is waiting for you at the north gate."
+
+  - sp: SPEED
+    o:
+      - "For me?"
+    m:
+      - "For me?"
+
+  - sp: LANCE
+    o:
+      - "For thee? Ay, who art thou? He hath stayed for a better man than thee."
+    m:
+      - "For you? Yeah, who are you? He’s been waiting for a better man than you."
+
+  - sp: SPEED
+    o:
+      - "And must I go to him?"
+    m:
+      - "And I have to go to him?"
+
+  - sp: LANCE
+    o:
+      - "Thou must run to him, for thou hast stayed so long that going will scarce serve the turn."
+    m:
+      - "You must run to him, because you have stayed so long that simply walking isn’t going to cut it."
+
+  - sp: SPEED
+    o:
+      - "Why didst not tell me sooner? Pox of your love letters!"
+    m:
+      - "Why didn’t you tell me sooner? A disease take your love letters!"
+
+  - os: "Exit SPEED"
+    ms: "SPEED exits."
+
+  - sp: LANCE
+    o:
+      - "Now will he be swinged for reading my letter—an unmannerly slave, that will thrust himself into secrets! I’ll after, to rejoice in the boy’s correction."
+    m:
+      - "Now he’ll get beaten for reading my letter. What a rude slave for having stuck his nose in someone else’s secrets. I’ll follow after him, to rejoice in seeing his master whip him."
+
+  - os: "Exit"
+    ms: "He exits."

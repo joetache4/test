@@ -1,0 +1,125 @@
+play: Twelfth Night
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "Enter VALENTINE and VIOLA in man’s attire, as Cesario"
+    ms: "VALENTINE enters with VIOLA, who is dressed as a young man named Cesario."
+
+  - sp: VALENTINE
+    o:
+      - "If the duke continue these favors towards you, Cesario, you are like to be much advanced. He hath known you but three days, and already you are no stranger."
+    m:
+      - "If the Duke keeps treating you so well, Cesario, you’ll go far. He’s only known you for three days, but he’s already treating you like a close friend."
+
+  - sp: VIOLA
+    o:
+      - "You either fear his humor or my negligence, that you call in question the continuance of his love. Is he inconstant, sir, in his favors?"
+    m:
+      - "When you wonder whether he’ll keep treating me well, it makes me think his mood might change—or else I’ll mess up somehow. Do his feelings toward people change suddenly?"
+
+  - sp: VALENTINE
+    o:
+      - "No, believe me."
+    m:
+      - "No, not at all."
+
+  - sp: VIOLA
+    o:
+      - "I thank you. Here comes the count."
+    m:
+      - "Thanks for telling me. Here comes the Duke now."
+
+  - os: "Enter ORSINO, CURIO, and attendants"
+    ms: "ORSINO, CURIO, and attendants enter."
+
+  - sp: ORSINO
+    o:
+      - "Who saw Cesario, ho?"
+    m:
+      - "Has anyone seen Cesario?"
+
+  - sp: VIOLA
+    o:
+      - "On your attendance, my lord, here."
+    m:
+      - "I’m right here, my lord, at your service."
+
+  - sp: ORSINO
+    o:
+      - "*(to VIOLA and attendants)*"
+      - "Stand you a while aloof. *(to VIOLA)* Cesario,"
+      - "Thou know’st no less but all. I have unclasped"
+      - "To thee the book even of my secret soul."
+      - "Therefore, good youth, address thy gait unto her;"
+      - "Be not denied access, stand at her doors,"
+      - "And tell them there thy fixed foot shall grow"
+      - "Till thou have audience."
+    m:
+      - "*(to VIOLA and attendants)* We’ll need some privacy for a little while. *(to VIOLA)* Cesario, I want a word with you. You know everything about me. I’ve told you all the secrets of my soul. So please go to her house; if they don’t let you in, plant yourself outside her door and tell them you won’t leave until they let you see her."
+
+  - sp: VIOLA
+    o:
+      - "  Sure, my noble lord,"
+      - "If she be so abandoned to her sorrow"
+      - "As it is spoke, she never will admit me."
+    m:
+      - "But my lord, I’m sure that if she’s as depressed as people say, she’ll never let me in."
+
+  - sp: ORSINO
+    o:
+      - "Be clamorous, and leap all civil bounds,"
+      - "Rather than make unprofited return."
+    m:
+      - "Be loud and obnoxious. Do whatever it takes, just get the job done."
+
+  - sp: VIOLA
+    o:
+      - "Say I do speak with her, my lord, what then?"
+    m:
+      - "Well, all right, let’s say hypothetically that I do get a chance to speak with her, my lord. What do I do then?"
+
+  - sp: ORSINO
+    o:
+      - "O, then unfold the passion of my love,"
+      - "Surprise her with discourse of my dear faith:"
+      - "It shall become thee well to act my woes;"
+      - "She will attend it better in thy youth"
+      - "Than in a nuncio’s of more grave aspect."
+    m:
+      - "Tell her how passionately I love her. Overwhelm her with examples of how faithful I am. The best thing would be to act out my feelings for her. She’ll pay more attention to a young guy like you than to an older, more serious man."
+
+  - sp: VIOLA
+    o:
+      - "I think not so, my lord."
+    m:
+      - "I don’t think so, my lord."
+
+  - sp: ORSINO
+    o:
+      - "  Dear lad, believe it."
+      - "For they shall yet belie thy happy years"
+      - "That say thou art a man. Diana’s lip"
+      - "Is not more smooth and rubious. Thy small pipe"
+      - "Is as the maiden’s organ, shrill and sound,"
+      - "And all is semblative a woman’s part."
+      - "I know thy constellation is right apt"
+      - "For this affair. *(to CURIO and attendants)*"
+      - "  Some four or five attend him."
+      - "All, if you will, for I myself am best"
+      - "When least in company. *(to VIOLA)* Prosper well in this,"
+      - "And thou shalt live as freely as thy lord,"
+      - "To call his fortunes thine."
+    m:
+      - "My boy, it’s true. Anyone who says you’re a man must not notice how young you are. Your lips are as smooth and red as the goddess Diana’s. Your soft voice is like a young girl’s, high and clear, and the rest of you is pretty feminine too. I know you’re the right person for this job. *(to CURIO and attendants)* Four or five of you go along with him, or you can all go if you like. I’m most comfortable when I’m alone. *(to VIOLA)* If you succeed at this assignment, I’ll reward you well. My whole fortune will be yours."
+
+  - sp: VIOLA
+    o:
+      - "  I’ll do my best"
+      - "To woo your lady—*(aside)* Yet, a barful strife—"
+      - "Whoe’er I woo, myself would be his wife."
+    m:
+      - "I’ll do my best to make this lady love you.*—*(to herself)* But what a tough task!—I have to go matchmaking for the man I want to marry myself!"
+
+  - os: "Exeunt"
+    ms: "They exit."

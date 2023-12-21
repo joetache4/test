@@ -1,0 +1,343 @@
+play: The Taming of the Shrew
+title: Induction, Scene 1
+group: 0
+order: 0
+text:
+  - os: "Enter SLY and HOSTESS"
+    ms: "SLY and HOSTESS enter."
+
+  - sp: SLY
+    o:
+      - "I’ll pheeze you, in faith."
+    m:
+      - "I’ll fix you, I swear."
+
+  - sp: HOSTESS
+    o:
+      - "A pair of stocks, you rogue!"
+    m:
+      - "You thug! I’ll call for a pair of stocks!"
+
+  - sp: SLY
+    o:
+      - "Y’are a baggage, the Slys are no rogues. Look in the chronicles—we came in with Richard Conqueror. Therefore *paucas pallabris*: let the world slide. Sessa!"
+    m:
+      - "There are no thugs in my family, whore! Read your history! We Slys came over with Richard the Conqueror. Oh, the hell with it. I can’t be bothered. Shut up!"
+
+  - sp: HOSTESS
+    o:
+      - "You will not pay for the glasses you have burst?"
+    m:
+      - "You won’t pay for the glasses you smashed?"
+
+  - sp: SLY
+    o:
+      - "No, not a denier. Go by, Saint Jeronimy. Go to thy cold bed and warm thee."
+    m:
+      - "No, not a penny. Get out of my face. Go play with yourself."
+
+  - sp: HOSTESS
+    o:
+      - "I know my remedy. I must go fetch the thirdborough."
+    m:
+      - "I know my rights. I’ll call a policeman."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: SLY
+    o:
+      - "Third, or fourth, or fifth borough, I’ll answer him by law."
+      - "I’ll not budge an inch, boy. Let him come, and kindly."
+    m:
+      - "Call them all! I have a legal right to be here. I’m not moving an inch, pal. Let them come—I don’t care."
+
+  - os: "Falls asleep"
+    ms: "He falls asleep."
+
+  - os: "Wind horns Enter a LORD from hunting, with his train"
+    ms: "A hunting horn is heard. A LORD who has been hunting enters with his hunstmen."
+
+  - sp: LORD
+    o:
+      - "Huntsman, I charge thee, tender well my hounds."
+      - "Breathe Merriman, the poor cur is embossed,"
+      - "And couple Clowder with the deep-mouthed brach."
+      - "Saw’st thou not, boy, how Silver made it good"
+      - "At the hedge corner, in the coldest fault?"
+      - "I would not lose the dog for twenty pound."
+    m:
+      - "Huntsman, look after my hounds. Let Merriman catch his breath—the poor dog’s foaming at the mouth. And tie up Clowder together with the long-mouthed bitch. *(to his page)* Did you see, boy, how Silver picked up the scent at the hedge corner, where it was weakest? I wouldn’t part with that dog for twenty pounds."
+
+  - sp: FIRST HUNTSMAN
+    o:
+      - "Why, Belman is as good as he, my lord."
+      - "He cried upon it at the merest loss,"
+      - "And twice today picked out the dullest scent."
+      - "Trust me, I take him for the better dog."
+    m:
+      - "I think Belman is just as good, my lord. He set up a howl when the scent was lost completely and twice picked it up where it was weakest. I swear he’s the better dog."
+
+  - sp: LORD
+    o:
+      - "Thou art a fool. If Echo were as fleet,"
+      - "I would esteem him worth a dozen such."
+      - "But sup them well and look unto them all."
+      - "Tomorrow I intend to hunt again."
+    m:
+      - "You’re a fool. If Echo were as fast, he would be worth a dozen like Belman. But give them all a good dinner and look after them well. I’ll go hunting again tomorrow, I think."
+
+  - sp: FIRST HUNTSMAN
+    o:
+      - "I will, my lord."
+    m:
+      - "I will, my lord."
+
+  - sp: LORD
+    o:
+      - "What’s here? One dead, or drunk? See, doth he breathe?"
+    m:
+      - "What’s this? A drunkard or a corpse? Check and see if he’s breathing."
+
+  - sp: SECOND HUNTSMAN
+    o:
+      - "He breathes, my lord. Were he not warmed with ale,"
+      - "This were a bed but cold to sleep so soundly."
+    m:
+      - "He is, my lord. But this would be too cold a place to sleep if he hadn’t warmed himself with ale."
+
+  - sp: LORD
+    o:
+      - "O monstrous beast, how like a swine he lies!"
+      - "Grim death, how foul and loathsome is thine image!"
+      - "Sirs, I will practice on this drunken man."
+      - "What think you: if he were conveyed to bed,"
+      - "Wrapped in sweet clothes, rings put upon his fingers,"
+      - "A most delicious banquet by his bed,"
+      - "And brave attendants near him when he wakes,"
+      - "Would not the beggar then forget himself?"
+    m:
+      - "It’s disgusting, sleeping that way—like a pig in the gutter! Alas, grim death, how vile and ugly your near-twin, sleep, is! Gentlemen, I think I’ll play a trick on this lout. What do you think? Say we were to carry him to one of the bedrooms, put fresh clothes on him and rings on his fingers, lay out a wonderful feast by his bed, and have servants in fancy dress near him when he wakes up—wouldn’t the poor tramp be confused?"
+
+  - sp: FIRST HUNTSMAN
+    o:
+      - "Believe me, lord, I think he cannot choose."
+    m:
+      - "I don’t think he’d have any choice, my lord."
+
+  - sp: SECOND HUNTSMAN
+    o:
+      - "It would seem strange unto him when he waked."
+    m:
+      - "When he woke, he wouldn’t know where he was."
+
+  - sp: LORD
+    o:
+      - "Even as a flatt’ring dream or worthless fancy."
+      - "Then take him up and manage well the jest."
+      - "Carry him gently to my fairest chamber"
+      - "And hang it round with all my wanton pictures."
+      - "Balm his foul head in warm distilled waters"
+      - "And burn sweet wood to make the lodging sweet."
+      - "Procure me music ready when he wakes,"
+      - "To make a dulcet and a heavenly sound."
+      - "And if he chance to speak, be ready straight"
+      - "And with a low submissive reverence"
+      - "Say, “What is it your Honor will command?”"
+      - "Let one attend him with a silver basin"
+      - "Full of rose-water and bestrewed with flowers,"
+      - "Another bear the ewer, the third a diaper,"
+      - "And say, “Will ’t please your Lordship cool your hands?”"
+      - "Someone be ready with a costly suit"
+      - "And ask him what apparel he will wear."
+      - "Another tell him of his hounds and horse,"
+      - "And that his lady mourns at his disease."
+      - "Persuade him that he hath been lunatic,"
+      - "And when he says he is, say that he dreams,"
+      - "For he is nothing but a mighty lord."
+      - "This do, and do it kindly, gentle sirs."
+      - "It will be pastime passing excellent"
+      - "If it be husbanded with modesty."
+    m:
+      - "It would be just like a nice daydream or fantasy. Well, take him on up and we’ll try to pull it off. Carry him to my best room—gently, so he doesn’t wake—and hang all my erotic paintings around him. Bathe his filthy head with warm, scented water. Burn fragrant wood to give the room a pleasant smell, and have musicians at hand, ready to produce sweet, soothing sounds when he awakes. You want to be ready in case he speaks. If he does, bow low and say deferentially, “What would your Honor have us do?” Have one servant wait on him with a basin of rosewater (throw in some petals), have another servant carry a pitcher, and a third a cloth. Say, “Would your Lordship care to freshen up?” Have someone standing by with expensive clothes, and ask him what he’d care to wear. Have another servant tell him about the dogs and horses that he owns and that his wife is grief-stricken over his illness. Convince him that he has been out of his mind—and when he says he’s out of his mind *now,* tell him he’s mistaken and that he is in fact a mighty lord. Do this—make it convincing—and we’ll have fun. It could work if it’s done subtly."
+
+  - sp: FIRST HUNTSMAN
+    o:
+      - "My lord, I warrant you we will play our part"
+      - "As he shall think by our true diligence"
+      - "He is no less than what we say he is."
+    m:
+      - "My lord, I promise we will play our parts so skillfully that he will believe everything we tell him."
+
+  - sp: LORD
+    o:
+      - "Take him up gently, and to bed with him,"
+      - "And each one to his office when he wakes."
+    m:
+      - "Carry him gently to bed, and every man be ready at his post when he awakes."
+
+  - os: "Some servants carry out SLY. Sound trumpets"
+    ms: "Several servants carry SLY out. Trumpets sound."
+
+  - o:
+      - "Sirrah, go see what trumpet ’tis that sounds."
+    m:
+      - "Go, lad, and find out what the trumpet’s sounding for."
+
+  - os: "Exit Servingman"
+    ms: "A servant exits."
+
+  - o:
+      - "Belike some noble gentleman that means,"
+      - "Traveling some journey, to repose him here."
+    m:
+      - "It’s probably some noble gentleman stopping off in mid-journey, thinking to spend the night here."
+
+  - os: "Enter SERVANT"
+    ms: "A SERVANT enters."
+
+  - o:
+      - "How now! who is it?"
+    m:
+      - "Well, who is it?"
+
+  - sp: SERVANT
+    o:
+      - "    An’t please your Honor, players"
+      - "That offer service to your Lordship."
+    m:
+      - "Sir, it’s a troupe of actors who want to perform for your Lordship."
+
+  - sp: LORD
+    o:
+      - "Bid them come near."
+    m:
+      - "Have them come in."
+
+  - os: "Enter PLAYERS"
+    ms: "The PLAYERS (actors) enter."
+
+  - o:
+      - "Now, fellows, you are welcome."
+    m:
+      - "You are welcome here, my friends."
+
+  - sp: PLAYERS
+    o:
+      - "We thank your Honor."
+    m:
+      - "We thank your Honor."
+
+  - sp: LORD
+    o:
+      - "Do you intend to stay with me tonight?"
+    m:
+      - "Were you thinking of spending the night here?"
+
+  - sp: A PLAYER
+    o:
+      - "So please your Lordship to accept our duty."
+    m:
+      - "Yes, if that would be all right with your Lordship."
+
+  - sp: LORD
+    o:
+      - "With all my heart. This fellow I remember"
+      - "Since once he played a farmer’s eldest son."
+      - "’Twas where you wooed the gentlewoman so well."
+      - "I have forgot your name, but sure that part"
+      - "Was aptly fitted and naturally performed."
+    m:
+      - "By all means. I remember this fellow—he once played the eldest son of a farmer. It was the play in which you wooed the gentlewoman so successfully. I have forgotten your name, but you were well cast in the role and played it convincingly."
+
+  - sp: A PLAYER
+    o:
+      - "I think ’twas Soto that your Honor means."
+    m:
+      - "I believe your Honor is thinking of a character called Soto."
+
+  - sp: LORD
+    o:
+      - "’Tis very true. Thou didst it excellent."
+      - "Well, you are come to me in happy time,"
+      - "The rather for I have some sport in hand"
+      - "Wherein your cunning can assist me much."
+      - "There is a lord will hear you play tonight;"
+      - "But I am doubtful of your modesties,"
+      - "Lest over-eyeing of his odd behavior—"
+      - "For yet his Honor never heard a play—"
+      - "You break into some merry passion"
+      - "And so offend him. For I tell you, sirs,"
+      - "If you should smile, he grows impatient."
+    m:
+      - "Yes, that was it. You gave an excellent performance. Well, this is very fortunate, your arriving just at this moment. I happen to be planning a little entertainment and could really use your services. There is a particular lord who will watch you perform tonight. I’m a little worried, though—because his Honor has never seen a play before—that his odd behavior may strike you as funny. You might not be able to control your laughter and you might offend him. I warn you, he’s sensitive. The slightest smile provokes him."
+
+  - sp: A PLAYER
+    o:
+      - "Fear not, my lord, we can contain ourselves"
+      - "Were he the veriest antic in the world."
+    m:
+      - "Don’t worry. We’ll restrain ourselves—no matter how bizarrely he behaves."
+
+  - sp: LORD
+    o:
+      - "Go, sirrah, take them to the buttery"
+      - "And give them friendly welcome every one."
+      - "Let them want nothing that my house affords."
+    m:
+      - "Go, lad, and take them to the pantry. Make them feel welcome and see to it that they have everything they require."
+
+  - os: "Exit one with the PLAYERS"
+    ms: "A servant exits with the PLAYERS."
+
+  - o:
+      - "Sirrah, go you to Barthol’mew, my page,"
+      - "And see him dressed in all suits like a lady."
+      - "That done, conduct him to the drunkard’s chamber"
+      - "And call him “madam,” do him obeisance."
+      - "Tell him from me, as he will win my love,"
+      - "He bear himself with honorable action,"
+      - "Such as he hath observed in noble ladies"
+      - "Unto their lords, by them accomplishèd."
+    m:
+      - "You, fellow, go fetch my page, Bartholomew, and dress him up like a noble lady. When you’ve finished, bring him to the drunkard’s room, address him as “madam,” bow to him and treat him with all-round respect and deference, as though he were the lady of the house. Give him this message: if he wants to please me, he will conduct himself like a member of the aristocracy, mimicking the kind of behavior he’s seen noble ladies use toward their husbands."
+
+  - o:
+      - "Such duty to the drunkard let him do"
+      - "With soft low tongue and lowly courtesy,"
+      - "And say, “What is ’t your Honor will command,"
+      - "Wherein your lady and your humble wife"
+      - "May show her duty and make known her love?”"
+      - "And then with kind embracements, tempting kisses,"
+      - "And with declining head into his bosom,"
+      - "Bid him shed tears, as being overjoyed"
+      - "To see her noble lord restored to health,"
+      - "Who for this seven years hath esteemed him"
+      - "No better than a poor and loathsome beggar."
+      - "And if the boy have not a woman’s gift"
+      - "To rain a shower of commanded tears,"
+      - "An onion will do well for such a shift,"
+      - "Which in a napkin being close conveyed"
+      - "Shall in despite enforce a watery eye."
+      - "See this dispatched with all the haste thou canst:"
+      - "Anon I’ll give thee more instructions."
+    m:
+      - "That’s just how I want him to behave toward the drunkard, speaking in a low, soft voice and in humble, courteous tones and saying fancy stuff like, “What does your Honor wish to command your lady, your humble wife, to do to show her devotion and demonstrate her love?” Tell him to give the drunkard fond embraces and alluring kisses, and lay his head on the other man’s breast, weeping like a woman overjoyed to see a husband restored to health who for the last seven years has imagined he was no better than a poor, pathetic beggar. The boy may lack a woman’s gift for weeping at will, so it might be good to have an onion handy, hidden in a handkerchief. That’ll make his eyes stream. Get this done as quickly as you can. I’ll give you more instructions later."
+
+  - os: "Exit a servingman"
+    ms: "A servant exits."
+
+  - o:
+      - "I know the boy will well usurp the grace,"
+      - "Voice, gait, and action of a gentlewoman."
+      - "I long to hear him call the drunkard “husband,”"
+      - "And how my men will stay themselves from laughter"
+      - "When they do homage to this simple peasant."
+      - "I’ll in to counsel them. Haply my presence"
+      - "May well abate the over-merry spleen"
+      - "Which otherwise would grow into extremes."
+    m:
+      - "I know the boy will be a convincing gentlewoman, taking up her exact walk and talk and gentle gestures. I can’t wait to hear him call the drunkard “husband,” and to watch my men smother their laughter as they pay their respects to this simple peasant. I’ll go and coach them. My presence may put a damper on their high spirits, which might otherwise get out of control."
+
+  - os: "Exeunt"
+    ms: "They all exit."

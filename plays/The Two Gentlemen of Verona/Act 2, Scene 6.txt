@@ -1,0 +1,58 @@
+play: Two Gentlemen of Verona
+title: Act 2, Scene 6
+group: 2
+order: 8
+text:
+  - os: "Enter PROTEUS solus"
+    ms: "PROTEUS enters by himself."
+
+  - sp: PROTEUS
+    o:
+      - "To leave my Julia, shall I be forsworn;"
+      - "To love fair Sylvia, shall I be forsworn;"
+      - "To wrong my friend, I shall be much forsworn."
+      - "And ev’n that power which gave me first my oath"
+      - "Provokes me to this threefold perjury."
+      - "Love bade me swear, and Love bids me forswear."
+      - "O sweet-suggesting Love, if thou hast sinned,"
+      - "Teach me, thy tempted subject, to excuse it!"
+      - "At first I did adore a twinkling star,"
+      - "But now I worship a celestial sun."
+      - "Unheedful vows may heedfully be broken,"
+      - "And he wants wit that wants resolvèd will"
+      - "To learn his wit t’ exchange the bad for better."
+      - "Fie, fie, unreverent tongue, to call her bad"
+      - "Whose sovereignty so oft thou hast preferred"
+      - "With twenty thousand soul-confirming oaths!"
+      - "I cannot leave to love, and yet I do;"
+      - "But there I leave to love where I should love."
+      - "Julia I lose, and Valentine I lose."
+      - "If I keep them, I needs must lose myself."
+      - "If I lose them, thus find I by their loss"
+      - "For Valentine, myself; for Julia, Sylvia."
+      - "I to myself am dearer than a friend,"
+      - "For love is still most precious in itself,"
+      - "And Sylvia—witness heaven, that made her fair!—"
+      - "Shows Julia but a swarthy Ethiop."
+      - "I will forget that Julia is alive,"
+      - "Remembering that my love to her is dead;"
+      - "And Valentine I’ll hold an enemy,"
+      - "Aiming at Sylvia as a sweeter friend."
+      - "I cannot now prove constant to myself"
+      - "Without some treachery used to Valentine."
+      - "This night he meaneth with a corded ladder"
+      - "To climb celestial Sylvia’s chamber window,"
+      - "Myself in counsel, his competitor."
+      - "Now presently I’ll give her father notice"
+      - "Of their disguising and pretended flight,"
+      - "Who, all enraged, will banish Valentine;"
+      - "For Thurio, he intends, shall wed his daughter;"
+      - "But, Valentine being gone, I’ll quickly cross"
+      - "By some sly trick blunt Thurio’s dull proceeding."
+      - "Love, lend me wings to make my purpose swift,"
+      - "As thou hast lent me wit to plot this drift!"
+    m:
+      - "If I leave my Julia, I’ll break my vow and prove it a lie. If I love the beautiful Sylvia, I’ll break my vow. If I wrong my friend, Valentine, I’ll very much break my vow. And even that love that made me first declare my devotion provokes me to break my vow three times over. Love made me swear an oath, and love bids me to break it. Oh, sweet, seductive Love, if you have sinned, teach me, your tempted servant, how to pardon that sin. At first, I adored a twinkling star, but now I worship a heavenly sun. Vows made carelessly may be broken with careful thought, and the man who doesn’t have the will to teach his mind to trade something bad for something better lacks intelligence. Shame, shame! What a disrespectful tongue I have to call Julia bad, when my tongue has so often praised her superiority with twenty thousand devout oaths of love! I cannot stop loving her, and yet I do. But in ceasing to love her I go to the woman I should love. I lose Julia, and I lose Valentine. If I keep them, then I will lose myself. If I lose them, then I’ll gain myself instead of Valentine, and I’ll gain Sylvia instead of Julia. I cherish myself more than I cherish any friend, for love of oneself is always most precious. And Sylvia—with heaven, which made her white and beautiful, as witness—makes Julia look like a dark-skinned Ethiopian. I will forget that Julia is alive, and remember that my love for her is gone. I’ll consider Valentine an enemy and focus on Sylvia as a more important friend. I cannot now keep my promise to myself without acting treacherously toward Valentine. Tonight he plans to climb a rope ladder to the heavenly Sylvia’s bedroom window with me helping as his partner. Now I’ll go immediately and inform her father of their secret and their plan to run away. He will be enraged and will banish Valentine, because he intends Thurio to marry his daughter. With Valentine gone, I’ll ruin stupid Thurio’s plans with some sly trick. Love, lend me wings so that I may accomplish my aims quickly, as you’ve lent me cleverness to plot this scheme!"
+
+  - os: "Exit"
+    ms: "He exits."

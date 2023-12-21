@@ -1,0 +1,36 @@
+play: Coriolanus
+title: Act 1, Scene 7
+group: 1
+order: 6
+text:
+  - os: "The gates of Corioli."
+    ms: "The gates of Corioles."
+
+  - os: "TITUS LARTIUS, having set a guard upon Corioli, going with drum and trumpet toward COMINIUS and CAIUS MARTIUS, enters with Lieutenant, other Soldiers, and a Scout"
+    ms: "TITUS LARTIUS, leaving someone to guard Corioles, goes toward COMINIUS and CAIUS MARTIUS with a drummer and trumpeter. A Lieutenant, other soldiers, and a scout also enter."
+
+  - sp: LARTIUS
+    o:
+      - "So, let the ports be guarded: keep your duties,"
+      - "As I have set them down. If I do send, dispatch"
+      - "Those centuries to our aid: the rest will serve"
+      - "For a short holding: if we lose the field,"
+      - "We cannot keep the town."
+    m:
+      - "Guard the gate. Do your job as I’ve explained it. If I send a message, send those hundreds of soldiers to help us. The remaining soldiers can hold the city on their own for a little while.  After all, if we lose in the field, we can’t keep the city anyway."
+
+  - sp: LIEUTENANT
+    o:
+      - "Fear not our care, sir."
+    m:
+      - "Don’t worry, sir, we’ll guard the city."
+
+  - sp: LARTIUS
+    o:
+      - "Hence, and shut your gates upon’s."
+      - "Our guider, come; to the Roman camp conduct us."
+    m:
+      - "Good, and shut these gates once I’m gone. Here comes our scout to bring us to the Roman camp."
+
+  - os: "Exeunt"
+    ms: "They exit."

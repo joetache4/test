@@ -1,0 +1,55 @@
+play: Measure for Measure
+title: Act 4, Scene 5
+group: 4
+order: 14
+text:
+  - os: "Fields without the town."
+    ms: "Fields outside the town."
+
+  - os: "Enter DUKE VINCENTIO in his own habit, and FRIAR PETER"
+    ms: "DUKE VINCENTIO enters in his own clothing, with FRIAR PETER."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "These letters at fit time deliver me*(.)*"
+    m:
+      - "At the right time, deliver these letters for me."
+
+  - os: "Giving letters"
+    ms: "Holding letters"
+
+  - o:
+      - "The provost knows our purpose and our plot."
+      - "The matter being afoot, keep your instruction,"
+      - "And hold you ever to our special drift;"
+      - "Though sometimes you do blench from this to that,"
+      - "As cause doth minister. Go call at Flavius’ house,"
+      - "And tell him where I stay: give the like notice"
+      - "To Valentinus, Rowland, and to Crassus,"
+      - "And bid them bring the trumpets to the gate;"
+      - "But send me Flavius first."
+    m:
+      - "The provost knows about my plan. Once things get going, remember your orders and follow my lead, though sometimes you can deviate from the plan, if it seems appropriate. Go to Flavius’ house, and tell him where I’m staying. Inform Valentinus, Rowland, and Crassus, too, and ask them to bring the trumpeters to the gate. But send me Flavius first."
+
+  - sp: FRIAR PETER
+    o:
+      - "It shall be speeded well."
+    m:
+      - "I’ll do it right away."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter VARRIUS"
+    ms: "VARRIUS enters."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "I thank thee, Varrius; thou hast made good haste:"
+      - "Come, we will walk. There’s other of our friends"
+      - "Will greet us here anon, my gentle Varrius."
+    m:
+      - "Thanks, Varrius, you got here fast. Let’s get going. More of our friends will be here soon, honorable Varrius."
+
+  - os: "Exeunt"
+    ms: "They exit."

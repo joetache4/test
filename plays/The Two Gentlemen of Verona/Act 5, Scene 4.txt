@@ -1,0 +1,481 @@
+play: Two Gentlemen of Verona
+title: Act 5, Scene 4
+group: 5
+order: 19
+text:
+  - os: "Enter VALENTINE"
+    ms: "VALENTINE enters."
+
+  - sp: VALENTINE
+    o:
+      - "How use doth breed a habit in a man!"
+      - "This shadowy desert, unfrequented woods,"
+      - "I better brook than flourishing peopled towns."
+      - "Here can I sit alone, unseen of any,"
+      - "And to the nightingale’s complaining notes"
+      - "Tune my distresses and record my woes."
+      - "O thou that dost inhabit in my breast,"
+      - "Leave not the mansion so long tenantless,"
+      - "Lest, growing ruinous, the building fall"
+      - "And leave no memory of what it was!"
+      - "Repair me with thy presence, Sylvia;"
+      - "Thou gentle nymph, cherish thy forlorn swain!"
+    m:
+      - "Repetition can make a man accustomed to anything! This shadowy deserted place, these woods that are rarely visited—I can take them better than bustling towns with lots of people. Here I can sit alone without anyone seeing me, and accompanied by the nightingale’s sad song I can sing about my worries and list all my troubles. Oh you, Sylvia, who lives in my heart, don’t leave your home empty for long, or rotting from within, the entire building falls and leaves no trace of what it was! Heal me with your presence, Sylvia. Gentle nymph, cherish your sad lover!"
+
+  - os: "Shouting within."
+    ms: "Shouting is heard inside."
+
+  - o:
+      - "What halloing and what stir is this to-day?"
+      - "These are my mates, that make their wills their law,"
+      - "Have some unhappy passenger in chase."
+      - "They love me well, yet I have much to do"
+      - "To keep them from uncivil outrages."
+      - "Withdraw thee, Valentine. Who’s this comes here?"
+    m:
+      - "What’s all this shouting and commotion I hear? Those are my friends, the outlaws who do whatever they like, who are chasing some unfortunate traveler. They like me enough, but I have to work hard to keep them from violent crimes. Hide yourself, Valentine. Who is this that comes here?"
+
+  - os: "He stands aside."
+    ms: "He stands off to the side."
+
+  - os: "Enter PROTEUS, SYLVIA, and JULIA disguised as Sebastian"
+    ms: "PROTEUS, SYLVIA, and JULIA, who is disguised as Sebastian, all enter"
+
+  - sp: PROTEUS
+    o:
+      - "Madam, this service I have done for you—"
+      - "Though you respect not aught your servant doth—"
+      - "To hazard life and rescue you from him"
+      - "That would have forced your honor and your love."
+      - "Vouchsafe me, for my meed, but one fair look;"
+      - "A smaller boon than this I cannot beg,"
+      - "And less than this, I am sure, you cannot give."
+    m:
+      - "Madame, I’ve helped you—even though you don’t value what I do—and risked my life to rescue you from that man who would have raped you. For my reward, give me just one kind look. I can’t beg for a smaller favor than this, and I’m sure that you can’t give anything less than this."
+
+  - sp: VALENTINE
+    o:
+      - "*(aside)* How like a dream is this I see and hear!"
+      - "Love, lend me patience to forbear awhile."
+    m:
+      - "*(aside)* What I see and hear is like a dream! Love, give me strength to be patient just a little while longer."
+
+  - sp: SYLVIA
+    o:
+      - "O miserable, unhappy that I am!"
+    m:
+      - "Oh, what a miserable, unhappy woman I am!"
+
+  - sp: PROTEUS
+    o:
+      - "Unhappy were you, madam, ere I came;"
+      - "But by my coming I have made you happy."
+    m:
+      - "You were unhappy, madam, before I came. But in coming I’ve made you happy."
+
+  - sp: SYLVIA
+    o:
+      - "By thy approach thou mak’st me most unhappy."
+    m:
+      - "Your advances make me very unhappy."
+
+  - sp: JULIA
+    o:
+      - "*(aside)* And me, when he approacheth to your presence."
+    m:
+      - "*(aside)* And makes me unhappy when he flirts with you."
+
+  - sp: SYLVIA
+    o:
+      - "Had I been seizèd by a hungry lion,"
+      - "I would have been a breakfast to the beast"
+      - "Rather than have false Proteus rescue me."
+      - "O, heaven be judge how I love Valentine,"
+      - "Whose life’s as tender to me as my soul!"
+      - "And full as much—for more there cannot be—"
+      - "I do detest false, perjured Proteus."
+      - "Therefore begone, solicit me no more."
+    m:
+      - "If a hungry lion had seized me, I would rather have been eaten by the beast than have treacherous Proteus rescue me. Oh, heaven knows how I love Valentine, whose life is as precious to me as my own soul! And with just as much feeling—for I couldn’t feel any more strongly—I hate the lying, deceitful Proteus. So get out of here, and stop trying to win me."
+
+  - sp: PROTEUS
+    o:
+      - "What dangerous action, stood it next to death,"
+      - "Would I not undergo for one calm look?"
+      - "O, ’tis the curse in love, and still approved,"
+      - "When women cannot love where they’re beloved!"
+    m:
+      - "What dangerous action, even if it put me at risk of death, would I not undertake for just one gentle look from you? Oh, it is the curse of love, and it is always the case that women never love those who love them!"
+
+  - sp: SYLVIA
+    o:
+      - "When Proteus cannot love where he’s beloved."
+      - "Read over Julia’s heart, thy first, best love,"
+      - "For whose dear sake thou didst then rend thy faith"
+      - "Into a thousand oaths, and all those oaths"
+      - "Descended into perjury, to love me."
+      - "Thou hast no faith left now, unless thou’dst two,"
+      - "And that’s far worse than none. Better have none"
+      - "Than plural faith, which is too much by one."
+      - "Thou counterfeit to thy true friend!"
+    m:
+      - "You mean Proteus never loves those who love him. Think of Julia’s feelings for you. She was your first, best love, and for her sake you swore your fidelity a thousand times. Now those oaths of faithfulness have sunk into lies, so that you can love me. You have no loyalty left now, unless you were to love two women, and that’s far worse than loving no one. Better not love at all than love two women, which is too many by one. You deceiver of your true friend!"
+
+  - sp: PROTEUS
+    o:
+      - "In love,"
+      - "Who respects friend?"
+    m:
+      - "Who honors their friendships when it comes to love?"
+
+  - sp: SYLVIA
+    o:
+      - "All men but Proteus."
+    m:
+      - "All men but you, Proteus."
+
+  - sp: PROTEUS
+    o:
+      - "Nay, if the gentle spirit of moving words"
+      - "Can no way change you to a milder form,"
+      - "I’ll woo you like a soldier, at arms’ end,"
+      - "And love you ’gainst the nature of love—force ye."
+    m:
+      - "No, if the gentle spirit of heartfelt words can’t persuade you to think kindly of me, then I’ll woo you at knifepoint like a soldier and make love to you in a manner contrary to the nature of love—by raping you."
+
+  - sp: SYLVIA
+    o:
+      - "O heaven!"
+    m:
+      - "Oh, heaven!"
+
+  - sp: PROTEUS
+    o:
+      - "*(Assailing her)* I’ll force thee yield to my desire."
+    m:
+      - "*(Proteus assaults her.)* I’ll force you to yield to my desire."
+
+  - sp: VALENTINE
+    o:
+      - "*(Coming forward)* Ruffian, let go that rude uncivil touch,"
+      - "Thou friend of an ill fashion!"
+    m:
+      - "*(Valentine comes out of hiding.)* Scoundrel, keep your savage hands off her, you foul friend!"
+
+  - sp: PROTEUS
+    o:
+      - "Valentine!"
+    m:
+      - "Valentine!"
+
+  - sp: VALENTINE
+    o:
+      - "Thou common friend, that’s without faith or love!"
+      - "For such is a friend now. Treacherous man,"
+      - "Thou hast beguiled my hopes. Naught but mine eye"
+      - "Could have persuaded me. Now I dare not say"
+      - "I have one friend alive; thou wouldst disprove me."
+      - "Who should be trusted, when one’s right hand"
+      - "Is perjured to the bosom? Proteus,"
+      - "I am sorry I must never trust thee more,"
+      - "But count the world a stranger for thy sake."
+      - "The private wound is deepest. O time most accurst,"
+      - "’Mongst all foes that a friend should be the worst!"
+    m:
+      - "You lying friend, without loyalty or love! That’s what you are now. Treacherous man, you tricked me with my hopes. Nothing could have persuaded me of what you really are but seeing it with my eyes. Now I won’t even say I have one friend alive—if I did, you’d prove me wrong. Who can you trust when your closest friend is false down to his core? Proteus, I’m sorry I must never trust you again, and because of you I’ll never think again that I know the world. Personal treachery makes the deepest wounds. Curse the day when a friend is the worst of all your enemies!"
+
+  - sp: PROTEUS
+    o:
+      - "My shame and guilt confounds me."
+      - "Forgive me, Valentine. If hearty sorrow"
+      - "Be a sufficient ransom for offence,"
+      - "I tender ’t here. I do as truly suffer"
+      - "As e’er I did commit."
+    m:
+      - "Shame and guilt overwhelm me. Forgive me, Valentine. If heartfelt sadness is enough punishment for what I’ve done, then I offer it to you here. I feel truly miserable for everything I’ve done."
+
+  - sp: VALENTINE
+    o:
+      - "Then I am paid,"
+      - "And once again I do receive thee honest."
+      - "Who by repentance is not satisfied"
+      - "Is nor of heaven nor earth, for these are pleased."
+      - "By penitence the Eternal’s wrath’s appeased;"
+      - "And, that my love may appear plain and free,"
+      - "All that was mine in Sylvia I give thee."
+    m:
+      - "Then you’ve paid your debt to me, and I consider you to be honest once again. Whoever isn’t satisfied by such heartfelt repentence is neither from heaven nor earth, for repentance is enough to please both. God’s wrath comes in the form of penitence. And, so that you know my love for you is honest and free, I give you any claim I had to Sylvia."
+
+  - sp: JULIA
+    o:
+      - "O me unhappy!"
+    m:
+      - "Oh, unhappy me!"
+
+  - os: "Swoons"
+    ms: "She faints."
+
+  - sp: PROTEUS
+    o:
+      - "Look to the boy."
+    m:
+      - "Look at the boy!"
+
+  - sp: VALENTINE
+    o:
+      - "Why, boy! Why, wag! How now? What’s the matter?  Look up. Speak."
+    m:
+      - "Hey, boy! Hey, kid! Are you okay? What’s the matter? Open your eyes. Say something."
+
+  - sp: JULIA
+    o:
+      - "*(Recovering)* O good sir, my master charged me to deliver a ring to Madam Sylvia, which, out of my neglect, was never done."
+    m:
+      - "*(recovering)* Oh, good sir, my master ordered me to deliver a ring to Madam Sylvia, which, out of neglect on my part, I never did."
+
+  - sp: PROTEUS
+    o:
+      - "Where is that ring, boy?"
+    m:
+      - "Where is that ring, boy?"
+
+  - sp: JULIA
+    o:
+      - "*(Giving her own ring)* Here ’tis. This is it."
+    m:
+      - "*(giving her own ring)* Here it is. This is it."
+
+  - sp: PROTEUS
+    o:
+      - "How? Let me see."
+      - "Why, this is the ring I gave to Julia."
+    m:
+      - "How? Let me see that. Why, this is the ring I gave to Julia."
+
+  - sp: JULIA
+    o:
+      - "O, cry you mercy, sir, I have mistook."
+      - "This is the ring you sent to Sylvia."
+    m:
+      - "Oh, please forgive me, sir, I’ve made a mistake. This is the ring you sent to Sylvia."
+
+  - os: "She offers another ring."
+    ms: "She hands him another ring."
+
+  - sp: PROTEUS
+    o:
+      - "But how cam’st thou by this ring?"
+      - "At my depart I gave this unto Julia."
+    m:
+      - "But how did you get this ring? I gave it to Julia when I departed from Verona."
+
+  - sp: JULIA
+    o:
+      - "And Julia herself did give it me;"
+      - "And Julia herself have brought it hither."
+    m:
+      - "And Julia herself gave it to me. And Julia herself has brought it here."
+
+  - os: "She reveals her identity."
+    ms: "She reveals her identity."
+
+  - sp: PROTEUS
+    o:
+      - "How? Julia?"
+    m:
+      - "What? Julia?"
+
+  - sp: JULIA
+    o:
+      - "Behold her that gave aim to all thy oaths"
+      - "And entertained ’em deeply in her heart."
+      - "How oft hast thou with perjury cleft the root!"
+      - "O Proteus, let this habit make thee blush!"
+      - "Be thou ashamed that I have took upon me"
+      - "Such an immodest raiment, if shame live"
+      - "In a disguise of love."
+      - "It is the lesser blot, modesty finds,"
+      - "Women to change their shapes than men their minds."
+    m:
+      - "It’s me, the woman who was the object of all your oaths and believed them deeply in her heart. Your lies have often cut me to the core! Oh, Proteus, I hope my appearance makes you blush! You should be ashamed that I have put on such an immodest outfit, if shame can live in someone who fakes love. Modesty says it’s better for women to transform their appearances than for men to change their minds."
+
+  - sp: PROTEUS
+    o:
+      - "Than men their minds! ’Tis true. O heaven! Were man"
+      - "But constant, he were perfect. That one error"
+      - "Fills him with faults, makes him run through all th’ sins;"
+      - "Inconstancy falls off ere it begins."
+      - "What is in Sylvia’s face but I may spy"
+      - "More fresh in Julia’s with a constant eye?"
+    m:
+      - "Than for men to change their minds! It’s true. Oh, God! Were men more constant and less fickle, he would be perfect. That one error leads to numerous faults and makes him commit all the deadly sins. The fickle man begins deceiving before he even tries to be constant. What does Sylvia have that I wouldn’t see to be even better in Julia if I were faithful?"
+
+  - sp: VALENTINE
+    o:
+      - "Come, come, a hand from either."
+      - "Let me be blest to make this happy close;"
+      - "’Twere pity two such friends should be long foes."
+    m:
+      - "Come, come on, each of you give me a hand. Let me be blessed to bring this to a happy end. It would be a pity if two such good friends as you were enemies forever."
+
+  - os: "PROTEUS and JULIA join hands."
+    ms: "Proteus and Julia join hands."
+
+  - sp: PROTEUS
+    o:
+      - "Bear witness, heaven, I have my wish forever."
+    m:
+      - "As God as my witness, I have what I want forever."
+
+  - sp: JULIA
+    o:
+      - "And I mine."
+    m:
+      - "And I as well."
+
+  - os: "Enter DUKE and THURIO, led by Outlaws"
+    ms: "The DUKE and THURIO enter, led by outlaws."
+
+  - o:
+      - "A prize, a prize, a prize!"
+    m:
+      - "A prize! A prize! A prize!"
+
+  - sp: VALENTINE
+    o:
+      - "Forbear, forbear, I say! it is my lord the Duke."
+    m:
+      - "Stop, stop, I say! This is my lord, the duke."
+
+  - os: " "
+    ms: "They release the DUKE and THURIO"
+
+  - o:
+      - "Your Grace is welcome to a man disgraced,"
+      - "Banishèd Valentine."
+    m:
+      - "I welcome you, Your Grace, as a disgraced man, banished Valentine."
+
+  - sp: DUKE
+    o:
+      - "Sir Valentine!"
+    m:
+      - "Sir Valentine!"
+
+  - sp: THURIO
+    o:
+      - "*(Advancing)* Yonder is Sylvia, and Sylvia’s mine."
+    m:
+      - "*(advancing)* Sylvia is over there, and she’s mine."
+
+  - sp: VALENTINE
+    o:
+      - "*(Drawing his sword)* Thurio, give back, or else embrace thy death."
+      - "Come not within the measure of my wrath."
+      - "Do not name Sylvia thine; if once again,"
+      - "Verona shall not hold thee. Here she stands."
+      - "Take but possession of her with a touch;"
+      - "I dare thee but to breathe upon my love."
+    m:
+      - "*(drawing his sword)* Thurio, move back, or else be prepared to die. Don’t come within a step of my anger. Do not call Sylvia yours. If you do it again, you’ll never be welcome in Verona. Go ahead, try to even touch her. I dare you to even breathe upon my love."
+
+  - sp: THURIO
+    o:
+      - "Sir Valentine, I care not for her, I."
+      - "I hold him but a fool that will endanger"
+      - "His body for a girl that loves him not."
+      - "I claim her not, and therefore she is thine."
+    m:
+      - "Sir Valentine, I don’t care about her. I consider anyone a fool who will endanger his life for a girl who doesn’t love him. I don’t claim her, and therefore she is yours."
+
+  - sp: DUKE
+    o:
+      - "The more degenerate and base art thou,"
+      - "To make such means for her as thou hast done"
+      - "And leave her on such slight conditions."
+      - "Now, by the honor of my ancestry,"
+      - "I do applaud thy spirit, Valentine,"
+      - "And think thee worthy of an empress’ love."
+      - "Know then, I here forget all former griefs,"
+      - "Cancel all grudge, repeal thee home again,"
+      - "Plead a new state in thy unrivalled merit,"
+      - "To which I thus subscribe: Sir Valentine,"
+      - "Thou art a gentleman, and well derived."
+      - "Take thou thy Sylvia, for thou hast deserved her."
+    m:
+      - "Then you are even more degenerate and awful, having made such great efforts to win her as you have and now leaving her for such minor reasons. Now, by the honor of my ancestors, I applaud your spirit, Valentine, and think you worthy of an empress’ love. I disregard all my former grievances with you, cancel all grudges, welcome you home again, and give you a clean record because of your unrivaled excellence, which I bear witness to. Sir Valentine, you are a gentleman and well-born. Take your Sylvia, for you have earned her."
+
+  - sp: VALENTINE
+    o:
+      - "I thank Your Grace. The gift hath made me happy."
+      - "I now beseech you, for your daughter’s sake,"
+      - "To grant one boon that I shall ask of you."
+    m:
+      - "I thank Your Grace. Your gift has made me happy. Now I beg you, for your daughter’s sake, to grant one favor that I’ll ask of you."
+
+  - sp: DUKE
+    o:
+      - "I grant it for thine own, whate’er it be."
+    m:
+      - "I grant it for your own sake, whatever it may be."
+
+  - sp: VALENTINE
+    o:
+      - "These banished men, that I have kept withal,"
+      - "Are men endued with worthy qualities."
+      - "Forgive them what they have committed here,"
+      - "And let them be recalled from their exile."
+      - "They are reformèd, civil, full of good,"
+      - "And fit for great employment, worthy lord."
+    m:
+      - "These banished men, whom I have lived with, are men with good qualities. Forgive the crimes they’ve committed here, and declare an end to their exile. They are reformed, peaceful, goodhearted, and fit for great work, worthy lord."
+
+  - sp: DUKE
+    o:
+      - "Thou hast prevailed; I pardon them and thee."
+      - "Dispose of them as thou know’st their deserts."
+      - "Come, let us go. We will include all jars"
+      - "With triumphs, mirth, and rare solemnity."
+    m:
+      - "You win: I pardon them and you. I’ll leave you in charge of them, since you know what they deserve. Come, let’s go. We’ll put all quarrels behind us with pageants, happiness, and festivities."
+
+  - sp: VALENTINE
+    o:
+      - "And, as we walk along, I dare be bold"
+      - "With our discourse to make Your Grace to smile."
+      - "What think you of this page, my lord?"
+    m:
+      - "And, as we walk along, I’d like to be so bold as to tell you something to make Your Grace smile. What do you think of this young servant boy, my lord?"
+
+  - sp: DUKE
+    o:
+      - "I think the boy hath grace in him. He blushes."
+    m:
+      - "I think the boy has a feminine charm. Look, he’s blushing."
+
+  - sp: VALENTINE
+    o:
+      - "I warrant you, my lord, more grace than boy."
+    m:
+      - "I tell you, my lord, there’s more feminine charm in him than boy."
+
+  - sp: DUKE
+    o:
+      - "What mean you by that saying?"
+    m:
+      - "What do you mean by that?"
+
+  - sp: VALENTINE
+    o:
+      - "Please you, I’ll tell you as we pass along,"
+      - "That you will wonder what hath fortunèd.—"
+      - "Come, Proteus, ’tis your penance but to hear"
+      - "The story of your loves discoverèd."
+      - "That done, our day of marriage shall be yours:"
+      - "One feast, one house, one mutual happiness."
+    m:
+      - "If it please you, I’ll tell you on the way, and you’ll be amazed at what’s been going on. Come, Proteus, it’s your punishment to hear the story of your two loves revealed. When that’s done, our wedding day will also be yours: one feast, one house, and one mutual happiness."
+
+  - os: "Exeunt"
+    ms: "They exit."

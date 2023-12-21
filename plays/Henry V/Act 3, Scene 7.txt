@@ -1,0 +1,461 @@
+play: Henry V
+title: Act 3, Scene 7
+group: 3
+order: 15
+text:
+  - os: "Enter the CONSTABLE of France, the Lord RAMBURES, ORLÉANS, DAUPHIN, with others"
+    ms: "The CONSTABLE of France, Lord RAMBURES, ORLÉANS, and the DAUPHIN enter, with others."
+
+  - sp: CONSTABLE
+    o:
+      - "Tut, I have the best armor of the world. Would it were day!"
+    m:
+      - "Nonsense. I have the best armor in the world. I wish it were day!"
+
+  - sp: ORLÉANS
+    o:
+      - "You have an excellent armor, but let my horse have his due."
+    m:
+      - "You have wonderful armor, but give my horse his due."
+
+  - sp: CONSTABLE
+    o:
+      - "It is the best horse of Europe."
+    m:
+      - "It is the best horse in Europe."
+
+  - sp: ORLÉANS
+    o:
+      - "Will it never be morning?"
+    m:
+      - "Will it never be morning?"
+
+  - sp: DAUPHIN
+    o:
+      - "My lord of Orléans, and my Lord High Constable, you talk of horse and armor?"
+    m:
+      - "My lord of Orléans, and my lord high Constable, are you talking about horses and armor?"
+
+  - sp: ORLÉANS
+    o:
+      - "You are as well provided of both as any prince in the world."
+    m:
+      - "You are as well provided in both respects as any prince in the world."
+
+  - sp: DAUPHIN
+    o:
+      - "What a long night is this! I will not change my horse with any that treads but on four pasterns. Çà ha! He bounds from the earth, as if his entrails were hairs, le cheval volant, the Pegasus, qui a les narines de feu. When I bestride him, I soar; I am a hawk; he trots the air. The earth sings when he touches it. The basest horn of his hoof is more musical than the pipe of Hermes."
+    m:
+      - "What a long night this is! I will not trade my horse for any that walks on four legs. He leaps from the ground as if his insides were light as hairs. He’s a flying horse, a Pegasus, breathing fire out of his nostrils. When I sit astride him, I soar, I am a hawk. He trots on air. The earth sings when he touches it. The lowest part of his hoof is more musical than Pan’s pipe."
+
+  - sp: ORLÉANS
+    o:
+      - "He’s of the color of the nutmeg."
+    m:
+      - "He’s the color of nutmeg."
+
+  - sp: DAUPHIN
+    o:
+      - "And of the heat of the ginger. It is a beast for Perseus. He is pure air and fire; and the dull elements of earth and water never appear in him, but only in patient stillness while his rider mounts him. He is indeed a horse, and all other jades you may call beasts."
+    m:
+      - "And hot as ginger. He is an animal worthy of Perseus. He is pure air and fire. The duller elements of earth and water have no part in him, except in the moment of patient stillness when his rider mounts him. He is indeed worthy of the name “horse,” and you can call all the rest beasts."
+
+  - sp: CONSTABLE
+    o:
+      - "Indeed, my lord, it is a most absolute and excellent horse."
+    m:
+      - "Indeed, my lord, he is a perfectly wonderful horse."
+
+  - sp: DAUPHIN
+    o:
+      - "It is the prince of palfreys. His neigh is like the bidding of a monarch, and his countenance enforces homage."
+    m:
+      - "He is the prince of horses. His neigh is like a monarch’s command. His face demands respect."
+
+  - sp: ORLÉANS
+    o:
+      - "No more, cousin."
+    m:
+      - "Enough, cousin."
+
+  - sp: DAUPHIN
+    o:
+      - "Nay, the man hath no wit that cannot, from the rising of the lark to the lodging of the lamb, vary deserved praise on my palfrey. It is a theme as fluent as the sea. Turn the sands into eloquent tongues, and my horse is argument for them all. ’Tis a subject for a sovereign to reason on, and for a sovereign’s sovereign to ride on, and for the world, familiar to us and unknown, to lay apart their particular functions and wonder at him. I once writ a sonnet in his praise and began thus: “Wonder of nature—”"
+    m:
+      - "No, the man who cannot extol the virtues of my horse from dawn to dusk is not particularly clever. It’s a subject as worthy of endless discussion as the changing sea. If each grain of sand had a tongue to eulogize, my horse would be a topic for them all. He is a subject for a king to contemplate, and for a king’s king to ride on, and for the world at large—both friend and stranger—to stop whatever they are doing and marvel at. I once wrote a sonnet in his praise which began, “Wonder of nature—”"
+
+  - sp: ORLÉANS
+    o:
+      - "I have heard a sonnet begin so to one’s mistress."
+    m:
+      - "I have heard a sonnet to one’s mistress that began like that."
+
+  - sp: DAUPHIN
+    o:
+      - "Then did they imitate that which I composed to my courser, for my horse is my mistress."
+    m:
+      - "Then the writer imitated the one I composed to my steed, for my horse is my mistress."
+
+  - sp: ORLÉANS
+    o:
+      - "Your mistress bears well."
+    m:
+      - "Your mistress is a good mount."
+
+  - sp: DAUPHIN
+    o:
+      - "Me well—which is the prescript praise and perfection of a good and particular mistress."
+    m:
+      - "A good mount for me—and that’s the highest praise and very definition of a good mistress, that she belong to one alone."
+
+  - sp: CONSTABLE
+    o:
+      - "Nay, for methought yesterday your mistress shrewdly shook your back."
+    m:
+      - "Yes, but yesterday I could have sworn your mistress gave you a bumpy ride."
+
+  - sp: DAUPHIN
+    o:
+      - "So perhaps did yours."
+    m:
+      - "So, perhaps, did yours."
+
+  - sp: CONSTABLE
+    o:
+      - "Mine was not bridled."
+    m:
+      - "Mine wasn’t wearing a bridle."
+
+  - sp: DAUPHIN
+    o:
+      - "Oh, then belike she was old and gentle, and you rode, like a kern of Ireland, your French hose off and in your straight strossers."
+    m:
+      - "Oh, then I guess she was old and gentle, and you rode barelegged, like an Irish yokel."
+
+  - sp: CONSTABLE
+    o:
+      - "You have good judgment in horsemanship."
+    m:
+      - "You’re a good judge of horsemanship."
+
+  - sp: DAUPHIN
+    o:
+      - "Be warned by me, then: they that ride so, and ride not warily, fall into foul bogs. I had rather have my horse to my mistress."
+    m:
+      - "Take a tip from me, then. Those who don’t take care when they ride often find themselves thrown into a messy situation. I’d rather have my horse than a mistress."
+
+  - sp: CONSTABLE
+    o:
+      - "I had as lief have my mistress a jade."
+    m:
+      - "I’d prefer to keep my mistress rather than some lame horse."
+
+  - sp: DAUPHIN
+    o:
+      - "I tell thee, Constable, my mistress wears his own hair."
+    m:
+      - "I’ll tell you this, Constable, my mistress has his own hair."
+
+  - sp: CONSTABLE
+    o:
+      - "I could make as true a boast as that if I had a sow to my mistress."
+    m:
+      - "I could make the same boast even if I had a pig as my mistress."
+
+  - sp: DAUPHIN
+    o:
+      - "“Le chien est retourné à son propre vomissement, et la truie lavée au bourbier.” Thou mak’st use of anything."
+    m:
+      - "“The dog returns to its own vomit, and the newly washed sow to its mud puddle.” You’d take anything for a mistress."
+
+  - sp: CONSTABLE
+    o:
+      - "Yet do I not use my horse for my mistress, or any such proverb so little kin to the purpose."
+    m:
+      - "At least I don’t have a horse for my mistress—or a saying so beside the point."
+
+  - sp: RAMBURES
+    o:
+      - "My Lord Constable, the armor that I saw in your tent tonight, are those stars or suns upon it?"
+    m:
+      - "My Lord Constable, are those stars or suns I saw on the armor in your tent tonight?"
+
+  - sp: CONSTABLE
+    o:
+      - "Stars, my lord."
+    m:
+      - "Stars, my lord."
+
+  - sp: DAUPHIN
+    o:
+      - "Some of them will fall tomorrow, I hope."
+    m:
+      - "I hope some will fall off tomorrow."
+
+  - sp: CONSTABLE
+    o:
+      - "And yet my sky shall not want."
+    m:
+      - "And yet I’ll still have plenty."
+
+  - sp: DAUPHIN
+    o:
+      - "That may be, for you bear a many superfluously, and ’twere more honor some were away."
+    m:
+      - "No doubt, for you wear too many in the first place, and it might be more seemly to make do with fewer."
+
+  - sp: CONSTABLE
+    o:
+      - "Ev’n as your horse bears your praises—who would trot as well were some of your brags dismounted."
+    m:
+      - "Yes, like your horse, who, staggering under your boasts, would trot more easily if some of them dismounted."
+
+  - sp: DAUPHIN
+    o:
+      - "Would I were able to load him with his desert! Will it never be day? I will trot tomorrow a mile, and my way shall be paved with English faces."
+    m:
+      - "I only wish I could load him up with all the praise he deserves! Oh, will it never be day? I will ride out a mile tomorrow and leave the road paved with the faces of dead Englishmen."
+
+  - sp: CONSTABLE
+    o:
+      - "I will not say so, for fear I should be faced out of my way. But I would it were morning, for I would fain be about the ears of the English."
+    m:
+      - "I’d say the same thing, but I’m afraid I’d be faced out of my way. But I do wish it were morning, for I long to be mixing it up with the English."
+
+  - sp: RAMBURES
+    o:
+      - "Who will go to hazard with me for twenty prisoners?"
+    m:
+      - "Would anyone like to bet twenty prisoners with me?"
+
+  - sp: CONSTABLE
+    o:
+      - "You must first go yourself to hazard ere you have them."
+    m:
+      - "You’ll have to take some chances yourself before you catch them."
+
+  - sp: DAUPHIN
+    o:
+      - "’Tis midnight. I’ll go arm myself."
+    m:
+      - "It’s midnight. I’ll go put my armor on."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ORLÉANS
+    o:
+      - "The Dauphin longs for morning."
+    m:
+      - "The Dauphin really wants it to be morning."
+
+  - sp: RAMBURES
+    o:
+      - "He longs to eat the English."
+    m:
+      - "He wants to eat the English."
+
+  - sp: CONSTABLE
+    o:
+      - "I think he will eat all he kills."
+    m:
+      - "I think he’ll eat everyone he kills."
+
+  - sp: ORLÉANS
+    o:
+      - "By the white hand of my lady, he’s a gallant prince."
+    m:
+      - "By my mistress’ white hand, he’s a gallant prince."
+
+  - sp: CONSTABLE
+    o:
+      - "Swear by her foot, that she may tread out the oath."
+    m:
+      - "Swear by her foot, so she can stamp out the oath."
+
+  - sp: ORLÉANS
+    o:
+      - "He is simply the most active gentleman of France."
+    m:
+      - "He’s definitely the most active gentleman of France."
+
+  - sp: CONSTABLE
+    o:
+      - "Doing is activity, and he will still be doing."
+    m:
+      - "Performing is activity, and he is always doing that."
+
+  - sp: ORLÉANS
+    o:
+      - "He never did harm that I heard of."
+    m:
+      - "He never did harm that I heard of."
+
+  - sp: CONSTABLE
+    o:
+      - "Nor will do none tomorrow. He will keep that good name still."
+    m:
+      - "And he’s not going to do any tomorrow. That part of his reputation will stand."
+
+  - sp: ORLÉANS
+    o:
+      - "I know him to be valiant."
+    m:
+      - "I know him to be valiant."
+
+  - sp: CONSTABLE
+    o:
+      - "I was told that by one that knows him better than you."
+    m:
+      - "I was told that by one who knows him better than you."
+
+  - sp: ORLÉANS
+    o:
+      - "What’s he?"
+    m:
+      - "Who was that?"
+
+  - sp: CONSTABLE
+    o:
+      - "Marry, he told me so himself; and he said he cared not who knew it."
+    m:
+      - "Why, he told me so himself, and he said he didn’t care who knew it."
+
+  - sp: ORLÉANS
+    o:
+      - "He needs not. It is no hidden virtue in him."
+    m:
+      - "He doesn’t have to care. His virtue is not hidden."
+
+  - sp: CONSTABLE
+    o:
+      - "By my faith, sir, but it is; never anybody saw it but his lackey. ’Tis a hooded valor, and when it appears, it will bate."
+    m:
+      - "Oh, but it is, sir. No one but his valet ever saw it. His courage is hidden, and when it is revealed, it will shrink."
+
+  - sp: ORLÉANS
+    o:
+      - "Ill will never said well."
+    m:
+      - "Ill will never prompted anything well said."
+
+  - sp: CONSTABLE
+    o:
+      - "I will cap that proverb with “There is flattery in friendship.”"
+    m:
+      - "I’ll challenge that proverb with one of my own: “There is flattery in friendship.”"
+
+  - sp: ORLÉANS
+    o:
+      - "And I will take up that with “Give the devil his due.”"
+    m:
+      - "And I’ll match that with “Give the devil his due.”"
+
+  - sp: CONSTABLE
+    o:
+      - "Well placed; there stands your friend for the devil. Have at the very eye of that proverb with “A pox of the devil.”"
+    m:
+      - "Very apt! Your friend is equated with the devil. I’ll go straight for that proverb with “To hell with the devil.”"
+
+  - sp: ORLÉANS
+    o:
+      - "You are the better at proverbs, by how much “A fool’s bolt is soon shot.”"
+    m:
+      - "You are better at proverbs than I am by as much as “A fool shoots quickly and overshoots his mark.”"
+
+  - sp: CONSTABLE
+    o:
+      - "You have shot over."
+    m:
+      - "You have overshot."
+
+  - sp: ORLÉANS
+    o:
+      - "’Tis not the first time you were overshot."
+    m:
+      - "I’ve outshot you, and not for the first time."
+
+  - os: "Enter MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "My Lord High Constable, the English lie within fifteen hundred paces of your tents."
+    m:
+      - "My Lord High Constable, the English lie within fifteen hundred paces of your tents."
+
+  - sp: CONSTABLE
+    o:
+      - "Who hath measured the ground?"
+    m:
+      - "Who measured the ground?"
+
+  - sp: MESSENGER
+    o:
+      - "The Lord Grandpré."
+    m:
+      - "The Lord Grandpré."
+
+  - sp: CONSTABLE
+    o:
+      - "A valiant and most expert gentleman.—Would it were day! Alas, poor Harry of England! He longs not for the dawning as we do."
+    m:
+      - "A very valiant and knowledgeable gentleman. If only it were day! Poor Harry of England! He doesn’t long for the dawn as we do."
+
+  - sp: ORLÉANS
+    o:
+      - "What a wretched and peevish fellow is this king of England to mope with his fat-brained followers so far out of his knowledge."
+    m:
+      - "What a miserable and obstinate fellow this king of England is, to blunder with his fat-headed followers so far beyond his capacity."
+
+  - sp: CONSTABLE
+    o:
+      - "If the English had any apprehension, they would run away."
+    m:
+      - "If the English had any sense, they would run away."
+
+  - sp: ORLÉANS
+    o:
+      - "That they lack, for if their heads had any intellectual armor, they could never wear such heavy head-pieces."
+    m:
+      - "Well, obviously they don’t. If there were anything inside their heads, they could never wear such heavy helmets."
+
+  - sp: RAMBURES
+    o:
+      - "That island of England breeds very valiant creatures. Their mastiffs are of unmatchable courage."
+    m:
+      - "That island of England breeds very valiant creatures. Their hounds are unequaled in courage."
+
+  - sp: ORLÉANS
+    o:
+      - "Foolish curs, that run winking into the mouth of a Russian bear and have their heads crushed like rotten apples. You may as well say, that’s a valiant flea that dare eat his breakfast on the lip of a lion."
+    m:
+      - "Foolish dogs, blindly running straight toward a Russian bear only to have their heads crushed like rotten apples. You might just as well say, “That’s a valiant flea that dares to eat its breakfast on the lip of a lion.”"
+
+  - sp: CONSTABLE
+    o:
+      - "Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives. And then give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."
+    m:
+      - "Yes, exactly. And the men resemble their English hounds in their loud, showy ferocity, too, leaving their brains behind with their wives. Give them hefty meals of beef and iron and steel, and they will eat like wolves and fight like devils."
+
+  - sp: ORLÉANS
+    o:
+      - "Ay, but these English are shrewdly out of beef."
+    m:
+      - "Yes, but these English are seriously short of beef."
+
+  - sp: CONSTABLE
+    o:
+      - "Then shall we find tomorrow they have only stomachs to eat and none to fight. Now is it time to arm. Come, shall we about it?"
+    m:
+      - "Then tomorrow we’ll find that they feel only like eating, not like fighting. It’s time to put our armor on. Shall we get started?"
+
+  - sp: ORLÉANS
+    o:
+      - "It is now two o’clock. But, let me see, by ten"
+      - "We shall have each a hundred Englishmen."
+    m:
+      - "It’s two o’clock now. But let me see, by ten we shall each have captured a hundred Englishmen."
+
+  - os: "Exeunt"
+    ms: "They all exit."

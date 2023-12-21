@@ -1,0 +1,140 @@
+play: Henry V
+title: Act 3, Scene 5
+group: 3
+order: 13
+text:
+  - os: "Enter the KING OF FRANCE, the DAUPHIN, the duke of BOURBON, the CONSTABLE of France, and others"
+    ms: "The KING OF FRANCE, the DAUPHIN, the duke of BOURBON, and the CONSTABLE of France enter, with others."
+
+  - sp: KING OF FRANCE
+    o:
+      - "’Tis certain he hath passed the river Somme."
+    m:
+      - "He’s certainly crossed the river Somme."
+
+  - sp: CONSTABLE
+    o:
+      - "An if he be not fought withal, my lord,"
+      - "Let us not live in France. Let us quit all"
+      - "And give our vineyards to a barbarous people."
+    m:
+      - "And if he advances unopposed, my lord, let us abandon France. Let us leave everything and give our vineyards to the barbarous nation."
+
+  - sp: DAUPHIN
+    o:
+      - "*Ô Dieu vivant*, shall a few sprays of us,"
+      - "The emptying of our fathers’ luxury,"
+      - "Our scions, put in wild and savage stock,"
+      - "Spurt up so suddenly into the clouds"
+      - "And overlook their grafters?"
+    m:
+      - "God alive! Shall a few offshoots of our nation, born of our father’s lust—our branches grafted to wild and savage trunks—grow to such a height that they look down with contempt on the plants from which they first sprang?"
+
+  - sp: BOURBON
+    o:
+      - "Normans, but bastard Normans, Norman bastards!"
+      - "*Mort de ma vie,* if they march along"
+      - "Unfought withal, but I will sell my dukedom"
+      - "To buy a slobb’ry and a dirty farm"
+      - "In that nook-shotten isle of Albion."
+    m:
+      - "Normans, nothing more than bastard Normans, Norman bastards! I hope I die! If they march along unopposed, I will sell my dukedom for a sodden, filthy farm in that craggy isle of Albion."
+
+  - sp: CONSTABLE
+    o:
+      - "*Dieu de batailles,* where have they this mettle?"
+      - "Is not their climate foggy, raw, and dull,"
+      - "On whom, as in despite, the sun looks pale,"
+      - "Killing their fruit with frowns? Can sodden water,"
+      - "A drench for sur-reined jades, their barley broth,"
+      - "Decoct their cold blood to such valiant heat?"
+      - "And shall our quick blood, spirited with wine,"
+      - "Seem frosty? Oh, for honor of our land,"
+      - "Let us not hang like roping icicles"
+      - "Upon our houses’ thatch, whiles a more frosty people"
+      - "Sweat drops of gallant youth in our rich fields!"
+      - "“Poor” we may call them in their native lords."
+    m:
+      - "God of battles! Where do they get this spirit? Isn’t their climate foggy, cold, and dark? Doesn’t the sun shine palely down on them, as though in contempt, killing their fruit with frowns? Can boiled water (beer, they call it)—a drink for broken-down horses, heat their cold blood to such a valiant level? And shall our lively blood, quickened by wine, be so frosty? Oh, for the honor of our land, let us not hang like ropes of icicles off the thatched roofs of our houses while men of a more frosty temperament sweat off their own gallant youth in our rich fields! Our fields may be rich, but they are ruled poorly."
+
+  - sp: DAUPHIN
+    o:
+      - "By faith and honor,"
+      - "Our madams mock at us and plainly say"
+      - "Our mettle is bred out and they will give"
+      - "Their bodies to the lust of English youth"
+      - "To new-store France with bastard warriors."
+    m:
+      - "By faith and honor, our wives mock us, telling us brazenly that our vigor has been so bred out of us that they plan to give their bodies to the lusty youth of England to resupply France with men who, though bastards, will at least be warriors."
+
+  - sp: BOURBON
+    o:
+      - "And teach lavoltas high, and swift corantos,"
+      - "Saying our grace is only in our heels"
+      - "And that we are most lofty runaways."
+      - "They bid us to the"
+      - "English dancing schools."
+    m:
+      - "They tell us we’d be better off in English dancing schools, where we could teach the latest dances, as our grace is all in our heels; we are no better than high-class deserters."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Where is Montjoy the herald? Speed him hence."
+      - "Let him greet England with our sharp defiance."
+      - "Up, princes, and, with spirit of honor edged"
+      - "More sharper than your swords, hie to the field:"
+      - "Charles Delabreth, High Constable of France;"
+      - "You dukes of Orléans, Bourbon, and of Berri,"
+      - "Alençon, Brabant, Bar, and Burgundy;"
+      - "Jacques Chatillon, Rambures, Vaudemont,"
+      - "Beaumont, Grandpré, Roussi, and Faulconbridge,"
+      - "Foix, Lestrale, Bouciqualt, and Charolois;"
+      - "High dukes, great princes, barons, lords, and knights,"
+      - "For your great seats now quit you of great shames."
+      - "Bar Harry England, that sweeps through our land"
+      - "With pennons painted in the blood of Harfleur."
+      - "Rush on his host, as doth the melted snow"
+      - "Upon the valleys, whose low vassal seat"
+      - "The Alps doth spit and void his rheum upon."
+      - "Go down upon him—you have power enough—"
+      - "And in a captive chariot into Rouen"
+      - "Bring him our prisoner."
+    m:
+      - "Where is Montjoy, the herald? Send him on his way quickly. Tell him to greet the king of England with our sharp defiance. Rise, princes, and, with a spirit of honor more sharply edged than your swords, rush to the battlefield: Charles Delabreth, High Constable of France; you dukes of Orléans, Bourbon, Berri, Alençon, Brabant, Bar, and Burgundy; Jaques Chatillon, Rambures, Vaudemont, Beaumont, Grandpré, Roussi, and Fauconberg, Foix, Lestrale, Bouciqualt, and Charolois. High dukes, great princes, barons, lords and knights—for the sake of the great positions you hold, rid yourselves of this great shame. Stop Harry of England, who is now sweeping through our land with banners drenched in the French blood he spilled at Harfleur. Rush on his army the way the melting snow of the Alps spits on the low valleys below them. Descend on him: you have power enough. And bring him into Rouen as our prisoner."
+
+  - sp: CONSTABLE
+    o:
+      - "This becomes the great!"
+      - "Sorry am I his numbers are so few,"
+      - "His soldiers sick and famished in their march,"
+      - "For, I am sure, when he shall see our army"
+      - "He’ll drop his heart into the sink of fear"
+      - "And for achievement offer us his ransom."
+    m:
+      - "Now that’s a mission worthy of great men! I’m only sorry that his numbers are so few and those men he has sick and starving on the march. When he sees our army, I’m sure his heart will sink with fear and he’ll offer us a large sum in exchange for avoiding battleof."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Therefore, Lord Constable, haste on Montjoy"
+      - "And let him say to England that we send"
+      - "To know what willing ransom he will give."
+      - "—Prince Dauphin, you shall stay with us in Rouen."
+    m:
+      - "Have Montjoy hurry, then, Lord Constable, and have him ask the king of England what he is willing to pay us to get out of the war. Prince Dauphin, you’ll stay with me in Rouen."
+
+  - sp: DAUPHIN
+    o:
+      - "Not so, I do beseech your Majesty."
+    m:
+      - "No, please, I beg your Majesty."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Be patient, for you shall remain with us."
+      - "—Now forth, Lord Constable and princes all,"
+      - "And quickly bring us word of England’s fall."
+    m:
+      - "Be patient, because you’re staying with me. Go now, Lord Constable and all you princes, and quickly bring us news of England’s defeat."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,184 @@
+play: Macbeth
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Alarum within. Enter KING DUNCAN, MALCOLM, DONALBAIN, LENNOX, with attendants, meeting a bleeding CAPTAIN"
+    ms: "Sounds of a trumpet and soldiers fighting offstage. KING DUNCAN enters with his sons MALCOLM and DONALBAIN, LENNOX, and a number of attendants. They meet a wounded and bloody CAPTAIN."
+
+  - sp: DUNCAN
+    o:
+      - "What bloody man is that? He can report,"
+      - "As seemeth by his plight, of the revolt"
+      - "The newest state."
+    m:
+      - "Who is this bloody man? Judging from his appearance, I bet he can tell us the latest news about the revolt."
+
+  - sp: MALCOLM
+    o:
+      - "    This is the sergeant"
+      - "Who like a good and hardy soldier fought"
+      - "’Gainst my captivity. Hail, brave friend!"
+      - "Say to the king the knowledge of the broil"
+      - "As thou didst leave it."
+    m:
+      - "This is the brave sergeant who fought to keep me from being captured. Hail, brave friend! Tell the king what was happening in the battle when you left it."
+
+  - sp: CAPTAIN
+    o:
+      - "    Doubtful it stood,"
+      - "As two spent swimmers that do cling together"
+      - "And choke their art. The merciless Macdonwald—"
+      - "Worthy to be a rebel, for to that"
+      - "The multiplying villanies of nature"
+      - "Do swarm upon him—from the Western Isles"
+      - "Of kerns and gallowglasses is supplied,"
+      - "And fortune, on his damnèd quarrel smiling,"
+      - "Showed like a rebel’s whore. But all’s too weak,"
+      - "For brave Macbeth—well he deserves that name—"
+      - "Disdaining fortune, with his brandished steel,"
+      - "Which smoked with bloody execution,"
+      - "Like valor’s minion carved out his passage"
+      - "Till he faced the slave;"
+      - "Which ne’er shook hands, nor bade farewell to him,"
+      - "Till he unseamed him from the nave to th’ chops,"
+      - "And fixed his head upon our battlements."
+    m:
+      - "For a while you couldn’t tell who would win. The armies were like two exhausted swimmers clinging to each other and struggling in the water, unable to move. The villainous rebel Macdonwald was supported by foot soldiers and horsemen from Ireland and the Hebrides, and Lady Luck was with him, smiling cruelly at his enemies as if she were his whore. But Luck and Macdonwald together weren’t strong enough. Brave Macbeth, laughing at Luck, chopped his way through to Macdonwald, who didn’t even have time to say good-bye or shake hands before Macbeth split him open from his navel to his jawbone and stuck his head on our castle walls."
+
+  - sp: DUNCAN
+    o:
+      - "O valiant cousin! Worthy gentleman!"
+    m:
+      - "My brave relative! What a worthy man!"
+
+  - sp: CAPTAIN
+    o:
+      - "As whence the sun ’gins his reflection"
+      - "Shipwracking storms and direful thunders break,"
+      - "So from that spring whence comfort seemed to come"
+      - "Discomfort swells. Mark, King of Scotland, mark:"
+      - "No sooner justice had, with valor armed,"
+      - "Compelled these skipping kerns to trust their heels,"
+      - "But the Norweyan lord, surveying vantage,"
+      - "With furbished arms and new supplies of men,"
+      - "Began a fresh assault."
+    m:
+      - "But in the same way that violent storms always come just as spring appears, our success against Macdonwald created new problems for us. Listen to this, King: as soon as we sent those Irish soldiers running for cover, the Norwegian king saw his chance to attack us with fresh troops and shiny weapons."
+
+  - sp: DUNCAN
+    o:
+      - "Dismayed not this our captains, Macbeth and Banquo?"
+    m:
+      - "Didn’t this frighten our captains, Macbeth and Banquo?"
+
+  - sp: CAPTAIN
+    o:
+      - "Yes, as sparrows eagles, or the hare the lion."
+      - "If I say sooth, I must report they were"
+      - "As cannons overcharged with double cracks,"
+      - "So they doubly redoubled strokes upon the foe."
+      - "Except they meant to bathe in reeking wounds,"
+      - "Or memorize another Golgotha,"
+      - "I cannot tell—"
+      - "But I am faint, my gashes cry for help."
+    m:
+      - "The new challenge scared them about as much as sparrows frighten eagles, or rabbits frighten a lion. To tell you the truth, they fought the new enemy with twice as much force as before; they were like cannons loaded with double ammunition. Maybe they wanted to take a bath in their enemies’ blood, or make that battlefield as infamous as Golgotha, where Christ was crucified, I don’t know. But I feel weak. My wounds must be tended to."
+
+  - sp: DUNCAN
+    o:
+      - "So well thy words become thee as thy wounds;"
+      - "They smack of honor both. Go get him surgeons."
+    m:
+      - "Your words, like your wounds, bring you honor. Take him to the surgeons."
+
+  - os: "Exit CAPTAIN with attendants"
+    ms: "The CAPTAIN exits, helped by attendants."
+
+  - os: "Enter ROSS and ANGUS"
+    ms: "ROSS and ANGUS enter."
+
+  - o:
+      - "Who comes here?"
+    m:
+      - "Who is this?"
+
+  - sp: MALCOLM
+    o:
+      - "    The worthy thane of Ross."
+    m:
+      - "The worthy Thane of Ross."
+
+  - sp: LENNOX
+    o:
+      - "What a haste looks through his eyes! So should he look"
+      - "That seems to speak things strange."
+    m:
+      - "His eyes seem frantic! He looks like someone with a strange tale to tell."
+
+  - sp: ROSS
+    o:
+      - "    God save the king."
+    m:
+      - "God save the king!"
+
+  - sp: DUNCAN
+    o:
+      - "Whence cam’st thou, worthy thane?"
+    m:
+      - "Where have you come from, worthy thane?"
+
+  - sp: ROSS
+    o:
+      - "    From Fife, great king,"
+      - "Where the Norweyan banners flout the sky"
+      - "And fan our people cold."
+      - "Norway himself, with terrible numbers,"
+      - "Assisted by that most disloyal traitor,"
+      - "The thane of Cawdor, began a dismal conflict,"
+      - "Till that Bellona’s bridegroom, lapped in proof,"
+      - "Confronted him with self-comparisons,"
+      - "Point against point, rebellious arm ’gainst arm,"
+      - "Curbing his lavish spirit; and to conclude,"
+      - "The victory fell on us."
+    m:
+      - "Great king, I’ve come from Fife, where the Norwegian flag flies, mocking our country and frightening our people. Leading an enormous army and assisted by that disloyal traitor, the thane of Cawdor, the king of Norway began a bloody battle. But outfitted in his battle-weathered armor, Macbeth met the Norwegian attacks shot for shot, as if he were the goddess of war’s husband. Finally he broke the enemy’s spirit, and we were victorious."
+
+  - sp: DUNCAN
+    o:
+      - "    Great happiness!"
+    m:
+      - "Great happiness!"
+
+  - sp: ROSS
+    o:
+      - "    That now"
+      - "Sweno, the Norways’ king, craves composition."
+      - "Nor would we deign him burial of his men"
+      - "Till he disbursed at Saint Colme’s Inch"
+      - "Ten thousand dollars to our general use."
+    m:
+      - "So now Sweno, the Norwegian king, wants a treaty. We told him we wouldn’t even let him bury his men until he retreated to Saint Colme’s Inch and paid us ten thousand dollars."
+
+  - sp: DUNCAN
+    o:
+      - "No more that thane of Cawdor shall deceive"
+      - "Our bosom interest: go pronounce his present death,"
+      - "And with his former title greet Macbeth."
+    m:
+      - "The thane of Cawdor will never again betray me. Go announce that he will be executed, and tell Macbeth that Cawdor’s titles will be given to him."
+
+  - sp: ROSS
+    o:
+      - "I’ll see it done."
+    m:
+      - "I’ll get it done right away."
+
+  - sp: DUNCAN
+    o:
+      - "What he hath lost, noble Macbeth hath won."
+    m:
+      - "The thane of Cawdor has lost what the noble Macbeth has won."
+
+  - os: "Exeunt"
+    ms: "They all exit."

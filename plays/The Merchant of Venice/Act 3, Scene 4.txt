@@ -1,0 +1,175 @@
+play: The Merchant of Venice
+title: Act 3, Scene 4
+group: 3
+order: 15
+text:
+  - os: "Enter PORTIA, NERISSA, LORENZO, JESSICA, and BALTHAZAR, a man of PORTIA’s"
+    ms: "PORTIA, NERISSA, LORENZO, and JESSICA enter with BALTHAZAR, a servant of PORTIA’s."
+
+  - sp: LORENZO
+    o:
+      - "Madam, although I speak it in your presence,"
+      - "You have a noble and a true conceit"
+      - "Of godlike amity, which appears most strongly"
+      - "In bearing thus the absence of your lord."
+      - "But if you knew to whom you show this honor,"
+      - "How true a gentleman you send relief,"
+      - "How dear a lover of my lord your husband,"
+      - "I know you would be prouder of the work"
+      - "Than customary bounty can enforce you."
+    m:
+      - "Madam, I hope you don’t mind my saying that I admire your noble respect for friendship, which you show in letting your husband go off to help his friend like this. If you only knew the man you’re helping out, and what a faithful gentleman he is and how much he loves your husband, I know you’d be even prouder of your kindness than you normally might be."
+
+  - sp: PORTIA
+    o:
+      - "I never did repent for doing good,"
+      - "Nor shall not now; for in companions"
+      - "That do converse and waste the time together"
+      - "Whose souls do bear an equal yoke of love,"
+      - "There must be needs a like proportion"
+      - "Of lineaments, of manners, and of spirit,"
+      - "Which makes me think that this Antonio,"
+      - "Being the bosom lover of my lord,"
+      - "Must needs be like my lord. If it be so,"
+      - "How little is the cost I have bestowed"
+      - "In purchasing the semblance of my soul"
+      - "From out the state of hellish cruelty!"
+      - "This comes too near the praising of myself."
+      - "Therefore no more of it. Hear other things."
+      - "Lorenzo, I commit into your hands"
+      - "The husbandry and manage of my house"
+      - "Until my lord’s return."
+      - "    For mine own part,"
+      - "I have toward heaven breathed a secret vow"
+      - "To live in prayer and contemplation,"
+      - "Only attended by Nerissa here"
+      - "Until her husband and my lord’s return."
+      - "There is a monastery two miles off,"
+      - "And there will we abide. I do desire you"
+      - "Not to deny this imposition,"
+      - "The which my love and some necessity"
+      - "Now lays upon you."
+    m:
+      - "I’ve never regretted doing good, and I don’t now. Friends who spend a lot of time together and really care equally for each other must have many traits in common. Since Antonio’s my husband’s best friend, they must be very similar men. In that case, the money I’ve sent is a small price to pay to rescue someone who resembles my Bassanio, who’s like my own soul.—Anyway, let’s change the subject, since I feel like I’m starting to flatter myself. I have a favor to ask of you. Lorenzo, please take charge of the management of my house until my husband comes back. I’ve sworn to God that I’ll live a life of prayer and contemplation until my husband returns. Only Nerissa will keep me company. There’s a monastery two miles away where we can stay. Please say you’ll agree, because I really need you to do this."
+
+  - sp: LORENZO
+    o:
+      - "    Madam, with all my heart."
+      - "I shall obey you in all fair commands."
+    m:
+      - "Madam, with all my heart. I’ll do anything you ask."
+
+  - sp: PORTIA
+    o:
+      - "My people do already know my mind"
+      - "And will acknowledge you and Jessica"
+      - "In place of Lord Bassanio and myself."
+      - "So fare you well till we shall meet again."
+    m:
+      - "I’ve already spoken to my staff about this. They’ll consider you and Jessica masters of this house in place of Lord Bassanio and myself. So goodbye until we meet again."
+
+  - sp: LORENZO
+    o:
+      - "Fair thoughts and happy hours attend on you!"
+    m:
+      - "I hope you can relax and enjoy yourself!"
+
+  - sp: JESSICA
+    o:
+      - "I wish your ladyship all heart’s content."
+    m:
+      - "I hope you find peace and happiness, my lady."
+
+  - sp: PORTIA
+    o:
+      - "I thank you for your wish, and am well pleased"
+      - "To wish it back on you. Fare you well, Jessica."
+    m:
+      - "Thank you. I wish you the same. Goodbye, Jessica."
+
+  - os: "Exeunt JESSICA and LORENZO"
+    ms: "JESSICA and LORENZO exit."
+
+  - o:
+      - "Now, Balthazar,"
+      - "As I have ever found thee honest true,"
+      - "So let me find thee still."
+      - "*(gives BALTHAZAR a letter)*"
+      - "    Take this same letter,"
+      - "And use thou all th’ endeavour of a man"
+      - "In speed to Padua. See thou render this"
+      - "Into my cousin’s hands, Doctor Bellario."
+      - "And look what notes and garments he doth give thee,"
+      - "Bring them, I pray thee, with imagined speed"
+      - "Unto the traject, to the common ferry"
+      - "Which trades to Venice. Waste no time in words,"
+      - "But get thee gone. I shall be there before thee."
+    m:
+      - "Now, Balthazar, you’ve always been honest and faithful to me, and I trust you still are. *(she gives BALTHAZAR a letter)* Take this letter to Padua as fast as you can. Make sure you put it into the hands of my cousin Bellario, the Doctor of Laws. And as quickly as possible, take whatever letters and clothes he gives you to the public ferry that goes back and forth to Venice. Don’t waste time talking now. Just go. I’ll meet you at the ferry."
+
+  - sp: BALTHAZAR
+    o:
+      - "Madam, I go with all convenient speed."
+    m:
+      - "I’ll go as fast as I can, madam."
+
+  - os: "Exit BALTHAZAR"
+    ms: "He exits."
+
+  - sp: PORTIA
+    o:
+      - "Come on, Nerissa, I have work in hand"
+      - "That you yet know not of. We’ll see our husbands"
+      - "Before they think of us."
+    m:
+      - "Come on, Nerissa, I have many things to do that you don’t even know about yet. We’ll see our husbands before they even have a chance to miss us."
+
+  - sp: NERISSA
+    o:
+      - "    Shall they see us?"
+    m:
+      - "Will they see us?"
+
+  - sp: PORTIA
+    o:
+      - "They shall, Nerissa, but in such a habit"
+      - "That they shall think we are accomplishèd"
+      - "With that we lack. I’ll hold thee any wager,"
+      - "When we are both accoutred like young men,"
+      - "I’ll prove the prettier fellow of the two,"
+      - "And wear my dagger with the braver grace,"
+      - "And speak between the change of man and boy"
+      - "With a reed voice, and turn two mincing steps"
+      - "Into a manly stride, and speak of frays"
+      - "Like a fine bragging youth, and tell quaint lies,"
+      - "How honorable ladies sought my love,"
+      - "Which I denying, they fell sick and died—"
+      - "I could not do withal!—Then I’ll repent"
+      - "And wish for all that, that I had not killed them."
+      - "And twenty of these puny lies I’ll tell,"
+      - "That men shall swear I have discontinued school"
+      - "Above a twelvemonth. I have within my mind"
+      - "A thousand raw tricks of these bragging jacks"
+      - "Which I will practice."
+    m:
+      - "They will, Nerissa, but we’ll be disguised as men. I’ll bet you anything that I’ll be handsomer than you when we’re both dressed up. I’ll wear my sword more gracefully, and speak like a teenage boy, and walk with a manly stride rather than my ladylike steps. I’ll talk about fights like a bragging youth, and I’ll tell cute lies about honorable ladies who fell in love with me and got sick and died when I rejected them. They just died, what could I do! Then I’ll start feeling sorry for them, wishing I hadn’t killed them. I’ll tell twenty lies like that, so men will think I graduated from school at least a year ago. I know a thousand immature tricks like that, and I’ll use them all."
+
+  - sp: NERISSA
+    o:
+      - "Why, shall we turn to men?"
+    m:
+      - "Why, are we turning to men?"
+
+  - sp: PORTIA
+    o:
+      - "Fie, what a question’s that"
+      - "If thou wert near a lewd interpreter!"
+      - "But come, I’ll tell thee all my whole device"
+      - "When I am in my coach, which stays for us"
+      - "At the park gate. And therefore haste away,"
+      - "For we must measure twenty miles today."
+    m:
+      - "What kind of question is that! If I had a dirty mind, I’d think you meant turning to men for sex. Here, I’ll tell you my whole plan in my carriage, which is waiting for us at the gate. So hurry up, because we have twenty miles to cover today."
+
+  - os: "Exeunt"
+    ms: "They exit."

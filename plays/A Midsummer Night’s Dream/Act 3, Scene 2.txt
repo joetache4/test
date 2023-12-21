@@ -1,0 +1,1141 @@
+play: A Midsummer Night’s Dream
+title: Act 3, Scene 2
+group: 3
+order: 5
+text:
+  - os: "Enter OBERON, King of Fairies, solus"
+    ms: "OBERON, the Fairy King, enters."
+
+  - sp: OBERON
+    o:
+      - "I wonder if Titania be awaked."
+      - "Then, what it was that next came in her eye,"
+      - "Which she must dote on in extremity."
+    m:
+      - "I wonder if Titania is awake yet, and if she is, I wonder what the first thing she saw was. Whatever it is, she must be completely in love with it now."
+
+  - os: "Enter ROBIN"
+    ms: "ROBIN enters."
+
+  - o:
+      - "Here comes my messenger.—How now, mad spirit?"
+      - "What night-rule now about this haunted grove?"
+    m:
+      - "Ah, here comes my messenger.—What’s going on, you crazy spirit? What havoc have you wreaked in this part of the forest?"
+
+  - sp: ROBIN
+    o:
+      - "My mistress with a monster is in love."
+      - "Near to her close and consecrated bower,"
+      - "While she was in her dull and sleeping hour,"
+      - "A crew of patches, rude mechanicals"
+      - "That work for bread upon Athenian stalls,"
+      - "Were met together to rehearse a play"
+      - "Intended for great Theseus’ nuptial day."
+      - "The shallowest thick-skin of that barren sort,"
+      - "Who Pyramus presented in their sport,"
+      - "Forsook his scene and entered in a brake,"
+      - "When I did him at this advantage take,"
+      - "An ass’ nole I fixèd on his head."
+      - "Anon his Thisbe must be answerèd,"
+      - "And forth my mimic comes. When they him spy,"
+      - "As wild geese that the creeping fowler eye,"
+      - "Or russet-pated choughs, many in sort,"
+      - "Rising and cawing at the gun’s report,"
+      - "Sever themselves and madly sweep the sky—"
+      - "So at his sight away his fellows fly;"
+      - "And, at our stamp, here o’er and o’er one falls."
+      - "He “Murder!” cries and help from Athens calls."
+      - "Their sense thus weak, lost with their fears thus strong,"
+      - "Made senseless things begin to do them wrong."
+      - "For briers and thorns at their apparel snatch,"
+      - "Some sleeves, some hats—from yielders all things catch."
+      - "I led them on in this distracted fear"
+      - "And left sweet Pyramus translated there."
+      - "When in that moment so it came to pass,"
+      - "Titania waked and straightway loved an ass."
+    m:
+      - "My mistress Titania is in love with a monster. While she was sleeping in her bed of flowers, a group of bumbling idiots, rough workmen from Athens, got together nearby to rehearse some play they plan to perform on Theseus’ wedding day. The stupidest one, who played Pyramus in their play, finished his scene and went to sit in the bushes to wait for his next cue. I took that opportunity to stick a donkey’s head on him. When it was time for him to go back onstage and talk to his Thisbe, he came out of the bushes and everyone saw him. His friends ran away as fast as ducks scatter when they hear a hunter’s gunshot. One of them was so frightened when he heard my footsteps that he yelled, “Murder!” and called for help from Athens. They were all so afraid that they completely lost their common sense. They started to become scared of inanimate objects, terrified by the thorns and briars that catch at their clothing and pull off their sleeves and hats. I led them on in this frightened, distracted state, and left sweet Pyramus there, transformed into someone with a donkey’s head. At that exact moment, Titania woke up and immediately fell in love with him, an ass."
+
+  - sp: OBERON
+    o:
+      - "This falls out better than I could devise."
+      - "But hast thou yet latched the Athenian’s eyes"
+      - "With the love juice, as I did bid thee do?"
+    m:
+      - "This is going even better than I planned. But have you put the love juice from the flower on the eyes of that Athenian, as I asked you to do?"
+
+  - sp: ROBIN
+    o:
+      - "I took him sleeping—that is finished too—"
+      - "And the Athenian woman by his side,"
+      - "That, when he waked, of force she must be eyed."
+    m:
+      - "Yes, I found him when he was asleep—so that’s taken care of too—and the Athenian woman was sleeping near him. When he woke up, he must have seen her."
+
+  - os: "Enter DEMETRIUS and HERMIA"
+    ms: "DEMETRIUS and HERMIA enter."
+
+  - sp: OBERON
+    o:
+      - "*(aside to ROBIN)* Stand close. This is the same Athenian."
+    m:
+      - "*(speaking so that only ROBIN can hear)* Step aside. Here’s the Athenian coming now."
+
+  - sp: ROBIN
+    o:
+      - "*(aside to OBERON)* This is the woman, but not this the man."
+    m:
+      - "*(speaking so that only OBERON can hear)* That’s definitely the woman I saw, but it’s not the same man."
+
+  - sp: DEMETRIUS
+    o:
+      - "Oh, why rebuke you him that loves you so?"
+      - "Lay breath so bitter on your bitter foe."
+    m:
+      - "Why are you so rude to someone who loves you so much? Save that kind of harsh language for your worst enemy."
+
+  - sp: HERMIA
+    o:
+      - "Now I but chide, but I should use thee worse."
+      - "For thou, I fear, hast given me cause to curse."
+      - "If thou hast slain Lysander in his sleep,"
+      - "Being o’er shoes in blood, plunge in the deep,"
+      - "And kill me too."
+      - "The sun was not so true unto the day"
+      - "As he to me. Would he have stolen away"
+      - "From sleeping Hermia? I’ll believe as soon"
+      - "This whole Earth may be bored, and that the moon"
+      - "May through the center creep and so displease"
+      - "Her brother’s noontide with th’ Antipodes."
+      - "It cannot be but thou hast murdered him."
+      - "So should a murderer look, so dead, so grim."
+    m:
+      - "I’m only scolding you now, but I should treat you much worse, because I’m afraid you’ve given me good reason to curse you. If you killed Lysander while he was sleeping, then you’re already up to your ankles in blood. You might as well jump right into a bloodbath and kill me, too. He was more faithful to me than the sun is to the daytime. Would he have snuck away from me while I was asleep? I’ll believe that when I believe that there’s a hole through the center of the earth, and the moon has passed all the way through to the other side. The only possibility is that you’ve murdered him. A murderer should look like you do, so pale and grim."
+
+  - sp: DEMETRIUS
+    o:
+      - "So should the murdered look, and so should I,"
+      - "Pierced through the heart with your stern cruelty."
+      - "Yet you, the murderer, look as bright, as clear,"
+      - "As yonder Venus in her glimmering sphere."
+    m:
+      - "That’s how someone who’s been murdered should look, and that’s how I look. You’ve pierced me through the heart with your cruelty, and yet you, the murderer, look as bright and clear as a star in the sky."
+
+  - sp: HERMIA
+    o:
+      - "What’s this to my Lysander? Where is he?"
+      - "Ah, good Demetrius, wilt thou give him me?"
+    m:
+      - "What does that have to do with my Lysander? Where is he? Oh, good Demetrius, will you find him for me?"
+
+  - sp: DEMETRIUS
+    o:
+      - "I had rather give his carcass to my hounds."
+    m:
+      - "I would rather feed his corpse to my dogs."
+
+  - sp: HERMIA
+    o:
+      - "Out, dog! Out, cur! Thou drivest me past the bounds"
+      - "Of maiden’s patience. Hast thou slain him then?"
+      - "Henceforth be never numbered among men!"
+      - "Oh, once tell true, tell true even for my sake—"
+      - "Durst thou have looked upon him being awake,"
+      - "And hast thou killed him sleeping? O brave touch!"
+      - "Could not a worm, an adder, do so much?"
+      - "An adder did it, for with doubler tongue"
+      - "Than thine, thou serpent, never adder stung."
+    m:
+      - "Get out, dog! You’ve driven me to my wit’s end. Did you kill him, then? From now on I won’t even consider you a human being. Oh, just tell the truth for once. tell the truth, if only for my sake.—Would you have even dared to look at him when he was awake? And did you kill him while he was sleeping? Oh, how brave of you! A snake could do that as easily as you could. A snake did do it, because no snake ever had a more forked, lying tongue than you have."
+
+  - sp: DEMETRIUS
+    o:
+      - "You spend your passion on a misprised mood."
+      - "I am not guilty of Lysander’s blood."
+      - "Nor is he dead, for aught that I can tell."
+    m:
+      - "You’re getting all worked up over a misunderstanding. I didn’t kill Lysander. ?As far as I know, he’s not even dead."
+
+  - sp: HERMIA
+    o:
+      - "I pray thee, tell me then that he is well."
+    m:
+      - "Then please tell me he’s all right."
+
+  - sp: DEMETRIUS
+    o:
+      - "An if I could, what should I get therefore?"
+    m:
+      - "If I told you that, what would I get out of it?"
+
+  - sp: HERMIA
+    o:
+      - "A privilege never to see me more."
+      - "And from thy hated presence part I so."
+      - "See me no more, whether he be dead or no."
+    m:
+      - "The privilege of never seeing me again. And now I’m going to leave your despised company. You’ll never see me again, whether or not he’s dead."
+
+  - os: "Exit HERMIA"
+    ms: "HERMIA exits."
+
+  - sp: DEMETRIUS
+    o:
+      - "There is no following her in this fierce vein."
+      - "Here therefore for a while I will remain."
+      - "So sorrow’s heaviness doth heavier grow"
+      - "For debt that bankrupt sleep doth sorrow owe,"
+      - "Which now in some slight measure it will pay,"
+      - "If for his tender here I make some stay."
+      - "*(lies down and sleeps)*"
+    m:
+      - "I can’t go after her when she’s in a rage like this. So I’ll stay here for a while. Sadness gets worse when you haven’t had enough sleep. I’ll try to sleep a little here. *(DEMETRIUS lies down and falls asleep)*"
+
+  - sp: OBERON
+    o:
+      - "*(to ROBIN)* What hast thou done? Thou hast mistaken quite,"
+      - "And laid the love juice on some true love’s sight."
+      - "Of thy misprision must perforce ensue"
+      - "Some true love turned, and not a false turned true."
+    m:
+      - "*(to ROBIN)* What have you done? You’ve made a mistake and put the love-juice on someone else, someone who was truly in love. Because of your mistake someone’s true love must have turned bad, instead of this man’s false love being turned into a true love."
+
+  - sp: ROBIN
+    o:
+      - "Then fate o’errules that, one man holding troth,"
+      - "A million fail, confounding oath on oath."
+    m:
+      - "In that case, it must be fate. That’s the way of the world. For every man who’s faithful to his true love, a million end up running after a different lover."
+
+  - sp: OBERON
+    o:
+      - "About the wood go swifter than the wind,"
+      - "And Helena of Athens look thou find—"
+      - "All fancy-sick she is and pale of cheer,"
+      - "With sighs of love, that costs the fresh blood dear."
+      - "By some illusion see thou bring her here."
+      - "I’ll charm his eyes against she do appear."
+    m:
+      - "Go around the forest, moving faster than the wind, and make sure you find Helena of Athens.—She’s lovesick, and her face is pale from all the sighing she’s been doing, because sighing is bad for the blood. Bring her here with some trick or illusion, and I’ll put the charm on his eyes for when she comes."
+
+  - sp: ROBIN
+    o:
+      - "I go, I go. Look how I go,"
+      - "Swifter than arrow from the Tartar’s bow."
+    m:
+      - "I go, I go, look at me go—faster than an arrow from a Tartar’s bow."
+
+  - os: "Exit ROBIN"
+    ms: "ROBIN exits"
+
+  - sp: OBERON
+    o:
+      - "*(squeezing flower juice into DEMETRIUS’ eyes)*"
+      - "Flower of this purple dye,"
+      - "Hit with Cupid’s archery,"
+      - "Sink in apple of his eye."
+      - "When his love he doth espy,"
+      - "Let her shine as gloriously"
+      - "As the Venus of the sky."
+      - "When thou wakest, if she be by,"
+      - "Beg of her for remedy."
+    m:
+      - "*(putting flower juice on DEMETRIUS’ eyelids)*"
+      - "You purple flower, hit by Cupid’s arrow, sink into the pupils of this man’s eyes. When he sees the girl he should love, make her seem as bright to him as the evening star. Young man, when you wake up, if she’s nearby, beg her to cure your lovesickness."
+
+  - os: "Enter ROBIN"
+    ms: "ROBIN enters."
+
+  - sp: ROBIN
+    o:
+      - "Captain of our fairy band,"
+      - "Helena is here at hand,"
+      - "And the youth, mistook by me,"
+      - "Pleading for a lover’s fee."
+      - "Shall we their fond pageant see?"
+      - "Lord, what fools these mortals be!"
+    m:
+      - "Helena is nearby, boss. The young man who I mistook for this one is there too, begging her to love him. Should we watch this ridiculous scene? Lord, what fools these mortals are!"
+
+  - sp: OBERON
+    o:
+      - "Stand aside. The noise they make"
+      - "Will cause Demetrius to awake."
+    m:
+      - "Step aside. The noise they’re making will wake up Demetrius."
+
+  - sp: ROBIN
+    o:
+      - "Then will two at once woo one."
+      - "That must needs be sport alone."
+      - "And those things do best please me"
+      - "That befall preposterously."
+    m:
+      - "Then the two of them will both pursue one girl. That will be funny enough, and preposterous situations are my favorite thing."
+
+  - os: "Enter LYSANDER and HELENA"
+    ms: "LYSANDER and HELENA enter."
+
+  - sp: LYSANDER
+    o:
+      - "Why should you think that I should woo in scorn?"
+      - "Scorn and derision never come in tears."
+      - "Look, when I vow, I weep. And vows so born,"
+      - "In their nativity all truth appears."
+      - "How can these things in me seem scorn to you,"
+      - "Bearing the badge of faith to prove them true?"
+    m:
+      - "Why do you think I’m making fun of you when I tell you I love you? People don’t cry when they’re mocking someone. Look, when I swear that I love you, I cry, and when someone cries while he’s making a promise, he’s usually telling the truth. How can it seem like I’m making fun of you, when my tears prove that I’m sincere?"
+
+  - sp: HELENA
+    o:
+      - "You do advance your cunning more and more."
+      - "When truth kills truth, O devilish holy fray!"
+      - "These vows are Hermia’s. Will you give her o’er?"
+      - "Weigh oath with oath, and you will nothing weigh."
+      - "Your vows to her and me, put in two scales,"
+      - "Will even weigh, and both as light as tales."
+    m:
+      - "You get trickier and trickier. You’ve made the same promises to me and to Hermia—they can’t both be true! They must both be false. The promises you’re making to me belong to Hermia. Will you abandon her? If you weighed the promises you made to me against the promises you made to her, they’d come out the same—they both weigh nothing. They’re lies."
+
+  - sp: LYSANDER
+    o:
+      - "I had no judgment when to her I swore."
+    m:
+      - "I wasn’t thinking clearly when I made those promises to her."
+
+  - sp: HELENA
+    o:
+      - "Nor none, in my mind, now you give her o’er."
+    m:
+      - "And I don’t believe you’re thinking clearly now, as you break those promises."
+
+  - sp: LYSANDER
+    o:
+      - "Demetrius loves her, and he loves not you."
+    m:
+      - "Demetrius loves her, and he doesn’t love you."
+
+  - sp: DEMETRIUS
+    o:
+      - "*(waking)* O Helena, goddess, nymph, perfect, divine!"
+      - "To what, my love, shall I compare thine eyne?"
+      - "Crystal is muddy. Oh, how ripe in show"
+      - "Thy lips, those kissing cherries, tempting grow!"
+      - "That pure congealèd white, high Taurus’ snow,"
+      - "Fanned with the eastern wind, turns to a crow"
+      - "When thou hold’st up thy hand. Oh, let me kiss"
+      - "This princess of pure white, this seal of bliss!"
+    m:
+      - "*(waking up)* Oh Helena, you goddess, you divine and perfect nymph! What can I compare your eyes to? Crystal isn’t as clear as they are. Oh, your lips are as ripe as a pair of tempting cherries touching each other! The pure white of the snow on a mountaintop seems black as a crow’s wing next to the whiteness of your hands. Oh, let me kiss your beautiful white hand. It’ll make me so happy!"
+
+  - sp: HELENA
+    o:
+      - "O spite! O hell! I see you all are bent"
+      - "To set against me for your merriment."
+      - "If you were civil and knew courtesy,"
+      - "You would not do me thus much injury."
+      - "Can you not hate me, as I know you do,"
+      - "But you must join in souls to mock me too?"
+      - "If you were men, as men you are in show,"
+      - "You would not use a gentle lady so"
+      - "To vow, and swear, and superpraise my parts,"
+      - "When I am sure you hate me with your hearts."
+      - "You both are rivals, and love Hermia,"
+      - "And now both rivals to mock Helena—"
+      - "A trim exploit, a manly enterprise,"
+      - "To conjure tears up in a poor maid’s eyes"
+      - "With your derision! None of noble sort"
+      - "Would so offend a virgin, and extort"
+      - "A poor soul’s patience, all to make you sport."
+    m:
+      - "Damn it! I see you’re all determined to gang up on me for a few laughs. If you had any manners at all, you wouldn’t treat me like this. Can’t you just hate me, as I know you do? Do you have to get together to humiliate me too? If you were real men, as you pretend to be, you wouldn’t treat a lady this way, making vows and promises and praising my beauty when I know you’re really both disgusted by me. You’re competing for Hermia’s love, and now you’re competing to see which one of you can make fun of me the most. That’s a great idea, a really manly thing to do—making a poor girl cry! No respectable person would offend an innocent girl just to have some fun."
+
+  - sp: LYSANDER
+    o:
+      - "You are unkind, Demetrius. Be not so."
+      - "For you love Hermia. This you know I know."
+      - "And here, with all good will, with all my heart,"
+      - "In Hermia’s love I yield you up my part."
+      - "And yours of Helena to me bequeath,"
+      - "Whom I do love and will do till my death."
+    m:
+      - "Don’t be cruel, Demetrius. I know you love Hermia, and you know I know it. Right here, right now, I swear I’m giving up all my claims on her and handing her to you. In exchange, give up your claim to love Helena, since I love her and will love her until I die."
+
+  - sp: HELENA
+    o:
+      - "Never did mockers waste more idle breath."
+    m:
+      - "Nobody’s ever gone to so much trouble just to make fun of someone."
+
+  - sp: DEMETRIUS
+    o:
+      - "Lysander, keep thy Hermia. I will none."
+      - "If e’er I loved her, all that love is gone."
+      - "My heart to her but as guest-wise sojourned,"
+      - "And now to Helen is it home returned,"
+      - "There to remain."
+    m:
+      - "Lysander, keep your Hermia. I don’t want her. If I ever loved her, all that love is gone now. My love for her was temporary. Now I’ll love Helena forever."
+
+  - sp: LYSANDER
+    o:
+      - "Helen, it is not so."
+    m:
+      - "Helena, it’s not true."
+
+  - sp: DEMETRIUS
+    o:
+      - "Disparage not the faith thou dost not know,"
+      - "Lest to thy peril thou aby it dear."
+      - "Look, where thy love comes. Yonder is thy dear."
+    m:
+      - "Don’t insult a deep love that you don’t understand, or you’ll pay the price. Look, here comes the woman you love."
+
+  - os: "Enter HERMIA"
+    ms: "HERMIA enters."
+
+  - sp: HERMIA
+    o:
+      - "Dark night, that from the eye his function takes,"
+      - "The ear more quick of apprehension makes."
+      - "Wherein it doth impair the seeing sense,"
+      - "It pays the hearing double recompense."
+      - "Thou art not by mine eye, Lysander, found."
+      - "Mine ear, I thank it, brought me to thy sound"
+      - "But why unkindly didst thou leave me so?"
+    m:
+      - "It’s hard to see clearly in the dark of night, but it’s easier to hear well. I couldn’t see you, Lysander, but I heard your voice, and that’s how I found you. Why did you leave me alone so unkindly?"
+
+  - sp: LYSANDER
+    o:
+      - "Why should he stay, whom love doth press to go?"
+    m:
+      - "Why stay when love tells you to go?"
+
+  - sp: HERMIA
+    o:
+      - "What love could press Lysander from my side?"
+    m:
+      - "But what love could make my Lysander leave me?"
+
+  - sp: LYSANDER
+    o:
+      - "Lysander’s love, that would not let him bide,"
+      - "Fair Helena, who more engilds the night"
+      - "Than all yon fiery oes and eyes of light."
+      - "Why seek’st thou me? Could not this make thee know"
+      - "The hate I bear thee made me leave thee so?"
+    m:
+      - "I had to hurry to my love, beautiful Helena, who lights up the night better than all those fiery stars. Why are you looking for me? Didn’t you figure out that I left you because I hate you?"
+
+  - sp: HERMIA
+    o:
+      - "You speak not as you think. It cannot be."
+    m:
+      - "You can’t mean what you’re saying. It’s impossible."
+
+  - sp: HELENA
+    o:
+      - "Lo, she is one of this confederacy!"
+      - "Now I perceive they have conjoined all three"
+      - "To fashion this false sport, in spite of me.—"
+      - "Injurious Hermia! Most ungrateful maid!"
+      - "Have you conspired, have you with these contrived"
+      - "To bait me with this foul derision?"
+      - "Is all the counsel that we two have shared,"
+      - "The sisters’ vows, the hours that we have spent"
+      - "When we have chid the hasty-footed time"
+      - "For parting us—oh, is it all forgot?"
+      - "All schooldays’ friendship, childhood innocence?"
+      - "We, Hermia, like two artificial gods,"
+      - "Have with our needles created both one flower,"
+      - "Both on one sampler, sitting on one cushion,"
+      - "Both warbling of one song, both in one key,"
+      - "As if our hands, our sides, voices, and minds,"
+      - "Had been incorporate. So we grew together,"
+      - "Like to a double cherry—seeming parted"
+      - "But yet an union in partition—"
+      - "Two lovely berries molded on one stem;"
+      - "So, with two seeming bodies but one heart,"
+      - "Two of the first, like coats in heraldry,"
+      - "Due but to one and crownèd with one crest."
+      - "And will you rent our ancient love asunder"
+      - "To join with men in scorning your poor friend?"
+      - "It is not friendly, ’tis not maidenly."
+      - "Our sex, as well as I, may chide you for it,"
+      - "Though I alone do feel the injury."
+    m:
+      - "So, she’s in on this too! Now I see that all three of them have gotten together to play this cruel trick on me. Hurtful Hermia, you ungrateful girl, have you conspired with these two to provoke me with this horrible teasing? Have you forgotten all the talks we’ve had together, the vows we made to be like sisters to one another, all the hours we spent together, wishing that we never had to say goodbye—have you forgotten? Our friendship in our schooldays, our childhood innocence? We used to sit together and sew one flower with our two needles, sewing it on one piece of cloth, sitting on the same cushion, singing one song in the same key, as if our hands, our sides, our voices and our minds were stuck together. We grew together like twin cherries—which seemed to be separate but were also together—two lovely cherries on one stem. We seemed to have two separate bodies, but we had one heart. Do you want to destroy our old friendship by joining these men to insult your poor friend? It’s not friendly, and it’s not ladylike. All women would be angry with you for doing it, even though I’m the only one who’s hurt by it."
+
+  - sp: HERMIA
+    o:
+      - "I am amazèd at your passionate words."
+      - "I scorn you not. It seems that you scorn me."
+    m:
+      - "I’m completely dumbfounded by what you’re saying. I’m not insulting you. It sounds more like you’re insulting me."
+
+  - sp: HELENA
+    o:
+      - "Have you not set Lysander, as in scorn,"
+      - "To follow me and praise my eyes and face?"
+      - "And made your other love, Demetrius—"
+      - "Who even but now did spurn me with his foot—"
+      - "To call me goddess, nymph, divine, and rare,"
+      - "Precious, celestial? Wherefore speaks he this"
+      - "To her he hates? And wherefore doth Lysander"
+      - "Deny your love, so rich within his soul,"
+      - "And tender me, forsooth, affection,"
+      - "But by your setting on, by your consent?"
+      - "What though I be not so in grace as you—"
+      - "So hung upon with love, so fortunate—"
+      - "But miserable most, to love unloved?"
+      - "This you should pity rather than despise."
+    m:
+      - "Come on, confess. Didn’t you send Lysander, as an insult, to follow me around praising my eyes and my face? Haven’t you made your other love, Demetrius—who kicked me with his foot not long ago—call me a goddess and a divine, rare, precious, heavenly creature? Why does he talk like that to a girl he can’t stand? And why does Lysander deny that he loves you, when he loves you so deeply? Why would he show me any affection, unless you told him to? Why does it matter that I’m not as lucky or lovable as you are and that the love I feel is unrequited? You should pity me for that reason, not hate me."
+
+  - sp: HERMIA
+    o:
+      - "I understand not what you mean by this."
+    m:
+      - "I don’t know what you’re talking about."
+
+  - sp: HELENA
+    o:
+      - "Ay, do. Persever, counterfeit sad looks,"
+      - "Make mouths upon me when I turn my back,"
+      - "Wink each at other, hold the sweet jest up—"
+      - "This sport, well carried, shall be chronicled."
+      - "If you have any pity, grace, or manners,"
+      - "You would not make me such an argument."
+      - "But fare ye well. ’Tis partly my own fault,"
+      - "Which death or absence soon shall remedy."
+    m:
+      - "Oh, fine. All right, go ahead, keep up your little game, pretend to be sympathetic, but then nudge each other and wink and make faces at me when I turn my back. Keep up your wonderful game. You’re doing such a good job on this trick, someone should write a book about it. If you had any sense of pity, or manners, you wouldn’t pretend to fight over me like this. But goodbye. It’s partly my own fault, since I followed you here. Leaving—or dying—will soon take care of everything."
+
+  - sp: LYSANDER
+    o:
+      - "Stay, gentle Helena. Hear my excuse."
+      - "My love, my life, my soul, fair Helena!"
+    m:
+      - "Stay, lovely Helena. Listen to my excuse. My love, my life, my soul, beautiful Helena!"
+
+  - sp: HELENA
+    o:
+      - "Oh, excellent!"
+    m:
+      - "That’s a good one."
+
+  - sp: HERMIA
+    o:
+      - "*(to LYSANDER)*"
+      - "  Sweet, do not scorn her so."
+    m:
+      - "*(to LYSANDER)* Don’t insult her like that, Lysander darling."
+
+  - sp: DEMETRIUS
+    o:
+      - "If she cannot entreat, I can compel."
+    m:
+      - "*(to LYSANDER)* If Hermia’s begging can’t make you stop insulting Helena, I can force you to do so."
+
+  - sp: LYSANDER
+    o:
+      - "Thou canst compel no more than she entreat."
+      - "Thy threats have no more strength than her weak prayers.—"
+      - "Helen, I love thee. By my life, I do."
+      - "I swear by that which I will lose for thee"
+      - "To prove him false that says I love thee not."
+    m:
+      - "You can’t force me any more than Hermia can beg me. Your threats are no stronger than her whining.—Helena, I love you. I swear I do. I’ll give my life for you, just to prove this guy wrong when he says I don’t love you."
+
+  - sp: DEMETRIUS
+    o:
+      - "I say I love thee more than he can do."
+    m:
+      - "I say that I love you more than he does."
+
+  - sp: LYSANDER
+    o:
+      - "If thou say so, withdraw and prove it too."
+    m:
+      - "If that’s what you say, go fight a duel with me and prove it."
+
+  - sp: DEMETRIUS
+    o:
+      - "Quick, come."
+    m:
+      - "You’re on. Let’s do it."
+
+  - sp: HERMIA
+    o:
+      - "  Lysander, whereto tends all this?"
+    m:
+      - "Lysander, where are you going with all this?"
+
+  - os: "*(holds LYSANDER back)*"
+    ms: "*(she holds LYSANDER back)*"
+
+  - sp: LYSANDER
+    o:
+      - "*(to HERMIA)* Away, you Ethiope!"
+    m:
+      - "*(to HERMIA)* Get away, you African!"
+
+  - sp: DEMETRIUS
+    o:
+      - "*(to HERMIA)*"
+      - "    No, no. He’ll"
+      - "Seem to break loose."
+      - "*(to LYSANDER)*"
+      - "  Take on as you would follow,"
+      - "But yet come not. You are a tame man, go!"
+    m:
+      - "*(to HERMIA)* No, no. He’ll act like he’s going to break free from you, Hermia. *(to LYSANDER)* Pretend like you’re going to follow me, but then don’t come. You’re a coward, get out of here!"
+
+  - sp: LYSANDER
+    o:
+      - "*(to HERMIA)* Hang off, thou cat, thou burr! Vile thing, let loose"
+      - "Or I will shake thee from me like a serpent."
+    m:
+      - "*(to HERMIA)* Stop hanging on me, you cat, you thorn. Let go of me, or I’ll shake you off like a snake."
+
+  - sp: HERMIA
+    o:
+      - "Why are you grown so rude? What change is this,"
+      - "Sweet love?"
+    m:
+      - "Why have you gotten so rude? What’s happened to you, my darling?"
+
+  - sp: LYSANDER
+    o:
+      - "  Thy love? Out, tawny Tartar, out!"
+      - "Out, loathèd medicine! O hated potion, hence!"
+    m:
+      - "Your darling? Get out, you dark-skinned gypsy! Get out, you horrible poison. Get out!"
+
+  - sp: HERMIA
+    o:
+      - "Do you not jest?"
+    m:
+      - "Are you joking?"
+
+  - sp: HELENA
+    o:
+      - "  Yes, sooth, and so do you."
+    m:
+      - "Of course he is, and so are you."
+
+  - sp: LYSANDER
+    o:
+      - "Demetrius, I will keep my word with thee."
+    m:
+      - "Demetrius, I’m ready to fight you as promised."
+
+  - sp: DEMETRIUS
+    o:
+      - "I would I had your bond, for I perceive"
+      - "A weak bond holds you. I’ll not trust your word."
+    m:
+      - "I wish we had a signed legal contract. I can see you don’t keep your promises very well. I don’t trust you."
+
+  - sp: LYSANDER
+    o:
+      - "What, should I hurt her, strike her, kill her dead?"
+      - "Although I hate her, I’ll not harm her so."
+    m:
+      - "What? Do you want me to hit Hermia, hurt her, kill her? Sure, I hate her, but I wouldn’t hurt her."
+
+  - sp: HERMIA
+    o:
+      - "*(to LYSANDER)*"
+      - "What, can you do me greater harm than hate?"
+      - "Hate me? Wherefore? O me! What news, my love?"
+      - "Am not I Hermia? Are not you Lysander?"
+      - "I am as fair now as I was erewhile."
+      - "Since night you loved me. Yet since night you left me."
+      - "Why then, you left me—Oh, the gods forbid!—"
+      - "In earnest, shall I say?"
+    m:
+      - "*(to LYSANDER)* Can you hurt me any more than by saying you hate me? Hate me? Why? What’s happened to you, my love? Am I not Hermia? Aren’t you Lysander? I’m as beautiful now as I was a little while ago. You still loved me when we fell asleep, but when you woke up you left me. So you left me—Oh, God help me!—For real?"
+
+  - sp: LYSANDER
+    o:
+      - "    Ay, by my life,"
+      - "And never did desire to see thee more."
+      - "Therefore be out of hope, of question, of doubt."
+      - "Be certain, nothing truer. ’Tis no jest"
+      - "That I do hate thee and love Helena."
+    m:
+      - "I certainly did, and I never wanted to see you again. So stop hoping and wondering what I mean. I’ve spelled it out for you clearly. It’s no joke. I hate you and love Helena."
+
+  - sp: HERMIA
+    o:
+      - "O me!"
+      - "*(to HELENA)* You juggler! You canker-blossom!"
+      - "You thief of love! What, have you come by night"
+      - "And stol’n my love’s heart from him?"
+    m:
+      - "Oh, no! *(to HELENA)* You trickster, you snake! You thief! What, did you sneak in at night and steal my love’s heart from him?"
+
+  - sp: HELENA
+    o:
+      - "    Fine, i’ faith!"
+      - "Have you no modesty, no maiden shame,"
+      - "No touch of bashfulness? What, will you tear"
+      - "Impatient answers from my gentle tongue?"
+      - "Fie, fie! You counterfeit, you puppet, you!"
+    m:
+      - "Oh, that’s very nice! You ought to be ashamed of yourself! You’re going to make me mad enough to answer you? Damn you, you faker, you puppet!"
+
+  - sp: HERMIA
+    o:
+      - "“Puppet”? Why so?—Ay, that way goes the game."
+      - "Now I perceive that she hath made compare"
+      - "Between our statures. She hath urged her height,"
+      - "And with her personage, her tall personage,"
+      - "Her height, forsooth, she hath prevailed with him.—"
+      - "And are you grown so high in his esteem"
+      - "Because I am so dwarfish and so low?"
+      - "How low am I, thou painted maypole? Speak."
+      - "How low am I? I am not yet so low"
+      - "But that my nails can reach unto thine eyes."
+    m:
+      - "“Puppet”? Why “puppet”?—Oh, I see where this is going. She’s talking about our difference in height. She’s paraded in front of him to show off how tall she is. She won him over with her height.—Does he have such a high opinion of you because I’m so short? Is that it? So how short am I, you painted barber pole? Tell me. How short am I? I’m not too short to gouge your eyes out with my fingernails."
+
+  - sp: HELENA
+    o:
+      - "*(to LYSANDER and DEMETRIUS)*"
+      - "I pray you, though you mock me, gentlemen,"
+      - "Let her not hurt me. I was never cursed."
+      - "I have no gift at all in shrewishness."
+      - "I am a right maid for my cowardice."
+      - "Let her not strike me. You perhaps may think,"
+      - "Because she is something lower than myself,"
+      - "That I can match her."
+    m:
+      - "*(to LYSANDER and DEMETRIUS)* Please don’t let her hurt me, gentlemen, however much you want to tease me. I never was much good with insults. I’m not mean and catty like her. I’m a nice shy girl. Please don’t let her hit me. Maybe you think that because she’s shorter than me I can take her."
+
+  - sp: HERMIA
+    o:
+      - "  “Lower”? Hark, again!"
+    m:
+      - "“Shorter!” See, she’s doing it again!"
+
+  - sp: HELENA
+    o:
+      - "Good Hermia, do not be so bitter with me."
+      - "I evermore did love you, Hermia,"
+      - "Did ever keep your counsels, never wronged you—"
+      - "Save that, in love unto Demetrius,"
+      - "I told him of your stealth unto this wood."
+      - "He followed you. For love I followed him."
+      - "But he hath chid me hence and threatened me"
+      - "To strike me, spurn me—nay, to kill me too."
+      - "And now, so you will let me quiet go,"
+      - "To Athens will I bear my folly back"
+      - "And follow you no further. Let me go."
+      - "You see how simple and how fond I am."
+    m:
+      - "Good Hermia, please don’t act so bitter toward me. I always loved you, Hermia, and gave you advice. I never did anything to hurt you—except once, when I told Demetrius that you planned to sneak off into this forest. And I only did that because I loved Demetrius so much. He followed you. And I followed him because I loved him. But he told me to get lost and threatened to hit me, kick me—even kill me. Now just let me go quietly back to Athens. I’ll carry my mistakes back with me. I won’t follow you anymore. Please let me go. You see how naïve and foolish I’ve been."
+
+  - sp: HERMIA
+    o:
+      - "Why, get you gone! Who is ’t that hinders you?"
+    m:
+      - "Well, get out of here then! What’s keeping you?"
+
+  - sp: HELENA
+    o:
+      - "A foolish heart, that I leave here behind."
+    m:
+      - "My stupid heart, which I’m leaving behind here."
+
+  - sp: HERMIA
+    o:
+      - "What, with Lysander?"
+    m:
+      - "What, you’re leaving it with Lysander?"
+
+  - sp: HELENA
+    o:
+      - "    With Demetrius."
+    m:
+      - "No, with Demetrius."
+
+  - sp: LYSANDER
+    o:
+      - "Be not afraid. She shall not harm thee, Helena."
+    m:
+      - "Don’t be afraid. She can’t hurt you, Helena."
+
+  - sp: DEMETRIUS
+    o:
+      - "*(to LYSANDER)*"
+      - "No, sir, she shall not, though you take her part."
+    m:
+      - "*(to LYSANDER)* That’s right, Hermia won’t hurt Helena even if you try to help her."
+
+  - sp: HELENA
+    o:
+      - "Oh, when she’s angry, she is keen and shrewd!"
+      - "She was a vixen when she went to school."
+      - "And though she be but little, she is fierce."
+    m:
+      - "Oh, when you get her angry, she’s a good fighter, and vicious too. She was a hellcat in school. And she’s fierce, even though she’s little."
+
+  - sp: HERMIA
+    o:
+      - "“Little” again? Nothing but “low” and “little”!—"
+      - "Why will you suffer her to flout me thus?"
+      - "Let me come to her."
+    m:
+      - "“Little” again? Nothing but “little” and “short”!— Why are you letting her insult me like this? Let me at her!."
+
+  - sp: LYSANDER
+    o:
+      - "*(to HERMIA)* Get you gone, you dwarf,"
+      - "You minimus of hindering knotgrass made,"
+      - "You bead, you acorn!"
+    m:
+      - "*(to HERMIA)* Get lost, you dwarf, you tiny little weed, you scrap, you acorn!"
+
+  - sp: DEMETRIUS
+    o:
+      - "    You are too officious"
+      - "In her behalf that scorns your services."
+      - "Let her alone. Speak not of Helena."
+      - "Take not her part. For if thou dost intend"
+      - "Never so little show of love to her,"
+      - "Thou shalt aby it."
+    m:
+      - "You’re doing too much to defend a woman who wants nothing to do with you. Leave Hermia alone. Don’t talk about Helena. Don’t take Helena’s side. If you continue treating Hermia so badly, you’ll pay for it."
+
+  - sp: LYSANDER
+    o:
+      - "  Now she holds me not."
+      - "Now follow, if thou darest, to try whose right,"
+      - "Of thine or mine, is most in Helena."
+    m:
+      - "Hermia’s not holding onto me anymore. Follow me if you’re brave enough, and we’ll fight over Helena."
+
+  - sp: DEMETRIUS
+    o:
+      - "“Follow”? Nay, I’ll go with thee, cheek by jowl."
+    m:
+      - "“Follow”? No, I’ll walk right next to you, side by side."
+
+  - os: "Exeunt LYSANDER and DEMETRIUS"
+    ms: "DEMETRIUS and LYSANDER exit."
+
+  - sp: HERMIA
+    o:
+      - "You, mistress, all this coil is long of you."
+      - "Nay, go not back."
+    m:
+      - "All this fighting is because of you. Stay where you are."
+
+  - sp: HELENA
+    o:
+      - "  I will not trust you, I,"
+      - "Nor longer stay in your curst company."
+      - "Your hands than mine are quicker for a fray."
+      - "My legs are longer though, to run away."
+    m:
+      - "I’m not sticking around here any more. I don’t trust you. You might be a better fighter than I am, but my legs are longer and I can run away faster."
+
+  - os: "Exit HELENA"
+    ms: "HELENA exits."
+
+  - sp: HERMIA
+    o:
+      - "I am amazed and know not what to say."
+    m:
+      - "I just can’t believe any of this. I don’t know what to say."
+
+  - os: "Exit HERMIA"
+    ms: "HERMIA exits."
+
+  - sp: OBERON
+    o:
+      - "*(to ROBIN)* This is thy negligence. Still thou mistakest,"
+      - "Or else committ’st thy knaveries willfully."
+    m:
+      - "*(to ROBIN)* This is all your fault. You make mistakes constantly, or else you cause this kind of trouble on purpose."
+
+  - sp: ROBIN
+    o:
+      - "Believe me, King of Shadows, I mistook."
+      - "Did not you tell me I should know the man"
+      - "By the Athenian garment he had on?"
+      - "And so far blameless proves my enterprise,"
+      - "That I have ’nointed an Athenian’s eyes."
+      - "And so far am I glad it so did sort,"
+      - "As this their jangling I esteem a sport."
+    m:
+      - "Believe me, King of Illusions, I made a mistake. Didn’t you tell me that I’d be able to recognize the man by the Athenian clothes he was wearing? So far I’ve done exactly what I was supposed to do—I put the love potion on an Athenian’s eyes. And so far I’m pleased with the way things have turned out, since I find all of this commotion very entertaining."
+
+  - sp: OBERON
+    o:
+      - "Thou seest these lovers seek a place to fight."
+      - "Hie therefore, Robin, overcast the night."
+      - "The starry welkin cover thou anon"
+      - "With drooping fog as black as Acheron,"
+      - "And lead these testy rivals so astray"
+      - "As one come not within another’s way."
+      - "Like to Lysander sometime frame thy tongue,"
+      - "Then stir Demetrius up with bitter wrong."
+      - "And sometime rail thou like Demetrius."
+      - "And from each other look thou lead them thus,"
+      - "Till o’er their brows death-counterfeiting sleep"
+      - "With leaden legs and batty wings doth creep."
+      - "*(gives ROBIN another flower)*"
+      - "Then crush this herb into Lysander’s eye,"
+      - "Whose liquor hath this virtuous property"
+      - "To take from thence all error with his might"
+      - "And make his eyeballs roll with wonted sight."
+      - "When they next wake, all this derision"
+      - "Shall seem a dream and fruitless vision."
+      - "And back to Athens shall the lovers wend,"
+      - "With league whose date till death shall never end."
+      - "Whiles I in this affair do thee employ,"
+      - "I’ll to my queen and beg her Indian boy."
+      - "And then I will her charmèd eye release"
+      - "From monster’s view, and all things shall be peace."
+    m:
+      - "As you can see, these lovers are looking for a place to fight. Hurry up, Robin, and make the night dark and cloudy. Cover the sky with a low-hanging fog, as dark as hell, and get these overeager rivals so completely lost in the woods that they can’t run into each other. Imitate Lysander’s voice and egg Demetrius on with insults. Then rant for a while in Demetrius’ voice, and egg Lysander on. That way you’ll get them away from each other until they’re so exhausted that they’ll sleep like the dead. *(OBERON gives a new flower to ROBIN)* When they’re asleep, crush some of this flower’s juice into Lysander’s eyes. The flower’s juice has the power to erase all the damage that’s been done to his eyes, and to make him see normally, the way he used to. When they wake up, all this trouble and conflict will seem like a dream or a meaningless vision. Then the lovers will go back to Athens, united together until death. While you’re busy with that, I’ll go see Queen Titania and ask her once again for the Indian boy. And then I’ll undo the spell that I cast over her, so she won’t be in love with that monster anymore. Then everything will be peaceful again."
+
+  - sp: ROBIN
+    o:
+      - "My fairy lord, this must be done with haste."
+      - "For night’s swift dragons cut the clouds full fast,"
+      - "And yonder shines Aurora’s harbinger,"
+      - "At whose approach, ghosts, wandering here and there,"
+      - "Troop home to churchyards. Damnèd spirits all,"
+      - "That in crossways and floods have burial,"
+      - "Already to their wormy beds are gone."
+      - "For fear lest day should look their shames upon,"
+      - "They willfully themselves exile from light"
+      - "And must for aye consort with black-browed night."
+    m:
+      - "We’ve got to act fast, my lord of the fairies. Night’s fading quickly, and in the distance the morning star is shining, warning us that dawn is coming. At dawn, the ghosts that have been wandering around all night go home to the graveyards. The souls of people who weren’t buried in holy ground, but instead lie rotting by the side of the road or at the bottom of a river, have already gone back to their wormy graves. They weren’t buried in a real graveyard because they committed suicide, and they don’t want their shame to be seen in daylight, so they avoid sunlight and stay forever in the darkness of night."
+
+  - sp: OBERON
+    o:
+      - "But we are spirits of another sort."
+      - "I with the morning’s love have oft made sport,"
+      - "And like a forester the groves may tread"
+      - "Even till the eastern gate, all fiery red,"
+      - "Opening on Neptune with fair blessèd beams,"
+      - "Turns into yellow gold his salt green streams."
+      - "But notwithstanding, haste. Make no delay."
+      - "We may effect this business yet ere day."
+    m:
+      - "But we’re not like that. We’re a different kind of spirit, and we don’t have to run away from the sunlight. I like the morning. I often wander around in the woods like a forest ranger until the sun rises in the fiery red sky over the ocean, turning the salty green water to gold. But you should hurry anyway. Don’t delay. We still have time to get all of this done before daybreak."
+
+  - os: "Exit OBERON"
+    ms: "OBERON exits."
+
+  - sp: ROBIN
+    o:
+      - "  Up and down, up and down,"
+      - "  I will lead them up and down."
+      - "  I am feared in field and town."
+      - "  Goblin, lead them up and down."
+      - "Here comes one."
+    m:
+      - "Up and down, up and down,"
+      - "I will lead them up and down."
+      - "The people fear me in the country and the town."
+      - "Goblin, lead them up and down."
+      - "Here comes one of them now."
+
+  - os: "Enter LYSANDER"
+    ms: "LYSANDER enters."
+
+  - sp: LYSANDER
+    o:
+      - "Where art thou, proud Demetrius? Speak thou now."
+    m:
+      - "Where are you, Demetrius, you arrogant bastard? Say something."
+
+  - sp: ROBIN
+    o:
+      - "*(as DEMETRIUS)*"
+      - "Here, villain. Drawn and ready. Where art thou?"
+    m:
+      - "*(in DEMETRIUS’ voice)* I’m over here, you villain, with my sword out and ready to fight. Where are you?"
+
+  - sp: LYSANDER
+    o:
+      - "I will be with thee straight."
+    m:
+      - "I’m coming."
+
+  - sp: ROBIN
+    o:
+      - "*(as DEMETRIUS)* Follow me then"
+      - "To plainer ground."
+    m:
+      - "*(in DEMETRIUS’ voice)* Let’s go to a flatter area where we can fight more easily."
+
+  - os: "Exit LYSANDER"
+    ms: "LYSANDER exits."
+
+  - os: "Enter DEMETRIUS"
+    ms: "DEMETRIUS enters."
+
+  - sp: DEMETRIUS
+    o:
+      - "  Lysander, speak again!"
+      - "Thou runaway, thou coward, art thou fled?"
+      - "Speak! In some bush? Where dost thou hide thy head?"
+    m:
+      - "Lysander, say something! You coward, did you run away from me? Say something! Are you behind some bush? Where are you hiding?"
+
+  - sp: ROBIN
+    o:
+      - "*(as LYSANDER)* Thou coward, art thou bragging to the stars,"
+      - "Telling the bushes that thou look’st for wars,"
+      - "And wilt not come? Come, recreant. Come, thou child!"
+      - "I’ll whip thee with a rod. He is defiled"
+      - "That draws a sword on thee."
+    m:
+      - "*(in LYSANDER’s voice)* You coward, are you bragging to the stars and telling the bushes that you want a fight, but then you won’t come and fight me? Come here, you coward! Come here, you child! I’ll beat you with a stick. It would be shameful to fight you with a sword, the way I would fight with a real man."
+
+  - sp: DEMETRIUS
+    o:
+      - "    Yea, art thou there?"
+    m:
+      - "Are you there?"
+
+  - sp: ROBIN
+    o:
+      - "*(as LYSANDER)*"
+      - "Follow my voice. We’ll try no manhood here."
+    m:
+      - "*(in LYSANDER’s voice)* Follow my voice. This isn’t a good place to fight."
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Enter LYSANDER"
+    ms: "LYSANDER enters."
+
+  - sp: LYSANDER
+    o:
+      - "He goes before me and still dares me on."
+      - "When I come where he calls, then he is gone."
+      - "The villain is much lighter-heeled than I."
+      - "I followed fast, but faster he did fly,"
+      - "That fallen am I in dark uneven way,"
+      - "And here will rest me."
+      - "*(lies down)*"
+      - "    Come, thou gentle day!"
+      - "For if but once thou show me thy grey light,"
+      - "I’ll find Demetrius and revenge this spite."
+      - "*(sleeps)*"
+    m:
+      - "He’s walking ahead of me, and he keeps daring me to follow him. When I reach the place he’s calling from, he disappears. This villain is much quicker than I am. I ran after him fast, but he ran away from me faster, so that now here I am in some dark part of the forest where the ground is uneven. I’ll rest here. *(he lies down)* I hope the pleasant daytime comes soon! As soon as the gray light of early morning appears, I’ll find Demetrius and get my revenge for this insult."
+
+  - os: "Enter ROBIN and DEMETRIUS"
+    ms: "LYSANDER lies down and falls asleep. ROBIN and DEMETRIUS enter."
+
+  - sp: ROBIN
+    o:
+      - "*(as LYSANDER to DEMETRIUS)*"
+      - "Ho, ho, ho! Coward, why comest thou not?"
+    m:
+      - "*(in LYSANDER’s voice)* Ha, ha, ha! Hey, You coward, why aren’t you coming?"
+
+  - sp: DEMETRIUS
+    o:
+      - "Abide me, if thou darest! For well I wot"
+      - "Thou runn’st before me, shifting every place,"
+      - "And darest not stand nor look me in the face."
+      - "Where art thou now?"
+    m:
+      - "Wait for me, if you’re not too scared! I know that’s why you’re running away from me, constantly changing places—you’re afraid to stand still and wait for me. You’re scared to look me in the eye. Where are you now?"
+
+  - sp: ROBIN
+    o:
+      - "*(as LYSANDER)* Come hither. I am here."
+    m:
+      - "*(in LYSANDER’s voice)* Come here. I’m over here."
+
+  - sp: DEMETRIUS
+    o:
+      - "Nay, then, thou mock’st me. Thou shalt buy this dear"
+      - "If ever I thy face by daylight see."
+      - "Now go thy way. Faintness constraineth me"
+      - "To measure out my length on this cold bed."
+      - "By day’s approach look to be visited."
+      - "*(lies down and sleeps)*"
+    m:
+      - "No, you’re just taunting me. You’ll pay for this if I ever see you face-to-face in the daylight. Go wherever you want. I’m exhausted; I need to lie down and sleep on this cold ground. But watch out. I’ll find you at dawn. *(DEMETRIUS lies down and sleeps)*"
+
+  - os: "Enter HELENA"
+    ms: "HELENA enters."
+
+  - sp: HELENA
+    o:
+      - "O weary night, O long and tedious night,"
+      - "Abate thy hours. Shine comforts from the east,"
+      - "That I may back to Athens by daylight"
+      - "From these that my poor company detest."
+      - "And sleep, that sometimes shuts up sorrow’s eye,"
+      - "Steal me awhile from mine own company."
+      - "*(lies down and sleeps)*"
+    m:
+      - "Oh, what a long, tedious, exhausting night! I wish it would end. I wish the comforting light of day would shine so I can go back to Athens and get away from these people who hate me so much. I hope I’ll be able to sleep and escape my troubles for a while. People can sometimes forget their difficulties when they’re asleep. *(HELENA lies down and sleeps)*"
+
+  - sp: ROBIN
+    o:
+      - "  Yet but three? Come one more."
+      - "  Two of both kinds make up four."
+      - "  Here she comes, cursed and sad."
+      - "  Cupid is a knavish lad"
+      - "  Thus to make poor females mad."
+    m:
+      - "Only three so far? We’re still waiting for one more. Two of both kinds makes four. Ah, here she comes, angry and sad. Cupid is a bad boy for making poor women go crazy like this."
+
+  - os: "Enter HERMIA"
+    ms: "HERMIA enters."
+
+  - sp: HERMIA
+    o:
+      - "Never so weary, never so in woe,"
+      - "Bedabbled with the dew and torn with briers,"
+      - "I can no further crawl, no further go."
+      - "My legs can keep no pace with my desires."
+      - "Here will I rest me till the break of day."
+      - "Heavens shield Lysander if they mean a fray!"
+      - "*(lies down and sleeps)*"
+    m:
+      - "I’ve never been more exhausted or upset. I’m all wet from the dew and scratched up by thorns, and I can’t crawl any farther. I just can’t go on. My legs can’t hold themselves up. I’ll sleep here until morning. If they do fight, I hope Lysander is safe! *(HERMIA lies down and sleeps)*"
+
+  - sp: ROBIN
+    o:
+      - "  On the ground"
+      - "  Sleep sound."
+      - "  I’ll apply"
+      - "  To your eye."
+      - "  Gentle lover, remedy."
+      - "*(squeezes flower juice into LYSANDER’s eyes)*"
+      - "  When thou wakest,"
+      - "  Thou takest"
+      - "  True delight"
+      - "  In the sight"
+      - "  Of thy former lady’s eye."
+      - "  And the country proverb known—"
+      - "  That every man should take his own—"
+      - "  In your waking shall be shown."
+      - "  Jack shall have Jill."
+      - "  Nought shall go ill."
+      - "The man shall have his mare again, and all shall be well."
+    m:
+      - "Sleep well there on the ground. I’ll cure you, gentle lover, by putting this medicine on your eyes. *(ROBIN puts the nectar of the flower on LYSANDER’s eyelids)* When you wake you will be truly delighted to see the woman you once loved. And when you wake up, you’ll be a walking illustration of the well-known country proverb. “Jack will have Jill and everything will be all right.”"
+
+  - os: "Exit ROBIN"
+    ms: "ROBIN exits."

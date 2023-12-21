@@ -1,0 +1,648 @@
+play: Measure for Measure
+title: Act 4, Scene 2
+group: 4
+order: 11
+text:
+  - os: "A room in the prison."
+    ms: "A room in the prison."
+
+  - os: "Enter Provost and POMPEY"
+    ms: "The Provost and POMPEY enter."
+
+  - sp: PROVOST
+    o:
+      - "Come hither, sirrah. Can you cut off a man’s head?"
+    m:
+      - "Come here, you. Can you cut off a man’s head?"
+
+  - sp: POMPEY
+    o:
+      - "If the man be a bachelor, sir, I can; but if he be a"
+      - "married man, he’s his wife’s head, and I can never"
+      - "cut off a woman’s head."
+    m:
+      - "If the man’s a bachelor, sir, I can. But if he’s a married man, he’s also his wife’s head, and I can never cut off a woman’s head."
+
+  - sp: PROVOST
+    o:
+      - "Come, sir, leave me your snatches, and yield me a"
+      - "direct answer. To-morrow morning are to die Claudio"
+      - "and Barnardine. Here is in our prison a common"
+      - "executioner, who in his office lacks a helper: if"
+      - "you will take it on you to assist him, it shall"
+      - "redeem you from your gyves; if not, you shall have"
+      - "your full time of imprisonment and your deliverance"
+      - "with an unpitied whipping, for you have been a"
+      - "notorious bawd."
+    m:
+      - "Come on, sir, spare me your jokes and give me a straight answer. Claudio and Barnardine are to die tomorrow morning. Here in our prison we have a public executioner, who needs a helper. If you’ll take on the job of assisting him, it’ll free you from your chains. If you don’t, you’ll have to serve your full sentence, with a fierce whipping before you’re released because you’ve been a notorious pimp."
+
+  - sp: POMPEY
+    o:
+      - "Sir, I have been an unlawful bawd time out of mind;"
+      - "but yet I will be content to be a lawful hangman. I"
+      - "would be glad to receive some instruction from my"
+      - "fellow partner."
+    m:
+      - "Sir, I’ve been an illegal pimp for longer than I can remember, but I’ll be happy to be a legal hangman. I’d be glad for my new partner to teach me."
+
+  - sp: PROVOST
+    o:
+      - "What, ho! Abhorson! Where’s Abhorson, there?"
+    m:
+      - "Hey, Abhorson! Where are you, Abhorson?"
+
+  - os: "Enter ABHORSON"
+    ms: "ABHORSON (the executioner) enters."
+
+  - sp: ABHORSON
+    o:
+      - "Do you call, sir?"
+    m:
+      - "Did you call, sir?"
+
+  - sp: PROVOST
+    o:
+      - "Sirrah, here’s a fellow will help you to-morrow in"
+      - "your execution. If you think it meet, compound with"
+      - "him by the year, and let him abide here with you; if"
+      - "not, use him for the present and dismiss him. He"
+      - "cannot plead his estimation with you; he hath been a bawd."
+    m:
+      - "Here’s a fellow to help you with tomorrow’s executions. If he works out, settle on an annual salary and let him stay here with you. If he doesn’t, use him just for now and then fire him. He can’t claim to be too good for the work since he’s been a pimp."
+
+  - sp: ABHORSON
+    o:
+      - "A bawd, sir? fie upon him! he will discredit our mystery."
+    m:
+      - "A pimp, sir? To hell with him! He’ll discredit our profession."
+
+  - sp: PROVOST
+    o:
+      - "Go to, sir; you weigh equally; a feather will turn"
+      - "the scale."
+    m:
+      - "Go on, sir. You two are worth the same. No more than a featherweight’s difference, anyway."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: POMPEY
+    o:
+      - "Pray, sir, by your good favour,—for surely, sir, a"
+      - "good favour you have, but that you have a hanging"
+      - "look,—do you call, sir, your occupation a mystery?"
+    m:
+      - "Sir, would you please—for you do have a pleasing face, except for your hanging expression—tell me if you call your job a profession?"
+
+  - sp: ABHORSON
+    o:
+      - "Ay, sir; a mystery"
+    m:
+      - "Yes, sir, a profession."
+
+  - sp: POMPEY
+    o:
+      - "Painting, sir, I have heard say, is a mystery; and"
+      - "your whores, sir, being members of my occupation,"
+      - "using painting, do prove my occupation a mystery:"
+      - "but what mystery there should be in hanging, if I"
+      - "should be hanged, I cannot imagine."
+    m:
+      - "I’ve heard it said that painting, sir, is a profession, and since whores—who are in my field—paint their faces, they prove my occupation is a profession. But I’ll be hanged if I can imagine how hanging is a profession."
+
+  - sp: ABHORSON
+    o:
+      - "Sir, it is a mystery."
+    m:
+      - "Sir, it is a profession."
+
+  - sp: POMPEY
+    o:
+      - "Proof?"
+    m:
+      - "Can you prove it?"
+
+  - sp: ABHORSON
+    o:
+      - "Every true man’s apparel fits your thief: if it be"
+      - "too little for your thief, your true man thinks it"
+      - "big enough; if it be too big for your thief, your"
+      - "thief thinks it little enough: so every true man’s"
+      - "apparel fits your thief."
+    m:
+      - "A thief steals and puts on the clothes of an honest man. If the thief thinks the clothes don’t make him seem honest enough, a truly honest man will think that’s appropriate. If the thief thinks the clothes make him seem extra honest, then the thief thinks the disguise fits just right. So someone is always happy with the way the disguise works for the thief."
+
+  - os: "Re-enter Provost"
+    ms: "The Provost re-enters."
+
+  - sp: PROVOST
+    o:
+      - "Are you agreed?"
+    m:
+      - "Have you reached an agreement?"
+
+  - sp: POMPEY
+    o:
+      - "Sir, I will serve him; for I do find your hangman is"
+      - "a more penitent trade than your bawd; he doth"
+      - "oftener ask forgiveness."
+    m:
+      - "Sir, I’ll work for him, because I think a hangman’s job is a sorrier one than a pimp’s—he asks forgiveness more often."
+
+  - sp: PROVOST
+    o:
+      - "You, sirrah, provide your block and your axe"
+      - "to-morrow four o’clock."
+    m:
+      - "You, fellow, have your block and your axe ready tomorrow at four o’clock."
+
+  - sp: ABHORSON
+    o:
+      - "Come on, bawd; I will instruct thee in my trade; follow."
+    m:
+      - "Come on, pimp, I’ll show you the ropes. Follow me."
+
+  - sp: POMPEY
+    o:
+      - "I do desire to learn, sir: and I hope, if you have"
+      - "occasion to use me for your own turn, you shall find"
+      - "me yare; for truly, sir, for your kindness I owe you"
+      - "a good turn."
+    m:
+      - "I want to learn, sir. And I hope, if you ever get the chance to use me for your own execution, you’ll find me ready. Because, really, I owe you a good turn for your kindness."
+
+  - os: "POMPEY and ABHORSON exit."
+    ms: "POMPEY and ABHORSON exit."
+
+  - sp: PROVOST
+    o:
+      - "Call hither Barnardine and Claudio:"
+      - "The one has my pity; not a jot the other,"
+      - "Being a murderer, though he were my brother."
+    m:
+      - "Call Barnardine and Claudio here. I pity one, but not the other, even if he were my brother, as he’s a murderer."
+
+  - os: "Enter CLAUDIO"
+    ms: "CLAUDIO enters."
+
+  - o:
+      - "Look, here’s the warrant, Claudio, for thy death:"
+      - "’Tis now dead midnight, and by eight to-morrow"
+      - "Thou must be made immortal. Where’s Barnardine?"
+    m:
+      - "Look, Claudio, here’s your death warrant. It’s now dead midnight, and by 8 a.m. tomorrow you must be laid to eternal rest. Where’s Barnardine?"
+
+  - sp: CLAUDIO
+    o:
+      - "As fast lock’d up in sleep as guiltless labour"
+      - "When it lies starkly in the traveller’s bones:"
+      - "He will not wake."
+    m:
+      - "As fast asleep as the most innocent of exhausted laborers. He won’t wake up."
+
+  - sp: PROVOST
+    o:
+      - "Who can do good on him?"
+      - "Well, go, prepare yourself."
+    m:
+      - "Who could do him any good, anyway? Well, go, prepare yourself."
+
+  - os: "Knocking within"
+    ms: "*(knocking is heard offstage)*"
+
+  - o:
+      - "But, hark, what noise?"
+      - "Heaven give your spirits comfort!"
+    m:
+      - "What’s that noise? *(to Claudio)* Heaven give your spirits comfort!"
+
+  - os: "Exit CLAUDIO"
+    ms: "CLAUDIO exits."
+
+  - o:
+      - "By and by."
+      - "I hope it is some pardon or reprieve"
+      - "For the most gentle Claudio."
+    m:
+      - "In a minute. I hope it’s some pardon or reprieve for gentle Claudio."
+
+  - os: "Enter DUKE VINCENTIO disguised as before"
+    ms: "DUKE VINCENTIO enters, disguised as a friar."
+
+  - o:
+      - "Welcome father."
+    m:
+      - "Welcome, father."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "The best and wholesomest spirts of the night"
+      - "Envelope you, good Provost! Who call’d here of late?"
+    m:
+      - "The best, most wholesome night spirits surround you, good Provost! Who’s been here lately?"
+
+  - sp: PROVOST
+    o:
+      - "None, since the curfew rung."
+    m:
+      - "No one, since the curfew bell rang."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Not Isabel?"
+    m:
+      - "Not Isabel?"
+
+  - sp: PROVOST
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "They will, then, ere’t be long."
+    m:
+      - "Someone will be, then, before long."
+
+  - sp: PROVOST
+    o:
+      - "What comfort is for Claudio?"
+    m:
+      - "Is there any news to give comfort to Claudio?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "There’s some in hope."
+    m:
+      - "There’s comfort in hope."
+
+  - sp: PROVOST
+    o:
+      - "It is a bitter deputy."
+    m:
+      - "Angelo’s a cruel deputy."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Not so, not so; his life is parallel’d"
+      - "Even with the stroke and line of his great justice:"
+      - "He doth with holy abstinence subdue"
+      - "That in himself which he spurs on his power"
+      - "To qualify in others: were he meal’d with that"
+      - "Which he corrects, then were he tyrannous;"
+      - "But this being so, he’s just."
+    m:
+      - "No, no. His life parallels the same straight line that his mighty justice draws. With religious restraint, he suppresses in himself the same impulses he persecutes in others. If he were stained with the sort of sins he punishes, then he’d be a tyrant. But because he’s virtuous, he’s fair."
+
+  - os: "Knocking within"
+    ms: "*(knocking is heard offstage)*"
+
+  - o:
+      - "Now are they come."
+    m:
+      - "They’re here."
+
+  - os: "Exit Provost"
+    ms: "The Provost exits."
+
+  - o:
+      - "This is a gentle provost: seldom when"
+      - "The steeled gaoler is the friend of men."
+    m:
+      - "This provost is a nice man. It’s rare that a hardened jailer has sympathy for his fellow men."
+
+  - os: "Knocking within"
+    ms: "*(knocking is heard offstage)*"
+
+  - o:
+      - "How now! what noise? That spirit’s possessed with haste"
+      - "That wounds the unsisting postern with these strokes."
+    m:
+      - "What *is* that noise? That messenger’s so impatient he’s going to hurt that poor door with his knocking."
+
+  - os: "Re-enter Provost"
+    ms: "The Provost re-enters."
+
+  - sp: PROVOST
+    o:
+      - "There he must stay until the officer"
+      - "Arise to let him in: he is call’d up."
+    m:
+      - "He’s stuck there until the officer at the gate wakes up to let him in. The officer’s up now."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Have you no countermand for Claudio yet,"
+      - "But he must die to-morrow?"
+    m:
+      - "Haven’t you received any order yet countermanding Claudio’s execution tomorrow?"
+
+  - sp: PROVOST
+    o:
+      - "None, sir, none."
+    m:
+      - "None, sir, none."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "As near the dawning, provost, as it is,"
+      - "You shall hear more ere morning."
+    m:
+      - "Even though it’s almost dawn, provost, you’ll have news before morning."
+
+  - sp: PROVOST
+    o:
+      - "Happily"
+      - "You something know; yet I believe there comes"
+      - "No countermand; no such example have we:"
+      - "Besides, upon the very siege of justice"
+      - "Lord Angelo hath to the public ear"
+      - "Profess’d the contrary."
+    m:
+      - "Perhaps you know something. But I don’t think any reprieve is coming. There’s no precedent for it. Besides, Lord Angelo declared the opposite, in public, from the judge’s bench."
+
+  - os: "Enter a Messenger"
+    ms: "A Messenger enters."
+
+  - o:
+      - "This is his lordship’s man."
+    m:
+      - "This is his lordship’s servant."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "And here comes Claudio’s pardon."
+    m:
+      - "And here comes Claudio’s pardon."
+
+  - sp: MESSENGER
+    o:
+      - "*(Giving a paper)*"
+      - "My lord hath sent you this note; and by me this"
+      - "further charge, that you swerve not from the"
+      - "smallest article of it, neither in time, matter, or"
+      - "other circumstance. Good morrow; for, as I take it,"
+      - "it is almost day."
+    m:
+      - "*(presenting a paper)* My lord has sent you this note, and charged me to tell you not to swerve from the smallest item in it—not the time, details, or anything else. Good morning, since I gather it’s almost morning."
+
+  - sp: PROVOST
+    o:
+      - "I shall obey him."
+    m:
+      - "I will obey him."
+
+  - os: "Exit Messenger"
+    ms: "The Messenger exits."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "*(aside)* This is his pardon, purchased by such sin"
+      - "For which the pardoner himself is in."
+      - "Hence hath offence his quick celerity,"
+      - "When it is born in high authority:"
+      - "When vice makes mercy, mercy’s so extended,"
+      - "That for the fault’s love is the offender friended."
+      - "Now, sir, what news?"
+    m:
+      - "*(to himself)* This is his pardon, bought by the same sin Angelo committed. Crimes spread quickly when those in power perpetrate them as well. When evildoers extend mercy, they widen mercy’s grasp, pardoning other sinners because they love the sin. Now, sir, what’s the news?"
+
+  - sp: PROVOST
+    o:
+      - "I told you. Lord Angelo, belike thinking me remiss"
+      - "in mine office, awakens me with this unwonted"
+      - "putting-on; methinks strangely, for he hath not used it before."
+    m:
+      - "I told you. Lord Angelo, thinking me careless in my duties maybe, is putting unusual pressure on me. It’s strange—he’s never done this before."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Pray you, let’s hear."
+    m:
+      - "Please, let’s hear the letter."
+
+  - sp: PROVOST
+    o:
+      - "*(Reads)*"
+      - "“Whatsoever you may hear to the contrary, let"
+      - "Claudio be executed by four of the clock; and in the"
+      - "afternoon Barnardine: for my better satisfaction,"
+      - "let me have Claudio’s head sent me by five. Let"
+      - "this be duly performed; with a thought that more"
+      - "depends on it than we must yet deliver. Thus fail"
+      - "not to do your office, as you will answer it at your peril.”"
+      - "What say you to this, sir?"
+    m:
+      - "*(reads)* “Whatever you may hear to the contrary, have"
+      - "Claudio executed by four o’clock, and Barnardine in the afternoon. Reassure me by sending me Claudio’s head by five o’clock. Be sure you do it, and be aware that more depends on it than I can reveal at this time. Don’t fail to do your duty, or you will be held accountable.” What do you say to this, sir?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "What is that Barnardine who is to be executed in the"
+      - "afternoon?"
+    m:
+      - "Who is this Barnardine who’s to be executed in the afternoon?"
+
+  - sp: PROVOST
+    o:
+      - "A Bohemian born, but here nursed un and bred; one"
+      - "that is a prisoner nine years old."
+    m:
+      - "He was born in Bohemia, but raised here. He’s been a prisoner for the last nine years."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "How came it that the absent duke had not either"
+      - "delivered him to his liberty or executed him? I"
+      - "have heard it was ever his manner to do so."
+    m:
+      - "How did it happen that the absent duke neither freed him nor executed him? I’ve heard he usually does one or the other."
+
+  - sp: PROVOST
+    o:
+      - "His friends still wrought reprieves for him: and,"
+      - "indeed, his fact, till now in the government of Lord"
+      - "Angelo, came not to an undoubtful proof."
+    m:
+      - "Barnardine’s friends kept getting him reprieves. And there was no clear evidence that he was actually guilty, until now, when Angelo came to power."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "It is now apparent?"
+    m:
+      - "It’s clear now?"
+
+  - sp: PROVOST
+    o:
+      - "Most manifest, and not denied by himself."
+    m:
+      - "Very clear, and he doesn’t deny it himself."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Hath he born himself penitently in prison? how"
+      - "seems he to be touched?"
+    m:
+      - "Has he shown remorse while in prison? What effect has it had on him?"
+
+  - sp: PROVOST
+    o:
+      - "A man that apprehends death no more dreadfully but"
+      - "as a drunken sleep; careless, reckless, and fearless"
+      - "of what’s past, present, or to come; insensible of"
+      - "mortality, and desperately mortal."
+    m:
+      - "He’s a man who fears death as no worse than a drunken sleep. He’s careless, reckless, and fearless of the past, present, or future. He’s unaware of the concept of death, and desperately clinging to life."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "He wants advice."
+    m:
+      - "He needs counseling."
+
+  - sp: PROVOST
+    o:
+      - "He will hear none: he hath evermore had the liberty"
+      - "of the prison; give him leave to escape hence, he"
+      - "would not: drunk many times a day, if not many days"
+      - "entirely drunk. We have very oft awaked him, as if"
+      - "to carry him to execution, and showed him a seeming"
+      - "warrant for it: it hath not moved him at all."
+    m:
+      - "He won’t listen to any. He’s always had the freedom to go anywhere inside the prison. If you gave him a chance to escape, he wouldn’t run. He’s drunk many times a day, or spends many days entirely drunk. Often, we’ve woken him up, as if to take him to be executed, and shown him a pretend warrant. It’s never affected him at all."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "More of him anon. There is written in your brow,"
+      - "provost, honesty and constancy: if I read it not"
+      - "truly, my ancient skill beguiles me; but, in the"
+      - "boldness of my cunning, I will lay myself in hazard."
+      - "Claudio, whom here you have warrant to execute, is"
+      - "no greater forfeit to the law than Angelo who hath"
+      - "sentenced him. To make you understand this in a"
+      - "manifested effect, I crave but four days’ respite;"
+      - "for the which you are to do me both a present and a"
+      - "dangerous courtesy."
+    m:
+      - "More of him soon. Provost, I see honesty and loyalty in your face. If I’m wrong, my old skill at reading people deceives me, but because I’m confident of my ability, I’ll take a chance. Claudio, whom you have a warrant to execute, deserves to die no more than Angelo, who sentenced him. I can clearly demonstrate this, but I need four days, so I’m going to ask you to do me an immediate and dangerous favor."
+
+  - sp: PROVOST
+    o:
+      - "Pray, sir, in what?"
+    m:
+      - "What is it, sir?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "In the delaying death."
+    m:
+      - "Delay the death."
+
+  - sp: PROVOST
+    o:
+      - "A lack, how may I do it, having the hour limited,"
+      - "and an express command, under penalty, to deliver"
+      - "his head in the view of Angelo? I may make my case"
+      - "as Claudio’s, to cross this in the smallest."
+    m:
+      - "Sorry, but how can I, with the time fixed and an explicit command to deliver his head to Angelo, at risk of penalty? I’ll find myself in Claudio’s shoes if I swerve from this in even the smallest way."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "By the vow of mine order I warrant you, if my"
+      - "instructions may be your guide. Let this Barnardine"
+      - "be this morning executed, and his head born to Angelo."
+    m:
+      - "By my holy vows, I guarantee your safety if you follow my instructions. Execute this Barnardine this morning, and take his head to Angelo."
+
+  - sp: PROVOST
+    o:
+      - "Angelo hath seen them both, and will discover the favour."
+    m:
+      - "Angelo’s seen both of them, and will recognize the face."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "O, death’s a great disguiser; and you may add to it."
+      - "Shave the head, and tie the beard; and say it was"
+      - "the desire of the penitent to be so bared before his"
+      - "death: you know the course is common. If any thing"
+      - "fall to you upon this, more than thanks and good"
+      - "fortune, by the saint whom I profess, I will plead"
+      - "against it with my life."
+    m:
+      - "Oh, death’s a great disguiser, and you can help disguise him more. Shave his head and trim his beard, and say it was the prisoner’s request to be shaved before his death. You know that’s a common thing. If anything happens to you because of this—aside from thanks and good fortune —by the patron saint of my brotherhood, I’ll plead against it with my life."
+
+  - sp: PROVOST
+    o:
+      - "Pardon me, good father; it is against my oath."
+    m:
+      - "Forgive me, good father. It’s against my oath."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Were you sworn to the duke, or to the deputy?"
+    m:
+      - "Did you swear allegiance to the duke, or to the deputy?"
+
+  - sp: PROVOST
+    o:
+      - "To him, and to his substitutes."
+    m:
+      - "To him, and to his representatives."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You will think you have made no offence, if the duke"
+      - "avouch the justice of your dealing?"
+    m:
+      - "Will you think you’ve done nothing wrong if the duke vouches for the justice of your action?"
+
+  - sp: PROVOST
+    o:
+      - "But what likelihood is in that?"
+    m:
+      - "But how likely is that?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Not a resemblance, but a certainty. Yet since I see"
+      - "you fearful, that neither my coat, integrity, nor"
+      - "persuasion can with ease attempt you, I will go"
+      - "further than I meant, to pluck all fears out of you."
+      - "Look you, sir, here is the hand and seal of the"
+      - "duke: you know the character, I doubt not; and the"
+      - "signet is not strange to you."
+    m:
+      - "Not a possibility, but a certainty. Yet since I see you’re afraid, that neither my religious robes, integrity, nor arguments can easily persuade you, I’ll go farther than I meant to, to dispel all your fears. *(displays a letter)* Look, sir, here’s the duke’s handwriting and seal. You recognize them both, I’m sure."
+
+  - sp: PROVOST
+    o:
+      - "I know them both."
+    m:
+      - "I know them both."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "The contents of this is the return of the duke: you"
+      - "shall anon over-read it at your pleasure; where you"
+      - "shall find, within these two days he will be here."
+      - "This is a thing that Angelo knows not; for he this"
+      - "very day receives letters of strange tenor;"
+      - "perchance of the duke’s death; perchance entering"
+      - "into some monastery; but, by chance, nothing of what"
+      - "is writ. Look, the unfolding star calls up the"
+      - "shepherd. Put not yourself into amazement how these"
+      - "things should be: all difficulties are but easy"
+      - "when they are known. Call your executioner, and off"
+      - "with Barnardine’s head: I will give him a present"
+      - "shrift and advise him for a better place. Yet you"
+      - "are amazed; but this shall absolutely resolve you."
+      - "Come away; it is almost clear dawn."
+    m:
+      - "This letter’s contents describe the duke’s return; you can read it over at your leisure, and you’ll learn that he’ll be here in two days. Angelo doesn’t know this, since today he’ll be getting some letters with strange news, maybe about the duke’s death, maybe about him entering some monastery—but nothing about what’s written here. Look, the morning star is out. Don’t be confused by all this. Everything makes sense after it’s been done. Call your executioner, and off with Barnardine’s head. I’ll give him confession, and prepare him for a better place. You’re still stunned, but this absolutely will explain everything to you. Let’s go, it’s almost dawn."
+
+  - os: "Exeunt"
+    ms: "They exit."

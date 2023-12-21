@@ -1,0 +1,563 @@
+play: The Winter’s Tale
+title: Act 2, Scene 3
+group: 2
+order: 4
+text:
+  - os: "A room in LEONTES’ palace."
+    ms: "A room in LEONTES’ palace."
+
+  - os: "Enter LEONTES, ANTIGONUS, Lords, and Servants"
+    ms: "LEONTES, ANTIGONUS, a Lord, and Servants enter."
+
+  - sp: LEONTES
+    o:
+      - "Nor night nor day no rest: it is but weakness"
+      - "To bear the matter thus; mere weakness. If"
+      - "The cause were not in being,—part o’ the cause,"
+      - "She the adulteress; for the harlot king"
+      - "Is quite beyond mine arm, out of the blank"
+      - "And level of my brain, plot-proof; but she"
+      - "I can hook to me: say that she were gone,"
+      - "Given to the fire, a moiety of my rest"
+      - "Might come to me again. Who’s there?"
+    m:
+      - "I can’t rest night or day. It is a kind of weakness to be so affected by this issue. If only the cause of it were no longer alive—part of the cause, at least, the adulteress. The lecherous king is away from here, which puts him beyond my aim and anything I could do to him. But she, the adulteress, I can keep close. If she were burned at the stake, perhaps I would have some small bit of rest. Who’s there?"
+
+  - sp: FIRST SERVANT
+    o:
+      - "My lord?"
+    m:
+      - "My lord?"
+
+  - sp: LEONTES
+    o:
+      - "How does the boy?"
+    m:
+      - "How is the boy doing?"
+
+  - sp: FIRST SERVANT
+    o:
+      - "He took good rest to-night;"
+      - "’Tis hoped his sickness is discharged."
+    m:
+      - "He slept well tonight, and we hope that he’s gotten over his illness."
+
+  - sp: LEONTES
+    o:
+      - "To see his nobleness!"
+      - "Conceiving the dishonour of his mother,"
+      - "He straight declined, droop’d, took it deeply,"
+      - "Fasten’d and fix’d the shame on’t in himself,"
+      - "Threw off his spirit, his appetite, his sleep,"
+      - "And downright languish’d. Leave me solely: go,"
+      - "See how he fares."
+    m:
+      - "I’m amazed at his nobility! Recognizing the dishonorable behavior of his mother, he immediately began to decline, to feel the shame himself. He became sad, stopped eating, stopped sleeping, and grew weak. Leave me alone, and go see how he’s doing."
+
+  - os: "Exit Servant"
+    ms: "The Servant exits."
+
+  - o:
+      - "Fie, fie! no thought of him:"
+      - "The thought of my revenges that way"
+      - "Recoil upon me: in himself too mighty,"
+      - "And in his parties, his alliance; let him be"
+      - "Until a time may serve: for present vengeance,"
+      - "Take it on her. Camillo and Polixenes"
+      - "Laugh at me, make their pastime at my sorrow:"
+      - "They should not laugh if I could reach them, nor"
+      - "Shall she within my power."
+    m:
+      - "No! I won’t think about Polixenes. I fear taking revenge on him. He himself is too powerful, and he has powerful allies. Let him be until an opportunity comes. I’ll have revenge now on her. Camillo and Polixenes laugh at me, and find amusement in my sorrow. They wouldn’t laugh if I could reach them, and neither will the woman who is within my power to punish."
+
+  - os: "Enter PAULINA, with a child"
+    ms: "PAULINA enters, with a child."
+
+  - sp: FIRST LORD
+    o:
+      - "You must not enter."
+    m:
+      - "You must not go in."
+
+  - sp: PAULINA
+    o:
+      - "Nay, rather, good my lords, be second to me:"
+      - "Fear you his tyrannous passion more, alas,"
+      - "Than the queen’s life? a gracious innocent soul,"
+      - "More free than he is jealous."
+    m:
+      - "No, my good lords, back me. Do you fear his tyrannical anger more than the queen’s life? She’s a gracious, innocent soul, more innocent than he is jealous."
+
+  - sp: ANTIGONUS
+    o:
+      - "That’s enough."
+    m:
+      - "That’s enough."
+
+  - sp: SECOND SERVANT
+    o:
+      - "Madam, he hath not slept tonight; commanded"
+      - "None should come at him."
+    m:
+      - "Madam, he hasn’t slept tonight and has ordered that he be left alone."
+
+  - sp: PAULINA
+    o:
+      - "Not so hot, good sir:"
+      - "I come to bring him sleep. ’Tis such as you,"
+      - "That creep like shadows by him and do sigh"
+      - "At each his needless heavings, such as you"
+      - "Nourish the cause of his awaking: I"
+      - "Do come with words as medicinal as true,"
+      - "Honest as either, to purge him of that humour"
+      - "That presses him from sleep."
+    m:
+      - "Not so hasty, good sir. I’m here to bring him sleep. It’s people like you who creep softly around him like shadows and sigh at his unnecessary agitation that feed the cause of his wakefulness. I have something to say to him that’s as soothing as it is true, and honest as well, that will rid him of the sickness keeping him from rest."
+
+  - sp: LEONTES
+    o:
+      - "What noise there, ho?"
+    m:
+      - "What is that noise?"
+
+  - sp: PAULINA
+    o:
+      - "No noise, my lord; but needful conference"
+      - "About some gossips for your highness."
+    m:
+      - "It’s not noise, my lord, but necessary talk about godparents for your highness."
+
+  - sp: LEONTES
+    o:
+      - "How!"
+      - "Away with that audacious lady! Antigonus,"
+      - "I charged thee that she should not come about me:"
+      - "I knew she would."
+    m:
+      - "What! Take this bold woman away! Antigonus, I told you to keep her away from me, because I knew she would come."
+
+  - sp: ANTIGONUS
+    o:
+      - "I told her so, my lord,"
+      - "On your displeasure’s peril and on mine,"
+      - "She should not visit you."
+    m:
+      - "My lord, I told her that she shouldn’t visit you, or she’d risk making us both angry."
+
+  - sp: LEONTES
+    o:
+      - "What, canst not rule her?"
+    m:
+      - "What, you can’t control her?"
+
+  - sp: PAULINA
+    o:
+      - "From all dishonesty he can: in this,"
+      - "Unless he take the course that you have done,"
+      - "Commit me for committing honour, trust it,"
+      - "He shall not rule me."
+    m:
+      - "He can keep me from dishonesty. Unless he does as you’ve done and locks me up for being honorable, he won’t control me in this matter."
+
+  - sp: ANTIGONUS
+    o:
+      - "La you now, you hear:"
+      - "When she will take the rein I let her run;"
+      - "But she’ll not stumble."
+    m:
+      - "You see, when she wants to take control I give her room, but she’ll do what’s right."
+
+  - sp: PAULINA
+    o:
+      - "Good my liege, I come;"
+      - "And, I beseech you, hear me, who profess"
+      - "Myself your loyal servant, your physician,"
+      - "Your most obedient counsellor, yet that dare"
+      - "Less appear so in comforting your evils,"
+      - "Than such as most seem yours: I say, I come"
+      - "From your good queen."
+    m:
+      - "My good lord, I beg you to listen to me. I’m your loyal servant, your doctor, your most obedient advisor, though perhaps I don’t seem like it because I won’t condone your evil actions, as do those servants who only seem most loyal. I come from your good queen."
+
+  - sp: LEONTES
+    o:
+      - "Good queen!"
+    m:
+      - "Good queen!"
+
+  - sp: PAULINA
+    o:
+      - "Good queen, my lord,"
+      - "Good queen; I say good queen;"
+      - "And would by combat make her good, so were I"
+      - "A man, the worst about you."
+    m:
+      - "She is a good queen, my lord. I say she is a good queen, a very good queen. If I were a man I would fight a duel to prove her innocence, even against the most lowly man."
+
+  - sp: LEONTES
+    o:
+      - "Force her hence."
+    m:
+      - "Force her out of here."
+
+  - sp: PAULINA
+    o:
+      - "Let him that makes but trifles of his eyes"
+      - "First hand me: on mine own accord I’ll off;"
+      - "But first I’ll do my errand. The good queen,"
+      - "For she is good, hath brought you forth a daughter;"
+      - "Here ’tis; commends it to your blessing."
+    m:
+      - "The first man who tries to manhandle me better not value his eyes. I’ll go by my own accord, but first I’ll carry out my errand. The good queen, for she is good, has given birth to a daughter. Here she is. She commends her to you so that you may bless her."
+
+  - os: "Laying down the child"
+    ms: "She lays the child down."
+
+  - sp: LEONTES
+    o:
+      - "Out!"
+      - "A mankind witch! Hence with her, out o’ door:"
+      - "A most intelligencing bawd!"
+    m:
+      - "Get out! This furious witch! Take her out of here! She’s a spying pimp!"
+
+  - sp: PAULINA
+    o:
+      - "Not so:"
+      - "I am as ignorant in that as you"
+      - "In so entitling me, and no less honest"
+      - "Than you are mad; which is enough, I’ll warrant,"
+      - "As this world goes, to pass for honest."
+    m:
+      - "Not at all. I know nothing about that, while you show your knowledge of it by calling me that name. I’m as honest as you are mad, which, I assure you, is as honest as you can expect in this world."
+
+  - sp: LEONTES
+    o:
+      - "Traitors!"
+      - "Will you not push her out? Give her the bastard."
+      - "Thou dotard! thou art woman-tired, unroosted"
+      - "By thy dame Partlet here. Take up the bastard;"
+      - "Take’t up, I say; give’t to thy crone."
+    m:
+      - "Traitors! Won’t you shove her out? Hand her the bastard child! You dolt! You are hen-pecked and kicked out of your place of authority by your hen here. Pick up that bastard. Pick it up, I say, and give it to your hag."
+
+  - sp: PAULINA
+    o:
+      - "*(to Antigonus)* For ever"
+      - "Unvenerable be thy hands, if thou"
+      - "Takest up the princess by that forced baseness"
+      - "Which he has put upon’t!"
+    m:
+      - "*(to Antigonus)* Your hands will forever be unworthy of respect if you take up the princess under that terrible name he called her!"
+
+  - sp: LEONTES
+    o:
+      - "He dreads his wife."
+    m:
+      - "He fears his wife."
+
+  - sp: PAULINA
+    o:
+      - "So I would you did; then ’twere past all doubt"
+      - "You’ld call your children yours."
+    m:
+      - "I wish you did, too, and then you would undoubtedly call your children your own."
+
+  - sp: LEONTES
+    o:
+      - "A nest of traitors!"
+    m:
+      - "A nest of traitors!"
+
+  - sp: ANTIGONUS
+    o:
+      - "I am none, by this good light."
+    m:
+      - "I’m not one."
+
+  - sp: PAULINA
+    o:
+      - "Nor I, nor any"
+      - "But one that’s here, and that’s himself, for he"
+      - "The sacred honour of himself, his queen’s,"
+      - "His hopeful son’s, his babe’s, betrays to slander,"
+      - "Whose sting is sharper than the sword’s;"
+      - "and will not—"
+      - "For, as the case now stands, it is a curse"
+      - "He cannot be compell’d to’t—once remove"
+      - "The root of his opinion, which is rotten"
+      - "As ever oak or stone was sound."
+    m:
+      - "Nor am I, nor is anyone else here other than himself, since he has betrayed his own honor, the honor of his wife, of his son, and of his baby with slander, which is sharper than any sword. It’s a curse that he can’t be forced to revise his opinion, which is as rotten as oak or stone is solid."
+
+  - sp: LEONTES
+    o:
+      - "A callat"
+      - "Of boundless tongue, who late hath beat her husband"
+      - "And now baits me! This brat is none of mine;"
+      - "It is the issue of Polixenes:"
+      - "Hence with it, and together with the dam"
+      - "Commit them to the fire!"
+    m:
+      - "A constantly chattering harlot, who has recently beat her husband and now provokes me. This brat isn’t mine—it’s Polixenes’ child. Take it away, and send it and its mother to the fire!"
+
+  - sp: PAULINA
+    o:
+      - "It is yours;"
+      - "And, might we lay the old proverb to your charge,"
+      - "So like you, ’tis the worse. Behold, my lords,"
+      - "Although the print be little, the whole matter"
+      - "And copy of the father, eye, nose, lip,"
+      - "The trick of’s frown, his forehead, nay, the valley,"
+      - "The pretty dimples of his chin and cheek,"
+      - "His smiles,"
+      - "The very mould and frame of hand, nail, finger:"
+      - "And thou, good goddess Nature, which hast made it"
+      - "So like to him that got it, if thou hast"
+      - "The ordering of the mind too, ’mongst all colours"
+      - "No yellow in’t, lest she suspect, as he does,"
+      - "Her children not her husband’s!"
+    m:
+      - "It is yours. It looks so much like you, and for the worse, as the proverb puts it. See, my lords, how the baby has all the features of her father in miniature: the eyes, nose, lips, her father’s frown and forehead, the dimples on his chin and cheeks, his smile. They have the same hands, nails, fingers. And so good goddess Nature has made the baby just like the man who conceived her. If Nature has control over temperament, too, don’t let her have any jealousy, or she’ll suspect, as her father does, that her children are not her husband’s!"
+
+  - sp: LEONTES
+    o:
+      - "*(to Antigonus)* A gross hag"
+      - "And, lozel, thou art worthy to be hang’d,"
+      - "That wilt not stay her tongue."
+    m:
+      - "*(to Antigonus)* A horrible woman. Scoundrel, you ought to be hanged for not stopping her from speaking."
+
+  - sp: ANTIGONUS
+    o:
+      - "Hang all the husbands"
+      - "That cannot do that feat, you’ll leave yourself"
+      - "Hardly one subject."
+    m:
+      - "If you hang all the husbands who can’t keep their wives from talking, you’ll have hardly any subjects left."
+
+  - sp: LEONTES
+    o:
+      - "Once more, take her hence."
+    m:
+      - "Once again, get her out of here."
+
+  - sp: PAULINA
+    o:
+      - "A most unworthy and unnatural lord"
+      - "Can do no more."
+    m:
+      - "A most unworthy and unnatural lord can do only that."
+
+  - sp: LEONTES
+    o:
+      - "I’ll ha’ thee burnt."
+    m:
+      - "I’ll have you burnt."
+
+  - sp: PAULINA
+    o:
+      - "I care not:"
+      - "It is an heretic that makes the fire,"
+      - "Not she which burns in’t. I’ll not call you tyrant;"
+      - "But this most cruel usage of your queen,"
+      - "Not able to produce more accusation"
+      - "Than your own weak-hinged fancy, something savours"
+      - "Of tyranny and will ignoble make you,"
+      - "Yea, scandalous to the world."
+    m:
+      - "I don’t care. It would be a heretic building the fire, not the woman burning in it. I won’t call you a tyrant, but your cruel mistreatment of your queen seems something like tyranny, since you can’t produce any evidence beyond your own weak imaginings. It will make you dishonorable, even scandalous, to all the world."
+
+  - sp: LEONTES
+    o:
+      - "On your allegiance,"
+      - "Out of the chamber with her! Were I a tyrant,"
+      - "Where were her life? she durst not call me so,"
+      - "If she did know me one. Away with her!"
+    m:
+      - "Be loyal to me and take her out of the room! If I were a tyrant, would she still be alive? If she knew I was a tyrant, truly, she wouldn’t dare call me one. Take her away!"
+
+  - sp: PAULINA
+    o:
+      - "I pray you, do not push me; I’ll be gone."
+      - "Look to your babe, my lord; ’tis yours:"
+      - "Jove send her"
+      - "A better guiding spirit! What needs these hands?"
+      - "You, that are thus so tender o’er his follies,"
+      - "Will never do him good, not one of you."
+      - "So, so: farewell; we are gone."
+    m:
+      - "Please don’t push me. I’ll go. Look at your baby, my lord. She’s yours. May Jove send her a better protector! *(to attendants)* Why do you put your hands on me? All of you who are so accepting of his misbehavior won’t do him any good, not one of you. So, goodbye, I’m going."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: LEONTES
+    o:
+      - "*(to Antigonus)* Thou, traitor, hast set on thy wife to this."
+      - "My child? away with’t! Even thou, that hast"
+      - "A heart so tender o’er it, take it hence"
+      - "And see it instantly consumed with fire;"
+      - "Even thou and none but thou. Take it up straight:"
+      - "Within this hour bring me word ’tis done,"
+      - "And by good testimony, or I’ll seize thy life,"
+      - "With what thou else call’st thine. If thou refuse"
+      - "And wilt encounter with my wrath, say so;"
+      - "The bastard brains with these my proper hands"
+      - "Shall I dash out. Go, take it to the fire;"
+      - "For thou set’st on thy wife."
+    m:
+      - "*(to Antigonus)* You traitor! You put your wife up to this. My child? Get rid of it! You, who have such a tender heart for it, take it away and see that it’s burned immediately. You, and no one but you. Do it now. Within the hour I want to hear that it is done, and with witnesses, or I’ll have your life, and all else that you call your own. If you refuse and will face my anger, say so. I’ll dash the bastard’s brains out with my own hands. Go, take it to the fire, since you put your wife up to this."
+
+  - sp: ANTIGONUS
+    o:
+      - "I did not, sir:"
+      - "These lords, my noble fellows, if they please,"
+      - "Can clear me in’t."
+    m:
+      - "I didn’t, sir. These lords, my noble fellows, will clear my name."
+
+  - sp: LORDS
+    o:
+      - "We can: my royal liege,"
+      - "He is not guilty of her coming hither."
+    m:
+      - "We can, my royal lord. He isn’t responsible for her appearance here."
+
+  - sp: LEONTES
+    o:
+      - "You’re liars all."
+    m:
+      - "You are all liars."
+
+  - sp: FIRST LORD
+    o:
+      - "Beseech your highness, give us better credit:"
+      - "We have always truly served you, and beseech you"
+      - "So to esteem of us, and on our knees we beg,"
+      - "As recompense of our dear services"
+      - "Past and to come, that you do change this purpose,"
+      - "Which being so horrible, so bloody, must"
+      - "Lead on to some foul issue: we all kneel."
+    m:
+      - "Please, your highness, we are more honorable than that. We have always served you faithfully and beg you to think of us that way. We beg you on our knees, as repayment for all our services of the past and future, that you’ll change your mind. This plan is so horrible and bloody that it can only lead to something terrible."
+
+  - sp: LEONTES
+    o:
+      - "I am a feather for each wind that blows:"
+      - "Shall I live on to see this bastard kneel"
+      - "And call me father? better burn it now"
+      - "Than curse it then. But be it; let it live."
+      - "It shall not neither. You, sir, come you hither;"
+      - "You that have been so tenderly officious"
+      - "With Lady Margery, your midwife there,"
+      - "To save this bastard’s life,—for ’tis a bastard,"
+      - "So sure as this beard’s grey,"
+      - "—what will you adventure"
+      - "To save this brat’s life?"
+    m:
+      - "I am asked to follow every opinion I hear. Should I allow this bastard to grow up and call me father? I’d rather burn it now than curse it then. But, fine, let it live. *(to Anitogonus)* You, sir, come here. You have interfered so kindly along with your wench in order to save this bastard’s life—and I’m as certain it’s a bastard as I am that your beard is gray—so what will you risk to save the brat’s life?"
+
+  - sp: ANTIGONUS
+    o:
+      - "Any thing, my lord,"
+      - "That my ability may undergo"
+      - "And nobleness impose: at least thus much:"
+      - "I’ll pawn the little blood which I have left"
+      - "To save the innocent: any thing possible."
+    m:
+      - "Anything that my ability will allow and that nobility would demand. I’d give what little blood I might have left to save this innocent child. I’ll do whatever is possible."
+
+  - sp: LEONTES
+    o:
+      - "It shall be possible. Swear by this sword"
+      - "Thou wilt perform my bidding."
+    m:
+      - "It will be possible. Swear by this sword that you will do what I demand."
+
+  - sp: ANTIGONUS
+    o:
+      - "I will, my lord."
+    m:
+      - "I will, my lord."
+
+  - sp: LEONTES
+    o:
+      - "Mark and perform it, see’st thou! for the fail"
+      - "Of any point in’t shall not only be"
+      - "Death to thyself but to thy lewd-tongued wife,"
+      - "Whom for this time we pardon. We enjoin thee,"
+      - "As thou art liege-man to us, that thou carry"
+      - "This female bastard hence and that thou bear it"
+      - "To some remote and desert place quite out"
+      - "Of our dominions, and that there thou leave it,"
+      - "Without more mercy, to its own protection"
+      - "And favour of the climate. As by strange fortune"
+      - "It came to us, I do in justice charge thee,"
+      - "On thy soul’s peril and thy body’s torture,"
+      - "That thou commend it strangely to some place"
+      - "Where chance may nurse or end it. Take it up."
+    m:
+      - "Make note of what I tell you, and perform it, because if you fail to do any part of it not only will you die, but so will your crudely outspoken wife, whom I’ll pardon for now. I command you, as my loyal servant, to take this female bastard away to some deserted place far from my kingdom, and to leave it there without mercy, left to its own abilities and the whims of the weather. Since it came to me because of a foreigner, it is only just that I order you, on pain of death and torture, to take it to a foreign place where luck might nurture or kill it. Pick it up."
+
+  - sp: ANTIGONUS
+    o:
+      - "I swear to do this, though a present death"
+      - "Had been more merciful. Come on, poor babe:"
+      - "Some powerful spirit instruct the kites and ravens"
+      - "To be thy nurses! Wolves and bears, they say"
+      - "Casting their savageness aside have done"
+      - "Like offices of pity. Sir, be prosperous"
+      - "In more than this deed does require! And blessing"
+      - "Against this cruelty fight on thy side,"
+      - "Poor thing, condemn’d to loss!"
+    m:
+      - "I swear to carry out your orders, though killing her right now would have been more merciful. Come on, poor baby. May some powerful angel call on the vultures and ravens to take care of you. They say that wolves and bears have given up their savageness to perform similar acts of pity. Sir, be prosperous in more ways than this act deserves! *(to the baby)* And may a prayer against this cruel act help you, poor thing, condemned to die!"
+
+  - os: "Exit with the child"
+    ms: "He exits with the child."
+
+  - sp: LEONTES
+    o:
+      - "No, I’ll not rear"
+      - "Another’s issue."
+    m:
+      - "No, I won’t raise another man’s child."
+
+  - os: "Enter a Servant"
+    ms: "A Servant enters."
+
+  - sp: SERVANT
+    o:
+      - "Please your highness, posts"
+      - "From those you sent to the oracle are come"
+      - "An hour since: Cleomenes and Dion,"
+      - "Being well arrived from Delphos, are both landed,"
+      - "Hasting to the court."
+    m:
+      - "Your highness, messages from the men you sent to the oracle arrived an hour ago. Cleomenes and Dion have both arrived safely from Delphos and are hurrying here to the court."
+
+  - sp: FIRST LORD
+    o:
+      - "So please you, sir, their speed"
+      - "Hath been beyond account."
+    m:
+      - "Their speed is astonishing."
+
+  - sp: LEONTES
+    o:
+      - "Twenty-three days"
+      - "They have been absent: ’tis good speed; foretells"
+      - "The great Apollo suddenly will have"
+      - "The truth of this appear. Prepare you, lords;"
+      - "Summon a session, that we may arraign"
+      - "Our most disloyal lady, for, as she hath"
+      - "Been publicly accused, so shall she have"
+      - "A just and open trial. While she lives"
+      - "My heart will be a burthen to me. Leave me,"
+      - "And think upon my bidding."
+    m:
+      - "They’ve been gone twenty-three days. Their speedy return predicts that great Apollo wants the truth of this matter revealed. Prepare yourselves, lords. Convene an open trial for this disloyal lady. Since she was publicly accused, she’ll have an open and just trial. While she lives my heart is heavy. Leave me, and consider my orders."
+
+  - os: "Exeunt."
+    ms: "They exit."

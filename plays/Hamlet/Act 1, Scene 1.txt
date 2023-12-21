@@ -1,0 +1,534 @@
+play: Hamlet
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter BARNARDO and FRANCISCO, two sentinels"
+    ms: "BARNARDO and FRANCISCO, two watchmen, enter."
+
+  - sp: BARNARDO
+    o:
+      - "Who’s there?"
+    m:
+      - "Who’s there?"
+
+  - sp: FRANCISCO
+    o:
+      - "Nay, answer me. Stand and unfold yourself."
+    m:
+      - "No, who are *you?* Stop and identify yourself."
+
+  - sp: BARNARDO
+    o:
+      - "Long live the king!"
+    m:
+      - "Long live the king!"
+
+  - sp: FRANCISCO
+    o:
+      - "  Barnardo?"
+    m:
+      - "Is that Barnardo?"
+
+  - sp: BARNARDO
+    o:
+      - "    He."
+    m:
+      - "Yes, it’s me."
+
+  - sp: FRANCISCO
+    o:
+      - "You come most carefully upon your hour."
+    m:
+      - "You’ve come right on time."
+
+  - sp: BARNARDO
+    o:
+      - "’Tis now struck twelve. Get thee to bed, Francisco."
+    m:
+      - "The clock’s just striking twelve. Go home to bed, Francisco."
+
+  - sp: FRANCISCO
+    o:
+      - "For this relief much thanks. ’Tis bitter cold,"
+      - "And I am sick at heart."
+    m:
+      - "Thanks for letting me go. It’s bitterly cold out, and I’m depressed."
+
+  - sp: BARNARDO
+    o:
+      - "    Have you had quiet guard?"
+    m:
+      - "Has it been a quiet night?"
+
+  - sp: FRANCISCO
+    o:
+      - "Not a mouse stirring."
+    m:
+      - "I haven’t even heard a mouse squeak."
+
+  - sp: BARNARDO
+    o:
+      - "    Well, good night."
+      - "If you do meet Horatio and Marcellus,"
+      - "The rivals of my watch, bid them make haste."
+    m:
+      - "Well, good night. If you happen to see Horatio and Marcellus, who are supposed to stand guard with me tonight, tell them to hurry."
+
+  - sp: FRANCISCO
+    o:
+      - "I think I hear them.—Stand, ho! Who’s there?"
+    m:
+      - "I think I hear them. —Stop! Who’s there?"
+
+  - os: "Enter HORATIO and MARCELLUS"
+    ms: "MARCELLUS and HORATIO enter."
+
+  - sp: HORATIO
+    o:
+      - "    Friends to this ground."
+    m:
+      - "Friends of this country."
+
+  - sp: MARCELLUS
+    o:
+      - "And liegemen to the Dane."
+    m:
+      - "And servants of the Danish king."
+
+  - sp: FRANCISCO
+    o:
+      - "    Give you good night."
+    m:
+      - "Good night to you both."
+
+  - sp: MARCELLUS
+    o:
+      - "O, farewell, honest soldier. Who hath relieved you?"
+    m:
+      - "Good-bye. Who’s taken over the watch for you?"
+
+  - sp: FRANCISCO
+    o:
+      - "Barnardo has my place. Give you good night."
+    m:
+      - "Barnardo’s taken my place. Good night."
+
+  - os: "Exit FRANCISCO"
+    ms: "FRANCISCO exits."
+
+  - sp: MARCELLUS
+    o:
+      - "Holla, Barnardo."
+    m:
+      - "Hello, Barnardo."
+
+  - sp: BARNARDO
+    o:
+      - "Say what, is Horatio there?"
+    m:
+      - "Hello. Is Horatio here too?"
+
+  - sp: HORATIO
+    o:
+      - "A piece of him."
+    m:
+      - "More or less."
+
+  - sp: BARNARDO
+    o:
+      - "Welcome, Horatio.—Welcome, good Marcellus."
+    m:
+      - "Welcome, Horatio. Welcome, Marcellus."
+
+  - sp: MARCELLUS
+    o:
+      - "What, has this thing appeared again tonight?"
+    m:
+      - "So, tell us, did you see that thing again tonight?"
+
+  - sp: BARNARDO
+    o:
+      - "I have seen nothing."
+    m:
+      - "I haven’t seen anything."
+
+  - sp: MARCELLUS
+    o:
+      - "Horatio says ’tis but our fantasy"
+      - "And will not let belief take hold of him"
+      - "Touching this dreaded sight twice seen of us."
+      - "Therefore I have entreated him along"
+      - "With us to watch the minutes of this night,"
+      - "That if again this apparition come"
+      - "He may approve our eyes and speak to it."
+    m:
+      - "Horatio says we’re imagining it, and won’t let himself believe anything about this horrible thing that we’ve seen twice now. That’s why I’ve begged him to come on our shift tonight, so that if the ghost appears he can see what we see and speak to it."
+
+  - sp: HORATIO
+    o:
+      - "Tush, tush, ’twill not appear."
+    m:
+      - "Oh, nonsense. It’s not going to appear."
+
+  - sp: BARNARDO
+    o:
+      - "    Sit down a while"
+      - "And let us once again assail your ears,"
+      - "That are so fortified against our story,"
+      - "What we have two nights seen."
+    m:
+      - "Sit down for a while, and we’ll tell you again the story you don’t want to believe, about what we’ve seen two nights now."
+
+  - sp: HORATIO
+    o:
+      - "    Well, sit we down,"
+      - "And let us hear Barnardo speak of this."
+    m:
+      - "Well, let’s sit down and listen to Barnardo tell us."
+
+  - sp: BARNARDO
+    o:
+      - "Last night of all,"
+      - "When yond same star that’s westward from the pole"
+      - "Had made his course t’ illume that part of heaven"
+      - "Where now it burns, Marcellus and myself,"
+      - "The bell then beating one—"
+    m:
+      - "Last night, when that star to the west of the North Star had traveled across the night sky to that point where it’s shining now, at one o’clock, Marcellus and I—"
+
+  - os: "Enter GHOST"
+    ms: "The GHOST enters."
+
+  - sp: MARCELLUS
+    o:
+      - "Peace, break thee off. Look where it comes again!"
+    m:
+      - "Quiet, shut up! It’s come again."
+
+  - sp: BARNARDO
+    o:
+      - "In the same figure like the king that’s dead."
+    m:
+      - "Looking just like the dead king."
+
+  - sp: MARCELLUS
+    o:
+      - "*(to HORATIO)* Thou art a scholar. Speak to it, Horatio."
+    m:
+      - "*(to HORATIO)* You’re well-educated, Horatio. Say something to it."
+
+  - sp: BARNARDO
+    o:
+      - "Looks it not like the king? Mark it, Horatio."
+    m:
+      - "Doesn’t he look like the king, Horatio?"
+
+  - sp: HORATIO
+    o:
+      - "Most like. It harrows me with fear and wonder."
+    m:
+      - "Very much so. It’s terrifying."
+
+  - sp: BARNARDO
+    o:
+      - "It would be spoke to."
+    m:
+      - "It wants us to speak to it."
+
+  - sp: MARCELLUS
+    o:
+      - "  Question it, Horatio."
+    m:
+      - "Ask it something, Horatio."
+
+  - sp: HORATIO
+    o:
+      - "What art thou that usurp’st this time of night"
+      - "Together with that fair and warlike form"
+      - "In which the majesty of buried Denmark"
+      - "Did sometimes march? By heaven, I charge thee, speak."
+    m:
+      - "What are you, that you walk out so late at night, looking like the dead king of Denmark when he dressed for battle? By God, I order you to speak."
+
+  - sp: MARCELLUS
+    o:
+      - "It is offended."
+    m:
+      - "It looks like you’ve offended it."
+
+  - sp: BARNARDO
+    o:
+      - "  See, it stalks away."
+    m:
+      - "Look, it’s going away."
+
+  - sp: HORATIO
+    o:
+      - "Stay! Speak, speak! I charge thee, speak!"
+    m:
+      - "Stay! Speak! Speak! I order you, speak!"
+
+  - os: "Exit GHOST"
+    ms: "The GHOST exits."
+
+  - sp: MARCELLUS
+    o:
+      - "’Tis gone and will not answer."
+    m:
+      - "It’s gone. It won’t answer now."
+
+  - sp: BARNARDO
+    o:
+      - "How now, Horatio? You tremble and look pale."
+      - "Is not this something more than fantasy?"
+      - "What think you on ’t?"
+    m:
+      - "What’s going on, Horatio? You’re pale and trembling. You agree now that we’re not imagining this, don’t you? What do you think about it?"
+
+  - sp: HORATIO
+    o:
+      - "Before my God, I might not this believe"
+      - "Without the sensible and true avouch"
+      - "Of mine own eyes."
+    m:
+      - "I swear to God, if I hadn’t seen this with my own eyes I’d never believe it."
+
+  - sp: MARCELLUS
+    o:
+      - "Is it not like the king?"
+    m:
+      - "Doesn’t it look like the king?"
+
+  - sp: HORATIO
+    o:
+      - "As thou art to thyself."
+      - "Such was the very armour he had on"
+      - "When he the ambitious Norway combated."
+      - "So frowned he once when, in an angry parle,"
+      - "He smote the sledded Polacks on the ice."
+      - "’Tis strange."
+    m:
+      - "Yes, as much as you look like yourself. The king was wearing exactly this armor when he fought the king of Norway. And the ghost frowned just like the king did once when he attacked the Poles, traveling on the ice in sleds. It’s weird."
+
+  - sp: MARCELLUS
+    o:
+      - "Thus twice before, and jump at this dead hour,"
+      - "With martial stalk hath he gone by our watch."
+    m:
+      - "It’s happened like this twice before, always at this exact time. He stalks by us at our post like a warrior."
+
+  - sp: HORATIO
+    o:
+      - "In what particular thought to work I know not,"
+      - "But in the gross and scope of mine opinion"
+      - "This bodes some strange eruption to our state."
+    m:
+      - "I don’t know exactly how to explain this, but I have a general feeling this means bad news for our country."
+
+  - sp: MARCELLUS
+    o:
+      - "Good now, sit down and tell me, he that knows,"
+      - "Why this same strict and most observant watch"
+      - "So nightly toils the subject of the land,"
+      - "And why such daily cast of brazen cannon"
+      - "And foreign mart for implements of war,"
+      - "Why such impress of shipwrights, whose sore task"
+      - "Does not divide the Sunday from the week."
+      - "What might be toward, that this sweaty haste"
+      - "Doth make the night joint laborer with the day?"
+      - "Who is ’t that can inform me?"
+    m:
+      - "All right, let’s sit down and discuss that question. Somebody tell me why this strict schedule of guards has been imposed, and why so many bronze cannons are being manufactured in Denmark, and so many weapons bought from abroad, and why the shipbuilders are so busy they don’t even rest on Sunday. Is something about to happen that warrants working this night and day? Who can explain this to me?"
+
+  - sp: HORATIO
+    o:
+      - "    That can I."
+      - "At least, the whisper goes so: our last king,"
+      - "Whose image even but now appeared to us,"
+      - "Was, as you know, by Fortinbras of Norway,"
+      - "Thereto pricked on by a most emulate pride,"
+      - "Dared to the combat; in which our valiant Hamlet"
+      - "(For so this side of our known world esteemed him)"
+      - "Did slay this Fortinbras, who by a sealed compact"
+      - "Well ratified by law and heraldry,"
+      - "Did forfeit, with his life, all those his lands"
+      - "Which he stood seized of to the conqueror,"
+      - "Against the which a moiety competent"
+      - "Was gagèd by our king, which had returned"
+      - "To the inheritance of Fortinbras"
+      - "Had he been vanquisher, as, by the same covenant"
+      - "And carriage of the article designed,"
+      - "His fell to Hamlet. Now, sir, young Fortinbras,"
+      - "Of unimprovèd mettle hot and full,"
+      - "Hath in the skirts of Norway here and there"
+      - "Sharked up a list of lawless resolutes,"
+      - "For food and diet, to some enterprise"
+      - "That hath a stomach in ’t, which is no other—"
+      - "As it doth well appear unto our state—"
+      - "But to recover of us, by strong hand"
+      - "And terms compulsatory, those foresaid lands"
+      - "So by his father lost. And this, I take it,"
+      - "Is the main motive of our preparations,"
+      - "The source of this our watch, and the chief head"
+      - "Of this posthaste and rummage in the land."
+    m:
+      - "I can. Or at least I can describe the rumors. As you know, our late king, whom we just now saw as a ghost, was the great rival of Fortinbras, king of Norway. Fortinbras dared him to battle. In that fight, our courageous Hamlet (or at least that’s how we thought of him) killed old King Fortinbras, who—on the basis of a valid legal document—surrendered all his territories, along with his life, to his conqueror. If our king had lost, he would have had to do the same. But now old Fortinbras’ young son, also called Fortinbras—he is bold, but unproven—has gathered a bunch of thugs from the lawless outskirts of the country. For some food, they’re eager to take on the tough enterprise of securing the lands the elder Fortinbras lost. As far as I understand, that’s why we’re posted here tonight and why there’s such a commotion in Denmark lately."
+
+  - sp: BARNARDO
+    o:
+      - "I think it be no other but e’en so."
+      - "Well may it sort that this portentous figure"
+      - "Comes armèd through our watch so like the king"
+      - "That was and is the question of these wars."
+    m:
+      - "I think that’s exactly right—that explains why the ghost of the late king would haunt us now, since he caused these wars."
+
+  - sp: HORATIO
+    o:
+      - "A mote it is to trouble the mind’s eye."
+      - "In the most high and palmy state of Rome,"
+      - "A little ere the mightiest Julius fell,"
+      - "The graves stood tenantless and the sheeted dead"
+      - "Did squeak and gibber in the Roman streets"
+      - "As stars with trains of fire and dews of blood,"
+      - "Disasters in the sun, and the moist star"
+      - "Upon whose influence Neptune’s empire stands"
+      - "Was sick almost to doomsday with eclipse."
+      - "And even the like precurse of feared events,"
+      - "As harbingers preceding still the fates"
+      - "And prologue to the omen coming on,"
+      - "Have heaven and earth together demonstrated"
+      - "Unto our climatures and countrymen."
+    m:
+      - "The ghost is definitely something to worry about. In the high and mighty Roman Empire, just before the emperor Julius Caesar was assassinated, corpses rose out of their graves and ran through the streets of Rome speaking gibberish. There were shooting stars, and blood mixed in with the morning dew, and threatening signs on the face of the sun. The moon, which controls the tides of the sea, was so eclipsed it almost went completely out. And we’ve had similar omens of terrible things to come, as if heaven and earth have joined together to warn us what’s going to happen."
+
+  - os: "Enter GHOST"
+    ms: "The GHOST enters."
+
+  - o:
+      - "But soft, behold! Lo, where it comes again."
+      - "I’ll cross it though it blast me.—Stay, illusion!"
+    m:
+      - "Wait, look! It has come again. I’ll meet it if it’s the last thing I do. —Stay here, you hallucination!"
+
+  - os: "GHOST spreads his arms"
+    ms: "The GHOST spreads his arms."
+
+  - o:
+      - "If thou hast any sound or use of voice,"
+      - "Speak to me."
+      - "If there be any good thing to be done"
+      - "That may to thee do ease and grace to me,"
+      - "Speak to me."
+      - "If thou art privy to thy country’s fate,"
+      - "Which happily foreknowing may avoid,"
+      - "Oh, speak!"
+      - "Or if thou hast uphoarded in thy life"
+      - "Extorted treasure in the womb of earth,"
+      - "For which, they say, you spirits oft walk in death,"
+      - "Speak of it. Stay and speak!"
+    m:
+      - "If you have a voice or can make sounds, speak to me. If there’s any good deed I can do that will bring you peace and me honor, speak to me. If you have some secret knowledge of your country’s sad fate—which might be avoided if we knew about it—then, please, speak. Or if you’ve got some buried treasure somewhere, which they say often makes ghosts restless, then tell us about it. Stay and speak!"
+
+  - os: "The cock crows"
+    ms: "A rooster crows."
+
+  - o:
+      - "  —Stop it, Marcellus."
+    m:
+      - "Keep it from leaving, Marcellus."
+
+  - sp: MARCELLUS
+    o:
+      - "Shall I strike at it with my partisan?"
+    m:
+      - "Should I strike it with my spear?"
+
+  - sp: HORATIO
+    o:
+      - "Do, if it will not stand."
+    m:
+      - "Yes, if it doesn’t stand still."
+
+  - sp: BARNARDO
+    o:
+      - "   ’Tis here."
+    m:
+      - "It’s over here."
+
+  - sp: HORATIO
+    o:
+      - "    ’Tis here."
+    m:
+      - "There it is."
+
+  - os: "Exit GHOST"
+    ms: "The GHOST exits."
+
+  - sp: MARCELLUS
+    o:
+      - "’Tis gone."
+      - "We do it wrong, being so majestical,"
+      - "To offer it the show of violence,"
+      - "For it is, as the air, invulnerable,"
+      - "And our vain blows malicious mockery."
+    m:
+      - "It’s gone. We were wrong to threaten it with violence, since it looks so much like a king. Besides, we can’t hurt it anymore than we can hurt the air. Our attack was stupid, futile, and wicked."
+
+  - sp: BARNARDO
+    o:
+      - "It was about to speak when the cock crew."
+    m:
+      - "It was about to say something when the rooster crowed."
+
+  - sp: HORATIO
+    o:
+      - "And then it started like a guilty thing"
+      - "Upon a fearful summons. I have heard"
+      - "The cock, that is the trumpet to the morn,"
+      - "Doth with his lofty and shrill-sounding throat"
+      - "Awake the god of day, and, at his warning,"
+      - "Whether in sea or fire, in earth or air,"
+      - "Th’ extravagant and erring spirit hies"
+      - "To his confine, and of the truth herein"
+      - "This present object made probation."
+    m:
+      - "And then it acted startled, like a guilty person caught by the law. I’ve heard that the rooster awakens the god of day with its trumpetlike crowing, and makes all wandering ghosts, wherever they are, hurry back to their hiding places. We’ve just seen proof of that."
+
+  - sp: MARCELLUS
+    o:
+      - "It faded on the crowing of the cock."
+      - "Some say that ever ’gainst that season comes"
+      - "Wherein our Saviour’s birth is celebrated,"
+      - "The bird of dawning singeth all night long."
+      - "And then, they say, no spirit dare stir abroad."
+      - "The nights are wholesome. Then no planets strike,"
+      - "No fairy takes, nor witch hath power to charm,"
+      - "So hallowed and so gracious is that time."
+    m:
+      - "Yes, it faded away when the rooster crowed. Some people say that just before Christmas the rooster crows all night long, so that no ghost dares go wandering, and the night is safe. The planets have no sway over us, fairies’ spells don’t work, and witches can’t bewitch us. That’s how holy that night is."
+
+  - sp: HORATIO
+    o:
+      - "So have I heard and do in part believe it."
+      - "But look, the morn, in russet mantle clad,"
+      - "Walks o’er the dew of yon high eastward hill."
+      - "Break we our watch up, and by my advice,"
+      - "Let us impart what we have seen tonight"
+      - "Unto young Hamlet, for, upon my life,"
+      - "This spirit, dumb to us, will speak to him."
+      - "Do you consent we shall acquaint him with it,"
+      - "As needful in our loves, fitting our duty?"
+    m:
+      - "Yes, I’ve heard the same thing and sort of believe it. But look, morning is breaking beyond that hill in the east, turning the sky red. Let’s interrupt our watch and go tell young Hamlet what we’ve seen tonight. I’m sure this ghost that’s so silent with us will speak to him. Don’t you agree that we owe it to him to tell him about this, out of duty and love?"
+
+  - sp: MARCELLUS
+    o:
+      - "Let’s do ’t, I pray, and I this morning know"
+      - "Where we shall find him most conveniently."
+    m:
+      - "Let’s do it. I know where we’ll find him this morning."
+
+  - os: "Exeunt"
+    ms: "They exit."

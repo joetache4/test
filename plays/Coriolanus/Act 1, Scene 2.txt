@@ -1,0 +1,122 @@
+play: Coriolanus
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Corioli. The Senate-house."
+    ms: "The Senate house in Corioles."
+
+  - os: "Enter TULLUS AUFIDIUS and certain Senators"
+    ms: "TULLUS AUFIDIUS and Senators of Corioles enter."
+
+  - sp: FIRST SENATOR
+    o:
+      - "So, your opinion is, Aufidius,"
+      - "That they of Rome are entered in our counsels"
+      - "And know how we proceed."
+    m:
+      - "So Aufidius, your opinion is that the Romans have spied on our council meetings and know how we proceed."
+
+  - sp: AUFIDIUS
+    o:
+      - "Is it not yours?"
+      - "What ever have been thought on in this state,"
+      - "That could be brought to bodily act ere Rome"
+      - "Had circumvention? ’Tis not four days gone"
+      - "Since I heard thence; these are the words: I think"
+      - "I have the letter here; yes, here it is."
+    m:
+      - "Don’t you agree? Haven’t all the plans we’ve ever discussed here that could be put into action against Rome been thwarted? Not even four days have gone by since I heard from the field, these are the words—I think I have the letter here—yes, here it is."
+
+  - os: "Reads"
+    ms: "He reads."
+
+  - o:
+      - "“They have press’d a power, but it is not known"
+      - "Whether for east or west: the dearth is great;"
+      - "The people mutinous; and it is rumour’d,"
+      - "Cominius, Martius your old enemy,"
+      - "Who is of Rome worse hated than of you,"
+      - "And Titus Lartius, a most valiant Roman,"
+      - "These three lead on this preparation"
+      - "Whither ’tis bent: most likely ’tis for you:"
+      - "Consider of it.”"
+    m:
+      - "“They’ve raised an army, but it’s not known whether they will march east or west. The famine is serious, the people are rebelling, and it’s rumored that Cominius, your old enemy Martius—who the Romans hate worse than you—and Titus Lartius, a most valiant Roman, these three lead the attack, wherever it’s headed. Most likely toward you. Think about it.”"
+
+  - sp: FIRST SENATOR
+    o:
+      - "Our army’s in the field"
+      - "We never yet made doubt but Rome was ready"
+      - "To answer us."
+    m:
+      - "Our army’s in the field. We’ve never doubted that the Romans were ready to fight back."
+
+  - sp: AUFIDIUS
+    o:
+      - "Nor did you think it folly"
+      - "To keep your great pretences veil’d till when"
+      - "They needs must show themselves; which"
+      - "in the hatching,"
+      - "It seem’d, appear’d to Rome. By the discovery."
+      - "We shall be shorten’d in our aim, which was"
+      - "To take in many towns ere almost Rome"
+      - "Should know we were afoot."
+    m:
+      - "You thought it was wise to keep your plans secret until they needed to be revealed, but it seems that the Romans knew your plans as soon as they were hatched. Since they know our intention, we can’t proceed as we had planned: to capture as many towns as possible before the Romans knew we were moving toward them."
+
+  - sp: SECOND SENATOR
+    o:
+      - "Noble Aufidius,"
+      - "Take your commission; hie you to your bands:"
+      - "Let us alone to guard Corioli:"
+      - "If they set down before ’s, for the remove"
+      - "Bring your army; but, I think, you’ll find"
+      - "They’ve not prepared for us."
+    m:
+      - "Noble Aufidius, do your duty. Go to your men. Leave us here to guard Corioles ourselves. If they attack us, bring your army back before they take the city, but I think you’ll find they haven’t prepared for us."
+
+  - sp: AUFIDIUS
+    o:
+      - "O, doubt not that;"
+      - "I speak from certainties. Nay, more,"
+      - "Some parcels of their power are forth already,"
+      - "And only hitherward. I leave your honours."
+      - "If we and Caius Martius chance to meet,"
+      - "’Tis sworn between us we shall ever strike"
+      - "Till one can do no more."
+    m:
+      - "Don’t be so sure. I’m certain when I say that some part of their army is already moving toward us. I leave you now, noblemen. If we happen to meet Caius Martius, he and I have sworn that we’ll always strike at each other until one of us can strike no more."
+
+  - sp: ALL
+    o:
+      - "The gods assist you!"
+    m:
+      - "May the gods assist you!"
+
+  - sp: AUFIDIUS
+    o:
+      - "And keep your honours safe!"
+    m:
+      - "And keep you noblemen safe!"
+
+  - sp: FIRST SENATOR
+    o:
+      - "Farewell."
+    m:
+      - "Farewell."
+
+  - sp: SECOND SENATOR
+    o:
+      - "Farewell."
+    m:
+      - "Farewell."
+
+  - sp: ALL
+    o:
+      - "Farewell."
+    m:
+      - "Farewell."
+
+  - os: "Exeunt"
+    ms: "All exit. AUFIDIUS leaves through one door and the Senators leave through another."

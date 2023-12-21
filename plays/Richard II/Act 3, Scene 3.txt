@@ -1,0 +1,427 @@
+play: Richard II
+title: Act 3, Scene 3
+group: 3
+order: 10
+text:
+  - os: "Wales. Before Flint castle."
+    ms: "Wales, outside Flint Castle."
+
+  - os: "Enter, with drum and colours, HENRY BOLINGBROKE, DUKE OF YORK, NORTHUMBERLAND, Attendants, and forces"
+    ms: "HENRY BOLINGBROKE, DUKE OF YORK, and NORTHUMBERLAND enter, with ceremonial flags and drums sounding. Several attendants and soldiers accompany them."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "So that by this intelligence we learn"
+      - "The Welshmen are dispersed, and Salisbury"
+      - "Is gone to meet the king, who lately landed"
+      - "With some few private friends upon this coast."
+    m:
+      - "So we know from this latest news that the Welshmen have left the battlefield and that the king has landed with some of his friends on the coast, where Salisbury has gone to meet him."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "The news is very fair and good, my lord:"
+      - "Richard not far from hence hath hid his head."
+    m:
+      - "It’s good news, my lord. Richard is hiding not very far from here."
+
+  - sp: DUKE OF YORK
+    o:
+      - "It would beseem the Lord Northumberland"
+      - "To say “King Richard:” alack the heavy day"
+      - "When such a sacred king should hide his head."
+    m:
+      - "It would be better for Lord Northumberland to call him “King Richard.” We should mourn the day that a king has to hide."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Your grace mistakes; only to be brief"
+      - "Left I his title out."
+    m:
+      - "Your grace misunderstands me. I only left off his title for the sake of brevity."
+
+  - sp: DUKE OF YORK
+    o:
+      - "The time hath been,"
+      - "Would you have been so brief with him, he would"
+      - "Have been so brief with you, to shorten you,"
+      - "For taking so the head, your whole head’s length."
+    m:
+      - "There was a time when, if you’d been so brief in his presence, he would have made you even briefer, by chopping off your head."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Mistake not, uncle, further than you should."
+    m:
+      - "Uncle, don’t take this misunderstanding too far."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Take not, good cousin, further than you should."
+      - "Lest you mistake the heavens are o’er our heads."
+    m:
+      - "Good cousin, don’t take more than you should, or you may forget heaven rules over us."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "I know it, uncle, and oppose not myself"
+      - "Against their will. But who comes here?"
+    m:
+      - "I know it, uncle, and won’t oppose the will of heaven. But who is coming?"
+
+  - os: "Enter HENRY PERCY"
+    ms: "HENRY PERCY enters."
+
+  - o:
+      - "Welcome, Harry: what, will not this castle yield?"
+    m:
+      - "Welcome, Harry. What, won’t this castle give in?"
+
+  - sp: HENRY PERCY
+    o:
+      - "The castle royally is mann’d, my lord,"
+      - "Against thy entrance."
+    m:
+      - "The castle is guarded by royal soldiers, my lord, and they won’t let you enter."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Royally!"
+      - "Why, it contains no king?"
+    m:
+      - "Royal! But there’s no king here, is there?"
+
+  - sp: HENRY PERCY
+    o:
+      - "Yes, my good lord,"
+      - "It doth contain a king; King Richard lies"
+      - "Within the limits of yon lime and stone:"
+      - "And with him are the Lord Aumerle, Lord Salisbury,"
+      - "Sir Stephen Scroop, besides a clergyman"
+      - "Of holy reverence; who, I cannot learn."
+    m:
+      - "Yes, my lord, there is a king here. King Richard is inside, along with Lord Aumerle, Lord Salisbury, Sir Stephen Scroop, as well a holy clergyman whom I don’t know."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "O, belike it is the Bishop of Carlisle."
+    m:
+      - "It’s probably the Bishop of Carlisle."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Noble lords,"
+      - "Go to the rude ribs of that ancient castle;"
+      - "Through brazen trumpet send the breath of parley"
+      - "Into his ruin’d ears, and thus deliver:"
+      - "Henry Bolingbroke"
+      - "On both his knees doth kiss King Richard’s hand"
+      - "And sends allegiance and true faith of heart"
+      - "To his most royal person, hither come"
+      - "Even at his feet to lay my arms and power,"
+      - "Provided that my banishment repeal’d"
+      - "And lands restored again be freely granted:"
+      - "If not, I’ll use the advantage of my power"
+      - "And lay the summer’s dust with showers of blood"
+      - "Rain’d from the wounds of slaughter’d Englishmen:"
+      - "The which, how far off from the mind of Bolingbroke"
+      - "It is, such crimson tempest should bedrench"
+      - "The fresh green lap of fair King Richard’s land,"
+      - "My stooping duty tenderly shall show."
+      - "Go, signify as much, while here we march"
+      - "Upon the grassy carpet of this plain."
+      - "Let’s march without the noise of threatening drum,"
+      - "That from this castle’s tatter’d battlements"
+      - "Our fair appointments may be well perused."
+      - "Methinks King Richard and myself should meet"
+      - "With no less terror than the elements"
+      - "Of fire and water, when their thundering shock"
+      - "At meeting tears the cloudy cheeks of heaven."
+      - "Be he the fire, I’ll be the yielding water:"
+      - "The rage be his, whilst on the earth I rain"
+      - "My waters; on the earth, and not on him."
+      - "March on, and mark King Richard how he looks."
+    m:
+      - "Noble lords, approach the crude walls of this old castle and let the trumpets sound a signal to the king that we want to meet. Deliver this message: Henry Bolingbroke kneels before King Richard, kisses his hand, and offers his loyalty and true faith of heart. I come to lay my weapons and my power at his feet, as long as he repeals my banishment and freely gives back all my lands. If he won’t, I’ll use my power to rain his Englishmen’s blood on the summer’s dust. By kneeling submissively before him I’ll show how little I desire to drench his green lands in this way. Go, tell him, and meanwhile we’ll march here on the plain. Let’s march without the drums so that they can clearly see our excellent military equipment from the castle’s ruined roof. I think King Richard and I should meet in the same way that lightning and rain mix in the sky, producing thunder that rips it apart. If he’s the lightning, I’ll be the rain. He can rage, while I will yield and pour my waters on the earth. But only on the earth, not on him. March along, and notice how King Richard looks."
+
+  - os: "Parle without, and answer within. Then a flourish. Enter on the walls, KING RICHARD II, the BISHOP OF CARLISLE, DUKE OF AUMERLE, SIR STEPHEN SCROOP, and EARL OF SALISBURY"
+    ms: "They call from outside for a meeting, and someone answers from within. Trumpets blow. KING RICHARD II, the BISHOP OF CARLISLE, DUKE OF AUMERLE, SIR STEPHEN SCROOP, and EARL OF SALISBURY appear on the walls of the castle."
+
+  - o:
+      - "See, see, King Richard doth himself appear,"
+      - "As doth the blushing discontented sun"
+      - "From out the fiery portal of the east,"
+      - "When he perceives the envious clouds are bent"
+      - "To dim his glory and to stain the track"
+      - "Of his bright passage to the occident."
+    m:
+      - "See, King Richard himself appears, just as the sun rises unhappily in the east when it sees the clouds covering the sky and trying to hide his rays."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Yet looks he like a king: behold, his eye,"
+      - "As bright as is the eagle’s, lightens forth"
+      - "Controlling majesty: alack, alack, for woe,"
+      - "That any harm should stain so fair a show!"
+    m:
+      - "He still looks like a king. Look, his eye is as bright as an eagle’s and commands authority. It would be a shame to harm his fair appearance!"
+
+  - sp: KING RICHARD II
+    o:
+      - "We are amazed; and thus long have we stood"
+      - "To watch the fearful bending of thy knee,"
+    m:
+      - "I am astonished that I’ve stood here waiting so long and you haven’t yet kneeled,"
+
+  - os: "To NORTHUMBERLAND"
+    ms: "To NORTHUMBERLAND"
+
+  - o:
+      - "Because we thought ourself thy lawful king:"
+      - "And if we be, how dare thy joints forget"
+      - "To pay their awful duty to our presence?"
+      - "If we be not, show us the hand of God"
+      - "That hath dismissed us from our stewardship;"
+      - "For well we know, no hand of blood and bone"
+      - "Can grip the sacred handle of our sceptre,"
+      - "Unless he do profane, steal, or usurp."
+      - "And though you think that all, as you have done,"
+      - "Have torn their souls by turning them from us,"
+      - "And we are barren and bereft of friends;"
+      - "Yet know, my master, God omnipotent,"
+      - "Is mustering in his clouds on our behalf"
+      - "Armies of pestilence; and they shall strike"
+      - "Your children yet unborn and unbegot,"
+      - "That lift your vassal hands against my head"
+      - "And threat the glory of my precious crown."
+      - "Tell Bolingbroke—for yond methinks he stands—"
+      - "That every stride he makes upon my land"
+      - "Is dangerous treason: he is come to open"
+      - "The purple testament of bleeding war;"
+      - "But ere the crown he looks for live in peace,"
+      - "Ten thousand bloody crowns of mothers’ sons"
+      - "Shall ill become the flower of England’s face,"
+      - "Change the complexion of her maid-pale peace"
+      - "To scarlet indignation and bedew"
+      - "Her pastures’ grass with faithful English blood."
+    m:
+      - "since I thought I was still your lawful king. And if I am, how dare you not kneel in my presence? If I am not, prove to me that God has dismissed me from my position. No mortal man, after all, can take away my scepter, unless he steals it or usurps it against the will of God. Even if you think that, like you, everyone has put their souls in danger by turning away from me, and that I have no friends, you should know that God, my master, is gathering disease and agony in his clouds on my behalf. They will strike the unborn children of anyone who raises their hands against me and the glory of my crown. Tell Bolingbroke—for I think he’s standing over there—that every step he takes on my land is a dangerous act of treason. He has come to wage war against me. But ten thousand sons will die, faithful Englishman’s blood will stain the pastures, and peace will turn to anger before he ever gets the crown he seeks."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "The king of heaven forbid our lord the king"
+      - "Should so with civil and uncivil arms"
+      - "Be rush’d upon! Thy thrice noble cousin"
+      - "Harry Bolingbroke doth humbly kiss thy hand;"
+      - "And by the honourable tomb he swears,"
+      - "That stands upon your royal grandsire’s bones,"
+      - "And by the royalties of both your bloods,"
+      - "Currents that spring from one most gracious head,"
+      - "And by the buried hand of warlike Gaunt,"
+      - "And by the worth and honour of himself,"
+      - "Comprising all that may be sworn or said,"
+      - "His coming hither hath no further scope"
+      - "Than for his lineal royalties and to beg"
+      - "Enfranchisement immediate on his knees:"
+      - "Which on thy royal party granted once,"
+      - "His glittering arms he will commend to rust,"
+      - "His barbed steeds to stables, and his heart"
+      - "To faithful service of your majesty."
+      - "This swears he, as he is a prince, is just;"
+      - "And, as I am a gentleman, I credit him."
+    m:
+      - "God forbid that anyone would attack the king! Your noble cousin Harry Bolingbroke kisses your hand. He swears by your grandfather’s grave, by the royal blood you share, by the buried hand of his father Gaunt, and by his own honor that he has no intention of doing anything but kneeling down and asking for his land and money back. Once you’ve given him that, he’ll commit to never use his weapons, to put his warhorses in stables, and to dedicate himself to your faithful service. He swears that this is fair to him as a prince. I, as a gentleman, believe him."
+
+  - sp: KING RICHARD II
+    o:
+      - "Northumberland, say thus the king returns:"
+      - "His noble cousin is right welcome hither;"
+      - "And all the number of his fair demands"
+      - "Shall be accomplish’d without contradiction:"
+      - "With all the gracious utterance thou hast"
+      - "Speak to his gentle hearing kind commends."
+      - "*(To DUKE OF AUMERLE)* We do debase ourselves, cousin, do we not,"
+      - "To look so poorly and to speak so fair?"
+      - "Shall we call back Northumberland, and send"
+      - "Defiance to the traitor, and so die?"
+    m:
+      - "Cousin, aren’t I dishonoring myself by looking so wretched and speaking so kindly? Should I call back Northumberland and tell him to send only words of defiance to the traitor—and in doing so ensure that Bolingbroke’s army will kill me?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "No, good my lord; let’s fight with gentle words"
+      - "Till time lend friends and friends their helpful swords."
+    m:
+      - "No, my good lord. Let’s do battle with gentle words until we’ve had time to gather our friends and their weapons."
+
+  - sp: KING RICHARD II
+    o:
+      - "O God, O God! that e’er this tongue of mine,"
+      - "That laid the sentence of dread banishment"
+      - "On yon proud man, should take it off again"
+      - "With words of sooth! O that I were as great"
+      - "As is my grief, or lesser than my name!"
+      - "Or that I could forget what I have been,"
+      - "Or not remember what I must be now!"
+      - "Swell’st thou, proud heart? I’ll give thee scope to beat,"
+      - "Since foes have scope to beat both thee and me."
+    m:
+      - "Oh, God! It’s unbelievable that after sentencing that proud man to banishment, I would now lift his punishment with soothing words! I wish that I were as great as I am a sad, or that I weren’t a king. I wish I could forget that I’ve been a king, and that I must act like a king now. Is my heart beating faster? I’ll let it beat faster, since my enemies have the ability to beat both my heart and me."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Northumberland comes back from Bolingbroke."
+    m:
+      - "Northumberland is coming back from speaking to Bolingbroke."
+
+  - sp: KING RICHARD II
+    o:
+      - "What must the king do now? must he submit?"
+      - "The king shall do it: must he be deposed?"
+      - "The king shall be contented: must he lose"
+      - "The name of king? o’ God’s name, let it go:"
+      - "I’ll give my jewels for a set of beads,"
+      - "My gorgeous palace for a hermitage,"
+      - "My gay apparel for an almsman’s gown,"
+      - "My figured goblets for a dish of wood,"
+      - "My sceptre for a palmer’s walking staff,"
+      - "My subjects for a pair of carved saints"
+      - "And my large kingdom for a little grave,"
+      - "A little little grave, an obscure grave;"
+      - "Or I’ll be buried in the king’s highway,"
+      - "Some way of common trade, where subjects’ feet"
+      - "May hourly trample on their sovereign’s head;"
+      - "For on my heart they tread now whilst I live;"
+      - "And buried once, why not upon my head?"
+      - "Aumerle, thou weep’st, my tender-hearted cousin!"
+      - "We’ll make foul weather with despised tears;"
+      - "Our sighs and they shall lodge the summer corn,"
+      - "And make a dearth in this revolting land."
+      - "Or shall we play the wantons with our woes,"
+      - "And make some pretty match with shedding tears?"
+      - "As thus, to drop them still upon one place,"
+      - "Till they have fretted us a pair of graves"
+      - "Within the earth; and, therein laid,—there lies"
+      - "Two kinsmen digg’d their graves with weeping eyes."
+      - "Would not this ill do well? Well, well, I see"
+      - "I talk but idly, and you laugh at me."
+      - "Most mighty prince, my Lord Northumberland,"
+      - "What says King Bolingbroke? will his majesty"
+      - "Give Richard leave to live till Richard die?"
+      - "You make a leg, and Bolingbroke says ay."
+    m:
+      - "What must the king do now? Must the king surrender? He will do it. Must the king be overthrown? He will be happy. Must the king no longer be called king? In God’s name, he’ll renounce it. I’ll trade my jewels for a rosary, my gorgeous palace for a hermit’s dwelling, my nice clothes for a beggar’s shirt, my ornamented cups for a wooden dish, my scepter for a pilgrim’s cane, my subjects for a pair of carved saints, and trade my kingdom for a small and unmarked grave. Or bury me in a busy highway, where my subjects can trample my head constantly, since they are trampling my heart now while I’m still alive. Once I’m buried, why not trample on my head? Aumerle, my softhearted cousin, you are crying. We’ll use our tears to create violent storms, and with our sighs they will beat down the crops and cause famine in this rebellious land. Or shall we play with our woes and devise some clever game with our tears? We could keep them falling continually in one spot until they’ve carved us a pair of graves in the earth. We’d lie in the graves, and the tombstone would say “There lie two relatives who dug their graves with tears.” Wouldn’t that be a good game to play? Well, well, I speak foolishly, and you are laughing at me. My lord Northumberland, mighty prince, what does King Bolingbroke say? Will his majesty allow me to live until I die? You bow, and Bolingbroke decides."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "My lord, in the base court he doth attend"
+      - "To speak with you; may it please you to come down."
+    m:
+      - "My lord, he waits in the outer court below to speak with you. Will you come down?"
+
+  - sp: KING RICHARD II
+    o:
+      - "Down, down I come; like glistering Phaethon,"
+      - "Wanting the manage of unruly jades."
+      - "In the base court? Base court, where kings grow base,"
+      - "To come at traitors’ calls and do them grace."
+      - "In the base court? Come down? Down, court!"
+      - "down, king!"
+      - "For night-owls shriek where mounting larks"
+      - "should sing."
+    m:
+      - "I’m coming down, like shining Phaeton unable to control unruly horses. In the bottom court? The bottom court, where kings become common enough to obey a traitor’s summons and bow to them. In the bottom court? Come down? The bottom court! And now the king is on the bottom! Everything is backward, and night owls shriek when mounting larks should be singing."
+
+  - os: "Exeunt from above"
+    ms: "They exit from above."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "What says his majesty?"
+    m:
+      - "What does the king say?"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Sorrow and grief of heart"
+      - "Makes him speak fondly, like a frantic man"
+      - "Yet he is come."
+    m:
+      - "His sorrow makes him speak foolishly, like a mad man. But he’s coming."
+
+  - os: "Enter KING RICHARD and his attendants below"
+    ms: "KING RICHARD and his attendants enter below."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Stand all apart,"
+      - "And show fair duty to his majesty."
+    m:
+      - "Stand apart, and show your duty to the king."
+
+  - os: "He kneels down"
+    ms: "He kneels."
+
+  - o:
+      - "My gracious lord,—"
+    m:
+      - "My gracious lord."
+
+  - sp: KING RICHARD II
+    o:
+      - "Fair cousin, you debase your princely knee"
+      - "To make the base earth proud with kissing it:"
+      - "Me rather had my heart might feel your love"
+      - "Than my unpleased eye see your courtesy."
+      - "Up, cousin, up; your heart is up, I know,"
+      - "Thus high at least, although your knee be low."
+    m:
+      - "Fair cousin, you insult your princely knee by touching it to the lowly earth. I’d rather my heart feel your love than my eyes see your fake courtesy. Get up, cousin. Your heart is proud, I know, even if your knee is humbled."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "My gracious lord, I come but for mine own."
+    m:
+      - "My gracious lord, I’m only here to reclaim my own property."
+
+  - sp: KING RICHARD II
+    o:
+      - "Your own is yours, and I am yours, and all."
+    m:
+      - "Your property is yours, and I am your king."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "So far be mine, my most redoubted lord,"
+      - "As my true service shall deserve your love."
+    m:
+      - "My dreaded lord, you are my king only if I deserve your love."
+
+  - sp: KING RICHARD II
+    o:
+      - "Well you deserve: they well deserve to have,"
+      - "That know the strong’st and surest way to get."
+      - "Uncle, give me your hands: nay, dry your eyes;"
+      - "Tears show their love, but want their remedies."
+      - "Cousin, I am too young to be your father,"
+      - "Though you are old enough to be my heir."
+      - "What you will have, I’ll give, and willing too;"
+      - "For do we must what force will have us do."
+      - "Set on towards London, cousin, is it so?"
+    m:
+      - "Uncle, give me your hands. No, dry your eyes. Tears show love, but do nothing to fix their cause.  Cousin, I am too young to be your father, even though you are old enough to inherit my kingdom. I’ll willingly give you what you want, because you’ve forced me to do it. So now you’ll go to London, cousin?"
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Yea, my good lord."
+    m:
+      - "Yes, my good lord."
+
+  - sp: KING RICHARD II
+    o:
+      - "Then I must not say no."
+    m:
+      - "Then I can’t say no."
+
+  - os: "Flourish. Exeunt"
+    ms: "Trumpets blow. They exit."

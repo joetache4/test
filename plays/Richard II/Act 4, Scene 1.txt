@@ -1,0 +1,745 @@
+play: Richard II
+title: Act 4, Scene 1
+group: 4
+order: 12
+text:
+  - os: "Westminster Hall."
+    ms: "Westminster Hall."
+
+  - os: "Enter, as to the Parliament, HENRY BOLINGBROKE, DUKE OF AUMERLE, NORTHUMBERLAND, HENRY PERCY, LORD FITZWATER, DUKE OF SURREY, the BISHOP OF CARLISLE, the ABBOT OF WESTMINSTER, and another Lord, Herald, Officers, and BAGOT"
+    ms: "HENRY BOLINGBROKE enters, with the same ceremony as if he were entering Parliament. DUKE OF AUMERLE, NORTHUMBERLAND, HENRY PERCY, LORD FITZWATER, DUKE OF SURREY, the BISHOP OF CARLISLE, the ABBOT OF WESTMINSTER, and another lord enter as well, as do a herald, some officers, and BAGOT."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Call forth Bagot."
+      - "Now, Bagot, freely speak thy mind;"
+      - "What thou dost know of noble Gloucester’s death,"
+      - "Who wrought it with the king, and who perform’d"
+      - "The bloody office of his timeless end."
+    m:
+      - "Call forward Bagot. Now, Bagot, speak freely. What do you know about noble Gloucester’s death? Who conspired with the king to do it, and who actually killed him?"
+
+  - sp: BAGOT
+    o:
+      - "Then set before my face the Lord Aumerle."
+    m:
+      - "Bring Lord Aumerle forward."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Cousin, stand forth, and look upon that man."
+    m:
+      - "Cousin, stand in front and look at that man."
+
+  - sp: BAGOT
+    o:
+      - "My Lord Aumerle, I know your daring tongue"
+      - "Scorns to unsay what once it hath deliver’d."
+      - "In that dead time when Gloucester’s death was plotted,"
+      - "I heard you say, “Is not my arm of length,"
+      - "That reacheth from the restful English court"
+      - "As far as Calais, to mine uncle’s head?”"
+      - "Amongst much other talk, that very time,"
+      - "I heard you say that you had rather refuse"
+      - "The offer of an hundred thousand crowns"
+      - "Than Bolingbroke’s return to England;"
+      - "Adding withal how blest this land would be"
+      - "In this your cousin’s death."
+    m:
+      - "My Lord Aumerle, I know you’re too brave to deny what you’ve already said. While Gloucester’s death was being plotted, I heard you say, “Isn’t my arm long enough to reach from the peaceful English court to Calais, to strike at my uncle’s head?” At that same time, I heard you say, among other things, that you would rather refuse a hundred thousand crowns than have Bolingbroke return to England. And you added that the country would be blessed if Bolingbroke, your cousin, died."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Princes and noble lords,"
+      - "What answer shall I make to this base man?"
+      - "Shall I so much dishonour my fair stars,"
+      - "On equal terms to give him chastisement?"
+      - "Either I must, or have mine honour soil’d"
+      - "With the attainder of his slanderous lips."
+      - "There is my gage, the manual seal of death,"
+      - "That marks thee out for hell: I say, thou liest,"
+      - "And will maintain what thou hast said is false"
+      - "In thy heart-blood, though being all too base"
+      - "To stain the temper of my knightly sword."
+    m:
+      - "Princes and noble lords, how should I respond to this lowly man? Should I dishonor my rank as a noble by chastising him on equal terms? I guess I must, or let him ruin my honor with this slanderous accusation. There is my glove, the symbol of your death. I say you lie, and I’ll confirm in combat that what you said is a lie, though I won’t stain my knightly sword with your common blood."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Bagot, forbear; thou shalt not take it up."
+    m:
+      - "Bagot, restrain yourself. You will not retaliate."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Excepting one, I would he were the best"
+      - "In all this presence that hath moved me so."
+    m:
+      - "Except for Bolingbroke, I wish Bagot were the most noble person here to have angered me like this."
+
+  - sp: LORD FITZWATER
+    o:
+      - "If that thy valour stand on sympathy,"
+      - "There is my gage, Aumerle, in gage to thine:"
+      - "By that fair sun which shows me where thou stand’st,"
+      - "I heard thee say, and vauntingly thou spakest it"
+      - "That thou wert cause of noble Gloucester’s death."
+      - "If thou deny’st it twenty times, thou liest;"
+      - "And I will turn thy falsehood to thy heart,"
+      - "Where it was forged, with my rapier’s point."
+    m:
+      - "If your courage depends on rank, there is my glove, Aumerle, to match your glove. I swear by the sun that shows me where you are that I heard you boast that you caused Gloucester’s death. Even if you deny it twenty times, you lie, and I’ll put that lie back in your heart, where it came from, with my sword."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Thou darest not, coward, live to see that day."
+    m:
+      - "Coward, you wouldn’t dare do it."
+
+  - sp: LORD FITZWATER
+    o:
+      - "Now by my soul, I would it were this hour."
+    m:
+      - "By my soul, I wish I could do it right now."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Fitzwater, thou art damn’d to hell for this."
+    m:
+      - "Fitzwater, you’ll be damned to hell for this."
+
+  - sp: HENRY PERCY
+    o:
+      - "Aumerle, thou liest; his honour is as true"
+      - "In this appeal as thou art all unjust;"
+      - "And that thou art so, there I throw my gage,"
+      - "To prove it on thee to the extremest point"
+      - "Of mortal breathing: seize it, if thou darest."
+    m:
+      - "Aumerle, you lie. His accusation is as true as your denial is false. And I’ll prove that you lie by throwing down my glove. Take it up, if you dare."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "An if I do not, may my hands rot off"
+      - "And never brandish more revengeful steel"
+      - "Over the glittering helmet of my foe!"
+    m:
+      - "If I don’t, may my hands rot away and never again lift my sword over the helmet of my enemy!"
+
+  - sp: LORD
+    o:
+      - "I task the earth to the like, forsworn Aumerle;"
+      - "And spur thee on with full as many lies"
+      - "As may be holloa’d in thy treacherous ear"
+      - "From sun to sun: there is my honour’s pawn;"
+      - "Engage it to the trial, if thou darest."
+    m:
+      - "I’ll throw down my glove to you, too, lying Aumerle. And I’ll accuse you of lying right in your ear, from sunrise to sunset. There’s my pledge of honor. Pick it up, if you dare."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Who sets me else? by heaven, I’ll throw at all:"
+      - "I have a thousand spirits in one breast,"
+      - "To answer twenty thousand such as you."
+    m:
+      - "Who else challenges me? By heaven, I’ll throw my glove at you all. My breast holds a thousand spirits that can outmatch twenty thousand like you."
+
+  - sp: DUKE OF SURREY
+    o:
+      - "My Lord Fitzwater, I do remember well"
+      - "The very time Aumerle and you did talk."
+    m:
+      - "My lord Fitzwater, I remember very well when you and Aumerle spoke."
+
+  - sp: LORD FITZWATER
+    o:
+      - "’Tis very true: you were in presence then;"
+      - "And you can witness with me this is true."
+    m:
+      - "That’s true, you were there. And you can be my witness that this is true."
+
+  - sp: DUKE OF SURREY
+    o:
+      - "As false, by heaven, as heaven itself is true."
+    m:
+      - "It’s as false as heaven is true."
+
+  - sp: LORD FITZWATER
+    o:
+      - "Surrey, thou liest."
+    m:
+      - "Surrey, you lie."
+
+  - sp: DUKE OF SURREY
+    o:
+      - "Dishonourable boy!"
+      - "That lie shall lie so heavy on my sword,"
+      - "That it shall render vengeance and revenge"
+      - "Till thou the lie-giver and that lie do lie"
+      - "In earth as quiet as thy father’s skull:"
+      - "In proof whereof, there is my honour’s pawn;"
+      - "Engage it to the trial, if thou darest."
+    m:
+      - "Dishonorable boy! Your lie will give such weight to my sword that it will attack you in revenge until you’re lying in the grave as quiet as your dead father. As proof, there’s my glove. Take it up, if you dare."
+
+  - sp: LORD FITZWATER
+    o:
+      - "How fondly dost thou spur a forward horse!"
+      - "If I dare eat, or drink, or breathe, or live,"
+      - "I dare meet Surrey in a wilderness,"
+      - "And spit upon him, whilst I say he lies,"
+      - "And lies, and lies: there is my bond of faith,"
+      - "To tie thee to my strong correction."
+      - "As I intend to thrive in this new world,"
+      - "Aumerle is guilty of my true appeal:"
+      - "Besides, I heard the banish’d Norfolk say"
+      - "That thou, Aumerle, didst send two of thy men"
+      - "To execute the noble duke at Calais."
+    m:
+      - "You taunt me so foolishly! As easily as I dare to eat or drink or breathe or live, I dare to meet Surrey in a wild place and spit on him, all the while declaring that he lies. There is my response, so that you can’t run away from it. I intend to do well in this new kingdom, and Aumerle is guilty. Besides, I heard the banished Duke of Norfolk, Thomas Mowbray, say that you, Aumerle, sent two of your men to kill the noble duke at Calais."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Some honest Christian trust me with a gage"
+      - "That Norfolk lies: here do I throw down this,"
+      - "If he may be repeal’d, to try his honour."
+    m:
+      - "Someone lend me a glove so I can prove that Mowbray lies. Here, I throw down this, so that I may test his honor if he’s ever brought back."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "These differences shall all rest under gage"
+      - "Till Norfolk be repeal’d: repeal’d he shall be,"
+      - "And, though mine enemy, restored again"
+      - "To all his lands and signories: when he’s return’d,"
+      - "Against Aumerle we will enforce his trial."
+    m:
+      - "All these quarrels will be put on hold until Mowbray is recalled from exile, as he will be. Even though he is my enemy, he’ll be given back his land and titles. And when he comes back, we’ll have his trial against Aumerle."
+
+  - sp: BISHOP OF CARLISLE
+    o:
+      - "That honourable day shall ne’er be seen."
+      - "Many a time hath banish’d Norfolk fought"
+      - "For Jesu Christ in glorious Christian field,"
+      - "Streaming the ensign of the Christian cross"
+      - "Against black pagans, Turks, and Saracens:"
+      - "And toil’d with works of war, retired himself"
+      - "To Italy; and there at Venice gave"
+      - "His body to that pleasant country’s earth,"
+      - "And his pure soul unto his captain Christ,"
+      - "Under whose colours he had fought so long."
+    m:
+      - "That day will never happen. Many times did Mowbray fight for Jesus Christ in battle and raised the Christian cross against the black pagans, Turks, and Saracens. Exhausted by war, he retired to Italy. He gave his body to its soil in Venice and gave his pure soul to Christ, under whose banner he fought for so long."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Why, bishop, is Norfolk dead?"
+    m:
+      - "Why, bishop, is Mowbray dead?"
+
+  - sp: BISHOP OF CARLISLE
+    o:
+      - "As surely as I live, my lord."
+    m:
+      - "As surely as I am alive, my lord."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Sweet peace conduct his sweet soul to the bosom"
+      - "Of good old Abraham! Lords appellants,"
+      - "Your differences shall all rest under gage"
+      - "Till we assign you to your days of trial."
+    m:
+      - "May peace take his sweet soul to Abraham! Lords, we’ll keep all these challenges until we can set days for your trials."
+
+  - os: "Enter DUKE OF YORK, attended"
+    ms: "The DUKE OF YORK enters, with his attendants."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Great Duke of Lancaster, I come to thee"
+      - "From plume-pluck’d Richard; who with willing soul"
+      - "Adopts thee heir, and his high sceptre yields"
+      - "To the possession of thy royal hand:"
+      - "Ascend his throne, descending now from him;"
+      - "And long live Henry, fourth of that name!"
+    m:
+      - "Great Duke of Lancaster, I come to you from humbled Richard, who is willing to make you his heir and yields his royal scepter to your hands. Take his throne from him, and long live Henry, the fourth king with that name!"
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "In God’s name, I’ll ascend the regal throne."
+    m:
+      - "In God’s name, I’ll take the royal throne."
+
+  - sp: BISHOP OF CARLISLE
+    o:
+      - "Marry. God forbid!"
+      - "Worst in this royal presence may I speak,"
+      - "Yet best beseeming me to speak the truth."
+      - "Would God that any in this noble presence"
+      - "Were enough noble to be upright judge"
+      - "Of noble Richard! then true noblesse would"
+      - "Learn him forbearance from so foul a wrong."
+      - "What subject can give sentence on his king?"
+      - "And who sits here that is not Richard’s subject?"
+      - "Thieves are not judged but they are by to hear,"
+      - "Although apparent guilt be seen in them;"
+      - "And shall the figure of God’s majesty,"
+      - "His captain, steward, deputy-elect,"
+      - "Anointed, crowned, planted many years,"
+      - "Be judged by subject and inferior breath,"
+      - "And he himself not present? O, forfend it, God,"
+      - "That in a Christian climate souls refined"
+      - "Should show so heinous, black, obscene a deed!"
+      - "I speak to subjects, and a subject speaks,"
+      - "Stirr’d up by God, thus boldly for his king:"
+      - "My Lord of Hereford here, whom you call king,"
+      - "Is a foul traitor to proud Hereford’s king:"
+      - "And if you crown him, let me prophesy:"
+      - "The blood of English shall manure the ground,"
+      - "And future ages groan for this foul act;"
+      - "Peace shall go sleep with Turks and infidels,"
+      - "And in this seat of peace tumultuous wars"
+      - "Shall kin with kin and kind with kind confound;"
+      - "Disorder, horror, fear and mutiny"
+      - "Shall here inhabit, and this land be call’d"
+      - "The field of Golgotha and dead men’s skulls."
+      - "O, if you raise this house against this house,"
+      - "It will the woefullest division prove"
+      - "That ever fell upon this cursed earth."
+      - "Prevent it, resist it, let it not be so,"
+      - "Lest child, child’s children, cry against you woe!"
+    m:
+      - "God forbid! I’m the least worthy to speak in this noble company, but it’s fitting that I, a clergyman, speak the truth. If only one of the nobles here were noble enough to judge Richard! Then he would restrain himself from committing such a wrong. What subject can pass judgment on his king? And who here isn’t Richard’s subject? Even thieves aren’t judged unless they’re present, even when they’re obviously guilty. Shall the image of God’s majesty, who is His chosen deputy and caretaker and has been so for many years, be judged by his inferiors without even being present? Oh, God, don’t allow such refined souls in a Christian land to be so obscene. I’m speaking to subjects as a subject, because I’ve been moved by God to speak boldly for his king. You might call my Lord of Hereford here king, but he is a traitor to his king. If you give him the crown, I predict that the blood of the English will soak the soil, and future generations will regret this act. Peace will leave England and go to the Turks and infidels, while we will have terrible wars that will pit families against each other. Disorder, fear, mutiny, and horror will live here, and it will be known as a place of terror and skulls. If you pit your family against his, it will prove to be the worst division ever to take place on earth. Prevent it from happening. Don’t let it be so, or your children and your grandchildren will lament your actions!"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Well have you argued, sir; and, for your pains,"
+      - "Of capital treason we arrest you here."
+      - "My Lord of Westminster, be it your charge"
+      - "To keep him safely till his day of trial."
+      - "May it please you, lords, to grant the commons’ suit."
+    m:
+      - "You’ve argued well, and in return we’re arresting you for capital treason. My Lord of Westminster, it’s your responsibility to keep him safe until he goes on trial. My lords, please grant the commons’ suit."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Fetch hither Richard, that in common view"
+      - "He may surrender; so we shall proceed"
+      - "Without suspicion."
+    m:
+      - "Bring Richard here, so that he can surrender in public. That way I can proceed without suspicion."
+
+  - sp: DUKE OF YORK
+    o:
+      - "I will be his conduct."
+    m:
+      - "I’ll escort him."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Lords, you that here are under our arrest,"
+      - "Procure your sureties for your days of answer."
+      - "Little are we beholding to your love,"
+      - "And little look’d for at your helping hands."
+    m:
+      - "You lords who are here under arrest, arrange for someone to pledge that you’ll be here for your trial. I don’t owe you anything, and I don’t expect to receive any love from you."
+
+  - os: "Re-enter DUKE OF YORK, with KING RICHARD II, and Officers bearing the regalia"
+    ms: "The DUKE OF YORK enters with KING RICHARD II. Officers follow them holding the crown and the scepter, the symbols of the kingship."
+
+  - sp: KING RICHARD II
+    o:
+      - "Alack, why am I sent for to a king,"
+      - "Before I have shook off the regal thoughts"
+      - "Wherewith I reign’d? I hardly yet have learn’d"
+      - "To insinuate, flatter, bow, and bend my limbs:"
+      - "Give sorrow leave awhile to tutor me"
+      - "To this submission. Yet I well remember"
+      - "The favours of these men: were they not mine?"
+      - "Did they not sometime cry, “all hail!” to me?"
+      - "So Judas did to Christ: but he, in twelve,"
+      - "Found truth in all but one: I, in twelve thousand, none."
+      - "God save the king! Will no man say amen?"
+      - "Am I both priest and clerk? well then, amen."
+      - "God save the king! although I be not he;"
+      - "And yet, amen, if heaven do think him me."
+      - "To do what service am I sent for hither?"
+    m:
+      - "Alas, why does the king call for me when I’ve only just resigned myself to give up the throne? I’ve hardly had time to learn to act like a subject, who has to indulge the king and bow to him. Give me some time with my sorrow so that I can learn how to submit to another. I still remember how these men used to serve me. Didn’t they once cry out, “All hail!” to me? But then so did Judas to Christ once. But Christ had eleven honest followers out of twelve. I don’t have one out of twelve thousand. God save the king! Won’t anyone say amen? Do I have to both give the blessing and affirm it? Well then, amen. God save the king! Even though I am not the king. And yet, I’ll say amen in case heaven still considers me the king. Why have you sent for me?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "To do that office of thine own good will"
+      - "Which tired majesty did make thee offer,"
+      - "The resignation of thy state and crown"
+      - "To Henry Bolingbroke."
+    m:
+      - "You have to give up your country and your crown to Henry Bolingbroke of your own free will, even though you’ve already given it over through your defeat."
+
+  - sp: KING RICHARD II
+    o:
+      - "Give me the crown. Here, cousin, seize the crown;"
+      - "Here cousin:"
+      - "On this side my hand, and on that side yours."
+      - "Now is this golden crown like a deep well"
+      - "That owes two buckets, filling one another,"
+      - "The emptier ever dancing in the air,"
+      - "The other down, unseen and full of water:"
+      - "That bucket down and full of tears am I,"
+      - "Drinking my griefs, whilst you mount up on high."
+    m:
+      - "Give me the crown. Here, cousin, take the crown. Here cousin. I’ll put my hand on this side of it, and you put yours on the other. Now this golden crown looks like a well that has two buckets, and raising one causes the other to drop and fill up. One is empty and dances up in the air, while the other is down in the well and full of water. I’m the bucket at the bottom, full of tears, and you are the one risen to the top."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "I thought you had been willing to resign."
+    m:
+      - "I thought you were willing to give up the crown."
+
+  - sp: KING RICHARD II
+    o:
+      - "My crown I am; but still my griefs are mine:"
+      - "You may my glories and my state depose,"
+      - "But not my griefs; still am I king of those."
+    m:
+      - "I’m willing to give up my crown, but my sadness is still mine. You can take my glory and my royal status, but I still rule over my grief."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Part of your cares you give me with your crown."
+    m:
+      - "You’ll lose some of those worries when you give the crown to me."
+
+  - sp: KING RICHARD II
+    o:
+      - "Your cares set up do not pluck my cares down."
+      - "My care is loss of care, by old care done;"
+      - "Your care is gain of care, by new care won:"
+      - "The cares I give I have, though given away;"
+      - "They tend the crown, yet still with me they stay."
+    m:
+      - "Just because you gain those worries doesn’t mean I lose them. I’m worried by their loss and by what has happened. Your concern is the new responsibilities you are taking on. I’ll keep my worries even if I give away their cause, the crown."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Are you contented to resign the crown?"
+    m:
+      - "Are you willing to give up the crown?"
+
+  - sp: KING RICHARD II
+    o:
+      - "Ay, no; no, ay; for I must nothing be;"
+      - "Therefore no no, for I resign to thee."
+      - "Now mark me, how I will undo myself;"
+      - "I give this heavy weight from off my head"
+      - "And this unwieldy sceptre from my hand,"
+      - "The pride of kingly sway from out my heart;"
+      - "With mine own tears I wash away my balm,"
+      - "With mine own hands I give away my crown,"
+      - "With mine own tongue deny my sacred state,"
+      - "With mine own breath release all duty’s rites:"
+      - "All pomp and majesty I do forswear;"
+      - "My manors, rents, revenues I forego;"
+      - "My acts, decrees, and statutes I deny:"
+      - "God pardon all oaths that are broke to me!"
+      - "God keep all vows unbroke that swear to thee!"
+      - "Make me, that nothing have, with nothing grieved,"
+      - "And thou with all pleased, that hast all achieved!"
+      - "Long mayst thou live in Richard’s seat to sit,"
+      - "And soon lie Richard in an earthly pit!"
+      - "God save King Harry, unking’d Richard says,"
+      - "And send him many years of sunshine days!"
+      - "What more remains?"
+    m:
+      - "Yes and no. No and yes, since I must not be anything. So, no, no, because I give it up to you. Now look, I’ll make myself nothing. I’ll give you this heavy crown from my head, and this scepter from my hand. I’ll take the pride of being king out of my heart. My own tears will wash away the oil that made me king. My own hands will give away the crown. My own tongue will deny my sacred right to be king. My own breath will give up all oaths of allegiance made to me. I give up all the ritual and ceremony, all my homes, my income, and reject all the laws I enacted. May God pardon everyone who breaks his oath to me! May God keep them from breaking their oath to you! Let me grieve for nothing since I have nothing, and let you be pleased with everything since you have everything! May you live long in my place, and let me be buried soon! God save King Harry, former King Richard says, and let him have many happy days! What else is left?"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "No more, but that you read"
+      - "These accusations and these grievous crimes"
+      - "Committed by your person and your followers"
+      - "Against the state and profit of this land;"
+      - "That, by confessing them, the souls of men"
+      - "May deem that you are worthily deposed."
+    m:
+      - "Nothing but for you to read aloud all the accusations and crimes that you and your followers committed against the wellbeing and prosperity of this country. Once you’ve confessed, everyone can agree that you’ve been justly dethroned."
+
+  - sp: KING RICHARD II
+    o:
+      - "Must I do so? and must I ravel out"
+      - "My weaved-up folly? Gentle Northumberland,"
+      - "If thy offences were upon record,"
+      - "Would it not shame thee in so fair a troop"
+      - "To read a lecture of them? If thou wouldst,"
+      - "There shouldst thou find one heinous article,"
+      - "Containing the deposing of a king"
+      - "And cracking the strong warrant of an oath,"
+      - "Mark’d with a blot, damn’d in the book of heaven:"
+      - "Nay, all of you that stand and look upon,"
+      - "Whilst that my wretchedness doth bait myself,"
+      - "Though some of you with Pilate wash your hands"
+      - "Showing an outward pity; yet you Pilates"
+      - "Have here deliver’d me to my sour cross,"
+      - "And water cannot wash away your sin."
+    m:
+      - "Do I have to? Do I have to list out these charges? Dear Northumberland, if all your crimes were listed out, wouldn’t you be ashamed to read them in front of such a distinguished group? If you did, you’d find on the list the terrible crime of deposing a king and breaking an oath, crimes condemned by heaven. All of you who are watching me act out my miserable fate here pretend like Pilate that you’ve done nothing wrong and look at me with pity. But you’ve all played a part in bringing me to this state, and you can’t deny your sin."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "My lord, dispatch; read o’er these articles."
+    m:
+      - "My lord, get on with it. Read the charges."
+
+  - sp: KING RICHARD II
+    o:
+      - "Mine eyes are full of tears, I cannot see:"
+      - "And yet salt water blinds them not so much"
+      - "But they can see a sort of traitors here."
+      - "Nay, if I turn mine eyes upon myself,"
+      - "I find myself a traitor with the rest;"
+      - "For I have given here my soul’s consent"
+      - "To undeck the pompous body of a king;"
+      - "Made glory base and sovereignty a slave,"
+      - "Proud majesty a subject, state a peasant."
+    m:
+      - "My eyes are full of tears and I can’t see. But even so, I can see a group of traitors in front of me. And if I look at myself, I see just as great a traitor. I’ve agreed to give up my royal garments, made nobility common, and made a master a slave. I’ve made a king a subject and made the richest the poorest."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "My lord,—"
+    m:
+      - "My lord—"
+
+  - sp: KING RICHARD II
+    o:
+      - "No lord of thine, thou haught insulting man,"
+      - "Nor no man’s lord; I have no name, no title,"
+      - "No, not that name was given me at the font,"
+      - "But ’tis usurp’d: alack the heavy day,"
+      - "That I have worn so many winters out,"
+      - "And know not now what name to call myself!"
+      - "O that I were a mockery king of snow,"
+      - "Standing before the sun of Bolingbroke,"
+      - "To melt myself away in water-drops!"
+      - "Good king, great king, and yet not greatly good,"
+      - "An if my word be sterling yet in England,"
+      - "Let it command a mirror hither straight,"
+      - "That it may show me what a face I have,"
+      - "Since it is bankrupt of his majesty."
+    m:
+      - "I’m not your lord, you haughty, insulting man. I’m no man’s lord. I don’t have a name or a title. The name I was baptized with is no longer mine. How sad it is that I am so old and I don’t know what to call myself! If only I were a snowman, I could stand in front of the sun of Bolingbroke and let myself be melted! Good king, great king, but not a very good man. If my commands still have value in England, let me command someone to bring me a mirror, so I may see what I look like without any of my noble majesty."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Go some of you and fetch a looking-glass."
+    m:
+      - "Someone go and get a mirror."
+
+  - os: "Exit an attendant"
+    ms: "An attendant exits."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Read o’er this paper while the glass doth come."
+    m:
+      - "Read this paper until the mirror arrives."
+
+  - sp: KING RICHARD II
+    o:
+      - "Fiend, thou torment’st me ere I come to hell!"
+    m:
+      - "Fiend, you are torturing me before I even get to hell!"
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Urge it no more, my Lord Northumberland."
+    m:
+      - "Lord Northumberland, stop asking him to read it."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "The commons will not then be satisfied."
+    m:
+      - "The House of Commons won’t be satisfied."
+
+  - sp: KING RICHARD II
+    o:
+      - "They shall be satisfied: I’ll read enough,"
+      - "When I do see the very book indeed"
+      - "Where all my sins are writ, and that’s myself."
+    m:
+      - "They’ll get what they want. I’ll read it when I can look at my face and see the sins that appear there."
+
+  - os: "Re-enter Attendant, with a glass"
+    ms: "The attendant reenters with a mirror."
+
+  - o:
+      - "Give me the glass, and therein will I read."
+      - "No deeper wrinkles yet? hath sorrow struck"
+      - "So many blows upon this face of mine,"
+      - "And made no deeper wounds? O flattering glass,"
+      - "Like to my followers in prosperity,"
+      - "Thou dost beguile me! Was this face the face"
+      - "That every day under his household roof"
+      - "Did keep ten thousand men? was this the face"
+      - "That, like the sun, did make beholders wink?"
+      - "Was this the face that faced so many follies,"
+      - "And was at last out-faced by Bolingbroke?"
+      - "A brittle glory shineth in this face:"
+      - "As brittle as the glory is the face;"
+    m:
+      - "Give me the mirror, and I’ll read what’s on my face. No deeper wrinkles yet? Could I endure so many sorrows without them appearing on my face? Oh flattering mirror, you are lying to me just like my followers did during happier times. Was this the same man who once kept ten thousand men in his employ? Was this the face that made men lower their gaze, as if they were looking into the sun? Was this the same face that endured so many challenges until it was defeated by Bolingbroke? There’s a fragile glory in this face, and it’s a face as fragile as glory."
+
+  - os: "Dashes the glass against the ground"
+    ms: "He throws the mirror on the ground."
+
+  - o:
+      - "For there it is, crack’d in a hundred shivers."
+      - "Mark, silent king, the moral of this sport,"
+      - "How soon my sorrow hath destroy’d my face."
+    m:
+      - "Look, there it is in a hundred pieces. Pay attention, king, to what this means. Sorrow has so quickly destroyed my face."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "The shadow of your sorrow hath destroy’d"
+      - "The shadow or your face."
+    m:
+      - "It’s only the outward gloom of your sorrow that has destroyed the appearance of your face."
+
+  - sp: KING RICHARD II
+    o:
+      - "Say that again."
+      - "The shadow of my sorrow! ha! let’s see:"
+      - "’Tis very true, my grief lies all within;"
+      - "And these external manners of laments"
+      - "Are merely shadows to the unseen grief"
+      - "That swells with silence in the tortured soul;"
+      - "There lies the substance: and I thank thee, king,"
+      - "For thy great bounty, that not only givest"
+      - "Me cause to wail but teachest me the way"
+      - "How to lament the cause. I’ll beg one boon,"
+      - "And then be gone and trouble you no more."
+      - "Shall I obtain it?"
+    m:
+      - "Say that again. The outward gloom of my sorrow! Ha! Let’s see. It’s true that my grief is inside me and that anything I say or do to indicate my grief is just the outward reflection of what’s inside. Thank you, king, for being so kind as to not only give me reason to grieve but also to teach me how to show my grief. I’ll beg one favor, and then I’ll go away and no longer bother you. Will you give it to me?"
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Name it, fair cousin."
+    m:
+      - "Whatever you want, fair cousin."
+
+  - sp: KING RICHARD II
+    o:
+      - "“Fair cousin”? I am greater than a king:"
+      - "For when I was a king, my flatterers"
+      - "Were then but subjects; being now a subject,"
+      - "I have a king here to my flatterer."
+      - "Being so great, I have no need to beg."
+    m:
+      - "“Fair cousin”? I must be mightier than a king, since when I was a king subjects flattered me, but now that I’m a subject the king flatters me. Since I’m so mighty, I don’t need to beg."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Yet ask."
+    m:
+      - "Ask anyway."
+
+  - sp: KING RICHARD II
+    o:
+      - "And shall I have?"
+    m:
+      - "And will I have it?"
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "You shall."
+    m:
+      - "You will."
+
+  - sp: KING RICHARD II
+    o:
+      - "Then give me leave to go."
+    m:
+      - "Then give me permission to go."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Whither?"
+    m:
+      - "Where?"
+
+  - sp: KING RICHARD II
+    o:
+      - "Whither you will, so I were from your sights."
+    m:
+      - "Wherever you want, as long as it is away from you."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Go, some of you convey him to the Tower."
+    m:
+      - "Go, some of you take him to the tower."
+
+  - sp: KING RICHARD II
+    o:
+      - "O, good! convey? conveyers are you all,"
+      - "That rise thus nimbly by a true king’s fall."
+    m:
+      - "Oh good! Take me? You’re all takers who’ve risen so mightily by my downfall."
+
+  - os: "Exeunt KING RICHARD II, some Lords, and a Guard"
+    ms: "KING RICHARD II exits, with some lords and a guard."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "On Wednesday next we solemnly set down"
+      - "Our coronation: lords, prepare yourselves."
+    m:
+      - "Next Wednesday, I’ll be crowned. Lords, prepare for it."
+
+  - os: "Exeunt all except the BISHOP OF CARLISLE, the Abbot of Westminster, and DUKE OF AUMERLE"
+    ms: "They all exit, except the BISHOP OF CARLISLE, the ABBOT OF WESTMINSTER, and the DUKE OF AUMERLE."
+
+  - sp: ABBOT
+    o:
+      - "A woeful pageant have we here beheld."
+    m:
+      - "This is a sad scene we’ve witnessed."
+
+  - sp: BISHOP OF CARLISLE
+    o:
+      - "The woe’s to come; the children yet unborn."
+      - "Shall feel this day as sharp to them as thorn."
+    m:
+      - "The sadness is yet to come. Children who aren’t even born yet will feel the effects of this day like a thorn in their side."
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "You holy clergymen, is there no plot"
+      - "To rid the realm of this pernicious blot?"
+    m:
+      - "You holy men, isn’t there a way we can get rid of this terrible ruler?"
+
+  - sp: ABBOT
+    o:
+      - "My lord,"
+      - "Before I freely speak my mind herein,"
+      - "You shall not only take the sacrament"
+      - "To bury mine intents, but also to effect"
+      - "Whatever I shall happen to devise."
+      - "I see your brows are full of discontent,"
+      - "Your hearts of sorrow and your eyes of tears:"
+      - "Come home with me to supper; and I’ll lay"
+      - "A plot shall show us all a merry day."
+    m:
+      - "My lord, before I speak freely, you must swear to keep this a secret and also to promise that whatever plan I come up with is carried out. I see how unhappy you are. Come home with me for supper. I’ll put forward a plot that will make us all happy."
+
+  - os: "Exeunt"
+    ms: "They exit."

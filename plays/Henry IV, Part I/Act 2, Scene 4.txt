@@ -1,0 +1,1308 @@
+play: Henry IV, Part I
+title: Act 2, Scene 4
+group: 2
+order: 6
+text:
+  - os: "Enter PRINCE HENRY and POINS"
+    ms: "PRINCE HENRY and POINS enter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Ned, prithee, come out of that fat room and lend me thy hand to laugh a little."
+    m:
+      - "Ned, come out of that airless room and help me laugh a bit."
+
+  - sp: POINS
+    o:
+      - "Where hast been, Hal?"
+    m:
+      - "Where’ve you been, Hal?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "With three or four loggerheads amongst three or fourscore hogsheads. I have sounded the very bass string of humility. Sirrah, I am sworn brother to a leash of drawers, and can call them all by their christen names, as Tom, Dick, and Francis. They take it already upon their salvation that though I be but Prince of Wales, yet I am the king of courtesy, and tell me flatly am no proud jack, like Falstaff, but a Corinthian, a lad of mettle, a good boy—by the Lord, so they call me—and when I am King of England, I shall command all the good lads in Eastcheap. They call drinking deep “dyeing scarlet,” and when you breathe in your watering, they cry “Hem!” and bid you “Play it off!” To conclude, I am so good a proficient in one quarter of an hour that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much honor that thou wert not with me in this action; but, sweet Ned—to sweeten which name of Ned, I give thee this pennyworth of sugar, clapped even now into my hand by an underskinker, one that never spake other English in his life than “Eight shillings and sixpence,” and “You are welcome,” with this shrill addition, “Anon, anon, sir.—Score a pint of bastard in the Half-moon,” or so. But, Ned, to drive away the time till Falstaff come, I prithee, do thou stand in some by-room while I question my puny drawer to what end he gave me the sugar; and do thou never leave calling “Francis,” that his tale to me may be nothing but “Anon.” Step aside, and I’ll show thee a precedent."
+    m:
+      - "With three or four knuckleheads and a few dozen kegs of liquor. I’ve been with the lowest of the low. Sirrah, I’ve made great friends with these three bartenders, and I’m on a first-name basis with them: Tom, Dick, and Francis. They swear on their souls that, even though I’m only the Prince of Wales, I’m the king of niceness. They say I’m no pompous fool, like Falstaff, but a good sport, a spirited man, a good boy. When I’m King of England, all the good men of Eastcheap will follow me gladly. When you drink deeply, they joke that you have been dyed red; and if you stop for a breath when you’re drinking, they yell “Cough!” and they command you to keep going. In fifteen minutes, I got so good at being a drinking companion, I could be at ease with any man over a drink, in any setting. Ned, you didn’t do yourself any favors by missing this. But, sweet Ned, I’ll sweeten the name Ned with this bit of sugar, given to me by an apprentice drawer who never spoke any English his whole life, except, “That’ll be eight shillings and sixpence,” and “You’re welcome,” and also, “Just a second, just a second! Bring a pint of bastard to the Half-Moon room!” But Ned, let’s pass the time until Falstaff gets here. Hide in a side room while I ask that little apprentice drawer why he gave me the sugar. Keep calling out his name, Francis, and don’t stop, so that all he’s able to say is, “Just a second!” Step aside, and I’ll give you a taste."
+
+  - os: "Exit POINS"
+    ms: "POINS exits."
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Thou art perfect."
+    m:
+      - "Perfect."
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - os: "Enter FRANCIS, a drawer"
+    ms: "FRANCIS, a drawer, enters."
+
+  - sp: FRANCIS
+    o:
+      - "Anon, anon, sir.—Look down into the Pomgarnet, Ralph."
+    m:
+      - "Just a second, sir.—Ralph, make sure everything’s okay in the Pomegranate Room!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Come hither, Francis."
+    m:
+      - "Come here, Francis."
+
+  - sp: FRANCIS
+    o:
+      - "My lord?"
+    m:
+      - "Sir?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "How long hast thou to serve, Francis?"
+    m:
+      - "How many more years of your apprenticeship do you have, Francis?"
+
+  - sp: FRANCIS
+    o:
+      - "Forsooth, five years, and as much as to—"
+    m:
+      - "Truly, five years, which is as long —"
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - sp: FRANCIS
+    o:
+      - "Anon, anon, sir."
+    m:
+      - "Just a second, sir!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Five year! By ’r lady, a long lease for the clinking of pewter! But, Francis, darest thou be so valiant as to play the coward with thy indenture, and show it a fair pair of heels, and run from it?"
+    m:
+      - "Five years! Wow, that’s a long time to be clinking beer mugs. But Francis, are you brave enough to play the coward with your contract? To flash it your heels, as you run away?"
+
+  - sp: FRANCIS
+    o:
+      - "O Lord, sir, I’ll be sworn upon all the books in England, I could find in my heart—"
+    m:
+      - "Oh Lord, sir. I’d swear on a stack of Bibles that I’d love to be able to—"
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - sp: FRANCIS
+    o:
+      - "Anon, sir."
+    m:
+      - "Just a second, sir!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "How old art thou, Francis?"
+    m:
+      - "How old are you, Francis?"
+
+  - sp: FRANCIS
+    o:
+      - "Let me see. About Michaelmas next, I shall be—"
+    m:
+      - "Let’s see—at the end of next September, I’ll be—"
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - sp: FRANCIS
+    o:
+      - "Anon, sir. *(to PRINCE HENRY)* Pray, stay a little, my lord."
+    m:
+      - "Just a second, sir! *(to PRINCE HENRY)* Wait here a moment, my lord."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Nay, but hark you, Francis, for the sugar thou gavest me,’twas a pennyworth, was ’t not?"
+    m:
+      - "No, listen to me, Francis. The sugar you gave me was worth about a penny, right?"
+
+  - sp: FRANCIS
+    o:
+      - "O Lord, I would it had been two!"
+    m:
+      - "Oh lord, I wish I could have given you two pennies’ worth!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "I will give thee for it a thousand pound. Ask me when thou wilt, and thou shalt have it."
+    m:
+      - "I’ll give you a thousand pounds for it. Ask for it whenever you want it, and it’s yours."
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - sp: FRANCIS
+    o:
+      - "Anon, anon."
+    m:
+      - "Just a second!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Anon, Francis? No, Francis, but tomorrow, Francis; or,"
+      - "Francis, o’ Thursday; or indeed, Francis, when thou wilt."
+      - "But, Francis—"
+    m:
+      - "You want it in a second, Francis? No, Francis. Maybe tomorrow, Francis, or Thursday, Francis, whenever you want it. But, Francis."
+
+  - sp: FRANCIS
+    o:
+      - "My lord?"
+    m:
+      - "Sir?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Wilt thou rob this leathern jerkin, crystal-button, not-pated, agate-ring, puke-stocking, caddis-garter, smooth-tongue, Spanish-pouch—"
+    m:
+      - "Are you ready to rob this man? This man, with his leather jacket, fashionable crystal buttons, short hair, agate signet ring, dark stockings, ribboned garters, oily speech, Spanish leather pouch—"
+
+  - sp: FRANCIS
+    o:
+      - "O Lord, sir, who do you mean?"
+    m:
+      - "Oh Lord, sir, who are you talking about?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, then, your brown bastard is your only drink, for look you, Francis, your white canvas doublet will sully. In Barbary, sir, it cannot come to so much."
+    m:
+      - "Well then, it looks like brown bastard will continue to be your only drink. Because listen, Francis, your white canvas shirt will get stained out there. Even in North Africa, sir, you won’t get so much."
+
+  - sp: FRANCIS
+    o:
+      - "What, sir?"
+    m:
+      - "Excuse me, sir?"
+
+  - sp: POINS
+    o:
+      - "*(within)* Francis!"
+    m:
+      - "*(offstage)* Francis!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Away, you rogue! Dost thou not hear them call?"
+    m:
+      - "Get going, you good-for-nothing. Can’t you hear people calling you?"
+
+  - os: "Here they both call him. FRANCIS the drawer stands amazed, not knowing which way to go."
+    ms: "POINS and PRINCE HENRY both begin to shout “Francis!” FRANCIS stands there bewildered, not knowing what to do."
+
+  - os: "Enter VINTNER"
+    ms: "The VINTNER enters."
+
+  - sp: VINTNER
+    o:
+      - "What, stand’st thou still and hear’st such a calling? Look to the guests within."
+    m:
+      - "Why are you standing there when people are calling you? Take care of the customers inside!"
+
+  - os: "  Exit FRANCIS"
+    ms: "FRANCIS exits."
+
+  - o:
+      - "My lord, old Sir John with half a dozen more are at the door."
+      - "Shall I let them in?"
+    m:
+      - "My lord, old Sir John and a half-dozen others are at the door. Should I let them in?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Let them alone awhile, and then open the door."
+    m:
+      - "Leave them out there for a while, and then open the door."
+
+  - os: "Exit VINTNER"
+    ms: "VINTNER exits."
+
+  - o:
+      - "Poins!"
+    m:
+      - "Poins!"
+
+  - os: "Reenter POINS"
+    ms: "POINS enters."
+
+  - sp: POINS
+    o:
+      - "Anon, anon, sir."
+    m:
+      - "Just a second, sir!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Sirrah, Falstaff and the rest of the thieves are at the door."
+      - "Shall we be merry?"
+    m:
+      - "Sirrah, Falstaff and the rest of the thieves are here. Are we ready for a laugh?"
+
+  - sp: POINS
+    o:
+      - "As merry as crickets, my lad. But hark you, what cunning match have you made with this jest of the drawer. Come, what’s the issue?"
+    m:
+      - "We’ll be happy as crickets, my lad. But listen, what’s with this gag you played on the waiter? What’s the point?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "I am now of all humors that have showed themselves humors since the old days of Goodman Adam to the pupil age of this present twelve o’clock at midnight."
+    m:
+      - "I’m up for anything. Right now, I’m feeling all the moods that anyone has ever felt, from the old days of Adam to this young age, right now, at twelve o’clock midnight."
+
+  - os: "  Enter FRANCIS"
+    ms: "FRANCIS enters."
+
+  - o:
+      - "What’s o’clock, Francis?"
+    m:
+      - "What time is it, Francis?"
+
+  - sp: FRANCIS
+    o:
+      - "Anon, anon, sir."
+    m:
+      - "Just a second, sir."
+
+  - os: "Exit FRANCIS"
+    ms: "FRANCIS exits."
+
+  - sp: PRINCE HENRY
+    o:
+      - "That ever this fellow should have fewer words than a parrot, and yet the son of a woman! His industry is upstairs and downstairs, his eloquence the parcel of a reckoning. I am not yet of Percy’s mind, the Hotspur of the north, he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife “Fie upon this quiet life! I want work.” “O my sweet Harry,” says she, “how many hast thou killed today?” “Give my roan horse a drench,” says he, and answers “Some fourteen,” an hour after. “A trifle, a trifle.” I prithee, call in Falstaff. I’ll play Percy, and that damned brawn shall play Dame Mortimer his wife. *“Rivo!”* says the drunkard. Call in Ribs, call in Tallow."
+    m:
+      - "This boy has fewer words than a parrot, but he’s actually a person! All he does is run up and down stairs, and the only things he can say are the names of the items on your bill. I’m not yet like Percy, the Hotspur of the North. He kills six or seven dozen Scotsmen before breakfast, washes his hands, and then says to his wife, “To hell with this boring life! I need something to do!” “Oh, my sweet Harry,” she says, “How many have you killed today?” “Give my brown horse a dose of medicine,” he says. And then about an hour later, he answers her: “About fourteen.” Then he says, “That’s nothing, nothing.” Listen, bring in Falstaff. I’ll play Percy, and that damned fat slob will play his wife, Dame Mortimer. “Bottom’s up!” as the drunk says. Bring in the meat, bring in blubber."
+
+  - os: "Enter FALSTAFF, GADSHILL, PETO, and BARDOLPH, followed by FRANCIS with wine"
+    ms: "FALSTAFF , GADSHILL, BARDOLPH, and PETO enter. FRANCIS follows with wine."
+
+  - sp: POINS
+    o:
+      - "Welcome, Jack. Where hast thou been?"
+    m:
+      - "Welcome, Jack. Where’ve you been?"
+
+  - sp: FALSTAFF
+    o:
+      - "A plague of all cowards, I say, and a vengeance too! Marry and amen!—Give me a cup of sack, boy.—Ere I lead this life long, I’ll sew netherstocks and mend them, and foot them too. A plague of all cowards!—Give me a cup of sack, rogue. —Is there no virtue extant?*(he drinketh)*"
+    m:
+      - "A curse on all cowards, I say, and revenge on them, too! Amen to that! Give me some wine, boy. I’m not going to keep up this way of life much longer. I’ll knit socks, mend them, and fix their feet. A curse on all cowards! Give me a cup of wine, you lowlife! Isn’t there any honesty left in this world? *(he drinks)*"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Didst thou never see Titan kiss a dish of butter?—Pitiful- hearted Titan!—that melted at the sweet tale of the sun’s? If thou didst, then behold that compound."
+    m:
+      - "Did you ever see the sun kiss a dish of butter? The tender-hearted sun, melting the butter with its sweet words! If you have, then take a look at Falstaff."
+
+  - sp: FALSTAFF
+    o:
+      - "*(to FRANCIS)* You rogue, here’s lime in this sack too.—There is nothing but roguery to be found in villanous man, yet a coward is worse than a cup of sack with lime in it. A villanous coward! Go thy ways, old Jack. Die when thou wilt. If manhood, good manhood, be not forgot upon the face of the earth, then am I a shotten herring. There lives not three good men unhanged in England, and one of them is fat and grows old, God help the while. A bad world, I say. I would I were a weaver. I could sing psalms, or anything. A plague of all cowards, I say still."
+    m:
+      - "*(to FRANCIS)* You bastard! Somebody put lime in my wine! All men are cheaters and schemers, but a coward is worse than a glass of wine with lime in it. A miserable coward! Go on, old Jack, die already. If there’s even one real man left on this earth besides me, then I’m as skinny as a herring. In all of England there are only three good men that haven’t been put to death, and one of them is fat and growing old. God help us all! It’s a bad world, I say. I wish I were a weaver; I could sing psalms while I was sewing. I’ll say it again: a curse on all cowards."
+
+  - sp: PRINCE HENRY
+    o:
+      - "How now, woolsack, what mutter you?"
+    m:
+      - "What’s the matter, you sack of wool? What are you muttering about?"
+
+  - sp: FALSTAFF
+    o:
+      - "A King’s son! If I do not beat thee out of thy kingdom with a dagger of lath, and drive all thy subjects afore thee like a flock of wild geese, I’ll never wear hair on my face more. You, Prince of Wales!"
+    m:
+      - "A King’s son! If I don’t drive you out of the kingdom with a wooden dagger, and send your subjects running before you like a flock of geese, then I’ll never grow a beard again. You, Prince of Wales? What a joke!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, you whoreson round man, what’s the matter?"
+    m:
+      - "You fat son of a whore, what’s the matter?"
+
+  - sp: FALSTAFF
+    o:
+      - "Are not you a coward? Answer me to that—and Poins there?"
+    m:
+      - "Aren’t you a coward? Tell me that. And Poins there?"
+
+  - sp: POINS
+    o:
+      - "Zounds, ye fat paunch, an you call me coward, by the Lord,"
+      - "I’ll stab thee."
+    m:
+      - "Dammit, you fat belly. If you call me a coward, I swear, I’ll stab you."
+
+  - sp: FALSTAFF
+    o:
+      - "I call thee coward? I’ll see thee damned ere I call thee coward, but I would give a thousand pound I could run as fast as thou canst. You are straight enough in the shoulders you care not who sees your back. Call you that backing of your friends? A plague upon such backing! Give me them that will face me.—Give me a cup of sack.—I am a rogue if I drunk today."
+    m:
+      - "I call you coward? I’d sooner see you damned than call you a coward, but I tell you; I’d give a thousand pounds to be able to run as fast as you can. You’ve got good-enough-;looking shoulders; you don’t care who sees your back! Is that what you call backing up your friends? Damn anyone who backs up like that! I’d rather have a man who faces me. Give me some wine! I’ll be damned if I’ve had anything to drink today."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O villain, thy lips are scarce wiped since thou drunk’st last."
+    m:
+      - "Liar! You’ve barely had time to wipe your lips since your last drink."
+
+  - sp: FALSTAFF
+    o:
+      - "All is one for that.*(he drinketh)* A plague of all cowards, still say I."
+    m:
+      - "Whatever. *(he drinks)* A curse on all cowards, I still say."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: FALSTAFF
+    o:
+      - "What’s the matter? There be four of us here have ta’en a thousand pound this day morning."
+    m:
+      - "What’s the matter? There are four of us here who stole a thousand pounds this very morning."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Where is it, Jack? Where is it?"
+    m:
+      - "Where is it, Jack? Where is it?"
+
+  - sp: FALSTAFF
+    o:
+      - "Where is it? Taken from us it is. A hundred upon poor four of us."
+    m:
+      - "Where is it? It was stolen from us. A hundred men against only four of us."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, a hundred, man?"
+    m:
+      - "What, a hundred, man?"
+
+  - sp: FALSTAFF
+    o:
+      - "I am a rogue if I were not at half-sword with a dozen of them two hours together. I have ’scaped by miracle. I am eight times thrust through the doublet, four through the hose, my buckler cut through and through, my sword hacked like a handsaw. *Ecce signum!* I never dealt better since I was a man. All would not do. A plague of all cowards! *(points to GADSHILL, PETO and BARDOLPH)* Let them speak. If they speak more or less than truth, they are villains, and the sons of darkness."
+    m:
+      - "I’ll be damned if I didn’t fight with a dozen of them for two straight hours. It’s a miracle I managed to get away. They stabbed through my shirt eight times. Four through my pants. My shield’s got holes through and through. My sword’s as cut up as a hacksaw. Behold the evidence! It was the best fighting I’ve ever done, but even my all wasn’t enough. A curse on all cowards! *(points to GADSHILL, PETO and BARDOLPH)* Ask these men. If they don’t tell you the whole truth, they’re liars and devils."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Speak, sirs, how was it?"
+    m:
+      - "Tell us, men. What happened?"
+
+  - sp: GADSHILL
+    o:
+      - "We four set upon some dozen."
+    m:
+      - "The four of us jumped about a dozen—"
+
+  - sp: FALSTAFF
+    o:
+      - "Sixteen at least, my lord."
+    m:
+      - "Sixteen at least, my lord."
+
+  - sp: BARDOLPH
+    o:
+      - "And bound them."
+    m:
+      - "And tied them up."
+
+  - sp: PETO
+    o:
+      - "No, no, they were not bound."
+    m:
+      - "No, no. We didn’t tie them up."
+
+  - sp: FALSTAFF
+    o:
+      - "You rogue, they were bound, every man of them, or I am a"
+      - "Jew else, an Ebrew Jew."
+    m:
+      - "You jerk, we did tie them up, every single one of them, or I’m a Jew, a true Hebrew Jew."
+
+  - sp: GADSHILL
+    o:
+      - "As we were sharing, some six or seven fresh men set upon us."
+    m:
+      - "Then, when we were dividing the money, about six or seven other men jumped us—"
+
+  - sp: FALSTAFF
+    o:
+      - "And unbound the rest, and then come in the other."
+    m:
+      - "And untied the rest, and then all the others showed up."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, fought you with them all?"
+    m:
+      - "What, you fought with all of them?"
+
+  - sp: FALSTAFF
+    o:
+      - "All? I know not what you call all, but if I fought not with fifty of them I am a bunch of radish. If there were not two- or hree-and-fifty upon poor old Jack, then am I no two-legged creature."
+    m:
+      - "All? I don’t know what you mean by “all.” But if I didn’t fight with fifty of them, I’m a bunch of radishes. If fifty-two or fifty-three of them didn’t attack me, then I’m no man."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Pray God you have not murdered some of them."
+    m:
+      - "I pray to God you didn’t kill any of them."
+
+  - sp: FALSTAFF
+    o:
+      - "Nay, that’s past praying for. I have peppered two of them. Two I am sure I have paid, two rogues in buckram suits. I tell thee what, Hal, if I tell thee a lie, spit in my face, call me horse. Thou knowest my old ward. Here I lay, and thus I bore my point. Four rogues in buckram let drive at me."
+    m:
+      - "Too late for praying now. I made things hot for two of them; two I’m sure I got, two thugs wearing clothes made of buckram cloth. I’ll tell you what, Hal: if I’m lying to you, spit in my face and call me a horse. You know my old fighting stance. Here’s how I stood, and here’s how I handled my sword. Four thugs in buckram came right at me—"
+
+  - sp: PRINCE HENRY
+    o:
+      - "What, four? Thou saidst but two even now."
+    m:
+      - "What? Four? You said two a second ago."
+
+  - sp: FALSTAFF
+    o:
+      - "Four, Hal, I told thee four."
+    m:
+      - "Four, Hal. I said four."
+
+  - sp: POINS
+    o:
+      - "Ay, ay, he said four."
+    m:
+      - "That’s right. He said four."
+
+  - sp: FALSTAFF
+    o:
+      - "These four came all afront, and mainly thrust at me. I made me no more ado, but took all their seven points in my target, thus."
+    m:
+      - "These four threw everything they had right at me. I made no big fuss of it; I just put up my shield and all seven of their swords hit it."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Seven? Why there were but four even now."
+    m:
+      - "Seven? But just now there were only four."
+
+  - sp: FALSTAFF
+    o:
+      - "In buckram?"
+    m:
+      - "Wearing buckram?"
+
+  - sp: POINS
+    o:
+      - "Ay, four in buckram suits."
+    m:
+      - "Yes. Four in clothes made of buckram."
+
+  - sp: FALSTAFF
+    o:
+      - "Seven, by these hilts, or I am a villain else."
+    m:
+      - "Seven, I swear on my sword. If not, I’m a liar."
+
+  - sp: PRINCE HENRY
+    o:
+      - "*(aside to POINS)* Prithee, let him alone. We shall have more anon."
+    m:
+      - "*(to POINS , so no one else can hear)* Leave him alone. There’ll be more in a minute."
+
+  - sp: FALSTAFF
+    o:
+      - "Dost thou hear me, Hal?"
+    m:
+      - "Are you listening to me, Hal?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Ay, and mark thee too, Jack."
+    m:
+      - "I’m listening, Jack."
+
+  - sp: FALSTAFF
+    o:
+      - "Do so, for it is worth the listening to. These nine in buckram that I told thee of—"
+    m:
+      - "Good, because it’s worth paying attention to. Anyway, these nine guys in buckram that I told you about—"
+
+  - sp: PRINCE HENRY
+    o:
+      - "So, two more already."
+    m:
+      - "So, two more already."
+
+  - sp: FALSTAFF
+    o:
+      - "Their points being broken—"
+    m:
+      - "Since their points were broken—"
+
+  - sp: POINS
+    o:
+      - "Down fell their hose."
+    m:
+      - "Their stockings fell down."
+
+  - sp: FALSTAFF
+    o:
+      - "Began to give me ground, but I followed me close, came in foot and hand, and with a thought, seven of the eleven I paid."
+    m:
+      - "They started to run away, but I followed them closely. And as quick as a thought, I finished off seven of the eleven."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O monstrous! Eleven buckram men grown out of two!"
+    m:
+      - "Unbelievable! Eleven buckram men have grown out of two!"
+
+  - sp: FALSTAFF
+    o:
+      - "But as the devil would have it, three misbegotten knaves in Kendal green came at my back, and let drive at me, for it was so dark, Hal, that thou couldst not see thy hand."
+    m:
+      - "But as the devil would have it, three wretched bastards wearing green came from behind and ran right at me. It was so dark, Hal, that you couldn’t see your hand in front of your face."
+
+  - sp: PRINCE HENRY
+    o:
+      - "These lies are like their father that begets them, gross as a mountain, open, palpable. Why, thou claybrained guts, thou knotty-pated fool, thou whoreson, obscene, greasy tallow- catch—"
+    m:
+      - "These lies are like the man who tells them: huge as a mountain, obvious, and plain as day. You clay-brained fatso, you knuckleheaded fool, you son of a whore, you obscene tub of lard—"
+
+  - sp: FALSTAFF
+    o:
+      - "What, art thou mad? Art thou mad? Is not the truth the truth?"
+    m:
+      - "What are you, crazy? Are you crazy? Isn’t the truth the truth?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, how couldst thou know these men in Kendal green, when it was so dark thou couldst not see thy hand? Come, tell us your reason. What sayest thou to this?"
+    m:
+      - "Well, how could you know that these men were wearing green when it was so dark you couldn’t see your hand in front of your face? Go ahead, tell us. What do you have to say to that?"
+
+  - sp: POINS
+    o:
+      - "Come, your reason, Jack, your reason."
+    m:
+      - "Come on, tell us, Jack, go on."
+
+  - sp: FALSTAFF
+    o:
+      - "What, upon compulsion? Zounds, an I were at the strappado or all the racks in the world, I would not tell you on compulsion. Give you a reason on compulsion? If reasons were as plentiful as blackberries, I would give no man a reason upon compulsion, I."
+    m:
+      - "What, just because you command me? Dammit, if I were being tortured on all the contraptions in the world, I wouldn’t speak just because you commanded. Speak just because you command! If my reasons were as cheap as blackberries, I wouldn’t give away my reasons just because I was commanded. Not I."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I’ll be no longer guilty of this sin. This sanguine coward, this bed-presser, this horseback-breaker, this huge hill of flesh—"
+    m:
+      - "I’m not going to put up with this any longer. This red-faced coward, this flattener of mattresses, this breaker of horses’ backs, this huge hill of flesh—"
+
+  - sp: FALSTAFF
+    o:
+      - "’Sblood, you starveling, you elfskin, you dried neat’s tongue, you bull’s pizzle, you stockfish! O, for breath to utter what is like thee! You tailor’s-yard, you sheath, you bowcase, you vile standing tuck—"
+    m:
+      - "Dammit! You scarecrow, you skin of an elf, you dried-out ox’s tongue, you bull’s penis, you salted cod! Oh, I wish I had enough breath to tell you all the things you are! You yardstick, you empty sheath, you case for a violinist’s bow, you disgusting erect sword—"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Well, breathe awhile, and then to it again, and when thou hast tired thyself in base comparisons, hear me speak but this."
+    m:
+      - "Catch your breath for a moment, then start again. And when you’ve tired yourself with these awful comparisons, listen to me say just one thing."
+
+  - sp: POINS
+    o:
+      - "Mark, Jack."
+    m:
+      - "Listen closely, Jack."
+
+  - sp: PRINCE HENRY
+    o:
+      - "We two saw you four set on four, and bound them and were masters of their wealth. Mark now how a plain tale shall put you down. Then did we two set on you four and, with a word, outfaced you from your prize, and have it; yea, and can show it you here in the house. And, Falstaff, you carried your guts away as nimbly, with as quick dexterity, and roared for mercy, and still run and roared, as ever I heard bull-calf. What a slave art thou to hack thy sword as thou hast done, and then say it was in fight! What trick, what device, what starting-hole canst thou now find out to hide thee from this open and apparent shame?"
+    m:
+      - "The two of us saw you four jump four men, tie them up and take their money. Now listen to how the simple truth will shame you. Then the two of us jumped the four of you. And with just a word, we stole your prize from you. Now we have it, and we can show it to you right here in the bar. And Falstaff, you ran away as quickly and as lightfootedly, as a cow from the slaughter, screaming for mercy, as you ran and screamed. What a lowlife you are, to hack up your sword and say it happened in a fight! What outrageous story, what trick, what hiding place can you possibly find to hide you from your open and obvious shame?"
+
+  - sp: POINS
+    o:
+      - "Come, let’s hear, Jack. What trick hast thou now?"
+    m:
+      - "Come on, let’s hear it, Jack. What trick have you got now?"
+
+  - sp: FALSTAFF
+    o:
+      - "By the Lord, I knew you as well as he that made you. Why, hear you, my masters, was it for me to kill the heir apparent? Should I turn upon the true Prince? Why, thou knowest I am as valiant as Hercules, but beware instinct. The lion will not touch the true Prince. Instinct is a great matter. I was now a coward on instinct. I shall think the better of myself, and thee, during my life—I for a valiant lion, and thou for a true Prince. But, by the Lord, lads, I am glad you have the money.—Hostess, clap to the doors.— Watch tonight, pray to-morrow. Gallants, lads, boys, hearts of gold, all the titles of good fellowship come to you. What, shall we be merry? hall we have a play extempore?"
+    m:
+      - "By God, I knew it was you the whole time, like I was your own father! Listen to me, men: would it be right for me to kill the heir-apparent? Should I have attacked the true Prince? Look, you know I’m as brave as Hercules, but you must listen to your instinct. It’s like that old superstition, about how a lion will never attack a true Prince. Instinct is a powerful thing; I was only a coward by instinct. From now on, I’ll have to think of myself as a brave lion, and you as a true Prince. But good God, men, I’m glad you have the money. Hostess! Lock the doors; we’ll celebrate tonight and pray tomorrow. Gentlemen, lads, boys, hearts of gold—I’ll call you every good name I can think of, all at once! Hey! Shall we have some fun? Shall we stage a little play?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Content, and the argument shall be thy running away."
+    m:
+      - "Of course, and the play will be about you running away."
+
+  - sp: FALSTAFF
+    o:
+      - "Ah, no more of that, Hal, an thou lovest me."
+    m:
+      - "Oh, let it go, Hal, if you love me."
+
+  - os: "Enter MISTRESS QUICKLY"
+    ms: "MISTRESS QUICKLY enters."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O Jesu, my lord the Prince!"
+    m:
+      - "Oh, Jesus—Your Majesty!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "How now, my lady the hostess, what sayest thou to me?"
+    m:
+      - "Hello there, my lady the hostess! Do you have something to say to me?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Marry, my lord, there is a nobleman of the court at door would speak with you. He says he comes from your father."
+    m:
+      - "Indeed, my lord. There’s a nobleman from the royal court at the door, and he wants to speak with you. He says your father sent him."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Give him as much as will make him a royal man and send him back again to my mother."
+    m:
+      - "Give him some coins and send him right back to my mother."
+
+  - sp: FALSTAFF
+    o:
+      - "What manner of man is he?"
+    m:
+      - "What kind of man is he?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "An old man."
+    m:
+      - "An old man."
+
+  - sp: FALSTAFF
+    o:
+      - "What doth Gravity out of his bed at midnight? Shall I give him his answer?"
+    m:
+      - "What is an old man doing out of bed at midnight? Do you want me to talk to him?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Prithee do, Jack."
+    m:
+      - "Please do, Jack."
+
+  - sp: FALSTAFF
+    o:
+      - "Faith, and I’ll send him packing."
+    m:
+      - "Truly, I’ll send him on his way."
+
+  - os: "Exit FALSTAFF"
+    ms: "FALSTAFF exits."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Now, sirs. By ’r lady, you fought fair.—So did you, Peto.— So did you, Bardolph.—You are lions too. You ran away upon instinct. You will not touch the true Prince. No, fie!"
+    m:
+      - "Now, men: by God, you fought well. So did you, Peto, and you, Bardolph. You must be lions, too, since your instinct told you to run away. You wouldn’t touch the true Prince; no, indeed!"
+
+  - sp: BARDOLPH
+    o:
+      - "Faith, I ran when I saw others run."
+    m:
+      - "Honestly, I ran when I saw the others run."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Faith, tell me now in earnest, how came Falstaff’s sword so hacked?"
+    m:
+      - "Okay, now tell me the truth. How did Falstaff’s sword get broken like that?"
+
+  - sp: PETO
+    o:
+      - "Why, he hacked it with his dagger and said he would swear truth out of England but he would make you believe it was done in fight, and persuaded us to do the like."
+    m:
+      - "He hacked away at it with his dagger. He said he would swear up and down to make you believe that it happened in a fight, and he made us do the same."
+
+  - sp: BARDOLPH
+    o:
+      - "Yea, and to tickle our noses with speargrass to make them bleed, and then to beslubber our garments with it, and swear it was the blood of true men. I did that I did not this seven year before: I blushed to hear his monstrous devices."
+    m:
+      - "Yes, and he made us rub our noses with rough weeds until they started to bleed, then smear our clothes with the blood and swear that it was from the men we fought. When he told me the crazy things he wanted us to do, I did something I haven’t done in seven years: I blushed."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O villain, thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed extempore. Thou hadst fire and sword on thy side, and yet thou ran’st away. What instinct hadst thou for it?"
+    m:
+      - "Liar! You stole a cup of wine eighteen years ago, got caught in the act, and you’ve been blushing ever since. You had your fiery-red face and your weapons going for you, but still you ran away. What instinct made you do that?"
+
+  - sp: BARDOLPH
+    o:
+      - "My lord, do you see these meteors? Do you behold these exhalations?"
+    m:
+      - "Sir, do you see these red welts on my face? Do you see these swellings?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "I do."
+    m:
+      - "I do."
+
+  - sp: BARDOLPH
+    o:
+      - "What think you they portend?"
+    m:
+      - "What do you think they mean?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Hot livers and cold purses."
+    m:
+      - "That your temper is hot and your wallet is empty."
+
+  - sp: BARDOLPH
+    o:
+      - "Choler, my lord, if rightly taken."
+    m:
+      - "It means anger, sir, you interpret it correctly."
+
+  - sp: PRINCE HENRY
+    o:
+      - "No, if rightly taken, halter."
+    m:
+      - "It means you’ll be hanged if the authorities catch you."
+
+  - os: "Enter FALSTAFF"
+    ms: "FALSTAFF enters."
+
+  - o:
+      - "Here comes lean Jack. Here comes bare-bone.—How now, my sweet creature of bombast? How long is ’t ago, Jack, since thou sawest thine own knee?"
+    m:
+      - "Here comes skinny Jack; here comes the bag of bones. What’s going on, now, my sweet windbag? How long has it been, Jack, since you saw your own knees?"
+
+  - sp: FALSTAFF
+    o:
+      - "My own knee? When I was about thy years, Hal, I was not an eagle’s talon in the waist. I could have crept into any alderman’s thumb-ring. A plague of sighing and grief! It blows a man up like a bladder. There’s villanous news abroad. Here was Sir John Bracy from your father. You must to the court in the morning. That same mad fellow of the north, Percy, and he of Wales that gave Amamon the bastinado, and made Lucifer cuckold, and swore the devil his true liegeman upon the cross of a Welsh hook—what a plague call you him?"
+    m:
+      - "My own knees? When I was your age, Hal, my waist was as skinny as an eagle’s talon; I could have crawled through a councilman’s thumb ring. But damn all that sighing and sadness! It blows a man up like a balloon. There’s bad news out there. That was Sir John Bracy, sent by your father. You have to go to court in the morning. Percy, that mad man from up north, and that Welshman who gave Amamon a beating, and stole Lucifer’s wife, and made a pact to be the devil’s master—what’s his name again?"
+
+  - sp: POINS
+    o:
+      - "Owen Glendower."
+    m:
+      - "Oh, Glendower."
+
+  - sp: FALSTAFF
+    o:
+      - "Owen, Owen, the same, and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular—"
+    m:
+      - "Owen, Owen, that’s the one. And his son-in-law Mortimer, and old Northumberland, and Douglas, that lively Scot of Scots, who can ride a horse straight up a wall—"
+
+  - sp: PRINCE HENRY
+    o:
+      - "He that rides at high speed, and with his pistol kills a sparrow flying."
+    m:
+      - "The man who can ride at high speeds, then kill a flying sparrow with his pistol."
+
+  - sp: FALSTAFF
+    o:
+      - "You have hit it."
+    m:
+      - "You’ve hit it; that’s him exactly."
+
+  - sp: PRINCE HENRY
+    o:
+      - "So did he never the sparrow."
+    m:
+      - "I may have hit it, but Owen never hit the sparrow."
+
+  - sp: FALSTAFF
+    o:
+      - "Well, that rascal hath good mettle in him. He will not run."
+    m:
+      - "Well, that rascal has bravery in him; he won’t run away."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, what a rascal art thou then to praise him so for running?"
+    m:
+      - "Why, you rascal! You just praised him for running!"
+
+  - sp: FALSTAFF
+    o:
+      - "A-horseback, you cuckoo, but afoot he will not budge a foot."
+    m:
+      - "He’ll run on his horse, you cuckoo. But when fighting on foot, he’ll never budge."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Yes, Jack, upon instinct."
+    m:
+      - "Yes he will, Jack. By instinct."
+
+  - sp: FALSTAFF
+    o:
+      - "I grant you, upon instinct. Well, he is there too, and one Mordake, and a thousand blue-caps more: Worcester is stolen away tonight. Thy father’s beard is turned white with the news. You may buy land now as cheap as stinking mackerel."
+    m:
+      - "You’re right, by instinct. Well, he’s there, and a man named Mordake, and a thousand Scottish soldiers besides. Worcester snuck out of London tonight, and your father’s hair turned white when he heard. The price of land has dropped as low as a bucket of stinking fish."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, then, it is like if there come a hot June, and this civil buffeting hold, we shall buy maidenheads as they buy hob- nails, by the hundreds."
+    m:
+      - "If that’s the case, then when the weather gets hot and the civil war has really broken out, we can buy women’s virtues the way other people buy nails: by the hundreds."
+
+  - sp: FALSTAFF
+    o:
+      - "By the Mass, thou sayest true. It is like we shall have good trading that way. But tell me, Hal, art not thou horrible afeard? Thou being heir apparent, could the world pick thee out three such enemies again as that fiend Douglas, that spirit Percy, and that devil Glendower? Art thou not horribly afraid? Doth not thy blood thrill at it?"
+    m:
+      - "By God, lad, you tell the truth. We’ll probably have good luck in that area. But Hal, aren’t you scared? You’re the heir apparent. Can you imagine three worse enemies than that demon Douglas, that spirit Percy, and that devil Glendower? Aren’t you horribly scared? Isn’t your blood running cold at the thought?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Not a whit, i’ faith; I lack some of thy instinct."
+    m:
+      - "Not in the least, truly: I don’t have your instinct."
+
+  - sp: FALSTAFF
+    o:
+      - "Well, thou wert be horribly chid tomorrow when thou comest to thy father. If thou love me, practice an answer."
+    m:
+      - "Well, you’ll be rebuked horribly when you see your father tomorrow. If you love me, practice a response."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Do thou stand for my father and examine me upon the particulars of my life."
+    m:
+      - "You pretend to be my father; ask me about the details of my life."
+
+  - sp: FALSTAFF
+    o:
+      - "Shall I? Conten. This chair shall be my state, this dagger my scepter, and this cushion my crown."
+    m:
+      - "Really? Excellent! This chair will be my throne, this dagger my scepter, and this cushion will be my crown."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Thy state is taken for a joined stool, thy golden scepter for a leaden dagger, and thy precious rich crown for a pitiful bald crown."
+    m:
+      - "Your throne is a wooden stool, your gold scepter is a dagger of lead, and your precious, expensive crown is a lousy bald head."
+
+  - sp: FALSTAFF
+    o:
+      - "Well, an the fire of grace be not quite out of thee, now shalt thou be moved.—Give me a cup of sack to make my eyes look red, that it may be thought I have wept, for I must speak in passion, and I will do it in King Cambyses’ vein."
+    m:
+      - "If you still have a shred of divine grace in you, you’ll be moved by this. Give me some wine to make my eyes bloodshot, so that it looks like I’ve been crying. I must speak with passion, and I’ll do it like King Cambyses."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Well, here is my leg."
+    m:
+      - "Well then, I’ll bow to you."
+
+  - sp: FALSTAFF
+    o:
+      - "And here is my speech. Stand aside, nobility."
+    m:
+      - "And I’ll speak to you. Step aside, gentlemen."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O Jesu, this is excellent sport, i’ faith!"
+    m:
+      - "Oh, Jesus! This is an excellent game, truly!"
+
+  - sp: FALSTAFF
+    o:
+      - "Weep not, sweet queen, for trickling tears are vain."
+    m:
+      - "Don’t cry, sweet queen; your trickling tears do no good."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O the father, how he holds his countenance!"
+    m:
+      - "Oh Lord, look how well he’s keeping it up!"
+
+  - sp: FALSTAFF
+    o:
+      - "For God’s sake, lords, convey my tristful queen,"
+      - "For tears do stop the floodgates of her eyes."
+    m:
+      - "For God’s sake, gentlemen; take my queen away from here. The floodgates of her eyes are being overwhelmed by her tears."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O Jesu, he doth it as like one of these harlotry players as ever"
+      - "I see."
+    m:
+      - "My God! He’s just as good as those silly old professional actors!"
+
+  - sp: FALSTAFF
+    o:
+      - "Peace, good pint-pot. Peace, good tickle-brain.— *(to PRINCE HENRY)* Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied. For though the camomile, the more it is trodden on, the faster it grows, so youth, the more it is wasted, the sooner it wears. That thou art my son I have partly thy mother’s word, partly my own opinion, but chiefly a villanous trick of thine eye and a foolish-hanging of thy nether lip that doth warrant me. If then thou be son to me, here lies the point: why, being son to me, art thou so pointed at? Shall the blessed sun of heaven prove a micher and eat blackberries? A question not to be asked. Shall the sun of England prove a thief and take purses? A question to be asked. There is a thing, Harry, which thou hast often heard of, and it is known to many in our land by the name of pitch: this pitch, as ancient writers do report, doth defile; so doth the company thou keepest. For, Harry, now I do not speak to thee, in drink but in tears; not in pleasure, but in passion; not in words only, but in woes also. And yet there is a virtuous man whom I have often noted in thy company, but I know not his name."
+    m:
+      - "Quiet, little ale pot. Quiet, little booze-brain. *(to PRINCE HENRY)* Harry, I am not only amazed at where you are spending your time, but whom you’re spending it with. They say that stepping on a chamomile plant will make it grow faster. But when it comes to youth, the more it is wasted, the faster is wears away. I know you are my son. Your mother says so, I believe so, and the wicked glint in your eye and foolish expression on your face prove it. If it’s true that you are my son, then here is my point: why, since you are my son, do so many people point at you? Should the blessed sun in heaven waste its time eating blackberries? That is not a question worth asking. Should the son of the king of England become a thief and steal wallets? That is worth asking. Harry, you’ve heard of a substance known as pitch. Pitch, as the wise men tell us, makes one filthy, and so does the company you keep. Harry, I speak to you not drunk but weeping, not in happiness but in anger, not just in words but also in sadness. And yet, there is a very good and pious man whom I’ve often seen you with, but I do not know his name."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What manner of man, an it like your Majesty?"
+    m:
+      - "What kind of man, your highness?"
+
+  - sp: FALSTAFF
+    o:
+      - "A goodly portly man, i’ faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage, and, as I think, his age some fifty, or, by ’r Lady, inclining to three score; and now I remember me, his name is Falstaff. If that man should be lewdly given, he deceiveth me, for, Harry, I see virtue in his looks. If then the tree may be known by the fruit, as the fruit by the tree, then peremptorily I speak it: there is virtue in that Falstaff; him keep with, the rest banish. And tell me now, thou naughty varlet, tell me, where hast thou been this month?"
+    m:
+      - "A stout man, truly; and overweight. He has a cheerful expression, a handsome look, and a noble bearing. I think he is about fifty years old, or perhaps closer to sixty. Now I remember! His name is Falstaff. If that man has a bad character, then I have been fooled. Harry, I see goodness in him. If one can tell a tree by its fruit, and a fruit by its tree, then let me come right out and say this: there is goodness in that Falstaff. Stay with him, but get rid of everyone else. Now tell me, you naughty boy, tell me; where have you been for the past month?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Dost thou speak like a king? Do thou stand for me, and I’ll play my father."
+    m:
+      - "You think you sound like a king? You play me, and I’ll play my father."
+
+  - sp: FALSTAFF
+    o:
+      - "Depose me? If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit- sucker or a poulter’s hare."
+    m:
+      - "You’re overthrowing me? If you play him even half as well as I did, half as majestically, then hang me up like a rabbit for sale in a butcher shop."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Well, here I am set."
+    m:
+      - "I’m all set."
+
+  - sp: FALSTAFF
+    o:
+      - "And here I stand. — *(to the others)* Judge, my masters."
+    m:
+      - "As am I. *(to the others)* Judge us, everyone."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Now, Harry, whence come you?"
+    m:
+      - "Now, Harry, where are you coming from?"
+
+  - sp: FALSTAFF
+    o:
+      - "My noble lord, from Eastcheap."
+    m:
+      - "From Eastcheap, my noble lord."
+
+  - sp: PRINCE HENRY
+    o:
+      - "The complaints I hear of thee are grievous."
+    m:
+      - "The complaints I have heard about you are very serious."
+
+  - sp: FALSTAFF
+    o:
+      - "’Sblood, my lord, they are false.— *(to the others)* Nay, I’ll tickle you for a young prince, i’ faith."
+    m:
+      - "For God’s sake, my lord, they are lies. *(to the others)* I’ll make you laugh by playing a young prince, I truly will."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Swearest thou? Ungracious boy, henceforth ne’er look on me. Thou art violently carried away from grace. There is a devil haunts thee in the likeness of an old fat man. A tun of man is thy companion. Why dost thou converse with that trunk of humors, that bolting-hutch of beastliness, that swollen parcel of dropsies, that huge bombard of sack, that stuffed cloakbag of guts, that roasted Manningtree ox with the pudding in his belly, that reverend Vice, that gray iniquity, that father ruffian, that vanity in years? Wherein is he good, but to taste sack and drink it? Wherein neat and cleanly but to carve a capon and eat it? Wherein cunning but in craft? Wherein crafty but in villany? Wherein villanous but in all things? Wherein worthy but in nothing?"
+    m:
+      - "Are you swearing, you ungracious boy? From now on, do not even look at me. You have been violently turned away from goodness; there is a devil that haunts you, in the shape of an old, fat man. A ton of man is your companion. Why do you associate with that trunk of bodily fluids, that sifting bin of beastliness, that swollen sack of disease, that huge jug of wine, that stuffed suitcase of guts, that roasted ox crammed with pudding, that ancient Vice, that gray-haired immorality, that father criminal, that aged vanity? What is he good for, besides tasting wine and drinking it? What does he do skillfully, besides carving chickens and eating them? What’s he smart about besides schemes? What does he scheme about besides crime? What is he criminal about besides everything? What is he good for besides nothing?"
+
+  - sp: FALSTAFF
+    o:
+      - "I would your Grace would take me with you. Whom means your Grace?"
+    m:
+      - "I wish your highness would help me follow your meaning. Who do you mean, your grace?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "That villanous abominable misleader of youth, Falstaff, that old white-bearded Satan."
+    m:
+      - "That criminal, loathsome corrupter of youth: Falstaff, that old, white-bearded devil."
+
+  - sp: FALSTAFF
+    o:
+      - "My lord, the man I know."
+    m:
+      - "My lord, I know the man."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I know thou dost."
+    m:
+      - "I know you do."
+
+  - sp: FALSTAFF
+    o:
+      - "But to say I know more harm in him than in myself were to say more than I know. That he is old, the more the pity; his white hairs do witness it. But that he is, saving your reverence, a whoremaster, that I utterly deny. If sack and sugar be a fault, God help the wicked. If to be old and merry be a sin, then many an old host that I know is damned. If to be fat be to be hated, then Pharaoh’s lean kine are to be loved. No, my good lord, banish Peto, banish Bardolph, banish Poins, but for sweet Jack Falstaff, kind Jack Falstaff, true Jack Falstaff, valiant Jack Falstaff, and therefore more valiant being, as he is old Jack Falstaff, banish not him thy Harry’s company, banish not him thy Harry’s company. Banish plump Jack, and banish all the world."
+    m:
+      - "But to make me claim that he’s any more harmful than I am—well, I can’t claim that. Yes he’s old, and it’s a shame: his white hair proves it. But that he’s a—forgive me—pimp? That I absolutely deny. If drinking wine and sugar is a fault, then God forgive us all. If being old and merry is a sin, then I know a lot of old men who are going to hell. If being fat means you should be hated, than we should all love Pharoah’s lean cows. No, your highness. Get rid of Peto, get rid of Bardolph, get rid of Poins. But as for sweet Jack Falstaff, kind Jack Falstaff, honest Jack Falstaff, brave Jack Falstaff, and therefore even more brave, given that he is old Jack Falstaff—do not get rid of him. Do not get rid of him. If you get rid of him, you’ll be getting rid of the whole world."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I do, I will."
+    m:
+      - "I do. I will."
+
+  - os: "Knocking within. Exeunt BARDOLPH, MISTRESS QUICKLY, and FRANCIS. Enter BARDOLPH, running"
+    ms: "There are knocks from offstage. MISTRESS QUICKLY, FRANCIS, and BARDOLPH exit. BARDOLPH comes back, running."
+
+  - sp: BARDOLPH
+    o:
+      - "O, my lord, my lord, the Sheriff with a most monstrous watch is at the door."
+    m:
+      - "Oh sir, sir! The Sheriff and a frightening group of officers are at the door."
+
+  - sp: FALSTAFF
+    o:
+      - "Out, you rogue.—Play out the play. I have much to say in the behalf of that Falstaff."
+    m:
+      - "Wait, you ass! We’ll finish the play: I have much to say on behalf of that Falstaff."
+
+  - os: "Enter MISTRESS QUICKLY"
+    ms: "MISTRESS QUICKLY enters."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O Jesu, my lord, my lord—"
+    m:
+      - "Jesus! Sir, sir!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Heigh, heigh, the devil rides upon a fiddlestick. What’s the matter?"
+    m:
+      - "Well, look here! All this mess over nothing! What’s the matter?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "The Sheriff and all the watch are at the door. They are come to search the house. Shall I let them in?"
+    m:
+      - "The Sheriff and the officers are at the door. They’ve come to search the place. Should I let them in?"
+
+  - sp: FALSTAFF
+    o:
+      - "Dost thou hear, Hal? Never call a true piece of gold a counterfeit. Thou art essentially made, without seeming so."
+    m:
+      - "Do you hear that, Hal? Be careful about calling a piece of real gold a counterfeit; you are genuine, even though it may not seem so."
+
+  - sp: PRINCE HENRY
+    o:
+      - "And thou a natural coward without instinct."
+    m:
+      - "And you are a genuine coward, with no instinct."
+
+  - sp: FALSTAFF
+    o:
+      - "I deny your major. If you will deny the Sheriff, so; if not, let him enter. If I become not a cart as well as another man, a plague on my bringing up. I hope I shall as soon be strangled with a halter as another."
+    m:
+      - "I deny that. And if you’ll deny the Sheriff, then please do; otherwise, let him in. If I don’t look as good on the hangman’s cart as any other man, then a curse on my upbringing. I’m as willing to be hanged as any man."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Go, hide thee behind the arras. The rest walk up above.—"
+      - "Now, my masters, for a true face and good conscience."
+    m:
+      - "Go, hide behind the arras. The rest of you, go upstairs. Now, my men. Here’s wishing for an honest face and a clear conscience."
+
+  - sp: FALSTAFF
+    o:
+      - "Both which I have had, but their date is out; and therefore I’ll hide me. *(he hides behind the arras)*"
+    m:
+      - "I’ve had both of those, but their shelf-life has expired. I’d better hide. *(he hides behind the arras)*"
+
+  - os: "Exeunt all but PRINCE HENRY and PETO"
+    ms: "Everyone except for PRINCE HENRY and PETO exits."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Call in the Sheriff."
+    m:
+      - "Call in the Sheriff."
+
+  - os: "Enter SHERIFF and the CARRIER"
+    ms: "The SHERIFF and a CARRIER enter."
+
+  - o:
+      - "Now, Master Sheriff, what is your will with me?"
+    m:
+      - "Now, Sheriff, what is it you want from me?"
+
+  - sp: SHERIFF
+    o:
+      - "First pardon me, my lord. A hue and cry"
+      - "Hath followed certain men unto this house."
+    m:
+      - "First, please forgive me, my lord. A group of citizens followed some criminals into this bar."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What men?"
+    m:
+      - "What men?"
+
+  - sp: SHERIFF
+    o:
+      - "One of them is well known, my gracious lord,"
+      - "A gross fat man."
+    m:
+      - "One of them is well known, my gracious lord. A huge, fat man."
+
+  - sp: CARRIER
+    o:
+      - "As fat as butter."
+    m:
+      - "As fat as butter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "The man, I do assure you is not here,"
+      - "For I myself at this time have employed him."
+      - "And, Sheriff, I will engage my word to thee"
+      - "That I will by tomorrow dinner time"
+      - "Send him to answer thee or any man"
+      - "For any thing he shall be charged withal."
+      - "And so let me entreat you leave the house."
+    m:
+      - "I promise you, that man isn’t here, since he’s currently running an errand for me. Sheriff, I give you my word that by lunchtime tomorrow I’ll send him to you, or anyone else you need to see. He’ll answer to anything he may be accused of. So please, I’d like you to leave this tavern."
+
+  - sp: SHERIFF
+    o:
+      - "I will, my lord. There are two gentlemen"
+      - "Have in this robbery lost three hundred marks."
+    m:
+      - "I will, my lord. There are also two gentlemen who, in this robbery, lost three hundred marks."
+
+  - sp: PRINCE HENRY
+    o:
+      - "It may be so. If he have robbed these men,"
+      - "He shall be answerable; and so farewell."
+    m:
+      - "It’s possible. If he did it, he’ll answer for it. And with that, farewell."
+
+  - sp: SHERIFF
+    o:
+      - "Good night, my noble lord."
+    m:
+      - "Good night, my noble lord."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I think it is good morrow, is it not?"
+    m:
+      - "I think it’s good morning, isn’t it?"
+
+  - sp: SHERIFF
+    o:
+      - "Indeed, my lord, I think it be two o’clock."
+    m:
+      - "Yes, sir. I think it’s two o’clock."
+
+  - os: "Exeunt SHERIFF and CARRIER"
+    ms: "The SHERIFF and CARRIER exit."
+
+  - sp: PRINCE HENRY
+    o:
+      - "This oily rascal is known as well as Paul’s. Go call him forth."
+    m:
+      - "This oily rascal is as famous as St. Paul’s Cathedral. Go, call him out here."
+
+  - sp: PETO
+    o:
+      - "Falstaff!— *(pulls back the arras)* Fast asleep behind the arras, and snorting like a horse."
+    m:
+      - "Falstaff! *(pulls back the arras)* Fast asleep behind the arras, and snoring like a horse."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Hark, how hard he fetches breath. Search his pockets."
+    m:
+      - "Listen, how heavily he breathes! Look in his pockets."
+
+  - os: "PETO searcheth his pockets, and findeth certain papers"
+    ms: "PETO searches FALSTAFF’s pockets and finds some papers."
+
+  - o:
+      - "What hast thou found?"
+    m:
+      - "What did you find?"
+
+  - sp: PETO
+    o:
+      - "Nothing but papers, my lord."
+    m:
+      - "Nothing but some papers, my lord."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Let’s see what they be. Read them."
+    m:
+      - "Let’s see what they are. Read them."
+
+  - sp: PETO
+    o:
+      - "*(reads) Item, a capon, … 2s. 2d.*"
+      - "*Item, sauce, … 4d.*"
+      - "*Item, sack, two gallons, … 5s. 8d.*"
+      - "*Item, anchovies and sack after supper, … 2s. 6d.*"
+      - "*Item, bread, ob.*"
+    m:
+      - "*(reads)* First, a chicken — two shillings and two pence. Second, sauce — four pence. Third, wine, two gallons —five shillings and eight pence. Fourth, anchovies and dessert wine — two shillings and six pence. Fifth, bread — a halfpenny."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O monstrous! But one halfpennyworth of bread to this intolerable deal of sack! What there is else, keep close. We’ll read it at more advantage. There let him sleep till day. I’ll to the court in the morning. We must all to the wars, and thy place shall be honorable. I’ll procure this fat rogue a charge of foot, and I know his death will be a march of twelve score. The money shall be paid back again with advantage. Be with me betimes in the morning, and so good morrow, Peto."
+    m:
+      - "Oh horrible! A halfpenny’s worth of bread against this enormous amount of wine? Hang onto everything else you found; we’ll read it when we have time. Let him sleep there till tomorrow. I’ll go to court in the morning. We’re all off to the wars, and you will have honorable positions. I’ll put this fat rogue in charge of an infantry company, and a quarter mile’s march will be the end of him. The money we stole will be repaid with interest. Meet me early in the morning; and with that, good morning, Peto."
+
+  - sp: PETO
+    o:
+      - "Good morrow, good my lord."
+    m:
+      - "Good morning, my good lord."
+
+  - os: "Exeunt"
+    ms: "They exit."

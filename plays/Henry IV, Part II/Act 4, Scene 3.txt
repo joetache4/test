@@ -1,0 +1,816 @@
+play: Henry IV, Part II
+title: Act 4, Scene 3
+group: 4
+order: 12
+text:
+  - os: "Enter KING Henry, his sons Thomas Duke of CLARENCE and Humphrey Duke of GLOUCESTER, with WARWICK and others"
+    ms: "KING Henry, his sons Thomas Duke of CLARENCE and Humphrey Duke of GLOUCESTER, WARWICK, and others enter."
+
+  - sp: KING
+    o:
+      - "Now, lords, if God doth give successful end"
+      - "To this debate that bleedeth at our doors,"
+      - "We will our youth lead on to higher fields"
+      - "And draw no swords but what are sanctified."
+      - "Our navy is addressed, our power collected,"
+      - "Our substitutes in absence well invested,"
+      - "And everything lies level to our wish."
+      - "Only we want a little personal strength;"
+      - "And pause us till these rebels now afoot"
+      - "Come underneath the yoke of government."
+    m:
+      - "Now, my lords: if God grants us a victory in this violent civil war that bleeds at our very doorsteps, I will lead our young people in a greater cause, and fight nothing but holy wars. Our navy is ready, our army is assembled, the leaders who are my subordinates have their orders, and everything is standing by to achieve my main aim. The only drawback is that I’m feeling a little weak. So let’s wait a short while, until the rebels, now on the run, are brought back in line and are made obedient again."
+
+  - sp: WARWICK
+    o:
+      - "Both which we doubt not but your Majesty"
+      - "Shall soon enjoy."
+    m:
+      - "We are sure that you’ll soon enjoy both good health and the rebels’ defeat."
+
+  - sp: KING
+    o:
+      - "  Humphrey, my son of Gloucester,"
+      - "Where is the Prince your brother?"
+    m:
+      - "My son Humphrey of Gloucester, where is your brother, Prince Hal?"
+
+  - sp: GLOUCESTER
+    o:
+      - "I think he’s gone to hunt, my lord, at Windsor."
+    m:
+      - "I think he’s gone hunting at Windsor."
+
+  - sp: KING
+    o:
+      - "And how accompanied?"
+    m:
+      - "Who’s with him?"
+
+  - sp: GLOUCESTER
+    o:
+      - "  I do not know, my lord."
+    m:
+      - "I don’t know, father."
+
+  - sp: KING
+    o:
+      - "Is not his brother Thomas of Clarence with him?"
+    m:
+      - "Isn’t his brother, Thomas of Clarence, with him?"
+
+  - sp: GLOUCESTER
+    o:
+      - "No, my good lord, he is in presence here."
+    m:
+      - "No, father. He’s here."
+
+  - sp: CLARENCE
+    o:
+      - "What would my lord and father?"
+    m:
+      - "What is it you’d like, father?"
+
+  - sp: KING
+    o:
+      - "Nothing but well to thee, Thomas of Clarence."
+      - "How chance thou art not with the Prince thy brother?"
+      - "He loves thee, and thou dost neglect him, Thomas."
+      - "Thou hast a better place in his affection"
+      - "Than all thy brothers. Cherish it, my boy,"
+      - "And noble offices thou mayst effect"
+      - "Of mediation, after I am dead,"
+      - "Between his greatness and thy other brethren."
+      - "Therefore omit him not; blunt not his love,"
+      - "Nor lose the good advantage of his grace"
+      - "By seeming cold or careless of his will."
+      - "For he is gracious if he be observed;"
+      - "He hath a tear for pity and a hand"
+      - "Open as day for melting charity;"
+      - "Yet notwithstanding, being incensed he is flint,"
+      - "As humorous as winter, and as sudden"
+      - "As flaws congealed in the spring of day."
+      - "His temper therefore must be well observed."
+      - "Chide him for faults, and do it reverently,"
+      - "When thou perceive his blood inclined to mirth;"
+      - "But, being moody, give him time and scope"
+      - "Till that his passions, like a whale on ground,"
+      - "Confound themselves with working. Learn this, Thomas,"
+      - "And thou shalt prove a shelter to thy friends,"
+      - "A hoop of gold to bind thy brothers in,"
+      - "That the united vessel of their blood,"
+      - "Mingled with venom of suggestion"
+      - "(As, force perforce, the age will pour it in),"
+      - "Shall never leak, though it do work as strong"
+      - "As aconitum or rash gunpowder."
+    m:
+      - "Only good things for you, Thomas. Why aren’t you with the Prince, your brother? He loves you and you are neglecting him. He cares more about you than any of his other brothers, Thomas; cherish that fact, my boy. After I’m dead, you’ll be in a strong position to help maintain good relations between Prince Hal and his brothers. So don’t ignore him. Don’t turn away his love, and don’t ruin your good relationship with him by seeming cold or distant. He’s kind if he gets his way; he has compassion for others, and he’s generous with charity. But despite all this, once he gets angry, he becomes like a stone. He can be as tempestuous as winter, and can change himself as suddenly as snowflakes at dawn can turn to hail. So watch his temper. When he does something wrong, let him know it—gently, and when he’s in a happy mood. But when he’s ornery, give him room. Wait till his bad mood works itself out, like a beached whale that kills itself by struggling to return to sea. If you can do this, you’ll be a shelter for your friends, and a golden chain that links your brothers together. Once they’re united, the poison of criticism and rumor—which in this day and age is sure to be aimed at them—can’t do them any harm, no matter how explosive and destructive it may be."
+
+  - sp: CLARENCE
+    o:
+      - "I shall observe him with all care and love."
+    m:
+      - "I’ll watch over him with as much care and love as possible."
+
+  - sp: KING
+    o:
+      - "Why art thou not at Windsor with him, Thomas?"
+    m:
+      - "Then why aren’t you with him at Windsor?"
+
+  - sp: CLARENCE
+    o:
+      - "He is not there today; he dines in London."
+    m:
+      - "He’s not there today. He’s in London."
+
+  - sp: KING
+    o:
+      - "And how accompanied? Canst thou tell that?"
+    m:
+      - "Who’s with him? Do you know?"
+
+  - sp: CLARENCE
+    o:
+      - "With Poins and other his continual followers."
+    m:
+      - "Poins, and the usual suspects."
+
+  - sp: KING
+    o:
+      - "Most subject is the fattest soil to weeds,"
+      - "And he, the noble image of my youth,"
+      - "Is overspread with them; therefore my grief"
+      - "Stretches itself beyond the hour of death."
+      - "The blood weeps from my heart when I do shape,"
+      - "In forms imaginary, th’ unguided days"
+      - "And rotten times that you shall look upon"
+      - "When I am sleeping with my ancestors."
+      - "For when his headstrong riot hath no curb,"
+      - "When rage and hot blood are his counsellors,"
+      - "When means and lavish manners meet together,"
+      - "O, with what wings shall his affections fly"
+      - "Towards fronting peril and opposed decay!"
+    m:
+      - "Weeds grow best in the richest soil, and he—like myself at that age—is overrun by them. My sadness, then, cannot end with my death. When I imagine the lawless days and rotten times that you will face when I am dead and sleeping with my ancestors, the blood weeps from my heart. When Hal’s headstrong wildness has free rein; when aggression and passion are his advisors; when he has full opportunity to indulge in his riotous inclinations, then—Oh!—his criminal desires will fly like a bird towards danger and ruin."
+
+  - sp: WARWICK
+    o:
+      - "My gracious lord, you look beyond him quite."
+      - "The Prince but studies his companions"
+      - "Like a strange tongue, wherein, to gain the language,"
+      - "’Tis needful that the most immodest word"
+      - "Be looked upon and learned; which, once attained,"
+      - "Your Highness knows, comes to no further use"
+      - "But to be known and hated. So, like gross terms,"
+      - "The Prince will, in the perfectness of time,"
+      - "Cast off his followers, and their memory"
+      - "Shall as a pattern or a measure live,"
+      - "By which his Grace must mete the lives of others,"
+      - "Turning past evils to advantages."
+    m:
+      - "Your highness, you’ve got him all wrong. The Prince is only studying his criminal companions, the way one studies a foreign language. In order to truly learn a language, one must learn even the most immodest curse word—which, as you know, is only learned in order to be identified and, thereafter, avoided. So, like vulgar language, the Prince will get rid of his followers when the time is right. Then they’ll live on in his memory as guidelines, by which he’ll judge the conduct of others. In this sense, he’ll change his past bad deeds to good ends."
+
+  - sp: KING
+    o:
+      - "’Tis seldom when the bee doth leave her comb"
+      - "In the dead carrion."
+    m:
+      - "It’s rare that a bee builds its nest in a dead animal’s carcass. The Prince won’t leave his current company."
+
+  - os: "Enter WESTMORELAND"
+    ms: "WESTMORELAND enters."
+
+  - o:
+      - "  Who’s here? Westmoreland?"
+    m:
+      - "Who’s there? Westmoreland?"
+
+  - sp: WESTMORELAND
+    o:
+      - "Health to my sovereign, and new happiness"
+      - "Added to that that I am to deliver."
+      - "Prince John your son doth kiss your Grace’s hand."
+      - "Mowbray, the Bishop Scroop, Hastings, and all"
+      - "Are brought to the correction of your law."
+      - "There is not now a rebel’s sword unsheathed"
+      - "But peace puts forth her olive everywhere."
+      - "The manner how this action hath been borne"
+      - "Here at more leisure may your Highness read"
+      - "With every course in his particular."
+    m:
+      - "I wish your highness good health, and happy news beyond the report I have to deliver! Prince John sends his respects: Mowbray, the Archbishop, Hastings and the rest are under arrest. There are no more rebels anywhere; the olive branch of peace has been extended everywhere. Here’s a letter explaining what happened. When you have time, you can read it and learn every detail."
+
+  - sp: KING
+    o:
+      - "O Westmoreland, thou art a summer bird,"
+      - "Which ever in the haunch of winter sings"
+      - "The lifting up of day."
+    m:
+      - "Oh Westmoreland; you’re like a summer bird, which sings the dawn in as winter ends."
+
+  - os: "Enter HARCOURT"
+    ms: "HARCOURT enters."
+
+  - o:
+      - "Here comes more news."
+    m:
+      - "  Look, here’s more news."
+
+  - sp: HARCOURT
+    o:
+      - "From enemies heaven keep your Majesty,"
+      - "And when they stand against you, may they fall"
+      - "As those that I am come to tell you of."
+      - "The Earl Northumberland and the Lord Bardolph,"
+      - "With a great power of English and of Scots,"
+      - "Are by the shrieve of Yorkshire overthrown."
+      - "The manner and true order of the fight"
+      - "This packet, please it you, contains at large."
+    m:
+      - "May heaven protect your highness from all enemies—and when they do rise up, may they fall just like the ones I’ve come to tell you about. The Earl of Northumberland and Lord Bardolph, with their mighty armies of Englishmen and Scotsmen, were defeated by the Sheriff of Yorkshire. This letter will tell you the details."
+
+  - sp: KING
+    o:
+      - "And wherefore should these good news make me sick?"
+      - "Will fortune never come with both hands full,"
+      - "But write her fair words still in foulest letters?"
+      - "She either gives a stomach and no food—"
+      - "Such are the poor, in health—or else a feast"
+      - "And takes away the stomach—such are the rich,"
+      - "That have abundance and enjoy it not."
+      - "I should rejoice now at this happy news,"
+      - "And now my sight fails, and my brain is giddy."
+      - "O, me! Come near me, now I am much ill."
+    m:
+      - "Why am I sick at this good news? Why can’t life ever bring you things with their appropriate complements? Why is good news so often conveyed in ugly terms? Life either gives you hunger but no food—which is the experience of poor, healthy people—or it gives you a feast with no appetite—which is how the rich live, who have wealth and abundance but cannot enjoy it. I should be celebrating this good news, and yet my eyesight is failing, and my brain is delirious. Oh God! Come to me, I’m very sick."
+
+  - sp: GLOUCESTER
+    o:
+      - "Comfort, your Majesty."
+    m:
+      - "Take care, your highness!"
+
+  - sp: CLARENCE
+    o:
+      - "  O, my royal father!"
+    m:
+      - "Oh, my royal father!"
+
+  - sp: WESTMORELAND
+    o:
+      - "My sovereign lord, cheer up yourself, look up."
+    m:
+      - "My lord, feel better; take courage."
+
+  - sp: WARWICK
+    o:
+      - "Be patient, princes. You do know these fits"
+      - "Are with his Highness very ordinary."
+      - "Stand from him, give him air. He’ll straight be well."
+    m:
+      - "Wait a minute, princes. You know his highness has these episodes all the time. Move away from him. Give him air; he’ll be all right soon."
+
+  - sp: CLARENCE
+    o:
+      - "No, no, he cannot long hold out these pangs."
+      - "Th’ incessant care and labor of his mind"
+      - "Hath wrought the mure that should confine it in"
+      - "So thin that life looks through and will break out."
+    m:
+      - "No, no, he can’t survive these attacks much longer. His mind’s endless worry and concern have so shaken his body that it can barely hold together."
+
+  - sp: GLOUCESTER
+    o:
+      - "The people fear me, for they do observe"
+      - "Unfathered heirs and loathly births of nature."
+      - "The seasons change their manners, as the year"
+      - "Had found some months asleep and leapt them over."
+    m:
+      - "The people are frightening me. They’ve seen terrible omens: children who seem to have supernatural fathers, and gruesomely deformed infants. The weather is in disarray, as if the calendar discovered some months were fast asleep, and decided to skip over them."
+
+  - sp: CLARENCE
+    o:
+      - "The river hath thrice flowed, no ebb between,"
+      - "And the old folk, time’s doting chronicles,"
+      - "Say it did so a little time before"
+      - "That our great-grandsire, Edward, sicked and died."
+    m:
+      - "The river has flooded three times, without receding between floods. The old people—those living history books—say that the last time this happened was when our great-grandfather, King Edward, fell ill and died."
+
+  - sp: WARWICK
+    o:
+      - "Speak lower, princes, for the King recovers."
+    m:
+      - "Speak more softly, princes: the King is recovering."
+
+  - sp: GLOUCESTER
+    o:
+      - "This apoplexy will certain be his end."
+    m:
+      - "These attacks will be the death of him."
+
+  - sp: KING
+    o:
+      - "I pray you, take me up and bear me hence"
+      - "Into some other chamber. Softly, pray."
+    m:
+      - "Please, carry me into another room. Quietly. Please."
+
+  - os: "They carry the KING to a bed."
+    ms: "They carry the KING to a bed."
+
+  - o:
+      - "Let there be no noise made, my gentle friends,"
+      - "Unless some dull and favorable hand"
+      - "Will whisper music to my weary spirit."
+    m:
+      - "Please be silent, my friends, unless someone can play some restful, whispering music for my exhausted spirit."
+
+  - sp: WARWICK
+    o:
+      - "Call for the music in the other room."
+    m:
+      - "Call the musicians in from the other room."
+
+  - sp: KING
+    o:
+      - "Set me the crown upon my pillow here."
+    m:
+      - "Put the crown here on my pillow."
+
+  - sp: CLARENCE
+    o:
+      - "His eye is hollow, and he changes much."
+    m:
+      - "His eyes are sunken, and he seems very pale."
+
+  - sp: WARWICK
+    o:
+      - "Less noise, less noise."
+    m:
+      - "Less noise, less noise!"
+
+  - os: "Enter PRINCE HENRY"
+    ms: "PRINCE HENRY enters."
+
+  - sp: PRINCE HENRY
+    o:
+      - "  Who saw the Duke of Clarence?"
+    m:
+      - "Has anybody seen the Duke of Clarence?"
+
+  - sp: CLARENCE
+    o:
+      - "I am here, brother, full of heaviness."
+    m:
+      - "I’m here, brother, full of sadness."
+
+  - sp: PRINCE HENRY
+    o:
+      - "How now! Rain within doors, and none abroad?"
+      - "How doth the King?"
+    m:
+      - "What’s going on? Raining inside while it’s dry outside? How’s the King?"
+
+  - sp: GLOUCESTER
+    o:
+      - "  Exceeding ill."
+    m:
+      - "Extremely sick."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Heard he the good news yet? Tell it him."
+    m:
+      - "Has he heard the good news yet? Tell him."
+
+  - sp: GLOUCESTER
+    o:
+      - "He altered much upon the hearing it."
+    m:
+      - "Yes, he heard it, and it affected him deeply."
+
+  - sp: PRINCE HENRY
+    o:
+      - "If he be sick with joy, he’ll recover without physic."
+    m:
+      - "If he’s sick from joy, then he’ll get better without medicine."
+
+  - sp: WARWICK
+    o:
+      - "Not so much noise, my lords.—Sweet Prince, speak low."
+      - "The King your father is disposed to sleep."
+    m:
+      - "Not so loud, sirs. Prince, speak more quietly. Your father the King is trying to sleep."
+
+  - sp: CLARENCE
+    o:
+      - "Let us withdraw into the other room."
+    m:
+      - "Let’s go into the other room."
+
+  - sp: WARWICK
+    o:
+      - "Will ’t please your Grace to go along with us?"
+    m:
+      - "Will you come with us?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "No, I will sit and watch here by the King."
+    m:
+      - "No. I’ll stay here with the King."
+
+  - os: "Exeunt all but PRINCE HENRY"
+    ms: "Everyone exits except PRINCE HENRY."
+
+  - o:
+      - "Why doth the crown lie there upon his pillow,"
+      - "Being so troublesome a bedfellow?"
+      - "O polished perturbation, golden care,"
+      - "That keep’st the ports of slumber open wide"
+      - "To many a watchful night! sleep with it now;"
+      - "Yet not so sound and half so deeply sweet"
+      - "As he whose brow with homely biggen bound"
+      - "Snores out the watch of night. O majesty,"
+      - "When thou dost pinch thy bearer, thou dost sit"
+      - "Like a rich armor worn in heat of day,"
+      - "That scald’st with safety. By his gates of breath"
+      - "There lies a downy feather which stirs not;"
+      - "Did he suspire, that light and weightless down"
+      - "Perforce must move. My gracious lord, my father,"
+      - "This sleep is sound indeed. This is a sleep"
+      - "That from this golden rigol hath divorced"
+      - "So many English kings. Thy due from me"
+      - "Is tears and heavy sorrows of the blood,"
+      - "Which nature, love, and filial tenderness"
+      - "Shall, O dear father, pay thee plenteously."
+      - "My due from thee is this imperial crown,"
+      - "Which, as immediate as thy place and blood,"
+      - "Derives itself to me. *(he puts the crown on his head)* Lo,"
+      - "  where it sits,"
+      - "Which God shall guard. And put the world’s whole strength"
+      - "Into one giant arm, it shall not force"
+      - "This lineal honor from me. This from thee"
+      - "Will I to mine leave, as ’tis left to me."
+    m:
+      - "Why does the crown lie there on his pillow, when it’s such a troublesome bedfellow? Oh polished aggravation, golden anxiety! You keep the eyelids open wide, to face countless sleepless nights. You sleep with the crown now, father, but you don’t sleep as soundly, or half so deeply, as that man whose head is bound with nothing more than a cheap nightcap, who snores through the night. Oh, you crown! When you pinch the person wearing you, you’re like a great suit of armor worn on a hot day—you burn the person you’re protecting. There’s a feather near my father’s lips, and it’s not moving: if he were breathing, that light, weightless thing would move. My gracious lord! Father! This is a deep sleep indeed—this is a sleep that has removed the golden ring from the heads of many English kings. Father, I owe you tears and a deep grief, and my love, the bonds of family, and a son’s tender feelings will make sure that I pay you lavishly. Your debt to me is this kingly crown, which I am owed as your heir-apparent. *(he puts the crown on his head)* Look, here it sits, and God will guard it. Even if all the strength in the world were gathered into a single, giant arm, it wouldn’t be able to force this inherited honor from me. I will leave this to my son as you’ve left it to me."
+
+  - os: "Exit PRINCE HENRY"
+    ms: "PRINCE HENRY exits."
+
+  - sp: KING
+    o:
+      - "*(waking)* Warwick! Gloucester! Clarence!"
+    m:
+      - "*(waking)* Warwick! Gloucester! Clarence!"
+
+  - os: "Enter WARWICK, GLOUCESTER, CLARENCE, and the rest"
+    ms: "WARWICK, GLOUCESTER, CLARENCE, and the rest enter."
+
+  - sp: CLARENCE
+    o:
+      - "  Doth the King call?"
+    m:
+      - "Did you call, sir?"
+
+  - sp: WARWICK
+    o:
+      - "What would your Majesty? How fares your Grace?"
+    m:
+      - "What can we do for you, your highness? How are you feeling?"
+
+  - sp: KING
+    o:
+      - "Why did you leave me here alone, my lords?"
+    m:
+      - "Why did you leave me alone, sirs?"
+
+  - sp: CLARENCE
+    o:
+      - "We left the Prince my brother here, my liege,"
+      - "Who undertook to sit and watch by you."
+    m:
+      - "We left my brother, Prince Hal, here. He decided to sit with you."
+
+  - sp: KING
+    o:
+      - "The Prince of Wales? Where is he? Let me see him."
+      - "He is not here."
+    m:
+      - "The Prince of Wales? Where is he? I want to see him. He’s not here."
+
+  - sp: WARWICK
+    o:
+      - "This door is open. He is gone this way."
+    m:
+      - "This door’s open. He went this way."
+
+  - sp: GLOUCESTER
+    o:
+      - "He came not through the chamber where we stayed."
+    m:
+      - "He didn’t come through the room we were in."
+
+  - sp: KING
+    o:
+      - "Where is the crown? Who took it from my pillow?"
+    m:
+      - "Where’s the crown? Who took it off my pillow?"
+
+  - sp: WARWICK
+    o:
+      - "When we withdrew, my liege, we left it here."
+    m:
+      - "When we left, sir, it was here."
+
+  - sp: KING
+    o:
+      - "The Prince hath ta’en it hence. Go seek him out."
+      - "Is he so hasty that he doth suppose my sleep my death?"
+      - "Find him, my Lord of Warwick. Chide him hither."
+    m:
+      - "The Prince has taken it. Go, find him. Is he in such a hurry that he thinks my sleep is my death? Find him, Lord Warwick. Rebuke him, and bring him here."
+
+  - os: "Exit WARWICK"
+    ms: "WARWICK exits."
+
+  - o:
+      - "This part of his conjoins with my disease"
+      - "And helps to end me. See, sons, what things you are,"
+      - "How quickly nature falls into revolt"
+      - "When gold becomes her object!"
+      - "For this the foolish overcareful fathers"
+      - "Have broke their sleep with thoughts,"
+      - "Their brains with care, their bones with industry."
+      - "For this they have engrossèd and piled up"
+      - "The canker’d heaps of strange-achievèd gold."
+      - "For this they have been thoughtful to invest"
+      - "Their sons with arts and martial exercises—"
+      - "When, like the bee, tolling from every flower"
+      - "The virtuous sweets,"
+      - "Our thighs packed with wax, our mouths with honey,"
+      - "We bring it to the hive and, like the bees,"
+      - "Are murdered for our pains. This bitter taste"
+      - "Yield his engrossments to the ending father."
+    m:
+      - "Henry’s actions join forces with my illness, and together they will kill me. Sons, look at what things you are. See how quickly blood bonds are broken, once money’s involved. This is what happens to foolish, overly concerned fathers who ruin their sleep with worry, burden their minds with anxiety, and break their bodies with hard work. This is what happens to fathers who amass vast amounts of money, earned in unsavory ways. This is what happens to fathers who have taken care to give their sons good educations, and train them in matters of war. Fathers are like bees, collecting sweet pollen from all the flowers in the world. We pack our thighs full of wax and our mouths full of honey, only to be killed when we return to the hive. This is the bitter fate of the dying father, no matter what he has accumulated in his life."
+
+  - os: "Enter WARWICK"
+    ms: "WARWICK enters."
+
+  - o:
+      - "Now, where is he that will not stay so long"
+      - "Till his friend sickness hath determined me?"
+    m:
+      - "Where is that impatient man who can’t even wait for his friend, sickness, to put an end to me?"
+
+  - sp: WARWICK
+    o:
+      - "My lord, I found the Prince in the next room,"
+      - "Washing with kindly tears his gentle cheeks,"
+      - "With such a deep demeanor in great sorrow"
+      - "That tyranny, which never quaffed but blood,"
+      - "Would, by beholding him, have washed his knife"
+      - "With gentle eyedrops. He is coming hither."
+    m:
+      - "Sir, I found the Prince in the next room, with tears flowing down his cheeks. He looked so sorrowful that a tyrant—who never drank anything but blood—would, upon seeing him, have washed the blood from his knife with tears. He’s on his way."
+
+  - sp: KING
+    o:
+      - "But wherefore did he take away the crown?"
+    m:
+      - "But why did he take away the crown?"
+
+  - os: "Enter PRINCE HENRY"
+    ms: "PRINCE HENRY enters."
+
+  - o:
+      - "Lo where he comes.—Come hither to me, Harry.—"
+      - "Depart the chamber. Leave us here alone."
+    m:
+      - "Look, here he comes. Come here, Harry. *(to the rest)* Leave the room, and leave us here alone."
+
+  - os: "Exeunt all but the KING and PRINCE HENRY"
+    ms: "Everyone leaves except the KING and PRINCE HENRY."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I never thought to hear you speak again."
+    m:
+      - "I never thought I’d hear you speak again."
+
+  - sp: KING
+    o:
+      - "Thy wish was father, Harry, to that thought."
+      - "I stay too long by thee; I weary thee."
+      - "Dost thou so hunger for mine empty chair"
+      - "That thou wilt needs invest thee with my honors"
+      - "Before thy hour be ripe? O foolish youth,"
+      - "Thou seek’st the greatness that will overwhelm thee."
+      - "Stay but a little, for my cloud of dignity"
+      - "Is held from falling with so weak a wind"
+      - "That it will quickly drop. My day is dim."
+      - "Thou hast stol’n that which after some few hours"
+      - "Were thine without offense, and at my death"
+      - "Thou hast sealed up my expectation."
+      - "Thy life did manifest thou loved’st me not,"
+      - "And thou wilt have me die assured of it."
+      - "Thou hid’st a thousand daggers in thy thoughts,"
+      - "Which thou hast whetted on thy stony heart"
+      - "To stab at half an hour of my life."
+      - "What, canst thou not forbear me half an hour?"
+      - "Then get thee gone and dig my grave thyself,"
+      - "And bid the merry bells ring to thine ear"
+      - "That thou art crownèd, not that I am dead."
+      - "Let all the tears that should bedew my hearse"
+      - "Be drops of balm to sanctify thy head;"
+      - "Only compound me with forgotten dust."
+      - "Give that which gave thee life unto the worms."
+      - "Pluck down my officers, break my decrees,"
+      - "For now a time is come to mock at form."
+      - "Harry the Fifth is crowned. Up, vanity,"
+      - "Down, royal state, all you sage counsillors, hence,"
+      - "And to the English court assemble now,"
+      - "From every region, apes of idleness."
+      - "Now, neighbor confines, purge you of your scum."
+      - "Have you a ruffian that will swear, drink, dance,"
+      - "Revel the night, rob, murder, and commit"
+      - "The oldest sins the newest kind of ways?"
+      - "Be happy, he will trouble you no more."
+      - "England shall double gild his treble guilt."
+      - "England shall give him office, honor, might,"
+      - "For the fifth Harry from curbed license plucks"
+      - "The muzzle of restraint, and the wild dog"
+      - "Shall flesh his tooth on every innocent."
+      - "O my poor kingdom, sick with civil blows!"
+      - "When that my care could not withhold thy riots,"
+      - "What wilt thou do when riot is thy care?"
+      - "O, thou wilt be a wilderness again,"
+      - "Peopled with wolves, thy old inhabitants."
+    m:
+      - "You thought that because you wished it to be true. I live too long for you; you’re tired of me. Are you so desperate for my throne that you would take the honors of kingship before it’s your time? Oh you foolish youth! You long for power that will end up overwhelming you. Wait a little while. What power I have left is held together so weakly that the lightest breeze would blow it away: my life is fading. You stole something from me that would freely have been yours in just a few hours. On my deathbed, you’ve confirmed all my expectations. All your life you showed that you didn’t love me, and now I will die certain of it. There are a thousand daggers in your thoughts, which you’ve sharpened on your stony heart with the hopes of stabbing me in the little time I have left. What? Couldn’t you endure me for half an hour? Then go and dig my grave yourself, and ring the bells to mark your coronation, not my death. Let all the tears that should be shed on my hearse be drops of holy water to bless your head. Just mix me up with the forgotten dust, and give my body—which gave you life—to the worms. Fire my officers, undo my laws; for now the time has come to jeer at authority. Henry the Fifth is crowned: up with foolishness! Down with decorum! Be gone, all you wise advisers! Assemble lazy apes from every region, and make them the royal court of England! Now, you neighboring countries, get rid of your scum. Do you have a criminal who swears, drinks, dances, parties all night, robs, murders, and commits the oldest sins in the newest ways? Then be happy: that man won’t trouble you any longer. England will paint over his guilt with gold. England will give him a position, honor, power. Because Henry the Fifth has removed the barriers to anarchy: he’s taken the restraining muzzle off the dog of misbehavior, and that wild dog will sink his teeth into the flesh of every decent person. Oh my poor kingdom, sick from this civil war! When all my hard work couldn’t keep disorder at bay, what will you do when disorder becomes your caretaker? Oh, you’ll be a wilderness again, and all the wolves who lived here once will once again be your only citizens."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O pardon me, my liege! But for my tears,"
+      - "The moist impediments unto my speech,"
+      - "I had forestalled this dear and deep rebuke"
+      - "Ere you with grief had spoke and I had heard"
+      - "The course of it so far. There is your crown,"
+      - "And He that wears the crown immortally"
+      - "Long guard it yours. If I affect it more"
+      - "Than as your honor and as your renown,"
+      - "Let me no more from this obedience rise,"
+      - "Which my most inward true and duteous spirit"
+      - "Teacheth this prostrate and exterior bending."
+      - "God witness with me, when I here came in"
+      - "And found no course of breath within your Majesty,"
+      - "How cold it struck my heart! If I do feign,"
+      - "O, let me in my present wildness die"
+      - "And never live to show th’ incredulous world"
+      - "The noble change that I have purposèd."
+      - "Coming to look on you, thinking you dead,"
+      - "And dead almost, my liege, to think you were,"
+      - "I spake unto this crown as having sense,"
+      - "And thus upbraided it: “The care on thee depending"
+      - "Hath fed upon the body of my father;"
+      - "Therefore thou best of gold art worst of gold."
+      - "Other, less fine in carat, is more precious,"
+      - "Preserving life in med’cine potable;"
+      - "But thou, most fine, most honored, most renowned,"
+      - "Hast eat thy bearer up.” Thus, my most royal liege,"
+      - "Accusing it, I put it on my head"
+      - "To try with it, as with an enemy"
+      - "That had before my face murdered my father,"
+      - "The quarrel of a true inheritor."
+      - "But if it did infect my blood with joy"
+      - "Or swell my thoughts to any strain of pride,"
+      - "If any rebel or vain spirit of mine"
+      - "Did with the least affection of a welcome"
+      - "Give entertainment to the might of it,"
+      - "Let God forever keep it from my head"
+      - "And make me as the poorest vassal is"
+      - "That doth with awe and terror kneel to it."
+    m:
+      - "Oh forgive me, your highness. If it weren’t for these tears—which are impeding my speech—I would have stopped this harsh scolding before you, in your grief, had spoken and before I had listened so long. There’s your crown. May God, who wears the crown eternally, guard it as yours for a long time. If I care for the crown in any way other than as a symbol of your honor and reputation, let me never rise from this kneeling position. It is my deepest and most dutiful feelings which teach my body to bend and bow to you, causing my outer body to reflect my inner feelings. May God be my witness: when I came in here and saw that you weren’t breathing, my blood ran cold. If I’m lying, may I die as the wild youth I was before, and never live to show the dubious world the transformation I have been planning. Coming to see you, thinking you were dead—and being nearly dead myself, just thinking that you were—I spoke to this crown as though it were alive. I scolded it like this: “The worry you’ve caused has eaten my father alive. So you, the best piece of gold, are actually the worst piece of gold. Other gold, perhaps worth less, is more precious, since it at least brings us health when mixed in our drinks. But you—the best, the most honored, the most famous—have consumed the person wearing you.” And as I accused it, I put it on my head, to fight against it as an enemy who’d killed my father before my very eyes. It was the fight of a loyal child. But may God keep it from me forever—making me like the poorest servant bowing down before it in awe and terror—if it in any way made me happy or arrogant, or if any part of me was the least bit pleased to welcome it and the power it brings."
+
+  - sp: KING
+    o:
+      - "O my son,"
+      - "God put it in thy mind to take it hence"
+      - "That thou mightst win the more thy father’s love,"
+      - "Pleading so wisely in excuse of it."
+      - "Come hither, Harry, sit thou by my bed"
+      - "And hear, I think, the very latest counsel"
+      - "That ever I shall breathe. God knows, my son,"
+      - "By what bypaths and indirect crook’d ways"
+      - "I met this crown, and I myself know well"
+      - "How troublesome it sat upon my head."
+      - "To thee it shall descend with better quiet,"
+      - "Better opinion, better confirmation,"
+      - "For all the soil of the achievement goes"
+      - "With me into the earth. It seemed in me"
+      - "But as an honor snatched with boist’rous hand,"
+      - "And I had many living to upbraid"
+      - "My gain of it by their assistances,"
+      - "Which daily grew to quarrel and to bloodshed,"
+      - "Wounding supposèd peace. All these bold fears"
+      - "Thou see’st with peril I have answerèd,"
+      - "For all my reign hath been but as a scene"
+      - "Acting that argument. And now my death"
+      - "Changes the mood, for what in me was purchased"
+      - "Falls upon thee in a more fairer sort."
+      - "So thou the garland wear’st successively."
+      - "Yet though thou stand’st more sure than I could do,"
+      - "Thou art not firm enough, since griefs are green,"
+      - "And all my friends, which thou must make thy friends,"
+      - "Have but their stings and teeth newly ta’en out,"
+      - "By whose fell working I was first advanced"
+      - "And by whose power I well might lodge a fear"
+      - "To be again displaced; which to avoid,"
+      - "I cut them off and had a purpose now"
+      - "To lead out many to the Holy Land,"
+      - "Lest rest and lying still might make them look"
+      - "Too near unto my state. Therefore, my Harry,"
+      - "Be it thy course to busy giddy minds"
+      - "With foreign quarrels; that action, hence borne out,"
+      - "May waste the memory of the former days."
+      - "More would I, but my lungs are wasted so"
+      - "That strength of speech is utterly denied me."
+      - "How I came by the crown, O God forgive,"
+      - "And grant it may with thee in true peace live."
+    m:
+      - "Oh my son, God made you take it from me so that, in pleading your case so beautifully, you would make me love you more! Come here, Harry. Sit by my bed and listen to what I think will be the last advice I ever give. God knows the unusual paths and indirect, crooked ways that led me to this crown. And I know very well how much anxiety it has caused as I’ve worn it. It will fall to you in bitter peace, with better support and stronger approval. The stain of its obtainment dies now, with me. On me, the crown seemed like an honor grabbed with a violent hand, and many people lived to remind me that they had helped me take it. Eventually, those daily reminders grew into war and bloodshed, doing damage to the peace. You can see how much pain it’s caused me as I’ve fought my foes. My entire reign has been like a play, in which we rehash that disagreement. Now my death changes the show. What I bought, you will inherit. You’ll wear the crown by right of succession. But even though you have a firmer claim to the crown than I had, it’s not firm enough. Anger is still fresh, and my former friends—whom you must make into your friends—have only recently been disarmed. It was their power that first got me the crown, and I feared that same power could take me down. To avoid that, I defeated their rebellion, and planned to lead an army to the Holy Land. I thought that, with nothing to occupy themselves, they’d start eyeing me and my crown. Therefore, my Harry, make it your policy to focus the distracted minds of the people with foreign wars. Military actions abroad will make people forget about troubling matters in the past. I’d say more, but my lungs are so worn out that I don’t have the strength to speak. God forgive me for how I came by the crown, and may he grant that you enjoy it in peace."
+
+  - sp: PRINCE HENRY
+    o:
+      - "My gracious liege,"
+      - "You won it, wore it, kept it, gave it me."
+      - "Then plain and right must my possession be,"
+      - "Which I with more than with a common pain"
+      - "’Gainst all the world will rightfully maintain."
+    m:
+      - "My gracious lord, you won it, wore it, kept it, then gave it to me. My possession of it must therefore be honest and lawful. And I will work as hard as I can to defend this crown against any man."
+
+  - os: "Enter Lord John of LANCASTER"
+    ms: "Lord John of LANCASTER enters."
+
+  - sp: KING
+    o:
+      - "Look, look, here comes my John of Lancaster."
+    m:
+      - "Look, look, here comes my son, John of Lancaster."
+
+  - sp: LANCASTER
+    o:
+      - "Health, peace, and happiness to my royal father."
+    m:
+      - "Health, peace, and happiness to my royal father!"
+
+  - sp: KING
+    o:
+      - "Thou bring’st me happiness and peace, son John,"
+      - "But health, alack, with youthful wings is flown"
+      - "From this bare withered trunk. Upon thy sight"
+      - "My worldly business makes a period."
+      - "Where is my Lord of Warwick?"
+    m:
+      - "You bring me happiness and peace, John. But health, unfortunately, has flown from this shrunken body. Now that I’ve seen you, I have nothing more to do in this world. Where is Lord Warwick?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "My Lord of Warwick."
+    m:
+      - "Lord Warwick!"
+
+  - os: "Enter WARWICK and others"
+    ms: "WARWICK and others enter."
+
+  - sp: KING
+    o:
+      - "Doth any name particular belong"
+      - "Unto the lodging where I first did swoon?"
+    m:
+      - "Does the room I first collapsed in have a name?"
+
+  - sp: WARWICK
+    o:
+      - "’Tis called Jerusalem, my noble lord."
+    m:
+      - "It’s called the Jerusalem Room, your highness."
+
+  - sp: KING
+    o:
+      - "Laud be to God! Even there my life must end."
+      - "It hath been prophesied to me many years,"
+      - "I should not die but in Jerusalem,"
+      - "Which vainly I supposed the Holy Land."
+      - "But bear me to that chamber; there I’ll lie."
+      - "In that Jerusalem shall Harry die."
+    m:
+      - "Praise be to God! That’s where I must die. For years it’s been predicted that I would die in Jerusalem; I foolishly thought that meant the Holy Land. But carry me to that room, and there I’ll lie. In that Jerusalem will Harry die."
+
+  - os: "Exeunt"
+    ms: "They exit."

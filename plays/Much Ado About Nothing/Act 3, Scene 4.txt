@@ -1,0 +1,308 @@
+play: Much Ado About Nothing
+title: Act 3, Scene 4
+group: 3
+order: 9
+text:
+  - os: "Enter HERO,MARGARET, and URSULA"
+    ms: "HERO, MARGARET, andURSULA enter."
+
+  - sp: HERO
+    o:
+      - "Good Ursula, wake my cousin Beatrice and desire her to"
+      - "rise."
+    m:
+      - "Good Ursula, go wake my cousin and ask her to get up."
+
+  - sp: URSULA
+    o:
+      - "I will, lady."
+    m:
+      - "I will, lady."
+
+  - sp: HERO
+    o:
+      - "And bid her come hither."
+    m:
+      - "And request that she come here."
+
+  - sp: URSULA
+    o:
+      - "Well."
+    m:
+      - "Very well."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: MARGARET
+    o:
+      - "Troth, I think your other rebato were better."
+    m:
+      - "Really, I think your other ruff is better."
+
+  - sp: HERO
+    o:
+      - "No, pray thee, good Meg, I’ll wear this."
+    m:
+      - "No, please good Meg, I’ll wear this one."
+
+  - sp: MARGARET
+    o:
+      - "By my troth, ’s not so good, and I warrant your cousin will"
+      - "say so."
+    m:
+      - "Honestly, it’s not as good as the other one, and I’m sure your cousin will agree with me."
+
+  - sp: HERO
+    o:
+      - "My cousin’s a fool, and thou art another. I’ll wear none but"
+      - "this."
+    m:
+      - "My cousin’s a fool, and you are too. I’ll wear this one and none other."
+
+  - sp: MARGARET
+    o:
+      - "I like the new tire within excellently, if the hair were a"
+      - "thought browner; and your gown’s a most rare fashion, i’"
+      - "faith. I saw the Duchess of Milan’s gown that they praise so."
+    m:
+      - "I like your new wig and headdress, though I’d like it more if the hair were a shade browner. And your gown is really stylish. You know, I saw the Duchess of Milan’s gown, the one that everyone praises so highly."
+
+  - sp: HERO
+    o:
+      - "Oh, that exceeds, they say."
+    m:
+      - "Oh, they say that dress surpasses all others."
+
+  - sp: MARGARET
+    o:
+      - "By my troth, ’s but a nightgown in respect of yours—cloth"
+      - "o’ gold, and cuts, and laced with silver, set with pearls,"
+      - "down sleeves, side sleeves, and skirts, round underborne"
+      - "with a bluish tinsel. But for a fine, quaint, graceful, and"
+      - "excellent fashion, yours is worth ten on ’t."
+    m:
+      - "Compared to your dress, it’s no better than a nightgown. The cloth is interwoven with gold thread, and slashes in the material show the fabric beneath. It is trimmed with silver lace and embroidered with pearls. It has one set of fitted sleeves and another ornamental pair that hangs open from the shoulders. The skirts are trimmed with a blue, metallic fabric. But for a fine, elegant, graceful, and excellent dress, yours is worth ten of those."
+
+  - sp: HERO
+    o:
+      - "God give me joy to wear it, for my heart is exceeding heavy."
+    m:
+      - "I hope I enjoy wearing it, for my heart is very heavy."
+
+  - sp: MARGARET
+    o:
+      - "’Twill be heavier soon by the weight of a man."
+    m:
+      - "It will be made even heavier soon—by the weight of a man."
+
+  - sp: HERO
+    o:
+      - "Fie upon thee! Art not ashamed?"
+    m:
+      - "Watch your tongue! Have you no shame?"
+
+  - sp: MARGARET
+    o:
+      - "Of what, lady? Of speaking honorably? Is not marriage"
+      - "honorable in a beggar? Is not your lord honorable without"
+      - "marriage? I think you would have me say, “Saving your"
+      - "reverence, a husband.” An bad thinking do not wrest true"
+      - "speaking, I’ll offend nobody. Is there any harm in “the"
+      - "heavier for a husband”? None, I think, an it be the right"
+      - "husband and the right wife. Otherwise, ’tis light and not"
+      - "heavy. Ask my Lady Beatrice else. Here she comes."
+    m:
+      - "Shame of what, lady? Sex and marriage are honorable things—even for a beggar, right? And isn’t your husband an honorable man? You’re so prudish you’d probably like me to say, “I beg your pardon, your *husband*”—as if husband were a dirty word! So long as suspicious minds aren’t misinterpreting my honest words, I’ll offend no one. What’s wrong with admitting your husband’s going to lie on you? Nothing, as long as it’s the right husband with the right wife. That’s right and proper—anything else is frivolous and immoral. Ask Beatrice. Here she comes."
+
+  - os: "Enter BEATRICE"
+    ms: "BEATRICE enters."
+
+  - sp: HERO
+    o:
+      - "Good morrow, coz."
+    m:
+      - "Good morning, cousin."
+
+  - sp: BEATRICE
+    o:
+      - "Good morrow, sweet Hero."
+    m:
+      - "Good morning, sweet Hero."
+
+  - sp: HERO
+    o:
+      - "Why, how now? Do you speak in the sick tune?"
+    m:
+      - "Why do you sound so odd? Are you ill? You sound out of tune."
+
+  - sp: BEATRICE
+    o:
+      - "I am out of all other tune, methinks."
+    m:
+      - "I must be ill—I don’t think I can speak in any other tune."
+
+  - sp: MARGARET
+    o:
+      - "Clap ’s into “Light o’ love.” That goes without a burden."
+      - "Do you sing it, and I’ll dance it."
+    m:
+      - "If it’s a tune we want, let’s sing “Light on Love!” It’s a light song and doesn’t require a man to sing the baritone. You sing, and I’ll dance."
+
+  - sp: BEATRICE
+    o:
+      - "Ye light o’ love, with your heels! Then, if your husband"
+      - "have stables enough, you’ll see he shall lack no barns."
+    m:
+      - "You’re “light on love” sure enough—your frivolous dancing proves you have light heels! When you’re married one of these days, if your husband is rolling in dough, you’ll let him roll in the hay whenever he wants."
+
+  - sp: MARGARET
+    o:
+      - "O illegitimate construction! I scorn that with my heels."
+    m:
+      - "Never! I reject that life; I kick it away with my heels."
+
+  - sp: BEATRICE
+    o:
+      - "’Tis almost five o’clock, cousin. ’Tis time you were ready."
+      - "By my troth, I am exceeding ill. Heigh-ho!"
+    m:
+      - "*(to HERO)* It’s almost five o’clock, cousin. You should be ready by now. Oh, I really don’t feel well. Heigh-ho!"
+
+  - sp: MARGARET
+    o:
+      - "For a hawk, a horse, or a husband?"
+    m:
+      - "Are you sighing for a hawk, a horse, or a husband?"
+
+  - sp: BEATRICE
+    o:
+      - "For the letter that begins them all, H."
+    m:
+      - "I have an ache; I’m sighing for the letter that begins all those words."
+
+  - sp: MARGARET
+    o:
+      - "Well, an you be not turned Turk, there’s no more sailing by"
+      - "the star."
+    m:
+      - "Well, if you haven’t renounced your old faith yet, we can’t trust anything anymore."
+
+  - sp: BEATRICE
+    o:
+      - "What means the fool, trow?"
+    m:
+      - "What does the fool mean by that, I wonder?"
+
+  - sp: MARGARET
+    o:
+      - "Nothing, I; but God send everyone their heart’s desire."
+    m:
+      - "I don’t mean anything—but God sends everyone their heart’s desire."
+
+  - sp: HERO
+    o:
+      - "These gloves the Count sent me, they are an excellent"
+      - "perfume."
+    m:
+      - "The Count sent me an excellent pair of perfumed gloves."
+
+  - sp: BEATRICE
+    o:
+      - "I am stuffed, cousin. I cannot smell."
+    m:
+      - "Sorry, I’m all stuffed. I can’t smell a thing."
+
+  - sp: MARGARET
+    o:
+      - "A maid, and stuffed! There’s goodly catching of cold."
+    m:
+      - "Oh, just a young lady and already stuffed! That’s a nice way to catch a cold."
+
+  - sp: BEATRICE
+    o:
+      - "Oh, God help me, God help me! How long have you"
+      - "professed apprehension?"
+    m:
+      - "Oh, God help me! Since when have you claimed to be such a great wit?"
+
+  - sp: MARGARET
+    o:
+      - "Even since you left it. Doth not my wit become me rarely?"
+    m:
+      - "Ever since you lost yours. Doesn’t my wit suit me well?"
+
+  - sp: BEATRICE
+    o:
+      - "It is not seen enough; you should wear it in your cap. By my"
+      - "troth, I am sick."
+    m:
+      - "It doesn’t get seen enough; you should wear it in your cap, the way fools wear coxcombs. God, I’m really sick."
+
+  - sp: MARGARET
+    o:
+      - "Get you some of this distilled carduus benedictus and lay it"
+      - "to your heart. It is the only thing for a qualm."
+    m:
+      - "You should get some distilled carduus benedictus and put it on your chest. It’s the only way to cure a sudden faintness."
+
+  - sp: HERO
+    o:
+      - "There thou prick’st her with a thistle."
+    m:
+      - "With that you’ve managed to prick her with a thistle."
+
+  - sp: BEATRICE
+    o:
+      - "Benedictus! Why benedictus? You have some moral in this"
+      - "*benedictus?*"
+    m:
+      - "*Benedictus*! Why do you suggest I use *benedictus*? Is there some double meaning in that word, “benedictus”?"
+
+  - sp: MARGARET
+    o:
+      - "Moral! No, by my troth, I have no moral meaning. I meant"
+      - "plain holy thistle. You may think perchance that I think you"
+      - "are in love. Nay, by ’r Lady, I am not such a fool to think"
+      - "what I list, nor I list not to think what I can, nor indeed I"
+      - "cannot think, if I would think my heart out of thinking, that"
+      - "you are in love or that you will be in love or that you can be"
+      - "in love. Yet Benedick was such another, and now is he"
+      - "become a man. He swore he would never marry, and yet"
+      - "now, in despite of his heart, he eats his meat without"
+      - "grudging. And how you may be converted I know not, but"
+      - "methinks you look with your eyes as other women do."
+    m:
+      - "Double meaning! No, honestly, there’s no other meaning. I just meant that you should use some holy thistle. Maybe you think that I think you’re in love. No, by Our Lady, I’m not such a fool to think what I please, and I don’t please to think what I can, and in fact I cannot think, even if I could think my heart right past thinking, that you are in love or that you will be in love or even that you can be in love. But Benedick was once an enemy of love as well, and now he’s become a real man. He swore that he’d never get married, but now, despite his earlier protestations, he loves ungrudgingly. How we’re going to convert you I’ll never know. And yet I think you look with your eyes just like every other woman does."
+
+  - sp: BEATRICE
+    o:
+      - "What pace is this that thy tongue keeps?"
+    m:
+      - "Why are you talking at such a crazy clip?"
+
+  - sp: MARGARET
+    o:
+      - "Not a false gallop."
+    m:
+      - "It’s not a false gallop, anyway."
+
+  - os: "Enter URSULA"
+    ms: "URSULA enters."
+
+  - sp: URSULA
+    o:
+      - "Madam, withdraw: the Prince, the Count, Signor"
+      - "Benedick, Don John, and all the gallants of the town are"
+      - "come to fetch you to church."
+    m:
+      - "Madam, we have to go: the Prince, the Count, Signior Benedick, Don John, and all the gentlemen of the town have come to bring you to church."
+
+  - sp: HERO
+    o:
+      - "Help to dress me, good coz, good Meg, good Ursula."
+    m:
+      - "Good cousin, good Meg, good Ursula, come help me get dressed."
+
+  - os: "Exeunt"
+    ms: "They all exit."

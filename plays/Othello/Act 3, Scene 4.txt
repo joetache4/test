@@ -1,0 +1,702 @@
+play: Othello
+title: Act 3, Scene 4
+group: 3
+order: 9
+text:
+  - os: "Enter DESDEMONA, EMILIA, and CLOWN"
+    ms: "DESDEMONA, EMILIA and the CLOWN enter."
+
+  - sp: DESDEMONA
+    o:
+      - "Do you know, sirrah, where Lieutenant Cassio lies?"
+    m:
+      - "Excuse me, do you know which room Lieutenant Cassio lies in?"
+
+  - sp: CLOWN
+    o:
+      - "I dare not say he lies anywhere."
+    m:
+      - "I wouldn’t dare say he lies anywhere."
+
+  - sp: DESDEMONA
+    o:
+      - "Why, man?"
+    m:
+      - "Why do you say that?"
+
+  - sp: CLOWN
+    o:
+      - "He’s a soldier, and for one to say a soldier lies, ’tis stabbing."
+    m:
+      - "He’s a soldier. If I accused a soldier of lying, he’d stab me."
+
+  - sp: DESDEMONA
+    o:
+      - "Go to. Where lodges he?"
+    m:
+      - "Oh, come on. Where does he sleep?"
+
+  - sp: CLOWN
+    o:
+      - "To tell you where he lodges is to tell you where I lie."
+    m:
+      - "Telling you where he’s sleeping is like telling you where I’m lying."
+
+  - sp: DESDEMONA
+    o:
+      - "Can anything be made of this?"
+    m:
+      - "What on earth does that mean?"
+
+  - sp: CLOWN
+    o:
+      - "I know not where he lodges, and for me to devise a lodging and say he lies here, or he lies there, were to lie in mine own throat."
+    m:
+      - "I don’t know where he’s staying, so if I told you he’s sleeping here or there, I’d be lying."
+
+  - sp: DESDEMONA
+    o:
+      - "Can you inquire him out and be edified by report?"
+    m:
+      - "Can you ask around and find out?"
+
+  - sp: CLOWN
+    o:
+      - "I will catechize the world for him, that is, make questions, and by them answer."
+    m:
+      - "I’ll go ask questions everywhere."
+
+  - sp: DESDEMONA
+    o:
+      - "Seek him, bid him come hither. Tell him I have moved my lord on his behalf, and hope all will be well."
+    m:
+      - "Find him and tell him to come here. Tell him I’ve spoken to my husband on his behalf, and I think everything will be all right."
+
+  - sp: CLOWN
+    o:
+      - "To do this is within the compass of man’s wit, and therefore I will attempt the doing it."
+    m:
+      - "I think I can do that. It’s not too much to ask."
+
+  - os: "Exit"
+    ms: "CLOWN exits."
+
+  - sp: DESDEMONA
+    o:
+      - "Where should I lose that handkerchief, Emilia?"
+    m:
+      - "Where could I have lost that handkerchief, Emilia?"
+
+  - sp: EMILIA
+    o:
+      - "I know not, madam."
+    m:
+      - "I don’t know, madam."
+
+  - sp: DESDEMONA
+    o:
+      - "Believe me, I had rather have lost my purse"
+      - "Full of crusadoes. And but my noble Moor"
+      - "Is true of mind and made of no such baseness"
+      - "As jealous creatures are, it were enough"
+      - "To put him to ill thinking."
+    m:
+      - "Believe me, I’d rather have lost a purse full of gold coins. This would be enough to make my husband suspect me, if he wasn’t so free of jealousy."
+
+  - sp: EMILIA
+    o:
+      - "Is he not jealous?"
+    m:
+      - "He’s not jealous?"
+
+  - sp: DESDEMONA
+    o:
+      - "Who, he? I think the sun where he was born"
+      - "Drew all such humors from him."
+    m:
+      - "Who, him? I think all tendencies to jealousy were burned out of him by the sun of his native land."
+
+  - sp: EMILIA
+    o:
+      - "Look where he comes."
+    m:
+      - "Look, here he comes."
+
+  - os: "Enter OTHELLO"
+    ms: "OTHELLO enters."
+
+  - sp: DESDEMONA
+    o:
+      - "I will not leave him now till Cassio"
+      - "Be called to him.—How is ’t with you, my lord?"
+    m:
+      - "I won’t leave him alone until he gives Cassio his job back.—How are you, my lord?"
+
+  - sp: OTHELLO
+    o:
+      - "Well, my good lady.—*(aside)* Oh, hardness to dissemble!—"
+      - "How do you, Desdemona?"
+    m:
+      - "I’m fine, my lady.—*(to himself)* Oh, it’s so hard to pretend!—How are you, Desdemona?"
+
+  - sp: DESDEMONA
+    o:
+      - "    Well, my good lord."
+    m:
+      - "I’m fine, my lord."
+
+  - sp: OTHELLO
+    o:
+      - "Give me your hand. This hand is moist, my lady."
+    m:
+      - "Give me your hand. Your hand’s moist, my lady."
+
+  - sp: DESDEMONA
+    o:
+      - "It hath felt no age nor known no sorrow."
+    m:
+      - "It’s moist because it’s still young and inexperienced."
+
+  - sp: OTHELLO
+    o:
+      - "This argues fruitfulness and liberal heart."
+      - "Hot, hot, and moist. This hand of yours requires"
+      - "A sequester from liberty, fasting, and prayer,"
+      - "Much castigation, exercise devout,"
+      - "For here’s a young and sweating devil here,"
+      - "That commonly rebels. ’Tis a good hand,"
+      - "A frank one."
+    m:
+      - "It says you’re fertile, and you’ve got a giving heart. Hot, hot and moist. With a hand like this you need to fast and pray to stave off temptations. Someone with a young sweating hand like this one is bound to act up sooner or later. It’s a nice hand, an open one."
+
+  - sp: DESDEMONA
+    o:
+      - "  You may indeed say so,"
+      - "For ’twas that hand that gave away my heart."
+    m:
+      - "You’re right to say that. This was the hand that gave you my heart."
+
+  - sp: OTHELLO
+    o:
+      - "A liberal hand. The hearts of old gave hands,"
+      - "But our new heraldry is hands, not hearts."
+    m:
+      - "This hand gives itself away very freely. In the old days, people used to give their hearts to each other when they joined their hands in marriage. But these days, people give each other their hands without their hearts."
+
+  - sp: DESDEMONA
+    o:
+      - "I cannot speak of this. Come now, your promise."
+    m:
+      - "I don’t know about that. Now, don’t forget, you promised me something."
+
+  - sp: OTHELLO
+    o:
+      - "What promise, chuck?"
+    m:
+      - "What did I promise, my dear?"
+
+  - sp: DESDEMONA
+    o:
+      - "I have sent to bid Cassio come speak with you."
+    m:
+      - "I sent for Cassio to come talk with you."
+
+  - sp: OTHELLO
+    o:
+      - "I have a salt and sorry rheum offends me."
+      - "Lend me thy handkerchief."
+    m:
+      - "I have a bad cold that’s bothering me. Lend me your handkerchief."
+
+  - sp: DESDEMONA
+    o:
+      - "    Here, my lord."
+    m:
+      - "Here, my lord."
+
+  - sp: OTHELLO
+    o:
+      - "That which I gave you."
+    m:
+      - "No, the one I gave you."
+
+  - sp: DESDEMONA
+    o:
+      - "    I have it not about me."
+    m:
+      - "I don’t have it with me."
+
+  - sp: OTHELLO
+    o:
+      - "Not?"
+    m:
+      - "You don’t?"
+
+  - sp: DESDEMONA
+    o:
+      - "  No, indeed, my lord."
+    m:
+      - "No, my lord."
+
+  - sp: OTHELLO
+    o:
+      - "    That’s a fault. That handkerchief"
+      - "Did an Egyptian to my mother give,"
+      - "She was a charmer and could almost read"
+      - "The thoughts of people. She told her, while she kept it"
+      - "’Twould make her amiable and subdue my father"
+      - "Entirely to her love, but if she lost it"
+      - "Or made gift of it, my father’s eye"
+      - "Should hold her loathèd and his spirits should hunt"
+      - "After new fancies. She, dying, gave it me"
+      - "And bid me, when my fate would have me wived,"
+      - "To give it her. I did so, and take heed on ’t,"
+      - "Make it a darling like your precious eye."
+      - "To lose ’t or give ’t away were such perdition"
+      - "As nothing else could match."
+    m:
+      - "That’s not good. An Egyptian woman gave that handkerchief to my mother. She was a witch, and she could almost read people’s thoughts. She told my mother that as long as she kept it with her, my father would love and desire her. But if she lost it or gave it away, my father would start hating her and looking at other women. When she was dying she gave it to me and told me to give it to my wife when I got married. I did. So pay attention. Treat it as something precious. Losing it or giving it away would be an unspeakable loss, a loss like none other."
+
+  - sp: DESDEMONA
+    o:
+      - "    Is ’t possible?"
+    m:
+      - "Is that possible?"
+
+  - sp: OTHELLO
+    o:
+      - "’Tis true. There’s magic in the web of it."
+      - "A sibyl, that had numbered in the world"
+      - "The sun to course two hundred compasses,"
+      - "In her prophetic fury sewed the work."
+      - "The worms were hallowed that did breed the silk,"
+      - "And it was dyed in mummy which the skillful"
+      - "Conserved of maidens’ hearts."
+    m:
+      - "Yes, it’s true. There’s magic in its fabric. A two-hundred-year-old witch sewed it while she was in a fevered trance. The silk came from sacred silkworms, and it was dyed with fluid made from embalmed virgins’ hearts."
+
+  - sp: DESDEMONA
+    o:
+      - "    Indeed? Is ’t true?"
+    m:
+      - "Really? Is that true?"
+
+  - sp: OTHELLO
+    o:
+      - "Most veritable, therefore look to ’t well."
+    m:
+      - "It’s absolutely true, so take good care of it."
+
+  - sp: DESDEMONA
+    o:
+      - "Then would to Heaven that I had never seen ’t!"
+    m:
+      - "I wish I had never seen it!"
+
+  - sp: OTHELLO
+    o:
+      - "Ha! Wherefore?"
+    m:
+      - "Ha! Why?"
+
+  - sp: DESDEMONA
+    o:
+      - "Why do you speak so startingly and rash?"
+    m:
+      - "Why are you yelling at me so angrily?"
+
+  - sp: OTHELLO
+    o:
+      - "Is ’t lost? Is ’t gone? Speak, is ’t out o’ th’ way?"
+    m:
+      - "Is it lost? Is it gone? Tell me, is it missing?"
+
+  - sp: DESDEMONA
+    o:
+      - "Bless us!"
+    m:
+      - "God help me!"
+
+  - sp: OTHELLO
+    o:
+      - "Say you?"
+    m:
+      - "What do you have to say for yourself?"
+
+  - sp: DESDEMONA
+    o:
+      - "It is not lost, but what and if it were?"
+    m:
+      - "It’s not lost, but what if it were?"
+
+  - sp: OTHELLO
+    o:
+      - "How!"
+    m:
+      - "What do you mean?"
+
+  - sp: DESDEMONA
+    o:
+      - "I say, it is not lost."
+    m:
+      - "I’m telling you, it’s not lost."
+
+  - sp: OTHELLO
+    o:
+      - "    Fetch ’t, let me see ’t."
+    m:
+      - "Then bring it here. Let me see it."
+
+  - sp: DESDEMONA
+    o:
+      - "Why, so I can, sir, but I will not now."
+      - "This is a trick to put me from my suit."
+      - "Pray you, let Cassio be received again."
+    m:
+      - "I could, sir. But I don’t want to now. This is just a trick to take my mind off what I’m asking you for. Please hire Cassio again."
+
+  - sp: OTHELLO
+    o:
+      - "Fetch me the handkerchief—my mind misgives."
+    m:
+      - "Bring me the handkerchief—My mind is full of doubt."
+
+  - sp: DESDEMONA
+    o:
+      - "Come, come,"
+      - "You’ll never meet a more sufficient man."
+    m:
+      - "Come on. You know you’ll never find a more capable man."
+
+  - sp: OTHELLO
+    o:
+      - "The handkerchief!"
+    m:
+      - "The handkerchief!"
+
+  - sp: DESDEMONA
+    o:
+      - "    A man that all his time"
+      - "Hath founded his good fortunes on your love,"
+      - "Shared dangers with you—"
+    m:
+      - "He’s counted on your friendship for his success. He’s shared dangers with you—"
+
+  - sp: OTHELLO
+    o:
+      - "The handkerchief!"
+    m:
+      - "The handkerchief!"
+
+  - sp: DESDEMONA
+    o:
+      - "In sooth, you are to blame."
+    m:
+      - "Really, I don’t think you’re behaving very well."
+
+  - sp: OTHELLO
+    o:
+      - "Away!"
+    m:
+      - "Damn it!"
+
+  - os: "Exit"
+    ms: "OTHELLO exits."
+
+  - sp: EMILIA
+    o:
+      - "Is not this man jealous?"
+    m:
+      - "And you say he’s not jealous?"
+
+  - sp: DESDEMONA
+    o:
+      - "    I ne’er saw this before."
+      - "Sure, there’s some wonder in this handkerchief,"
+      - "I am most unhappy in the loss of it."
+    m:
+      - "I never saw him like this before. There must be some magic in that handkerchief. I’m miserable that I lost it."
+
+  - sp: EMILIA
+    o:
+      - "’Tis not a year or two shows us a man."
+      - "They are all but stomachs, and we all but food."
+      - "To eat us hungerly, and when they are full,"
+      - "They belch us. Look you, Cassio and my husband!"
+    m:
+      - "Men are all the same, but it takes longer than a year or two to see how bad they are. They’re like stomachs and we’re just the food. They eat us up hungrily, and when they’re full, they vomit us up. Look, here comes Cassio and my husband."
+
+  - os: "Enter CASSIO and IAGO"
+    ms: "IAGO and CASSIO enter."
+
+  - sp: IAGO
+    o:
+      - "There is no other way. ’Tis she must do ’t,"
+      - "And, lo, the happiness! Go and importune her."
+    m:
+      - "There’s no other way. She’s the one who’s got to do it. And what luck, she’s here! Go ahead and ask her."
+
+  - sp: DESDEMONA
+    o:
+      - "How now, good Cassio, what’s the news with you?"
+    m:
+      - "Hello, Cassio. How are you?"
+
+  - sp: CASSIO
+    o:
+      - "Madam, my former suit. I do beseech you"
+      - "That by your virtuous means I may again"
+      - "Exist, and be a member of his love"
+      - "Whom I, with all the office of my heart"
+      - "Entirely honor. I would not be delayed."
+      - "If my offence be of such mortal kind"
+      - "That nor my service past, nor present sorrows,"
+      - "Nor purposed merit in futurity,"
+      - "Can ransom me into his love again,"
+      - "But to know so must be my benefit."
+      - "So shall I clothe me in a forced content,"
+      - "And shut myself up in some other course,"
+      - "To fortune’s alms."
+    m:
+      - "Nothing, madam. Just my earlier request. I’m begging you to help me get back on his good side. I’m devoted to him with all my heart. I can’t wait any longer. If my wrongdoing was so serious that I can’t get back into his good graces either by my past service, or my present situation, or the promise of devoted service in the future, just knowing that would help me. Then I could stop wondering, and find some other career."
+
+  - sp: DESDEMONA
+    o:
+      - "  Alas, thrice-gentle Cassio,"
+      - "My advocation is not now in tune."
+      - "My lord is not my lord, nor should I know him"
+      - "Were he in favor as in humor altered."
+      - "So help me every spirit sanctified"
+      - "As I have spoken for you all my best"
+      - "And stood within the blank of his displeasure"
+      - "For my free speech. You must awhile be patient."
+      - "What I can do I will, and more I will"
+      - "Than for myself I dare. Let that suffice you."
+    m:
+      - "I’m sorry, dear Cassio, but now is not the right time to bring up your case. My husband’s not himself. If his face changed as much as his personality has, I wouldn’t recognize him. God knows I have done my best to argue for you, and made him angry at me for being so aggressive. You’ll just have to be patient for a little while. I’ll do what I can, more than I’d do for myself. Let that be enough for you."
+
+  - sp: IAGO
+    o:
+      - "Is my lord angry?"
+    m:
+      - "Is Othello angry?"
+
+  - sp: EMILIA
+    o:
+      - "  He went hence but now,"
+      - "And certainly in strange unquietness."
+    m:
+      - "He just left, clearly upset about something."
+
+  - sp: IAGO
+    o:
+      - "Can he be angry? I have seen the cannon"
+      - "When it hath blown his ranks into the air"
+      - "And, like the devil, from his very arm"
+      - "Puffed his own brother—and is he angry?"
+      - "Something of moment then, I will go meet him."
+      - "There’s matter in ’t indeed, if he be angry."
+    m:
+      - "Can he even get angry? It’s hard to believe. I’ve seen him stay calm when cannons were blowing his soldiers to bits, even killing his own brother without him batting an eyelid—is he really upset? It must be about something important. I’ll go talk to him. If he’s angry, there must be something seriously wrong."
+
+  - sp: DESDEMONA
+    o:
+      - "I prithee, do so."
+    m:
+      - "Please, do so."
+
+  - os: "Exit IAGO"
+    ms: "IAGO exits."
+
+  - o:
+      - "  Something, sure, of state,"
+      - "Either from Venice, or some unhatched practice"
+      - "Made demonstrable here in Cyprus to him,"
+      - "Hath puddled his clear spirit, and in such cases"
+      - "Men’s natures wrangle with inferior things,"
+      - "Though great ones are their object. ’Tis even so,"
+      - "For let our finger ache and it endues"
+      - "Our other healthful members even to that sense"
+      - "Of pain. Nay, we must think men are not gods,"
+      - "Nor of them look for such observances"
+      - "As fit the bridal. Beshrew me much, Emilia,"
+      - "I was, unhandsome warrior as I am,"
+      - "Arraigning his unkindness with my soul,"
+      - "But now I find I had suborned the witness,"
+      - "And he’s indicted falsely."
+    m:
+      - "There must be some political news from Venice, or some dangerous plot here in Cyprus has ruined his good mood. Men always get angry about little things when they’re really worried about bigger ones. That’s the way it goes. When our finger hurts, it makes the rest of the body hurt too. We shouldn’t expect men to be perfect, or for them to be as polite as on the weddingday. Oh, Emilia, I’m so inexperienced that I thought he was being unkind, but actually I was judging him harshly."
+
+  - sp: EMILIA
+    o:
+      - "    Pray heaven it be"
+      - "State matters, as you think, and no conception"
+      - "Nor no jealous toy concerning you."
+    m:
+      - "I hope to God it’s something political, like you think, and not jealousy involving you."
+
+  - sp: DESDEMONA
+    o:
+      - "Alas the day! I never gave him cause."
+    m:
+      - "Oh no! I never gave him reason to be jealous."
+
+  - sp: EMILIA
+    o:
+      - "But jealous souls will not be answered so."
+      - "They are not ever jealous for the cause,"
+      - "But jealous for they’re jealous. It is a monster"
+      - "Begot upon itself, born on itself."
+    m:
+      - "But jealous people don’t think like that. They’re never jealous for a reason; they’re just jealous. It’s like a monster that just grows and grows, out of nothing."
+
+  - sp: DESDEMONA
+    o:
+      - "Heaven keep the monster from Othello’s mind!"
+    m:
+      - "I hope God keeps that monster from growing in Othello’s mind!"
+
+  - sp: EMILIA
+    o:
+      - "Lady, amen."
+    m:
+      - "Amen to that, lady."
+
+  - sp: DESDEMONA
+    o:
+      - "I will go seek him.—Cassio, walk hereabout."
+      - "If I do find him fit, I’ll move your suit"
+      - "And seek to effect it to my uttermost."
+    m:
+      - "I’ll go look for him—Cassio, stay around here. If he’s in a good mood I’ll mention you again, and do everything I can."
+
+  - sp: CASSIO
+    o:
+      - "I humbly thank your ladyship."
+    m:
+      - "I thank you, lady."
+
+  - os: "Exeunt DESDEMONA and EMILIA"
+    ms: "DESDEMONA and EMILIA exit."
+
+  - os: "Enter BIANCA"
+    ms: "BIANCA enters."
+
+  - sp: BIANCA
+    o:
+      - "Save you, friend Cassio!"
+    m:
+      - "Hello, Cassio!"
+
+  - sp: CASSIO
+    o:
+      - "    What make you from home?"
+      - "How is ’t with you, my most fair Bianca?"
+      - "Indeed, sweet love, I was coming to your house."
+    m:
+      - "Why are you so far from home? How are you, my pretty Bianca? To tell you the truth, I was just going to your house."
+
+  - sp: BIANCA
+    o:
+      - "And I was going to your lodging, Cassio."
+      - "What, keep a week away? Seven days and nights?"
+      - "Eight score eight hours? And lovers’ absent hours"
+      - "More tedious than the dial eightscore times!"
+      - "Oh weary reckoning!"
+    m:
+      - "And I was just going to yours. You’ve kept away from me for a week? Seven days and seven nights? A hundred and sixty-eight hours? And lovers’ hours are a hundred and sixty times longer than normal ones! What a tedious wait!"
+
+  - sp: CASSIO
+    o:
+      - "    Pardon me, Bianca,"
+      - "I have this while with leaden thoughts been pressed,"
+      - "But I shall, in a more continuate time,"
+      - "Strike off this score of absence. Sweet Bianca,"
+      - "*(giving her DESDEMONA’s handkerchief)*"
+      - "Take me this work out."
+    m:
+      - "I’m sorry, Bianca. All this time I’ve been depressed and had problems on my mind. When I get some free time I’ll make it up to you. *(he gives her DESDEMONA’s handkerchief)* Sweet Bianca, would you copy this embroidery pattern for me?"
+
+  - sp: BIANCA
+    o:
+      - "    O Cassio, whence came this?"
+      - "This is some token from a newer friend!"
+      - "To the felt absence now I feel a cause."
+      - "Is ’t come to this? Well, well."
+    m:
+      - "Oh, Cassio, where did you get this? This is a gift from another woman, a new lover! Now I know why you’ve been staying away from me. Has it come to this? Well, well."
+
+  - sp: CASSIO
+    o:
+      - "    Go to, woman,"
+      - "Throw your vile guesses in the devil’s teeth"
+      - "From whence you have them. You are jealous now"
+      - "That this is from some mistress, some remembrance."
+      - "No, in good troth, Bianca."
+    m:
+      - "Oh, come on, woman. Stop jumping to silly conclusions. Now you’re jealous, thinking that this is from some mistress of mine, but I swear it’s not, Bianca."
+
+  - sp: BIANCA
+    o:
+      - "    Why, whose is it?"
+    m:
+      - "Well, whose is it?"
+
+  - sp: CASSIO
+    o:
+      - "I know not neither, I found it in my chamber."
+      - "I like the work well. Ere it be demanded,"
+      - "As like enough it will, I would have it copied."
+      - "Take it and do ’t, and leave me for this time."
+    m:
+      - "I don’t even know. I found it in my room. It’s pretty. Someone is certainly looking for it, and I’ll have to give it back. So I’d like it copied. Take it and do that for me, and leave me alone for a while."
+
+  - sp: BIANCA
+    o:
+      - "Leave you! Wherefore?"
+    m:
+      - "Leave you alone! Why?"
+
+  - sp: CASSIO
+    o:
+      - "I do attend here on the general"
+      - "And think it no addition, nor my wish,"
+      - "To have him see me womaned."
+    m:
+      - "I’m waiting here for the general, and I don’t want him to see me with a woman."
+
+  - sp: BIANCA
+    o:
+      - "    Why, I pray you?"
+    m:
+      - "And why’s that?"
+
+  - sp: CASSIO
+    o:
+      - "Not that I love you not."
+    m:
+      - "It’s not because I don’t love you."
+
+  - sp: BIANCA
+    o:
+      - "    But that you do not love me."
+      - "I pray you bring me on the way a little"
+      - "And say if I shall see you soon at night."
+    m:
+      - "But you don’t love me. Please, just walk with me a little ways, and tell me if I’ll see you later tonight."
+
+  - sp: CASSIO
+    o:
+      - "’Tis but a little way that I can bring you,"
+      - "For I attend here. But I’ll see you soon."
+    m:
+      - "I can only walk a little way with you, since I’m waiting here. But I’ll see you soon."
+
+  - sp: BIANCA
+    o:
+      - "’Tis very good. I must be circumstanced."
+    m:
+      - "All right, have it your way. I have to make do."
+
+  - os: "Exeunt"
+    ms: "They exit."

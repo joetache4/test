@@ -1,0 +1,945 @@
+play: Much Ado About Nothing
+title: Act 4, Scene 1
+group: 4
+order: 11
+text:
+  - os: "Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS, CLAUDIO, BENEDICK,HERO, BEATRICE, and Attendants"
+    ms: "DON PEDRO, DON JOHN,LEONATO, FRIAR FRANCIS,CLAUDIO, BENEDICK,HERO, and BEATRICE enter withATTENDANTS."
+
+  - sp: LEONATO
+    o:
+      - "Come, Friar Francis, be brief, only to the plain form of"
+      - "marriage, and you shall recount their particular duties"
+      - "afterwards."
+    m:
+      - "All right, Friar Francis, let’s keep this short. Do a simple ceremony, and list all the particular duties of marriage later."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "*(to CLAUDIO)* You come hither, my lord, to marry this lady?"
+    m:
+      - "*(to CLAUDIO)* Have you come here, my lord, to marry this lady?"
+
+  - sp: CLAUDIO
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: LEONATO
+    o:
+      - "To be married to her.—Friar, you come to marry her."
+    m:
+      - "No, he comes to be married *to* her. Friar, you are the one who has come to marry her."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "Lady, you come hither to be married to this count?"
+    m:
+      - "Lady, do you come here to be married to this count?"
+
+  - sp: HERO
+    o:
+      - "I do."
+    m:
+      - "I do."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "If either of you know any inward impediment why you"
+      - "should not be conjoined, charge you on your souls to utter"
+      - "it."
+    m:
+      - "If either of you knows any secret reason why you two should not be joined in marriage, I order you on your souls to say so."
+
+  - sp: CLAUDIO
+    o:
+      - "Know you any, Hero?"
+    m:
+      - "Do you know any, Hero?"
+
+  - sp: HERO
+    o:
+      - "None, my lord."
+    m:
+      - "None, my lord."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "Know you any, count?"
+    m:
+      - "Do you know any, count?"
+
+  - sp: LEONATO
+    o:
+      - "I dare make his answer, none."
+    m:
+      - "I’m sure I can answer for him—he doesn’t know any, either."
+
+  - sp: CLAUDIO
+    o:
+      - "O, what men dare do! What men may do! What men daily"
+      - "do, not knowing what they do!"
+    m:
+      - "Oh, the things men dare to do! The things men are allowed to do! The things men do daily, not knowing what they’re doing!"
+
+  - sp: BENEDICK
+    o:
+      - "How now, interjections? Why, then, some be of laughing,"
+      - "as, ah, ha, he!"
+    m:
+      - "What, are we playing with interjections? Well then, add some interjections that indicate laughter, like “ah,” “ha,” and “he!”"
+
+  - sp: CLAUDIO
+    o:
+      - "Stand thee by, Friar.—Father, by your leave,"
+      - "Will you with free and unconstrainèd soul"
+      - "Give me this maid, your daughter?"
+    m:
+      - "Hold on, Friar. *(to LEONATO)* Father, are you giving me your daughter freely?"
+
+  - sp: LEONATO
+    o:
+      - "As freely, son, as God did give her me."
+    m:
+      - "As freely, son, as God gave her to me."
+
+  - sp: CLAUDIO
+    o:
+      - "And what have I to give you back whose worth"
+      - "May counterpoise this rich and precious gift?"
+    m:
+      - "And what should I give you that would be equal in value to this rare and precious gift?"
+
+  - sp: DON PEDRO
+    o:
+      - "Nothing, unless you render her again."
+    m:
+      - "Nothing, sir, except grandchildren."
+
+  - sp: CLAUDIO
+    o:
+      - "Sweet Prince, you learn me noble thankfulness.—"
+      - "There, Leonato, take her back again."
+      - "Give not this rotten orange to your friend."
+      - "She’s but the sign and semblance of her honor."
+      - "Behold how like a maid she blushes here!"
+      - "Oh, what authority and show of truth"
+      - "Can cunning sin cover itself withal!"
+      - "Comes not that blood as modest evidence"
+      - "To witness simple virtue? Would you not swear,"
+      - "All you that see her, that she were a maid"
+      - "By these exterior shows? But she is none."
+      - "She knows the heat of a luxurious bed."
+      - "Her blush is guiltiness, not modesty."
+    m:
+      - "Good Prince, you have taught me how to accept things nobly. There, Leonato, take your daughter back. Don’t insult a friend by giving him a beautiful orange that rots inside. She only appears honorable from the outside. Look, how she blushes like a virgin! Oh, sin can disguise itself so artfully! Doesn’t that rising blush suggest that she is virtuous and innocent? All of you who are looking at her, wouldn’t you swear that she’s a virgin, judging by these outward shows? But she is no virgin. She has been in a man’s bed. She blushes from guilt, not modesty."
+
+  - sp: LEONATO
+    o:
+      - "What do you mean, my lord?"
+    m:
+      - "What do you mean, my lord?"
+
+  - sp: CLAUDIO
+    o:
+      - "    Not to be married,"
+      - "Not to knit my soul to an approvèd wanton."
+    m:
+      - "I won’t be married. I won’t join my soul to such a proven slut."
+
+  - sp: LEONATO
+    o:
+      - "Dear my lord, if you in your own proof"
+      - "Have vanquished the resistance of her youth"
+      - "And made defeat of her virginity—"
+    m:
+      - "My dear lord, if it was you who conquered her and took her virginity—"
+
+  - sp: CLAUDIO
+    o:
+      - "I know what you would say: if I have known her,"
+      - "You will say she did embrace me as a husband,"
+      - "And so extenuate the forehand sin."
+      - "No, Leonato,"
+      - "I never tempted her with word too large"
+      - "But, as a brother to his sister, showed"
+      - "Bashful sincerity and comely love."
+    m:
+      - "I know what you’re about to say. If I had slept with her, you’d say that we did so as husband and wife, merely anticipating our eventual marriage. No, Leonato. I never seduced her, or tempted her with indecent words. I treated her like a brother would treat a sister, with modest sincerity and appropriate affection."
+
+  - sp: HERO
+    o:
+      - "And seemed I ever otherwise to you?"
+    m:
+      - "And have I ever seemed less than modest or appropriate to you?"
+
+  - sp: CLAUDIO
+    o:
+      - "Out on thee, seeming! I will write against it."
+      - "You seem to me as Dian in her orb,"
+      - "As chaste as is the bud ere it be blown."
+      - "But you are more intemperate in your blood"
+      - "Than Venus, or those pampered animals"
+      - "That rage in savage sensuality."
+    m:
+      - "Curse you for your false appearances! To me, you seemed like Diana in her orbit—as virginal as the flower bud before it blooms. But you’re actually as hot-blooded as Venus, or a pampered animal allowed to run wild."
+
+  - sp: HERO
+    o:
+      - "Is my lord well, that he doth speak so wide?"
+    m:
+      - "Are you sick, my lord? Is that why you’re talking so wildly?"
+
+  - sp: LEONATO
+    o:
+      - "Sweet Prince, why speak not you?"
+    m:
+      - "Good Prince, say something!"
+
+  - sp: DON PEDRO
+    o:
+      - "    What should I speak?"
+      - "I stand dishonored, that have gone about"
+      - "To link my dear friend to a common stale."
+    m:
+      - "What should I say? I’ve been dishonored: I arranged for a friend of mine to marry a common whore."
+
+  - sp: LEONATO
+    o:
+      - "Are these things spoken, or do I but dream?"
+    m:
+      - "Are you really saying these things, or am I dreaming?"
+
+  - sp: DON JOHN
+    o:
+      - "Sir, they are spoken, and these things are true."
+    m:
+      - "They’re really being spoken, sir, and they’re true."
+
+  - sp: BENEDICK
+    o:
+      - "This looks not like a nuptial."
+    m:
+      - "This doesn’t look like a wedding."
+
+  - sp: HERO
+    o:
+      - "True! O God!"
+    m:
+      - "It’s true! Oh God!"
+
+  - sp: CLAUDIO
+    o:
+      - "Leonato, stand I here?"
+      - "Is this the Prince? Is this the Prince’s brother?"
+      - "Is this face Hero’s? Are our eyes our own?"
+    m:
+      - "Leonato, am I standing here? Is this the Prince? Is this the Prince’s brother? Is this face Hero’s? Are these our eyes?"
+
+  - sp: LEONATO
+    o:
+      - "All this is so, but what of this, my lord?"
+    m:
+      - "Yes, that’s all true—but what do you mean by it, my lord?"
+
+  - sp: CLAUDIO
+    o:
+      - "Let me but move one question to your daughter,"
+      - "And by that fatherly and kindly power"
+      - "That you have in her, bid her answer truly."
+    m:
+      - "Let me just ask her one question, and by your authority as her father, order her to answer truthfully."
+
+  - sp: LEONATO
+    o:
+      - "I charge thee do so, as thou art my child."
+    m:
+      - "As my child, I order you to do so."
+
+  - sp: HERO
+    o:
+      - "Oh, God defend me! how am I beset!—"
+      - "What kind of catechizing call you this?"
+    m:
+      - "Oh, God help me! How I’m being attacked! What kind of game is this?"
+
+  - sp: CLAUDIO
+    o:
+      - "To make you answer truly to your name."
+    m:
+      - "We just want you to answer to your real name."
+
+  - sp: HERO
+    o:
+      - "Is it not Hero? Who can blot that name"
+      - "With any just reproach?"
+    m:
+      - "Isn’t my name Hero? Who can stain that name with a just accusation?"
+
+  - sp: CLAUDIO
+    o:
+      - "    Marry, that can Hero!"
+      - "Hero itself can blot out Hero’s virtue."
+      - "What man was he talked with you yesternight"
+      - "Out at your window betwixt twelve and one?"
+      - "Now, if you are a maid, answer to this."
+    m:
+      - "Indeed, Hero herself can! You’ve stained your virtue with your own actions. What man were you talking to at your window last night, between the hours of midnight and one? If you’re a virgin, you’ll answer this question."
+
+  - sp: HERO
+    o:
+      - "I talked with no man at that hour, my lord."
+    m:
+      - "I wasn’t talking to any man at that time, my lord."
+
+  - sp: DON PEDRO
+    o:
+      - "Why, then are you no maiden.—Leonato,"
+      - "I am sorry you must hear. Upon mine honor,"
+      - "Myself, my brother, and this grievèd count"
+      - "Did see her, hear her, at that hour last night"
+      - "Talk with a ruffian at her chamber window"
+      - "Who hath indeed, most like a liberal villain,"
+      - "Confessed the vile encounters they have had"
+      - "A thousand times in secret."
+    m:
+      - "Well then, you are no virgin. Leonato, I’m sorry you have to hear this. I swear on my honor that we saw and heard Hero talking to a brute at her window last night. And that man confessed at length how he has secretly come to her bedroom thousands of times."
+
+  - sp: DON JOHN
+    o:
+      - "Fie, fie, they are not to be named, my lord,"
+      - "Not to be spoke of!"
+      - "There is not chastity enough in language,"
+      - "Without offense, to utter them.—Thus, pretty lady,"
+      - "I am sorry for thy much misgovernment."
+    m:
+      - "No, my lord, don’t name her sinful acts or speak of them! There’s no way to describe them without offending everyone here. Pretty lady, I’m much ashamed of your shocking behavior."
+
+  - sp: CLAUDIO
+    o:
+      - "O Hero, what a Hero hadst thou been"
+      - "If half thy outward graces had been placed"
+      - "About thy thoughts and counsels of thy heart!"
+      - "But fare thee well, most foul, most fair! Farewell,"
+      - "Thou pure impiety and impious purity."
+      - "For thee I’ll lock up all the gates of love,"
+      - "And on my eyelids shall conjecture hang,"
+      - "To turn all beauty into thoughts of harm,"
+      - "And never shall it more be gracious."
+    m:
+      - "Oh Hero, you could have equaled the mythical Hero if only half your outward beauty matched your inner thoughts and desires! Goodbye, beautiful sinner. Goodbye to your pure wickedness and your wicked purity. Because of you, I’ll keep myself away from love. I’ll hang suspicion on my eyelids, so that all the beautiful things I see are transformed into dangers and are never able to trick me again."
+
+  - sp: LEONATO
+    o:
+      - "Hath no man’s dagger here a point for me?"
+    m:
+      - "Does anyone have a dagger for me?"
+
+  - os: "HERO swoons"
+    ms: "HERO faints."
+
+  - sp: BEATRICE
+    o:
+      - "Why, how now, cousin! wherefore sink you down?"
+    m:
+      - "What’s wrong, cousin? Why have you collapsed?"
+
+  - sp: DON JOHN
+    o:
+      - "Come, let us go. These things, come thus to light,"
+      - "Smother her spirits up."
+    m:
+      - "Come, let’s go. These revelations have overwhelmed her."
+
+  - os: "Exeunt DON PEDRO, DON JOHN, and CLAUDIO"
+    ms: "DON PEDRO, DON JOHN, and CLAUDIO exit."
+
+  - sp: BENEDICK
+    o:
+      - "How doth the lady?"
+    m:
+      - "How is she?"
+
+  - sp: BEATRICE
+    o:
+      - "    Dead, I think.—Help, uncle!—"
+      - "Hero, why, Hero! Uncle! Signor Benedick! Friar!"
+    m:
+      - "She’s dead, I think.—Help, uncle!—Hero, why Hero! Uncle! Signior Benedick! Friar!"
+
+  - sp: LEONATO
+    o:
+      - "O Fate! Take not away thy heavy hand!"
+      - "Death is the fairest cover for her shame"
+      - "That may be wished for."
+    m:
+      - "Oh Fate, don’t spare Hero from being punished! Death is the best way to cover over her shame."
+
+  - sp: BEATRICE
+    o:
+      - "How now, cousin Hero!"
+    m:
+      - "How are you, Hero?"
+
+  - os: "HERO stirs"
+    ms: "HERO stirs."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "*(to HERO)* Have comfort, lady."
+    m:
+      - "*(to HERO)* Take comfort, lady."
+
+  - sp: LEONATO
+    o:
+      - "*(to HERO)* Dost thou look up?"
+    m:
+      - "*(to HERO)* Are you looking up?"
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "    Yea, wherefore should she not?"
+    m:
+      - "Yes, why shouldn’t she?"
+
+  - sp: LEONATO
+    o:
+      - "Wherefore! Why, doth not every earthly thing"
+      - "Cry shame upon her? Could she here deny"
+      - "The story that is printed in her blood?—"
+      - "Do not live, Hero, do not ope thine eyes,"
+      - "For, did I think thou wouldst not quickly die,"
+      - "Thought I thy spirits were stronger than thy shames,"
+      - "Myself would, on the rearward of reproaches,"
+      - "Strike at thy life. Grieved I I had but one?"
+      - "Chid I for that at frugal Nature’s frame?"
+      - "O, one too much by thee! Why had I one?"
+      - "Why ever wast thou lovely in my eyes?"
+      - "Why had I not with charitable hand"
+      - "Took up a beggar’s issue at my gates,"
+      - "Who, smirchèd thus, and mired with infamy,"
+      - "I might have said, “No part of it is mine;"
+      - "This shame derives itself from unknown loins”?"
+      - "But mine, and mine I loved, and mine I praised,"
+      - "And mine that I was proud on, mine so much"
+      - "That I myself was to myself not mine,"
+      - "Valuing of her—why, she, O she is fall’n"
+      - "Into a pit of ink, that the wide sea"
+      - "Hath drops too few to wash her clean again"
+      - "And salt too little which may season give"
+      - "To her foul tainted flesh!"
+    m:
+      - "Why not! Isn’t every living thing condemning her? Can she deny the accusations that are proven by her guilty blush? Die, Hero, don’t open your eyes. If I didn’t think you were about to die soon—if I thought your spirit could bear this shame—I would risk punishment and kill you myself. Am I sorry that I only had one child? Do I blame Nature for being so thrifty? Oh, one child is one too many! Why did I ever have one? Why did you once seem lovely to me? Why didn’t I just adopt a beggar’s child left at my doorstep, whose shame and dishonor I could have denied, not being its true father? But you were mine, and I loved and praised you for being mine, and was proud of you for being mine—I loved you so much that I hardly cared about myself. Oh, but now you have fallen into a pit of ink, and there’s not enough water in the whole wide sea to wash you clean again, and not enough salt to cover your stink."
+
+  - sp: BENEDICK
+    o:
+      - "    Sir, sir, be patient."
+      - "For my part, I am so attired in wonder"
+      - "I know not what to say."
+    m:
+      - "Sir, sir, calm down. I’m so amazed by this, I don’t know what to say."
+
+  - sp: BEATRICE
+    o:
+      - "Oh, on my soul, my cousin is belied!"
+    m:
+      - "Oh, on my soul, my cousin has been slandered falsely!"
+
+  - sp: BENEDICK
+    o:
+      - "Lady, were you her bedfellow last night?"
+    m:
+      - "Lady, did you sleep in her room last night?"
+
+  - sp: BEATRICE
+    o:
+      - "No, truly not, although until last night"
+      - "I have this twelvemonth been her bedfellow."
+    m:
+      - "No, I didn’t, but I did every night for the past year."
+
+  - sp: LEONATO
+    o:
+      - "Confirmed, confirmed! Oh, that is stronger made"
+      - "Which was before barred up with ribs of iron!"
+      - "Would the two princes lie and Claudio lie,"
+      - "Who loved her so that, speaking of her foulness,"
+      - "Washed it with tears? Hence from her. Let her die."
+    m:
+      - "Then it’s confirmed! That’s even more proof, and the case against her was airtight already. Would the two princes and Claudio lie? Claudio, who loved her so much that talking about her wickedness made him weep?"
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "Hear me a little,"
+      - "For I have only silent been so long,"
+      - "And given way unto this course of fortune,"
+      - "By noting of the lady. I have marked"
+      - "A thousand blushing apparitions"
+      - "To start into her face, a thousand innocent shames"
+      - "In angel whiteness beat away those blushes,"
+      - "And in her eye there hath appeared a fire"
+      - "To burn the errors that these princes hold"
+      - "Against her maiden truth. Call me a fool,"
+      - "Trust not my reading nor my observations,"
+      - "Which with experimental seal doth warrant"
+      - "The tenor of my book; trust not my age,"
+      - "My reverence, calling, nor divinity,"
+      - "If this sweet lady lie not guiltless here"
+      - "Under some biting error."
+    m:
+      - "Listen to me a moment. I’ve only remained silent this whole time because I’ve been watching Hero. I’ve seen her begin to blush a thousand times, only to watch those blushes disappear a thousand times and an innocent paleness take over her face. And in her eyes I see a fire that would seem to burn away the lies the princes have told about her chastity. Call me a fool, don’t trust my observations—the truth of which is backed up by all my years of experience—don’t trust my age, my reputation, my position, and my holiness. You can doubt all these things if this sweet lady turns out to be guilty."
+
+  - sp: LEONATO
+    o:
+      - "    Friar, it cannot be."
+      - "Thou seest that all the grace that she hath left"
+      - "Is that she will not add to her damnation"
+      - "A sin of perjury. She not denies it."
+      - "Why seek’st thou then to cover with excuse"
+      - "That which appears in proper nakedness?"
+    m:
+      - "But she must be, Friar. You see that any morals she has left are preventing her from denying the charges: she doesn’t want to add perjury to her list of sins."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "Lady, what man is he you are accused of?"
+    m:
+      - "Lady, who do they accuse you of having taken as your lover?"
+
+  - sp: HERO
+    o:
+      - "They know that do accuse me. I know none."
+      - "If I know more of any man alive"
+      - "Than that which maiden modesty doth warrant,"
+      - "Let all my sins lack mercy!—O my father,"
+      - "Prove you that any man with me conversed"
+      - "At hours unmeet, or that I yesternight"
+      - "Maintained the change of words with any creature,"
+      - "Refuse me, hate me, torture me to death!"
+    m:
+      - "You should ask them. I don’t know who they’re talking about. If I’ve been with a man in any improper way, let all my sins be punished! Oh, father, if you yourself can prove that I talked with a man at an indecent hour, or indeed that I spoke to any creature last night, you can disown me, hate me, and torture me to death!"
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "There is some strange misprision in the princes."
+    m:
+      - "The princes are under some strange misunderstanding."
+
+  - sp: BENEDICK
+    o:
+      - "Two of them have the very bent of honor,"
+      - "And if their wisdoms be misled in this,"
+      - "The practice of it lives in John the Bastard,"
+      - "Whose spirits toil in frame of villainies."
+    m:
+      - "Two of them are completely honorable, and if they have been tricked in this, we must blame John the Bastard, who lives to create conflict."
+
+  - sp: LEONATO
+    o:
+      - "I know not. If they speak but truth of her,"
+      - "These hands shall tear her; if they wrong her honor,"
+      - "The proudest of them shall well hear of it."
+      - "Time hath not yet so dried this blood of mine"
+      - "Nor age so eat up my invention"
+      - "Nor fortune made such havoc of my means"
+      - "Nor my bad life reft me so much of friends"
+      - "But they shall find, awaked in such a kind,"
+      - "Both strength of limb and policy of mind,"
+      - "Ability in means and choice of friends,"
+      - "To quit me of them throughly."
+    m:
+      - "I don’t know. If they have spoken the truth about Hero, I will tear her apart with my bare hands. But if they have accused her falsely, even the greatest of them will have to deal with me. Age hasn’t dried up my body or eroded my intelligence so much, and luck hasn’t robbed me of so much of my fortune, and my bad ways haven’t deprived me of so many friends, that they won’t find me ready to seek revenge both physically and mentally, with money and friends at my disposal."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "    Pause awhile,"
+      - "And let my counsel sway you in this case."
+      - "Your daughter here the princes left for dead."
+      - "Let her awhile be secretly kept in"
+      - "And publish it that she is dead indeed."
+      - "Maintain a mourning ostentation,"
+      - "And on your family’s old monument"
+      - "Hang mournful epitaphs and do all rites"
+      - "That appertain unto a burial."
+    m:
+      - "Hold on a moment, and listen to my advice. The princes left your daughter here for dead. Hide her for a while in your house, and tell everyone that she has, in fact, died. Make a bug show of mourning for her, hang sad epitaphs up at your family’s tomb, and perform all the appropriate burial ceremonies."
+
+  - sp: LEONATO
+    o:
+      - "What shall become of this? What will this do?"
+    m:
+      - "Why should we do this? What will this do?"
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "Marry, this, well carried, shall on her behalf"
+      - "Change slander to remorse. That is some good."
+      - "But not for that dream I on this strange course,"
+      - "But on this travail look for greater birth."
+      - "She, dying, as it must so be maintained,"
+      - "Upon the instant that she was accused,"
+      - "Shall be lamented, pitied and excused"
+      - "Of every hearer. For it so falls out"
+      - "That what we have we prize not to the worth"
+      - "Whiles we enjoy it, but being lacked and lost,"
+      - "Why then we rack the value, then we find"
+      - "The virtue that possession would not show us"
+      - "Whiles it was ours. So will it fare with Claudio."
+      - "When he shall hear she died upon his words,"
+      - "The idea of her life shall sweetly creep"
+      - "Into his study of imagination,"
+      - "And every lovely organ of her life"
+      - "Shall come apparelled in more precious habit,"
+      - "More moving, delicate and full of life,"
+      - "Into the eye and prospect of his soul"
+      - "Than when she lived indeed. Then shall he mourn,"
+      - "If ever love had interest in his liver,"
+      - "And wish he had not so accused her,"
+      - "No, though he thought his accusation true."
+      - "Let this be so, and doubt not but success"
+      - "Will fashion the event in better shape"
+      - "Than I can lay it down in likelihood."
+      - "But if all aim but this be leveled false,"
+      - "The supposition of the lady’s death"
+      - "Will quench the wonder of her infamy."
+      - "And if it sort not well, you may conceal her,"
+      - "As best befits her wounded reputation,"
+      - "In some reclusive and religious life,"
+      - "Out of all eyes, tongues, minds, and injuries."
+    m:
+      - "Listen, if we do this correctly, the men who slandered Hero will feel remorse for her instead. That will be a good thing. But I have an even greater goal in mind. We’ll maintain that she died the instant she was accused, and everyone who hears this will grieve for her, pity her, and excuse her actions. That’s how it goes: we don’t value the things we have until we lose them, when we suddenly rack up their value and see all the virtues we were blind to when they were alive and with us. That’s how Claudio will respond. When he hears that she died from his words, his imagination will be sweetly overtaken by thoughts of her. In death, every aspect of her life will be got up more beautifully, and in his mind she will seem more moving, more delicate, and more lively even than when she was alive. Then, if he ever truly felt love, he’ll mourn and wish he hadn’t accused her—even though he believed his accusation to be true. Follow my plan, and trust that the actual events will play out even better than I am describing. And even if they don’t, at least Hero’s supposed death will stop the rumors of her infidelity. And if it doesn’t go well, then you can keep her hidden in a nunnery, the best place for someone with her kind of dirtied reputation—away from the public’s eyes, tongues, mind, and insults."
+
+  - sp: BENEDICK
+    o:
+      - "Signior Leonato, let the friar advise you."
+      - "And though you know my inwardness and love"
+      - "Is very much unto the Prince and Claudio,"
+      - "Yet, by mine honor, I will deal in this"
+      - "As secretly and justly as your soul"
+      - "Should with your body."
+    m:
+      - "Signior Leonato, listen to the friar’s plan. And even though you know I’m very close to the Prince and Claudio, I swear I’ll keep your counsel and deal with this secretly and justly."
+
+  - sp: LEONATO
+    o:
+      - "    Being that I flow in grief,"
+      - "The smallest twine may lead me."
+    m:
+      - "Because I’m drowning in my grief, I’ll grab onto the smallest piece of string dangled in front of me."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "’Tis well consented. Presently away,"
+      - "For to strange sores strangely they strain the cure.—"
+      - "Come, lady, die to live. This wedding day"
+      - "Perhaps is but prolonged. Have patience and endure."
+    m:
+      - "This is a good agreement. Now, let’s go. A strange disease requires a strange cure. Come, lady; you must die in order to live. Hopefully, your wedding day is only postponed. Have patience and endure."
+
+  - os: "Exeunt all but BENEDICK andBEATRICE"
+    ms: "Everyone but BENEDICK andBEATRICE exits."
+
+  - sp: BENEDICK
+    o:
+      - "Lady Beatrice, have you wept all this while?"
+    m:
+      - "Lady Beatrice, have you been crying this entire time?"
+
+  - sp: BEATRICE
+    o:
+      - "Yea, and I will weep a while longer."
+    m:
+      - "Yes, and I’ll keep crying a while longer."
+
+  - sp: BENEDICK
+    o:
+      - "I will not desire that."
+    m:
+      - "I don’t wish that on you."
+
+  - sp: BEATRICE
+    o:
+      - "You have no reason. I do it freely."
+    m:
+      - "You don’t have to; I do it of my own free will."
+
+  - sp: BENEDICK
+    o:
+      - "Surely I do believe your fair cousin is wronged."
+    m:
+      - "I really believe your cousin was falsely accused."
+
+  - sp: BEATRICE
+    o:
+      - "Ah, how much might the man deserve of me that would"
+      - "right her!"
+    m:
+      - "Oh, the man who avenged her could ask anything of me!"
+
+  - sp: BENEDICK
+    o:
+      - "Is there any way to show such friendship?"
+    m:
+      - "Is there any way I could show such friendship to you?"
+
+  - sp: BEATRICE
+    o:
+      - "A very even way, but no such friend."
+    m:
+      - "A very clear way, but there is no friend who will undertake it."
+
+  - sp: BENEDICK
+    o:
+      - "May a man do it?"
+    m:
+      - "Can a man do it?"
+
+  - sp: BEATRICE
+    o:
+      - "It is a man’s office, but not yours."
+    m:
+      - "It’s a job meant for a man, but not you."
+
+  - sp: BENEDICK
+    o:
+      - "I do love nothing in the world so well as you. Is not that"
+      - "strange?"
+    m:
+      - "There is nothing in the world that I love as much as you. Isn’t that strange?"
+
+  - sp: BEATRICE
+    o:
+      - "As strange as the thing I know not. It were as possible for"
+      - "me to say I loved nothing so well as you, but believe me not,"
+      - "and yet I lie not, I confess nothing, nor I deny nothing. I am"
+      - "sorry for my cousin."
+    m:
+      - "It’s as strange as this other thing which I don’t understand. I could just as easily say that there is nothing in the world that I love as much as you. But don’t believe me—though I’m not lying. I confess nothing, and I deny nothing. I feel awful for my cousin."
+
+  - sp: BENEDICK
+    o:
+      - "By my sword, Beatrice, thou lovest me."
+    m:
+      - "By my sword, Beatrice, you love me."
+
+  - sp: BEATRICE
+    o:
+      - "Do not swear, and eat it."
+    m:
+      - "Don’t swear like that and then go back and eat it later."
+
+  - sp: BENEDICK
+    o:
+      - "I will swear by it that you love me, and I will make him eat"
+      - "it that says I love not you."
+    m:
+      - "I’ll swear by my sword that you love me, too, and I’ll make any man who says that I don’t love you eat it."
+
+  - sp: BEATRICE
+    o:
+      - "Will you not eat your word?"
+    m:
+      - "But you won’t eat your words?"
+
+  - sp: BENEDICK
+    o:
+      - "With no sauce that can be devised to it. I protest I love thee."
+    m:
+      - "Not with any sauce they could provide for them. I swear, I love you."
+
+  - sp: BEATRICE
+    o:
+      - "Why then, God forgive me."
+    m:
+      - "Well then, God forgive me!"
+
+  - sp: BENEDICK
+    o:
+      - "What offense, sweet Beatrice?"
+    m:
+      - "Why, what have you done, sweet Beatrice?"
+
+  - sp: BEATRICE
+    o:
+      - "You have stayed me in a happy hour. I was about to protest"
+      - "I loved you."
+    m:
+      - "You got to me first. I was about to swear that I loved you."
+
+  - sp: BENEDICK
+    o:
+      - "And do it with all thy heart."
+    m:
+      - "Then do so, with all your heart."
+
+  - sp: BEATRICE
+    o:
+      - "I love you with so much of my heart that none is left to"
+      - "protest."
+    m:
+      - "I love you with so much of my heart that none of it is left to protest with."
+
+  - sp: BENEDICK
+    o:
+      - "Come, bid me do anything for thee."
+    m:
+      - "Come, ask me to do anything for you."
+
+  - sp: BEATRICE
+    o:
+      - "Kill Claudio."
+    m:
+      - "Kill Claudio."
+
+  - sp: BENEDICK
+    o:
+      - "Ha! Not for the wide world."
+    m:
+      - "Ha! I wouldn’t do that for the whole wide world."
+
+  - sp: BEATRICE
+    o:
+      - "You kill me to deny it. Farewell."
+    m:
+      - "Then, rejecting my request, you kill *me,* instead. Goodbye."
+
+  - os: "BEATRICE begins to exit"
+    ms: "BEATRICE begins to exit."
+
+  - sp: BENEDICK
+    o:
+      - "Tarry, sweet Beatrice."
+    m:
+      - "Wait, sweet Beatrice."
+
+  - sp: BEATRICE
+    o:
+      - "I am gone, though I am here. There is no love in you. Nay,"
+      - "I pray you let me go."
+    m:
+      - "My body waits here, but the rest of me is gone. You don’t really love me. I beg you to let me go."
+
+  - sp: BENEDICK
+    o:
+      - "Beatrice—"
+    m:
+      - "Beatrice—"
+
+  - sp: BEATRICE
+    o:
+      - "In faith, I will go."
+    m:
+      - "I swear, I’m going."
+
+  - sp: BENEDICK
+    o:
+      - "We’ll be friends first."
+    m:
+      - "Not until we part as friends."
+
+  - sp: BEATRICE
+    o:
+      - "You dare easier be friends with me than fight with mine"
+      - "enemy."
+    m:
+      - "How dare you try to be my friend when you refuse to fight my enemy."
+
+  - sp: BENEDICK
+    o:
+      - "Is Claudio thine enemy?"
+    m:
+      - "Is Claudio your enemy?"
+
+  - sp: BEATRICE
+    o:
+      - "Is he not approved in the height a villain, that hath"
+      - "slandered, scorned, dishonored my kinswoman? Oh, that I"
+      - "were a man! What, bear her in hand until they come to take"
+      - "hands and then, with public accusation, uncovered"
+      - "slander, unmitigated rancor—O God, that I were a man! I"
+      - "would eat his heart in the marketplace."
+    m:
+      - "Hasn’t he proven himself to be a great villain—slandering, scorning, and dishonoring my cousin? Oh, I wish I were a man! He pretended that everything was fine until the moment they were exchanging vows, and then—with public accusation, blatant slander, pure hatred—Oh God, if only I were a man! I would rip his heart out in public and eat it."
+
+  - sp: BENEDICK
+    o:
+      - "Hear me, Beatrice—"
+    m:
+      - "Listen to me, Beatrice—"
+
+  - sp: BEATRICE
+    o:
+      - "Talk with a man out at a window! A proper saying!"
+    m:
+      - "Talking with a man outside her bedroom window! A likely story!"
+
+  - sp: BENEDICK
+    o:
+      - "Nay, but Beatrice—"
+    m:
+      - "No, but Beatrice—"
+
+  - sp: BEATRICE
+    o:
+      - "Sweet Hero, she is wronged, she is slandered, she is"
+      - "undone."
+    m:
+      - "Sweet Hero, she’s been wronged, she’s been slandered, she’s been ruined."
+
+  - sp: BENEDICK
+    o:
+      - "Beat—"
+    m:
+      - "Beat—"
+
+  - sp: BEATRICE
+    o:
+      - "Princes and counties! Surely, a princely testimony, a goodly"
+      - "count, Count Comfect, a sweet gallant, surely! Oh, that I"
+      - "were a man for his sake! Or that I had any friend would be"
+      - "a man for my sake! But manhood is melted into curtsies,"
+      - "valor into compliment, and men are only turned into"
+      - "tongue, and trim ones too. He is now as valiant as Hercules"
+      - "that only tells a lie and swears it. I cannot be a man with"
+      - "wishing, therefore I will die a woman with grieving."
+    m:
+      - "Princes and counts! Oh, of course, it was all so proper and ceremonious—they gave a truly princely testimony. He’s a proper count, that Count Sugarplum, a sweet gentleman, for sure! Oh, if only I were a man! Or had a friend who would be a man for me! But there are no real men left. Their manliness has melted into pretty curtsies and fancy manners, and their bravery is spent on making clever compliments. All this conversing has turned men into tongues—and fancy ones, at that. The man who tells a lie and swears by it is now considered as brave as Hercules. I can’t make myself a man by wishing I were, so as a woman I’ll die, from grieving."
+
+  - sp: BENEDICK
+    o:
+      - "Tarry, good Beatrice. By this hand, I love thee."
+    m:
+      - "Wait, good Beatrice. I swear by this hand that I love you."
+
+  - sp: BEATRICE
+    o:
+      - "Use it for my love some other way than swearing by it."
+    m:
+      - "Don’t just swear by it; put your hand to some use that will prove you love me."
+
+  - sp: BENEDICK
+    o:
+      - "Think you in your soul the Count Claudio hath wronged"
+      - "Hero?"
+    m:
+      - "Do you honestly think, in your soul, that Claudio has wrongly accused Hero?"
+
+  - sp: BEATRICE
+    o:
+      - "Yea, as sure as I have a thought or a soul."
+    m:
+      - "Yes, as sure as I have a thought or a soul."
+
+  - sp: BENEDICK
+    o:
+      - "Enough, I am engaged. I will challenge him. I will kiss your"
+      - "hand, and so I leave you. By this hand, Claudio shall render"
+      - "me a dear account. As you hear of me, so think of me. Go"
+      - "comfort your cousin. I must say she is dead, and so,"
+      - "farewell."
+    m:
+      - "That’s enough for me, then. I’ll challenge him. I’ll kiss your hand, and with that I leave you. I swear that Claudio will pay dearly for this. Keep me in your thoughts and go comfort your cousin. I’ll go tell them that she’s dead. Goodbye."
+
+  - os: "Exeunt"
+    ms: "They exit."

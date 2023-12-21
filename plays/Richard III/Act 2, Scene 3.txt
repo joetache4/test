@@ -1,0 +1,172 @@
+play: Richard III
+title: Act 2, Scene 3
+group: 2
+order: 6
+text:
+  - os: "Enter one CITIZEN at one door, and another at the other"
+    ms: "Two CITIZENS enter through different doors."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "Good morrow, neighbor, whither away so fast?"
+    m:
+      - "Good morrow, neighbor, whither away so fast?"
+
+  - sp: SECOND CITIZEN
+    o:
+      - "I promise you I scarcely know myself."
+      - "Hear you the news abroad?"
+    m:
+      - "I’m telling you, I hardly know myself. Did you hear the news that’s going around?"
+
+  - sp: FIRST CITIZEN
+    o:
+      - "Yes, that the king is dead."
+    m:
+      - "Yes, that the king is dead."
+
+  - sp: SECOND CITIZEN
+    o:
+      - "Ill news, by ’r Lady. Seldom comes the better."
+      - "I fear, I fear, ’twill prove a giddy world."
+    m:
+      - "Bad news, by God. The news is always bad. But this news is bound to make the world go mad."
+
+  - os: "Enter THIRD CITIZEN"
+    ms: "A THIRD CITIZEN enters."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Neighbors, God speed."
+    m:
+      - "Neighbors, hello."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "    Give you good morrow, sir."
+    m:
+      - "Good day to you, sir."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Doth this news hold of good King Edward’s death?"
+    m:
+      - "Is it true that good King Edward has died?"
+
+  - sp: SECOND CITIZEN
+    o:
+      - "Ay, sir, it is too true, God help the while."
+    m:
+      - "Yes, sir, it’s all too true, God help us."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Then, masters, look to see a troublous world."
+    m:
+      - "Then, gentlemen, we can count on trouble."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "No, no, by God’s good grace, his son shall reign."
+    m:
+      - "No, no, with God’s help, his son will be king."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Woe to the land that’s governed by a child."
+    m:
+      - "It’s bad news when a country is ruled by a child."
+
+  - sp: SECOND CITIZEN
+    o:
+      - "In him there is a hope of government,"
+      - "Which, in his nonage, council under him,"
+      - "And, in his full and ripened years, himself,"
+      - "No doubt shall then, and till then, govern well."
+    m:
+      - "His counselors will govern as long as he’s a minor, and then he’ll take over. It shouldn’t go so badly."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "So stood the state when Henry the Sixth"
+      - "Was crowned in Paris but at nine months old."
+    m:
+      - "That’s how it was with Henry the Sixth, who was crowned in Paris when he was only nine months old."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Stood the state so? No, no, good friends, God wot,"
+      - "For then this land was famously enriched"
+      - "With politic grave counsel; then the king"
+      - "Had virtuous uncles to protect his Grace."
+    m:
+      - "Really? But at that point, the king had the benefit of excellent counselors. His uncles were good men and protected him."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "Why, so hath this, both by the father and mother."
+    m:
+      - "Well, this king has uncles too, on both his father and mother’s side."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Better it were they all came by his father,"
+      - "Or by the father there were none at all,"
+      - "For emulation who shall now be nearest"
+      - "Will touch us all too near if God prevent not."
+      - "O, full of danger is the duke of Gloucester,"
+      - "And the queen’s sons and brothers haught and proud,"
+      - "And were they to be ruled, and not to rule,"
+      - "This sickly land might solace as before."
+    m:
+      - "It would be better if they were all on his father’s side, or that there were none at all on his father’s side. As it is, the rivalry between his father’s and mother’s relatives over who will be closest to the king is likely to endanger everyone, if we’re not lucky.As it stands, there’s a struggle between the two sides for the prince’s attention. Richard, the duke of Gloucester, is very dangerous, and the queen’s sons and brothers are haughty and proud—it would be better for this ailing country if they were subjects, not rulers."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "Come, come, we fear the worst. All will be well."
+    m:
+      - "Come, come, we’re worrying about the worst-case scenario. I’m sure everything will be fine."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "When clouds are seen, wise men put on their cloaks;"
+      - "When great leaves fall, then winter is at hand;"
+      - "When the sun sets, who doth not look for night?"
+      - "Untimely storms make men expect a dearth."
+      - "All may be well; but if God sort it so,"
+      - "’Tis more than we deserve or I expect."
+    m:
+      - "When the day turns cloudy, wise men put on their coats. When leaves fall from the trees, it means winter has arrived. When the sun sets, who’s too stupid to recognize it’s night? When storms arrive early, you can expect the harvest will be damaged. So, if all turns out fine, as you say, it’s more than we deserve or I expect."
+
+  - sp: SECOND CITIZEN
+    o:
+      - "Truly, the hearts of men are full of fear."
+      - "Ye cannot reason almost with a man"
+      - "That looks not heavily and full of dread."
+    m:
+      - "It’s true, people are really worried. It’s hard to find a person who isn’t."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "Before the days of change, still is it so."
+      - "By a divine instinct, men’s minds mistrust"
+      - "Ensuing dangers, as by proof we see"
+      - "The water swell before a boist’rous storm."
+      - "But leave it all to God. Whither away?"
+    m:
+      - "It’s always like this in times of change. By some sort of deep instinct, we always know when danger is approaching, just as we know that a storm is coming when the sea swells. But leave it all to God. Where are you all off to?"
+
+  - sp: SECOND CITIZEN
+    o:
+      - "Marry, we were sent for to the justices."
+    m:
+      - "The court has sent for us."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "And so was I. I’ll bear you company."
+    m:
+      - "For me, too. I’ll go with you."
+
+  - os: "Exeunt"
+    ms: "They all exit."

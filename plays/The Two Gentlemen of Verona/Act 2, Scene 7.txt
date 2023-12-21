@@ -1,0 +1,225 @@
+play: Two Gentlemen of Verona
+title: Act 2, Scene 7
+group: 2
+order: 9
+text:
+  - os: "Enter JULIA and LUCETTA"
+    ms: "JULIA and LUCETTA enter."
+
+  - sp: JULIA
+    o:
+      - "Counsel, Lucetta. Gentle girl, assist me;"
+      - "And ev’n in kind love I do conjure thee,"
+      - "Who art the table wherein all my thoughts"
+      - "Are visibly charactered and engraved,"
+      - "To lesson me and tell me some good means"
+      - "How, with my honor, I may undertake"
+      - "A journey to my loving Proteus."
+    m:
+      - "I need your advice, Lucetta. Kind girl, help me. And even in kind love I ask you to help me. You are my drawing board where all my thoughts can be visibly laid out and arranged. Teach me and tell me a good way I can make a journey to my loving Proteus with my honor intact."
+
+  - sp: LUCETTA
+    o:
+      - "Alas, the way is wearisome and long!"
+    m:
+      - "Unfortunately, the way is exhausting and long!"
+
+  - sp: JULIA
+    o:
+      - "A true-devoted pilgrim is not weary"
+      - "To measure kingdoms with his feeble steps;"
+      - "Much less shall she that hath Love’s wings to fly,"
+      - "And when the flight is made to one so dear,"
+      - "Of such divine perfection, as Sir Proteus."
+    m:
+      - "A truly devoted traveler doesn’t fear crossing entire kingdoms with small steps. She who has Love’s wings to help her fly will get much less tired, especially when she makes the flight to one who so dear and of such divine perfection as Sir Proteus."
+
+  - sp: LUCETTA
+    o:
+      - "Better forbear till Proteus make return."
+    m:
+      - "It would be better if you waited until Proteus returns."
+
+  - sp: JULIA
+    o:
+      - "O, know’st thou not his looks are my soul’s food?"
+      - "Pity the dearth that I have pinèd in"
+      - "By longing for that food so long a time."
+      - "Didst thou but know the inly touch of love,"
+      - "Thou wouldst as soon go kindle fire with snow"
+      - "As seek to quench the fire of love with words."
+    m:
+      - "Oh, don’t you know that his looks are food for my soul? Pity the famine I’ve endured by being without that food for so long. If you only knew the inner touch of love, you would as soon try to start a fire with snow as you would try to snuff the love’s fire with words."
+
+  - sp: LUCETTA
+    o:
+      - "I do not seek to quench your love’s hot fire,"
+      - "But qualify the fire’s extreme rage,"
+      - "Lest it should burn above the bounds of reason."
+    m:
+      - "I do not seek to snuff your love’s hot fire but merely want to reduce the intensity of the fire so that it doesn’t burn out of your control."
+
+  - sp: JULIA
+    o:
+      - "The more thou damm’st it up, the more it burns."
+      - "The current that with gentle murmur glides,"
+      - "Thou know’st, being stopped, impatiently doth rage;"
+      - "But when his fair course is not hinderèd,"
+      - "He makes sweet music with th’ enameled stones,"
+      - "Giving a gentle kiss to every sedge"
+      - "He overtaketh in his pilgrimage,"
+      - "And so by many winding nooks he strays"
+      - "With willing sport to the wild ocean."
+      - "Then let me go, and hinder not my course."
+      - "I’ll be as patient as a gentle stream"
+      - "And make a pastime of each weary step,"
+      - "Till the last step have brought me to my love,"
+      - "And there I’ll rest, as after much turmoil"
+      - "A blessèd soul doth in Elysium."
+    m:
+      - "The more you try to smother the fire, the more it burns. A gentle current of water will rage turbulently if blocked, you know. But when the current isn’t hindered, it makes a sweet noise over the smooth, shiny stones, giving a gentle kiss to every blade of sedge grass that it passes over on its journey. And so it wanders past many curvy nooks as it heads playfully to the wild ocean. So let me go, and don’t hinder my course. I’ll be as patient as a gentle stream and enjoy each tiring step, until the last step has brought me to my love. There I’ll rest, just like a blessed soul rests in Elysium after a tumultuous life."
+
+  - sp: LUCETTA
+    o:
+      - "But in what habit will you go along?"
+    m:
+      - "But what clothing will you wear on your journey?"
+
+  - sp: JULIA
+    o:
+      - "Not like a woman, for I would prevent"
+      - "The loose encounters of lascivious men."
+      - "Gentle Lucetta, fit me with such weeds"
+      - "As may beseem some well-reputed page."
+    m:
+      - "I won’t dress like a woman so that I can prevent the shameless sexual advances of lustful men. Kind Lucetta, outfit me with clothing appropriate for a young man from a good family."
+
+  - sp: LUCETTA
+    o:
+      - "Why, then, your ladyship must cut your hair."
+    m:
+      - "Well, then, your ladyship must cut your hair."
+
+  - sp: JULIA
+    o:
+      - "No, girl, I’ll knit it up in silken strings"
+      - "With twenty odd-conceited true-love knots."
+      - "To be fantastic may become a youth"
+      - "Of greater time than I shall show to be."
+    m:
+      - "No, girl, I’ll tie it up in strange knots with silk ribbons. Fancy frills would look more appropriate on a young man who is slightly older than I’ll appear to be."
+
+  - sp: LUCETTA
+    o:
+      - "What fashion, madam, shall I make your breeches?"
+    m:
+      - "In what style, madame, should I make your pants?"
+
+  - sp: JULIA
+    o:
+      - "That fits as well as “Tell me, good my lord,"
+      - "What compass will you wear your farthingale?”"
+      - "Why, even what fashion thou best likes, Lucetta."
+    m:
+      - "Any style that won’t make men ask, “Tell me, good lord, how big around is the hoop in your hoop skirt?” Why, you should make them in whatever style you like best, Lucetta."
+
+  - sp: LUCETTA
+    o:
+      - "You must needs have them with a codpiece, madam."
+    m:
+      - "You’ll need to wear a cup in your crotch, madame."
+
+  - sp: JULIA
+    o:
+      - "Out, out, Lucetta! That will be ill-favored."
+    m:
+      - "Not so, Lucetta! That would be ugly."
+
+  - sp: LUCETTA
+    o:
+      - "A round hose, madam, now’s not worth a pin"
+      - "Unless you have a codpiece to stick pins on."
+    m:
+      - "Tight leggings, madame, won’t be much of a disguise unless you wear a cup."
+
+  - sp: JULIA
+    o:
+      - "Lucetta, as thou lov’st me, let me have"
+      - "What thou think’st meet and is most mannerly."
+      - "But tell me, wench, how will the world repute me"
+      - "For undertaking so unstaid a journey?"
+      - "I fear me it will make me scandalized."
+    m:
+      - "Lucetta, if you love me, let me have whatever you think is the most appropriate and fitting. But tell me, girl, what will people think of me for going on such a risky journey? I’m afraid it would make others think less of me."
+
+  - sp: LUCETTA
+    o:
+      - "If you think so, then stay at home and go not."
+    m:
+      - "If that’s what you think, then stay home and don’t go."
+
+  - sp: JULIA
+    o:
+      - "Nay, that I will not."
+    m:
+      - "No, I won’t stay."
+
+  - sp: LUCETTA
+    o:
+      - "Then never dream on infamy, but go."
+      - "If Proteus like your journey when you come,"
+      - "No matter who’s displeased when you are gone."
+      - "I fear me he will scarce be pleased withal."
+    m:
+      - "Then go, and don’t worry what others might say. If Proteus is happy with your journey it doesn’t matter who’s displeased when they find out you’ve left. I’m afraid, though, that he won’t be pleased."
+
+  - sp: JULIA
+    o:
+      - "That is the least, Lucetta, of my fear."
+      - "A thousand oaths, an ocean of his tears,"
+      - "And instances of infinite of love,"
+      - "Warrant me welcome to my Proteus."
+    m:
+      - "That is the least of my fears, Lucetta. A thousand oaths, an ocean of tears he cried, and many examples of his infinite love for me guarantee that Proteus will welcome me."
+
+  - sp: LUCETTA
+    o:
+      - "All these are servants to deceitful men."
+    m:
+      - "These are the tricks of deceitful men."
+
+  - sp: JULIA
+    o:
+      - "Base men that use them to so base effect!"
+      - "But truer stars did govern Proteus’ birth;"
+      - "His words are bonds, his oaths are oracles,"
+      - "His love sincere, his thoughts immaculate,"
+      - "His tears pure messengers sent from his heart,"
+      - "His heart as far from fraud as heaven from earth."
+    m:
+      - "Crude men who use them for crude reasons! But more honest stars were in the sky when Proteus was born. He carries out what he says he will, his oaths are prophecies, his love is sincere, his thoughts are pure, his tears are honest messengers sent from his heart, and his heart is as far from lying as heaven is from earth."
+
+  - sp: LUCETTA
+    o:
+      - "Pray heaven he prove so when you come to him!"
+    m:
+      - "I pray to God he proves to be that way when you see him!"
+
+  - sp: JULIA
+    o:
+      - "Now, as thou lov’st me, do him not that wrong"
+      - "To bear a hard opinion of his truth."
+      - "Only deserve my love by loving him,"
+      - "And presently go with me to my chamber"
+      - "To take a note of what I stand in need of"
+      - "To furnish me upon my longing journey."
+      - "All that is mine I leave at thy dispose,"
+      - "My goods, my lands, my reputation;"
+      - "Only, in lieu thereof, dispatch me hence."
+      - "Come, answer not, but to it presently!"
+      - "I am impatient of my tarriance."
+    m:
+      - "Now, if you love me, don’t wrong him by doubting his honesty. Earn my love by loving him, and go with me right now to my bedroom to take note of what other items I need for my lovesick journey. All that I own I leave in your care, including my goods, my lands, and my reputation. Now help me leave right away. Come, don’t say anything, but let’s go immediately. I’m impatient from the delay."
+
+  - os: "Exeunt"
+    ms: "They exit."

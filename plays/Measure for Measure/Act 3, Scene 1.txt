@@ -1,0 +1,689 @@
+play: Measure for Measure
+title: Act 3, Scene 1
+group: 3
+order: 8
+text:
+  - os: "A room in the prison."
+    ms: "A room in the prison."
+
+  - os: "Enter DUKE VINCENTIO disguised as before, CLAUDIO, and Provost"
+    ms: "DUKE VINCENTIO, disguised as before, enters with CLAUDIO and the Provost."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "So then you hope of pardon from Lord Angelo?"
+    m:
+      - "So, you hope for a pardon from Lord Angelo?"
+
+  - sp: CLAUDIO
+    o:
+      - "The miserable have no other medicine"
+      - "But only hope:"
+      - "I’ve hope to live, and am prepared to die."
+    m:
+      - "Hope is the only medicine miserable people have. I hope to live, and am prepared to die."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Be absolute for death; either death or life"
+      - "Shall thereby be the sweeter. Reason thus with life:"
+      - "If I do lose thee, I do lose a thing"
+      - "That none but fools would keep: a breath thou art,"
+      - "Servile to all the skyey influences,"
+      - "That dost this habitation, where thou keep’st,"
+      - "Hourly afflict: merely, thou art death’s fool;"
+      - "For him thou labour’st by thy flight to shun"
+      - "And yet runn’st toward him still. Thou art not noble;"
+      - "For all the accommodations that thou bear’st"
+      - "Are nursed by baseness. Thou’rt by no means valiant;"
+      - "For thou dost fear the soft and tender fork"
+      - "Of a poor worm. Thy best of rest is sleep,"
+      - "And that thou oft provokest; yet grossly fear’st"
+      - "Thy death, which is no more. Thou art not thyself;"
+      - "For thou exist’st on many a thousand grains"
+      - "That issue out of dust. Happy thou art not;"
+      - "For what thou hast not, still thou strivest to get,"
+      - "And what thou hast, forget’st. Thou art not certain;"
+      - "For thy complexion shifts to strange effects,"
+      - "After the moon. If thou art rich, thou’rt poor;"
+      - "For, like an ass whose back with ingots bows,"
+      - "Thou bear’s thy heavy riches but a journey,"
+      - "And death unloads thee. Friend hast thou none;"
+      - "For thine own bowels, which do call thee sire,"
+      - "The mere effusion of thy proper loins,"
+      - "Do curse the gout, serpigo, and the rheum,"
+      - "For ending thee no sooner. Thou hast nor youth nor age,"
+      - "But, as it were, an after-dinner’s sleep,"
+      - "Dreaming on both; for all thy blessed youth"
+      - "Becomes as aged, and doth beg the alms"
+      - "Of palsied eld; and when thou art old and rich,"
+      - "Thou hast neither heat, affection, limb, nor beauty,"
+      - "To make thy riches pleasant. What’s yet in this"
+      - "That bears the name of life? Yet in this life"
+      - "Lie hid moe thousand deaths: yet death we fear,"
+      - "That makes these odds all even."
+    m:
+      - "Be ready to die; then either death or life will be all the sweeter. Tell life this: if I lose you, I lose something that only fools would want to keep. You’re just a breath, subject to all the changes of weather that hourly buffet the body you occupy. You’re simply death’s dupe, constantly struggling to run away from him, while all the while you’re running toward him. You’re not noble, because all your civilized comforts come from lowly plants and animals. You’re by no means brave, because the forked tongue of a little snake scares you. Sleep is your best way to rest, and you do that a lot, yet you stupidly fear death, which is basically the same thing. You’re not a single being, because you’re composed of thousands of grains of dust. You’re not happy, because you’re always trying to get what you don’t have, and what you do have, you forget about. You’re unstable, your moods changing as often as the phases of the moon. If you’re rich, you’re actually poor—like an ass staggering under a load of gold bars, you’re just carrying your heavy wealth for a period, and you lose that wealth when you die. You don’t have any friends, for even your children—the offspring of your own loins—curse the gout, skin rashes, and colds for not carrying you off sooner. You’re neither old or young, but always suspended in a sort of mid-afternoon nap, because when young, you’re like an old beggar, wheedling money from your feeble elders. And when you’re old and rich yourself, you have neither the passion, love, agility, or beauty to enjoy your wealth. So, what in all this is worth living for? Life hides more than a thousand deaths. Yet it’s death, which fixes all these problems, that we fear."
+
+  - sp: CLAUDIO
+    o:
+      - "I humbly thank you."
+      - "To sue to live, I find I seek to die;"
+      - "And, seeking death, find life: let it come on."
+    m:
+      - "I humbly thank you. In looking to live, I find I actually seek to die, and by seeking death, I find life. Let death come."
+
+  - sp: ISABELLA
+    o:
+      - "*(Within)* What, ho! Peace here; grace and good company!"
+    m:
+      - "*(offstage)* Hello, there! Peace, grace, and good company to everyone here!"
+
+  - sp: PROVOST
+    o:
+      - "Who’s there? come in: the wish deserves a welcome."
+    m:
+      - "Who’s there? Come in. That wish deserves a welcome."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Dear sir, ere long I’ll visit you again."
+    m:
+      - "Dear sir, I’ll visit you again soon."
+
+  - sp: CLAUDIO
+    o:
+      - "Most holy sir, I thank you."
+    m:
+      - "Most holy sir, thank you."
+
+  - os: "Enter ISABELLA"
+    ms: "ISABELLA enters."
+
+  - sp: ISABELLA
+    o:
+      - "My business is a word or two with Claudio."
+    m:
+      - "My business is a word or two with Claudio."
+
+  - sp: PROVOST
+    o:
+      - "And very welcome. Look, signior, here’s your sister."
+    m:
+      - "And very welcome. Look, signor, here’s your sister."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Provost, a word with you."
+    m:
+      - "Provost, a word with you."
+
+  - sp: PROVOST
+    o:
+      - "As many as you please."
+    m:
+      - "As many as you please."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Bring me to hear them speak, where I may be concealed."
+    m:
+      - "Take me to a place where I can hide and overhear them."
+
+  - os: "Exeunt DUKE VINCENTIO and Provost"
+    ms: "DUKE VINCENTIO and Provost conceal themselves."
+
+  - sp: CLAUDIO
+    o:
+      - "Now, sister, what’s the comfort?"
+    m:
+      - "Now, sister, what’s the good word?"
+
+  - sp: ISABELLA
+    o:
+      - "Why,"
+      - "As all comforts are; most good, most good indeed."
+      - "Lord Angelo, having affairs to heaven,"
+      - "Intends you for his swift ambassador,"
+      - "Where you shall be an everlasting leiger:"
+      - "Therefore your best appointment make with speed;"
+      - "To-morrow you set on."
+    m:
+      - "Why, as all good words are—very good indeed. Lord Angelo has business with heaven, and he’s going to make you his ambassador there—an eternal appointment. So get ready, quickly. Tomorrow you set off."
+
+  - sp: CLAUDIO
+    o:
+      - "Is there no remedy?"
+    m:
+      - "Is there no way out?"
+
+  - sp: ISABELLA
+    o:
+      - "None, but such remedy as, to save a head,"
+      - "To cleave a heart in twain."
+    m:
+      - "None, except a way that would save his head by breaking my heart in two."
+
+  - sp: CLAUDIO
+    o:
+      - "But is there any?"
+    m:
+      - "But is there any?"
+
+  - sp: ISABELLA
+    o:
+      - "Yes, brother, you may live:"
+      - "There is a devilish mercy in the judge,"
+      - "If you’ll implore it, that will free your life,"
+      - "But fetter you till death."
+    m:
+      - "Yes, brother, you can live. If you beg him, the judge will offer a devilish sort of mercy that will free you, yet chain you until death."
+
+  - sp: CLAUDIO
+    o:
+      - "Perpetual durance?"
+    m:
+      - "Lifetime imprisonment?"
+
+  - sp: ISABELLA
+    o:
+      - "Ay, just; perpetual durance, a restraint,"
+      - "Though all the world’s vastidity you had,"
+      - "To a determined scope."
+    m:
+      - "Yes, exactly. A type of lifetime imprisonment that would limit your movements, even if you had the freedom to roam the entire world."
+
+  - sp: CLAUDIO
+    o:
+      - "But in what nature?"
+    m:
+      - "But what type?"
+
+  - sp: ISABELLA
+    o:
+      - "In such a one as, you consenting to’t,"
+      - "Would bark your honour from that trunk you bear,"
+      - "And leave you naked."
+    m:
+      - "The type that, if you agreed to it, would strip your honor from your body like bark from a tree trunk, and leave you exposed to shame."
+
+  - sp: CLAUDIO
+    o:
+      - "Let me know the point."
+    m:
+      - "Get to the point."
+
+  - sp: ISABELLA
+    o:
+      - "O, I do fear thee, Claudio; and I quake,"
+      - "Lest thou a feverous life shouldst entertain,"
+      - "And six or seven winters more respect"
+      - "Than a perpetual honour. Darest thou die?"
+      - "The sense of death is most in apprehension;"
+      - "And the poor beetle, that we tread upon,"
+      - "In corporal sufferance finds a pang as great"
+      - "As when a giant dies."
+    m:
+      - "Oh, I’m afraid of you, Claudio. I tremble to think you would cherish a wild existence and would value six or seven years of life more than everlasting honor. Do you dare to die? The worst part of death is anticipating it. A beetle we step on suffers as much as a giant when it dies."
+
+  - sp: CLAUDIO
+    o:
+      - "Why give you me this shame?"
+      - "Think you I can a resolution fetch"
+      - "From flowery tenderness? If I must die,"
+      - "I will encounter darkness as a bride,"
+      - "And hug it in mine arms."
+    m:
+      - "Why are you shaming me like this? Do you think I can summon my resolve from flowery, comforting speeches? If I have to die, I will meet the darkness like a bride, and hug it in my arms."
+
+  - sp: ISABELLA
+    o:
+      - "There spake my brother; there my father’s grave"
+      - "Did utter forth a voice. Yes, thou must die:"
+      - "Thou art too noble to conserve a life"
+      - "In base appliances. This outward-sainted deputy,"
+      - "Whose settled visage and deliberate word"
+      - "Nips youth i’ the head and follies doth emmew"
+      - "As falcon doth the fowl, is yet a devil"
+      - "His filth within being cast, he would appear"
+      - "A pond as deep as hell."
+    m:
+      - "Now, that’s my brother talking—like my father speaking from his grave. Yes, you must die. You’re too noble to save yourself in a shameful way. This seemingly saintly deputy, whose composed face and carefully calculated words target and attack young people like some bird of prey, is really a devil. If you drained him of all the filth inside him, you’d reveal a pond as deep as hell."
+
+  - sp: CLAUDIO
+    o:
+      - "The prenzie Angelo!"
+    m:
+      - "The “priestly” Angelo!"
+
+  - sp: ISABELLA
+    o:
+      - "O, ’tis the cunning livery of hell,"
+      - "The damned’st body to invest and cover"
+      - "In prenzie guards! Dost thou think, Claudio?"
+      - "If I would yield him my virginity,"
+      - "Thou mightst be freed."
+    m:
+      - "Oh, it’s a cunning disguise from hell, to cloak and cover the wickedest people in priestly clothes. Can you believe it, Claudio? If I gave him my virginity, you’d be freed."
+
+  - sp: CLAUDIO
+    o:
+      - "O heavens! it cannot be."
+    m:
+      - "Oh, heavens! It can’t be."
+
+  - sp: ISABELLA
+    o:
+      - "Yes, he would give’t thee, from this rank offence,"
+      - "So to offend him still. This night’s the time"
+      - "That I should do what I abhor to name,"
+      - "Or else thou diest to-morrow."
+    m:
+      - "Yes, in exchange for this awful sin, he’d free you to keep on sinning. Tonight’s the time I have to do something I hate to even pronounce, or else you die tomorrow."
+
+  - sp: CLAUDIO
+    o:
+      - "Thou shalt not do’t."
+    m:
+      - "You mustn’t do it."
+
+  - sp: ISABELLA
+    o:
+      - "O, were it but my life,"
+      - "I’ld throw it down for your deliverance"
+      - "As frankly as a pin."
+    m:
+      - "Oh, if it were just my life, I’d throw it away like a pin to save you."
+
+  - sp: CLAUDIO
+    o:
+      - "Thanks, dear Isabel."
+    m:
+      - "Thanks, dear Isabel."
+
+  - sp: ISABELLA
+    o:
+      - "Be ready, Claudio, for your death tomorrow."
+    m:
+      - "Be ready, Claudio, for your death tomorrow."
+
+  - sp: CLAUDIO
+    o:
+      - "Yes. Has he affections in him,"
+      - "That thus can make him bite the law by the nose,"
+      - "When he would force it? Sure, it is no sin,"
+      - "Or of the deadly seven, it is the least."
+    m:
+      - "Yes. Is his lust so great that it causes him to make a mockery of the law, even while he’s enforcing it? Of course, it isn’t a sin, or anyway it’s the least of the seven deadly sins."
+
+  - sp: ISABELLA
+    o:
+      - "Which is the least?"
+    m:
+      - "Which is the least?"
+
+  - sp: CLAUDIO
+    o:
+      - "If it were damnable, he being so wise,"
+      - "Why would he for the momentary trick"
+      - "Be perdurably fined? O Isabel!"
+    m:
+      - "If it were a damnable thing, why—if he’s so wise—would he risk being eternally punished for a momentary pleasure? Oh, Isabel!"
+
+  - sp: ISABELLA
+    o:
+      - "What says my brother?"
+    m:
+      - "What are you saying?"
+
+  - sp: CLAUDIO
+    o:
+      - "Death is a fearful thing."
+    m:
+      - "Death is a fearful thing."
+
+  - sp: ISABELLA
+    o:
+      - "And shamed life a hateful."
+    m:
+      - "And a disgraced life a hateful one."
+
+  - sp: CLAUDIO
+    o:
+      - "Ay, but to die, and go we know not where;"
+      - "To lie in cold obstruction and to rot;"
+      - "This sensible warm motion to become"
+      - "A kneaded clod; and the delighted spirit"
+      - "To bathe in fiery floods, or to reside"
+      - "In thrilling region of thick-ribbed ice;"
+      - "To be imprison’d in the viewless winds,"
+      - "And blown with restless violence round about"
+      - "The pendent world; or to be worse than worst"
+      - "Of those that lawless and incertain thought"
+      - "Imagine howling: ’tis too horrible!"
+      - "The weariest and most loathed worldly life"
+      - "That age, ache, penury and imprisonment"
+      - "Can lay on nature is a paradise"
+      - "To what we fear of death."
+    m:
+      - "Yes, but to die, and go who knows where. To lie cold and congealing, and to rot—this conscious, warm body to become a compact lump of earth, and the vast spirit to swim in hell’s fiery floods or reside in a frigid land of thick ice. To be confined inside invisible winds and perpetually, violently blown all around the world hanging in space. Or to be worse off than one of those tortured souls howling from punishment of sinful thoughts—it’s too horrible! The weariest, most hateful life that old age, aches, poverty and imprisonment can inflict on us is paradise compared to our fears of death."
+
+  - sp: ISABELLA
+    o:
+      - "Alas, alas!"
+    m:
+      - "Oh, no!"
+
+  - sp: CLAUDIO
+    o:
+      - "Sweet sister, let me live:"
+      - "What sin you do to save a brother’s life,"
+      - "Nature dispenses with the deed so far"
+      - "That it becomes a virtue."
+    m:
+      - "Sweet sister, let me live. Any sin you commit to save a brother’s life, nature will pardon as though it were a good deed."
+
+  - sp: ISABELLA
+    o:
+      - "O you beast!"
+      - "O faithless coward! O dishonest wretch!"
+      - "Wilt thou be made a man out of my vice?"
+      - "Is’t not a kind of incest, to take life"
+      - "From thine own sister’s shame? What should I think?"
+      - "Heaven shield my mother play’d my father fair!"
+      - "For such a warped slip of wilderness"
+      - "Ne’er issued from his blood. Take my defiance!"
+      - "Die, perish! Might but my bending down"
+      - "Reprieve thee from thy fate, it should proceed:"
+      - "I’ll pray a thousand prayers for thy death,"
+      - "No word to save thee."
+    m:
+      - "Oh, you beast! Treacherous coward! Shameful wretch! Will you be given your life as a result of my vice? Isn’t it a kind of incest, to gain life from your own sister’s shame? What should I think? God forbid, my mother must have cheated on my father, for such a twisted son as you never could have sprung from his blood! I renounce you—die, perish! Even if all I had to do was pray on bended knees to stop your execution, I’d let it happen. I’ll pray a thousand prayers for your death, and not one word to save you."
+
+  - sp: CLAUDIO
+    o:
+      - "Nay, hear me, Isabel."
+    m:
+      - "No, listen to me, Isabel."
+
+  - sp: ISABELLA
+    o:
+      - "O, fie, fie, fie!"
+      - "Thy sin’s not accidental, but a trade."
+      - "Mercy to thee would prove itself a bawd:"
+      - "’Tis best thou diest quickly."
+    m:
+      - "Oh, shame, shame, shame! Your sin was no one-time accident, but a habit. Granting you mercy would be like pimping, enabling you to do it again. It’s best that you die right away."
+
+  - sp: CLAUDIO
+    o:
+      - "O hear me, Isabella!"
+    m:
+      - "Oh, listen to me, Isabella!"
+
+  - os: "Re-enter DUKE VINCENTIO"
+    ms: "DUKE VINCENTIO re-enters, from his hiding place."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Vouchsafe a word, young sister, but one word."
+    m:
+      - "Permit me to say a word, young sister, just one word."
+
+  - sp: ISABELLA
+    o:
+      - "What is your will?"
+    m:
+      - "What do you want?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Might you dispense with your leisure, I would by and"
+      - "by have some speech with you: the satisfaction I"
+      - "would require is likewise your own benefit."
+    m:
+      - "If you can spare the time, I’d like to talk with you in a little while. You’d be doing yourself a favor as well as me."
+
+  - sp: ISABELLA
+    o:
+      - "I have no superfluous leisure; my stay must be"
+      - "stolen out of other affairs; but I will attend you awhile."
+    m:
+      - "I don’t have any spare time, but I’ll wait for you a little while."
+
+  - os: "Walks apart"
+    ms: "She moves off."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Son, I have overheard what hath passed between you"
+      - "and your sister. Angelo had never the purpose to"
+      - "corrupt her; only he hath made an essay of her"
+      - "virtue to practise his judgment with the disposition"
+      - "of natures: she, having the truth of honour in her,"
+      - "hath made him that gracious denial which he is most"
+      - "glad to receive. I am confessor to Angelo, and I"
+      - "know this to be true; therefore prepare yourself to"
+      - "death: do not satisfy your resolution with hopes"
+      - "that are fallible: tomorrow you must die; go to"
+      - "your knees and make ready."
+    m:
+      - "Son, I overheard what happened between you and your sister. Angelo never meant to seduce her. He was only testing her virtue, to test his ability to judge character. Being a person of integrity, she virtuously refused him, and he was happy to hear it. I’m Angelo’s confessor, so I know this is true. Therefore, prepare yourself for death. Don’t prop yourself up with false hopes. Tomorrow you must die. Fall to your knees and prepare for confession."
+
+  - sp: CLAUDIO
+    o:
+      - "Let me ask my sister pardon. I am so out of love"
+      - "with life that I will sue to be rid of it."
+    m:
+      - "Let me ask my sister to forgive me. I’m so out of love with life that I’ll pray to be rid of it."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Hold you there: farewell."
+    m:
+      - "Maintain that attitude. Farewell."
+
+  - os: "Exit CLAUDIO"
+    ms: "CLAUDIO exits."
+
+  - o:
+      - "Provost, a word with you!"
+    m:
+      - "Provost, a word with you!"
+
+  - os: "Re-enter Provost"
+    ms: "The Provost re-enters."
+
+  - sp: PROVOST
+    o:
+      - "What’s your will, father*(?)*"
+    m:
+      - "What is it, father?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "That now you are come, you will be gone. Leave me"
+      - "awhile with the maid: my mind promises with my"
+      - "habit no loss shall touch her by my company."
+    m:
+      - "Now that you’ve come over, you should go away. Leave me with the girl awhile. My intentions and the fact that I’m a friar guarantee that nothing bad will happen to her."
+
+  - sp: PROVOST
+    o:
+      - "In good time."
+    m:
+      - "Very well."
+
+  - os: "Exit Provost. ISABELLA comes forward"
+    ms: "The Provost exits. ISABELLA comes forward."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "The hand that hath made you fair hath made you good:"
+      - "the goodness that is cheap in beauty makes beauty"
+      - "brief in goodness; but grace, being the soul of"
+      - "your complexion, shall keep the body of it ever"
+      - "fair. The assault that Angelo hath made to you,"
+      - "fortune hath conveyed to my understanding; and, but"
+      - "that frailty hath examples for his falling, I should"
+      - "wonder at Angelo. How will you do to content this"
+      - "substitute, and to save your brother?"
+    m:
+      - "He who made you lovely made you good, as well. Beauty has a cheap kind of goodness, which is why beauty doesn’t last. But virtue lies at the heart of your character, so you will always be beautiful. I’ve heard about Angelo’s sexual advances to you, and if there weren’t other examples of such lapses, I’d be really surprised. What are you going to do to satisfy this stand-in and save your brother?"
+
+  - sp: ISABELLA
+    o:
+      - "I am now going to resolve him: I had rather my"
+      - "brother die by the law than my son should be"
+      - "unlawfully born. But, O, how much is the good duke"
+      - "deceived in Angelo! If ever he return and I can"
+      - "speak to him, I will open my lips in vain, or"
+      - "discover his government."
+    m:
+      - "I’m going now to give him my answer: I’d rather my brother die by legitimate execution than have an illegitimate baby. But, oh, how wrong the good duke was about Angelo! If he ever returns and I can speak to him, the first words I speak will be to expose Angelo’s way of governing."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "That shall not be much ami Yet, as the matter"
+      - "now stands, he will avoid your accusation; he made"
+      - "trial of you only. Therefore fasten your ear on my"
+      - "advisings: to the love I have in doing good a"
+      - "remedy presents itself. I do make myself believe"
+      - "that you may most uprighteously do a poor wronged"
+      - "lady a merited benefit; redeem your brother from"
+      - "the angry law; do no stain to your own gracious"
+      - "person; and much please the absent duke, if"
+      - "peradventure he shall ever return to have hearing of"
+      - "this business."
+    m:
+      - "That’s not a bad idea. But, as the matter now stands, he’ll deny your accusation. He’ll say he was only testing you. So, listen to my advice. My delight in doing good gives me an idea for a solution. I’m convinced there’s a way you righteously can do a poor wronged lady some well-deserved good, save your brother from the cruel law, keep your own gracious self pure, and greatly please the absent duke, if he ever returns to hear about all this."
+
+  - sp: ISABELLA
+    o:
+      - "Let me hear you speak farther. I have spirit to do"
+      - "anything that appears not foul in the truth of my spirit."
+    m:
+      - "Tell me more. I have the courage to do anything, as long as it doesn’t strike me as wrong."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Virtue is bold, and goodness never fearful. Have"
+      - "you not heard speak of Mariana, the sister of"
+      - "Frederick the great soldier who miscarried at sea?"
+    m:
+      - "Virtue is bold, and goodness is never afraid. Have you ever heard of Mariana, the sister of Frederick, the great soldier who died at sea?"
+
+  - sp: ISABELLA
+    o:
+      - "I have heard of the lady, and good words went with her name."
+    m:
+      - "I’ve heard of the lady, and people always spoke well of her."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "She should this Angelo have married; was affianced"
+      - "to her by oath, and the nuptial appointed: between"
+      - "which time of the contract and limit of the"
+      - "solemnity, her brother Frederick was wrecked at sea,"
+      - "having in that perished vessel the dowry of his"
+      - "sister. But mark how heavily this befell to the"
+      - "poor gentlewoman: there she lost a noble and"
+      - "renowned brother, in his love toward her ever most"
+      - "kind and natural; with him, the portion and sinew of"
+      - "her fortune, her marriage-dowry; with both, her"
+      - "combinate husband, this well-seeming Angelo."
+    m:
+      - "She was supposed to marry this Angelo. They were engaged, and the wedding day was set. But before the ceremony, her brother Frederick was lost at sea, in the ship that was carrying his sister’s dowry. The poor woman suffered a heavy blow. She lost a famous, noble brother, who loved her dearly and devotedly. She lost with him her dowry, the bulk of her fortune, and with both, she lost her husband-to-be, this oh-so-respectable Angelo."
+
+  - sp: ISABELLA
+    o:
+      - "Can this be so? did Angelo so leave her?"
+    m:
+      - "Can this be true? Did Angelo leave her?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Left her in her tears, and dried not one of them"
+      - "with his comfort; swallowed his vows whole,"
+      - "pretending in her discoveries of dishonour: in few,"
+      - "bestowed her on her own lamentation, which she yet"
+      - "wears for his sake; and he, a marble to her tears,"
+      - "is washed with them, but relents not."
+    m:
+      - "Left her in her tears, without drying a single one of them. He reneged on his vows completely, saying he discovered that she’d been unfaithful to him. He gave her only grief, basically, and she still wears it, like a wedding dress. Her tears wash over him, but like a marble statue, he never budges."
+
+  - sp: ISABELLA
+    o:
+      - "What a merit were it in death to take this poor maid"
+      - "from the world! What corruption in this life, that"
+      - "it will let this man live! But how out of this can she avail?"
+    m:
+      - "It’s the equivalent of a death to take this poor girl away from the world! And life is so unfair, that this man lives! But how can she benefit from all this?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "It is a rupture that you may easily heal: and the"
+      - "cure of it not only saves your brother, but keeps"
+      - "you from dishonour in doing it."
+    m:
+      - "It’s a break that you can easily heal, and the cure not only saves your brother, but keeps you from dishonor."
+
+  - sp: ISABELLA
+    o:
+      - "Show me how, good father."
+    m:
+      - "Show me how, good father."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "This forenamed maid hath yet in her the continuance"
+      - "of her first affection: his unjust unkindness, that"
+      - "in all reason should have quenched her love, hath,"
+      - "like an impediment in the current, made it more"
+      - "violent and unruly. Go you to Angelo; answer his"
+      - "requiring with a plausible obedience; agree with"
+      - "his demands to the point; only refer yourself to"
+      - "this advantage, first, that your stay with him may"
+      - "not be long; that the time may have all shadow and"
+      - "silence in it; and the place answer to convenience."
+      - "This being granted in course,—and now follows"
+      - "all,—we shall advise this wronged maid to stead up"
+      - "your appointment, go in your place; if the encounter"
+      - "acknowledge itself hereafter, it may compel him to"
+      - "her recompense: and here, by this, is your brother"
+      - "saved, your honour untainted, the poor Mariana"
+      - "advantaged, and the corrupt deputy scaled. The maid"
+      - "will I frame and make fit for his attempt. If you"
+      - "think well to carry this as you may, the doubleness"
+      - "of the benefit defends the deceit from reproof."
+      - "What think you of it?"
+    m:
+      - "This maid still loves Angelo. Logically, his unfair cruelty should have ended her love, but it’s actually intensified it, the way water becomes violent and choppy when it hits a barrier. Go to Angelo. Pretend to yield to his request, and obey his demands to the letter. But set some conditions: that you not spend much time together, that it be in the dark, that there be absolute silence, and that it be in a convenient place. When he agrees—and now here’s the key part—we’ll tell the wronged girl to go in your place. If their encounter later comes to light, it might compel him to compensate her. The result of all this: your brother is saved, your honor is maintained, poor Mariana is helped, and the corrupt deputy is punished. I’ll prepare the girl and make her ready for the encounter. If you think you can manage this, the double benefit outweighs any blame for the deception. What do you think?"
+
+  - sp: ISABELLA
+    o:
+      - "The image of it gives me content already; and I"
+      - "trust it will grow to a most prosperous perfection."
+    m:
+      - "I like the idea already, and I hope it’ll be successful."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "It lies much in your holding up. Haste you speedily"
+      - "to Angelo: if for this night he entreat you to his"
+      - "bed, give him promise of satisfaction. I will"
+      - "presently to Saint Luke’s: there, at the moated"
+      - "grange, resides this dejected Mariana. At that"
+      - "place call upon me; and dispatch with Angelo, that"
+      - "it may be quickly."
+    m:
+      - "A lot depends on your ability to pull it off. Hurry over to Angelo. If he begs you to sleep with him tonight, promise to satisfy him. I’ll go to Saint Luke’s; poor Mariana is living there, in a country house. Arrange things with Angelo and come see me there, the sooner the better."
+
+  - sp: ISABELLA
+    o:
+      - "I thank you for this comfort. Fare you well, good father."
+    m:
+      - "Thank you for your help. Goodbye, good father."
+
+  - os: "Exeunt severally"
+    ms: "They exit, in separate directions."

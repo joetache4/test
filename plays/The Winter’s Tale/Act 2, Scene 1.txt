@@ -1,0 +1,533 @@
+play: The Winter’s Tale
+title: Act 2, Scene 1
+group: 2
+order: 2
+text:
+  - os: "A room in LEONTES’ palace."
+    ms: "A room in LEONTES’ palace."
+
+  - os: "Enter HERMIONE, MAMILLIUS, and Ladies"
+    ms: "HERMIONE, MAMILLIUS, and Ladies enter."
+
+  - sp: HERMIONE
+    o:
+      - "Take the boy to you: he so troubles me,"
+      - "’Tis past enduring."
+    m:
+      - "Take the boy. He is such a pest I can’t take it anymore."
+
+  - sp: FIRST LADY
+    o:
+      - "Come, my gracious lord,"
+      - "Shall I be your playfellow?"
+    m:
+      - "Come with me, my gracious lord. Shall I play with you?"
+
+  - sp: MAMILLIUS
+    o:
+      - "No, I’ll none of you."
+    m:
+      - "No, I don’t want anything to do with you."
+
+  - sp: FIRST LADY
+    o:
+      - "Why, my sweet lord?"
+    m:
+      - "Why, my sweet lord?"
+
+  - sp: MAMILLIUS
+    o:
+      - "You’ll kiss me hard and speak to me as if"
+      - "I were a baby still. I love you better."
+    m:
+      - "You’ll kiss me too hard and talk baby talk to me. *(to Second Lady)* I love you better."
+
+  - sp: SECOND LADY
+    o:
+      - "And why so, my lord?"
+    m:
+      - "Why is that, my lord?"
+
+  - sp: MAMILLIUS
+    o:
+      - "Not for because"
+      - "Your brows are blacker; yet black brows, they say,"
+      - "Become some women best, so that there be not"
+      - "Too much hair there, but in a semicircle"
+      - "Or a half-moon made with a pen."
+    m:
+      - "Not because your eyebrows are blacker, though they say that black eyebrows suit some women best, as long as there isn’t too much hair and they are shaped like a semicircle, or drawn like a half-moon."
+
+  - sp: SECOND LADY
+    o:
+      - "Who taught you this?"
+    m:
+      - "Who taught you that?"
+
+  - sp: MAMILLIUS
+    o:
+      - "I learnt it out of women’s faces. Pray now"
+      - "What colour are your eyebrows?"
+    m:
+      - "I learned it from looking at women’s faces. Tell me, what color are your eyebrows?"
+
+  - sp: FIRST LADY
+    o:
+      - "Blue, my lord."
+    m:
+      - "Blue, my lord."
+
+  - sp: MAMILLIUS
+    o:
+      - "Nay, that’s a mock: I have seen a lady’s nose"
+      - "That has been blue, but not her eyebrows."
+    m:
+      - "No, you’re joking. I’ve seen a lady’s nose that was blue, but not her eyebrows."
+
+  - sp: FIRST LADY
+    o:
+      - "Hark ye;"
+      - "The queen your mother rounds apace: we shall"
+      - "Present our services to a fine new prince"
+      - "One of these days; and then you’ld wanton with us,"
+      - "If we would have you."
+    m:
+      - "Listen: your mother the queen is getting rounder by the day. We’ll be serving a fine new prince one day soon, and then you’ll want to play with us, if we’ll let you."
+
+  - sp: SECOND LADY
+    o:
+      - "She is spread of late"
+      - "Into a goodly bulk: good time encounter her!"
+    m:
+      - "She has become quite big lately. May it come quickly for her!"
+
+  - sp: HERMIONE
+    o:
+      - "What wisdom stirs amongst you? Come, sir, now"
+      - "I am for you again: pray you, sit by us,"
+      - "And tell ’s a tale."
+    m:
+      - "What are you talking about now? Come, sir, now I’m ready for you again. Sit next to me, and tell me a story."
+
+  - sp: MAMILLIUS
+    o:
+      - "Merry or sad shall’t be?"
+    m:
+      - "Should it be happy or serious?"
+
+  - sp: HERMIONE
+    o:
+      - "As merry as you will."
+    m:
+      - "As happy as you’d like."
+
+  - sp: MAMILLIUS
+    o:
+      - "A sad tale’s best for winter: I have one"
+      - "Of sprites and goblins."
+    m:
+      - "A sad story is best for the winter. I have one about fairies and goblins."
+
+  - sp: HERMIONE
+    o:
+      - "Let’s have that, good sir."
+      - "Come on, sit down: come on, and do your best"
+      - "To fright me with your sprites; you’re powerful at it."
+    m:
+      - "Let’s hear it, good sir. Come on, sit down, and try to frighten me with your fairies. You’re good at it."
+
+  - sp: MAMILLIUS
+    o:
+      - "There was a man—"
+    m:
+      - "There was a man—"
+
+  - sp: HERMIONE
+    o:
+      - "Nay, come, sit down; then on."
+    m:
+      - "No, sit down, and then tell me."
+
+  - sp: MAMILLIUS
+    o:
+      - "Dwelt by a churchyard: I will tell it softly;"
+      - "Yond crickets shall not hear it."
+    m:
+      - "—who lived by a churchyard. I’ll tell it quietly, so those other ladies won’t hear it."
+
+  - sp: HERMIONE
+    o:
+      - "Come on, then,"
+      - "And give’t me in mine ear."
+    m:
+      - "Come on then, and tell me in my ear."
+
+  - os: "Enter LEONTES, with ANTIGONUS, Lords and others"
+    ms: "LEONTES, ANTIGONUS, Lords, and others enter."
+    ms: "HERMIONE and her Ladies exit, surrounded by guards."
+
+  - sp: LEONTES
+    o:
+      - "Was he met there? his train? Camillo with him?"
+    m:
+      - "Did his men meet him there? Camillo was with him?"
+
+  - sp: FIRST LORD
+    o:
+      - "Behind the tuft of pines I met them; never"
+      - "Saw I men scour so on their way: I eyed them"
+      - "Even to their ships."
+    m:
+      - "I ran across them behind the pine grove. I’ve never seen men move so quickly along. I saw them go all the way to their ships."
+
+  - sp: LEONTES
+    o:
+      - "How blest am I"
+      - "In my just censure, in my true opinion!"
+      - "Alack, for lesser knowledge! how accursed"
+      - "In being so blest! There may be in the cup"
+      - "A spider steep’d, and one may drink, depart,"
+      - "And yet partake no venom, for his knowledge"
+      - "Is not infected: but if one present"
+      - "The abhorr’d ingredient to his eye, make known"
+      - "How he hath drunk, he cracks his gorge, his sides,"
+      - "With violent hefts. I have drunk,"
+      - "and seen the spider."
+      - "Camillo was his help in this, his pander:"
+      - "There is a plot against my life, my crown;"
+      - "All’s true that is mistrusted: that false villain"
+      - "Whom I employ’d was pre-employ’d by him:"
+      - "He has discover’d my design, and I"
+      - "Remain a pinch’d thing; yea, a very trick"
+      - "For them to play at will. How came the posterns"
+      - "So easily open?"
+    m:
+      - "I’m so blessed to have such accurate judgment, and such a correct opinion! Alas, if only I knew less! I’m cursed to be so blessed! There may be a spider in your cup, and if you drink without realizing it, you aren’t hurt. But if you see the spider and know you have drunk it, you will wretch and heave violently. I have drunk from the cup, and I know that the spider was in it. Camillo helped him and acted as his pimp. There is a plot to kill me and take my place as king. Everything that I suspected is true. That traitorous villain I employed actually worked for Polixenes. He has discovered my plan, and I’m still tormented, a toy for them to play with. How were the gates so easily opened?"
+
+  - sp: FIRST LORD
+    o:
+      - "By his great authority;"
+      - "Which often hath no less prevail’d than so"
+      - "On your command."
+    m:
+      - "By Camillo’s authority, which he’s often wielded by your command."
+
+  - sp: LEONTES
+    o:
+      - "I know’t too well."
+      - "Give me the boy: I am glad you did not nurse him:"
+      - "Though he does bear some signs of me, yet you"
+      - "Have too much blood in him."
+    m:
+      - "I know it too well. Give me the boy. I am glad you didn’t breastfeed him. He may look a bit like me, but he looks too much like you."
+
+  - sp: HERMIONE
+    o:
+      - "What is this? sport?"
+    m:
+      - "What is this, a joke?"
+
+  - sp: LEONTES
+    o:
+      - "Bear the boy hence; he shall not come about her;"
+      - "Away with him! and let her sport herself"
+      - "With that she’s big with; for ’tis Polixenes"
+      - "Has made thee swell thus."
+    m:
+      - "Take the boy away. He won’t be near her anymore. Take him away! Let her play with the one she’s pregnant with now, since it is Polixenes’ child."
+
+  - sp: HERMIONE
+    o:
+      - "But I’ld say he had not,"
+      - "And I’ll be sworn you would believe my saying,"
+      - "Howe’er you lean to the nayward."
+    m:
+      - "I’ll say it is not and will swear that you should believe me, whatever you think to the contrary."
+
+  - sp: LEONTES
+    o:
+      - "You, my lords,"
+      - "Look on her, mark her well; be but about"
+      - "To say “she is a goodly lady,” and"
+      - "The justice of your hearts will thereto add"
+      - "’Tis pity she’s not honest, honourable:’"
+      - "Praise her but for this her without-door form,"
+      - "Which on my faith deserves high speech, and straight"
+      - "The shrug, the hum or ha, these petty brands"
+      - "That calumny doth use—O, I am out—"
+      - "That mercy does, for calumny will sear"
+      - "Virtue itself: these shrugs, these hums and ha’s,"
+      - "When you have said “she’s goodly,” come between"
+      - "Ere you can say “she’s honest:” but be ’t known,"
+      - "From him that has most cause to grieve it should be,"
+      - "She’s an adulteress."
+    m:
+      - "My lords, look at her closely. If you are tempted to say, “She is a fine lady,” the wisdom of your hearts will add, “A shame that she isn’t virtuous or honorable.” Praise her for anything but her outward form, which does deserve praise, and immediately you must shrug or mutter to yourself. Those are the expressions that slander uses—no, I’m wrong—that mercy uses, because slander only attacks someone who is virtuous. These shrugs and mutterings after you say, “She’s goodly” interrupt you before you can say, “She’s virtuous.” Listen to the man who has the most reason to be upset about it: she’s an adulteress."
+
+  - sp: HERMIONE
+    o:
+      - "Should a villain say so,"
+      - "The most replenish’d villain in the world,"
+      - "He were as much more villain: you, my lord,"
+      - "Do but mistake."
+    m:
+      - "If a villain said so, the worst in the world, saying so would make him even more of a villain. My lord, you are mistaken."
+
+  - sp: LEONTES
+    o:
+      - "You have mistook, my lady,"
+      - "Polixenes for Leontes: O thou thing!"
+      - "Which I’ll not call a creature of thy place,"
+      - "Lest barbarism, making me the precedent,"
+      - "Should a like language use to all degrees"
+      - "And mannerly distinguishment leave out"
+      - "Betwixt the prince and beggar: I have said"
+      - "She’s an adulteress; I have said with whom:"
+      - "More, she’s a traitor and Camillo is"
+      - "A federary with her, and one that knows"
+      - "What she should shame to know herself"
+      - "But with her most vile principal, that she’s"
+      - "A bed-swerver, even as bad as those"
+      - "That vulgars give bold’st titles, ay, and privy"
+      - "To this their late escape."
+    m:
+      - "My lady, you have mistaken Polixenes for me. Oh, you creature! I won’t give you the title that goes with your high social status, or I’ll set a precedent allowing rudeness to use the same names for everyone and not distinguish between a prince and a beggar. I have said she is an adulteress, and I have said with whom. Even more than that, she is a traitor, and she is in league with Camillo, who knows what she should be ashamed of: that she’s an adulteress. She’s as bad as the women that common people give the coarsest name to, and she knew that they were escaping."
+
+  - sp: HERMIONE
+    o:
+      - "No, by my life."
+      - "Privy to none of this. How will this grieve you,"
+      - "When you shall come to clearer knowledge, that"
+      - "You thus have publish’d me! Gentle my lord,"
+      - "You scarce can right me throughly then to say"
+      - "You did mistake."
+    m:
+      - "No, I swear on my life I knew none of this. You’ll regret publicly shaming me like this when you realize you are wrong! My gentle lord, you can make it all right again by saying you made a mistake."
+
+  - sp: LEONTES
+    o:
+      - "No; if I mistake"
+      - "In those foundations which I build upon,"
+      - "The centre is not big enough to bear"
+      - "A school-boy’s top. Away with her! to prison!"
+      - "He who shall speak for her is afar off guilty"
+      - "But that he speaks."
+    m:
+      - "No. If I am wrong about this, then the Earth isn’t big enough to hold a schoolboy’s top. Take her to prison! Anyone who would defend her is indirectly as guilty as she is, just by speaking."
+
+  - sp: HERMIONE
+    o:
+      - "There’s some ill planet reigns:"
+      - "I must be patient till the heavens look"
+      - "With an aspect more favourable. Good my lords,"
+      - "I am not prone to weeping, as our sex"
+      - "Commonly are; the want of which vain dew"
+      - "Perchance shall dry your pities: but I have"
+      - "That honourable grief lodged here which burns"
+      - "Worse than tears drown: beseech you all, my lords,"
+      - "With thoughts so qualified as your charities"
+      - "Shall best instruct you, measure me; and so"
+      - "The king’s will be perform’d!"
+    m:
+      - "The stars must be aligned in a way that is making everyone mad! I must be patient until their positions change. My good lords, I don’t cry as much as other women do, which might make you think I’m not deserving of pity. But my honorable grief burns more fiercely than tears can extinguish. I beg you all, my lords, judge me in as measured a manner as your sense of charity will allow. And so carry out the king’s will!"
+
+  - sp: LEONTES
+    o:
+      - "Shall I be heard?"
+    m:
+      - "Will I be obeyed?"
+
+  - sp: HERMIONE
+    o:
+      - "Who is’t that goes with me? Beseech your highness,"
+      - "My women may be with me; for you see"
+      - "My plight requires it. Do not weep, good fools;"
+      - "There is no cause: when you shall know your mistress"
+      - "Has deserved prison, then abound in tears"
+      - "As I come out: this action I now go on"
+      - "Is for my better grace. Adieu, my lord:"
+      - "I never wish’d to see you sorry; now"
+      - "I trust I shall. My women, come; you have leave."
+    m:
+      - "Who will go with me? Your highness, I beg that my women might go with me, since I need help in my condition. Don’t cry, my dear ones. There’s no reason to. If you ever know that your mistress is guilty and deserves to be in prison, then you can cry when I come out. But since I’m innocent, this trial I’m enduring will make me more virtuous. Goodbye, my lord. I never wanted to see you feeling sorry, but now I know I will. My women, come, you have permission."
+
+  - sp: LEONTES
+    o:
+      - "Go, do our bidding; hence!"
+      - "Exit HERMIONE, guarded; with Ladies"
+    m:
+      - "Go on, do as I say!"
+
+  - sp: FIRST LORD
+    o:
+      - "Beseech your highness, call the queen again."
+    m:
+      - "Your highness, I beg you, call the queen back."
+
+  - sp: ANTIGONUS
+    o:
+      - "Be certain what you do, sir, lest your justice"
+      - "Prove violence; in the which three great ones suffer,"
+      - "Yourself, your queen, your son."
+    m:
+      - "Be sure of what you are doing, sir, or what you think is justice might prove to be injustice, and three great people might suffer—you, your queen, and your son."
+
+  - sp: FIRST LORD
+    o:
+      - "For her, my lord,"
+      - "I dare my life lay down and will do’t, sir,"
+      - "Please you to accept it, that the queen is spotless"
+      - "I’ the eyes of heaven and to you; I mean,"
+      - "In this which you accuse her."
+    m:
+      - "My lord, I would lay down my life for the queen in belief that she is virtuous in both the eyes of heaven and to you. She is innocent of what you accuse her of."
+
+  - sp: ANTIGONUS
+    o:
+      - "If it prove"
+      - "She’s otherwise, I’ll keep my stables where"
+      - "I lodge my wife; I’ll go in couples with her;"
+      - "Than when I feel and see her no farther trust her;"
+      - "For every inch of woman in the world,"
+      - "Ay, every dram of woman’s flesh is false, If she be."
+    m:
+      - "If it turns out she’s unfaithful, I’ll guard my wife as vigilantly as I guard my horses, and I’ll go about leashed together with her. I will only trust her when I can touch her or see her, because if the queen is lying, then every woman in the world must be a liar."
+
+  - sp: LEONTES
+    o:
+      - "Hold your peaces."
+    m:
+      - "Be quiet."
+
+  - sp: FIRST LORD
+    o:
+      - "Good my lord,—"
+    m:
+      - "My good lord—"
+
+  - sp: ANTIGONUS
+    o:
+      - "It is for you we speak, not for ourselves:"
+      - "You are abused and by some putter-on"
+      - "That will be damn’d for’t; would I knew the villain,"
+      - "I would land-damn him. Be she honour-flaw’d,"
+      - "I have three daughters; the eldest is eleven"
+      - "The second and the third, nine, and some five;"
+      - "If this prove true, they’ll pay for’t:"
+      - "by mine honour,"
+      - "I’ll geld ’em all; fourteen they shall not see,"
+      - "To bring false generations: they are co-heirs;"
+      - "And I had rather glib myself than they"
+      - "Should not produce fair issue."
+    m:
+      - "We’re speaking for your sake, not our own. Some liar has abused your confidence, and he’ll be damned for it. If I knew who it was, I would thrash him without pity. If the queen isn’t honorable, my three daughters will pay for it, by my honor. The oldest is eleven, the next is nine and the third is about five, and I’ll make them all incapable of bearing children. They’ll be unable to have illegitimate children by the time they’re fourteen. They are all my heirs, and I’d rather castrate myself than have them bear anything other than legitimate children."
+
+  - sp: LEONTES
+    o:
+      - "Cease; no more."
+      - "You smell this business with a sense as cold"
+      - "As is a dead man’s nose: but I do see’t and feel’t"
+      - "As you feel doing thus; and see withal"
+      - "The instruments that feel."
+    m:
+      - "Stop. Say no more. You’re about as perceptive as a dead man, but I see it and feel it as you feel this. And I also see the fingers that feel."
+
+  - sp: ANTIGONUS
+    o:
+      - "If it be so,"
+      - "We need no grave to bury honesty:"
+      - "There’s not a grain of it the face to sweeten"
+      - "Of the whole dungy earth."
+    m:
+      - "If it is true, we don’t need a grave to bury honesty, because it means that there is not a shred of it on this earth."
+
+  - sp: LEONTES
+    o:
+      - "What! lack I credit?"
+    m:
+      - "What? You don’t believe me?"
+
+  - sp: FIRST LORD
+    o:
+      - "I had rather you did lack than I, my lord,"
+      - "Upon this ground; and more it would content me"
+      - "To have her honour true than your suspicion,"
+      - "Be blamed for’t how you might."
+    m:
+      - "My lord, I would rather you be wrong than me in this instance. And I’d rather it turn out that she is honorable than that you are right, regardless of how you’re blamed for it."
+
+  - sp: LEONTES
+    o:
+      - "Why, what need we"
+      - "Commune with you of this, but rather follow"
+      - "Our forceful instigation? Our prerogative"
+      - "Calls not your counsels, but our natural goodness"
+      - "Imparts this; which if you, or stupefied"
+      - "Or seeming so in skill, cannot or will not"
+      - "Relish a truth like us, inform yourselves"
+      - "We need no more of your advice: the matter,"
+      - "The loss, the gain, the ordering on’t, is all"
+      - "Properly ours."
+    m:
+      - "Why do I have to debate this with you, instead of just following my own strong impulse?  As king I’m not required to seek your advice, though I tell you this information out of natural goodness. But if you, who are either confused or pretend to be, can’t understand the truth as I do, then I don’t need any more of your advice. The entire affair is in my hands."
+
+  - sp: ANTIGONUS
+    o:
+      - "And I wish, my liege,"
+      - "You had only in your silent judgment tried it,"
+      - "Without more overture."
+    m:
+      - "My lord, I only wish you had spent more time considering your judgment, without making it public."
+
+  - sp: LEONTES
+    o:
+      - "How could that be?"
+      - "Either thou art most ignorant by age,"
+      - "Or thou wert born a fool. Camillo’s flight,"
+      - "Added to their familiarity,"
+      - "Which was as gross as ever touch’d conjecture,"
+      - "That lack’d sight only, nought for approbation"
+      - "But only seeing, all other circumstances"
+      - "Made up to the deed, doth push on this proceeding:"
+      - "Yet, for a greater confirmation,"
+      - "For in an act of this importance ’twere"
+      - "Most piteous to be wild, I have dispatch’d in post"
+      - "To sacred Delphos, to Apollo’s temple,"
+      - "Cleomenes and Dion, whom you know"
+      - "Of stuff’d sufficiency: now from the oracle"
+      - "They will bring all; whose spiritual counsel had,"
+      - "Shall stop or spur me. Have I done well?"
+    m:
+      - "How do you mean? Either you have become a fool with age, or you were born that way. Camillo’s fleeing and their intimacy, which was as obvious as any suspicion that lacked only an eyewitness to confirm it, together push this matter forward. Still, since this is a serious matter and shouldn’t be handled rashly, I’ve sent Cleomenes and Dion to get further confirmation at Apollo’s temple in Delphos. You know they are competent. They’ll bring word from the oracle, and I’ll heed whatever advice it gives, whether for or against my suspicion. Is that good?"
+
+  - sp: FIRST LORD
+    o:
+      - "Well done, my lord."
+    m:
+      - "Very good, my lord."
+
+  - sp: LEONTES
+    o:
+      - "Though I am satisfied and need no more"
+      - "Than what I know, yet shall the oracle"
+      - "Give rest to the minds of others, such as he"
+      - "Whose ignorant credulity will not"
+      - "Come up to the truth. So have we thought it good"
+      - "From our free person she should be confined,"
+      - "Lest that the treachery of the two fled hence"
+      - "Be left her to perform. Come, follow us;"
+      - "We are to speak in public; for this business"
+      - "Will raise us all."
+    m:
+      - "Even though I am sure that I am right, the oracle will convince everyone else, such as those who find themselves unable to accept the truth. So I have thought it a good idea to confine her and keep her away from me, so the treachery of Camillo and Polixenes is not left to her to perform. Come, follow me. I’m going to speak to the public, since this matter will incite everyone to action."
+
+  - sp: ANTIGONUS
+    o:
+      - "*(aside)*"
+      - "To laughter, as I take it,"
+      - "If the good truth were known."
+    m:
+      - "*(aside)* Incite everyone to laughter, I believe, if the truth were known."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,222 @@
+play: Henry IV, Part II
+title: Act 5, Scene 1
+group: 5
+order: 13
+text:
+  - os: "Enter SHALLOW, FALSTAFF, PAGE, and BARDOLPH"
+    ms: "SHALLOW, FALSTAFF, BARDOLPH, and the PAGE enter."
+
+  - sp: SHALLOW
+    o:
+      - "By cock and pie, sir, you shall not away tonight.—What,"
+      - "Davy, I say!"
+    m:
+      - "By gum, sir, you will not leave tonight. Hey, Davy!"
+
+  - sp: FALSTAFF
+    o:
+      - "You must excuse me, Master Robert Shallow."
+    m:
+      - "Please excuse me, Master Robert Shallow."
+
+  - sp: SHALLOW
+    o:
+      - "I will not excuse you. You shall not be excused. Excuses"
+      - "shall not be admitted. There is no excuse shall serve. You"
+      - "shall not be excused.—Why, Davy!"
+    m:
+      - "I will not excuse you. You will not be excused. Excuses will not be allowed. No excuse will do. You will not be excused. Hey, Davy!"
+
+  - os: "Enter DAVY"
+    ms: "DAVY enters."
+
+  - sp: DAVY
+    o:
+      - "Here, sir."
+    m:
+      - "Here, sir."
+
+  - sp: SHALLOW
+    o:
+      - "Davy, Davy, Davy, Davy, let me see, Davy, let me see, Davy,"
+      - "let me see. Yea, marry, William cook, bid him come"
+      - "hither.—Sir John, you shall not be excused."
+    m:
+      - "Davy, Davy, Davy, Davy, let’s see, Davy, let’s see, Davy, let’s see. Oh yes, right: tell William the cook to come here. Sir John, you will not be excused."
+
+  - sp: DAVY
+    o:
+      - "Marry, sir, thus: those precepts cannot be served. And again,"
+      - "sir, shall we sow the hade land with wheat?"
+    m:
+      - "Well sir, here’s the thing. Those warrants couldn’t be served. And once more, sir, should we plant wheat at the field’s edges?"
+
+  - sp: SHALLOW
+    o:
+      - "With red wheat, Davy. But for William cook, are there no"
+      - "young pigeons?"
+    m:
+      - "Plant red wheat, Davy. But as for William the cook—aren’t there any young pigeons?"
+
+  - sp: DAVY
+    o:
+      - "Yes, sir. Here is now the smith’s note for shoeing and plow"
+      - "irons."
+    m:
+      - "Yes, sir. Here’s the bill from the blacksmith for horseshoes and plow blades."
+
+  - sp: SHALLOW
+    o:
+      - "Let it be cast and paid.—Sir John, you shall not be excused."
+    m:
+      - "Check the figures and then and pay it. Sir John, you will not be excused."
+
+  - sp: DAVY
+    o:
+      - "Now, sir, a new link to the bucket must needs be had. And,"
+      - "sir, do you mean to stop any of William’s wages about the"
+      - "sack he lost the other day at Hinckley Fair?"
+    m:
+      - "Now, sir, we need some new chain for the bucket. And sir, do you plan to dock William’s pay for the wine he lost at the Hinckley fair?"
+
+  - sp: SHALLOW
+    o:
+      - "He shall answer it. Some pigeons, Davy, a couple of short-"
+      - "legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William cook."
+    m:
+      - "He’ll pay for that. Some pigeons, Davy; a couple of short-legged hens, a leg of lamb, and any fun little fancy dishes. Tell William the cook."
+
+  - sp: DAVY
+    o:
+      - "Doth the man of war stay all night, sir?"
+    m:
+      - "Is the soldier staying all night?"
+
+  - sp: SHALLOW
+    o:
+      - "Yea, Davy. I will use him well. A friend i’ th’ court is better"
+      - "than a penny in purse. Use his men well, Davy, for they are"
+      - "arrant knaves and will backbite."
+    m:
+      - "Yes, Davy. I’ll take good care of him. A friend at court is better than money in your pocket. Take good care of his men, Davy. They’re good-for-nothings, and they’ll bite you."
+
+  - sp: DAVY
+    o:
+      - "No worse than they are back-bitten, sir, for they have"
+      - "marvellous foul linen."
+    m:
+      - "No worse than they’re bitten, sir. Their clothes are full of lice."
+
+  - sp: SHALLOW
+    o:
+      - "Well-conceited, Davy. About thy business, Davy."
+    m:
+      - "Good one, Davy. Get on with your work, Davy."
+
+  - sp: DAVY
+    o:
+      - "I beseech you, sir, to countenance William Visor of Woncot"
+      - "against Clement Perkes o’ th’ hill."
+    m:
+      - "Please, sir, rule in favor of William Visor of Woncot in his lawsuit against Clement Perkes of the hill."
+
+  - sp: SHALLOW
+    o:
+      - "There is many complaints, Davy, against that Visor. That"
+      - "Visor is an arrant knave, on my knowledge."
+    m:
+      - "Davy, there are a lot of suits against that Visor. That Visor is a good-for-nothing, as best I can tell."
+
+  - sp: DAVY
+    o:
+      - "I grant your Worship that he is a knave, sir, but yet, God"
+      - "forbid, sir, but a knave should have some countenance at his"
+      - "friend’s request. An honest man, sir, is able to speak for"
+      - "himself when a knave is not. I have served your Worship"
+      - "truly, sir, this eight years; an if I cannot once or twice in a"
+      - "quarter bear out a knave against an honest man, I have"
+      - "a very little credit with your Worship. The knave is mine"
+      - "honest friend, sir; therefore I beseech you let him be"
+      - "countenanced."
+    m:
+      - "I agree with your honor that he’s a good-for-nothing, but God forbid that a good-for-nothing should be denied a favor when his friend asks for one on his behalf. An honest man can speak for himself, but a good-for-nothing can’t. I’ve worked for you for eight years, sir. If I can’t get you to rule in favor of a good- for-nothing once in a while, then obviously you don’t think very much of me. That good-for-nothing is my good friend, sir. So I ask you, please: rule in his favor."
+
+  - sp: SHALLOW
+    o:
+      - "Go to, I say he shall have no wrong. Look about, Davy."
+    m:
+      - "Stop now; I tell you he won’t be wronged. Now get going, Davy."
+
+  - os: "Exit DAVY"
+    ms: "DAVY exits."
+
+  - o:
+      - "Where are you, Sir John? Come, come, come, off with your"
+      - "boots.—Give me your hand, Master Bardolph."
+    m:
+      - "Where are you, Sir John? Come, come, come. Take your boots off. Let me shake your hand, Master Bardolph."
+
+  - sp: BARDOLPH
+    o:
+      - "I am glad to see your Worship."
+    m:
+      - "I’m glad to see you, your honor."
+
+  - sp: SHALLOW
+    o:
+      - "I thank thee with all my heart, kind Master Bardolph, *(to the*"
+      - "PAGE)* and welcome, my tall fellow.—Come, Sir John."
+    m:
+      - "I thank you with all my heart, Master Bardolph. *(to the PAGE)* Welcome, you tall fellow. Come, Sir John."
+
+  - sp: FALSTAFF
+    o:
+      - "I’ll follow you, good Master Robert Shallow."
+    m:
+      - "I’ll be right behind you, Master Robert Shallow."
+
+  - os: "Exit SHALLOW"
+    ms: "SHALLOW exits."
+
+  - o:
+      - "Bardolph, look to our horses."
+    m:
+      - "Bardolph, get our horses ready."
+
+  - os: "Exeunt BARDOLPH and PAGE"
+    ms: "BARDOLPH and the PAGE exit."
+
+  - o:
+      - "If I were sawed into quantities, I should make four dozen of"
+      - "such bearded hermits’ staves as Master Shallow. It is a"
+      - "wonderful thing to see the semblable coherence of his men’s"
+      - "spirits and his. They, by observing of him, do bear"
+      - "themselves like foolish justices; he, by conversing with"
+      - "them, is turned into a justice-like servingman. Their spirits"
+      - "are so married in conjunction with the participation of"
+      - "society that they flock together in consent like so many wild"
+      - "geese. If I had a suit to Master Shallow, I would humor his"
+      - "men with the imputation of being near their master;if to his"
+      - "men, I would curry with Master Shallow that no man could"
+      - "better command his servants. It is certain that either wise"
+      - "bearing or ignorant carriage is caught, as men take diseases,"
+      - "one of another. Therefore let men take heed of their"
+      - "company. I will devise matter enough out of this Shallow to"
+      - "keep Prince Harry in continual laughter the wearing out of six fashions, which is four terms, or two actions, and a’ shall laugh without intervallums. O, it is much that a lie with a slight oath and a jest with a sad brow will do with a fellow that never had the ache in his shoulders. O, you shall see him laugh till his face be like a wet cloak ill laid up."
+    m:
+      - "If I were cut into pieces, I’d make four dozen bearded broomsticks like this Master Shallow. It’s amazing to see the similarity between his men’s dispositions and his own. They watch him and behave like foolish judges, and he, by associating with them, turns into a judge-like workman. Their spirits are so closely joined by their intimate involvement, they’re like a flock of wild geese that fly in formation. If I needed a favor from Judge Shallow, I would make his men think that I’m a close friend of his. If I needed something from his men, I would flatter Shallow by telling him that no one commands servants better than he does. One thing’s for sure: the behavior of a wise man and that of an idiot are contagious, like diseases. They spread from person to person, which is why people must be careful about the company they keep. I’ll come up with enough material about this Shallow to keep Prince Hal laughing nonstop for a year. That’s how much time it takes for the current fashion to change six times, or for two lawsuits to be completed. He’ll laugh with no intermission. Oh, a lie told with a measure of truth—or a joke told with a serious face—will go far with a young fellow, who has never had his shoulders weighed down by old age or worries. Oh, he’ll laugh until his face looks like a wet coat that was hung poorly—it’ll be all wrinkled from laughter."
+
+  - sp: SHALLOW
+    o:
+      - "*(within)* Sir John."
+    m:
+      - "*(offstage)* Sir John!"
+
+  - sp: FALSTAFF
+    o:
+      - "I come, Master Shallow; I come, Master Shallow."
+    m:
+      - "Coming, Master Shallow! Coming!"
+
+  - os: "Exit"
+    ms: "He exits."

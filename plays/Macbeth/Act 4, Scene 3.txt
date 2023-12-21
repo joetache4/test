@@ -1,0 +1,621 @@
+play: Macbeth
+title: Act 4, Scene 3
+group: 4
+order: 19
+text:
+  - os: "Enter MALCOLM and MACDUFF"
+    ms: "MALCOLM and MACDUFF enter."
+
+  - sp: MALCOLM
+    o:
+      - "Let us seek out some desolate shade and there"
+      - "Weep our sad bosoms empty."
+    m:
+      - "Let’s seek out some shady place where we can sit down alone and cry our hearts out."
+
+  - sp: MACDUFF
+    o:
+      - "    Let us rather"
+      - "Hold fast the mortal sword and, like good men,"
+      - "Bestride our downfall’n birthdom. Each new morn"
+      - "New widows howl, new orphans cry, new sorrows"
+      - "Strike heaven on the face, that it resounds"
+      - "As if it felt with Scotland and yelled out"
+      - "Like syllable of dolor."
+    m:
+      - "Instead of crying, let’s keep hold of our swords and defend our fallen homeland like honorable men. Each day new widows howl, new orphans cry, and new sorrows slap heaven in the face, until it sounds like heaven itself feels Scotland’s anguish and screams in pain."
+
+  - sp: MALCOLM
+    o:
+      - "    What I believe I’ll wail;"
+      - "What know believe, and what I can redress,"
+      - "As I shall find the time to friend, I will."
+      - "What you have spoke, it may be so perchance."
+      - "This tyrant, whose sole name blisters our tongues,"
+      - "Was once thought honest. You have loved him well."
+      - "He hath not touched you yet. I am young, but something"
+      - "You may deserve of him through me, and wisdom"
+      - "To offer up a weak, poor, innocent lamb"
+      - "T’ appease an angry god."
+    m:
+      - "I will avenge whatever I believe is wrong. And I’ll believe whatever I’m sure is true. And I’ll put right whatever I can when the time comes. What you just said may perhaps be true. This tyrant, whose mere name is so awful it hurts us to say it, was once considered an honest man. You were one of his favorites. He hasn’t done anything to harm you yet. I’m inexperienced, but maybe you’re planning to win Macbeth’s favor by betraying me to him. It would be smart to offer someone poor and innocent like me as a sacrificial lamb to satisfy an angry god like Macbeth."
+
+  - sp: MACDUFF
+    o:
+      - "I am not treacherous."
+    m:
+      - "I am not treacherous."
+
+  - sp: MALCOLM
+    o:
+      - "But Macbeth is."
+      - "A good and virtuous nature may recoil"
+      - "In an imperial charge. But I shall crave your pardon."
+      - "That which you are, my thoughts cannot transpose."
+      - "Angels are bright still, though the brightest fell."
+      - "Though all things foul would wear the brows of grace,"
+      - "Yet grace must still look so."
+    m:
+      - "But Macbeth is. Even someone with a good and virtuous nature might give way to a royal command. But I beg your pardon. My fears can’t actually make you evil. Angels are still bright even though Lucifer, the brightest angel, fell from heaven. Even though everything evil wants to look good, good still has to look good too."
+
+  - sp: MACDUFF
+    o:
+      - "    I have lost my hopes."
+    m:
+      - "I have lost my hope of convincing you to fight against Macbeth."
+
+  - sp: MALCOLM
+    o:
+      - "Perchance even there where I did find my doubts."
+      - "Why in that rawness left you wife and child,"
+      - "Those precious motives, those strong knots of love,"
+      - "Without leave-taking? I pray you,"
+      - "Let not my jealousies be your dishonors,"
+      - "But mine own safeties. You may be rightly just,"
+      - "Whatever I shall think."
+    m:
+      - "Maybe you lost your hopes about me where I found my doubts about you. Why did you leave your wife and child vulnerable—the most precious things in your life, those strong bonds of love? How could you leave them behind? But I beg you, don’t interpret my suspicions as slander against you. You must understand that I want to protect myself. You may really be honest, no matter what I think."
+
+  - sp: MACDUFF
+    o:
+      - "    Bleed, bleed, poor country!"
+      - "Great tyranny, lay thou thy basis sure,"
+      - "For goodness dare not check thee. Wear thou thy wrongs;"
+      - "The title is affeered.—Fare thee well, lord."
+      - "I would not be the villain that thou think’st"
+      - "For the whole space that’s in the tyrant’s grasp,"
+      - "And the rich East to boot."
+    m:
+      - "Bleed, bleed, poor country! Great tyrant, go ahead and build yourself up, because good people are afraid to stand up to you. Enjoy everything you stole, because your title is safe! Farewell, lord. I wouldn’t be the villain you think I am even if I were offered all of Macbeth’s kingdom and the riches of the East too."
+
+  - sp: MALCOLM
+    o:
+      - "    Be not offended."
+      - "I speak not as in absolute fear of you."
+      - "I think our country sinks beneath the yoke."
+      - "It weeps, it bleeds, and each new day a gash"
+      - "Is added to her wounds. I think withal"
+      - "There would be hands uplifted in my right;"
+      - "And here from gracious England have I offer"
+      - "Of goodly thousands. But, for all this,"
+      - "When I shall tread upon the tyrant’s head,"
+      - "Or wear it on my sword, yet my poor country"
+      - "Shall have more vices than it had before,"
+      - "More suffer, and more sundry ways than ever,"
+      - "By him that shall succeed."
+    m:
+      - "Don’t be offended. I don’t completely distrust you. I do think Scotland is sinking under Macbeth’s oppression. Our country weeps, it bleeds, and each day a fresh cut is added to her wounds. I also think there would be many people willing to fight for me. The English have promised me thousands of troops. But even so, when I have Macbeth’s head under my foot, or stuck on the end of my sword, then my poor country will be plagued by worse evil than it was before. It will suffer worse and in more ways than ever under the reign of the king who follows Macbeth."
+
+  - sp: MACDUFF
+    o:
+      - "    What should he be?"
+    m:
+      - "Who are you talking about?"
+
+  - sp: MALCOLM
+    o:
+      - "It is myself I mean, in whom I know"
+      - "All the particulars of vice so grafted"
+      - "That, when they shall be opened, black Macbeth"
+      - "Will seem as pure as snow, and the poor state"
+      - "Esteem him as a lamb, being compared"
+      - "With my confineless harms."
+    m:
+      - "I’m talking about myself. I know I have so many vices that when people see all of them exposed, evil Macbeth will seem as pure as snow in comparison, and poor Scotland will call him a sweet lamb when they compare him to me and my infinite evils."
+
+  - sp: MACDUFF
+    o:
+      - "    Not in the legions"
+      - "Of horrid hell can come a devil more damned"
+      - "In evils to top Macbeth."
+    m:
+      - "Even in hell you couldn’t find a devil worse than Macbeth."
+
+  - sp: MALCOLM
+    o:
+      - "    I grant him bloody,"
+      - "Luxurious, avaricious, false, deceitful,"
+      - "Sudden, malicious, smacking of every sin"
+      - "That has a name. But there’s no bottom, none,"
+      - "In my voluptuousness. Your wives, your daughters,"
+      - "Your matrons, and your maids could not fill up"
+      - "The cistern of my lust, and my desire"
+      - "All continent impediments would o’erbear"
+      - "That did oppose my will. Better Macbeth"
+      - "Than such an one to reign."
+    m:
+      - "I admit that he’s murderous, lecherous, greedy, lying, deceitful, violent, malicious, and guilty of every sin that has a name. But there is no end, absolutely none, to my sexual desires. Your wives, your daughters, your old women, and your young maids together could not satisfy my lust. My desire would overpower all restraints and anyone who stood in my way. It would be better for Macbeth to rule than someone like me."
+
+  - sp: MACDUFF
+    o:
+      - "    Boundless intemperance"
+      - "In nature is a tyranny. It hath been"
+      - "The untimely emptying of the happy throne"
+      - "And fall of many kings. But fear not yet"
+      - "To take upon you what is yours. You may"
+      - "Convey your pleasures in a spacious plenty"
+      - "And yet seem cold; the time you may so hoodwink."
+      - "We have willing dames enough. There cannot be"
+      - "That vulture in you to devour so many"
+      - "As will to greatness dedicate themselves,"
+      - "Finding it so inclined."
+    m:
+      - "Endless greed and lust in a man’s nature is a kind of tyranny. It has caused the downfall of many kings. But don’t be afraid to take the crown that belongs to you. You can find a way to satisfy your desires in secret, while still appearing virtuous. You can deceive everyone. There are more than enough willing women around. Your lust can’t possibly be so strong that you’d use up all the women willing to give themselves to the king once they find out he wants them."
+
+  - sp: MALCOLM
+    o:
+      - "With this there grows"
+      - "In my most ill-composed affection such"
+      - "A stanchless avarice that, were I king,"
+      - "I should cut off the nobles for their lands,"
+      - "Desire his jewels and this other’s house."
+      - "And my more-having would be as a sauce"
+      - "To make me hunger more, that I should forge"
+      - "Quarrels unjust against the good and loyal,"
+      - "Destroying them for wealth."
+    m:
+      - "Along with being full of lust, I’m also incredibly greedy. If I became king, I would steal the nobles’ lands, taking jewels from one guy and houses from another. The more I had, the greedier I would grow, until I’d invent false quarrels with my good and loyal subjects, destroying them so I could get my hands on their wealth."
+
+  - sp: MACDUFF
+    o:
+      - "    This avarice"
+      - "Sticks deeper, grows with more pernicious root"
+      - "Than summer-seeming lust, and it hath been"
+      - "The sword of our slain kings. Yet do not fear;"
+      - "Scotland hath foisons to fill up your will,"
+      - "Of your mere own. All these are portable,"
+      - "With other graces weighed."
+    m:
+      - "The greed you’re talking about is worse than lust because you won’t outgrow it. Greed has been the downfall of many kings. But don’t be afraid. Scotland has enough treasures to satisfy you out of your own royal coffers. These bad qualities are bearable when balanced against your good sides."
+
+  - sp: MALCOLM
+    o:
+      - "But I have none. The king-becoming graces,"
+      - "As justice, verity, temperance, stableness,"
+      - "Bounty, perseverance, mercy, lowliness,"
+      - "Devotion, patience, courage, fortitude,"
+      - "I have no relish of them but abound"
+      - "In the division of each several crime,"
+      - "Acting it many ways. Nay, had I power, I should"
+      - "Pour the sweet milk of concord into hell,"
+      - "Uproar the universal peace, confound"
+      - "All unity on earth."
+    m:
+      - "But I don’t have any good sides. I don’t have a trace of the qualities a king needs, such as justice, truth, moderation, stability, generosity, perseverance, mercy, humility, devotion, patience, courage, and bravery. Instead, I overflow with every variation of all the different vices. No, if I had power I would take world peace and throw it down to hell."
+
+  - sp: MACDUFF
+    o:
+      - "    O Scotland, Scotland!"
+    m:
+      - "Oh Scotland, Scotland!"
+
+  - sp: MALCOLM
+    o:
+      - "If such a one be fit to govern, speak."
+      - "I am as I have spoken."
+    m:
+      - "If someone like me is fit to be king, let me know. I really am exactly as I have described myself to you."
+
+  - sp: MACDUFF
+    o:
+      - "    Fit to govern?"
+      - "No, not to live.—O nation miserable,"
+      - "With an untitled tyrant bloody-sceptered,"
+      - "When shalt thou see thy wholesome days again,"
+      - "Since that the truest issue of thy throne"
+      - "By his own interdiction stands accursed,"
+      - "And does blaspheme his breed?—Thy royal father"
+      - "Was a most sainted king. The queen that bore thee,"
+      - "Oftener upon her knees than on her feet,"
+      - "Died every day she lived. Fare thee well!"
+      - "These evils thou repeat’st upon thyself"
+      - "Have banished me from Scotland.—O my breast,"
+      - "Thy hope ends here!"
+    m:
+      - "*(to MALCOLM)* Fit to be king? You’re not fit to live*!—*Oh miserable nation, ruled by a usurping, murderous tyrant, when will you see peaceful days again? The man who has a legal right to the throne is, by his own admission, a cursed man and a disgrace to the royal family.*—*Your royal father Duncan was a virtuous king. Your mother spent more time on her knees in prayer than she did standing up, and she lived a life of absolute piety. Good-bye. The evils you have described inside yourself have driven me out of Scotland forever. Oh my heart, your hope is dead!"
+
+  - sp: MALCOLM
+    o:
+      - "    Macduff, this noble passion,"
+      - "Child of integrity, hath from my soul"
+      - "Wiped the black scruples, reconciled my thoughts"
+      - "To thy good truth and honor. Devilish Macbeth"
+      - "By many of these trains hath sought to win me"
+      - "Into his power, and modest wisdom plucks me"
+      - "From overcredulous haste. But God above"
+      - "Deal between thee and me, for even now"
+      - "I put myself to thy direction and"
+      - "Unspeak mine own detraction, here abjure"
+      - "The taints and blames I laid upon myself,"
+      - "For strangers to my nature. I am yet"
+      - "Unknown to woman, never was forsworn,"
+      - "Scarcely have coveted what was mine own,"
+      - "At no time broke my faith, would not betray"
+      - "The devil to his fellow, and delight"
+      - "No less in truth than life. My first false speaking"
+      - "Was this upon myself. What I am truly,"
+      - "Is thine and my poor country’s to command."
+      - "Whither indeed, before thy here-approach,"
+      - "Old Siward, with ten thousand warlike men,"
+      - "Already at a point, was setting forth."
+      - "Now we’ll together, and the chance of goodness"
+      - "Be like our warranted quarrel! Why are you silent?"
+    m:
+      - "Macduff, this passionate outburst, which proves your integrity, has removed my doubts about you and made me realize that you really are trustworthy and honorable. That devil Macbeth has tried many times to trick me and lure me into his power, and prudence prevents me from believing people too quickly. But with God as my witness, I will let myself be guided by you, and I take back my confession. I take back all the bad things I said about myself, because none of those flaws are really part of my character. I’m still a virgin. I have never told a lie. I barely care about what I already own, let alone feel jealous of another’s possessions. I have never broken a promise. I wouldn’t betray the devil himself. I love truth as much as I love life. The lies I told about my character are actually the first false words I have ever spoken. The person who I really am is ready to serve you and our poor country. Indeed, before you arrived here, old Siward, with ten thousand soldiers already prepared for battle, was making his way here. Now we will fight Macbeth together, and may the chances of our success be as great as the justice of our cause! Why are you silent?"
+
+  - sp: MACDUFF
+    o:
+      - "Such welcome and unwelcome things at once"
+      - "’Tis hard to reconcile."
+    m:
+      - "It’s hard to make sense of such different stories."
+
+  - os: "Enter a DOCTOR"
+    ms: "A DOCTOR enters."
+
+  - sp: MALCOLM
+    o:
+      - "Well, more anon.—Comes the king forth, I pray you?"
+    m:
+      - "Well, we’ll speak more soon. *(to the DOCTOR)* Is King Edward coming out?"
+
+  - sp: DOCTOR
+    o:
+      - "Ay, sir; there are a crew of wretched souls"
+      - "That stay his cure. Their malady convinces"
+      - "The great assay of art, but at his touch—"
+      - "Such sanctity hath heaven given his hand—"
+      - "They presently amend."
+    m:
+      - "Yes, sir. A crowd of sick people is waiting for him to heal them. Their illness confounds the most advanced techniques of modern medicine, but when he touches them, they heal immediately because of the power granted to him by heaven."
+
+  - sp: MALCOLM
+    o:
+      - "    I thank you, doctor."
+    m:
+      - "Thank you, doctor."
+
+  - os: "Exit DOCTOR"
+    ms: "The DOCTOR exits."
+
+  - sp: MACDUFF
+    o:
+      - "What’s the disease he means?"
+    m:
+      - "What disease is he talking about?"
+
+  - sp: MALCOLM
+    o:
+      - "    ’Tis called the evil."
+      - "A most miraculous work in this good king,"
+      - "Which often since my here-remain in England"
+      - "I have seen him do. How he solicits heaven,"
+      - "Himself best knows, but strangely visited people,"
+      - "All swoll’n and ulcerous, pitiful to the eye,"
+      - "The mere despair of surgery, he cures,"
+      - "Hanging a golden stamp about their necks,"
+      - "Put on with holy prayers. And, ’tis spoken,"
+      - "To the succeeding royalty he leaves"
+      - "The healing benediction. With this strange virtue,"
+      - "He hath a heavenly gift of prophecy,"
+      - "And sundry blessings hang about his throne,"
+      - "That speak him full of grace."
+    m:
+      - "It’s called the evil. Edward’s healing touch is a miracle that I have seen him perform many times during my stay in England. How he receives these gifts from heaven, only he can say. But he cures people with strange conditions—all swollen, plagued by ulcers, and pitiful to look at, patients who are beyond the help of surgery—by placing a gold coin around their necks and saying holy prayers over them. They say that he bequeaths this ability to heal to his royal descendants. Along with this strange power, he also has the gift of prophecy and various other abilities. All of these signs mark him as a man graced by God."
+
+  - os: "Enter ROSS"
+    ms: "ROSS enters."
+
+  - sp: MACDUFF
+    o:
+      - "    See, who comes here?"
+    m:
+      - "Who’s that coming over here?"
+
+  - sp: MALCOLM
+    o:
+      - "My countryman, but yet I know him not."
+    m:
+      - "By his dress I can tell he’s my countryman, but I don’t recognize him."
+
+  - sp: MACDUFF
+    o:
+      - "My ever-gentle cousin, welcome hither."
+    m:
+      - "My noble kinsman, welcome."
+
+  - sp: MALCOLM
+    o:
+      - "I know him now.—Good God, betimes remove"
+      - "The means that makes us strangers!"
+    m:
+      - "I recognize him now. May God alter the circumstances that keep us apart!"
+
+  - sp: ROSS
+    o:
+      - "    Sir, amen."
+    m:
+      - "Hello, sir."
+
+  - sp: MACDUFF
+    o:
+      - "Stands Scotland where it did?"
+    m:
+      - "Is Scotland the same as when I left it?"
+
+  - sp: ROSS
+    o:
+      - "    Alas, poor country!"
+      - "Almost afraid to know itself. It cannot"
+      - "Be called our mother, but our grave, where nothing,"
+      - "But who knows nothing, is once seen to smile;"
+      - "Where sighs and groans and shrieks that rend the air"
+      - "Are made, not marked; where violent sorrow seems"
+      - "A modern ecstasy. The dead man’s knell"
+      - "Is there scarce asked for who, and good men’s lives"
+      - "Expire before the flowers in their caps,"
+      - "Dying or ere they sicken."
+    m:
+      - "Alas, our poor country! It’s too frightened to look at itself. Scotland is no longer the land where we were born; it’s the land where we’ll die. Where no one ever smiles except for the fool who knows nothing. Where sighs, groans, and shrieks rip through the air but no one notices. Where violent sorrow is a common emotion. When the funeral bells ring, people no longer ask who died. Good men die before the flowers in their caps wilt. They die before they even fall sick."
+
+  - sp: MACDUFF
+    o:
+      - "    Oh, relation"
+      - "Too nice and yet too true!"
+    m:
+      - "Oh, your report is too poetic, but it sounds so true!"
+
+  - sp: MALCOLM
+    o:
+      - "    What’s the newest grief?"
+    m:
+      - "What is the most recent news?"
+
+  - sp: ROSS
+    o:
+      - "That of an hour’s age doth hiss the speaker."
+      - "Each minute teems a new one."
+    m:
+      - "Even news an hour old is old news. Every minute another awful thing happens."
+
+  - sp: MACDUFF
+    o:
+      - "    How does my wife?"
+    m:
+      - "How is my wife?"
+
+  - sp: ROSS
+    o:
+      - "Why, well."
+    m:
+      - "She’s well."
+
+  - sp: MACDUFF
+    o:
+      - "    And all my children?"
+    m:
+      - "And all my children?"
+
+  - sp: ROSS
+    o:
+      - "    Well too."
+    m:
+      - "They’re well too."
+
+  - sp: MACDUFF
+    o:
+      - "The tyrant has not battered at their peace?"
+    m:
+      - "Macbeth hasn’t attacked them?"
+
+  - sp: ROSS
+    o:
+      - "No, they were well at peace when I did leave ’em."
+    m:
+      - "They were at peace when I left them."
+
+  - sp: MACDUFF
+    o:
+      - "Be not a niggard of your speech. How goes ’t?"
+    m:
+      - "Don’t be stingy with your words. What’s the news?"
+
+  - sp: ROSS
+    o:
+      - "When I came hither to transport the tidings,"
+      - "Which I have heavily borne, there ran a rumor"
+      - "Of many worthy fellows that were out;"
+      - "Which was to my belief witnessed the rather"
+      - "For that I saw the tyrant’s power afoot."
+      - "Now is the time of help. Your eye in Scotland"
+      - "Would create soldiers, make our women fight,"
+      - "To doff their dire distresses."
+    m:
+      - "While I was coming here to tell you my sad news, I heard rumors that many good men are arming themselves to rebel against Macbeth. When I saw Macbeth’s army on the move, I knew the rumors must be true. Now is the time when we need your help. Your presence in Scotland would inspire people to fight. Even the women would fight to rid themselves of Macbeth’s oppression."
+
+  - sp: MALCOLM
+    o:
+      - "    Be ’t their comfort"
+      - "We are coming thither. Gracious England hath"
+      - "Lent us good Siward and ten thousand men;"
+      - "An older and a better soldier none"
+      - "That Christendom gives out."
+    m:
+      - "Let them be comforted—I’m returning to Scotland. Gracious King Edward has sent us noble Siward and ten thousand soldiers. There is no soldier more experienced or successful than Siward in the entire Christian world."
+
+  - sp: ROSS
+    o:
+      - "    Would I could answer"
+      - "This comfort with the like. But I have words"
+      - "That would be howled out in the desert air,"
+      - "Where hearing should not latch them."
+    m:
+      - "I wish I could repay this happy news with good news of my own. But I have some news that should be howled in a barren desert where nobody can hear it."
+
+  - sp: MACDUFF
+    o:
+      - "    What concern they?"
+      - "The general cause, or is it a fee-grief"
+      - "Due to some single breast?"
+    m:
+      - "What is this news about? Does it affect all of us? Or just one of us?"
+
+  - sp: ROSS
+    o:
+      - "    No mind that’s honest"
+      - "But in it shares some woe, though the main part"
+      - "Pertains to you alone."
+    m:
+      - "No decent man can keep from sharing in the sorrow, but my news affects you alone."
+
+  - sp: MACDUFF
+    o:
+      - "If it be mine,"
+      - "Keep it not from me. Quickly let me have it."
+    m:
+      - "If it’s for me, don’t keep it from me. Let me have it now."
+
+  - sp: ROSS
+    o:
+      - "Let not your ears despise my tongue forever,"
+      - "Which shall possess them with the heaviest sound"
+      - "That ever yet they heard."
+    m:
+      - "I hope you won’t hate me forever after I say these things, because I will soon fill your ears with the most dreadful news you have ever heard."
+
+  - sp: MACDUFF
+    o:
+      - "    Hum! I guess at it."
+    m:
+      - "I think I can guess what you’re about to say."
+
+  - sp: ROSS
+    o:
+      - "Your castle is surprised, your wife and babes"
+      - "Savagely slaughtered. To relate the manner,"
+      - "Were, on the quarry of these murdered deer"
+      - "To add the death of you."
+    m:
+      - "Your castle was attacked. Your wife and children were savagely slaughtered. If I told you how they were killed, it would cause you so much pain that it would kill you too, and add your body to the pile of murdered corpses."
+
+  - sp: MALCOLM
+    o:
+      - "    Merciful heaven!"
+      - "What, man! Ne’er pull your hat upon your brows."
+      - "Give sorrow words. The grief that does not speak"
+      - "Whispers the o’erfraught heart and bids it break."
+    m:
+      - "Merciful heaven! *(to MACDUFF)* Come on, man, don’t keep your grief hidden. Put your sorrow into words. The grief you keep inside you will whisper in your heart until it breaks."
+
+  - sp: MACDUFF
+    o:
+      - "My children too?"
+    m:
+      - "They killed my children too?"
+
+  - sp: ROSS
+    o:
+      - "Wife, children, servants, all that could be found."
+    m:
+      - "They killed your wife, your children, your servants, anyone they could find."
+
+  - sp: MACDUFF
+    o:
+      - "And I must be from thence!"
+      - "My wife killed too?"
+    m:
+      - "And I had to be away! My wife was killed too?"
+
+  - sp: ROSS
+    o:
+      - "I have said."
+    m:
+      - "I said she was."
+
+  - sp: MALCOLM
+    o:
+      - "Be comforted."
+      - "Let’s make us med’cines of our great revenge,"
+      - "To cure this deadly grief."
+    m:
+      - "Take comfort. Let’s cure this awful grief by taking revenge on Macbeth."
+
+  - sp: MACDUFF
+    o:
+      - "He has no children. All my pretty ones?"
+      - "Did you say all? O hell-kite! All?"
+      - "What, all my pretty chickens and their dam"
+      - "At one fell swoop?"
+    m:
+      - "He doesn’t have children. All my pretty little children? Did you say all? Oh, that bird from hell! All of them? What, all my children and their mother dead in one fell swoop?"
+
+  - sp: MALCOLM
+    o:
+      - "Dispute it like a man."
+    m:
+      - "Fight it like a man."
+
+  - sp: MACDUFF
+    o:
+      - "I shall do so,"
+      - "But I must also feel it as a man."
+      - "I cannot but remember such things were"
+      - "That were most precious to me. Did heaven look on,"
+      - "And would not take their part? Sinful Macduff,"
+      - "They were all struck for thee! Naught that I am,"
+      - "Not for their own demerits, but for mine,"
+      - "Fell slaughter on their souls. Heaven rest them now."
+    m:
+      - "I will. But I also have to feel it like a man. I can’t help remembering the things that were most precious to me. Did heaven watch the slaughter and not send down any help? Sinful Macduff, they were killed because of you! As wicked as I am, they were slaughtered because of me, not because of anything they did. May God give their souls rest."
+
+  - sp: MALCOLM
+    o:
+      - "Be this the whetstone of your sword. Let grief"
+      - "Convert to anger. Blunt not the heart, enrage it."
+    m:
+      - "Let this anger sharpen your sword. Transform your grief into anger. Don’t block the feelings in your heart; let them loose as rage."
+
+  - sp: MACDUFF
+    o:
+      - "Oh, I could play the woman with mine eyes"
+      - "And braggart with my tongue! But, gentle heavens,"
+      - "Cut short all intermission. Front to front"
+      - "Bring thou this fiend of Scotland and myself."
+      - "Within my sword’s length set him; if he ’scape,"
+      - "Heaven forgive him too."
+    m:
+      - "I could go on weeping like a woman and bragging about how I will avenge them! But gentle heavens, don’t keep me waiting. Bring me face to face with Macbeth, that devil of Scotland. Put him within the reach of my sword, and if he escapes, may heaven forgive him as well!"
+
+  - sp: MALCOLM
+    o:
+      - "    This tune goes manly."
+      - "Come, go we to the king. Our power is ready;"
+      - "Our lack is nothing but our leave. Macbeth"
+      - "Is ripe for shaking, and the powers above"
+      - "Put on their instruments. Receive what cheer you may."
+      - "The night is long that never finds the day."
+    m:
+      - "Now you sound like a man. Come on, let’s go see King Edward. The army is ready. All we have to do now is say goodbye to the king. Macbeth is ripe for the picking. We’ll be acting as God’s agents. Cheer up as much as you can. A new day will come at last."
+
+  - os: "Exeunt"
+    ms: "They exit."

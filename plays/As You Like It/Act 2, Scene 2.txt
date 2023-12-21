@@ -1,0 +1,51 @@
+play: As You Like It
+title: Act 2, Scene 2
+group: 2
+order: 4
+text:
+  - os: "Enter DUKE FREDERICK, with LORDS"
+    ms: "DUKE FREDERICK enters, with LORDS"
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Can it be possible that no man saw them?"
+      - "It cannot be. Some villains of my court"
+      - "Are of consent and sufferance in this."
+    m:
+      - "Can it be possible that no one saw them leave? It cannot be. Some villains in my court must have known about this and let it happen."
+
+  - sp: FIRST LORD
+    o:
+      - "I cannot hear of any that did see her."
+      - "The ladies, her attendants of her chamber"
+      - "Saw her abed, and in the morning early"
+      - "They found the bed untreasured of their mistress."
+    m:
+      - "I can’t find anyone who saw her leave. Her ladies-in-waiting saw her go to bed, and early this morning the bed was empty."
+
+  - sp: SECOND LORD
+    o:
+      - "My lord, the roinish clown, at whom so oft"
+      - "Your Grace was wont to laugh, is also missing."
+      - "Hisperia, the Princess’ gentlewoman,"
+      - "Confesses that she secretly o’erheard"
+      - "Your daughter and her cousin much commend"
+      - "The parts and graces of the wrestler"
+      - "That did but lately foil the sinewy Charles,"
+      - "And she believes wherever they are gone"
+      - "That youth is surely in their company."
+    m:
+      - "My lord, that dirty clown whom you laughed at so often is also missing. Hisperia, the princess’ gentlewoman, confesses that she overheard your daughter and her cousin praising the good looks and skills of the wrestler who recently beat the muscular Charles. Hisperia believes that, wherever they have gone, that young man is likely with them."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Send to his brother. Fetch that gallant hither."
+      - "If he be absent, bring his brother to me."
+      - "I’ll make him find him. Do this suddenly,"
+      - "And let not search and inquisition quail"
+      - "To bring again these foolish runaways."
+    m:
+      - "Send a message to his brother. Bring that swinger Orlando here. If he’s not around, bring his brother Oliver to me. I’ll make Oliver find him. Do this immediately, and don’t stop searching and interrogating until you’ve brought home these foolish runaways."
+
+  - os: "Exeunt"
+    ms: "They all exit."

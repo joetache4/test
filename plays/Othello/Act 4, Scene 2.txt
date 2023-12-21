@@ -1,0 +1,791 @@
+play: Othello
+title: Act 4, Scene 2
+group: 4
+order: 11
+text:
+  - os: "Enter OTHELLO and EMILIA"
+    ms: "OTHELLO and EMILIA enter."
+
+  - sp: OTHELLO
+    o:
+      - "You have seen nothing then?"
+    m:
+      - "You haven’t seen anything, then?"
+
+  - sp: EMILIA
+    o:
+      - "Nor ever heard, nor ever did suspect."
+    m:
+      - "No, and I didn’t hear anything either, or suspect anything at all."
+
+  - sp: OTHELLO
+    o:
+      - "Yes, you have seen Cassio and she together."
+    m:
+      - "But you’ve seen her and Cassio together."
+
+  - sp: EMILIA
+    o:
+      - "But then I saw no harm, and then I heard"
+      - "Each syllable that breath made up between them."
+    m:
+      - "Yes, but I didn’t see anything wrong, and I heard every syllable they said."
+
+  - sp: OTHELLO
+    o:
+      - "What, did they never whisper?"
+    m:
+      - "Didn’t they ever whisper?"
+
+  - sp: EMILIA
+    o:
+      - "Never, my lord."
+    m:
+      - "Never, my lord."
+
+  - sp: OTHELLO
+    o:
+      - "Nor send you out o’ th’ way?"
+    m:
+      - "Or ask you to leave the room?"
+
+  - sp: EMILIA
+    o:
+      - "Never."
+    m:
+      - "Never."
+
+  - sp: OTHELLO
+    o:
+      - "To fetch her fan, her gloves, her mask, nor nothing?"
+    m:
+      - "Not even to get her fan, or her gloves, or her mask, or anything?"
+
+  - sp: EMILIA
+    o:
+      - "Never, my lord."
+    m:
+      - "No, my lord."
+
+  - sp: OTHELLO
+    o:
+      - "That’s strange."
+    m:
+      - "That’s strange."
+
+  - sp: EMILIA
+    o:
+      - "I durst, my lord, to wager she is honest,"
+      - "Lay down my soul at stake. If you think other"
+      - "Remove your thought, it doth abuse your bosom."
+      - "If any wretch have put this in your head"
+      - "Let heaven requite it with the serpent’s curse"
+      - "For if she be not honest, chaste, and true"
+      - "There’s no man happy. The purest of their wives"
+      - "Is foul as slander."
+    m:
+      - "I’d swear to you on my soul that she’s a good, honest person, sir. If you suspect otherwise, stop thinking that right now because you’re wrong. If any jerk has tried to convince you she’s bad, I hope God curses him. If she’s not honest, faithful, and true, then there’s no such thing as a faithful wife or a happy husband."
+
+  - sp: OTHELLO
+    o:
+      - "  Bid her come hither. Go."
+    m:
+      - "Tell her to come here. Go."
+
+  - os: "Exit EMILIA"
+    ms: "EMILIA exits."
+
+  - o:
+      - "She says enough, yet she’s a simple bawd"
+      - "That cannot say as much. This is a subtle whore,"
+      - "A closet, lock and key, of villainous secrets."
+      - "And yet she’ll kneel and pray, I have seen her do ’t."
+    m:
+      - "She says all the right things, but the dumbest brothel-keeper would tell the same story. Desdemona’s a tricky whore with a closet full of awful secrets, but still she’ll kneel and pray like an honest woman. I’ve seen her do it."
+
+  - os: "Enter DESDEMONA with EMILIA"
+    ms: "DESDEMONA and EMILIA enter."
+
+  - sp: DESDEMONA
+    o:
+      - "My lord, what is your will?"
+    m:
+      - "My lord, what do you want?"
+
+  - sp: OTHELLO
+    o:
+      - "Pray, chuck, come hither."
+    m:
+      - "Please, dear, come here."
+
+  - sp: DESDEMONA
+    o:
+      - "What is your pleasure?"
+    m:
+      - "What can I do for you?"
+
+  - sp: OTHELLO
+    o:
+      - "  Let me see your eyes."
+      - "Look in my face."
+    m:
+      - "Let me see your eyes. Look at my face."
+
+  - sp: DESDEMONA
+    o:
+      - "  What horrible fancy’s this?"
+    m:
+      - "What horrible thing are you imagining?"
+
+  - sp: OTHELLO
+    o:
+      - "*(to EMILIA)* Some of your function, mistress,"
+      - "Leave procreants alone and shut the door."
+      - "Cough or cry “hem” if any body come."
+      - "Your mystery, your mystery! Nay, dispatch!"
+    m:
+      - "*(to EMILIA)* Go do what you do best, madam. Leave us alone for our hanky-panky, and shut the door behind you. If somebody comes, give a shout. That’s your job, your job. Go on, hurry!"
+
+  - os: "Exit EMILIA"
+    ms: "EMILIA exits."
+
+  - sp: DESDEMONA
+    o:
+      - "Upon my knee, what doth your speech import?"
+      - "I understand a fury in your words,"
+      - "But not the words."
+    m:
+      - "I’m begging you on my knees to tell me what your words mean. I can tell you’re furious, but I don’t understand what you’re saying."
+
+  - sp: OTHELLO
+    o:
+      - "  Why, what art thou?"
+    m:
+      - "Why? Who are you?"
+
+  - sp: DESDEMONA
+    o:
+      - "Your wife, my lord. Your true and loyal wife."
+    m:
+      - "I’m your wife, your true and loyal wife."
+
+  - sp: OTHELLO
+    o:
+      - "Come, swear it, damn thyself."
+      - "Lest, being like one of heaven, the devils themselves"
+      - "Should fear to seize thee. Therefore be double damned,"
+      - "Swear thou art honest!"
+    m:
+      - "Go ahead, swear to that, so you’ll be damned to hell for lying. Otherwise the devils will mistake you for an angel and be too scared to grab you. Go ahead, make sure you damn yourself by swearing you’ve been faithful to me."
+
+  - sp: DESDEMONA
+    o:
+      - "    Heaven doth truly know it."
+    m:
+      - "Heaven knows I am."
+
+  - sp: OTHELLO
+    o:
+      - "Heaven truly knows that thou art false as hell."
+    m:
+      - "Heaven knows you’re as unfaithful as hell."
+
+  - sp: DESDEMONA
+    o:
+      - "To whom, my lord? With whom? How am I false?"
+    m:
+      - "Unfaithful, my lord? With whom? How am I unfaithful?"
+
+  - sp: OTHELLO
+    o:
+      - "Ah, Desdemona, away, away, away!"
+    m:
+      - "Leave me alone, Desdemona, go away!"
+
+  - sp: DESDEMONA
+    o:
+      - "Alas the heavy day, why do you weep?"
+      - "Am I the motive of these tears, my lord?"
+      - "If haply you my father do suspect"
+      - "An instrument of this your calling back,"
+      - "Lay not your blame on me. If you have lost him,"
+      - "Why, I have lost him too."
+    m:
+      - "Oh, what a horrible day! Why are you crying? Because of me? If you’ve been ordered back to Venice because of my father, don’t blame me. You may have lost his respect, but so have I."
+
+  - sp: OTHELLO
+    o:
+      - "    Had it pleased heaven"
+      - "To try me with affliction, had they rained"
+      - "All kinds of sores and shames on my bare head,"
+      - "Steeped me in poverty to the very lips,"
+      - "Given to captivity me and my utmost hopes,"
+      - "I should have found in some place of my soul"
+      - "A drop of patience. But, alas, to make me"
+      - "The fixèd figure for the time of scorn"
+      - "To point his slow and moving finger at!"
+      - "Yet could I bear that too, well, very well."
+      - "But there where I have garnered up my heart,"
+      - "Where either I must live or bear no life,"
+      - "The fountain from the which my current runs"
+      - "Or else dries up—to be discarded thence!"
+      - "Or keep it as a cistern for foul toads"
+      - "To knot and gender in! Turn thy complexion there,"
+      - "Patience, thou young and rose-lipped cherubin,—"
+      - "Ay, there, look grim as hell!"
+    m:
+      - "If God had decided to treat me like Job, making me sick and covered with sores, reducing me to abject poverty, selling me into slavery and destroying all my hopes, I would have found some way to accept it with patience. But instead He’s made me a laughingstock for everyone in our time to point at and scorn! Even that I could put up with. But instead, my wife, who’s supposed to be like the fountain that my children and all my descendants flow from, has rejected me! Worse than that, she’s polluted herself, so that the fountain is a place where disgusting toads copulate and reproduce! Even the goddess of patience couldn’t look at this and be patient—it’s too horrifying!"
+
+  - sp: DESDEMONA
+    o:
+      - "I hope my noble lord esteems me honest."
+    m:
+      - "I hope you think I’m faithful to you."
+
+  - sp: OTHELLO
+    o:
+      - "Oh, ay, as summer flies are in the shambles,"
+      - "That quicken even with blowing. O thou weed,"
+      - "Who art so lovely fair and smell’st so sweet"
+      - "That the sense aches at thee, would thou hadst ne’er been born!"
+    m:
+      - "As faithful as flies in rotting meat, which give birth to maggots every time the wind blows. You’re like a weed pretending to be a flower, so beautiful and sweet-smelling that I ache when I look at you. Oh, I wish you’d never been born!"
+
+  - sp: DESDEMONA
+    o:
+      - "Alas, what ignorant sin have I committed?"
+    m:
+      - "Have I done something to offend you without knowing it?"
+
+  - sp: OTHELLO
+    o:
+      - "Was this fair paper, this most goodly book,"
+      - "Made to write “whore” upon? What committed?"
+      - "Committed? O thou public commoner!"
+      - "I should make very forges of my cheeks"
+      - "That would to cinders burn up modesty"
+      - "Did I but speak thy deeds. What committed?"
+      - "Heaven stops the nose at it and the moon winks,"
+      - "The bawdy wind that kisses all it meets"
+      - "Is hushed within the hollow mine of earth"
+      - "And will not hear ’t. What committed!"
+      - "Impudent strumpet!"
+    m:
+      - "Was someone as beautiful as you meant to be a whore? What have you done? What have you done? Oh, you streetwalker! If I said out loud what you’ve done, you’d burn up with shame. What have you done? Heaven has to hold its nose when it sees you! The pure moon in the sky has to shut its eyes when you go by! Even the wind that blows over everything on earth is ashamed to visit you. You brazen whore!"
+
+  - sp: DESDEMONA
+    o:
+      - "By heaven, you do me wrong!"
+    m:
+      - "I swear to God you’re accusing me wrongly!"
+
+  - sp: OTHELLO
+    o:
+      - "Are you not a strumpet?"
+    m:
+      - "So you’re saying you’re not a whore?"
+
+  - sp: DESDEMONA
+    o:
+      - "No, as I am a Christian."
+      - "If to preserve this vessel for my lord"
+      - "From any other foul unlawful touch"
+      - "Be not to be a strumpet, I am none."
+    m:
+      - "No, I’m as honest as I am Christian. If only letting my husband touch my body means I’m not a whore, I’m not a whore."
+
+  - sp: OTHELLO
+    o:
+      - "What, not a whore?"
+    m:
+      - "What, you’re not a whore?"
+
+  - sp: DESDEMONA
+    o:
+      - "  No, as I shall be saved."
+    m:
+      - "No, I swear it."
+
+  - sp: OTHELLO
+    o:
+      - "Is ’t possible?"
+    m:
+      - "Is that possible?"
+
+  - sp: DESDEMONA
+    o:
+      - "Oh, heaven forgive us!"
+    m:
+      - "Oh, heaven help us!"
+
+  - sp: OTHELLO
+    o:
+      - "I cry you mercy, then,"
+      - "I took you for that cunning whore of Venice"
+      - "That married with Othello.—You, mistress,"
+      - "That have the office opposite to Saint Peter"
+      - "And keep the gate of hell!"
+    m:
+      - "I beg your pardon then. I must have the wrong woman. I mistook you for that sly Venetian woman who married Othello.—You whorehouse-keeper."
+
+  - os: "Enter EMILIA"
+    ms: "EMILIA enters."
+
+  - o:
+      - "    You, you, ay, you!"
+      - "We have done our course. There’s money for your pains."
+      - "I pray you, turn the key and keep our counsel."
+    m:
+      - "You’re in charge of this hell! You! We’ve finished our business. Here’s some money for you. Please lock the door and keep quiet."
+
+  - os: "Exit"
+    ms: "OTHELLO exits."
+
+  - sp: EMILIA
+    o:
+      - "Alas, what does this gentleman conceive?"
+      - "How do you, madam? How do you, my good lady?"
+    m:
+      - "What’s he talking about? How are you, madam?"
+
+  - sp: DESDEMONA
+    o:
+      - "Faith, half asleep."
+    m:
+      - "I’m stunned, to tell you the truth."
+
+  - sp: EMILIA
+    o:
+      - "Good madam, what’s the matter with my lord?"
+    m:
+      - "My lady, what’s wrong with your husband?"
+
+  - sp: DESDEMONA
+    o:
+      - "With who?"
+    m:
+      - "With who?"
+
+  - sp: EMILIA
+    o:
+      - "  Why, with my lord, madam."
+    m:
+      - "Why, with your husband, madam. My lord."
+
+  - sp: DESDEMONA
+    o:
+      - "Who is thy lord?"
+    m:
+      - "Who’s your lord?"
+
+  - sp: EMILIA
+    o:
+      - "  He that is yours, sweet lady."
+    m:
+      - "My lord is your lord."
+
+  - sp: DESDEMONA
+    o:
+      - "I have none. Do not talk to me, Emilia."
+      - "I cannot weep, nor answers have I none,"
+      - "But what should go by water. Prithee, tonight"
+      - "Lay on my bed my wedding sheets. Remember,"
+      - "And call thy husband hither."
+    m:
+      - "I don’t have a lord. Don’t talk to me, Emilia. I can’t even cry, though tears are the only answers I could give to all your questions. Tonight put my wedding sheets on my bed, and tell your husband to come to me now."
+
+  - sp: EMILIA
+    o:
+      - "    Here’s a change indeed!"
+    m:
+      - "Things have certainly changed!"
+
+  - os: "Exit"
+    ms: "EMILIA exits."
+
+  - sp: DESDEMONA
+    o:
+      - "’Tis meet I should be used so, very meet."
+      - "How have I been behaved that he might stick"
+      - "The small’st opinion on my least misuse?"
+    m:
+      - "It’s fair for him to treat me like this, very fair. What have I ever done that he has anything to complain about?"
+
+  - os: "Enter EMILIA with IAGO"
+    ms: "IAGO and EMILIA enter."
+
+  - sp: IAGO
+    o:
+      - "What is your pleasure, madam? How is ’t with you?"
+    m:
+      - "What can I do for you, madam? How are you?"
+
+  - sp: DESDEMONA
+    o:
+      - "I cannot tell. Those that do teach young babes"
+      - "Do it with gentle means and easy tasks."
+      - "He might have chid me so, for, in good faith,"
+      - "I am a child to chiding."
+    m:
+      - "I don’t know. When grown-ups teach little children, they do it gently and easily. He might have treated me like that, because I’m as unused to abuse as a little child."
+
+  - sp: IAGO
+    o:
+      - "    What is the matter, lady?"
+    m:
+      - "What’s the matter, lady?"
+
+  - sp: EMILIA
+    o:
+      - "Alas, Iago, my lord hath so bewhored her,"
+      - "Thrown such despite and heavy terms upon her,"
+      - "That true hearts cannot bear it."
+    m:
+      - "He called her a whore so many times, and heaped up so much abuse on her that good people can’t stand to hear it."
+
+  - sp: DESDEMONA
+    o:
+      - "Am I that name, Iago?"
+    m:
+      - "Am I that name, Iago?"
+
+  - sp: IAGO
+    o:
+      - "What name, fair lady?"
+    m:
+      - "What name, madam?"
+
+  - sp: DESDEMONA
+    o:
+      - "Such as she says my lord did say I was."
+    m:
+      - "What my lord said I was."
+
+  - sp: EMILIA
+    o:
+      - "He called her “whore.” A beggar in his drink"
+      - "Could not have laid such terms upon his callet."
+    m:
+      - "He called her a whore. A beggar couldn’t have called his slut worse names."
+
+  - sp: IAGO
+    o:
+      - "Why did he so?"
+    m:
+      - "Why did he do that?"
+
+  - sp: DESDEMONA
+    o:
+      - "I do not know. I am sure I am none such."
+    m:
+      - "I don’t know. I just know I’m not one."
+
+  - sp: IAGO
+    o:
+      - "Do not weep, do not weep. Alas the day!"
+    m:
+      - "Don’t cry, don’t cry. What a day this is!"
+
+  - sp: EMILIA
+    o:
+      - "Hath she forsook so many noble matches,"
+      - "Her father and her country, and her friends,"
+      - "To be called “whore”? Would it not make one weep?"
+    m:
+      - "Did she give up all those chances to marry noblemen, give up her father and country and friends, just to be called a whore? Doesn’t that make you want to cry?"
+
+  - sp: DESDEMONA
+    o:
+      - "It is my wretched fortune."
+    m:
+      - "It’s just my bad luck."
+
+  - sp: IAGO
+    o:
+      - "    Beshrew him for ’t!"
+      - "How comes this trick upon him?"
+    m:
+      - "Damn him! How did he get such an idea?"
+
+  - sp: DESDEMONA
+    o:
+      - "    Nay, heaven doth know."
+    m:
+      - "Heaven knows."
+
+  - sp: EMILIA
+    o:
+      - "I will be hanged, if some eternal villain,"
+      - "Some busy and insinuating rogue,"
+      - "Some cogging, cozening slave, to get some office,"
+      - "Have not devised this slander. I will be hanged else!"
+    m:
+      - "I bet my life some evil busybody, some meddling, lying jerk made up this rumor to get some position. I bet my life on it."
+
+  - sp: IAGO
+    o:
+      - "Fie, there is no such man. It is impossible."
+    m:
+      - "Nobody’s that bad. It’s impossible."
+
+  - sp: DESDEMONA
+    o:
+      - "If any such there be, heaven pardon him!"
+    m:
+      - "If there is, then heaven help him!"
+
+  - sp: EMILIA
+    o:
+      - "A halter pardon him and hell gnaw his bones!"
+      - "Why should he call her “whore”? Who keeps her company?"
+      - "What place? What time? What form? What likelihood?"
+      - "The Moor’s abused by some most villainous knave,"
+      - "Some base notorious knave, some scurvy fellow."
+      - "O heavens, that such companions thou’dst unfold,"
+      - "And put in every honest hand a whip"
+      - "To lash the rascals naked through the world"
+      - "Even from the east to th’ west!"
+    m:
+      - "A hangman’s noose will help him! Let hell chew him up! Why should he call her a whore? Who’s been with her? When has she had the time, the place, or the means to sleep with anyone? How is this at all likely? The Moor is being tricked by some crook, some terrible villain, some rotten bastard. Oh, I wish we could unmask scoundrels like that, and give a whip to every good man to beat them senseless with!"
+
+  - sp: IAGO
+    o:
+      - "    Speak within door."
+    m:
+      - "Keep your voice down."
+
+  - sp: EMILIA
+    o:
+      - "Oh, fie upon them! Some such squire he was"
+      - "That turned your wit the seamy side without"
+      - "And made you to suspect me with the Moor."
+    m:
+      - "Oh, to hell with those people! It’s the same kind of guy who got you upset and made you suspect I’d cheated on you with the Moor."
+
+  - sp: IAGO
+    o:
+      - "You are a fool. Go to."
+    m:
+      - "You’re a fool. Shut up."
+
+  - sp: DESDEMONA
+    o:
+      - "    Alas Iago,"
+      - "What shall I do to win my lord again?"
+      - "Good friend, go to him. For, by this light of heaven,"
+      - "I know not how I lost him. Here I kneel:"
+      - "If e’er my will did trespass ’gainst his love,"
+      - "Either in discourse of thought or actual deed,"
+      - "Or that mine eyes, mine ears, or any sense,"
+      - "Delighted them, or any other form,"
+      - "Or that I do not yet, and ever did,"
+      - "And ever will—though he do shake me off"
+      - "To beggarly divorcement—love him dearly,"
+      - "Comfort forswear me! Unkindness may do much,"
+      - "And his unkindness may defeat my life,"
+      - "But never taint my love. I cannot say “whore,”"
+      - "It does abhor me now I speak the word."
+      - "To do the act that might the addition earn"
+      - "Not the world’s mass of vanity could make me."
+    m:
+      - "Oh God, Iago, what can I do to win my husband back again? Please go to him, my friend. I swear I have no idea why he stopped loving me. Here I’m kneeling to swear that if I ever did anything to destroy his love for me, either by thoughts or actions, or if I ever took pleasure in anyone else, or if I never did love him, or don’t love him now—even though he tries to shake me off— then I hope I have a life of misery! Unkindness is powerful, and his unkindness may kill me, but it’ll never destroy my love. I can’t say “whore.” It makes me sick to say the word even now. I wouldn’t do the thing that would make me a whore for all the money in the world."
+
+  - sp: IAGO
+    o:
+      - "I pray you, be content, ’tis but his humor."
+      - "The business of the state does him offence,"
+      - "And he does chide with you."
+    m:
+      - "Please calm down. He’s just in a bad mood. Political business is bothering him, and he’s just taking it out on you."
+
+  - sp: DESDEMONA
+    o:
+      - "If ’twere no other—"
+    m:
+      - "If only that were all it is—"
+
+  - sp: IAGO
+    o:
+      - "’Tis but so, I warrant."
+    m:
+      - "It is, I promise."
+
+  - os: "Trumpets sound"
+    ms: "Trumpets sound."
+
+  - o:
+      - "Hark, how these instruments summon to supper."
+      - "The messengers of Venice stays the meat."
+      - "Go in, and weep not. All things shall be well."
+    m:
+      - "Those trumpets are calling us in to dinner. The Venetians are waiting for their food. Go in, and don’t cry. Everything will be all right."
+
+  - os: "Exeunt DESDEMONA and EMILIA"
+    ms: "DESDEMONA and EMILIA exit."
+
+  - os: "Enter RODERIGO"
+    ms: "RODERIGO enters."
+
+  - o:
+      - "How now, Roderigo!"
+    m:
+      - "How are you, Roderigo?"
+
+  - sp: RODERIGO
+    o:
+      - "I do not find that thou deal’st justly with me."
+    m:
+      - "I don’t think you’re treating me fairly."
+
+  - sp: IAGO
+    o:
+      - "What in the contrary?"
+    m:
+      - "What makes you say that?"
+
+  - sp: RODERIGO
+    o:
+      - "Every day thou daff’st me with some device, Iago, and rather, as it seems to me now, keep’st from me all conveniency than suppliest me with the least advantage of hope. I will indeed no longer endure it, nor am I yet persuaded to put up in peace what already I have foolishly suffered."
+    m:
+      - "Every day you put me off with some trick. Instead of finding opportunities for me, you seem to be preventing me from making any progress. Well, I won’t take it any longer. And I’m not going to sit back and accept what you’ve done."
+
+  - sp: IAGO
+    o:
+      - "Will you hear me, Roderigo?"
+    m:
+      - "Will you listen to me, Roderigo?"
+
+  - sp: RODERIGO
+    o:
+      - "I have heard too much, and your words and performances are no kin together."
+    m:
+      - "I’ve listened to you too much already. Your words and actions don’t match up."
+
+  - sp: IAGO
+    o:
+      - "You charge me most unjustly."
+    m:
+      - "That’s not fair."
+
+  - sp: RODERIGO
+    o:
+      - "With naught but truth. I have wasted myself out of my means. The jewels you have had from me to deliver Desdemona would half have corrupted a votaress. You have told me she hath received them and returned me expectations and comforts of sudden respect and acquaintance, but I find none."
+    m:
+      - "It’s the truth. I’ve got no money left. The jewels you took from me to deliver to Desdemona would’ve made even a nun want to sleep with me. You told me she got them, and that she promised to give me a little something in return soon, but nothing like that ever happens."
+
+  - sp: IAGO
+    o:
+      - "Well, go to. Very well."
+    m:
+      - "Well, all right then. Fine."
+
+  - sp: RODERIGO
+    o:
+      - "“Very well,” “go to”! I cannot go to, man, nor ’tis not very well. Nay, I think it is scurvy, and begin to find myself fopped in it."
+    m:
+      - "“Fine!” he says. “All right!” It’s not fine, and I’m not all right! It’s wrong, and I’m starting to realize I’m being cheated!"
+
+  - sp: IAGO
+    o:
+      - "Very well."
+    m:
+      - "Okay."
+
+  - sp: RODERIGO
+    o:
+      - "I tell you ’tis not very well. I will make myself known to Desdemona. If she will return me my jewels I will give over my suit and repent my unlawful solicitation. If not, assure yourself I will seek satisfaction of you."
+    m:
+      - "It’s not okay! I’m going to tell Desdemona my feelings. If she returns my jewels, I’ll stop pursuing her and apologize to her. If not, I’ll challenge you to a duel."
+
+  - sp: IAGO
+    o:
+      - "You have said now."
+    m:
+      - "You’ve said what you have to say now."
+
+  - sp: RODERIGO
+    o:
+      - "Ay, and said nothing but what I protest intendment of doing."
+    m:
+      - "Yes, and I’ll do everything I just said."
+
+  - sp: IAGO
+    o:
+      - "Why, now I see there’s mettle in thee, and even from this instant to build on thee a better opinion than ever before. Give me thy hand, Roderigo. Thou hast taken against me a most just exception, but yet I protest I have dealt most directly in thy affair."
+    m:
+      - "Well, all right then. Now I see that you have some guts. From this moment on I have a higher opinion of you than before. Give me your hand, Roderigo. Your complaint against me is perfectly understandable, but I still insist I’ve done everything I could to help you."
+
+  - sp: RODERIGO
+    o:
+      - "It hath not appeared."
+    m:
+      - "It doesn’t look that way to me."
+
+  - sp: IAGO
+    o:
+      - "I grant indeed it hath not appeared, and your suspicion is not without wit and judgment. But, Roderigo, if thou hast that in thee indeed, which I have greater reason to believe now than ever—I mean purpose, courage and valor—this night show it. If thou the next night following enjoy not Desdemona, take me from this world with treachery and devise engines for my life."
+    m:
+      - "I admit it doesn’t look that way to me, and the fact that you suspect me shows that you’re smart. But Roderigo, if you’re as courageous and determined as I think you are, then wait just a bit longer. If you’re not having sex with Desdemona tomorrow night, then I suggest you find some way to stab me in the back and kill me."
+
+  - sp: RODERIGO
+    o:
+      - "Well, what is it? Is it within reason and compass?"
+    m:
+      - "Well, what’s your plan? Is it feasible?"
+
+  - sp: IAGO
+    o:
+      - "Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."
+    m:
+      - "Venice has made Cassio governor here on Cyprus."
+
+  - sp: RODERIGO
+    o:
+      - "Is that true? Why, then Othello and Desdemona return again to Venice."
+    m:
+      - "Is that true? Then Desdemona and Othello will go back to Venice."
+
+  - sp: IAGO
+    o:
+      - "Oh, no, he goes into Mauritania and taketh away with him the fair Desdemona, unless his abode be lingered here by some accident—wherein none can be so determinate as the removing of Cassio."
+    m:
+      - "Oh, no. He’ll go to Mauritania and take the beautiful Desdemona with him, unless he gets stuck here for some reason. The best way to extend his stay here is to get rid of Cassio."
+
+  - sp: RODERIGO
+    o:
+      - "How do you mean, removing of him?"
+    m:
+      - "What do you mean, get rid of him?"
+
+  - sp: IAGO
+    o:
+      - "Why, by making him uncapable of Othello’s place: knocking out his brains."
+    m:
+      - "I mean knock his brains out, so he can’t take Othello’s place."
+
+  - sp: RODERIGO
+    o:
+      - "And that you would have me to do!"
+    m:
+      - "And that’s what you want me to do!"
+
+  - sp: IAGO
+    o:
+      - "Ay, if you dare do yourself a profit and a right. He sups tonight with a harlotry, and thither will I go to him. He knows not yet of his honorable fortune. If you will watch his going thence (which I will fashion to fall out between twelve and one) you may take him at your pleasure. I will be near to second your attempt, and he shall fall between us. Come, stand not amazed at it, but go along with me. I will show you such a necessity in his death that you shall think yourself bound to put it on him. It is now high suppertime, and the night grows to waste. About it!"
+    m:
+      - "Yes, if you want to help yourself. He’s having dinner tonight with a prostitute, and I’ll go visit him. He doesn’t know he’s been appointed governor yet. When you see him walking by here (as I’ll make sure he does between twelve and one) you can nab him. I’ll be nearby to help you, and between the two of us we can handle him. Come on, don’t stand there in a daze. Come along with me. I’ll give you such reasons for killing him that you’ll feel obliged to snuff him out. It’s nearly dinner time, and the night’s going to be wasted. Let’s go!"
+
+  - sp: RODERIGO
+    o:
+      - "I will hear further reason for this."
+    m:
+      - "I want to hear more about this."
+
+  - sp: IAGO
+    o:
+      - "And you shall be satisfied."
+    m:
+      - "You will. You’ll hear all you want to hear."
+
+  - os: "Exeunt"
+    ms: "They exit."

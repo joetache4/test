@@ -1,0 +1,277 @@
+play: Richard III
+title: Act 4, Scene 1
+group: 4
+order: 15
+text:
+  - os: "Enter QUEEN ELIZABETH, DUCHESS of York, and DORSET at one door; ANNE, duchess of Gloucester with CLARENCE’s young daughter at another door"
+    ms: "QUEEN ELIZABETH, DUCHESS of York, and DORSET enter on one side, and ANNE, the duchess of Gloucester, enters on the other, leading Clarence’s young daughter, Lady Margaret Plantagenet."
+
+  - sp: DUCHESS
+    o:
+      - "Who meets us here? My niece Plantagenet"
+      - "Led in the hand of her kind aunt of Gloucester?"
+      - "Now, for my life, she’s wandering to the Tower,"
+      - "On pure heart’s love, to greet the tender prince.—"
+      - "Daughter, well met."
+    m:
+      - "Who’s this? My granddaughter, with her kind aunt, the duchess of Gloucester, leading her by the hand? Now, on my life, the young child must be headed to the Tower to greet the young princes, whom she adores. Daughter, how nice to see you."
+
+  - sp: ANNE
+    o:
+      - "    God give your Graces both"
+      - "A happy and a joyful time of day."
+    m:
+      - "Good afternoon!"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "As much to you, good sister. Whither away?"
+    m:
+      - "The same to you, good sister. Where are you going?"
+
+  - sp: ANNE
+    o:
+      - "No farther than the Tower, and, as I guess,"
+      - "Upon the like devotion as yourselves,"
+      - "To gratulate the gentle princes there."
+    m:
+      - "Just to the Tower—I’m guessing, for the same reason you are: to salute the noble princes who are staying there."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Kind sister, thanks. We’ll enter all together."
+    m:
+      - "Yes, kind sister. We can all go together."
+
+  - os: "Enter BRAKENBURY"
+    ms: "BRAKENBURY enters."
+
+  - o:
+      - "And in good time here the lieutenant comes.—"
+      - "Master Lieutenant, pray you, by your leave,"
+      - "How doth the prince and my young son of York?"
+    m:
+      - "And here comes the warden, just in time. Officer, please tell us, if you will, how are the prince and my little son, York?"
+
+  - sp: BRAKENBURY
+    o:
+      - "Right well, dear madam. By your patience,"
+      - "I may not suffer you to visit them."
+      - "The king hath strictly charged the contrary."
+    m:
+      - "They’re just fine, my dear madam. But I’m sorry—I’m not allowed to let you visit them. The king has strictly forbidden it."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "The king? Who’s that?"
+    m:
+      - "The king? Who’s that?"
+
+  - sp: BRAKENBURY
+    o:
+      - "    I mean, the Lord Protector."
+    m:
+      - "I meant to say the Lord Protector."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "The Lord protect him from that kingly title!"
+      - "Hath he set bounds between their love and me?"
+      - "I am their mother. Who shall bar me from them?"
+    m:
+      - "The Lord keep him from the title of king! Richard has set boundaries between my love and theirs? I am their mother. Who’s going to keep me from them?"
+
+  - sp: DUCHESS
+    o:
+      - "I am their father’s mother. I will see them."
+    m:
+      - "I am their father’s mother. I will see them."
+
+  - sp: ANNE
+    o:
+      - "Their aunt I am in law, in love their mother."
+      - "Then bring me to their sights. I’ll bear thy blame"
+      - "And take thy office from thee, on my peril."
+    m:
+      - "I am their aunt, and I love them like a mother. So take me to see them. Officer, I’ll take the responsibility from you, and the blame too."
+
+  - sp: BRAKENBURY
+    o:
+      - "No, madam, no. I may not leave it so."
+      - "I am bound by oath, and therefore pardon me."
+    m:
+      - "No, madam, no. I can’t do this. I am bound by oath, so please forgive me."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter Lord STANLEY, earl of Derby"
+    ms: "Lord STANLEY, earl of Derby, enters."
+
+  - sp: STANLEY
+    o:
+      - "Let me but meet you ladies one hour hence,"
+      - "And I’ll salute your Grace of York as mother"
+      - "And reverend looker-on, of two fair queens."
+      - "*(to ANNE)*"
+      - "Come, madam, you must straight to Westminster,"
+      - "There to be crownèd Richard’s royal queen."
+    m:
+      - "In just an hour from now, Duchess of York, I’ll be saluting you as the mother of two beautiful queens. *(to ANNE)* Come, madam, you must go straight to Westminster Abbey, where you will be crowned Richard’s queen."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Ah, cut my lace asunder,"
+      - "That my pent heart may have some scope to beat,"
+      - "Or else I swoon with this dead-killing news!"
+    m:
+      - "Oh, cut my bodice-staps so that my pent-up heart can have some room to breathe, or I’ll faint from this deadly news!"
+
+  - sp: ANNE
+    o:
+      - "Despiteful tidings! O, unpleasing news!"
+    m:
+      - "Cruel, cruel news!"
+
+  - sp: DORSET
+    o:
+      - "*(to QUEEN ELIZABETH)* Be of good cheer, mother. How fares"
+      - "  your Grace?"
+    m:
+      - "*(to QUEEN ELIZABETH)* Cheer up, mother. How are you feeling?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "O Dorset, speak not to me. Get thee gone."
+      - "Death and destruction dogs thee at thy heels."
+      - "Thy mother’s name is ominous to children."
+      - "If thou wilt outstrip death, go, cross the seas,"
+      - "And live with Richmond, from the reach of hell."
+      - "Go, hie thee, hie thee from this slaughterhouse,"
+      - "Lest thou increase the number of the dead"
+      - "And make me die the thrall of Margaret’s curse,"
+      - "Nor mother, wife, nor England’s counted queen."
+    m:
+      - "Oh, Dorset, don’t waste your time talking to me. Leave. Death and destruction are following at your heels. Your mother’s name has become a threat to her own children. If you want to outrun death, go cross the sea to France and stay with Richmond, out of the reach of hell. Go, get out of here, get out of this slaughterhouse. Otherwise you’ll just increase the number of the dead, and make me die the slave of Margaret’s curse, no longer a mother, a wife, or England’s queen."
+
+  - sp: STANLEY
+    o:
+      - "Full of wise care is this your counsel, madam."
+      - "*(to DORSET)* Take all the swift advantage of the hours."
+      - "You shall have letters from me to my son"
+      - "In your behalf, to meet you on the way."
+      - "Be not ta’en tardy by unwise delay."
+    m:
+      - "Madam, your advice is wise and caring.—Dorset, take advantage of the time you have. I’ll write to my stepson Richmond on your behalf, so that he’ll meet you on the way. But don’t delay."
+
+  - sp: DUCHESS
+    o:
+      - "O ill-dispersing wind of misery!"
+      - "O my accursèd womb, the bed of death!"
+      - "A cockatrice hast thou hatched to the world,"
+      - "Whose unavoided eye is murderous."
+    m:
+      - "O, this evil wind that spreads nothing but misery. O, my cursed womb—it’s a deathbed, really, since Richard came out of it. It has hatched a cockatrice, whose gaze kills whatever it lands on."
+
+  - sp: STANLEY
+    o:
+      - "*(to ANNE)* Come, madam, come. I in all haste was sent."
+    m:
+      - "*(to ANNE)* Come, madam, come. I was sent in a hurry."
+
+  - sp: ANNE
+    o:
+      - "And I in all unwillingness will go."
+      - "O, would to God that the inclusive verge"
+      - "Of golden metal that must round my brow"
+      - "Were red-hot steel to sear me to the brains!"
+      - "Anointed let me be with deadly venom,"
+      - "And die ere men can say, “God save the Queen.”"
+    m:
+      - "I go unwillingly. I wish to God that the golden crown that I’ll have to wear were red-hot steel and burned me straight through to the brain! I wish I could be anointed queen with deadly venom, not oil, and that I would die before anyone even had a chance to say, “God save the Queen!”"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Go, go, poor soul, I envy not thy glory."
+      - "To feed my humor, wish thyself no harm."
+    m:
+      - "Go, go, poor soul. I don’t envy your position. If you want to make me happy, don’t wish yourself harm."
+
+  - sp: ANNE
+    o:
+      - "No? Why? When he that is my husband now"
+      - "Came to me, as I followed Henry’s corse,"
+      - "When scarce the blood was well washed from his hands"
+      - "Which issued from my other angel husband"
+      - "And that dear saint which then I weeping followed—"
+      - "O, when, I say, I looked on Richard’s face,"
+      - "This was my wish: be thou, quoth I, accursed"
+      - "For making me, so young, so old a widow;"
+      - "And, when thou wedd’st, let sorrow haunt thy bed;"
+      - "And be thy wife, if any be so mad,"
+      - "More miserable by the life of thee"
+      - "Than thou hast made me by my dear lord’s death."
+      - "Lo, ere I can repeat this curse again,"
+      - "Within so small a time my woman’s heart"
+      - "Grossly grew captive to his honey words"
+      - "And proved the subject of mine own soul’s curse,"
+      - "Which hitherto hath held my eyes from rest,"
+      - "For never yet one hour in his bed"
+      - "Did I enjoyed the golden dew of sleep,"
+      - "But with his timorous dreams was still awaked."
+      - "Besides, he hates me for my father Warwick,"
+      - "And will, no doubt, shortly be rid of me."
+    m:
+      - "No? Why? The man I’m married to now came to me when he’d barely washed the blood off his hands from killing my first husband, that angel, as well as my husband’s sainted father, whose corpse I was following to burial. I’m telling you, when I looked at Richard’s face, this is what I wished: “I want you to be cursed for making me a widow so young. And when you get married, let sorrow haunt your bed. And I hope your wife—if any woman is crazy enough to marry you—is more miserable about the fact that you’re alive as you have made me by killing my husband!” And then what? Before I even had time to repeat the curse, my woman’s heart was taken captive by his sweet, slick words. I became the victim of my own curse. Since I married him, I have not had one hour’s sleep in his bed. Every night I’m awakened by his terrified dreams. It doesn’t matter if I sleep, though. He hates me because of who my father is. He will, no doubt, get rid of me soon."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Poor heart, adieu. I pity thy complaining."
+    m:
+      - "Poor dear, goodbye. I pity your situation."
+
+  - sp: ANNE
+    o:
+      - "No more than from my soul I mourn for yours."
+    m:
+      - "No more than I do yours."
+
+  - sp: DORSET
+    o:
+      - "Farewell, thou woeful welcomer of glory."
+    m:
+      - "Goodbye. I know you’re unhappy with the glory of becoming queen."
+
+  - sp: ANNE
+    o:
+      - "Adieu, poor soul that tak’st thy leave of it."
+    m:
+      - "*(to ELIZABETH)* And goodbye to you, the poor soul who has to leave that glory behind."
+
+  - sp: DUCHESS
+    o:
+      - "*(to DORSET)*"
+      - "Go thou to Richmond, and good fortune guide thee."
+      - "*(to ANNE)* Go thou to Richard, and good angels tend thee."
+      - "*(to QUEEN ELIZABETH)*"
+      - "Go thou to sanctuary, and good thoughts possess thee."
+      - "I to my grave, where peace and rest lie with me."
+      - "Eighty-odd years of sorrow have I seen,"
+      - "And each hour’s joy wracked with a week of teen."
+    m:
+      - "*(to DORSET)* Go to Richmond, and good luck. *(to ANNE)* You go to Richard. I hope good angels will protect you. *(to QUEEN ELIZABETH)* You take sanctuary in the Abbey and think good thoughts for us. I will go to my grave, where I can look forward to peace and rest. I have witnessed eighty-odd years of sorrow; for each hour of joy I’ve experienced, I’ve suffered a full week of misery."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Stay, yet look back with me unto the Tower.—"
+      - "Pity, you ancient stones, those tender babes"
+      - "Whom envy hath immured within your walls—"
+      - "Rough cradle for such little pretty ones."
+      - "Rude ragged nurse, old sullen playfellow"
+      - "For tender princes, use my babies well."
+      - "So foolish sorrows bids your stones farewell."
+    m:
+      - "Wait. Look back at the Tower with me. Please, you ancient building, take pity on those tender babes locked inside your walls by envious rivals! You are such a rough cradle for such little pretty ones. You are a rude, ragged nurse and an old, sullen playmate for such tender princes. Please treat my babies well. I know I must look foolish saying goodbye to a building, but I’m aching with sorrow."
+
+  - os: "Exeunt"
+    ms: "They all exit."

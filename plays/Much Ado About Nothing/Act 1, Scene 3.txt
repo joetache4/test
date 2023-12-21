@@ -1,0 +1,191 @@
+play: Much Ado About Nothing
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter DON JOHN andCONRAD"
+    ms: "DON JOHN and CONRAD enter."
+
+  - sp: CONRAD
+    o:
+      - "What the goodyear, my lord, why are you thus out of"
+      - "measure sad?"
+    m:
+      - "Really, my lord, why are you so excessively sad?"
+
+  - sp: DON JOHN
+    o:
+      - "There is no measure in the occasion that breeds. Therefore"
+      - "the sadness is without limit."
+    m:
+      - "The things that cause my sadness are without limit. Therefore my sadness is without limit."
+
+  - sp: CONRAD
+    o:
+      - "You should hear reason."
+    m:
+      - "You should listen to reason. Then you’d stop being so gloomy."
+
+  - sp: DON JOHN
+    o:
+      - "And when I have heard it, what blessing brings it?"
+    m:
+      - "And after I have sat and listened to reason, what’s my prize?"
+
+  - sp: CONRAD
+    o:
+      - "If not a present remedy, at least a patient sufferance."
+    m:
+      - "If not an end to your suffering, then at least you’ll have the means to endure it patiently."
+
+  - sp: DON JOHN
+    o:
+      - "I wonder that thou, being, as thou sayst thou art, born"
+      - "under Saturn, goest about to apply a moral medicine to a"
+      - "mortifying mischief. I cannot hide what I am. I must be sad"
+      - "when I have cause and smile at no man’s jests, eat when I"
+      - "have stomach and wait for no man’s leisure, sleep when I am"
+      - "drowsy and tend on no man’s business, laugh when I am"
+      - "merry and claw no man in his humor."
+    m:
+      - "I’m amazed that you—being such a moody man yourself—are moralizing about my deadly condition. I can’t hide what I am. I’ll be sad when I have reason to be sad and won’t smile at anybody’s jokes. I’ll eat when I’m hungry and won’t wait until it’s convenient. I’ll sleep when I’m tired and won’t rouse myself for anything. I’ll laugh when I’m happy and won’t flatter and fawn over anyone."
+
+  - sp: CONRAD
+    o:
+      - "Yea, but you must not make the full show of this till you"
+      - "may do it without controlment. You have of late stood out"
+      - "against your brother, and he hath ta’en you newly into his"
+      - "grace, where it is impossible you should take true root but"
+      - "by the fair weather that you make yourself. It is needful that"
+      - "you frame the season for your own harvest."
+    m:
+      - "Sure, but don’t do it at full volume until there’s no danger in it. Not long ago you challenged and opposed your brother, and it is only very recently that he has forgiven you. You need to act carefully if you’re going to stay in his good graces. You have to wait for the appropriate time to let loose."
+
+  - sp: DON JOHN
+    o:
+      - "I had rather be a canker in a hedge than a rose in his grace,"
+      - "and it better fits my blood to be disdained of all than to"
+      - "fashion a carriage to rob love from any. In this, though I"
+      - "cannot be said to be a flattering honest man, it must not be"
+      - "denied but I am a plain-dealing villain. I am trusted with a"
+      - "muzzle and enfranchised with a clog; therefore I have"
+      - "decreed not to sing in my cage. If I had my mouth, I would"
+      - "bite; if I had my liberty, I would do my liking. In the"
+      - "meantime, let me be that I am, and seek not to alter me."
+    m:
+      - "I’d rather be a weed in a hedge than a rose in my brother’s garden. It suits me more to be hated by everyone than to put on a fancy show and trick people into loving me. Though I am not a flattering, righteous man, at least you can say that I am honest about being a villain. My brother trusts me now? Yeah—as much as a master trusts the dog he muzzles or the peasant he “frees” by chaining a big block around the man’s foot. If my mouth were unrestrained, I’d bite. If I were free, I’d do what I pleased. Until that happens, let me be who I am and don’t try to change me."
+
+  - sp: CONRAD
+    o:
+      - "Can you make no use of your discontent?"
+    m:
+      - "Can’t you somehow use your dissatisfaction to your own advantage?"
+
+  - sp: DON JOHN
+    o:
+      - "I make all use of it, for I use it only. Who comes here?"
+    m:
+      - "I use it all the time, since it’s all that I have. Who’s that?"
+
+  - os: "Enter BORACHIO"
+    ms: "BORACHIO enters."
+
+  - o:
+      - "What news, Borachio?"
+    m:
+      - "What’s going on, Borachio?"
+
+  - sp: BORACHIO
+    o:
+      - "I came yonder from a great supper. The Prince your"
+      - "brother"
+      - "is royally entertained by Leonato, and I can give you"
+      - "intelligence of an intended marriage."
+    m:
+      - "I just came from a great feast where Leonato is entertaining the Prince, your brother. I can give you information about an intended marriage."
+
+  - sp: DON JOHN
+    o:
+      - "Will it serve for any model to build mischief on? What is he"
+      - "for a fool that betroths himself to unquietness?"
+    m:
+      - "Will this give me an opportunity to make some mischief? Who is this fool who wants all the fuss of marriage?"
+
+  - sp: BORACHIO
+    o:
+      - "Marry, it is your brother’s right hand."
+    m:
+      - "Your brother’s right-hand man."
+
+  - sp: DON JOHN
+    o:
+      - "Who? The most exquisite Claudio?"
+    m:
+      - "Who? That pretty boy, Claudio?"
+
+  - sp: BORACHIO
+    o:
+      - "Even he."
+    m:
+      - "That’s the one."
+
+  - sp: DON JOHN
+    o:
+      - "A proper squire. And who, and who? Which way looks he?"
+    m:
+      - "He’s a very fancy gentleman. And who’s the girl who has caught his eye?"
+
+  - sp: BORACHIO
+    o:
+      - "Marry, on Hero, the daughter and heir of Leonato."
+    m:
+      - "Hero, the daughter and heir of Leonato."
+
+  - sp: DON JOHN
+    o:
+      - "A very forward March-chick! How came you to this?"
+    m:
+      - "A lively young one! How did you learn about this?"
+
+  - sp: BORACHIO
+    o:
+      - "Being entertained for a perfumer, as I was smoking a musty"
+      - "room, comes me the Prince and Claudio, hand in hand, in"
+      - "sad conference. I whipped me behind the arras, and there"
+      - "heard it agreed upon that the Prince should woo Hero for"
+      - "himself, and having obtained her, give her to Count"
+      - "Claudio."
+    m:
+      - "I was hired to perfume all the rooms in Leonato’s house. As I was working on one musty room, the Prince and Claudio entered. They were in the middle of a serious conversation. I quickly hid behind a tapestry and heard them agree that the Prince would court Hero tonight at the dance and, once he won her consent to marry, would give her to Claudio."
+
+  - sp: DON JOHN
+    o:
+      - "Come, come, let us thither. This may prove food to my"
+      - "displeasure. That young start-up hath all the glory of my"
+      - "overthrow. If I can cross him any way, I bless myself every"
+      - "way. You are both sure, and will assist me?"
+    m:
+      - "Come, let’s go to the dance. This just may cheer me up. Claudio, the young upstart, was responsible for keeping me from gaining power over my brother. If there’s any way I can spoil his life, I’ll be overjoyed. You’ll both help me, right?"
+
+  - sp: CONRAD
+    o:
+      - "To the death, my lord."
+    m:
+      - "Until the day we die, my lord."
+
+  - sp: DON JOHN
+    o:
+      - "Let us to the great supper. Their cheer is the greater that I"
+      - "am subdued. Would the cook were o’ my mind! Shall we go"
+      - "prove what’s to be done?"
+    m:
+      - "Let’s go to this great feast. They’ll be even happier now that my mood has lightened. It’s too bad the cook doesn’t think like me; she would have poisoned them all if she did. Should we go check out the scene?"
+
+  - sp: BORACHIO
+    o:
+      - "We’ll wait upon your lordship."
+    m:
+      - "Lead the way, sir."
+
+  - os: "Exeunt"
+    ms: "They all exit."

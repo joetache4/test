@@ -1,0 +1,71 @@
+play: Macbeth
+title: Act 3, Scene 5
+group: 3
+order: 15
+text:
+  - os: "Thunder. Enter the three WITCHES meeting HECATE"
+    ms: "Thunder. The three WITCHES enter, meeting HECATE."
+
+  - sp: FIRST WITCH
+    o:
+      - "Why, how now, Hecate! You look angerly."
+    m:
+      - "What’s wrong, Hecate? You look angry."
+
+  - sp: HECATE
+    o:
+      - "Have I not reason, beldams as you are?"
+      - "Saucy and overbold, how did you dare"
+      - "To trade and traffic with Macbeth"
+      - "In riddles and affairs of death,"
+      - "And I, the mistress of your charms,"
+      - "The close contriver of all harms,"
+      - "Was never called to bear my part,"
+      - "Or show the glory of our art?"
+      - "And, which is worse, all you have done"
+      - "Hath been but for a wayward son,"
+      - "Spiteful and wrathful, who, as others do,"
+      - "Loves for his own ends, not for you."
+      - "But make amends now. Get you gone,"
+      - "And at the pit of Acheron"
+      - "Meet me i’ th’ morning. Thither he"
+      - "Will come to know his destiny."
+      - "Your vessels and your spells provide,"
+      - "Your charms and everything beside."
+      - "I am for the air. This night I’ll spend"
+      - "Unto a dismal and a fatal end."
+      - "Great business must be wrought ere noon."
+      - "Upon the corner of the moon"
+      - "There hangs a vap’rous drop profound."
+      - "I’ll catch it ere it come to ground."
+      - "And that distilled by magic sleights"
+      - "Shall raise such artificial sprites"
+      - "As by the strength of their illusion"
+      - "Shall draw him on to his confusion."
+      - "He shall spurn fate, scorn death, and bear"
+      - "His hopes ’bove wisdom, grace, and fear."
+      - "And you all know, security"
+      - "Is mortals’ chiefest enemy."
+    m:
+      - "Don’t I have a reason to be angry, you disobedient hags? How dare you give Macbeth riddles and prophecies about his future without telling me? I am your boss and the source of your powers. I am the one who secretly decides what evil things happen, but you never called me to join in and show off my own powers. And what’s worse, you’ve done all this for a man who behaves like a spoiled brat, angry and hateful. Like all spoiled sons, he chases after what he wants and doesn’t care about you. But you can make it up to me. Go away now and in the morning meet me in the pit by the river in hell. Macbeth will go there to learn his destiny. You bring your cauldrons, your spells, your charms, and everything else. I’m about to fly away. I’ll spend tonight working to make something horrible happen. I have a lot to do before noon. An important droplet is hanging from the corner of the moon. I’ll catch it before it falls to the ground. When I work it over with magic spells, the drop will produce magical spirits that will trick Macbeth with illusions. He will be fooled into thinking he is greater than fate, he will mock death, and he will think he is above wisdom, grace, and fear. As you all know, overconfidence is man’s greatest enemy."
+
+  - os: "Music and a song within: ’Come away, come away,’ &c."
+    ms: "Music plays offstage, and voices sing a song with the words “Come away, come away.”"
+
+  - o:
+      - "Hark! I am called. My little spirit, see,"
+      - "Sits in a foggy cloud and stays for me."
+    m:
+      - "Listen! I’m being called. Look, my little spirit is sitting in a foggy cloud waiting for me."
+
+  - os: "Exit"
+    ms: "HECATE exits."
+
+  - sp: FIRST WITCH
+    o:
+      - "Come, let’s make haste; she’ll soon be back again."
+    m:
+      - "Come on, let’s hurry. She’ll be back again soon."
+
+  - os: "Exeunt"
+    ms: "They all exit."

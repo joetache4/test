@@ -1,0 +1,545 @@
+play: Measure for Measure
+title: Act 4, Scene 3
+group: 4
+order: 12
+text:
+  - os: "Another room in the same."
+    ms: "Another room in the prison."
+
+  - os: "Enter POMPEY"
+    ms: "POMPEY enters."
+
+  - sp: POMPEY
+    o:
+      - "I am as well acquainted here as I was in our house"
+      - "of profession: one would think it were Mistress"
+      - "Overdone’s own house, for here be many of her old"
+      - "customers. First, here’s young Master Rash; he’s in"
+      - "for a commodity of brown paper and old ginger,"
+      - "ninescore and seventeen pounds; of which he made"
+      - "five marks, ready money: marry, then ginger was not"
+      - "much in request, for the old women were all dead."
+      - "Then is there here one Master Caper, at the suit of"
+      - "Master Three-pile the mercer, for some four suits of"
+      - "peach-coloured satin, which now peaches him a"
+      - "beggar. Then have we here young Dizzy, and young"
+      - "Master Deep-vow, and Master Copperspur, and Master"
+      - "Starve-lackey the rapier and dagger man, and young"
+      - "Drop-heir that killed lusty Pudding, and Master"
+      - "Forthlight the tilter, and brave Master Shooty the"
+      - "great traveller, and wild Half-can that stabbed"
+      - "Pots, and, I think, forty more; all great doers in"
+      - "our trade, and are now “for the Lord’s sake.”"
+    m:
+      - "I’ve got as many friends here as I did back at the brothel. You’d think it were Mistress Overdone’s very own house, so many of her old customers are here. First, here’s young Mister Hasty; he’s in for debt, having paid 197 pounds for some coarse brown paper and old ginger candy, and making back only three pounds selling it. Ginger wasn’t much in demand, because the old ladies were all dead. Then there’s one Mister Pirouette, defendant in a suit about four suits, brought by Mister Thick Velvet, the textile merchant. He’s being impeached over peach-colored satin. Then we’ve also got young Ditsy, and young Mister Cross-My-Heart, and Mister Cubic Zirconia and Mister Cheapskate, armed to fight duels, and young Kill-Heir who murdered robust Stuffed-Guts, and Mister Forward-Thrust the fighter, and dressed-to-kill Mister Shoe-Buckle, the world-traveler, and wild Half-Pint who stabbed Pots, and, I think, forty more gents—all great clients of our business, who now sing that old prison refrain, “Give us food for the Lord’s sake.”"
+
+  - os: "Enter ABHORSON"
+    ms: "ABHORSON enters."
+
+  - sp: ABHORSON
+    o:
+      - "Sirrah, bring Barnardine hither."
+    m:
+      - "You there, bring Barnardine here."
+
+  - sp: POMPEY
+    o:
+      - "Master Barnardine! you must rise and be hanged."
+      - "Master Barnardine!"
+    m:
+      - "Mister Barnardine! You’ve got to get up, and get onto the scaffold. Mister Barnardine!"
+
+  - sp: ABHORSON
+    o:
+      - "What, ho, Barnardine!"
+    m:
+      - "Hey, Barnardine!"
+
+  - sp: BARNARDINE
+    o:
+      - "*(Within)* A pox o’ your throats! Who makes that"
+      - "noise there? What are you?"
+    m:
+      - "*(offstage)* Damn your throats! Who’s making all that noise? Who are you?"
+
+  - sp: POMPEY
+    o:
+      - "Your friends, sir; the hangman. You must be so"
+      - "good, sir, to rise and be put to death."
+    m:
+      - "Your friends, sir, the hangmen. Please be so good, sir, as to rise and be put to death."
+
+  - sp: BARNARDINE
+    o:
+      - "*(Within)* Away, you rogue, away! I am sleepy."
+    m:
+      - "*(offstage)* Go away, scoundrel. Away! I’m sleepy."
+
+  - sp: ABHORSON
+    o:
+      - "Tell him he must awake, and that quickly too."
+    m:
+      - "Tell him he has to wake up, and quickly too."
+
+  - sp: POMPEY
+    o:
+      - "Pray, Master Barnardine, awake till you are"
+      - "executed, and sleep afterwards."
+    m:
+      - "Please, Mister Barnardine, stay awake till you’re executed, and sleep afterwards."
+
+  - sp: ABHORSON
+    o:
+      - "Go in to him, and fetch him out."
+    m:
+      - "Get in there and fetch him."
+
+  - sp: POMPEY
+    o:
+      - "He is coming, sir, he is coming; I hear his straw rustle."
+    m:
+      - "He’s coming, sir, he’s coming. I hear the straw on his cell floor rustling."
+
+  - sp: ABHORSON
+    o:
+      - "Is the axe upon the block, sirrah?"
+    m:
+      - "Is the axe on the block, man?"
+
+  - sp: POMPEY
+    o:
+      - "Very ready, sir."
+    m:
+      - "Very ready, sir."
+
+  - os: "Enter BARNARDINE"
+    ms: "BARNARDINE enters."
+
+  - sp: BARNARDINE
+    o:
+      - "How now, Abhorson? what’s the news with you?"
+    m:
+      - "How goes it, Abhorson? What’s the news with you?"
+
+  - sp: ABHORSON
+    o:
+      - "Truly, sir, I would desire you to clap into your"
+      - "prayers; for, look you, the warrant’s come."
+    m:
+      - "Actually, sir, I’d like you to get on with your prayers, because the warrant’s arrived."
+
+  - sp: BARNARDINE
+    o:
+      - "You rogue, I have been drinking all night; I am not"
+      - "fitted for ’t."
+    m:
+      - "You jerk, I’ve been drinking all night. I’m not ready for it."
+
+  - sp: POMPEY
+    o:
+      - "O, the better, sir; for he that drinks all night,"
+      - "and is hanged betimes in the morning, may sleep the"
+      - "sounder all the next day."
+    m:
+      - "Oh, all the better, sir, for he who drinks all night and is hanged early in the morning may sleep better all the next day."
+
+  - sp: ABHORSON
+    o:
+      - "Look you, sir; here comes your ghostly father: do"
+      - "we jest now, think you?"
+    m:
+      - "Look, sir, here comes your holy confessor. Think we’re joking now?"
+
+  - os: "Enter DUKE VINCENTIO disguised as before"
+    ms: "DUKE VINCENTIO, disguised as a friar, enters."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Sir, induced by my charity, and hearing how hastily"
+      - "you are to depart, I am come to advise you, comfort"
+      - "you and pray with you."
+    m:
+      - "Sir, out of my sense of charity, and hearing how hastily you have to leave, I came to advise you, comfort you, and pray with you."
+
+  - sp: BARNARDINE
+    o:
+      - "Friar, not I: I have been drinking hard all night,"
+      - "and I will have more time to prepare me, or they"
+      - "shall beat out my brains with billets: I will not"
+      - "consent to die this day, that’s certain."
+    m:
+      - "Not me, friar. I’ve been drinking hard all night, and either I get more time to prepare, or they’ll have to beat out my brains with clubs. I won’t agree to die today, that’s for sure."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "O, sir, you must: and therefore I beseech you"
+      - "Look forward on the journey you shall go."
+    m:
+      - "Oh, sir, you must, and so I beg you to look forward to the journey you’re going on."
+
+  - sp: BARNARDINE
+    o:
+      - "I swear I will not die to-day for any man’s"
+      - "persuasion."
+    m:
+      - "I swear I will not die today, no matter who tries to persuade me."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "But hear you."
+    m:
+      - "But listen—"
+
+  - sp: BARNARDINE
+    o:
+      - "Not a word: if you have any thing to say to me,"
+      - "come to my ward; for thence will not I to-day."
+    m:
+      - "Not a word: if you got anything to say to me, come to my cell. I’m not leaving it today."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Unfit to live or die: O gravel heart!"
+      - "After him, fellows; bring him to the block."
+    m:
+      - "Unfit to live or die, that stony heart! After him, boys. Bring him to the block."
+
+  - os: "Exeunt ABHORSON and POMPEY"
+    ms: "ABHORSON and POMPEY exit."
+
+  - os: "Re-enter Provost"
+    ms: "The Provost re-enters."
+
+  - sp: PROVOST
+    o:
+      - "Now, sir, how do you find the prisoner?"
+    m:
+      - "Now, sir, how is the prisoner?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "A creature unprepared, unmeet for death;"
+      - "And to transport him in the mind he is"
+      - "Were damnable."
+    m:
+      - "A creature unprepared, unfit for death. To send him off in his current frame of mind would be damnable."
+
+  - sp: PROVOST
+    o:
+      - "Here in the prison, father,"
+      - "There died this morning of a cruel fever"
+      - "One Ragozine, a most notorious pirate,"
+      - "A man of Claudio’s years; his beard and head"
+      - "Just of his colour. What if we do omit"
+      - "This reprobate till he were well inclined;"
+      - "And satisfy the deputy with the visage"
+      - "Of Ragozine, more like to Claudio?"
+    m:
+      - "Here in prison, father, a notorious pirate named Ragozine just died this morning of a terrible fever. He was Claudio’s age, with the same color beard and hair. What if we forget about this reprobate until he’s agreeable, and send the deputy Ragozine’s head, which is more like Claudio’s?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "O, ’tis an accident that heaven provides!"
+      - "Dispatch it presently; the hour draws on"
+      - "Prefix’d by Angelo: see this be done,"
+      - "And sent according to command; whiles I"
+      - "Persuade this rude wretch willingly to die."
+    m:
+      - "Oh, this is a heaven-sent chance! Do it at once. It’s getting near the time Angelo set for the execution. See that it’s done, and the head sent, as ordered. Meanwhile, I’ll persuade this uncivilized wretch to die willingly."
+
+  - sp: PROVOST
+    o:
+      - "This shall be done, good father, presently."
+      - "But Barnardine must die this afternoon:"
+      - "And how shall we continue Claudio,"
+      - "To save me from the danger that might come"
+      - "If he were known alive?"
+    m:
+      - "We’ll do it, good father, immediately. But Barnardine must die this afternoon. And what do we do with Claudio, to save me from the danger of word getting out that he’s alive?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Let this be done."
+      - "Put them in secret holds, both Barnardine and Claudio:"
+      - "Ere twice the sun hath made his journal greeting"
+      - "To the under generation, you shall find"
+      - "Your safety manifested."
+    m:
+      - "Let’s do this: put both Barnardine and Claudio in secret cells. Before two more days, it’ll be obvious you’re safe."
+
+  - sp: PROVOST
+    o:
+      - "I am your free dependant."
+    m:
+      - "I’m in your hands."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Quick, dispatch, and send the head to Angelo."
+    m:
+      - "Hurry, get the head and send it to Angelo."
+
+  - os: "Exit Provost"
+    ms: "The Provost exits."
+
+  - o:
+      - "Now will I write letters to Angelo,—"
+      - "The provost, he shall bear them, whose contents"
+      - "Shall witness to him I am near at home,"
+      - "And that, by great injunctions, I am bound"
+      - "To enter publicly: him I’ll desire"
+      - "To meet me at the consecrated fount"
+      - "A league below the city; and from thence,"
+      - "By cold gradation and well-balanced form,"
+      - "We shall proceed with Angelo."
+    m:
+      - "Now I’ll write letters to Angelo. The provost can deliver them. They’ll say I’m close to home and it’s of the utmost importance that I make a big public entrance. I’ll ask him to meet me at the holy springs three miles out of town. And from there, step by cool step, and observing all the proper procedures, I’ll deal with Angelo."
+
+  - os: "Re-enter Provost"
+    ms: "The Provost re-enters."
+
+  - sp: PROVOST
+    o:
+      - "Here is the head; I’ll carry it myself."
+    m:
+      - "Here’s the head. I’ll carry it myself."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Convenient is it. Make a swift return;"
+      - "For I would commune with you of such things"
+      - "That want no ear but yours."
+    m:
+      - "Suitable, isn’t it? Come back soon, because I want to talk with you about things that are for your ears only."
+
+  - sp: PROVOST
+    o:
+      - "I’ll make all speed."
+    m:
+      - "I’ll be as fast as I can."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ISABELLA
+    o:
+      - "*(Within)* Peace, ho, be here!"
+    m:
+      - "*(offstage)* Hello! Peace to all here!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "The tongue of Isabel. She’s come to know"
+      - "If yet her brother’s pardon be come hither:"
+      - "But I will keep her ignorant of her good,"
+      - "To make her heavenly comforts of despair,"
+      - "When it is least expected."
+    m:
+      - "That’s Isabel’s voice. She’s here to see if her brother’s pardon has come yet. But I’ll hide the news for her own good, to turn her despair into divine comfort when she least expects it."
+
+  - os: "Enter ISABELLA"
+    ms: "ISABELLA enters."
+
+  - sp: ISABELLA
+    o:
+      - "Ho, by your leave!"
+    m:
+      - "May I come in?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Good morning to you, fair and gracious daughter."
+    m:
+      - "Good morning to you, fair and gracious daughter."
+
+  - sp: ISABELLA
+    o:
+      - "The better, given me by so holy a man."
+      - "Hath yet the deputy sent my brother’s pardon?"
+    m:
+      - "All the better a morning when so holy a man says it to me. Has the deputy sent my brother’s pardon yet?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "He hath released him, Isabel, from the world:"
+      - "His head is off and sent to Angelo."
+    m:
+      - "He has released him, Isabel, from the world. His head is off and sent to Angelo."
+
+  - sp: ISABELLA
+    o:
+      - "Nay, but it is not so."
+    m:
+      - "No, it’s not true."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "It is no other: show your wisdom, daughter,"
+      - "In your close patience."
+    m:
+      - "It is. Be smart, daughter, and keep control of yourself."
+
+  - sp: ISABELLA
+    o:
+      - "O, I will to him and pluck out his eyes!"
+    m:
+      - "Oh, I’ll go and tear his eyes out!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You shall not be admitted to his sight."
+    m:
+      - "They won’t let you see him."
+
+  - sp: ISABELLA
+    o:
+      - "Unhappy Claudio! wretched Isabel!"
+      - "Injurious world! most damned Angelo!"
+    m:
+      - "Unhappy Claudio! Wretched Isabel! Cruel world! Damned Angelo!"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "This nor hurts him nor profits you a jot;"
+      - "Forbear it therefore; give your cause to heaven."
+      - "Mark what I say, which you shall find"
+      - "By every syllable a faithful verity:"
+      - "The duke comes home to-morrow; nay, dry your eyes;"
+      - "One of our convent, and his confessor,"
+      - "Gives me this instance: already he hath carried"
+      - "Notice to Escalus and Angelo,"
+      - "Who do prepare to meet him at the gates,"
+      - "There to give up their power. If you can, pace your wisdom"
+      - "In that good path that I would wish it go,"
+      - "And you shall have your bosom on this wretch,"
+      - "Grace of the duke, revenges to your heart,"
+      - "And general honour."
+    m:
+      - "This neither hurts him nor helps you a bit. Control yourself and leave your case to heaven. Pay attention to what I say. Every syllable is truth you can rely on. The duke’s coming home tomorrow—no, dry your eyes. His confessor, who belongs to our monastery, gave me this information. He’s already sent word to Escalus and Angelo, who are preparing to meet him at the gates and surrender their authority to him there. If you can, steer your mind along the path I want it to follow. You’ll have your desire inflicted on this wretch, the favor of the duke, revenge to your heart’s content, and general acclaim."
+
+  - sp: ISABELLA
+    o:
+      - "I am directed by you."
+    m:
+      - "I’ll do whatever you say."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "This letter, then, to Friar Peter give;"
+      - "’Tis that he sent me of the duke’s return:"
+      - "Say, by this token, I desire his company"
+      - "At Mariana’s house to-night. Her cause and yours"
+      - "I’ll perfect him withal, and he shall bring you"
+      - "Before the duke, and to the head of Angelo"
+      - "Accuse him home and home. For my poor self,"
+      - "I am combined by a sacred vow"
+      - "And shall be absent. Wend you with this letter:"
+      - "Command these fretting waters from your eyes"
+      - "With a light heart; trust not my holy order,"
+      - "If I pervert your course. Who’s here?"
+    m:
+      - "Then give this letter to Friar Peter. It’s the one he sent me about the duke’s return. It’ll be a sign that I want to meet him at Mariana’s house tonight. I’ll tell him all about her case and yours, and he’ll bring you before the duke, and you can thoroughly accuse Angelo face-to-face. My poor self is bound by a sacred vow, so I won’t be there. *(giving the letter)* Go with this letter. Banish those worried tears with a light heart. Never trust my holy order again if I steer you wrong. Who’s here?"
+
+  - os: "Enter LUCIO"
+    ms: "LUCIO enters."
+
+  - sp: LUCIO
+    o:
+      - "Good even. Friar, where’s the provost?"
+    m:
+      - "Good evening. Friar, where’s the provost?"
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Not within, sir."
+    m:
+      - "Not inside, sir."
+
+  - sp: LUCIO
+    o:
+      - "O pretty Isabella, I am pale at mine heart to see"
+      - "thine eyes so red: thou must be patient. I am fain"
+      - "to dine and sup with water and bran; I dare not for"
+      - "my head fill my belly; one fruitful meal would set"
+      - "me to ’t. But they say the duke will be here"
+      - "to-morrow. By my troth, Isabel, I loved thy brother:"
+      - "if the old fantastical duke of dark corners had been"
+      - "at home, he had lived."
+    m:
+      - "Oh, pretty Isabella, I’m sick at heart to see your eyes so red, but try to calm down. I have to dine on plain bread and water—to control my desire, I don’t fill my belly, since one big meal would get me excited. But they say the duke will be here tomorrow. I swear, Isabel, I loved your brother. If the good old whimsical duke, who loved to fool around in dark places, had been at home, Claudio would’ve lived."
+
+  - os: "Exit ISABELLA"
+    ms: "ISABELLA exits."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Sir, the duke is marvellous little beholding to your"
+      - "reports; but the best is, he lives not in them."
+    m:
+      - "Sir, the duke is nothing at all like you report."
+
+  - sp: LUCIO
+    o:
+      - "Friar, thou knowest not the duke so well as I do:"
+      - "he’s a better woodman than thou takest him for."
+    m:
+      - "Friar, you don’t know the duke as well as I do. He’s more of a womanizer than you think."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Well, you’ll answer this one day. Fare ye well."
+    m:
+      - "Well, you’ll pay for this one day. Goodbye."
+
+  - sp: LUCIO
+    o:
+      - "Nay, tarry; I’ll go along with thee"
+      - "I can tell thee pretty tales of the duke."
+    m:
+      - "No, wait. I’ll go along with you. I can tell you some great tales about the duke."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "You have told me too many of him already, sir, if"
+      - "they be true; if not true, none were enough."
+    m:
+      - "You’ve already told me too many, sir, if they’re true. If they’re not true, I don’t want to hear any."
+
+  - sp: LUCIO
+    o:
+      - "I was once before him for getting a wench with child."
+    m:
+      - "I appeared before him once for getting a girl pregnant."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Did you such a thing?"
+    m:
+      - "Did you do such a thing?"
+
+  - sp: LUCIO
+    o:
+      - "Yes, marry, did I but I was fain to forswear it;"
+      - "they would else have married me to the rotten medlar."
+    m:
+      - "Yes, I did, but I denied it under oath. They would’ve made me marry the rotten whore otherwise."
+
+  - sp: DUKE VINCENTIO
+    o:
+      - "Sir, your company is fairer than honest. Rest you well."
+    m:
+      - "Sir, you look a lot nicer than you are. Goodbye."
+
+  - sp: LUCIO
+    o:
+      - "By my troth, I’ll go with thee to the lane’s end:"
+      - "if bawdy talk offend you, we’ll have very little of"
+      - "it. Nay, friar, I am a kind of burr; I shall stick."
+    m:
+      - "I swear, I’ll go with you to the end of the lane. If dirty talk offends you, we’ll avoid it. No, friar, I’m like a kind of burr—I’ll stick to you."
+
+  - os: "Exeunt"
+    ms: "They exit."

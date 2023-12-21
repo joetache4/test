@@ -1,0 +1,256 @@
+play: Henry V
+title: Act 3, Scene 2
+group: 3
+order: 10
+text:
+  - os: "Enter NYM, BARDOLPH, PISTOL, and BOY"
+    ms: "NYM, BARDOLPH, PISTOL, and the BOY enter."
+
+  - sp: BARDOLPH
+    o:
+      - "On, on, on, on, on! To the breach, to the breach!"
+    m:
+      - "On, on, on, on, on! To the breach, to the breach!"
+
+  - sp: NYM
+    o:
+      - "Pray thee, corporal, stay. The knocks are too hot, and, for mine own part, I have not a case of lives. The humor of it is too hot; that is the very plainsong of it."
+    m:
+      - "Please, corporal, stop! The fighting is too violent. Speaking for myself, I only have one life, not dozens. Too violent! That’s just how it is, the plain truth of it."
+
+  - sp: PISTOL
+    o:
+      - "“The plainsong” is most just, for humors do abound."
+      - "*(sings)*"
+      - "  *Knocks go and come. God’s vassals drop and die,*"
+      - "  *And sword and shield*"
+      - "  *In bloody field*"
+      - "  *Doth win immortal fame.*"
+    m:
+      - "The plain truth doesn’t lie. You can see how it is all around."
+      - "*(he sings)*"
+      - "  *Fighting comes and goes, God’s loyal servants drop and die.*"
+      - "  *And sword and shield*"
+      - "  *In bloody field*"
+      - "  *Will win immortal fame.*"
+
+  - sp: BOY
+    o:
+      - "Would I were in an alehouse in London! I would give all my fame for a pot of ale, and safety."
+    m:
+      - "I wish I were in an alehouse in London! I would give all my glory for a mug of ale and safety."
+
+  - sp: PISTOL
+    o:
+      - "And I."
+      - "*(sings)*"
+      - "  *If wishes would prevail with me,*"
+      - "  *My purpose should not fail with me,*"
+      - "  *But thither would I hie.*"
+    m:
+      - "Me too."
+      - "*(he sings)*"
+      - "  *If wishes could avail me,*"
+      - "  *My purpose would not fail me,*"
+      - "  *It’s there that I would go.*"
+
+  - sp: BOY
+    o:
+      - "*(sings)*"
+      - "  *As duly,*"
+      - "  *But not as truly,*"
+      - "  *As bird doth sing on bough.*"
+    m:
+      - "*(singing)*"
+      - "  *As surely but more poorly*"
+      - "  *Than birds sing on the bough.*"
+
+  - os: "Enter FLUELLEN"
+    ms: "FLUELLEN enters."
+
+  - sp: FLUELLEN
+    o:
+      - "Up to the breach, you dogs! Avaunt, you cullions!"
+    m:
+      - "Up to the breach, you dogs! Go! Get a move on, you scrotems!"
+
+  - sp: PISTOL
+    o:
+      - "Be merciful, great duke, to men of mold. Abate thy rage, abate thy manly rage, abate thy rage, great duke. Good bawcock, ’bate thy rage. Use lenity, sweet chuck."
+    m:
+      - "Great Duke, be merciful to mortal men. Calm your rage, your manly rage! Calm your rage, great Duke! Dear man, calm your rage. Be lenient, dearest!"
+
+  - sp: NYM
+    o:
+      - "These be good humors. Your Honor wins bad humors."
+    m:
+      - "This is healthy talk. Your Honor’s is unhealthy talk."
+
+  - os: "Exeunt all but BOY"
+    ms: "Everyone but the BOY exits."
+
+  - sp: BOY
+    o:
+      - "As young as I am, I have observed these three swashers. I am boy to them all three, but all they three, though they would serve me, could not be man to me. For indeed three such antics do not amount to a man: for Bardolph, he is white-livered and red-faced, by the means whereof he faces it out but fights not; for Pistol, he hath a killing tongue and a quiet sword, by the means whereof he breaks words and keeps whole weapons; for Nym, he hath heard that men of few words are the best men, and therefore he scorns to say his prayers, lest he should be thought a coward, but his few bad words are matched with as few good deeds, for he never broke any man’s head but his own, and that was against a post when he was drunk. They will steal anything and call it purchase. Bardolph stole a lute case, bore it twelve leagues, and sold it for three halfpence. Nym and Bardolph are sworn brothers in filching, and in Calais they stole a fire shovel. I knew by that piece of service the men would carry coals. They would have me as familiar with men’s pockets as their gloves or their handkerchers, which makes much against my manhood, if I should take from another’s pocket to put into mine, for it is plain pocketing up of wrongs. I must leave them and seek some better service. Their villainy goes against my weak stomach, and therefore I must cast it up."
+    m:
+      - "Young though I am, I’ve been observing these three blowhards closely. I am “man”—which is to say, servant—to all three of them. Yet not one among them, if all three were to wait on me, could be my “man,” because three such fakes don’t amount to a man. Take Bardolph: he is cowardly and blustery. He acts tough, but he doesn’t fight. Pistol, meanwhile, has a lethal tongue but an inert sword. He destroys words but keeps his weapon in one piece. As for Nym, he’s heard men of valor are men of few words, so he refuses to pray lest he should be thought a coward. But he has as few good deeds as he has bad words—for he never cracked anyone’s head but his own, and that was against a post when he was drunk. They will steal anything and call it spoils. Bardolph stole a lute case, carried it for thirty-six miles, and sold it for a penny and a half. Nym and Bardolph are sworn brothers in crime, and in Calais they stole a fire shovel: I could see from that that they had no pride. They would like me to be as familiar with men’s pockets as their gloves and handkerchiefs, which goes against my manhood, because to take something from another’s pocket and put it into my own is plain stealing. I must leave them and seek some better employment. Their villainy nauseates me, and I must therefore vomit it up."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter FLUELLEN and GOWER"
+    ms: "FLUELLEN enters, with GOWER following."
+
+  - sp: GOWER
+    o:
+      - "Captain Fluellen, you must come presently to the mines; the duke of Gloucester would speak with you."
+    m:
+      - "Captain Fluellen, you must come straight to the tunnels. The duke of Gloucester wants a word with you."
+
+  - sp: FLUELLEN
+    o:
+      - "To the mines? Tell you the duke it is not so good to come to the mines, for, look you, the mines is not according to the disciplines of the war. The concavities of it is not sufficient, for, look you, th’ athversary, you may discuss unto the duke, look you, is digt himself four yard under the countermines. By Cheshu, I think he will plow up all if there is not better directions."
+    m:
+      - "The tunnels! Tell the duke I’m not so keen to come to the tunnels. For the tunnels, see, are not strictly in accordance with the proper practice of war. They’re not deep enough. For the enemy, see—and you can explain this to the duke, see—has dug its own tunnels four yards below ours. By Jesus, I think they will blow up everything if we don’t improve our tactics."
+
+  - sp: GOWER
+    o:
+      - "The duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i’ faith."
+    m:
+      - "The duke of Gloucester, who has command over the siege, is in consultation with an Irishman, a very valiant gentleman indeed."
+
+  - sp: FLUELLEN
+    o:
+      - "It is Captain Macmorris, is it not?"
+    m:
+      - "It’s Captain Macmorris, right?"
+
+  - sp: GOWER
+    o:
+      - "I think it be."
+    m:
+      - "I think so."
+
+  - sp: FLUELLEN
+    o:
+      - "By Cheshu, he is an ass, as in the world. I will verify as much in his beard. He has no more directions in the true disciplines of the wars, look you, of the Roman disciplines, than is a puppy dog."
+    m:
+      - "Jesus, he’s an ass if there ever was one! I will say as much to his face. He knows no more about the proper practice of war, see—the ancient practices—than a puppy."
+
+  - os: "Enter Captain MACMORRIS and Captain JAMY"
+    ms: "Captain MACMORRIS and Captain JAMY enter."
+
+  - sp: GOWER
+    o:
+      - "Here he comes, and the Scots captain, Captain Jamy, with him."
+    m:
+      - "Here he comes with Captain Jamy, the Scots captain."
+
+  - sp: FLUELLEN
+    o:
+      - "Captain Jamy is a marvelous falorous gentleman, that is certain, and of great expedition and knowledge in th’ aunchient wars, upon my particular knowledge of his directions. By Cheshu, he will maintain his argument as well as any military man in the world in the disciplines of the pristine wars of the Romans."
+    m:
+      - "Captain Jamy is a wonderfully valorous gentleman, that’s certain, one with great learning and knowledge concerning ancient warfare, I happen to know from his maneuvers. By Jesus, he will defend his position on the practices of the ancient Roman wars as well as any military man in the world."
+
+  - sp: JAMY
+    o:
+      - "I say gudday, Captain Fluellen."
+    m:
+      - "Good day to you, Captain Fluellen."
+
+  - sp: FLUELLEN
+    o:
+      - "Godden to your Worship, good Captain James."
+    m:
+      - "Good evening to your Worship, good Captain James."
+
+  - sp: GOWER
+    o:
+      - "How now, Captain Macmorris, have you quit the mines?"
+      - "Have the pioneers given o’er?"
+    m:
+      - "Tell me, Captain Macmorris, have you left the tunnels? Have the excavators stopped work?"
+
+  - sp: MACMORRIS
+    o:
+      - "By Chrish, la, ’tish ill done. The work ish give over. The trompet sound the retreat. By my hand I swear, and my father’s soul, the work ish ill done. It ish give over. I would have blowed up the town, so Chrish save me, la, in an hour. Oh, ’tish ill done, ’tish ill done, by my hand, ’tish ill done."
+    m:
+      - "Christ, it’s a disaster. The work is stopped, the trumpet has sounded the retreat. I swear by this hand and my father’s soul, the whole thing is a disaster. It’s all stopped. I could have blown up the town in an hour. Oh, it’s a disaster, a disaster, by this hand, it’s a disaster."
+
+  - sp: FLUELLEN
+    o:
+      - "Captain Macmorris, I beseech you now, will you voutsafe me, look you, a few disputations with you as partly touching or concerning the disciplines of the war, the Roman wars? In the way of argument, look you, and friendly communication, partly to satisfy my opinion, and partly for the satisfaction, look you, of my mind, as touching the direction of the military discipline, that is the point."
+    m:
+      - "Captain Macmorris, I beg your pardon, but would you grant me a discussion or two with you, see, partly touching on or concerning the practice of war, the Roman wars, for the sake of argument, see, and friendly conversation? Partly to confirm my opinion and partly for the satisfaction, see, of my mind, with respect to the demands of proper military practice—that’s the point?"
+
+  - sp: JAMY
+    o:
+      - "It sall be vary gud, gud feith, gud captens bath, and I sall quit you with gud leve, as I may pick occasion, that sall I, marry."
+    m:
+      - "Oh, this is fine, good captains. And I’ll answer you, if I may, when I get a chance. Indeed I will."
+
+  - sp: MACMORRIS
+    o:
+      - "It is no time to discourse, so Chrish save me. The day is hot, and the weather, and the wars, and the king, and the dukes. It is no time to discourse. The town is beseeched, and the trumpet call us to the breach, and we talk and, be Chrish, do nothing, ’tis shame for us all. So God sa’ me, ’tis shame to stand still. It is shame, by my hand. And there is throats to be cut and works to be done, and there ish nothing done, so Chrish sa’ me, la."
+    m:
+      - "This is no time to have a discussion. Christ! The day is hot and between the weather and the wars and the king and the dukes, it’s no time for a discussion. The town is besieged, and the trumpet calls us to the gap, and we talk and do nothing, by Christ. It’s a disgrace to us all. God save me, it’s a disgrace, by this hand, when there are throats to be cut and work to be done, and nothing gets done, Christ save me."
+
+  - sp: JAMY
+    o:
+      - "By the mess, ere theise eyes of mine take themselves to slomber, ay’ll de gud service, or I’ll lig i’ th’ grund for it, ay, or go to death. And I’ll pay ’t as valorously as I may, that sall I suerly do, that is the breff and the long. Marry, I wad full fain heard some question ’tween you tway."
+    m:
+      - "I swear by the mass, before I close my eyes to go to sleep, I’ll put in some good fighting, or I’ll lie in the ground dead. And I’ll kill as valiantly as I can, that’s for sure. That is the long and the short of it. But truly, I would love to hear the two of you discuss warfare."
+
+  - sp: FLUELLEN
+    o:
+      - "Captain Macmorris, I think, look you, under your correction, there is not many of your nation—"
+    m:
+      - "Captain Macmorris, I think, see—correct me if I’m wrong—there are not many of your nation—"
+
+  - sp: MACMORRIS
+    o:
+      - "Of my nation? What ish my nation? Ish a villain and a basterd and a knave and a rascal. What ish my nation? Who talks of my nation?"
+    m:
+      - "My nation? What is my nation? It’s a villain and a bastard and a coward and a rascal. What is my nation? Who talks of my nation?"
+
+  - sp: FLUELLEN
+    o:
+      - "Look you, if you take the matter otherwise than is meant, Captain Macmorris, peradventure I shall think you do not use me with that affability as, in discretion, you ought to use me, look you, being as good a man as yourself, both in the disciplines of war and in the derivation of my birth and in other particularities."
+    m:
+      - "Captain Macmorris, if you take my words in some way other than how they were meant, see, I’ll have to think you’re not treating me with the good will you ought to, see, since I am as good a man as yourself, both in the practice of war and in my country of origin and in other respects."
+
+  - sp: MACMORRIS
+    o:
+      - "I do not know you so good a man as myself. So Chrish save me, I will cut off your head."
+    m:
+      - "I do not know that you are as good a man as myself. So, by Christ, I’ll cut off your head."
+
+  - sp: GOWER
+    o:
+      - "Gentlemen both, you will mistake each other."
+    m:
+      - "Now, now, both of you gentlemen! You go out of your way to misunderstand each other."
+
+  - sp: JAMY
+    o:
+      - "Ah, that’s a foul fault."
+    m:
+      - "Yes, and that’s a serious failing."
+
+  - os: "A parley sounds"
+    ms: "A trumpet tune that indicates a request for a ceasefire sounds."
+
+  - sp: GOWER
+    o:
+      - "The town sounds a parley."
+    m:
+      - "The town is asking for a pause in the fighting for negotiation."
+
+  - sp: FLUELLEN
+    o:
+      - "Captain Macmorris, when there is more better opportunity to be required, look you, I will be so bold as to tell you I know the disciplines of war, and there is an end."
+    m:
+      - "Captain Macmorris, when we have more leisure, see, I will be so bold as to show you I know about the practice of warfare, and that’s that."
+
+  - os: "Exeunt"
+    ms: "They all exit."

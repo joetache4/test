@@ -1,0 +1,147 @@
+play: Macbeth
+title: Act 5, Scene 5
+group: 5
+order: 24
+text:
+  - os: "Enter MACBETH, SEYTON, and SOLDIERS, with drum and colors"
+    ms: "MACBETH, SEYTON, and SOLDIERS enter with a drummer and flag."
+
+  - sp: MACBETH
+    o:
+      - "Hang out our banners on the outward walls."
+      - "The cry is still “They come!” Our castle’s strength"
+      - "Will laugh a siege to scorn. Here let them lie"
+      - "Till famine and the ague eat them up."
+      - "Were they not forced with those that should be ours,"
+      - "We might have met them dareful, beard to beard,"
+      - "And beat them backward home."
+    m:
+      - "Hang our flags on the outer walls. Everyone keeps yelling, “Here they come!” Our castle is strong enough to laugh off their seige. They can sit out there until they die of hunger and disease. If it weren’t for the fact that so many of our soldiers revolted and joined them, we could have met them out in front of the castle, man to man, and beaten them back to England."
+
+  - os: "A cry within of women"
+    ms: "A sound of women crying offstage."
+
+  - o:
+      - "    What is that noise?"
+    m:
+      - "What’s that noise?"
+
+  - sp: SEYTON
+    o:
+      - "It is the cry of women, my good lord."
+    m:
+      - "It’s women crying, my good lord."
+
+  - os: "Exit"
+    ms: "SEYTON exits."
+
+  - sp: MACBETH
+    o:
+      - "I have almost forgot the taste of fears."
+      - "The time has been my senses would have cooled"
+      - "To hear a night-shriek, and my fell of hair"
+      - "Would at a dismal treatise rouse and stir"
+      - "As life were in ’t. I have supped full with horrors."
+      - "Direness, familiar to my slaughterous thoughts"
+      - "Cannot once start me."
+    m:
+      - "I’ve almost forgotten what fear feels like. There was a time when I would have been terrified by a shriek in the night, and the hair on my skin would have stood up when I heard a ghost story. But now I’ve had my fill of real horrors. Horrible things are so familiar that they can’t startle me."
+
+  - os: "Enter SEYTON"
+    ms: "SEYTON comes back in."
+
+  - o:
+      - "Wherefore was that cry?"
+    m:
+      - "What was that cry for?"
+
+  - sp: SEYTON
+    o:
+      - "The queen, my lord, is dead."
+    m:
+      - "The queen is dead, my lord."
+
+  - sp: MACBETH
+    o:
+      - "    She should have died hereafter."
+      - "There would have been a time for such a word."
+      - "Tomorrow, and tomorrow, and tomorrow,"
+      - "Creeps in this petty pace from day to day"
+      - "To the last syllable of recorded time,"
+      - "And all our yesterdays have lighted fools"
+      - "The way to dusty death. Out, out, brief candle!"
+      - "Life’s but a walking shadow, a poor player"
+      - "That struts and frets his hour upon the stage"
+      - "And then is heard no more. It is a tale"
+      - "Told by an idiot, full of sound and fury,"
+      - "Signifying nothing."
+    m:
+      - "She would have died later anyway. That news was bound to come someday. Tomorrow, and tomorrow, and tomorrow. The days creep slowly along until the end of time. And every day that’s already happened has taken fools that much closer to their deaths. Out, out, brief candle. Life is nothing more than an illusion. It’s like a poor actor who struts and worries for his hour on the stage and then is never heard from again. Life is a story told by an idiot, full of noise and emotional disturbance but devoid of meaning."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - o:
+      - "    Thou comest to use"
+      - "Thy tongue; thy story quickly."
+    m:
+      - "You’ve come to tell me something. Tell me quickly."
+
+  - sp: MESSENGER
+    o:
+      - "    Gracious my lord,"
+      - "I should report that which I say I saw,"
+      - "But know not how to do ’t."
+    m:
+      - "My gracious lord, I should tell you what I saw, but I don’t know how to say it."
+
+  - sp: MACBETH
+    o:
+      - "    Well, say, sir."
+    m:
+      - "Just say it."
+
+  - sp: MESSENGER
+    o:
+      - "As I did stand my watch upon the hill,"
+      - "I looked toward Birnam, and anon methought"
+      - "The wood began to move."
+    m:
+      - "As I was standing watch on the hill, I looked toward Birnam, and I thought I saw the forest begin to move."
+
+  - sp: MACBETH
+    o:
+      - "    Liar and slave!"
+    m:
+      - "Liar and slave!"
+
+  - sp: MESSENGER
+    o:
+      - "Let me endure your wrath, if ’t be not so."
+      - "Within this three mile may you see it coming;"
+      - "I say, a moving grove."
+    m:
+      - "Punish me if it’s not true. Three miles from here you can see it coming, a moving forest."
+
+  - sp: MACBETH
+    o:
+      - "    If thou speak’st false,"
+      - "Upon the next tree shall thou hang alive"
+      - "Till famine cling thee. If thy speech be sooth,"
+      - "I care not if thou dost for me as much."
+      - "I pull in resolution and begin"
+      - "To doubt th’ equivocation of the fiend"
+      - "That lies like truth. “Fear not, till Birnam wood"
+      - "Do come to Dunsinane”; and now a wood"
+      - "Comes toward Dunsinane.—Arm, arm, and out!—"
+      - "If this which he avouches does appear,"
+      - "There is nor flying hence nor tarrying here."
+      - "I ’gin to be aweary of the sun,"
+      - "And wish th’ estate o’ th’ world were now undone.—"
+      - "Ring the alarum-bell!—Blow, wind! Come, wrack!"
+      - "At least we’ll die with harness on our back."
+    m:
+      - "If you’re lying, I’ll hang you alive from the nearest tree until you die of hunger. If what you say is true, you can do the same to me. *(to himself)* My confidence is failing. I’m starting to doubt the lies the devil told me, which sounded like truth. “Don’t worry until Birnam Wood comes to Dunsinane.” And now a wood is coming to Dunsinane. Prepare for battle, and go! If what this messenger says is true, it’s no use running away or staying here. I’m starting to grow tired of living, and I’d like to see the world plunged into chaos. Ring the alarms! Blow, wind! Come, ruin! At least we’ll die with our armor on."
+
+  - os: "Exeunt"
+    ms: "They exit."

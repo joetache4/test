@@ -1,0 +1,178 @@
+play: Antony and Cleopatra
+title: Act 4, Scene 3
+group: 4
+order: 27
+text:
+  - os: "Enter a company of SOLDIERS"
+    ms: "A company of SOLDIERS enters."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Brother, good night. Tomorrow is the day."
+    m:
+      - "Good night, brother. Tomorrow is the day."
+
+  - sp: SECOND SOLDIER
+    o:
+      - "It will determine one way. Fare you well."
+      - "Heard you of nothing strange about the streets?"
+    m:
+      - "This battle will determine who wins the war. Take care of yourself. Have you heard about anything unusual happening in the city?"
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Nothing. What news?"
+    m:
+      - "No. What was it?"
+
+  - sp: SECOND SOLDIER
+    o:
+      - "Belike ’tis but a rumor. Good night to you."
+    m:
+      - "It was probably just a rumor. Good night."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Well, sir, good night."
+    m:
+      - "Well sir, good night."
+
+  - os: "They meet other SOLDIERS"
+    ms: "Two other SOLDIERS enter."
+
+  - sp: SECOND SOLDIER
+    o:
+      - "Soldiers, have careful watch."
+    m:
+      - "Soldiers, watch carefully."
+
+  - sp: THIRD SOLDIER
+    o:
+      - "And you. Good night, good night."
+    m:
+      - "You too. Good night. Good night."
+
+  - os: "The four SOLDIERS place themselves in every corner of the stage"
+    ms: "Each SOLDIER takes a post at a corner of the stage."
+
+  - sp: SECOND SOLDIER
+    o:
+      - "Here we. And if tomorrow"
+      - "Our navy thrive, I have an absolute hope"
+      - "Our landmen will stand up."
+    m:
+      - "This is our station. And if our navy wins tomorrow, no doubt our army will do their part."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "’Tis a brave army, and full of purpose."
+    m:
+      - "It’s an outstanding army and highly motivated."
+
+  - os: "Music of the hautboys is under the stage"
+    ms: "Oboe music comes from underneath the stage."
+
+  - sp: SECOND SOLDIER
+    o:
+      - "Peace! What noise?"
+    m:
+      - "Quiet! What’s that sound?"
+
+  - sp: FIRST SOLDIER
+    o:
+      - "List, list!"
+    m:
+      - "Listen! Listen!"
+
+  - sp: SECOND SOLDIER
+    o:
+      - "Hark!"
+    m:
+      - "Listen!"
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Music i’ th’ air."
+    m:
+      - "There’s music coming out of thin air."
+
+  - sp: THIRD SOLDIER
+    o:
+      - "Under the earth."
+    m:
+      - "From under the earth."
+
+  - sp: FOURTH SOLDIER
+    o:
+      - "It signs well, does it not?"
+    m:
+      - "It’s a lucky sign, isn’t it?"
+
+  - sp: THIRD SOLDIER
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Peace, I say! What should this mean?"
+    m:
+      - "Quiet, I say. What does this mean?"
+
+  - sp: SECOND SOLDIER
+    o:
+      - "’Tis the god Hercules, whom Antony loved,"
+      - "Now leaves him."
+    m:
+      - "It means that Antony’s patron god, Hercules, is leaving him."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Walk. Let’s see if other watchmen"
+      - "Do hear what we do."
+    m:
+      - "Let’s walk over and see if the other soldiers heard the same thing."
+
+  - os: "They advance toward the other SOLDIERS"
+    ms: "They go to speak with the other SOLDIERS."
+
+  - sp: SECOND SOLDIER
+    o:
+      - "How now, masters?"
+    m:
+      - "Hello there, good sirs."
+
+  - sp: ALL
+    o:
+      - "*(speak together)* How now? How now? Do you hear this?"
+    m:
+      - "*(speaking at the same time)* What now? What now? Do you hear that?"
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Ay. Is ’t not strange?"
+    m:
+      - "Yes. Isn’t it strange?"
+
+  - sp: THIRD SOLDIER
+    o:
+      - "Do you hear, masters? Do you hear?"
+    m:
+      - "Do you hear that, men? Do you?"
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Follow the noise so far as we have quarter;"
+      - "Let’s see how it will give off."
+    m:
+      - "Let’s follow the music as far as we can without leaving our station and see if it stops."
+
+  - sp: ALL
+    o:
+      - "    Content. ’Tis strange."
+    m:
+      - "Good idea. It’s very strange."
+
+  - os: "Exeunt"
+    ms: "They exit."

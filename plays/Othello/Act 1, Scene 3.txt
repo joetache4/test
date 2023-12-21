@@ -1,0 +1,839 @@
+play: Othello
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter DUKE, SENATORS, and OFFICERS"
+    ms: "The DUKE enters with SENATORS and OFFICERS."
+
+  - sp: DUKE
+    o:
+      - "There’s no composition in this news"
+      - "That gives them credit."
+    m:
+      - "These reports are inconsistent. You can’t trust them."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Indeed, they are disproportioned."
+      - "My letters say a hundred and seven galleys."
+    m:
+      - "It’s true, they’re inconsistent. My letters say there are a hundred and seven ships."
+
+  - sp: DUKE
+    o:
+      - "And mine a hundred and forty."
+    m:
+      - "And mine say a hundred and forty."
+
+  - sp: SECOND SENATOR
+    o:
+      - "    And mine, two hundred."
+      - "But though they jump not on a just account—"
+      - "As in these cases, where the aim reports"
+      - "’Tis oft with difference—yet do they all confirm"
+      - "A Turkish fleet, and bearing up to Cyprus."
+    m:
+      - "And mine say two hundred. But often in these cases, reports are just estimates. The important thing is that they all say a Turkish fleet is approaching Cyprus."
+
+  - sp: DUKE
+    o:
+      - "Nay, it is possible enough to judgment."
+      - "I do not so secure me in the error,"
+      - "But the main article I do approve"
+      - "In fearful sense."
+    m:
+      - "Yes, we get the idea. The inconsistency doesn’t make me think that the reports are all wrong. I have no doubt about what they’re basically saying, and it’s frightening."
+
+  - sp: SAILOR
+    o:
+      - "*(within)*"
+      - "    What, ho, what, ho, what, ho!"
+    m:
+      - "*(offstage)* Hello! Hey, hello!"
+
+  - sp: OFFICER
+    o:
+      - "A messenger from the galleys."
+    m:
+      - "It’s a messenger from the warships."
+
+  - os: "Enter SAILOR"
+    ms: "A SAILOR enters."
+
+  - sp: DUKE
+    o:
+      - "Now, what’s the business?"
+    m:
+      - "Why are you here?"
+
+  - sp: SAILOR
+    o:
+      - "The Turkish preparation makes for Rhodes,"
+      - "So was I bid report here to the state"
+      - "By Signior Angelo."
+    m:
+      - "Signor Angelo told me to come here and tell you that the Turkish fleet is heading for Rhodes, not Cyprus."
+
+  - sp: DUKE
+    o:
+      - "How say you by this change?"
+    m:
+      - "What do you think about this change?"
+
+  - sp: FIRST SENATOR
+    o:
+      - "    This cannot be,"
+      - "By no assay of reason. ’Tis a pageant,"
+      - "To keep us in false gaze. When we consider"
+      - "Th’ importancy of Cyprus to the Turk,"
+      - "And let ourselves again but understand"
+      - "That as it more concerns the Turk than Rhodes"
+      - "So may he with more facile question bear it,"
+      - "For that it stands not in such warlike brace"
+      - "But altogether lacks th’ abilities"
+      - "That Rhodes is dressed in. If we make thought of this"
+      - "We must not think the Turk is so unskillful"
+      - "To leave that latest which concerns him first,"
+      - "Neglecting an attempt of ease and gain"
+      - "To wake and wage a danger profitless."
+    m:
+      - "They can’t have changed; there’s no way this could be true. It’s a trick to confuse us. Think about how important Cyprus is to the Turks, and remember that they could capture Cyprus more easily, since it isn’t as well protected as Rhodes is. If we keep these things in mind, we can’t possibly imagine that the Turks would be so incompetent as to put off for last what they want to achieve first, setting aside something easy and profitable to do something dangerous and pointless."
+
+  - sp: DUKE
+    o:
+      - "Nay, in all confidence, he’s not for Rhodes."
+    m:
+      - "No, I think we can be confident that the Turks aren’t really headed for Rhodes."
+
+  - sp: OFFICER
+    o:
+      - "Here is more news."
+    m:
+      - "Here’s some more news coming in."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "The Ottomites, reverend and gracious,"
+      - "Steering with due course toward the isle of Rhodes,"
+      - "Have there injointed them with an after fleet."
+    m:
+      - "Sir, the Turks sailed to Rhodes, where they joined with another fleet."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Ay, so I thought. How many, as you guess?"
+    m:
+      - "That’s just what I thought. How many, can you guess?"
+
+  - sp: MESSENGER
+    o:
+      - "Of thirty sail. And now they do re-stem"
+      - "Their backward course, bearing with frank appearance"
+      - "Their purposes toward Cyprus. Signior Montano,"
+      - "Your trusty and most valiant servitor,"
+      - "With his free duty recommends you thus,"
+      - "And prays you to believe him."
+    m:
+      - "Thirty ships. Now they’ve turned around and are clearly heading for Cyprus. Signor Montano, your brave and loyal servant, gives you this information and asks you to send reinforcements to relieve him."
+
+  - sp: DUKE
+    o:
+      - "    ’Tis certain then for Cyprus."
+      - "Marcus Luccicos, is not he in town?"
+    m:
+      - "Then it’s certain they’re heading for Cyprus. Is Marcus Luccicos in town?"
+
+  - sp: FIRST SENATOR
+    o:
+      - "He’s now in Florence."
+    m:
+      - "No, he’s in Florence."
+
+  - sp: DUKE
+    o:
+      - "Write from us to him. Post-post-haste, dispatch."
+    m:
+      - "Write to him immediately. Hurry."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Here comes Brabantio and the valiant Moor."
+    m:
+      - "Here come Brabantio and the brave Moor."
+
+  - os: "Enter BRABANTIO, OTHELLO, CASSIO, IAGO, RODERIGO, and officers"
+    ms: "BRABANTIO, OTHELLO, CASSIO, IAGO, RODERIGO and the officers enter."
+
+  - sp: DUKE
+    o:
+      - "Valiant Othello, we must straight employ you"
+      - "Against the general enemy Ottoman—"
+      - "*(to BRABANTIO)* I did not see you. Welcome, gentle signior."
+      - "We lacked your counsel and your help tonight."
+    m:
+      - "Brave Othello, I have to send you right away to fight the Turks, our great enemy.—*(to BRABANTIO)* Oh, I didn’t see you there. Welcome, sir. I could have used your wisdom and help tonight."
+
+  - sp: BRABANTIO
+    o:
+      - "So did I yours. Good your grace, pardon me."
+      - "Neither my place nor aught I heard of business"
+      - "Hath raised me from my bed, nor doth the general care"
+      - "Take hold on me, for my particular grief"
+      - "Is of so flood-gate and o’erbearing nature"
+      - "That it engluts and swallows other sorrows"
+      - "And it is still itself."
+    m:
+      - "I could have used yours as well. Forgive me, your grace. I didn’t get out of bed and come here in the dead of night because I heard about the war or because I was worried about the city’s defense. I have a personal problem so painful and gut-wrenching that it overwhelms everything else."
+
+  - sp: DUKE
+    o:
+      - "Why, what’s the matter?"
+    m:
+      - "Why, what’s the matter?"
+
+  - sp: BRABANTIO
+    o:
+      - "My daughter! Oh, my daughter!"
+    m:
+      - "It’s my daughter! Oh, my daughter!"
+
+  - sp: ALL
+    o:
+      - "    Dead?"
+    m:
+      - "Is she dead?"
+
+  - sp: BRABANTIO
+    o:
+      - "    Ay, to me."
+      - "She is abused, stol’n from me, and corrupted"
+      - "By spells and medicines bought of mountebanks."
+      - "For nature so prepost’rously to err,"
+      - "Being not deficient, blind, or lame of sense,"
+      - "Sans witchcraft could not."
+    m:
+      - "She’s dead to me. She’s been tricked and stolen from me, enchanted by black magic spells. She must’ve been tricked or drugged, because there’s no way she could have made this mistake on her own."
+
+  - sp: DUKE
+    o:
+      - "Whoe’er he be that in this foul proceeding"
+      - "Hath thus beguiled your daughter of herself"
+      - "And you of her, the bloody book of law"
+      - "You shall yourself read in the bitter letter,"
+      - "After your own sense, yea, though our proper son"
+      - "Stood in your action."
+    m:
+      - "Whoever tricked your daughter and stole her from you will pay for it. And you yourself will determine the sentence as you see fit, and impose the death penalty if you choose to, even if the criminal were my own son."
+
+  - sp: BRABANTIO
+    o:
+      - "    Humbly I thank your grace."
+      - "Here is the man, this Moor, whom now it seems,"
+      - "Your special mandate for the state affairs"
+      - "Hath hither brought."
+    m:
+      - "I humbly thank you, sir. Here is the man, the Moor. It seems you had your own reasons for summoning him here."
+
+  - sp: ALL
+    o:
+      - "    We are very sorry for’t."
+    m:
+      - "We’re sorry to hear this."
+
+  - sp: DUKE
+    o:
+      - "*(to OTHELLO)* What, in your own part, can you say to this?"
+    m:
+      - "*(to OTHELLO)* What do you have to say for yourself?"
+
+  - sp: BRABANTIO
+    o:
+      - "Nothing, but this is so."
+    m:
+      - "Nothing, but this is true."
+
+  - sp: OTHELLO
+    o:
+      - "Most potent, grave, and reverend signiors,"
+      - "My very noble and approved good masters,"
+      - "That I have ta’en away this old man’s daughter,"
+      - "It is most true. True, I have married her."
+      - "The very head and front of my offending"
+      - "Hath this extent, no more. Rude am I in my speech,"
+      - "And little blessed with the soft phrase of peace,"
+      - "For since these arms of mine had seven years’ pith"
+      - "Till now some nine moons wasted, they have used"
+      - "Their dearest action in the tented field,"
+      - "And little of this great world can I speak,"
+      - "More than pertains to feats of broils and battle,"
+      - "And therefore little shall I grace my cause"
+      - "In speaking for myself. Yet, by your gracious patience,"
+      - "I will a round unvarnished tale deliver"
+      - "Of my whole course of love. What drugs, what charms,"
+      - "What conjuration and what mighty magic—"
+      - "For such proceeding I am charged withal—"
+      - "I won his daughter."
+    m:
+      - "Noble, honorable gentlemen whom I serve: it’s true that I’ve taken this man’s daughter from him and married her. But that’s my only offense. There’s nothing more. I’m awkward in my speech and I’m not a smooth talker. From the time I was seven years old until nine months ago I’ve been fighting in battles. I don’t know much about the world apart from fighting. So I won’t do myself much good by speaking in my own defense. But if you’ll let me, I’ll tell you the plain story of how we fell in love, and what drugs, charms, spells, and powerful magic—because that’s what I’m being accused of—I used to win his daughter."
+
+  - sp: BRABANTIO
+    o:
+      - "    A maiden never bold,"
+      - "Of spirit so still and quiet that her motion"
+      - "Blushed at herself. And she, in spite of nature,"
+      - "Of years, of country, credit, everything,"
+      - "To fall in love with what she feared to look on?"
+      - "It is a judgment maimed and most imperfect"
+      - "That will confess perfection so could err."
+      - "Against all rules of nature, and must be driven"
+      - "To find out practices of cunning hell"
+      - "Why this should be. I therefore vouch again"
+      - "That with some mixtures powerful o’er the blood"
+      - "Or with some dram, conjured to this effect,"
+      - "He wrought upon her."
+    m:
+      - "She’s a good girl, quiet and obedient. She blushes at the slightest thing. And you want me to believe that despite her young age and proper upbringing she fell in love with a man she’d be afraid to look at? The very thought of it is ridiculous. You’d have to be stupid to think that someone so perfect could make such an unnatural mistake as that. The devil must be behind this. Therefore I say again that he must have used some powerful drug or magic potion on her."
+
+  - sp: DUKE
+    o:
+      - "    To vouch this is no proof,"
+      - "Without more wider and more overt test"
+      - "Than these thin habits and poor likelihoods"
+      - "Of modern seeming do prefer against him."
+    m:
+      - "Your saying this isn’t proof. There has to be clear evidence that he’s done this, not just these accusations."
+
+  - sp: FIRST SENATOR
+    o:
+      - "But, Othello, speak."
+      - "Did you by indirect and forcèd courses"
+      - "Subdue and poison this young maid’s affections?"
+      - "Or came it by request and such fair question"
+      - "As soul to soul affordeth?"
+    m:
+      - "Tell us, Othello. Did you trick or deceive this lady in some way? Or did you agree to this as equals?"
+
+  - sp: OTHELLO
+    o:
+      - "    I do beseech you,"
+      - "Send for the lady to the Sagittary,"
+      - "And let her speak of me before her father."
+      - "If you do find me foul in her report"
+      - "The trust, the office I do hold of you,"
+      - "Not only take away, but let your sentence"
+      - "Even fall upon my life."
+    m:
+      - "Please, send for Desdemona to come here from the Sagittarius Inn and ask her to speak about me in front of her father. If she has anything bad to say about me, then you can sentence me to death."
+
+  - sp: DUKE
+    o:
+      - "    Fetch Desdemona hither."
+    m:
+      - "Bring Desdemona here."
+
+  - sp: OTHELLO
+    o:
+      - "Ancient, conduct them. You best know the place."
+    m:
+      - "Iago, bring Desdemona here. You know where she is."
+
+  - os: "Exeunt IAGO and attendants"
+    ms: "IAGO and attendants exit."
+
+  - o:
+      - "And till she come, as truly as to heaven"
+      - "I do confess the vices of my blood"
+      - "So justly to your grave ears I’ll present"
+      - "How I did thrive in this fair lady’s love"
+      - "And she in mine."
+    m:
+      - "In the meantime I’ll tell you all, as honestly as I confess my sins to God, how I wooed this beautiful lady, and how she came to love me."
+
+  - sp: DUKE
+    o:
+      - "    Say it, Othello."
+    m:
+      - "Tell us, Othello."
+
+  - sp: OTHELLO
+    o:
+      - "Her father loved me, oft invited me,"
+      - "Still questioned me the story of my life"
+      - "From year to year, the battles, sieges, fortunes,"
+      - "That I have passed."
+      - "I ran it through, even from my boyish days,"
+      - "To th’ very moment that he bade me tell it,"
+      - "Wherein I spoke of most disastrous chances,"
+      - "Of moving accidents by flood and field,"
+      - "Of hair-breadth ’scapes i’ th’ imminent deadly breach,"
+      - "Of being taken by the insolent foe"
+      - "And sold to slavery, of my redemption thence"
+      - "And portance in my traveler’s history."
+      - "Wherein of antres vast and deserts idle,"
+      - "Rough quarries, rocks, hills whose heads touch heaven"
+      - "It was my hint to speak—such was my process—"
+      - "And of the Cannibals that each others eat,"
+      - "The Anthropophagi, and men whose heads"
+      - "Grew beneath their shoulders. These things to hear"
+      - "Would Desdemona seriously incline."
+      - "But still the house affairs would draw her hence,"
+      - "Which ever as she could with haste dispatch,"
+      - "She’d come again, and with a greedy ear"
+      - "Devour up my discourse, which I, observing,"
+      - "Took once a pliant hour and found good means"
+      - "To draw from her a prayer of earnest heart"
+      - "That I would all my pilgrimage dilate,"
+      - "Whereof by parcels she had something heard"
+      - "But not intentively. I did consent,"
+      - "And often did beguile her of her tears"
+      - "When I did speak of some distressful stroke"
+      - "That my youth suffered. My story being done"
+      - "She gave me for my pains a world of sighs."
+      - "She swore, in faith, ’twas strange, ’twas passing strange,"
+      - "’Twas pitiful, ’twas wondrous pitiful."
+      - "She wished she had not heard it, yet she wished"
+      - "That heaven had made her such a man. She thanked me"
+      - "And bade me, if I had a friend that loved her,"
+      - "I should but teach him how to tell my story"
+      - "And that would woo her. Upon this hint I spake."
+      - "She loved me for the dangers I had passed,"
+      - "And I loved her that she did pity them."
+      - "This only is the witchcraft I have used."
+      - "Here comes the lady. Let her witness it."
+    m:
+      - "Her father loved me and used to invite me to his house often, continually asking me about my life and all the battles I’ve fought. I told him everything, from my boyhood up until the time when I was talking to him. I told him about unfortunate disasters, hair-raising adventures on sea and on land, and near-catastrophes and dangerous adventures I’ve been through. I told him how I was captured and sold as a slave, how I bought my freedom, and how I wandered through caves and deserts. I was able to tell him about cannibals who eat each other, and men with heads growing below their shoulders. When I talked about all these things, Desdemona used to listen attentively. If she had to go do some household chore, I noticed that she’d always come back quickly to hear more of my stories. When I was relaxing, she’d pull me aside and ask to hear some part of a story she had missed. Her eyes would fill with tears at the bad things I went through in my younger years. When my stories were done, she’d sigh and tell me how strangely wonderful and sad my life had been. She said she wished she hadn’t heard it, but she also wished there was a man like me for her. She thanked me and told me that if a friend of mine had a story like mine to tell, she’d fall in love with him. I took the hint and spoke to her. She said she loved me for the dangers I’d survived, and I loved her for feeling such strong emotions about me. That’s the only witchcraft I ever used. Here comes my wife now. She’ll confirm everything."
+
+  - os: "Enter DESDEMONA, IAGO, and attendants"
+    ms: "DESDEMONA, IAGO, and attendants enter."
+
+  - sp: DUKE
+    o:
+      - "I think this tale would win my daughter too."
+      - "Good Brabantio. Take up this mangled matter at the best."
+      - "Men do their broken weapons rather use"
+      - "Than their bare hands."
+    m:
+      - "I think a story like that would win my own daughter over. Brabantio, I urge you to make the best of this. Try to accept what’s happened."
+
+  - sp: BRABANTIO
+    o:
+      - "    I pray you, hear her speak."
+      - "If she confess that she was half the wooer,"
+      - "Destruction on my head if my bad blame"
+      - "Light on the man.—Come hither, gentle mistress."
+      - "Do you perceive in all this noble company"
+      - "Where most you owe obedience?"
+    m:
+      - "Please let her speak. If she admits she wanted this, then I won’t blame Othello.—Come here, my child. Who do you obey here?"
+
+  - sp: DESDEMONA
+    o:
+      - "    My noble father,"
+      - "I do perceive here a divided duty."
+      - "To you I am bound for life and education."
+      - "My life and education both do learn me"
+      - "How to respect you. You are the lord of duty."
+      - "I am hitherto your daughter. But here’s my husband."
+      - "And so much duty as my mother showed"
+      - "To you, preferring you before her father,"
+      - "So much I challenge that I may profess"
+      - "Due to the Moor my lord."
+    m:
+      - "Father, this isn’t easy for me. I’m torn. I owe you respect because you gave me life and education. You’re the one I have to obey. I’m your daughter. But this man here is my husband now, and I owe him as much as my mother owed you, just as she preferred you to her own father. So I have to give my obedience to the Moor, my husband."
+
+  - sp: BRABANTIO
+    o:
+      - "  God be with you. I have done."
+      - "Please it your grace, on to the state affairs."
+      - "I had rather to adopt a child than get it.—"
+      - "Come hither, Moor."
+      - "I here do give thee that with all my heart"
+      - "Which, but thou hast already, with all my heart"
+      - "I would keep from thee. For your sake, jewel,"
+      - "I am glad at soul I have no other child."
+      - "For thy escape would teach me tyranny,"
+      - "To hang clogs on them.—I have done, my lord."
+    m:
+      - "I’m finished, then. Duke, please go ahead with your state business. I’d rather adopt a child than have one of my own.—Come here, Moor. I’m forced to give my blessing to this marriage. With all my heart, I give you that thing which, if you didn’t already have it, I’d try with all my heart to keep from you. Desdemona, I’m glad you’re my only child, since if I had others I’d keep them all locked up. You would have made me treat them like a tyrant.—I’m done, my lord."
+
+  - sp: DUKE
+    o:
+      - "Let me speak like yourself and lay a sentence"
+      - "Which, as a grise or step, may help these lovers."
+      - "When remedies are past, the griefs are ended"
+      - "By seeing the worst, which late on hopes depended."
+      - "To mourn a mischief that is past and gone"
+      - "Is the next way to draw new mischief on."
+      - "What cannot be preserved when fortune takes,"
+      - "Patience her injury a mock’ry makes."
+      - "The robbed that smiles steals something from the thief,"
+      - "He robs himself that spends a bootless grief."
+    m:
+      - "Let me refer to a proverb that may help you forgive these lovers: if you can’t change something, don’t cry about it. When you lament something bad that’s already happened, you’re setting yourself up for more bad news. A robbery victim who can smile about his losses is superior to the thief who robbed him, but if he cries he’s just wasting time."
+
+  - sp: BRABANTIO
+    o:
+      - "So let the Turk of Cyprus us beguile,"
+      - "We lose it not, so long as we can smile."
+      - "He bears the sentence well that nothing bears"
+      - "But the free comfort which from thence he hears."
+      - "But he bears both the sentence and the sorrow"
+      - "That, to pay grief, must of poor patience borrow."
+      - "These sentences to sugar or to gall,"
+      - "Being strong on both sides, are equivocal."
+      - "But words are words. I never yet did hear"
+      - "That the bruised heart was piercèd through the ears."
+      - "I humbly beseech you, proceed to th’ affairs of state."
+    m:
+      - "So if the Turks steal Cyprus from us, it won’t be bad as long as we keep smiling. It’s easy to accept platitudes like that if you haven’t lost anything. But I’ve lost something precious, and I have to put up with the platitude as well as suffering my loss. Talk is cheap. I’ve never heard of someone feeling better because of someone else’s words. Please, I’m asking you, go ahead and get back to your state affairs."
+
+  - sp: DUKE
+    o:
+      - "The Turk with a most mighty preparation makes for Cyprus. Othello, the fortitude of the place is best known to you, and though we have there a substitute of most allowed sufficiency, yet opinion, a sovereign mistress of effects, throws a more safer voice on you. You must therefore be content to slubber the gloss of your new fortunes with this more stubborn and boist’rous expedition."
+    m:
+      - "The Turks are heading for Cyprus with a powerful fleet. Othello, you understand better than anyone how the defenses for Cyprus work. Even though we have a very good officer in charge there already, everyone says you’re the better man for the job. So I’ll have to ask you to put a damper on your marriage celebrations and take part in this dangerous expedition."
+
+  - sp: OTHELLO
+    o:
+      - "The tyrant custom, most grave senators,"
+      - "Hath made the flinty and steel couch of war"
+      - "My thrice-driven bed of down. I do agnize"
+      - "A natural and prompt alacrity"
+      - "I find in hardness, and do undertake"
+      - "These present wars against the Ottomites."
+      - "Most humbly therefore bending to your state,"
+      - "I crave fit disposition for my wife."
+      - "Due reference of place and exhibition,"
+      - "With such accommodation and besort"
+      - "As levels with her breeding."
+    m:
+      - "I’ve gotten used to the hardships of a military life. I rise to the occasion when faced with difficulties. I will take charge of this war against the Turks. But I humbly ask you to make appropriate arrangements for my wife, giving her a place to live and people to keep her company that suit her high rank."
+
+  - sp: DUKE
+    o:
+      - "Why, at her father’s."
+    m:
+      - "She can stay at her father’s house."
+
+  - sp: BRABANTIO
+    o:
+      - "I’ll not have it so."
+    m:
+      - "I won’t allow it."
+
+  - sp: OTHELLO
+    o:
+      - "Nor I."
+    m:
+      - "Neither will I."
+
+  - sp: DESDEMONA
+    o:
+      - "Nor would I there reside,"
+      - "To put my father in impatient thoughts"
+      - "By being in his eye. Most gracious Duke,"
+      - "To my unfolding lend your prosperous ear"
+      - "And let me find a charter in your voice,"
+      - "T’ assist my simpleness."
+    m:
+      - "And I wouldn’t stay there. I don’t want to upset my father by being in his house. Dear Duke, please listen to what I have to say."
+
+  - sp: DUKE
+    o:
+      - "What would you, Desdemona?"
+    m:
+      - "What do you want to do, Desdemona?"
+
+  - sp: DESDEMONA
+    o:
+      - "That I did love the Moor to live with him,"
+      - "My downright violence and storm of fortunes"
+      - "May trumpet to the world. My heart’s subdued"
+      - "Even to the very quality of my lord."
+      - "I saw Othello’s visage in his mind,"
+      - "And to his honors and his valiant parts"
+      - "Did I my soul and fortunes consecrate."
+      - "So that, dear lords, if I be left behind"
+      - "A moth of peace and he go to the war,"
+      - "The rites for which I love him are bereft me,"
+      - "And I a heavy interim shall support"
+      - "By his dear absence. Let me go with him."
+    m:
+      - "When I fell in love with Othello I made up my mind that I wanted to live with him. You can see how much I wanted to be with him by how violently I threw away my old life. I feel like I’m a part of him now, and that means I’m part of a soldier. I saw Othello’s true face when I saw his mind. I gave my whole life to him because of his honor and bravery. If I were left at home uselessly while he went off to war, then I’m separated from my husband in his natural element. I’d be miserable without him. Let me go with him."
+
+  - sp: OTHELLO
+    o:
+      - "Let her have your voice."
+      - "Vouch with me, heaven, I therefore beg it not"
+      - "To please the palate of my appetite,"
+      - "Nor to comply with heat the young affects"
+      - "In my defunct and proper satisfaction,"
+      - "But to be free and bounteous to her mind,"
+      - "And heaven defend your good souls, that you think"
+      - "I will your serious and great business scant"
+      - "When she is with me. No, when light-winged toys"
+      - "Of feathered Cupid seel with wanton dullness"
+      - "My speculative and officed instrument,"
+      - "That my disports corrupt and taint my business,"
+      - "Let housewives make a skillet of my helm"
+      - "And all indign and base adversities"
+      - "Make head against my estimation."
+    m:
+      - "Please allow her to do this. I’m not asking to have her near me for sex—I’m too old for that, and my sexual urges are dead. I want this because she wants it—I love her for her mind. And I’d never want you to think that I’d neglect my serious official duties while she was there with me. If I ever let love blind me so that I choose to lounge around in bed with my loved one instead of going off to war, then you can let a housewife use my helmet as a frying pan. My reputation would be disgraced if I ever acted like that."
+
+  - sp: DUKE
+    o:
+      - "Be it as you shall privately determine,"
+      - "Either for her stay or going. Th’ affair cries haste"
+      - "And speed must answer it."
+    m:
+      - "You can decide that privately. I don’t care whether she stays or goes. What’s important is the urgency of this mission. You’ve got to act fast."
+
+  - sp: FIRST SENATOR
+    o:
+      - "    You must away tonight."
+    m:
+      - "You’ll have to leave tonight."
+
+  - sp: OTHELLO
+    o:
+      - "With all my heart."
+    m:
+      - "With all my heart, I’ll go right away."
+
+  - sp: DUKE
+    o:
+      - "At nine i’ th’ morning here we’ll meet again."
+      - "Othello, leave some officer behind"
+      - "And he shall our commission bring to you,"
+      - "And such things else of quality and respect"
+      - "As doth import you."
+    m:
+      - "We’ll meet again at nine in the morning. Othello, have one of your officers stay behind to bring you your commission and whatever else is important to you."
+
+  - sp: OTHELLO
+    o:
+      - "    So please your grace, my ancient."
+      - "A man he is of honesty and trust."
+      - "To his conveyance I assign my wife,"
+      - "With what else needful your good grace shall think"
+      - "To be sent after me."
+    m:
+      - "My lord, my ensign is an honest and trustworthy man. He’ll accompany my wife, and bring whatever else you think I might need."
+
+  - sp: DUKE
+    o:
+      - "    Let it be so."
+      - "Good night to every one.—"
+      - "*(to BRABANTIO)* And, noble signior,"
+      - "If virtue no delighted beauty lack,"
+      - "Your son-in-law is far more fair than black."
+    m:
+      - "All right, then. Good night, everyone.—*(to BRABANTIO)* Sir, if goodness is beautiful, your son-in-law is beautiful, not black."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Adieu, brave Moor. Use Desdemona well."
+    m:
+      - "Goodbye, black Moor. Treat Desdemona well."
+
+  - sp: BRABANTIO
+    o:
+      - "Look to her, Moor, if thou hast eyes to see."
+      - "She has deceived her father, and may thee."
+    m:
+      - "Keep an eye on her, Moor. She lied to me, and she may lie to you."
+
+  - os: "Exeunt DUKE, BRABANTIO, CASSIO, SENATORS, and officers"
+    ms: "The DUKE, BRABANTIO, CASSIO, SENATORS, and officers exit."
+
+  - sp: OTHELLO
+    o:
+      - "My life upon her faith!—Honest Iago,"
+      - "My Desdemona must I leave to thee."
+      - "I prithee, let thy wife attend on her,"
+      - "And bring them after in the best advantage."
+      - "Come, Desdemona, I have but an hour"
+      - "Of love, of worldly matter and direction,"
+      - "To spend with thee. We must obey the time."
+    m:
+      - "I’d bet my life she’d never lie to me. Iago, I’m leaving my dear Desdemona with you. Have your wife attend to her, and bring them along as soon as you can. Come on, Desdemona, I’ve only got an hour of love to spend with you, to tell you what you need to do. We’re on a tight schedule."
+
+  - os: "Exeunt OTHELLO and DESDEMONA"
+    ms: "OTHELLO and DESDEMONA exit."
+
+  - sp: RODERIGO
+    o:
+      - "Iago."
+    m:
+      - "Iago."
+
+  - sp: IAGO
+    o:
+      - "What say’st thou, noble heart?"
+    m:
+      - "What do you have to say, noble friend?"
+
+  - sp: RODERIGO
+    o:
+      - "What will I do, think’st thou?"
+    m:
+      - "What do you think I should do?"
+
+  - sp: IAGO
+    o:
+      - "Why, go to bed, and sleep."
+    m:
+      - "Go to bed, and sleep."
+
+  - sp: RODERIGO
+    o:
+      - "I will incontinently drown myself."
+    m:
+      - "I’m going to go drown myself."
+
+  - sp: IAGO
+    o:
+      - "If thou dost I shall never love thee after. Why, thou silly gentleman!"
+    m:
+      - "If you do that, I’ll never respect you again. Why, you silly man!"
+
+  - sp: RODERIGO
+    o:
+      - "It is silliness to live when to live is torment, and then have we a prescription to die when death is our physician."
+    m:
+      - "It’s silly to live when life is torture. The only cure is death."
+
+  - sp: IAGO
+    o:
+      - "Oh, villainous! I have looked upon the world for four times seven years, and since I could distinguish betwixt a benefit and an injury I never found man that knew how to love himself. Ere I would say I would drown myself for the love of a guinea hen, I would change my humanity with a baboon."
+    m:
+      - "Oh, how stupid! I’ve been alive for twenty-eight years, and I’ve never met a man who knew what was good for him. I’d rather be a baboon than kill myself out of love for some woman I can’t have."
+
+  - sp: RODERIGO
+    o:
+      - "What should I do? I confess it is my shame to be so fond, but it is not in my virtue to amend it."
+    m:
+      - "What should I do? I know it’s foolish to be so much in love, but I can’t help it."
+
+  - sp: IAGO
+    o:
+      - "Virtue? A fig! ’Tis in ourselves that we are thus or thus. Our bodies are our gardens, to the which our wills are gardeners. So that if we will plant nettles or sow lettuce, set hyssop and weed up thyme, supply it with one gender of herbs or distract it with many—either to have it sterile with idleness, or manured with industry—why, the power and corrigible authority of this lies in our wills. If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most prepost’rous conclusions. But we have reason to cool our raging motions, our carnal stings, our unbitted lusts. Whereof I take this that you call love to be a sect or scion."
+    m:
+      - "Can’t help it? Nonsense! What we are is up to us. Our bodies are like gardens and our willpower is like the gardener. Depending on what we plant—weeds or lettuce, or one kind of herb rather than a variety, the garden will either be barren and useless, or rich and productive. If we didn’t have rational minds to counterbalance our emotions and desires, our bodily urges would take over. We’d end up in ridiculous situations. Thankfully, we have reason to cool our raging lusts. In my opinion, what you call love is just an offshoot of lust."
+
+  - sp: RODERIGO
+    o:
+      - "It cannot be."
+    m:
+      - "I don’t believe it."
+
+  - sp: IAGO
+    o:
+      - "It is merely a lust of the blood and a permission of the will. Come, be a man. Drown thyself? Drown cats and blind puppies! I have professed me thy friend, and I confess me knit to thy deserving with cables of perdurable toughness. I could never better stead thee than now. Put money in thy purse. Follow thou the wars, defeat thy favor with an usurped beard. I say, put money in thy purse. It cannot be long that Desdemona should continue her love to the Moor—put money in thy purse—nor he his to her. It was a violent commencement in her, and thou shalt see an answerable sequestration—put but money in thy purse. These Moors are changeable in their wills—fill thy purse with money. The food that to him now is as luscious as locusts shall be to him shortly as bitter as coloquintida. She must change for youth. When she is sated with his body she will find the errors of her choice. Therefore, put money in thy purse. If thou wilt needs damn thyself, do it a more delicate way than drowning. Make all the money thou canst. If sanctimony and a frail vow betwixt an erring barbarian and supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her. Therefore make money. A pox of drowning thyself! ’Tis clean out of the way. Seek thou rather to be hanged in compassing thy joy than to be drowned and go without her."
+    m:
+      - "You feel love because you feel lust and you have no willpower. Come on, be a man. Drown yourself? Drowning is for cats or blind puppies—don’t drown yourself! I’ve told you I’m your friend, and I’ll stick by you. I’ve never been more useful to you than I will be now. Here’s what you’ll do. Sell all your assets and your land, and turn it into cash. Desdemona can’t continue loving the Moor any more than he can continue loving her. She fell in love with him very suddenly, and they’ll break up just as suddenly. Moors are moody people.—So sell your lands and raise a lot of cash. What seems sweet to him now will soon turn bitter. She’ll dump Othello for a younger man. When she’s had enough of the Moor’s body, she’ll realize her mistake. She’ll need to have a new lover. She’ll have to have it. So have your money ready. If you want to go to hell, there are better ways to do it than killing yourself. Raise all the money you can. I can get the better of religion and a few flimsy vows between a misguided barbarian and a depraved Venetian girl. You’ll get to sleep with her—just put together some money. And to hell with drowning yourself! That’s completely beside the point. If you’re ready to die, you can risk death by committing crimes in an attempt to get the woman you want. Don’t just give up on her and drown yourself."
+
+  - sp: RODERIGO
+    o:
+      - "Wilt thou be fast to my hopes, if I depend on the issue?"
+    m:
+      - "Can I count on you if I wait to see what happens?"
+
+  - sp: IAGO
+    o:
+      - "Thou art sure of me. Go, make money. I have told thee often, and I re-tell thee again and again, I hate the Moor. My cause is hearted. Thine hath no less reason. Let us be conjunctive in our revenge against him. If thou canst cuckold him, thou dost thyself a pleasure, me a sport. There are many events in the womb of time which will be delivered. Traverse, go, provide thy money. We will have more of this tomorrow. Adieu."
+    m:
+      - "You can trust me. Go now and get cash. I told you before, and I’ll tell you again and again: I hate the Moor. I’m devoted to my cause of hating him, just as devoted as you are to yours. So let’s join forces and get revenge. If you seduce Desdemona and make a fool out of him, it’ll be fun for both of us. Many things may happen. Go get money. We’ll speak again tomorrow. Goodbye."
+
+  - sp: RODERIGO
+    o:
+      - "Where shall we meet i’ th’ morning?"
+    m:
+      - "Where will we meet in the morning?"
+
+  - sp: IAGO
+    o:
+      - "    At my lodging."
+    m:
+      - "At my house."
+
+  - sp: RODERIGO
+    o:
+      - "I’ll be with thee betimes."
+    m:
+      - "I’ll be there early."
+
+  - sp: IAGO
+    o:
+      - "    Go to, farewell."
+      - "Do you hear, Roderigo?"
+    m:
+      - "Go home. Goodbye. Oh, and one more thing—"
+
+  - sp: RODERIGO
+    o:
+      - "What say you?"
+    m:
+      - "What is it?"
+
+  - sp: IAGO
+    o:
+      - "No more of drowning, do you hear?"
+    m:
+      - "No more talk about killing yourself, okay?"
+
+  - sp: RODERIGO
+    o:
+      - "I am changed."
+    m:
+      - "I’ve changed my mind about that."
+
+  - sp: IAGO
+    o:
+      - "Go to, farewell. Put money enough in your purse."
+    m:
+      - "Go then, goodbye. Put a lot of cash together."
+
+  - sp: RODERIGO
+    o:
+      - "I’ll sell all my land."
+    m:
+      - "I’m going to sell all my land."
+
+  - os: "Exit"
+    ms: "RODERIGO exits."
+
+  - sp: IAGO
+    o:
+      - "Thus do I ever make my fool my purse."
+      - "For I mine own gained knowledge should profane"
+      - "If I would time expend with such a snipe"
+      - "But for my sport and profit. I hate the Moor,"
+      - "And it is thought abroad that ’twixt my sheets"
+      - "He’s done my office. I know not if ’t be true,"
+      - "But I, for mere suspicion in that kind,"
+      - "Will do as if for surety. He holds me well."
+      - "The better shall my purpose work on him."
+      - "Cassio’s a proper man. Let me see now,"
+      - "To get his place and to plume up my will"
+      - "In double knavery. How? How? Let’s see."
+      - "After some time, to abuse Othello’s ear"
+      - "That he is too familiar with his wife."
+      - "He hath a person and a smooth dispose"
+      - "To be suspected, framed to make women false."
+      - "The Moor is of a free and open nature"
+      - "That thinks men honest that but seem to be so,"
+      - "And will as tenderly be led by th’ nose"
+      - "As asses are."
+      - "I have ’t. It is engendered! Hell and night"
+      - "Must bring this monstrous birth to the world’s light."
+    m:
+      - "That’s how I always do it, getting money from fools. I’d be wasting my skills dealing with an idiot like that if I couldn’t get something useful out of him. I hate the Moor, and there’s a widespread rumor that he’s slept with my wife. I’m not sure it’s true, but just the suspicion is enough for me. He thinks highly of me. That’ll help. Cassio’s a handsome man. Let’s see, how can I get his position and use him to hurt Othello at the same time? How? How? Let’s see. After a while I’ll start telling Othello that Cassio is too intimate with Desdemona. Cassio is a smooth talker and a good-looking guy, the sort of man that people would expect to be a seducer. The Moor is open and straightforward. He thinks any man who seems honest is honest. People like that are easy to manipulate. So it’s all decided. I’ve worked it out. With a little help from the devil, I’ll bring this monstrous plan to success."
+
+  - os: "Exit"
+    ms: "He exits."

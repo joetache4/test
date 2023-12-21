@@ -1,0 +1,31 @@
+play: Coriolanus
+title: Act 5, Scene 5
+group: 5
+order: 27
+text:
+  - os: "The same. A street near the gate."
+    ms: "The same street near the gate."
+
+  - os: "Enter two Senators with VOLUMNIA, VIRGILIA, VALERIA, &c. passing over the stage, followed by Patricians and others"
+    ms: "Two Senators enter with VOLUMNIA, VIRGILIA, VALERIA, and company passing over the stage, followed by patricians and others."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Behold our patroness, the life of Rome!"
+      - "Call all your tribes together, praise the gods,"
+      - "And make triumphant fires; strew flowers before them:"
+      - "Unshout the noise that banish’d Martius,"
+      - "Repeal him with the welcome of his mother;"
+      - "Cry “Welcome, ladies, welcome!”"
+    m:
+      - "Behold our savior, the life of Rome! Call all your tribes together, praise the gods, and make triumphant fires. Throw flowers before them. Take back the cries that banished Martius and bring him back by welcoming his mother. Cry, “Welcome, ladies, welcome!”"
+
+  - sp: ALL
+    o:
+      - "Welcome, ladies,"
+      - "Welcome!"
+    m:
+      - "Welcome, ladies, welcome!"
+
+  - os: "A flourish with drums and trumpets. Exeunt"
+    ms: "Drums and trumpets sound. All exit."

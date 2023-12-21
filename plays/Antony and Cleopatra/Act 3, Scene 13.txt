@@ -1,0 +1,630 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 13
+group: 3
+order: 24
+text:
+  - os: "Enter CLEOPATRA, ENOBARBUS, CHARMIAN, and IRAS"
+    ms: "CLEOPATRA, ENOBARBUS, CHARMIAN, and IRAS enter."
+
+  - sp: CLEOPATRA
+    o:
+      - "What shall we do, Enobarbus?"
+    m:
+      - "What are we going to do, Enobarbus?"
+
+  - sp: ENOBARBUS
+    o:
+      - "    Think and die."
+    m:
+      - "Think about our situation, then die."
+
+  - sp: CLEOPATRA
+    o:
+      - "Is Antony or we in fault for this?"
+    m:
+      - "Who is to blame for this: Antony or I?"
+
+  - sp: ENOBARBUS
+    o:
+      - "Antony only, that would make his will"
+      - "Lord of his reason. What though you fled"
+      - "From that great face of war, whose several ranges"
+      - "Frighted each other? Why should he follow?"
+      - "The itch of his affection should not then"
+      - "Have nicked his captainship at such a point"
+      - "When half to half the world opposed, he being"
+      - "The merèd question. ’Twas a shame no less"
+      - "Than was his loss, to course your flying flags"
+      - "And leave his navy gazing."
+    m:
+      - "Only Antony was at fault. He put his desire in charge of his reason. So what if you ran from the battle, terrified, as ranks of ships threatened one another? Why should he have followed you? With half the world opposing the other half, it wasn’t the time for Antony, the pivotal player, to let love distract him. To race after your departing ships, leaving his navy to watch, was a shame as great as the resulting loss."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Prithee, peace."
+    m:
+      - "Please, let’s not talk about it."
+
+  - os: "Enter AMBASSADOR with ANTONY"
+    ms: "The AMBASSADOR and ANTONY enter."
+
+  - sp: ANTONY
+    o:
+      - "Is that his answer?"
+    m:
+      - "Is that his answer?"
+
+  - sp: AMBASSADOR
+    o:
+      - "Ay, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: ANTONY
+    o:
+      - "The Queen shall then have courtesy, so she"
+      - "Will yield us up?"
+    m:
+      - "The Queen will be treated fairly if she gives me up?"
+
+  - sp: AMBASSADOR
+    o:
+      - "    He says so."
+    m:
+      - "That’s what he says."
+
+  - sp: ANTONY
+    o:
+      - "    Let her know ’t.—"
+      - "*(to CLEOPATRA)* To the boy Caesar send this grizzled head,"
+      - "And he will fill thy wishes to the brim"
+      - "With principalities."
+    m:
+      - "Tell her. *(to CLEOPATRA)* If you send my aged head to that boy, Caesar, he’ll give you all the kingdoms you want."
+
+  - sp: CLEOPATRA
+    o:
+      - "    That head, my lord?"
+    m:
+      - "Your head, my lord?"
+
+  - sp: ANTONY
+    o:
+      - "*(to the AMBASSADOR)* To him again. Tell him he wears the rose"
+      - "Of youth upon him, from which the world should note"
+      - "Something particular. His coin, ships, legions,"
+      - "May be a coward’s, whose ministers would prevail"
+      - "Under the service of a child as soon"
+      - "As i’ th’ command of Caesar. I dare him therefore"
+      - "To lay his gay caparisons apart"
+      - "And answer me declined, sword against sword,"
+      - "Ourselves alone. I’ll write it. Follow me."
+    m:
+      - "*(to the AMBASSADOR)* Go back to him. Tell him that his cheeks still bear the pink flush of youth, and that the world expects to see something remarkable from him. His treasure, his navy, and his armies might belong to a coward, and his ministers might be able to succeed just as well on behalf of a child as under the command of Caesar. Therefore, I dare him to lay aside his fancy trappings and meet this old man in single combat, sword against sword, just the two of us. I’ll write the challenge. Follow me."
+
+  - os: "Exeunt ANTONY and AMBASSADOR"
+    ms: "ANTONY and the AMBASSADOR exit."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside)* Yes, like enough, high-battled Caesar will"
+      - "Unstate his happiness and be staged to th’ show"
+      - "Against a sworder! I see men’s judgments are"
+      - "A parcel of their fortunes, and things outward"
+      - "Do draw the inward quality after them"
+      - "To suffer all alike. That he should dream,"
+      - "Knowing all measures, the full Caesar will"
+      - "Answer his emptiness! Caesar, thou hast subdued"
+      - "His judgment too."
+    m:
+      - "*(aside)* Oh, that’s likely! Caesar, the great commander of troops, will surely risk all he has gained in order to fight this gladiator in the public square! I see that men’s judgments are tied to their fortunes, and that external factors influence a man’s internal qualities, making everything suffer. How could Antony, knowing how luck stood on either side, still imagine that Caesar would respond to his nonsense! Caesar, you’ve conquered his judgment too."
+
+  - os: "Enter a SERVANT"
+    ms: "A SERVANT enters."
+
+  - sp: SERVANT
+    o:
+      - "    A messenger from Caesar."
+    m:
+      - "A messenger has arrived from Caesar."
+
+  - sp: CLEOPATRA
+    o:
+      - "What, no more ceremony? See, my women,"
+      - "Against the blown rose may they stop their nose,"
+      - "That kneeled unto the buds.—Admit him, sir."
+    m:
+      - "With no more ceremony than that? See, ladies, how they scorn me now. They pinch their noses to avoid smelling the dying rose whose scent, as a bud, they happily inhaled. Show him in, sir."
+
+  - os: "Exit SERVANT"
+    ms: "The SERVANT exits."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside)* Mine honesty and I begin to square."
+      - "The loyalty well held to fools does make"
+      - "Our faith mere folly. Yet he that can endure"
+      - "To follow with allegiance a fall’n lord"
+      - "Does conquer him that did his master conquer"
+      - "And earns a place i’ th’ story."
+    m:
+      - "*(aside)* My integrity and I begin to contradict each other. Being loyal to a fool makes loyalty foolish. But a person who can bear to keep his allegiance to a defeated lord defeats his lord’s conqueror and earns a place in history."
+
+  - os: "Enter THIDIAS"
+    ms: "THIDIAS enters."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Caesar’s will?"
+    m:
+      - "What does Caesar want?"
+
+  - sp: THIDIAS
+    o:
+      - "Hear it apart."
+    m:
+      - "It is for your ears only."
+
+  - sp: CLEOPATRA
+    o:
+      - "    None but friends. Say boldly."
+    m:
+      - "There are only friends here. Speak confidently."
+
+  - sp: THIDIAS
+    o:
+      - "So haply are they friends to Antony."
+    m:
+      - "So they are possibly Antony’s friends."
+
+  - sp: ENOBARBUS
+    o:
+      - "He needs as many, sir, as Caesar has,"
+      - "Or needs not us. If Caesar please, our master"
+      - "Will leap to be his friend. For us, you know"
+      - "Whose he is we are, and that is Caesar’s."
+    m:
+      - "Sir, he should have as many as Caesar has. If he had that many friends, then he wouldn’t need us. If Caesar chose, Antony would jump at the chance to be his friend. As for us, you know we are Antony’s, and he is Caesar’s."
+
+  - sp: THIDIAS
+    o:
+      - "So.—"
+      - "Thus then, thou most renowned: Caesar entreats"
+      - "Not to consider in what case thou stand’st,"
+      - "Further than he is Caesar."
+    m:
+      - "So be it. This, then, this is the message Caesar sends to you, famous Queen: he implores you not to be concerned about your situation. Just remember that he is Caesar."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Go on. Right royal."
+    m:
+      - "Respectfully put. Go on."
+
+  - sp: THIDIAS
+    o:
+      - "He knows that you embrace not Antony"
+      - "As you did love, but as you feared him."
+    m:
+      - "He knows that you didn’t embrace Antony because you loved him, but because you feared him."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Oh!"
+    m:
+      - "Oh!"
+
+  - sp: THIDIAS
+    o:
+      - "The scars upon your honor therefore he"
+      - "Does pity as constrainèd blemishes,"
+      - "Not as deserved."
+    m:
+      - "So he regrets that any dishonorable acts were forced on you, not being performed of your own free will."
+
+  - sp: CLEOPATRA
+    o:
+      - "    He is a god and knows"
+      - "What is most right. Mine honor was not yielded,"
+      - "But conquered merely."
+    m:
+      - "He is like a god and knows the truth. My honor wasn’t given; it was only dominated."
+
+  - sp: ENOBARBUS
+    o:
+      - "    *(aside)* To be sure of that,"
+      - "I will ask Antony. Sir, sir, thou art so leaky"
+      - "That we must leave thee to thy sinking, for"
+      - "Thy dearest quit thee."
+    m:
+      - "*(aside)* I’ll go get the truth of this from Antony. Sir, sir, are you so badly off that we must abandon you to your fate? Even your dearest friend has abandoned you."
+
+  - os: "Exit ENOBARBUS"
+    ms: "ENOBARBUS exits."
+
+  - sp: THIDIAS
+    o:
+      - "    Shall I say to Caesar"
+      - "What you require of him? For he partly begs"
+      - "To be desired to give. It much would please him"
+      - "That of his fortunes you should make a staff"
+      - "To lean upon. But it would warm his spirits"
+      - "To hear from me you had left Antony"
+      - "And put yourself under his shroud,"
+      - "The universal landlord."
+    m:
+      - "Shall I tell Caesar what you request from him? He almost begs for the opportunity to help you. It would please him very much if you would rely on his wealth and success to support you. But he would feel even better if I could tell him that you had left Antony and put yourself under his protection."
+
+  - sp: CLEOPATRA
+    o:
+      - "    What’s your name?"
+    m:
+      - "What’s your name?"
+
+  - sp: THIDIAS
+    o:
+      - "My name is Thidias."
+    m:
+      - "My name is Thidias."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Most kind messenger,"
+      - "Say to great Caesar this in deputation:"
+      - "I kiss his conqu’ring hand. Tell him I am prompt"
+      - "To lay my crown at ’s feet, and there to kneel."
+      - "Tell him, from his all-obeying breath I hear"
+      - "The doom of Egypt."
+    m:
+      - "Most kind messenger, tell great Caesar that through his deputy I kiss his conquering hand. Tell him I am ready to lay my crown at his feet and kneel before him. Tell him—whose decrees are obeyed by the whole world—that I will accept the fate he chooses for Egypt."
+
+  - sp: THIDIAS
+    o:
+      - "    ’Tis your noblest course."
+      - "Wisdom and fortune combating together,"
+      - "If that the former dare but what it can,"
+      - "No chance may shake it. Give me grace to lay"
+      - "My duty on your hand."
+    m:
+      - "That’s your most dignified course of action. When confronted with the choice between a prudent action and a risky one, a wise man should dare to do only what he can practically accomplish—if he follows this course, he will never be subjected to unpredictable chance. Allow me to pay my respects by kissing your hand."
+
+  - os: "He kisses her hand"
+    ms: "He kisses her hand."
+
+  - sp: CLEOPATRA
+    o:
+      - "Your Caesar’s father oft,"
+      - "When he hath mused of taking kingdoms in,"
+      - "Bestowed his lips on that unworthy place"
+      - "As it rained kisses."
+    m:
+      - "When Octavius Caesar’s father thought about conquering kingdoms, he rained kisses on my unworthy hand."
+
+  - os: "Enter ANTONY and ENOBARBUS"
+    ms: "ANTONY and ENOBARBUS enter."
+
+  - sp: ANTONY
+    o:
+      - "    Favors? By Jove that thunders! What art thou, fellow?"
+    m:
+      - "Promising favors? By Jove that thunders! Who are you, slave?"
+
+  - sp: THIDIAS
+    o:
+      - "    One that but performs"
+      - "The bidding of the fullest man, and worthiest"
+      - "To have command obeyed."
+    m:
+      - "A person who merely follows the orders of the best man, the man most worthy of service."
+
+  - sp: ENOBARBUS
+    o:
+      - "    You will be whipped."
+    m:
+      - "You will be whipped."
+
+  - sp: ANTONY
+    o:
+      - "*(calling for servants)* Approach, there! *(to THIDIAS)* Ah, you kite!—Now, gods and devils!"
+      - "Authority melts from me. Of late, when I cried “Ho!”"
+      - "Like boys unto a muss kings would start forth"
+      - "And cry, “Your will?”*(calling to servants)* Have you no ears? I am"
+      - "Antony yet."
+    m:
+      - "*(calling for servants)* Come here! *(to THIDIAS)* Ah, you bird of prey! Now by all the gods and devils, my authority weakens. Not long ago, when I cried, “Ho!” kings would jump up and cry, “What’s your pleasure?” *(calling to servants)* Are you deaf? I’m still Antony."
+
+  - os: "Enter a SERVANT, followed by others"
+    ms: "A SERVANT enters, followed by others."
+
+  - o:
+      - "    Take hence this jack and whip him."
+    m:
+      - "Take away this lout and whip him."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside)* ’Tis better playing with a lion’s whelp"
+      - "Than with an old one dying."
+    m:
+      - "*(aside)* It’s safer to toy with a lion cub than an old, dying lion."
+
+  - sp: ANTONY
+    o:
+      - "    Moon and stars!"
+      - "Whip him. Were ’t twenty of the greatest tributaries"
+      - "That do acknowledge Caesar, should I find them"
+      - "So saucy with the hand of she here—what’s her name"
+      - "Since she was Cleopatra? Whip him, fellows,"
+      - "Till like a boy, you see him cringe his face"
+      - "And whine aloud for mercy. Take him hence."
+    m:
+      - "By the moon and stars! Whip him! If I saw twenty of the greatest powers that pay tribute to Caesar taking such liberties with her hand—what’s her name now? This woman who once was Cleopatra, but now has become something different? Whip him, fellows, until he screws up his face like a baby and cries aloud for mercy! Take him away."
+
+  - sp: THIDIAS
+    o:
+      - "Mark Antony—"
+    m:
+      - "Mark Antony—"
+
+  - sp: ANTONY
+    o:
+      - "    Tug him away! Being whipped,"
+      - "Bring him again. This jack of Caesar’s shall"
+      - "Bear us an errand to him."
+    m:
+      - "Pull him away, and once he has been whipped, bring him back. Caesar’s knave will bring him a message for us."
+
+  - os: "Exeunt SERVANTS with THIDIAS"
+    ms: "The SERVANTS exit with THIDIAS."
+
+  - o:
+      - "*(to CLEOPATRA)* You were half blasted ere I knew you. Ha!"
+      - "Have I my pillow left unpressed in Rome,"
+      - "Forborne the getting of a lawful race,"
+      - "And by a gem of women, to be abused"
+      - "By one that looks on feeders?"
+    m:
+      - "*(to CLEOPATRA)* You were damaged goods before I met you. Ha! Did I desert my bed in Rome, passing up the chance to have a legitimate family with a jewel of a woman, in order to be deceived by one who wastes her favors on servants?"
+
+  - sp: CLEOPATRA
+    o:
+      - "    Good my lord—"
+    m:
+      - "My good lord—"
+
+  - sp: ANTONY
+    o:
+      - "You have been a boggler ever."
+      - "But when we in our viciousness grow hard—"
+      - "Oh, misery on ’t!—the wise gods seel our eyes,"
+      - "In our own filth drop our clear judgments, make us"
+      - "Adore our errors, laugh at ’s while we strut"
+      - "To our confusion."
+    m:
+      - "You’ve always been a liar. But when our vices become habits—Oh, the sadness of it!—the wise gods blind us, shade our better judgment, make us love our mistakes, and laugh as we strut to our ruin."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Oh, is ’t come to this?"
+    m:
+      - "Oh, has it come to this?"
+
+  - sp: ANTONY
+    o:
+      - "I found you as a morsel cold upon"
+      - "Dead Caesar’s trencher. Nay, you were a fragment"
+      - "Of Gneius Pompey’s, besides what hotter hours,"
+      - "Unregistered in vulgar fame, you have"
+      - "Luxuriously picked out. For I am sure,"
+      - "Though you can guess what temperance should be,"
+      - "You know not what it is."
+    m:
+      - "You were a cold crumb on dead Julius Caesar’s plate when I met you. No, you were one of Gneius Pompey’s leftovers—not to mention your other, more depraved affairs, which have somehow managed to avoid becoming the subject of vulgar gossip. For I’m sure that although you may know what temperance is, you’ve never experienced it firsthand."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Wherefore is this?"
+    m:
+      - "Why are you doing this?"
+
+  - sp: ANTONY
+    o:
+      - "To let a fellow that will take rewards"
+      - "And say “God quit you!” be familiar with"
+      - "My playfellow, your hand, this kingly seal"
+      - "And plighter of high hearts! Oh, that I were"
+      - "Upon the hill of Basan, to outroar"
+      - "The hornèd herd! For I have savage cause,"
+      - "And to proclaim it civilly were like"
+      - "A haltered neck which does the hangman thank"
+      - "For being yare about him."
+    m:
+      - "To let a servant be familiar with my little toy, your hand—a hand that has signed royal treaties and pledged your love to me—oh, if only I were standing on the hill of Basan, so that I could roar louder than that horned herd! For I have been savagely abused, and to state my grievances politely would be as absurd as a condemned criminal thanking the hangman for doing his job quickly."
+
+  - os: "Enter a SERVANT with THIDIAS"
+    ms: "A SERVANT enters with THIDIAS."
+
+  - o:
+      - "    Is he whipped?"
+    m:
+      - "Has he been whipped?"
+
+  - sp: SERVANT
+    o:
+      - "Soundly, my lord."
+    m:
+      - "Soundly, my lord."
+
+  - sp: ANTONY
+    o:
+      - "Cried he? And begged he pardon?"
+    m:
+      - "Did he cry? Did he beg my pardon?"
+
+  - sp: SERVANT
+    o:
+      - "He did ask favor."
+    m:
+      - "He did ask for mercy."
+
+  - sp: ANTONY
+    o:
+      - "*(to THIDIAS)* If that thy father live, let him repent"
+      - "Thou wast not made his daughter, and be thou sorry"
+      - "To follow Caesar in his triumph, since"
+      - "Thou hast been whipped for following him. Henceforth"
+      - "The white hand of a lady fever thee;"
+      - "Shake thou to look on ’t. Get thee back to Caesar."
+      - "Tell him thy entertainment. Look thou say"
+      - "He makes me angry with him, for he seems"
+      - "Proud and disdainful, harping on what I am,"
+      - "Not what he knew I was. He makes me angry,"
+      - "And at this time most easy ’tis to do ’t,"
+      - "When my good stars, that were my former guides,"
+      - "Have empty left their orbs and shot their fires"
+      - "Into th’ abysm of hell. If he mislike"
+      - "My speech and what is done, tell him he has"
+      - "Hipparchus, my enfranchèd bondman, whom"
+      - "He may at pleasure whip, or hang, or torture,"
+      - "As he shall like, to quit me. Urge it thou."
+      - "Hence with thy stripes, begone!"
+    m:
+      - "*(to THIDIAS)* If your father is alive, let him be sorry you weren’t born a daughter. And you should be sorry to follow Caesar in his triumphal parade, since you have been whipped for following him. From now on, you should tremble and grow feverish whenever you see the white hand of a lady. Get yourself back to Caesar. Tell him how you’ve been treated. Be sure you tell him he makes me angry with him, because he seems proud and disdainful, harping on what I am now rather than what he knows. He makes me angry—and that’s easy to do right now, now that my lucky stars have abandoned me. If he doesn’t like what I’ve said or done, remind him that he holds Hipparchus, a slave I freed. He may whip, or hang, or torture him as he pleases. Then we will be even. Recommend that to him. Take your whipping scars and go."
+
+  - os: "Exit THIDIAS"
+    ms: "THIDIAS exits."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Have you done yet?"
+    m:
+      - "Are you done yet?"
+
+  - sp: ANTONY
+    o:
+      - "Alack, our terrene moon is now eclipsed,"
+      - "And it portends alone the fall of Antony."
+    m:
+      - "You, my earthly moon, are now eclipsed, and that alone foretells my ruin."
+
+  - sp: CLEOPATRA
+    o:
+      - "*(aside)* I must stay his time."
+    m:
+      - "*(aside)* I must wait for him to finish his tirade."
+
+  - sp: ANTONY
+    o:
+      - "To flatter Caesar, would you mingle eyes"
+      - "With one that ties his points?"
+    m:
+      - "In order to flatter Caesar, would you flirt with the servant who laces up his pants?"
+
+  - sp: CLEOPATRA
+    o:
+      - "    Not know me yet?"
+    m:
+      - "Don’t you know me still?"
+
+  - sp: ANTONY
+    o:
+      - "Coldhearted toward me?"
+    m:
+      - "Has your heart cooled toward me?"
+
+  - sp: CLEOPATRA
+    o:
+      - "    Ah, dear, if I be so,"
+      - "From my cold heart let heaven engender hail,"
+      - "And poison it in the source, and the first stone"
+      - "Drop in my neck. As it determines, so"
+      - "Dissolve my life! The next Caesarion smite,"
+      - "Till by degrees the memory of my womb,"
+      - "Together with my brave Egyptians all,"
+      - "By the discandying of this pelleted storm"
+      - "Lie graveless till the flies and gnats of Nile"
+      - "Have buried them for prey!"
+    m:
+      - "Ah, dear, if that is true, let heaven make poisonous hail grow from my heart, and let the first hailstone drop down my throat. As it dissolves, so shall my life. The next hailstone should hit Caesarion, until one by one all my children, and every one of my brave Egyptians, are killed by the dissolving of this pellet storm and lie unburied, covered by gnats and flies."
+
+  - sp: ANTONY
+    o:
+      - "    I am satisfied."
+      - "Caesar sits down in Alexandria, where"
+      - "I will oppose his fate. Our force by land"
+      - "Hath nobly held. Our severed navy too"
+      - "Have knit again, and fleet, threat’ning most sealike."
+      - "Where hast thou been, my heart? Dost thou hear, lady?"
+      - "If from the field I shall return once more"
+      - "To kiss these lips, I will appear in blood."
+      - "I and my sword will earn our chronicle."
+      - "There’s hope in ’t yet."
+    m:
+      - "I am satisfied. Caesar has made camp in Alexandria. I will fight him there. Our land forces have bravely stood firm. Our tattered navy has reassembled and set sail, as formidable as the sea itself. Where have you been, my bravery? Do you hear what I say, lady? If I come back from the battlefield again to kiss those lips, I’ll be covered in blood. My sword and I will earn our place in history. We still have hope."
+
+  - sp: CLEOPATRA
+    o:
+      - "That’s my brave lord!"
+    m:
+      - "That’s my brave lord!"
+
+  - sp: ANTONY
+    o:
+      - "I will be treble-sinewed, -hearted, -breathed,"
+      - "And fight maliciously. For when mine hours"
+      - "Were nice and lucky, men did ransom lives"
+      - "Of me for jests; but now I’ll set my teeth"
+      - "And send to darkness all that stop me. Come,"
+      - "Let’s have one other gaudy night. Call to me"
+      - "All my sad captains. Fill our bowls once more."
+      - "Let’s mock the midnight bell."
+    m:
+      - "I’ll be triple the soldier I was in strength, bravery, and stamina. I’ll fight brutally. In the days when I had better luck, prisoners of war could buy their freedoms from me with simple trinkets. But now I’ll grit my teeth and kill anyone who tries to stop me. Come, let’s have one more extravagant night. Invite all my sad captains. Fill our wine bowls again. Let’s drink through midnight."
+
+  - sp: CLEOPATRA
+    o:
+      - "    It is my birthday."
+      - "I had thought t’ have held it poor; but since my lord"
+      - "Is Antony again, I will be Cleopatra."
+    m:
+      - "It’s my birthday. I had planned to celebrate it quietly, but since my lord is once more himself, I will be Cleopatra again."
+
+  - sp: ANTONY
+    o:
+      - "We will yet do well."
+    m:
+      - "We’ll win yet."
+
+  - sp: CLEOPATRA
+    o:
+      - "*(to ENOBARBUS)* Call all his noble captains to my lord."
+    m:
+      - "*(to ENOBARBUS)* Call all my lord’s noble captains to him."
+
+  - sp: ANTONY
+    o:
+      - "Do so. We’ll speak to them, and tonight I’ll force"
+      - "The wine peep through their scars.—Come on, my Queen,"
+      - "There’s sap in ’t yet. The next time I do fight"
+      - "I’ll make Death love me, for I will contend"
+      - "Even with his pestilent scythe."
+    m:
+      - "Do so. I’ll speak to them, and then tonight I’ll get them all so drunk that the wine seeps out of their old war wounds. Come on, my Queen. There’s still life in our cause. The next time I fight, I’ll make Death love me. I’ll compete even with his fatal scythe."
+
+  - os: "Exeunt all but ENOBARBUS"
+    ms: "Everyone except ENOBARBUS exits."
+
+  - sp: ENOBARBUS
+    o:
+      - "Now he’ll outstare the lightning. To be furious"
+      - "Is to be frighted out of fear, and in that mood"
+      - "The dove will peck the estridge; and I see still"
+      - "A diminution in our captain’s brain"
+      - "Restores his heart. When valor preys on reason,"
+      - "It eats the sword it fights with. I will seek"
+      - "Some way to leave him."
+    m:
+      - "Now he’ll work himself up to a fury. Rage scares away a man’s fear. In that state, a dove will attack an ostrich. I have always noticed that when my captain’s reason is diminished, his bravery increases. When courage consumes reason, it destroys its only weapon. I’ll look for some way to leave his service."
+
+  - os: "Exit"
+    ms: "He exits."

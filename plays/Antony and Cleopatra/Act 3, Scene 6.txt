@@ -1,0 +1,263 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 6
+group: 3
+order: 17
+text:
+  - os: "Enter AGRIPPA, MECAENAS, and CAESAR"
+    ms: "AGRIPPA, MAECENAS, and CAESAR enter."
+
+  - sp: CAESAR
+    o:
+      - "Contemning Rome, he has done all this and more"
+      - "In Alexandria. Here’s the manner of ’t:"
+      - "I’ th’ marketplace, on a tribunal silvered,"
+      - "Cleopatra and himself in chairs of gold"
+      - "Were publicly enthroned. At the feet sat"
+      - "Caesarion, whom they call my father’s son,"
+      - "And all the unlawful issue that their lust"
+      - "Since then hath made between them. Unto her"
+      - "He gave the stablishment of Egypt, made her"
+      - "Of lower Syria, Cyprus, Lydia,"
+      - "Absolute Queen."
+    m:
+      - "In Alexandria he condemned Rome, and that’s not all. This is what happened: he and Cleopatra sat on chairs of gold on a silver-covered stage in the marketplace. Caesarion—whom they call my father’s son—and all their illegitimate children sat at their feet. Antony confirmed her possession of Egypt and made her absolute Queen of lower Syria, Cyprus, and Lydia."
+
+  - sp: MAECENAS
+    o:
+      - "    This in the public eye?"
+    m:
+      - "He did this in public?"
+
+  - sp: CAESAR
+    o:
+      - "I’ th’ common showplace, where they exercise."
+      - "His sons he there proclaimed the kings of kings:"
+      - "Great Media, Parthia, and Armenia"
+      - "He gave to Alexander; to Ptolemy he assigned"
+      - "Syria, Cilicia, and Phoenicia. She"
+      - "In th’ habiliments of the goddess Isis"
+      - "That day appeared, and oft before gave audience,"
+      - "As ’tis reported, so."
+    m:
+      - "In the public arena, where they perform sporting events. He proclaimed his sons to be kings of kings. He gave Media, Parthia, and Armenia to Alexander. He gave Syria, Cilicia, and Phoenicia to Ptolemy. Cleopatra was dressed like the goddess Isis. They say she often attended her public functions like that."
+
+  - sp: MAECENAS
+    o:
+      - "Let Rome be thus informed."
+    m:
+      - "Let’s send this news to Rome."
+
+  - sp: AGRIPPA
+    o:
+      - "Who, queasy with his insolence already,"
+      - "Will their good thoughts call from him."
+    m:
+      - "The Roman people are fed up with his arrogance already. They’ll abandon him completely when they hear this."
+
+  - sp: CAESAR
+    o:
+      - "The people knows it, and have now received"
+      - "His accusations."
+    m:
+      - "The people have heard it already, and they’ve been told of his accusations."
+
+  - sp: AGRIPPA
+    o:
+      - "    Who does he accuse?"
+    m:
+      - "Who does he accuse?"
+
+  - sp: CAESAR
+    o:
+      - "Caesar, and that, having in Sicily"
+      - "Sextus Pompeius spoiled, we had not rated him"
+      - "His part o’ th’ isle. Then does he say he lent me"
+      - "Some shipping, unrestored. Lastly, he frets"
+      - "That Lepidus of the triumvirate"
+      - "Should be deposed, and, being, that we detain"
+      - "All his revenue."
+    m:
+      - "He accuses me of withholding his share of Sextus Pompeius’ possessions, which we seized in Sicily. Then he says I didn’t return some ships he loaned me. Finally, he criticizes the deposing of Lepidus, and then goes on to accuse me of keeping all of Lepidus’ property for myself."
+
+  - sp: AGRIPPA
+    o:
+      - "    Sir, this should be answered."
+    m:
+      - "Sir, these accusations should be answered."
+
+  - sp: CAESAR
+    o:
+      - "’Tis done already, and the messenger gone."
+      - "I have told him, Lepidus was grown too cruel,"
+      - "That he his high authority abused"
+      - "And did deserve his change. For what I have conquered,"
+      - "I grant him part; but then, in his Armenia,"
+      - "And other of his conquered kingdoms, I"
+      - "Demand the like."
+    m:
+      - "It has been done already, and the messenger is on his way. I answered that Lepidus had become too brutal and abused his position. For this he deserved to be deposed. As for what I seized in the wars, I granted that Antony should have a share. But I also demanded my share of his acquisitions in Armenia and the other conquered kingdoms."
+
+  - sp: MAECENAS
+    o:
+      - "    He’ll never yield to that."
+    m:
+      - "He’ll never agree to that."
+
+  - sp: CAESAR
+    o:
+      - "Nor must not then be yielded to in this."
+    m:
+      - "Then we won’t agree to his demands."
+
+  - os: "Enter OCTAVIA with her train"
+    ms: "OCTAVIA enters with her attendants."
+
+  - sp: OCTAVIA
+    o:
+      - "Hail, Caesar, and my lord! Hail, most dear Caesar!"
+    m:
+      - "Greetings, Caesar, my lord! Greetings, dearest Caesar!"
+
+  - sp: CAESAR
+    o:
+      - "That ever I should call thee castaway!"
+    m:
+      - "Oh, to think you’ve been rejected!"
+
+  - sp: OCTAVIA
+    o:
+      - "You have not called me so, nor have you cause."
+    m:
+      - "You’ve never thought of me like that, and you have no reason to."
+
+  - sp: CAESAR
+    o:
+      - "Why have you stol’n upon us thus? You come not"
+      - "Like Caesar’s sister. The wife of Antony"
+      - "Should have an army for an usher and"
+      - "The neighs of horse to tell of her approach"
+      - "Long ere she did appear. The trees by th’ way"
+      - "Should have borne men, and expectation fainted,"
+      - "Longing for what it had not. Nay, the dust"
+      - "Should have ascended to the roof of heaven,"
+      - "Raised by your populous troops. But you are come"
+      - "A market-maid to Rome and have prevented"
+      - "The ostentation of our love, which, left unshown,"
+      - "Is often left unloved. We should have met you"
+      - "By sea and land, supplying every stage"
+      - "With an augmented greeting."
+    m:
+      - "Then why did you travel so quietly? You didn’t arrive like Caesar’s sister. Antony’s wife should have an army to escort her, with neighing horses to announce her arrival long before she appears. The trees along the road should have been filled with eager spectators. Crowds should have been faint with excitement waiting to see you. The dust from your attending troops should have risen to heaven. But you’ve arrived like a common maid bringing goods to a Roman market. You’ve kept me from displaying my love—and when love is not shown, it’s often not felt. I would have met you by sea and again by land. At each stage of your trip there would have been a more spectacular greeting."
+
+  - sp: OCTAVIA
+    o:
+      - "    Good my lord,"
+      - "To come thus was I not constrained, but did it"
+      - "On my free will. My lord, Mark Antony,"
+      - "Hearing that you prepared for war, acquainted"
+      - "My grievèd ear withal, whereon I begged"
+      - "His pardon for return."
+    m:
+      - "My good lord, I wasn’t forced to travel like this. It was my choice. Mark Antony heard that you were preparing to wage war on him. When he gave me this news, I begged him to let me visit you."
+
+  - sp: CAESAR
+    o:
+      - "    Which soon he granted, Being an obstruct ’tween his lust and him."
+    m:
+      - "Which he quickly allowed, given that you’re an obstacle to his lust."
+
+  - sp: OCTAVIA
+    o:
+      - "Do not say so, my lord."
+    m:
+      - "Don’t say that, my lord."
+
+  - sp: CAESAR
+    o:
+      - "    I have eyes upon him,"
+      - "And his affairs come to me on the wind."
+      - "Where is he now?"
+    m:
+      - "I’ve kept track of him, and reports of his affairs arrive on every ship. Where do you think he is now?"
+
+  - sp: OCTAVIA
+    o:
+      - "My lord, in Athens."
+    m:
+      - "He’s in Athens, my lord."
+
+  - sp: CAESAR
+    o:
+      - "No, my most wrongèd sister. Cleopatra"
+      - "Hath nodded him to her. He hath given his empire"
+      - "Up to a whore; who now are levying"
+      - "The kings o’ th’ earth for war. He hath assembled"
+      - "Bocchus, the King of Libya; Archelaus,"
+      - "Of Cappadocia; Philadelphos, King"
+      - "Of Paphlagonia; the Thracian king, Adallas;"
+      - "King Manchus of Arabia; King of Pont;"
+      - "Herod of Jewry; Mithridates, King"
+      - "Of Comagen; Polemon and Amyntas,"
+      - "The Kings of Mede and Lycaonia,"
+      - "With a more larger list of scepters."
+    m:
+      - "No, he’s not. You’ve been deceived. Cleopatra summoned him. He’s given his empire to a whore, and now they’re gathering kings to wage a war. He’s recruited Bocchus, the King of Libya; Archelaus of Cappadocia; Philadelphos, King of Paphlagonia; the Thracian king, Adallas; King Manchus of Arabia; the King of Pont; Herod, of Judea; Mithridates, King of Comagen; Polemon and Amyntas, the kings of Mede and Lycaonia, and many more."
+
+  - sp: OCTAVIA
+    o:
+      - "Ay me, most wretched,"
+      - "That have my heart parted betwixt two friends"
+      - "That does afflict each other!"
+    m:
+      - "Oh, I’m heartbroken. I’m divided between two friends who are determined to kill each other."
+
+  - sp: CAESAR
+    o:
+      - "    Welcome hither."
+      - "Your letters did withhold our breaking forth"
+      - "Till we perceived both how you were wrong led"
+      - "And we in negligent danger. Cheer your heart."
+      - "Be you not troubled with the time, which drives"
+      - "O’er your content these strong necessities,"
+      - "But let determined things to destiny"
+      - "Hold unbewailed their way. Welcome to Rome,"
+      - "Nothing more dear to me. You are abused"
+      - "Beyond the mark of thought, and the high gods,"
+      - "To do you justice, makes his ministers"
+      - "Of us and those that love you. Best of comfort,"
+      - "And ever welcome to us."
+    m:
+      - "You’re welcome here. I didn’t write about breaking the alliance with Antony until I saw you were being misled and realized how dangerous it would be to keep postponing preparations. Cheer yourself. Don’t be troubled by the present situation, the obligations of which must ruin your happiness. Don’t worry about things that have already been decided by fate. Welcome home to Rome. Nothing is more precious to me than you. You have been unbelievably abused, and now the gods make us the dispensers of justice. Be comforted. You will always be welcome to me."
+
+  - sp: AGRIPPA
+    o:
+      - "    Welcome, lady."
+    m:
+      - "Welcome, lady."
+
+  - sp: MAECENAS
+    o:
+      - "Welcome, dear madam."
+      - "Each heart in Rome does love and pity you."
+      - "Only th’ adulterous Antony, most large"
+      - "In his abominations, turns you off"
+      - "And gives his potent regiment to a trull"
+      - "That noises it against us."
+    m:
+      - "Welcome, dear madam. Every heart in Rome loves and pities you. Only the adulterous and abominable Antony abandons you, giving his power to a whore who turns that power against us."
+
+  - sp: OCTAVIA
+    o:
+      - "*(to CAESAR)* Is it so, sir?"
+    m:
+      - "*(to CAESAR)* Is that true, sir?"
+
+  - sp: CAESAR
+    o:
+      - "Most certain. Sister, welcome. Pray you"
+      - "Be ever known to patience. My dear’st sister!"
+    m:
+      - "It’s undeniable. You are welcome here, sister. I beg you to continue to be patient. My dearest sister!"
+
+  - os: "Exeunt"
+    ms: "They exit."

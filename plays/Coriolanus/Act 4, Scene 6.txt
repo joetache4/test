@@ -1,0 +1,616 @@
+play: Coriolanus
+title: Act 4, Scene 6
+group: 4
+order: 21
+text:
+  - os: "Rome. A public place."
+    ms: "A public place in Rome."
+
+  - os: "Enter SICINIUS and BRUTUS"
+    ms: "SICINIUS and BRUTUS enter."
+
+  - sp: SICINIUS
+    o:
+      - "We hear not of him, neither need we fear him;"
+      - "His remedies are tame i’ the present peace"
+      - "And quietness of the people, which before"
+      - "Were in wild hurry. Here do we make his friends"
+      - "Blush that the world goes well, who rather had,"
+      - "Though they themselves did suffer by’t, behold"
+      - "Dissentious numbers pestering streets than see"
+      - "Our tradesmen with in their shops and going"
+      - "About their functions friendly."
+    m:
+      - "We haven’t heard about him, so we don’t need to fear him. It would be easy to deal with him now, given the peace and quietness of the people, who were in such chaos before. Now we’re making his friends blush because things are going so smoothly. His friends are the ones who would’ve chosen—to their own detriment—to see people arguing in the streets rather than have our tradesmen back in their shops and happily doing their jobs."
+
+  - sp: BRUTUS
+    o:
+      - "We stood to’t in good time."
+    m:
+      - "We turned things around quickly."
+
+  - os: "Enter MENENIUS"
+    ms: "MENENIUS enters."
+
+  - o:
+      - "Is this Menenius?"
+    m:
+      - "Is this Menenius?"
+
+  - sp: SICINIUS
+    o:
+      - "’Tis he, ’tis he: O, he is grown most kind of late."
+    m:
+      - "It’s him, it’s him. He has become very kind lately."
+
+  - sp: BOTH TRIBUNES
+    o:
+      - "Hail sir!"
+    m:
+      - "Greetings, sir!"
+
+  - sp: MENENIUS
+    o:
+      - "Hail to you both!"
+    m:
+      - "Greetings to you both!"
+
+  - sp: SICINIUS
+    o:
+      - "Your Coriolanus"
+      - "Is not much miss’d, but with his friends:"
+      - "The commonwealth doth stand, and so would do,"
+      - "Were he more angry at it."
+    m:
+      - "Coriolanus is not missed much by anyone but his friends now. The people would rise up against him if he were still angry at them."
+
+  - sp: MENENIUS
+    o:
+      - "All’s well; and might have been much better, if"
+      - "He could have temporized."
+    m:
+      - "That’s good. But things would have gone much better if he could have compromised."
+
+  - sp: SICINIUS
+    o:
+      - "Where is he, hear you?"
+    m:
+      - "Where is he? Have you heard?"
+
+  - sp: MENENIUS
+    o:
+      - "Nay, I hear nothing: his mother and his wife"
+      - "Hear nothing from him."
+    m:
+      - "No, I hear nothing. His mother and his wife hear nothing from him."
+
+  - os: "Enter three or four Citizens"
+    ms: "Three or four Citizens enter."
+
+  - sp: CITIZENS
+    o:
+      - "The gods preserve you both!"
+    m:
+      - "The gods preserve you both!"
+
+  - sp: SICINIUS
+    o:
+      - "God-den, our neighbours."
+    m:
+      - "Good evening, neighbors."
+
+  - sp: BRUTUS
+    o:
+      - "God-den to you all, god-den to you all."
+    m:
+      - "Good evening to you all, good evening to you all."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "Ourselves, our wives, and children, on our knees,"
+      - "Are bound to pray for you both."
+    m:
+      - "Ourselves, our wives, and children, on our knees, keep you both in our prayers."
+
+  - sp: SICINIUS
+    o:
+      - "Live, and thrive!"
+    m:
+      - "Live and thrive!"
+
+  - sp: BRUTUS
+    o:
+      - "Farewell, kind neighbours: we wish’d Coriolanus"
+      - "Had loved you as we did."
+    m:
+      - "Farewell, kind neighbors. We wished Coriolanus had cared for you as much as we do."
+
+  - sp: CITIZENS
+    o:
+      - "Now the gods keep you!"
+    m:
+      - "Now the gods keep you!"
+
+  - sp: BOTH TRIBUNES
+    o:
+      - "Farewell, farewell."
+    m:
+      - "Farewell, farewell."
+
+  - os: "Exeunt Citizens"
+    ms: "The Citizens exit."
+
+  - sp: SICINIUS
+    o:
+      - "This is a happier and more comely time"
+      - "Than when these fellows ran about the streets,"
+      - "Crying confusion."
+    m:
+      - "This is a happier and more pleasant time than when the people ran in the streets, shouting their wild demands."
+
+  - sp: BRUTUS
+    o:
+      - "Caius Martius was"
+      - "A worthy officer i’ the war; but insolent,"
+      - "O’ercome with pride, ambitious past all thinking,"
+      - "Self-loving,—"
+    m:
+      - "Caius Martius was a brave officer in the war, but he was stubborn, overcome with pride, unreasonably ambitious, narcissistic . . ."
+
+  - sp: SICINIUS
+    o:
+      - "And affecting one sole throne,"
+      - "Without assistance."
+    m:
+      - "And he thought there should be only one governing body without any counterbalancing powers."
+
+  - sp: MENENIUS
+    o:
+      - "I think not so."
+    m:
+      - "I don’t think that’s so."
+
+  - sp: SICINIUS
+    o:
+      - "We should by this, to all our lamentation,"
+      - "If he had gone forth consul, found it so."
+    m:
+      - "If despite our protests he had become consul, we would know this to be true by now."
+
+  - sp: BRUTUS
+    o:
+      - "The gods have well prevented it, and Rome"
+      - "Sits safe and still without him."
+    m:
+      - "The gods have skillfully prevented it, and Rome sits safe and sound without him."
+
+  - os: "Enter an Aedile"
+    ms: "An Aedile enters."
+
+  - sp: AEDILE
+    o:
+      - "Worthy tribunes,"
+      - "There is a slave, whom we have put in prison,"
+      - "Reports, the Volsces with two several powers"
+      - "Are enter’d in the Roman territories,"
+      - "And with the deepest malice of the war"
+      - "Destroy what lies before ’em."
+    m:
+      - "Worthy tribunes, we’ve just put a slave in prison who says that the Volsces, in two separate armies, have entered Roman territories and are furiously destroying everything in sight."
+
+  - sp: MENENIUS
+    o:
+      - "’Tis Aufidius,"
+      - "Who, hearing of our Martius’ banishment,"
+      - "Thrusts forth his horns again into the world;"
+      - "Which were inshell’d when Martius stood for Rome,"
+      - "And durst not once peep out."
+    m:
+      - "It’s Aufidius. Hearing of Martius’ banishment, he’s thrusting his horns into the world again. When Martius defended Rome, Aufidius was contained and didn’t once dare to strike out."
+
+  - sp: SICINIUS
+    o:
+      - "Come, what talk you"
+      - "Of Martius?"
+    m:
+      - "Why are you talking about Martius now?"
+
+  - sp: BRUTUS
+    o:
+      - "Go see this rumourer whipp’d. It cannot be"
+      - "The Volsces dare break with us."
+    m:
+      - "Go stop this rumor. The Volsces can’t have dared to break our peace treaty."
+
+  - sp: MENENIUS
+    o:
+      - "Cannot be!"
+      - "We have record that very well it can,"
+      - "And three examples of the like have been"
+      - "Within my age. But reason with the fellow,"
+      - "Before you punish him, where he heard this,"
+      - "Lest you shall chance to whip your information"
+      - "And beat the messenger who bids beware"
+      - "Of what is to be dreaded."
+    m:
+      - "They can’t? We’ve seen many times that they very well can, three times within my own lifetime in fact. Talk with the prisoner before you beat him. Find out where he heard this. Don’t run the risk of punishing the informant who warns you of dreaded news."
+
+  - sp: SICINIUS
+    o:
+      - "Tell not me:"
+      - "I know this cannot be."
+    m:
+      - "Don’t tell me what to do. I know this can’t be true."
+
+  - sp: BRUTUS
+    o:
+      - "Not possible."
+    m:
+      - "It’s not possible."
+
+  - os: "Enter a Messenger"
+    ms: "A Messenger enters."
+
+  - sp: MESSENGER
+    o:
+      - "The nobles in great earnestness are going"
+      - "All to the senate-house: some news is come"
+      - "That turns their countenances."
+    m:
+      - "The nobles are all hurrying to the Senate house. Some news has come that’s making them scowl."
+
+  - sp: SICINIUS
+    o:
+      - "’Tis this slave;—"
+      - "Go whip him, ’fore the people’s eyes:—his raising;"
+      - "Nothing but his report."
+    m:
+      - "It’s this slave. Go whip him in public view. He’s incited everyone with just his report."
+
+  - sp: MESSENGER
+    o:
+      - "Yes, worthy sir,"
+      - "The slave’s report is seconded; and more,"
+      - "More fearful, is deliver’d."
+    m:
+      - "Worthy sir, the slave’s report has been confirmed, and the news is worse than we feared."
+
+  - sp: SICINIUS
+    o:
+      - "What more fearful?"
+    m:
+      - "What could be worse?"
+
+  - sp: MESSENGER
+    o:
+      - "It is spoke freely out of many mouths—"
+      - "How probable I do not know—that Martius,"
+      - "Join’d with Aufidius, leads a power ’gainst Rome,"
+      - "And vows revenge as spacious as between"
+      - "The young’st and oldest thing."
+    m:
+      - "Many people, though I don’t know how much they actually know, are openly declaring that Martius has joined with Aufidius and is leading an army against Rome and that he vows revenge on everyone alive."
+
+  - sp: SICINIUS
+    o:
+      - "This is most likely!"
+    m:
+      - "This is highly likely!"
+
+  - sp: BRUTUS
+    o:
+      - "Raised only, that the weaker sort may wish"
+      - "Good Martius home again."
+    m:
+      - "The weak common people have only been incited in order to welcome Martius home again."
+
+  - sp: SICINIUS
+    o:
+      - "The very trick on’t."
+    m:
+      - "It’s a trick."
+
+  - sp: MENENIUS
+    o:
+      - "This is unlikely:"
+      - "He and Aufidius can no more atone"
+      - "Than violentest contrariety."
+    m:
+      - "That’s unlikely. He and Aufidius can’t agree on anything other than to fight each other."
+
+  - os: "Enter a second Messenger"
+    ms: "A second Messenger enters."
+
+  - sp: SECOND MESSENGER
+    o:
+      - "You are sent for to the senate:"
+      - "A fearful army, led by Caius Martius"
+      - "Associated with Aufidius, rages"
+      - "Upon our territories; and have already"
+      - "O’erborne their way, consumed with fire, and took"
+      - "What lay before them."
+    m:
+      - "You’ve been called to the Senate. A frightening army, led by Caius Martius and in conjunction with Aufidius, rages in our territories. They’ve already overcome everything in their way, burned it, and took whatever was left."
+
+  - os: "Enter COMINIUS"
+    ms: "COMINIUS enters."
+
+  - sp: COMINIUS
+    o:
+      - "O, you have made good work!"
+    m:
+      - "*(to the tribunes)* Oh, this is all your fault!"
+
+  - sp: MENENIUS
+    o:
+      - "What news? what news?"
+    m:
+      - "What news do you have? What news?"
+
+  - sp: COMINIUS
+    o:
+      - "You have holp to ravish your own daughters and"
+      - "To melt the city leads upon your pates,"
+      - "To see your wives dishonour’d to your noses,—"
+    m:
+      - "You’ve helped to rape your own daughters and melt the city’s lead roofs on your own heads, to see your wives dishonored before your own eyes—"
+
+  - sp: MENENIUS
+    o:
+      - "What’s the news? what’s the news?"
+    m:
+      - "What’s the news? What’s the news?"
+
+  - sp: COMINIUS
+    o:
+      - "Your temples burned in their cement, and"
+      - "Your franchises, whereon you stood, confined"
+      - "Into an auger’s bore."
+    m:
+      - "Your temples have been burned down to their foundations, and your political power reduced to the size of a pinhole."
+
+  - sp: MENENIUS
+    o:
+      - "Pray now, your news?"
+      - "You have made fair work, I fear me.—Pray, your news?—"
+      - "If Martius should be join’d with Volscians,—"
+    m:
+      - "Please, give us your news now. You’ve made your point, What’s your news? If Martius has joined with Volsces—"
+
+  - sp: COMINIUS
+    o:
+      - "If!"
+      - "He is their god: he leads them like a thing"
+      - "Made by some other deity than nature,"
+      - "That shapes man better; and they follow him,"
+      - "Against us brats, with no less confidence"
+      - "Than boys pursuing summer butterflies,"
+      - "Or butchers killing flies."
+    m:
+      - "If? Then he is their god. He leads them as if he were a thing made by some other deity than nature, one that makes stronger men. And they follow him, against us children, with the confidence of boys pursuing summer butterflies or butchers killing flies."
+
+  - sp: MENENIUS
+    o:
+      - "You have made good work,"
+      - "You and your apron-men; you that stood so up much"
+      - "on the voice of occupation and"
+      - "The breath of garlic-eaters!"
+    m:
+      - "*(to the tribunes)* This is all your doing, you and the tradesmen you represent. You that built your power on the workmen’s votes and the wishes of the lower class!"
+
+  - sp: COMINIUS
+    o:
+      - "He will shake"
+      - "Your Rome about your ears."
+    m:
+      - "He’ll bring Rome to its knees."
+
+  - sp: MENENIUS
+    o:
+      - "As Hercules"
+      - "Did shake down mellow fruit."
+      - "You have made fair work!"
+    m:
+      - "The city is ready to fall like the ripe fruits Hercules had to shake down from the trees. You are responsible for all of this!"
+
+  - sp: BRUTUS
+    o:
+      - "But is this true, sir?"
+    m:
+      - "But is this true, sir?"
+
+  - sp: COMINIUS
+    o:
+      - "Ay; and you’ll look pale"
+      - "Before you find it other. All the regions"
+      - "Do smilingly revolt; and who resist"
+      - "Are mock’d for valiant ignorance,"
+      - "And perish constant fools. Who is’t can blame him?"
+      - "Your enemies and his find something in him."
+    m:
+      - "Yes, and you’ll be dead before it’s otherwise. All the regions are revolting. Whoever resists is mocked for their ignorant courage and then killed as a loyal fool. Who can blame Martius? Your enemies and his find something in him."
+
+  - sp: MENENIUS
+    o:
+      - "We are all undone, unless"
+      - "The noble man have mercy."
+    m:
+      - "We’re all doomed unless he has mercy on us."
+
+  - sp: COMINIUS
+    o:
+      - "Who shall ask it?"
+      - "The tribunes cannot do’t for shame; the people"
+      - "Deserve such pity of him as the wolf"
+      - "Does of the shepherds: for his best friends, if they"
+      - "Should say “Be good to Rome,” they charged him even"
+      - "As those should do that had deserved his hate,"
+      - "And therein show’d like enemies."
+    m:
+      - "Who will ask him for mercy? The tribunes are too ashamed, the people deserve his pity like the wolf deserves the shepherds’, and as for his best friends, if they were to ask him to “be good to Rome,” they would be asking of him what his enemies ought to ask, and that would make them appear to be his enemies."
+
+  - sp: MENENIUS
+    o:
+      - "’Tis true:"
+      - "If he were putting to my house the brand"
+      - "That should consume it, I have not the face"
+      - "To say “Beseech you, cease.” You have made fair hands,"
+      - "You and your crafts! you have crafted fair!"
+    m:
+      - "It’s true. If he were about to burn my house, I wouldn’t be bold enough to say, “I beg you, stop.” You and your crafty ways! You’ve crafted a real mess here!"
+
+  - sp: COMINIUS
+    o:
+      - "You have brought"
+      - "A trembling upon Rome, such as was never"
+      - "So incapable of help."
+    m:
+      - "You’ve brought to Rome a panic without remedy like never before."
+
+  - sp: BOTH TRIBUNES
+    o:
+      - "Say not we brought it."
+    m:
+      - "We didn’t bring it."
+
+  - sp: MENENIUS
+    o:
+      - "How! Was it we? we loved him but, like beasts"
+      - "And cowardly nobles, gave way unto your clusters,"
+      - "Who did hoot him out o’ the city."
+    m:
+      - "What? How is it our fault? We supported him but, like beasts and cowardly nobles, we gave way into your crowds of people who drove him out of the city."
+
+  - sp: COMINIUS
+    o:
+      - "But I fear"
+      - "They’ll roar him in again. Tullus Aufidius,"
+      - "The second name of men, obeys his points"
+      - "As if he were his officer: desperation"
+      - "Is all the policy, strength and defence,"
+      - "That Rome can make against them."
+    m:
+      - "But I fear the crowds will roar him in again. Tullus Aufidius, the second most famous warrior, obeys Martius’ orders as if he were his officer. Desperation is the only defense that Rome can make against them."
+
+  - os: "Enter a troop of Citizens"
+    ms: "A troop of Citizens enter."
+
+  - sp: MENENIUS
+    o:
+      - "Here come the clusters."
+      - "And is Aufidius with him? You are they"
+      - "That made the air unwholesome, when you cast"
+      - "Your stinking greasy caps in hooting at"
+      - "Coriolanus’ exile. Now he’s coming;"
+      - "And not a hair upon a soldier’s head"
+      - "Which will not prove a whip: as many coxcombs"
+      - "As you threw caps up will he tumble down,"
+      - "And pay you for your voices. ’Tis no matter;"
+      - "if he could burn us all into one coal,"
+      - "We have deserved it."
+    m:
+      - "Here come the crowds. Is Aufidius with him? You’re the ones that made the air unwholesome when you tossed up your stinking greasy caps, hooting at Coriolanus’ exile. Now he’s coming, and there’s not a hair on a soldier’s head that won’t become a whip. He’ll cut off every fool’s head that had tossed up a hat to repay you for your votes. If he could burn us all into one coal, we would deserve it."
+
+  - sp: CITIZENS
+    o:
+      - "Faith, we hear fearful news."
+    m:
+      - "Wait, we hear frightening news."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "For mine own part,"
+      - "When I said, banish him, I said ’twas pity."
+    m:
+      - "At least for me, when I said banish him, I said it out of pity."
+
+  - sp: SECOND CITIZEN
+    o:
+      - "And so did I."
+    m:
+      - "And so did I."
+
+  - sp: THIRD CITIZEN
+    o:
+      - "And so did I; and, to say the truth, so did very"
+      - "many of us: that we did, we did for the best; and"
+      - "though we willingly consented to his banishment, yet"
+      - "it was against our will."
+    m:
+      - "And so did I.  In truth, so did most of us. What we did, we did for the best. And though we agreed to his banishment, it wasn’t what we wanted."
+
+  - sp: COMINIUS
+    o:
+      - "Ye are goodly things, you voices!"
+    m:
+      - "You’re making excuses for yourselves!"
+
+  - sp: MENENIUS
+    o:
+      - "You have made"
+      - "Good work, you and your cry! Shall’s to the Capitol?"
+    m:
+      - "You’ve made a mess, you and your pack! Should we go to the capitol?"
+
+  - sp: COMINIUS
+    o:
+      - "O, ay, what else?"
+    m:
+      - "Yes, where else?"
+
+  - os: "Exeunt COMINIUS and MENENIUS"
+    ms: "COMINIUS and MENENIUS exit."
+
+  - sp: SICINIUS
+    o:
+      - "Go, masters, get you home; be not dismay’d:"
+      - "These are a side that would be glad to have"
+      - "This true which they so seem to fear. Go home,"
+      - "And show no sign of fear."
+    m:
+      - "Go, masters, get yourselves home. Don’t be dismayed. These people are a faction that would happily have these fears come true. Go home, and show no sign of fear."
+
+  - sp: FIRST CITIZEN
+    o:
+      - "The gods be good to us! Come, masters, let’s home."
+      - "I ever said we were i’ the wrong when we banished"
+      - "him."
+    m:
+      - "May the gods be good to us! Come, masters, let’s go home. I always said we were wrong to banish him."
+
+  - sp: SECOND CITIZEN
+    o:
+      - "So did we all. But, come, let’s home."
+    m:
+      - "We all did. But come, let’s go home."
+
+  - os: "Exeunt Citizens"
+    ms: "The Citizens exit."
+
+  - sp: BRUTUS
+    o:
+      - "I do not like this news."
+    m:
+      - "I don’t like this news."
+
+  - sp: SICINIUS
+    o:
+      - "Nor I."
+    m:
+      - "Nor do I."
+
+  - sp: BRUTUS
+    o:
+      - "Let’s to the Capitol. Would half my wealth"
+      - "Would buy this for a lie!"
+    m:
+      - "Let’s go to the capitol. I’d give half my wealth for this to be a lie!"
+
+  - sp: SICINIUS
+    o:
+      - "Pray, let us go."
+    m:
+      - "Let’s go."
+
+  - os: "Exeunt"
+    ms: "All exit."

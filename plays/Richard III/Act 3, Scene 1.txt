@@ -1,0 +1,653 @@
+play: Richard III
+title: Act 3, Scene 1
+group: 3
+order: 8
+text:
+  - os: "The trumpets sound. Enter the young PRINCE theCARDINAL, CATESBY, and others"
+    ms: "The trumpets sound. The young PRINCE theCARDINAL, CATESBY, and others"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Welcome, sweet prince, to London, to your chamber."
+    m:
+      - "Welcome, sweet prince, to London, the capital of the king."
+
+  - sp: RICHARD
+    o:
+      - "*(to PRINCE)* Welcome, dear cousin, my thoughts’ sovereign."
+      - "The weary way hath made you melancholy."
+    m:
+      - "Welcome, dear nephew, king of all my thoughts. The tiring journey seems to have made you gloomy."
+
+  - sp: PRINCE
+    o:
+      - "No, uncle, but our crosses on the way"
+      - "Have made it tedious, wearisome, and heavy."
+      - "I want more uncles here to welcome me."
+    m:
+      - "It wasn’t the journey itself, uncle, but the troubles we encountered that made it wearisome and dull. I want more uncles here to welcome me."
+
+  - sp: RICHARD
+    o:
+      - "Sweet prince, the untainted virtue of your years"
+      - "Hath not yet dived into the world’s deceit;"
+      - "Nor more can you distinguish of a man"
+      - "Than of his outward show, which, God He knows,"
+      - "Seldom or never jumpeth with the heart."
+      - "Those uncles which you want were dangerous."
+      - "Your Grace attended to their sugared words"
+      - "But looked not on the poison of their hearts."
+      - "God keep you from them, and from such false friends."
+    m:
+      - "Sweet prince, you’re just an innocent child. You don’t really understand how capable people are of trickery. All you know is what a man shows you, which has little to do with what he’s really thinking. Those uncles that you wish were here were dangerous. Your Grace heard their saccharine words, but didn’t take note of their poisonous intentions. God protect you from them and from other false friends!"
+
+  - sp: PRINCE
+    o:
+      - "God keep me from false friends, but they were none."
+    m:
+      - "God should keep me from false friends, but they weren’t false."
+
+  - sp: RICHARD
+    o:
+      - "My lord, the mayor of London comes to greet you."
+    m:
+      - "My lord, the mayor of London is here to greet you."
+
+  - os: "Enter the LORD MAYOR and his train"
+    ms: "The LORD MAYOR and his train enter."
+
+  - sp: LORD MAYOR
+    o:
+      - "God bless your Grace with health and happy days."
+    m:
+      - "God bless your Grace with health and happy days."
+
+  - sp: PRINCE
+    o:
+      - "I thank you, good my lord, and thank you all.—"
+      - "I thought my mother and my brother York"
+      - "Would long ere this have met us on the way."
+      - "Fie, what a slug is Hastings that he comes not"
+      - "To tell us whether they will come or no!"
+    m:
+      - "Thank you, my good lord, thank you all. I thought my mother and my brother, York, would have met us on our way here long before now. And what a slug Hastings is that he hasn’t even arrived to tell us whether they’re coming!"
+
+  - os: "Enter HASTINGS"
+    ms: "HASTINGS enters."
+
+  - sp: BUCKINGHAM
+    o:
+      - "And in good time here comes the sweating lord."
+    m:
+      - "And, just in time, here comes the sweaty lord."
+
+  - sp: PRINCE
+    o:
+      - "Welcome, my lord. What, will our mother come?"
+    m:
+      - "Welcome, my lord. What, isn’t my mother coming?"
+
+  - sp: HASTINGS
+    o:
+      - "On what occasion God He knows, not I,"
+      - "The queen your mother and your brother York"
+      - "Have taken sanctuary. The tender prince"
+      - "Would fain have come with me to meet your Grace,"
+      - "But by his mother was perforce withheld."
+    m:
+      - "God knows why, but your mother and your brother have taken sanctuary in Westminster Abbey. Your sweet brother wanted to come meet you, but his mother wouldn’t let him."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Fie, what an indirect and peevish course"
+      - "Is this of hers! —Lord Cardinal, will your Grace"
+      - "Persuade the queen to send the duke of York"
+      - "Unto his princely brother presently?—"
+      - "If she deny, Lord Hastings, go with him,"
+      - "And from her jealous arms pluck him perforce."
+    m:
+      - "Damn, what a sneaky and spiteful course your mother is taking!—Lord Cardinal, will you please persuade the queen to hurry and send the duke of York here?—Go with him, Lord Hastings, and if she refuses, take the boy from her by force."
+
+  - sp: CARDINAL
+    o:
+      - "My Lord of Buckingham, if my weak oratory"
+      - "Can from his mother win the duke of York,"
+      - "Anon expect him here; but if she be obdurate"
+      - "To mild entreaties, God in heaven forbid"
+      - "We should infringe the holy privilege"
+      - "Of blessèd sanctuary! Not for all this land"
+      - "Would I be guilty of so deep a sin."
+    m:
+      - "My Lord of Buckingham, if my weak skills of persuasion convince his mother to part with the duke of York, you can expect him here shortly. But if she resists my mild pleas, let God in heaven forbid us from disobeying the holy laws of the sanctuary and taking the child from her. I wouldn’t commit so serious a crime for anything."
+
+  - sp: BUCKINGHAM
+    o:
+      - "You are too senseless obstinate, my lord,"
+      - "Too ceremonious and traditional."
+      - "Weigh it but with the grossness of this age,"
+      - "You break not sanctuary in seizing him."
+      - "The benefit thereof is always granted"
+      - "To those whose dealings have deserved the place"
+      - "And those who have the wit to claim the place."
+      - "This prince hath neither claimed it nor deserved it"
+      - "And therefore, in mine opinion, cannot have it."
+      - "Then taking him from thence that is not there,"
+      - "You break no privilege nor charter there."
+      - "Oft have I heard of sanctuary men,"
+      - "But sanctuary children, ne’er till now."
+    m:
+      - "You are too inexplicably stubborn, my lord, too stuck on ceremony. In these less dainty times, you’re not breaking the laws of sanctuary to seize him. It’s only a sanctuary for those who really need protection or those who are smart enough to claim they do. The prince has done neither; therefore, in my opinion, he isn’t really protected by sanctuary. You’re not breaking any holy laws to take him away. Often I have heard of “sanctuary men,” but until now I’ve never heard of “sanctuary children.”"
+
+  - sp: CARDINAL
+    o:
+      - "My lord, you shall o’errule my mind for once.—"
+      - "Come on, Lord Hastings, will you go with me?"
+    m:
+      - "My lord, you’ve won me over this time. Lord Hastings, will you go with me?"
+
+  - sp: HASTINGS
+    o:
+      - "I go, my lord."
+    m:
+      - "I’m coming, my lord."
+
+  - sp: PRINCE
+    o:
+      - "Good lords, make all the speedy haste you may."
+    m:
+      - "Go as fast as you can."
+
+  - os: "Exeunt CARDINAL and HASTINGS"
+    ms: "CARDINAL and HASTINGS exit."
+
+  - o:
+      - "Say, uncle Gloucester, if our brother come,"
+      - "Where shall we sojourn till our coronation?"
+    m:
+      - "Say, uncle Richard, if my brother comes, where will I stay till my coronation?"
+
+  - sp: RICHARD
+    o:
+      - "Where it seems best unto your royal self."
+      - "If I may counsel you, some day or two"
+      - "Your Highness shall repose you at the Tower;"
+      - "Then where you please and shall be thought most fit"
+      - "For your best health and recreation."
+    m:
+      - "Whatever seems best to you. If I can give you some advice, if I were you, I would stay in the Tower for a day or two. Then you can stay wherever best suits your health and entertainment needs."
+
+  - sp: PRINCE
+    o:
+      - "I do not like the Tower, of any place.—"
+      - "Did Julius Caesar build that place, my lord?"
+    m:
+      - "Of all places, I don’t like the Tower. Didn’t Julius Caesar build it, my lord?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "He did, my gracious lord, begin that place,"
+      - "Which, since, succeeding ages have re-edified."
+    m:
+      - "He started it, my noble lord, and succeeding generations rebuilt it."
+
+  - sp: PRINCE
+    o:
+      - "Is it upon record, or else reported"
+      - "Successively from age to age, he built it?"
+    m:
+      - "Is it on record that he built it, or is it just word of mouth?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Upon record, my gracious lord."
+    m:
+      - "On record, my gracious lord."
+
+  - sp: PRINCE
+    o:
+      - "But say, my lord, it were not registered,"
+      - "Methinks the truth should live from age to age,"
+      - "As ’twere retailed to all posterity,"
+      - "Even to the general all-ending day."
+    m:
+      - "Well, I think that even if it weren’t on record, the truth would be remembered from one generation to the next—all the way to Doomsday."
+
+  - sp: RICHARD
+    o:
+      - "*(aside)* So wise so young, they say, do never live long."
+    m:
+      - "*(to himself)* As the saying goes, “Those that are this wise when they’re this young won’t live long.”"
+
+  - sp: PRINCE
+    o:
+      - "What say you, uncle?"
+    m:
+      - "What did you say, uncle?"
+
+  - sp: RICHARD
+    o:
+      - "I say, without characters fame lives long."
+      - "*(aside)* Thus, like the formal Vice, Iniquity,"
+      - "I moralize two meanings in one word."
+    m:
+      - "I said, “When there are no written records, a person’s fame lasts for a long time.” *(to himself)* Like Injustice, I get two meanings out of one word."
+
+  - sp: PRINCE
+    o:
+      - "That Julius Caesar was a famous man."
+      - "With what his valor did enrich his wit,"
+      - "His wit set down to make his valor live."
+      - "Death makes no conquest of this conqueror,"
+      - "For now he lives in fame, though not in life."
+      - "I’ll tell you what, my cousin Buckingham—"
+    m:
+      - "That Julius Caesar was a famous man. His courage helped his cleverness, and his cleverness made sure that his reputation for being courageous outlived him. Death didn’t conquer *this* conqueror, for he lives on in his fame, even though he’s dead. I’ll tell you what, my cousin Buckingham—"
+
+  - sp: BUCKINGHAM
+    o:
+      - "What, my gracious lord?"
+    m:
+      - "What, my dear lord?"
+
+  - sp: PRINCE
+    o:
+      - "An if I live until I be a man,"
+      - "I’ll win our ancient right in France again"
+      - "Or die a soldier, as I lived a king."
+    m:
+      - "If I live to be a man, I’ll win France again or die a soldier, as honorably as I lived as a king."
+
+  - sp: RICHARD
+    o:
+      - "*(aside)* Short summers lightly have a forward spring."
+    m:
+      - "*(to himself)* As the saying goes, “Short summers often have an early spring.” This smarty-pants won’t live long."
+
+  - os: "Enter young YORK, HASTINGS, and the CARDINAL"
+    ms: "Young YORK, HASTINGS, and the CARDINAL enter."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Now in good time here comes the duke of York."
+    m:
+      - "Making good time, here’s the duke of York."
+
+  - sp: PRINCE
+    o:
+      - "Richard of York, how fares our loving brother?"
+    m:
+      - "Richard of York, how are you doing, my loving brother?"
+
+  - sp: YORK
+    o:
+      - "Well, my dread lord—so must I call you now."
+    m:
+      - "Very well, my supreme lord—that’s what I have to call you now."
+
+  - sp: PRINCE
+    o:
+      - "Ay, brother, to our grief, as it is yours."
+      - "Too late he died that might have kept that title,"
+      - "Which by his death hath lost much majesty."
+    m:
+      - "Yes, brother, I feel bad about that, too. The man who might have kept that title died too soon, and now it isn’t worth nearly as much."
+
+  - sp: RICHARD
+    o:
+      - "How fares our cousin, noble Lord of York?"
+    m:
+      - "How’s my nephew doing, noble lord of York?"
+
+  - sp: YORK
+    o:
+      - "I thank you, gentle uncle. O, my lord,"
+      - "You said that idle weeds are fast in growth."
+      - "The prince my brother hath outgrown me far."
+    m:
+      - "Thank you for asking, uncle. Oh, my lord, you once said that lazy weeds grow fast. The prince has far outgrown me."
+
+  - sp: RICHARD
+    o:
+      - "He hath, my lord."
+    m:
+      - "He has, my lord."
+
+  - sp: YORK
+    o:
+      - "And therefore is he idle?"
+    m:
+      - "Does that mean he’s lazy?"
+
+  - sp: RICHARD
+    o:
+      - "O, my fair cousin, I must not say so."
+    m:
+      - "Oh, my handsome nephew, I must not say that."
+
+  - sp: YORK
+    o:
+      - "Then is he more beholding to you than I."
+    m:
+      - "In that case, he’s more obliged to you than I am."
+
+  - sp: RICHARD
+    o:
+      - "He may command me as my sovereign,"
+      - "But you have power in me as in a kinsman."
+    m:
+      - "He may command me as my king, but you still have power over me as a relative."
+
+  - sp: YORK
+    o:
+      - "I pray you, uncle, give me this dagger."
+    m:
+      - "Uncle, please give me your dagger."
+
+  - sp: RICHARD
+    o:
+      - "My dagger, little cousin? With all my heart."
+    m:
+      - "My dagger, little nephew? With all my heart."
+
+  - sp: PRINCE
+    o:
+      - "A beggar, brother?"
+    m:
+      - "Are you begging, brother?"
+
+  - sp: YORK
+    o:
+      - "Of my kind uncle, that I know will give,"
+      - "And being but a toy, which is no grief to give."
+    m:
+      - "From my kind uncle, who I know will give it to me, especially as it’s not worth much."
+
+  - sp: RICHARD
+    o:
+      - "A greater gift than that I’ll give my cousin."
+    m:
+      - "I’ll give you a greater gift than that, nephew."
+
+  - sp: YORK
+    o:
+      - "A greater gift? O, that’s the sword to it."
+    m:
+      - "A greater gift? That must mean a sword."
+
+  - sp: RICHARD
+    o:
+      - "Ay, gentle cousin, were it light enough."
+    m:
+      - "Yes, gentle cousin, if it were light enough for you."
+
+  - sp: YORK
+    o:
+      - "O, then I see you will part but with light gifts."
+      - "In weightier things you’ll say a beggar nay."
+    m:
+      - "Oh, I see, you will only part with lightweight presents. For more important things, you’ll say no."
+
+  - sp: RICHARD
+    o:
+      - "It is too heavy for your Grace to wear."
+    m:
+      - "A sword’s too heavy for you to wear."
+
+  - sp: YORK
+    o:
+      - "I weigh it lightly, were it heavier."
+    m:
+      - "I wouldn’t think much of it even if it were heavier."
+
+  - sp: RICHARD
+    o:
+      - "What, would you have my weapon, little lord?"
+    m:
+      - "What, do you want to wear *my* weapon, little lord?"
+
+  - sp: YORK
+    o:
+      - "I would, that I might thank you as you call me."
+    m:
+      - "I do, so I can thank you for what you called me."
+
+  - sp: RICHARD
+    o:
+      - "How?"
+    m:
+      - "What’s that?"
+
+  - sp: YORK
+    o:
+      - "Little."
+    m:
+      - "“Little.”"
+
+  - sp: PRINCE
+    o:
+      - "My lord of York will still be cross in talk."
+      - "Uncle, your Grace knows how to bear with him."
+    m:
+      - "The lord of York is always a bit perverse in his chatter. But, uncle, you know how to bear with him."
+
+  - sp: YORK
+    o:
+      - "You mean, to bear me, not to bear with me.—"
+      - "Uncle, my brother mocks both you and me."
+      - "Because that I am little, like an ape,"
+      - "He thinks that you should bear me on your shoulders."
+    m:
+      - "You mean, to bear me, not to bear *with* me. Uncle, my brother makes fun of both of us. Because I’m little, like an ape, he thinks you should bear me on your shoulders, like a fool."
+
+  - sp: BUCKINGHAM
+    o:
+      - "*(aside)* With what a sharp-provided wit he reasons!"
+      - "To mitigate the scorn he gives his uncle,"
+      - "He prettily and aptly taunts himself."
+      - "So cunning and so young is wonderful."
+    m:
+      - "*(to himself)* What a sharp mind this boy has! To make up for his scorn toward his uncle, he makes fun of himself as well. It’s amazing that he’s so cunning at his age."
+
+  - sp: RICHARD
+    o:
+      - "*(to PRINCE)* My lord, will ’t please you pass along?"
+      - "Myself and my good cousin Buckingham"
+      - "Will to your mother, to entreat of her"
+      - "To meet you at the Tower and welcome you."
+    m:
+      - "*(to PRINCE)* My lord, will you please continue on your way to the Tower? My good cousin Buckingham and I will go to your mother and ask her to meet you there."
+
+  - sp: YORK
+    o:
+      - "*(to PRINCE)* What, will you go unto the Tower, my lord?"
+    m:
+      - "*(to PRINCE)* What, you’re going to the Tower, my lord?"
+
+  - sp: PRINCE
+    o:
+      - "My lord protector needs will have it so."
+    m:
+      - "My protector, Richard, insists on it."
+
+  - sp: YORK
+    o:
+      - "I shall not sleep in quiet at the Tower."
+    m:
+      - "I can’t sleep quietly in the Tower."
+
+  - sp: RICHARD
+    o:
+      - "Why, what should you fear?"
+    m:
+      - "Why, what are you afraid of?"
+
+  - sp: YORK
+    o:
+      - "Marry, my uncle Clarence’ angry ghost."
+      - "My grandam told me he was murdered there."
+    m:
+      - "My uncle Clarence’s angry ghost. My grandmother told me he was murdered there."
+
+  - sp: PRINCE
+    o:
+      - "I fear no uncles dead."
+    m:
+      - "I’m not afraid of dead uncles."
+
+  - sp: RICHARD
+    o:
+      - "Nor none that live, I hope."
+    m:
+      - "Nor living ones, I hope."
+
+  - sp: PRINCE
+    o:
+      - "An if they live, I hope I need not fear."
+      - "*(to YORK)* But come, my lord. With a heavy heart,"
+      - "Thinking on them, go I unto the Tower."
+    m:
+      - "Well, I hope not. *(to YORK)* But come, my lord. With a heavy heart, thinking about my dead uncles, I will go to the Tower."
+
+  - os: "A sennet. Exeunt all but RICHARD, BUCKINGHAM, and CATESBY"
+    ms: "A trumpet sounds. Everyone except RICHARD, BUCKINGHAM, and CATESBY exits."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Think you, my lord, this little prating York"
+      - "Was not incensèd by his subtle mother"
+      - "To taunt and scorn you thus opprobriously?"
+    m:
+      - "Richard, don’t you think this chattering little York was encouraged to taunt you by his sneaky mother in that outrageous way?"
+
+  - sp: RICHARD
+    o:
+      - "No doubt, no doubt. O, ’tis a parlous boy,"
+      - "Bold, quick, ingenious, forward, capable."
+      - "He is all the mother’s, from the top to toe."
+    m:
+      - "No doubt, no doubt. Oh, he’s a dangerously clever boy—bold, quick-witted, capable. He’s his mother’s child from head to toe."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Well, let them rest.—Come hither, Catesby."
+      - "Thou art sworn as deeply to effect what we intend"
+      - "As closely to conceal what we impart."
+      - "Thou knowest our reasons, urged upon the way."
+      - "What thinkest thou? Is it not an easy matter"
+      - "To make William Lord Hastings of our mind"
+      - "For the installment of this noble duke"
+      - "In the seat royal of this famous isle?"
+    m:
+      - "Well, enough about them.—Come here, Catesby. You’ve sworn to participate in our plot and to keep it a secret. What do you think: wouldn’t it be easy to convince Lord Hastings to join us in installing Richard as king of England?"
+
+  - sp: CATESBY
+    o:
+      - "He, for his father’s sake, so loves the prince"
+      - "That he will not be won to aught against him."
+    m:
+      - "Hastings loved the prince’s father so much that we won’t be able to persuade him to do anything against the prince."
+
+  - sp: BUCKINGHAM
+    o:
+      - "What think’st thou then of Stanley? Will not he?"
+    m:
+      - "What about Stanley? Won’t he join us?"
+
+  - sp: CATESBY
+    o:
+      - "He will do all in all as Hastings doth."
+    m:
+      - "He’ll do whatever Hastings does."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Well then, no more but this: go, gentle Catesby,"
+      - "And, as it were far off, sound thou Lord Hastings"
+      - "How he doth stand affected to our purpose"
+      - "And summon him tomorrow to the Tower"
+      - "To sit about the coronation."
+      - "If thou dost find him tractable to us,"
+      - "Encourage him and show him all our reasons."
+      - "If he be leaden, icy, cold, unwilling,"
+      - "Be thou so too, and so break off the talk,"
+      - "And give us notice of his inclination;"
+      - "For we tomorrow hold divided councils,"
+      - "Wherein thyself shalt highly be employed."
+    m:
+      - "Okay, just do this, noble Catesby: sound out Lord Hastings, but make it seem as if you’re just mulling over the idea, that it hasn’t been firmed up yet. Invite him to come to the Tower tomorrow for the coronation ceremony. If he seems game to our plan, encourage him to join us and explain all our reasons. But if he’s resistant and chilly, then be like that too and break off the conversation. Let us know how he responds. Tomorrow we’re going to hold two separate meetings, one for those who are with us and one for those who aren’t. You’ll have a lot to do in these meetings."
+
+  - sp: RICHARD
+    o:
+      - "Commend me to Lord William. Tell him, Catesby,"
+      - "His ancient knot of dangerous adversaries"
+      - "Tomorrow are let blood at Pomfret castle,"
+      - "And bid my lord, for joy of this good news,"
+      - "Give mistress Shore one gentle kiss the more."
+    m:
+      - "Give my regards to Hastings, Catesby. Tell him the nest of dangerous enemies that plagued him for years will die tomorrow at Pomfret. And tell him to give Mistress Shore one extra kiss to celebrate this good news."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Good Catesby, go effect this business soundly."
+    m:
+      - "Good Catesby, do your work well."
+
+  - sp: CATESBY
+    o:
+      - "My good lords both, with all the heed I can."
+    m:
+      - "My good lords, I plan to."
+
+  - sp: RICHARD
+    o:
+      - "Shall we hear from you, Catesby, ere we sleep?"
+    m:
+      - "Will we hear from you before bedtime, Catesby?"
+
+  - sp: CATESBY
+    o:
+      - "You shall, my lord."
+    m:
+      - "You will, my lord."
+
+  - sp: RICHARD
+    o:
+      - "At Crosby Place, there shall you find us both."
+    m:
+      - "You’ll find us both at Crosby Place."
+
+  - os: "Exit CATESBY"
+    ms: "CATESBY exits."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Now, my lord, what shall we do, if we perceive"
+      - "Lord Hastings will not yield to our complots?"
+    m:
+      - "Now, my lord, what are we going to do if we find that Lord Hastings won’t go along with our plans?"
+
+  - sp: RICHARD
+    o:
+      - "Chop off his head. Something we will determine."
+      - "And look when I am king, claim thou of me"
+      - "The earldom of Hereford, and all the moveables"
+      - "Whereof the king my brother was possessed."
+    m:
+      - "Chop off his head. Whatever we decide to do. And when I’m king, remember to ask me for the earldom of Hereford and all the possessions that go with it, which my brother the king used to own."
+
+  - sp: BUCKINGHAM
+    o:
+      - "I’ll claim that promise at your Grace’s hands."
+    m:
+      - "I look forward to that present."
+
+  - sp: RICHARD
+    o:
+      - "And look to have it yielded with all kindness."
+      - "Come, let us sup betimes, that afterwards"
+      - "We may digest our complots in some form."
+    m:
+      - "You’ll find I’ll give it to you very willingly. Come, let’s have an early dinner so that we have time to work out our plans."
+
+  - os: "Exeunt"
+    ms: "They exit."
