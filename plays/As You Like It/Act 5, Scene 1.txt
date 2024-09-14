@@ -1,0 +1,199 @@
+play: As You Like It
+title: Act 5, Scene 1
+group: 5
+order: 18
+text:
+  - os: "Enter TOUCHSTONE and AUDREY"
+    ms: "TOUCHSTONE and AUDREY enter."
+
+  - sp: TOUCHSTONE
+    o:
+      - "We shall find a time, Audrey. Patience, gentle Audrey."
+    m:
+      - "We’ll get married at some point, Audrey. Be patient."
+
+  - sp: AUDREY
+    o:
+      - "Faith, the priest was good enough, for all the old gentleman’s saying."
+    m:
+      - "Really, the priest was good enough, no matter what that old guy said."
+
+  - sp: TOUCHSTONE
+    o:
+      - "A most wicked Sir Oliver, Audrey, a most vile Martext. But, Audrey, there is a youth here in the forest lays claim to you."
+    m:
+      - "No, he was wicked and vile. But Audrey, there’s a boy in the forest who claims you’re his girl."
+
+  - sp: AUDREY
+    o:
+      - "Ay, I know who ’tis. He hath no interest in me in the world."
+    m:
+      - "Yes, I know who you’re talking about, but he has no claim on me."
+
+  - os: "Enter WILLIAM"
+    ms: "WILLIAM enters."
+
+  - o:
+      - "Here comes the man you mean."
+    m:
+      - "Here comes the man himself."
+
+  - sp: TOUCHSTONE
+    o:
+      - "It is meat and drink to me to see a clown. By my troth, we that have good wits have much to answer for. We shall be flouting. We cannot hold."
+    m:
+      - "It warms my heart to encounter such a country bumpkin. Truly, we witty men can’t hold our tongues. We have to mess with the likes of him, we just can’t help it."
+
+  - sp: WILLIAM
+    o:
+      - "Good ev’n, Audrey."
+    m:
+      - "Good evening, Audrey."
+
+  - sp: AUDREY
+    o:
+      - "God gi’ good ev’n, William."
+    m:
+      - "Good evening, William."
+
+  - sp: WILLIAM
+    o:
+      - "And good ev’n to you, sir."
+    m:
+      - "And good evening to you, sir."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Good ev’n, gentle friend. Cover thy head, cover thy head."
+      - "Nay, prithee, be covered. How old are you, friend?"
+    m:
+      - "Good evening to you, good friend. No, no, put your hat back on, put it back on. No, please, keep your head covered. How old are you, friend?"
+
+  - sp: WILLIAM
+    o:
+      - "Five-and-twenty, sir."
+    m:
+      - "Twenty-five, sir."
+
+  - sp: TOUCHSTONE
+    o:
+      - "A ripe age. Is thy name William?"
+    m:
+      - "A mature age. Is your name William?"
+
+  - sp: WILLIAM
+    o:
+      - "William, sir."
+    m:
+      - "Yes, it’s William, sir."
+
+  - sp: TOUCHSTONE
+    o:
+      - "A fair name. Wast born i’ th’ forest here?"
+    m:
+      - "A good name. Were you born here in the forest?"
+
+  - sp: WILLIAM
+    o:
+      - "Ay, sir, I thank God."
+    m:
+      - "Yes sir, thank God."
+
+  - sp: TOUCHSTONE
+    o:
+      - "“Thank God.” A good answer. Art rich?"
+    m:
+      - "“Thank God”—that’s a good answer. Are you rich?"
+
+  - sp: WILLIAM
+    o:
+      - "’Faith, sir, so-so."
+    m:
+      - "Well, so-so."
+
+  - sp: TOUCHSTONE
+    o:
+      - "“So-so” is good, very good, very excellent good. And yet it is not: it is but so-so. Art thou wise?"
+    m:
+      - "“So-so” is good, very good, an excellent answer. And then again, it’s not so good, but only so-so. Are you wise?"
+
+  - sp: WILLIAM
+    o:
+      - "Ay, sir, I have a pretty wit."
+    m:
+      - "Yes sir, I’m fairly witty."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Why, thou sayst well. I do now remember a saying: “The fool doth think he is wise, but the wise man knows himself to be a fool.” The heathen philosopher, when he had a desire to eat a grape, would open his lips when he put it into his mouth, meaning thereby that grapes were made to eat and lips to open. You do love this maid?"
+    m:
+      - "Well, that’s a fine answer. I seem to remember a saying: “Only a fool thinks he’s wise; the wise man knows that he is, in fact, a fool.” When one self-described philosopher wanted to eat grapes, he opened his lips when they entered his mouth, thereby making the theoretical point that grapes were made to be eaten, and lips to open. Do you love this girl?"
+
+  - sp: WILLIAM
+    o:
+      - "I do, sir."
+    m:
+      - "I do, sir."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Give me your hand. Art thou learned?"
+    m:
+      - "Give me your hand. Are you educated?"
+
+  - sp: WILLIAM
+    o:
+      - "No, sir."
+    m:
+      - "No, sir."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Then learn this of me: to have is to have. For it is a figure in rhetoric that drink, being poured out of a cup into a glass, by filling the one doth empty the other. For all your writers do consent that ipse is “he.” Now, you are not ipse, for I am he."
+    m:
+      - "Then learn this from me: if you have something, you have it. Everyone knows that when you pour a drink out of a cup and into a glass, the cup becomes empty. And all the authorities know that *ipse* is Latin for “he.” You are no longer *ipse*, because I am he."
+
+  - sp: WILLIAM
+    o:
+      - "Which he, sir?"
+    m:
+      - "Which he, sir?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "He, sir, that must marry this woman. Therefore, you clown, abandon—which is, in the vulgar, “leave”—the society—which in the boorish is “company”—of this female—which in the common is “woman”; which together is, abandon the society of this female, or, clown, thou perishest; or, to thy better understanding, diest; or, to wit, I kill thee, make thee away, translate thy life into death, thy liberty into bondage. I will deal in poison with thee, or in bastinado, or in steel. I will bandy with thee in faction. I will o’errun thee with policy. I will kill thee a hundred and fifty ways. Therefore tremble and depart."
+    m:
+      - "Why, the he that will marry this woman. Therefore, idiot, abandon (or, in common language, “leave”) the society (which in the boorish tongue is “company”) of this female—maybe you’ll get it if I say “woman,” instead. Say it all at once, now: abandon the society of this female, or, simpleton, you’ll perish. Let me put it in a way you’ll understand: you’ll die. Or, rather, I’ll kill you, or I’ll do away with you, or I’ll turn your life into death and your freedom into captivity. I’ll poison you, or beat you with a club, or stab you with a sword. I’ll bandy you about and overwhelm you with my cleverness. I will, in other words, kill you in three hundred and fifty ways. Therefore, tremble with fear and leave."
+
+  - sp: AUDREY
+    o:
+      - "Do, good William."
+    m:
+      - "Do what he says, William."
+
+  - sp: WILLIAM
+    o:
+      - "God rest you merry, sir."
+    m:
+      - "Farewell, sir."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter CORIN"
+    ms: "CORIN enters."
+
+  - sp: CORIN
+    o:
+      - "Our master and mistress seeks you. Come away, away."
+    m:
+      - "Our master and mistress are looking for you. Let’s go."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Trip, Audrey, trip, Audrey.—I attend, I attend."
+    m:
+      - "Hurry up, Audrey, hurry.—I’m coming, I’m coming."
+
+  - os: "Exeunt"
+    ms: "They all exit."

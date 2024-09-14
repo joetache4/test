@@ -1,0 +1,179 @@
+play: Hamlet
+title: Act 4, Scene 4
+group: 4
+order: 14
+text:
+  - os: "Enter FORTINBRAS with his army and a CAPTAIN"
+    ms: "FORTINBRAS enters with his army and a CAPTAIN."
+
+  - sp: FORTINBRAS
+    o:
+      - "Go, Captain, from me greet the Danish king"
+      - "Tell him that, by his license, Fortinbras"
+      - "Craves the conveyance of a promised march"
+      - "Over his kingdom. You know the rendezvous."
+      - "If that his majesty would aught with us,"
+      - "We shall express our duty in his eye,"
+      - "And let him know so."
+    m:
+      - "Go, Captain, and give the Danish king my greetings. Tell him that Fortinbras asks permission to move his troops across Denmark. You know the meeting place we’ve arranged. If His Majesty wants us to do any favor for him, tell him his wish is my command."
+
+  - sp: CAPTAIN
+    o:
+      - "I will do ’t, my lord."
+    m:
+      - "I’ll tell him, my lord."
+
+  - sp: FORTINBRAS
+    o:
+      - "Go softly on."
+    m:
+      - "Go ahead, then."
+
+  - os: "Exeunt all except the CAPTAIN"
+    ms: "Everyone except the CAPTAIN exits."
+
+  - os: "Enter HAMLET, ROSENCRANTZ, GUILDENSTERN, and others"
+    ms: "HAMLET, ROSENCRANTZ, GUILDENSTERN, and others enter."
+
+  - sp: HAMLET
+    o:
+      - "Good sir, whose powers are these?"
+    m:
+      - "Sir, whose troops are these?"
+
+  - sp: CAPTAIN
+    o:
+      - "They are of Norway, sir."
+    m:
+      - "The king of Norway’s, sir."
+
+  - sp: HAMLET
+    o:
+      - "  How purposed, sir, I pray you?"
+    m:
+      - "What are they doing here, sir?"
+
+  - sp: CAPTAIN
+    o:
+      - "Against some part of Poland."
+    m:
+      - "They’re on their way to invade some part of Poland."
+
+  - sp: HAMLET
+    o:
+      - "    Who commands them, sir?"
+    m:
+      - "Who’s commanding them, sir?"
+
+  - sp: CAPTAIN
+    o:
+      - "The nephew to old Norway, Fortinbras."
+    m:
+      - "The nephew of the old king of Norway, Fortinbras."
+
+  - sp: HAMLET
+    o:
+      - "Goes it against the main of Poland, sir,"
+      - "Or for some frontier?"
+    m:
+      - "Is he attacking the heartland of Poland or some frontier?"
+
+  - sp: CAPTAIN
+    o:
+      - "Truly to speak, and with no addition,"
+      - "We go to gain a little patch of ground"
+      - "That hath in it no profit but the name."
+      - "To pay five ducats, five, I would not farm it."
+      - "Nor will it yield to Norway or the Pole"
+      - "A ranker rate, should it be sold in fee."
+    m:
+      - "To tell the truth, we’re fighting to win a little patch of ground that’s not worth anything. I myself wouldn’t pay five ducats for it, if someone offered it to me to farm. And it won’t provide any more profits than that to either the Norwegian or the Pole."
+
+  - sp: HAMLET
+    o:
+      - "Why, then the Polack never will defend it."
+    m:
+      - "So then the Poles won’t be willing to defend it."
+
+  - sp: CAPTAIN
+    o:
+      - "Yes, it is already garrisoned."
+    m:
+      - "Oh, yes they will. They’ve already stationed troops there."
+
+  - sp: HAMLET
+    o:
+      - "Two thousand souls and twenty thousand ducats"
+      - "Will not debate the question of this straw."
+      - "This is th’ impostume of much wealth and peace,"
+      - "That inward breaks and shows no cause without"
+      - "Why the man dies.—I humbly thank you, sir."
+    m:
+      - "*(to himself)* Even two thousand men and twenty-thousand ducats are just the beginning of what it will cost to settle this pointless matter. This is what happens when countries have too much money and peace. This quarrel is like an abcess that grows inside someone until it bursts and kills them, and no one knows why. *(to the* CAPTAIN)* Thank you very much for the information, sir."
+
+  - sp: CAPTAIN
+    o:
+      - "God be wi’ you, sir."
+    m:
+      - "Good-bye, sir."
+
+  - os: "Exit CAPTAIN"
+    ms: "The CAPTAIN exits."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "  Will ’t please you go, my lord?"
+    m:
+      - "Will you please come now, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "I’ll be with you straight. Go a little before."
+    m:
+      - "I’ll be there in a minute. Start without me."
+
+  - os: "Exeunt all except HAMLET"
+    ms: "Everyone except HAMLET exits."
+
+  - o:
+      - "How all occasions do inform against me,"
+      - "And spur my dull revenge! What is a man"
+      - "If his chief good and market of his time"
+      - "Be but to sleep and feed? A beast, no more."
+      - "Sure, he that made us with such large discourse,"
+      - "Looking before and after, gave us not"
+      - "That capability and godlike reason"
+      - "To fust in us unused. Now, whether it be"
+      - "Bestial oblivion, or some craven scruple"
+      - "Of thinking too precisely on th’ event—"
+      - "A thought which, quartered, hath but one part wisdom"
+      - "And ever three parts coward—I do not know"
+      - "Why yet I live to say “This thing’s to do,”"
+      - "Sith I have cause and will and strength and means"
+      - "To do ’t. Examples gross as earth exhort me."
+      - "Witness this army of such mass and charge"
+      - "Led by a delicate and tender prince,"
+      - "Whose spirit with divine ambition puffed"
+      - "Makes mouths at the invisible event,"
+      - "Exposing what is mortal and unsure"
+      - "To all that fortune, death, and danger dare,"
+      - "Even for an eggshell. Rightly to be great"
+      - "Is not to stir without great argument,"
+      - "But greatly to find quarrel in a straw"
+      - "When honor’s at the stake. How stand I then,"
+      - "That have a father killed, a mother stained,"
+      - "Excitements of my reason and my blood,"
+      - "And let all sleep—while, to my shame, I see"
+      - "The imminent death of twenty thousand men,"
+      - "That for a fantasy and trick of fame"
+      - "Go to their graves like beds, fight for a plot"
+      - "Whereon the numbers cannot try the cause,"
+      - "Which is not tomb enough and continent"
+      - "To hide the slain? Oh, from this time forth,"
+      - "My thoughts be bloody, or be nothing worth!"
+    m:
+      - "My God! Everything I see shows me how wrong I am and tells me to hurry up and get on with my revenge. What is a human being if he just eats and sleeps? Nothing more than a beast. God didn’t create us with such a huge power of thought and a divine capacity for reason in order for us not to use them. Now, whether it’s animal-like mindlessness, or the cowardly hesitation that comes from thinking too much (thinking thoughts that are one part wisdom, three parts cowardice), I don’t know why I’m still alive to say “I have to do this deed” rather than having done it already. I have the motivation, the willpower, the ability, and the means to do it. It’s as plain as the ground beneath my feet that I must do it. Look at this massive army led by a delicate and tender prince who’s so puffed up with divine ambition that he puts his fragile life at risk, exposing it to danger and death, for a reason as thin as an eggshell. To be truly great doesn’t mean you’d only fight for a good reason. It means you’d fight over nothing if your honor was at stake. So where does that leave me, whose father has been murdered and mother defiled, ignoring these mental and emotional provocations and letting well enough alone? Meanwhile, to my shame, I watch twenty thousand men go marching to their deaths for an illusion and a little bit of fame, fighting for a tiny piece of land not even big enough to bury them all. From now on, if my thoughts aren’t violent I’ll consider them worthless."
+
+  - os: "Exit"
+    ms: "He exits."

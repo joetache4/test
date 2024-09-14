@@ -1,0 +1,430 @@
+play: Coriolanus
+title: Act 2, Scene 2
+group: 2
+order: 11
+text:
+  - os: "The same. The Capitol."
+    ms: "The capitol."
+
+  - os: "Enter two Officers, to lay cushions"
+    ms: "Two Officers enter to set up seats."
+
+  - sp: FIRST OFFICER
+    o:
+      - "Come, come, they are almost here. How many stand"
+      - "for consulships?"
+    m:
+      - "Hurry up. They’re almost here. How many are being considered for the consul?"
+
+  - sp: SECOND OFFICER
+    o:
+      - "Three, they say: but ’tis thought of every one"
+      - "Coriolanus will carry it."
+    m:
+      - "Three, they say. But everyone thinks Coriolanus will get it."
+
+  - sp: FIRST OFFICER
+    o:
+      - "That’s a brave fellow; but he’s vengeance proud, and"
+      - "loves not the common people."
+    m:
+      - "He’s a brave man, but he’s too proud, and he doesn’t care about the common people."
+
+  - sp: SECOND OFFICER
+    o:
+      - "Faith, there had been many great men that have"
+      - "flattered the people, who ne’er loved them; and there"
+      - "be many that they have loved, they know not"
+      - "wherefore: so that, if they love they know not why,"
+      - "they hate upon no better a ground: therefore, for"
+      - "Coriolanus neither to care whether they love or hate"
+      - "him manifests the true knowledge he has in their"
+      - "disposition; and out of his noble carelessness lets"
+      - "them plainly see’t."
+    m:
+      - "There have been many great men who have flattered the people but whom the people never liked, and there have been many that the people liked for unknown reasons. Since they can like someone without knowing why, at least when they dislike someone, it’s for an equally vague reason. So for Coriolanus not to care whether they like him or not shows that he actually knows them quite well, and out of his own indifference to public opinion, he lets them know that he doesn’t care."
+
+  - sp: FIRST OFFICER
+    o:
+      - "If he did not care whether he had their love or no,"
+      - "he waved indifferently ’twixt doing them neither"
+      - "good nor harm: but he seeks their hate with greater"
+      - "devotion than can render it him; and leaves"
+      - "nothing undone that may fully discover him their"
+      - "opposite. Now, to seem to affect the malice and"
+      - "displeasure of the people is as bad as that which he"
+      - "dislikes, to flatter them for their love."
+    m:
+      - "If he didn’t care whether or not he had their support, he would be indifferent to either doing them good or harm. But he provokes their hatred with more intensity than they can they can hate him with in return. He has done everything possible for them to see him as their enemy. However, to pretend to desire the ill will of the people is as bad as flattering them for their approval—something he would never do."
+
+  - sp: SECOND OFFICER
+    o:
+      - "He hath deserved worthily of his country: and his"
+      - "ascent is not by such easy degrees as those who,"
+      - "having been supple and courteous to the people,"
+      - "bonneted, without any further deed to have them at"
+      - "all into their estimation and report: but he hath so"
+      - "planted his honours in their eyes, and his actions"
+      - "in their hearts, that for their tongues to be"
+      - "silent, and not confess so much, were a kind of"
+      - "ingrateful injury; to report otherwise, were a"
+      - "malice, that, giving itself the lie, would pluck"
+      - "reproof and rebuke from every ear that heard it."
+    m:
+      - "He has served his country honorably and his route to prominence has not been nearly as easy as those who, having been lenient and kind to the people, only tipped their hats to get ahead. But he has boasted in their faces so much about his fame and his actions, that if they don’t pay attention to this, they would be harming themselves. If they lie about his prideful behavior, no one would believe them. Everyone would say otherwise."
+
+  - sp: FIRST OFFICER
+    o:
+      - "No more of him; he is a worthy man: make way, they"
+      - "are coming."
+    m:
+      - "Stop talking about him. He’s a worthy man. Make way. They’re coming."
+
+  - os: "A sennet. Enter, with actors before them, COMINIUS the consul, MENENIUS, CORIOLANUS, Senators, SICINIUS and BRUTUS. The Senators take their places; the Tribunes take their Places by themselves. CORIOLANUS stands"
+    ms: "Trumpets sound. COMINIUS the consul, MENENIUS, CORIOLANUS, Senators, SICINIUS, and BRUTUS enter, with attendants going in before them. The Senators take their places. SICINIUS and BRUTUS take their places by themselves. CORIOLANUS stands."
+
+  - sp: MENENIUS
+    o:
+      - "Having determined of the Volsces and"
+      - "To send for Titus Lartius, it remains,"
+      - "As the main point of this our after-meeting,"
+      - "To gratify his noble service that"
+      - "Hath thus stood for his country: therefore,"
+      - "please you,"
+      - "Most reverend and grave elders, to desire"
+      - "The present consul, and last general"
+      - "In our well-found successes, to report"
+      - "A little of that worthy work perform’d"
+      - "By Caius Martius Coriolanus, whom"
+      - "We met here both to thank and to remember"
+      - "With honours like himself. *(Coriolanus sits)*"
+    m:
+      - "Once we decide what to do about the Volsces and send for Titus Lartius, the main point of this meeting is still to reward his noble service in defending his country. Therefore, most respected and honorable elders, the present consul and the general in our victorious battles desires to report a little of the worthy work performed by Caius Martius Coriolanus, whom we have invited here both to thank and to honor. *(Coriolanus sits)*"
+
+  - sp: FIRST SENATOR
+    o:
+      - "Speak, good Cominius:"
+      - "Leave nothing out for length, and make us think"
+      - "Rather our state’s defective for requital"
+      - "Than we to stretch it out."
+      - "*(to the Tribunes)*"
+      - "Masters o’ the people,"
+      - "We do request your kindest ears, and after,"
+      - "Your loving motion toward the common body,"
+      - "To yield what passes here."
+    m:
+      - "Speak as long as you need, good Cominius. Leave nothing out. Better that he think we don’t have the resources to reward to him than that we don’t have the patience to listen to the full report. *(to the tribunes)* Representatives of the people, we request you to listen kindly, and afterward to convince the people to agree to what we suggest."
+
+  - sp: SICINIUS
+    o:
+      - "We are convented"
+      - "Upon a pleasing treaty, and have hearts"
+      - "Inclinable to honour and advance"
+      - "The theme of our assembly."
+    m:
+      - "We’ve come here to consider this question, and we’re inclined to honor and advance the cause of our constituents."
+
+  - sp: BRUTUS
+    o:
+      - "Which the rather"
+      - "We shall be blest to do, if he remember"
+      - "A kinder value of the people than"
+      - "He hath hereto prized them at."
+    m:
+      - "Which we’ll happily do, and soon, if he can remember to value the people more highly than he has previously."
+
+  - sp: MENENIUS
+    o:
+      - "That’s off, that’s off;"
+      - "I would you rather had been silent. Please you"
+      - "To hear Cominius speak?"
+    m:
+      - "That’s not the point. I wish you had been silent. Please, will you let Cominius speak?"
+
+  - sp: BRUTUS
+    o:
+      - "Most willingly;"
+      - "But yet my caution was more pertinent"
+      - "Than the rebuke you give it."
+    m:
+      - "Most willingly. But my caution was more important than you realize."
+
+  - sp: MENENIUS
+    o:
+      - "He loves your people"
+      - "But tie him not to be their bedfellow."
+      - "Worthy Cominius, speak."
+    m:
+      - "He cares about the common people. Just don’t expect him to be closely involved with them. Worthy Cominius, speak."
+
+  - os: "CORIOLANUS offers to go away"
+    ms: "CORIOLANUS tries to get up and leave."
+
+  - o:
+      - "Nay, keep your place."
+    m:
+      - "No, stay where you are."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Sit, Coriolanus; never shame to hear"
+      - "What you have nobly done."
+    m:
+      - "Sit, Coriolanus. Never be embarrassed to hear of your noble deeds."
+
+  - sp: CORIOLANUS
+    o:
+      - "Your horror’s pardon:"
+      - "I had rather have my wounds to heal again"
+      - "Than hear say how I got them."
+    m:
+      - "I’m sorry, your honor. I’d rather let my wounds heal than hear how I got them."
+
+  - sp: BRUTUS
+    o:
+      - "Sir, I hope"
+      - "My words disbench’d you not."
+    m:
+      - "Sir, I hope my words didn’t cause you to get up."
+
+  - sp: CORIOLANUS
+    o:
+      - "No, sir: yet oft,"
+      - "When blows have made me stay, I fled from words."
+      - "You soothed not, therefore hurt not: but"
+      - "your people,"
+      - "I love them as they weigh."
+    m:
+      - "No, sir. While I don’t run from fights, I do often run from praise. But you didn’t flatter me, so I wasn’t offended. But the people you represent are worth so little, so I care so little about them."
+
+  - sp: MENENIUS
+    o:
+      - "Pray now, sit down."
+    m:
+      - "Please, sit down."
+
+  - sp: CORIOLANUS
+    o:
+      - "I had rather have one scratch my head i’ the sun"
+      - "When the alarum were struck than idly sit"
+      - "To hear my nothings monster’d."
+    m:
+      - "I’d rather let someone scratch my head in the sun when the trumpet summons me to battle than sit here and listen to my small deeds be over-embellished."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: MENENIUS
+    o:
+      - "Masters of the people,"
+      - "Your multiplying spawn how can he flatter—"
+      - "That’s thousand to one good one—when you now see"
+      - "He had rather venture all his limbs for honour"
+      - "Than one on’s ears to hear it? Proceed, Cominius."
+    m:
+      - "Representatives of the people, your constituents reproduce all the time, and there’s only one good man among every thousand of them—how can he flatter them? You see now he’d rather risk his whole life for honor than risk one of his ears to hear about it. Go on, Cominius."
+
+  - sp: COMINIUS
+    o:
+      - "I shall lack voice: the deeds of Coriolanus"
+      - "Should not be utter’d feebly. It is held"
+      - "That valour is the chiefest virtue, and"
+      - "Most dignifies the haver: if it be,"
+      - "The man I speak of cannot in the world"
+      - "Be singly counterpoised. At sixteen years,"
+      - "When Tarquin made a head for Rome, he fought"
+      - "Beyond the mark of others: our then dictator,"
+      - "Whom with all praise I point at, saw him fight,"
+      - "When with his Amazonian chin he drove"
+      - "The bristled lips before him: be bestrid"
+      - "An o’er-press’d Roman and i’ the consul’s view"
+      - "Slew three opposers: Tarquin’s self he met,"
+      - "And struck him on his knee: in that day’s feats,"
+      - "When he might act the woman in the scene,"
+      - "He proved best man i’ the field, and for his meed"
+      - "Was brow-bound with the oak. His pupil age"
+      - "Man-enter’d thus, he waxed like a sea,"
+      - "And in the brunt of seventeen battles since"
+      - "He lurch’d all swords of the garland. For this last,"
+      - "Before and in Corioli, let me say,"
+      - "I cannot speak him home: he stopp’d the fliers;"
+      - "And by his rare example made the coward"
+      - "Turn terror into sport: as weeds before"
+      - "A vessel under sail, so men obey’d"
+      - "And fell below his stem: his sword, death’s stamp,"
+      - "Where it did mark, it took; from face to foot"
+      - "He was a thing of blood, whose every motion"
+      - "Was timed with dying cries: alone he enter’d"
+      - "The mortal gate of the city, which he painted"
+      - "With shunless destiny; aidless came off,"
+      - "And with a sudden reinforcement struck"
+      - "Corioli like a planet: now all’s his:"
+      - "When, by and by, the din of war gan pierce"
+      - "His ready sense; then straight his doubled spirit"
+      - "Re-quicken’d what in flesh was fatigate,"
+      - "And to the battle came he; where he did"
+      - "Run reeking o’er the lives of men, as if ’Twere a perpetual spoil: and till we call’d"
+      - "Both field and city ours, he never stood"
+      - "To ease his breast with panting."
+    m:
+      - "I won’t say much. The deeds of Coriolanus shouldn’t be spoken of lightly. It’s well known that courage is the highest virtue and brings the highest dignity to whoever has it. And if that’s true, there’s no one in the world who is more dignified than the man I speak of. At age sixteen, when Tarquin attacked Rome, his fighting exceeded everyone else’s. Our former leader, whom I reference with all praise, saw him fight victoriously against adults when he was still young and had a beardless chin. He protected the overwhelmed Romans and as the consul watched, he defeated three enemies. He fought Tarquin himself and brought him to his knees.  In that day of fighting, when he was young enough to play a woman on stage, he proved to be the best man in the field, and he was rewarded with a garland of oak. He entered into manhood, though he was still a boy, with the force of a rising tide. He has led the attack in seventeen battles since then, and he has won the garland over his fellow soldiers every time. As for this last battle, outside of and within Corioles, I have no words to describe what he did. He stopped the Roman deserters and by his rare example made these cowards overcome their fear and become warriors. The men obeyed and fell beneath his prow like waves beneath a sailboat. Wherever he swung his sword, he marked the sign of death. From head to toe he was covered in blood, and his every motion was followed by dying cries. He entered the deadly gate of the city alone, and he painted it with the blood of their inevitable destiny. Without help, he retreated, but with a sudden burst of energy he attacked Corioles with the force of a planet. Then the city was all his. After a while, as the noise of war began to wear him down, his spirit reinvigorated his tired body, and he came back to the battle and ran furiously at the enemy, as if it were an endless slaughter. He never stopped to catch his breath until both the field and city were ours."
+
+  - sp: MENENIUS
+    o:
+      - "Worthy man!"
+    m:
+      - "Worthy man!"
+
+  - sp: FIRST SENATOR
+    o:
+      - "He cannot but with measure fit the honours"
+      - "Which we devise him."
+    m:
+      - "He definitely measures up to the honors we have for him."
+
+  - sp: COMINIUS
+    o:
+      - "Our spoils he kick’d at,"
+      - "And look’d upon things precious as they were"
+      - "The common muck of the world: he covets less"
+      - "Than misery itself would give; rewards"
+      - "His deeds with doing them, and is content"
+      - "To spend the time to end it."
+    m:
+      - "He rejected our spoils and looked at precious things as if they were the common muck of the world. He doesn’t desire anything. To him, doing his deeds is its own reward, and he’s happy to spend the time to do the job well."
+
+  - sp: MENENIUS
+    o:
+      - "He’s right noble:"
+      - "Let him be call’d for."
+    m:
+      - "He’s very noble. Let’s call him here."
+
+  - sp: FIRST SENATOR
+    o:
+      - "Call Coriolanus."
+    m:
+      - "Call Coriolanus."
+
+  - sp: OFFICER
+    o:
+      - "He doth appear."
+    m:
+      - "Here he is."
+
+  - os: "Re-enter CORIOLANUS"
+    ms: "CORIOLANUS re-enters."
+
+  - sp: MENENIUS
+    o:
+      - "The senate, Coriolanus, are well pleased"
+      - "To make thee consul."
+    m:
+      - "Coriolanus, the Senate is very happy to admit you to the consul."
+
+  - sp: CORIOLANUS
+    o:
+      - "I do owe them still"
+      - "My life and services."
+    m:
+      - "I’ll always owe them my life and services."
+
+  - sp: MENENIUS
+    o:
+      - "It then remains"
+      - "That you do speak to the people."
+    m:
+      - "All that remains is for you to speak to the people."
+
+  - sp: CORIOLANUS
+    o:
+      - "I do beseech you,"
+      - "Let me o’erleap that custom, for I cannot"
+      - "Put on the gown, stand naked and entreat them,"
+      - "For my wounds’ sake, to give their suffrage: please you"
+      - "That I may pass this doing."
+    m:
+      - "I beg you, let me skip that custom. I can’t put on the gown, stand without an undershirt, and show off my wounds just so they’ll vote for me. Please let me pass on doing this."
+
+  - sp: SICINIUS
+    o:
+      - "Sir, the people"
+      - "Must have their voices; neither will they bate"
+      - "One jot of ceremony."
+    m:
+      - "Sir, the people must have their say, and they won’t leave out one bit of the ceremony."
+
+  - sp: MENENIUS
+    o:
+      - "Put them not to’t:"
+      - "Pray you, go fit you to the custom and"
+      - "Take to you, as your predecessors have,"
+      - "Your honour with your form."
+    m:
+      - "Don’t fight them on this. Go through with this custom and stand honorably as your predecessors have."
+
+  - sp: CORIOLANUS
+    o:
+      - "It is apart"
+      - "That I shall blush in acting, and might well"
+      - "Be taken from the people."
+    m:
+      - "I’ll blush as I play this part. The people will be deceived."
+
+  - sp: BRUTUS
+    o:
+      - "*(to Sicinius)* Mark you that?"
+    m:
+      - "*(to Sicinius)* Did you hear that?"
+
+  - sp: CORIOLANUS
+    o:
+      - "To brag unto them, thus I did, and thus;"
+      - "Show them the unaching scars which I should hide,"
+      - "As if I had received them for the hire"
+      - "Of their breath only!"
+    m:
+      - "To brag of the things I’ve done and show them my old scars, which I should hide—as if I’d received them only for the people to gasp at!"
+
+  - sp: MENENIUS
+    o:
+      - "Do not stand upon’t."
+      - "We recommend to you, tribunes of the people,"
+      - "Our purpose to them: and to our noble consul"
+      - "Wish we all joy and honour."
+    m:
+      - "Don’t insist on this. Tribunes of the people, we ask that you recommend our proposal to the people. And to our noble consul wish we all joy and honor."
+
+  - sp: SENATORS
+    o:
+      - "To Coriolanus come all joy and honour!"
+    m:
+      - "May all joy and honor come to Coriolanus!"
+
+  - os: "Flourish of cornets. Exeunt all but SICINIUS and BRUTUS"
+    ms: "Sound of trumpets. Everyone exits except SICINIUS and BRUTUS"
+
+  - sp: BRUTUS
+    o:
+      - "You see how he intends to use the people."
+    m:
+      - "You see how he intends to use the people."
+
+  - sp: SICINIUS
+    o:
+      - "May they perceive’s intent! He will require them,"
+      - "As if he did contemn what he requested"
+      - "Should be in them to give."
+    m:
+      - "May they know his intentions! He’ll ask for their support even though he hates that it’s in their power to give it."
+
+  - sp: BRUTUS
+    o:
+      - "Come, we’ll inform them"
+      - "Of our proceedings here: on the marketplace,"
+      - "I know, they do attend us."
+    m:
+      - "Let’s go inform them of what’s happened here. I know they’re waiting for us in the marketplace."
+
+  - os: "Exeunt"
+    ms: "All exit."

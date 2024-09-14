@@ -1,0 +1,327 @@
+play: Henry IV, Part I
+title: Act 4, Scene 1
+group: 4
+order: 10
+text:
+  - os: "Enter HOTSPUR, WORCESTER, and DOUGLAS"
+    ms: "HOTSPUR, WORCESTER , and DOUGLAS enter."
+
+  - sp: HOTSPUR
+    o:
+      - "Well said, my noble Scot. If speaking truth"
+      - "In this fine age were not thought flattery,"
+      - "Such attribution should the Douglas have"
+      - "As not a soldier of this season’s stamp"
+      - "Should go so general current through the world."
+      - "By God, I cannot flatter. I do defy"
+      - "The tongues of soothers. But a braver place"
+      - "In my heart’s love hath no man than yourself."
+      - "Nay, task me to my word; approve me, lord."
+    m:
+      - "Well said, you excellent Scotsman. If people these days didn’t confuse the truth with flattery, I would praise you highly. No other soldier so newly tested in battle would have gained such a widespread reputation. God knows, I don’t flatter: I hate people who give out praise too easily. But you have a place in my heart that no other man has. Make me prove it; try me."
+
+  - sp: DOUGLAS
+    o:
+      - "Thou art the king of honor."
+      - "No man so potent breathes upon the ground"
+      - "But I will beard him."
+    m:
+      - "You are the most honorable man alive, and if any man challenges that—no matter how powerful—I’ll defy him."
+
+  - sp: HOTSPUR
+    o:
+      - "  Do so, and ’tis well."
+    m:
+      - "You do that. Well done."
+
+  - os: "Enter a MESSENGER with letters"
+    ms: "A MESSENGER enters with letters."
+
+  - o:
+      - "What letters hast thou there? *(to DOUGLAS)* I can but thank you."
+    m:
+      - "What letters have you got there? *(to DOUGLAS)* All I can do is thank you."
+
+  - sp: MESSENGER
+    o:
+      - "These letters come from your father."
+    m:
+      - "These letters come from your father."
+
+  - sp: HOTSPUR
+    o:
+      - "Letters from him! Why comes he not himself?"
+    m:
+      - "Letters from him? Why isn’t he here in person?"
+
+  - sp: MESSENGER
+    o:
+      - "He cannot come, my lord. He is grievous sick."
+    m:
+      - "He can’t come, my lord; he’s terribly sick."
+
+  - sp: HOTSPUR
+    o:
+      - "Zounds, how has he the leisure to be sick"
+      - "In such a justling time? Who leads his power?"
+      - "Under whose government come they along?"
+    m:
+      - "Damn! How can he take the leisure of being sick at such a frantic time? Who’s in charge of his army? Who’s leading them here?"
+
+  - sp: MESSENGER
+    o:
+      - "His letters bear his mind, not I, my lord."
+    m:
+      - "His letters will tell you his plans, my lord, not I."
+
+  - sp: WORCESTER
+    o:
+      - "I prithee, tell me, doth he keep his bed?"
+    m:
+      - "Pardon me, but is he bedridden?"
+
+  - sp: MESSENGER
+    o:
+      - "He did, my lord, four days ere I set forth,"
+      - "And, at the time of my departure thence,"
+      - "He was much feared by his physicians."
+    m:
+      - "He had been, sir, for four days before I left. And on the day I left, his doctors were extremely concerned."
+
+  - sp: WORCESTER
+    o:
+      - "I would the state of time had first been whole"
+      - "Ere he by sickness had been visited."
+      - "His health was never better worth than now."
+    m:
+      - "I wish he’d waited till things were settled before he went and got sick. We’ve never needed him more than now."
+
+  - sp: HOTSPUR
+    o:
+      - "Sick now? Droop now? This sickness doth infect"
+      - "The very lifeblood of our enterprise."
+      - "’Tis catching hither, even to our camp."
+      - "He writes me here that inward sickness—"
+      - "And that his friends by deputation"
+      - "Could not so soon be drawn, nor did he think it meet"
+      - "To lay so dangerous and dear a trust"
+      - "On any soul removed but on his own;"
+      - "Yet doth he give us bold advertisement"
+      - "That with our small conjunction we should on"
+      - "To see how fortune is disposed to us,"
+      - "For, as he writes, there is no quailing now,"
+      - "Because the King is certainly possessed"
+      - "Of all our purposes. What say you to it?"
+    m:
+      - "Sick now? Faint now? His disease is infecting our entire project. It’s spread all the way to here, right to our camp. He writes that some internal illness—and that his allies couldn’t be gathered so quickly by one of his deputies. Besides, he didn’t think it was appropriate to delegate such a dangerous and important task to someone other than himself. But he also says that we should be bold and press on with our small contingent. For, as he writes, there’s no turning back now, since the King surely knows our plans. What do you think?"
+
+  - sp: WORCESTER
+    o:
+      - "Your father’s sickness is a maim to us."
+    m:
+      - "Your father’s sickness is a serious injury to us."
+
+  - sp: HOTSPUR
+    o:
+      - "A perilous gash, a very limb lopped off!"
+      - "And yet, in faith, it is not. His present want"
+      - "Seems more than we shall find it. Were it good"
+      - "To set the exact wealth of all our states"
+      - "All at one cast? To set so rich a main"
+      - "On the nice hazard of one doubtful hour?"
+      - "It were not good, for therein should we read"
+      - "The very bottom and the soul of hope,"
+      - "The very list, the very utmost bound"
+      - "Of all our fortunes."
+    m:
+      - "It’s a perilous wound, like losing a limb. And yet, truly, it’s not that bad; the loss of my father seems worse than it is. After all, is it a good idea to bet all our resources on one throw of the dice? Or to gamble such a rich stake on a single hazardous event? No, because that would mean we had reached the end of our hope, and the very limit of our luck."
+
+  - sp: DOUGLAS
+    o:
+      - "Faith, and so we should, where now remains"
+      - "A sweet reversion. We may boldly spend"
+      - "Upon the hope of what is to come in."
+      - "A comfort of retirement lives in this."
+    m:
+      - "That’s right. We have a chance at a rich inheritance; we can take a risk now, based on the promise of success to come. That gives us comfort, something to fall back on."
+
+  - sp: HOTSPUR
+    o:
+      - "A rendezvous, a home to fly unto,"
+      - "If that the devil and mischance look big"
+      - "Upon the maidenhead of our affairs."
+    m:
+      - "It gives us a refuge, a home we can always run to, in case the devil or misfortune ruins these early plans."
+
+  - sp: WORCESTER
+    o:
+      - "But yet I would your father had been here."
+      - "The quality and hair of our attempt"
+      - "Brooks no division. It will be thought"
+      - "By some that know not why he is away"
+      - "That wisdom, loyalty, and mere dislike"
+      - "Of our proceedings kept the Earl from hence."
+      - "And think how such an apprehension"
+      - "May turn the tide of fearful faction"
+      - "And breed a kind of question in our cause."
+      - "For well you know, we of the off’ring side"
+      - "Must keep aloof from strict arbitrament,"
+      - "And stop all sight-holes, every loop from whence"
+      - "The eye of reason may pry in upon us."
+      - "This absence of your father’s draws a curtain"
+      - "That shows the ignorant a kind of fear"
+      - "Before not dreamt of."
+    m:
+      - "I still wish your father were here. Our endeavor here won’t withstand any division. People who don’t realize your father is sick will assume that he knows some kind of secret, or that he is loyal to the King, or that he doesn’t approve of how we’re handling things. And just imagine how that kind of mistrust could frighten our more timid supporters, and lead them to doubt us. You know very well that the challenger must always avoid careful examination. We must seal every crack, every loophole, which skeptics might look through to see weaknesses. Your father’s absence draws the curtains back and reveals frightful things to ignorant people, who had never had a reason to fear before."
+
+  - sp: HOTSPUR
+    o:
+      - "  You strain too far."
+      - "I rather of his absence make this use:"
+      - "It lends a luster and more great opinion,"
+      - "A larger dare, to our great enterprise"
+      - "Than if the Earl were here, for men must think"
+      - "If we without his help can make a head"
+      - "To push against a kingdom, with his help"
+      - "We shall o’erturn it topsy-turvy down."
+      - "Yet all goes well, yet all our joints are whole."
+    m:
+      - "You’re taking this too far. I’d rather think about his absence this way: it makes us look even better. It makes our great undertaking seem even more daring than it would if Northumberland were here. People will think that if we can raise an army against the King without my father, that once he joins we’ll turn the whole kingdom upside down. Everything is fine, we’re all in one piece."
+
+  - sp: DOUGLAS
+    o:
+      - "As heart can think. There is not such a word"
+      - "Spoke of in Scotland as this term of fear."
+    m:
+      - "We’re as well off as we could have hoped. In Scotland, we don’t even know the meaning of the word fear."
+
+  - os: "Enter Sir Richard VERNON"
+    ms: "Sir Richard VERNON enters"
+
+  - sp: HOTSPUR
+    o:
+      - "My cousin Vernon, welcome, by my soul."
+    m:
+      - "Welcome, kinsman Vernon, from the bottom of my heart."
+
+  - sp: VERNON
+    o:
+      - "Pray God my news be worth a welcome, lord."
+      - "The Earl of Westmoreland, seven thousand strong,"
+      - "Is marching hitherwards, with him Prince John."
+    m:
+      - "I pray to God that what I have to say is worth welcoming, my lord. The Earl of Westmoreland, with seven thousand men, is marching this way. Prince John is with him."
+
+  - sp: HOTSPUR
+    o:
+      - "No harm, what more?"
+    m:
+      - "Nothing to be worried about. What else?"
+
+  - sp: VERNON
+    o:
+      - "  And further I have learned,"
+      - "The King himself in person is set forth,"
+      - "Or hitherwards intended speedily,"
+      - "With strong and mighty preparation."
+    m:
+      - "I’ve also learned that the King himself is coming this way, or at least plans to very soon, with a huge and powerful force."
+
+  - sp: HOTSPUR
+    o:
+      - "He shall be welcome too. Where is his son,"
+      - "The nimble-footed madcap Prince of Wales,"
+      - "And his comrades, that daffed the world aside"
+      - "And bid it pass?"
+    m:
+      - "We’ll welcome him too. Where’s his son, that sporting, foolhardy Prince of Wales, and his comrades, who don’t care about anything?"
+
+  - sp: VERNON
+    o:
+      - "  All furnished, all in arms,"
+      - "All plumed like estridges that with the wind"
+      - "Baited like eagles having lately bathed,"
+      - "Glittering in golden coats like images,"
+      - "As full of spirit as the month of May,"
+      - "And gorgeous as the sun at midsummer,"
+      - "Wanton as youthful goats, wild as young bulls."
+      - "I saw young Harry with his beaver on,"
+      - "His cuisses on his thighs, gallantly armed"
+      - "Rise from the ground like feathered Mercury"
+      - "And vaulted with such ease into his seat"
+      - "As if an angel dropped down from the clouds,"
+      - "To turn and wind a fiery Pegasus"
+      - "And witch the world with noble horsemanship."
+    m:
+      - "They’re all in uniform, all armed. They look like feathered ostriches; like eagles beating their wings after a bath; like statues painted gold. They’re as lively as the springtime; as gorgeous as the midsummer sun; as giddy as young goats; as wild as young bulls. I saw young Harry with his helmet on, and armor on his thighs. Armed with powerful weapons, he rose off the ground like the winged god Mercury, and leaped so effortlessly into his saddle, it was as if an angel had dropped out of the sky to ride a fiery Pegasus, and bewitch the world with his incredible horsemanship."
+
+  - sp: HOTSPUR
+    o:
+      - "No more, no more! Worse than the sun in March"
+      - "This praise doth nourish agues. Let them come."
+      - "They come like sacrifices in their trim,"
+      - "And to the fire-eyed maid of smoky war"
+      - "All hot and bleeding will we offer them."
+      - "The mailèd Mars shall on his altar sit"
+      - "Up to the ears in blood. I am on fire"
+      - "To hear this rich reprisal is so nigh"
+      - "And yet not ours. Come, let me taste my horse,"
+      - "Who is to bear me like a thunderbolt"
+      - "Against the bosom of the Prince of Wales."
+      - "Harry to Harry shall, hot horse to horse,"
+      - "Meet and ne’er part till one drop down a corse."
+      - "O, that Glendower were come!"
+    m:
+      - "Stop, stop! This praise of him makes me sicker than the sun on an early spring day. Let them come, like sacrifices in all their finery; we’ll offer them, hot and bleeding, to the fire-eyed goddess of smoky war. The war-god Mars will sit on his altar, up to his ears in blood. I am on fire, knowing that this rich prize is so near, and yet still not ours. Come, bring me my horse, who will carry me like a lightning bolt to face the Prince of Wales. Then this Harry will meet that Harry, my horse against his horse; we’ll meet and never separate, till one of us falls down as a corpse. Oh, I wish that Glendower were here!"
+
+  - sp: VERNON
+    o:
+      - "  There is more news."
+      - "I learned in Worcester, as I rode along,"
+      - "He cannot draw his power this fourteen days."
+    m:
+      - "I have more news: as I passed through the town of Worcester, I heard that Glendower won’t be able to collect his army for two more weeks."
+
+  - sp: DOUGLAS
+    o:
+      - "That’s the worst tidings that I hear of yet."
+    m:
+      - "That’s the worst news I’ve heard so far."
+
+  - sp: WORCESTER
+    o:
+      - "Ay, by my faith, that bears a frosty sound."
+    m:
+      - "Yes, truly, that news makes me cold."
+
+  - sp: HOTSPUR
+    o:
+      - "What may the King’s whole battle reach unto?"
+    m:
+      - "How many men in the King’s army?"
+
+  - sp: VERNON
+    o:
+      - "To thirty thousand."
+    m:
+      - "Thirty thousand."
+
+  - sp: HOTSPUR
+    o:
+      - "  Forty let it be."
+      - "My father and Glendower being both away,"
+      - "The powers of us may serve so great a day."
+      - "Come, let us take a muster speedily."
+      - "Doomsday is near. Die all, die merrily."
+    m:
+      - "Let it be forty. Even with both my father and Glendower absent, our armies may still be enough to win. Come on, let’s gather our troops right now. It’s almost doomsday; if we die, we die cheerfully."
+
+  - sp: DOUGLAS
+    o:
+      - "Talk not of dying. I am out of fear"
+      - "Of death or death’s hand for this one half year."
+    m:
+      - "Don’t talk about dying. I won’t even worry about dying for the next six months."
+
+  - os: "Exeunt"
+    ms: "They exit."

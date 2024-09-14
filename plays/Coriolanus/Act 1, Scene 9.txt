@@ -1,0 +1,229 @@
+play: Coriolanus
+title: Act 1, Scene 9
+group: 1
+order: 8
+text:
+  - os: "The Roman camp."
+    ms: "The Roman camp."
+
+  - os: "Flourish. Alarum. A retreat is sounded. Flourish. Enter, from one side, COMINIUS with the Romans; from the other side, MARTIUS, with his arm in a scarf"
+    ms: "Trumpets blast to announce Roman victory. A retreat signal is also sounded. COMINIUS and the Romans enter from one side. MARTIUS, with his arm in a sling, enters from the other side."
+
+  - sp: COMINIUS
+    o:
+      - "If I should tell thee o’er this thy day’s work,"
+      - "Thou’ldst not believe thy deeds: but I’ll report it"
+      - "Where senators shall mingle tears with smiles,"
+      - "Where great patricians shall attend and shrug,"
+      - "I’ the end admire, where ladies shall be frighted,"
+      - "And, gladly quaked, hear more; where the"
+      - "dull tribunes,"
+      - "That, with the fusty plebeians, hate thine honours,"
+      - "Shall say against their hearts “We thank the gods"
+      - "Our Rome hath such a soldier.”"
+      - "Yet camest thou to a morsel of this feast,"
+      - "Having fully dined before."
+    m:
+      - "If I told you about all you did today, you wouldn’t believe it. But when I tell the senators, they’ll both cry and smile. Great noblemen will pause, shrug their shoulders in bewilderment, and wonder. Ladies will be frightened, happily frightened, and ask to hear more. The somber tribunes, who along with the moldy peasants hate it when you triumph, will say under their breath: “We thank the gods that Rome has a soldier like you.” But for you this victory was only like a small bite, since you had already had a feast of victory before."
+
+  - os: "Enter TITUS LARTIUS, with his power, from the pursuit"
+    ms: "TITUS LARTIUS, with his army, enters, returning from the pursuit."
+
+  - sp: LARTIUS
+    o:
+      - "O general,"
+      - "Here is the steed, we the caparison:"
+      - "Hadst thou beheld—"
+    m:
+      - "Oh, general, Martius was like the horse, and we were only along for the ride. If you had seen—"
+
+  - sp: MARTIUS
+    o:
+      - "Pray now, no more: my mother,"
+      - "Who has a charter to extol her blood,"
+      - "When she does praise me grieves me. I have done"
+      - "As you have done; that’s what I can; induced"
+      - "As you have been; that’s for my country:"
+      - "He that has but effected his good will"
+      - "Hath overta’en mine act."
+    m:
+      - "Please, say no more. My mother, who has a right to praise me since I am her son, irritates me when she does so. I’ve done what you’ve done: I’ve done the best I can.  I was trained as you were: to serve my country. Whoever who has done what he intended to do has accomplished more than I have."
+
+  - sp: COMINIUS
+    o:
+      - "You shall not be"
+      - "The grave of your deserving; Rome must know"
+      - "The value of her own: ’twere a concealment"
+      - "Worse than a theft, no less than a traducement,"
+      - "To hide your doings; and to silence that,"
+      - "Which, to the spire and top of praises vouch’d,"
+      - "Would seem but modest: therefore, I beseech you"
+      - "In sign of what you are, not to reward"
+      - "What you have done—before our army hear me."
+    m:
+      - "Don’t dismiss the praise you deserve. Rome must know your value as her soldier. To conceal your achievements would be worse than stealing, and not less than slander, because for what you have done, no matter how highly we praise you, it will never be sufficient. So I ask you—in recognition of your importance to Rome, not to boast of your achievements—let me address you in front of our army."
+
+  - sp: MARTIUS
+    o:
+      - "I have some wounds upon me, and they smart"
+      - "To hear themselves remember’d."
+    m:
+      - "I’m wounded, and my wounds hurt when they hear how I got them."
+
+  - sp: COMINIUS
+    o:
+      - "Should they not,"
+      - "Well might they fester ’gainst ingratitude,"
+      - "And tent themselves with death. Of all the horses,"
+      - "Whereof we have ta’en good and good store, of all"
+      - "The treasure in this field achieved and city,"
+      - "We render you the tenth, to be ta’en forth,"
+      - "Before the common distribution, at"
+      - "Your only choice."
+    m:
+      - "If your wounds don’t hear, they might think we’re ungrateful, become infected, and cause your death. Of all the many good horses we’ve taken from the enemy and of all the treasures we’ve won in the battlefield and in the city, we’ll give you one tenth to take now, before the rest is divided among us. Take whatever you choose."
+
+  - sp: MARTIUS
+    o:
+      - "I thank you, general;"
+      - "But cannot make my heart consent to take"
+      - "A bribe to pay my sword: I do refuse it;"
+      - "And stand upon my common part with those"
+      - "That have beheld the doing."
+    m:
+      - "Thank you, general, but my heart won’t to take a bribe to pay my sword. I refuse to stand there and listen to my deeds be told to those who saw me do them."
+
+  - os: "A long flourish. They all cry “Martius! Martius!” cast up their caps and lances: COMINIUS and LARTIUS stand bare"
+    ms: "A long trumpet blast is heard. They all cry “Martius! Martius!” and throw their caps and lances into the air. COMINIUS and LARTIUS stand respectfully without their hats."
+
+  - sp: MARTIUS
+    o:
+      - "May these same instruments, which you profane,"
+      - "Never sound more! when drums and trumpets shall"
+      - "I’ the field prove flatterers, let courts and cities be"
+      - "Made all of false-faced soothing!"
+      - "When steel grows soft as the parasite’s silk,"
+      - "Let him be made a coverture for the wars!"
+      - "No more, I say! For that I have not wash’d"
+      - "My nose that bled, or foil’d some debile wretch.—"
+      - "Which, without note, here’s many else have done,—"
+      - "You shout me forth"
+      - "In acclamations hyperbolical;"
+      - "As if I loved my little should be dieted"
+      - "In praises sauced with lies."
+    m:
+      - "May these instruments, which you play in the wrong moment, never make a sound again! If drums and trumpets could flatter the enemy into submission in battle, then we should build our courts and cities on their false praise! When steel grows soft as the diplomat’s silk, let us make an army of diplomats! Stop all this flattery! Because I haven’t washed my bloody nose or because I triumphed over some weakling—which, you fail to note, many others have done, too—you praise me in overstated terms, as if I enjoyed having my small achievements puffed up with exaggerations."
+
+  - sp: COMINIUS
+    o:
+      - "Too modest are you;"
+      - "More cruel to your good report than grateful"
+      - "To us that give you truly: by your patience,"
+      - "If ’gainst yourself you be incensed, we’ll put you,"
+      - "Like one that means his proper harm, in manacles,"
+      - "Then reason safely with you. Therefore, be it known,"
+      - "As to us, to all the world, that Caius Martius"
+      - "Wears this war’s garland: in token of the which,"
+      - "My noble steed, known to the camp, I give him,"
+      - "With all his trim belonging; and from this time,"
+      - "For what he did before Corioli, call him,"
+      - "With all the applause and clamour of the host,"
+      - "CAIUS MARTIUS CORIOLANUS! Bear"
+      - "The addition nobly ever!"
+    m:
+      - "You’re too modest. You express more resentment about the praise we offer than you express gratitude for our true account of your service. Allow me to suggest that if you’re going to get upset, we’ll tie you up as we would someone suicidal and then reason with you. It must be known, not only to us but to all the world, that Caius Martius is the hero of this war. So I give you my magnificent horse, whose value is known to our men, and all his equipment. And from this time on, in honor of what you did in Corioles, you will be called, with all the applause and clamor you deserve, Caius Martius Coriolanus! Use this additional title nobly, always!"
+
+  - os: "Flourish. Trumpets sound, and drums"
+    ms: "Trumpets sound and drums pound."
+
+  - sp: ALL
+    o:
+      - "Caius Martius Coriolanus!"
+    m:
+      - "Caius Martius Coriolanus!"
+
+  - sp: CORIOLANUS
+    o:
+      - "I will go wash;"
+      - "And when my face is fair, you shall perceive"
+      - "Whether I blush or no: howbeit, I thank you."
+      - "I mean to stride your steed, and at all times"
+      - "To undercrest your good addition"
+      - "To the fairness of my power."
+    m:
+      - "I’ll go wash and when my face is clean, you’ll see whether or not I’m blushing. Thank you for this honor. I’ll ride your horse and try always to live up to this noble title you have given me."
+
+  - sp: COMINIUS
+    o:
+      - "So, to our tent;"
+      - "Where, ere we do repose us, we will write"
+      - "To Rome of our success. You, Titus Lartius,"
+      - "Must to Corioli back: send us to Rome"
+      - "The best, with whom we may articulate,"
+      - "For their own good and ours."
+    m:
+      - "Let’s go to our tent. Before we rest, we’ll write to Rome of our success. You, Titus Lartius, must go back to Corioles. Send us the best citizen of Corioles with whom we may negotiate a treaty, one that is fair to them and to us."
+
+  - sp: LARTIUS
+    o:
+      - "I shall, my lord."
+    m:
+      - "I will, my lord."
+
+  - sp: CORIOLANUS
+    o:
+      - "The gods begin to mock me. I, that now"
+      - "Refused most princely gifts, am bound to beg"
+      - "Of my lord general."
+    m:
+      - "The gods begin to mock me. I, who just refused amazing gifts, must now beg something of you, my lord general."
+
+  - sp: COMINIUS
+    o:
+      - "Take’t; ’tis yours. What is’t?"
+    m:
+      - "Whatever you want is yours. What is it?"
+
+  - sp: CORIOLANUS
+    o:
+      - "I sometime lay here in Corioli"
+      - "At a poor man’s house; he used me kindly:"
+      - "He cried to me; I saw him prisoner;"
+      - "But then Aufidius was with in my view,"
+      - "And wrath o’erwhelm’d my pity: I request you"
+      - "To give my poor host freedom."
+    m:
+      - "When I was in Corioles, I stayed for some time in a poor man’s house. He treated me kindly, and now he’s a prisoner. He cried out for my help, but I was focused on Aufidius, and anger overwhelmed my pity. I request that you free my poor host."
+
+  - sp: COMINIUS
+    o:
+      - "O, well begg’d!"
+      - "Were he the butcher of my son, he should"
+      - "Be free as is the wind. Deliver him, Titus."
+    m:
+      - "You’re persuasive! Even if he were the butcher of my son, he’d be as free as the wind. Release him, Titus."
+
+  - sp: LARTIUS
+    o:
+      - "Martius, his name?"
+    m:
+      - "Martius, his name?"
+
+  - sp: CORIOLANUS
+    o:
+      - "By Jupiter! forgot."
+      - "I am weary; yea, my memory is tired."
+      - "Have we no wine here?"
+    m:
+      - "By Jupiter! I’ve forgotten. I’m worn out and my memory is tired. Do we have any wine here?"
+
+  - sp: COMINIUS
+    o:
+      - "Go we to our tent:"
+      - "The blood upon your visage dries; ’tis time"
+      - "It should be look’d to: come."
+    m:
+      - "Let’s go our tent. The blood on your face is drying. It’s time you were looked at. Come."
+
+  - os: "Exeunt"
+    ms: "All exit."

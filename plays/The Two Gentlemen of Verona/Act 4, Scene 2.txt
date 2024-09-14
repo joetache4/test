@@ -1,0 +1,504 @@
+play: Two Gentlemen of Verona
+title: Act 4, Scene 2
+group: 4
+order: 13
+text:
+  - os: "Enter PROTEUS"
+    ms: "PROTEUS enters."
+
+  - sp: PROTEUS
+    o:
+      - "Already have I been false to Valentine,"
+      - "And now I must be as unjust to Thurio."
+      - "Under the color of commending him,"
+      - "I have access my own love to prefer."
+      - "But Sylvia is too fair, too true, too holy"
+      - "To be corrupted with my worthless gifts."
+      - "When I protest true loyalty to her,"
+      - "She twits me with my falsehood to my friend."
+      - "When to her beauty I commend my vows,"
+      - "She bids me think how I have been forsworn"
+      - "In breaking faith with Julia, whom I loved."
+      - "And notwithstanding all her sudden quips,"
+      - "The least whereof would quell a lover’s hope,"
+      - "Yet, spaniel-like, the more she spurns my love,"
+      - "The more it grows and fawneth on her still."
+      - "But here comes Thurio. Now must we to her window"
+      - "And give some evening music to her ear."
+    m:
+      - "I’ve already had to lie to Valentine, and now I must be just as unfair to Thurio. Under the guise of praising him, I now have the ability to express my own feelings of love to Sylvia. But Sylvia is too beautiful, too faithful, too holy to be corrupted by my worthless praises. When I declare my loyalty to her, she criticizes me for being false to my friend, Valentine. When I praise her beauty, she tells me to think about how I’ve been unfaithful to Julia, whom I once loved. And yet, despite all of her scolding, the least of which could kill a lover’s hopes, my love grows and fawns on her like a dog the more she spurns it. But here comes Thurio. Now we must go to her window and play some evening music for her to hear."
+
+  - os: "Enter THURIO and Musicians"
+    ms: "THURIO and musicians enter."
+
+  - sp: THURIO
+    o:
+      - "How now, Sir Proteus, are you crept before us?"
+    m:
+      - "How’s it going, Sir Proteus? Did you creep over here before us?"
+
+  - sp: PROTEUS
+    o:
+      - "Ay, gentle Thurio, for you know that love"
+      - "Will creep in service where it cannot go."
+    m:
+      - "Yes, kind Thurio, because you know that love has to creep where it isn’t allowed to walk."
+
+  - sp: THURIO
+    o:
+      - "Ay, but I hope, sir, that you love not here."
+    m:
+      - "Yes, but I hope, sir, that you aren’t in love in this situation."
+
+  - sp: PROTEUS
+    o:
+      - "Sir, but I do, or else I would be hence."
+    m:
+      - "But I am, or else I wouldn’t be here."
+
+  - sp: THURIO
+    o:
+      - "Who? Sylvia?"
+    m:
+      - "Who are you in love with? Sylvia?"
+
+  - sp: PROTEUS
+    o:
+      - "Ay, Sylvia—for your sake."
+    m:
+      - "Yes, Sylvia—for your sake."
+
+  - sp: THURIO
+    o:
+      - "I thank you for your own.—Now, gentlemen,"
+      - "Let’s tune, and to it lustily awhile."
+    m:
+      - "I thank you for your own sake. Now, gentlemen, let’s start playing, and be sure to give it all you’ve got."
+
+  - os: "Enter, at a distance, HOST, and JULIA disguised as a page. They talk apart."
+    ms: "The Host and JULIA enter at a distance. JULIA is disguised as a page, and they talk apart from the others."
+
+  - sp: HOST
+    o:
+      - "Now, my young guest, methinks you’re allycholly. I pray you, why is it?"
+    m:
+      - "Now, my young guest, it seems to me you feel melancholy. Please tell me, why is it?"
+
+  - sp: JULIA
+    o:
+      - "Marry, mine Host, because I cannot be merry."
+    m:
+      - "In fact, my host, it’s because I cannot be happy."
+
+  - sp: HOST
+    o:
+      - "Come, we’ll have you merry. I’ll bring you where you shall hear music and see the gentleman that you asked for."
+    m:
+      - "Come, we’ll make you happy. I’ll take you where you shall hear music and see the gentleman that you asked for."
+
+  - sp: JULIA
+    o:
+      - "But shall I hear him speak?"
+    m:
+      - "But will I hear him speak?"
+
+  - sp: HOST
+    o:
+      - "Ay, that you shall."
+    m:
+      - "Yes, you will."
+
+  - sp: JULIA
+    o:
+      - "That will be music."
+    m:
+      - "That’s music that I hear."
+
+  - os: "Music plays."
+    ms: "Music plays."
+
+  - sp: HOST
+    o:
+      - "Hark! hark!"
+    m:
+      - "Listen! Listen!"
+
+  - sp: JULIA
+    o:
+      - "Is he among these?"
+    m:
+      - "Is he among these musicians?"
+
+  - sp: HOST
+    o:
+      - "Ay, but peace! Let’s hear ’em."
+    m:
+      - "Yes, but be quiet! Let’s listen to them."
+
+  - os: "Song"
+    ms: "Song"
+
+  - sp: MUSICIAN
+    o:
+      - "Who is Sylvia? What is she,"
+      - "That all our swains commend her?"
+      - "Holy, fair, and wise is she;"
+      - "The heaven such grace did lend her,"
+      - "That she might admirèd be."
+      - "Is she kind as she is fair?"
+      - "For beauty lives with kindness."
+      - "Love doth to her eyes repair"
+      - "To help him of his blindness,"
+      - "And, being helped, inhabits there."
+      - "Then to Sylvia let us sing,"
+      - "That Sylvia is excelling."
+      - "She excels each mortal thing"
+      - "Upon the dull earth dwelling."
+      - "To her let us garlands bring."
+    m:
+      - "Who is Sylvia? What is she like,"
+      - "That all our young men praise her?"
+      - "She is holy and fair and wise;"
+      - "And Heaven has lent her such grace"
+      - "So that she may be admired."
+      - "Is she as kind as she is beautiful?"
+      - "Because beauty and kindness are joined."
+      - "Cupid makes visits to her eyes"
+      - "To cure him of his blindness,"
+      - "And, being cured, he stays there to live."
+      - "Then let us sing to Sylvia,"
+      - "That Sylvia is superior."
+      - "She surpasses every mortal thing"
+      - "That lives on this dull earth."
+      - "Let us bring her flower garlands."
+
+  - sp: HOST
+    o:
+      - "How now? Are you sadder than you were before? How do you, man? The music likes you not."
+    m:
+      - "What’s this? Are you sadder than you were before? What’s going on, man? You don’t like the music?"
+
+  - sp: JULIA
+    o:
+      - "You mistake; the musician likes me not."
+    m:
+      - "You’re mistaken. The musician doesn’t like me."
+
+  - sp: HOST
+    o:
+      - "Why, my pretty youth?"
+    m:
+      - "Why, my young friend?"
+
+  - sp: JULIA
+    o:
+      - "He plays false, father."
+    m:
+      - "He is being false, sir."
+
+  - sp: HOST
+    o:
+      - "How? Out of tune on the strings?"
+    m:
+      - "How so? Are his instrument’s strings out of tune?"
+
+  - sp: JULIA
+    o:
+      - "Not so, but yet so false that he grieves my very heartstrings."
+    m:
+      - "No, but he’s being so false that it hurts my very heartstrings."
+
+  - sp: HOST
+    o:
+      - "You have a quick ear."
+    m:
+      - "You have a good ear."
+
+  - sp: JULIA
+    o:
+      - "Ay, I would I were deaf; it makes me have a slow heart."
+    m:
+      - "Yes, but I wish I were deaf. It makes my heart sad."
+
+  - sp: HOST
+    o:
+      - "I perceive you delight not in music."
+    m:
+      - "I see you don’t enjoy listening to music."
+
+  - sp: JULIA
+    o:
+      - "Not a whit, when it jars so."
+    m:
+      - "Not at all, when it sounds so awful."
+
+  - sp: HOST
+    o:
+      - "Hark, what fine change is in the music!"
+    m:
+      - "Listen, how they change their tune!"
+
+  - sp: JULIA
+    o:
+      - "Ay, that change is the spite."
+    m:
+      - "Yes, that “change” is the problem."
+
+  - sp: HOST
+    o:
+      - "You would have them always play but one thing?"
+    m:
+      - "Would you prefer that they always play just one thing?"
+
+  - sp: JULIA
+    o:
+      - "I would always have one play but one thing. But, Host, doth this Sir Proteus that we talk on often resort unto this gentlewoman?"
+    m:
+      - "I would always have one of them play only one song. But, host, does this Sir Proteus we’re talking about often go to this lady?"
+
+  - sp: HOST
+    o:
+      - "I tell you what Lance, his man, told me: he loved her out of all nick."
+    m:
+      - "I’ll tell you what Lance, his servant, told me: he loved her more than anything."
+
+  - sp: JULIA
+    o:
+      - "Where is Lance?"
+    m:
+      - "Where is Lance?"
+
+  - sp: HOST
+    o:
+      - "Gone to seek his dog, which tomorrow, by his master’s command, he must carry for a present to his lady."
+    m:
+      - "Gone to find his dog, which he must deliver as a present to Sylvia tomorrow upon his master’s command."
+
+  - sp: JULIA
+    o:
+      - "Peace! Stand aside. The company parts."
+    m:
+      - "Quiet! Step aside. The musicians are leaving."
+
+  - os: "JULIA and the HOST stand aside."
+    ms: "Julia and the Host stand aside."
+
+  - sp: PROTEUS
+    o:
+      - "Sir Thurio, fear not you. I will so plead"
+      - "That you shall say my cunning drift excels."
+    m:
+      - "Sir Thurio, don’t worry. I will plead to Sylvia so effectively that you’ll say my cunning scheme is excellent."
+
+  - sp: THURIO
+    o:
+      - "Where meet we?"
+    m:
+      - "Where will we meet?"
+
+  - sp: PROTEUS
+    o:
+      - "At Saint Gregory’s well."
+    m:
+      - "At Saint Gregory’s well."
+
+  - sp: THURIO
+    o:
+      - "Farewell."
+    m:
+      - "Farewell."
+
+  - os: "Exeunt THURIO and Musicians"
+    ms: "THURIO and the musicians exit."
+
+  - os: "Enter SYLVIA above, at her window"
+    ms: "SYLVIA enters above, at her window."
+
+  - sp: PROTEUS
+    o:
+      - "Madam, good even to your ladyship."
+    m:
+      - "Madame, good evening to your ladyship."
+
+  - sp: SYLVIA
+    o:
+      - "I thank you for your music, gentlemen."
+      - "Who is that that spake?"
+    m:
+      - "I thank you for your music, sir. Who is that who spoke?"
+
+  - sp: PROTEUS
+    o:
+      - "One, lady, if you knew his pure heart’s truth,"
+      - "You would quickly learn to know him by his voice."
+    m:
+      - "Someone, lady, whom you would quickly learn to recognize by his voice if you knew how he truly felt."
+
+  - sp: SYLVIA
+    o:
+      - "Sir Proteus, as I take it."
+    m:
+      - "Sir Proteus, I take it."
+
+  - sp: PROTEUS
+    o:
+      - "Sir Proteus, gentle lady, and your servant."
+    m:
+      - "Sir Proteus, gentle lady, and also your servant."
+
+  - sp: SYLVIA
+    o:
+      - "What’s your will?"
+    m:
+      - "What do you want?"
+
+  - sp: PROTEUS
+    o:
+      - "That I may compass yours."
+    m:
+      - "For you to want me."
+
+  - sp: SYLVIA
+    o:
+      - "You have your wish. My will is even this:"
+      - "That presently you hie you home to bed."
+      - "Thou subtle, perjured, false, disloyal man!"
+      - "Think’st thou I am so shallow, so conceitless,"
+      - "To be seducèd by thy flattery,"
+      - "That hast deceived so many with thy vows?"
+      - "Return, return, and make thy love amends."
+      - "For me, by this pale queen of night I swear,"
+      - "I am so far from granting thy request"
+      - "That I despise thee for thy wrongful suit,"
+      - "And by and by intend to chide myself"
+      - "Even for this time I spend in talking to thee."
+    m:
+      - "Then you have your wish. I want this of you: that you take yourself home to bed. You sly, lying, false, disloyal man! Do you think I’m so shallow, so stupid, that you can seduce me with your flattery when you’ve deceived so many others with your vows? Go back, go back, and apologize to your love. I swear on the moon, I am so far from granting your request that I despise you for your misguided plea. In a moment I intend to scold myself for spending even this much time talking to you."
+
+  - sp: PROTEUS
+    o:
+      - "I grant, sweet love, that I did love a lady,"
+      - "But she is dead."
+    m:
+      - "I admit, sweet love, that I did love a lady. But she is dead."
+
+  - sp: JULIA
+    o:
+      - "*(aside)* ’Twere false, if I should speak it,"
+      - "For I am sure she is not burièd."
+    m:
+      - "*(aside)* That’s false, if I do say so myself, because I’m sure she’s not dead and buried."
+
+  - sp: SYLVIA
+    o:
+      - "Say that she be, yet Valentine, thy friend,"
+      - "Survives, to whom—thyself art witness—"
+      - "I am betrothed. And art thou not ashamed"
+      - "To wrong him with thy importunacy?"
+    m:
+      - "Even if she is dead, Valentine—your friend—is still alive, and you know that I’m betrothed to him. Aren’t you ashamed to wrong him with your disrespect?"
+
+  - sp: PROTEUS
+    o:
+      - "I likewise hear that Valentine is dead."
+    m:
+      - "I also hear that Valentine is dead."
+
+  - sp: SYLVIA
+    o:
+      - "And so suppose am I, for in his grave,"
+      - "Assure thyself, my love is burièd."
+    m:
+      - "Then consider me dead, too, because you can be sure my love is buried with him in his grave."
+
+  - sp: PROTEUS
+    o:
+      - "Sweet lady, let me rake it from the earth."
+    m:
+      - "Sweet lady, let me dig up your love from the earth."
+
+  - sp: SYLVIA
+    o:
+      - "Go to thy lady’s grave and call hers thence."
+      - "Or, at the least, in hers sepulchre thine."
+    m:
+      - "Go to your lady’s grave and dig up her love then. Or at least bury yours in her tomb."
+
+  - sp: JULIA
+    o:
+      - "*(aside)* He heard not that."
+    m:
+      - "*(aside)* He didn’t hear that."
+
+  - sp: PROTEUS
+    o:
+      - "Madam, if your heart be so obdurate,"
+      - "Vouchsafe me yet your picture for my love,"
+      - "The picture that is hanging in your chamber."
+      - "To that I’ll speak, to that I’ll sigh and weep;"
+      - "For, since the substance of your perfect self"
+      - "Is else devoted, I am but a shadow,"
+      - "And to your shadow will I make true love."
+    m:
+      - "Madame, if your heart is so stubborn, at least indulge my love by giving me a portrait of yourself—the picture that is hanging in your bedroom. I’ll speak, sigh, and weep to that. Since you are completely devoted to someone else, I am nothing, and therefore I will love your image and not you."
+
+  - sp: JULIA
+    o:
+      - "*(aside)* If ’twere a substance, you would, sure, deceive it,"
+      - "And make it but a shadow, as I am."
+    m:
+      - "*(aside)* If it were a real woman you would certainly deceive her and make her into nothing, just as I am nothing now."
+
+  - sp: SYLVIA
+    o:
+      - "I am very loath to be your idol, sir."
+      - "But since your falsehood shall become you well"
+      - "To worship shadows and adore false shapes,"
+      - "Send to me in the morning, and I’ll send it."
+      - "And so, good rest."
+    m:
+      - "I don’t want to be your idol, sir. But since it’s appropriate that your deceiving self should worship shadows and adore images rather than the real thing, send your servant to me in the morning, and I’ll send you the portrait. So go on, and good night."
+
+  - sp: PROTEUS
+    o:
+      - "As wretches have o’ernight"
+      - "That wait for execution in the morn."
+    m:
+      - "I’ll have as good a night as the condemned man who awaits execution in the morning."
+
+  - os: "Exeunt PROTEUS and SYLVIA separately"
+    ms: "PROTEUS and SYLVIA exit separately."
+
+  - sp: JULIA
+    o:
+      - "Host, will you go?"
+    m:
+      - "Host, are you leaving?"
+
+  - sp: HOST
+    o:
+      - "By my halidom, I was fast asleep."
+    m:
+      - "My goodness, I was fast asleep."
+
+  - sp: JULIA
+    o:
+      - "Pray you, where lies Sir Proteus?"
+    m:
+      - "Please, where is Sir Proteus staying?"
+
+  - sp: HOST
+    o:
+      - "Marry, at my house. Trust me, I think ’tis almost day."
+    m:
+      - "Why, at my house. Oh my word, I think it’s almost dawn."
+
+  - sp: JULIA
+    o:
+      - "Not so; but it hath been the longest night"
+      - "That e’er I watched, and the most heaviest."
+    m:
+      - "No, it isn’t. It’s been the longest night I’ve ever had, and the saddest."
+
+  - os: "Exeunt"
+    ms: "They exit."

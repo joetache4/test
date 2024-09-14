@@ -1,0 +1,522 @@
+play: Antony and Cleopatra
+title: Act 4, Scene 14
+group: 4
+order: 38
+text:
+  - os: "Enter ANTONY and EROS"
+    ms: "ANTONY and EROS enter."
+
+  - sp: ANTONY
+    o:
+      - "Eros, thou yet behold’st me?"
+    m:
+      - "Eros, can you still see me?"
+
+  - sp: EROS
+    o:
+      - "    Ay, noble lord."
+    m:
+      - "Yes, noble lord."
+
+  - sp: ANTONY
+    o:
+      - "Sometimes we see a cloud that’s dragonish,"
+      - "A vapor sometime like a bear or lion,"
+      - "A towered citadel, a pendant rock,"
+      - "A forkèd mountain, or blue promontory"
+      - "With trees upon ’t that nod unto the world"
+      - "And mock our eyes with air. Thou hast seen these signs."
+      - "They are black vesper’s pageants."
+    m:
+      - "Sometimes we see a cloud that looks like a dragon. Sometimes there’s a cloud like a bear or a lion, a castle, a floating rock, a craggy mountain. Or it might look like a blue cliff with trees on it that bow to the ground. These things fool our eyes by seeming solid, when they are actually only air. You’ve seen these illusions. They’re spectacles that appear at sunset."
+
+  - sp: EROS
+    o:
+      - "    Ay, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: ANTONY
+    o:
+      - "That which is now a horse, even with a thought"
+      - "The rack dislimns and makes it indistinct"
+      - "As water is in water."
+    m:
+      - "What looks like a horse is quick as thought disfigured by the wind, made as difficult to distinguish as water poured into water."
+
+  - sp: EROS
+    o:
+      - "    It does, my lord."
+    m:
+      - "That’s true, my lord."
+
+  - sp: ANTONY
+    o:
+      - "My good knave Eros, now thy captain is"
+      - "Even such a body. Here I am Antony,"
+      - "Yet cannot hold this visible shape, my knave."
+      - "I made these wars for Egypt, and the Queen,"
+      - "Whose heart I thought I had, for she had mine—"
+      - "Which whilst it was mine had annexed unto ’t"
+      - "A million more, now lost—she, Eros, has"
+      - "Packed cards with Caesar and false-played my glory"
+      - "Unto an enemy’s triumph."
+      - "Nay, weep not, gentle Eros. There is left us"
+      - "Ourselves to end ourselves."
+    m:
+      - "Eros, my young friend, your captain is now just like that cloud. Here and now I seem like Antony, but I can’t keep myself in this form, my boy. I went to war to save Cleopatra, whose love I thought I had, since she had mine—and mine carried with it a million others, those of my soldiers, now lost. The Queen conspired with Caesar to undermine my success and assure his victory. No, don’t cry, kind Eros. We still have the option of killing ourselves."
+
+  - os: "Enter MARDIAN"
+    ms: "MARDIAN enters."
+
+  - o:
+      - "    Oh, thy vile lady!"
+      - "She has robbed me of my sword."
+    m:
+      - "Oh, your contemptible lady! She has disarmed me."
+
+  - sp: MARDIAN
+    o:
+      - "    No, Antony,"
+      - "My mistress loved thee, and her fortunes mingled"
+      - "With thine entirely."
+    m:
+      - "No, Antony. My mistress loved you, and her destiny was completely joined with yours."
+
+  - sp: ANTONY
+    o:
+      - "    Hence, saucy eunuch! Peace! She hath betrayed me and shall die the death."
+    m:
+      - "Get out, insolent eunuch! Silence! She has betrayed me and shall die."
+
+  - sp: MARDIAN
+    o:
+      - "Death of one person can be paid but once,"
+      - "And that she has discharged. What thou wouldst do"
+      - "Is done unto thy hand. The last she spake"
+      - "Was “Antony, most noble Antony!”"
+      - "Then in the midst a tearing groan did break"
+      - "The name of Antony. It was divided"
+      - "Between her heart and lips. She rendered life,"
+      - "Thy name so buried in her."
+    m:
+      - "A person can only pay with their life once, and she has paid in full. What you wanted is yours. Her last words were “Antony! Most noble Antony!” Then, as she was speaking your name, a strangled groan split her words. “Antony” was divided between her heart and lips. She gave up her life with your name still within her."
+
+  - sp: ANTONY
+    o:
+      - "    Dead, then?"
+    m:
+      - "Is she dead, then?"
+
+  - sp: MARDIAN
+    o:
+      - "    Dead."
+    m:
+      - "Dead."
+
+  - sp: ANTONY
+    o:
+      - "Unarm, Eros. The long day’s task is done,"
+      - "And we must sleep. *(to MARDIAN)* That thou depart’st hence safe"
+      - "Does pay thy labor richly. Go."
+    m:
+      - "Remove your armor, Eros. The long day’s work is over, and it is time to sleep. *(to MARDIAN)* Permission to leave unharmed is abundant payment for your news. Go!"
+
+  - os: "Exit MARDIAN"
+    ms: "MARDIAN exits."
+
+  - o:
+      - "    Off, pluck off!"
+      - "The sevenfold shield of Ajax cannot keep"
+      - "The battery from my heart. O, cleave, my sides!"
+      - "Heart, once be stronger than thy continent."
+      - "Crack thy frail case!—Apace, Eros, apace."
+      - "No more a soldier. Bruisèd pieces, go."
+      - "You have been nobly borne. *(to EROS)* From me awhile."
+    m:
+      - "Off! Take off my armor. Not even Ajax’s famous shield, made of seven layers of oxhide and covered in bronze, could protect my heart from this attack. Oh, chest, obey me! Heart, for once be stronger than all the rest of the body combined. Break out of my ribcage! Faster, Eros, faster. I won’t be a soldier anymore. Battered armor, be off. You were worn with honor. *(to EROS)* Leave me awhile."
+
+  - os: "Exit EROS"
+    ms: "EROS exits."
+
+  - o:
+      - "I will o’ertake thee, Cleopatra, and"
+      - "Weep for my pardon. So it must be, for now"
+      - "All length is torture. Since the torch is out,"
+      - "Lie down and stray no farther. Now all labor"
+      - "Mars what it does. Yea, very force entangles"
+      - "Itself with strength. Seal then, and all is done.—"
+      - "Eros!—I come, my Queen.—Eros!—Stay for me."
+      - "Where souls do couch on flowers, we’ll hand in hand,"
+      - "And with our sprightly port make the ghosts gaze."
+      - "Dido and her Aeneas shall want troops,"
+      - "And all the haunt be ours.—Come, Eros, Eros!"
+    m:
+      - "I will catch up with you, Cleopatra, and weep for your forgiveness. It’s the only way left, because now any extension of my life would be torture. Since the light of my life has gone out, I’ll stop here. Now any effort ruins what it attempts. Yes, even power gets in its own way. End it, then, and everything is over.—Eros!—I’m coming, my Queen!—Eros!—Wait for me. In the place where souls recline on beds of flowers we’ll walk hand in hand and amaze the other ghosts with our spirited demeanor. Those famous lovers, Dido and Aeneas, will lose their admirers, and the whole place will be devoted to us.—Come, Eros. Eros!"
+
+  - os: "Enter EROS"
+    ms: "EROS enters."
+
+  - sp: EROS
+    o:
+      - "What would my lord?"
+    m:
+      - "What can I do for my lord?"
+
+  - sp: ANTONY
+    o:
+      - "    Since Cleopatra died"
+      - "I have lived in such dishonor that the gods"
+      - "Detest my baseness. I, that with my sword"
+      - "Quartered the world, and o’er green Neptune’s back"
+      - "With ships made cities, condemn myself to lack"
+      - "The courage of a woman—less noble mind"
+      - "Than she which by her death our Caesar tells"
+      - "“I am conqueror of myself.” Thou art sworn, Eros,"
+      - "That when the exigent should come which now"
+      - "Is come indeed, when I should see behind me"
+      - "Th’ inevitable prosecution of"
+      - "Disgrace and horror, that on my command,"
+      - "Thou then wouldst kill me. Do ’t. The time is come."
+      - "Thou strik’st not me, ’tis Caesar thou defeat’st."
+      - "Put color in thy cheek."
+    m:
+      - "Since Cleopatra died, I have lived in such dishonor that the gods despise my disgrace. Though I have made conquests throughout the four corners of the world and sailed with fleets so large they looked like floating cities, I don’t have as much courage as a woman. I have less nobility than the lady who, by killing herself, says to Caesar, “Only Cleopatra can defeat Cleopatra.” You promised me, Eros, that should the ultimate moment arrive—which it has—when dishonor and disgust are inevitable, that upon my command, you would kill me. Do it. This is that time. You won’t be striking me down, but defeating Caesar. Call up your courage."
+
+  - sp: EROS
+    o:
+      - "    The gods withhold me!"
+      - "Shall I do that which all the Parthian darts,"
+      - "Though enemy, lost aim and could not?"
+    m:
+      - "The gods forbid! Can I do what all the Parthian arrows, though shot by enemies, could not?"
+
+  - sp: ANTONY
+    o:
+      - "    Eros,"
+      - "Wouldst thou be windowed in great Rome and see"
+      - "Thy master thus with pleached arms, bending down"
+      - "His corrigible neck, his face subdued"
+      - "To penetrative shame, whilst the wheeled seat"
+      - "Of fortunate Caesar, drawn before him, branded"
+      - "His baseness that ensued?"
+    m:
+      - "Eros, would you like to look through a window in Rome and watch your master marching in Caesar’s victory parade, his arms crossed and tied, his head bowed in submission, his face red from shame, while the chariot of triumphant Caesar precedes him, putting the final stamp to his humiliation?"
+
+  - sp: EROS
+    o:
+      - "    I would not see ’t."
+    m:
+      - "I would not."
+
+  - sp: ANTONY
+    o:
+      - "Come, then, for with a wound I must be cured."
+      - "Draw that thy honest sword, which thou hast worn"
+      - "Most useful for thy country."
+    m:
+      - "Then come on. I must be restored to health by an injury. Draw your trustworthy sword, which you have used in such service to your country."
+
+  - sp: EROS
+    o:
+      - "    O sir, pardon me!"
+    m:
+      - "Oh, sir, pardon me!"
+
+  - sp: ANTONY
+    o:
+      - "When I did make thee free, swor’st thou not then"
+      - "To do this when I bade thee? Do it at once,"
+      - "Or thy precedent services are all"
+      - "But accidents unpurposed. Draw and come."
+    m:
+      - "When I freed you from slavery, didn’t you swear to do this when I asked you? Do it immediately, or all your previous services to me were accidental, without purpose. Take out your sword and come on."
+
+  - sp: EROS
+    o:
+      - "Turn from me then that noble countenance"
+      - "Wherein the worship of the whole world lies."
+    m:
+      - "Then turn your noble face away from me, that face that the whole world adores."
+
+  - sp: ANTONY
+    o:
+      - "Lo thee!"
+    m:
+      - "Look!"
+
+  - os: "He turns away"
+    ms: "He turns away."
+
+  - sp: EROS
+    o:
+      - "My sword is drawn."
+    m:
+      - "I have drawn my sword."
+
+  - sp: ANTONY
+    o:
+      - "    Then let it do at once The thing why thou hast drawn it."
+    m:
+      - "Now let it carry out its purpose immediately."
+
+  - sp: EROS
+    o:
+      - "    My dear master,"
+      - "My captain, and my emperor, let me say,"
+      - "Before I strike this bloody stroke, farewell."
+    m:
+      - "My dear master, my captain, my sovereign, let me say before I strike this fatal blow: farewell."
+
+  - sp: ANTONY
+    o:
+      - "’Tis said, man, and farewell."
+    m:
+      - "You’ve said it, friend, and farewell to you."
+
+  - sp: EROS
+    o:
+      - "Farewell, great chief. Shall I strike now?"
+    m:
+      - "Good-bye, great commander. Should I do it now?"
+
+  - sp: ANTONY
+    o:
+      - "    Now, Eros."
+    m:
+      - "Now, Eros."
+
+  - sp: EROS
+    o:
+      - "Why, there then!"
+    m:
+      - "Well, then, there!"
+
+  - os: "Stabs himself"
+    ms: "He stabs himself."
+
+  - o:
+      - "    Thus I do escape the sorrow"
+      - "Of Antony’s death."
+    m:
+      - "With this I avoid the grief of Antony’s death."
+
+  - os: "He dies"
+    ms: "He dies."
+
+  - sp: ANTONY
+    o:
+      - "    Thrice nobler than myself,"
+      - "Thou teachest me, O valiant Eros, what"
+      - "I should and thou couldst not. My Queen and Eros"
+      - "Have by their brave instruction got upon me"
+      - "A nobleness in record. But I will be"
+      - "A bridegroom in my death, and run into ’t"
+      - "As to a lover’s bed. Come then, and Eros,"
+      - "Thy master dies thy scholar. To do thus"
+      - "I learned of thee."
+    m:
+      - "Brave Eros, three times more honorable than I am! You teach me what I should do but could not. My Queen and Eros have by their brave examples beaten me to the history books. But I will embrace death as a bridegroom does his bride, and rush to it as to a lover’s bed. Come then. Eros, your master dies your student. I learned to do this from you."
+
+  - os: "He falls on his sword"
+    ms: "He falls on his sword."
+
+  - o:
+      - "    How! Not dead? Not dead?"
+      - "The guard, ho! Oh, dispatch me!"
+    m:
+      - "What! I’m not dead? Not dead?—Guard, here! Oh, kill me!"
+
+  - os: "Enter DERCETUS and others of a GUARD"
+    ms: "DERCETUS enters with three GUARDS."
+
+  - sp: FIRST GUARD
+    o:
+      - "What’s the noise?"
+    m:
+      - "What’s the trouble?"
+
+  - sp: ANTONY
+    o:
+      - "I have done my work ill, friends. Oh, make an end"
+      - "Of what I have begun!"
+    m:
+      - "I’ve botched the job, friends. Oh, finish what I’ve begun."
+
+  - sp: SECOND GUARD
+    o:
+      - "    The star is fall’n."
+    m:
+      - "Our guiding light is out."
+
+  - sp: FIRST GUARD
+    o:
+      - "And time is at his period."
+    m:
+      - "And time itself is ended."
+
+  - sp: ALL
+    o:
+      - "    Alas, and woe!"
+    m:
+      - "Sadness and despair!"
+
+  - sp: ANTONY
+    o:
+      - "Let him that loves me strike me dead."
+    m:
+      - "Whoever’s a real friend should strike me dead."
+
+  - sp: FIRST GUARD
+    o:
+      - "Not I."
+    m:
+      - "Not me."
+
+  - sp: SECOND GUARD
+    o:
+      - "Nor I."
+    m:
+      - "Me neither."
+
+  - sp: THIRD GUARD
+    o:
+      - "Nor anyone."
+    m:
+      - "None of us."
+
+  - os: "Exeunt GUARD"
+    ms: "The GUARDS exit."
+
+  - sp: DERCETUS
+    o:
+      - "Thy death and fortunes bid thy followers fly."
+    m:
+      - "Your death and destiny advise your followers to escape."
+
+  - os: "He takes up ANTONY’s sword"
+    ms: "He takes up ANTONY’s sword"
+
+  - o:
+      - "This sword but shown to Caesar, with this tidings,"
+      - "Shall enter me with him."
+    m:
+      - "I only need to show your sword to Caesar and tell him about your death to get into his good favor."
+
+  - os: "Enter DIOMEDES"
+    ms: "DIOMEDES enters."
+
+  - sp: DIOMEDES
+    o:
+      - "Where’s Antony?"
+    m:
+      - "Where’s Antony?"
+
+  - sp: DERCETUS
+    o:
+      - "There, Diomed, there."
+    m:
+      - "There, Diomedes, there."
+
+  - sp: DIOMEDES
+    o:
+      - "Lives he? Wilt thou not answer, man?"
+    m:
+      - "Is he still alive? Why don’t you answer me, man?"
+
+  - os: "Exit DERCETUS"
+    ms: "DERCETAS exits."
+
+  - sp: ANTONY
+    o:
+      - "Art thou there, Diomed? Draw thy sword and give me"
+      - "Sufficing strokes for death."
+    m:
+      - "Is that you, Diomedes? Draw your sword and give me enough blows to kill me."
+
+  - sp: DIOMEDES
+    o:
+      - "    Most absolute lord, My mistress Cleopatra sent me to thee."
+    m:
+      - "Most powerful lord, my mistress Cleopatra sent me to you."
+
+  - sp: ANTONY
+    o:
+      - "When did she send thee?"
+    m:
+      - "When did she send you?"
+
+  - sp: DIOMEDES
+    o:
+      - "    Now, my lord."
+    m:
+      - "Just now, my lord."
+
+  - sp: ANTONY
+    o:
+      - "    Where is she?"
+    m:
+      - "Where is she?"
+
+  - sp: DIOMEDES
+    o:
+      - "Locked in her monument. She had a prophesying fear"
+      - "Of what hath come to pass. For when she saw—"
+      - "Which never shall be found—you did suspect"
+      - "She had disposed with Caesar, and that your rage"
+      - "Would not be purged, she sent you word she was dead."
+      - "But fearing since how it might work, hath sent"
+      - "Me to proclaim the truth, and I am come,"
+      - "I dread, too late."
+    m:
+      - "Locked in her tomb. She had a premonition of what has actually happened. She saw that you suspected her of negotiating a treaty with Caesar—which never will be true. Afraid that your anger would not subside, she sent you word she was dead. But later, fearing how that news might affect you, she sent me to tell you the truth. I’m afraid I’ve come too late."
+
+  - sp: ANTONY
+    o:
+      - "Too late, good Diomed. Call my guard, I prithee."
+    m:
+      - "Too late, good Diomedes. Call my guard, please."
+
+  - sp: DIOMEDES
+    o:
+      - "What ho, the Emperor’s guard! The guard, what ho!"
+      - "Come, your lord calls!"
+    m:
+      - "Hey out there! Emperor’s guards! Guards, hey! Come! Your lord calls for you!"
+
+  - os: "Enter four or five of the GUARD of Antony"
+    ms: "Four or five of Antony’s GUARDS enter."
+
+  - sp: ANTONY
+    o:
+      - "Bear me, good friends, where Cleopatra bides."
+      - "’Tis the last service that I shall command you."
+    m:
+      - "Carry me, good friends, to where Cleopatra is. It’s the last command I shall ever give you."
+
+  - sp: FIRST GUARD
+    o:
+      - "Woe, woe are we, sir, you may not live to wear"
+      - "All your true followers out."
+    m:
+      - "We’re very sorry, sir, that you may not live to wear us out with your commands."
+
+  - sp: ALL
+    o:
+      - "    Most heavy day!"
+    m:
+      - "It’s a very sad day."
+
+  - sp: ANTONY
+    o:
+      - "Nay, good my fellows, do not please sharp fate"
+      - "To grace it with your sorrows. Bid that welcome"
+      - "Which comes to punish us, and we punish it,"
+      - "Seeming to bear it lightly. Take me up."
+      - "I have led you oft; carry me now, good friends,"
+      - "And have my thanks for all."
+    m:
+      - "No, my friends, don’t please fate by giving it your sorrow as well. If we welcome our punishment, we punish it right back by seeming to take it lightly. Pick me up. I have often led you, now you must carry me, my good friends—and take my thanks for everything."
+
+  - os: "Exeunt, bearing ANTONY and the body of EROS"
+    ms: "They exit, carrying ANTONYandEROS’ body."

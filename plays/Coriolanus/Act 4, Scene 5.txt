@@ -1,0 +1,705 @@
+play: Coriolanus
+title: Act 4, Scene 5
+group: 4
+order: 20
+text:
+  - os: "The same. A hall in Aufidius’ house."
+    ms: "A hall in Aufidius’ house."
+
+  - os: "Music within. Enter a Servingman"
+    ms: "Music plays offstage. A Servant enters."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Wine, wine, wine! What service"
+      - "is here! I think our fellows are asleep."
+    m:
+      - "Wine, wine, wine! What kind of service is this? I think the other servants are asleep."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter a second Servingman"
+    ms: "A Second Servant enters."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Where’s Cotus? my master calls"
+      - "for him. Cotus!"
+    m:
+      - "Where’s Cotus? My master calls for him. Cotus!"
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter CORIOLANUS"
+    ms: "CORIOLANUS enters."
+
+  - sp: CORIOLANUS
+    o:
+      - "A goodly house: the feast smells well; but I"
+      - "Appear not like a guest."
+    m:
+      - "This is a good house. The feast smells good, but I don’t look like a guest."
+
+  - os: "Re-enter the first Servingman"
+    ms: "The First Servant reenters."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "What would you have, friend? whence are you?"
+      - "Here’s no place for you: pray, go to the door."
+    m:
+      - "What are you doing here, friend? Where are you from? This is no place for you. Please leave."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: CORIOLANUS
+    o:
+      - "I have deserved no better entertainment,"
+      - "In being Coriolanus."
+    m:
+      - "I wouldn’t be welcomed any better if they knew I were Coriolanus."
+
+  - os: "Re-enter second Servingman"
+    ms: "The Second Servant reenters."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Whence are you, sir? Has the porter his eyes in his"
+      - "head; that he gives entrance to such companions?"
+      - "Pray, get you out."
+    m:
+      - "Where are you from, sir? Is the porter blind to let someone like you in? Please, get out."
+
+  - sp: CORIOLANUS
+    o:
+      - "Away!"
+    m:
+      - "Go away!"
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Away! get you away."
+    m:
+      - "You go away!"
+
+  - sp: CORIOLANUS
+    o:
+      - "Now thou’rt troublesome."
+    m:
+      - "You’re causing trouble."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Are you so brave? I’ll have you talked with anon."
+    m:
+      - "Are you really this arrogant? Someone’s going to come reprimand you right away."
+
+  - os: "Enter a third Servingman. The first meets him"
+    ms: "A Third Servant enters. The First meets him."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "What fellow’s this?"
+    m:
+      - "Who’s this?"
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "A strange one as ever I looked on: I cannot get him"
+      - "out of the house: prithee, call my master to him."
+    m:
+      - "The strangest man I’ve ever seen. I can’t get him out of the house. Please ask my master to come here."
+
+  - os: "Retires"
+    ms: "He exits."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "What have you to do here, fellow? Pray you, avoid"
+      - "the house."
+    m:
+      - "Why are you here, fellow? Please, leave this house."
+
+  - sp: CORIOLANUS
+    o:
+      - "Let me but stand; I will not hurt your hearth."
+    m:
+      - "Let me stay. I won’t cause any harm."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "What are you?"
+    m:
+      - "Who are you?"
+
+  - sp: CORIOLANUS
+    o:
+      - "A gentleman."
+    m:
+      - "A gentleman."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "A marvellous poor one."
+    m:
+      - "A remarkably poor one."
+
+  - sp: CORIOLANUS
+    o:
+      - "True, so I am."
+    m:
+      - "That’s true. I am poor."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Pray you, poor gentleman, take up some other"
+      - "station; here’s no place for you; pray you, avoid: come."
+    m:
+      - "Please, poor gentleman, go to some other house. This is not the place for you. Please, get out now."
+
+  - sp: CORIOLANUS
+    o:
+      - "Follow your function, go, and batten on cold bits."
+    m:
+      - "Be like every other servant: go gorge yourself on cold scraps of food."
+
+  - os: "Pushes him away"
+    ms: "He pushes the Third Servant away."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "What, you will not? Prithee, tell my master what a"
+      - "strange guest he has here."
+    m:
+      - "What won’t you do? Please, go tell my master what a strange guest he has here."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "And I shall."
+    m:
+      - "I will."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Where dwellest thou?"
+    m:
+      - "Where do you live?"
+
+  - sp: CORIOLANUS
+    o:
+      - "Under the canopy."
+    m:
+      - "Beneath the stars."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Under the canopy!"
+    m:
+      - "Beneath the stars!"
+
+  - sp: CORIOLANUS
+    o:
+      - "Ay."
+    m:
+      - "Yes."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Where’s that?"
+    m:
+      - "Where’s that?"
+
+  - sp: CORIOLANUS
+    o:
+      - "I’ the city of kites and crows."
+    m:
+      - "In the city of kites and crows."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "I’ the city of kites and crows! What an ass it is!"
+      - "Then thou dwellest with daws too?"
+    m:
+      - "In the city of kites and crows! What a joke this is! Then do you live with the simpletons too?"
+
+  - sp: CORIOLANUS
+    o:
+      - "No, I serve not thy master."
+    m:
+      - "No, I don’t serve your master."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "How, sir! do you meddle with my master?"
+    m:
+      - "Oh, sir! Are you trying to mess with my master?"
+
+  - sp: CORIOLANUS
+    o:
+      - "Ay; ’tis an honester service than to meddle with thy"
+      - "mistress. Thou pratest, and pratest; serve with thy"
+      - "trencher, hence!"
+    m:
+      - "Yes. It’s more honest than messing around with your mistress. You babble on and on. Pass the serving platter. Go!"
+
+  - os: "Beats him away. Exit third Servingman"
+    ms: "He beats him away. The Third Servant exits."
+
+  - os: "Enter AUFIDIUS with the second Servingman"
+    ms: "AUFIDIUS enters with the Second Servant."
+
+  - sp: AUFIDIUS
+    o:
+      - "Where is this fellow?"
+    m:
+      - "Where is this man?"
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Here, sir: I’ld have beaten him like a dog, but for"
+      - "disturbing the lords within."
+    m:
+      - "Here, sir. I would’ve beaten him like a dog, but that would’ve disturbed your guests."
+
+  - os: "Retires"
+    ms: "He exits."
+
+  - sp: AUFIDIUS
+    o:
+      - "Whence comest thou? what wouldst thou? thy name?"
+      - "Why speak’st not? speak, man: what’s thy name?"
+    m:
+      - "Where are you from? What do you want? Your name? Why aren’t you speaking? Speak, man. What’s your name?"
+
+  - sp: CORIOLANUS
+    o:
+      - "*(Unmuffling)* If, Tullus,"
+      - "Not yet thou knowest me, and, seeing me, dost not"
+      - "Think me for the man I am, necessity"
+      - "Commands me name myself."
+    m:
+      - "*(umuffling his voice)* If, Tullus, you don’t recognize my voice and you don’t recognize me by sight, I must tell you my name."
+
+  - sp: AUFIDIUS
+    o:
+      - "What is thy name?"
+    m:
+      - "What is your name?"
+
+  - sp: CORIOLANUS
+    o:
+      - "A name unmusical to the Volscians’ ears,"
+      - "And harsh in sound to thine."
+    m:
+      - "A name the Volsces don’t like to hear, unlike yours."
+
+  - sp: AUFIDIUS
+    o:
+      - "Say, what’s thy name?"
+      - "Thou hast a grim appearance, and thy face"
+      - "Bears a command in’t; though thy tackle’s torn."
+      - "Thou show’st a noble vessel: what’s thy name?"
+    m:
+      - "Tell me, what’s your name? Your appearance is harsh and your face looks like a commander’s. Even though your clothes are torn, your body looks distinguished. What is your name?"
+
+  - sp: CORIOLANUS
+    o:
+      - "Prepare thy brow to frown: know’st"
+      - "thou me yet?"
+    m:
+      - "Prepare to frown. Do you know me yet?"
+
+  - sp: AUFIDIUS
+    o:
+      - "I know thee not: thy name?"
+    m:
+      - "I don’t know your name. What is it?"
+
+  - sp: CORIOLANUS
+    o:
+      - "My name is Caius Martius, who hath done"
+      - "To thee particularly and to all the Volsces"
+      - "Great hurt and mischief; thereto witness may"
+      - "My surname, Coriolanus: the painful service,"
+      - "The extreme dangers and the drops of blood"
+      - "Shed for my thankless country are requited"
+      - "But with that surname; a good memory,"
+      - "And witness of the malice and displeasure"
+      - "Which thou shouldst bear me: only that name remains;"
+      - "The cruelty and envy of the people,"
+      - "Permitted by our dastard nobles, who"
+      - "Have all forsook me, hath devour’d the rest;"
+      - "And suffer’d me by the voice of slaves to be"
+      - "Whoop’d out of Rome. Now this extremity"
+      - "Hath brought me to thy hearth; not out of hope-—"
+      - "Mistake me not—to save my life, for if"
+      - "I had fear’d death, of all the men i’ the world"
+      - "I would have ’voided thee, but in mere spite,"
+      - "To be full quit of those my banishers,"
+      - "Stand I before thee here. Then if thou hast"
+      - "A heart of wreak in thee, that wilt revenge"
+      - "Thine own particular wrongs and stop those maims"
+      - "Of shame seen through thy country, speed"
+      - "thee straight,"
+      - "And make my misery serve thy turn: so use it"
+      - "That my revengeful services may prove"
+      - "As benefits to thee, for I will fight"
+      - "Against my canker’d country with the spleen"
+      - "Of all the under fiends. But if so be"
+      - "Thou darest not this and that to prove more fortunes"
+      - "Thou’rt tired, then, in a word, I also am"
+      - "Longer to live most weary, and present"
+      - "My throat to thee and to thy ancient malice;"
+      - "Which not to cut would show thee but a fool,"
+      - "Since I have ever follow’d thee with hate,"
+      - "Drawn tuns of blood out of thy country’s breast,"
+      - "And cannot live but to thy shame, unless"
+      - "It be to do thee service."
+    m:
+      - "My name is Caius Martius. I’ve done great hurt and mischief to you particularly and to all the Volsces, proof of which is my surname: Coriolanus. I worked very hard, faced extreme dangers, and shed drops of blood for my ungrateful country. My only compensation is that name. It’s a reminder and signifier of the hatred you should feel for me. That name is all that is left. With envious cruelty, the Roman people, enabled by the cowardly nobles, have turned on me and taken away all that I had. These slaves have voted me out of Rome.  These extreme circumstances are what have brought me to your home. Make no mistake: I have no wish to save my life. If I feared death, I would have avoided you more than any other man in the world. Instead I stand here before you with only my hatred and desire for revenge against my banishers. If you’re inclined to seek vengeance of your own and end the shame that’s seen throughout your country, see now how you can use my suffering to serve your purpose. Helping me get revenge will be beneficial to you. I’ll fight my own cursed country with the fury of all the hell beings. But if you choose not to do this, if you’re too tired to take this chance, then since I am also too tired to keep living, I present my throat to you and your longstanding hatred. You’d be a fool not to cut it.  I’ve always pursued you with hatred, I’ve spilled barrels of your country’s blood, so to let me live would only bring you shame unless I can work on your behalf."
+
+  - sp: AUFIDIUS
+    o:
+      - "O Martius, Martius!"
+      - "Each word thou hast spoke hath weeded from my heart"
+      - "A root of ancient envy. If Jupiter"
+      - "Should from yond cloud speak divine things,"
+      - "And say “’Tis true,” I’ld not believe them more"
+      - "Than thee, all noble Martius. Let me twine"
+      - "Mine arms about that body, where against"
+      - "My grained ash an hundred times hath broke"
+      - "And scarr’d the moon with splinters: here I clip"
+      - "The anvil of my sword, and do contest"
+      - "As hotly and as nobly with thy love"
+      - "As ever in ambitious strength I did"
+      - "Contend against thy valour. Know thou first,"
+      - "I loved the maid I married; never man"
+      - "Sigh’d truer breath; but that I see thee here,"
+      - "Thou noble thing! more dances my rapt heart"
+      - "Than when I first my wedded mistress saw"
+      - "Bestride my threshold. Why, thou Mars! I tell thee,"
+      - "We have a power on foot; and I had purpose"
+      - "Once more to hew thy target from thy brawn,"
+      - "Or lose mine arm fort: thou hast beat me out"
+      - "Twelve several times, and I have nightly since"
+      - "Dreamt of encounters ’twixt thyself and me;"
+      - "We have been down together in my sleep,"
+      - "Unbuckling helms, fisting each other’s throat,"
+      - "And waked half dead with nothing. Worthy Martius,"
+      - "Had we no quarrel else to Rome, but that"
+      - "Thou art thence banish’d, we would muster all"
+      - "From twelve to seventy, and pouring war"
+      - "Into the bowels of ungrateful Rome,"
+      - "Like a bold flood o’er-bear. O, come, go in,"
+      - "And take our friendly senators by the hands;"
+      - "Who now are here, taking their leaves of me,"
+      - "Who am prepared against your territories,"
+      - "Though not for Rome itself."
+    m:
+      - "Oh, Martius, Martius! Each word that you’ve spoken has weeded from my heart a root of longstanding hatred. If from that far cloud Jupiter should speak divine things and say, “It’s true,” I would believe him no less than I believe you, noble Martius. Let me wrap my arms around this body of yours, which my wooden lance has beaten and been splintered against a hundred times. You are the anvil that my sword used to strike, and now I embrace you. Now I strive to gain your comradeship with as much ferocity and honor as I used to fight you. You should know: I loved the woman I married, that’s the truth, but seeing you here, you noble thing, makes my heart  more enraptured than when I first saw my new bride walk across my threshold. You are the god of war! I tell you, our army is ready to deploy, and now I have reason again to force your shield off of your strong arm, or lose my own arm instead. You’ve defeated me twelve different times, and every night since I have dreamed of encounters between us. We’d fight down on the ground, taking off our helmets, forcing our fists into each other’s throats. Then I wake up, half dead, and it was all a dream. Worthy Martius, even if we had no reason to attack Rome other than the fact that you’ve been banished, we would assemble every man from ages twelve to seventy and flood ungrateful Rome with our fury. Come inside now and shake hands with our senators. They are just now saying goodbye to me, as I was about to attack Roman territories, though not Rome itself."
+
+  - sp: CORIOLANUS
+    o:
+      - "You bless me, gods!"
+    m:
+      - "You bless me, gods!"
+
+  - sp: AUFIDIUS
+    o:
+      - "Therefore, most absolute sir, if thou wilt have"
+      - "The leading of thine own revenges, take"
+      - "The one half of my commission; and set down—"
+      - "As best thou art experienced, since thou know’st"
+      - "Thy country’s strength and weakness,—thine own ways;"
+      - "Whether to knock against the gates of Rome,"
+      - "Or rudely visit them in parts remote,"
+      - "To fright them, ere destroy. But come in:"
+      - "Let me commend thee first to those that shall"
+      - "Say yea to thy desires. A thousand welcomes!"
+      - "And more a friend than e’er an enemy;"
+      - "Yet, Martius, that was much. Your hand: most welcome!"
+    m:
+      - "Incomparable sir, if you’d like to take the lead with your own revenge, take over half of my command. Because you have the most experience and you know Rome’s strengths and weaknesses, decide for yourself whether to attack the city directly at the gates or to sneak up on them in the faraway territories and frighten them before destroying them. Either way, come in. Let me introduce you to those who will approve of your desires. A thousand welcomes! You’re more of a friend now than you were ever an enemy—and you were a great enemy. Give me your hand—you are most welcome!"
+
+  - os: "Exeunt CORIOLANUS and AUFIDIUS. The two Servingmen come forward"
+    ms: "CORIOLANUS and AUFIDIUS exit. The two Servants come forward."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Here’s a strange alteration!"
+    m:
+      - "That was an unexpected turn of events!"
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "By my hand, I had thought to have strucken him with"
+      - "a cudgel; and yet my mind gave me his clothes made a"
+      - "false report of him."
+    m:
+      - "I swear, I had thought about striking him with a club, but I knew his clothes were a disguise."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "What an arm he has! he turned me about with his"
+      - "finger and his thumb, as one would set up a top."
+    m:
+      - "What an arm he has! He turned me around with just his finger and his thumb, the way you’d spin a top."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Nay, I knew by his face that there was something in"
+      - "him: he had, sir, a kind of face, methought,—I"
+      - "cannot tell how to term it."
+    m:
+      - "No, I knew by his face that there was something about him. He had, sir, a kind of face, I thought—I don’t know how to describe it."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "He had so; looking as it were—would I were hanged,"
+      - "but I thought there was more in him than I could think."
+    m:
+      - "He had a kind of face that looked like it was—I can’t find the words for the life of me, but I knew there was more to him than I could see."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "So did I, I’ll be sworn: he is simply the rarest"
+      - "man i’ the world."
+    m:
+      - "So did I. I swear, he is simply the most unique man in the world."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "I think he is: but a greater soldier than he you wot on."
+    m:
+      - "I agree, but you already know a better soldier."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Who, my master?"
+    m:
+      - "Who, my master?"
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Nay, it’s no matter for that."
+    m:
+      - "It’s no contest."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Worth six on him."
+    m:
+      - "He’s worth six of him."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Nay, not so neither: but I take him to be the"
+      - "greater soldier."
+    m:
+      - "That’s not true. I think he’s the better soldier."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Faith, look you, one cannot tell how to say that:"
+      - "for the defence of a town, our general is excellent."
+    m:
+      - "How could anyone ever say who’s actually better? For defending towns, our general is excellent."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Ay, and for an assault too."
+    m:
+      - "Yes, and for attacking them, too."
+
+  - os: "Re-enter third Servingman"
+    ms: "The Third Servant reenters."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "O slaves, I can tell you news,—news, you rascals!"
+    m:
+      - "Oh, slaves, I have news for you—news, you rascals!"
+
+  - sp: FIRST SERVINGMAN AND SECOND SERVINGMAN
+    o:
+      - "What, what, what? let’s partake."
+    m:
+      - "What, what, what? Tell us."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "I would not be a Roman, of all nations; I had as"
+      - "lieve be a condemned man."
+    m:
+      - "I’d rather be from anywhere than Rome. I’d gladly prefer to be condemned to die."
+
+  - sp: FIRST SERVINGMAN AND SECOND SERVINGMAN
+    o:
+      - "Wherefore? wherefore?"
+    m:
+      - "Why? Why?"
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Why, here’s he that was wont to thwack our general,"
+      - "Caius Martius."
+    m:
+      - "Because Caius Martius, the man who was inclined to thwack our general, is here."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Why do you say “thwack our general”?"
+    m:
+      - "What do you mean, “thwack our general”?"
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "I do not say “thwack our general;” but he was always"
+      - "good enough for him."
+    m:
+      - "I don’t mean “thwack our general,” but he could have."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Come, we are fellows and friends: he was ever too"
+      - "hard for him; I have heard him say so himself."
+    m:
+      - "Come, we’re fellows and friends. Caius Martius was always too much for him—I’ve heard him say so himself."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "He was too hard for him directly, to say the troth"
+      - "on’t: before Corioli he scotched him and notched"
+      - "him like a carbon ado."
+    m:
+      - "He was too much for him directly, to tell the truth. At Corioles he carved him up like a piece of meat."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "An he had been cannibally given, he might have"
+      - "broiled and eaten him too."
+    m:
+      - "If he’d been a cannibal, he might have broiled and eaten him, too."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "But, more of thy news?"
+    m:
+      - "But what other news do you have?"
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Why, he is so made on here within, as if he were son"
+      - "and heir to Mars; set at upper end o’ the table; no"
+      - "question asked him by any of the senators, but they"
+      - "stand bald before him: our general himself makes a"
+      - "mistress of him: sanctifies himself with’s hand and"
+      - "turns up the white o’ the eye to his discourse. But"
+      - "the bottom of the news is that our general is cut i’"
+      - "the middle and but one half of what he was"
+      - "yesterday; for the other has half, by the entreaty"
+      - "and grant of the whole table. He’ll go, he says,"
+      - "and sowl the porter of Rome gates by the ears: he"
+      - "will mow all down before him, and leave his passage polled."
+    m:
+      - "The guests here can’t stop talking about him. It’s as if he were the son and heir to Mars. He’s sitting at the head of the table and none of the senators are asking him any questions—they’ve all taken their hats off to him. Our general himself treats him like a mistress, touching his hand like a sacred relic, listening with wide-eyed wonder to his every word. But the bottom line is that our general is now half the man he was yesterday. He’s given half his power away to Caius Martius and the whole table supports him. He says that he’ll go and catch the keeper of Rome’s gates by the ears, that he’ll mow down whoever stands in his way, leaving a trail behind him."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "And he’s as like to do’t as any man I can imagine."
+    m:
+      - "And he’s as likely to do it as any man I can imagine."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Do’t! he will do’t; for, look you, sir, he has as"
+      - "many friends as enemies; which friends, sir, as it"
+      - "were, durst not, look you, sir, show themselves, as"
+      - "we term it, his friends whilst he’s in directitude."
+    m:
+      - "Do it! He’ll do it. Look, sir, he has as many friends as enemies—and his friends can’t actually be friends to him while he’s in dejectitude."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Directitude! what’s that?"
+    m:
+      - "Dejectitude! What’s that?"
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "But when they shall see, sir, his crest up again,"
+      - "and the man in blood, they will out of their"
+      - "burrows, like conies after rain, and revel all with"
+      - "him."
+    m:
+      - "But when they see that his spirits have lifted and that he’s a man in full vitality again, they’ll come out of hiding, like rabbits after a rain, and celebrate with him."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "But when goes this forward?"
+    m:
+      - "When will this happen?"
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "To-morrow; to-day; presently; you shall have the"
+      - "drum struck up this afternoon: ’tis, as it were, a"
+      - "parcel of their feast, and to be executed ere they"
+      - "wipe their lips."
+    m:
+      - "Tomorrow, today, soon. You’ll hear the battle drum by this afternoon. It’s like part of their feast and will be underway before they’ve wiped their lips."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Why, then we shall have a stirring world again."
+      - "This peace is nothing, but to rust iron, increase"
+      - "tailors, and breed ballad-makers."
+    m:
+      - "Then things will come back to life again here. This peace does nothing but rust iron and make people become tailors and singers."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Let me have war, say I; it exceeds peace as far as"
+      - "day does night; it’s spritely, waking, audible, and"
+      - "full of vent. Peace is a very apoplexy, lethargy;"
+      - "mulled, deaf, sleepy, insensible; a getter of more"
+      - "bastard children than war’s a destroyer of men."
+    m:
+      - "I say: give me war. It’s better than peace the way night is better than day. It’s spritely, waking, loud, and spirited. Peace is the definition of stagnation, of lethargy. It’s dull, deaf, sleepy, and unfeeling. It creates more bastard children than wars destroy men."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "’Tis so: and as war, in some sort, may be said to"
+      - "be a ravisher, so it cannot be denied but peace is a"
+      - "great maker of cuckolds."
+    m:
+      - "It’s true. And while war can be said to be seductive in a sense, it cannot be denied that in times of peace, wives cheat on their husbands."
+
+  - sp: FIRST SERVINGMAN
+    o:
+      - "Ay, and it makes men hate one another."
+    m:
+      - "Yes, and it makes men hate one another."
+
+  - sp: THIRD SERVINGMAN
+    o:
+      - "Reason; because they then less need one another."
+      - "The wars for my money. I hope to see Romans as cheap"
+      - "as Volscians. They are rising, they are rising."
+    m:
+      - "Because they need one another less. I’d give my money to have war! I hope the Romans are as cheap as the Volsces. *(A noise comes from offstage)* They’re getting up from the table."
+
+  - sp: ALL
+    o:
+      - "In, in, in, in!"
+    m:
+      - "In, in, in, in!"
+
+  - os: "Exeunt"
+    ms: "All exit."

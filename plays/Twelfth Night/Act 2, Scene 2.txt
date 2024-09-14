@@ -1,0 +1,73 @@
+play: Twelfth Night
+title: Act 2, Scene 2
+group: 2
+order: 6
+text:
+  - os: "Enter VIOLA, MALVOLIO following"
+    ms: "VIOLA enters with MALVOLIO following."
+
+  - sp: MALVOLIO
+    o:
+      - "Were not you even now with the Countess Olivia?"
+    m:
+      - "Excuse me, weren’t you with Countess Olivia just now?"
+
+  - sp: VIOLA
+    o:
+      - "Even now, sir. On a moderate pace I have since arrived but hither."
+    m:
+      - "Yes, sir. I’ve only made it this far since I left her place, walking at a moderate pace."
+
+  - sp: MALVOLIO
+    o:
+      - "She returns this ring to you, sir. You might have saved me my pains to have taken it away yourself. She adds, moreover, that you should put your lord into a desperate assurance she will none of him. And one thing more, that you be never so hardy to come again in his affairs, unless it be to report your lord’s taking of this. Receive it so."
+    m:
+      - "She’s sending this ring back to you, sir. You should’ve saved me some trouble and taken it away yourself. She wants you to make it very clear to your lord that she wants nothing to do with him, and that you should never come again on his behalf, unless you want to come back to tell her how he reacted to the bad news. Here, take the ring."
+
+  - sp: VIOLA
+    o:
+      - "She took the ring of me. I’ll none of it."
+    m:
+      - "She took that ring from me. I won’t take it back."
+
+  - sp: MALVOLIO
+    o:
+      - "Come, sir, you peevishly threw it to her, and her will is it should be so returned. *(he throws down the ring)* If it be worth stooping for, there it lies in your eye. If not, be it his that finds it."
+    m:
+      - "You threw it at her rudely, and she wants you to take it back. *(he throws down the ring)* If it’s worth bending over to pick up, there it is on the ground, where you can see it. If not, whoever finds it can have it."
+
+  - os: "Exit"
+    ms: "MALVOLIO exits."
+
+  - sp: VIOLA
+    o:
+      - "I left no ring with her. What means this lady?"
+      - "Fortune forbid my outside have not charmed her!"
+      - "She made good view of me, indeed so much"
+      - "That sure methought her eyes had lost her tongue,"
+      - "For she did speak in starts distractedly."
+      - "She loves me, sure! The cunning of her passion"
+      - "Invites me in this churlish messenger."
+      - "None of my lord’s ring? Why, he sent her none."
+      - "I am the man. If it be so, as ’tis,"
+      - "Poor lady, she were better love a dream."
+      - "Disguise, I see thou art a wickedness,"
+      - "Wherein the pregnant enemy does much."
+      - "How easy is it for the proper false"
+      - "In women’s waxen hearts to set their forms!"
+      - "Alas, our frailty is the cause, not we,"
+      - "For such as we are made of, such we be."
+      - "How will this fadge? My master loves her dearly,"
+      - "And I, poor monster, fond as much on him,"
+      - "And she, mistaken, seems to dote on me."
+      - "What will become of this? As I am man,"
+      - "My state is desperate for my master’s love."
+      - "As I am woman, now, alas the day,"
+      - "What thriftless sighs shall poor Olivia breathe!"
+      - "O time, thou must untangle this, not I."
+      - "It is too hard a knot for me to untie!"
+    m:
+      - "I didn’t give her any ring. What’s she trying to say? I hope she doesn’t have a crush on me! It’s true she looked at me a lot, in fact, she looked at me so much that she seemed distracted, and couldn’t really finish her sentences very well. Oh, I really think she loves me! She sent this rude messenger to tell me to come back, instead of coming herself, which would be indis- creet. She doesn’t want Orsino’s ring! Orsino never sent her a ring. I’m the man she wants. If that’s true, which it is, she might as well be in love with a dream, the poor lady. Now I understand why it’s bad to wear disguises. Disguises help the devil do his work. It’s so easy for a good-looking but deceitful man to make women fall in love with him. It’s not our fault—we women are weak. We can’t help what we’re made of. Ah, how will this all turn out? My lord loves her, and. poor me, I love him just as much. And she’s deluded enough to be in love with me. What can possibly fix this situation? I’m pretending to be a man, so my love for the Duke is hopeless. And since I’m a woman—too bad I’m a woman—Olivia’s love for me is hopeless as well! Oh, only time can sort out this mess. I can’t figure it out by myself!"
+
+  - os: "Exit"
+    ms: "VIOLA exits."

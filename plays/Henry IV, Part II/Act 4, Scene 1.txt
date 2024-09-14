@@ -1,0 +1,789 @@
+play: Henry IV, Part II
+title: Act 4, Scene 1
+group: 4
+order: 10
+text:
+  - os: "Enter the ARCHBISHOP of York, MOWBRAY, HASTINGS, and others"
+    ms: "ARCHBISHOP of York, MOWBRAY, HASTINGS, and others enter."
+
+  - sp: ARCHBISHOP
+    o:
+      - "What is this forest called?"
+    m:
+      - "What’s the name of this forest?"
+
+  - sp: HASTINGS
+    o:
+      - "’Tis Gaultree Forest, an ’t shall please your Grace."
+    m:
+      - "Gaultree Forest, your grace."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Here stand, my lords, and send discoverers forth"
+      - "To know the numbers of our enemies."
+    m:
+      - "Stop here, sirs. Send out scouts to find out how many soldiers our enemy has."
+
+  - sp: HASTINGS
+    o:
+      - "We have sent forth already."
+    m:
+      - "We’ve already done that."
+
+  - sp: ARCHBISHOP
+    o:
+      - "   ’Tis well done."
+      - "My friends and brethren in these great affairs,"
+      - "I must acquaint you that I have received"
+      - "New-dated letters from Northumberland,"
+      - "Their cold intent, tenor, and substance, thus:"
+      - "Here doth he wish his person, with such powers"
+      - "As might hold sortance with his quality,"
+      - "The which he could not levy; whereupon"
+      - "He is retired, to ripe his growing fortunes,"
+      - "To Scotland, and concludes in hearty prayers"
+      - "That your attempts may overlive the hazard"
+      - "And fearful melting of their opposite."
+    m:
+      - "Well done. My friends and brothers in this great undertaking, I have to share with you that I’ve received new letters from Northumberland. They have a chilling purpose, tone, and content. He says that he wishes he could be here in person, with an army as strong someone of his rank should have, but he couldn’t raise one. So he’s going to go to Scotland to increase his power. He prays that your armies will prevail against the terrible power of the enemy."
+
+  - sp: MOWBRAY
+    o:
+      - "Thus do the hopes we have in him touch ground"
+      - "And dash themselves to pieces."
+    m:
+      - "And with that, any hope we had for him is thrown to the ground and dashed to pieces."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: HASTINGS
+    o:
+      - "  Now, what news?"
+    m:
+      - "What’s happening?"
+
+  - sp: MESSENGER
+    o:
+      - "West of this forest, scarcely off a mile,"
+      - "In goodly form comes on the enemy,"
+      - "And, by the ground they hide, I judge their number"
+      - "Upon or near the rate of thirty thousand."
+    m:
+      - "The enemy is west of this forest, and less than a mile away. They look powerful, and, from the amount of space they’re taking up, I’d say they have close to thirty thousand soldiers."
+
+  - sp: MOWBRAY
+    o:
+      - "The just proportion that we gave them out."
+      - "Let us sway on and face them in the field."
+    m:
+      - "That’s exactly the number we thought they had. Let’s march ahead and engage them in battle."
+
+  - os: "Enter WESTMORELAND"
+    ms: "WESTMORELAND enters."
+
+  - sp: ARCHBISHOP
+    o:
+      - "What well-appointed leader fronts us here?"
+    m:
+      - "Who’s this well-equipped leader coming here to confront us?"
+
+  - sp: MOWBRAY
+    o:
+      - "I think it is my Lord of Westmoreland."
+    m:
+      - "I think it’s Lord Westmoreland."
+
+  - sp: WESTMORELAND
+    o:
+      - "Health and fair greeting from our general,"
+      - "The Prince Lord John and Duke of Lancaster."
+    m:
+      - "Our general, the Prince Lord John of Lancaster, sends greetings and wishes you good health."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Say on, my Lord of Westmoreland, in peace,"
+      - "What doth concern your coming."
+    m:
+      - "Speak in peace, Lord Westmoreland. What’s the reason you’ve come here?"
+
+  - sp: WESTMORELAND
+    o:
+      - "  Then, my lord,"
+      - "Unto your Grace do I in chief address"
+      - "The substance of my speech. If that rebellion"
+      - "Came like itself, in base and abject routs,"
+      - "Led on by bloody youth, guarded with rage,"
+      - "And countenanced by boys and beggary—"
+      - "I say, if damn’d commotion so appeared"
+      - "In his true, native, and most proper shape,"
+      - "You, reverend father, and these noble lords"
+      - "Had not been here to dress the ugly form"
+      - "Of base and bloody insurrection"
+      - "With your fair honors. You, Lord Archbishop,"
+      - "Whose see is by a civil peace maintained,"
+      - "Whose beard the silver hand of peace hath touched,"
+      - "Whose learning and good letters peace hath tutored,"
+      - "Whose white investments figure innocence,"
+      - "The dove and very blessèd spirit of peace,"
+      - "Wherefore do you so ill translate yourself"
+      - "Out of the speech of peace, that bears such grace,"
+      - "Into the harsh and boist’rous tongue of war,"
+      - "Turning your books to graves, your ink to blood,"
+      - "Your pens to lances, and your tongue divine"
+      - "To a trumpet and a point of war?"
+    m:
+      - "The most important part of my message is for you, your grace. You, who are a holy man, and these good gentlemen as well—you would not be here, lending dignity to this bloody insurrection, if it appeared as rebellion normally does: like a lowborn mob, led by bloody youths uniformed in rags, and supported by boys and beggars. You, Lord Archbishop—whose diocese is peaceful and law-abiding; whose beard has turned white, signifying a peaceful life; whose education and learning are the products of peaceful times; who is the dove and very blessed embodiment of peace—why are you translating yourself from the graceful language of peace into the harsh, violent language of war? You’re turning your books into coffins, your ink into blood, your pens into swords, and your holy words into a trumpet that sounds a call to arms."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Wherefore do I this? So the question stands."
+      - "Briefly, to this end: we are all diseased,"
+      - "And with our surfeiting and wanton hours"
+      - "Have brought ourselves into a burning fever,"
+      - "And we must bleed for it; of which disease"
+      - "Our late King Richard, being infected, died."
+      - "But, my most noble Lord of Westmoreland,"
+      - "I take not on me here as a physician,"
+      - "Nor do I as an enemy to peace"
+      - "Troop in the throngs of military men,"
+      - "But rather show awhile like fearful war"
+      - "To diet rank minds sick of happiness"
+      - "And purge th’ obstructions which begin to stop"
+      - "Our very veins of life. Hear me more plainly."
+      - "I have in equal balance justly weighed"
+      - "What wrongs our arms may do, what wrongs we suffer,"
+      - "And find our griefs heavier than our offenses."
+      - "We see which way the stream of time doth run"
+      - "And are enforced from our most quiet there"
+      - "By the rough torrent of occasion,"
+      - "And have the summary of all our griefs,"
+      - "When time shall serve, to show in articles;"
+      - "Which long ere this we offered to the King"
+      - "And might by no suit gain our audience."
+      - "When we are wronged and would unfold our griefs,"
+      - "We are denied access unto his person"
+      - "Even by those men that most have done us wrong."
+      - "The dangers of the days but newly gone,"
+      - "Whose memory is written on the earth"
+      - "With yet appearing blood, and the examples"
+      - "Of every minute’s instance, present now,"
+      - "Hath put us in these ill-beseeming arms,"
+      - "Not to break peace or any branch of it,"
+      - "But to establish here a peace indeed,"
+      - "Concurring both in name and quality."
+    m:
+      - "Why am I doing this? That is the question. The short answer is this: we’re all sick. We’ve eaten and drunk too much and stayed up all night, and now we have a burning fever whose only cure is bloodletting. Richard, our late King, was infected with this disease and died from it. But, my good Lord Westmoreland, I’m not here as a physician, nor am I marching with this army as an enemy of peace. What I’m doing is making a frightening show of war, to stop people from indulging all their vices. This will clear the hardening of the arteries which threatens to kill us all. Let me speak more plainly. I’ve carefully considered the options, weighing the harm our armies are likely to cause against the harm we’re already suffering, and I find that our grievances are stronger than our offenses. We can see where things are headed, and the rough times ahead leave us with no choice but to step away from our quiet lives. We have a list of grievances which we can publish at the appropriate time. We offered that list to the King a long time ago, but we could never get an audience with him. We were wronged, and when we tried to speak to the King about it, we were denied access to him by the very men who had wronged us most. We’re in this seemingly unbefitting armor because of the terrible recent violence—the bloodshed from which is still visible on the ground—and because of the terrible things happening now, every minute. We don’t want to harm peace in any way. We want instead to establish a peace that’s real and meaningful."
+
+  - sp: WESTMORELAND
+    o:
+      - "When ever yet was your appeal denied?"
+      - "Wherein have you been gallèd by the King?"
+      - "What peer hath been suborned to grate on you,"
+      - "That you should seal this lawless bloody book"
+      - "Of forged rebellion with a seal divine"
+      - "And consecrate commotion’s bitter edge?"
+    m:
+      - "When was your request to see the King denied? How has the king harmed you? What lord in the King’s court has been sent out to do you wrong? And why would you put your holy stamp of approval on an illegal uprising and give religious blessing to a violent civil war?"
+
+  - sp: ARCHBISHOP
+    o:
+      - "My brother general, the commonwealth,"
+      - "To brother born an household cruelty,"
+      - "I make my quarrel in particular."
+    m:
+      - "The grievances borne by my fellow Englishmen, and the cruel murder of Scroop, my own brother: these are the reasons I’ve made this fight my own."
+
+  - sp: WESTMORELAND
+    o:
+      - "There is no need of any such redress,"
+      - "Or if there were, it not belongs to you."
+    m:
+      - "There’s no need for any repayment like that; and even if there were, you should not be the person to benefit."
+
+  - sp: MOWBRAY
+    o:
+      - "Why not to him in part, and to us all"
+      - "That feel the bruises of the days before"
+      - "And suffer the condition of these times"
+      - "To lay a heavy and unequal hand"
+      - "Upon our honors?"
+    m:
+      - "Why shouldn’t he benefit at least a little? Why shouldn’t we all benefit, who suffered in these recent battles, and who have allowed our honor to be damaged by the terrible things happening now?"
+
+  - sp: WESTMORELAND
+    o:
+      - "  O, my good Lord Mowbray,"
+      - "Construe the times to their necessities,"
+      - "And you shall say indeed it is the time,"
+      - "And not the King, that doth you injuries."
+      - "Yet for your part, it not appears to me"
+      - "Either from the King or in the present time"
+      - "That you should have an inch of any ground"
+      - "To build a grief on. Were you not restored"
+      - "To all the Duke of Norfolk’s seigniories,"
+      - "Your noble and right well remembered father’s?"
+    m:
+      - "Oh, my good Lord Mowbray, if you think about what is necessary in times of war, you’ll see that it is the situation that harms you, and not the King himself. But as for you in particular, it seems to me that you have no foundation on which to build a quarrel with either the King or your current situation. Wasn’t the entire estate of the Duke of Norfolk, your father, just given back to you?"
+
+  - sp: MOWBRAY
+    o:
+      - "What thing, in honor, had my father lost,"
+      - "That need to be revived and breathed in me?"
+      - "The King that loved him, as the state stood then,"
+      - "Was force perforce compelled to banish him,"
+      - "And then that Harry Bolingbroke and he,"
+      - "Being mounted and both rousèd in their seats,"
+      - "Their neighing coursers daring of the spur,"
+      - "Their armèd staves in charge, their beavers down,"
+      - "Their eyes of fire sparking through sights of steel"
+      - "And the loud trumpet blowing them together,"
+      - "Then, then, when there was nothing could have stayed"
+      - "My father from the breast of Bolingbroke,"
+      - "O, when the King did throw his warder down—"
+      - "His own life hung upon the staff he threw—"
+      - "Then threw he down himself and all their lives"
+      - "That by indictment and by dint of sword"
+      - "Have since miscarried under Bolingbroke."
+    m:
+      - "What did my father lose that I now need to restore? Richard, the King at the time, loved my father, but given what was happening he had no choice but to banish him. And then, at Coventry, my father and Harry Bolingbroke met in a formal challenge. They were both mounted on their horses and ready to charge. Their horses were neighing, anxiously waiting for their riders’ spurs to drive them forward. Their steel-tipped lances were ready for the attack. The visors of their helmets were down. Their eyes were on fire behind the steel slits. The trumpet sounded, and then—when there was nothing that could have stopped my father from killing Bolingbroke—the King prevented the fight by throwing down his royal scepter. That scepter was a symbol of his life; when he threw it down, he threw down his life and the lives of every man that has since died at war under the leadership of Bolingbroke."
+
+  - sp: WESTMORELAND
+    o:
+      - "You speak, Lord Mowbray, now you know not what."
+      - "The Earl of Hereford was reputed then"
+      - "In England the most valiant gentleman."
+      - "Who knows on whom fortune would then have smiled?"
+      - "But if your father had been victor there,"
+      - "He ne’er had borne it out of Coventry;"
+      - "For all the country in a general voice"
+      - "Cried hate upon him; and all their prayers and love"
+      - "Were set on Hereford, whom they doted on"
+      - "And blessed and graced, indeed more than the King."
+      - "But this is mere digression from my purpose."
+      - "Here come I from our princely general"
+      - "To know your griefs, to tell you from his Grace"
+      - "That he will give you audience; and wherein"
+      - "It shall appear that your demands are just,"
+      - "You shall enjoy them, everything set off"
+      - "That might so much as think you enemies."
+    m:
+      - "You don’t know what you’re talking about, Lord Mowbray. Bolingbroke at the time was considered the bravest gentleman in England. Who knows who would have won that fight? But even if your father had won, he never would have made it out of Coventry. The whole country hated him, and they loved and prayed for Bolingbroke. They blessed him and adored him even more than the King. But I digress. I was sent here by our general, the Prince, to hear your grievances, and to tell you that he’s prepared to listen to you. If it appears that your demands are legitimate, he’ll give you what you want—except for those things which might suggest that you’re his enemies."
+
+  - sp: MOWBRAY
+    o:
+      - "But he hath forced us to compel this offer;"
+      - "And it proceeds from policy, not love."
+    m:
+      - "But he’s made us force him to listen to us. His offer isn’t motivated by love; it’s a political move."
+
+  - sp: WESTMORELAND
+    o:
+      - "Mowbray, you overween to take it so."
+      - "This offer comes from mercy, not from fear."
+      - "For, lo, within a ken our army lies,"
+      - "Upon mine honor, all too confident"
+      - "To give admittance to a thought of fear."
+      - "Our battle is more full of names than yours,"
+      - "Our men more perfect in the use of arms,"
+      - "Our armor all as strong, our cause the best."
+      - "Then reason will our hearts should be as good."
+      - "Say you not then our offer is compelled."
+    m:
+      - "Mowbray, you’re out of line to think that. His offer is made out of mercy, not fear. Just look, you can see our army from here. I give you my word of honor: that army is so confident, it won’t even allow the thought of fear to enter. Our army has more important people than yours, and better soldiers; our armor is every bit as strong as yours, and our cause is better. It’s only logical that we should be as courageous as you are. So don’t say you’ve forced the Prince to do anything at all."
+
+  - sp: MOWBRAY
+    o:
+      - "Well, by my will, we shall admit no parley."
+    m:
+      - "Well, I say we won’t agree to any conference."
+
+  - sp: WESTMORELAND
+    o:
+      - "That argues but the shame of your offense."
+      - "A rotten case abides no handling."
+    m:
+      - "That just proves that what you’re doing here is shameful. A rotten container falls apart at the touch; likewise, a rotten cause cannot withstand scrutiny and argument."
+
+  - sp: HASTINGS
+    o:
+      - "Hath the Prince John a full commission,"
+      - "In very ample virtue of his father,"
+      - "To hear and absolutely to determine"
+      - "Of what conditions we shall stand upon?"
+    m:
+      - "Has the King given Prince John his full authorization to listen to our complaint, and address it in any way the Prince sees fit?"
+
+  - sp: WESTMORELAND
+    o:
+      - "That is intended in the General’s name."
+      - "I muse you make so slight a question."
+    m:
+      - "That goes without saying. I’m amazed you’d even ask such a foolish question."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Then take, my Lord of Westmoreland, this schedule,"
+      - "For this contains our general grievances."
+      - "Each several article herein redressed,"
+      - "All members of our cause, both here and hence,"
+      - "That are insinewed to this action,"
+      - "Acquitted by a true substantial form"
+      - "And present execution of our wills"
+      - "To us and to our purposes confined,"
+      - "We come within our awful banks again"
+      - "And knit our powers to the arm of peace."
+    m:
+      - "Then, Lord Westmoreland, take this document. It lists our grievances. If each complaint listed here is addressed, and if everyone on our side, both here and elsewhere, is granted a full pardon and immediate satisfaction of our demands, then we’ll return to our own boundaries again and work together for the cause of peace."
+
+  - sp: WESTMORELAND
+    o:
+      - "This will I show the General. Please you, lords,"
+      - "In sight of both our battles we may meet,"
+      - "And either end in peace, which God so frame,"
+      - "Or to the place of difference call the swords"
+      - "Which must decide it."
+    m:
+      - "I’ll show this to the general. Please, let’s meet at a place where both our armies can see us. Then either let our talks end in peace—God willing!—or let us take the fight to the battlefield where it will be decided."
+
+  - sp: ARCHBISHOP
+    o:
+      - "  My lord, we will do so."
+    m:
+      - "My lord, we will do so."
+
+  - os: "Exit WESTMORELAND"
+    ms: "WESTMORELAND exits."
+
+  - sp: MOWBRAY
+    o:
+      - "There is a thing within my bosom tells me"
+      - "That no conditions of our peace can stand."
+    m:
+      - "Something in my heart tells me that no peace we agree to could possibly last."
+
+  - sp: HASTINGS
+    o:
+      - "Fear you not that. If we can make our peace"
+      - "Upon such large terms and so absolute"
+      - "As our conditions shall consist upon,"
+      - "Our peace shall stand as firm as rocky mountains."
+    m:
+      - "Don’t worry about that. If we can come to terms that are as comprehensive as the ones we’re insisting upon, then the peace will be as durable as rocky mountains."
+
+  - sp: MOWBRAY
+    o:
+      - "Yea, but our valuation shall be such"
+      - "That every slight and false-derivèd cause,"
+      - "Yea, every idle, nice, and wanton reason,"
+      - "Shall to the King taste of this action,"
+      - "That, were our royal faiths martyrs in love,"
+      - "We shall be winnowed with so rough a wind"
+      - "That even our corn shall seem as light as chaff"
+      - "And good from bad find no partition."
+    m:
+      - "Yes, but in the future the King will think so poorly of us that every little slight, every false accusation, every tiny, silly, frivolous thing will seem to him to be a revival of this rebellion. Even if we were as devoted to the King as martyrs are to their causes, he’ll regard us so skeptically that even the good things we do for him won’t count; he won’t be able to distinguish them from the bad."
+
+  - sp: ARCHBISHOP
+    o:
+      - "No, no, my lord. Note this: the King is weary"
+      - "Of dainty and such picking grievances,"
+      - "For he hath found to end one doubt by death"
+      - "Revives two greater in the heirs of life;"
+      - "And therefore will he wipe his tables clean"
+      - "And keep no telltale to his memory"
+      - "That may repeat and history his loss"
+      - "To new remembrance. For full well he knows"
+      - "He cannot so precisely weed this land"
+      - "As his misdoubts present occasion;"
+      - "His foes are so enrooted with his friends"
+      - "That, plucking to unfix an enemy,"
+      - "He doth unfasten so and shake a friend;"
+      - "So that this land, like an offensive wife"
+      - "That hath enraged him on to offer strokes,"
+      - "As he is striking holds his infant up"
+      - "And hangs resolved correction in the arm"
+      - "That was upreared to execution."
+    m:
+      - "No, no, sir. Listen, the king is tired of getting upset over every little thing. He’s discovered that ending one problem by killing someone only creates two bigger problems in the people left alive. So from now on, he’ll wipe his memory clean, and forget anything that might remind him of the bad things from his past. He knows that he can’t just eliminate every single opponent who crops up. His enemies are rooted in with his friends, to the extent that, if he tries to pull up an enemy, he’ll also uproot and discard a friend. This country’s like a misbehaving wife, who, just when her husband is about to hit her, holds his baby up, and freezes the intended punishment in the very arm that was poised to apply it."
+
+  - sp: HASTINGS
+    o:
+      - "Besides, the King hath wasted all his rods"
+      - "On late offenders, that he now doth lack"
+      - "The very instruments of chastisement,"
+      - "So that his power, like to a fangless lion,"
+      - "May offer but not hold."
+    m:
+      - "Besides, the King has expended all his energy for punishment on the recent rebellion. He has nothing left to punish with. His power is like a lion with no teeth: it can threaten, but it can’t do any harm."
+
+  - sp: ARCHBISHOP
+    o:
+      - "   ’Tis very true,"
+      - "And therefore be assured, my good Lord Marshal,"
+      - "If we do now make our atonement well,"
+      - "Our peace will, like a broken limb united,"
+      - "Grow stronger for the breaking."
+    m:
+      - "That’s true. Rest assured, my good Lord Marshal, if our reconciliation is sincere, then peace will be like a broken bone, which grows stronger for having once been broken."
+
+  - sp: MOWBRAY
+    o:
+      - "  Be it so."
+      - "Here is returned my Lord of Westmoreland."
+    m:
+      - "I hope so. Lord Westmoreland is back."
+
+  - os: "Enter WESTMORELAND"
+    ms: "WESTMORELAND enters."
+
+  - sp: WESTMORELAND
+    o:
+      - "The Prince is here at hand. Pleaseth your lordship"
+      - "To meet his Grace just distance ’tween our armies."
+    m:
+      - "The Prince is nearby. If you will, please meet him at a spot halfway between our two armies."
+
+  - sp: MOWBRAY
+    o:
+      - "Your Grace of York, in God’s name then set forward."
+    m:
+      - "Your grace, Archbishop of York, go forward in God’s name."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Before, and greet his Grace.—*(to WESTMORELAND)* My lord,"
+      - "  we come."
+    m:
+      - "Lead on, and greet his highness. *(to WESTMORELAND)* Sir, we’re on our way."
+
+  - os: "The ARCHBISHOP, MOWBRAY, YORK, HASTINGS and the others go forward"
+    ms: "The ARCHBISHOP, MOWBRAY, YORK, HASTINGS, and the others cross the stage."
+
+  - os: "Enter Prince John of LANCASTER and officers with him"
+    ms: "Prince John of LANCASTER enters, with officers."
+
+  - sp: LANCASTER
+    o:
+      - "You are well encountered here, my cousin Mowbray.—"
+      - "Good day to you, gentle Lord Archbishop,—"
+      - "And so to you, Lord Hastings, and to all.—"
+      - "My Lord of York, it better showed with you"
+      - "When that your flock, assembled by the bell,"
+      - "Encircled you to hear with reverence"
+      - "Your exposition on the holy text"
+      - "Than now to see you here, an iron man talking,"
+      - "Cheering a rout of rebels with your drum,"
+      - "Turning the word to sword, and life to death."
+      - "That man that sits within a monarch’s heart"
+      - "And ripens in the sunshine of his favor,"
+      - "Would he abuse the countenance of the King,"
+      - "Alack, what mischiefs might he set abroach"
+      - "In shadow of such greatness! With you, Lord Bishop,"
+      - "It is even so. Who hath not heard it spoken"
+      - "How deep you were within the books of God,"
+      - "To us the speaker in His parliament,"
+      - "To us th’ imagined voice of God himself,"
+      - "The very opener and intelligencer"
+      - "Between the grace, the sanctities, of heaven,"
+      - "And our dull workings? O, who shall believe"
+      - "But you misuse the reverence of your place,"
+      - "Employ the countenance and grace of heaven"
+      - "As a false favorite doth his prince’s name,"
+      - "In deeds dishonorable? You have ta’en up,"
+      - "Under the counterfeited zeal of God,"
+      - "The subjects of His substitute, my father,"
+      - "And both against the peace of heaven and him"
+      - "Have here up-swarmed them."
+    m:
+      - "I’m glad to see you, my cousin Mowbray. Good day to you, gentle Archbishop, and to you, Lord Hastings, and to all. Lord Archbishop, it was better to see you when worshippers—called together by the church bell—surrounded you to hear Biblical sermons than it is to see you here, in armor; cheering a mob of rebels with your war drums, turning your words to weapons, and your life into death. When a man is close to the King’s heart, and grows strong under the King’s protection, only to turn against him—alas! What evils that man will unleash, hidden from view by the King’s own reputation! This is exactly how it is with you, Lord Bishop. Who hasn’t heard how profound your religious knowledge is? To us, you were our representative in God’s own parliament. To us, you might as well have been God’s own voice: the interpreter and ambassador between God’s heavenly ways and our own dull, mortal actions. And now, who would say anything but that you are abusing the holiness of your position, using the outward show of godliness to do terrible things, like a treacherous courtier uses the King’s good name? You have pretended to be acting in God’s name as you encourage the subjects of God’s deputy, my father, to rise up against the peace of both heaven and the King."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Good my Lord of Lancaster,"
+      - "I am not here against your father’s peace,"
+      - "But, as I told my Lord of Westmoreland,"
+      - "The time misordered doth, in common sense,"
+      - "Crowd us and crush us to this monstrous form"
+      - "To hold our safety up. I sent your Grace"
+      - "The parcels and particulars of our grief,"
+      - "The which hath been with scorn shoved from the court,"
+      - "Whereon this Hydra son of war is born,"
+      - "Whose dangerous eyes may well be charmed asleep"
+      - "With grant of our most just and right desires,"
+      - "And true obedience, of this madness cured,"
+      - "Stoop tamely to the foot of majesty."
+    m:
+      - "Good Lord of Lancaster, I am not here as an enemy your father’s peace. But, as I told Westmoreland, these tumultuous times have forced us to behave in these monstrous ways, out of common sense and a regard for our own safety. I sent you a detailed list of our grievances, but you angrily shoved it aside. That’s why this Hydra of a war has broken out. You can get rid of it by agreeing to the just and right things we demand. If you do that, this disease of war will be cured, and the monster will bow at your feet, tame and obedient."
+
+  - sp: MOWBRAY
+    o:
+      - "If not, we ready are to try our fortunes"
+      - "To the last man."
+    m:
+      - "If you don’t, we’re ready to fight to the last man."
+
+  - sp: HASTINGS
+    o:
+      - "  And though we here fall down,"
+      - "We have supplies to second our attempt;"
+      - "If they miscarry, theirs shall second them,"
+      - "And so success of mischief shall be born,"
+      - "And heir from heir shall hold this quarrel up"
+      - "Whiles England shall have generation."
+    m:
+      - "And if those of us who are here should fail, we have reinforcements standing by. If they fail, they have reinforcements to back them up, and in this way the fight will go on from father to son for all time until England itself has no more new generations."
+
+  - sp: LANCASTER
+    o:
+      - "You are too shallow, Hastings, much too shallow"
+      - "To sound the bottom of the after-times."
+    m:
+      - "You’re not wise enough, Hastings, not wise enough at all to see into eternity."
+
+  - sp: WESTMORELAND
+    o:
+      - "Pleaseth your Grace to answer them directly"
+      - "How far forth you do like their articles."
+    m:
+      - "Your highness, why not tell them directly what you think of their list of grievances."
+
+  - sp: LANCASTER
+    o:
+      - "I like them all, and do allow them well,"
+      - "And swear here by the honor of my blood,"
+      - "My father’s purposes have been mistook,"
+      - "And some about him have too lavishly"
+      - "Wrested his meaning and authority."
+      - "*(to ARCHBISHOP)* My lord, these griefs shall be with speed redressed;"
+      - "Upon my soul, they shall. If this may please you,"
+      - "Discharge your powers unto their several counties,"
+      - "As we will ours, and here, between the armies,"
+      - "Let’s drink together friendly and embrace,"
+      - "That all their eyes may bear those tokens home"
+      - "Of our restorèd love and amity."
+    m:
+      - "I agree with all of them, and I admit that they’re legitimate. I swear, on my family’s honor: my father’s intentions have been misunderstood, and some of his subordinates have overstepped their authority in executing his orders. *(to ARCHBISHOP)* Sir, we will make good on the wrongs that have been done to you, I swear on my soul. If this pleases you, then disperse your armies and send them back where they came from; we shall do the same. And here, where both armies can see us, we’ll embrace and drink a friendly toast to one another. The soldiers will go home with evidence that we’re friends once again."
+
+  - sp: ARCHBISHOP
+    o:
+      - "I take your princely word for these redresses."
+    m:
+      - "I’ll take your word as a prince that you’ll make good on these things."
+
+  - sp: LANCASTER
+    o:
+      - "I give it you, and will maintain my word,"
+      - "And thereupon I drink unto your Grace."
+    m:
+      - "I give you my word, and I’ll keep it. And with that, I drink a toast to you."
+
+  - sp: HASTINGS
+    o:
+      - "Go, captain, and deliver to the army"
+      - "This news of peace. Let them have pay, and part."
+      - "I know it will well please them. Hie thee, captain."
+    m:
+      - "Go, captain. Tell the army this news of peace. Pay them, and send them away. I know it will make them happy. Hurry, captain."
+
+  - os: "Exit officer"
+    ms: "An officer exits."
+
+  - sp: ARCHBISHOP
+    o:
+      - "To you, my noble Lord of Westmoreland."
+    m:
+      - "Here’s to you, good Lord Westmoreland."
+
+  - sp: WESTMORELAND
+    o:
+      - "I pledge your Grace, and if you knew what pains"
+      - "I have bestowed to breed this present peace,"
+      - "You would drink freely. But my love to you"
+      - "Shall show itself more openly hereafter."
+    m:
+      - "I drink to your grace. If you knew how hard I’ve worked to bring about this peaceful resolution, you’d really drink up. But my love for you will be more apparent from now on."
+
+  - sp: ARCHBISHOP
+    o:
+      - "I do not doubt you."
+    m:
+      - "I don’t doubt it."
+
+  - sp: WESTMORELAND
+    o:
+      - "  I am glad of it.—"
+      - "Health to my lord and gentle cousin, Mowbray."
+    m:
+      - "I’m glad. And here’s to your health, my gentle cousin Lord Mowbray."
+
+  - sp: MOWBRAY
+    o:
+      - "You wish me health in very happy season,"
+      - "For I am on the sudden something ill."
+    m:
+      - "You wish me good health at a very good moment, because for some reason I’m suddenly feeling ill."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Against ill chances men are ever merry,"
+      - "But heaviness foreruns the good event."
+    m:
+      - "Men are always merry in the face of bad situations, but a heavy heart predicts a happy event."
+
+  - sp: WESTMORELAND
+    o:
+      - "Therefore be merry, coz; since sudden sorrow"
+      - "Serves to say thus: “Some good thing comes tomorrow.”"
+    m:
+      - "So be happy, kinsman. A sudden feeling of melancholy is just a sign that says, “Something good is coming tomorrow.”"
+
+  - sp: ARCHBISHOP
+    o:
+      - "Believe me, I am passing light in spirit."
+    m:
+      - "Believe me, I’m in really good spirits."
+
+  - sp: MOWBRAY
+    o:
+      - "So much the worse if your own rule be true."
+    m:
+      - "Which is not a good thing, if your own rule is correct."
+
+  - os: "Shouts within"
+    ms: "Shouts are heard offstage."
+
+  - sp: LANCASTER
+    o:
+      - "The word of peace is rendered. Hark how they shout."
+    m:
+      - "The news of peace has been announced. Listen to them shout!"
+
+  - sp: MOWBRAY
+    o:
+      - "This had been cheerful after victory."
+    m:
+      - "They sound like they are cheering a victory."
+
+  - sp: ARCHBISHOP
+    o:
+      - "A peace is of the nature of a conquest,"
+      - "For then both parties nobly are subdued,"
+      - "And neither party loser."
+    m:
+      - "Peace is a victory of sorts: both sides stop fighting honorably, but neither loses."
+
+  - sp: LANCASTER
+    o:
+      - "  Go, my lord,"
+      - "And let our army be dischargèd too."
+    m:
+      - "Go and disperse our army, too, Lord Westmoreland."
+
+  - os: "Exit WESTMORELAND"
+    ms: "WESTMORELAND exits."
+
+  - o:
+      - "And, good my lord, so please you, let our trains"
+      - "March by us, that we may peruse the men"
+      - "We should have coped withal."
+    m:
+      - "Good Archbishop, let’s have both our troops march past us here so that we can see the men we would have fought against."
+
+  - sp: ARCHBISHOP
+    o:
+      - "  Go, good Lord Hastings,"
+      - "And ere they be dismissed, let them march by."
+    m:
+      - "Go, Lord Hastings, and have them march past before they’re dismissed."
+
+  - os: "Exit HASTINGS"
+    ms: "HASTINGS exits."
+
+  - sp: LANCASTER
+    o:
+      - "I trust, lords, we shall lie tonight together."
+    m:
+      - "I hope, sirs, that we’ll spend tonight in the same camp."
+
+  - os: "Enter WESTMORELAND"
+    ms: "WESTMORELAND enters."
+
+  - o:
+      - "Now, cousin, wherefore stands our army still?"
+    m:
+      - "Cousin, why is our army still standing?"
+
+  - sp: WESTMORELAND
+    o:
+      - "The leaders, having charge from you to stand,"
+      - "Will not go off until they hear you speak."
+    m:
+      - "The leaders have orders from you to stand fast, and they won’t disperse until they hear you give the order."
+
+  - sp: LANCASTER
+    o:
+      - "They know their duties."
+    m:
+      - "They know how to follow orders."
+
+  - os: "Enter HASTINGS"
+    ms: "HASTINGS enters."
+
+  - sp: HASTINGS
+    o:
+      - "My lord, our army is dispersed already."
+      - "Like youthful steers unyoked, they take their courses"
+      - "East, west, north, south, or, like a school broke up,"
+      - "Each hurries toward his home and sporting-place."
+    m:
+      - "Our army is already dispersed. They’ve headed off to the east, west, north, and south like young bulls whose yokes have been removed. The men are like children after school, each hurrying toward their homes or the playground."
+
+  - sp: WESTMORELAND
+    o:
+      - "Good tidings, my Lord Hastings, for the which"
+      - "I do arrest thee, traitor, of high treason.—"
+      - "And you, Lord Archbishop, and you, Lord Mowbray,"
+      - "Of capital treason I attach you both."
+    m:
+      - "That’s good news, Lord Hastings. And hearing it, I now arrest you, traitor, for high treason. And you, Archbishop, and you, Lord Mowbray. I arrest you both for capital treason."
+
+  - sp: MOWBRAY
+    o:
+      - "Is this proceeding just and honorable?"
+    m:
+      - "Is this action just and honorable?"
+
+  - sp: WESTMORELAND
+    o:
+      - "Is your assembly so?"
+    m:
+      - "Was your rebellion just and honorable?"
+
+  - sp: ARCHBISHOP
+    o:
+      - "Will you thus break your faith?"
+    m:
+      - "Will you break faith with us like this?"
+
+  - sp: LANCASTER
+    o:
+      - "  I pawned thee none."
+      - "I promised you redress of these same grievances"
+      - "Whereof you did complain, which, by mine honor,"
+      - "I will perform with a most Christian care."
+      - "But for you rebels, look to taste the due"
+      - "Meet for rebellion and such acts as yours."
+      - "Most shallowly did you these arms commence,"
+      - "Fondly brought here, and foolishly sent hence.—"
+      - "Strike up our drums; pursue the scattered stray."
+      - "God, and not we, hath safely fought today.—"
+      - "Some guard these traitors to the block of death,"
+      - "Treason’s true bed and yielder-up of breath."
+    m:
+      - "I never promised you my faith. I promised to make good on the grievances you complained of. And, on my honor, I will do that as carefully as possible. But now, you rebels will get exactly what you deserve for the things you’ve done. You raised armies over nothing, brought them here stupidly, and then foolishly sent them away. Bang on our drums! Capture the soldiers who are scattering away. God, not we, has fought today and won. Guards, escort these traitors to the place of their death. That’s where treason belongs, and where they’ll draw their last breath."
+
+  - os: "Exeunt"
+    ms: "They exit."

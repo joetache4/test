@@ -1,0 +1,446 @@
+play: The Comedy of Errors
+title: Act 3, Scene 1
+group: 3
+order: 4
+text:
+  - os: "Enter ANTIPHOLUS OF EPHESUS, DROMIO OF EPHESUS, ANGELO, and BALTHASAR"
+    ms: "ANTIPHOLUS OF EPHESUS, DROMIO OF EPHESUS,ANGELO, and BALTHASAR enter."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Good Signior Angelo, you must excuse us all;"
+      - "My wife is shrewish when I keep not hours."
+      - "Say that I lingered with you at your shop"
+      - "To see the making of her carcanet,"
+      - "And that tomorrow you will bring it home."
+      - "But here’s a villain that would face me down"
+      - "He met me on the mart, and that I beat him"
+      - "And charged him with a thousand marks in gold,"
+      - "And that I did deny my wife and house.—"
+      - "Thou drunkard, thou, what didst thou mean by this?"
+    m:
+      - "Signior Angelo, please excuse us. My wife gets angry when I’m late. Here’s the story we’ll tell her: that I was with you at your shop, watching you make her necklace, and that you’re going to deliver it tomorrow. But here comes a scoundrel who says he saw me at the marketplace and that I beat on him, told him I’d given him a thousand marks in gold, and then lied about my wife and my house. You drunkard, what was that all about?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Say what you will, sir, but I know what I know."
+      - "That you beat me at the mart I have your hand to show;"
+      - "If the skin were parchment and the blows you gave were ink,"
+      - "Your own handwriting would tell you what I think."
+    m:
+      - "Say what you want, but I know what I know. You beat me at the marketplace, and I have the bruises to prove it. If my skin were paper and your punches were ink, you could read the beating on my body."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "I think thou art an ass."
+    m:
+      - "I think you’re an ass."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "  Marry, so it doth appear"
+      - "By the wrongs I suffer and the blows I bear."
+      - "I should kick being kicked; and, being at that pass,"
+      - "You would keep from my heels and beware of an ass."
+    m:
+      - "Honestly, it sure looks that way, judging by all the beatings and the bad treatment I’m getting. Since I’m an ass, I ought to kick like one. Then you’d be scared of me and keep away."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "You’re sad, Signior Balthasar. Pray God our cheer"
+      - "May answer my good will and your good welcome here."
+    m:
+      - "Signior Balthasar, you look upset. I hope the good meal I’m going to give you will show the goodwill I bear you and how welcome you are."
+
+  - sp: BALTHASAR
+    o:
+      - "I hold your dainties cheap, sir, and your welcome dear."
+    m:
+      - "Your delicacies aren’t worth as much to me as your welcome is."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "O Signior Balthasar, either at flesh or fish"
+      - "A table full of welcome make scarce one dainty dish."
+    m:
+      - "Signior Balthasar, all the welcome in the world can’t compare to a good meal, whatever kind of food it might be."
+
+  - sp: BALTHASAR
+    o:
+      - "Good meat, sir, is common; that every churl affords."
+    m:
+      - "Good food’s not a big deal—everyone can afford that."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "And welcome more common, for that’s nothing but words."
+    m:
+      - "And everyone can say “welcome,” which is just a word."
+
+  - sp: BALTHASAR
+    o:
+      - "Small cheer and great welcome makes a merry feast."
+    m:
+      - "A little food and a huge welcome makes a joyous feast."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Ay, to a niggardly host and more sparing guest."
+      - "But though my cates be mean, take them in good part."
+      - "Better cheer may you have, but not with better heart."
+      - "But soft! My door is lock’d. *(to DROMIO)* Go, bid them let us in."
+    m:
+      - "Sure, to a cheap host and an even cheaper guest. But look, even if my dishes are poor, eat them with my best wishes. You may come across better food, but not a warmer welcome. What’s this? My door is locked. *(to DROMIO)* Tell them to let us in."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Maud, Bridget, Marian, Ciceley, Gillian, Ginn!"
+    m:
+      - "Maud, Bridget, Marian, Ciceley, Gillian, Ginn!"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* Mome, malt-horse, capon, coxcomb, idiot, patch!"
+      - "Either get thee from the door or sit down at the hatch."
+      - "Dost thou conjure for wenches, that thou call’st for such store"
+      - "When one is one too many? Go, get thee from the door."
+    m:
+      - "*(from offstage)* Dope, moron, eunuch, fool, idiot, clown! Either get away from the door or sit yourself down there! What, are you trying to summon women with your spells—is that why you’re calling out so many names? Isn’t one enough for you? Get away with you!"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "What patch is made our porter? My master stays in the street."
+    m:
+      - "What clown did they hire as the new doorkeeper? My master is standing out in the street!"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* Let him walk from whence he came, lest he catch cold on ’s feet."
+    m:
+      - "*(from offstage)* Then he should go back where he came from so he doesn’t catch a cold."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Who talks within there? Ho, open the door."
+    m:
+      - "Who’s in there? Hey, open the door!"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* Right, sir, I’ll tell you when an you tell me wherefore."
+    m:
+      - "*(from offstage)* Right. Give me one good reason and I will."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Wherefore? For my dinner. I have not dined today."
+    m:
+      - "A reason? So I can eat lunch. I haven’t eaten today."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* Nor today here you must not. Come again when you may."
+    m:
+      - "*(from offstage)* And you won’t eat here today. Come again some other time."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "What art thou that keep’st me out from the house I owe?"
+    m:
+      - "Who do you think you are, keeping me out of my own house?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* The porter for this time, sir, and my name is Dromio."
+    m:
+      - "*(from offstage)* I’m the doorkeeper for the moment, and my name is Dromio."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "O villain, thou hast stolen both mine office and my name!"
+      - "The one ne’er got me credit, the other mickle blame."
+      - "If thou hadst been Dromio today in my place,"
+      - "Thou wouldst have changed thy face for a name, or thy name"
+      - "  for an ass."
+    m:
+      - "You jerk! You’ve stolen both my job and my name! True, the job never did me much good, and my name only ever got me in trouble. If you were the Dromio in my shoes today, you would have felt like you traded your head for a target and your name for the name of “Ass.”"
+
+  - sp: LUCE
+    o:
+      - "*(within)* What a coil is there, Dromio! Who are those at the gate?"
+    m:
+      - "*(from offstage)* What’s all the commotion, Dromio? Who’s at the door?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Let my master in, Luce."
+    m:
+      - "Luce, let my master in."
+
+  - sp: LUCE
+    o:
+      - "  *(within)* Faith, no, he comes too late,"
+      - "And so tell your master."
+    m:
+      - "*(from offstage)* No way, he’s too late. Tell your master that."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "  O Lord, I must laugh."
+      - "Have at you with a proverb: shall I set in my staff?"
+    m:
+      - "Oh, Lord, this makes me laugh! I’ll come at you with the old proverb: “Should I make myself at home?”"
+
+  - sp: LUCE
+    o:
+      - "*(within)* Have at you with another: that’s—When, can you tell?"
+    m:
+      - "*(from offstage)* I’ll come at you with another: “I’d like to see you try it!”"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* If thy name be called “Luce,” Luce, thou hast answered him well."
+    m:
+      - "*(from offstage)* If your name’s Luce, then I say: Luce, good answer!"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Do you hear, you minion? You’ll let us in, I hope?"
+    m:
+      - "Listen up, you slave. Are you going to let us in?"
+
+  - sp: LUCE
+    o:
+      - "*(within)* I thought to have asked you."
+    m:
+      - "*(from offstage)* I was going to ask you that question."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "    *(within)* And you said no."
+    m:
+      - "*(from offstage)* But you already answered no."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "So, come, help. Well struck! There was blow for blow."
+    m:
+      - "Come, help me bang on the door, master. Well done! We answered them, blow for blow."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Thou baggage, let me in."
+    m:
+      - "You good-for-nothing, let me in."
+
+  - sp: LUCE
+    o:
+      - "    *(within)* Can you tell for whose sake?"
+    m:
+      - "*(from offstage)* Says who?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Master, knock the door hard."
+    m:
+      - "Master, knock hard upon the door."
+
+  - sp: LUCE
+    o:
+      - "    *(within)* Let him knock till it ache."
+    m:
+      - "*(from offstage)* He can knock till it hurts."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "You’ll cry for this, minion, if I beat the door down."
+    m:
+      - "If I break the door down, slave, you’ll be sorry for this."
+
+  - sp: LUCE
+    o:
+      - "*(within)* What needs all that, and a pair of stocks in the town?"
+    m:
+      - "*(from offstage)* Why are we putting up with all this? The town’s got a pair of stocks."
+
+  - sp: ADRIANA
+    o:
+      - "*(within)* Who is that at the door that keeps all this noise?"
+    m:
+      - "*(from offstage)* Who’s making such a ruckus at the door?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* By my troth, your town is troubled with unruly boys."
+    m:
+      - "*(from offstage)* I swear, this town’s plagued by troublesome boys."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Are you there, wife? You might have come before."
+    m:
+      - "Is that you, wife? You could have come sooner."
+
+  - sp: ADRIANA
+    o:
+      - "*(within)* Your wife, sir knave? Go, get you from the door."
+    m:
+      - "*(from offstage)* Your wife, you scoundrel? Get away from the door."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "If you went in pain, master, this knave would go sore."
+    m:
+      - "If she punishes you, master, she’s sure to punish me."
+
+  - sp: ANGELO
+    o:
+      - "Here is neither cheer, sir, nor welcome. We would"
+      - "  fain have either."
+    m:
+      - "It looks like we’re not going to get food or welcome here."
+
+  - sp: BALTHASAR
+    o:
+      - "In debating which was best, we shall part with neither."
+    m:
+      - "We argued about which was best, and now we won’t get either one."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "They stand at the door, master. Bid them welcome hither."
+    m:
+      - "Master, your guests are just standing here. Tell them they’re welcome."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "There is something in the wind, that we cannot get in."
+    m:
+      - "There’s something strange in the air that’s keeping us from getting in."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "You would say so, master, if your garments were thin."
+      - "Your cake there is warm within; you stand here in the cold."
+      - "It would make a man mad as a buck to be so bought and sold."
+    m:
+      - "And if your clothes were as thin as mine, you’d really feel the air. The food inside is warm, but you’re out here freezing. It would make any man as mad as a bull to be betrayed like this."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Go, fetch me something: I’ll break ope the gate."
+    m:
+      - "Go get me something I can use to break down the door."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* Break any breaking here, and I’ll break your knave’s pate."
+    m:
+      - "*(from offstage)* Break anything here and I’ll break your head."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "A man may break a word with you, sir, and words are but wind,"
+      - "Ay, and break it in your face, so he break it not behind."
+    m:
+      - "I’ll break words with you, sir. And since words are just wind, I’ll be breaking wind right in your face."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* It seems thou want’st breaking. Out upon thee, hind!"
+    m:
+      - "*(from offstage)* It seems you’re the one who needs to be broken. Be off with you, you dog!"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Here’s too much “out upon thee!” I pray thee, let me in."
+    m:
+      - "I’ve had enough of this “off with you!” Come on, let me in!"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(within)* Ay, when fowls have no feathers and fish have no fin."
+    m:
+      - "*(from offstage)* Of course—when birds have no feathers and fish have no fins."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Well, I’ll break in. Go, borrow me a crow."
+    m:
+      - "Well, I’m going to break in. Go get me a crow."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "A crow without feather? Master, mean you so?"
+      - "For a fish without a fin, there’s a fowl without a feather.—"
+      - "*(to DROMIO OF SYRACUSE)* If a crow help us in, sirrah, we’ll pluck a crow together."
+    m:
+      - "A crow without feathers? Master, do you really mean that? He said “when fish have no fins,” and you came back with a bird with no feathers. *(to DROMIO OF SYRACUSE)* If a crow gets us in, sirrah, then you and I will have a crow to pluck together."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Go, get thee gone. Fetch me an iron crow."
+    m:
+      - "I meant a crowbar. Get going already."
+
+  - sp: BALTHASAR
+    o:
+      - "Have patience, sir. O, let it not be so."
+      - "Herein you war against your reputation,"
+      - "And draw within the compass of suspect"
+      - "Th’ unviolated honor of your wife."
+      - "Once this: your long experience of her wisdom,"
+      - "Her sober virtue, years, and modesty"
+      - "Plead on her part some cause to you unknown."
+      - "And doubt not, sir, but she will well excuse"
+      - "Why at this time the doors are made against you."
+      - "Be ruled by me; depart in patience,"
+      - "And let us to the Tiger all to dinner,"
+      - "And about evening come yourself alone"
+      - "To know the reason of this strange restraint."
+      - "If by strong hand you offer to break in"
+      - "Now in the stirring passage of the day,"
+      - "A vulgar comment will be made of it;"
+      - "And that supposèd by the common rout"
+      - "Against your yet ungallèd estimation"
+      - "That may with foul intrusion enter in"
+      - "And dwell upon your grave when you are dead;"
+      - "For slander lives upon succession,"
+      - "Forever housèd where it gets possession."
+    m:
+      - "Be patient, sir! Don’t do this! This will hurt your reputation and make your wife, who’s innocent, look suspicious. Look, you’ve known her a long time. She’s wise, serious, mature, and modest. All this suggests that she has a good reason for doing this to you. Let’s assume that she has a reason, which you don’t know yet: have faith that she’ll eventually explain why she shut the doors on you today. Listen to me. Be patient and leave, and we’ll all go to the Tiger for lunch. In the evening, come back alone and figure out this strange resistance. If you get violent and break in now, in broad daylight, people will talk about it. The common mob will presume things, and your untarnished reputation will be damaged—and that damage will last long after you’re dead. Slander passes from generation to generation, and once it sticks to a family, it’s there forever."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "You have prevailed. I will depart in quiet"
+      - "And, in despite of mirth, mean to be merry."
+      - "I know a wench of excellent discourse,"
+      - "Pretty and witty, wild and yet, too, gentle."
+      - "There will we dine. This woman that I mean,"
+      - "My wife—but, I protest, without desert—"
+      - "Hath oftentimes upbraided me withal;"
+      - "To her will we to dinner. *(to ANGELO)* Get you home"
+      - "And fetch the chain; by this I know ’tis made."
+      - "Bring it, I pray you, to the Porpentine,"
+      - "For there’s the house. That chain will I bestow—"
+      - "Be it for nothing but to spite my wife—"
+      - "Upon mine hostess there. Good sir, make haste."
+      - "Since mine own doors refuse to entertain me,"
+      - "I’ll knock elsewhere, to see if they’ll disdain me."
+    m:
+      - "You’re right—I’ll go quietly. And even though I’m in a distasteful mood, I’ll work on being happy. I know a terrific wench. She’s beautiful and charming—a little wild, but also gentle. We’ll eat at her place. My wife has accused me more than once of misbehaving with this woman. I swear to her that I haven’t, but it doesn’t change anything. We’ll go to her place for lunch. *(to ANGELO)* Go get the necklace, which I’m sure is done by now. Bring it to the Porcupine, where this woman is. I’ll to give it to her, just to spite my wife. Hurry, good sir. Since my own doors refuse to admit me, I’ll knock somewhere else and see if they turn me away as well."
+
+  - sp: ANGELO
+    o:
+      - "I’ll meet you at that place some hour hence."
+    m:
+      - "I’ll meet you there in an hour."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Do so. This jest shall cost me some expense."
+    m:
+      - "Do that. This little prank of hers is going to cost me."
+
+  - os: "Exeunt"
+    ms: "They exit."

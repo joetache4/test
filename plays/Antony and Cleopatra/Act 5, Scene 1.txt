@@ -1,0 +1,236 @@
+play: Antony and Cleopatra
+title: Act 5, Scene 1
+group: 5
+order: 40
+text:
+  - os: "Enter CAESAR, with AGRIPPA, DOLABELLA, MAECENAS, GALLUS, and PROCULEIUS, and his council of war"
+    ms: "CAESAR enters with his war council: AGRIPPA, DOLABELLA, MAECENAS, GALLUS, and PROCULEIUS."
+
+  - sp: CAESAR
+    o:
+      - "Go to him, Dolabella, bid him yield."
+      - "Being so frustrate, tell him, he mocks"
+      - "The pauses that he makes."
+    m:
+      - "Dolabella, go see Antony. Tell him to surrender. His position is hopeless. This delay makes him look ridiculous."
+
+  - sp: DOLABELLA
+    o:
+      - "    Caesar, I shall."
+    m:
+      - "Right away, Caesar."
+
+  - os: "Exit"
+    ms: "DOLABELLA exits."
+
+  - os: "Enter DERCETUS, with the sword of ANTONY"
+    ms: "DECRETUS enters carrying ANTONY’s sword."
+
+  - sp: CAESAR
+    o:
+      - "Wherefore is that? And what art thou that dar’st"
+      - "Appear thus to us?"
+    m:
+      - "What are you doing with a sword? Who do you think you are coming in here armed?"
+
+  - sp: DERCETUS
+    o:
+      - "    I am called Dercetus."
+      - "Mark Antony I served, who best was worthy"
+      - "Best to be served. Whilst he stood up and spoke,"
+      - "He was my master, and I wore my life"
+      - "To spend upon his haters. If thou please"
+      - "To take me to thee, as I was to him"
+      - "I’ll be to Caesar. If thou pleasest not,"
+      - "I yield thee up my life."
+    m:
+      - "My name is Decretus. I served Mark Antony, who was the commander most worthy of my services. While he was alive, I lived only to serve him and oppose his enemies. If you accept my service, I’ll serve you the same way. If not, you can kill me."
+
+  - sp: CAESAR
+    o:
+      - "    What is ’t thou say’st?"
+    m:
+      - "What are you saying?"
+
+  - sp: DERCETUS
+    o:
+      - "I say, O Caesar, Antony is dead."
+    m:
+      - "Caesar, I’m telling you that Antony is dead."
+
+  - sp: CAESAR
+    o:
+      - "The breaking of so great a thing should make"
+      - "A greater crack. The round world"
+      - "Should have shook lions into civil streets"
+      - "And citizens to their dens. The death of Antony"
+      - "Is not a single doom. In the name lay"
+      - "A moiety of the world."
+    m:
+      - "When such a great man dies there should be a thunderclap. The fractured world, in its confusion, should send lions into the city streets and humans into the wilderness to live in lions’ dens. This isn’t the death of one man. It’s the death of half the world."
+
+  - sp: DERCETUS
+    o:
+      - "    He is dead, Caesar,"
+      - "Not by a public minister of justice,"
+      - "Nor by a hirèd knife, but that self hand"
+      - "Which writ his honor in the acts it did"
+      - "Hath, with the courage which the heart did lend it,"
+      - "Splitted the heart. This is his sword."
+      - "I robbed his wound of it. Behold it stained"
+      - "With his most noble blood."
+    m:
+      - "He’s dead, Caesar. Not by public execution or an assassin’s knife. He killed himself with the same hand that performed such brave acts. With the courage his heart lent his hand, his hand in turn split his heart. This is his sword. I pulled it from his wound. Look—his noble blood is still on it."
+
+  - sp: CAESAR
+    o:
+      - "    Look you, sad friends,"
+      - "The gods rebuke me, but it is tidings"
+      - "To wash the eyes of kings."
+    m:
+      - "Listen, sad friends, though the gods may rebuke me, this news would make kings cry."
+
+  - sp: AGRIPPA
+    o:
+      - "    And strange it is"
+      - "That nature must compel us to lament"
+      - "Our most persisted deeds."
+    m:
+      - "It’s strange that human nature makes us grieve for the very thing we’ve been trying to achieve."
+
+  - sp: MAECENAS
+    o:
+      - "    His taints and honors Waged equal with him."
+    m:
+      - "His faults were equally matched by his virtues."
+
+  - sp: AGRIPPA
+    o:
+      - "    A rarer spirit never"
+      - "Did steer humanity, but you gods will give us"
+      - "Some faults to make us men. Caesar is touched."
+    m:
+      - "There was never a ruler as excellent as he. But gods, you give us faults so we’ll be human. Caesar is upset."
+
+  - sp: MAECENAS
+    o:
+      - "When such a spacious mirror’s set before him,"
+      - "He needs must see himself."
+    m:
+      - "It’s impossible for him not to see himself in Antony."
+
+  - sp: CAESAR
+    o:
+      - "    O Antony,"
+      - "I have followed thee to this, but we do launch"
+      - "Diseases in our bodies. I must perforce"
+      - "Have shown to thee such a declining day,"
+      - "Or look on thine. We could not stall together"
+      - "In the whole world. But yet let me lament"
+      - "With tears as sovereign as the blood of hearts"
+      - "That thou, my brother, my competitor"
+      - "In top of all design, my mate in empire,"
+      - "Friend and companion in the front of war,"
+      - "The arm of mine own body, and the heart"
+      - "Where mine his thoughts did kindle—that our stars,"
+      - "Unreconcilable, should divide"
+      - "Our equalness to this. Hear me, good friends—"
+    m:
+      - "Oh, Antony. I drove you to this. But we have to get rid of a disease if it threatens our body. Either I had to ruin you, or you would have ruined me. There wasn’t enough room in the world for both of us. Even so, let me mourn, with tears that heal like a bloodletting, that you—my brother, my greatest competitor, my partner in rule, my friend and companion on the battlefield, the very arm of my body, and the heart in which mine own heart’s thoughts lived—that our fates could not be reconciled, which caused us to divide ourselves from one another. Let me tell you, friends—"
+
+  - os: "Enter an EGYPTIAN"
+    ms: "An EGYPTIAN enters."
+
+  - o:
+      - "But I will tell you at some meeter season."
+      - "The business of this man looks out of him."
+      - "We’ll hear him what he says. *(to EGYPTIAN)* Whence are you?"
+    m:
+      - "I’ll tell you at a better time. This man looks like his business is urgent. Let’s hear what he has to say. *(to EGYPTIAN)* Who are you?"
+
+  - sp: EGYPTIAN
+    o:
+      - "A poor Egyptian yet, the Queen my mistress,"
+      - "Confined in all she has, her monument,"
+      - "Of thy intents desires instruction,"
+      - "That she preparedly may frame herself"
+      - "To th’ way she’s forced to."
+    m:
+      - "A poor Egyptian, but my mistress, the Queen, sent me to find out what your intentions are concerning her. She’s locked up in her tomb and wants to prepare herself for her fate."
+
+  - sp: CAESAR
+    o:
+      - "    Bid her have good heart."
+      - "She soon shall know of us, by some of ours,"
+      - "How honorable and how kindly we"
+      - "Determine for her, for Caesar cannot live"
+      - "To be ungentle."
+    m:
+      - "Tell her to put her mind at rest. She’ll find out soon enough by one of our messengers how respectfully and kindly we plan to treat her. I cannot be taught how to be cruel."
+
+  - sp: EGYPTIAN
+    o:
+      - "    So the gods preserve thee!"
+    m:
+      - "May the gods bless you."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: CAESAR
+    o:
+      - "Come hither, Proculeius. Go and say"
+      - "We purpose her no shame. Give her what comforts"
+      - "The quality of her passion shall require,"
+      - "Lest, in her greatness, by some mortal stroke"
+      - "She do defeat us, for her life in Rome"
+      - "Would be eternal in our triumph. Go,"
+      - "And with your speediest bring us what she says"
+      - "And how you find of her."
+    m:
+      - "Come here, Proculeius. Tell her we mean her no disrespect. Give her whatever assurances you feel she needs to keep her from killing herself. I need her alive, so that I can exhibit her in my triumphal procession and gain eternal fame. Go, and hurry back to bring us her reply and news of her state of mind."
+
+  - sp: PROCULEIUS
+    o:
+      - "    Caesar, I shall."
+    m:
+      - "I will, Caesar."
+
+  - os: "Exit PROCULEIUS"
+    ms: "PROCULEIUS exits."
+
+  - sp: CAESAR
+    o:
+      - "Gallus, go you along."
+    m:
+      - "Gallus, you go with him."
+
+  - os: "Exit GALLUS"
+    ms: "GALLUS exits."
+
+  - o:
+      - "    Where’s Dolabella,"
+      - "To second Proculeius?"
+    m:
+      - "Where’s Dolabella? He’s supposed to support Proculeius."
+
+  - sp: ALL
+    o:
+      - "    Dolabella!"
+    m:
+      - "Dolabella!"
+
+  - sp: CAESAR
+    o:
+      - "Let him alone, for I remember now"
+      - "How he’s employed. He shall in time be ready."
+      - "Go with me to my tent, where you shall see"
+      - "How hardly I was drawn into this war,"
+      - "How calm and gentle I proceeded still"
+      - "In all my writings. Go with me and see"
+      - "What I can show in this."
+    m:
+      - "Never mind. I remember he’s already occupied. He’ll be done in time. Come with me. In my tent I’ll show you how unwillingly I was drawn into this war. You’ll see how calm and gentle my letters to Antony always were. Come and see the proof."
+
+  - os: "Exeunt"
+    ms: "They exit."

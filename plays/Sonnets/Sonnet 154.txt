@@ -1,0 +1,22 @@
+play: Sonnets
+title: Sonnet 154
+group: 1
+order: 153
+text:
+  - o:
+      - "The little love-god lying once asleep"
+      - "Laid by his side his heart-inflaming brand,"
+      - "Whilst many nymphs that vowed chaste life to keep"
+      - "Came tripping by; but in her maiden hand"
+      - "The fairest votary took up that fire,"
+      - "Which many legions of true hearts had warmed;"
+      - "And so the general of hot desire"
+      - "Was, sleeping, by a virgin hand disarmed."
+      - "This brand she quenchèd in a cool well by,"
+      - "Which from love’s fire took heat perpetual,"
+      - "Growing a bath and healthful remedy"
+      - "For men diseased; but I, my mistress’ thrall,"
+      - "  Came there for cure, and this by that I prove:"
+      - "  Love’s fire heats water; water cools not love."
+    m:
+      - "Once, while sleeping, little Cupid put down his love-inducing torch while many of Diana’s nymphs, who had all made lifelong vows of chastity, came tripping by. But the most beautiful of Diana’s nymphs picked up that fire that had warmed the hearts of legions of faithful lovers. In this fashion, the commander of hot desire was disarmed by the hand of a virgin as he was sleeping. She quenched this torch in a cool spring nearby, and the spring took a perpetual heat from love’s fire. It turned into a hot bath and healthy remedy for diseased men. But when I, enslaved by my mistress, went to the bath to be cured, this is what I learned: Love’s fire heats water, but water doesn’t cool love."

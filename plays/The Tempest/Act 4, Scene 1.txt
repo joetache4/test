@@ -1,0 +1,740 @@
+play: The Tempest
+title: Act 4, Scene 1
+group: 4
+order: 7
+text:
+  - os: "Enter PROSPERO, FERDINAND, and MIRANDA"
+    ms: "PROSPERO, FERDINAND, and MIRANDA enter."
+
+  - sp: PROSPERO
+    o:
+      - "*(to FERDINAND)* If I have too austerely punished you,"
+      - "Your compensation makes amends, for I"
+      - "Have given you here a third of mine own life—"
+      - "Or that for which I live—who once again"
+      - "I tender to thy hand. All thy vexations"
+      - "Were but my trials of thy love and thou"
+      - "Hast strangely stood the test. Here, afore heaven,"
+      - "I ratify this my rich gift. O Ferdinand,"
+      - "Do not smile at me that I boast of her,"
+      - "For thou shalt find she will outstrip all praise"
+      - "And make it halt behind her."
+    m:
+      - "*(to FERDINAND)* If I’ve punished you too harshly, I’m ready to make it up to you now, since I’ve given you a third of my life—everything I live for—my daughter Miranda. I put her in your hands. All the trouble I put you through was to test your love for her, and you’ve passed the test remarkably well. As heaven is my witness, I give you this valuable gift. Oh Ferdinand, don’t smile at me for bragging about Miranda, for you’ll see soon enough that she outshines any praise of her."
+
+  - sp: FERDINAND
+    o:
+      - "    I do believe it"
+      - "Against an oracle."
+    m:
+      - "I’d believe it even if oracles told me differently."
+
+  - sp: PROSPERO
+    o:
+      - "Then as my gift and thine own acquisition"
+      - "Worthily purchased, take my daughter. But"
+      - "If thou dost break her virgin knot before"
+      - "All sanctimonious ceremonies may"
+      - "With full and holy rite be ministered,"
+      - "No sweet aspersion shall the heavens let fall"
+      - "To make this contract grow, but barren hate,"
+      - "Sour-eyed disdain, and discord shall bestrew"
+      - "The union of your bed with weeds so loathly"
+      - "That you shall hate it both. Therefore take heed,"
+      - "As Hymen’s lamps shall light you."
+    m:
+      - "Then take my daughter, both as my gift to you and as something you have earned. But if you have sex with her before the marriage ceremony takes place, the heavens will not bless your relationship, but will overwhelm you with hate, contempt, and discord, and will poison your marriage bed so that you both grow to loathe it. So be careful, and make sure you respect the holy institution of marriage."
+
+  - sp: FERDINAND
+    o:
+      - "    As I hope"
+      - "For quiet days, fair issue, and long life,"
+      - "With such love as ’tis now, the murkiest den,"
+      - "The most opportune place, the strong’st suggestion,"
+      - "Our worser genius can shall never melt"
+      - "Mine honor into lust to take away"
+      - "The edge of that day’s celebration"
+      - "When I shall think, or Phoebus’ steeds are foundered,"
+      - "Or night kept chained below."
+    m:
+      - "I want peace, good kids, and a long life. To protect the love I cherish, I won’t be tempted by any opportunity to forget my honor and give in to lust. I refuse to give up the joys of my wedding day, when I’ll be so eager for my first night of love that I’ll wonder whether evening will ever come."
+
+  - sp: PROSPERO
+    o:
+      - "    Fairly spoke."
+      - "Sit then and talk with her. She is thine own.—"
+      - "What, Ariel! My industrious servant, Ariel!"
+    m:
+      - "You’ve said it well. So have a seat and talk to her. She’s yours.—Come, Ariel! My trusty servant, Ariel!"
+
+  - os: "Enter ARIEL"
+    ms: "ARIEL enters."
+
+  - sp: ARIEL
+    o:
+      - "What would my potent master? Here I am."
+    m:
+      - "What does my powerful master wish for? I’m here."
+
+  - sp: PROSPERO
+    o:
+      - "Thou and thy meaner fellows your last service"
+      - "Did worthily perform, and I must use you"
+      - "In such another trick. Go bring the rabble,"
+      - "O’er whom I give thee power, here to this place."
+      - "Incite them to quick motion, for I must"
+      - "Bestow upon the eyes of this young couple"
+      - "Some vanity of mine art. It is my promise,"
+      - "And they expect it from me."
+    m:
+      - "You and your fellow spirits did your last assignment well, and now I need your help again. Go bring them all here; I give you power over them. Make them act quickly. I have to give this young couple here a small display of my magic powers. I’ve promised them I would, and they’re expecting it."
+
+  - sp: ARIEL
+    o:
+      - "    Presently?"
+    m:
+      - "Right now?"
+
+  - sp: PROSPERO
+    o:
+      - "Ay, with a twink."
+    m:
+      - "Yes, right away."
+
+  - sp: ARIEL
+    o:
+      - "Before you can say “Come” and “Go,”"
+      - "And breathe twice and cry “So, so!”"
+      - "Each one, tripping on his toe,"
+    m:
+      - "Before you can say “Come” and “Go,” And breathe twice, and shout “So, so!” Each one of your servants will rush here,"
+
+  - o:
+      - "Will be here with mop and mow."
+      - "Do you love me, master, no?"
+    m:
+      - "Tripping over his own toes, making funny faces. Do you love me, master? No?"
+
+  - sp: PROSPERO
+    o:
+      - "Dearly my delicate Ariel. Do not approach"
+      - "Till thou dost hear me call."
+    m:
+      - "I love you dearly, Ariel. Don’t come near till you hear me call you."
+
+  - sp: ARIEL
+    o:
+      - "    Well, I conceive."
+    m:
+      - "All right, I understand."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - sp: PROSPERO
+    o:
+      - "*(to FERDINAND)* Look thou be true. Do not give dalliance"
+      - "Too much the rein. The strongest oaths are straw"
+      - "To th’ fire i’ th’ blood. Be more abstemious,"
+      - "Or else, goodnight your vow."
+    m:
+      - "*(to FERDINAND)* Make sure you behave honorably. Don’t go too far with her. If you let yourself get stirred up, you’ll forget your promise of good behavior. Calm yourself down or you’ll forget your vow."
+
+  - sp: FERDINAND
+    o:
+      - "    I warrant you, sir,"
+      - "The white cold virgin snow upon my heart"
+      - "Abates the ardor of my liver."
+    m:
+      - "I assure you, sir, the tender love I feel in my heart is stronger than the sexual passions stirring down below."
+
+  - sp: PROSPERO
+    o:
+      - "    Well.—"
+      - "Now come, my Ariel! Bring a corollary,"
+      - "Rather than want a spirit. Appear and pertly!—"
+    m:
+      - "Good.—Now come, Ariel! Better to have an extra servant on hand than be understaffed. Appear before me now quickly—"
+
+  - os: "Soft music"
+    ms: "Soft music plays."
+
+  - o:
+      - "No tongue. All eyes! Be silent."
+    m:
+      - "No talking. Just watch! Be quiet."
+
+  - os: "Enter IRIS"
+    ms: "IRIS enters."
+
+  - sp: IRIS
+    o:
+      - "Ceres, most bounteous lady, thy rich leas"
+      - "Of wheat, rye, barley, vetches, oats, and peas;"
+      - "Thy turfy mountains, where live nibbling sheep,"
+      - "And flat meads thatched with stover, them to keep;"
+      - "Thy banks with pionèd and twillèd brims,"
+      - "Which spongy April at thy hest betrims"
+      - "To make cold nymphs chaste crowns; and thy broom groves,"
+      - "Whose shadow the dismissèd bachelor loves,"
+      - "Being lass-lorn; thy pole-clipped vineyard;"
+      - "And thy sea-marge, sterile and rocky hard,"
+      - "Where thou thyself dost air—the Queen o’ th’ Sky,"
+      - "Whose watery arch and messenger am I,"
+      - "Bids thee leave these, and with her sovereign grace,"
+    m:
+      - "I am the rainbow-bearing messenger sent by my mistress Juno—the Queen of the Sky. I have come to announce that Juno has asked you, Ceres, goddess of the fields and the earth, to leave your rich farms of wheat, rye, barley, oats, and peas, the hills where the sheep nibble, the furrows that April covers with flowers for nymphs to make crowns with. You must leave the groves where the disappointed bachelor lurks, rejected by his love, and the well-pruned vineyards, and the rocky seashore."
+
+  - os: "JUNO descends above"
+    ms: "JUNO enters above the stage and slowly begins to descend."
+
+  - o:
+      - "Here on this grass plot, in this very place,"
+      - "To come and sport. Her peacocks fly amain."
+      - "Approach, rich Ceres, her to entertain."
+    m:
+      - "You must leave these places and hurry here to this grassy spot, to entertain Juno."
+
+  - os: "Enter CERES"
+    ms: "CERES enters."
+
+  - sp: CERES
+    o:
+      - "Hail, many-colored messenger, that ne’er"
+      - "Dost disobey the wife of Jupiter;"
+      - "Who with thy saffron wings upon my flowers"
+      - "Diffusest honey drops, refreshing showers;"
+      - "And with each end of thy blue bow dost crown"
+      - "My bosky acres and my unshrubbed down,"
+      - "Rich scarf to my proud earth. Why hath thy queen"
+      - "Summoned me hither to this short-grassed green?"
+    m:
+      - "Greetings to you, rainbow messenger, who never disobeys Juno, wife of Jupiter; with your golden wings you sprinkle dewdrops and refreshing showers on my flowers, and arch your colored bow over my wooded fields and grassy meadows, like a beautiful scarf to decorate my earth. Why has your queen, Juno, called me here to this grassy spot?"
+
+  - sp: IRIS
+    o:
+      - "A contract of true love to celebrate,"
+      - "And some donation freely to estate"
+      - "On the blessed lovers."
+    m:
+      - "To celebrate a marriage of true love, and give a gift to the lovers."
+
+  - sp: CERES
+    o:
+      - "    Tell me, heavenly bow,"
+      - "If Venus or her son, as thou dost know,"
+      - "Do now attend the queen? Since they did plot"
+      - "The means that dusky Dis my daughter got,"
+      - "Her and her blind boy’s scandaled company"
+      - "I have forsworn."
+    m:
+      - "Tell me, rainbow, do you know if either Venus, the goddess of love, or her son, Cupid, is accompanying Queen Juno? Ever since Venus and her blind son plotted a way for the god of the underworld to steal my daughter away for half the year, I swore I’d never speak to them again."
+
+  - sp: IRIS
+    o:
+      - "  Of her society"
+      - "Be not afraid. I met her deity"
+      - "Cutting the clouds towards Paphos, and her son"
+      - "Dove-drawn with her. Here thought they to have done"
+      - "Some wanton charm upon this man and maid,"
+      - "Whose vows are that no bed-right shall be paid"
+      - "Till Hymen’s torch be lighted—but in vain."
+      - "Mars’ hot minion is returned again."
+      - "Her waspish-headed son has broke his arrows,"
+      - "Swears he will shoot no more, but play with sparrows"
+      - "And be a boy right out."
+    m:
+      - "Don’t be afraid of her company. I met Venus as she was with her son on her way to her home on Paphos, in a carriage pulled by doves. They were planning to pull a mischievous trick on Ferdinand and Miranda, who have sworn not to sleep together till their wedding day. But their trick failed. Venus went home again, and her little son broke all his arrows, swearing he’ll never shoot them again, but play with birds like other little boys."
+
+  - sp: CERES
+    o:
+      - "    Highest queen of state,"
+      - "Great Juno, comes. I know her by her gait."
+    m:
+      - "Great Queen Juno is coming. I know her by her walk."
+
+  - os: "JUNO descends to the stage"
+    ms: "JUNO comes down to the stage."
+
+  - sp: JUNO
+    o:
+      - "How does my bounteous sister? Go with me"
+      - "To bless this twain that they may prosperous be,"
+      - "And honored in their issue."
+    m:
+      - "How is my generous sister? Come help me bless this couple, so they will be prosperous and have many children."
+
+  - os: "They sing"
+    ms: "They sing."
+
+  - sp: JUNO
+    o:
+      - "*(sings)*"
+      - "  *Honor, riches, marriage, blessing*,"
+      - "  *Long continuance, and increasing*,"
+      - "  *Hourly joys be still upon you*."
+      - "  *Juno sings her blessings on you*."
+    m:
+      - "*(singing)*"
+      - "  *May honor, riches, marriage blessings*,"
+      - "  *Long life, and unending joys come to you*."
+      - "  *Juno sings her blessings onto you.*"
+
+  - sp: CERES
+    o:
+      - "*(sings)*"
+      - "  *Earth’s increase, foison plenty*,"
+      - "  *Barns and garners never empty*,"
+      - "  *Vines and clustering bunches growing*,"
+      - "  *Plants with goodly burden bowing*—"
+      - "  *Spring come to you at the farthest*"
+      - "  *In the very end of harvest*."
+      - "  *Scarcity and want shall shun you*."
+      - "  *Ceres’ blessing so is on you*."
+    m:
+      - "*(singing)*"
+      - "  *Growing crops and large harvests*,"
+      - "  *Barns and silos full of grain*,"
+      - "  *Vines heavy with clustered grapes*,"
+      - "  *Plants straining under their fruit—*"
+      - "  *May spring follow directly autumn’s harvest*,"
+      - "  *With none of winter’s hardships to endure*,"
+      - "  *You will have plenty and want nothing*,"
+      - "  *Ceres’ blessings on you.*"
+
+  - sp: FERDINAND
+    o:
+      - "This is a most majestic vision, and"
+      - "Harmonious charmingly. May I be bold"
+      - "To think these spirits?"
+    m:
+      - "This is a majestic and harmonious vision. Are these spirits we see before us?"
+
+  - sp: PROSPERO
+    o:
+      - "    Spirits, which by mine art"
+      - "I have from their confines called to enact"
+      - "My present fancies."
+    m:
+      - "Yes, they’re spirits that I’ve called out of their prisons to perform my whims."
+
+  - sp: FERDINAND
+    o:
+      - "    Let me live here ever."
+      - "So rare a wondered father and a wife"
+      - "Makes this place paradise."
+    m:
+      - "Let me live here forever. Such a wonderful father-in-law and wife make this place a paradise."
+
+  - os: "JUNO and CERES whisper, and send IRIS on employment"
+    ms: "JUNO and CERES whisper, then send IRIS on a mission."
+
+  - sp: PROSPERO
+    o:
+      - "    Sweet now, silence."
+      - "Juno and Ceres whisper seriously."
+      - "There’s something else to do. Hush and be mute,"
+      - "Or else our spell is marred."
+    m:
+      - "Now be quiet. Juno and Ceres are whispering about something serious. There’s something else to be done. Be silent, or else my magic spell will be broken."
+
+  - sp: IRIS
+    o:
+      - "You nymphs, called naiads of the windring brooks,"
+      - "With your sedged crowns and ever-harmless looks,"
+      - "Leave your crisp channels and on this green land"
+      - "Answer your summons, Juno does command."
+      - "Come, temperate nymphs, and help to celebrate"
+      - "A contract of true love. Be not too late."
+    m:
+      - "You nymphs who live in the wandering brooks, with seaweed crowns and innocent looks, step out of the water and come join us here on this grassy field. Juno orders you. Come, sweet nymphs, and help us celebrate the wedding of two true lovers. Don’t be late."
+
+  - os: "Enter certain nymphs"
+    ms: "Several NYMPHS enter."
+
+  - o:
+      - "You sunburnt sicklemen of August weary,"
+      - "Come hither from the furrow and be merry."
+      - "Make holiday. Your rye-straw hats put on,"
+      - "And these fresh nymphs encounter every one"
+      - "In country footing."
+    m:
+      - "Now, you tanned fieldworkers who are so tired of August’s labors, get out of the dirt and come rejoice with us here. Put your straw hats on, have some fun, and dance with these young nymphs."
+
+  - os: "Enter certain reapers, properly habited They join with the nymphs in a graceful dance towards the end whereof PROSPERO starts suddenly and speaks."
+    ms: "Several fieldworkers enter, dressed appropriately. They join the nymphs in a graceful dance. At the end PROSPERO suddenly acts startled and speaks."
+
+  - sp: PROSPERO
+    o:
+      - "I had forgot that foul conspiracy"
+      - "Of the beast Caliban and his confederates"
+      - "Against my life. The minute of their plot"
+      - "Is almost come.—Well done. Avoid, no more!"
+    m:
+      - "I almost forgot about Caliban’s horrible conspiracy to kill me. The moment they planned to act is almost here. *(to the spirits)*—Good job. Leave now, no more!"
+
+  - os: "To a strange, hollow, and confused noise, the spirits heavily vanish"
+    ms: "The dancers vanish sadly to a strange, hollow, and confused noise."
+
+  - sp: FERDINAND
+    o:
+      - "*(to MIRANDA)* This is strange. Your father’s in some passion"
+      - "That works him strongly."
+    m:
+      - "*(to MIRANDA)* This is strange. Something has really upset your father."
+
+  - sp: MIRANDA
+    o:
+      - "    Never till this day"
+      - "Saw I him touched with anger so distempered."
+    m:
+      - "I’ve never seen him like this. He’s never been as angry and upset as he is now."
+
+  - sp: PROSPERO
+    o:
+      - "*(to FERDINAND)* You do look, my son, in a moved sort,"
+      - "As if you were dismayed. Be cheerful, sir."
+      - "Our revels now are ended. These our actors,"
+      - "As I foretold you, were all spirits and"
+      - "Are melted into air, into thin air."
+      - "And like the baseless fabric of this vision,"
+      - "The cloud-capped towers, the gorgeous palaces,"
+      - "The solemn temples, the great globe itself—"
+      - "Yea, all which it inherit—shall dissolve,"
+      - "And like this insubstantial pageant faded,"
+      - "Leave not a rack behind. We are such stuff"
+      - "As dreams are made on, and our little life"
+      - "Is rounded with a sleep. Sir, I am vexed."
+      - "Bear with my weakness. My old brain is troubled."
+      - "Be not disturbed with my infirmity."
+      - "If you be pleased, retire into my cell"
+      - "And there repose. A turn or two I’ll walk"
+      - "To still my beating mind."
+    m:
+      - "*(to FERDINAND)* You look like something’s bothering you. Cheer up. Our music-and-dance spectacle is over. These actors were all spirits, as I told you, and they’ve all melted into thin air. And just like the whole empty and ungrounded vision you’ve seen, with its towers topped with clouds, its gorgeous palaces, solemn temples, the world itself—and everyone living in it—which will dissolve just as this illusory pageant has dissolved, leaving not even a wisp of cloud behind. We are all made of dreams, and our life stretches from sleep before birth to sleep after death. Sir, I’m upset. Please put up with my weakness. My old brain is troubled. Don’t be disturbed by my illness. If you like, you can rest a while in my room. I’ll go for a short walk to calm down my feverish mind."
+
+  - sp: FERDINAND, MIRANDA
+    o:
+      - "We wish your peace."
+    m:
+      - "We hope you feel better and find some peace."
+
+  - os: "Exeunt FERDINAND and MIRANDA"
+    ms: "They exit."
+
+  - sp: PROSPERO
+    o:
+      - "Come with a thought. I thank thee, Ariel. Come."
+    m:
+      - "Come, Ariel—I summon you with a thought. Thank you, Ariel. Come."
+
+  - os: "Enter ARIEL"
+    ms: "ARIEL enters."
+
+  - sp: ARIEL
+    o:
+      - "Thy thoughts I cleave to. What’s thy pleasure?"
+    m:
+      - "I obey all your thoughts. What do you wish?"
+
+  - sp: PROSPERO
+    o:
+      - "    Spirit,"
+      - "We must prepare to meet with Caliban."
+    m:
+      - "Spirit, we have to get ready to meet with Caliban."
+
+  - sp: ARIEL
+    o:
+      - "Ay, my commander. When I presented Ceres,"
+      - "I thought to have told thee of it, but I feared"
+      - "Lest I might anger thee."
+    m:
+      - "Yes, my master. When I was putting on the Ceres show, I thought of reminding you about Caliban, but I was afraid of upsetting you."
+
+  - sp: PROSPERO
+    o:
+      - "Say again, where didst thou leave these varlets?"
+    m:
+      - "Tell me again, where did you leave those lowlifes?"
+
+  - sp: ARIEL
+    o:
+      - "I told you, sir, they were red-hot with drinking,"
+      - "So full of valor that they smote the air"
+      - "For breathing in their faces, beat the ground"
+      - "For kissing of their feet—yet always bending"
+      - "Towards their project. Then I beat my tabor,"
+      - "At which, like unbacked colts, they pricked their ears,"
+      - "Advanced their eyelids, lifted up their noses"
+      - "As they smelt music. So I charmed their ears"
+      - "That, calflike, they my lowing followed through"
+      - "Toothed briers, sharp furzes, pricking gorse, and thorns,"
+      - "Which entered their frail shins. At last I left them"
+      - "I’ th’ filthy-mantled pool beyond your cell,"
+      - "There dancing up to th’ chins, that the foul lake"
+      - "O’erstunk their feet."
+    m:
+      - "I told you, sir, they were totally drunk, so puffed up with courage that they were getting angry at the air for blowing in their faces, and beating the ground for touching their feet—yet even when drunk, they kept their plan firmly in mind. Then I beat my drum, at which point they pricked up their ears and opened their eyes, looking around for the source of my music. I enchanted them so thoroughly that they followed me through thorn bushes and prickly shrubs that tore up their shins. In the end I left them standing in the smelly pond behind your room, with the stinking water covering them up to their chins."
+
+  - sp: PROSPERO
+    o:
+      - "    This was well done, my bird."
+      - "Thy shape invisible retain thou still."
+      - "The trumpery in my house, go bring it hither"
+      - "For stale to catch these thieves."
+    m:
+      - "Good job, my little one. Stay invisible. Bring the fancy clothes out of my house, to use as bait to catch these thieves."
+
+  - sp: ARIEL
+    o:
+      - "    I go, I go."
+    m:
+      - "I’m going, I’m going."
+
+  - os: "Exit ARIEL"
+    ms: "ARIEL exits."
+
+  - sp: PROSPERO
+    o:
+      - "A devil, a born devil on whose nature"
+      - "Nurture can never stick, on whom my pains,"
+      - "Humanely taken, all, all lost, quite lost."
+      - "And as with age his body uglier grows,"
+      - "So his mind cankers. I will plague them all,"
+      - "Even to roaring."
+    m:
+      - "He’s a devil, a born devil, who can never be trained. All my attempts to help him, undertaken with the best intentions, have been wasted. As his body grows uglier with age, his mind rots away as well. I’ll torment them all till they roar with pain."
+
+  - os: "Enter ARIEL, loaden with glistering apparel, etc."
+    ms: "ARIEL enters, loaded with sparkling clothes."
+
+  - o:
+      - "Come, hang them on this line."
+    m:
+      - "Here, hang them on this clothesline."
+
+  - os: "Enter CALIBAN, STEPHANO, and TRINCULO, all wet"
+    ms: "CALIBAN, STEPHANO, and TRINCULO enter all wet."
+
+  - sp: CALIBAN
+    o:
+      - "Pray you, tread softly, that the blind mole may not hear a foot fall. We now are near his cell."
+    m:
+      - "Please walk softly, so not even a mole hears us approach. We’re near his room now."
+
+  - sp: STEPHANO
+    o:
+      - "Monster, your fairy, which you say is a harmless fairy, has done little better than played the jack with us."
+    m:
+      - "Hey monster, the spirit you’ve been talking about, the one you call harmless, has been playing tricks on us."
+
+  - sp: TRINCULO
+    o:
+      - "Monster, I do smell all horse piss, at which my nose is in great indignation."
+    m:
+      - "Monster, I smell like horse piss, which is making my nose pretty upset."
+
+  - sp: STEPHANO
+    o:
+      - "So is mine.—Do you hear, monster? If I should take a displeasure against you, look you—"
+    m:
+      - "Mine too.—Are you listening, monster? If I decide to get angry at you, just watch out—"
+
+  - sp: TRINCULO
+    o:
+      - "Thou wert but a lost monster."
+    m:
+      - "You’d be done for then, monster."
+
+  - sp: CALIBAN
+    o:
+      - "Good my lord, give me thy favor still."
+      - "Be patient, for the prize I’ll bring thee to"
+      - "Shall hoodwink this mischance. Therefore speak softly."
+      - "All’s hushed as midnight yet."
+    m:
+      - "My good lord, I still need you to like me. Be patient, because the prize I’m leading you to will make you forget how smelly you are now. So be quiet. It’s as silent as a graveyard here."
+
+  - sp: TRINCULO
+    o:
+      - "Ay, but to lose our bottles in the pool—"
+    m:
+      - "All right, but I can’t get over how we lost our wine bottles in the pond—"
+
+  - sp: STEPHANO
+    o:
+      - "There is not only disgrace and dishonor in that, monster, but an infinite loss."
+    m:
+      - "Yes, monster, it’s worse than the disgrace of getting drenched and smelly. We lost more than our honor when we lost our wine."
+
+  - sp: TRINCULO
+    o:
+      - "That’s more to me than my wetting. Yet this is your harmless fairy, monster."
+    m:
+      - "That upsets me much more than getting wet. And you called the fairy creature harmless, monster."
+
+  - sp: STEPHANO
+    o:
+      - "I will fetch off my bottle, though I be o’er ears for my labor."
+    m:
+      - "I’ll get my bottle back if it’s the last thing I do."
+
+  - sp: CALIBAN
+    o:
+      - "Prithee, my king, be quiet. Seest thou here,"
+      - "This is the mouth o’ th’ cell. No noise, and enter."
+      - "Do that good mischief which may make this island"
+      - "Thine own for ever, and I, thy Caliban,"
+      - "For aye thy foot-licker."
+    m:
+      - "Please, my king, be quiet. Look here, this is the entrance to his room. Be silent and go in. Do the deed that will make this island yours forever, and will make me, Caliban, your worshipful foot-licker."
+
+  - sp: STEPHANO
+    o:
+      - "Give me thy hand. I do begin to have bloody thoughts."
+    m:
+      - "Give me your hand. I’m starting to feel murderous urges."
+
+  - sp: TRINCULO
+    o:
+      - "*(seeing the apparel)*"
+      - "O King Stephano! O peer, O worthy Stephano, look what a wardrobe here is for thee!"
+    m:
+      - "*(seeing the clothes)* Oh, King Stephano! Worthy Stephano, look at the fabulous wardrobe waiting for you here!"
+
+  - sp: CALIBAN
+    o:
+      - "Let it alone, thou fool. It is but trash."
+    m:
+      - "Leave it alone, you fool. It’s worthless."
+
+  - sp: TRINCULO
+    o:
+      - "Oh, ho, monster, we know what belongs to a frippery.—"
+      - "*(puts on a gown)* O King Stephano!"
+    m:
+      - "Oh, monster, we know secondhand clothes when we see them.—*(he puts on one of the gowns)* Oh, King Stephano!"
+
+  - sp: STEPHANO
+    o:
+      - "Put off that gown, Trinculo. By this hand, I’ll have that gown."
+    m:
+      - "Take off that gown, Trinculo. I swear that gown’s for me."
+
+  - sp: TRINCULO
+    o:
+      - "Thy grace shall have it."
+    m:
+      - "You can have it then, your highness."
+
+  - sp: CALIBAN
+    o:
+      - "The dropsy drown this fool! What do you mean"
+      - "To dote thus on such luggage? Let’s alone,"
+      - "And do the murder first. If he awake,"
+      - "From toe to crown he’ll fill our skins with pinches,"
+      - "Make us strange stuff."
+    m:
+      - "To hell with this idiot! Why are you going crazy over these trashy clothes? Leave them alone, and do the murder first. If he wakes up before we kill him, he’ll never stop punishing us."
+
+  - sp: STEPHANO
+    o:
+      - "Be you quiet, monster.—Mistress line, is not this my jerkin? Now is the jerkin under the line.—Now, jerkin, you are like to lose your hair and prove a bald jerkin."
+    m:
+      - "Shut up, monster.—Madame tree, is this jacket for me? Thank you kindly. The tree’s lost its jacket. *(he takes a jacket hanging on the tree)—*Now the jacket might lose its fur trim and become a bald jacket."
+
+  - sp: TRINCULO
+    o:
+      - "Do, do. We steal by line and level, an ’t like your grace."
+    m:
+      - "Go ahead, take it. We’re stealing things the right way here."
+
+  - sp: STEPHANO
+    o:
+      - "I thank thee for that jest. Here’s a garment for ’t. Wit shall not go unrewarded while I am king of this country. “Steal by line and level” is an excellent pass of pate. There’s another garment for ’t."
+    m:
+      - "Thank you for that joke. Here, I’ll give you some clothes to show my gratitude. As king of this country I like to reward wit when I hear it. “Stealing things the right way” is a great line. Here’s another jacket to say thanks."
+
+  - sp: TRINCULO
+    o:
+      - "Monster, come, put some lime upon your fingers, and away with the rest."
+    m:
+      - "Come here, monster, put some glue on your fingers, and carry away the rest of these clothes for us."
+
+  - sp: CALIBAN
+    o:
+      - "I will have none on ’t. We shall lose our time,"
+      - "And all be turned to barnacles or to apes"
+      - "With foreheads villainous low."
+    m:
+      - "I won’t have any of this. We’re wasting our time. We’ll miss our chance and be turned into geese or apes with low foreheads."
+
+  - sp: STEPHANO
+    o:
+      - "Monster, lay to your fingers. Help to bear this away where my hogshead of wine is, or I’ll turn you out of my kingdom. Go to, carry this."
+    m:
+      - "Monster, use your fingers. Help us carry these clothes to where my barrel of wine is hidden, or I’ll kick you out of my kingdom. Go on, take them."
+
+  - sp: TRINCULO
+    o:
+      - "And this."
+    m:
+      - "Take these too."
+
+  - sp: STEPHANO
+    o:
+      - "Ay, and this."
+    m:
+      - "Yes, and these."
+
+  - os: "A noise of hunters heard Enter divers spirits, in shape of dogs and hounds, hunting them about, PROSPERO and ARIEL setting them on"
+    ms: "A noise of hunters is heard. Various spirits enter disguised as dogs and hounds, chasing STEPHANO, TRINCULO, and CALIBAN around. PROSPERO and ARIEL follow them, urging the dogs on."
+
+  - sp: PROSPERO
+    o:
+      - "Hey, Mountain, hey!"
+    m:
+      - "Hey, Mountain, hey!"
+
+  - sp: ARIEL
+    o:
+      - "    Silver. There it goes, Silver!"
+    m:
+      - "Silver. There they go, Silver!"
+
+  - sp: PROSPERO
+    o:
+      - "Fury, Fury!—There, Tyrant, there. Hark, hark!"
+    m:
+      - "Fury, Fury!—Get over there, Tyrant, there. Listen, listen!"
+
+  - os: "Spirits drive out CALIBAN, STEPHANO, and TRINCULO"
+    ms: "CALIBAN, STEPHANO, and TRINCULO are chased away."
+
+  - o:
+      - "Go charge my goblins that they grind their joints"
+      - "With dry convulsions, shorten up their sinews"
+      - "With agèd cramps, and more pinch-spotted make them"
+      - "Than pard or cat o’ mountain."
+    m:
+      - "Ariel, go order my goblin servants to make these fellows’ bones ache, give them muscle cramps all over, and give them more bruises than leopards have spots."
+
+  - sp: ARIEL
+    o:
+      - "    Hark, they roar."
+    m:
+      - "Listen they’re howling."
+
+  - sp: PROSPERO
+    o:
+      - "Let them be hunted soundly. At this hour"
+      - "Lie at my mercy all mine enemies."
+      - "Shortly shall all my labors end, and thou"
+      - "Shalt have the air at freedom. For a little"
+      - "Follow, and do me service."
+    m:
+      - "Hunt them down. Now all my enemies are at my mercy. Soon all my work will be done, and you’ll be free. Just obey me a little bit longer."
+
+  - os: "Exeunt"
+    ms: "They exit."

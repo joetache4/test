@@ -1,0 +1,1087 @@
+play: Twelfth Night
+title: Act 3, Scene 4
+group: 3
+order: 13
+text:
+  - os: "Enter OLIVIA and MARIA"
+    ms: "OLIVIA and MARIA enter."
+
+  - sp: OLIVIA
+    o:
+      - "I have sent after him. He says he’ll come."
+      - "How shall I feast him? What bestow of him?"
+      - "For youth is bought more oft than begged or borrow’d."
+      - "I speak too loud.—"
+      - "Where’s Malvolio? He is sad and civil"
+      - "And suits well for a servant with my fortunes."
+      - "Where is Malvolio?"
+    m:
+      - "I’ve sent for him. He says he’ll come. What kind of food should I serve him? What presents should I give him? It’s easier to buy young people than to beg or borrow them. Oh, I’m talking too loud.—Where’s Malvolio? He’s very serious, which is right for someone in mourning like me. Where is Malvolio?"
+
+  - sp: MARIA
+    o:
+      - "He’s coming, madam; but in very strange manner. He is sure possessed, madam."
+    m:
+      - "He’s coming, madam; but he’s acting very strangely. He must be possessed by the devil."
+
+  - sp: OLIVIA
+    o:
+      - "Why, what’s the matter? Does he rave?"
+    m:
+      - "Why, what’s the matter with him? Is he talking nonsense?"
+
+  - sp: MARIA
+    o:
+      - "No, madam, he does nothing but smile. Your ladyship were best to have some guard about you if he come, for sure the man is tainted in ’s wits."
+    m:
+      - "No, he just smiles. You should have a guard nearby if he comes in here, because he’s clearly disturbed."
+
+  - sp: OLIVIA
+    o:
+      - "Go call him hither."
+    m:
+      - "Ask him in here."
+
+  - os: "Exit MARIA"
+    ms: "MARIA exits."
+
+  - o:
+      - "  I am as mad as he,"
+      - "If sad and merry madness equal be."
+    m:
+      - "I’m as crazy as he is, if sad craziness and happy craziness are equivalent."
+
+  - os: "Enter MARIA, with MALVOLIO"
+    ms: "MARIA enters with MALVOLIO."
+
+  - o:
+      - "How now, Malvolio?"
+    m:
+      - "What’s going on, Malvolio?"
+
+  - sp: MALVOLIO
+    o:
+      - "Sweet lady, ho, ho."
+    m:
+      - "Hello, sweet lady."
+
+  - sp: OLIVIA
+    o:
+      - "Smilest thou? I sent for thee upon a sad occasion."
+    m:
+      - "You’re smiling? I sent for you about a sad occasion."
+
+  - sp: MALVOLIO
+    o:
+      - "Sad, lady! I could be sad. This does make some obstruction in the blood, this cross-gartering, but what of that? If it please the eye of one, it is with me as the very true sonnet is, “Please one, and please all.”"
+    m:
+      - "Sad, my lady! I could be sad if I wanted to be. These crisscrossing laces do cut off the circulation in my legs a bit, but who cares? As the sonnet says, “If you please one special person, you please everyone who matters.”"
+
+  - sp: OLIVIA
+    o:
+      - "Why, how dost thou, man? What is the matter with thee?"
+    m:
+      - "Why, what’s going on? What’s the matter with you?"
+
+  - sp: MALVOLIO
+    o:
+      - "Not black in my mind, though yellow in my legs. It did come to his hands, and commands shall be executed. I think we do know the sweet Roman hand."
+    m:
+      - "My legs may be yellow, but I don’t feel blue. It was addressed to him, and orders must be obeyed. I think we know whose fancy handwriting that was."
+
+  - sp: OLIVIA
+    o:
+      - "Wilt thou go to bed, Malvolio?"
+    m:
+      - "Don’t you think you should go to bed, Malvolio?"
+
+  - sp: MALVOLIO
+    o:
+      - "To bed? “Ay, sweetheart, and I’ll come to thee.”"
+    m:
+      - "To bed! “Yes, sweetheart, I’ll come to you.”"
+
+  - sp: OLIVIA
+    o:
+      - "God comfort thee! Why dost thou smile so, and kiss thy hand so oft?"
+    m:
+      - "For heaven’s sake, why are you smiling like that and kissing your hand so much?"
+
+  - sp: MARIA
+    o:
+      - "How do you, Malvolio?"
+    m:
+      - "How are you feeling, Malvolio?"
+
+  - sp: MALVOLIO
+    o:
+      - "At your request! Yes, nightingales answer daws!"
+    m:
+      - "You’re asking me! Noble people don’t answer to peasants!"
+
+  - sp: MARIA
+    o:
+      - "Why appear you with this ridiculous boldness before my lady?"
+    m:
+      - "Why are you acting so brazen toward my lady?"
+
+  - sp: MALVOLIO
+    o:
+      - "“Be not afraid of greatness.” ’Twas well writ."
+    m:
+      - "“Don’t be afraid of greatness.” That was well written."
+
+  - sp: OLIVIA
+    o:
+      - "What meanest thou by that, Malvolio?"
+    m:
+      - "What do you mean by that, Malvolio?"
+
+  - sp: MALVOLIO
+    o:
+      - "“Some are born great—”"
+    m:
+      - "“Some are born great—”"
+
+  - sp: OLIVIA
+    o:
+      - "Ha?"
+    m:
+      - "What?"
+
+  - sp: MALVOLIO
+    o:
+      - "“Some achieve greatness—”"
+    m:
+      - "“Some achieve greatness—”"
+
+  - sp: OLIVIA
+    o:
+      - "What sayest thou?"
+    m:
+      - "What are you saying?"
+
+  - sp: MALVOLIO
+    o:
+      - "“And some have greatness thrust upon them.”"
+    m:
+      - "“And some have greatness thrust upon them.”"
+
+  - sp: OLIVIA
+    o:
+      - "Heaven restore thee!"
+    m:
+      - "Heaven help you!"
+
+  - sp: MALVOLIO
+    o:
+      - "“Remember who commended thy yellow stockings—”"
+    m:
+      - "“Remember who liked your yellow stockings—”"
+
+  - sp: OLIVIA
+    o:
+      - "Thy yellow stockings?"
+    m:
+      - "Your yellow stockings?"
+
+  - sp: MALVOLIO
+    o:
+      - "“And wished to see thee cross-gartered.”"
+    m:
+      - "“And wanted to see you with laces crisscrossed over your legs.”"
+
+  - sp: OLIVIA
+    o:
+      - "Cross-gartered?"
+    m:
+      - "Crisscrossed?"
+
+  - sp: MALVOLIO
+    o:
+      - "“Go to, thou art made, if thou desirest to be so—”"
+    m:
+      - "“Go ahead. A happy new life is there if you want it—”"
+
+  - sp: OLIVIA
+    o:
+      - "Am I made?"
+    m:
+      - "Am I a new life?"
+
+  - sp: MALVOLIO
+    o:
+      - "“If not, let me see thee a servant still.”"
+    m:
+      - "“If you don’t want it, just keep acting like a lowly servant.”"
+
+  - sp: OLIVIA
+    o:
+      - "Why, this is very midsummer madness."
+    m:
+      - "This is completely insane."
+
+  - os: "Enter SERVANT"
+    ms: "SERVANT enters."
+
+  - sp: SERVANT
+    o:
+      - "Madam, the young gentleman of the Count Orsino’s is returned. I could hardly entreat him back. He attends your ladyship’s pleasure."
+    m:
+      - "Madam, Count Orsino’s young messenger has returned. It was hard to get him to come back, but he’s here now, waiting for you."
+
+  - sp: OLIVIA
+    o:
+      - "I’ll come to him."
+    m:
+      - "I’ll go to him."
+
+  - os: "Exit SERVANT"
+    ms: "SERVANT exits."
+
+  - o:
+      - "Good Maria, let this fellow be looked to. Where’s my cousin Toby? Let some of my people have a special care of him. I would not have him miscarry for the half of my dowry."
+    m:
+      - "Maria, take care of this poor fellow here. Where’s my cousin Toby? Have some of my servants take care of Malvolio. I’d give half my dowry to keep anything bad from happening to him."
+
+  - os: "Exeunt OLIVIA and MARIA"
+    ms: "OLIVIA and MARIA exit."
+
+  - sp: MALVOLIO
+    o:
+      - "Oh, ho! Do you come near me now? No worse man than Sir Toby to look to me. This concurs directly with the letter. She sends him on purpose that I may appear stubborn to him, for she incites me to that in the letter. “Cast thy humble slough,” says she. “Be opposite with a kinsman, surly with servants. Let thy tongue tang with arguments of state. Put thyself into the trick of singularity,” and consequently sets down the manner how: as, a sad face, a reverend carriage, a slow tongue, in the habit of some sir of note, and so forth. I have limed her, but it is Jove’s doing, and Jove make me thankful! And when she went away now, “Let this fellow be looked to.” “Fellow!” Not “Malvolio,” nor after my degree, but “fellow.” Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance—what can be said? Nothing that can be can come between me and the full prospect of my hopes. Well, Jove, not I, is the doer of this, and he is to be thanked."
+    m:
+      - "Oh ho! Look at me now! No less a person than Sir Toby, Lady Olivia’s own relative, is going to take care of me. This is just what the letter said. She’s sending him to me on purpose, so I can be rude to him just like she said in the letter. “Get rid of your low-class trapping,” she said. “Argue with a relative of mine like a nobleman, and be rude to servants. Talk about politics and affairs of state, and act free and independent.” And then she explains how to do it: I should have a serious face and dignified demeanor, well-modulated speech, acting like a distinguished gentleman and so on. I’ve got her now, but I’ve got God to thank for it! And when she left just now, she said “Take care of this poor fellow here.” Fellow!“ Not ”Malvolio,“ not anything referring to my low station in life, but ”fellow.“ Everything’s going perfectly. Not the tiniest ounce, not the littlest insignificant amount of trouble or bad luck could ruin it—what can I say? Nothing can come between me and the fulfillment of all my hopes. Well, God is responsible for that, not me, and he deserves thanks."
+
+  - os: "Enter MARIA, with SIR TOBY BELCH and FABIAN"
+    ms: "MARIA enters with SIR TOBY BELCH and FABIAN."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Which way is he, in the name of sanctity? If all the devils of hell be drawn in little, and Legion himself possessed him, yet I’ll speak to him."
+    m:
+      - "Where is he, for God’s sake? I don’t care if all the devils in hell crammed together to possess him, I still want to speak to him."
+
+  - sp: FABIAN
+    o:
+      - "Here he is, here he is. How is’t with you, sir? How is’t with you, man?"
+    m:
+      - "Here he is, here he is. How are you, sir?"
+
+  - sp: MALVOLIO
+    o:
+      - "Go off, I discard you. Let me enjoy my private. Go off."
+    m:
+      - "Go away. I don’t want to see your face. Let me enjoy my privacy. Go away."
+
+  - sp: MARIA
+    o:
+      - "*(to SIR TOBY BELCH)* Lo, how hollow the fiend speaks within him! Did not I tell you? Sir Toby, my lady prays you to have a care of him."
+    m:
+      - "*(to SIR TOBY BELCH)* Ooh, listen to the scary devil speaking from inside him! Didn’t I tell you? Sir Toby, Lady Olivia wants you to take care of him."
+
+  - sp: MALVOLIO
+    o:
+      - "Aha! Does she so?"
+    m:
+      - "Ah-ha! Does she?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(to FABIAN and MARIA)* Go to, go to! Peace, peace. We must deal gently with him. Let me alone.—How do you, Malvolio? How is ’t with you? What, man, defy the devil! Consider, he’s an enemy to mankind."
+    m:
+      - "*(to FABIAN and MARIA)* Come on, come on! Calm down, calm down. We need to treat him gently. Let me take care of this.—How are you, Malvolio? How are things? Come on, man, just say no to the devil! Think about it, he’s the enemy of mankind."
+
+  - sp: MALVOLIO
+    o:
+      - "Do you know what you say?"
+    m:
+      - "Do you even know what you’re talking about?"
+
+  - sp: MARIA
+    o:
+      - "*(to SIR TOBY BELCH)* La you, an you speak ill of the devil, how he takes it at heart! Pray God, he be not bewitched!"
+    m:
+      - "*(to SIR TOBY BELCH)* Look at that, he acts insulted if you say bad things about the devil! I hope to God he’s not bewitched!"
+
+  - sp: FABIAN
+    o:
+      - "Carry his water to the wisewoman."
+    m:
+      - "Get a urine sample and take it to a witch doctor to find out."
+
+  - sp: MARIA
+    o:
+      - "Marry, and it shall be done tomorrow morning if I live. My lady would not lose him for more than I’ll say."
+    m:
+      - "Sure thing, we’ll do it tomorrow morning. My lady would never want to lose him."
+
+  - sp: MALVOLIO
+    o:
+      - "How now, mistress?"
+    m:
+      - "What are you saying, mistress?"
+
+  - sp: MARIA
+    o:
+      - "O Lord!"
+    m:
+      - "Oh, Lord!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(to MARIA)* Prithee, hold thy peace. This is not the way. Do you not see you move him? Let me alone with him."
+    m:
+      - "*(to MARIA)* Please, keep quiet. This is not the way to act. Don’t you see you’re upsetting him? Leave me alone with him."
+
+  - sp: FABIAN
+    o:
+      - "No way but gentleness, gently, gently. The fiend is rough and will not be roughly used."
+    m:
+      - "Gentleness is the only way to go—gently, gently. The devil inside him is rough, but we can’t treat it roughly."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(to MALVOLIO)* Why, how now, my bawcock! How dost thou, chuck?"
+    m:
+      - "*(to the imaginary devil inside MALVOLIO)* So how are you, my pretty little bird? How are you doing in there, sweet little chicken?"
+
+  - sp: MALVOLIO
+    o:
+      - "Sir!"
+    m:
+      - "Sir!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Ay, Biddy, come with me.—What, man! ’Tis not for gravity to play at cherry-pit with Satan. Hang him, foul collier!"
+    m:
+      - "Yes, dear little chick, come along with me.—Shut up, man! You’re serious enough to know not to play games with Satan. Damn that dirty black coalminer of a devil!"
+
+  - sp: MARIA
+    o:
+      - "Get him to say his prayers, good Sir Toby, get him to pray."
+    m:
+      - "Get him to say his prayers, Sir Toby, get him to pray."
+
+  - sp: MALVOLIO
+    o:
+      - "My prayers, minx?"
+    m:
+      - "My prayers, you hussy?"
+
+  - sp: MARIA
+    o:
+      - "*(to SIR TOBY BELCH)* No, I warrant you, he will not hear of godliness."
+    m:
+      - "*(to SIR TOBY BELCH)* No, I’m telling you, he refuses to hear anything about religion."
+
+  - sp: MALVOLIO
+    o:
+      - "Go, hang yourselves all! You are idle, shallow things. I am not of your element. You shall know more hereafter."
+    m:
+      - "Go hang yourselves, all of you! You’re all lazy and shallow. I’m not like you. I have a higher future waiting for me. You’ll know more about it later."
+
+  - os: "Exit"
+    ms: "MALVOLIO exits."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Is ’t possible?"
+    m:
+      - "Is it possible?"
+
+  - sp: FABIAN
+    o:
+      - "If this were played upon a stage now, I could condemn it as an improbable fiction."
+    m:
+      - "If this were a play, I’d complain it was unrealistic."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "His very genius hath taken the infection of the device, man."
+    m:
+      - "He’s really taken this prank to heart. He’s playing the role perfectly."
+
+  - sp: MARIA
+    o:
+      - "Nay, pursue him now, lest the device take air and taint."
+    m:
+      - "No, follow him now, before he divulges the prank and ruins everything."
+
+  - sp: FABIAN
+    o:
+      - "Why, we shall make him mad indeed."
+    m:
+      - "Wow, we’re really going to drive him crazy."
+
+  - sp: MARIA
+    o:
+      - "The house will be the quieter."
+    m:
+      - "The house will be so much quieter."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Come, we’ll have him in a dark room and bound. My niece is already in the belief that he’s mad. We may carry it thus, for our pleasure and his penance, till our very pastime, tired out of breath, prompt us to have mercy on him, at which time we will bring the device to the bar and crown thee for a finder of madmen. But see, but see!"
+    m:
+      - "Come on, let’s put him in a dark room and tie him up. My niece already thinks he’s insane. We can go on like this, punishing him and having some fun, until we’re tired of it. Then we can take mercy on him and let him out, and talk about how well the joke went. We’ll also worship you for setting up this trick. Let’s do it, let’s do it!"
+
+  - os: "Enter SIR ANDREW"
+    ms: "SIR ANDREW enters."
+
+  - sp: FABIAN
+    o:
+      - "More matter for a May morning."
+    m:
+      - "Here’s more insanity for us."
+
+  - sp: SIR ANDREW
+    o:
+      - "*(presenting a paper)* Here’s the challenge, read it. Warrant there’s vinegar and pepper in ’t."
+    m:
+      - "*(presenting them a piece of paper)* Here’s the challenge, read it. It’s bursting with fighting words."
+
+  - sp: FABIAN
+    o:
+      - "Is ’t so saucy?"
+    m:
+      - "Is it that aggressive?"
+
+  - sp: SIR ANDREW
+    o:
+      - "Ay, is ’t, I warrant him. Do but read."
+    m:
+      - "Yes, it is, I think. Just read it."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Give me. *(reads)* ”Youth, whatsoever thou art, thou art but a scurvy fellow.“"
+    m:
+      - "Give it to me. *(he reads)* ”Young man, whatever you are, you’re a real scum bucket.“"
+
+  - sp: FABIAN
+    o:
+      - "Good, and valiant."
+    m:
+      - "Nice. Very courageous."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(reads)* ”Wonder not, nor admire not in thy mind, why I do call thee so, for I will show thee no reason for ’t.“"
+    m:
+      - "*(reading)* ”Don’t even ask why I call you that, because I won’t give you any explanation.“"
+
+  - sp: FABIAN
+    o:
+      - "A good note, that keeps you from the blow of the law."
+    m:
+      - "That’s a good thing to put in—it keeps you from getting in trouble with the law."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(reads)* ”Thou comest to the lady Olivia, and in my sight she uses thee kindly. But thou liest in thy throat. That is not the matter I challenge thee for.“"
+    m:
+      - "*(reading)* ”You come to see the lady Olivia, and she’s kind to you. But you’re a complete liar. That’s not why I’m challenging you to a duel.“"
+
+  - sp: FABIAN
+    o:
+      - "Very brief, and to exceeding good sense—less."
+    m:
+      - "Nice and short and full of good sense—or should I say nonsense?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(reads)* ”I will waylay thee going home, where if it be thy chance to kill me—“"
+    m:
+      - "*(reading)* ”I’ll ambush you on your way home, and if you’re lucky enough to kill me—“"
+
+  - sp: FABIAN
+    o:
+      - "Good."
+    m:
+      - "Good."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(reads)* ”Thou killest me like a rogue and a villain.“"
+    m:
+      - "*(reading)* ”You’ll be killing me like a common criminal, a mugger.“"
+
+  - sp: FABIAN
+    o:
+      - "Still you keep o’ the windy side of the law. Good."
+    m:
+      - "You still haven’t said anything incriminating. Good."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(reads)* ”Fare thee well, and God have mercy upon one of our souls. He may have mercy upon mine, but my hope is better, and so look to thyself. Thy friend, as thou usest him, and thy sworn enemy,    Andrew Aguecheek“"
+    m:
+      - "*(reading)* ”Good luck, and may God have mercy on one of our souls. He may have mercy upon mine. But I have a better chance of surviving, so watch out. Signed, your friend, if you treat him right, and your sworn enemy,"
+      - "    Andrew Aguecheek“"
+
+  - o:
+      - "If this letter move him not, his legs cannot. I’ll give ’t him."
+    m:
+      - "If this letter doesn’t make him fight, I don’t know what will. I’ll give it to him."
+
+  - sp: MARIA
+    o:
+      - "You may have very fit occasion for ’t. He is now in some commerce with my lady and will by and by depart."
+    m:
+      - "You might have a great opportunity to give it to him right now. He’s conducting some business with my lady, and sooner or later he’ll leave."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Go, Sir Andrew. Scout me for him at the corner the orchard like a bum-baily. So soon as ever thou seest him, draw, and as thou drawest, swear horrible, for it comes to pass oft that a terrible oath, with a swaggering accent sharply twanged off, gives manhood more approbation than ever proof itself would have earned him. Away!"
+    m:
+      - "Go, Sir Andrew. Look out for him in the corner of the orchard as if you were a sheriff’s deputy. As soon as you see him, draw your sword, and as you draw it, start swearing horribly. Sometimes a terrible swear word, like a well-shot arrow, makes you look more brave and manly than getting in a fight would. Now go!"
+
+  - sp: SIR ANDREW
+    o:
+      - "Nay, let me alone for swearing."
+    m:
+      - "Don’t worry about me not swearing enough."
+
+  - os: "Exit"
+    ms: "SIR ANDREW exits."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Now will not I deliver his letter, for the behavior of the young gentleman gives him out to be of good capacity and breeding. His employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth. He will find it comes from a clodpole. But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek a notable report of valor, and drive the gentleman (as I know his youth will aptly receive it) into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices."
+    m:
+      - "I won’t deliver this letter. The young gentleman’s behavior shows that he’s sensible and has good manners. The fact that he serves as a go-between for his lord and my niece Olivia confirms this. So this letter, which is so incredibly stupid and ignorant, isn’t going to scare him at all. He’ll just think an idiot wrote it. But I’ll deliver Sir Andrew’s challenge by word of mouth, describing Sir Andrew as courageous in battle and convincing the young gentleman that Sir Andrew is furious, impetuous, and a skilled fighter (he’ll believe me because he’s young). This will make them both so afraid that they’ll kill each other just by looking at each other."
+
+  - os: "Enter OLIVIA, with VIOLA"
+    ms: "OLIVIA enters with VIOLA."
+
+  - sp: FABIAN
+    o:
+      - "Here he comes with your niece. Give them way till he take leave, and presently after him."
+    m:
+      - "Here comes the messenger with your niece. Leave them alone until he sets off home, and then follow him."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "I will meditate the while upon some horrid message for a challenge."
+    m:
+      - "Meanwhile, I’ll think of some horrible way to phrase the challenge."
+
+  - os: "Exeunt SIR TOBY BELCH, FABIAN, and MARIA"
+    ms: "SIR TOBY BELCH, FABIAN, and MARIA exit."
+
+  - sp: OLIVIA
+    o:
+      - "I have said too much unto a heart of stone"
+      - "And laid mine honor too unchary on ’t."
+      - "There’s something in me that reproves my fault,"
+      - "But such a headstrong potent fault it is"
+      - "That it but mocks reproof."
+    m:
+      - "I’ve said too much to someone with a heart of stone. I’ve foolishly jeopardized my honor and reputation. I hate myself for behaving that way, but I just had to, and no criticism could have stopped me."
+
+  - sp: VIOLA
+    o:
+      - "With the same ’havior that your passion bears"
+      - "Goes on my master’s grief."
+    m:
+      - "My lord acts just as crazy with love as you do."
+
+  - sp: OLIVIA
+    o:
+      - "Here, wear this jewel for me. ’Tis my picture."
+      - "Refuse it not. It hath no tongue to vex you."
+      - "And I beseech you come again tomorrow."
+      - "What shall you ask of me that I’ll deny,"
+      - "That honor, saved, may upon asking give?"
+    m:
+      - "Here, take this piece of jewelry. There’s a picture of me inside. Don’t refuse it. It won’t annoy you like me, because it doesn’t have a voice. And I beg you, please come here again tomorrow. What could you possibly ask of me that I wouldn’t give you, as long as it didn’t damage my honor and self-respect?"
+
+  - sp: VIOLA
+    o:
+      - "Nothing but this: your true love for my master."
+    m:
+      - "Nothing, except your true love for my lord."
+
+  - sp: OLIVIA
+    o:
+      - "How with mine honor may I give him that"
+      - "Which I have given to you?"
+    m:
+      - "How could I honorably give him what I’ve already given you?"
+
+  - sp: VIOLA
+    o:
+      - "I will acquit you."
+    m:
+      - "I’ll give it back to you."
+
+  - sp: OLIVIA
+    o:
+      - "Well, come again tomorrow. Fare thee well."
+      - "A fiend like thee might bear my soul to hell."
+    m:
+      - "Just come again tomorrow. Good-bye. A devil like you could lead me to hell."
+
+  - os: "Exit"
+    ms: "OLIVIA exits."
+
+  - os: "Enter SIR TOBY BELCH and FABIAN"
+    ms: "SIR TOBY BELCH and FABIAN enter."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Gentleman, God save thee."
+    m:
+      - "Hello, sir."
+
+  - sp: VIOLA
+    o:
+      - "And you, sir."
+    m:
+      - "Hello to you."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "That defense thou hast, betake thee to ’t. Of what nature the wrongs are thou hast done him, I know not, but thy intercepter, full of despite, bloody as the hunter, attends thee at the orchard end. Dismount thy tuck, be yare in thy preparation, for thy assailant is quick, skillful and deadly."
+    m:
+      - "You’d better think up a way to defend yourself. I don’t know what you’ve done to upset him, but someone has challenged you to a duel. He’s riled up and bloodthirsty, and he’s waiting for you at the back of the orchard. Draw your sword and get on your toes, because your assailant is quick, skillful, and deadly."
+
+  - sp: VIOLA
+    o:
+      - "You mistake, sir. I am sure no man hath any quarrel to me. My remembrance is very free and clear from any image of offense done to any man."
+    m:
+      - "There must be some mistake, sir. I’m sure nobody would have any reason to fight with me. I can’t remember anything I’ve ever done to offend anyone."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "You’ll find it otherwise, I assure you. Therefore, if you hold your life at any price, betake you to your guard, for your opposite hath in him what youth, strength, skill, and wrath can furnish man withal."
+    m:
+      - "You’re wrong about that, I assure you. So if you value your life at all, be on your guard. Your opponent has enough youth, strength, skill, and anger to outfight anyone."
+
+  - sp: VIOLA
+    o:
+      - "I pray you, sir, what is he?"
+    m:
+      - "But who is this person, sir?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "He is knight, dubbed with unhatched rapier and on carpet consideration, but he is a devil in private brawl. Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre. Hob, nob, is his word. ”Give ’t or take ’t.“"
+    m:
+      - "He’s a knight. He was made a knight because of his court connections, but when he’s fighting a civilian he’s a real monster. He’s killed three people, and he’s so furious right now that the only thing that will satisfy him is seeing you die. ”Fight to the death\" is his motto."
+
+  - sp: VIOLA
+    o:
+      - "I will return again into the house and desire some conduct of the lady. I am no fighter. I have heard of some kind of men that put quarrels purposely on others, to taste their valor. Belike this is a man of that quirk."
+    m:
+      - "I’ll go back inside and ask the lady for some kind of escort. I’m not a fighter. I’ve heard of men who pick fights with other people on purpose, just to see how brave they are. This man is probably like that."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Sir, no. His indignation derives itself out of a very competent injury. Therefore get you on and give him his desire. Back you shall not to the house, unless you undertake that with me which with as much safety you might answer him. Therefore on, or strip your sword stark naked, for meddle you must, that’s certain, or forswear to wear iron about you."
+    m:
+      - "No, sir. He’s furious because you insulted him, and he has a right to satisfaction. So go out there and give him what he wants. You can’t go back into the house unless you want to fight with me—and if you’re willing to do that, you might as well just go and fight with him. So go to the orchard, or take out your sword right now. You’re going to have to fight one way or another, there’s no doubt about that, or else you’ll have to stop wearing a sword and claiming to be a gentleman."
+
+  - sp: VIOLA
+    o:
+      - "This is as uncivil as strange. I beseech you, do me this courteous office, as to know of the knight what my offense to him is. It is something of my negligence, nothing of my purpose."
+    m:
+      - "This is as rude as it is strange. Please, do me this one favor: find out what I’ve done to offend this knight. It must be something I did accidentally."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "I will do so. Signior Fabian, stay you by this gentleman till my return."
+    m:
+      - "I will do so. Mr. Fabian, stay with this gentleman until I come back."
+
+  - os: "Exit"
+    ms: "SIR TOBY exits."
+
+  - sp: VIOLA
+    o:
+      - "Pray you, sir, do you know of this matter?"
+    m:
+      - "Excuse me, sir, do you know anything about this?"
+
+  - sp: FABIAN
+    o:
+      - "I know the knight is incensed against you, even to a mortal arbitrament, but nothing of the circumstance more."
+    m:
+      - "I know the knight is furious with you, so much that he’s willing to fight you to the death, but I don’t know anything else about it."
+
+  - sp: VIOLA
+    o:
+      - "I beseech you, what manner of man is he?"
+    m:
+      - "What kind of man is he?"
+
+  - sp: FABIAN
+    o:
+      - "Nothing of that wonderful promise, to read him by his form, as you are like to find him in the proof of his valor. He is, indeed, sir, the most skillful, bloody, and fatal opposite that you could possibly have found in any part of Illyria. Will you walk towards him? I will make your peace with him if I can."
+    m:
+      - "He’s not much to look at, but he’s very brave in battle. He really is the most skillful, bloodthirsty, and dangerous opponent you can find in Illyria. Do you want to go see him? I’ll try to calm him down for you if I can."
+
+  - sp: VIOLA
+    o:
+      - "I shall be much bound to you for ’t. I am one that had rather go with sir priest than sir knight. I care not who knows so much of my mettle."
+    m:
+      - "I’d be very grateful to you if you did. I’m much more of a religious type than a fighter, and I don’t care who knows it."
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Enter SIR TOBY BELCH, with SIR ANDREW"
+    ms: "SIR TOBY BELCH enters with SIR ANDREW."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Why, man, he’s a very devil. I have not seen such a firago. I had a pass with him, rapier, scabbard, and all, and he gives me the stuck-in with such a mortal motion, that it is inevitable. And on the answer, he pays you as surely as your feet hit the ground they step on. They say he has been fencer to the Sophy."
+    m:
+      - "Wow, he’s a real devil. I’ve never seen such a monster. I had a round with him, and his sword thrust is so deadly that you can’t even duck out of the way. And when he strikes back at you, he’ll hit you as sure as you’re standing there. They say he used to fence for the shah of Persia."
+
+  - sp: SIR ANDREW
+    o:
+      - "Pox on ’t! I’ll not meddle with him."
+    m:
+      - "That’s it! I won’t mess with him."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Ay, but he will not now be pacified. Fabian can scarce hold him yonder."
+    m:
+      - "Yes, but now there’s no way to calm him down. Fabian can hardly control him over there."
+
+  - sp: SIR ANDREW
+    o:
+      - "Plague on ’t, an I thought he had been valiant and so cunning in fence, I’d have seen him damned ere I’d have challenged him. Let him let the matter slip, and I’ll give him my horse, gray Capilet."
+    m:
+      - "Darn it, if I’d guessed he was so brave and such a good swordsman, I never would have challenged him. I’ll give him my gray horse Capilet if he forgets the whole thing."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "I’ll make the motion. Stand here, make a good show on ’t."
+      - "This shall end without the perdition of souls. *(aside)* Marry,"
+      - "I’ll ride your horse as well as I ride you."
+    m:
+      - "I’ll give it a try. Stay right here and try to look good. This may end without anyone getting killed. *(to himself)* I’ll ride your horse just like I ride you."
+
+  - os: "Enter FABIAN and VIOLA"
+    ms: "FABIAN and VIOLA enter."
+
+  - o:
+      - "*(to FABIAN)* I have his horse to take up the quarrel. I have persuaded him the youth’s a devil."
+    m:
+      - "*(to FABIAN)* He’s given me his horse to try to avoid the fight—I’ve persuaded him that the young man is a fighting machine."
+
+  - sp: FABIAN
+    o:
+      - "He is as horribly conceited of him, and pants and looks pale, as if a bear were at his heels."
+    m:
+      - "He’s just as terrified of Sir Andrew. He’s pale and hyperventilating, as if a bear were chasing him."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(to VIOLA)* There’s no remedy, sir; he will fight with you for ’s oath sake. Marry, he hath better bethought him of his quarrel, and he finds that now scarce to be worth talking of. Therefore, draw for the supportance of his vow. He protests he will not hurt you."
+    m:
+      - "*(to VIOLA)* There’s nothing you can do about it, sir. He insists on fighting with you because he swore he would. But he’s thought over his reason for challenging you to fight, and he realizes it’s so insignificant that it’s not worth thinking about. So draw your sword so he can carry out his vow. He promises not to hurt you."
+
+  - sp: VIOLA
+    o:
+      - "*(aside)* Pray God defend me! A little thing would make me tell them how much I lack of a man."
+    m:
+      - "*(to herself)* God help me! If anything happens I’m going to have to tell them exactly how unmanly I am."
+
+  - sp: FABIAN
+    o:
+      - "Give ground, if you see him furious."
+    m:
+      - "Back off if he seems really furious."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Come, Sir Andrew, there’s no remedy. The gentleman will, for his honor’s sake, have one bout with you. He cannot by the duello avoid it. But he has promised me, as he is a gentleman and a soldier, he will not hurt you. Come on, to ’t."
+    m:
+      - "Come on, Sir Andrew, there’s nothing you can do about it. The gentleman insists on fighting a round with you, for the sake of his honor. The rules of dueling say he has to. But as a gentleman and a soldier he’s promised me he won’t hurt you. Come on, get ready."
+
+  - sp: SIR ANDREW
+    o:
+      - "Pray God, he keep his oath!"
+    m:
+      - "I hope to God he keeps his promise!"
+
+  - sp: VIOLA
+    o:
+      - "I do assure you, ’tis against my will."
+    m:
+      - "I swear to you, I don’t want to be doing this."
+
+  - os: "They draw swords Enter ANTONIO"
+    ms: "They draw their swords. ANTONIO enters."
+
+  - sp: ANTONIO
+    o:
+      - "Put up your sword. If this young gentleman"
+      - "Have done offence, I take the fault on me."
+      - "If you offend him, I for him defy you."
+    m:
+      - "Put your sword away. If this young gentleman has offended you, I’ll take the blame for it. If you’ve offended him, I’ll fight you."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "You, sir? Why, what are you?"
+    m:
+      - "You, sir? Who are you?"
+
+  - sp: ANTONIO
+    o:
+      - "One, sir, that for his love dares yet do more"
+      - "Than you have heard him brag to you he will."
+    m:
+      - "I’m just a good friend of his. In fact, I’d do even more to him than what you’ve heard him promise to do."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Nay, if you be an undertaker, I am for you."
+    m:
+      - "If you’re someone who gets into fights, I’ll fight with you."
+
+  - os: "They draw swords Enter OFFICERS"
+    ms: "They draw their swords. OFFICERS enter."
+
+  - sp: FABIAN
+    o:
+      - "O good Sir Toby, hold! Here come the officers."
+    m:
+      - "Oh, Sir Toby, stop! The police are here."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(to ANTONIO)* I’ll be with you anon."
+    m:
+      - "*(to ANTONIO)* I’ll be back for you soon."
+
+  - sp: VIOLA
+    o:
+      - "*(to ANDREW)* Pray, sir, put your sword up, if you please."
+    m:
+      - "*(to ANDREW)* Please, sir, put away your sword. Please."
+
+  - sp: SIR ANDREW
+    o:
+      - "Marry, will I, sir. And for that I promised you, I’ll be as good as my word. He will bear you easily and reins well."
+    m:
+      - "I certainly will, sir. And as for what I promised to you, I’m as good as my word. You can ride him easily, and he responds well when you pull the reins."
+
+  - sp: FIRST OFFICER
+    o:
+      - "This is the man. Do thy office."
+    m:
+      - "This is the man. Do your job."
+
+  - sp: SECOND OFFICER
+    o:
+      - "Antonio, I arrest thee at the suit of Count Orsino."
+    m:
+      - "Antonio, you’re under arrest on the orders of Count Orsino."
+
+  - sp: ANTONIO
+    o:
+      - "You do mistake me, sir."
+    m:
+      - "You must be mistaking me for someone else, sir."
+
+  - sp: FIRST OFFICER
+    o:
+      - "No, sir, no jot. I know your favor well,"
+      - "Though now you have no sea-cap on your head.—"
+      - "Take him away. He knows I know him well."
+    m:
+      - "No, sir, not at all. I recognize your face perfectly, even without a sailor’s cap on your head.—Take him away. He knows I recognize him."
+
+  - sp: ANTONIO
+    o:
+      - "I must obey. *(to VIOLA)* This comes with seeking you:"
+      - "But there’s no remedy. I shall answer it."
+      - "What will you do, now my necessity"
+      - "Makes me to ask you for my purse? It grieves me"
+      - "Much more for what I cannot do for you"
+      - "Than what befalls myself. You stand amazed,"
+      - "But be of comfort."
+    m:
+      - "I have to obey. *(to VIOLA)* This has happened because I came looking for you, but there’s nothing I can do about it now. I’ll take what’s coming to me. But what’ll you do now that I have to ask you for my purse back? I’m more upset about not being able to help you than I am about what’s going to happen to me. You look so confused. Don’t worry about me."
+
+  - sp: SECOND OFFICER
+    o:
+      - "  Come, sir, away."
+    m:
+      - "Come on, sir, let’s go."
+
+  - sp: ANTONIO
+    o:
+      - "*(to VIOLA)* I must entreat of you some of that money."
+    m:
+      - "*(to VIOLA)* Really, I must ask you for some of that money."
+
+  - sp: VIOLA
+    o:
+      - "What money, sir?"
+      - "For the fair kindness you have showed me here,"
+      - "And part being prompted by your present trouble,"
+      - "Out of my lean and low ability"
+      - "I’ll lend you something. My having is not much."
+      - "I’ll make division of my present with you."
+      - "Hold, there’s half my coffer. *(offering him money)*"
+    m:
+      - "What money, sir? I feel sorry for you in this situation, and I want to thank you for the kindness you’ve shown me here, so I’ll lend you some of my money, though I don’t have much. I’ll give you half of everything I have right now. Take this. It’s half of all my money. *(she offers him money)*"
+
+  - sp: ANTONIO
+    o:
+      - "  Will you deny me now?"
+      - "Is ’t possible that my deserts to you"
+      - "Can lack persuasion? Do not tempt my misery,"
+      - "Lest that it make me so unsound a man"
+      - "As to upbraid you with those kindnesses"
+      - "That I have done for you."
+    m:
+      - "Are you really going to pretend you don’t know me now? After everything I’ve done for you, you’re refusing to help me? Don’t make me more miserable than I am. I might do something really weak and unmanly, like listing the kind things I’ve done for you."
+
+  - sp: VIOLA
+    o:
+      - "  I know of none,"
+      - "Nor know I you by voice or any feature."
+      - "I hate ingratitude more in a man"
+      - "Than lying, vainness, babbling, drunkenness,"
+      - "Or any taint of vice whose strong corruption"
+      - "Inhabits our frail blood—"
+    m:
+      - "I don’t know any kind things you’ve done for me, and I don’t recognize your voice or your face. I hate an ungrateful man more than I hate lying, vanity, babbling, drunkenness, or any other vice that we feeble human beings are susceptible to.—"
+
+  - sp: ANTONIO
+    o:
+      - "  O heavens themselves!"
+    m:
+      - "Oh, my God!"
+
+  - sp: SECOND OFFICER
+    o:
+      - "Come, sir, I pray you, go."
+    m:
+      - "Come on, sir, please. Let’s go."
+
+  - sp: ANTONIO
+    o:
+      - "Let me speak a little. This youth that you see here"
+      - "I snatched one half out of the jaws of death,"
+      - "Relieved him with such sanctity of love,"
+      - "And to his image, which methought did promise"
+      - "Most venerable worth, did I devotion."
+    m:
+      - "No, I’ve got something to say. I saved this young man’s life when he was half-dead, and nursed him back to health lovingly and tenderly. I devoted myself to him, since he looked noble and good."
+
+  - sp: FIRST OFFICER
+    o:
+      - "What’s that to us? The time goes by. Away!"
+    m:
+      - "Why should we care? Time’s passing. Let’s go!"
+
+  - sp: ANTONIO
+    o:
+      - "But oh, how vile an idol proves this god!"
+      - "Thou hast, Sebastian, done good feature shame."
+      - "In nature there’s no blemish but the mind."
+      - "None can be called deformed but the unkind."
+      - "Virtue is beauty, but the beauteous evil"
+      - "Are empty trunks o’erflourished by the devil."
+    m:
+      - "But oh, what a deceiver he turned out to be! You don’t live up to your good looks, Sebastian. You look good but you’re bad on the inside, where it counts, since the only real flaws in nature are in a person’s mind and soul. Only really cruel people can be called deformed. Virtue is beauty, but someone beautiful and wicked is like an empty box decorated by the devil."
+
+  - sp: FIRST OFFICER
+    o:
+      - "The man grows mad. Away with him. Come, come, sir."
+    m:
+      - "The man’s going crazy. Take him away. Come on, sir. Come on."
+
+  - sp: ANTONIO
+    o:
+      - "Lead me on."
+    m:
+      - "Take me."
+
+  - os: "Exit with OFFICERS"
+    ms: "He exits with the OFFICERS."
+
+  - sp: VIOLA
+    o:
+      - "Methinks his words do from such passion fly,"
+      - "That he believes himself. So do not I."
+      - "Prove true, imagination, oh, prove true,"
+      - "That I, dear brother, be now ta’en for you!"
+    m:
+      - "He was so angry I feel he must really believe what he was saying. I don’t believe it. Yet I wish I could. Oh, please be true, please let it be that this man has mistaken me for you, my dear brother!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Come hither, knight. Come hither, Fabian. We’ll whisper o’er a couplet or two of most sage saws."
+    m:
+      - "Come here, Sir Andrew. You too, Fabian. We’ve got some words of wisdom to mull over."
+
+  - sp: VIOLA
+    o:
+      - "He named Sebastian. I my brother know"
+      - "Yet living in my glass. Even such and so"
+      - "In favor was my brother, and he went"
+      - "Still in this fashion, color, ornament,"
+      - "For him I imitate. Oh, if it prove,"
+      - "Tempests are kind and salt waves fresh in love!"
+    m:
+      - "He called me Sebastian. I know my brother’s still alive in a sense, since I see him whenever I look in the mirror. My brother looked like me, and he dressed the same way that I’m dressed now—in the same colors, with the same accessories. Oh, if it turns out to be true that he survived, then that storm was kind, and the ocean was full of love!"
+
+  - os: "Exit"
+    ms: "VIOLA exits."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "A very dishonest paltry boy, and more a coward than a hare. His dishonesty appears in leaving his friend here in necessity and denying him. And for his cowardship, ask Fabian."
+    m:
+      - "He’s a very dishonest, puny boy, and more cowardly than a rabbit. He abandoned his friend here in an emergency, and even pretended he didn’t know him. That shows he’s dishonest. As for his cowardliness, ask Fabian."
+
+  - sp: FABIAN
+    o:
+      - "A coward, a most devout coward, religious in it."
+    m:
+      - "He’s a coward, a total coward. He’s religiously devoted to his cowardice."
+
+  - sp: SIR ANDREW
+    o:
+      - "’Slid, I’ll after him again and beat him."
+    m:
+      - "By God, I’ll go after him again and beat him up."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Do, cuff him soundly, but never draw thy sword."
+    m:
+      - "Please do. Beat him up well, but don’t draw your sword."
+
+  - sp: SIR ANDREW
+    o:
+      - "An I do not—"
+    m:
+      - "I swear I will—"
+
+  - sp: FABIAN
+    o:
+      - "Come, let’s see the event."
+    m:
+      - "Come on, let’s go see what happens."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "I dare lay any money ’twill be nothing yet."
+    m:
+      - "I’ll bet anything you like that nothing will happen, once again."
+
+  - os: "Exeunt"
+    ms: "They all exit."

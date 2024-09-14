@@ -1,0 +1,65 @@
+play: King Lear
+title: Act 5, Scene 2
+group: 5
+order: 24
+text:
+  - os: "Alarum within Enter with drum and colors the powers of France over the stage, and CORDELIA with her father LEAR in her hand And exeunt"
+    ms: "Sounds of battle offstage. CORDELIA enters hand in hand with LEAR, accompanied by drums, banners, and French troops. They cross the stage and exit."
+
+  - os: "Enter EDGAR disguised and GLOUCESTER"
+    ms: "EDGAR enters, disguised, along with GLOUCESTER."
+
+  - sp: EDGAR
+    o:
+      - "Here, father, take the shadow of this tree"
+      - "For your good host. Pray that the right may thrive."
+      - "If ever I return to you again,"
+      - "I’ll bring you comfort."
+    m:
+      - "Here, father, rest awhile in the shade of this tree. Say a little prayer for our side in battle. If I ever come back, I’ll bring you good news."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Grace go with you, sir."
+    m:
+      - "Good luck, sir."
+
+  - os: "Exit EDGAR"
+    ms: "EDGAR exits."
+
+  - os: "Alarum and retreat within"
+    ms: "Sounds of battle offstage. They grow fainter."
+
+  - os: "Enter EDGAR"
+    ms: "EDGAR returns."
+
+  - sp: EDGAR
+    o:
+      - "Away, old man. Give me thy hand. Away!"
+      - "King Lear hath lost, he and his daughter ta’en."
+      - "Give me thy hand. Come on."
+    m:
+      - "We have to get out of here, old man. Let me help you up. Let’s go! King Lear’s been defeated. He and his daughter are captured. Give me your hand. Come on."
+
+  - sp: GLOUCESTER
+    o:
+      - "No further, sir. A man may rot even here."
+    m:
+      - "I can’t go any further, sir. This is as good a place as any to die."
+
+  - sp: EDGAR
+    o:
+      - "What, in ill thoughts again? Men must endure"
+      - "Their going hence even as their coming hither."
+      - "Ripeness is all. Come on."
+    m:
+      - "Are you depressed again? You can’t choose your time of death any more than your time of birth. We live and die when our time comes. Come on."
+
+  - sp: GLOUCESTER
+    o:
+      - "  And that’s true too."
+    m:
+      - "And that’s true too."
+
+  - os: "Exeunt"
+    ms: "They exit."

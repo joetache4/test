@@ -1,0 +1,284 @@
+play: Henry V
+title: Act 4, Scene 3
+group: 4
+order: 19
+text:
+  - os: "Enter GLOUCESTER, BEDFORD, EXETER, ERPINGHAM, with all his host, SALISBURY, and WESTMORELAND"
+    ms: "GLOUCESTER, BEDFORD, EXETER, ERPINGHAM, with his troops, SALISBURY, and WESTMORELAND enter."
+
+  - sp: GLOUCESTER
+    o:
+      - "Where is the king?"
+    m:
+      - "Where is the king?"
+
+  - sp: BEDFORD
+    o:
+      - "The king himself is rode to view their battle."
+    m:
+      - "The king rode out alone to view their troops."
+
+  - sp: WESTMORELAND
+    o:
+      - "Of fighting men they have full threescore thousand."
+    m:
+      - "They have fully sixty thousand fighting men."
+
+  - sp: EXETER
+    o:
+      - "There’s five to one. Besides, they all are fresh."
+    m:
+      - "That’s five to one. Besides, they’re fresh."
+
+  - sp: SALISBURY
+    o:
+      - "God’s arm strike with us! ’Tis a fearful odds."
+      - "God be wi’ you, princes all. I’ll to my charge."
+      - "If we no more meet till we meet in heaven,"
+      - "Then joyfully, my noble Lord of Bedford,"
+      - "My dear Lord Gloucester, and my good Lord Exeter,"
+      - "And my kind kinsman, warriors all, adieu."
+    m:
+      - "May God’s arm strike on our side! These are frightening odds. God be with all of you, princes. I’ll go and join my men. If we don’t meet again before we meet in heaven, still we’ll meet joyfully. My noble Lord of Bedford, my dear Lord Gloucester, and my good Lord Exeter, and my kind kinsmen, warriors all, adieu."
+
+  - sp: BEDFORD
+    o:
+      - "Farewell, good Salisbury, and good luck go with thee."
+    m:
+      - "Farewell, good Salisbury; and may good luck go with you."
+
+  - sp: EXETER
+    o:
+      - "Farewell, kind lord. Fight valiantly today."
+      - "And yet I do thee wrong to mind thee of it,"
+      - "For thou art framed of the firm truth of valor."
+    m:
+      - "Farewell, kind lord. Fight valiantly today. But then I do you wrong to say as much, since you are the very embodiment of bravery."
+
+  - os: "Exit SALISBURY"
+    ms: "SALISBURY exits."
+
+  - sp: BEDFORD
+    o:
+      - "He is as full of valor as of kindness,"
+      - "Princely in both."
+    m:
+      - "He is as full of courage as of kindness, princely in both."
+
+  - os: "Enter KING HENRY"
+    ms: "KING HENRYenters."
+
+  - sp: WESTMORELAND
+    o:
+      - "Oh, that we now had here"
+      - "But one ten thousand of those men in England"
+      - "That do no work today."
+    m:
+      - "Oh, if only we had with us here ten thousand of those men back home in England who aren’t working today."
+
+  - sp: KING HENRY
+    o:
+      - "What’s he that wishes so?"
+      - "My cousin Westmoreland? No, my fair cousin."
+      - "If we are marked to die, we are enough"
+      - "To do our country loss; and if to live,"
+      - "The fewer men, the greater share of honor."
+      - "God’s will, I pray thee wish not one man more."
+      - "By Jove, I am not covetous for gold"
+      - "Nor care I who doth feed upon my cost;"
+      - "It yearns me not if men my garments wear;"
+      - "Such outward things dwell not in my desires."
+      - "But if it be a sin to covet honor,"
+      - "I am the most offending soul alive."
+      - "No, faith, my coz, wish not a man from England."
+      - "God’s peace, I would not lose so great an honor"
+      - "As one man more, methinks, would share from me,"
+      - "For the best hope I have. Oh, do not wish one more!"
+      - "Rather proclaim it, Westmoreland, through my host,"
+      - "That he which hath no stomach to this fight,"
+      - "Let him depart. His passport shall be made,"
+      - "And crowns for convoy put into his purse."
+      - "We would not die in that man’s company"
+      - "That fears his fellowship to die with us."
+      - "This day is called the feast of Crispian."
+      - "He that outlives this day and comes safe home,"
+      - "Will stand o’ tiptoe when the day is named"
+      - "And rouse him at the name of Crispian."
+      - "He that shall see this day, and live old age,"
+      - "Will yearly on the vigil feast his neighbors"
+      - "And say, “Tomorrow is Saint Crispian.”"
+      - "Then will he strip his sleeve and show his scars,"
+      - "And say, “These wounds I had on Crispin’s day.”"
+      - "Old men forget; yet all shall be forgot"
+      - "But he’ll remember with advantages"
+      - "What feats he did that day. Then shall our names,"
+      - "Familiar in his mouth as household words,"
+      - "Harry the King, Bedford and Exeter,"
+      - "Warwick and Talbot, Salisbury and Gloucester,"
+      - "Be in their flowing cups freshly remembered."
+      - "This story shall the good man teach his son,"
+      - "And Crispin Crispian shall ne’er go by,"
+      - "From this day to the ending of the world,"
+      - "But we in it shall be rememberèd—"
+      - "We few, we happy few, we band of brothers;"
+      - "For he today that sheds his blood with me"
+      - "Shall be my brother; be he ne’er so vile,"
+      - "This day shall gentle his condition;"
+      - "And gentlemen in England now abed"
+      - "Shall think themselves accursed they were not here,"
+      - "And hold their manhoods cheap whiles any speaks"
+      - "That fought with us upon Saint Crispin’s day."
+    m:
+      - "Who wishes that? My cousin Westmoreland? No, my dear cousin. If we are slated to die, the fewer, the better for our country, and if we’re slated to live, the fewer men, the greater the share of honor for each of us. In God’s name, I beg you not to wish for one more man. By God, I am not selfish when it comes to money: I don’t care who eats at my expense. It doesn’t bother me when people borrow my clothing—I don’t care about these concrete things. But if it is a sin to be selfish about honor, I am the most guilty soul alive. No, my cousin, don’t wish that even one man who is now in England were here instead. By God, I wouldn’t lose as much honor as a single man more would cost me, I think—not even if it meant giving up my best hope for victory. Oh, do not wish one more! Instead, make this known throughout the army: whoever has no spirit for this fight, let him depart. He will be given safe conduct and money for his passage home. We would not want to die in the company of a man who fears to die with us. This day is called the Feast of Saint Crispian: he who lives to see this day out and comes home safe will stand tall when this day is named and raise himself up at the mention of Crispian. He who survives this day and lives to see old age shall yearly entertain his neighbors on the eve, saying, “Tomorrow is Saint Crispin’s Day.” He’ll roll up his sleeve and show his scars, saying, “I got these wounds on St. Crispin’s Day.” Old men forget. But these men will remember every detail of what they did today long after they’ve forgotten everything else. And as the wine flows, our names, familiar as household words, will be invoked again: Harry the King, Bedford and Exeter, Warwick and Talbot, Salisbury and Gloucester. Good men will tell their sons this story and the Feast of St. Crispin will never go by, from this day to the end of time, without our being remembered: we few, we happy few, we band of brothers—for whoever sheds his blood with me today shall be my brother. However humble his birth, this day shall grant him nobility. And men back in English now safe in their beds will curse themselves for not having been here, and think less of their own manhood when they listen to the stories of those who fought with us here on St. Crispin’s Day."
+
+  - os: "Enter SALISBURY"
+    ms: "SALISBURY enters."
+
+  - sp: SALISBURY
+    o:
+      - "My sovereign lord, bestow yourself with speed."
+      - "The French are bravely in their battles set,"
+      - "And will with all expedience charge on us."
+    m:
+      - "My sovereign lord, join us quickly: the French are all arrayed in battle formation and will charge us at any moment."
+
+  - sp: KING HENRY
+    o:
+      - "All things are ready if our minds be so."
+    m:
+      - "We’re ready if our minds are ready."
+
+  - sp: WESTMORELAND
+    o:
+      - "Perish the man whose mind is backward now!"
+    m:
+      - "Let any man perish who isn’t ready now!"
+
+  - sp: KING HENRY
+    o:
+      - "Thou dost not wish more help from England, coz?"
+    m:
+      - "You don’t wish we had more help from England anymore, cousin?"
+
+  - sp: WESTMORELAND
+    o:
+      - "God’s will, my liege, would you and I alone,"
+      - "Without more help, could fight this royal battle!"
+    m:
+      - "God Almighty, my liege, I wish that you and I could fight this royal battle all alone."
+
+  - sp: KING HENRY
+    o:
+      - "Why, now thou hast unwished five thousand men,"
+      - "Which likes me better than to wish us one."
+      - "—You know your places. God be with you all."
+      - "Tucket"
+    m:
+      - "There! Now you’ve unwished five thousand men, which I prefer to your wishing for one more.—You know your places. God be with you all."
+
+  - os: "Enter MONTJOY"
+    ms: "A trumpet sounds.MONTJOY enters."
+
+  - sp: MONTJOY
+    o:
+      - "Once more I come to know of thee, King Harry,"
+      - "If for thy ransom thou wilt now compound,"
+      - "Before thy most assurèd overthrow."
+      - "For certainly thou art so near the gulf"
+      - "Thou needs must be englutted. Besides, in mercy,"
+      - "The constable desires thee thou wilt mind"
+      - "Thy followers of repentance, that their souls"
+      - "May make a peaceful and a sweet retire"
+      - "From off these fields where, wretches, their poor bodies"
+      - "Must lie and fester."
+    m:
+      - "Once more I come to ask you, King Harry, if you’re ready to negotiate your ransom before your certain defeat. For assuredly, you are so near the abyss that you’re bound to be swallowed up. Moreover, out of mercy, the Constable urges you to remind your men to make their peace with God and repent, so that their souls may depart sweetly and peacefully from these fields where, poor wretches, their bodies will likely fall and fester."
+
+  - sp: KING HENRY
+    o:
+      - "Who hath sent thee now?"
+    m:
+      - "Who sent you this time?"
+
+  - sp: MONTJOY
+    o:
+      - "The constable of France."
+    m:
+      - "The Constable of France."
+
+  - sp: KING HENRY
+    o:
+      - "I pray thee, bear my former answer back."
+      - "Bid them achieve me and then sell my bones."
+      - "Good God, why should they mock poor fellows thus?"
+      - "The man that once did sell the lion’s skin"
+      - "While the beast lived was killed with hunting him."
+      - "A many of our bodies shall no doubt"
+      - "Find native graves, upon the which, I trust,"
+      - "Shall witness live in brass of this day’s work."
+      - "And those that leave their valiant bones in France,"
+      - "Dying like men though buried in your dunghills,"
+      - "They shall be famed; for there the sun shall greet them"
+      - "And draw their honors reeking up to heaven,"
+      - "Leaving their earthly parts to choke your clime,"
+      - "The smell whereof shall breed a plague in France."
+      - "Mark, then, abounding valor in our English,"
+      - "That being dead, like to the bullet’s crazing,"
+      - "Break out into a second course of mischief,"
+      - "Killing in relapse of mortality."
+      - "Let me speak proudly: tell the constable"
+      - "We are but warriors for the working day;"
+      - "Our gayness and our gilt are all besmirched"
+      - "With rainy marching in the painful field."
+      - "There’s not a piece of feather in our host—"
+      - "Good argument, I hope, we will not fly—"
+      - "And time hath worn us into slovenry."
+      - "But, by the Mass, our hearts are in the trim,"
+      - "And my poor soldiers tell me, yet ere night"
+      - "They’ll be in fresher robes, or they will pluck"
+      - "The gay new coats o’er the French soldiers’ heads"
+      - "And turn them out of service. If they do this,"
+      - "As, if God please, they shall, my ransom then"
+      - "Will soon be levied. Herald, save thou thy labor."
+      - "Come thou no more for ransom, gentle herald."
+      - "They shall have none, I swear, but these my joints,"
+      - "Which, if they have, as I will leave ’em them,"
+      - "Shall yield them little. Tell the constable."
+    m:
+      - "Be good enough to take back the same answer I gave before. Tell them to capture me, then sell my bones. Good God! Why do they mock poor fellows this way? The man that once sold the skin of a lion while the beast still lived died hunting him. A good many of our bodies, I imagine, will end up in English soil. And on their graves, I trust, the story of this day’s work will be written in brass. And those who leave their valiant bones in France, dying like men though buried in your dunghills—they’ll be remembered, too. The sun will rise on them here and draw their glory up to heaven, leaving their mortal remains to choke your land: the smell of rotting flesh will breed a plague in France. Then will you notice the abundant valor of our Englishmen, who will embark on a second round of mischief like a ricocheting bullet, killing again as they fall to their deaths. Let me speak proudly: tell the Constable we’re only workaday soldiers. Our finery and shining metal are all rusty from long, painful marches in the rain. There’s not a strand of feather left in our whole army—a good sign, I hope, that we won’t fly away like birds—and time on the field has made us slovenly. But, by God, our hearts are in good shape. And my poor soldiers tell me that before night they’ll be in cleaner clothes. If not, they’ll pull the bright new coats of the French over their heads and send them on their way. If they do this, as they will, God willing, my ransom will soon be raised. Herald, spare yourself. Don’t come again to ask for my ransom, good messenger. I swear the only ransom will be these bones of mine. And if the French get them in the state in which I intend to leave them, they won’t be worth much use to anyone. Tell the constable that."
+
+  - sp: MONTJOY
+    o:
+      - "I shall, King Harry. And so fare thee well."
+      - "Thou never shalt hear herald anymore."
+    m:
+      - "I shall, King Harry. And so farewell. You’ll never hear from the herald again."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KING HENRY
+    o:
+      - "I fear thou wilt once more come again for a ransom."
+    m:
+      - "I’m afraid you’ll come to me again for ransom."
+
+  - os: "Enter YORK"
+    ms: "YORK enters."
+
+  - sp: YORK
+    o:
+      - "My lord, most humbly on my knee I beg"
+      - "The leading of the vaward."
+    m:
+      - "My lord, most humbly on bended knee I beg you to grant me the leading of the vanguard."
+
+  - sp: KING HENRY
+    o:
+      - "Take it, brave York. Now, soldiers, march away,"
+      - "And how Thou pleasest, God, dispose the day."
+    m:
+      - "Take it, brave York. Now, soldiers, advance. And you, God, bestow today’s victory however it pleases You."
+
+  - os: "Exeunt"
+    ms: "They all exit."

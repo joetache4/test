@@ -1,0 +1,928 @@
+play: Much Ado About Nothing
+title: Act 5, Scene 1
+group: 5
+order: 13
+text:
+  - os: "Enter LEONATO andANTONIO"
+    ms: "LEONATO and ANTONIO enter."
+
+  - sp: ANTONIO
+    o:
+      - "If you go on thus, you will kill yourself,"
+      - "And ’tis not wisdom thus to second grief"
+      - "Against yourself."
+    m:
+      - "If you keep on the way you’ve been going, you’ll kill yourself. There’s no point in adding to your grief."
+
+  - sp: LEONATO
+    o:
+      - "  I pray thee, cease thy counsel,"
+      - "Which falls into mine ears as profitless"
+      - "As water in a sieve. Give not me counsel,"
+      - "Nor let no comforter delight mine ear"
+      - "But such a one whose wrongs do suit with mine."
+      - "Bring me a father that so loved his child,"
+      - "Whose joy of her is overwhelmed like mine,"
+      - "And bid him speak of patience."
+      - "Measure his woe the length and breadth of mine,"
+      - "And let it answer every strain for strain,"
+      - "As thus for thus and such a grief for such,"
+      - "In every lineament, branch, shape, and form."
+      - "If such a one will smile and stroke his beard,"
+      - "Bid sorrow wag, cry “hem” when he should groan,"
+      - "Patch grief with proverbs, make misfortune drunk"
+      - "With candle-wasters, bring him yet to me"
+      - "And I of him will gather patience."
+      - "But there is no such man. For, brother, men"
+      - "Can counsel and speak comfort to that grief"
+      - "Which they themselves not feel, but, tasting it,"
+      - "Their counsel turns to passion which before"
+      - "Would give preceptial med’cine to rage,"
+      - "Fetter strong madness in a silken thread,"
+      - "Charm ache with air, and agony with words."
+      - "No, no, ’tis all men’s office to speak patience"
+      - "To those that wring under the load of sorrow,"
+      - "But no man’s virtue nor sufficiency"
+      - "To be so moral when he shall endure"
+      - "The like himself. Therefore give me no counsel."
+      - "My griefs cry louder than advertisement."
+    m:
+      - "Stop advising me; your words pass through my ears like water through a sieve. Don’t counsel me. Only someone who’s been wronged as I have can comfort me. Find a father who loved his child as overwhelmingly as I loved Hero and ask*him* to be patient. Compare the length and width of that man’s sadness against my own; match up all the complaints and strong emotions that run through our bodies. If a man who has suffered as I have gave me advice the way you do—smiling and stroking his beard, telling me to toss away my sorrow, giving speeches when he should be wailing with me, trying to heal my grief with little proverbs, spinning my head around with philosophy—then I would take his advice and be patient. But that man doesn’t exist. You can try to comfort a man who feels a pain that you have never felt, but once you feel it too, your sober advice will also turn into passion. You can’t treat madness with rules or bind up insanity with little silken threads or cure heartache with hot air or lighten agony with pat phrases. Every man thinks it’s his duty to advise those who are overwrought with sorrow to be patient. But no man is so moral or so strong that they can endure the same advice when they themselves are grieving. So don’t advise me. My sorrow is crying too loudly to hear what you have to say."
+
+  - sp: ANTONIO
+    o:
+      - "Therein do men from children nothing differ."
+    m:
+      - "Well then you’re no better than a child."
+
+  - sp: LEONATO
+    o:
+      - "I pray thee, peace. I will be flesh and blood,"
+      - "For there was never yet philosopher"
+      - "That could endure the toothache patiently,"
+      - "However they have writ the style of gods"
+      - "And made a push at chance and sufferance."
+    m:
+      - "Please, leave me alone. I intend to be flesh and blood, not airy philosophy, for there has never yet been a philosopher who could endure a toothache patiently, even though they all write as if they had risen above human suffering and misfortune."
+
+  - sp: ANTONIO
+    o:
+      - "Yet bend not all the harm upon yourself."
+      - "Make those that do offend you suffer too."
+    m:
+      - "But don’t take all that pain on yourself. Make sure the ones who have wronged you suffer too."
+
+  - sp: LEONATO
+    o:
+      - "There thou speak’st reason. Nay, I will do so."
+      - "My soul doth tell me Hero is belied,"
+      - "And that shall Claudio know; so shall the Prince"
+      - "And all of them that thus dishonor her."
+    m:
+      - "Now you’re talking. I definitely will. In my soul, I believe Hero has been falsely accused. And I’ll make sure that Claudio, the Prince, and anyone else who helped dishonor her know about it."
+
+  - os: "Enter DON PEDRO andCLAUDIO"
+    ms: "DON PEDRO andCLAUDIO enter."
+
+  - sp: ANTONIO
+    o:
+      - "Here comes the Prince and Claudio hastily."
+    m:
+      - "The Prince and Claudio are hurrying this way."
+
+  - sp: DON PEDRO
+    o:
+      - "Good e’en, good e’en."
+    m:
+      - "Good evening, good evening."
+
+  - sp: CLAUDIO
+    o:
+      - "    Good day to both of you."
+    m:
+      - "Good day to both of you."
+
+  - sp: LEONATO
+    o:
+      - "Hear you, my lords—"
+    m:
+      - "Listen, my lords—"
+
+  - sp: DON PEDRO
+    o:
+      - "    We have some haste, Leonato."
+    m:
+      - "We’re in a bit of a hurry, Leonato."
+
+  - sp: LEONATO
+    o:
+      - "Some haste, my lord! Well, fare you well, my lord."
+      - "Are you so hasty now? Well, all is one."
+    m:
+      - "A bit of a hurry, my lord! Well then, good bye, my lord. You’re in a hurry, are you? Well then, don’t bother."
+
+  - sp: DON PEDRO
+    o:
+      - "Nay, do not quarrel with us, good old man."
+    m:
+      - "Come on, don’t quarrel with us, good old man."
+
+  - sp: ANTONIO
+    o:
+      - "If he could right himself with quarreling,"
+      - "Some of us would lie low."
+    m:
+      - "If it’s fighting he is after, some of us here should run and hide."
+
+  - sp: CLAUDIO
+    o:
+      - "    Who wrongs him?"
+    m:
+      - "Who has wronged him?"
+
+  - sp: LEONATO
+    o:
+      - "Marry, thou dost wrong me, thou dissembler, thou."
+      - "Nay, never lay thy hand upon thy sword."
+      - "I fear thee not."
+    m:
+      - "Indeed, you have wronged me, you liar. Don’t bother trying to intimidate me by putting your hand on your sword. I’m not scared of you."
+
+  - sp: CLAUDIO
+    o:
+      - "  Marry, beshrew my hand"
+      - "If it should give your age such cause of fear."
+      - "In faith, my hand meant nothing to my sword."
+    m:
+      - "Curse my hand if it ever threatened an old man like you. Really, I had no intention of going for my sword."
+
+  - sp: LEONATO
+    o:
+      - "Tush, tush, man, never fleer and jest at me."
+      - "I speak not like a dotard nor a fool,"
+      - "As under privilege of age to brag"
+      - "What I have done being young, or what would do"
+      - "Were I not old. Know, Claudio, to thy head,"
+      - "Thou hast so wronged mine innocent child and me"
+      - "That I am forced to lay my reverence by,"
+      - "And with gray hairs and bruise of many days"
+      - "Do challenge thee to trial of a man."
+      - "I say thou hast belied mine innocent child."
+      - "Thy slander hath gone through and through her heart,"
+      - "And she lies buried with her ancestors,"
+      - "Oh, in a tomb where never scandal slept"
+      - "Save this of hers, framed by thy villainy."
+    m:
+      - "Damn you, don’t mock and sneer at me. I’m not a doddering old fool who brags about the things he did when he was young, and what he would do now if he weren’t so old. Claudio, I’m telling you right to your face that you have wronged me and my innocent child. I am forced to lay aside my old man’s respectability, and with my gray hairs and my aching body I challenge you to a duel. You have ruined my innocent child. Your slander has broken her heart, and now she lies buried with her ancestors in a tomb—ancestors who had never been tainted by scandal until you caused one with your wickedness."
+
+  - sp: CLAUDIO
+    o:
+      - "My villainy?"
+    m:
+      - "My wickedness?"
+
+  - sp: LEONATO
+    o:
+      - "  Thine, Claudio, thine, I say."
+    m:
+      - "Yours, Claudio, yours, I say."
+
+  - sp: DON PEDRO
+    o:
+      - "You say not right, old man."
+    m:
+      - "You’ve got it wrong, old man."
+
+  - sp: LEONATO
+    o:
+      - "    My lord, my lord,"
+      - "I’ll prove it on his body if he dare,"
+      - "Despite his nice fence and his active practice,"
+      - "His May of youth and bloom of lustihood."
+    m:
+      - "My lord, if he dares to accept my challenge, I’ll beat him and prove he’s guilty. I’ll beat him despite his fancy fencing techniques and all the practicing he does, despite his youth and manliness."
+
+  - sp: CLAUDIO
+    o:
+      - "Away! I will not have to do with you."
+    m:
+      - "Not a chance! I’ll have nothing to do with you."
+
+  - sp: LEONATO
+    o:
+      - "Canst thou so daff me? Thou hast killed my child."
+      - "If thou kill’st me, boy, thou shalt kill a man."
+    m:
+      - "You think you can get rid of me that easily? You killed my child. Take on someone your own size: if you kill me, boy, you’ll have killed a man."
+
+  - sp: ANTONIO
+    o:
+      - "He shall kill two of us, and men indeed,"
+      - "But that’s no matter. Let him kill one first."
+      - "Win me and wear me! Let him answer me.—"
+      - "Come, follow me, boy. Come, sir boy, come, follow me."
+      - "Sir boy, I’ll whip you from your foining fence,"
+      - "Nay, as I am a gentleman, I will."
+    m:
+      - "He’ll have to kill both of us, and indeed we’re both men. But let him start off easy by killing one of us. Come on—kill me and brag about it! Let me at him. Come on, come after me, little boy. Come on and get me. Little man, I’ll be right in your face with my sword. I will, as surely as I am a gentleman."
+
+  - sp: LEONATO
+    o:
+      - "Brother—"
+    m:
+      - "Brother—"
+
+  - sp: ANTONIO
+    o:
+      - "Content yourself. God knows I loved my niece,"
+      - "And she is dead, slandered to death by villains"
+      - "That dare as well answer a man indeed"
+      - "As I dare take a serpent by the tongue.—"
+      - "Boys, apes, braggarts, jacks, milksops!"
+    m:
+      - "Quiet. God knows I loved my niece, and now she’s dead—slandered to death by cowards who would just as likely fight a real man as I would grab a poisonous snake by the tongue. Boys, fools, braggers, scoundrels, babies!"
+
+  - sp: LEONATO
+    o:
+      - "Brother Anthony—"
+    m:
+      - "Brother Anthony—"
+
+  - sp: ANTONIO
+    o:
+      - "Hold you content. What, man! I know them, yea,"
+      - "And what they weigh, even to the utmost scruple—"
+      - "Scrambling, outfacing, fashion-monging boys,"
+      - "That lie and cog and flout, deprave and slander,"
+      - "Go anticly and show outward hideousness,"
+      - "And speak off half a dozen dang’rous words"
+      - "How they might hurt their enemies, if they durst,"
+      - "And this is all."
+    m:
+      - "Hold your peace. I know their kind, I know them exactly. They’re petulant, disrespectful, fashion-crazy boys who lie and cheat and mock, defame and slander. They walk around in outlandish outfits, pretending to be brave and wild and saying a few inflammatory things about how they’ll hurt their enemies—and that’s all they do."
+
+  - sp: LEONATO
+    o:
+      - "But brother Anthony—"
+    m:
+      - "But brother Anthony—"
+
+  - sp: ANTONIO
+    o:
+      - "    Come, ’tis no matter."
+      - "Do not you meddle. Let me deal in this."
+    m:
+      - "Don’t, it’s no big deal. Don’t bother with it. Let me deal with this."
+
+  - sp: DON PEDRO
+    o:
+      - "Gentlemen both, we will not wake your patience."
+      - "My heart is sorry for your daughter’s death,"
+      - "But, on my honor, she was charged with nothing"
+      - "But what was true and very full of proof."
+    m:
+      - "Gentlemen, we won’t stay here and anger you further. I’m sorry about your daughter’s death, but I swear our accusations were true, and backed up with proof."
+
+  - sp: LEONATO
+    o:
+      - "My lord, my lord—"
+    m:
+      - "My lord, my lord—"
+
+  - sp: DON PEDRO
+    o:
+      - "I will not hear you."
+    m:
+      - "I don’t want to hear any more about it."
+
+  - sp: LEONATO
+    o:
+      - "No? Come, brother; away! I will be heard."
+    m:
+      - "No? Come on, brother! I’m determined to be heard by someone."
+
+  - sp: ANTONIO
+    o:
+      - "And shall, or some of us will smart for it."
+    m:
+      - "And you will be, or some people here will suffer for it."
+
+  - os: "Exeunt LEONATO andANTONIO"
+    ms: "LEONATO and ANTONIO exit."
+
+  - os: "Enter BENEDICK"
+    ms: "BENEDICK enters."
+
+  - sp: DON PEDRO
+    o:
+      - "See, see, here comes the man we went to seek."
+    m:
+      - "Look, here comes just the man we were looking for."
+
+  - sp: CLAUDIO
+    o:
+      - "Now, Signior, what news?"
+    m:
+      - "What’s up, mister?"
+
+  - sp: BENEDICK
+    o:
+      - "*(to DON PEDRO)* Good day, my lord."
+    m:
+      - "*(to DON PEDRO)* Hello, my lord."
+
+  - sp: DON PEDRO
+    o:
+      - "Welcome, Signior. You are almost come to part almost a"
+      - "fray."
+    m:
+      - "Welcome, sir. You just missed a fight that was barely avoided."
+
+  - sp: CLAUDIO
+    o:
+      - "We had like to have had our two noses snapped off with two"
+      - "old men without teeth."
+    m:
+      - "We were about to have our noses snapped off by two old men with no teeth."
+
+  - sp: DON PEDRO
+    o:
+      - "Leonato and his brother. What think’st thou? Had we"
+      - "fought, I doubt we should have been too young for them."
+    m:
+      - "Leonato and his brother. What do you think? I think if we had fought, we would have proven too young and strong for them after all."
+
+  - sp: BENEDICK
+    o:
+      - "In a false quarrel there is no true valor. I came to seek you"
+      - "both."
+    m:
+      - "There’s no bravery in an unfair fight. I’ve been look- ing for you two."
+
+  - sp: CLAUDIO
+    o:
+      - "We have been up and down to seek thee, for we are high-"
+      - "proof melancholy and would fain have it beaten away. Wilt"
+      - "thou use thy wit?"
+    m:
+      - "We’ve been looking for you, too. We’re really depressed. Will you tell us some jokes to beat our sadness away?"
+
+  - sp: BENEDICK
+    o:
+      - "It is in my scabbard. Shall I draw it?"
+    m:
+      - "My wit’s in my scabbard. Should I unsheath it?"
+
+  - sp: DON PEDRO
+    o:
+      - "Dost thou wear thy wit by thy side?"
+    m:
+      - "You wear your wit next to you?"
+
+  - sp: CLAUDIO
+    o:
+      - "Never any did so, though very many have been beside their"
+      - "wit. I will bid thee draw, as we do the minstrels: draw to"
+      - "pleasure us."
+    m:
+      - "No one carries their wit next to them, though some people are beside their wit. Come on, draw your wit, just as musicians draw their bows across the instruments: draw for our pleasure."
+
+  - sp: DON PEDRO
+    o:
+      - "As I am an honest man, he looks pale.—Art thou sick, or"
+      - "angry?"
+    m:
+      - "Look: Benedick is so pale—are you sick, or angry?"
+
+  - sp: CLAUDIO
+    o:
+      - "*(to BENEDICK)* What, courage, man! What though care"
+      - "killed a cat? Thou hast mettle enough in thee to kill care."
+    m:
+      - "*(to BENEDICK)* Buck up, man! Care may have killed the cat, but you are strong enough to kill care. Lighten up."
+
+  - sp: BENEDICK
+    o:
+      - "Sir, I shall meet your wit in the career, an you charge it"
+      - "against me. I pray you, choose another subject."
+    m:
+      - "Sir, don’t even try to beat me in a battle of wits. I’ll meet all your attacks, even if you come charging at me with a lance at full gallop. Choose another tack."
+
+  - sp: CLAUDIO
+    o:
+      - "*(to DON PEDRO)* Nay, then, give him another staff. This last"
+      - "was broke ’cross."
+    m:
+      - "*(to DON PEDRO)* That was poor, Benedick! Give him another lance—that last one got broken in half."
+
+  - sp: DON PEDRO
+    o:
+      - "By this light, he changes more and more. I think he be angry"
+      - "indeed."
+    m:
+      - "Lord, he seems to be getting paler by the minute. I think he really is angry."
+
+  - sp: CLAUDIO
+    o:
+      - "If he be, he knows how to turn his girdle."
+    m:
+      - "If he is, that’s his problem."
+
+  - sp: BENEDICK
+    o:
+      - "Shall I speak a word in your ear?"
+    m:
+      - "Can I have a word with you privately?"
+
+  - sp: CLAUDIO
+    o:
+      - "God bless me from a challenge!"
+    m:
+      - "God forbid he wants to challenge me!"
+
+  - sp: BENEDICK
+    o:
+      - "*(aside to CLAUDIO)* You are a villain. I jest not. I will make it"
+      - "good how you dare, with what you dare, and when you"
+      - "dare. Do me right, or I will protest your cowardice. You"
+      - "have killed a sweet lady, and her death shall fall heavy on"
+      - "you. Let me hear from you."
+    m:
+      - "*(speaking so that only CLAUDIOcan hear)* You are a villain. I’m not kidding. I challenge you however you like—with whatever weapons you choose, and whenever you want. Meet this challenge, or I’ll say that you’re a coward. You’ve killed an innocent woman, and you’re going to pay dearly for her death. What do you say?"
+
+  - sp: CLAUDIO
+    o:
+      - "Well, I will meet you, so I may have good cheer."
+    m:
+      - "I’ll be there, and I’ll enjoy myself."
+
+  - sp: DON PEDRO
+    o:
+      - "What, a feast, a feast?"
+    m:
+      - "What, are we having a feast?"
+
+  - sp: CLAUDIO
+    o:
+      - "I’ faith, I thank him. He hath bid me to a calf’s head and a"
+      - "capon, the which if I do not carve most curiously, say my"
+      - "knife’s naught. Shall I not find a woodcock too?"
+    m:
+      - "Yes, we are. He has invited me to have a calf’s head and a capon. He says if I don’t carve them up and serve them elegantly, he’ll declare I have no skills with a knife. Should I go get us a woodcock, too?"
+
+  - sp: BENEDICK
+    o:
+      - "Sir, your wit ambles well; it goes easily."
+    m:
+      - "Sir, you have a very slow, rambling wit."
+
+  - sp: DON PEDRO
+    o:
+      - "I’ll tell thee how Beatrice praised thy wit he other day. I"
+      - "said thou hadst a fine wit. “True,” said she, “a fine little"
+      - "one.” “No,” said I, “a great wit.” “Right,” says she, “a great"
+      - "gross one.” “Nay,” said I, “a good wit.” “Just,” said she, “it"
+      - "hurts nobody.” “Nay,” said I, “the gentleman is wise.”"
+      - "“Certain,” said she, “a wise gentleman.” “Nay,” said I, “he"
+      - "hath the tongues.” “That I believe,” said she, “for he swore"
+      - "a thing to me on Monday night, which he forswore on"
+      - "Tuesday morning; there’s a double tongue, there’s two"
+      - "tongues.” Thus did she an hour together transshape thy"
+      - "particular virtues. Yet at last she concluded with a sigh,"
+      - "thou wast the proper’st man in Italy."
+    m:
+      - "Benedick, Beatrice praised your wit the other day. I said you had a fine wit. “True,” she said, “a fine little one.” “No,” I said, “a huge wit.” “Right,” she said, “a hugely awful one.” “No,” I said, “he has a good wit.” “Exactly,” she said, “it’s good and mild; it doesn’t hurt anyone.” “No,” I said, “Benedick is wise.” “He is certainly,” she said, “a wise gentleman.”“No,” I said, “he can speak many languages:” “I can believe that,” she said, “because he swore one thing to me on Monday night and took it back on Tuesday morning. He spoke two languages then.” She turned all your virtues into vices just about an hour ago. But in the end she sighed and admitted you were the handsomest man in Italy."
+
+  - sp: CLAUDIO
+    o:
+      - "For the which she wept heartily and said she cared not."
+    m:
+      - "She cried a lot at that, and said she didn’t care."
+
+  - sp: DON PEDRO
+    o:
+      - "Yea, that she did. But yet for all that, an if she did not hate"
+      - "him deadly, she would love him dearly. The old man’s"
+      - "daughter told us all."
+    m:
+      - "That she did. And yet for all that, if she didn’t hate him to death, she’d love him to death. Leonato’s daughter had told us everything."
+
+  - sp: CLAUDIO
+    o:
+      - "All, all. And, moreover, God saw him when he was hid in"
+      - "the garden."
+    m:
+      - "Absolutely everything. And, moreover, God saw Benedick when he was hid in the garden."
+
+  - sp: DON PEDRO
+    o:
+      - "But when shall we set the savage bull’s horns on the sensible"
+      - "Benedick’s head?"
+    m:
+      - "But when exactly will we see Benedick married?"
+
+  - sp: CLAUDIO
+    o:
+      - "Yea, and text underneath: “Here dwells Benedick the"
+      - "married man”?"
+    m:
+      - "Yes, with the sign underneath him that says: “Here lives Benedick the married man”?"
+
+  - sp: BENEDICK
+    o:
+      - "Fare you well, boy. You know my mind. I will leave you now"
+      - "to your gossip-like humor. You break jests as braggarts do"
+      - "their blades, which, God be thanked, hurt not.—My lord,"
+      - "for your many courtesies I thank you. I must discontinue"
+      - "your company."
+      - "Your brother the Bastard is fled from Messina. You have"
+      - "among you killed a sweet and innocent lady. For my Lord"
+      - "Lackbeard there, he and I shall meet, and till then peace be"
+      - "with him."
+    m:
+      - "Goodbye, boy. You know what I intend. I’ll leave you now to chatter and gossip like an old woman. The wit you flaunt is like a blunt sword—it can’t hurt anyone, thank God.—My lord, I thank you for your many kindnesses. I’m leaving your court now. Your brother Don John the Bastard has run away from Messina. The three of you have killed a sweet, innocent woman. Lord Babyface over there will meet me in a duel, and good luck to him then."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: DON PEDRO
+    o:
+      - "He is in earnest."
+    m:
+      - "He’s serious."
+
+  - sp: CLAUDIO
+    o:
+      - "In most profound earnest, and, I’ll warrant you, for the love"
+      - "of Beatrice."
+    m:
+      - "Very serious, and I’m sure it’s because of Beatrice."
+
+  - sp: DON PEDRO
+    o:
+      - "And hath challenged thee?"
+    m:
+      - "And he challenged you to a duel?"
+
+  - sp: CLAUDIO
+    o:
+      - "Most sincerely."
+    m:
+      - "He did, very sincerely."
+
+  - sp: DON PEDRO
+    o:
+      - "What a pretty thing man is when he goes in his doublet and"
+      - "hose and leaves off his wit!"
+    m:
+      - "What a strange sight—a man who has put on all his fancy clothes but forgotten his brain at home!"
+
+  - sp: CLAUDIO
+    o:
+      - "He is then a giant to an ape; but then is an ape a doctor to"
+      - "such a man."
+    m:
+      - "A guy like that is bigger than an ape, but the ape could be his doctor, it’s so much smarter."
+
+  - sp: DON PEDRO
+    o:
+      - "But soft you, let me be. Pluck up, my heart, and be sad. Did"
+      - "he not say my brother was fled?"
+    m:
+      - "But wait a minute. Let me gather my wits and get serious here. Didn’t he say my brother has run away?"
+
+  - os: "Enter DOGBERRY,VERGES, and the Watch, with CONRADE and BORACHIO"
+    ms: "DOGBERRY, VERGES, and the WATCHMEN enter with CONRADE and BORACHIO."
+
+  - sp: DOGBERRY
+    o:
+      - "Come you, sir. If justice cannot tame you, she shall ne’er"
+      - "weigh more reasons in her balance. Nay, an you be a cursing"
+      - "hypocrite once, you must be looked to."
+    m:
+      - "Come on, you. If they let you off, then we’ll have to assume that Lady Justice has lost all her power. Since you are a lying hypocrite, we must look after you."
+
+  - sp: DON PEDRO
+    o:
+      - "How now? Two of my brother’s men bound! Borachio one!"
+    m:
+      - "What’s this? Two of my brother’s men, all tied up! And Borachio is one of them!"
+
+  - sp: CLAUDIO
+    o:
+      - "Hearken after their offense, my lord."
+    m:
+      - "Find out what they’re being held for."
+
+  - sp: DON PEDRO
+    o:
+      - "Officers, what offense have these men done?"
+    m:
+      - "Officers, what crime have these men committed?"
+
+  - sp: DOGBERRY
+    o:
+      - "Marry, sir, they have committed false report; moreover,"
+      - "they have spoken untruths; secondarily, they are slanders;"
+      - "sixth and lastly, they have belied a lady; thirdly, they have"
+      - "verified unjust things; and, to conclude, they are lying"
+      - "knaves."
+    m:
+      - "Well sir, they’ve lied; moreover, they have said things that were not true; secondarily, they are slanderers; sixth and lastly, they have falsely accused a lady; thirdly, they have confirmed things that did not in fact happen; and, in conclusion, they are lying scoundrels."
+
+  - sp: DON PEDRO
+    o:
+      - "First, I ask thee what they have done; thirdly, I ask thee"
+      - "what’s their offense; sixth and lastly, why they are"
+      - "committed; and, to conclude, what you lay to their charge."
+    m:
+      - "First, I ask you what they’ve done; thirdly, I ask you what offense they’re charged with; sixth and lastly, I ask you why they’ve been committed here; and, in conclusion, I ask what they’re accused of."
+
+  - sp: CLAUDIO
+    o:
+      - "Rightly reasoned, and in his own division; and, by my"
+      - "troth, there’s one meaning well suited."
+    m:
+      - "Nicely done, and organized in just the way he’ll understand. My God, he manages to say the same thing six different ways."
+
+  - sp: DON PEDRO
+    o:
+      - "*(to BORACHIO and CONRADE)* Who have you offended,"
+      - "masters, that you are thus bound to your answer? This"
+      - "learned constable is too cunning to be understood. What’s"
+      - "your offense?"
+    m:
+      - "*(to BORACHIO and CONRADE)* What have you done, gentlemen? This educated constable is too brilliant for me to understand. What is your crime?"
+
+  - sp: BORACHIO
+    o:
+      - "Sweet Prince, let me go no farther to mine answer. Do you"
+      - "hear me, and let this count kill me. I have deceived even your"
+      - "very eyes. What your wisdoms could not discover, these"
+      - "shallow fools have brought to light, who in the night"
+      - "overheard me confessing to this man how Don John your"
+      - "brother incensed me to slander the Lady Hero, how you"
+      - "were brought into the orchard and saw me court Margaret in"
+      - "Hero’s garments, how you disgraced her when you should"
+      - "marry her. My villainy they have upon record, which I had"
+      - "rather seal with my death than repeat over to my shame. The"
+      - "lady is dead upon mine and my master’s false accusation."
+      - "And, briefly, I desire nothing but the reward of a villain."
+    m:
+      - "Prince, I won’t wait for my trial: listen to my story, and let the count kill me now. I tricked your own eyes. These stupid fools have uncovered what you in all your wisdom could not. They heard me confess to Conrade how Don John, your brother, prompted me to slander Hero—how you came to the orchard and saw me making sexual advances toward Margaret, who was disguised as Hero; how you disgraced Hero when you should have married her. They’ve recorded my crimes, and I would rather die than have to retell this shameful story. The lady has died because of the false accusations of me and my master. I desire nothing now but a criminal’s punishment."
+
+  - sp: DON PEDRO
+    o:
+      - "*(to CLAUDIO)* Runs not this speech like iron through your"
+      - "blood?"
+    m:
+      - "*(to CLAUDIO)* Doesn’t this make your blood run cold?"
+
+  - sp: CLAUDIO
+    o:
+      - "I have drunk poison whiles he uttered it."
+    m:
+      - "His words are like poison to me."
+
+  - sp: DON PEDRO
+    o:
+      - "*(to BORACHIO)* But did my brother set thee on to this?"
+    m:
+      - "*(to BORACHIO)* But did my brother prompt you to do all this?"
+
+  - sp: BORACHIO
+    o:
+      - "Yea, and paid me richly for the practice of it."
+    m:
+      - "Yes, and paid me well for doing it."
+
+  - sp: DON PEDRO
+    o:
+      - "He is composed and framed of treachery,"
+      - "And fled he is upon this villainy."
+    m:
+      - "He is made of treachery, and has run away to avoid his crimes."
+
+  - sp: CLAUDIO
+    o:
+      - "Sweet Hero, now thy image doth appear"
+      - "In the rare semblance that I loved it first."
+    m:
+      - "Sweet Hero; when I imagine you now, you seem as beautiful as you did when I first loved you."
+
+  - sp: DOGBERRY
+    o:
+      - "Come, bring away the plaintiffs. By this time our sexton"
+      - "hath reformed Signior Leonato of the matter. And,"
+      - "masters, do not forget to specify, when time and place shall"
+      - "serve, that I am an ass."
+    m:
+      - "Come, take away the plaintiffs. By now the sexton will have reformed Signior Leonato of the matter. *(to CLAUDIO and DON PEDRO)* And, gentlemen, please do not forget to specify, whenever it is convenient, that I am an ass."
+
+  - sp: VERGES
+    o:
+      - "Here, here comes Master Signior Leonato, and the Sexton"
+      - "too."
+    m:
+      - "Here comes Master Signior Leonato with the sexton."
+
+  - os: "Enter LEONATO andANTONIO, with the SEXTON"
+    ms: "LEONATO and ANTONIO enter with the SEXTON."
+
+  - sp: LEONATO
+    o:
+      - "Which is the villain? Let me see his eyes,"
+      - "That, when I note another man like him,"
+      - "I may avoid him. Which of these is he?"
+    m:
+      - "Which one of them did it? Let me see what he looks like, so when I see another man who resembles him, I’ll know to avoid him. Which one is it?"
+
+  - sp: BORACHIO
+    o:
+      - "If you would know your wronger, look on me."
+    m:
+      - "If you want to see your deceiver, then look at me."
+
+  - sp: LEONATO
+    o:
+      - "Art thou the slave that with thy breath hast killed"
+      - "Mine innocent child?"
+    m:
+      - "Are you the slave who, with your slanderous words, killed my innocent child?"
+
+  - sp: BORACHIO
+    o:
+      - "    Yea, even I alone."
+    m:
+      - "Yes, I am the one."
+
+  - sp: LEONATO
+    o:
+      - "No, not so, villain, thou beliest thyself."
+      - "Here stand a pair of honorable men—"
+      - "A third is fled—that had a hand in it.—"
+      - "I thank you, princes, for my daughter’s death."
+      - "Record it with your high and worthy deeds."
+      - "’Twas bravely done, if you bethink you of it."
+    m:
+      - "No, villain, but you didn’t work alone. *(indicating CLAUDIO and DON PEDRO)* For here are two noblemen —the third has run away—who helped you. *(to CLAUDIO and DON PEDRO)* Thank you, gentlemen, for my daughter’s death. Make a note of it on your long lists of righteous and worthy deeds. It was very brave of you."
+
+  - sp: CLAUDIO
+    o:
+      - "I know not how to pray your patience,"
+      - "Yet I must speak. Choose your revenge yourself."
+      - "Impose me to what penance your invention"
+      - "Can lay upon my sin. Yet sinned I not"
+      - "But in mistaking."
+    m:
+      - "I don’t know how to ask you for forgiveness, but I have to say something. Choose your revenge. Punish me through any means you can devise, though I sinned by mistake."
+
+  - sp: DON PEDRO
+    o:
+      - "  By my soul, nor I,"
+      - "And yet to satisfy this good old man"
+      - "I would bend under any heavy weight"
+      - "That he’ll enjoin me to."
+    m:
+      - "Me too—but to satisfy this good old man, I too will bear any punishment he gives me."
+
+  - sp: LEONATO
+    o:
+      - "I cannot bid you bid my daughter live—"
+      - "That were impossible—but, I pray you both,"
+      - "Possess the people in Messina here"
+      - "How innocent she died. And if your love"
+      - "Can labor ought in sad invention,"
+      - "Hang her an epitaph upon her tomb"
+      - "And sing it to her bones. Sing it tonight."
+      - "Tomorrow morning come you to my house,"
+      - "And since you could not be my son-in-law,"
+      - "Be yet my nephew. My brother hath a daughter,"
+      - "Almost the copy of my child that’s dead,"
+      - "And she alone is heir to both of us."
+      - "Give her the right you should have given her cousin,"
+      - "And so dies my revenge."
+    m:
+      - "I can’t ask you to make my daughter live—that’s impossible—but I beg you both to tell the people of Messina that she was innocent when she died. And if your love can produce something from its sadness, write a poem for her; hang it on her grave and sing it to her bones. Sing it tonight. Then come to my house tomorrow morning, and since you couldn’t be my son-in-law, be my nephew instead. My brother has a daughter who looks exactly like Hero; this girl is heir to both our estates. Marry her as you should have married her cousin, and I will let my revenge die."
+
+  - sp: CLAUDIO
+    o:
+      - "    O noble sir!"
+      - "Your overkindness doth wring tears from me."
+      - "I do embrace your offer; and dispose"
+      - "For henceforth of poor Claudio."
+    m:
+      - "Oh, noble sir! Your overwhelming kindness makes me weep. I willingly accept your offer and put my future in your hands."
+
+  - sp: LEONATO
+    o:
+      - "Tomorrow then I will expect your coming."
+      - "Tonight I take my leave. This naughty man"
+      - "Shall face to face be brought to Margaret,"
+      - "Who I believe was packed in all this wrong,"
+      - "Hired to it by your brother."
+    m:
+      - "I will see you tomorrow, then. Now I have to leave. This wicked man will be brought face to face with Margaret, who I believe was hired by Don John to take part in this plot."
+
+  - sp: BORACHIO
+    o:
+      - "No, by my soul, she was not,"
+      - "Nor knew not what she did when she spoke to me,"
+      - "But always hath been just and virtuous"
+      - "In any thing that I do know by her."
+    m:
+      - "No, she wasn’t, and she didn’t know anything about it. She has always been honest and good."
+
+  - sp: DOGBERRY
+    o:
+      - "*(to LEONATO)* Moreover, sir, which indeed is not under"
+      - "white and black, this plaintiff here, the offender, did call me"
+      - "ass. I beseech you, let it be remembered in his punishment."
+      - "And also the watch heard them talk of one Deformed. They"
+      - "say he wears a key in his ear and a lock hanging by it and"
+      - "borrows money in God’s name, the which he hath used so"
+      - "long and never paid that now men grow hard-hearted and"
+      - "will lend nothing for God’s sake. Pray you, examine him"
+      - "upon that point."
+    m:
+      - "*(to LEONATO)* Also, sir, this hasn’t been put down in writing, but I should let you know that this plaintiff here, the criminal, did in fact call me an ass. Please remember that when you’re punishing him. Plus, the watchmen heard the criminals talking about some man named Deformed. They say that he has an earring made out of a key, with a lock hanging from it. Apparently, he borrows money from people in the name of God and then never pays it back, which angers everyone so much that they now refuse to fund anything in the name of God. Make sure you ask him about this."
+
+  - sp: LEONATO
+    o:
+      - "I thank thee for thy care and honest pains."
+    m:
+      - "Thank you for all your efforts."
+
+  - sp: DOGBERRY
+    o:
+      - "Your worship speaks like a most thankful and reverent"
+      - "youth, and I praise God for you."
+    m:
+      - "You speak like a very thankful and respectful boy, and may God bless you."
+
+  - sp: LEONATO
+    o:
+      - "*(giving him money)* There’s for thy pains."
+    m:
+      - "*(giving DOGBERRY money)* This is for your trouble."
+
+  - sp: DOGBERRY
+    o:
+      - "God save the foundation!"
+    m:
+      - "God save the charitable organization!"
+
+  - sp: LEONATO
+    o:
+      - "Go, I discharge thee of thy prisoner, and I thank thee."
+    m:
+      - "Go, you’re relieved of your duty. Thank you."
+
+  - sp: DOGBERRY
+    o:
+      - "I leave an arrant knave with your Worship, which I beseech"
+      - "your Worship to correct yourself, for the example of others."
+      - "God keep your Worship! I wish your Worship well. God"
+      - "restore you to health! I humbly give you leave to depart, and"
+      - "if a merry meeting may be wished, God prohibit it!—"
+      - "Come, neighbor."
+    m:
+      - "I leave a slimy bastard with you, your Worship, for you to punish and make an example of. God bless your Worship! I wish you well. I hope that God restores you to health. I will humbly let you go now, God prohibiting we will meet again in the future.—Come on, man."
+
+  - os: "Exeunt DOGBERRY andVERGES"
+    ms: "DOGBERRY and VERGES exit."
+
+  - sp: LEONATO
+    o:
+      - "Until tomorrow morning, lords, farewell."
+    m:
+      - "I’ll see you tomorrow morning, gentlemen."
+
+  - sp: ANTONIO
+    o:
+      - "Farewell, my lords. We look for you tomorrow."
+    m:
+      - "Goodbye, gentlemen. We’ll see you tomorrow."
+
+  - sp: DON PEDRO
+    o:
+      - "We will not fail."
+    m:
+      - "We’ll be there."
+
+  - sp: CLAUDIO
+    o:
+      - "Tonight I’ll mourn with Hero."
+    m:
+      - "I will mourn Hero tonight."
+
+  - sp: LEONATO
+    o:
+      - "*(to the Watch)*"
+      - "Bring you these fellows on.—We’ll talk with Margaret,"
+      - "How her acquaintance grew with this lewd fellow."
+    m:
+      - "*(to the watchmen)* Bring these criminals with us. We’ll go talk to Margaret, to see how she got involved with this worthless man."
+
+  - os: "Exeunt"
+    ms: "They all exit."

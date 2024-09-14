@@ -1,0 +1,448 @@
+play: King Lear
+title: Act 3, Scene 7
+group: 3
+order: 15
+text:
+  - os: "Enter CORNWALL, and REGAN, and GONERIL, and EDMUND the bastard, and servants"
+    ms: "CORNWALL enters with REGAN, GONERIL, EDMUND, and servants."
+
+  - sp: CORNWALL
+    o:
+      - "*(to GONERIL)* Post speedily to my lord your husband. Show him this letter. The army of France is landed. —Seek out the traitor Gloucester."
+    m:
+      - "*(to GONERIL)* Hurry to your husband. Show him this letter. The French army has landed.—Find the traitor Gloucester."
+
+  - os: "Exeunt some servants"
+    ms: "Some servants exit."
+
+  - sp: REGAN
+    o:
+      - "    Hang him instantly."
+    m:
+      - "Hang him immediately."
+
+  - sp: GONERIL
+    o:
+      - "Pluck out his eyes."
+    m:
+      - "Gouge out his eyes!"
+
+  - sp: CORNWALL
+    o:
+      - "Leave him to my displeasure.—Edmund, keep you our sister company. The revenges we are bound to take upon your traitorous father are not fit for your beholding. Advise the duke where you are going, to a most festinate preparation. We are bound to the like. Our posts shall be swift and intelligent betwixt us.—Farewell, dear sister. *(to EDMUND)* Farewell, my lord of Gloucester."
+    m:
+      - "Leave him to my wrath.—Edmund, go with my sister-in-law. You shouldn’t have to see the punishment we inflict on your father. Tell the Duke of Albany to prepare for war immediately. We will do the same. We’ll keep the lines of communication open between us. *(to GONERIL)* Goodbye, my dear sister-in-law. *(to EDMUND)* Goodbye, lord Gloucester."
+
+  - os: "Enter OSWALD the steward"
+    ms: "OSWALD enters."
+
+  - o:
+      - "How now? Where’s the king?"
+    m:
+      - "Hello. Where’s the king?"
+
+  - sp: OSWALD
+    o:
+      - "My lord of Gloucester hath conveyed him hence."
+      - "Some five or six and thirty of his knights,"
+      - "Hot questrists after him, met him at gate,"
+      - "Who with some other of the lord’s dependants"
+      - "Are gone with him towards Dover, where they boast"
+      - "To have well-armèd friends."
+    m:
+      - "Lord Gloucester has helped him leave. Thirty-five or thirty-six of his knights met him at the gate, and together with some others they’ve set off for Dover, where they claim to have powerful friends."
+
+  - sp: CORNWALL
+    o:
+      - "Get horses for your mistress."
+    m:
+      - "Prepare the horses for your lady."
+
+  - os: "Exit OSWALD"
+    ms: "OSWALD exits."
+
+  - sp: GONERIL
+    o:
+      - "Farewell, sweet lord, and sister."
+    m:
+      - "Goodbye, my sweet lord.—Goodbye, my sister."
+
+  - sp: CORNWALL
+    o:
+      - "Edmund, farewell."
+    m:
+      - "Goodbye, Edmund."
+
+  - os: "Exeunt GONERIL and EDMUND the bastard"
+    ms: "GONERIL and EDMUND exit."
+
+  - o:
+      - "  Go seek the traitor Gloucester."
+      - "Pinion him like a thief, bring him before us."
+    m:
+      - "Go find the traitor Gloucester. Tie him up like a thief and bring him here to me."
+
+  - os: "Exeunt some servants"
+    ms: "Some servants exit."
+
+  - o:
+      - "Though well we may not pass upon his life"
+      - "Without the form of justice, yet our power"
+      - "Shall do a courtesy to our wrath, which men"
+      - "May blame, but not control.—Who’s there? The traitor?"
+    m:
+      - "I can’t condemn him to death without a formal trial, but I’m powerful enough that I can still do *something* to express my anger. Some men may blame me for doing this, but they won’t be able to do anything about it.—Who’s there? Is that the traitor?"
+
+  - os: "Enter GLOUCESTER, brought in by two or three servants"
+    ms: "Two or three servants bring in GLOUCESTER."
+
+  - sp: REGAN
+    o:
+      - "Ingrateful fox, ’tis he."
+    m:
+      - "Ungrateful traitor! That’s him."
+
+  - sp: CORNWALL
+    o:
+      - "  Bind fast his corky arms."
+    m:
+      - "Tie up his withered old arms."
+
+  - sp: GLOUCESTER
+    o:
+      - "What mean your graces? Good my friends, consider"
+      - "You are my guests. Do me no foul play, friends."
+    m:
+      - "What are you doing? My friends, remember that you’re my guests here. Don’t play any nasty tricks on me."
+
+  - sp: CORNWALL
+    o:
+      - "Bind him, I say."
+    m:
+      - "Tie him up, I tell you."
+
+  - os: "Servants bind GLOUCESTER"
+    ms: "Servants tie up GLOUCESTER."
+
+  - sp: REGAN
+    o:
+      - "  Hard, hard.—O filthy traitor!"
+    m:
+      - "Tie him up harder.—You filthy traitor!"
+
+  - sp: GLOUCESTER
+    o:
+      - "Unmerciful lady as you are, I’m none."
+    m:
+      - "I’m not a traitor, unfair lady."
+
+  - sp: CORNWALL
+    o:
+      - "To this chair bind him.—Villain, thou shalt find—"
+    m:
+      - "Tie him to this chair.—You’ll see, criminal—"
+
+  - os: "REGAN plucks GLOUCESTER’s beard"
+    ms: "REGAN pulls GLOUCESTER’s beard."
+
+  - sp: GLOUCESTER
+    o:
+      - "By the kind gods, ’tis most ignobly done"
+      - "To pluck me by the beard."
+    m:
+      - "By the gods, it’s disgraceful for you to pull my beard."
+
+  - sp: REGAN
+    o:
+      - "So white, and such a traitor?"
+    m:
+      - "As old and white-haired as you are, and you’re such a traitor?"
+
+  - sp: GLOUCESTER
+    o:
+      - "Naughty lady,"
+      - "These hairs which thou dost ravish from my chin"
+      - "Will quicken and accuse thee. I am your host."
+      - "With robbers’ hands my hospitable favors"
+      - "You should not ruffle thus. What will you do?"
+    m:
+      - "Wicked woman, these white hairs you’re pulling off my chin will come to life and accuse you of wrong-doing. You are my guests. This is no way to treat a host who has welcomed you into his house. What do you think you’re doing?"
+
+  - sp: CORNWALL
+    o:
+      - "Come, sir, what letters had you late from France?"
+    m:
+      - "Tell us about the letters that you got from France."
+
+  - sp: REGAN
+    o:
+      - "Be simple-answered, for we know the truth."
+    m:
+      - "Get to the point, since we already know the truth."
+
+  - sp: CORNWALL
+    o:
+      - "And what confederacy have you with the traitors"
+      - "Late footed in the kingdom?"
+    m:
+      - "And what’s your connection with the traitors who landed in our kingdom recently?"
+
+  - sp: REGAN
+    o:
+      - "    To whose hands"
+      - "You have sent the lunatic king. Speak."
+    m:
+      - "The ones you’ve sent our lunatic king to. Tell us."
+
+  - sp: GLOUCESTER
+    o:
+      - "I have a letter guessingly set down,"
+      - "Which came from one that’s of a neutral heart,"
+      - "And not from one opposed."
+    m:
+      - "I got a letter that made some guesses about what was going on, without any proof. It came from a neutral party, not from someone opposed to you."
+
+  - sp: CORNWALL
+    o:
+      - "  Cunning."
+    m:
+      - "How clever of you."
+
+  - sp: REGAN
+    o:
+      - "    And false."
+    m:
+      - "Clever lies."
+
+  - sp: CORNWALL
+    o:
+      - "Where hast thou sent the king?"
+    m:
+      - "Where have you sent the king?"
+
+  - sp: GLOUCESTER
+    o:
+      - "    To Dover."
+    m:
+      - "To Dover."
+
+  - sp: REGAN
+    o:
+      - "Wherefore to Dover? Wast thou not charged at peril—"
+    m:
+      - "Why Dover? Weren’t you ordered, on penalty of—"
+
+  - sp: CORNWALL
+    o:
+      - "Wherefore to Dover?—Let him first answer that."
+    m:
+      - "Why Dover?—Let him answer that question first."
+
+  - sp: GLOUCESTER
+    o:
+      - "I am tied to th’ stake, and I must stand the course."
+    m:
+      - "I’m backed into a corner with nowhere to run."
+
+  - sp: REGAN
+    o:
+      - "Wherefore to Dover, sir?"
+    m:
+      - "Why Dover?"
+
+  - sp: GLOUCESTER
+    o:
+      - "Because I would not see thy cruèl nails"
+      - "Pluck out his poor old eyes, nor thy fierce sister"
+      - "In his anointed flesh stick boarish fangs."
+      - "The sea, with such a storm as his bare head"
+      - "In hell-black night endured, would have buoyed up,"
+      - "And quenched the stellèd fires."
+      - "Yet poor old heart, he holp the heavens to rain."
+      - "If wolves had at thy gate howled that stern time,"
+      - "Thou shouldst have said, “Good porter, turn the key,”"
+      - "All cruèls else subscribed. But I shall see"
+      - "The wingèd vengeance overtake such children."
+    m:
+      - "Because I didn’t want to watch while you gouged out his poor old eyes with your cruel fingernails, or while your vicious sister sank her fangs into his sacred flesh. You left him out in the storm in the black night, bareheaded, a storm so terrible that if it had happened at sea, the waters would have risen up and extinguished the fire burning in the stars. And the poor old man just wept, mixing his tears with the rain. If wolves had been howling outside your gate at the heart of that storm, you would’ve told your doorman to let them in, despite all the cruelties you inflict on the world. But soon I’ll see the gods punish you for your lack of respect to your father."
+
+  - sp: CORNWALL
+    o:
+      - "“See” ’t shalt thou never.—Fellows, hold the chair.— Upon these eyes of thine I’ll set my foot."
+    m:
+      - "You won’t be seeing anything.—Hold his chair still, men.—I’m going to put my foot on his eyes."
+
+  - sp: GLOUCESTER
+    o:
+      - "He that will think to live till he be old,"
+      - "Give me some help!"
+    m:
+      - "Oh, help me, anyone who wants to live long!"
+
+  - os: "CORNWALL plucks out one of GLOUCESTER’s eyes and stamps on it"
+    ms: "CORNWALL gouges out one of GLOUCESTER’s eyes and steps on it."
+
+  - o:
+      - "O cruel! O you gods!"
+    m:
+      - "Oh, so cruel! Oh dear gods!"
+
+  - sp: REGAN
+    o:
+      - "One side will mock another—th’ other too."
+    m:
+      - "Now he’s a little crooked. Gouge out the other eye too."
+
+  - sp: CORNWALL
+    o:
+      - "If you see vengeance—"
+    m:
+      - "If you see vengeance—"
+
+  - sp: FIRST SERVANT
+    o:
+      - "Hold your hand, my lord!"
+      - "I have served you ever since I was a child."
+      - "But better service have I never done you"
+      - "Than now to bid you hold."
+    m:
+      - "Stop, my lord! I’ve served you since childhood, but I’ve never done you a better service than telling you to stop."
+
+  - sp: REGAN
+    o:
+      - "  How now, you dog?"
+    m:
+      - "What’s this, you dog?"
+
+  - sp: FIRST SERVANT
+    o:
+      - "If you did wear a beard upon your chin,"
+      - "I’d shake it on this quarrel. What do you mean?"
+    m:
+      - "I am willing to fight you if I must. What do you mean by all this?"
+
+  - sp: CORNWALL
+    o:
+      - "My villein!"
+    m:
+      - "My peasant, acting like this?"
+
+  - sp: FIRST SERVANT
+    o:
+      - "Nay then, come on, and take the chance of anger."
+    m:
+      - "Come on then. Over my dead body."
+
+  - os: "FIRST SERVANT and CORNWALL draw and fight CORNWALL is wounded"
+    ms: "The FIRST SERVANT and CORNWALL draw swords and fight. CORNWALL is wounded."
+
+  - sp: REGAN
+    o:
+      - "*(to another servant)*"
+      - "Give me thy sword.—A peasant stand up thus?"
+      - "*(takes a sword, runs at FIRST SERVANT behind, and kills him)*"
+    m:
+      - "*(to another servant)* Give me your sword.—A lowly peasant defying his lord like this?"
+      - "*(She takes a sword and stabs the* FIRST SERVANT *from behind, killing him.)*"
+
+  - sp: FIRST SERVANT
+    o:
+      - "Oh, I am slain!—My lord, you have one eye left"
+      - "To see some mischief on him. Oh!"
+      - "*(dies)*"
+    m:
+      - "I am dying!—My lord, you still have one eye left to see Cornwall punished. Oh! *(he dies)*"
+
+  - sp: CORNWALL
+    o:
+      - "Lest it see more, prevent it.—Out, vile jelly!"
+      - "*(plucks out GLOUCESTER’s other eye)*"
+      - "Where is thy luster now?"
+    m:
+      - "We’ll just have to stop him from seeing ever again. Out, vile jelly, pop out of your eye sockets!"
+      - "*(he gouges out GLOUCESTER’s other eye)*"
+      - "Where’s your sparkle now?"
+
+  - sp: GLOUCESTER
+    o:
+      - "All dark and comfortless. Where’s my son Edmund?"
+      - "Edmund, enkindle all the sparks of nature"
+      - "To quit this horrid act."
+    m:
+      - "Nothing but darkness and horror. Where’s my son Edmund? Edmund, let your love for me ignite your bloodlust to avenge this horrible crime!"
+
+  - sp: REGAN
+    o:
+      - "  Out, treacherous villain!"
+      - "Thou call’st on him that hates thee. It was he"
+      - "That made the overture of thy treasons to us,"
+      - "Who is too good to pity thee."
+    m:
+      - "Wrong, evil traitor. You’re appealing to a son who hates you. He was the one who revealed your treason to us. He’s too good to have any compassion for you."
+
+  - sp: GLOUCESTER
+    o:
+      - "O my follies! Then Edgar was abused."
+      - "Kind gods, forgive me that, and prosper him!"
+    m:
+      - "What a fool I’ve been! This means I’ve mistreated Edgar. Dear God, forgive me. Let him be well!"
+
+  - sp: REGAN
+    o:
+      - "Go thrust him out at gates, and let him smell"
+      - "His way to Dover."
+    m:
+      - "Kick him out of the gate. He can sniff his way to Dover."
+
+  - os: "Exeunt some servants with GLOUCESTER"
+    ms: "Some servants exit with GLOUCESTER."
+
+  - o:
+      - "*(to CORNWALL)* How is ’t, my lord? How look you?"
+    m:
+      - "*(to CORNWALL)* What is it, my lord? Why do you look like that?"
+
+  - sp: CORNWALL
+    o:
+      - "I have received a hurt. Follow me, lady.—"
+      - "Turn out that eyeless villain. Throw this slave"
+      - "Upon the dunghill.—Regan, I bleed apace."
+      - "Untimely comes this hurt. Give me your arm."
+    m:
+      - "I’m wounded. Follow me, madam.—Throw the blind traitor outside. And throw this dead peasant into the manure pit.—Regan, I’m bleeding. It’s a bad time for such an injury. Give me your arm."
+
+  - os: "Exit CORNWALL with REGAN"
+    ms: "CORNWALL and REGAN exit."
+
+  - sp: SECOND SERVANT
+    o:
+      - "I’ll never care what wickedness I do,"
+      - "If this man come to good."
+    m:
+      - "If our criminal master gets off free, I won’t care what happens to me anymore."
+
+  - sp: THIRD SERVANT
+    o:
+      - "If she live long,"
+      - "And in the end meet the old course of death,"
+      - "Women will all turn monsters."
+    m:
+      - "If she lives a long and happy life, then all women may as well turn into monsters."
+
+  - sp: SECOND SERVANT
+    o:
+      - "Let’s follow the old earl, and get the Bedlam"
+      - "To lead him where he would. His roguish madness"
+      - "Allows itself to any thing."
+    m:
+      - "Let’s follow the old earl, and get that crazy Tom to take him wherever he wants to go. As a wandering lunatic, he can do whatever he wants."
+
+  - sp: THIRD SERVANT
+    o:
+      - "Go thou. I’ll fetch some flax and whites of eggs"
+      - "To apply to his bleeding face. Now heaven help him!"
+    m:
+      - "Go ahead. I’ll get some cloth and egg whites to bandage his bleeding face. Heaven help him!"
+
+  - os: "Exeunt severally"
+    ms: "They exit in different directions."

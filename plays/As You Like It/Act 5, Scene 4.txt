@@ -1,0 +1,463 @@
+play: As You Like It
+title: Act 5, Scene 4
+group: 5
+order: 21
+text:
+  - os: "Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA"
+    ms: "DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA enter."
+
+  - sp: DUKE SENIOR
+    o:
+      - "Dost thou believe, Orlando, that the boy"
+      - "Can do all this that he hath promisèd?"
+    m:
+      - "Orlando, do you really believe that this boy can do everything he’s promised?"
+
+  - sp: ORLANDO
+    o:
+      - "I sometimes do believe and sometimes do not,"
+      - "As those that fear they hope, and know they fear."
+    m:
+      - "Sometimes I do and sometimes I don’t. I’m afraid of hoping, but I hope anyway."
+
+  - os: "Enter ROSALIND, SILVIUS, and PHOEBE"
+    ms: "ROSALIND, SILVIUS, and PHOEBE enter."
+
+  - sp: ROSALIND
+    o:
+      - "*(as Ganymede)* Patience once more whiles our compact is urged."
+      - "*(to DUKE SENIOR)* You say, if I bring in your Rosalind,"
+      - "You will bestow her on Orlando here?"
+    m:
+      - "*(as Ganymede)* Be patient for a bit longer while I go over the terms of our agreement. *(to DUKE SENIOR )* You say that if I bring Rosalind here, you will give her to Orlando in marriage?"
+
+  - sp: DUKE SENIOR
+    o:
+      - "That would I, had I kingdoms to give with her."
+    m:
+      - "Yes, even if I had whole kingdoms to give along with her."
+
+  - sp: ROSALIND
+    o:
+      - "*(to ORLANDO)* And you say you will have her when I bring her?"
+    m:
+      - "*(to ORLANDO)* And you promise to marry her, when I bring her here?"
+
+  - sp: ORLANDO
+    o:
+      - "That would I, were I of all kingdoms king."
+    m:
+      - "I will, even if I were king of all kingdoms."
+
+  - sp: ROSALIND
+    o:
+      - "*(to PHOEBE)* You say you’ll marry me if I be willing?"
+    m:
+      - "*(to PHOEBE)* And you say you’ll marry me, if I’m willing to marry you?"
+
+  - sp: PHOEBE
+    o:
+      - "That will I, should I die the hour after."
+    m:
+      - "Yes, even if I die an hour later."
+
+  - sp: ROSALIND
+    o:
+      - "But if you do refuse to marry me,"
+      - "You’ll give yourself to this most faithful shepherd?"
+    m:
+      - "But if you decide not to marry me, you’ll marry this faithful shepherd instead?"
+
+  - sp: PHOEBE
+    o:
+      - "So is the bargain."
+    m:
+      - "That’s the deal."
+
+  - sp: ROSALIND
+    o:
+      - "*(to SILVIUS)* You say that you’ll have Phoebe if she will?"
+    m:
+      - "*(to SILVIUS)* And you agree to marry Phoebe, if she is willing?"
+
+  - sp: SILVIUS
+    o:
+      - "Though to have her and death were both one thing."
+    m:
+      - "Even if marrying her meant I died."
+
+  - sp: ROSALIND
+    o:
+      - "I have promised to make all this matter even."
+      - "Keep you your word, O duke, to give your daughter,"
+      - "—You yours, Orlando, to receive his daughter."
+      - "—Keep your word, Phoebe, that you’ll marry me"
+      - "Or else, refusing me, to wed this shepherd."
+      - "—Keep your word, Silvius, that you’ll marry her"
+      - "If she refuse me. And from hence I go"
+      - "To make these doubts all even."
+    m:
+      - "I’ve promised to make everything right. Duke Senior, keep your promise to give away your daughter. Orlando, keep your promise to marry his daughter. Phoebe, keep your promise to marry me, and to marry this shepherd if you choose to refuse me. Silvius, keep your promise to marry Phoebe if she refuses me. I’ll leave now, to set all these things right."
+
+  - os: "Exeunt ROSALIND and CELIA"
+    ms: "ROSALIND and CELIA exit."
+
+  - sp: DUKE SENIOR
+    o:
+      - "I do remember in this shepherd boy"
+      - "Some lively touches of my daughter’s favor."
+    m:
+      - "This shepherd boy reminds me quite vividly of my daughter."
+
+  - sp: ORLANDO
+    o:
+      - "My lord, the first time that I ever saw him"
+      - "Methought he was a brother to your daughter."
+      - "But, my good lord, this boy is forest-born"
+      - "And hath been tutored in the rudiments"
+      - "Of many desperate studies by his uncle,"
+      - "Whom he reports to be a great magician"
+      - "Obscurèd in the circle of this forest."
+    m:
+      - "My lord, when I first saw him I thought he was your daughter’s brother. But, my lord, this boy was born in the forest and has been schooled not in the usual subjects but only in magic. His uncle, who the boy says is a great magician and lives concealed within the boundaries of this forest, taught him."
+
+  - os: "Enter TOUCHSTONE and AUDREY"
+    ms: "TOUCHSTONE and AUDREY enter."
+
+  - sp: JAQUES
+    o:
+      - "There is sure another flood toward, and these couples are coming to the ark. Here comes a pair of very strange beasts, which in all tongues are called fools."
+    m:
+      - "Well, look: there must be another flood coming, with these couples also on their way to Noah’s ark. Here comes a pair of those strange creatures called “fools” in any language."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Salutation and greeting to you all."
+    m:
+      - "Hello, and greetings to you all."
+
+  - sp: JAQUES
+    o:
+      - "Good my lord, bid him welcome. This is the motley-minded gentleman that I have so often met in the forest. He hath been a courtier, he swears."
+    m:
+      - "My lord, welcome this man. This is the jester I have met so many times in the forest. He swears he used to be a courtier."
+
+  - sp: TOUCHSTONE
+    o:
+      - "If any man doubt that, let him put me to my purgation. I have trod a measure. I have flattered a lady. I have been politic with my friend, smooth with mine enemy. I have undone three tailors. I have had four quarrels, and like to have fought one."
+    m:
+      - "If anyone doubts this, let him put me on trial. I have danced a round, I have flattered a lady, I have been polite with my friends, smooth and cunning with my enemies. I have bankrupted three tailors. I have quarreled four times, and almost got in a fight."
+
+  - sp: JAQUES
+    o:
+      - "And how was that ta’en up?"
+    m:
+      - "And how was that one settled?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Faith, we met and found the quarrel was upon the seventh cause."
+    m:
+      - "Well, we almost fought and then realized that we had reached the seventh cause."
+
+  - sp: JAQUES
+    o:
+      - "How “seventh cause”?—Good my lord, like this fellow."
+    m:
+      - "What do you mean, the seventh cause? *(to DUKE SENIOR )* My good lord, I hope you like this fellow."
+
+  - sp: DUKE SENIOR
+    o:
+      - "I like him very well."
+    m:
+      - "I like him very well."
+
+  - sp: TOUCHSTONE
+    o:
+      - "God ’ild you, sir. I desire you of the like. I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear, according as marriage binds and blood breaks. A poor virgin, sir, an ill-favored thing, sir, but mine own. A poor humor of mine, sir, to take that that no man else will. Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster."
+    m:
+      - "God bless you, sir. I want the same thing as all these other people. I’ve come here to be married, like all these other would-be couples. This poor virgin isn’t much to look at, sir, but she’s mine. It’s a strange habit of mine to take the thing that no one else wants: virginity in an ugly girl is like a rich man living in a broken-down house or a pearl in the hideous oyster."
+
+  - sp: DUKE SENIOR
+    o:
+      - "By my faith, he is very swift and sententious."
+    m:
+      - "Really, he’s very witty, and full of wise sayings."
+
+  - sp: TOUCHSTONE
+    o:
+      - "According to the fool’s bolt, sir, and such dulcet diseases."
+    m:
+      - "His wittiness, a sweet disease, is here one minute and gone the next, sir, as with most fools."
+
+  - sp: JAQUES
+    o:
+      - "But for the seventh cause. How did you find the quarrel on the seventh cause?"
+    m:
+      - "But back to that argument you mentioned. What’s the “seventh cause”?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Upon a lie seven times removed.—Bear your body more seeming, Audrey.—As thus, sir: I did dislike the cut of a certain courtier’s beard. He sent me word if I said his beard was not cut well, he was in the mind it was. This is called “the retort courteous.” If I sent him word again it was not well cut, he would send me word he cut it to please himself. This is called “the quip modest.” If again it was not well cut, he disabled my judgment. This is called “the reply churlish.” If again it was not well cut, he would answer I spake not true. This is called “the reproof valiant.” If again it was not well cut, he would say I lie. This is called “the countercheck quarrelsome,” and so to “the lie circumstantial” and “the lie direct.”"
+    m:
+      - "Our argument went through seven stages—watch your posture, Audrey.—It went like this. I didn’t like the way a particular courtier had cut his beard. He sent me word that, whether I liked it or not, he liked it fine. They call this “the courteous retort.” If I repeat that it isn’t cut well, and he responds that he isn’t trying to please me, just himself, with his beard. They call this “ the modest quip.” If I say again it is poorly cut, and he responds that my judgment is no good, they call this “the sullen reply.” If I say yet again that his beard is poorly cut, and he says that I’m not speaking the truth, they call this “the brave retort.” One more time I say it’s not well cut, and he says I’m lying. They call this “the argumentative countercheck.” And so on through “the circumstantial lie” and “the direct lie.”"
+
+  - sp: JAQUES
+    o:
+      - "And how oft did you say his beard was not well cut?"
+    m:
+      - "And how many times did you say his beard wasn’t cut well?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "I durst go no further than the lie circumstantial, nor he durst not give me the lie direct, and so we measured swords and parted."
+    m:
+      - "I didn’t dare take it past “the circumstantial lie,” and he didn’t dare go to the “direct lie,” so we compared the lengths of our swords and then ended the fight."
+
+  - sp: JAQUES
+    o:
+      - "Can you nominate in order now the degrees of the lie?"
+    m:
+      - "Can you name the steps of that argument again?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "O sir, we quarrel in print, by the book, as you have books for good manners. I will name you the degrees: the first, “the retort courteous”; the second, “the quip modest”; the third, “the reply churlish”; the fourth, “the reproof valiant”; the fifth, “the countercheque quarrelsome”; the sixth, “the lie with circumstance”; the seventh, “the lie direct.” All these you may avoid but the lie direct, and you may avoid that, too, with an “if.” I knew when seven justices could not take up a quarrel, but when the parties were met themselves, one of them thought but of an “if,” as: “If you said so, then I said so.” And they shook hands and swore brothers. Your “if” is the only peacemaker: much virtue in “if.”"
+    m:
+      - "Of course, sir. There are rulebooks for arguing just as there are rulebooks for manners. Here are the steps. First is “the courteous retort”; second, “the modest quip”; third, “the sullen reply”; fourth, “the valiant retort”; fifth, “the argumentative countercheck”; sixth, “the circumstantial lie”; seventh, “the direct lie.” You can avoid getting to that final stage if you can properly use an “if.” I once heard of an argument that seven judges couldn’t settle. The two parties met up on their own, and one said, “Well, if you said this-and-that, then I must have said such-and-such,” and they shook hands and parted on good terms. “If” is the only peacemaker. “If” is a very valuable word."
+
+  - sp: JAQUES
+    o:
+      - "Is not this a rare fellow, my lord? He’s as good at anything and yet a fool."
+    m:
+      - "Isn’t he a remarkable fellow, my lord? He’s as smart as they come, but just a jester."
+
+  - sp: DUKE SENIOR
+    o:
+      - "He uses his folly like a stalking-horse, and under the presentation of that he shoots his wit."
+    m:
+      - "He uses his clownishness to disguise his deadly wit."
+
+  - os: "Enter HYMEN, ROSALIND, and CELIA. Soft music"
+    ms: "  HYMEN enters with ROSALIND and CELIA, dressed as themselves. Soft music plays."
+
+  - sp: HYMEN
+    o:
+      - "Then is there mirth in heaven"
+      - "When earthly things, made even,"
+      - "Atone together."
+    m:
+      - "There is laughter in heaven"
+      - "When earthly affairs are put right"
+      - "And people unite."
+
+  - o:
+      - "Good duke, receive thy daughter."
+      - "Hymen from heaven brought her,"
+      - "Yea, brought her hither,"
+      - "That thou mightst join her hand with his"
+      - "Whose heart within his bosom is."
+    m:
+      - "Good duke, come receive your daughter."
+      - "Hymen brought her from heaven"
+      - "Yes, brought her here."
+
+  - sp: ROSALIND
+    o:
+      - "*(to DUKE SENIOR)* To you I give myself, for I am yours."
+      - "*(to ORLANDO)* To you I give myself, for I am yours."
+    m:
+      - "*(to DUKE SENIOR)* I give myself to you, for I am yours.*(to ORLANDO)* I give myself to you, for I am yours."
+
+  - sp: DUKE SENIOR
+    o:
+      - "If there be truth in sight, you are my daughter."
+    m:
+      - "If my eyes don’t deceive me, you are my daughter."
+
+  - sp: ORLANDO
+    o:
+      - "If there be truth in sight, you are my Rosalind."
+    m:
+      - "If my eyes don’t deceive me, you are my Rosalind."
+
+  - sp: PHOEBE
+    o:
+      - "If sight and shape be true,"
+      - "Why then, my love adieu."
+    m:
+      - "If my eyes aren’t deceiving me, goodbye, love."
+
+  - sp: ROSALIND
+    o:
+      - "*(to DUKE SENIOR)* I’ll have no father, if you be not he."
+      - "*(to ORLANDO)* I’ll have no husband, if you be not he,"
+      - "*(to PHOEBE)* Nor ne’er wed woman, if you be not she."
+    m:
+      - "*(to DUKE SENIOR)* If you won’t be my father, I won’t have any."
+      - "*(to ORLANDO)* If you won’t be my husband, I won’t have any."
+      - "*(to PHOEBE)* If you won’t be my wife, I won’t have any."
+
+  - sp: HYMEN
+    o:
+      - "Peace, ho! I bar confusion."
+      - "’Tis I must make conclusion"
+      - "Of these most strange events."
+      - "Here’s eight that must take hands"
+      - "To join in Hymen’s bands,"
+      - "If truth holds true contents."
+      - "*(to ORLANDO and ROSALIND)* You and you no cross shall part."
+      - "*(to OLIVER and CELIA)* You and you are heart in heart."
+      - "*(to PHOEBE)* You to his love must accord"
+      - "Or have a woman to your lord."
+      - "*(to TOUCHSTONE and AUDREY)* You and you are sure together"
+      - "As the winter to foul weather."
+      - "*(to all)* Whiles a wedlock hymn we sing,"
+      - "Feed yourselves with questioning,"
+      - "That reason wonder may diminish"
+      - "How thus we met, and these things finish."
+      - "*(sings)*"
+      - "*Wedding is great Juno’s crown,*"
+      - "*O blessèd bond of board and bed.*"
+      - "*’Tis Hymen peoples every town.*"
+      - "*High wedlock then be honorèd.*"
+      - "*Honor, high honor, and renown,*"
+      - "*To Hymen, god of every town.*"
+    m:
+      - "Quiet! Stop chattering until I’ve made everything clear. There are eight people here that I will join in marriage, if the truth you see before you pleases you. *(to ORLANDO and ROSALIND)* No hardship can part you. *(to OLIVER and CELIA)* Your hearts are together. *(to PHOEBE)* You must consent to having Silvius as your husband, unless you’d rather be married to a woman. *(to TOUCHSTONE and AUDREY)* You are bound to each other as closely as winter is to bad weather. *(to all the married couples)* While we sing a wedding hymn, satisfy your curiosity with questioning. Your surprise will fade, and you’ll learn how all this came to be."
+      - "*(singing)*"
+      - "*Marriage is the crown* Juno *wears,*"
+      - "*It’s a holy bond of domesticity.*"
+      - "*It’s marriage that populates each town,*"
+      - "*So marriage should be honored.*"
+      - "*Honor, honor, and fame*"
+      - "*Is due to Hymen, the god of every town.*"
+
+  - sp: DUKE SENIOR
+    o:
+      - "O my dear niece, welcome thou art to me,"
+      - "Even daughter, welcome in no less degree."
+    m:
+      - "My niece, you are welcome here as if you were my own daughter."
+
+  - sp: PHOEBE
+    o:
+      - "I will not eat my word. Now thou art mine,"
+      - "Thy faith my fancy to thee doth combine."
+    m:
+      - "*(to SILVIUS)* I won’t go back on my promise; I’ll marry you. You’ve won me over with your faith."
+
+  - os: "Enter JAQUES DE BOYS"
+    ms: "JAQUES DE BOYS enters."
+
+  - sp: JAQUES DE BOYS
+    o:
+      - "Let me have audience for a word or two."
+      - "I am the second son of old Sir Rowland,"
+      - "That bring these tidings to this fair assembly."
+      - "Duke Frederick, hearing how that every day"
+      - "Men of great worth resorted to this forest,"
+      - "Addressed a mighty power, which were on foot"
+      - "In his own conduct, purposely to take"
+      - "His brother here and put him to the sword."
+      - "And to the skirts of this wild wood he came,"
+      - "Where, meeting with an old religious man,"
+      - "After some question with him, was converted"
+      - "Both from his enterprise and from the world,"
+      - "His crown bequeathing to his banished brother,"
+      - "And all their lands restored to them again"
+      - "That were with him exiled. This to be true"
+      - "I do engage my life."
+    m:
+      - "Let me have your attention for a moment. I’m Sir Rowland’s middle son, and I bring you news. When Duke Frederick heard that great, worthy men were coming to this forest every day, he raised a large army to invade this land and fight his brother. But just at the edge of the forest, he met an old religious man. He spoke with him for a while and decided not only to abandon his pursuit of his brother but even to retreat from the world. He’s giving the throne to his banished brother and restoring all the men he’d exiled to their rightful lands. I swear on my life that I’m speaking the truth."
+
+  - sp: DUKE SENIOR
+    o:
+      - "Welcome, young man."
+      - "Thou offer’st fairly to thy brothers’ wedding:"
+      - "To one his lands withheld, and to the other"
+      - "A land itself at large, a potent dukedom."
+      - "—First, in this forest let us do those ends"
+      - "That here were well begun and well begot,"
+      - "And, after, every of this happy number"
+      - "That have endured shrewd days and nights with us"
+      - "Shall share the good of our returnèd fortune"
+      - "According to the measure of their states."
+      - "Meantime, forget this new-fall’n dignity,"
+      - "And fall into our rustic revelry."
+      - "—Play, music.—And you brides and bridegrooms all,"
+      - "With measure heaped in joy to th’ measures fall."
+    m:
+      - "Welcome, young man: you bring a great present to your brothers’ wedding. To Oliver, you return his lands; to Orlando, you give a whole dukedom, since he will inherit my land. But first, let’s finish the things we started out here. Then I’ll share the abundance of my returned fortune with all those that have stayed out here with me, according to the rank and status each of you enjoy. But until then, let’s forget our nobility and enjoy some fun. Music, please. Brides and bridegrooms, dance your happiness away."
+
+  - sp: JAQUES
+    o:
+      - "Sir, by your patience: if I heard you rightly,"
+      - "The duke hath put on a religious life"
+      - "And thrown into neglect the pompous court."
+    m:
+      - "Wait a minute, sir. Do you mean to say that the duke has abandoned the glamorous court to live as a monk?"
+
+  - sp: JAQUES DE BOYS
+    o:
+      - "He hath."
+    m:
+      - "Yes, he has."
+
+  - sp: JAQUES
+    o:
+      - "To him will I. Out of these convertites"
+      - "There is much matter to be heard and learned."
+      - "*(to DUKE SENIOR)*"
+      - "You to your former honor I bequeath;"
+      - "Your patience and your virtue well deserves it."
+      - "*(to ORLANDO)*"
+      - "You to a love that your true faith doth merit."
+      - "*(to OLIVER)*"
+      - "You to your land, and love, and great allies."
+      - "*(to SILVIUS)*"
+      - "You to a long and well-deservèd bed."
+      - "*(to TOUCHSTONE)*"
+      - "And you to wrangling, for thy loving voyage"
+      - "Is but for two months victualled.—So to your pleasures."
+      - "I am for other than for dancing measures."
+    m:
+      - "I will go find him. There is much to be learned from these converts. *(to DUKE SENIOR)* I bestow on you your former honor, for your patience and virtue. *(to ORLANDO)* I give you the love that your faithfulness deserves *(to OLIVER)* and you your land, your love, and your great allies. *(to SILVIUS)* You get a long and well-deserved stay in bed, with your new wife. *(to TOUCHSTONE)* And you I expect to be up fighting soon. The honeymoon will last two months, tops.— And with that, you may all return to your dancing. I’m bound for another fate."
+
+  - sp: DUKE SENIOR
+    o:
+      - "Stay, Jaques, stay."
+    m:
+      - "Stay, Jaques, stay here for a bit."
+
+  - sp: JAQUES
+    o:
+      - "To see no pastime I. What you would have"
+      - "I’ll stay to know at your abandoned cave."
+    m:
+      - "No, this fun is not for me. I’ll wait for you in your cave, where you can tell me what you need from me."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: DUKE SENIOR
+    o:
+      - "Proceed, proceed. We’ll so begin these rites"
+      - "As we do trust they’ll end, in true delights."
+    m:
+      - "Let’s proceed. We’ll begin the ceremony the way we hope it will end—with delight."
+
+  - os: "Dance"
+    ms: "Everyone dances."
+
+  - os: "Exeunt all but ROSALIND"
+    ms: "Everyone exits except ROSALIND."
+
+  - sp: ROSALIND
+    o:
+      - "It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue. If it be true that good wine needs no bush, ’tis true that a good play needs no epilogue. Yet to good wine they do use good bushes, and good plays prove the better by the help of good epilogues. What a case am I in, then, that am neither a good epilogue nor cannot insinuate with you in the behalf of a good play. I am not furnished like a beggar; therefore to beg will not become me. My way is to conjure you, and I’ll begin with the women. I charge you, O women, for the love you bear to men, to like as much of this play as please you. And I charge you, O men, for the love you bear to women— as I perceive by your simpering, none of you hates them— that between you and the women the play may please. If I were a woman, I would kiss as many of you as had beards that pleased me, complexions that liked me, and breaths that I defied not. And I am sure as many as have good beards, or good faces, or sweet breaths will, for my kind offer, when I make curtsy, bid me farewell."
+    m:
+      - "You don’t usually see a woman deliver an epilogue, but it’s no worse than seeing a man deliver the prologue. If it’s true that you don’t need ivy to sell good wine, then it should also be true that a good play doesn’t need an epilogue. But they use good-quality ivy to sell good wine, and a good play is improved by a good epilogue. But then I’m in a strange position, as I not only do not have a good epilogue, I’m not sure this was a good play. I’m not dressed like a beggar, so it wouldn’t be becoming for me to beg. No, instead I’ll bewitch you, and I’ll start with the women. Women, in the name of the love you have for men, I demand that you like as much of this play as you feel like. Men, in the name of the women you love—and I can guess by your goofy smiles that none of you exactly hates them—the play will act as a nice toy for you and the ladies to share. If I actually were a woman, I’d kiss all of you that have beards that pleased me, complexions that I liked, and breath that wasn’t foul. And I’m sure that all of you with nice beards, good faces, and sweet breath will, when I curtsy good night, give me a nice round of applause."
+
+  - os: "Exit"
+    ms: "She exits."

@@ -1,0 +1,204 @@
+play: Othello
+title: Act 3, Scene 1
+group: 3
+order: 6
+text:
+  - os: "Enter CASSIO and MUSICIANS"
+    ms: "CASSIO enters with MUSICIANS."
+
+  - sp: CASSIO
+    o:
+      - "Masters, play here, I will content your pains."
+      - "Something that’s brief, and bid “Good morrow, general.”"
+    m:
+      - "Musicians, start playing here. I’ll pay you for your trouble. Play something short that will put the general in a good mood."
+
+  - os: "They play. Enter CLOWN"
+    ms: "The MUSICIANS play. The CLOWN enters."
+
+  - sp: CLOWN
+    o:
+      - "Why masters, have your instruments been in Naples, that they speak i’ th’ nose thus?"
+    m:
+      - "Your instruments all have a nasal twang. Have they been to Naples?"
+
+  - sp: MUSICIAN
+    o:
+      - "How, sir? How?"
+    m:
+      - "Excuse me?"
+
+  - sp: CLOWN
+    o:
+      - "Are these, I pray you, wind instruments?"
+    m:
+      - "Are these wind instruments?"
+
+  - sp: MUSICIAN
+    o:
+      - "Ay, marry, are they, sir."
+    m:
+      - "Yes, they are."
+
+  - sp: CLOWN
+    o:
+      - "Oh, thereby hangs a tail."
+    m:
+      - "Oh, there’s the problem."
+
+  - sp: MUSICIAN
+    o:
+      - "Whereby hangs a tale, sir?"
+    m:
+      - "What’s the problem?"
+
+  - sp: CLOWN
+    o:
+      - "Marry sir, by many a wind instrument that I know. But, masters, here’s money for you, and the general so likes your music that he desires you, for love’s sake, to make no more noise with it."
+    m:
+      - "Anyone full of hot air is a problem. But here’s some money. The general likes your music a lot, but he asks you to stop playing now."
+
+  - sp: MUSICIAN
+    o:
+      - "Well, sir, we will not."
+    m:
+      - "Well, we’ll stop, then."
+
+  - sp: CLOWN
+    o:
+      - "If you have any music that may not be heard, to ’t again. But, as they say, to hear music the general does not greatly care."
+    m:
+      - "If you’ve got any music that can’t be heard, then play that. But as I said, the general isn’t really in the mood to hear music now."
+
+  - sp: MUSICIAN
+    o:
+      - "We have none such, sir."
+    m:
+      - "We don’t have any music that can’t be heard."
+
+  - sp: CLOWN
+    o:
+      - "Then put up your pipes in your bag, for I’ll away. Go, vanish into air, away!"
+    m:
+      - "Then pack up your instruments and go away. Go!"
+
+  - os: "Exeunt MUSICIANS"
+    ms: "The MUSICIANS exit."
+
+  - sp: CASSIO
+    o:
+      - "Dost thou hear, my honest friend?"
+    m:
+      - "Do you hear, my friend?"
+
+  - sp: CLOWN
+    o:
+      - "No, I hear not your honest friend, I hear you."
+    m:
+      - "No, I don’t hear your friend. I hear you."
+
+  - sp: CASSIO
+    o:
+      - "Prithee, keep up thy quillets. There’s a poor piece of gold for thee. If the gentlewoman that attends the general’s wife be stirring, tell her there’s one Cassio entreats her a little favour of speech. Wilt thou do this?"
+    m:
+      - "Please don’t play games. (CASSIO *gives* CLOWN *money)*. There’s a bit of gold for you. When the woman taking care of the general’s wife wakes up, could you please tell her that Cassio asks to speak with her?"
+
+  - sp: CLOWN
+    o:
+      - "She is stirring, sir. If she will stir hither, I shall seem to notify unto her."
+    m:
+      - "She’s awake, sir. If she feels like coming over here, I’ll give her your message."
+
+  - os: "Exit CLOWN"
+    ms: "The CLOWN exits."
+
+  - os: "Enter IAGO"
+    ms: "IAGO enters."
+
+  - o:
+      - "    In happy time, Iago."
+    m:
+      - "Good to see you, Iago."
+
+  - sp: IAGO
+    o:
+      - "You have not been abed, then?"
+    m:
+      - "You didn’t go to sleep, then?"
+
+  - sp: CASSIO
+    o:
+      - "    Why, no. The day had broke"
+      - "Before we parted. I have made bold, Iago,"
+      - "To send in to your wife. My suit to her"
+      - "Is that she will to virtuous Desdemona"
+      - "Procure me some access."
+    m:
+      - "No. When I left you it was already morning. I’ve been bold, Iago. I’ve asked to talk to your wife. I’m going to ask her to let me talk to Desdemona."
+
+  - sp: IAGO
+    o:
+      - "I’ll send her to you presently,"
+      - "And I’ll devise a mean to draw the Moor"
+      - "Out of the way, that your converse and business"
+      - "May be more free."
+    m:
+      - "I’ll send her out to you now. I’ll think of a plan to get the Moor out of the way, so you can speak more openly."
+
+  - sp: CASSIO
+    o:
+      - "I humbly thank you for’t."
+    m:
+      - "I humbly thank you."
+
+  - os: "Exit IAGO"
+    ms: "IAGO exits."
+
+  - o:
+      - "I never knew a Florentine more kind and honest."
+    m:
+      - "Even for a Florentine, I never knew someone so kind and honest."
+
+  - os: "Enter EMILIA"
+    ms: "EMILIA enters."
+
+  - sp: EMILIA
+    o:
+      - "Good morrow, good Lieutenant. I am sorry"
+      - "For your displeasure, but all will sure be well."
+      - "The general and his wife are talking of it,"
+      - "And she speaks for you stoutly. The Moor replies"
+      - "That he you hurt is of great fame in Cyprus"
+      - "And great affinity, and that in wholesome wisdom"
+      - "He might not but refuse you. But he protests he loves you"
+      - "And needs no other suitor but his likings"
+      - "To take the safest occasion by the front"
+      - "To bring you in again."
+    m:
+      - "Good morning, lieutenant. I’m sorry about what happened, but I’m sure everything will turn out all right. The general and his wife are talking about it now, and she’s defending you strongly. The Moor says the man you hurt is very important in Cyprus, and that under the circumstances he has no choice but to refuse to reinstate you. But he says he still loves and respects you, and based on his own feelings alone he’s looking for an opportunity to safely take you back."
+
+  - sp: CASSIO
+    o:
+      - "    Yet I beseech you,"
+      - "If you think fit, or that it may be done,"
+      - "Give me advantage of some brief discourse"
+      - "With Desdemona alone."
+    m:
+      - "Please find a way to give me some time alone with Desdemona, if you think that’s all right."
+
+  - sp: EMILIA
+    o:
+      - "    Pray you come in."
+      - "I will bestow you where you shall have time"
+      - "To speak your bosom freely."
+    m:
+      - "Please come in. I’ll take you to a place where you can speak freely."
+
+  - sp: CASSIO
+    o:
+      - "    I am much bound to you."
+    m:
+      - "Thank you very much."
+
+  - os: "Exeunt"
+    ms: "They exit."

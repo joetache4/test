@@ -1,0 +1,460 @@
+play: Much Ado About Nothing
+title: Act 5, Scene 4
+group: 5
+order: 16
+text:
+  - os: "Enter LEONATO,ANTONIO, BENEDICK,BEATRICE, MARGARET,URSULA, FRIAR FRANCIS, andHERO"
+    ms: "LEONATO, ANTONIO,BENEDICK, BEATRICE,MARGARET, URSULA, FRIAR FRANCIS, and HERO enter."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "Did I not tell you she was innocent?"
+    m:
+      - "Didn’t I tell you she was innocent?"
+
+  - sp: LEONATO
+    o:
+      - "So are the Prince and Claudio, who accused her"
+      - "Upon the error that you heard debated."
+      - "But Margaret was in some fault for this,"
+      - "Although against her will, as it appears"
+      - "In the true course of all the question."
+    m:
+      - "And the Prince and Claudio, who accused her, are innocent as well, because they were deceived by Don John. Margaret is partially guilty, although our investigation shows that she acted unintentionally."
+
+  - sp: ANTONIO
+    o:
+      - "Well, I am glad that all things sort so well."
+    m:
+      - "Well, I’m glad that everything has been sorted out."
+
+  - sp: BENEDICK
+    o:
+      - "And so am I, being else by faith enforced"
+      - "To call young Claudio to a reckoning for it."
+    m:
+      - "Me too—otherwise I would have had to duel with Claudio."
+
+  - sp: LEONATO
+    o:
+      - "Well, daughter, and you gentlewomen all,"
+      - "Withdraw into a chamber by yourselves,"
+      - "And when I send for you, come hither masked."
+      - "The Prince and Claudio promised by this hour"
+      - "To visit me.—You know your office, brother."
+      - "You must be father to your brother’s daughter,"
+      - "And give her to young Claudio."
+    m:
+      - "Hero, you and the other women should all retreat to a room. When I send for you, come out wearing masks. The Prince and Claudio are supposed to be here by now.—You know your job, brother. You have to pretend to be your niece’s father, and give her away to Claudio."
+
+  - os: "Exeunt Ladies"
+    ms: "The ladies exit."
+
+  - sp: ANTONIO
+    o:
+      - "Which I will do with confirmed countenance."
+    m:
+      - "I’ll do that, without giving away our secret."
+
+  - sp: BENEDICK
+    o:
+      - "Friar, I must entreat your pains, I think."
+    m:
+      - "Friar, I think I need a favor from you."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "To do what, Signior?"
+    m:
+      - "What do you need me to do?"
+
+  - sp: BENEDICK
+    o:
+      - "To bind me or undo me, one of them.—"
+      - "Signior Leonato, truth it is, good Signior,"
+      - "Your niece regards me with an eye of favor."
+    m:
+      - "To tie me up, or to undo me: one or the other. Signior Leonato, the truth is, your niece likes me."
+
+  - sp: LEONATO
+    o:
+      - "That eye my daughter lent her; ’tis most true."
+    m:
+      - "She sees you with the eyes my daughter lent her, it’s true."
+
+  - sp: BENEDICK
+    o:
+      - "And I do with an eye of love requite her."
+    m:
+      - "And I see her also through the eyes of love."
+
+  - sp: LEONATO
+    o:
+      - "The sight whereof I think you had from me,"
+      - "From Claudio and the Prince. But what’s your will?"
+    m:
+      - "And those eyes were endowed with sight by Claudio, the Prince, and me. But what did you want?"
+
+  - sp: BENEDICK
+    o:
+      - "Your answer, sir, is enigmatical."
+      - "But for my will, my will is your goodwill"
+      - "May stand with ours, this day to be conjoined"
+      - "In the state of honorable marriage—"
+      - "In which, good Friar, I shall desire your help."
+    m:
+      - "Sir, I’m puzzled by what you just said. But as far as what I want—I want you to give Beatrice and me your blessing to be married. That, good Friar, is where you come in."
+
+  - sp: LEONATO
+    o:
+      - "My heart is with your liking."
+    m:
+      - "Our wishes are aligned, then: I give you my blessing."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "    And my help."
+      - "Here comes the Prince and Claudio."
+    m:
+      - "And I’ll help you. Here comes the Prince and Claudio."
+
+  - os: "Enter DON PEDRO andCLAUDIO, and two or three others"
+    ms: "DON PEDRO andCLAUDIO enter with two or three others."
+
+  - sp: DON PEDRO
+    o:
+      - "Good morrow to this fair assembly."
+    m:
+      - "Good morning to all these lovely people."
+
+  - sp: LEONATO
+    o:
+      - "Good morrow, Prince; good morrow, Claudio."
+      - "We here attend you. Are you yet determined"
+      - "Today to marry with my brother’s daughter?"
+    m:
+      - "Good morning, Prince; good morning, Claudio. We’re waiting here for you. Are you still set on marrying my brother’s daughter?"
+
+  - sp: CLAUDIO
+    o:
+      - "I’ll hold my mind were she an Ethiope."
+    m:
+      - "I wouldn’t change my mind even if she were black-skinned."
+
+  - sp: LEONATO
+    o:
+      - "Call her forth, brother. Here’s the friar ready."
+    m:
+      - "Bring her out, brother. The friar’s ready."
+
+  - os: "Exit ANTONIO"
+    ms: "ANTONIO exits."
+
+  - sp: DON PEDRO
+    o:
+      - "Good morrow, Benedick. Why, what’s the matter"
+      - "That you have such a February face,"
+      - "So full of frost, of storm and cloudiness?"
+    m:
+      - "Good morning, Benedick. What’s the matter? Your face looks like the month of February—full of frost, storms, and cloudiness."
+
+  - sp: CLAUDIO
+    o:
+      - "I think he thinks upon the savage bull."
+      - "Tush, fear not, man. We’ll tip thy horns with gold,"
+      - "And all Europa shall rejoice at thee"
+      - "As once Europa did at lusty Jove"
+      - "When he would play the noble beast in love."
+    m:
+      - "I think he’s nervous—he’s about to become the savage bull who got domesticated. Oh, don’t worry about it—we’ll dip your horns in gold and make you pretty, and you’ll delight all of Europe, just like Jove delighted Europa when *he* was a bull."
+
+  - sp: BENEDICK
+    o:
+      - "Bull Jove, sir, had an amiable low,"
+      - "And some such strange bull leapt your father’s cow"
+      - "And got a calf in that same noble feat"
+      - "Much like to you, for you have just his bleat."
+    m:
+      - "Jove came to earth lowing for love. A strange bull just like him mated with one of your father’s cows and, voilà, gave birth to a calf like you—you bleat the same as him."
+
+  - sp: CLAUDIO
+    o:
+      - "For this I owe you. Here comes other reck’nings."
+    m:
+      - "I’ll get you for that one. But here are other matters to be dealt with."
+
+  - os: "Enter ANTONIO,HERO, BEATRICE,MARGARET, URSULA, the ladies masked"
+    ms: "ANTONIO, HERO,BEATRICE, MARGARET,URSULA enter. The ladies wear masks."
+
+  - o:
+      - "Which is the lady I must seize upon?"
+    m:
+      - "Which is the lady I’m supposed to marry?"
+
+  - sp: LEONATO
+    o:
+      - "This same is she, and I do give you her."
+    m:
+      - "This one, and I will give her to you."
+
+  - sp: CLAUDIO
+    o:
+      - "Why, then she’s mine.—Sweet, let me see your face."
+    m:
+      - "Well, then she’s the one for me. Sweetheart, let me see your face."
+
+  - sp: LEONATO
+    o:
+      - "No, that you shall not till you take her hand"
+      - "Before this friar and swear to marry her."
+    m:
+      - "No, you can’t do that until you take her hand and, in front of this friar, swear to marry her."
+
+  - sp: CLAUDIO
+    o:
+      - "*(to HERO)* Give me your hand before this holy friar."
+      - "I am your husband, if you like of me."
+    m:
+      - "*(to HERO)* Give me your hand. With the friar as my witness, I am your husband, if you want me."
+
+  - sp: HERO
+    o:
+      - "And when I lived, I was your other wife,"
+      - "And when you loved, you were my other husband."
+      - "*(She unmasks)*"
+    m:
+      - "And when I lived, I was your other wife. And when you loved me, you were my other husband.*(she removes her mask)*"
+
+  - sp: CLAUDIO
+    o:
+      - "Another Hero!"
+    m:
+      - "It’s another Hero!"
+
+  - sp: HERO
+    o:
+      - "  Nothing certainer."
+      - "One Hero died defiled, but I do live,"
+      - "And surely as I live, I am a maid."
+    m:
+      - "Exactly right. One Hero died when she was slandered, but I am alive. And as surely as I am alive, I am a virgin."
+
+  - sp: DON PEDRO
+    o:
+      - "The former Hero! Hero that is dead!"
+    m:
+      - "It’s the former Hero! The Hero that died!"
+
+  - sp: LEONATO
+    o:
+      - "She died, my lord, but whiles her slander lived."
+    m:
+      - "She was only dead, my lord, as long as her slander lived."
+
+  - sp: FRIAR FRANCIS
+    o:
+      - "All this amazement can I qualify"
+      - "When after that the holy rites are ended"
+      - "I’ll tell you largely of fair Hero’s death."
+      - "Meantime let wonder seem familiar,"
+      - "And to the chapel let us presently."
+    m:
+      - "I can confirm that all these shocking things are true. After the wedding ceremony, I’ll tell you all about beautiful Hero’s “death.” In the meantime, just accept all these wonderful things, and let’s head to the chapel."
+
+  - sp: BENEDICK
+    o:
+      - "Soft and fair, Friar.—Which is Beatrice?"
+    m:
+      - "Wait a moment, Friar. Which one of you is Beatrice?"
+
+  - sp: BEATRICE
+    o:
+      - "*(unmasking)* I answer to that name. What is your will?"
+    m:
+      - "*(taking off her mask)* That’s my name. What do you want?"
+
+  - sp: BENEDICK
+    o:
+      - "Do not you love me?"
+    m:
+      - "Do you love me?"
+
+  - sp: BEATRICE
+    o:
+      - "    Why no, no more than reason."
+    m:
+      - "No, no more than is reasonable."
+
+  - sp: BENEDICK
+    o:
+      - "Why then, your uncle and the Prince and Claudio"
+      - "Have been deceived. They swore you did."
+    m:
+      - "Well then, your uncle and the Prince and Claudio have been deceived. They swore you did."
+
+  - sp: BEATRICE
+    o:
+      - "Do not you love me?"
+    m:
+      - "Do you love me?"
+
+  - sp: BENEDICK
+    o:
+      - "Troth, no, no more than reason."
+    m:
+      - "Truly, no—no more than is reasonable."
+
+  - sp: BEATRICE
+    o:
+      - "Why then, my cousin, Margaret, and Ursula"
+      - "Are much deceived, for they did swear you did."
+    m:
+      - "Well then, Margaret, Ursula, and my cousin have been very much deceived, for they swore you did."
+
+  - sp: BENEDICK
+    o:
+      - "They swore that you were almost sick for me."
+    m:
+      - "They swore that you were sick with love for me."
+
+  - sp: BEATRICE
+    o:
+      - "They swore that you were well-nigh dead for me."
+    m:
+      - "They swore that you were nearly dead with love for me."
+
+  - sp: BENEDICK
+    o:
+      - "’Tis no such matter. Then you do not love me?"
+    m:
+      - "Oh, well. So you don’t love me?"
+
+  - sp: BEATRICE
+    o:
+      - "No, truly, but in friendly recompense."
+    m:
+      - "No, I don’t—except as a friend."
+
+  - sp: LEONATO
+    o:
+      - "Come, cousin, I am sure you love the gentleman."
+    m:
+      - "Come on, niece, I’m sure you love him."
+
+  - sp: CLAUDIO
+    o:
+      - "And I’ll be sworn upon ’t that he loves her,"
+      - "For here’s a paper written in his hand,"
+      - "A halting sonnet of his own pure brain,"
+      - "Fashioned to Beatrice."
+      - "*(Shows a paper)*"
+    m:
+      - "And I’ll swear that he loves her. Here’s a clumsy sonnet, in Benedick’s handwriting, dedicated to Beatrice. *(holding up a piece of paper)*"
+
+  - sp: HERO
+    o:
+      - "    And here’s another,"
+      - "Writ in my cousin’s hand, stol’n from her pocket,"
+      - "Containing her affection unto Benedick."
+      - "*(Shows a paper)*"
+    m:
+      - "And here’s another poem, which I stole from my cousin’s pocket—in her handwriting and all about her adoration for Benedick. *(holding up a piece of paper)*"
+
+  - sp: BENEDICK
+    o:
+      - "A miracle! Here’s our own hands against our hearts. Come,"
+      - "I will have thee, but, by this light, I take thee for pity."
+    m:
+      - "What a miracle! Our handwriting gives away our hearts. Come on, I’ll take you, but honestly I’m only doing it out of pity."
+
+  - sp: BEATRICE
+    o:
+      - "I would not deny you, but, by this good day, I yield upon"
+      - "great persuasion, and partly to save your life, for I was told"
+      - "you were in a consumption."
+    m:
+      - "I won’t say no to you, but let it be known that I’m only doing this after a lot of persuasion and to save your life —I hear you were quickly wasting away without me."
+
+  - sp: BENEDICK
+    o:
+      - "Peace! I will stop your mouth."
+    m:
+      - "Oh, shut up! I’ll stop your mouth with a kiss."
+
+  - os: "They kiss"
+    ms: "They kiss."
+
+  - sp: DON PEDRO
+    o:
+      - "How dost thou, Benedick, the married man?"
+    m:
+      - "How does it feel to be Benedick the Married Man?"
+
+  - sp: BENEDICK
+    o:
+      - "I’ll tell thee what, Prince: a college of wit-crackers cannot"
+      - "flout me out of my humor. Dost thou think I care for a satire"
+      - "or an epigram? No. If a man will be beaten with brains, he"
+      - "shall wear nothing handsome about him. In brief, since I do"
+      - "purpose to marry, I will think nothing to any purpose that"
+      - "the world can say against it, and therefore never flout at me"
+      - "for what I have said against it. For man is a giddy thing, and"
+      - "this is my conclusion.—For thy part, Claudio, I did think to"
+      - "have beaten thee, but in that thou art like to be my kinsman,"
+      - "live unbruised, and love my cousin."
+    m:
+      - "I’ll tell you what, Prince: a whole university full of wisecrackers couldn’t change my mood today. You think I care what I’m called? Well, I don’t. If a man is always afraid of what others think, he won’t even dare to dress nicely, because he’ll be afraid people will talk about him. In short, since I intend to get married, I won’t hear anyone say a bad thing about it. So don’t go making fun of me for what I said before. Man is a giddy, flighty thing: that’s my conclusion. And Claudio—though I’m sure I would have beaten you in our duel—since you’re likely to become my relative, I’ll let you go, unbruised, and love my cousin Hero."
+
+  - sp: CLAUDIO
+    o:
+      - "I had well hoped thou wouldst have denied Beatrice, that I"
+      - "might have cudgeled thee out of thy single life, to make thee"
+      - "a double-dealer, which out of question, thou wilt be, if my"
+      - "cousin do not look exceedingly narrowly to thee."
+    m:
+      - "I was sort of hoping you would say no to Beatrice, so that I could have smacked you out of your single life and made you a double dealer. Which you’ll probably turn into anyway, if my cousin Beatrice doesn’t keep you on a short leash."
+
+  - sp: BENEDICK
+    o:
+      - "Come, come, we are friends. Let’s have a dance ere we are"
+      - "married, that we may lighten our own hearts and our wives’"
+      - "heels."
+    m:
+      - "Come on, we’re all friends. Let’s do a dance, and have some fun, before we’re wed."
+
+  - sp: LEONATO
+    o:
+      - "We’ll have dancing afterward."
+    m:
+      - "We’ll dance after the wedding."
+
+  - sp: BENEDICK
+    o:
+      - "First, of my word! Therefore play, music.—Prince, thou art"
+      - "sad. Get thee a wife, get thee a wife. There is no staff more"
+      - "reverend than one tipped with horn."
+    m:
+      - "No, before! Musicians, play us a song.—Prince, you look sad. You should get a wife! Your royal staff would be so much more impressive if it were topped off by a horn."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "*(to DON PEDRO)* My lord, your brother John is ta’en in flight"
+      - "And brought with armed men back to Messina."
+    m:
+      - "*(to DON PEDRO)* My lord, your brother John was caught by armed soldiers as he fled. He’s been brought back to Messina."
+
+  - sp: BENEDICK
+    o:
+      - "*(to DON PEDRO)* Think not on him till tomorrow. I’ll devise"
+      - "thee brave punishments for him.—Strike up, pipers."
+    m:
+      - "*(to DON PEDRO)* Leave him till tomorrow. I’ll think of some awful punishment for him. Play on, musicians!"
+
+  - os: "Dance"
+    ms: "They all dance."
+
+  - os: "Exeunt"
+    ms: "They all exit."

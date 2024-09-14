@@ -1,0 +1,350 @@
+play: Julius Caesar
+title: Act 2, Scene 2
+group: 2
+order: 4
+text:
+  - os: "Thunder and lightning Enter Julius CAESAR in his nightgown"
+    ms: "Thunder and lightning. CAESAR enters in his nightgown."
+
+  - sp: CAESAR
+    o:
+      - "Nor heaven nor earth have been at peace tonight."
+      - "Thrice hath Calphurnia in her sleep cried out,"
+      - "“Help, ho! They murder Caesar!”—Who’s within?"
+    m:
+      - "Neither the sky nor the earth have been quiet tonight. Calphurnia cried out three times in her sleep, “Help, someone! They’re murdering Caesar!” Who’s there?"
+
+  - os: "Enter a SERVANT"
+    ms: "A SERVANT enters."
+
+  - sp: SERVANT
+    o:
+      - "My lord."
+    m:
+      - "My lord?"
+
+  - sp: CAESAR
+    o:
+      - "Go bid the priests do present sacrifice"
+      - "And bring me their opinions of success."
+    m:
+      - "Go tell the priests to perform a sacrifice immediately, and bring me their interpretation of the results."
+
+  - sp: SERVANT
+    o:
+      - "I will, my lord."
+    m:
+      - "I will, my lord."
+
+  - os: "Exit SERVANT"
+    ms: "The SERVANT exits."
+
+  - os: "Enter CALPHURNIA"
+    ms: "CALPHURNIA enters."
+
+  - sp: CALPHURNIA
+    o:
+      - "What mean you, Caesar? Think you to walk forth?"
+      - "You shall not stir out of your house today."
+    m:
+      - "What are you doing, Caesar? Are you planning to go out? You’re not leaving the house today."
+
+  - sp: CAESAR
+    o:
+      - "Caesar shall forth. The things that threatened me"
+      - "Ne’er looked but on my back. When they shall see"
+      - "The face of Caesar, they are vanishèd."
+    m:
+      - "I will go out. The things that threaten me have only seen my back. When they see the face of Caesar, they will vanish."
+
+  - sp: CALPHURNIA
+    o:
+      - "Caesar, I never stood on ceremonies,"
+      - "Yet now they fright me. There is one within,"
+      - "Besides the things that we have heard and seen,"
+      - "Recounts most horrid sights seen by the watch."
+      - "A lioness hath whelpèd in the streets,"
+      - "And graves have yawned and yielded up their dead."
+      - "Fierce fiery warriors fought upon the clouds"
+      - "In ranks and squadrons and right form of war,"
+      - "Which drizzled blood upon the Capitol."
+      - "The noise of battle hurtled in the air."
+      - "Horses did neigh, and dying men did groan,"
+      - "And ghosts did shriek and squeal about the streets."
+      - "O Caesar! These things are beyond all use,"
+      - "And I do fear them."
+    m:
+      - "Caesar, I never believed in omens, but now they frighten me. A servant told me the night-watchmen saw horrid sights too, but different ones from what we heard and saw. A lioness gave birth in the streets, and graves cracked open and thrust out their dead. Fierce, fiery warriors fought in the clouds in the usual formations of war—ranks and squadrons—until the clouds drizzled blood onto the Capitol. The noise of battle filled the air, and horses neighed, and dying men groaned, and ghosts shrieked and squealed in the streets. Oh, Caesar! These things are beyond anything we’ve seen before, and I’m afraid."
+
+  - sp: CAESAR
+    o:
+      - "    What can be avoided"
+      - "Whose end is purposed by the mighty gods?"
+      - "Yet Caesar shall go forth, for these predictions"
+      - "Are to the world in general as to Caesar."
+    m:
+      - "How can we avoid what the gods want to happen? But I will go out, for these bad omens apply to the world in general as much as they do to me."
+
+  - sp: CALPHURNIA
+    o:
+      - "When beggars die there are no comets seen."
+      - "The heavens themselves blaze forth the death of princes."
+    m:
+      - "When beggars die there are no comets in the sky. The heavens only announce the deaths of princes."
+
+  - sp: CAESAR
+    o:
+      - "Cowards die many times before their deaths."
+      - "The valiant never taste of death but once."
+      - "Of all the wonders that I yet have heard,"
+      - "It seems to me most strange that men should fear,"
+      - "Seeing that death, a necessary end,"
+      - "Will come when it will come."
+    m:
+      - "Cowards die many times before their deaths. The brave experience death only once. Of all the strange things I’ve ever heard, it seems most strange to me that men fear death, given that death, which can’t be avoided, will come whenever it wants."
+
+  - os: "Enter SERVANT"
+    ms: "The SERVANT enters."
+
+  - o:
+      - "    What say the augurers?"
+    m:
+      - "What do the priests say?"
+
+  - sp: SERVANT
+    o:
+      - "They would not have you to stir forth today."
+      - "Plucking the entrails of an offering forth,"
+      - "They could not find a heart within the beast."
+    m:
+      - "They don’t want you to go out today. They pulled out the guts of the sacrificed animal and couldn’t find its heart."
+
+  - sp: CAESAR
+    o:
+      - "The gods do this in shame of cowardice."
+      - "Caesar should be a beast without a heart"
+      - "If he should stay at home today for fear."
+      - "No, Caesar shall not. Danger knows full well"
+      - "That Caesar is more dangerous than he."
+      - "We are two lions littered in one day,"
+      - "And I the elder and more terrible."
+      - "And Caesar shall go forth."
+    m:
+      - "The gods do this to test my bravery. They’re saying I’d be an animal without a heart if I stayed home today out of fear. So, I won’t. Danger knows that Caesar is more dangerous than he is. We’re two lions born on the same day in the same litter, and I’m the older and more terrible. I will go out."
+
+  - sp: CALPHURNIA
+    o:
+      - "    Alas, my lord,"
+      - "Your wisdom is consumed in confidence."
+      - "Do not go forth today. Call it my fear"
+      - "That keeps you in the house, and not your own."
+      - "We’ll send Mark Antony to the senate house,"
+      - "And he shall say you are not well today."
+      - "*(kneels)* Let me, upon my knee, prevail in this."
+    m:
+      - "Alas, my lord, your confidence is getting the better of your wisdom. Don’t go out today. Say that it’s my fear that keeps you inside and not your own. We’ll send Mark Antony to the senate house, and he’ll say that you’re sick today. *(she kneels)* Let me, on my knees, win you over to this plan."
+
+  - sp: CAESAR
+    o:
+      - "Mark Antony shall say I am not well,"
+      - "And for thy humor I will stay at home."
+    m:
+      - "All right. Mark Antony will say I’m not well, and to please you I’ll stay at home."
+
+  - os: "CALPHURNIA rises"
+    ms: "CALPHURNIA gets up."
+
+  - os: "Enter DECIUS"
+    ms: "DECIUS enters."
+
+  - o:
+      - "Here’s Decius Brutus. He shall tell them so."
+    m:
+      - "Here’s Decius Brutus. He’ll tell them so."
+
+  - sp: DECIUS
+    o:
+      - "Caesar, all hail! Good morrow, worthy Caesar."
+      - "I come to fetch you to the senate house."
+    m:
+      - "Hail, Caesar! Good morning, worthy Caesar. I’ve come to take you to the senate house."
+
+  - sp: CAESAR
+    o:
+      - "And you are come in very happy time"
+      - "To bear my greeting to the senators"
+      - "And tell them that I will not come today."
+      - "“Cannot” is false, and that I dare not, falser."
+      - "I will not come today. Tell them so, Decius."
+    m:
+      - "And you’ve come at a good time, so you can convey my greetings to the senators and tell them I won’t come today. It wouldn’t be true to say that I *can’t* come, and even less true to say that I don’t *dare* come. I simply *won’t* come today. Tell them so, Decius."
+
+  - sp: CALPHURNIA
+    o:
+      - "Say he is sick."
+    m:
+      - "Say he’s sick."
+
+  - sp: CAESAR
+    o:
+      - "  Shall Caesar send a lie?"
+      - "Have I in conquest stretched mine arm so far"
+      - "To be afraid to tell graybeards the truth?"
+      - "Decius, go tell them Caesar will not come."
+    m:
+      - "Would I send a lie? Have I accomplished so much in battle, but now I’m afraid to tell some old men the truth? Decius, go tell them that Caesar won’t come."
+
+  - sp: DECIUS
+    o:
+      - "Most mighty Caesar, let me know some cause,"
+      - "Lest I be laughed at when I tell them so."
+    m:
+      - "Most mighty Caesar, give me some reason, so I won’t be laughed at when I tell them so."
+
+  - sp: CAESAR
+    o:
+      - "The cause is in my will. I will not come."
+      - "That is enough to satisfy the senate."
+      - "But for your private satisfaction,"
+      - "Because I love you, I will let you know."
+      - "Calphurnia here, my wife, stays me at home."
+      - "She dreamt tonight she saw my statue,"
+      - "Which, like a fountain with an hundred spouts,"
+      - "Did run pure blood. And many lusty Romans"
+      - "Came smiling and did bathe their hands in it."
+      - "And these does she apply for warnings and portents"
+      - "And evils imminent, and on her knee"
+      - "Hath begged that I will stay at home today."
+    m:
+      - "The reason is that it’s what I want. I’m not coming. That’s enough for the senate. But for your private satisfaction, because I love you, I’ll tell you. Calphurnia, my wife, is keeping me at home. Last night, she dreamed she saw a statue of me with a hundred holes in it, like a fountain with pure blood flowing from it, and many happy Romans came smiling and washed their hands in it. She takes these signs for warnings and predictions of terrible evils to come, and, on her knee, she begged me to stay home today."
+
+  - sp: DECIUS
+    o:
+      - "This dream is all amiss interpreted."
+      - "It was a vision fair and fortunate."
+      - "Your statue spouting blood in many pipes,"
+      - "In which so many smiling Romans bathed,"
+      - "Signifies that from you great Rome shall suck"
+      - "Reviving blood, and that great men shall press"
+      - "For tinctures, stains, relics, and cognizance."
+      - "This by Calphurnia’s dream is signified."
+    m:
+      - "This dream has been interpreted all wrong. It was a good and lucky vision. Your statue spouting blood through many holes, in which many smiling Romans bathed, means that you’ll provide great Rome with sustaining blood, and that great men will strive to get some token of approval from your holy blood. This is what Calphurnia’s dream means."
+
+  - sp: CAESAR
+    o:
+      - "And this way have you well expounded it."
+    m:
+      - "You’ve offered an excellent interpretation."
+
+  - sp: DECIUS
+    o:
+      - "I have, when you have heard what I can say."
+      - "And know it now: the senate have concluded"
+      - "To give this day a crown to mighty Caesar."
+      - "If you shall send them word you will not come,"
+      - "Their minds may change. Besides, it were a mock"
+      - "Apt to be rendered for someone to say,"
+      - "“Break up the senate till another time"
+      - "When Caesar’s wife shall meet with better dreams.”"
+      - "If Caesar hide himself, shall they not whisper,"
+      - "“Lo, Caesar is afraid”?"
+      - "Pardon me, Caesar. For my dear, dear love"
+      - "To your proceeding bids me tell you this,"
+      - "And reason to my love is liable."
+    m:
+      - "I will have when you hear the rest of what I have to say. The senate has decided to give mighty Caesar a crown today. If you send them word that you won’t come, they might change their minds. Besides, someone’s likely to joke, “Adjourn the senate until some other time, when Caesar’s wife has had better dreams.” If you hide yourself, won’t they whisper, “Caesar is afraid?” Pardon me, Caesar. My high hopes for your advancement force me to tell you this. My love gets the better of my manners."
+
+  - sp: CAESAR
+    o:
+      - "How foolish do your fears seem now, Calphurnia!"
+      - "I am ashamèd I did yield to them."
+      - "Give me my robe, for I will go."
+    m:
+      - "How foolish your fears seem now, Calphurnia! I’m ashamed that I yielded to them. Give me my robe, because I’m going."
+
+  - os: "Enter BRUTUS, LIGARIUS, METELLUS, CASCA, TREBONIUS, CINNA, and PUBLIUS"
+    ms: "PUBLIUS, BRUTUS, LIGARIUS, METELLUS, CASCA, TREBONIUS, and CINNA enter."
+
+  - o:
+      - "And look, where Publius is come to fetch me."
+    m:
+      - "And look, here’s Publius, come to fetch me."
+
+  - sp: PUBLIUS
+    o:
+      - "Good morrow, Caesar."
+    m:
+      - "Good morning, Caesar."
+
+  - sp: CAESAR
+    o:
+      - "Welcome, Publius."
+      - "—What, Brutus, are you stirred so early too?"
+      - "—Good morrow, Casca.—Caius Ligarius,"
+      - "Caesar was ne’er so much your enemy"
+      - "As that same ague which hath made you lean."
+      - "—What is ’t o’clock?"
+    m:
+      - "Welcome, Publius. What, Brutus? Are you up this early too? Good morning, Casca. Caius Ligarius, I was never your enemy so much as the sickness that’s made you so thin. What time is it?"
+
+  - sp: BRUTUS
+    o:
+      - "    Caesar, ’tis strucken eight."
+    m:
+      - "Caesar, the clock has struck eight."
+
+  - sp: CAESAR
+    o:
+      - "I thank you for your pains and courtesy."
+    m:
+      - "I thank you all for your trouble and courtesy."
+
+  - os: "Enter ANTONY"
+    ms: "ANTONY enters."
+
+  - o:
+      - "See, Antony, that revels long a-nights,"
+      - "Is notwithstanding up.—Good morrow, Antony."
+    m:
+      - "See! Even Antony, who stays up all night partying, is awake. Good morning, Antony."
+
+  - sp: ANTONY
+    o:
+      - "So to most noble Caesar."
+    m:
+      - "And to you, most noble Caesar."
+
+  - sp: CAESAR
+    o:
+      - "    Bid them prepare within."
+      - "I am to blame to be thus waited for."
+      - "—Now, Cinna.—Now, Metellus.—What, Trebonius,"
+      - "I have an hour’s talk in store for you."
+      - "Remember that you call on me today."
+      - "Be near me, that I may remember you."
+    m:
+      - "Tell them to prepare the other room for guests. I’m to blame for making you wait for me. Now, Cinna. Now, Metellus. Trebonius! I have an hour-long matter to discuss with you. Remember to see me today. Stay near me so I’ll remember."
+
+  - sp: TREBONIUS
+    o:
+      - "Caesar, I will. *(aside)* And so near will I be"
+      - "That your best friends shall wish I had been further."
+    m:
+      - "Caesar, I will. *(speaking quietly to himself)* In fact, I’ll be so near that your best friends will wish I’d been further away."
+
+  - sp: CAESAR
+    o:
+      - "Good friends, go in and taste some wine with me."
+      - "And we, like friends, will straightway go together."
+    m:
+      - "Good friends, go in and have some wine with me. And we’ll leave together, like friends."
+
+  - sp: BRUTUS
+    o:
+      - "*(aside)* That every “like” is not the same, O Caesar, The heart of Brutus earns to think upon."
+    m:
+      - "*(quietly to himself)* That we are now only “like” friends—Oh Caesar—makes my heart ache."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,75 @@
+play: Much Ado About Nothing
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter LEONATO andANTONIO"
+    ms: "LEONATO and ANTONIO enter."
+
+  - sp: LEONATO
+    o:
+      - "How now, brother, where is my cousin, your son? Hath he"
+      - "provided this music?"
+    m:
+      - "Hey, brother. Tell me, where is my nephew, your son? Has he taken care of the music?"
+
+  - sp: ANTONIO
+    o:
+      - "He is very busy about it. But, brother, I can tell you strange"
+      - "news that you yet dreamt not of."
+    m:
+      - "He is taking care of it as we speak. But brother, I have some strange news for you."
+
+  - sp: LEONATO
+    o:
+      - "Are they good?"
+    m:
+      - "Is it good news?"
+
+  - sp: ANTONIO
+    o:
+      - "As the events stamps them, but they have a good cover;"
+      - "they show well outward. The Prince and Count Claudio,"
+      - "walking in a thick-pleached alley in mine orchard, were"
+      - "thus much overheard by a man of mine: the Prince"
+      - "discovered to Claudio that he loved my niece your daughter"
+      - "and meant to acknowledge it this night in a dance, and if he"
+      - "found her accordant, he meant to take the present time by"
+      - "the top and instantly break with you of it."
+    m:
+      - "Well, it seems like good news. A servant of mine overheard the Prince and Claudio talking as they walked through my orchard. The Prince said that he is in love with Hero, your daughter, and that he is going to tell her so at the dance tonight. If he she wants to marry him, too, he’s going to find you and ask for her hand immediately."
+
+  - sp: LEONATO
+    o:
+      - "Hath the fellow any wit that told you this?"
+    m:
+      - "Is this servant of yours a smart man?"
+
+  - sp: ANTONIO
+    o:
+      - "A good sharp fellow. I will send for him, and question him"
+      - "yourself."
+    m:
+      - "He’s very bright. I’ll get him to come here, and you can ask him yourself."
+
+  - sp: LEONATO
+    o:
+      - "No, no, we will hold it as a dream till it appear itself. But I"
+      - "will acquaint my daughter withal, that she may be the"
+      - "better prepared for an answer if peradventure this be true."
+      - "Go you and tell her of it."
+    m:
+      - "No, no, until it comes true we’ll pretend it was just a dream we had. But my daughter should know about this, so she can be prepared with an answer just in case. Go to her and tell her for me."
+
+  - os: "Enter ANTONIO’s son, with a musician and attendants"
+    ms: "ANTONIO’s son enters with a musician and attendants."
+
+  - o:
+      - "Cousins, you know what you have to do.—O, I cry you"
+      - "mercy, friend. Go you with me and I will use your skill.—"
+      - "Good cousin, have a care this busy time."
+    m:
+      - "Cousins, you all have work to do.—Oh, I beg your pardon. Come with me now, and help me out. —Dear cousin, please be careful during this busy time."
+
+  - os: "Exeunt"
+    ms: "They all exit."

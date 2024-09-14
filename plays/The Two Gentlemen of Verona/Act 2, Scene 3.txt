@@ -1,0 +1,112 @@
+play: Two Gentlemen of Verona
+title: Act 2, Scene 3
+group: 2
+order: 5
+text:
+  - os: "Enter LANCE leading his dog, Crab"
+    ms: "LANCE enters, leading his dog, Crab."
+
+  - sp: LANCE
+    o:
+      - "Nay, ’twill be this hour ere I have done weeping. All the kind of the Lances have this very fault. I have received my proportion, like the prodigious son, and am going with Sir Proteus to the Imperial’s court. I think Crab, my dog, be the sourest-natured dog that lives. My mother weeping, my father wailing, my sister crying, our maid howling, our cat wringing her hands, and all our house in a great perplexity, yet did not this cruel-hearted cur shed one tear. He is a stone, a very pebblestone, and has no more pity in him than a dog. A Jew would have wept to have seen our parting. Why, my grandam, having no eyes, look you, wept herself blind at my parting. Nay, I’ll show you the manner of it. This shoe is my father. No, this left shoe is my father. No, no, this left shoe is my mother. Nay, that cannot be so neither. Yes, it is so, it is so–it hath the worser sole. This shoe, with the hole in it, is my mother, and this my father. A vengeance on ’t! There ’tis.  Now, sir, this staff is my sister, for, look you, she is as white as a lily and as small as a wand. This hat is Nan, our maid. I am the dog. No, the dog is himself, and I am the dog—O, the dog is me, and I am myself. Ay, so, so. Now come I to my father: “Father, your blessing.” Now should not the shoe speak a word for weeping. Now should I kiss my father. Well, he weeps on. Now come I to my mother. O, that she could speak now like a moved woman! Well, I kiss her. Why there ’tis. Here’s my mother’s breath up and down. Now come I to my sister; mark the moan she makes. Now the dog all this while sheds not a tear nor speaks a word; but see how I lay the dust with my tears."
+    m:
+      - "No, it’ll be this time tomorrow before I’ve stopped crying. All the members of the Lance family have this fault. I’ve received my portion of the family trait, just like the prodigious son, and now I’m going with Sir Proteus to the Imperial court in Milan. I think Crab, my dog, has the sourest personality of any dog alive. Even with my mother weeping, my father wailing, my sister crying, our maid howling, and our cat wringing her hands, this cruel-hearted mutt didn’t shed a single tear. Even a Jew would have wept to see us saying goodbye to each other. Why, my grandmother—who doesn’t have use of her eyes, you see—cried herself blind when I said goodbye. No, I’ll demonstrate what happened. This shoe represents my father. No, this left shoe is my father. No, no, this left shoe is my mother. No, that can’t be right either. Yes it is, it is—it has the sole that isn’t as good. This shoe, with the hole in it, is my mother, and this one is my father. Take that! That’s right now. Now, sir, this wooden stick is my sister, because, you see, it is as white as a lily and as thin as a twig. This hat is Nan, our maid. I am the dog. No wait, the dog is himself, and I am the dog—oh, I mean, the dog is me, and I am myself. Okay, okay, that’s it. Now I go to my father and say, “Father, give me your blessing.” Now the shoe can’t say a word because it’s crying so hard. Now I’ll kiss my father. Well, he keeps crying. Now I come to my mother. Oh, I wish this shoe could speak full of emotion now! Well, I kiss her. And that’s the way it happened. Here’s how she breathed from crying so much. Now I come to my sister. Listen to the moans she makes because she’s so sad. All the while the dog doesn’t shed a single tear or speak a word. See how I flatten the dust with my tears?"
+
+  - os: "Enter PANTHINO"
+    ms: "PANTHINO enters."
+
+  - sp: PANTHINO
+    o:
+      - "Lance, away, away, aboard! Thy master is shipped, and thou art to post after with oars. What’s the matter? Why weep’st thou, man? Away, ass! You’ll lose the tide if you tarry any longer."
+    m:
+      - "Lance, go on, go on, board the ship! Your master is already aboard, and you’re supposed to hurry after him in a rowboat. What’s the matter? Why are you crying, man? Get on, you ass! You’ll lose the tide if you delay any longer."
+
+  - sp: LANCE
+    o:
+      - "It is no matter if the tied were lost; for it is the unkindest tied that ever any man tied."
+    m:
+      - "It doesn’t matter if this tied-up dog is lost, because it’s the unkindest tied-up thing any man ever tied up."
+
+  - sp: PANTHINO
+    o:
+      - "What’s the unkindest tide?"
+    m:
+      - "What’s the unkindest tide?"
+
+  - sp: LANCE
+    o:
+      - "Why, he that’s tied here, Crab, my dog."
+    m:
+      - "Why, the dog that’s tied up right here—Crab, my dog."
+
+  - sp: PANTHINO
+    o:
+      - "Tut, man, I mean thou’lt lose the flood, and in losing the flood, lose thy voyage, and in losing thy voyage, lose thy master, and, in losing thy master, lose thy service, and, in losing thy service—"
+    m:
+      - "No, no, man, I mean you’ll lose the ocean tide. And if you lose the ocean tide, then you’ll lose the whole trip, and if you lose the whole trip, then you’ll lose your master, and if you lose your master, then you’ll lose your job, and if you lose your job…"
+
+  - os: "LANCE puts his hand over PANTHINO’s mouth."
+    ms: "Lance puts his hand over Panthino’s mouth."
+
+  - o:
+      - "Why dost thou stop my mouth?"
+    m:
+      - "Why are you covering my mouth?"
+
+  - sp: LANCE
+    o:
+      - "For fear thou shouldst lose thy tongue."
+    m:
+      - "Because I was afraid you’d lose your tongue."
+
+  - sp: PANTHINO
+    o:
+      - "Where should I lose my tongue?"
+    m:
+      - "Where would I lose my tongue?"
+
+  - sp: LANCE
+    o:
+      - "In thy tale."
+    m:
+      - "In your tale."
+
+  - sp: PANTHINO
+    o:
+      - "In thy tail!"
+    m:
+      - "Up your tail!"
+
+  - sp: LANCE
+    o:
+      - "Lose the tide, and the voyage, and the master, and the service, and the tied! Why, man, if the river were dry, I am able to fill it with my tears; if the wind were down, I could drive"
+      - "the boat with my sighs."
+    m:
+      - "Lose the tide, and the voyage, and my master, and my job, and the tied-up dog! Why, man, if the river where the ship is moored dried up, I’d be able to fill it with my tears. And if the wind weren’t blowing, I could blow the boat forward with my sighs."
+
+  - sp: PANTHINO
+    o:
+      - "Come, come away, man. I was sent to call thee."
+    m:
+      - "Come on, come on, man. I was sent here to get you."
+
+  - sp: LANCE
+    o:
+      - "Sir, call me what thou dar’st."
+    m:
+      - "Sir, you can call me whatever you like."
+
+  - sp: PANTHINO
+    o:
+      - "Will thou go?"
+    m:
+      - "Well, are you going to go?"
+
+  - sp: LANCE
+    o:
+      - "Well, I will go."
+    m:
+      - "Yes, I’ll go."
+
+  - os: "Exeunt"
+    ms: "They exit."

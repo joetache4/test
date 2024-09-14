@@ -1,0 +1,288 @@
+play: Antony and Cleopatra
+title: Act 4, Scene 15
+group: 4
+order: 39
+text:
+  - os: "Enter CLEOPATRA and her maids aloft, with CHARMIAN and IRAS"
+    ms: "CLEOPATRA, CHARMIAN, and IRAS enter with Cleopatra’s maids in the upper gallery."
+
+  - sp: CLEOPATRA
+    o:
+      - "O Charmian, I will never go from hence."
+    m:
+      - "Oh, Charmian, I will never leave this tomb!"
+
+  - sp: CHARMIAN
+    o:
+      - "Be comforted, dear madam."
+    m:
+      - "Be calm, dear lady."
+
+  - sp: CLEOPATRA
+    o:
+      - "    No, I will not."
+      - "All strange and terrible events are welcome,"
+      - "But comforts we despise. Our size of sorrow,"
+      - "Proportioned to our cause, must be as great"
+      - "As that which makes it."
+    m:
+      - "No, I won’t. Strange and terrible events are all welcome, but I despise comforts. The size of my sorrow must be as great as its source."
+
+  - os: "Enter below DIOMEDES"
+    ms: "DIOMEDESenters below."
+
+  - o:
+      - "    How now? Is he dead?"
+    m:
+      - "What’s the news! Is he dead?"
+
+  - sp: DIOMEDES
+    o:
+      - "His death’s upon him, but not dead."
+      - "Look out o’ th’ other side your monument."
+      - "His guard have brought him thither."
+    m:
+      - "He is close to death, but not dead yet. Look out the other window; his guard has brought him here."
+
+  - os: "Enter below ANTONY, and the guard bearing him"
+    ms: "Guards enter, carrying ANTONY."
+
+  - sp: CLEOPATRA
+    o:
+      - "    O sun,"
+      - "Burn the great sphere thou mov’st in. Darkling stand"
+      - "The varying shore o’ th’ world! O Antony,"
+      - "Antony, Antony! Help, Charmian, help, Iras, help!"
+      - "Help, friends below! Let’s draw him hither."
+    m:
+      - "Oh, sun, burn up the orbit in which you move, so that the world may be dark forever! Oh, Antony, Antony, Antony! Help, Charmian, help, Iras, help! Help, friends below; lift him up here."
+
+  - sp: ANTONY
+    o:
+      - "    Peace!"
+      - "Not Caesar’s valor hath o’erthrown Antony,"
+      - "But Antony’s hath triumphed on itself."
+    m:
+      - "Be calm! It was not Caesar’s bravery that conquered Antony but Antony’s that has triumphed over himself."
+
+  - sp: CLEOPATRA
+    o:
+      - "So it should be, that none but Antony"
+      - "Should conquer Antony, but woe ’tis so!"
+    m:
+      - "That’s the way it should be—only Antony should conquer Antony. But how terrible that it has happened!"
+
+  - sp: ANTONY
+    o:
+      - "I am dying, Egypt, dying. Only"
+      - "I here importune death awhile, until"
+      - "Of many thousand kisses the poor last"
+      - "I lay upon thy lips."
+    m:
+      - "I am dying, Cleopatra, dying. I just beg death to wait awhile, until I place the last of our many thousands of kisses on your lips."
+
+  - sp: CLEOPATRA
+    o:
+      - "    I dare not, dear,"
+      - "Dear my lord, pardon, I dare not,"
+      - "Lest I be taken. Not th’ imperious show"
+      - "Of the full-fortuned Caesar ever shall"
+      - "Be brooched with me. If knife, drugs, serpents, have"
+      - "Edge, sting, or operation, I am safe."
+      - "Your wife Octavia, with her modest eyes"
+      - "And still conclusion, shall acquire no honor"
+      - "Demuring upon me. But come, come, Antony—"
+      - "Help me, my women—We must draw thee up."
+      - "Assist, good friends."
+    m:
+      - "I don’t dare come down—forgive me, my lord—I don’t dare, for fear of capture. I will never be exhibited as lucky Caesar’s prize. If knives, poison, or snakes have edge, effect, or venom, I am safe from that fate. Your wife Octavia, with her self-effacing eyes and self-righteous assumptions, won’t get any praise from patronizing me. But come. Come up here, Antony—help me, ladies—we must carry you up. Help us, good friends."
+
+  - os: "They begin lifting him"
+    ms: "They lift him."
+
+  - sp: ANTONY
+    o:
+      - "    Oh, quick, or I am gone."
+    m:
+      - "Oh, quick, before I’m gone."
+
+  - sp: CLEOPATRA
+    o:
+      - "Here’s sport indeed! How heavy weighs my lord!"
+      - "Our strength is all gone into heaviness,"
+      - "That makes the weight. Had I great Juno’s power,"
+      - "The strong-winged Mercury should fetch thee up"
+      - "And set thee by Jove’s side. Yet come a little."
+      - "Wishers were ever fools. Oh, come, come, come!"
+    m:
+      - "Such exercise! My lord is so heavy! Our strength has all turned into sadness. That’s what makes the weight. If I had the goddess Juno’s power, I would make the strong-winged messenger, Mercury, pick you up and seat you beside Jove. Up just a little more—wishes are always foolish—oh, come on, come on, come on!"
+
+  - os: "They heave ANTONY aloft to CLEOPATRA"
+    ms: "They lift ANTONY up toCLEOPATRA."
+
+  - o:
+      - "And welcome, welcome! Die when thou hast lived."
+      - "Quicken with kissing. Had my lips that power,"
+      - "Thus would I wear them out."
+    m:
+      - "And welcome, welcome! Die where you have lived, in my arms. Let me revive you with my kisses. If my lips had the power to give life, I would wear them out like this."
+
+  - os: "She kisses him"
+    ms: "She kisses him."
+
+  - sp: ALL
+    o:
+      - "A heavy sight!"
+    m:
+      - "What a sad sight!"
+
+  - sp: ANTONY
+    o:
+      - "I am dying, Egypt, dying."
+      - "Give me some wine and let me speak a little."
+    m:
+      - "I am dying, Cleopatra, dying. Give me some wine and let me say a few words."
+
+  - sp: CLEOPATRA
+    o:
+      - "No, let me speak, and let me rail so high"
+      - "That the false huswife Fortune break her wheel,"
+      - "Provoked by my offense."
+    m:
+      - "No, let me talk, and let me scold to the heavens, so that Fortune, that deceitful hussy, will become so upset that she breaks her wheel."
+
+  - sp: ANTONY
+    o:
+      - "    One word, sweet Queen: Of Caesar seek your honor, with your safety—Oh!"
+    m:
+      - "One thing, dear Queen: request honor, as well as safety, from Caesar. Oh!"
+
+  - sp: CLEOPATRA
+    o:
+      - "They do not go together."
+    m:
+      - "Honor and safety do not go together."
+
+  - sp: ANTONY
+    o:
+      - "    Gentle, hear me. None about Caesar trust but Proculeius."
+    m:
+      - "Dear, listen to me: don’t trust any of Caesar’s men besides Proculeius."
+
+  - sp: CLEOPATRA
+    o:
+      - "My resolution and my hands I’ll trust,"
+      - "None about Caesar."
+    m:
+      - "I’ll trust my determination and my hands, but none of Caesar’s men."
+
+  - sp: ANTONY
+    o:
+      - "The miserable change now at my end"
+      - "Lament nor sorrow at, but please your thoughts"
+      - "In feeding them with those my former fortunes,"
+      - "Wherein I lived the greatest prince o’ th’ world,"
+      - "The noblest, and do now not basely die,"
+      - "Not cowardly put off my helmet to"
+      - "My countryman—a Roman by a Roman"
+      - "Valiantly vanquished. Now my spirit is going."
+      - "I can no more."
+    m:
+      - "Don’t mourn over this unhappy reversal of fortune at the end of my life. Remember my earlier lot, when I lived as the greatest, most noble prince in the world. I’m not dying shamefully, doffing my helmet to my countryman like a coward, but as a Roman, honorably conquered by another Roman. Now I feel my soul leaving. I can’t speak any more."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Noblest of men, woo’t die?"
+      - "Hast thou no care of me? Shall I abide"
+      - "In this dull world, which in thy absence is"
+      - "No better than a sty? O see, my women,"
+      - "The crown o’ th’ earth doth melt. My lord!"
+    m:
+      - "Most noble man, will you die? Don’t you care about me? Shall I stay in this dreary world, which is no better than a pigsty without you? Oh, look, ladies. The best of the world disappears. My lord!"
+
+  - os: "ANTONY dies"
+    ms: "ANTONY dies."
+
+  - o:
+      - "Oh, withered is the garland of the war."
+      - "The soldier’s pole is fall’n! Young boys and girls"
+      - "Are level now with men. The odds is gone,"
+      - "And there is nothing left remarkable"
+      - "Beneath the visiting moon."
+    m:
+      - "Oh, the glory of war has faded. The flags have fallen. Young boys and girls are equal to men. There is nothing distinctive, nothing remarkable left in the world."
+
+  - sp: CHARMIAN
+    o:
+      - "    *                       *             Oh, quietness, lady!"
+    m:
+      - "Oh, stay calm, lady!"
+
+  - os: "CLEOPATRA swoons"
+    ms: "CLEOPATRA faints."
+
+  - sp: IRAS
+    o:
+      - "She’s dead too, our sovereign."
+    m:
+      - "Our Queen is dead too."
+
+  - sp: CHARMIAN
+    o:
+      - "Lady!"
+    m:
+      - "Lady!"
+
+  - sp: IRAS
+    o:
+      - "Madam!"
+    m:
+      - "Madam!"
+
+  - sp: CHARMIAN
+    o:
+      - "O madam, madam, madam!"
+    m:
+      - "Oh, madam, madam, madam!"
+
+  - sp: IRAS
+    o:
+      - "Royal Egypt, Empress!"
+    m:
+      - "Royal Egypt, Empress!"
+
+  - os: "CLEOPATRA*stirs*"
+    ms: "CLEOPATRA wakes up."
+
+  - sp: CHARMIAN
+    o:
+      - "Peace, peace, Iras."
+    m:
+      - "Quiet, quiet, Iras."
+
+  - sp: CLEOPATRA
+    o:
+      - "No more but e’en a woman, and commanded"
+      - "By such poor passion as the maid that milks"
+      - "And does the meanest chares. It were for me"
+      - "To throw my scepter at the injurious gods,"
+      - "To tell them that this world did equal theirs"
+      - "Till they had stolen our jewel. All’s but naught."
+      - "Patience is sottish, and impatience does"
+      - "Become a dog that’s mad. Then is it sin"
+      - "To rush into the secret house of death"
+      - "Ere death dare come to us? How do you, women?"
+      - "What, what, good cheer! Why, how now, Charmian?"
+      - "My noble girls! Ah, women, women! Look,"
+      - "Our lamp is spent, it’s out. Good sirs, take heart."
+      - "We’ll bury him, and then, what’s brave, what’s noble,"
+      - "Let’s do ’t after the high Roman fashion"
+      - "And make death proud to take us. Come, away."
+      - "This case of that huge spirit now is cold."
+      - "Ah, women, women! Come. We have no friend"
+      - "But resolution, and the briefest end."
+    m:
+      - "Now I am no more than a woman, ruled by the same lowly passion as the maid who milks and does the humblest chores. I might now hurl my scepter at the destructive gods and tell them that this earthly world was as good as their heavenly one, until they stole away its jewel, Antony. Now all is for nothing. Patience is foolish. Impatience suits a mad dog. So why should it be a sin to rush toward death, to seek it out in its hiding place before it dares to come to find me? How are you, my ladies? Tell me! Cheer up! How are you, Charmian? My gallant girls! Ah, ladies, look: the light of our lives has gone out. Good noble ladies, be brave. We’ll bury him, and then we’ll commit acts as brave and fine as any Romans, and make death proud to take us. Come on, you can go. The container of that great soul is now cold. Ah, ladies, ladies! Let’s go. We have no friends but determination and the quickest death."
+
+  - os: "Exeunt, those above bearing off ANTONY’s body"
+    ms: "They exit, carryingANTONY’sbody."

@@ -1,0 +1,79 @@
+play: Hamlet
+title: Act 4, Scene 6
+group: 4
+order: 16
+text:
+  - os: "Enter HORATIO and a SERVANT"
+    ms: "HORATIO and a SERVANT enter."
+
+  - sp: HORATIO
+    o:
+      - "What are they that would speak with me?"
+    m:
+      - "Who are the people who want to speak with me?"
+
+  - sp: SERVANT
+    o:
+      - "Seafaring men, sir. They say they have letters for you."
+    m:
+      - "Sailors, sir. They say they have letters for you."
+
+  - sp: HORATIO
+    o:
+      - "Let them come in."
+    m:
+      - "Show them in."
+
+  - os: "Exit SERVANT"
+    ms: "SERVANT exits."
+
+  - o:
+      - "I do not know from what part of the world"
+      - "I should be greeted, if not from Lord Hamlet."
+    m:
+      - "I don’t know who else would send me a letter from abroad except Hamlet."
+
+  - os: "Enter SAILORS"
+    ms: "SAILORS enter."
+
+  - sp: SAILOR
+    o:
+      - "God bless you, sir."
+    m:
+      - "Hello, sir. God bless you."
+
+  - sp: HORATIO
+    o:
+      - "Let him bless thee too."
+    m:
+      - "May He bless you, too."
+
+  - sp: SAILOR
+    o:
+      - "He shall, sir, an ’t please Him. There’s a letter for you, sir— it comes from the ambassador that was bound for England—if your name be Horatio, as I am let to know it is. *(gives HORATIO a letter)*"
+    m:
+      - "He will, sir, if He wants to. There’s a letter for you, sir. It’s from the ambassador, Lord Hamlet, who was going to England—if your name’s Horatio, as they told me it is. *(he hands HORATIO a letter)*"
+
+  - sp: HORATIO
+    o:
+      - "*(reads)*"
+      - "“Horatio,"
+      - "  When thou shalt have overlooked this, give these fellows some means to the king. They have letters for him. Ere we were two days old at sea, a pirate of very warlike appointment gave us chase. Finding ourselves too slow of sail, we put on a compelled valor, and in the grapple I boarded them. On the instant, they got clear of our ship, so I alone became their prisoner. They have dealt with me like thieves of mercy, but they knew what they did; I am to do a good turn for them."
+    m:
+      - "*(reading the letter)*"
+      - " ”Horatio,"
+      - "  When you’ve read this letter, find a way to let these guys see the king. They have letters for him. Before we were at sea for even two days, a pirate ship equipped for battle pursued us. We were too slow to escape, so we were forced to stand and fight. In the battle that followed I ended up on the pirate ship. Just then they left our ship behind, so I became the only prisoner on board. They’ve treated me quite mercifully for thieves, but they knew what they were doing. They want me to do a favor for them."
+
+  - o:
+      - "Let the king have the letters I have sent, and repair thou to me with as much speed as thou wouldst fly death. I have words to speak in thine ear will make thee dumb, yet are they much too light for the bore of the matter. These good fellows will bring thee where I am. Rosencrantz and Guildenstern hold their course for England. Of them I have much to tell thee. Fare-well."
+      - "    He that thou knowest thine,"
+      - "    Hamlet.“"
+      - "Come, I will give you way for these your letters, And do ’t the speedier, that you may direct me To him from whom you brought them."
+    m:
+      - "Give the king the letters I’ve sent, and come to me as fast as you would run from death. I’ve got things to tell you that will make you speechless, and they aren’t even half the story. These guys will take you to me. Rosencrantz and Guildenstern are on their way to England. I have a lot to tell you about them. Good-bye."
+      - "    Your trusted friend,"
+      - "    Hamlet.”"
+      - "Come, men. I’ll show you where to deliver these letters as quickly as possible, so that you can take me to the man who sent them."
+
+  - os: "Exeunt"
+    ms: "They exit."

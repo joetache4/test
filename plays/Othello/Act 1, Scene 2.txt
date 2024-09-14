@@ -1,0 +1,306 @@
+play: Othello
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter OTHELLO, IAGO, and attendants with torches"
+    ms: "OTHELLO and IAGO enter, followed by attendants with torches."
+
+  - sp: IAGO
+    o:
+      - "Though in the trade of war I have slain men,"
+      - "Yet do I hold it very stuff o’ th’ conscience"
+      - "To do no contrived murder. I lack iniquity"
+      - "Sometimes to do me service. Nine or ten times"
+      - "I had thought t’ have yerked him here under the ribs."
+    m:
+      - "I’ve killed many men in battle, but I still believe it’s deeply wrong to murder someone. Sometimes I worry I’m not cruel enough for this job. Nine or ten times I wanted to stab him under the ribs."
+
+  - sp: OTHELLO
+    o:
+      - "’Tis better as it is."
+    m:
+      - "It’s better that you didn’t kill him."
+
+  - sp: IAGO
+    o:
+      - "    Nay, but he prated"
+      - "And spoke such scurvy and provoking terms"
+      - "Against your honor"
+      - "That, with the little godliness I have,"
+      - "I did full hard forbear him. But I pray you, sir,"
+      - "Are you fast married? Be assured of this:"
+      - "That the Magnifico is much beloved"
+      - "And hath in his effect a voice potential"
+      - "As double as the Duke’s. He will divorce you,"
+      - "Or put upon you what restraint and grievance"
+      - "The law (with all his might to enforce it on)"
+      - "Will give him cable."
+    m:
+      - "But he kept chattering so foolishly, talking about you in such insulting and despicable terms, that it was hard for me to restrain myself. But please tell me, sir, is your marriage secure? Brabantio is an important man in this city, almost as powerful as the duke himself. He’ll try to annul your marriage, or else inflict whatever punishment the law and his power will allow him to."
+
+  - sp: OTHELLO
+    o:
+      - "    Let him do his spite."
+      - "My services which I have done the signiory"
+      - "Shall out-tongue his complaints. ’Tis yet to know—"
+      - "Which, when I know that boasting is an honor,"
+      - "I shall promulgate. I fetch my life and being"
+      - "From men of royal siege, and my demerits"
+      - "May speak unbonneted to as proud a fortune"
+      - "As this that I have reached. For know, Iago,"
+      - "But that I love the gentle Desdemona,"
+      - "I would not my unhousèd free condition"
+      - "Put into circumscription and confine"
+      - "For the sea’s worth. But look, what lights come yond?"
+    m:
+      - "Let him do his worst. The services I have done for the Venetian government will count for more than his complaints will. No one knows this yet—and I don’t like to brag, but I come from a royal family, and I’m as noble as the woman I’ve married. And let me tell you, Iago, if I didn’t love Desdemona as much as I do, I’d never agree to get married and lose my freedom at all. But look at those lights. Who’s coming?"
+
+  - sp: IAGO
+    o:
+      - "Those are the raisèd father and his friends."
+      - "You were best go in."
+    m:
+      - "That’s her father and his friends, who’ve been roused out of bed. You’d better go inside."
+
+  - sp: OTHELLO
+    o:
+      - "    Not I, I must be found."
+      - "My parts, my title, and my perfect soul"
+      - "Shall manifest me rightly. Is it they?"
+    m:
+      - "No, I must let them find me. My good qualities, my legal status as Desdemona’s husband, and my innocence will protect me. Is it them?"
+
+  - sp: IAGO
+    o:
+      - "By Janus, I think no."
+    m:
+      - "I don’t think so."
+
+  - os: "Enter CASSIO, with officers and torches"
+    ms: "CASSIO enters with officers and men carrying torches."
+
+  - sp: OTHELLO
+    o:
+      - "The servants of the Duke and my lieutenant?"
+      - "The goodness of the night upon you, friends!"
+      - "What is the news?"
+    m:
+      - "The servants of the Duke and my lieutenant? Hello, everyone! What’s going on?"
+
+  - sp: CASSIO
+    o:
+      - "    The Duke does greet you, general,"
+      - "And he requires your haste-post-haste appearance,"
+      - "Even on the instant."
+    m:
+      - "The Duke sends his regards. He needs to see you right away."
+
+  - sp: OTHELLO
+    o:
+      - "    What’s the matter, think you?"
+    m:
+      - "What do you think he wants?"
+
+  - sp: CASSIO
+    o:
+      - "Something from Cyprus as I may divine."
+      - "It is a business of some heat. The galleys"
+      - "Have sent a dozen sequent messengers"
+      - "This very night at one another’s heels,"
+      - "And many of the consuls, raised and met,"
+      - "Are at the Duke’s already. You have been hotly called for."
+      - "When being not at your lodging to be found"
+      - "The Senate hath sent about three several guests"
+      - "To search you out."
+    m:
+      - "Something about Cyprus. I think it’s important. The warships have sent a dozen messages tonight, one after the other, and many of the senators have been awakened and are at the Duke’s already. They’re very anxious for you to get there. When you weren’t at home, the Senate sent out three different search parties to find you."
+
+  - sp: OTHELLO
+    o:
+      - "    ’Tis well I am found by you."
+      - "I will but spend a word here in the house"
+      - "And go with you."
+    m:
+      - "It’s good you found me. I’ll just speak a word or two here in the house and then I’ll go with you."
+
+  - os: "Exit"
+    ms: "OTHELLO exits."
+
+  - sp: CASSIO
+    o:
+      - "    Ancient, what makes he here?"
+    m:
+      - "Ensign, what’s he doing in there?"
+
+  - sp: IAGO
+    o:
+      - "Faith, he tonight hath boarded a land carrack."
+      - "If it prove lawful prize, he’s made for ever."
+    m:
+      - "Tonight he boarded a treasure ship. If he can keep it, he’ll be set forever."
+
+  - sp: CASSIO
+    o:
+      - "I do not understand."
+    m:
+      - "I don’t understand."
+
+  - sp: IAGO
+    o:
+      - "    He’s married."
+    m:
+      - "He’s married."
+
+  - sp: CASSIO
+    o:
+      - "    To who?"
+    m:
+      - "To whom?"
+
+  - sp: IAGO
+    o:
+      - "Marry, to—"
+    m:
+      - "To—"
+
+  - os: "Enter OTHELLO"
+    ms: "OTHELLO enters."
+
+  - o:
+      - "Come, captain, will you go?"
+    m:
+      - "Are you ready?"
+
+  - sp: OTHELLO
+    o:
+      - "Have with you."
+    m:
+      - "Yes, I’ll go with you now."
+
+  - sp: CASSIO
+    o:
+      - "Here comes another troop to seek for you."
+    m:
+      - "Here comes another group looking for you."
+
+  - os: "Enter BRABANTIO, RODERIGO, and officers with torches and weapons"
+    ms: "BRABANTIO and RODERIGO enter, followed by OFFICERS and men with torches."
+
+  - sp: IAGO
+    o:
+      - "It is Brabantio. General, be advised,"
+      - "He comes to bad intent."
+    m:
+      - "It’s Brabantio. Look out, sir. He intends to do something bad to you."
+
+  - sp: OTHELLO
+    o:
+      - "    Holla! Stand there!"
+    m:
+      - "Hey! Stop right there!"
+
+  - sp: RODERIGO
+    o:
+      - "Signior, it is the Moor."
+    m:
+      - "Sir, it’s the Moor."
+
+  - sp: BRABANTIO
+    o:
+      - "    Down with him, thief!"
+    m:
+      - "Get him, he’s a thief!"
+
+  - os: "They draw their swords"
+    ms: "Both sides draw their swords."
+
+  - sp: IAGO
+    o:
+      - "You, Roderigo! Come, sir, I am for you."
+    m:
+      - "You, Roderigo! Come on, I’ll fight you."
+
+  - sp: OTHELLO
+    o:
+      - "Keep up your bright swords, for the dew will rust them."
+      - "Good signior, you shall more command with years"
+      - "Than with your weapons."
+    m:
+      - "Put away your swords. They’ll get rusty in the dew. Sir, your age and status inspire more respect than your weapons do."
+
+  - sp: BRABANTIO
+    o:
+      - "O thou foul thief, where hast thou stowed my daughter?"
+      - "Damned as thou art, thou hast enchanted her!"
+      - "For I’ll refer me to all things of sense,"
+      - "If she in chains of magic were not bound,"
+      - "Whether a maid so tender, fair, and happy,"
+      - "So opposite to marriage that she shunned"
+      - "The wealthy curlèd darlings of our nation,"
+      - "Would ever have, t’ incur a general mock,"
+      - "Run from her guardage to the sooty bosom"
+      - "Of such a thing as thou—to fear, not to delight."
+      - "Judge me the world if ’tis not gross in sense"
+      - "That thou hast practiced on her with foul charms,"
+      - "Abused her delicate youth with drugs or minerals"
+      - "That weakens motion. I’ll have ’t disputed on."
+      - "’Tis probable and palpable to thinking."
+      - "I therefore apprehend and do attach thee"
+      - "For an abuser of the world, a practicer"
+      - "Of arts inhibited and out of warrant.—"
+      - "Lay hold upon him. If he do resist,"
+      - "Subdue him at his peril!"
+    m:
+      - "You evil thief, where have you hidden my daughter? You devil, you’ve put a spell on her! Anybody with eyes could tell you that a beautiful and happy young girl like her, who’s refused to marry all of the handsome young men of the city, wouldn’t run off with a black thing like you unless she’d been bewitched. You’re something to fear, not to love. It’s obvious to everyone that you’ve tricked her, drugged her, or kidnapped her. That’s probably what happened, so I’m arresting you.—Arrest this man as a practitioner of black magic. Grab him. If he struggles, use force!"
+
+  - sp: OTHELLO
+    o:
+      - "    Hold your hands,"
+      - "Both you of my inclining and the rest."
+      - "Were it my cue to fight, I should have known it"
+      - "Without a prompter. Whither will you that I go"
+      - "To answer this your charge?"
+    m:
+      - "Just a minute. I don’t need anyone to tell me when to fight. You’ve accused me of some serious crimes. Where do you want me to go to respond to these charges?"
+
+  - sp: BRABANTIO
+    o:
+      - "    To prison, till fit time"
+      - "Of law and course of direct session"
+      - "Call thee to answer."
+    m:
+      - "To prison, until you’re called into court."
+
+  - sp: OTHELLO
+    o:
+      - "    What if I do obey?"
+      - "How may the Duke be therewith satisfied,"
+      - "Whose messengers are here about my side"
+      - "Upon some present business of the state"
+      - "To bring me to him?"
+    m:
+      - "What if I do what you say? How would I satisfy the Duke then? His messengers are waiting here to take me to him immediately, on pressing state business."
+
+  - sp: OFFICER
+    o:
+      - "    ’Tis true, most worthy signior."
+      - "The Duke’s in council and your noble self,"
+      - "I am sure, is sent for."
+    m:
+      - "It’s true. The Duke’s in a meeting right now, and he’s sent for you too."
+
+  - sp: BRABANTIO
+    o:
+      - "    How? The Duke in council?"
+      - "In this time of the night? Bring him away."
+      - "Mine’s not an idle cause. The Duke himself,"
+      - "Or any of my brothers of the state,"
+      - "Cannot but feel this wrong as ’twere their own."
+      - "For if such actions may have passage free,"
+      - "Bond-slaves and pagans shall our statesmen be."
+    m:
+      - "The Duke’s in a meeting? At this time of night? Bring him with us. The law’s on my side. The Duke and any of my fellow senators will take this wrong as seriously as if it were their own. If we let crimes like this happen, slaves and heathens will be our rulers."
+
+  - os: "Exeunt"
+    ms: "They all exit."

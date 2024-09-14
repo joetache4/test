@@ -1,0 +1,77 @@
+play: King Lear
+title: Act 4, Scene 4
+group: 4
+order: 19
+text:
+  - os: "Enter, with drum and colors, CORDELIA, DOCTOR, and soldiers"
+    ms: "CORDELIA enters with a DOCTOR and soldiers carrying drums and banners."
+
+  - sp: CORDELIA
+    o:
+      - "Alack, ’tis he. Why, he was met even now"
+      - "As mad as the vexed sea, singing aloud,"
+      - "Crowned with rank fumiter and furrow-weeds,"
+      - "With burdocks, hemlock, nettles, cuckoo-flowers,"
+      - "Darnel, and all the idle weeds that grow"
+      - "In our sustaining corn.—A century send forth."
+      - "Search every acre in the high-grown field,"
+      - "And bring him to our eye."
+    m:
+      - "Sadly, it’s the king that’s missing. They saw him just now as mad and deranged as the stormy sea, singing loudly, wearing a crown of nettles, thorns, hemlock, and all the other weeds that grow in our cornfields.—Send out a hundred soldiers to find him. Search high and low, in every acre of the fields, and bring him here for me to see him."
+
+  - os: "Exit some soldiers"
+    ms: "Some soldiers exit."
+
+  - o:
+      - "  What can man’s wisdom"
+      - "In the restoring his bereavèd sense?"
+      - "He that helps him take all my outward worth."
+    m:
+      - "What can human knowledge do to make him sane again? I’d give all my wealth to whoever can help him."
+
+  - sp: DOCTOR
+    o:
+      - "There is means, madam."
+      - "Our foster nurse of nature is repose,"
+      - "The which he lacks—that to provoke in him"
+      - "Are many simples operative, whose power"
+      - "Will close the eye of anguish."
+    m:
+      - "There is a way, ma’am. Nature heals people with rest, which Lear hasn’t had. But there are many herbs that will help him rest and take his mind off his anguish for a while."
+
+  - sp: CORDELIA
+    o:
+      - "  All blessed secrets,"
+      - "All you unpublished virtues of the earth,"
+      - "Spring with my tears. Be aidant and remediate"
+      - "In the good man’s distress. Seek, seek for him,"
+      - "Lest his ungoverned rage dissolve the life"
+      - "That wants the means to lead it."
+    m:
+      - "Then I’ll water all those precious herbs with my tears to make them grow. May they relieve a sick old man’s suffering. Go find those herbs for him, before his madness puts his life in danger."
+
+  - os: "Enter SECOND MESSENGER"
+    ms: "The SECOND MESSENGER enters."
+
+  - sp: SECOND MESSENGER
+    o:
+      - "    News, madam."
+      - "The British powers are marching hitherward."
+    m:
+      - "I have news, ma’am. The British forces are on their way here."
+
+  - sp: CORDELIA
+    o:
+      - "’Tis known before. Our preparation stands"
+      - "In expectation of them. O dear father,"
+      - "It is thy business that I go about."
+      - "Therefore great France"
+      - "My mourning and importuned tears hath pitied."
+      - "No blown ambition doth our arms incite,"
+      - "But love—dear love!—and our aged father’s right."
+      - "Soon may I hear and see him."
+    m:
+      - "We already knew that. Our forces are ready for them. Oh, father, I’m taking care of your business. That’s why the King of France listened to my pleas and tears. We’re not invading England out of ambition or greed, but out of love—dear love!—and my father’s right to his kingdom. I hope I see him and hear him again soon."
+
+  - os: "Exeunt"
+    ms: "They all exit."

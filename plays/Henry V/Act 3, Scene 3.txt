@@ -1,0 +1,91 @@
+play: Henry V
+title: Act 3, Scene 3
+group: 3
+order: 11
+text:
+  - os: "Enter the GOVERNOR and some citizens on the walls. Enter KING HENRY and his train before the gates"
+    ms: "The GOVERNOR and some citizens appear on the walls, the English army below. KING HENRY and his train enter."
+
+  - sp: KING HENRY
+    o:
+      - "How yet resolves the governor of the town?"
+      - "This is the latest parle we will admit."
+      - "Therefore to our best mercy give yourselves"
+      - "Or, like to men proud of destruction,"
+      - "Defy us to our worst. For, as I am a soldier,"
+      - "A name that in my thoughts becomes me best,"
+      - "If I begin the batt’ry once again,"
+      - "I will not leave the half-achieved Harfleur"
+      - "Till in her ashes she lie burièd."
+      - "The gates of mercy shall be all shut up,"
+      - "And the fleshed soldier, rough and hard of heart,"
+      - "In liberty of bloody hand, shall range"
+      - "With conscience wide as hell, mowing like grass"
+      - "Your fresh fair virgins and your flow’ring infants."
+      - "What is it then to me if impious war,"
+      - "Arrayed in flames like to the prince of fiends,"
+      - "Do with his smirched complexion all fell feats"
+      - "Enlinked to waste and desolation?"
+      - "What is ’t to me, when you yourselves are cause,"
+      - "If your pure maidens fall into the hand"
+      - "Of hot and forcing violation?"
+      - "What rein can hold licentious wickedness"
+      - "When down the hill he holds his fierce career?"
+      - "We may as bootless spend our vain command"
+      - "Upon th’ enragèd soldiers in their spoil"
+      - "As send precepts to the Leviathan"
+      - "To come ashore. Therefore, you men of Harfleur,"
+      - "Take pity of your town and of your people"
+      - "Whiles yet my soldiers are in my command,"
+      - "Whiles yet the cool and temperate wind of grace"
+      - "O’erblows the filthy and contagious clouds"
+      - "Of heady murder, spoil, and villainy."
+      - "If not, why, in a moment look to see"
+      - "The blind and bloody soldier with foul hand"
+      - "Desire the locks of your shrill-shrieking daughters,"
+      - "Your fathers taken by the silver beards"
+      - "And their most reverend heads dashed to the walls,"
+      - "Your naked infants spitted upon pikes"
+      - "Whiles the mad mothers with their howls confused"
+      - "Do break the clouds, as did the wives of Jewry"
+      - "At Herod’s bloody-hunting slaughtermen."
+      - "What say you? Will you yield and this avoid"
+      - "Or, guilty in defense, be thus destroyed?"
+    m:
+      - "What has the governor of the town decided? This is the final discussion I will grant. So submit to my mercy or, like men who revel in their own destruction, challenge me to do my worst. For, as I am a soldier, the name I think suits me best, once I begin my attack on Harfleur again, I will not leave the half-conquered town until she lies buried in her own ashes. The gates of mercy will be closed by then, and harsh and hard-hearted soldiers, who have tasted blood, will have free reign to commit whatever violence they want, mowing down your lovely young virgins and budding infants. What will it matter to me, since you will have brought it on yourselves, if sacrilegious war, dressed in red like Satan, his face blackened by smoke, should commit every form of savage destruction and ruin? What will it matter to me if your innocent maidens are raped, since you will have asked for it? What power can rein in promiscuous evil once it’s gotten rolling? We might as well send orders to the whale to come ashore as try to restore order in soldiers carried away with their looting. Therefore, you men of Harfleur, take pity on your town and on your people while I still have control over my men, while the cool and moderate winds of mercy still have power to disperse the depraved, infected clouds of murder, plunder, and crazed soldiers defile your shrieking daughters with their foul hands, and your fathers dragged by their silver beards, their reverend heads dashed against the walls. Expect to see your naked babies skewered upon pikes while their grief-crazed mothers tear the clouds with their loud cries, just as the women of Judea did when Herod slaughtered their infants. What do you say? Will you surrender and avoid all this or be called to account for the destruction of this town?"
+
+  - sp: GOVERNOR
+    o:
+      - "Our expectation hath this day an end."
+      - "The Dauphin, whom of succors we entreated,"
+      - "Returns us that his powers are yet not ready"
+      - "To raise so great a siege. Therefore, great King,"
+      - "We yield our town and lives to thy soft mercy."
+      - "Enter our gates, dispose of us and ours,"
+      - "For we no longer are defensible."
+    m:
+      - "Today our hopes are at an end. The Dauphin, whom we asked for reinforcements, sends back the answer that he’s not yet in a position to raise so great an army. Therefore, great king, we surrender our town and lives to your kind mercy. Enter our gates and do as you like with us and our possessions, for we cannot defend ourselves any longer."
+
+  - sp: KING HENRY
+    o:
+      - "Open your gates."
+    m:
+      - "Open your gates."
+
+  - os: "Exit GOVERNOR"
+    ms: "The GOVERNOR exits."
+
+  - o:
+      - "Come, uncle Exeter,"
+      - "Go you and enter Harfleur. There remain"
+      - "And fortify it strongly ’gainst the French."
+      - "Use mercy to them all for us, dear uncle,"
+      - "The winter coming on and sickness growing"
+      - "Upon our soldiers, we will retire to Calais."
+      - "Tonight in Harfleur will we be your guest;"
+      - "Tomorrow for the march are we addressed."
+    m:
+      - "Come, uncle Exeter, enter Harfleur. Stay there and fortify it well against the French. Deal with them all mercifully on my behalf, dear uncle. Meanwhile, with winter coming on and sickness growing among our troops, we’ll withdraw to Calais. Tonight in Harfleur we will be your guest; tomorrow we’ll march on."
+
+  - os: "Flourish, and enter the town"
+    ms: "Trumpets. The KING and his train enter the town."

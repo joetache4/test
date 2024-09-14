@@ -1,0 +1,221 @@
+play: Henry V
+title: Act 3, Scene 4
+group: 3
+order: 12
+text:
+  - os: "Enter KATHERINE and ALICE"
+    ms: "KATHERINE and ALICE enter."
+
+  - sp: KATHERINE
+    o:
+      - "*Alice, tu as été en Angleterre, et tu parles bien le langage.*"
+    m:
+      - "*(speaking in French, for the entire scene)* Alice, you have been to England and you know the language."
+
+  - sp: ALICE
+    o:
+      - "*Un peu, madame*."
+    m:
+      - "*(speaking in French, for the entire scene)* A little, madam."
+
+  - sp: KATHERINE
+    o:
+      - "*Je te prie, m’enseignez. Il faut que j’apprenne à parler*."
+      - "*Comment appelez-vous* la main *en anglais?*"
+    m:
+      - "Please teach me English. I must learn to speak it. What is the word for *la main* in English?"
+
+  - sp: ALICE
+    o:
+      - "La main? *Elle est appelée “de hand.”*"
+    m:
+      - "*La main*? That is “de hand.”"
+
+  - sp: KATHERINE
+    o:
+      - "*“De hand.” Et* les doigts?"
+    m:
+      - "“De hand.” And *les doigts?*"
+
+  - sp: ALICE
+    o:
+      - "Les doigts? *Ma foi, j’oublie les doigts; mais je me souviendrai.* Les doigts? *Je pense qu’ils sont appelés* “de fingres”; *oui,* “de fingres.”"
+    m:
+      - "*Les doigts*? Good lord, I forget *les doigts.* But it will come to me. The word for *les doigts,* I believe, is “de fangres.” Yes, “de fangres.”"
+
+  - sp: KATHERINE
+    o:
+      - "*La main*, “de hand”; *les doigts*, “de fingres.” *Je pense que je suis le bon écolier. J’ai gagné deux mots d’anglais vitement. Comment appelez-vous* les ongles?"
+    m:
+      - "*La main,* “de hand”; *les doigts,* “de fangres.” I think I am a very apt student! I have learned two words of English already. What is the word for *les ongles?*"
+
+  - sp: ALICE
+    o:
+      - "Les ongles? *Nous les appelons “de nails.”*"
+    m:
+      - "*“Les ongles?”* That is “de nails.”"
+
+  - sp: KATHERINE
+    o:
+      - "“De nails.” *Écoutez. Dites-moi si je parle bien*: “de hand, de fingres, et de nails.”"
+    m:
+      - "“De nails.” Listen! Tell me if I’m saying it right. De hand, de fangres, et de nails.“"
+
+  - sp: ALICE
+    o:
+      - "*C’est bien dit, madame. Il est fort bon anglais.*"
+    m:
+      - "Well done, madam. Excellent English."
+
+  - sp: KATHERINE
+    o:
+      - "*Dites-moi l’anglais pour* le bras."
+    m:
+      - "Tell me the English for *le bras.*"
+
+  - sp: ALICE
+    o:
+      - "*”De arme,“ madame.*"
+    m:
+      - "”De arm,“ madam."
+
+  - sp: KATHERINE
+    o:
+      - "*Et* le coude?"
+    m:
+      - "And *le coud?*"
+
+  - sp: ALICE
+    o:
+      - "*”D’elbow.“*"
+    m:
+      - "”D’elbow.“"
+
+  - sp: KATHERINE
+    o:
+      - "”D’elbow.“ *Je m’en fais la répétition de tous les mots que vous m’avez appris dés à présent.*"
+    m:
+      - "”D’elbow.“ Let me practice all the words you’ve taught me so far."
+
+  - sp: ALICE
+    o:
+      - "*Il est trop difficile, madame, comme je pense.*"
+    m:
+      - "It’s too difficult, I think, madam."
+
+  - sp: KATHERINE
+    o:
+      - "*Excusez-moi, Alice. Écoutez:* ”de hand, de fingres, de nails, de arma, de bilbow.“"
+    m:
+      - "I beg to differ, Alice. Listen: ”de hand, de fangres, de nails, d’arma, de bilbow.“"
+
+  - sp: ALICE
+    o:
+      - "”D’elbow,“ *madame.*"
+    m:
+      - "”D’elbow,“ madam."
+
+  - sp: KATHERINE
+    o:
+      - "*Ô Seigneur Dieu! Je m’en oublie;* ”d’elbow.“ Comment *appelez-vous* le col?"
+    m:
+      - "Oh, Lord, I forgot! ”D’elbow.“ What is the word for *le col?*"
+
+  - sp: ALICE
+    o:
+      - "”De nick,“ *madame.*"
+    m:
+      - "”De neck,“ madam."
+
+  - sp: KATHERINE
+    o:
+      - "”De nick.“ *Et le menton?*"
+    m:
+      - "”De nick.“ And *le menton?*"
+
+  - sp: ALICE
+    o:
+      - "”De chin.“"
+    m:
+      - "”De chin.“"
+
+  - sp: KATHERINE
+    o:
+      - "”De sin.“ *Le col,* ”de nick“; *le menton,* ”de sin.“"
+    m:
+      - "*Le col,* ”de nick“; *le menton,* ”de sin.“"
+
+  - sp: ALICE
+    o:
+      - "*Oui. Sauf votre honneur, en vérité, vous prononcez les mots aussi droit que les natifs d’Angleterre.*"
+    m:
+      - "Yes. If I may say so, your Highness pronounces the words just like a native English speaker."
+
+  - sp: KATHERINE
+    o:
+      - "*Je ne doute point d’apprendre, par la grâce de Dieu, et en peu de temps.*"
+    m:
+      - "I have no doubt I’ll learn it, and in a short time, too—God willing."
+
+  - sp: ALICE
+    o:
+      - "*N’avez vous pas déjà oublié ce que je vous ai enseigné?*"
+    m:
+      - "You haven’t forgotten what you just learned?"
+
+  - sp: KATHERINE
+    o:
+      - "*Non, je réciterai à vous promptement:* ”de hand, de fingre, de nails—“"
+    m:
+      - "No, I’ll recite it for you right now: ”de hand, de fangres, de nails—“"
+
+  - sp: ALICE
+    o:
+      - "”De nails,“ *madame.*"
+    m:
+      - "”De nails,“ madame."
+
+  - sp: KATHERINE
+    o:
+      - "”De nails, de arme, de ilbow.“"
+    m:
+      - "”De nails, de arme, de ilbow.“"
+
+  - sp: ALICE
+    o:
+      - "*Sauf votre honneur,* ”d’elbow.“"
+    m:
+      - "Forgive me, de *el*bow."
+
+  - sp: KATHERINE
+    o:
+      - "*Ainsi dis-je:* ”d’elbow, de nick, et de sin.“ *Comment appelez-vous le pied et la robe?*"
+    m:
+      - "That’s what I said, ”de elbow, de nick, et de sin.“ What are the words for *le pied* and *la robe?*"
+
+  - sp: ALICE
+    o:
+      - "”Le foot,“ *madame, et* ”le count.“"
+    m:
+      - "”De foot,“ madame, and ”de count.“"
+
+  - sp: KATHERINE
+    o:
+      - "”Le foot“ *et* ”de count.“ Ô *Seigneur Dieu! Ils sont mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d’honneur d’user. Je ne voudrais prononcer ces mots devant les seigneurs de France pour tout le monde. Foh!* ”Le foot“ *et* ”le count“! *Néanmoins, je réciterai une autre fois ma leçon ensemble:* ”d’ hand, de fingre, de nails, d’ arme, d’elbow, de nick, de sin, de foot, le count.“"
+    m:
+      - "”De foot“ and ”de count“! Oh, Lord, those are vulgar words—wicked, ugly, immodest, not fitting for respectable girls to speak. I would not utter those words in the presence of the lords of France for all the world. Ugh! ”Le foot“ and ”le count“! Nevertheless, I will recite my lesson one more time all together: ”de hand, de fangres, de nails, de arm, de elbow, de nick, de sin, de foot, de coun.“"
+
+  - sp: ALICE
+    o:
+      - "Excellent, madame!"
+    m:
+      - "That is excellent, madame!"
+
+  - sp: KATHERINE
+    o:
+      - "*C’est assez pour une fois: Allons-nous à d”ner.*"
+    m:
+      - "That’s enough for one lesson. Let’s go to lunch."
+
+  - os: "Exeunt"
+    ms: "They exit."

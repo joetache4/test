@@ -1,0 +1,372 @@
+play: The Taming of the Shrew
+title: Induction, Scene 2
+group: 0
+order: 1
+text:
+  - os: "Enter aloft SLY, the drunkard, with Attendants, some with apparel, others with basin and ewer and other appurtenances, and LORD dressed as an attendant."
+    ms: "SLY appears above the stage. He is attended by several servants, some carrying clothing and others a basin, pitcher, and other accessories. The LORD also enters disguised as a servant."
+
+  - sp: SLY
+    o:
+      - "For God’s sake, a pot of small ale."
+    m:
+      - "For God’s sake, would someone bring me a mug of beer!"
+
+  - sp: FIRST SERVANT
+    o:
+      - "Will ’t please your Lordship drink a cup of sack?"
+    m:
+      - "Wouldn’t your Lordship prefer some imported wine?"
+
+  - sp: SECOND SERVANT
+    o:
+      - "Will ’t please your Honor taste of these conserves?"
+    m:
+      - "Would your Honor like to try this dried fruit?"
+
+  - sp: THIRD SERVANT
+    o:
+      - "What raiment will your Honor wear today?"
+    m:
+      - "What garment would your Honor like to wear today?"
+
+  - sp: SLY
+    o:
+      - "I am Christophero Sly. Call not me “Honor” nor “Lordship.” I ne’er drank sack in my life. An if you give me any conserves, give me conserves of beef. Ne’er ask me what raiment I’ll wear, for I have no more doublets than backs, no more stockings than legs, nor no more shoes than feet, nay sometime more feet than shoes, or such shoes as my toes look through the over-leather."
+    m:
+      - "I’m Christopher Sly. Don’t call me “your Honor” and “your Lordship.” I’ve never had imported wine in my life, and if you want to bring me something “dried,” try beef jerky. Why ask me what “garment” I’ll wear? I have no more jackets than I have backs, no more leggings than I have legs, and no more shoes than I have feet—in fact, sometimes I have *fewer* shoes than feet, as I’m not sure the ones where my toes stick out can be called “shoes.”"
+
+  - sp: LORD
+    o:
+      - "Heaven cease this idle humor in your Honor!"
+      - "Oh, that a mighty man of such descent,"
+      - "Of such possessions and so high esteem,"
+      - "Should be infusèd with so foul a spirit!"
+    m:
+      - "May Heaven put an end to this foolish fantasy of your Honor’s! How terrible that a man of your influence and noble family, with so much wealth and an excellent reputation, should be infected with such a horrible illness!"
+
+  - sp: SLY
+    o:
+      - "What, would you make me mad? Am not I Christopher Sly, old Sly’s son of Burton Heath, by birth a peddler, by education a cardmaker, by transmutation a bearherd, and now by present profession a tinker? Ask Marian Hacket, the fat alewife of Wincot, if she know me not! If she say I am not fourteen pence on the score for sheer ale, score me up for the lying’st knave in Christendom. What! I am not bestraught! Here’s—"
+    m:
+      - "What, are you trying to make me crazy? I’m Christopher Sly, son of old Sly of Barton-on-Heath, a peddler by birth, a cardmaker by trade, a keeper of trained bears by bad luck, and now, by present profession, a tinker. Go ask Marian Hacket, the fat innkeeper of Wincot. She knows me! She’ll tell you about the tab I’ve run up—fourteen pence just for ale. If she doesn’t, call me the biggest liar in Christendom. I’m not crazy! Just look at how—"
+
+  - sp: THIRD SERVANT
+    o:
+      - "Oh, this it is that makes your lady mourn!"
+    m:
+      - "Oh, this is why your poor wife is mourning!"
+
+  - sp: SECOND SERVANT
+    o:
+      - "Oh, this is it that makes your servants droop!"
+    m:
+      - "And this is why your servants hang their heads in sorrow!"
+
+  - sp: LORD
+    o:
+      - "Hence comes it that your kindred shuns your house,"
+      - "As beaten hence by your strange lunacy."
+      - "O noble lord, bethink thee of thy birth,"
+      - "Call home thy ancient thoughts from banishment,"
+      - "And banish hence these abject lowly dreams."
+      - "Look how thy servants do attend on thee,"
+      - "Each in his office ready at thy beck."
+      - "Wilt thou have music? Hark! Apollo plays,"
+    m:
+      - "And this is why your relatives never visit, frightened away by this unnatural insanity of yours. Oh noble lord, consider your lineage. Try to recall your former state of mental health and forget these crass, lowly desires. Look how your servants wait on you, each one ready to do whatever you command. Would you care to hear some music? Listen! That’s Apollo playing."
+
+  - os: "Music"
+    ms: "Music plays."
+
+  - o:
+      - "And twenty cagèd nightingales do sing:"
+      - "Or wilt thou sleep? We’ll have thee to a couch"
+      - "Softer and sweeter than the lustful bed"
+      - "On purpose trimmed up for Semiramis."
+      - "Say thou wilt walk, we will bestrew the ground."
+      - "Or wilt thou ride? Thy horses shall be trapped,"
+      - "Their harness studded all with gold and pearl."
+      - "Dost thou love hawking? Thou hast hawks will soar"
+      - "Above the morning lark. Or wilt thou hunt?"
+      - "Thy hounds shall make the welkin answer them"
+      - "And fetch shrill echoes from the hollow earth."
+    m:
+      - "And those birds you hear—twenty caged nightingales. Do you want to sleep? We’ll have a couch made up that’s softer and more fragrant even than the bed of lustful Semiramis. Say you want to take a walk, and we’ll sprinkle the ground with flowers. Or do you want to go horseback riding? Your horses will be adorned with harnesses decorated in gold and pearls. Do you like hawking? You have hawks that can soar higher than the morning lark. Or do you want to hunt? Your hounds will make the sky echo with their high-pitched voices."
+
+  - sp: FIRST SERVANT
+    o:
+      - "Say thou wilt course. Thy greyhounds are as swift"
+      - "As breathed stags, ay, fleeter than the roe."
+    m:
+      - "If you care to hunt rabbits, your greyhounds are as swift as healthy stags and faster than young deer."
+
+  - sp: SECOND SERVANT
+    o:
+      - "Dost thou love pictures? We will fetch thee straight"
+      - "Adonis painted by a running brook"
+      - "And Cytherea all in sedges hid,"
+      - "Which seem to move and wanton with her breath,"
+      - "Even as the waving sedges play with wind."
+    m:
+      - "Do you like pictures? We’ll be right back with one of Adonis stretched out beside a rushing brook, with Venus spying on him, hidden in rushes that seem to move and undulate with her lustful sighs, like grass waving in the wind."
+
+  - sp: LORD
+    o:
+      - "We’ll show thee Io as she was a maid"
+      - "And how she was beguileèd and surprised,"
+      - "As lively painted as the deed was done."
+    m:
+      - "There’s one that shows Io as a maid, before she was turned into a cow, in which Jupiter tricks and takes her. It’s so realistic, it seems to be happening right before your eyes."
+
+  - sp: THIRD SERVANT
+    o:
+      - "Or Daphne roaming through a thorny wood,"
+      - "Scratching her legs that one shall swear she bleeds,"
+      - "And at that sight shall sad Apollo weep,"
+      - "So workmanly the blood and tears are drawn."
+    m:
+      - "There’s one of Daphne running through the woods, her legs so scratched by thorns that Apollo himself would weep at the sight. You’ll swear the blood and tears are real."
+
+  - sp: LORD
+    o:
+      - "Thou art a lord, and nothing but a lord."
+      - "Thou hast a lady far more beautiful"
+      - "Than any woman in this waning age."
+    m:
+      - "You are nothing less than a lord. You have a noble wife who is much more beautiful than any other woman in this declining age."
+
+  - sp: FIRST SERVANT
+    o:
+      - "And till the tears that she hath shed for thee"
+      - "Like envious floods o’errun her lovely face,"
+      - "She was the fairest creature in the world—"
+      - "And yet she is inferior to none."
+    m:
+      - "Before she began shedding tears all over her lovely face, she was the fairest creature in the world—and even now she has no equal."
+
+  - sp: SLY
+    o:
+      - "Am I a lord, and have I such a lady?"
+      - "Or do I dream? Or have I dreamed till now?"
+      - "I do not sleep: I see, I hear, I speak."
+      - "I smell sweet savors and I feel soft things."
+      - "Upon my life, I am a lord indeed"
+      - "And not a tinker, nor Christopher Sly."
+      - "Well, bring our lady hither to our sight,"
+      - "And once again, a pot o’ the smallest ale."
+    m:
+      - "I’m really a lord? And do I really have a wife like that? Is *this* a dream? Or has everything up till now been a dream? I don’t seem to be asleep: I can see and hear and speak. I can smell sweet smells and feel things that are soft to the touch. I’ll be damned! I guess I really am a lord and not a tinker, and not Christopher Sly, either. Well, bring my wife to me. Oh, and don’t forget the beer."
+
+  - sp: SECOND SERVANT
+    o:
+      - "Will ’t please your Mightiness to wash your hands?"
+      - "O, how we joy to see your wit restored!"
+      - "O, that once more you knew but what you are!"
+      - "These fifteen years you have been in a dream"
+      - "Or, when you waked, so waked as if you slept."
+    m:
+      - "Would your Mightiness care to wash his hands? We’re overjoyed to see you sane again. If only you had a clearer memory of who you are! These past fifteen years you have been living in a dream, and even when you were awake, it was as though you slept."
+
+  - sp: SLY
+    o:
+      - "These fifteen years! By my fay, a goodly nap."
+      - "But did I never speak of all that time?"
+    m:
+      - "Fifteen years! That’s some nap. But I never spoke the whole time?"
+
+  - sp: FIRST SERVANT
+    o:
+      - "O, yes, my lord, but very idle words."
+      - "For though you lay here in this goodly chamber,"
+      - "Yet would you say ye were beaten out of door;"
+      - "And rail upon the hostess of the house,"
+      - "And say you would present her at the leet,"
+      - "Because she brought stone jugs and no sealed quarts."
+      - "Sometimes you would call out for Cicely Hacket."
+    m:
+      - "Oh yes, you spoke, my lord, but total nonsense. For instance, you’d be lying here in this comfortable room, but you’d *say* that you were being thrown out of some tavern and would shout at a landlady about how you were going to take her to court for cheating you. Sometimes you would call out for one Cicely Hacket."
+
+  - sp: SLY
+    o:
+      - "Ay, the woman’s maid of the house."
+    m:
+      - "Yes, the landlady’s maid."
+
+  - sp: THIRD SERVANT
+    o:
+      - "Why, sir, you know no house nor no such maid,"
+      - "Nor no such men as you have reckoned up,"
+      - "As Stephen Sly and old John Naps of Greece,"
+      - "And Peter Turph and Henry Pimpernell,"
+      - "And twenty more such names and men as these,"
+      - "Which never were, nor no man ever saw."
+    m:
+      - "But sir, there is no such house, no such maid, and no such men as you have dreamed up, like a certain Stephen Sly and one old John Naps of Greece, a Peter Turph, one “Henry Pimpernell,” and twenty more men of this sort—who never actually existed."
+
+  - sp: SLY
+    o:
+      - "Now Lord be thanked for my good amends!"
+    m:
+      - "Well, thank God I’m cured!"
+
+  - sp: ALL
+    o:
+      - "Amen."
+    m:
+      - "Amen."
+
+  - sp: SLY
+    o:
+      - "I thank thee. Thou shalt not lose by it."
+    m:
+      - "I thank you all. You won’t regret this."
+
+  - os: "Enter the PAGE as a lady, with attendants"
+    ms: "The PAGE enters, disguised as a noble lady and accompanied by servants."
+
+  - sp: PAGE
+    o:
+      - "How fares my noble lord?"
+    m:
+      - "How is my noble lord?"
+
+  - sp: SLY
+    o:
+      - "    Marry, I fare well,"
+      - "For here is cheer enough. Where is my wife?"
+    m:
+      - "Not bad, actually. This is all quite pleasant. Where is my wife?"
+
+  - sp: PAGE
+    o:
+      - "Here, noble lord. What is thy will with her?"
+    m:
+      - "Here, noble lord. What is your wish with regard to her?"
+
+  - sp: SLY
+    o:
+      - "Are you my wife and will not call me “husband”?"
+      - "My men should call me “lord.” I am your goodman."
+    m:
+      - "You call yourself my wife, yet you don’t call me “husband”? It’s my men who should call me “lord.” I’m your man, your fellow."
+
+  - sp: PAGE
+    o:
+      - "My husband and my lord, my lord and husband,"
+      - "I am your wife in all obedience."
+    m:
+      - "My husband *is* my lord and my lord is my husband. For I am your all-obedient wife."
+
+  - sp: SLY
+    o:
+      - "I know it well.—What must I call her?"
+    m:
+      - "Yes, I see.—*(to the LORD)* What should I call her?"
+
+  - sp: LORD
+    o:
+      - "  “Madam.”"
+    m:
+      - "“Madam.”"
+
+  - sp: SLY
+    o:
+      - "“Alice Madam,” or “Joan Madam”?"
+    m:
+      - "“Madam Alice?” Or “Madam Joan?”"
+
+  - sp: LORD
+    o:
+      - "“Madam,” and nothing else. So lords call ladies."
+    m:
+      - "Just “madam.” That’s how noblemen address their wives."
+
+  - sp: SLY
+    o:
+      - "Madam wife, they say that I have dreamed"
+      - "And slept above some fifteen year or more."
+    m:
+      - "Madam wife, they say I’ve been dreaming or asleep for more than fifteen years."
+
+  - sp: PAGE
+    o:
+      - "Ay, and the time seems thirty unto me,"
+      - "Being all this time abandoned from your bed."
+    m:
+      - "Yes, and it seemed twice as long to me, having been kept from your bed that whole time."
+
+  - sp: SLY
+    o:
+      - "’Tis much.—Servants, leave me and her alone."
+      - "Madam, undress you and come now to bed."
+    m:
+      - "That’s too long.—Servants, leave her and me alone. Now, madam, undress and come to bed."
+
+  - sp: PAGE
+    o:
+      - "Thrice noble lord, let me entreat of you"
+      - "To pardon me yet for a night or two,"
+      - "Or if not so, until the sun be set."
+      - "For your physicians have expressly charged,"
+      - "In peril to incur your former malady,"
+      - "That I should yet absent me from your bed."
+      - "I hope this reason stands for my excuse."
+    m:
+      - "Thrice noble lord, I beg you to excuse me for another night or two—or at least until nightfall. Your doctors have expressly forbidden me to sleep with you, as there’s a risk that you might have a relapse. I hope this explanation will stand as my excuse."
+
+  - sp: SLY
+    o:
+      - "Ay, it stands so that I may hardly tarry so long. But I would be loath to fall into my dreams again. I will therefore tarry in despite of the flesh and the blood."
+    m:
+      - "Well, something’s standing up. I’m not sure I can wait that long. Still, I’d hate to see my former dreams return. So I *will* wait, however flesh and blood may feel about it."
+
+  - os: "  Enter a MESSENGER"
+    ms: "A MESSENGER."
+
+  - sp: MESSENGER
+    o:
+      - "Your Honor’s players, hearing your amendment,"
+      - "Are come to play a pleasant comedy,"
+      - "For so your doctors hold it very meet,"
+      - "Seeing too much sadness hath congealed your blood,"
+      - "And melancholy is the nurse of frenzy."
+      - "Therefore they thought it good you hear a play"
+      - "And frame your mind to mirth and merriment,"
+      - "Which bars a thousand harms and lengthens life."
+    m:
+      - "Your Honor’s actors, hearing of your recovery, have come to perform a pleasing comedy for you—and your doctors approve wholeheartedly. They say that too much suffering has made your blood coagulate, and that sadness leads to madness. So they think it’s a good idea for you to watch a play and direct your thoughts toward laughter and merriment—two strong preventive medicines that foster long life."
+
+  - sp: SLY
+    o:
+      - "Marry, I will. Let them play it. Is not a comonty a"
+      - "Christmas gambold or a tumbling-trick?"
+    m:
+      - "Okay, bring on the play. But what’s a “comonty?” Some sort of Christmas skit or display of acrobatics?"
+
+  - sp: PAGE
+    o:
+      - "No, my good lord, it is more pleasing stuff."
+    m:
+      - "No, my good lord, this is nicer stuff."
+
+  - sp: SLY
+    o:
+      - "What, household stuff?"
+    m:
+      - "What, like stuff from a house?"
+
+  - sp: PAGE
+    o:
+      - "    It is a kind of history."
+    m:
+      - "No, it’s a story."
+
+  - sp: SLY
+    o:
+      - "Well, we’ll see ’t. Come, madam wife, sit by my side and let the world slip. We shall ne’er be younger."
+    m:
+      - "Well, let’s watch it. Come, madam wife, sit here beside me. Let’s forget our cares. We’re not getting any younger."
+
+  - os: "They sit"
+    ms: "They sit."

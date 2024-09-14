@@ -1,0 +1,179 @@
+play: Hamlet
+title: Act 3, Scene 3
+group: 3
+order: 9
+text:
+  - os: "Enter CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN"
+    ms: "CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN enter."
+
+  - sp: CLAUDIUS
+    o:
+      - "I like him not, nor stands it safe with us"
+      - "To let his madness range. Therefore prepare you."
+      - "I your commission will forthwith dispatch,"
+      - "And he to England shall along with you."
+      - "The terms of our estate may not endure"
+      - "Hazard so dangerous as doth hourly grow"
+      - "Out of his lunacies."
+    m:
+      - "I don’t like the way he’s acting, and it’s not safe for me to let his insanity get out of control. So get prepared. I’m sending you to England on diplomatic business, and Hamlet will go with you. As king, I cannot risk the danger he represents as he grows crazier by the hour."
+
+  - sp: GUILDENSTERN
+    o:
+      - "  We will ourselves provide."
+      - "Most holy and religious fear it is"
+      - "To keep those many, many bodies safe"
+      - "That live and feed upon your majesty."
+    m:
+      - "We’ll take care of it. It’s a sacred duty to protect the lives of all those who depend on Your Highness."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "The single and peculiar life is bound"
+      - "With all the strength and armor of the mind"
+      - "To keep itself from noyance, but much more"
+      - "That spirit upon whose weal depend and rest"
+      - "The lives of many. The cease of majesty"
+      - "Dies not alone, but, like a gulf, doth draw"
+      - "What’s near it with it. It is a massy wheel"
+      - "Fixed on the summit of the highest mount,"
+      - "To whose huge spokes ten thousand lesser things"
+      - "Are mortised and adjoined, which, when it falls,"
+      - "Each small annexment, petty consequence,"
+      - "Attends the boisterous ruin. Never alone"
+      - "Did the king sigh, but with a general groan."
+    m:
+      - "Everyone tries to avoid harm, but the public figure demands even more protection. When a great leader dies he doesn’t die alone but, like a whirlpool, draws others with him. He’s like a huge wheel on the top of the highest mountain whose spokes touch the rim of ten thousand smaller things—when it falls down the mountain, every little object goes down with it. Whenever a king sighs, everyone groans."
+
+  - sp: CLAUDIUS
+    o:
+      - "Arm you, I pray you, to this speedy voyage."
+      - "For we will fetters put upon this fear,"
+      - "Which now goes too free-footed."
+    m:
+      - "Prepare yourself, please, for this trip. We’ll put a leash on this danger that’s now running wild."
+
+  - sp: ROSENCRANTZ, GUILDENSTERN
+    o:
+      - "We will haste us."
+    m:
+      - "We’ll hurry."
+
+  - os: "Exeunt ROSENCRANTZ and GUILDENSTERN"
+    ms: "ROSENCRANTZ and GUILDENSTERN exit."
+
+  - os: "Enter POLONIUS"
+    ms: "POLONIUS enters."
+
+  - sp: POLONIUS
+    o:
+      - "My lord, he’s going to his mother’s closet."
+      - "Behind the arras I’ll convey myself"
+      - "To hear the process. I’ll warrant she’ll tax him home."
+      - "And, as you said (and wisely was it said)"
+      - "’Tis meet that some more audience than a mother—"
+      - "Since nature makes them partial—should o’erhear"
+      - "The speech, of vantage. Fare you well, my liege."
+      - "I’ll call upon you ere you go to bed"
+      - "And tell you what I know."
+    m:
+      - "My lord, Hamlet’s going to his mother’s room. I’ll hide behind the tapestry to hear what they say. I bet she’ll chew him out. And as you said (and you said it wisely), it’s good to have someone other than a mother listening in on them, since she can be too partial to him. Goodbye, my lord. I’ll stop by before you go to bed, and tell you what I’ve heard."
+
+  - sp: CLAUDIUS
+    o:
+      - "    Thanks, dear my lord."
+    m:
+      - "Thanks, my dear lord."
+
+  - os: "Exit POLONIUS"
+    ms: "POLONIUS exits."
+
+  - o:
+      - "Oh, my offence is rank. It smells to heaven."
+      - "It hath the primal eldest curse upon ’t,"
+      - "A brother’s murder. Pray can I not."
+      - "Though inclination be as sharp as will,"
+      - "My stronger guilt defeats my strong intent,"
+      - "And, like a man to double business bound,"
+      - "I stand in pause where I shall first begin,"
+      - "And both neglect. What if this cursèd hand"
+      - "Were thicker than itself with brother’s blood?"
+      - "Is there not rain enough in the sweet heavens"
+      - "To wash it white as snow? Whereto serves mercy"
+      - "But to confront the visage of offence?"
+      - "And what’s in prayer but this twofold force,"
+      - "To be forestallèd ere we come to fall"
+      - "Or pardoned being down? Then I’ll look up."
+      - "My fault is past. But oh, what form of prayer"
+      - "Can serve my turn, “Forgive me my foul murder”?"
+    m:
+      - "Oh, my crime is so rotten it stinks all the way to heaven. It has the mark of Cain on it, a brother’s murder. I can’t pray, though I want to desperately. My guilt is stronger even than my intentions. And like a person with two opposite things to do at once, I stand paralyzed and neglect them both. So what if this cursed hand of mine is coated with my brother’s blood? Isn’t there enough rain in heaven to wash it clean as snow? Isn’t that what God’s mercy is for? And doesn’t prayer serve these two purposes—to keep us from sinning and to bring us forgiveness when we have sinned? So I’ll pray. I’ve already committed my sin. But, oh, what kind of prayer is there for me? “Dear Lord, forgive me for my horrible murder”?"
+
+  - o:
+      - "That cannot be, since I am still possessed"
+      - "Of those effects for which I did the murder:"
+      - "My crown, mine own ambition, and my queen."
+      - "May one be pardoned and retain th’ offense?"
+      - "In the corrupted currents of this world"
+      - "Offense’s gilded hand may shove by justice,"
+      - "And oft ’tis seen the wicked prize itself"
+      - "Buys out the law. But ’tis not so above."
+      - "There is no shuffling. There the action lies"
+      - "In his true nature, and we ourselves compelled,"
+      - "Even to the teeth and forehead of our faults,"
+      - "To give in evidence. What then? What rests?"
+      - "Try what repentance can. What can it not?"
+      - "Yet what can it when one can not repent?"
+      - "O wretched state! O bosom black as death!"
+      - "O limèd soul that, struggling to be free,"
+      - "Art more engaged! Help, angels. Make assay."
+      - "Bow, stubborn knees, and, heart with strings of steel,"
+      - "Be soft as sinews of the newborn babe."
+      - "All may be well. *(kneels)*"
+    m:
+      - "That won’t work, since I’m still reaping the rewards of that murder: my crown and my queen. Can a person be forgiven and still keep the fruits of his crime? In this wicked world, criminals often take the money they stole and use it to buy off the law, shoving justice aside. But not in heaven. Up there, every action is judged for exactly what it’s worth, and we’re forced to confront our crimes. So what can I do? What is there left to do? Offer whatever repentance I can—that couldn’t hurt. But it can’t help either! Oh, what a lousy situation I’m in. My heart’s as black as death. My soul is stuck to sin, and the more it struggles to break free, the more it sticks. Help me, angels! C’mon, make an effort. Bend, stubborn knees. Steely heart, be soft as a newborn babe, so I can pray. Perhaps everything will turn out okay after all. *(he kneels)*"
+
+  - os: "Enter HAMLET"
+    ms: "HAMLET enters."
+
+  - sp: HAMLET
+    o:
+      - "Now might I do it pat. Now he is a-praying."
+      - "And now I’ll do ’t. And so he goes to heaven."
+      - "And so am I revenged.—That would be scanned."
+      - "A villain kills my father, and, for that,"
+      - "I, his sole son, do this same villain send"
+      - "To heaven."
+      - "Oh, this is hire and salary, not revenge."
+      - "He took my father grossly, full of bread,"
+      - "With all his crimes broad blown, as flush as May."
+      - "And how his audit stands who knows save heaven?"
+      - "But in our circumstance and course of thought"
+      - "’Tis heavy with him. And am I then revenged"
+      - "To take him in the purging of his soul"
+      - "When he is fit and seasoned for his passage?"
+      - "No."
+      - "Up, sword, and know thou a more horrid hent."
+      - "When he is drunk asleep, or in his rage,"
+      - "Or in th’ incestuous pleasure of his bed,"
+      - "At game a-swearing, or about some act"
+      - "That has no relish of salvation in ’t—"
+      - "Then trip him, that his heels may kick at heaven,"
+      - "And that his soul may be as damned and black"
+      - "As hell, whereto it goes. My mother stays"
+      - "This physic but prolongs thy sickly days."
+    m:
+      - "I could do it easily now. He’s praying now. And now I’ll do it. *(he draws out his sword)* And there he goes, off to heaven. And that’s my revenge. I’d better think about this more carefully. A villain kills my father, and I, my father’s only son, send this same villain to heaven. Seems like I just did him a favor. He killed my father when my father was enjoying life, with all his sins in full bloom, before my father could repent for any of them. Only God knows how many sins my father has to pay for. As for me, I don’t think his prospects look so good. So is it really revenge for me if I kill Claudius right when he is confessing his sins, in perfect condition for a trip to heaven? No. Away, sword, and wait for a better moment to kill him. *(he puts his sword away)* When he’s sleeping off some drunken orgy, or having incestuous sex, or swearing while he gambles, or committing some other act that has no goodness about it—that’s when I’ll trip him up and send him to hell with his heels kicking up at heaven. My mother’s waiting. The king’s trying to cure himself with prayer, but all he’s doing is keeping himself alive a little longer."
+
+  - os: "Exit HAMLET"
+    ms: "HAMLET exits."
+
+  - sp: CLAUDIUS
+    o:
+      - "*(rises)* My words fly up, my thoughts remain below."
+      - "Words without thoughts never to heaven go."
+    m:
+      - "*(rising)* My words fly up toward heaven, but my thoughts stay down here on earth. Words without thoughts behind them will never make it to heaven."
+
+  - os: "Exit"
+    ms: "CLAUDIUS exits."

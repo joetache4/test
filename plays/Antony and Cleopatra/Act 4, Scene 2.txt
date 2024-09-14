@@ -1,0 +1,165 @@
+play: Antony and Cleopatra
+title: Act 4, Scene 2
+group: 4
+order: 26
+text:
+  - os: "Enter ANTONY, CLEOPATRA, ENOBARBUS, CHARMIAN, and IRAS, with others"
+    ms: "ANTONY, CLEOPATRA, ENOBARBUS, CHARMIAN, and IRAS enter, with attendants."
+
+  - sp: ANTONY
+    o:
+      - "He will not fight with me, Domitius?"
+    m:
+      - "He won’t fight with me, Domitius?"
+
+  - sp: ENOBARBUS
+    o:
+      - "    No."
+    m:
+      - "No."
+
+  - sp: ANTONY
+    o:
+      - "Why should he not?"
+    m:
+      - "Why won’t he?"
+
+  - sp: ENOBARBUS
+    o:
+      - "He thinks, being twenty times of better fortune,"
+      - "He is twenty men to one."
+    m:
+      - "He thinks that since his fortune is twenty times better than yours, it would be like pitting twenty men against one."
+
+  - sp: ANTONY
+    o:
+      - "    Tomorrow, soldier,"
+      - "By sea and land I’ll fight. Or I will live"
+      - "Or bathe my dying honor in the blood"
+      - "Shall make it live again. Woo’t thou fight well?"
+    m:
+      - "Tomorrow, soldier, I’ll fight by sea and land. By the end I will either live, or else I’ll restore my honor by shedding my blood. Will you fight well?"
+
+  - sp: ENOBARBUS
+    o:
+      - "I’ll strike and cry, “Take all.”"
+    m:
+      - "When I strike, I’ll cry, “All or nothing!”"
+
+  - sp: ANTONY
+    o:
+      - "    Well said. Come on! Call forth my household servants."
+    m:
+      - "Well put. Come on. Call out my household servants."
+
+  - os: "Enter three or four SERVITORS"
+    ms: "Three or four SERVANTS enter."
+
+  - o:
+      - "    Let’s tonight"
+      - "Be bounteous at our meal."
+    m:
+      - "Tonight let’s have plenty to eat."
+
+  - os: "Greeting them one by one"
+    ms: "He greets the SERVANTS one by one."
+
+  - o:
+      - "    Give me thy hand."
+      - "Thou hast been rightly honest.—So hast thou,—"
+      - "Thou,—and thou,—and thou. You have served me well,"
+      - "And kings have been your fellows."
+    m:
+      - "Give me your hand; you’ve been truly honest—so have you and you—and you—you too. You have all served me well, and kings are your peers."
+
+  - sp: CLEOPATRA
+    o:
+      - "*(aside to ENOBARBUS)* What means this?"
+    m:
+      - "*(aside to ENOBARBUS)* What is this?"
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside to CLEOPATRA)* ’Tis one of those odd tricks which sorrow shoots"
+      - "Out of the mind."
+    m:
+      - "*(aside to CLEOPATRA)* It’s one of those nostalgic moods caused by sorrow."
+
+  - sp: ANTONY
+    o:
+      - "    *(to another SERVITOR)* And thou art honest too."
+      - "I wish I could be made so many men,"
+      - "And all of you clapped up together in"
+      - "An Antony, that I might do you service"
+      - "So good as you have done."
+    m:
+      - "*(to another SERVANT)* And you’re honest too. I wish I could split into as many men as there are servants here before me, and that all of you could merge into a single Antony, so I could give you the same good service you’ve given me."
+
+  - sp: ALL THE SERVITORS
+    o:
+      - "    The gods forbid!"
+    m:
+      - "The gods forbid!"
+
+  - sp: ANTONY
+    o:
+      - "Well, my good fellows, wait on me tonight."
+      - "Scant not my cups, and make as much of me"
+      - "As when mine empire was your fellow too,"
+      - "And suffered my command."
+    m:
+      - "Well, my good fellows, wait on me tonight. Keep my cups full and treat me as you did when my empire was one of your fellow servants, obeying my commands."
+
+  - sp: CLEOPATRA
+    o:
+      - "*(aside to ENOBARBUS)* What does he mean?"
+    m:
+      - "*(to ENOBARBUS)* Why is he doing this?"
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside to CLEOPATRA)* To make his followers weep."
+    m:
+      - "*(to CLEOPATRA)* He wants to make his followers weep."
+
+  - sp: ANTONY
+    o:
+      - "*(to the SERVITORS)* Tend me tonight."
+      - "May be it is the period of your duty."
+      - "Haply you shall not see me more, or if,"
+      - "A mangled shadow. Perchance tomorrow"
+      - "You’ll serve another master. I look on you"
+      - "As one that takes his leave. Mine honest friends,"
+      - "I turn you not away, but, like a master"
+      - "Married to your good service, stay till death."
+      - "Tend me tonight two hours, I ask no more,"
+      - "And the gods yield you for ’t!"
+    m:
+      - "*(to the SERVANTS)* Wait on me tonight. It’s possible that this will be the end of your service. It’s possible you won’t see me again, or if you do, it will only be my mangled body. Perhaps tomorrow you’ll be serving another master. I look upon you as a person saying good-bye. My honest friends, I won’t turn you away, but like a master dependent on your good service, I will stay with you until death separates us. Serve me tonight for two hours—I don’t ask any more—and may the gods bless you for it."
+
+  - sp: ENOBARBUS
+    o:
+      - "    What mean you, sir,"
+      - "To give them this discomfort? Look, they weep,"
+      - "And I, an ass, am onion-eyed. For shame,"
+      - "Transform us not to women."
+    m:
+      - "What are you doing, sir? You’re making them uncomfortable. Look—they’re crying. And I’m just foolish enough to tear up myself. It’s embarrassing. Don’t turn us into women."
+
+  - sp: ANTONY
+    o:
+      - "    Ho, ho, ho!"
+      - "Now the witch take me if I meant it thus!"
+      - "Grace grow where those drops fall! My hearty friends,"
+      - "You take me in too dolorous a sense,"
+      - "For I spake to you for your comfort, did desire you"
+      - "To burn this night with torches. Know, my hearts,"
+      - "I hope well of tomorrow, and will lead you"
+      - "Where rather I’ll expect victorious life"
+      - "Than death and honor. Let’s to supper, come,"
+      - "And drown consideration."
+    m:
+      - "Ha, ha, ha! May the evil one take me if I meant it like that! Those tears will bring blessings to you. You interpret my words in a melancholy sense, my hearty friends. I spoke to encourage you, asking that you help me make this night a brilliant one. You should know, my friends, that I have good hopes for tomorrow, and that I will lead you as if I expect victory rather than an honorable death. Let’s go to supper. Come, and let’s drown our worries."
+
+  - os: "Exeunt"
+    ms: "They exit."

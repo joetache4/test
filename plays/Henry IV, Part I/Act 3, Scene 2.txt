@@ -1,0 +1,254 @@
+play: Henry IV, Part I
+title: Act 3, Scene 2
+group: 3
+order: 8
+text:
+  - os: "Enter KING, PRINCE HENRY of Wales, and others"
+    ms: "The KING, PRINCE HENRY of Wales, and others enter."
+
+  - sp: KING
+    o:
+      - "Lords, give us leave; the Prince of Wales and I"
+      - "Must have some private conference, but be near at hand,"
+      - "For we shall presently have need of you."
+    m:
+      - "Gentlemen, please leave; the Prince of Wales and I must speak in private. But stay close by, for I’ll need you in a moment."
+
+  - os: "Exeunt lords"
+    ms: "The lords exit."
+
+  - o:
+      - "I know not whether God will have it so"
+      - "For some displeasing service I have done,"
+      - "That, in his secret doom, out of my blood"
+      - "He’ll breed revengement and a scourge for me."
+      - "But thou dost in thy passages of life"
+      - "Make me believe that thou art only marked"
+      - "For the hot vengeance and the rod of heaven"
+      - "To punish my mistreadings. Tell me else,"
+      - "Could such inordinate and low desires,"
+      - "Such poor, such bare, such lewd, such mean attempts,"
+      - "Such barren pleasures, rude society"
+      - "As thou art matched withal, and grafted to,"
+      - "Accompany the greatness of thy blood,"
+      - "And hold their level with thy princely heart?"
+    m:
+      - "I don’t know whether God decided, because of some displeasing crime I have committed, to turn my own flesh and blood into a punisher and a plague upon me. The course of your life has me convinced that you are only meant for one purpose in this world: to be God’s vengeance against me for all my misdeeds. Why else would such disorderly and low desires, such poor, such wretched, such lewd, such despicable actions, such wasteful pleasures, and such vulgar company become associated with your high-born self, and call themselves equals with a Prince like you?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "So please your Majesty, I would I could"
+      - "Quit all offenses with as clear excuse"
+      - "As well as I am doubtless I can purge"
+      - "Myself of many I am charged withal."
+      - "Yet such extenuation let me beg"
+      - "As, in reproof of many tales devised,"
+      - "Which oft the ear of greatness needs must hear,"
+      - "By smiling pickthanks and base newsmongers,"
+      - "I may for some things true, wherein my youth"
+      - "Hath faulty wandered and irregular,"
+      - "Find pardon on my true submission."
+    m:
+      - "Your majesty, I wish I could be proven innocent of all those accusations, for I can certainly clear myself of many of them. But let me beg one favor of you: if I can demonstrate that I’m not guilty of the false charges of these smiling flatterers and wretched gossips (the kinds of stories that are always told about great men), then you will forgive me when I confess to the youthful indiscretions I actually did commit."
+
+  - sp: KING
+    o:
+      - "God pardon thee. Yet let me wonder, Harry,"
+      - "At thy affections, which do hold a wing"
+      - "Quite from the flight of all thy ancestors."
+      - "Thy place in council thou hast rudely lost,"
+      - "Which by thy younger brother is supplied,"
+      - "And art almost an alien to the hearts"
+      - "Of all the court and princes of my blood."
+      - "The hope and expectation of thy time"
+      - "Is ruined, and the soul of every man"
+      - "Prophetically doth forethink thy fall."
+      - "Had I so lavish of my presence been,"
+      - "So common-hackneyed in the eyes of men,"
+      - "So stale and cheap to vulgar company,"
+      - "Opinion, that did help me to the crown,"
+      - "Had still kept loyal to possession"
+      - "And left me in reputeless banishment,"
+      - "A fellow of no mark nor likelihood."
+      - "By being seldom seen, I could not stir"
+      - "But like a comet I was wondered at;"
+      - "That men would tell their children “This is he.”"
+      - "Others would say “Where? Which is Bolingbroke?”"
+      - "And then I stole all courtesy from heaven,"
+      - "And dressed myself in such humility"
+      - "That I did pluck allegiance from men’s hearts,"
+      - "Loud shouts and salutations from their mouths,"
+      - "Even in the presence of the crownèd King."
+      - "Thus did I keep my person fresh and new,"
+      - "My presence, like a robe pontifical,"
+      - "Ne’er seen but wondered at, and so my state,"
+      - "Seldom but sumptuous, showed like a feast"
+      - "And won by rareness such solemnity."
+      - "The skipping King, he ambled up and down"
+      - "With shallow jesters and rash bavin wits,"
+      - "Soon kindled and soon burnt; carded his state,"
+      - "Mingled his royalty with cap’ring fools,"
+    m:
+      - "Let God forgive you! But I’m amazed, Harry, at your inclinations, which run completely contrary to those of your ancestors. Your vulgar behavior has cost you your place on my council, a position now held by your younger brother. You have almost completely alienated yourself from the good graces of the courtiers and the other members of the royal family. The hopes of your youth are now ruined; every man, in his heart, thinks he can see your downfall. If I had been so publicly visible, so overly familiar to people, so freely accessible, so cheap and available to the common hordes, then public opinion (which helped me get the crown) would have stayed loyal to King Richard. I would have stayed a banished man, with no reputation and no promise of success. But because I was so rarely seen in public, people were amazed by me when I did appear; they acted as if I were a comet. Men would tell their children, “That’s him!” Others would ask, “Where? Which one’s Bolingbroke?” I was more gracious than heaven; I acted so modestly that I won the allegiance of their hearts, and the shouts and salutes of their mouths. They even did so when the King himself was present. This is how I kept myself fresh and new. I was like a priest’s ceremonial vestments: rarely seen, but admired. I appeared seldomly, but marvelously, like a feast made all the more impressive by its rarity. Now, ridiculous King Richard pranced about with vapid clowns and superficial wits, quickly lit and just as quickly burnt out. He degraded himself, mingling his royal self with those skipping fools."
+
+  - o:
+      - "Had his great name profanèd with their scorns,"
+      - "And gave his countenance, against his name,"
+      - "To laugh at gibing boys and stand the push"
+      - "Of every beardless vain comparative;"
+      - "Grew a companion to the common streets,"
+      - "Enfeoffed himself to popularity,"
+      - "That, being daily swallowed by men’s eyes,"
+      - "They surfeited with honey and began"
+      - "To loathe the taste of sweetness, whereof a little"
+      - "More than a little is by much too much."
+      - "So, when he had occasion to be seen,"
+      - "He was but as the cuckoo is in June,"
+      - "Heard, not regarded; seen, but with such eyes"
+      - "As, sick and blunted with community,"
+      - "Afford no extraordinary gaze"
+      - "Such as is bent on sunlike majesty"
+      - "When it shines seldom in admiring eyes,"
+      - "But rather drowsed and hung their eyelids down,"
+      - "Slept in his face, and rendered such aspect"
+      - "As cloudy men use to their adversaries,"
+      - "Being with his presence glutted, gorged, and full."
+      - "And in that very line, Harry, standest thou,"
+      - "For thou has lost thy princely privilege"
+      - "With vile participation. Not an eye"
+      - "But is aweary of thy common sight,"
+      - "Save mine, which hath desired to see thee more,"
+      - "Which now doth that I would not have it do,"
+      - "Make blind itself with foolish tenderness."
+    m:
+      - "His reputation was ruined by their scornful attitudes. He lost face by laughing with those joking boys, and tolerating the rudeness of every smooth-faced, disdainful prankster. He spent his time in common, public places, surrendering himself to the pursuit of popularity. Soon, they saw him every day and it was like overdosing on honey; they began to hate the taste of that sweetness. A little too much is as bad as far too much. Seeing him became as common a sight as a cuckoo in June—heard but not paid attention to; seen, but by eyes so used to seeing that they took it for granted. They didn’t look with a special gaze, as they do at the sun when it shines only rarely. Instead, they grew bored, they looked away. They slept in front of him and watched him dully, the way a sullen man looks at his enemy. They were stuffed, gorged, and full with his presence. And that is just where you stand, Harry. You have lost your princely status by associating with vile criminals: there’s not an eye in the kingdom that isn’t weary of looking at you. No eyes except mine, that is, which had wished to see more of you; and now they’re acting against me, blinding themselves with foolish tears."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I shall hereafter, my thrice gracious lord,"
+      - "Be more myself."
+    m:
+      - "From now on, my very gracious father, I will behave more like myself."
+
+  - sp: KING
+    o:
+      - "  For all the world"
+      - "As thou art to this hour was Richard then"
+      - "When I from France set foot at Ravenspurgh,"
+      - "And even as I was then is Percy now."
+      - "Now, by my scepter, and my soul to boot,"
+      - "He hath more worthy interest to the state"
+      - "Than thou, the shadow of succession."
+      - "For of no right, nor color like to right,"
+      - "He doth fill fields with harness in the realm,"
+      - "Turns head against the lion’s armèd jaws,"
+      - "And, being no more in debt to years than thou,"
+      - "Leads ancient lords and reverend bishops on"
+      - "To bloody battles and to bruising arms."
+      - "What never-dying honor hath he got"
+      - "Against renownèd Douglas, whose high deeds,"
+      - "Whose hot incursions and great name in arms,"
+      - "Holds from all soldiers chief majority"
+      - "And military title capital"
+      - "Through all the kingdoms that acknowledge Christ."
+      - "Thrice hath this Hotspur, Mars in swathling clothes,"
+      - "This infant warrior, in his enterprises"
+      - "Discomfited great Douglas, ta’en him once,"
+      - "Enlargèd him, and made a friend of him,"
+      - "To fill the mouth of deep defiance up"
+      - "And shake the peace and safety of our throne."
+      - "And what say you to this? Percy, Northumberland,"
+      - "The Archbishop’s Grace of York, Douglas, Mortimer,"
+      - "Capitulate against us and are up."
+      - "But wherefore do I tell these news to thee?"
+      - "Why, Harry, do I tell thee of my foes,"
+      - "Which art my nearest and dearest enemy?"
+      - "Thou that art like enough, through vassal fear,"
+      - "Base inclination, and the start of spleen,"
+      - "To fight against me under Percy’s pay,"
+      - "To dog his heels, and curtsy at his frowns,"
+      - "To show how much thou art degenerate."
+    m:
+      - "At this moment, you seem just like Richard did when I returned from France to lead the revolt. And just as I was then, Percy seems now. I swear on my scepter and my soul, he has more of a right to the throne than you, you shadowy copy of a king. For without a right to the throne—nor anything even resembling a right—he has filled the kingdom’s battlefields with armies. He seeks to lead an army against the King, into the jaws of the lion. And even though he is no older than you are, he leads old statesmen and venerable bishops into bloody battles and violent wars. What lasting honor he won, by beating the renowned Douglas! That man’s great exploits, violent invasions, and glorious military reputation had won him praise throughout the Christian world as the most outstanding soldier. And yet Hotspur, this Mars in baby clothes, this infant warrior, has defeated Douglas three times, captured him once, then freed him and made him his ally. Now they have become a huge threat to my throne. And what do you have to say about this? Percy, Northumberland, the Archbishop of York, Douglas, and Mortimer have banded together, and now they are after me. But why am I telling you this? Why should I tell you about my foes, Harry, when you are my most beloved and most dangerous enemy? With your sycophantic fear, your vulgar inclinations, and your short temper, I wouldn’t be surprised if you left me to fight under Percy, following his heels like a dog and bowing to him when he frowns. Just to prove what a degenerate you are."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Do not think so. You shall not find it so."
+      - "And God forgive them that so much have swayed"
+      - "Your Majesty’s good thoughts away from me."
+      - "I will redeem all this on Percy’s head,"
+      - "And, in the closing of some glorious day,"
+      - "Be bold to tell you that I am your son,"
+      - "When I will wear a garment all of blood"
+      - "And stain my favors in a bloody mask,"
+      - "Which, washed away, shall scour my shame with it."
+      - "And that shall be the day, whene’er it lights,"
+      - "That this same child of honor and renown,"
+      - "This gallant Hotspur, this all-praisèd knight,"
+      - "And your unthought-of Harry chance to meet."
+      - "For every honor sitting on his helm,"
+      - "Would they were multitudes, and on my head"
+      - "My shames redoubled! For the time will come"
+      - "That I shall make this northern youth exchange"
+      - "His glorious deeds for my indignities."
+      - "Percy is but my factor, good my lord,"
+      - "To engross up glorious deeds on my behalf."
+      - "And I will call him to so strict account"
+      - "That he shall render every glory up,"
+      - "Yea, even the slightest worship of his time,"
+      - "Or I will tear the reckoning from his heart."
+      - "This in the name of God I promise here,"
+      - "The which if He be pleased I shall perform,"
+      - "I do beseech your Majesty may salve"
+      - "The long-grown wounds of my intemperance."
+      - "If not, the end of life cancels all bands,"
+      - "And I will die a hundred thousand deaths"
+      - "Ere break the smallest parcel of this vow."
+    m:
+      - "Don’t think that; that will not happen. God forgive whoever turned you against me like this! I’ll redeem myself by beating Percy. And at the end of some glorious victory, I’ll come to you and proudly say that I am your son. I will wear a garment made of blood, and my face will be stained by a bloody mask which, when washed away, will clean me of my shame. This will be the day, whenever it happens, that this famous and honored child—this brave Hotspur, this highly praised knight—will meet your disregarded Harry in battle. I wish that every honor he’s earned were multiplied, and that every one of my shames were doubled. For the time will come when I’ll make this youth from the north exchange his glorious deeds for my embarrassments. Percy is working for me, my lord. He’s collecting glories on my behalf, and I’m going to hold him strictly accountable for them. He’ll either have to surrender every last one of those glories to me, no matter how small, or I’ll tear them right out of his heart. This I promise you, in the name of God. And if God allows me to do these things, then I beg you to heal the wound caused by my long years of bad behavior. If not, then my death will cancel all my debts. I would rather die a hundred-thousand deaths than break even the smallest part of this promise."
+
+  - sp: KING
+    o:
+      - "A hundred thousand rebels die in this."
+      - "Thou shalt have charge and sovereign trust herein."
+    m:
+      - "Through this vow, a hundred-thousand rebels are killed. You will be given a position of command, and absolute trust in this undertaking."
+
+  - os: "Enter BLUNT"
+    ms: "BLUNT enters."
+
+  - o:
+      - "How now, good Blunt? Thy looks are full of speed."
+    m:
+      - "What’s wrong, Blunt? You look like there’s an emergency."
+
+  - sp: BLUNT
+    o:
+      - "So hath the business that I come to speak of."
+      - "Lord Mortimer of Scotland hath sent word"
+      - "That Douglas and the English rebels met"
+      - "The eleventh of this month at Shrewsbury."
+      - "A mighty and a fearful head they are,"
+      - "If promises be kept on every hand,"
+      - "As ever offered foul play in the state."
+    m:
+      - "There is, which is what I’ve come to tell you. Lord Mortimer of Scotland sent word that Douglas and the English rebels met at Shrewsbury, on the eleventh of this month. If everyone involved keeps their word, they will have an army as enormous and terrifying as any that ever caused trouble in this kingdom."
+
+  - sp: KING
+    o:
+      - "The Earl of Westmoreland set forth today,"
+      - "With him my son, Lord John of Lancaster,"
+      - "For this advertisement is five days old.—"
+      - "On Wednesday next, Harry, you shall set forward."
+      - "On Thursday we ourselves will march. Our meeting"
+      - "Is Bridgenorth. And, Harry, you shall march"
+      - "Through Gloucestershire; by which account,"
+      - "Our business valuèd, some twelve days hence"
+      - "Our general forces at Bridgenorth shall meet."
+      - "Our hands are full of business. Let’s away."
+      - "Advantage feeds him fat while men delay."
+    m:
+      - "We heard this news five days ago. The Earl of Westmoreland left today, along with my son Lord John of Lancaster. Harry, you’ll go next Wednesday. On Thursday, I will go myself. We’ll meet at Bridgenorth. Harry, you will march through Gloucestershire. Given the amount of time we’ll all need, we should come together with our full forces at Bridgenorth twelve days from now. There’s a lot to do, so let’s go. Our enemies will take advantage if we’re slow."
+
+  - os: "Exeunt"
+    ms: "They exit."

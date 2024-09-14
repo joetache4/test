@@ -1,0 +1,155 @@
+play: Richard II
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "The court."
+    ms: "King Richard II’s palace."
+
+  - os: "Enter KING RICHARD II, with BAGOT and GREEN at one door; and the DUKE OF AUMERLE at another"
+    ms: "KING RICHARD II enters. BAGOT and GREEN stand at one door, and the DUKE OF AUMERLE stands at another."
+
+  - sp: KING RICHARD II
+    o:
+      - "We did observe. Cousin Aumerle,"
+      - "How far brought you high Hereford on his way?"
+    m:
+      - "How far did you escort proud Hereford?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "I brought high Hereford, if you call him so,"
+      - "But to the next highway, and there I left him."
+    m:
+      - "I took proud Hereford, if you want to call him that, just to the next highway and left him there."
+
+  - sp: KING RICHARD II
+    o:
+      - "And say, what store of parting tears were shed?"
+    m:
+      - "And how many tears were shed?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "Faith, none for me; except the north-east wind,"
+      - "Which then blew bitterly against our faces,"
+      - "Awaked the sleeping rheum, and so by chance"
+      - "Did grace our hollow parting with a tear."
+    m:
+      - "Honestly, none on my part. Although the wind was blowing bitterly against our faces, making our eyes water. I suppose by chance that made me shed some tears."
+
+  - sp: KING RICHARD II
+    o:
+      - "What said our cousin when you parted with him?"
+    m:
+      - "What did my cousin say when you left him?"
+
+  - sp: DUKE OF AUMERLE
+    o:
+      - "“Farewell:”"
+      - "And, for my heart disdained that my tongue"
+      - "Should so profane the word, that taught me craft"
+      - "To counterfeit oppression of such grief"
+      - "That words seem’d buried in my sorrow’s grave."
+      - "Marry, would the word “farewell” have lengthen’d hours"
+      - "And added years to his short banishment,"
+      - "He should have had a volume of farewells;"
+      - "But since it would not, he had none of me."
+    m:
+      - "“Goodbye.” But I didn’t say it back, because that word has always been a way to disguise my grief when leaving someone, and I certainly didn’t have any grief to disguise this time. In fact, if saying goodbye would have made hours longer and added years to his banishment, I would have given him many goodbyes. But I knew that it wouldn’t, so I gave him none."
+
+  - sp: KING RICHARD II
+    o:
+      - "He is our cousin, cousin; but ’tis doubt,"
+      - "When time shall call him home from banishment,"
+      - "Whether our kinsman come to see his friends."
+      - "Ourself and Bushy, Bagot here and Green"
+      - "Observed his courtship to the common people;"
+      - "How he did seem to dive into their hearts"
+      - "With humble and familiar courtesy,"
+      - "What reverence he did throw away on slaves,"
+      - "Wooing poor craftsmen with the craft of smiles"
+      - "And patient underbearing of his fortune,"
+      - "As ’twere to banish their affects with him."
+      - "Off goes his bonnet to an oyster-wench;"
+      - "A brace of draymen bid God speed him well"
+      - "And had the tribute of his supple knee,"
+      - "With “Thanks, my countrymen, my loving friends;”"
+      - "As were our England in reversion his,"
+      - "And he our subjects’ next degree in hope."
+    m:
+      - "He is our cousin, cousin. But I doubt that he’ll come see his relatives when he returns home from his exile. Bushy, Bagot, Green, and I watched how he courts the common people, and he seems to endear himself to them with humble courtesy. He wasted reverence on slaves and courted poor craftsman with smiles and a patient acceptance of his fate, as though he were hoping to take their affection with him into exile. He took off his hat to a woman selling oysters. Several oxen drivers blessed his journey, and he went on one knee and told them, “Thanks, my countrymen, my loving friends.” It was as though my England were his and my subjects were placing their hope in him."
+
+  - sp: GREEN
+    o:
+      - "Well, he is gone; and with him go these thoughts."
+      - "Now for the rebels which stand out in Ireland,"
+      - "Expedient manage must be made, my liege,"
+      - "Ere further leisure yield them further means"
+      - "For their advantage and your highness’ loss."
+    m:
+      - "Well, he is gone, and any thoughts like that go with him. Now we must make an urgent plan to deal with the rebels in Ireland, my lord, before giving them time to act gives them an advantage and puts you at a loss."
+
+  - sp: KING RICHARD II
+    o:
+      - "We will ourself in person to this war:"
+      - "And, for our coffers, with too great a court"
+      - "And liberal largess, are grown somewhat light,"
+      - "We are inforced to farm our royal realm;"
+      - "The revenue whereof shall furnish us"
+      - "For our affairs in hand: if that come short,"
+      - "Our substitutes at home shall have blank charters;"
+      - "Whereto, when they shall know what men are rich,"
+      - "They shall subscribe them for large sums of gold"
+      - "And send them after to supply our wants;"
+      - "For we will make for Ireland presently."
+    m:
+      - "lease out our right to tax the people. The revenue from that will keep the country running. If that doesn’t bring in enough, then my deputies here will have authority to make the rich lords turn over however much of their gold we choose to supply what we need. I’ll leave for Ireland at once."
+
+  - os: "Enter BUSHY"
+    ms: "BUSHY enters."
+
+  - o:
+      - "Bushy, what news?"
+    m:
+      - "Bushy, what is the news?"
+
+  - sp: BUSHY
+    o:
+      - "Old John of Gaunt is grievous sick, my lord,"
+      - "Suddenly taken; and hath sent post haste"
+      - "To entreat your majesty to visit him."
+    m:
+      - "Old John of Gaunt is suddenly very ill, my lord. He sent word asking that your majesty visit him as soon as possible."
+
+  - sp: KING RICHARD II
+    o:
+      - "Where lies he?"
+    m:
+      - "Where is he?"
+
+  - sp: BUSHY
+    o:
+      - "At Ely House."
+    m:
+      - "At Ely House."
+
+  - sp: KING RICHARD II
+    o:
+      - "Now put it, God, in the physician’s mind"
+      - "To help him to his grave immediately!"
+      - "The lining of his coffers shall make coats"
+      - "To deck our soldiers for these Irish wars."
+      - "Come, gentlemen, let’s all go visit him:"
+      - "Pray God we may make haste, and come too late!"
+    m:
+      - "God, let the physician help him die quickly! His fortune will pay for the soldiers’ coats in this Irish war. Come, gentleman, let’s go visit him. Let’s hurry, but pray we still arrive too late!"
+
+  - sp: ALL
+    o:
+      - "Amen."
+    m:
+      - "Amen."
+
+  - os: "Exeunt"
+    ms: "They exit."

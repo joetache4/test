@@ -1,0 +1,830 @@
+play: The Merchant of Venice
+title: Act 5, Scene 1
+group: 5
+order: 19
+text:
+  - os: "Enter LORENZO and JESSICA"
+    ms: "LORENZO and JESSICA enter."
+
+  - sp: LORENZO
+    o:
+      - "The moon shines bright. In such a night as this,"
+      - "When the sweet wind did gently kiss the trees"
+      - "And they did make no noise, in such a night"
+      - "Troilus methinks mounted the Trojan walls"
+      - "And sighed his soul toward the Grecian tents"
+      - "Where Cressid lay that night."
+    m:
+      - "The moon’s bright tonight. I think that on a night like this, when the wind blew the trees so gently that they didn’t make a sound, Troilus climbed up onto the walls of Troy and sighed for Cressida in the Greek camp."
+
+  - sp: JESSICA
+    o:
+      - "    In such a night"
+      - "Did Thisbe fearfully o’ertrip the dew"
+      - "And saw the lion’s shadow ere himself"
+      - "And ran dismayed away."
+    m:
+      - "On a night like this, Thisbe saw the lion’s shadow and ran away in fear."
+
+  - sp: LORENZO
+    o:
+      - "    In such a night"
+      - "Stood Dido with a willow in her hand"
+      - "Upon the wild sea banks, and waft her love"
+      - "To come again to Carthage."
+    m:
+      - "On a night like this, Dido stood holding a willow branch on the seashore, begging her lover to come back to her in Carthage."
+
+  - sp: JESSICA
+    o:
+      - "    In such a night"
+      - "Medea gathered the enchanted herbs"
+      - "That did renew old Æson."
+    m:
+      - "On a night like this, Medea gathered magic herbs to rejuvenate old Aeson."
+
+  - sp: LORENZO
+    o:
+      - "    In such a night"
+      - "Did Jessica steal from the wealthy Jew,"
+      - "And with an unthrift love did run from Venice"
+      - "As far as Belmont."
+    m:
+      - "On a night like this, Jessica ran away from the wealthy Jew and stole his money. She ran away from Venice all the way to Belmont with her spendthrift lover."
+
+  - sp: JESSICA
+    o:
+      - "  In such a night"
+      - "Did young Lorenzo swear he loved her well,"
+      - "Stealing her soul with many vows of faith,"
+      - "And ne’er a true one."
+    m:
+      - "On a night like this, young Lorenzo swore he loved her very much, stealing her heart with vows of love, but not one vow was true."
+
+  - sp: LORENZO
+    o:
+      - "    In such a night"
+      - "Did pretty Jessica, like a little shrew,"
+      - "Slander her love, and he forgave it her."
+    m:
+      - "On a night like this, pretty Jessica, in a bad mood, said outrageously wrong things about her lover, and he forgave her."
+
+  - sp: JESSICA
+    o:
+      - "I would outnight you, did nobody come."
+      - "But, hark, I hear the footing of a man."
+    m:
+      - "I’d get the better of you in this storytelling game, but somebody’s coming. I hear his footsteps."
+
+  - os: "Enter STEPHANO, a messenger"
+    ms: "STEPHANO, a messenger, enters."
+
+  - sp: LORENZO
+    o:
+      - "Who comes so fast in silence of the night?"
+    m:
+      - "Who are you, coming so fast in this quiet night?"
+
+  - sp: STEPHANO
+    o:
+      - "A friend."
+    m:
+      - "A friend."
+
+  - sp: LORENZO
+    o:
+      - "A friend? What friend? Your name, I pray you, friend?"
+    m:
+      - "A friend? What friend? What’s your name, please, friend?"
+
+  - sp: STEPHANO
+    o:
+      - "Stephano is my name, and I bring word"
+      - "My mistress will before the break of day"
+      - "Be here at Belmont. She doth stray about"
+      - "By holy crosses, where she kneels and prays"
+      - "For happy wedlock hours."
+    m:
+      - "My name’s Stephano, and I’ve come to tell you my mistress will arrive here at Belmont before sunrise. She’s still at the monastery, kneeling and praying for a happy marriage."
+
+  - sp: LORENZO
+    o:
+      - "    Who comes with her?"
+    m:
+      - "Who’s coming with her?"
+
+  - sp: STEPHANO
+    o:
+      - "None but a holy hermit and her maid."
+      - "I pray you, is my master yet returned?"
+    m:
+      - "No one except her maid and a holy hermit. Has my master returned yet?"
+
+  - sp: LORENZO
+    o:
+      - "He is not, nor we have not heard from him.—"
+      - "But go we in, I pray thee, Jessica,"
+      - "And ceremoniously let us prepare"
+      - "Some welcome for the mistress of the house."
+    m:
+      - "No, he hasn’t, and we haven’t heard from him.—But let’s go in, Jessica. We’ll get ready to welcome the mistress of the house back home."
+
+  - os: "Enter LAUNCELOT the clown"
+    ms: "LAUNCELOT enters."
+
+  - sp: LAUNCELOT
+    o:
+      - "Sola, sola! Wo, ha, ho! Sola, sola!"
+    m:
+      - "Hey, hey! Hey! Yoo-hoo!"
+
+  - sp: LORENZO
+    o:
+      - "Who calls?"
+    m:
+      - "Who’s shouting?"
+
+  - sp: LAUNCELOT
+    o:
+      - "Sola! Did you see Master Lorenzo? Master Lorenzo, sola, sola!"
+    m:
+      - "Hey! Have you seen Master Lorenzo! Master Lorenzo, hey! Hey!"
+
+  - sp: LORENZO
+    o:
+      - "Leave holloaing, man. Here."
+    m:
+      - "Stop hollering, man! I’m here."
+
+  - sp: LAUNCELOT
+    o:
+      - "Sola! Where, where?"
+    m:
+      - "Hey! Where, where?"
+
+  - sp: LORENZO
+    o:
+      - "Here."
+    m:
+      - "Here."
+
+  - sp: LAUNCELOT
+    o:
+      - "Tell him there’s a post come from my master with his horn full of good news. My master will be here ere morning."
+    m:
+      - "Tell him a messenger has arrived from my master with good news. My master will be here in the morning."
+
+  - os: "Exit LAUNCELOT"
+    ms: "LAUNCELOT exits."
+
+  - sp: LORENZO
+    o:
+      - "Sweet soul, let’s in, and there expect their coming."
+      - "And yet no matter. Why should we go in?—"
+      - "My friend Stephano, signify, I pray you,"
+      - "Within the house, your mistress is at hand."
+      - "And bring your music forth into the air."
+    m:
+      - "My dear, let’s go inside and wait for them to arrive. But I guess it doesn’t matter. Why should we go in?—Stephano, tell the household staff that your mistress is about to arrive, and bring some musicians outside here."
+
+  - os: "Exit STEPHANO"
+    ms: "STEPHANO exits."
+
+  - o:
+      - "How sweet the moonlight sleeps upon this bank!"
+      - "Here will we sit and let the sounds of music"
+      - "Creep in our ears. Soft stillness and the night"
+      - "Become the touches of sweet harmony."
+      - "Sit, Jessica. Look how the floor of heaven"
+      - "Is thick inlaid with patens of bright gold."
+      - "There’s not the smallest orb which thou behold’st"
+      - "But in his motion like an angel sings,"
+      - "Still choiring to the young-eyed cherubins."
+      - "Such harmony is in immortal souls,"
+      - "But whilst this muddy vesture of decay"
+      - "Doth grossly close it in, we cannot hear it."
+    m:
+      - "How beautiful the moonlight’s shining on this bank! Let’s sit here and let the music fill our ears. Stillness and nighttime are perfect for beautiful music. Sit down, Jessica. Look at the stars, see how the floor of heaven is inlaid with small disks of bright gold. Stars and planets move in such perfect harmony that some believe you can hear music in their movement. If you believe this, even the smallest star sings like an angel in its motion. Souls have that same kind of harmony. But because we’re here on earth in our earthly bodies, we can’t hear it."
+
+  - os: "Enter musicians"
+    ms: "Musicians enter."
+
+  - o:
+      - "Come ho, and wake Diana with a hymn!"
+      - "With sweetest touches pierce your mistress’ ear,"
+      - "And draw her home with music."
+    m:
+      - "Wake up the moon goddess with a hymn! Get her attention and draw her home with music."
+
+  - os: "Play music"
+    ms: "Music plays."
+
+  - sp: JESSICA
+    o:
+      - "I am never merry when I hear sweet music."
+    m:
+      - "I’m never in the mood to laugh when I hear sweet music."
+
+  - sp: LORENZO
+    o:
+      - "The reason is your spirits are attentive."
+      - "For do but note a wild and wanton herd,"
+      - "Or race of youthful and unhandled colts,"
+      - "Fetching mad bounds, bellowing and neighing loud,"
+      - "Which is the hot condition of their blood—"
+      - "If they but hear perchance a trumpet sound,"
+      - "Or any air of music touch their ears,"
+      - "You shall perceive them make a mutual stand,"
+      - "Their savage eyes turned to a modest gaze"
+      - "By the sweet power of music."
+      - "    Therefore the poet"
+      - "Did feign that Orpheus drew trees, stones, and floods"
+      - "Since naught so stockish, hard, and full of rage,"
+      - "But music for the time doth change his nature."
+      - "The man that hath no music in himself,"
+      - "Nor is not moved with concord of sweet sounds,"
+      - "Is fit for treasons, stratagems, and spoils."
+      - "The motions of his spirit are dull as night,"
+      - "And his affections dark as Erebus."
+      - "Let no such man be trusted. Mark the music."
+    m:
+      - "That’s because your soul is paying attention to the music. Take a wild herd of animals, or young untrained colts, leaping around like crazy, roaring and neighing loudly, which they have to do because it’s in their blood—but if they happen to hear a trumpet, or any kind of music, they all stand still. Sweet music makes their wild eyes peaceful. That’s why the poet Ovid wrote that the great musician Orpheus could make trees, stones, and rivers come to him by playing music. There’s nothing in the world that can resist music. The man who can’t be moved by the harmonious melodies is fit only for treason, violence, and pillage. His soul is as dull as night and dark as the underworld. Nobody like that should be trusted. Pay attention to the music."
+
+  - os: "Enter PORTIA and NERISSA"
+    ms: "PORTIA and NERISSA enter."
+
+  - sp: PORTIA
+    o:
+      - "That light we see is burning in my hall."
+      - "How far that little candle throws his beams!"
+      - "So shines a good deed in a naughty world."
+    m:
+      - "That light we see is coming from my hall. Look how far that little candle sends its light! That’s the way a good deed shines in a naughty world."
+
+  - sp: NERISSA
+    o:
+      - "When the moon shone we did not see the candle."
+    m:
+      - "While the moon was shining we didn’t even notice the candle."
+
+  - sp: PORTIA
+    o:
+      - "So doth the greater glory dim the less."
+      - "A substitute shines brightly as a king"
+      - "Until a king be by, and then his state"
+      - "Empties itself, as doth an inland brook"
+      - "Into the main of waters. Music, hark."
+    m:
+      - "Well, brighter lights always dim the smaller ones. A governor shines as brightly as a king until a king is near by, and the governor suddenly looks like a nobody. Music, listen!"
+
+  - sp: NERISSA
+    o:
+      - "It is your music, madam, of the house."
+    m:
+      - "It’s your music, madam, from your house."
+
+  - sp: PORTIA
+    o:
+      - "Nothing is good, I see, without respect."
+      - "Methinks it sounds much sweeter than by day."
+    m:
+      - "Now I see that you can’t call anything good except in right context. I think that music sounds much better at night than it does during the day."
+
+  - sp: NERISSA
+    o:
+      - "Silence bestows that virtue on it, madam."
+    m:
+      - "The night’s silence makes it sound better."
+
+  - sp: PORTIA
+    o:
+      - "The crow doth sing as sweetly as the lark"
+      - "When neither is attended, and I think"
+      - "The nightingale, if she should sing by day"
+      - "When every goose is cackling, would be thought"
+      - "No better a musician than the wren."
+      - "How many things by season seasoned are"
+      - "To their right praise and true perfection!"
+      - "Peace! How the moon sleeps with Endymion"
+      - "And would not be awaked."
+    m:
+      - "The crow sings as well as the lark when no one’s listening. If the nightingale sang during the day, when every goose is honking, nobody would think it sang any better than a wren. How many things in life seem good to us because of when they happen! Quiet now! Look how the moon seems to be sleeping with its lover and can’t be awoken!"
+
+  - os: "Music ceases"
+    ms: "Music ceases."
+
+  - sp: LORENZO
+    o:
+      - "    That is the voice,"
+      - "Or I am much deceived, of Portia."
+    m:
+      - "If I’m not mistaken, that’s Portia’s voice."
+
+  - sp: PORTIA
+    o:
+      - "He knows me as the blind man knows the cuckoo—"
+      - "By the bad voice."
+    m:
+      - "He recognizes me like a blind man recognizes a cuckoo—by its bad voice."
+
+  - sp: LORENZO
+    o:
+      - "Dear lady, welcome home."
+    m:
+      - "Dear lady, welcome home."
+
+  - sp: PORTIA
+    o:
+      - "We have been praying for our husbands’ welfare,"
+      - "Which speed, we hope, the better for our words."
+      - "Are they returned?"
+    m:
+      - "We’ve been praying for our husbands’ welfare. We hope they’re better off because of our prayers. Have they come back?"
+
+  - sp: LORENZO
+    o:
+      - "  Madam, they are not yet,"
+      - "But there is come a messenger before"
+      - "To signify their coming."
+    m:
+      - "No, ma’am, they haven’t. But a messenger came ahead to tell us they were on their way."
+
+  - sp: PORTIA
+    o:
+      - "    Go in, Nerissa."
+      - "Give order to my servants that they take"
+      - "No note at all of our being absent hence.—"
+      - "Nor you, Lorenzo.—Jessica, nor you."
+    m:
+      - "Go inside, Nerissa. Tell my servants not to mention that we were gone. You must not, either, Lorenzo—or you, Jessica."
+
+  - os: "A tucket sounds"
+    ms: "A trumpet sounds."
+
+  - sp: LORENZO
+    o:
+      - "Your husband is at hand. I hear his trumpet."
+      - "We are no tell-tales, madam. Fear you not."
+    m:
+      - "Your husband’s near. I hear his trumpet. We’re not tattle-tales, madam, don’t worry."
+
+  - sp: PORTIA
+    o:
+      - "This night methinks is but the daylight sick."
+      - "It looks a little paler. ’Tis a day"
+      - "Such as the day is when the sun is hid."
+    m:
+      - "I think this night is just like sick daylight. It only looks a little paler. It looks like a day when the sun is hidden."
+
+  - os: "Enter BASSANIO, ANTONIO, GRATIANO, and their followers"
+    ms: "GRATIANO and NERISSA move aside and talk BASSANIO, ANTONIO, GRATIANO, and their followers enter. GRATIANO and NERISSA move aside and talk."
+
+  - sp: BASSANIO
+    o:
+      - "*(to PORTIA)* We should hold day with the Antipodes,"
+      - "If you would walk in absence of the sun."
+    m:
+      - "*(to PORTIA)* If you walked outside at night, it would be daylight here at the same time as on the other side of the world."
+
+  - sp: PORTIA
+    o:
+      - "Let me give light, but let me not be light."
+      - "For a light wife doth make a heavy husband,"
+      - "And never be Bassanio so for me."
+      - "But God sort all! You are welcome home, my lord."
+    m:
+      - "I’ll give light to men, but I’ll never be light or unchaste. An unfaithful wife makes a husband worry, and I’ll never let Bassanio worry if I can help it. I hope God figures it all out! Welcome home, my husband."
+
+  - sp: BASSANIO
+    o:
+      - "I thank you, madam. Give welcome to my friend."
+      - "This is the man, this is Antonio,"
+      - "To whom I am so infinitely bound."
+    m:
+      - "Thank you, darling. I’d like to introduce you to my friend. This is Antonio, my dearest friend. We are closely tied."
+
+  - sp: PORTIA
+    o:
+      - "You should in all sense be much bound to him."
+      - "For as I hear he was much bound for you."
+    m:
+      - "You should be tied to him, since he tied himself up so much for you."
+
+  - sp: ANTONIO
+    o:
+      - "No more than I am well acquitted of."
+    m:
+      - "But I’ve been paid back well."
+
+  - sp: PORTIA
+    o:
+      - "Sir, you are very welcome to our house."
+      - "It must appear in other ways than words,"
+      - "Therefore I scant this breathing courtesy."
+    m:
+      - "Sir, welcome to our house. But action speaks louder than words, so I’ll cut short these polite words."
+
+  - sp: GRATIANO
+    o:
+      - "*(to NERISSA)* By yonder moon I swear you do me wrong."
+      - "In faith, I gave it to the judge’s clerk."
+      - "Would he were gelt that had it, for my part,"
+      - "Since you do take it, love, so much at heart."
+    m:
+      - "*(to NERISSA)* I swear by that moon over there that you’re doing me wrong! I’m telling the truth! I gave it to the judge’s clerk. I wish the guy I gave it to had been castrated, since you’re getting so upset about it."
+
+  - sp: PORTIA
+    o:
+      - "A quarrel, ho, already? What’s the matter?"
+    m:
+      - "What, an argument already? What’s the matter?"
+
+  - sp: GRATIANO
+    o:
+      - "About a hoop of gold, a paltry ring"
+      - "That she did give me, whose posy was"
+      - "For all the world like cutler’s poetry"
+      - "Upon a knife, “Love me and leave me not.”"
+    m:
+      - "We’re arguing about a hoop of gold, a cheap little ring she gave me, that had a little inscription on it, nothing more than a knife-maker’s attempt at poetry. It said, “Love me and don’t leave me.”"
+
+  - sp: NERISSA
+    o:
+      - "What talk you of the posy or the value?"
+      - "You swore to me when I did give it you"
+      - "That you would wear it till your hour of death,"
+      - "And that it should lie with you in your grave."
+      - "Though not for me, yet for your vehement oaths,"
+      - "You should have been respective and have kept it."
+      - "Gave it a judge’s clerk! No, God’s my judge."
+      - "The clerk will ne’er wear hair on ’s face that had it."
+    m:
+      - "How can you talk about the quality of the poem or the value of the ring? You swore to me when I gave it to you that you would wear it till you died, and that it would be buried with you. If you didn’t want to take care of it for my sake, you should have just because you made so many vows that you’d take care of it. And now you claim you gave it to a judge’s clerk! No, I swear to God that clerk will never grow a beard on his face."
+
+  - sp: GRATIANO
+    o:
+      - "He will, an if he live to be a man."
+    m:
+      - "He will if he lives long enough to become a man."
+
+  - sp: NERISSA
+    o:
+      - "Ay, if a woman live to be a man."
+    m:
+      - "Yes, if a woman grows up to be a man."
+
+  - sp: GRATIANO
+    o:
+      - "Now, by this hand, I gave it to a youth,"
+      - "A kind of boy, a little scrubbèd boy"
+      - "No higher than thyself, the judge’s clerk,"
+      - "A prating boy that begged it as a fee."
+      - "I could not for my heart deny it him."
+    m:
+      - "I swear I gave it to a youth, a kind of boy, a little stunted boy, no taller than yourself. He was the judge’s clerk, a chatty boy who wanted it as a fee. I didn’t have the heart to say no to him."
+
+  - sp: PORTIA
+    o:
+      - "You were to blame, I must be plain with you,"
+      - "To part so slightly with your wife’s first gift,"
+      - "A thing stuck on with oaths upon your finger"
+      - "And so riveted with faith unto your flesh."
+      - "I gave my love a ring and made him swear"
+      - "Never to part with it. And here he stands."
+      - "I dare be sworn for him he would not leave it"
+      - "Nor pluck it from his finger for the wealth"
+      - "That the world masters. Now in faith, Gratiano,"
+      - "You give your wife too unkind a cause of grief."
+      - "An ’twere to me, I should be mad at it."
+    m:
+      - "I have to be honest with you. You were wrong to give away your wife’s first gift so thoughtlessly, a thing you swore to keep on your finger and bound faithfully to your body. I gave my lover a ring and made him swear never to lose it or give it away. And here he is. I’d swear he wouldn’t leave it behind, or even take it off his finger, for all the money in the world. To tell the truth, Gratiano, you’re giving your wife a valid reason to get upset. If it were me, I’d be very upset too."
+
+  - sp: BASSANIO
+    o:
+      - "*(aside)* Why, I were best to cut my left hand off"
+      - "And swear I lost the ring defending it."
+    m:
+      - "*(to himself)* Maybe I should cut off my left hand and swear I lost the ring defending it."
+
+  - sp: GRATIANO
+    o:
+      - "My Lord Bassanio gave his ring away"
+      - "Unto the judge that begged it and indeed"
+      - "Deserved it too. And then the boy, his clerk,"
+      - "That took some pains in writing, he begged mine."
+      - "And neither man nor master would take aught"
+      - "But the two rings."
+    m:
+      - "Bassanio gave his ring to the judge who asked for it, and deserved it too. And then his clerk, who went to a lot of trouble with the writing, begged for mine. Neither of them would take anything but the two rings."
+
+  - sp: PORTIA
+    o:
+      - "  What ring gave you my lord?"
+      - "Not that, I hope, which you received of me."
+    m:
+      - "Which ring did you give away, my lord? Not the one I gave you, I hope."
+
+  - sp: BASSANIO
+    o:
+      - "If I could add a lie unto a fault"
+      - "I would deny it. but you see my finger"
+      - "Hath not the ring upon it. It is gone."
+    m:
+      - "If I could make things better by lying, I’d deny it. But you see my finger doesn’t have the ring on it. It’s gone."
+
+  - sp: PORTIA
+    o:
+      - "Even so void is your false heart of truth."
+      - "By heaven, I will ne’er come in your bed"
+      - "Until I see the ring."
+    m:
+      - "Just as there’s no ring on your finger, there’s no truth in your heart. I swear I’ll never get into your bed until I see the ring again!"
+
+  - sp: NERISSA
+    o:
+      - "*(to GRATIANO)*"
+      - "  Nor I in yours"
+      - "Till I again see mine."
+    m:
+      - "*(to GRATIANO)* Me neither, until I see mine again!"
+
+  - sp: BASSANIO
+    o:
+      - "    Sweet Portia,"
+      - "If you did know to whom I gave the ring,"
+      - "If you did know for whom I gave the ring,"
+      - "And would conceive for what I gave the ring,"
+      - "And how unwillingly I left the ring"
+      - "When naught would be accepted but the ring,"
+      - "You would abate the strength of your displeasure."
+    m:
+      - "My dear Portia, if you knew who I gave the ring to, for whose sake I gave the ring to him, why I gave it to him, and how unwilling I was to leave it when he wouldn’t accept anything but the ring, you wouldn’t be so angry."
+
+  - sp: PORTIA
+    o:
+      - "If you had known the virtue of the ring,"
+      - "Or half her worthiness that gave the ring,"
+      - "Or your own honor to contain the ring,"
+      - "You would not then have parted with the ring."
+      - "What man is there so much unreasonable,"
+      - "If you had pleased to have defended it"
+      - "With any terms of zeal, wanted the modesty"
+      - "To urge the thing held as a ceremony?"
+      - "Nerissa teaches me what to believe."
+      - "I’ll die for ’t but some woman had the ring."
+    m:
+      - "If you’d known how much that ring meant, how much the woman who gave it to you is worth, or how much your honor depended on your keeping the ring, you wouldn’t have let it go. Who would be so unreasonable as to insist on taking the ring if you’d defended it with any kind of zeal? Who would have had so little self-restraint that they’d insist on getting a ring with ceremonial value? Nerissa’s got the right idea. I’ll bet my life you gave some woman the ring!"
+
+  - sp: BASSANIO
+    o:
+      - "No, by my honor, madam, by my soul,"
+      - "No woman had it but a civil doctor,"
+      - "Which did refuse three thousand ducats of me"
+      - "And begged the ring, the which I did deny him"
+      - "And suffered him to go displeased away—"
+      - "Even he that did uphold the very life"
+      - "Of my dear friend. What should I say, sweet lady?"
+      - "I was enforced to send it after him."
+      - "I was beset with shame and courtesy."
+      - "My honor would not let ingratitude"
+      - "So much besmear it. Pardon me, good lady,"
+      - "For by these blessèd candles of the night,"
+      - "Had you been there I think you would have begged"
+      - "The ring of me to give the worthy doctor."
+    m:
+      - "No, I swear, madam. No woman got it from me, but an expert in civil law who refused three thousand ducats but asked instead for the ring, which I denied him. I watched him leave looking discontented, even though he had saved the life of my good friend. What could I say, my dear? I had to send it to him. I was ashamed and wanted to show my good manners. I just couldn’t dishonor myself by acting ungrateful to him. Please forgive me, good lady. If you’d been there, I think you would have begged me to give him the ring."
+
+  - sp: PORTIA
+    o:
+      - "Let not that doctor e’er come near my house!"
+      - "Since he hath got the jewel that I loved,"
+      - "And that which you did swear to keep for me,"
+      - "I will become as liberal as you."
+      - "I’ll not deny him anything I have,"
+      - "No, not my body, nor my husband’s bed."
+      - "Know him I shall, I am well sure of it."
+      - "Lie not a night from home. Watch me like Argus."
+      - "If you do not, if I be left alone,"
+      - "Now, by mine honor—which is yet mine own—"
+      - "I’ll have that doctor for my bedfellow."
+    m:
+      - "Don’t let that lawyer ever come near my house! Since he has the jewel I loved, which you swore you’d keep forever, I’ll be as generous as you were to him. I won’t deny him anything of mine, including my own body and my husband’s bed. I’ll recognize him all right, I’m sure of it. So don’t spend one night away from this house. Watch me like a hawk. If you don’t, if I’m left alone, I swear I’ll have that legal expert as my bedfellow."
+
+  - sp: NERISSA
+    o:
+      - "*(to GRATIANO)* And I his clerk. Therefore be well advised"
+      - "How you do leave me to mine own protection."
+    m:
+      - "*(to GRATIANO)* And I’ll have his clerk as mine. So be careful when you leave me to my own devices."
+
+  - sp: GRATIANO
+    o:
+      - "Well, do you so, let not me take him then."
+      - "For if I do I’ll mar the young clerk’s pen."
+    m:
+      - "Well, go ahead. But don’t let me catch him, because if I do I’ll break that clerk’s pen."
+
+  - sp: ANTONIO
+    o:
+      - "I am th’ unhappy subject of these quarrels."
+    m:
+      - "All these quarrels are about me."
+
+  - sp: PORTIA
+    o:
+      - "Sir, grieve not you. You are welcome notwithstanding."
+    m:
+      - "Don’t be upset. You’re welcome in our home in spite of everything that’s going on."
+
+  - sp: BASSANIO
+    o:
+      - "Portia, forgive me this enforcèd wrong,"
+      - "And in the hearing of these many friends"
+      - "I swear to thee, even by thine own fair eyes"
+      - "Wherein I see myself—"
+    m:
+      - "Portia, forgive me for this mistake that I had to make. All these friends are my witnesses, so I swear to you, I swear by your beautiful eyes, in which I see myself reflected—"
+
+  - sp: PORTIA
+    o:
+      - "    Mark you but that!"
+      - "In both my eyes he doubly sees himself—"
+      - "In each eye, one. Swear by your double self,"
+      - "And there’s an oath of credit!"
+    m:
+      - "Did you hear that! He sees himself in my two eyes, so there’s two of him. He should swear by his two-faced self, and that’s an oath I’ll believe!"
+
+  - sp: BASSANIO
+    o:
+      - "    Nay, but hear me."
+      - "Pardon this fault, and by my soul I swear"
+      - "I never more will break an oath with thee."
+    m:
+      - "No, just listen to me. If you forgive my mistake, I swear I’ll never break an oath with you again."
+
+  - sp: ANTONIO
+    o:
+      - "I once did lend my body for his wealth,"
+      - "Which but for him that had your husband’s ring"
+      - "Had quite miscarried. I dare be bound again,"
+      - "My soul upon the forfeit, that your lord"
+      - "Will never more break faith advisedly."
+    m:
+      - "I lent my body once to make him rich. If it hadn’t been for the gentleman who now owns your husband’s ring, my body would’ve been lost. I’d be the guarantee again, promising my soul this time as penalty, if your husband ever breaks a vow again knowingly."
+
+  - sp: PORTIA
+    o:
+      - "*(giving ANTONIO a ring)*"
+      - "Then you shall be his surety. Give him this,"
+      - "And bid him keep it better than the other."
+    m:
+      - "*(she gives ANTONIO a ring)* Then you’ll be my guarantee. Give him this. And tell him to hold on to it better than the other one."
+
+  - sp: ANTONIO
+    o:
+      - "*(giving BASSANIO PORTIA’s ring)*"
+      - "Here, Lord Bassanio. Swear to keep this ring."
+    m:
+      - "*(he gives BASSANIO PORTIA’s ring)* Here, Bassanio, swear that you’ll keep this ring."
+
+  - sp: BASSANIO
+    o:
+      - "By heaven, it is the same I gave the doctor!"
+    m:
+      - "My God, it’s the same one I gave the judge!"
+
+  - sp: PORTIA
+    o:
+      - "I had it of him. Pardon me, Bassanio,"
+      - "For by this ring, the doctor lay with me."
+    m:
+      - "I got it from him. I’m sorry, Bassanio, but the legal expert slept with me in exchange for this ring."
+
+  - sp: NERISSA
+    o:
+      - "*(taking out a ring)*"
+      - "And pardon me, my gentle Gratiano,"
+      - "For that same scrubbèd boy, the doctor’s clerk,"
+      - "In lieu of this, last night did lie with me."
+    m:
+      - "*(she takes out a ring)* And I’m sorry too, Gratiano, but that stunted lawyer’s clerk slept with me last night in exchange for this ring."
+
+  - sp: GRATIANO
+    o:
+      - "Why, this is like the mending of highways"
+      - "In summer where the ways are fair enough!"
+      - "What, are we cuckolds ere we have deserved it?"
+    m:
+      - "This is like fixing roads in the summer when they don’t need to be fixed! What, did you cheat on us before we deserved it?"
+
+  - sp: PORTIA
+    o:
+      - "Speak not so grossly.—You are all amazed."
+      - "*(takes out a letter)*"
+      - "Here is a letter. Read it at your leisure."
+      - "It comes from Padua, from Bellario."
+      - "There you shall find that Portia was the doctor,"
+      - "Nerissa there her clerk. Lorenzo here"
+      - "Shall witness I set forth as soon as you,"
+      - "And even but now returned. I have not yet"
+      - "Entered my house.—Antonio, you are welcome."
+      - "And I have better news in store for you"
+      - "Than you expect."
+      - "*(gives ANTONIO another letter)*"
+      - "  Unseal this letter soon."
+      - "There you shall find three of your argosies"
+      - "Are richly come to harbor suddenly."
+      - "You shall not know by what strange accident"
+      - "I chancèd on this letter."
+    m:
+      - "Don’t be crass.—You all look confused. *(she takes out a letter)* Here’s a letter. Read it at your leisure. It comes from Padua, from Bellario. You’ll find out that Portia was the lawyer, and Nerissa was her clerk. Lorenzo here will testify that I left the house right when you did, and just returned. I haven’t yet entered my house.—Antonio, welcome. I have better news than you expect in store for you. *(she gives ANTONIO another letter)* Open this letter. You’ll find out that three of your ships have suddenly arrived in the harbor loaded with a great deal of wealth. You’ll never guess what a strange coincidence it was that I came across this letter."
+
+  - sp: ANTONIO
+    o:
+      - "I am dumb."
+    m:
+      - "I’m speechless."
+
+  - sp: BASSANIO
+    o:
+      - "*(to PORTIA)* Were you the doctor and I knew you not?"
+    m:
+      - "*(to PORTIA)* You were the doctor, and I didn’t even recognize you?"
+
+  - sp: GRATIANO
+    o:
+      - "*(to NERISSA)* Were you the clerk that is to make me cuckold?"
+    m:
+      - "*(to NERISSA)* Were you the clerk with whom my wife’s going to cheat on me?"
+
+  - sp: NERISSA
+    o:
+      - "Ay, but the clerk that never means to do it"
+      - "Unless he live until he be a man."
+    m:
+      - "Yes, but the clerk will never do it, unless he grows up to be a man."
+
+  - sp: BASSANIO
+    o:
+      - "*(to PORTIA)* Sweet doctor, you shall be my bedfellow."
+      - "When I am absent then lie with my wife."
+    m:
+      - "*(to PORTIA)* My sweet lawyer, you’ll be my bedfellow. When I’m not there, you can sleep with my wife."
+
+  - sp: ANTONIO
+    o:
+      - "Sweet lady, you have given me life and living."
+      - "For here I read for certain that my ships"
+      - "Are safely come to road."
+    m:
+      - "Madam, you’ve given me life and given me a living too. I’ve read in this letter that my ships have safely come to harbor."
+
+  - sp: PORTIA
+    o:
+      - "How now, Lorenzo?"
+      - "My clerk hath some good comforts too for you."
+    m:
+      - "How are you, Lorenzo? My clerk has some comforting news for you, too."
+
+  - sp: NERISSA
+    o:
+      - "Ay, and I’ll give them him without a fee."
+      - "*(gives LORENZO a document)*"
+      - "There do I give to you and Jessica,"
+      - "From the rich Jew, a special deed of gift,"
+      - "After his death of all he dies possessed of."
+    m:
+      - "Yes, and I’ll give it to him for free. *(she gives LORENZO a document)* This is from the rich Jew, for you and Jessica. It’s a special testament. After he dies, you’ll inherit everything he owns."
+
+  - sp: LORENZO
+    o:
+      - "Fair ladies, you drop manna in the way"
+      - "Of starvèd people."
+    m:
+      - "Ladies, you’re dropping bread from the heavens to starving people."
+
+  - sp: PORTIA
+    o:
+      - "    It is almost morning,"
+      - "And yet I am sure you are not satisfied"
+      - "Of these events at full. Let us go in,"
+      - "And charge us there upon interr’gatories,"
+      - "And we will answer all things faithfully."
+    m:
+      - "It’s almost morning, but I’m sure you’re not fully satisfied about what happened. Let’s go inside and we’ll answer all your questions truthfully."
+
+  - sp: GRATIANO
+    o:
+      - "Let it be so. The first interr’gatory"
+      - "That my Nerissa shall be sworn on is"
+      - "Whether till the next night she had rather stay,"
+      - "Or go to bed now, being two hours to day."
+      - "But were the day come, I should wish it dark,"
+      - "That I were couching with the doctor’s clerk."
+      - "Well, while I live I’ll fear no other thing"
+      - "So sore as keeping safe Nerissa’s ring."
+    m:
+      - "All right, then. My first question for Nerissa is whether she’d rather wait till tomorrow night or go to bed now, since there are only two more hours till morning. When the day comes, I’ll wish it were nighttime, so I could sleep with the legal expert’s clerk. In any case, I won’t worry about anything for the rest of my life more than keeping Nerissa’s ring safe."
+
+  - os: "Exeunt"
+    ms: "They exit."

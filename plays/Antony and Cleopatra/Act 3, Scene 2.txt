@@ -1,0 +1,306 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 2
+group: 3
+order: 13
+text:
+  - os: "Enter AGRIPPA at one door, ENOBARBUS at another"
+    ms: "AGRIPPA enters through one door and ENOBARBUS enters through another."
+
+  - sp: AGRIPPA
+    o:
+      - "What, are the brothers parted?"
+    m:
+      - "Did the brothers-in-law leave?"
+
+  - sp: ENOBARBUS
+    o:
+      - "They have dispatched with Pompey; he is gone."
+      - "The other three are sealing. Octavia weeps"
+      - "To part from Rome. Caesar is sad, and Lepidus,"
+      - "Since Pompey’s feast, as Menas says, is troubled"
+      - "With the greensickness."
+    m:
+      - "They finished their business with Pompey, and Pompey has left. Now the three triumvirs are putting their official seals on the treaty. Octavia weeps at the thought of leaving Rome. Caesar is in a sober mood. And Menas reports that Lepidus has been hungover since Pompey’s party."
+
+  - sp: AGRIPPA
+    o:
+      - "    ’Tis a noble Lepidus."
+    m:
+      - "That Lepidus is an elegant man."
+
+  - sp: ENOBARBUS
+    o:
+      - "A very fine one. Oh, how he loves Caesar!"
+    m:
+      - "He’s a stylish man. And how he loves Caesar!"
+
+  - sp: AGRIPPA
+    o:
+      - "Nay, but how dearly he adores Mark Antony!"
+    m:
+      - "Yes, but how he adores Mark Antony!"
+
+  - sp: ENOBARBUS
+    o:
+      - "Caesar? Why, he’s the Jupiter of men."
+    m:
+      - "Caesar? He’s a god of a man."
+
+  - sp: AGRIPPA
+    o:
+      - "What’s Antony? The god of Jupiter."
+    m:
+      - "Then what’s Antony? A god of a god?"
+
+  - sp: ENOBARBUS
+    o:
+      - "Spake you of Caesar? How, the nonpareil!"
+    m:
+      - "Are you talking about Caesar? He’s without equal!"
+
+  - sp: AGRIPPA
+    o:
+      - "O Antony, O thou Arabian bird!"
+    m:
+      - "Oh, Antony! Oh, you phoenix!"
+
+  - sp: ENOBARBUS
+    o:
+      - "Would you praise Caesar, say “Caesar.” Go no further."
+    m:
+      - "If you want to praise Caesar, just say his name—that’s all the praise that’s necessary."
+
+  - sp: AGRIPPA
+    o:
+      - "Indeed, he plied them both with excellent praises."
+    m:
+      - "He certainly flattered them both with extravagant compliments."
+
+  - sp: ENOBARBUS
+    o:
+      - "But he loves Caesar best; yet he loves Antony."
+      - "Hoo! Hearts, tongues, figures, scribes, bards, poets, cannot"
+      - "Think, speak, cast, write, sing, number—hoo!—"
+      - "His love to Antony. But as for Caesar,"
+      - "Kneel down, kneel down, and wonder."
+    m:
+      - "He loves Caesar best, but he also loves Antony. Oh! No one can describe or fathom Lepidus’ love for Antony! Hearts cannot think it, tongues cannot speak it, meas-urements cannot calculate it, scribes cannot write it, bards cannot sing it, and poets cannot make verses about it. But when it comes to Caesar, Lepidus’ love approaches the awestruck wonder of a worshipper."
+
+  - sp: AGRIPPA
+    o:
+      - "    Both he loves."
+    m:
+      - "He loves them both."
+
+  - sp: ENOBARBUS
+    o:
+      - "They are his shards, and he their beetle."
+    m:
+      - "They are his dung, and he their beetle."
+
+  - os: "Trumpets within"
+    ms: "Trumpets sound."
+
+  - o:
+      - "    So,"
+      - "This is to horse. Adieu, noble Agrippa."
+    m:
+      - "So, there’s the signal to ride. Good-bye, noble Agrippa."
+
+  - sp: AGRIPPA
+    o:
+      - "Good fortune, worthy soldier, and farewell."
+    m:
+      - "Good luck, worthy soldier, and good-bye."
+
+  - os: "Enter CAESAR, ANTONY, LEPIDUS, and OCTAVIA"
+    ms: "CAESAR, ANTONY, LEPIDUS, and OCTAVIA enter."
+
+  - sp: ANTONY
+    o:
+      - "No further, sir."
+    m:
+      - "You can’t go any further with us, sir."
+
+  - sp: CAESAR
+    o:
+      - "You take from me a great part of myself;"
+      - "Use me well in ’t.—Sister, prove such a wife"
+      - "As my thoughts make thee, and as my farthest bond"
+      - "Shall pass on thy approof.—Most noble Antony,"
+      - "Let not the piece of virtue, which is set"
+      - "Betwixt us as the cement of our love,"
+      - "To keep it builded, be the ram to batter"
+      - "The fortress of it. For better might we"
+      - "Have loved without this mean, if on both parts"
+      - "This be not cherished."
+    m:
+      - "You take an important part of myself with you. Treat it well . . . . Sister, be the kind of wife I hope you will be, and that this great contract rests upon your being . . . Gracious Antony, don’t let my sister, this epitome of virtue that connects us, become the reason we separate. If you and I don’t value her equally, it would be better for us to work out our differences without her."
+
+  - sp: ANTONY
+    o:
+      - "    Make me not offended In your distrust."
+    m:
+      - "Don’t insult me with your distrust."
+
+  - sp: CAESAR
+    o:
+      - "    I have said."
+    m:
+      - "I mean what I say."
+
+  - sp: ANTONY
+    o:
+      - "    You shall not find,"
+      - "Though you be therein curious, the least cause"
+      - "For what you seem to fear. So the gods keep you"
+      - "And make the hearts of Romans serve your ends."
+      - "We will here part."
+    m:
+      - "You won’t find any cause for anxiety, even if you look for one. So, may the gods protect you and change the hearts of the Romans so that they turn and give you their support. We’ll leave you here."
+
+  - sp: CAESAR
+    o:
+      - "Farewell, my dearest sister, fare thee well."
+      - "The elements be kind to thee and make"
+      - "Thy spirits all of comfort! Fare thee well."
+    m:
+      - "Good-bye, my dearest sister, good-bye. I hope you have good weather to set your mind at ease. Farewell."
+
+  - sp: OCTAVIA
+    o:
+      - "My noble brother!"
+    m:
+      - "My noble brother!"
+
+  - os: "*She weeps*"
+    ms: "She begins to cry."
+
+  - sp: ANTONY
+    o:
+      - "The April’s in her eyes; it is love’s spring,"
+      - "And these the showers to bring it on. *(to OCTAVIA)* Be cheerful."
+    m:
+      - "Her eyes are like April: full of showers. But they’ll flower into love.*(to OCTAVIA)* Be cheerful."
+
+  - sp: OCTAVIA
+    o:
+      - "*(to CAESAR)* Sir, look well to my husband’s house, and—"
+    m:
+      - "*(to CAESAR)* Take care of my former husband’s property, and—"
+
+  - sp: CAESAR
+    o:
+      - "What, Octavia?"
+    m:
+      - "What is it, Octavia?"
+
+  - sp: OCTAVIA
+    o:
+      - "    I’ll tell you in your ear."
+    m:
+      - "I’ll tell you privately."
+
+  - os: "*She and* CAESAR*walk aside*"
+    ms: "She and CAESAR move apart from the group, and she whispers to him."
+
+  - sp: ANTONY
+    o:
+      - "Her tongue will not obey her heart, nor can"
+      - "Her heart inform her tongue—the swan’s-down feather"
+      - "That stands upon the swell at the full of tide"
+      - "And neither way inclines."
+    m:
+      - "She won’t say what she’s feeling, and she can’t understand her feelings. She’s balanced uneasily, like a feather on the swell of a great wave—she won’t move, even though her situation is about to change."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside to AGRIPPA)* Will Caesar weep?"
+    m:
+      - "*(aside to AGRIPPA)* Do you think Caesar will cry?"
+
+  - sp: AGRIPPA
+    o:
+      - "*(aside to ENOBARBUS)* He has a cloud in ’s face."
+    m:
+      - "*(aside to ENOBARBUS)* He does look like it."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside to AGRIPPA)* He were the worse for that, were he a horse;"
+      - "So is he, being a man."
+    m:
+      - "*(aside to AGRIPPA)* If he were a horse, watery eyes would lower his value. Men aren’t supposed to cry, either."
+
+  - sp: AGRIPPA
+    o:
+      - "*(aside to ENOBARBUS)* Why, Enobarbus,"
+      - "When Antony found Julius Caesar dead,"
+      - "He cried almost to roaring, and he wept"
+      - "When at Philippi he found Brutus slain."
+    m:
+      - "*(aside to ENOBARBUS)* Why, Enobarbus, when Antony saw that Julius Caesar was dead, he cried terribly. And he wept when he found that Brutus had been killed at Philippi."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(aside to AGRIPPA)* That year indeed he was troubled with a rheum."
+      - "What willingly he did confound he wailed,"
+      - "Believe ’t, till I wept too."
+    m:
+      - "*(aside to AGRIPPA)* He certainly did have rheumy eyes that year. Whenever he had to kill, he cried—it’s true!—until I cried too."
+
+  - sp: CAESAR
+    o:
+      - "*(coming forward with OCTAVIA)* No, sweet Octavia,"
+      - "You shall hear from me still. The time shall not"
+      - "Outgo my thinking on you."
+    m:
+      - "*(returning with OCTAVIA)* Don’t worry, sweet Octavia, I’ll always write to you, and I’ll think about you all the time."
+
+  - sp: ANTONY
+    o:
+      - "    Come, sir, come,"
+      - "I’ll wrestle with you in my strength of love."
+      - "Look, here I have you."
+    m:
+      - "Come here, sir. I’ll wrestle with you out of love. See, now I have you."
+
+  - os: "Embraces him"
+    ms: "They embrace."
+
+  - o:
+      - "    Thus I let you go"
+      - "And give you to the gods."
+    m:
+      - "And thus I let you go and give you to the gods."
+
+  - sp: CAESAR
+    o:
+      - "    Adieu. Be happy."
+    m:
+      - "Good-bye. Be happy."
+
+  - sp: LEPIDUS
+    o:
+      - "*(to ANTONY)* Let all the number of the stars give light"
+      - "To thy fair way."
+    m:
+      - "*(to ANTONY)* May every star light your path."
+
+  - sp: CAESAR
+    o:
+      - "    Farewell, farewell."
+    m:
+      - "Farewell, farewell."
+
+  - os: "Kisses OCTAVIA"
+    ms: "He kisses OCTAVIA."
+
+  - sp: ANTONY
+    o:
+      - "    Farewell."
+    m:
+      - "Farewell."
+
+  - os: "Trumpets sound. Exeunt"
+    ms: "Trumpets sound a fanfare as they exit."

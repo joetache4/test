@@ -1,0 +1,565 @@
+play: Two Gentlemen of Verona
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter JULIA and LUCETTA"
+    ms: "JULIA and LUCETTA enter."
+
+  - sp: JULIA
+    o:
+      - "But say, Lucetta, now we are alone,"
+      - "Wouldst thou then counsel me to fall in love?"
+    m:
+      - "Now that we’re alone, tell me, Lucetta, would you recommend that I fall in love?"
+
+  - sp: LUCETTA
+    o:
+      - "Ay, madam, so you stumble not unheedfully."
+    m:
+      - "Yes, madam, so you stumble into it on purpose."
+
+  - sp: JULIA
+    o:
+      - "Of all the fair resort of gentlemen"
+      - "That every day with parle encounter me,"
+      - "In thy opinion which is worthiest love?"
+    m:
+      - "Of all the attractive gentlemen that speak with me daily, which do you think would be best to love?"
+
+  - sp: LUCETTA
+    o:
+      - "Please you repeat their names, I’ll show my mind"
+      - "According to my shallow simple skill."
+    m:
+      - "Please tell me their names again, and I’ll tell you my opinion about them as best I can."
+
+  - sp: JULIA
+    o:
+      - "What think’st thou of the fair Sir Eglamour?"
+    m:
+      - "What do you think of the attractive Sir Eglamour?"
+
+  - sp: LUCETTA
+    o:
+      - "As of a knight well-spoken, neat, and fine;"
+      - "But, were I you, he never should be mine."
+    m:
+      - "As a knight, he’s well spoken, elegant, and fine. But if I were you, I wouldn’t fall in love with him."
+
+  - sp: JULIA
+    o:
+      - "What think’st thou of the rich Mercatio?"
+    m:
+      - "What do you think of Mercatio, who is rich?"
+
+  - sp: LUCETTA
+    o:
+      - "Well of his wealth, but of himself, so-so."
+    m:
+      - "I like his money a lot, but him only so-so."
+
+  - sp: JULIA
+    o:
+      - "What think’st thou of the gentle Proteus?"
+    m:
+      - "What do you think of kind Proteus?"
+
+  - sp: LUCETTA
+    o:
+      - "Lord, Lord, to see what folly reigns in us!"
+    m:
+      - "Good Lord, how foolish people are!"
+
+  - sp: JULIA
+    o:
+      - "How now? What means this passion at his name?"
+    m:
+      - "What’s that for? Why this outburst at his name?"
+
+  - sp: LUCETTA
+    o:
+      - "Pardon, dear madam, ’tis a passing shame"
+      - "That I, unworthy body as I am,"
+      - "Should censure thus on lovely gentlemen."
+    m:
+      - "Pardon me, dear madam, it’s inexcusable that I, the unworthy servant that I am, should criticize such lovely gentlemen."
+
+  - sp: JULIA
+    o:
+      - "Why not on Proteus, as of all the rest?"
+    m:
+      - "Why don’t you think well of Proteus out of all the rest?"
+
+  - sp: LUCETTA
+    o:
+      - "Then thus, of many good I think him best."
+    m:
+      - "Fine then—of all the good men, I think Proteus is best."
+
+  - sp: JULIA
+    o:
+      - "Your reason?"
+    m:
+      - "What’s your reason?"
+
+  - sp: LUCETTA
+    o:
+      - "I have no other but a woman’s reason;"
+      - "I think him so because I think him so."
+    m:
+      - "I have no other reason than a woman’s intuition: I think he’s the best simply because I do."
+
+  - sp: JULIA
+    o:
+      - "And wouldst thou have me cast my love on him?"
+    m:
+      - "And would you have me throw my love at him?"
+
+  - sp: LUCETTA
+    o:
+      - "Ay, if you thought your love not cast away."
+    m:
+      - "Yes, if you thought your love wouldn’t be thrown away."
+
+  - sp: JULIA
+    o:
+      - "Why, he of all the rest hath never moved me."
+    m:
+      - "But, of all the others, he has never proposed to me."
+
+  - sp: LUCETTA
+    o:
+      - "Yet he of all the rest I think best loves ye."
+    m:
+      - "Yet, of all the others, I think he loves you the most."
+
+  - sp: JULIA
+    o:
+      - "His little speaking shows his love but small."
+    m:
+      - "The fact that he doesn’t say much to me shows he doesn’t love me much."
+
+  - sp: LUCETTA
+    o:
+      - "Fire that’s closest kept burns most of all."
+    m:
+      - "Fire that’s most enclosed burns most of all."
+
+  - sp: JULIA
+    o:
+      - "They do not love that do not show their love."
+    m:
+      - "Those who don’t show their love don’t love at all."
+
+  - sp: LUCETTA
+    o:
+      - "O, they love least that let men know their love."
+    m:
+      - "Oh, those who tell others of their love love the least of all."
+
+  - sp: JULIA
+    o:
+      - "I would I knew his mind."
+    m:
+      - "I wish I knew how he felt."
+
+  - sp: LUCETTA
+    o:
+      - "*(Giving a letter)* Peruse this paper, madam."
+    m:
+      - "*(giving her a letter)* Read this paper, madam."
+
+  - sp: JULIA
+    o:
+      - "“To Julia.” Say, from whom?"
+    m:
+      - "“To Julia.” Tell me, who’s it from?"
+
+  - sp: LUCETTA
+    o:
+      - "That the contents will show."
+    m:
+      - "The letter will say."
+
+  - sp: JULIA
+    o:
+      - "Say, say, who gave it thee?"
+    m:
+      - "Tell me, who gave it to you?"
+
+  - sp: LUCETTA
+    o:
+      - "Sir Valentine’s page; and sent, I think, from Proteus."
+      - "He would have given it you, but I, being in the way,"
+      - "Did in your name receive it. Pardon the fault, I pray."
+    m:
+      - "Sir Valentine’s servant, but I think it was sent from Proteus. He would have given it to you himself, but I ran into him first and took it in your name. Please forgive me."
+
+  - sp: JULIA
+    o:
+      - "Now, by my modesty, a goodly broker!"
+      - "Dare you presume to harbor wanton lines?"
+      - "To whisper and conspire against my youth?"
+      - "Now trust me, ’tis an office of great worth,"
+      - "And you an officer fit for the place."
+      - "There, take the paper. See it be returned,"
+      - "Or else return no more into my sight. *(Giving the letter back)*"
+    m:
+      - "Well, you’re a fine go-between! Do you dare receive love letters, and to whisper and conspire against me because of my lack of experience? Trust me, it’s an important job, and you’re just the kind of person for it. There, take the letter. See that it’s returned, or else don’t let me see you again. *(giving the letter back)*"
+
+  - sp: LUCETTA
+    o:
+      - "To plead for love deserves more fee than hate."
+    m:
+      - "A request for your love deserves more in return than your hatred."
+
+  - sp: JULIA
+    o:
+      - "Will ye be gone?"
+    m:
+      - "Will you get going?"
+
+  - sp: LUCETTA
+    o:
+      - "That you may ruminate."
+    m:
+      - "Just think about it."
+
+  - os: "Exit"
+    ms: "LUCETTA exits."
+
+  - sp: JULIA
+    o:
+      - "And yet I would I had o’erlooked the letter."
+      - "It were a shame to call her back again"
+      - "And pray her to a fault for which I chid her."
+      - "What fool is she, that knows I am a maid"
+      - "And would not force the letter to my view!"
+      - "Since maids, in modesty, say no to that"
+      - "Which they would have the profferer construe ay."
+      - "Fie, fie, how wayward is this foolish love"
+      - "That, like a testy babe, will scratch the nurse"
+      - "And presently, all humbled, kiss the rod!"
+      - "How churlishly I chid Lucetta hence,"
+      - "When willingly I would have had her here!"
+      - "How angerly I taught my brow to frown,"
+      - "When inward joy enforced my heart to smile!"
+      - "My penance is to call Lucetta back"
+      - "And ask remission for my folly past."
+      - "What ho! Lucetta!"
+    m:
+      - "Then again, I wish I had read the letter. It would be embarrassing to call her back again and do the very thing I chided her for. How foolish she is, since she knows I’m a single girl but still wouldn’t make me read it! Out of modesty girls say “no” when they wish the giver would construe it as “yes.” How difficult this foolish thing called love is, like a cranky baby that will scratch its nurse and then immediately after show affection. How rudely I scolded Lucetta, when really I wanted her here. I’ve taught myself to appear angry even when my heart smiles with joy! My punishment is to call Lucetta back and ask forgiveness for my mistake. Hey, Lucetta!"
+
+  - os: "Enter LUCETTA"
+    ms: "LUCETTA enters."
+
+  - sp: LUCETTA
+    o:
+      - "What would your ladyship?"
+    m:
+      - "What would you like, my lady?"
+
+  - sp: JULIA
+    o:
+      - "Is ’t near dinner time?"
+    m:
+      - "Is it almost dinnertime?"
+
+  - sp: LUCETTA
+    o:
+      - "I would it were,"
+      - "That you might kill your stomach on your meat"
+      - "And not upon your maid."
+    m:
+      - "I wish it were, so that you could chew on your food instead of your servant."
+
+  - os: " "
+    ms: "She drops the letter and stoops to pick it up."
+
+  - sp: JULIA
+    o:
+      - "What is ’t that you took up so gingerly?"
+    m:
+      - "What is that that you picked up so carefully?"
+
+  - sp: LUCETTA
+    o:
+      - "Nothing."
+    m:
+      - "Nothing."
+
+  - sp: JULIA
+    o:
+      - "Why didst thou stoop, then?"
+    m:
+      - "Why did you bend over, then?"
+
+  - sp: LUCETTA
+    o:
+      - "To take a paper up that I let fall."
+    m:
+      - "To pick up the paper that I dropped."
+
+  - sp: JULIA
+    o:
+      - "And is that paper nothing?"
+    m:
+      - "And that paper is nothing?"
+
+  - sp: LUCETTA
+    o:
+      - "Nothing concerning me."
+    m:
+      - "Nothing that concerns me."
+
+  - sp: JULIA
+    o:
+      - "Then let it lie for those that it concerns."
+    m:
+      - "Then let it lie on the ground for the people it does concern."
+
+  - sp: LUCETTA
+    o:
+      - "Madam, it will not lie where it concerns,"
+      - "Unless it have a false interpreter."
+    m:
+      - "Madam, it will not lie about what it concerns unless a liar reads it."
+
+  - sp: JULIA
+    o:
+      - "Some love of yours hath writ to you in rhyme."
+    m:
+      - "Some lover of yours has written a poem to you."
+
+  - sp: LUCETTA
+    o:
+      - "That I might sing it, madam, to a tune,"
+      - "Give me a note; your ladyship can set."
+    m:
+      - "I’ll sing it, madam, to a tune. Give me the note to sing it in. Your ladyship can choose it."
+
+  - sp: JULIA
+    o:
+      - "As little by such toys as may be possible."
+      - "Best sing it to the tune of “Light o’ Love.”"
+    m:
+      - "I place as little value as possible in such trifles. You should sing it to the tune of “Light o’ Love.”"
+
+  - sp: LUCETTA
+    o:
+      - "It is too heavy for so light a tune."
+    m:
+      - "The poem is too heavy for so light a tune."
+
+  - sp: JULIA
+    o:
+      - "Heavy! Belike it hath some burden then?"
+    m:
+      - "Too heavy! I guess the note is serious, then?"
+
+  - sp: LUCETTA
+    o:
+      - "Ay, and melodious were it, would you sing it."
+    m:
+      - "Yes, and it would be melodious, too, if you’d sing it."
+
+  - sp: JULIA
+    o:
+      - "And why not you?"
+    m:
+      - "And why won’t *you* sing it?"
+
+  - sp: LUCETTA
+    o:
+      - "I cannot reach so high."
+    m:
+      - "I cannot reach such high notes."
+
+  - sp: JULIA
+    o:
+      - "Let’s see your song. How now, minion?"
+    m:
+      - "Let’s see your poem. What is it, you hussy?"
+
+  - os: "She takes the letter"
+    ms: "She takes the letter."
+
+  - sp: LUCETTA
+    o:
+      - "Keep tune there still; so you will sing it out."
+      - "And yet methinks I do not like this tune."
+    m:
+      - "Keep your mood in check and get over your anger. I don’t like this new tune you’re singing."
+
+  - sp: JULIA
+    o:
+      - "You do not?"
+    m:
+      - "You don’t?"
+
+  - sp: LUCETTA
+    o:
+      - "No, madam, ’tis too sharp."
+    m:
+      - "No, madame, it’s too sharp."
+
+  - sp: JULIA
+    o:
+      - "You, minion, are too saucy."
+    m:
+      - "You, hussy, are too sassy."
+
+  - sp: LUCETTA
+    o:
+      - "Nay, now you are too flat,"
+      - "And mar the concord with too harsh a descant."
+      - "There wanteth but a mean to fill your song."
+    m:
+      - "No, now you’re too flat. You’re ruining the harmony with a melody that’s too harsh. Your song only needs a tenor."
+
+  - sp: JULIA
+    o:
+      - "The mean is drowned with your unruly bass."
+    m:
+      - "The tenor is ruined with your unruly bass."
+
+  - sp: LUCETTA
+    o:
+      - "Indeed, I bid the base for Proteus."
+    m:
+      - "Indeed, I sing for Proteus."
+
+  - sp: JULIA
+    o:
+      - "This babble shall not henceforth trouble me."
+      - "Here is a coil with protestation!"
+    m:
+      - "This letter won’t trouble me from now on. Here’s a fuss over a love letter!"
+
+  - os: "She tears the letter and drops the pieces."
+    ms: "She tears the letter and drops the pieces."
+
+  - o:
+      - "Go, get you gone, and let the papers lie."
+      - "You would be fing’ring them to anger me."
+    m:
+      - "Go, get out of here, and leave the papers where they are. I know you’d try to pick them up just to anger me."
+
+  - sp: LUCETTA
+    o:
+      - "She makes it strange, but she would be best pleased"
+      - "To be so angered with another letter."
+    m:
+      - "She pretends not to care, but she would be happy to be so angered by another love letter."
+
+  - os: "Exit"
+    ms: "LUCETTA exits."
+
+  - sp: JULIA
+    o:
+      - "Nay, would I were so angered with the same!"
+    m:
+      - "No, I wish I were so angry with this one!"
+
+  - os: "She picks up some fragments."
+    ms: "She picks up some fragments."
+
+  - o:
+      - "O hateful hands, to tear such loving words!"
+      - "Injurious wasps, to feed on such sweet honey"
+      - "And kill the bees that yield it with your stings!"
+      - "I’ll kiss each several paper for amends."
+      - "Look, here is writ “kind Julia.” Unkind Julia!"
+      - "As in revenge of thy ingratitude,"
+      - "I throw thy name against the bruising stones,"
+      - "Trampling contemptuously on thy disdain."
+    m:
+      - "Stupid hands, to tear up such lovely words! Destructive fingers, to feed on such sweet words and then rip up the letter they came from! I’ll apologize by kissing each piece of paper. Here, this one says “kind Julia.” It should say “unkind Julia”! Out of revenge for my own ingratitude I’ll throw the paper on the floor and hatefully trample my name in disdain."
+
+  - os: "She throws down a fragment."
+    ms: "She throws down a fragment."
+
+  - o:
+      - "And here is writ “love-wounded Proteus.”"
+      - "Poor wounded name! My bosom as a bed"
+      - "Shall lodge thee till thy wound be throughly healed;"
+      - "And thus I search it with a sovereign kiss."
+      - "But twice or thrice was “Proteus” written down."
+      - "Be calm, good wind, blow not a word away"
+      - "Till I have found each letter in the letter,"
+      - "Except mine own name; that some whirlwind bear"
+      - "Unto a ragged, fearful, hanging rock"
+      - "And throw it thence into the raging sea!"
+      - "Lo, here in one line is his name twice writ,"
+      - "“Poor forlorn Proteus, passionate Proteus,"
+      - "To the sweet Julia.” That I’ll tear away;"
+      - "And yet I will not, sith so prettily"
+      - "He couples it to his complaining names."
+      - "Thus will I fold them, one upon another."
+      - "Now kiss, embrace, contend, do what you will."
+    m:
+      - "And here’s one that says “love-wounded Proteus.” Poor wounded name! My breast will serve as your bed until your wounds are completely healed. I cleanse them with a healing kiss. But “Proteus” was written down two or three times. Be still, good wind, and don’t blow these pieces of paper away until I’ve found each word in the letter, except for the piece with my own name on it—may some whirlwind take that piece, hurl it onto a frightening cliff, and from there throw it into the raging sea! Look, his name is written twice in this line: “Poor forlorn Proteus, passionate Proteus, to the sweet Julia.” I’ll tear that last part off. Then again, maybe I won’t, since he tied it so prettily to his own sorrowful names. I’ll fold them up, one on top of another. Now the names may kiss, hug, battle, or do what they will."
+
+  - os: "She puts some folded papers in her bosom."
+    ms: "She puts some folded papers in her shirt."
+
+  - os: "Enter LUCETTA"
+    ms: "LUCETTA enters."
+
+  - sp: LUCETTA
+    o:
+      - "Madam,"
+      - "Dinner is ready, and your father stays."
+    m:
+      - "Madame, dinner is ready, and your father waits for you."
+
+  - sp: JULIA
+    o:
+      - "Well, let us go."
+    m:
+      - "Well, let’s go then."
+
+  - sp: LUCETTA
+    o:
+      - "What, shall these papers lie like telltales here?"
+    m:
+      - "What, should these papers just lie on the ground revealing everything?"
+
+  - sp: JULIA
+    o:
+      - "If you respect them, best to take them up."
+    m:
+      - "If you respect them, then it would be best to pick them up."
+
+  - sp: LUCETTA
+    o:
+      - "Nay, I was taken up for laying them down;"
+      - "Yet here they shall not lie, for catching cold."
+    m:
+      - "No, you yelled at me for dropping them in the first place. But we shouldn’t leave them here or they’ll catch a cold."
+
+  - os: "She gathers up the remaining fragments."
+    ms: "She gathers up the remaining fragments."
+
+  - sp: JULIA
+    o:
+      - "I see you have a month’s mind to them."
+    m:
+      - "I see you have a strong desire for them."
+
+  - sp: LUCETTA
+    o:
+      - "Ay, madam, you may say what sights you see;"
+      - "I see things too, although you judge I wink."
+    m:
+      - "Yes, madame, you can interpret my behavior as you like. But I see things, too, even though you think my eyes are closed."
+
+  - sp: JULIA
+    o:
+      - "Come, come; will ’t please you go?"
+    m:
+      - "Come on, come on. Will you please hurry up?"
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,415 @@
+play: Romeo and Juliet
+title: Act 4, Scene 5
+group: 4
+order: 22
+text:
+  - os: "Enter NURSE"
+    ms: "The NURSE enters."
+
+  - sp: NURSE
+    o:
+      - "Mistress! What, mistress! Juliet!—Fast, I warrant her, she.—"
+      - "Why, lamb! Why, lady! Fie, you slug-a-bed."
+      - "Why, love, I say. Madam! Sweet-heart! Why, bride!"
+      - "What, not a word? You take your pennyworths now."
+      - "Sleep for a week, for the next night, I warrant,"
+      - "The County Paris hath set up his rest"
+      - "That you shall rest but little.—God forgive me,"
+      - "Marry, and amen. How sound is she asleep!"
+      - "I must needs wake her.—Madam, madam, madam!"
+      - "Ay, let the county take you in your bed."
+      - "He’ll fright you up, i’ faith. Will it not be?"
+      - "*(opens the bed curtains)*"
+      - "What, dressed and in your clothes, and down again?"
+      - "I must needs wake you. Lady, lady, lady!—"
+      - "Alas, alas! Help, help! My lady’s dead!—"
+      - "Oh, welladay, that ever I was born!—"
+      - "Some aqua vitae, ho!—My lord! My lady!"
+    m:
+      - "Mistress! Hey, mistress! Juliet! I bet she’s fast asleep. Hey, lamb! Hey, lady! Hey, you lazy bones! Hey, love, I say! Madam! Sweetheart! Hey, bride! What, you don’t say a word? You take your beauty sleep now. Get yourself a week’s worth of sleep. Tomorrow night, I bet, Count Paris won’t let you get much rest. God forgive me. Alright, and amen. How sound asleep she is! I must wake her up. Madam, madam, madam! Yes, let the count take you in your bed. He’ll wake you up, I bet. Won’t he? *(she opens the bed curtains)* What? You’re still dressed in all your clothes. But you’re still asleep. I must wake you up. Lady! Lady! Lady! Oh no, oh no! Help, help! My lady’s dead! Oh curse the day that I was born! Ho! Get me some brandy! My lord! My lady!"
+
+  - os: "Enter LADY CAPULET"
+    ms: "LADY CAPULET enters."
+
+  - sp: LADY CAPULET
+    o:
+      - "What noise is here?"
+    m:
+      - "What’s all the noise in here?"
+
+  - sp: NURSE
+    o:
+      - "  O lamentable day!"
+    m:
+      - "Oh, sad day!"
+
+  - sp: LADY CAPULET
+    o:
+      - "What is the matter?"
+    m:
+      - "What is the matter?"
+
+  - sp: NURSE
+    o:
+      - "  Look, look. O heavy day!"
+    m:
+      - "Look, look! Oh, what a sad day!"
+
+  - sp: LADY CAPULET
+    o:
+      - "O me, O me! My child, my only life,"
+      - "Revive, look up, or I will die with thee!—"
+      - "Help, help! Call help."
+    m:
+      - "Oh my, Oh my! My child, my reason for living, wake up, look up, or I’ll die with you! Help, help! Call for help."
+
+  - os: "Enter CAPULET"
+    ms: "CAPULET enters."
+
+  - sp: CAPULET
+    o:
+      - "For shame, bring Juliet forth. Her lord is come."
+    m:
+      - "For shame, bring Juliet out here. Her bridegroom is here."
+
+  - sp: NURSE
+    o:
+      - "She’s dead, deceased, she’s dead. Alack the day!"
+    m:
+      - "She’s dead, deceased, she’s dead. Curse the day!"
+
+  - sp: LADY CAPULET
+    o:
+      - "Alack the day. She’s dead, she’s dead, she’s dead!"
+    m:
+      - "Curse the day! She’s dead, she’s dead, she’s dead!"
+
+  - sp: CAPULET
+    o:
+      - "Ha? Let me see her. Out, alas! She’s cold."
+      - "Her blood is settled, and her joints are stiff."
+      - "Life and these lips have long been separated."
+      - "Death lies on her like an untimely frost"
+      - "Upon the sweetest flower of all the field."
+    m:
+      - "No! Let me see her. Oh no! She’s cold. Her blood has stopped, and her joints are stiff. She’s been dead for some time. She’s dead, like a beautiful flower, killed by an unseasonable frost."
+
+  - sp: NURSE
+    o:
+      - "O lamentable day!"
+    m:
+      - "Oh, sad day!"
+
+  - sp: LADY CAPULET
+    o:
+      - "  O woeful time."
+    m:
+      - "Oh, this is a painful time!"
+
+  - sp: CAPULET
+    o:
+      - "Death, that hath ta’en her hence to make me wail,"
+      - "Ties up my tongue and will not let me speak."
+    m:
+      - "Death, which has taken her away to make me cry, now ties up my tongue and won’t let me speak."
+
+  - os: "Enter FRIAR LAWRENCE, County PARIS, and MUSICIANS"
+    ms: "FRIAR LAWRENCE and PARIS enter with MUSICIANS."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Come, is the bride ready to go to church?"
+    m:
+      - "Come, is the bride ready to go to church?"
+
+  - sp: CAPULET
+    o:
+      - "Ready to go, but never to return."
+      - "O son! The night before thy wedding day"
+      - "Hath death lain with thy wife. There she lies,"
+      - "Flower as she was, deflowered by him."
+      - "Death is my son-in-law. Death is my heir."
+      - "My daughter he hath wedded. I will die,"
+      - "And leave him all. Life, living, all is Death’s."
+    m:
+      - "She’s ready to go, but she’ll never return. *(to PARIS)* Oh son! On the night before your wedding day, death has taken your wife. There she lies. She was a flower, but death deflowered her. Death is my son-in-law. Death is my heir. My daughter married death. I will die and leave Death everything. Life, wealth, everything belongs to Death."
+
+  - sp: PARIS
+    o:
+      - "Have I thought long to see this morning’s face,"
+      - "And doth it give me such a sight as this?"
+    m:
+      - "Have I waited so long to see this morning, only to see this?"
+
+  - sp: LADY CAPULET
+    o:
+      - "Accursed, unhappy, wretched, hateful day!"
+      - "Most miserable hour that e’er time saw"
+      - "In lasting labor of his pilgrimage."
+      - "But one, poor one, one poor and loving child,"
+      - "But one thing to rejoice and solace in,"
+      - "And cruel death hath catched it from my sight!"
+    m:
+      - "Accursed, unhappy, wretched, hateful day! This is the most miserable hour of all time! I had only one child, one poor child, one poor and loving child, the one thing I had to rejoice and comfort myself, and cruel Death has stolen it from me!"
+
+  - sp: NURSE
+    o:
+      - "O woe! O woeful, woeful, woeful day!"
+      - "Most lamentable day, most woeful day"
+      - "That ever, ever, I did yet behold!"
+      - "O day, O day, O day, O hateful day!"
+      - "Never was seen so black a day as this."
+      - "O woeful day, O woeful day!"
+    m:
+      - "Oh pain! Oh painful, painful, painful day! The saddest day, most painful day that I ever, ever did behold! Oh day! Oh day! Oh day! Oh hateful day! There has never been so black a day as today. Oh painful day, Oh painful day!"
+
+  - sp: PARIS
+    o:
+      - "Beguiled, divorcèd, wrongèd, spited, slain!"
+      - "Most detestable Death, by thee beguiled,"
+      - "By cruel, cruel thee quite overthrown!"
+      - "O love! O life! Not life, but love in death."
+    m:
+      - "She was tricked, divorced, wronged, spited, killed! Death, the most despicable thing, tricked her. Cruel, cruel Death killed her. Oh love! Oh life! There is no life, but my love is dead!"
+
+  - sp: CAPULET
+    o:
+      - "Despised, distressèd, hated, martyred, killed!"
+      - "Uncomfortable time, why camest thou now"
+      - "To murder, murder our solemnity?"
+      - "O child, O child! My soul, and not my child!"
+      - "Dead art thou! Alack, my child is dead,"
+      - "And with my child my joys are buried."
+    m:
+      - "Despised, distressed, hated, martyred, killed! Why did this have to happen now? Why did Death have to ruin our wedding? Oh child! Oh child! My soul and not my child! You are dead! Oh no! My child is dead. My child will be buried, and so will my joys."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Peace, ho, for shame! Confusion’s cure lives not"
+      - "In these confusions. Heaven and yourself"
+      - "Had part in this fair maid. Now heaven hath all,"
+      - "And all the better is it for the maid."
+      - "Your part in her you could not keep from death,"
+      - "But heaven keeps his part in eternal life."
+      - "The most you sought was her promotion,"
+      - "For ’twas your heaven she should be advanced."
+      - "And weep ye now, seeing she is advanced"
+      - "Above the clouds, as high as heaven itself?"
+      - "Oh, in this love, you love your child so ill"
+      - "That you run mad, seeing that she is well."
+      - "She’s not well married that lives married long,"
+      - "But she’s best married that dies married young."
+      - "Dry up your tears and stick your rosemary"
+      - "On this fair corse, and, as the custom is,"
+      - "And in her best array, bear her to church."
+      - "For though some nature bids us all lament,"
+      - "Yet nature’s tears are reason’s merriment."
+    m:
+      - "Be quiet, for shame! The cure for confusion is not yelling and screaming. You had this child with the help of heaven. Now heaven has her. She is in a better place. You could not prevent her from dying someday, but heaven will give her eternal life. The most you hope for was for her to marry wealthy and rise up the social ladder—that was your idea of heaven. And now you cry, even though she has risen up above the clouds, as high as heaven itself? Oh, in this love, you love your child so badly, that you go mad, even though she is in heaven. It is best to marry well and die young, better than to be married for a long time. Dry up your tears, and put your rosemary on this beautiful corpse. And, in accordance with custom, carry her to the church in her best clothes. It’s natural for us to shed tears for her, but the truth is, we should be happy for her."
+
+  - sp: CAPULET
+    o:
+      - "All things that we ordained festival"
+      - "Turn from their office to black funeral."
+      - "Our instruments to melancholy bells,"
+      - "Our wedding cheer to a sad burial feast."
+      - "Our solemn hymns to sullen dirges change,"
+      - "Our bridal flowers serve for a buried corse,"
+      - "And all things change them to the contrary."
+    m:
+      - "All the things that we prepared for the wedding party will now be used for the funeral. Our happy music will now be sad. Our wedding banquet will become a sad burial feast. Our celebratory hymns will change to sad funeral marches. Our bridal flowers will cover a buried corpse. And everything will be used for the opposite purpose from what we intended."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Sir, go you in, and, madam, go with him;"
+      - "And go, Sir Paris. Every one prepare"
+      - "To follow this fair corse unto her grave."
+      - "The heavens do lour upon you for some ill."
+      - "Move them no more by crossing their high will."
+    m:
+      - "Sir, you go in. And, madam, go with him. And you go too, Sir Paris. Everyone prepare to take this beautiful corpse to her grave. The heavens hang threateningly over you for some past sin. Don’t disturb the heavens any more by trying to go against heaven’s will."
+
+  - os: "Exeunt CAPULET, LADY CAPULET, PARIS, and FRIAR LAWRENCE"
+    ms: "CAPULET, LADY CAPULET, PARIS, and FRIAR LAWRENCE exit."
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "Faith, we may put up our pipes and be gone."
+    m:
+      - "Well, we can put away our pipes and go home."
+
+  - sp: NURSE
+    o:
+      - "Honest good fellows, ah, put up, put up,"
+      - "For, well you know, this is a pitiful case."
+    m:
+      - "Honest good boys, ah, put ’em away, put ’em away. As you know, this is a sad case."
+
+  - os: "Exit"
+    ms: "The NURSE exits."
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "Ay, by my troth, the case may be amended."
+    m:
+      - "Yes, well, things could get better."
+
+  - os: "Enter PETER"
+    ms: "PETER enters."
+
+  - sp: PETER
+    o:
+      - "Musicians, O musicians, “Heart’s Ease,” “Heart’s Ease.” O, an you will have me live, play “Heart’s Ease.”"
+    m:
+      - "Musicians, oh, musicians, play “Heart’s Ease,” “Heart’s Ease.” Oh, I’ll die if you don’t play “Heart’s Ease.”"
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "Why “Heart’s ease?”"
+    m:
+      - "Why “Heart’s Ease”?"
+
+  - sp: PETER
+    o:
+      - "O musicians, because my heart itself plays “My Heart is Full.” O, play me some merry dump to comfort me."
+    m:
+      - "Oh, musicians, because my heart is singing “My Heart is Full of Woe.” Oh, play me some happy sad song to comfort me."
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "Not a dump, we. ’Tis no time to play now."
+    m:
+      - "No, not a sad song. It’s not the right time to play."
+
+  - sp: PETER
+    o:
+      - "You will not then?"
+    m:
+      - "You won’t, then?"
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: PETER
+    o:
+      - "I will then give it you soundly."
+    m:
+      - "Then I’ll really give it to you."
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "What will you give us?"
+    m:
+      - "What will you give us?"
+
+  - sp: PETER
+    o:
+      - "No money, on my faith, but the gleek. I will give you the minstrel."
+    m:
+      - "No money, I swear. But I’ll play a trick on you. I’ll call you a minstrel."
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "Then I will give you the serving creature."
+    m:
+      - "Then I’ll call you a serving-creature."
+
+  - sp: PETER
+    o:
+      - "Then will I lay the serving creature’s dagger on your pate. I will carry no crotchets. I’ll *re* you, I’ll *fa* you. Do you note me?"
+    m:
+      - "Then I’ll smack you on the head with the serving-creature’s knife. I won’t mess around. I’ll make you sing. Do you hear me?"
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "An you *re* us and *fa* us, you note us."
+    m:
+      - "If you make us sing, you’ll hear us."
+
+  - sp: SECOND MUSICIAN
+    o:
+      - "Pray you, put up your dagger and put out your wit."
+    m:
+      - "Please, put down your knife and stop kidding around."
+
+  - sp: PETER
+    o:
+      - "Then have at you with my wit. I will dry-beat you with an iron wit and put up my iron dagger. Answer me like men."
+      - "*(sings)*"
+      - "  *When griping grief the heart doth wound*"
+      - "  *And doleful dumps the mind oppress,*"
+      - "  *Then music with her silver sound—*"
+      - "*(speaks)* Why “silver sound”? Why “music with her silver sound”? What say you, Simon Catling?"
+    m:
+      - "So you don’t like my kidding around! I’ll kid you to death, and then I’ll put down my knife. Answer me like men."
+      - "*(sings)*"
+      - "*When sadness wounds your heart,*"
+      - "  *And pain takes over your mind,*"
+      - "  *Then music with her silver sound—*"
+      - "*(speaks)* Why the line “silver sound”? What do they mean, “music with her silver sound”? What do you say, Simon Catling?"
+
+  - sp: FIRST MUSICAN
+    o:
+      - "Marry, sir, because silver hath a sweet sound."
+    m:
+      - "Well, sir, because silver has a sweet sound."
+
+  - sp: PETER
+    o:
+      - "Prates.—What say you, Hugh Rebeck?"
+    m:
+      - "That’s a stupid answer! What do you say, Hugh Rebeck?"
+
+  - sp: SECOND MUSICIAN
+    o:
+      - "I say, “silver sound” because musicians sound for silver."
+    m:
+      - "I say “silver sound,” because musicians play to earn silver."
+
+  - sp: PETER
+    o:
+      - "Prates too.—What say you, James Soundpost?"
+    m:
+      - "Another studpid answer! What do you say, James Soundpost?"
+
+  - sp: THIRD MUSICIAN
+    o:
+      - "Faith, I know not what to say."
+    m:
+      - "Well, I don’t know what to say."
+
+  - sp: PETER
+    o:
+      - "Oh, I cry you mercy, you are the singer. I will say for you. It is “music with her silver sound” because musicians have no gold for sounding."
+    m:
+      - "Oh, I beg your pardon. You’re the singer. I’ll answer for you. It is “music with her silver sound,” because musicians have no gold to use to make sounds."
+
+  - o:
+      - "*(sings)*"
+      - "  *Then music with her silver sound*"
+      - "  *With speedy help doth lend redress.*"
+    m:
+      - "*(sings)*"
+      - "*Then music with her silver sound*"
+      - "  *makes you feel just fine.*"
+
+  - os: "Exit PETER"
+    ms: "PETER exits."
+
+  - sp: FIRST MUSICIAN
+    o:
+      - "What a pestilent knave is this same!"
+    m:
+      - "What an annoying man, this guy is!"
+
+  - sp: SECOND MUSICIAN
+    o:
+      - "Hang him, Jack! Come, we’ll in here, tarry for the mourners and stay dinner."
+    m:
+      - "Forget about him, Jack! Come, we’ll go in there. We’ll wait for the mourners and stay for dinner."
+
+  - os: "Exeunt"
+    ms: "The MUSICIANS exit."

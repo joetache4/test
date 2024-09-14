@@ -1,0 +1,131 @@
+play: Coriolanus
+title: Act 4, Scene 1
+group: 4
+order: 16
+text:
+  - os: "Rome. Before a gate of the city."
+    ms: "A city gate in Rome."
+
+  - os: "Enter CORIOLANUS, VOLUMNIA, VIRGILIA, MENENIUS, COMINIUS, with the young Nobility of Rome"
+    ms: "CORIOLANUS, VOLUMNIA, VIRGILIA, MENENIUS, and COMINIUS enter, with the young nobles."
+
+  - sp: CORIOLANUS
+    o:
+      - "Come, leave your tears: a brief farewell: the beast"
+      - "Where is your ancient courage? you were used"
+      - "To say extremity was the trier of spirits;"
+      - "That common chances common men could bear;"
+      - "That when the sea was calm all boats alike"
+      - "Show’d mastership in floating; fortune’s blows,"
+      - "When most struck home, being gentle wounded, craves"
+      - "A noble cunning: you were used to load me"
+      - "With precepts that would make invincible"
+      - "The heart that conn’d them."
+    m:
+      - "Stop crying now. A brief farewell! The people, like a many-headed beast, push me out. Stop it, mother. What happened to your courage? You used to say that adversity was a test of character. That even common people can handle the chance circumstances of their lives. That when the sea is calm all boats float equally well. That when fate strikes you hardest, you must have the skill of a nobleman to endure your wounds with dignity. You used to repeat these sayings to me, sayings that would make anyone who heard them enough invincible."
+
+  - sp: VIRGILIA
+    o:
+      - "O heavens! O heavens!"
+    m:
+      - "Oh, heavens! Oh, heavens!"
+
+  - sp: CORIOLANUS
+    o:
+      - "Nay! prithee, woman,—"
+    m:
+      - "Stop it! Please, woman—"
+
+  - sp: VOLUMNIA
+    o:
+      - "Now the red pestilence strike all trades in Rome,"
+      - "And occupations perish!"
+    m:
+      - "Now the typhoid fever strikes all the tradesmen in Rome and the economy is crumbling!"
+
+  - sp: CORIOLANUS
+    o:
+      - "What, what, what!"
+      - "I shall be loved when I am lack’d. Nay, mother."
+      - "Resume that spirit, when you were wont to say,"
+      - "If you had been the wife of Hercules,"
+      - "Six of his labours you’ld have done, and saved"
+      - "Your husband so much sweat. Cominius,"
+      - "Droop not; adieu. Farewell, my wife, my mother:"
+      - "I’ll do well yet. Thou old and true Menenius,"
+      - "Thy tears are salter than a younger man’s,"
+      - "And venomous to thine eyes. My sometime general,"
+      - "I have seen thee stem, and thou hast oft beheld"
+      - "Heart-hardening spectacles; tell these sad women"
+      - "’Tis fond to wail inevitable strokes,"
+      - "As ’tis to laugh at ’em. My mother, you wot well"
+      - "My hazards still have been your solace: and"
+      - "Believe’t not lightly—though I go alone,"
+      - "Like to a lonely dragon, that his fen"
+      - "Makes fear’d and talk’d of more than seen—your son"
+      - "Will or exceed the common or be caught"
+      - "With cautelous baits and practise."
+    m:
+      - "Enough, enough, enough! You’ll love me when I’m gone. Stop it, mother. Bring back your old spirit, when you used to say that if you had been the wife of Hercules, you would have done six of his twelve required tasks and saved him that much effort. Cominius, don’t despair. Goodbye. Farewell, my wife, my mother—I’ll be fine. My old and true friend Menenius, you cry more than a young man, and the salt is bad for your eyes. My former general, I have seen you be brave, and you have seen many heart-hardening spectacles. Tell these sad women that it’s as foolish to cry over inevitabilities as it is to laugh at them. Mother, you’ve always taken comfort in the risks that I take. Know this for a fact: even though I go alone, like a lonely dragon whose swamp is more feared and talked about than it is seen, I will either exceed common expectations or be caught by crafty traps and trickery."
+
+  - sp: VOLUMNIA
+    o:
+      - "My first son."
+      - "Whither wilt thou go? Take good Cominius"
+      - "With thee awhile: determine on some course,"
+      - "More than a wild exposture to each chance"
+      - "That starts i’ the way before thee."
+    m:
+      - "My firstborn son, where will you go? Take good Cominius with you for a while. Figure out a plan other than just dealing with things as they come up."
+
+  - sp: CORIOLANUS
+    o:
+      - "O the gods!"
+    m:
+      - "Oh, the gods!"
+
+  - sp: COMINIUS
+    o:
+      - "I’ll follow thee a month, devise with thee"
+      - "Where thou shalt rest, that thou mayst hear of us"
+      - "And we of thee: so if the time thrust forth"
+      - "A cause for thy repeal, we shall not send"
+      - "O’er the vast world to seek a single man,"
+      - "And lose advantage, which doth ever cool"
+      - "I’ the absence of the needer."
+    m:
+      - "I’ll go with you for a month and help you find a place to stay and a way to communicate with us. That way, if they overturn your sentence, we won’t have to look all over the whole world to find you and lose momentum on your return."
+
+  - sp: CORIOLANUS
+    o:
+      - "Fare ye well:"
+      - "Thou hast years upon thee; and thou art too full"
+      - "Of the wars’ surfeits, to go rove with one"
+      - "That’s yet unbruised: bring me but out at gate."
+      - "Come, my sweet wife, my dearest mother, and"
+      - "My friends of noble touch, when I am forth,"
+      - "Bid me farewell, and smile. I pray you, come."
+      - "While I remain above the ground, you shall"
+      - "Hear from me still, and never of me aught"
+      - "But what is like me formerly."
+    m:
+      - "No, I must go alone. You’re too old, and you’ve been in too many wars to go roaming around with someone like me, who’s still fresh. Just take me to the gate. Come, my sweet wife, my dearest mother, and my noble friends. When I go, wish me safe travels and smile. I promise that so long as I’m still alive you’ll hear from me, and the news will be the same as it’s always been about me."
+
+  - sp: MENENIUS
+    o:
+      - "That’s worthily"
+      - "As any ear can hear. Come, let’s not weep."
+      - "If I could shake off but one seven years"
+      - "From these old arms and legs, by the good gods,"
+      - "I’ld with thee every foot."
+    m:
+      - "That’s the best news an ear can hear. Let’s not cry now. If my arms and legs were just seven years younger, by the good gods, I’d go with you all the way."
+
+  - sp: CORIOLANUS
+    o:
+      - "Give me thy hand: Come."
+    m:
+      - "Give me your hand. Come."
+
+  - os: "Exeunt"
+    ms: "All exit."

@@ -1,0 +1,481 @@
+play: Antony and Cleopatra
+title: Act 2, Scene 5
+group: 2
+order: 9
+text:
+  - os: "Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS"
+    ms: "CLEOPATRA, CHARMIAN, IRAS, and ALEXAS enter."
+
+  - sp: CLEOPATRA
+    o:
+      - "Give me some music. Music, moody food"
+      - "Of us that trade in love."
+    m:
+      - "Play me some music. Music feeds the melancholy moods of us lovers."
+
+  - sp: ALL
+    o:
+      - "    The music, ho!"
+    m:
+      - "Musicians, come in!"
+
+  - os: "Enter MARDIAN the eunuch"
+    ms: "MADRIANenters."
+
+  - sp: CLEOPATRA
+    o:
+      - "Let it alone. Let’s to billiards. Come, Charmian."
+    m:
+      - "Never mind. Let’s play billiards. Play with me, Charmian."
+
+  - sp: CHARMIAN
+    o:
+      - "My arm is sore. Best play with Mardian."
+    m:
+      - "My arm is sore. You’ll have a better game with Mardian."
+
+  - sp: CLEOPATRA
+    o:
+      - "As well a woman with an eunuch played"
+      - "As with a woman.—Come, you’ll play with me, sir?"
+    m:
+      - "Playing with a eunuch is the same as playing with a woman. Will you play with me, sir?"
+
+  - sp: MARDIAN
+    o:
+      - "As well as I can, madam."
+    m:
+      - "I’ll do my best, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "And when good will is showed, though ’t come too short,"
+      - "The actor may plead pardon. I’ll none now."
+      - "Give me mine angle. We’ll to th’ river. There,"
+      - "My music playing far off, I will betray"
+      - "Tawny-finned fishes. My bended hook shall pierce"
+      - "Their slimy jaws, and as I draw them up"
+      - "I’ll think them every one an Antony"
+      - "And say, “Aha! You’re caught.”"
+    m:
+      - "When a person tries in good faith, even if he fails he cannot be blamed. I don’t want to play now. Give me my fishing rod. We’ll go to the river. With my music playing in the background, I’ll lure fish. My hook will go through their slimy jaws and as I pull them up I’ll imagine each one is Antony. I’ll say, “Aha! I caught you!”"
+
+  - sp: CHARMIAN
+    o:
+      - "    ’Twas merry when"
+      - "You wagered on your angling, when your diver"
+      - "Did hang a salt fish on his hook, which he"
+      - "With fervency drew up."
+    m:
+      - "It was funny when you and Antony bet on who could catch the first fish. You had a diver put a salted fish on his hook. He was so excited as he hurried to pull it in!"
+
+  - sp: CLEOPATRA
+    o:
+      - "    That time—Oh, times!—"
+      - "I laughed him out of patience, and that night"
+      - "I laughed him into patience. And next morn,"
+      - "Ere the ninth hour, I drunk him to his bed,"
+      - "Then put my tires and mantles on him, whilst"
+      - "I wore his sword Philippan."
+    m:
+      - "That time? Oh, there were so many fun times. I would play some trick on him and laugh until he lost his patience. Then, that night, I would laugh with him while we made love until he was patient again. Then by nine in the morning I would have him so drunk I could dress him in my clothes while I wore the sword he used at the famous battle of Philippi."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - o:
+      - "    Oh, from Italy!"
+      - "Ram thou thy fruitful tidings in mine ears,"
+      - "That long time have been barren."
+    m:
+      - "Oh! News from Italy! Cram your good news into my ears. It’s been so long since I’ve heard from him."
+
+  - sp: MESSENGER
+    o:
+      - "    Madam, madam—"
+    m:
+      - "Madam, madam—"
+
+  - sp: CLEOPATRA
+    o:
+      - "Antonio’s dead! If thou say so, villain,"
+      - "Thou kill’st thy mistress. But well and free,"
+      - "If thou so yield him, there is gold, and here"
+      - "My bluest veins to kiss—a hand that kings"
+      - "Have lipped, and trembled kissing."
+    m:
+      - "Antony’s dead! If you say that, you bastard, you’ll kill your Queen. If you say he’s healthy and free, I’ll give you money and you may kiss my hand. Kings have trembled to kiss this hand."
+
+  - sp: MESSENGER
+    o:
+      - "First, madam, he is well."
+    m:
+      - "Let me say first, madam, that he is well."
+
+  - sp: CLEOPATRA
+    o:
+      - "Why, there’s more gold. But, sirrah, mark, we use"
+      - "To say the dead are well. Bring it to that,"
+      - "The gold I give thee will I melt and pour"
+      - "Down thy ill-uttering throat."
+    m:
+      - "Well then, here’s more money for you. But you know, sirrah, we customarily say that the dead are well. If that’s what you mean, I’ll melt this gold and pour it down your throat that speaks these hateful words."
+
+  - sp: MESSENGER
+    o:
+      - "Good madam, hear me."
+    m:
+      - "Good madam, let me speak."
+
+  - sp: CLEOPATRA
+    o:
+      - "Well, go to, I will."
+      - "But there’s no goodness in thy face—if Antony"
+      - "Be free and healthful, so tart a favor"
+      - "To trumpet such good tidings! If not well,"
+      - "Thou shouldst come like a Fury crowned with snakes,"
+      - "Not like a formal man."
+    m:
+      - "All right, I will. But you don’t look as if you bring good news. If Antony is free and healthy, you shouldn’t wear such a sour face while bringing such good news. If he’s not well, you should arrive like a Fury with snakes for hair, not in the shape of a normal man."
+
+  - sp: MESSENGER
+    o:
+      - "    Will ’t please you hear me?"
+    m:
+      - "Do you want to hear my news?"
+
+  - sp: CLEOPATRA
+    o:
+      - "I have a mind to strike thee ere thou speak’st."
+      - "Yet if thou say Antony lives, is well,"
+      - "Or friends with Caesar, or not captive to him,"
+      - "I’ll set thee in a shower of gold and hail"
+      - "Rich pearls upon thee."
+    m:
+      - "I have half a mind to hit you before you speak again. But if Antony is alive, healthy, friendly with Caesar, and not Caesar’s prisoner, I’ll shower you with gold and pearls."
+
+  - sp: MESSENGER
+    o:
+      - "    Madam, he’s well."
+    m:
+      - "Madam, he’s well."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Well said."
+    m:
+      - "That’s well spoken."
+
+  - sp: MESSENGER
+    o:
+      - "And friends with Caesar."
+    m:
+      - "And he’s friendly with Caesar."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Th’ art an honest man."
+    m:
+      - "You are an honest man."
+
+  - sp: MESSENGER
+    o:
+      - "Caesar and he are greater friends than ever."
+    m:
+      - "Caesar and he are better friends than ever."
+
+  - sp: CLEOPATRA
+    o:
+      - "Make thee a fortune from me."
+    m:
+      - "I’m going to make you a rich man."
+
+  - sp: MESSENGER
+    o:
+      - "    But yet, madam—"
+    m:
+      - "But yet, madam—"
+
+  - sp: CLEOPATRA
+    o:
+      - "I do not like “But yet.” It does allay"
+      - "The good precedence. Fie upon “But yet.”"
+      - "“But yet” is as a jailer to bring forth"
+      - "Some monstrous malefactor. Prithee, friend,"
+      - "Pour out the pack of matter to mine ear,"
+      - "The good and bad together. He’s friends with Caesar,"
+      - "In state of health, thou say’st, and, thou say’st, free."
+    m:
+      - "I don’t like the sound of “but yet.” It reverses all the good that came before it. Damn those words, “but yet!” “But yet” is like a jailer about to bring out some horrible criminal. Please, my friend, give me all the news, both good and bad, at the same time. You say he’s friendly with Caesar, healthy, and free."
+
+  - sp: MESSENGER
+    o:
+      - "Free, madam, no. I made no such report."
+      - "He’s bound unto Octavia."
+    m:
+      - "I didn’t say free, madam. No, I didn’t say that. He’s bound to Octavia."
+
+  - sp: CLEOPATRA
+    o:
+      - "    For what good turn?"
+    m:
+      - "For what favor?"
+
+  - sp: MESSENGER
+    o:
+      - "For the best turn i’ th’ bed."
+    m:
+      - "For the favor of sleeping in her bed."
+
+  - sp: CLEOPATRA
+    o:
+      - "    I am pale, Charmian."
+    m:
+      - "I’m sick, Charmian."
+
+  - sp: MESSENGER
+    o:
+      - "Madam, he’s married to Octavia."
+    m:
+      - "He’s married to Octavia, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "The most infectious pestilence upon thee!"
+    m:
+      - "May you die of the worst disease!"
+
+  - os: "Strikes him down"
+    ms: "She knocks him down."
+
+  - sp: MESSENGER
+    o:
+      - "Good madam, patience."
+    m:
+      - "Good madam, be patient."
+
+  - sp: CLEOPATRA
+    o:
+      - "What say you?"
+    m:
+      - "What did you say to me?"
+
+  - os: "Strikes him"
+    ms: "She hits him again."
+
+  - o:
+      - "Hence, horrible villain, or I’ll spurn thine eyes"
+      - "Like balls before me! I’ll unhair thy head!"
+    m:
+      - "Get out, you horrible bastard, or I’ll gouge out your eyes. I’ll scalp you."
+
+  - os: "She hales him up and down"
+    ms: "She drags him across the stage."
+
+  - o:
+      - "Thou shalt be whipped with wire and stewed in brine,"
+      - "Smarting in ling’ring pickle!"
+    m:
+      - "I’ll have you whipped with wire and soaked in brine like a pickle, making your pain linger."
+
+  - sp: MESSENGER
+    o:
+      - "    Gracious madam, I that do bring the news made not the match."
+    m:
+      - "Gracious madam, I only brought the news. I didn’t make the match."
+
+  - sp: CLEOPATRA
+    o:
+      - "Say ’tis not so, a province I will give thee"
+      - "And make thy fortunes proud. The blow thou hadst"
+      - "Shall make thy peace for moving me to rage,"
+      - "And I will boot thee with what gift beside"
+      - "Thy modesty can beg."
+    m:
+      - "If you say it isn’t true, I’ll give you a province and make you rich. The blows I gave you already will make up for your upsetting me. And on top of that I’ll give you whatever you ask for."
+
+  - sp: MESSENGER
+    o:
+      - "    He’s married, madam."
+    m:
+      - "He’s married, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "Rogue, thou hast lived too long."
+    m:
+      - "Rogue, you’ve lived too long!"
+
+  - os: "Draws a knife"
+    ms: "She draws a knife."
+
+  - sp: MESSENGER
+    o:
+      - "    Nay then, I’ll run. What mean you, madam? I have made no fault."
+    m:
+      - "No way, then, I’ll run. What’s the matter with you, madam? I haven’t done anything to you."
+
+  - os: "Exit"
+    ms: "The MESSENGER exits."
+
+  - sp: CHARMIAN
+    o:
+      - "Good madam, keep yourself within yourself."
+      - "The man is innocent."
+    m:
+      - "Good madam, restrain yourself. The man hasn’t done anything wrong."
+
+  - sp: CLEOPATRA
+    o:
+      - "Some innocents ’scape not the thunderbolt."
+      - "Melt Egypt into Nile, and kindly creatures"
+      - "Turn all to serpents. Call the slave again."
+      - "Though I am mad, I will not bite him. Call!"
+    m:
+      - "Even innocents cannot always escape disaster. May Egypt drown in the Nile and all good creatures turn into poisonous snakes. Call that servant back. Even though I’m mad, I won’t bite him. Call him!"
+
+  - sp: CHARMIAN
+    o:
+      - "He is afeard to come."
+    m:
+      - "He’s afraid to come in."
+
+  - sp: CLEOPATRA
+    o:
+      - "    I will not hurt him."
+      - "These hands do lack nobility that they strike"
+      - "A meaner than myself, since I myself"
+      - "Have given myself the cause."
+    m:
+      - "I won’t hurt him. My hands are tainted if they hit an inferior, especially since I myself am the cause of my own distress."
+
+  - os: "Enter the MESSENGER again"
+    ms: "The MESSENGER returns."
+
+  - o:
+      - "    Come hither, sir."
+      - "Though it be honest, it is never good"
+      - "To bring bad news. Give to a gracious message"
+      - "An host of tongues, but let ill tidings tell"
+      - "Themselves when they be felt."
+    m:
+      - "Come here, sir. It may be honest, but it’s never wise to bring bad news. You can give good news in many ways, but let bad news interpret itself as you tell it."
+
+  - sp: MESSENGER
+    o:
+      - "I have done my duty."
+    m:
+      - "I’ve only done my duty."
+
+  - sp: CLEOPATRA
+    o:
+      - "Is he married?"
+      - "I cannot hate thee worser than I do"
+      - "If thou again say “yes.”"
+    m:
+      - "Is he married? I can’t hate you any more than I already do if you repeat that he is."
+
+  - sp: MESSENGER
+    o:
+      - "    He’s married, madam."
+    m:
+      - "He’s married, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "The gods confound thee! Dost thou hold there still?"
+    m:
+      - "May the gods destroy you! Do you maintain the same story?"
+
+  - sp: MESSENGER
+    o:
+      - "Should I lie, madam?"
+    m:
+      - "Do you want me to lie, madam?"
+
+  - sp: CLEOPATRA
+    o:
+      - "    Oh, I would thou didst,"
+      - "So half my Egypt were submerged and made"
+      - "A cistern for scaled snakes! Go, get thee hence."
+      - "Hadst thou Narcissus in thy face, to me"
+      - "Thou wouldst appear most ugly. He is married?"
+    m:
+      - "Oh, I wish you had lied, even if it meant half my kingdom would be submerged and filled with snakes. Go, get out! Even if you were as handsome as Narcissus, your face would be ugly to me. Is he really married?"
+
+  - sp: MESSENGER
+    o:
+      - "I crave your highness’ pardon."
+    m:
+      - "I beg your highness’ pardon."
+
+  - sp: CLEOPATRA
+    o:
+      - "    He is married?"
+    m:
+      - "Is he really married?"
+
+  - sp: MESSENGER
+    o:
+      - "Take no offense that I would not offend you."
+      - "To punish me for what you make me do"
+      - "Seems much unequal. He’s married to Octavia."
+    m:
+      - "Please don’t be offended that I don’t want to offend you any more. It’s not fair to punish me for something you make me do. He’s married to Octavia."
+
+  - sp: CLEOPATRA
+    o:
+      - "Oh, that his fault should make a knave of thee,"
+      - "That art not what th’ art sure of! Get thee hence."
+      - "The merchandise which thou hast brought from Rome"
+      - "Are all too dear for me. Lie they upon thy hand"
+      - "And be undone by ’em!"
+    m:
+      - "It’s too bad that Antony’s fault should make you look like a jerk. You didn’t have anything to do with it. Go away. The merchandise you bring from Rome is too expensive for me. Let it stay in your inventory until it bankrupts you."
+
+  - os: "Exit MESSENGER"
+    ms: "The MESSENGER exits."
+
+  - sp: CHARMIAN
+    o:
+      - "    Good your highness, patience."
+    m:
+      - "Be patient, your highness."
+
+  - sp: CLEOPATRA
+    o:
+      - "In praising Antony, I have dispraised Caesar."
+    m:
+      - "When I have praised Antony, I’ve disparaged Caesar."
+
+  - sp: CHARMIAN
+    o:
+      - "Many times, madam."
+    m:
+      - "Many times, madam."
+
+  - sp: CLEOPATRA
+    o:
+      - "I am paid for ’t now. Lead me from hence."
+      - "I faint. O Iras, Charmian! ’Tis no matter.—"
+      - "Go to the fellow, good Alexas. Bid him"
+      - "Report the feature of Octavia: her years,"
+      - "Her inclination. Let him not leave out"
+      - "The color of her hair. Bring me word quickly."
+    m:
+      - "I’m being repaid for that now. Help me out of here. I feel faint. Oh, Iras, Charmian! It doesn’t matter. Good Alexas, go ask that fellow to describe Octavia. How old is she? What kind of disposition does she have? Don’t let him leave out the color of her hair. Bring me his answers quickly."
+
+  - os: "Exit ALEXAS"
+    ms: "ALEXAS exits."
+
+  - o:
+      - "Let him forever go!—Let him not, Charmian."
+      - "Though he be painted one way like a Gorgon,"
+      - "The other way’s a Mars. *(to MARDIAN)* Bid you Alexas"
+      - "Bring me word how tall she is. Pity me, Charmian,"
+      - "But do not speak to me. Lead me to my chamber."
+    m:
+      - "Let Antony be purged from my life forever—but no, don’t let him, Charmian. Even though half of him is like a Gorgon, the other half is like Mars. *(to MARDIAN)* Ask Alexas to also ask him how tall she is. Feel sorry for me, Charmian, but don’t talk to me. Help me get to my bedroom."
+
+  - os: "Exeunt"
+    ms: "They exit."

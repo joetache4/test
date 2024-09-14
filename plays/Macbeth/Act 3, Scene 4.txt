@@ -1,0 +1,477 @@
+play: Macbeth
+title: Act 3, Scene 4
+group: 3
+order: 14
+text:
+  - os: "Banquet prepared. Enter MACBETH, LADY MACBETH, ROSS, LENNOX, LORDS, and attendants."
+    ms: "The stage is set for a banquet. MACBETH enters with LADY MACBETH, ROSS, LENNOX, LORDS, and their attendants."
+
+  - sp: MACBETH
+    o:
+      - "You know your own degrees; sit down. At first"
+      - "And last, the hearty welcome."
+    m:
+      - "You know your own ranks, so you know where to sit. Sit down. From the highest to the lowest of you, I bid you a hearty welcome."
+
+  - os: "The LORDS sit"
+    ms: "The LORDS sit down."
+
+  - sp: LORDS
+    o:
+      - "    Thanks to your majesty."
+    m:
+      - "Thanks to your majesty."
+
+  - sp: MACBETH
+    o:
+      - "Ourself will mingle with society"
+      - "And play the humble host."
+      - "Our hostess keeps her state, but in best time"
+      - "We will require her welcome."
+    m:
+      - "I will walk around and mingle with all of you, playing the humble host. My wife will stay in her royal chair, but at the appropriate time I will have her welcome you all."
+
+  - sp: LADY MACBETH
+    o:
+      - "Pronounce it for me, sir, to all our friends,"
+      - "For my heart speaks they are welcome."
+    m:
+      - "Say welcome to all of our friends for me, sir, for in my heart they are all welcome."
+
+  - os: "Enter FIRST MURDERER at the door"
+    ms: "The FIRST MURDERER appears at the door."
+
+  - sp: MACBETH
+    o:
+      - "See, they encounter thee with their hearts’ thanks."
+      - "Both sides are even. Here I’ll sit i’ th’ midst."
+      - "Be large in mirth. Anon we’ll drink a measure"
+      - "The table round."
+      - "*(aside to FIRST MURDERER)* There’s blood upon thy face."
+    m:
+      - "And they respond to you with their hearts as well. The table is full on both sides. I will sit here in the middle. Be free and happy. Soon we will toast around the table. *(approaching the door and speaking to the MURDERER)* There’s blood on your face."
+
+  - sp: FIRST MURDERER
+    o:
+      - "’Tis Banquo’s then."
+    m:
+      - "Then it must be Banquo’s."
+
+  - sp: MACBETH
+    o:
+      - "’Tis better thee without than he within."
+      - "Is he dispatched?"
+    m:
+      - "I’d rather see his blood splattered on your face than flowing through his veins. Did you finish him off?"
+
+  - sp: FIRST MURDERER
+    o:
+      - "My lord, his throat is cut. That I did for him."
+    m:
+      - "My lord, his throat is cut. I did that to him."
+
+  - sp: MACBETH
+    o:
+      - "Thou art the best o’ th’ cutthroats:"
+      - "Yet he’s good that did the like for Fleance."
+      - "If thou didst it, thou art the nonpareil."
+    m:
+      - "You are the best of the cutthroats. But whoever did the same to Fleance must also be good. If you cut both their throats, then you are the absolute best."
+
+  - sp: FIRST MURDERER
+    o:
+      - "Most royal sir, Fleance is ’scaped."
+    m:
+      - "Most royal sir, Fleance has escaped."
+
+  - sp: MACBETH
+    o:
+      - "Then comes my fit again. I had else been perfect,"
+      - "Whole as the marble, founded as the rock,"
+      - "As broad and general as the casing air."
+      - "But now I am cabined, cribbed, confined, bound in"
+      - "To saucy doubts and fears.—But Banquo’s safe?"
+    m:
+      - "Now I’m scared again. Otherwise I would have been perfect, as solid as a piece of marble, as firm as a rock, as free as the air itself. But now I’m all tangled up with doubts and fears. But Banquo’s been taken care of?"
+
+  - sp: FIRST MURDERER
+    o:
+      - "Ay, my good lord. Safe in a ditch he bides,"
+      - "With twenty trenchèd gashes on his head,"
+      - "The least a death to nature."
+    m:
+      - "Yes, my good lord. He’s lying dead in a ditch, with twenty deep gashes in his head, any one of which would have been enough to kill him."
+
+  - sp: MACBETH
+    o:
+      - "    Thanks for that."
+      - "There the grown serpent lies. The worm that’s fled"
+      - "Hath nature that in time will venom breed;"
+      - "No teeth for th’ present. Get thee gone. Tomorrow"
+      - "We’ll hear ourselves again."
+    m:
+      - "Thanks for that. The adult snake lies in the ditch. The young snake that escaped will in time become poisonous and threatening, but for now he has no fangs. Get out of here. I’ll talk to you again tomorrow."
+
+  - os: "Exit FIRST MURDERER"
+    ms: "The FIRST MURDERER exits."
+
+  - sp: LADY MACBETH
+    o:
+      - "    My royal lord,"
+      - "You do not give the cheer. The feast is sold"
+      - "That is not often vouched, while ’tis a-making,"
+      - "’Tis given with welcome. To feed were best at home;"
+      - "From thence, the sauce to meat is ceremony;"
+      - "Meeting were bare without it."
+    m:
+      - "My royal lord, you’re not entertaining the guests. If you don’t make your guests know they’re welcome, they’ll feel like they’re paying for their meal. When you just want to eat, it’s better to do that at home. When you’re eating out with people, you need to have a little more ceremony. Otherwise dinner parties would be boring."
+
+  - sp: MACBETH
+    o:
+      - "    Sweet remembrancer!"
+      - "Now, good digestion wait on appetite,"
+      - "And health on both!"
+    m:
+      - "It’s nice of you to remind me. *(raising a glass to toast his guests)* Since good digestion requires a good appetite, and good health requires both of those, here’s to good appetites, good digestion, and good health!"
+
+  - sp: LENNOX
+    o:
+      - "May ’t please your highness sit."
+    m:
+      - "Why don’t you have a seat, your highness?"
+
+  - os: "Enter the GHOST OF BANQUO, and sits in MACBETH’s place"
+    ms: "The GHOST OF BANQUO enters and sits in MACBETH’s place."
+
+  - sp: MACBETH
+    o:
+      - "Here had we now our country’s honor roofed,"
+      - "Were the graced person of our Banquo present,"
+      - "Who may I rather challenge for unkindness"
+      - "Than pity for mischance."
+    m:
+      - "We would have all the nobility of Scotland gathered under one roof, if only Banquo were here. I hope it turns out that he’s late out of rudeness, and not because something bad has happened to him."
+
+  - sp: ROSS
+    o:
+      - "    His absence, sir,"
+      - "Lays blame upon his promise. Please ’t your highness"
+      - "To grace us with your royal company?"
+    m:
+      - "His absence means he’s broken his promise, sir. If it pleases you, your highness, why don’t you sit with us and grace us with your royal company?"
+
+  - sp: MACBETH
+    o:
+      - "The table’s full."
+    m:
+      - "The table’s full."
+
+  - sp: LENNOX
+    o:
+      - "Here is a place reserved, sir."
+    m:
+      - "Here’s an empty seat, sir."
+
+  - sp: MACBETH
+    o:
+      - "Where?"
+    m:
+      - "Where?"
+
+  - sp: LENNOX
+    o:
+      - "Here, my good lord. What is ’t that moves your highness?"
+    m:
+      - "*(pointing to where the GHOST sits)* Here, my good lord. What’s wrong, your highness?"
+
+  - sp: MACBETH
+    o:
+      - "Which of you have done this?"
+    m:
+      - "*(seeing the GHOST)* Which one of you did this?"
+
+  - sp: LORDS
+    o:
+      - "    What, my good lord?"
+    m:
+      - "What, my good lord?"
+
+  - sp: MACBETH
+    o:
+      - "*(to GHOST)* Thou canst not say I did it. Never shake"
+      - "Thy gory locks at me."
+    m:
+      - "*(to the GHOST)* You can’t say I did it. Don’t shake your bloody head at me."
+
+  - sp: ROSS
+    o:
+      - "Gentlemen, rise. His highness is not well."
+    m:
+      - "Gentlemen, stand up. His highness is not well."
+
+  - sp: LADY MACBETH
+    o:
+      - "Sit, worthy friends. My lord is often thus"
+      - "And hath been from his youth. Pray you, keep seat."
+      - "The fit is momentary; upon a thought"
+      - "He will again be well. If much you note him,"
+      - "You shall offend him and extend his passion."
+      - "Feed and regard him not. *(aside to MACBETH)* Are you a man?"
+    m:
+      - "Sit down, worthy friends. My husband is often like this, and he has been since he was a child. Please stay seated. This is just a brief fit. In a moment he’ll be well again. If you pay too much attention to him you’ll make him angry, and that will make his convulsions go on longer. Eat your dinner and pay no attention to him. *(speaking so that only MACBETH can hear)* Are you a man?"
+
+  - sp: MACBETH
+    o:
+      - "Ay, and a bold one, that dare look on that"
+      - "Which might appall the devil."
+    m:
+      - "Yes, and a brave one, who dares to look at something that would frighten the devil."
+
+  - sp: LADY MACBETH
+    o:
+      - "    O proper stuff!"
+      - "This is the very painting of your fear."
+      - "This is the air-drawn dagger which you said"
+      - "Led you to Duncan. Oh, these flaws and starts,"
+      - "Impostors to true fear, would well become"
+      - "A woman’s story at a winter’s fire,"
+      - "Authorized by her grandam. Shame itself!"
+      - "Why do you make such faces? When all’s done,"
+      - "You look but on a stool."
+    m:
+      - "Oh, that’s nonsense! This is just another one of the hallucinations you always get when you’re afraid. This is like that floating dagger you said was leading you toward Duncan. These outbursts of yours don’t even look like real fear. They’re more like how you would act if you were a woman telling a scary story by the fireside in front of her grandmother. Shame on you! Why are you making these faces? When the vision passes, you’ll see that you’re just looking at a stool."
+
+  - sp: MACBETH
+    o:
+      - "Prithee, see there! Behold! Look! Lo! How say you?"
+      - "Why, what care I? If thou canst nod, speak too."
+      - "If charnel houses and our graves must send"
+      - "Those that we bury back, our monuments"
+      - "Shall be the maws of kites."
+    m:
+      - "Please, just look over there. Look! Look! See! *(to the GHOST)* What do you have to say? What do I care? If you can nod, then speak too. If the dead are going to return from their graves, then there’s nothing to stop the birds from eating the bodies. So there’s no point in our burying people."
+
+  - os: "Exit GHOST"
+    ms: "The GHOST vanishes."
+
+  - sp: LADY MACBETH
+    o:
+      - "    What, quite unmanned in folly?"
+    m:
+      - "What, has your foolishness paralyzed you completely?"
+
+  - sp: MACBETH
+    o:
+      - "If I stand here, I saw him."
+    m:
+      - "As sure as I’m standing here, I saw him."
+
+  - sp: LADY MACBETH
+    o:
+      - "    Fie, for shame!"
+    m:
+      - "Nonsense!"
+
+  - sp: MACBETH
+    o:
+      - "Blood hath been shed ere now, i’ th’ olden time,"
+      - "Ere humane statute purged the gentle weal;"
+      - "Ay, and since too, murders have been performed"
+      - "Too terrible for the ear. The time has been"
+      - "That, when the brains were out, the man would die,"
+      - "And there an end. But now they rise again"
+      - "With twenty mortal murders on their crowns"
+      - "And push us from our stools. This is more strange"
+      - "Than such a murder is."
+    m:
+      - "In ancient times, before there were laws to make the land safe and peaceful, a lot of blood was spilled. Yes, and since then murders have been committed that are too awful to talk about. It used to be that when you knocked a man’s brains out he would just die, and that would be it. But now they rise from the dead with twenty fatal head wounds and push us off our stools. This haunting business is even stranger than murder."
+
+  - sp: LADY MACBETH
+    o:
+      - "My worthy lord,"
+      - "Your noble friends do lack you."
+    m:
+      - "My worthy lord, your noble friends miss your company."
+
+  - sp: MACBETH
+    o:
+      - "    I do forget."
+      - "Do not muse at me, my most worthy friends."
+      - "I have a strange infirmity, which is nothing"
+      - "To those that know me. Come, love and health to all."
+      - "Then I’ll sit down. Give me some wine. Fill full."
+    m:
+      - "I forgot about them. *(to the guests)* Don’t be alarmed on my account, my most worthy friends. I have a strange disorder, which no longer shocks those who know me well. *(raising his glass to toast the company)* Come, let’s drink a toast: love and health to you all. Now I’ll sit down. Give me some wine. Fill up my cup."
+
+  - os: "Enter the GHOST OF BANQUO"
+    ms: "The GHOST OF BANQUO reappears in MACBETH’s seat."
+
+  - o:
+      - "I drink to the general joy o’ th’ whole table,"
+      - "And to our dear friend Banquo, whom we miss;"
+      - "Would he were here! To all and him we thirst,"
+      - "And all to all."
+    m:
+      - "I drink to the happiness of everyone at the table, and to our dear friend Banquo, whom we miss. I wish he were here! Let’s drink to everyone here, and to Banquo. Now, everybody, drink"
+
+  - sp: LORDS
+    o:
+      - "    Our duties, and the pledge."
+    m:
+      - "Hear, hear."
+
+  - os: "They drink"
+    ms: "They drink."
+
+  - sp: MACBETH
+    o:
+      - "*(seeing the GHOST)* Avaunt, and quit my sight! Let the earth hide thee."
+      - "Thy bones are marrowless, thy blood is cold."
+      - "Thou hast no speculation in those eyes"
+      - "Which thou dost glare with!"
+    m:
+      - "*(to the GHOST)* Go! And get out of my sight! Stay in your grave. There’s no marrow in your bones, and your blood is cold. You’re staring at me with eyes that have no power to see."
+
+  - sp: LADY MACBETH
+    o:
+      - "    Think of this, good peers,"
+      - "But as a thing of custom. ’Tis no other;"
+      - "Only it spoils the pleasure of the time."
+    m:
+      - "Good friends, think of this as nothing more than a strange habit. It’s nothing else. Too bad it’s spoiling our pleasure tonight."
+
+  - sp: MACBETH
+    o:
+      - "What man dare, I dare."
+      - "Approach thou like the rugged Russian bear,"
+      - "The armed rhinoceros, or th’ Hyrcan tiger;"
+      - "Take any shape but that, and my firm nerves"
+      - "Shall never tremble. Or be alive again,"
+      - "And dare me to the desert with thy sword."
+      - "If trembling I inhabit then, protest me"
+      - "The baby of a girl. Hence, horrible shadow!"
+      - "Unreal mockery, hence!"
+    m:
+      - "I am as brave as any other man. Come at me in the form of a rugged Russian bear, an armor-plated rhinoceros, or a tiger from Iran. Take any shape other than the one you have now and I will never tremble in fear. Or come back to life again and challenge me to a duel in some deserted place. If I tremble then, you can call me a little girl. Get out of here, you horrible ghost, you hallucination. Get out!"
+
+  - os: "Exit GHOST"
+    ms: "The GHOST vanishes."
+
+  - o:
+      - "    Why so, being gone,"
+      - "    Why so, being gone,"
+      - "I am a man again. Pray you sit still."
+    m:
+      - "I am a man again. Pray you sit still. Look, now that it’s gone, I’m a man again. Please, remain seated."
+
+  - sp: LADY MACBETH
+    o:
+      - "You have displaced the mirth, broke the good meeting,"
+      - "With most admired disorder."
+    m:
+      - "You have ruined our good cheer and disrupted the gathering by making a spectacle of yourself."
+
+  - sp: MACBETH
+    o:
+      - "    Can such things be,"
+      - "And overcome us like a summer’s cloud,"
+      - "Without our special wonder? You make me strange"
+      - "Even to the disposition that I owe,"
+      - "When now I think you can behold such sights,"
+      - "And keep the natural ruby of your cheeks,"
+      - "When mine is blanched with fear."
+    m:
+      - "*(to the guests)* Can things like this happen so suddenly without making us all astonished? You make me feel like I don’t know myself, when I see you looking at these terrible things and keeping a straight face, while my face has gone white with fear."
+
+  - sp: ROSS
+    o:
+      - "    What sights, my lord?"
+    m:
+      - "What things, my lord?"
+
+  - sp: LADY MACBETH
+    o:
+      - "I pray you, speak not. He grows worse and worse."
+      - "Question enrages him. At once, good night."
+      - "Stand not upon the order of your going,"
+      - "But go at once."
+    m:
+      - "Please, don’t speak to him. He’s getting worse and worse. Talk makes him crazy. Everybody, please leave right now. Don’t bother exiting in the order of your rank, but just leave right away."
+
+  - sp: LENNOX
+    o:
+      - "Good night, and better health"
+      - "Attend his majesty!"
+    m:
+      - "Good night. I hope the king recovers soon!"
+
+  - sp: LADY MACBETH
+    o:
+      - "A kind good night to all!"
+    m:
+      - "A kind good night to all!"
+
+  - os: "Exeunt all but MACBETH and LADY MACBETH"
+    ms: "Everyone leaves except MACBETH and LADY MACBETH."
+
+  - sp: MACBETH
+    o:
+      - "It will have blood, they say. Blood will have blood."
+      - "Stones have been known to move, and trees to speak."
+      - "Augurs and understood relations have"
+      - "By magot pies and choughs and rooks brought forth"
+      - "The secret’st man of blood.—What is the night?"
+    m:
+      - "There’s an old saying: the dead will have their revenge. Gravestones have been known to move, and trees to speak, to bring guilty men to justice. The craftiest murderers have been exposed by the mystical signs made by crows and magpies. How late at night is it?"
+
+  - sp: LADY MACBETH
+    o:
+      - "Almost at odds with morning, which is which."
+    m:
+      - "It’s almost morning. You can’t tell whether it’s day or night."
+
+  - sp: MACBETH
+    o:
+      - "How say’st thou that Macduff denies his person"
+      - "At our great bidding?"
+    m:
+      - "What do you think about the fact that Macduff refuses to come to me when I command him?"
+
+  - sp: LADY MACBETH
+    o:
+      - "    Did you send to him, sir?"
+    m:
+      - "Did you send for him, sir?"
+
+  - sp: MACBETH
+    o:
+      - "I hear it by the way; but I will send."
+      - "There’s not a one of them but in his house"
+      - "I keep a servant fee’d. I will tomorrow—"
+      - "And betimes I will—to the weird sisters."
+      - "More shall they speak, for now I am bent to know,"
+      - "By the worst means, the worst. For mine own good,"
+      - "All causes shall give way. I am in blood"
+      - "Stepped in so far that, should I wade no more,"
+      - "Returning were as tedious as go o’er."
+      - "Strange things I have in head, that will to hand,"
+      - "Which must be acted ere they may be scanned."
+    m:
+      - "I’ve heard about this indirectly, but I will send for him. In every one of the lords’ households I have a servant paid to spy for me. Tomorrow, while it’s still early, I will go see the witches. They will tell me more, because I’m determined to know the worst about what’s going to happen. My own safety is the only important thing now. I have walked so far into this river of blood that even if I stopped now, it would be as hard to go back to being good as it is to keep killing people. I have some schemes in my head that I’m planning to put into action. I have to do these things before I have a chance to think about them."
+
+  - sp: LADY MACBETH
+    o:
+      - "You lack the season of all natures, sleep."
+    m:
+      - "You haven’t slept."
+
+  - sp: MACBETH
+    o:
+      - "Come, we’ll to sleep. My strange and self-abuse"
+      - "Is the initiate fear that wants hard use."
+      - "We are yet but young in deed."
+    m:
+      - "Yes, let’s go to sleep. My strange self-delusions just come from inexperience. We’re still just beginners when it comes to crime."
+
+  - os: "Exeunt"
+    ms: "They exit."

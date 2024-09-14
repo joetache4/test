@@ -1,0 +1,355 @@
+play: Richard III
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter RICHARD, Duke of Gloucester, solus"
+    ms: "RICHARD, Duke of Gloucester, enters alone."
+
+  - sp: RICHARD
+    o:
+      - "Now is the winter of our discontent"
+      - "Made glorious summer by this son of York,"
+      - "And all the clouds that loured upon our house"
+      - "In the deep bosom of the ocean buried."
+      - "Now are our brows bound with victorious wreaths,"
+      - "Our bruisèd arms hung up for monuments,"
+      - "Our stern alarums changed to merry meetings,"
+      - "Our dreadful marches to delightful measures."
+      - "Grim-visaged war hath smoothed his wrinkled front;"
+      - "And now, instead of mounting barbèd steeds"
+      - "To fright the souls of fearful adversaries,"
+      - "He capers nimbly in a lady’s chamber"
+      - "To the lascivious pleasing of a lute."
+      - "But I, that am not shaped for sportive tricks,"
+      - "Nor made to court an amorous looking glass;"
+      - "I, that am rudely stamped and want love’s majesty"
+      - "To strut before a wanton ambling nymph;"
+      - "I, that am curtailed of this fair proportion,"
+      - "Cheated of feature by dissembling nature,"
+      - "Deformed, unfinished, sent before my time"
+      - "Into this breathing world, scarce half made up,"
+      - "And that so lamely and unfashionable"
+      - "That dogs bark at me as I halt by them—"
+      - "Why, I, in this weak piping time of peace,"
+      - "Have no delight to pass away the time,"
+      - "Unless to see my shadow in the sun"
+      - "And descant on mine own deformity."
+      - "And therefore, since I cannot prove a lover"
+      - "To entertain these fair well-spoken days,"
+      - "I am determinèd to prove a villain"
+      - "And hate the idle pleasures of these days."
+      - "Plots have I laid, inductions dangerous,"
+      - "By drunken prophecies, libels and dreams,"
+      - "To set my brother Clarence and the king"
+      - "In deadly hate, the one against the other;"
+      - "And if King Edward be as true and just"
+      - "As I am subtle, false, and treacherous,"
+      - "This day should Clarence closely be mewed up"
+      - "About a prophecy which says that “G”"
+      - "Of Edward’s heirs the murderer shall be."
+      - "Dive, thoughts, down to my soul. Here Clarence comes."
+    m:
+      - "Now all of my family’s troubles have come to a glorious end, thanks to my brother, King Edward IV. All the clouds that threatened the York family have vanished and turned to sunshine. Now we wear the wreaths of victory on our heads. We’ve taken off our armor and weapons and hung them up as decorations. Instead of hearing trumpets call us to battle, we dance at parties. We get to wear easy smiles on our faces rather than the grim expressions of war. Instead of charging toward our enemies on armored horses, we dance for our ladies in their chambers, accompanied by sexy songs on the lute. But I’m not made to be a seducer, or to make faces at myself in the mirror. I was badly made and don’t have the looks to strut my stuff in front of pretty sluts. I’ve been cheated of a nice body and face, or even normal proportions. I am deformed, spit out from my mother’s womb prematurely and so badly formed that dogs bark at me as I limp by them. I’m left with nothing to do in this weak, idle peacetime, unless I want to look at my lumpy shadow in the sun and sing about *that*. Since I can’t amuse myself by being a lover, I’ve decided to become a villain. I’ve set dangerous plans in motion, using lies, drunken prophecies, and stories about dreams to set my brother Clarence and the king against each other. If King Edward is as honest and fair-minded as I am deceitful and cruel, then Clarence is going to be locked away in prison today because of a prophecy that “G” will murder Edward’s children. Oh, time to hide what I’m thinking—here comes Clarence."
+
+  - os: "Enter CLARENCE, guarded, and BRAKENBURY"
+    ms: "CLARENCE enters, surrounded by guards, with BRAKENBURY."
+
+  - o:
+      - "Brother, good day. What means this armèd guard"
+      - "That waits upon your Grace?"
+    m:
+      - "Good afternoon, brother. Why are you surrounded by these armed guards?"
+
+  - sp: CLARENCE
+    o:
+      - "    His majesty,"
+      - "Tend’ring my person’s safety, hath appointed"
+      - "This conduct to convey me to the Tower."
+    m:
+      - "His majesty is so concerned about my personal safety that he has ordered them to conduct me to the Tower."
+
+  - sp: RICHARD
+    o:
+      - "Upon what cause?"
+    m:
+      - "You’re being arrested? Why?"
+
+  - sp: CLARENCE
+    o:
+      - "  Because my name is George."
+    m:
+      - "Because my name is George."
+
+  - sp: RICHARD
+    o:
+      - "Alack, my lord, that fault is none of yours."
+      - "He should, for that, commit your godfathers."
+      - "O, belike his majesty hath some intent"
+      - "That you shall be new christened in the Tower."
+      - "But what’s the matter, Clarence? May I know?"
+    m:
+      - "That’s not your fault! He should imprison the person who named you, instead. Maybe the king is sending you to the Tower to have you renamed. But, really, what’s going on, Clarence? Can you tell me?"
+
+  - sp: CLARENCE
+    o:
+      - "Yea, Richard, when I know, for I protest"
+      - "As yet I do not. But, as I can learn,"
+      - "He hearkens after prophecies and dreams,"
+      - "And from the crossrow plucks the letter *G*,"
+      - "And says a wizard told him that by “G”"
+      - "His issue disinherited should be."
+      - "And for my name of George begins with *G*,"
+      - "It follows in his thought that I am he."
+      - "These, as I learn, and such like toys as these"
+      - "Have moved his Highness to commit me now."
+    m:
+      - "I’ll tell you as soon as I know, Richard, because at this point I have no idea. All I’ve been able to find out is that our brother the king has been listening to prophecies and dreams. He picked out the letter “G” from the alphabet and said a wizard told him that “G” will take the throne away from his children. He thinks “G” is me. I’ve learned that this, along with other frivolous reasons like it, is what prompted the king to send me to prison."
+
+  - sp: RICHARD
+    o:
+      - "Why, this it is when men are ruled by women."
+      - "’Tis not the king that sends you to the Tower."
+      - "My Lady Grey his wife, Clarence, ’tis she"
+      - "That tempers him to this extremity."
+      - "Was it not she and that good man of worship,"
+      - "Anthony Woodeville, her brother there,"
+      - "That made him send Lord Hastings to the Tower,"
+      - "From whence this present day he is delivered?"
+      - "We are not safe, Clarence. We are not safe."
+    m:
+      - "Well, this is what happens when men let themselves be ruled by women. The king isn’t the one sending you to the Tower, Clarence. It’s his wife, Lady Grey, who got him to do this. Remember how she and her brother, Anthony Woodeville, made him send Lord Hastings to the Tower? Hastings was just released. We’re not safe, Clarence, we’re not safe."
+
+  - sp: CLARENCE
+    o:
+      - "By heaven, I think there is no man is secure"
+      - "But the queen’s kindred and night-walking heralds"
+      - "That trudge betwixt the king and Mistress Shore."
+      - "Heard ye not what an humble suppliant"
+      - "Lord Hastings was to her for his delivery?"
+    m:
+      - "By God, I think the only people who *are* safe are the queen’s own relatives and the late-night messengers the king uses to fetch his mistress, Mistress Shore. Did you hear how Lord Hastings had to beg the queen to be freed?"
+
+  - sp: RICHARD
+    o:
+      - "Humbly complaining to her deity"
+      - "Got my Lord Chamberlain his liberty."
+      - "I’ll tell you what: I think it is our way,"
+      - "If we will keep in favor with the king,"
+      - "To be her men and wear her livery."
+      - "The jealous o’erworn widow and herself,"
+      - "Since that our brother dubbed them gentlewomen,"
+      - "Are mighty gossips in this monarchy."
+    m:
+      - "Hastings got his freedom by bowing down to that goddess. And I’ll tell you what. If we want to stay in the king’s good graces, we’re going have to act like the mistress’ servants, too. Ever since our brother made them gentlewomen, Mistress Shore and the queen have become mighty busybodies in our kingdom."
+
+  - sp: BRAKENBURY
+    o:
+      - "I beseech your Graces both to pardon me."
+      - "His majesty hath straitly given in charge"
+      - "That no man shall have private conference,"
+      - "Of what degree soever, with his brother."
+    m:
+      - "I beg your pardon, my lords, but the king gave me orders that no one, however high in rank, should speak privately to Clarence."
+
+  - sp: RICHARD
+    o:
+      - "Even so. An please your Worship, Brakenbury,"
+      - "You may partake of anything we say."
+      - "We speak no treason, man. We say the king"
+      - "Is wise and virtuous, and his noble queen"
+      - "Well struck in years, fair, and not jealous."
+      - "We say that Shore’s wife hath a pretty foot,"
+      - "A cherry lip, a bonny eye, a passing pleasing tongue,"
+      - "And that the queen’s kindred are made gentlefolks."
+      - "How say you, sir? Can you deny all this?"
+    m:
+      - "All right. If you like, Brakenbury, you can listen to anything we say. We’re not saying anything treasonous, man. We say the king is wise and good, and his noble queen is getting old, pretty, and not jealous. And that Mr. Shore’s wife has nice feet, cherry lips, pretty eyes, and a very pleasant way of expressing herself. And, finally, that the queen’s relatives have all been elevated in rank. What do you think? Is there anything inaccurate in that?"
+
+  - sp: BRAKENBURY
+    o:
+      - "With this, my lord, myself have naught to do."
+    m:
+      - "I have nothing to do with what you’re talking about, my lord."
+
+  - sp: RICHARD
+    o:
+      - "Naught to do with Mistress Shore? I tell thee, fellow,"
+      - "He that doth naught with her, excepting one,"
+      - "Were best he do it secretly, alone."
+    m:
+      - "“Nothing to do” with Mrs. Shore! I tell you, mister, there’s only one man who gets to do “nothing,” with her and not be punished for it. Everyone else had better keep their “nothings” to themselves."
+
+  - sp: BRAKENBURY
+    o:
+      - "What one, my lord?"
+    m:
+      - "Who is that, my lord?"
+
+  - sp: RICHARD
+    o:
+      - "Her husband, knave. Wouldst thou betray me?"
+    m:
+      - "Her husband, you rascal. Are you going to get me in trouble?"
+
+  - sp: BRAKENBURY
+    o:
+      - "I do beseech your Grace to pardon me, and withal"
+      - "Forbear your conference with the noble duke."
+    m:
+      - "I beg your Grace to pardon me, and now please stop talking to Clarence."
+
+  - sp: CLARENCE
+    o:
+      - "We know thy charge, Brakenbury, and will obey."
+    m:
+      - "We know you have a job to do, Brakenbury, and we’ll do what you say."
+
+  - sp: RICHARD
+    o:
+      - "We are the queen’s abjects and must obey.—"
+      - "Brother, farewell. I will unto the king,"
+      - "And whatsoe’er you will employ me in,"
+      - "Were it to call King Edward’s widow “sister,”"
+      - "I will perform it to enfranchise you."
+      - "Meantime, this deep disgrace in brotherhood"
+      - "Touches me deeper than you can imagine."
+    m:
+      - "We are required to serve the queen, and we must obey her. Farewell, brother. I will go to the king and do whatever you want me to, even if it’s to call my brother’s wife “sister,” in order to set you free. But just so you know, I am very angry about how our own brother has treated you, angrier than you can imagine."
+
+  - sp: CLARENCE
+    o:
+      - "I know it pleaseth neither of us well."
+    m:
+      - "It doesn’t make either of us happy, I know."
+
+  - sp: RICHARD
+    o:
+      - "Well, your imprisonment shall not be long."
+      - "I will deliver you or else lie for you."
+      - "Meantime, have patience."
+    m:
+      - "Well, your imprisonment won’t last long. I will either get you out, lying if I have to, or stay in prison in your place. In the meantime, be patient."
+
+  - sp: CLARENCE
+    o:
+      - "I must perforce. Farewell."
+    m:
+      - "I have no choice. Goodbye."
+
+  - os: "Exeunt CLARENCE, BRAKENBURY, and guard"
+    ms: "CLARENCE, BRAKENBURY, and the guards exit."
+
+  - sp: RICHARD
+    o:
+      - "Go tread the path that thou shalt ne’er return."
+      - "Simple, plain Clarence, I do love thee so"
+      - "That I will shortly send thy soul to heaven,"
+      - "If heaven will take the present at our hands."
+      - "But who comes here? The new-delivered Hastings?"
+    m:
+      - "Go walk the path that you will never return from. Dumb, honest Clarence. I love you so much that I’ll send your soul to heaven very soon—if heaven will accept anything from me, that is. But who’s coming? The newly released Hastings?"
+
+  - os: "Enter HASTINGS"
+    ms: "HASTINGS enters."
+
+  - sp: HASTINGS
+    o:
+      - "Good time of day unto my gracious lord."
+    m:
+      - "Good afternoon, my dear lord!"
+
+  - sp: RICHARD
+    o:
+      - "As much unto my good Lord Chamberlain."
+      - "Well are you welcome to the open air."
+      - "How hath your lordship brooked imprisonment?"
+    m:
+      - "The same to you, my lord! Welcome to the open air again. How did you tolerate prison?"
+
+  - sp: HASTINGS
+    o:
+      - "With patience, noble lord, as prisoners must."
+      - "But I shall live, my lord, to give them thanks"
+      - "That were the cause of my imprisonment."
+    m:
+      - "With patience, noble lord, as prisoners must. But I will live to thank those who sent me there."
+
+  - sp: RICHARD
+    o:
+      - "No doubt, no doubt; and so shall Clarence too,"
+      - "For they that were your enemies are his"
+      - "And have prevailed as much on him as you."
+    m:
+      - "No doubt, no doubt. And so will Clarence, for your enemies are his enemies, and they have gotten the upper hand of him as well as of you."
+
+  - sp: HASTINGS
+    o:
+      - "More pity that the eagle should be mewed"
+      - "While kites and buzzards prey at liberty."
+    m:
+      - "It’s a shame that we eagles are caged up while the vultures are free to do whatever they please."
+
+  - sp: RICHARD
+    o:
+      - "What news abroad?"
+    m:
+      - "What’s the news abroad?"
+
+  - sp: HASTINGS
+    o:
+      - "No news so bad abroad as this at home:"
+      - "The king is sickly, weak and melancholy,"
+      - "And his physicians fear him mightily."
+    m:
+      - "No news as bad as the news at home: The king is sickly, weak, and depressed, and his doctors are very afraid he’s going to die"
+
+  - sp: RICHARD
+    o:
+      - "Now, by Saint Paul, that news is bad indeed."
+      - "O, he hath kept an evil diet long,"
+      - "And overmuch consumed his royal person."
+      - "’Tis very grievous to be thought upon."
+      - "Where is he, in his bed?"
+    m:
+      - "Now, by George, that really is terrible news. Oh, the king has abused his body with bad habits for a long time, and it’s finally taking its toll on him. Very sad. Where is he, in his bed?"
+
+  - sp: HASTINGS
+    o:
+      - "He is."
+    m:
+      - "He is."
+
+  - sp: RICHARD
+    o:
+      - "Go you before, and I will follow you."
+    m:
+      - "You go ahead, and I will follow you."
+
+  - os: "Exit HASTINGS"
+    ms: "HASTINGS exits."
+
+  - o:
+      - "He cannot live, I hope, and must not die"
+      - "Till George be packed with post-horse up to heaven."
+      - "I’ll in to urge his hatred more to Clarence"
+      - "With lies well steeled with weighty arguments,"
+      - "And, if I fail not in my deep intent,"
+      - "Clarence hath not another day to live;"
+      - "Which done, God take King Edward to His mercy,"
+      - "And leave the world for me to bustle in."
+      - "For then I’ll marry Warwick’s youngest daughter."
+      - "What though I killed her husband and her father?"
+      - "The readiest way to make the wench amends"
+      - "Is to become her husband and her father;"
+      - "The which will I, not all so much for love"
+      - "As for another secret close intent"
+      - "By marrying her which I must reach unto."
+      - "But yet I run before my horse to market."
+      - "Clarence still breathes; Edward still lives and reigns."
+      - "When they are gone, then must I count my gains."
+    m:
+      - "The king won’t live, I hope. But he’d better not die till Clarence is sent packing to heaven. I’ll go see the king and, with carefully argued lies, get him to hate Clarence even more than he already does. If my plan succeeds, Clarence doesn’t have another day to live. Then God’s free to send King Edward to heaven, too, and leave me the world to run around in! I’ll marry the earl of Warwick’s youngest daughter, Lady Anne. So what if I killed her husband and her father? The best way to make up for the girl’s losses is to become what she’s lost: a husband and a father. So that’s what I’ll do, not because I love her but because I’ll get something out of it. But I’m running ahead of myself. Clarence is still alive; Edward is not only alive, he’s king. Only when they’re dead can I start to count my gains."
+
+  - os: "Exit"
+    ms: "He exits."

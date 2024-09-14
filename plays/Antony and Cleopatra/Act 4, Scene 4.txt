@@ -1,0 +1,170 @@
+play: Antony and Cleopatra
+title: Act 4, Scene 4
+group: 4
+order: 28
+text:
+  - os: "Enter ANTONY and CLEOPATRA, with CHARMIAN and others attending"
+    ms: "ANTONY and CLEOPATRA enter with CHARMIAN and others of the court."
+
+  - sp: ANTONY
+    o:
+      - "*(calling)* Eros! Mine armor, Eros!"
+    m:
+      - "*(calling)* Eros! Bring my armor, Eros."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Sleep a little."
+    m:
+      - "Get a little sleep."
+
+  - sp: ANTONY
+    o:
+      - "No, my chuck.—Eros, come, mine armor, Eros!"
+    m:
+      - "No, my dear . . . Eros, come on, bring my armor, Eros."
+
+  - os: "Enter EROS with armor"
+    ms: "EROS enters, carrying ANTONY’s armor."
+
+  - o:
+      - "Come, good fellow, put thine iron on."
+      - "If fortune be not ours today, it is"
+      - "Because we brave her. Come."
+    m:
+      - "Come on, good fellow, help me into that armor you’re carrying. If luck deserts us today, it’s because we defy it. Come on."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Nay, I’ll help too. What’s this for?"
+    m:
+      - "No, I’ll help too. What’s this part for?"
+
+  - os: "She helps to arm him"
+    ms: "She picks up a piece of the armor."
+
+  - sp: ANTONY
+    o:
+      - "    Ah, let be, let be! Thou art The armorer of my heart. False, false. This, this."
+    m:
+      - "Ah, leave it alone. Leave it alone! You armor my heart. No! No! That part goes there."
+
+  - sp: CLEOPATRA
+    o:
+      - "Sooth, la, I’ll help. Thus it must be."
+    m:
+      - "Really, I’ll help. It must go like this."
+
+  - sp: ANTONY
+    o:
+      - "    Well, well,"
+      - "We shall thrive now.—Seest thou, my good fellow?"
+      - "Go put on thy defenses."
+    m:
+      - "Yes, well done. We’ve got it now.—Do you see this, my good fellow? Go and put on your own armor."
+
+  - sp: EROS
+    o:
+      - "    Briefly, sir."
+    m:
+      - "In a minute, sir."
+
+  - sp: CLEOPATRA
+    o:
+      - "Is not this buckled well?"
+    m:
+      - "Didn’t I buckle this well?"
+
+  - sp: ANTONY
+    o:
+      - "    Rarely, rarely."
+      - "He that unbuckles this, till we do please"
+      - "To doff ’t for our repose, shall hear a storm.—"
+      - "Thou fumblest, Eros, and my Queen’s a squire"
+      - "More tight at this than thou. Dispatch.—O love,"
+      - "That thou couldst see my wars today, and knew’st"
+      - "The royal occupation! Thou shouldst see"
+      - "A workman in ’t."
+    m:
+      - "Excellently, excellently. Anyone who unbuckles this before I want to take it off to rest will be sorry.—You’re fumbling, Eros. My Queen’s a better squire than you are. Hurry.—Oh, love, if you could only watch the battle today and see how expert I am at my craft."
+
+  - os: "Enter an armed SOLDIER"
+    ms: "An armed SOLDIER enters."
+
+  - o:
+      - "    Good morrow to thee. Welcome."
+      - "Thou look’st like him that knows a warlike charge."
+      - "To business that we love we rise betimes"
+      - "And go to ’t with delight."
+    m:
+      - "Good morning to you. Welcome. You look like a person who knows the business of war. When we love our job we get up early and go to it joyfully."
+
+  - sp: SOLDIER
+    o:
+      - "    A thousand, sir,"
+      - "Early though ’t be, have on their riveted trim"
+      - "And at the port expect you."
+    m:
+      - "Even though it’s early, there are already a thousand armored soldiers waiting for you at the harbor."
+
+  - os: "Shout. Trumpets flourish"
+    ms: "A shout is heard, then a trumpet fanfare."
+
+  - os: "Enter CAPTAINS and SOLDIERS"
+    ms: "CAPTAINS and SOLDIERS enter."
+
+  - sp: CAPTAIN
+    o:
+      - "The morn is fair. Good morrow, General."
+    m:
+      - "The weather is fair. Good morning, General."
+
+  - sp: ALL
+    o:
+      - "Good morrow, General."
+    m:
+      - "Good morning, General."
+
+  - sp: ANTONY
+    o:
+      - "    ’Tis well blown, lads."
+      - "This morning, like the spirit of a youth"
+      - "That means to be of note, begins betimes."
+      - "So, so. *(to CLEOPATRA)* Come, give me that. This way. Well said."
+      - "Fare thee well, dame."
+    m:
+      - "That was a fine fanfare, boys. Like a young man who wants to amount to something, this morning begins early. *(to CLEOPATRA)* So, so. Here, give me that. This is how it goes on. Well done. Farewell, lady."
+
+  - os: "He kisses her"
+    ms: "He kisses her."
+
+  - o:
+      - "    Whate’er becomes of me,"
+      - "This is a soldier’s kiss. Rebukable"
+      - "And worthy shameful check it were to stand"
+      - "On more mechanic compliment. I’ll leave thee"
+      - "Now like a man of steel. *(to others)* You that will fight,"
+      - "Follow me close. I’ll bring you to ’t. *(to CLEOPATRA)* Adieu."
+    m:
+      - "Whatever happens to me, this is a soldier’s kiss. It would be shameful to draw out our good-byes. I’ll leave you without revealing any emotion, like a man of steel. *(to the others)* Anyone who wants to fight, follow me now, and I’ll see you get your wish. *(to CLEOPATRA)* Good-bye."
+
+  - os: "Exeunt ANTONY, EROS, CAPTAINS, and SOLDIERS"
+    ms: "ANTONY and EROS exit with the CAPTAINS and SOLDIERS."
+
+  - sp: CHARMIAN
+    o:
+      - "Please you retire to your chamber?"
+    m:
+      - "If it pleases you, let’s go to your room."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Lead me."
+      - "He goes forth gallantly. That he and Caesar might"
+      - "Determine this great war in single fight!"
+      - "Then Antony—but now—. Well, on."
+    m:
+      - "Lead the way. He goes forth to war bravely. If only he and Caesar could determine the outcome of this war by single combat! Then Antony would—but, with circumstances as they are—well, let’s go."
+
+  - os: "Exeunt"
+    ms: "They exit."

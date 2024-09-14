@@ -1,0 +1,226 @@
+play: Macbeth
+title: Act 5, Scene 8
+group: 5
+order: 27
+text:
+  - os: "Enter MACBETH"
+    ms: "MACBETH enters."
+
+  - sp: MACBETH
+    o:
+      - "Why should I play the Roman fool and die"
+      - "On mine own sword? Whiles I see lives, the gashes"
+      - "Do better upon them."
+    m:
+      - "Why should I commit suicide like one of the ancient Romans? As long as I see enemies of mine alive, I would rather see my sword wound them than me."
+
+  - os: "Enter MACDUFF"
+    ms: "MACDUFF enters."
+
+  - sp: MACDUFF
+    o:
+      - "    Turn, hellhound, turn!"
+    m:
+      - "Turn around, you dog from hell, turn around!"
+
+  - sp: MACBETH
+    o:
+      - "Of all men else I have avoided thee."
+      - "But get thee back. My soul is too much charged"
+      - "With blood of thine already."
+    m:
+      - "You are the only man I have avoided. But go away now. I’m already guilty of killing your whole family."
+
+  - sp: MACDUFF
+    o:
+      - "    I have no words."
+      - "My voice is in my sword. Thou bloodier villain"
+      - "Than terms can give thee out!"
+    m:
+      - "I have nothing to say to you. My sword will talk for me. You are too evil for words!"
+
+  - os: "They fight"
+    ms: "They fight."
+
+  - sp: MACBETH
+    o:
+      - "    Thou losest labor."
+      - "As easy mayst thou the intrenchant air"
+      - "With thy keen sword impress as make me bleed."
+      - "Let fall thy blade on vulnerable crests;"
+      - "I bear a charmèd life, which must not yield"
+      - "To one of woman born."
+    m:
+      - "You’re wasting your time trying to wound me. You might as well try to stab the air with your sword. Go fight someone who can be harmed. I lead a charmed life, which can’t be ended by anyone born from a woman."
+
+  - sp: MACDUFF
+    o:
+      - "    Despair thy charm,"
+      - "And let the angel whom thou still hast served"
+      - "Tell thee, Macduff was from his mother’s womb"
+      - "Untimely ripped."
+    m:
+      - "You can forget about your charm. The evil spirit you serve can tell you that I was not born. They cut me out of my mother’s womb before she could bear me naturally."
+
+  - sp: MACBETH
+    o:
+      - "Accursèd be that tongue that tells me so,"
+      - "For it hath cowed my better part of man!"
+      - "And be these juggling fiends no more believed,"
+      - "That palter with us in a double sense,"
+      - "That keep the word of promise to our ear,"
+      - "And break it to our hope. I’ll not fight with thee."
+    m:
+      - "Curse you for telling me this. You’ve fightened away my courage. I don’t believe those evil creatures anymore. They tricked me with their wordgames, raising my hopes and then destroying them. I won’t fight you."
+
+  - sp: MACDUFF
+    o:
+      - "Then yield thee, coward,"
+      - "And live to be the show and gaze o’ th’ time."
+      - "We’ll have thee, as our rarer monsters are,"
+      - "Painted on a pole, and underwrit,"
+      - "“Here may you see the tyrant.”"
+    m:
+      - "Then surrender, coward, and we’ll put you in a freakshow, just like they do with deformed animals. We’ll put a picture of you on a sign, right above the words “Come see the tyrant!”"
+
+  - sp: MACBETH
+    o:
+      - "    I will not yield,"
+      - "To kiss the ground before young Malcolm’s feet,"
+      - "And to be baited with the rabble’s curse."
+      - "Though Birnam Wood be come to Dunsinane,"
+      - "And thou opposed, being of no woman born,"
+      - "Yet I will try the last. Before my body"
+      - "I throw my warlike shield. Lay on, Macduff,"
+      - "And damned be him that first cries, “Hold, enough!”"
+    m:
+      - "I’m not going to surrender and have to kiss the ground in front of Malcolm, or be taunted by the common people. Even though Birnam Wood really did come to Dunsinane, and I’m fighting a man not of woman born, I’ll fight to the end. I’ll put up my shield and battle you. Come on, let’s go at it, Macduff, and damn the first man who cries, ’Stop! Enough!’"
+
+  - os: "Exeunt, fighting. Alarums. They enter fighting, and MACBETH slain. Retreat. Flourish. Enter, with drum and colors MALCOLM, SIWARD, ROSS, THANES, and SOLDIERS"
+    ms: "They exit fighting. Trumpets and battle noises. The trumpet of one army sounds a call to retreat. The other army’s trumpet sounds a call of victory. The victorious army enters, led by MALCOLM, old SIWARD, ROSS, the other THANES, and soldiers, with a drummer and flag."
+
+  - sp: MALCOLM
+    o:
+      - "I would the friends we miss were safe arrived."
+    m:
+      - "I wish all of our friends could have survived this battle."
+
+  - sp: SIWARD
+    o:
+      - "Some must go off. And yet, by these I see,"
+      - "So great a day as this is cheaply bought."
+    m:
+      - "In every battle, some people will always be killed, but judging from the men I see around us, our great victory didn’t cost us very much."
+
+  - sp: MALCOLM
+    o:
+      - "Macduff is missing, and your noble son."
+    m:
+      - "Macduff is missing, and so is your noble son."
+
+  - sp: ROSS
+    o:
+      - "Your son, my lord, has paid a soldier’s debt."
+      - "He only lived but till he was a man,"
+      - "The which no sooner had his prowess confirmed"
+      - "In the unshrinking station where he fought,"
+      - "But like a man he died."
+    m:
+      - "My lord, your son has paid the soldier’s price: death. He only lived long enough to become a man, and as soon as he proved that he was a man by fighting like one, he died."
+
+  - sp: SIWARD
+    o:
+      - "    Then he is dead?"
+    m:
+      - "So he’s dead?"
+
+  - sp: ROSS
+    o:
+      - "Ay, and brought off the field. Your cause of sorrow"
+      - "Must not be measured by his worth, for then"
+      - "It hath no end."
+    m:
+      - "Yes, and he’s been carried off the field. Your grief should not be equal to his worth, because then your sorrow would never end."
+
+  - sp: SIWARD
+    o:
+      - "    Had he his hurts before?"
+    m:
+      - "Were his wounds on his front side?"
+
+  - sp: ROSS
+    o:
+      - "Ay, on the front."
+    m:
+      - "Yes, on his front."
+
+  - sp: SIWARD
+    o:
+      - "    Why then, God’s soldier be he!"
+      - "Had I as many sons as I have hairs,"
+      - "I would not wish them to a fairer death."
+      - "And so, his knell is knolled."
+    m:
+      - "Well then, he’s God’s soldier now! If I had as many sons as I have hairs on my head, I couldn’t hope that any of them would die more honorably than he did. And that’s all there is to it."
+
+  - sp: MALCOLM
+    o:
+      - "    He’s worth more sorrow,"
+      - "And that I’ll spend for him."
+    m:
+      - "He is worth more mourning than that, and I will mourn for him."
+
+  - sp: SIWARD
+    o:
+      - "    He’s worth no more."
+      - "They say he parted well and paid his score."
+      - "And so, God be with him! Here comes newer comfort."
+    m:
+      - "He is worth no more than that. They tell me he died well, and settled his scores. With that, I hope God is with him! Here comes better news."
+
+  - os: "Enter MACDUFF with MACBETH’s head"
+    ms: "MACDUFF enters, carrying MACBETH’s head."
+
+  - sp: MACDUFF
+    o:
+      - "Hail, king! For so thou art. Behold where stands"
+      - "The usurper’s cursèd head. The time is free."
+      - "I see thee compassed with thy kingdom’s pearl,"
+      - "That speak my salutation in their minds,"
+      - "Whose voices I desire aloud with mine."
+      - "Hail, King of Scotland!"
+    m:
+      - "Hail, king! Because that’s what you are now. Look, here I have Macbeth’s cursed head. We are free from his tyranny. I see that you have the kingdom’s noblemen around you, and they’re thinking the same thing as me. I want them to join me in this loud cheer, Hail, King of Scotland!"
+
+  - sp: ALL
+    o:
+      - "Hail, King of Scotland!"
+    m:
+      - "Hail, King of Scotland!"
+
+  - os: "Flourish"
+    ms: "Trumpets play."
+
+  - sp: MALCOLM
+    o:
+      - "We shall not spend a large expense of time"
+      - "Before we reckon with your several loves"
+      - "And make us even with you. My thanes and kinsmen,"
+      - "Henceforth be earls, the first that ever Scotland"
+      - "In such an honor named. What’s more to do,"
+      - "Which would be planted newly with the time,"
+      - "As calling home our exiled friends abroad"
+      - "That fled the snares of watchful tyranny,"
+      - "Producing forth the cruel ministers"
+      - "Of this dead butcher and his fiendlike queen,"
+      - "Who, as ’tis thought, by self and violent hands"
+      - "Took off her life; this, and what needful else"
+      - "That calls upon us, by the grace of Grace,"
+      - "We will perform in measure, time, and place."
+      - "So, thanks to all at once and to each one,"
+      - "Whom we invite to see us crowned at Scone."
+    m:
+      - "It won’t be long before I reward each of you as he deserves. My thanes and kinsmen, I name you all earls, the first earls that Scotland has ever had. We have a lot to do at the dawn of this new era. We must call home all of our exiled friends who fled from the grip of Macbeth’s tyranny, and we must bring to justice all the evil ministers of this dead butcher and his demon-like queen, who, rumor has it, committed suicide. This, and whatever else we are called to do by God, we will do at the right time and in the right place. So I thank you all, and I invite each and every one of you to come watch me be crowned king of Scotland at Scone."
+
+  - os: "Flourish. Exeunt"
+    ms: "Trumpets play. They all exit."

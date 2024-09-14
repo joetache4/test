@@ -1,0 +1,180 @@
+play: Antony and Cleopatra
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "Enter OCTAVIUS CAESAR, reading a letter, LEPIDUS, and their train"
+    ms: "OCTAVIUS CAESAR enters, reading a letter, with LEPIDUS and their courtiers and attendants."
+
+  - sp: CAESAR
+    o:
+      - "You may see, Lepidus, and henceforth know,"
+      - "It is not Caesar’s natural vice to hate"
+      - "Our great competitor. From Alexandria"
+      - "This is the news: he fishes, drinks, and wastes"
+      - "The lamps of night in revel; is not more manlike"
+      - "Than Cleopatra, nor the queen of Ptolemy"
+      - "More womanly than he; hardly gave audience, or"
+      - "Vouchsafed to think he had partners. You shall find there"
+      - "A man who is th’ abstract of all faults"
+      - "That all men follow."
+    m:
+      - "Now you’ll see, Lepidus, that I don’t disdain our noble ally because of a personal whim. Here’s the news from Alexandra: Antony fishes, drinks, and celebrates all night. He’s become as frivolous and self-indulgent as Ptolemy’s queen, Cleopatra. He rarely attends to his duties or acknowledges he has partners to be considered. Here’s a man who is the epitome of all the vices known to man."
+
+  - sp: LEPIDUS
+    o:
+      - "    I must not think there are"
+      - "Evils enough to darken all his goodness."
+      - "His faults in him seem as the spots of heaven,"
+      - "More fiery by night’s blackness, hereditary"
+      - "Rather than purchased, what he cannot change"
+      - "Than what he chooses."
+    m:
+      - "I can’t believe there could be enough vice in the world to outshine all the good in him. His faults stand out because they must be compared to all his virtues, like stars that shine brightly against the dark night sky. They’re more likely to be the result of inherited weakness than independent choice."
+
+  - sp: CAESAR
+    o:
+      - "You are too indulgent. Let’s grant, it is not"
+      - "Amiss to tumble on the bed of Ptolemy,"
+      - "To give a kingdom for a mirth, to sit"
+      - "And keep the turn of tippling with a slave,"
+      - "To reel the streets at noon, and stand the buffet"
+      - "With knaves that smell of sweat. Say this becomes him—"
+      - "As his composure must be rare indeed"
+      - "Whom these things cannot blemish—yet must Antony"
+      - "No way excuse his foils when we do bear"
+      - "So great weight in his lightness. If he filled"
+      - "His vacancy with his voluptuousness,"
+      - "Full surfeits and the dryness of his bones"
+      - "Call on him for ’t. But to confound such time"
+      - "That drums him from his sport and speaks as loud"
+      - "As his own state and ours, ’tis to be chid"
+      - "As we rate boys who, being mature in knowledge,"
+      - "Pawn their experience to their present pleasure"
+      - "And so rebel to judgment."
+    m:
+      - "You’re too forgiving. Let’s say, for argument’s sake, that it’s not improper to fool around with Ptolemy’s wife, or to trade a kingdom for a joke. That it’s fine to engage in drinking matches with inferiors, or stumble drunkenly through the streets in the middle of the day, or get into fist fights with sweaty servants. Even if we said that this behavior suits him—though only a man with a perfect character could avoid being disgraced by such antics—there’s no excuse for the extra work we’ve had to take on while he’s been off amusing himself. If he’s been spending his leisure time in lustful pursuits, then he’ll be punished with venereal diseases, and that’s his business. But he’s wasting time and resources vital to our cause and endangering both his position and ours. He should be chastised, like any boy who knows what’s right but chooses to satisfy his desires regardless."
+
+  - os: "Enter FIRST MESSENGER"
+    ms: "The FIRST MESSENGER enters."
+
+  - sp: LEPIDUS
+    o:
+      - "    Here’s more news."
+    m:
+      - "Here’s more news."
+
+  - sp: FIRST MESSENGER
+    o:
+      - "Thy biddings have been done, and every hour,"
+      - "Most noble Caesar, shalt thou have report"
+      - "How ’tis abroad. Pompey is strong at sea,"
+      - "And it appears he is beloved of those"
+      - "That only have feared Caesar. To the ports"
+      - "The discontents repair, and men’s reports"
+      - "Give him much wronged."
+    m:
+      - "We’ve followed your commands, lord Caesar. You shall have hourly updates regarding the situation at sea. Pompey has a strong navy. All the people who only stayed with you out of fear are gathering at the port to join him, in the opinion he’s been treated unfairly."
+
+  - sp: CAESAR
+    o:
+      - "    I should have known no less."
+      - "It hath been taught us from the primal state"
+      - "That he which is was wished until he were,"
+      - "And the ebbed man, ne’er loved till ne’er worth love,"
+      - "Comes deared by being lacked. This common body,"
+      - "Like to a vagabond flag upon the stream,"
+      - "Goes to and back, lackeying the varying tide"
+      - "To rot itself with motion."
+    m:
+      - "I should have known it. It’s been this way ever since the first government was organized. People will transfer their support to a strong figure until he becomes their actual leader. Then they will value their former leader, even though the loss of their support has made him powerless. The common crowd changes like the tide, to and fro, serving whoever is on the rise. Their power is worn away by their fickleness."
+
+  - os: "*Enter* SECOND MESSENGER"
+    ms: "The SECOND MESSENGER enters."
+
+  - sp: SECOND MESSENGER
+    o:
+      - "Caesar, I bring thee word"
+      - "Menecrates and Menas, famous pirates,"
+      - "Make the sea serve them, which they ear and wound"
+      - "With keels of every kind. Many hot inroads"
+      - "They make in Italy—the borders maritime"
+      - "Lack blood to think on ’t—and flush youth revolt."
+      - "No vessel can peep forth, but ’tis as soon"
+      - "Taken as seen, for Pompey’s name strikes more"
+      - "Than could his war resisted."
+    m:
+      - "Caesar, I have news about Menecrates and Menas, notorious pirates who prowl the sea in a variety of ships. They’ve made many raids upon Italy—and the naval patrols go pale at even the thought of resisting them. The young, energetic men are joining Pompey. These pirates can capture a ship as soon as it leaves the harbor, since the simple mention of the name “Pompey” carries as much power as a fleet of troops in battle."
+
+  - os: "Exit"
+    ms: "SECOND MESSENGER exits."
+
+  - sp: CAESAR
+    o:
+      - "    Antony,"
+      - "Leave thy lascivious wassails. When thou once"
+      - "Wast beaten from Modena, where thou slew’st"
+      - "Hirtius and Pansa, consuls, at thy heel"
+      - "Did famine follow, whom thou fought’st against,"
+      - "Though daintily brought up, with patience more"
+      - "Than savages could suffer. Thou didst drink"
+      - "The stale of horses and the gilded puddle"
+      - "Which beasts would cough at. Thy palate then did deign"
+      - "The roughest berry on the rudest hedge."
+      - "Yea, like the stag, when snow the pasture sheets,"
+      - "The barks of trees thou browsèd. On the Alps"
+      - "It is reported thou didst eat strange flesh,"
+      - "Which some did die to look on. And all this—"
+      - "It wounds thine honor that I speak it now—"
+      - "Was borne so like a soldier, that thy cheek"
+      - "So much as lanked not."
+    m:
+      - "Antony, it’s time to stop your wild hedonism. When you were defeated at the battle of Modena—where you killed the consuls, Hirtius and Pansa—and then driven away, you had to face hunger and thirst. And even though you were brought up as a gentleman, you patiently tolerated more hardships than savages could withstand. You drank horses’ urine and water from scum-covered puddles that even animals would refuse. Though you were used to the finest foods, you didn’t turn up your nose at the bitterest berries on the thorniest bushes. You even ate bark from trees, as deer do in winter. Going over the Alps, you ate strange meat that some men would rather die than consume. And you went through all this—the comparison between then and now shames you—in such a soldier-like way that you didn’t seem to suffer at all."
+
+  - sp: LEPIDUS
+    o:
+      - "’Tis pity of him."
+    m:
+      - "It’s too bad."
+
+  - sp: CAESAR
+    o:
+      - "Let his shames quickly"
+      - "Drive him to Rome. ’Tis time we twain"
+      - "Did show ourselves i’ th’ field, and to that end"
+      - "Assemble we immediate council. Pompey"
+      - "Thrives in our idleness."
+    m:
+      - "Let’s hope his sense of shame will send him back to Rome quickly. It’s time that we brought our armies into the field. Let’s call a council of war immediately. Pompey is making the most of our absence."
+
+  - sp: LEPIDUS
+    o:
+      - "    Tomorrow, Caesar,"
+      - "I shall be furnished to inform you rightly"
+      - "Both what by sea and land I can be able"
+      - "To front this present time."
+    m:
+      - "Tomorrow, Caesar, I’ll be able to tell you what land and sea forces I can raise for this war."
+
+  - sp: CAESAR
+    o:
+      - "    Till which encounter It is my business too. Farewell."
+    m:
+      - "I’ll be getting my own figures together in the meantime. Good-bye."
+
+  - sp: LEPIDUS
+    o:
+      - "Farewell, my lord. What you shall know meantime"
+      - "Of stirs abroad, I shall beseech you, sir,"
+      - "To let me be partaker."
+    m:
+      - "Good-bye, my lord. If you receive any more news, please share it with me."
+
+  - sp: CAESAR
+    o:
+      - "Doubt not, sir. I knew it for my bond."
+    m:
+      - "Don’t worry, that goes without saying."
+
+  - os: "Exeunt"
+    ms: "They exit."

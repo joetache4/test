@@ -1,0 +1,89 @@
+play: Coriolanus
+title: Act 1, Scene 10
+group: 1
+order: 9
+text:
+  - os: "The camp of the Volsces."
+    ms: "The Volscian camp."
+
+  - os: "A flourish. Cornets. Enter TULLUS AUFIDIUS, bloody, with two or three Soldiers"
+    ms: "Trumpets sound. TULLUS AUFIDIUS enters, bloody, with two or three Volscian Soldiers."
+
+  - sp: AUFIDIUS
+    o:
+      - "The town is ta’en!"
+    m:
+      - "The town is taken!"
+
+  - sp: FIRST SOLDIER
+    o:
+      - "’Twill be deliver’d back on good condition."
+    m:
+      - "It’ll be given back with fair conditions."
+
+  - sp: AUFIDIUS
+    o:
+      - "Condition!"
+      - "I would I were a Roman; for I cannot,"
+      - "Being a Volsce, be that I am. Condition!"
+      - "What good condition can a treaty find"
+      - "I’ the part that is at mercy? Five times, Martius,"
+      - "I have fought with thee: so often hast thou beat me,"
+      - "And wouldst do so, I think, should we encounter"
+      - "As often as we eat. By the elements,"
+      - "If e’er again I meet him beard to beard,"
+      - "He’s mine, or I am his: mine emulation"
+      - "Hath not that honour in’t it had; for where"
+      - "I thought to crush him in an equal force,"
+      - "True sword to sword, I’ll potch at him some way"
+      - "Or wrath or craft may get him."
+    m:
+      - "Conditions! I wish I were a Roman, but I can’t be other than what I am: a Volsce. Conditions! Under what conditions can a treaty be fair to the side that has lost? I’ve fought Martius five times, and every time he has beaten me. And I think he would beat me again in the future if we met in battle as often as we eat. By the elements, if I ever see him face to face again, I’ll kill him or he’ll kill me. My desire to beat him isn’t as honorable as it once was, for while I once wanted to crush him with our forces being equal, fighting fairly sword to sword, but now I’ll stab him however I can and let either my anger or my trickery bring him down."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "He’s the devil."
+    m:
+      - "He’s the devil."
+
+  - sp: AUFIDIUS
+    o:
+      - "Bolder, though not so subtle. My valour’s poison’d"
+      - "With only suffering stain by him; for him"
+      - "Shall fly out of itself: nor sleep nor sanctuary,"
+      - "Being naked, sick, nor fane nor Capitol,"
+      - "The prayers of priests nor times of sacrifice,"
+      - "Embarquements all of fury, shall lift up"
+      - "Their rotten privilege and custom ’gainst"
+      - "My hate to Martius: where I find him, were it"
+      - "At home, upon my brother’s guard, even there,"
+      - "Against the hospitable canon, would I"
+      - "Wash my fierce hand in’s heart. Go you to the city;"
+      - "Learn how ’tis held; and what they are that must"
+      - "Be hostages for Rome."
+    m:
+      - "Bolder, but not as subtle. He’s the only one who has compromised my honor, and for that I will seek vengeance. Neither sleep nor sanctuary, nor being unarmed, nor sick, nor the constraints of the temple or the capitol, the prayers of priests or times of sacrifice, none of these obstacles to my fury will stop me from hating Martius. Wherever I find him, even at home in my brother’s protection, despite the law of hospitality, I’ll wash my fierce hand in his heart. Go to Corioles, find out how it’s being occupied and who’s been taken hostage by the Romans."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Will not you go?"
+    m:
+      - "You’re not going?"
+
+  - sp: AUFIDIUS
+    o:
+      - "I am attended at the cypress grove: I pray you—"
+      - "’Tis south the city mills—bring me word thither"
+      - "How the world goes, that to the pace of it"
+      - "I may spur on my journey."
+    m:
+      - "They’re waiting for me at the cypress grove, south of the city mills. Please bring word to me there about how things are going so I can plan my journey accordingly."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "I shall, sir."
+    m:
+      - "I will, sir."
+
+  - os: "Exeunt"
+    ms: "All exit."

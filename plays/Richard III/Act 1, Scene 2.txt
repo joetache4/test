@@ -1,0 +1,794 @@
+play: Richard III
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter the corse of Henry the Sixth, on a bier, with halberds to guard it, Lady ANNE being the mourner, accompanied by gentlemen"
+    ms: "The corpse of KING HENRY VI is carried in on a bier, followed by Lady ANNE, dressed in mourning clothes, and armed guards."
+
+  - sp: ANNE
+    o:
+      - "Set down, set down your honorable load,"
+      - "If honor may be shrouded in a hearse,"
+      - "Whilst I awhile obsequiously lament"
+      - "Th’ untimely fall of virtuous Lancaster."
+    m:
+      - "Set down your honorable load, men, if there is ever any honor in being dead. I want to mourn the cruel death of this good man. Look at the noble king’s poor cold body—the measly remains of the Lancaster family."
+
+  - os: "They set down the bier"
+    ms: "They put down the bier."
+
+  - o:
+      - "Poor key-cold figure of a holy king,"
+      - "Pale ashes of the house of Lancaster,"
+      - "Thou bloodless remnant of that royal blood,"
+      - "Be it lawful that I invocate thy ghost"
+      - "To hear the lamentations of poor Anne,"
+      - "Wife to thy Edward, to thy slaughtered son,"
+      - "Stabbed by the selfsame hand that made these wounds."
+      - "Lo, in these windows that let forth thy life"
+      - "I pour the helpless balm of my poor eyes."
+      - "O, cursèd be the hand that made these holes;"
+      - "Cursèd the heart that had the heart to do it;"
+      - "Cursèd the blood that let this blood from hence."
+      - "More direful hap betide that hated wretch"
+      - "That makes us wretched by the death of thee"
+      - "Than I can wish to wolves, to spiders, toads,"
+      - "Or any creeping venomed thing that lives."
+      - "If ever he have child, abortive be it,"
+      - "Prodigious, and untimely brought to light,"
+      - "Whose ugly and unnatural aspect"
+      - "May fright the hopeful mother at the view,"
+      - "And that be heir to his unhappiness."
+      - "If ever he have wife, let her be made"
+      - "More miserable by the death of him"
+      - "Than I am made by my poor lord and thee.—"
+      - "Come now towards Chertsey with your holy load,"
+      - "Taken from Paul’s to be interrèd there."
+    m:
+      - "His royal blood has drained right out of him. I hope I can talk to your ghost, Henry, without breaking church laws. I want you to hear my sorrow. My husband was murdered by the same man who stabbed you. My tears now fall into the holes where your life leaked out. I curse the man who made these holes. I curse the man’s heart who had the heart to stab you. And I curse the man’s blood who shed your blood. I want the man who made me suffer by killing you to face a more terrible end than I could wish on spiders, toads, and all the poisonous, venomous things things alive. If he ever has a child, let it be born prematurely, and let it look like a monster—so ugly and unnatural that the sight of it frightens its own mother. And if he ever has a wife, let her be more miserable when he dies than I am now. Guards, let’s continue on to Chertsey monastery, carrying this holy burden you picked up at St. Paul’s monastery."
+
+  - os: "They take up the bier"
+    ms: "They pick up the bier."
+
+  - o:
+      - "And still, as you are weary of this weight,"
+      - "Rest you, whiles I lament King Henry’s corse."
+    m:
+      - "When it gets too heavy, rest, and I’ll lament over King Henry’s corpse some more."
+
+  - os: "Enter RICHARD, Duke of Gloucester"
+    ms: "RICHARD enters."
+
+  - sp: RICHARD
+    o:
+      - "Stay, you that bear the corse, and set it down."
+    m:
+      - "Halt, corpse bearers, and put down your load."
+
+  - sp: ANNE
+    o:
+      - "What black magician conjures up this fiend"
+      - "To stop devoted charitable deeds?"
+    m:
+      - "What wicked magician has conjured up this devil to interrupt this sacred burial rite?"
+
+  - sp: RICHARD
+    o:
+      - "Villains, set down the corse or, by Saint Paul,"
+      - "I’ll make a corse of him that disobeys."
+    m:
+      - "Villains, set down the corpse, or I’ll make a corpse of *you*."
+
+  - sp: GENTLEMAN
+    o:
+      - "My lord, stand back and let the coffin pass."
+    m:
+      - "My lord, stand back and let the coffin pass."
+
+  - sp: RICHARD
+    o:
+      - "Unmannered dog, stand thou when I command!—"
+      - "Advance thy halberd higher than my breast,"
+      - "Or by Saint Paul I’ll strike thee to my foot"
+      - "And spurn upon thee, beggar, for thy boldness."
+    m:
+      - "Rude dog! Stop when I command you to! And put up your weapon so it’s not pointing at my chest, or I’ll strike you to the ground and trample on you, you beggar, for being so bold."
+
+  - os: "They set down the bier"
+    ms: "They put down the bier."
+
+  - sp: ANNE
+    o:
+      - "*(to gentlemen and halberds)*"
+      - "What, do you tremble? Are you all afraid?"
+      - "Alas, I blame you not, for you are mortal,"
+      - "And mortal eyes cannot endure the devil.—"
+      - "Avaunt, thou dreadful minister of hell."
+      - "Thou hadst but power over his mortal body;"
+      - "His soul thou canst not have. Therefore begone."
+    m:
+      - "*(to the gentlemen and guards)* What, are you trembling? You’re all afraid of him? Well, I can’t blame you. You’re only human, after all, and mortals can’t stand to look at the devil. *(to RICHARD)* Begone, you dreadful servant of hell. You only had power over my father-in-law’s body; you can’t have his soul. So get out."
+
+  - sp: RICHARD
+    o:
+      - "Sweet saint, for charity, be not so curst."
+    m:
+      - "Sweet saint, for goodness’ sake, don’t be so angry."
+
+  - sp: ANNE
+    o:
+      - "Foul devil, for God’s sake, hence, and trouble us not,"
+      - "For thou hast made the happy earth thy hell,"
+      - "Filled it with cursing cries and deep exclaims."
+      - "If thou delight to view thy heinous deeds,"
+      - "Behold this pattern of thy butcheries."
+    m:
+      - "Ugly devil, for God’s sake, get out of here and leave us alone. You have made the happy world into your hell, filling it with cursing cries and lamentations. If you enjoy looking at your awful deeds, take a look at this noteworthy example of your butcheries."
+
+  - os: "She points to the corse"
+    ms: "She points to the corpse."
+
+  - o:
+      - "O, gentlemen, see, see dead Henry’s wounds"
+      - "Open their congealed mouths and bleed afresh!—"
+      - "Blush, blush, thou lump of foul deformity,"
+      - "For ’tis thy presence that exhales this blood"
+      - "From cold and empty veins where no blood dwells."
+      - "Thy deeds, inhuman and unnatural,"
+      - "Provokes this deluge most unnatural.—"
+      - "O God, which this blood mad’st, revenge his death!"
+      - "O earth, which this blood drink’st revenge his death!"
+      - "Either heaven with lightning strike the murderer dead,"
+      - "Or earth gape open wide and eat him quick,"
+      - "As thou dost swallow up this good king’s blood,"
+      - "Which his hell-governed arm hath butcherèd!"
+    m:
+      - "Oh, gentlemen, look, look! Dead Henry’s wounds have opened up and are bleeding again! —Shame on you, you deformed lump. It’s your presence that draws out this blood from his empty veins. Your inhuman and unnatural actions have provoked this unnatural flood of blood. Oh God, who made this blood, revenge his death! Oh earth, which soaks up this blood, revenge his death! Either let heaven send lightning to strike the murderer dead or let the earth open wide and devour him, as it does this good king’s blood."
+
+  - sp: RICHARD
+    o:
+      - "Lady, you know no rules of charity,"
+      - "Which renders good for bad, blessings for curses."
+    m:
+      - "Dear woman, you don’t know the rules of charity. When faced with bad, you’re supposed to turn it into good, and when subject to curses, you’re supposed to convert them into blessings."
+
+  - sp: ANNE
+    o:
+      - "Villain, thou know’st not law of God nor man."
+      - "No beast so fierce but knows some touch of pity."
+    m:
+      - "Villain, you don’t know the laws of God or of man. Even the fiercest wild animal has some touch of pity."
+
+  - sp: RICHARD
+    o:
+      - "But I know none, and therefore am no beast."
+    m:
+      - "If I know nothing about pity, that must mean I’m not an animal."
+
+  - sp: ANNE
+    o:
+      - "O, wonderful, when devils tell the truth!"
+    m:
+      - "It’s amazing to hear a devil speak the truth!"
+
+  - sp: RICHARD
+    o:
+      - "More wonderful, when angels are so angry."
+      - "Vouchsafe, divine perfection of a woman,"
+      - "Of these supposèd crimes to give me leave"
+      - "By circumstance but to acquit myself."
+    m:
+      - "It’s even stranger when an angel is so angry. Divine, perfect woman, give me a chance to prove in detail that I’m innocent of the evils you accuse me of."
+
+  - sp: ANNE
+    o:
+      - "Vouchsafe, defused infection of a man,"
+      - "Of these known evils but to give me leave"
+      - "By circumstance to curse thy cursèd self."
+    m:
+      - "Contagious infection of humanity, give me a chance to condemn you for the evils I know you’ve committed."
+
+  - sp: RICHARD
+    o:
+      - "Fairer than tongue can name thee, let me have"
+      - "Some patient leisure to excuse myself."
+    m:
+      - "You who are beautiful beyond words, calm down and let me explain myself."
+
+  - sp: ANNE
+    o:
+      - "Fouler than heart can think thee, thou canst make"
+      - "No excuse current but to hang thyself."
+    m:
+      - "You who are wicked beyond belief, the only “explanation” I’ll accept from you is for you to hang yourself."
+
+  - sp: RICHARD
+    o:
+      - "By such despair I should accuse myself."
+    m:
+      - "Such an expression of despair would only prove that I was guilty."
+
+  - sp: ANNE
+    o:
+      - "And by despairing shalt thou stand excused"
+      - "For doing worthy vengeance on thyself"
+      - "That didst unworthy slaughter upon others."
+    m:
+      - "Maybe, but if you killed yourself, it would also show that you felt some guilt for killing others."
+
+  - sp: RICHARD
+    o:
+      - "Say that I slew them not."
+    m:
+      - "Let’s say I didn’t kill them."
+
+  - sp: ANNE
+    o:
+      - "Then say they were not slain."
+      - "But dead they are, and devilish slave, by thee."
+    m:
+      - "Then you might as well say they’re not dead. But they are dead, and you killed them, you slave of the devil."
+
+  - sp: RICHARD
+    o:
+      - "I did not kill your husband."
+    m:
+      - "I did not kill your husband."
+
+  - sp: ANNE
+    o:
+      - "Why then, he is alive."
+    m:
+      - "Well, then he must be alive."
+
+  - sp: RICHARD
+    o:
+      - "Nay, he is dead, and slain by Edward’s hands."
+    m:
+      - "No, he is dead. Edward killed him."
+
+  - sp: ANNE
+    o:
+      - "In thy foul throat thou liest. Queen Margaret saw"
+      - "Thy murd’rous falchion smoking in his blood,"
+      - "The which thou once didst bend against her breast,"
+      - "But that thy brothers beat aside the point."
+    m:
+      - "You’re lying. Queen Margaret saw your sword steaming with his blood. It was the same sword you almost killed her with—and you would have killed her if my brothers hadn’t fought you off."
+
+  - sp: RICHARD
+    o:
+      - "I was provokèd by her sland’rous tongue,"
+      - "That laid their guilt upon my guiltless shoulders."
+    m:
+      - "She provoked me with her lying mouth, accusing me of crimes I didn’t commit."
+
+  - sp: ANNE
+    o:
+      - "Thou wast provokèd by thy bloody mind,"
+      - "That never dream’st on aught but butcheries."
+      - "Didst thou not kill this king?"
+    m:
+      - "No, what provoked you was your own bloody mind, which never thinks about anything but butchering. You killed this king, didn’t you?"
+
+  - sp: RICHARD
+    o:
+      - "I grant you."
+    m:
+      - "Yes, I’ll grant you that."
+
+  - sp: ANNE
+    o:
+      - "Dost grant me, hedgehog? Then, God grant me too"
+      - "Thou mayst be damnèd for that wicked deed."
+      - "O, he was gentle, mild, and virtuous."
+    m:
+      - "You’ll grant me, you hedgehog? Then let God grant me that you’ll be damned for that wicked deed. Oh, he was gentle, mild, and virtuous."
+
+  - sp: RICHARD
+    o:
+      - "The better for the King of heaven that hath him."
+    m:
+      - "That will please God, who has him now."
+
+  - sp: ANNE
+    o:
+      - "He is in heaven, where thou shalt never come."
+    m:
+      - "He is in heaven, where you will never go."
+
+  - sp: RICHARD
+    o:
+      - "Let him thank me, that holp to send him thither,"
+      - "For he was fitter for that place than earth."
+    m:
+      - "Let him thank me, who helped him get there. He’s better suited to be there than here."
+
+  - sp: ANNE
+    o:
+      - "And thou unfit for any place but hell."
+    m:
+      - "And you’re not suited for any place except hell."
+
+  - sp: RICHARD
+    o:
+      - "Yes, one place else, if you will hear me name it."
+    m:
+      - "Yes, and one other place, if you’ll only let me name it."
+
+  - sp: ANNE
+    o:
+      - "Some dungeon."
+    m:
+      - "Some dungeon."
+
+  - sp: RICHARD
+    o:
+      - "Your bedchamber."
+    m:
+      - "Your bedroom."
+
+  - sp: ANNE
+    o:
+      - "Ill rest betide the chamber where thou liest!"
+    m:
+      - "There is no rest to be had in any bedroom where you are!"
+
+  - sp: RICHARD
+    o:
+      - "So will it, madam till I lie with you."
+    m:
+      - "Exactly, madam, until I sleep with you."
+
+  - sp: ANNE
+    o:
+      - "I hope so."
+    m:
+      - "I hope you’re right."
+
+  - sp: RICHARD
+    o:
+      - "  I know so. But, gentle Lady Anne,"
+      - "To leave this keen encounter of our wits"
+      - "And fall something into a slower method—"
+      - "Is not the causer of the timeless deaths"
+      - "Of these Plantagenets, Henry and Edward,"
+      - "As blameful as the executioner?"
+    m:
+      - "I know I am. But, gentle Lady Anne, let’s stop this rapid-fire argument and move more slowly. Isn’t the person who caused the untimely deaths of these two Plantagenets, Henry and Edward, as much to blame as the person who actually executed the murders?"
+
+  - sp: ANNE
+    o:
+      - "Thou wast the cause and most accursed effect."
+    m:
+      - "You’re both those people—responsible for both cause and effect."
+
+  - sp: RICHARD
+    o:
+      - "Your beauty was the cause of that effect—"
+      - "Your beauty, that did haunt me in my sleep"
+      - "To undertake the death of all the world,"
+      - "So I might live one hour in your sweet bosom."
+    m:
+      - "Your beauty caused what I did. It haunted me in my sleep. I would have killed the whole world just to be able spend one hour next to you."
+
+  - sp: ANNE
+    o:
+      - "If I thought that, I tell thee, homicide,"
+      - "These nails should rend that beauty from my cheeks."
+    m:
+      - "If I believed you, murderer, I would take my nails and scratch that beauty right off my cheeks."
+
+  - sp: RICHARD
+    o:
+      - "These eyes could never endure that beauty’s wrack."
+      - "You should not blemish it, if I stood by."
+      - "As all the world is cheerèd by the sun,"
+      - "So I by that. It is my day, my life."
+    m:
+      - "I couldn’t stand to see you destroy your beauty; you won’t touch it as long as I’m standing next to you. Just as everyone becomes cheerful from the sun, I’m cheered up by your looks. They are my daylight, my life."
+
+  - sp: ANNE
+    o:
+      - "Black night o’ershade thy day, and death thy life."
+    m:
+      - "Then I hope night shadows your day, and death takes your life!"
+
+  - sp: RICHARD
+    o:
+      - "Curse not thyself, fair creature; thou art both."
+    m:
+      - "Don’t damn yourself. You, fair lady, are both my day and my life."
+
+  - sp: ANNE
+    o:
+      - "I would I were, to be revenged on thee."
+    m:
+      - "I wish I were, so I could deprive you of both day and life."
+
+  - sp: RICHARD
+    o:
+      - "It is a quarrel most unnatural"
+      - "To be revenged on him that loveth thee."
+    m:
+      - "It’s strange that you want to take revenge on the person who loves you."
+
+  - sp: ANNE
+    o:
+      - "It is a quarrel just and reasonable"
+      - "To be revenged on him that killed my husband."
+    m:
+      - "It’s just and reasonable that I want to take revenge on the person who killed my husband."
+
+  - sp: RICHARD
+    o:
+      - "He that bereft thee, lady, of thy husband"
+      - "Did it to help thee to a better husband."
+    m:
+      - "The man who killed your husband, dear lady, only did it to help you get a better husband."
+
+  - sp: ANNE
+    o:
+      - "His better doth not breathe upon the earth."
+    m:
+      - "There is no better one on earth."
+
+  - sp: RICHARD
+    o:
+      - "He lives that loves thee better than he could."
+    m:
+      - "Wrong. There is a man who loves you better than your husband could."
+
+  - sp: ANNE
+    o:
+      - "Name him."
+    m:
+      - "Name him."
+
+  - sp: RICHARD
+    o:
+      - "  Plantagenet."
+    m:
+      - "Plantagenet."
+
+  - sp: ANNE
+    o:
+      - "    Why, that was he."
+    m:
+      - "Yes, that’s my husband’s name."
+
+  - sp: RICHARD
+    o:
+      - "The selfsame name, but one of better nature."
+    m:
+      - "Someone else has the same name, but he’s a better man."
+
+  - sp: ANNE
+    o:
+      - "Where is he?"
+    m:
+      - "Where is this man?"
+
+  - sp: RICHARD
+    o:
+      - "  Here."
+    m:
+      - "Here."
+
+  - os: "She spitteth at him"
+    ms: "ANNE spits at him."
+
+  - o:
+      - "  Why dost thou spit at me?"
+    m:
+      - "Why do you spit at me?"
+
+  - sp: ANNE
+    o:
+      - "Would it were mortal poison for thy sake."
+    m:
+      - "If only I could spit poison."
+
+  - sp: RICHARD
+    o:
+      - "Never came poison from so sweet a place."
+    m:
+      - "Poison never came from such a sweet place."
+
+  - sp: ANNE
+    o:
+      - "Never hung poison on a fouler toad."
+      - "Out of my sight! Thou dost infect mine eyes."
+    m:
+      - "Poison never landed on such an ugly toad. Get out of my sight! You’re poisoning my eyes."
+
+  - sp: RICHARD
+    o:
+      - "Thine eyes, sweet lady, have infected mine."
+    m:
+      - "Your beautiful eyes, sweet lady, have infected mine with love."
+
+  - sp: ANNE
+    o:
+      - "Would they were basilisks to strike thee dead."
+    m:
+      - "I wish my eyes were basilisks, so they could strike you dead!"
+
+  - sp: RICHARD
+    o:
+      - "I would they were, that I might die at once,"
+      - "For now they kill me with a living death."
+      - "Those eyes of thine from mine have drawn salt tears,"
+      - "Shamed their aspect with store of childish drops."
+      - "These eyes, which never shed remorseful tear—"
+      - "No, when my father York and Edward wept"
+      - "To hear the piteous moan that Rutland made"
+      - "When black-faced Clifford shook his sword at him;"
+      - "Nor when thy warlike father, like a child,"
+      - "Told the sad story of my father’s death"
+      - "And twenty times made pause to sob and weep,"
+      - "That all the standers-by had wet their cheeks"
+      - "Like trees bedashed with rain—in that sad time,"
+      - "My manly eyes did scorn an humble tear;"
+      - "And what these sorrows could not thence exhale"
+      - "Thy beauty hath, and made them blind with weeping."
+      - "I never sued to friend, nor enemy;"
+      - "My tongue could never learn sweet smoothing word."
+      - "But now thy beauty is proposed my fee,"
+      - "My proud heart sues, and prompts my tongue to speak."
+    m:
+      - "I wish they were, so that I could die right now, because, at this point, I live a living death. Your eyes have made me cry, shamefully, like a child. I never cried before this. I didn’t cry when my father, York, and my brother Edward both wept at the death of my brother Rutland, whom Clifford slaughtered. And when your warrior-father recounted the sad story of my father’s death, pausing to sob twenty times in the course of the story so that all the bystanders ended up dripping tears like trees in a rainstorm—even then, I refused to cry. But your beauty has made me cry until I couldn’t see. I never tried to win over a friend or enemy with sweet words. I’m too proud for that. But if your beauty is the reward for sweet talk, I’ll talk."
+
+  - os: "She looks scornfully at him"
+    ms: "ANNE looks at him with disgust."
+
+  - o:
+      - "Teach not thy lip such scorn, for it were made"
+      - "For kissing, lady, not for such contempt."
+      - "If thy revengeful heart cannot forgive,"
+      - "Lo, here I lend thee this sharp-pointed sword,"
+      - "Which if thou please to hide in this true breast"
+      - "And let the soul forth that adoreth thee,"
+      - "I lay it naked to the deadly stroke"
+      - "And humbly beg the death upon my knee."
+    m:
+      - "Don’t curl your lips in scorn. They were made for kissing, not for contempt. If your vengeful heart can’t forgive me, here—take my sword and bury it in my heart so that my soul, which adores you, can be free. I open myself to being stabbed. In fact, I beg for death on my knees."
+
+  - os: "He kneels and lays his breast open; she offers at it with his sword"
+    ms: "He opens his shirt to expose his chest, and she points the sword toward it."
+
+  - o:
+      - "Nay, do not pause; for I did kill King Henry—"
+      - "But ’twas thy beauty that provokèd me."
+      - "Nay, now dispatch; ’twas I that stabbed young Edward—"
+      - "But ’twas thy heavenly face that set me on."
+    m:
+      - "No, don’t pause, because I *did* kill King Henry, though it was your beauty that made me do it. Go ahead. And it *was* me who stabbed young Edward, though it was your heavenly face that set me to work."
+
+  - os: "She falls the sword"
+    ms: "ANNE lets the sword drop."
+
+  - o:
+      - "Take up the sword again, or take up me."
+    m:
+      - "Take up the sword again, or take me up."
+
+  - sp: ANNE
+    o:
+      - "Arise, dissembler. Though I wish thy death,"
+      - "I will not be the executioner."
+    m:
+      - "Get up, liar. Though I wish you were dead, I’m not going to be the one to kill you."
+
+  - sp: RICHARD
+    o:
+      - "*(rising)* Then bid me kill myself, and I will do it."
+    m:
+      - "*(rising)* Then tell me to kill myself, and I will."
+
+  - sp: ANNE
+    o:
+      - "I have already."
+    m:
+      - "I have already."
+
+  - sp: RICHARD
+    o:
+      - "    That was in thy rage."
+      - "Speak it again and, even with the word,"
+      - "This hand, which for thy love did kill thy love,"
+      - "Shall for thy love kill a far truer love."
+      - "To both their deaths shalt thou be accessory."
+    m:
+      - "You said it when you were furious. Say it again—just one word, and my hand, which killed your lover out of love, will kill your far truer lover. You will be an accessory to both crimes."
+
+  - sp: ANNE
+    o:
+      - "I would I knew thy heart."
+    m:
+      - "I wish I knew what was in your heart."
+
+  - sp: RICHARD
+    o:
+      - "’Tis figured in my tongue."
+    m:
+      - "I’ve told you."
+
+  - sp: ANNE
+    o:
+      - "I fear me both are false."
+    m:
+      - "I fear that your words and your heart are both false."
+
+  - sp: RICHARD
+    o:
+      - "Then never man was man true."
+    m:
+      - "Then no man has ever been honest."
+
+  - sp: ANNE
+    o:
+      - "Well, well, put up your sword."
+    m:
+      - "Well, then, put your sword away."
+
+  - sp: RICHARD
+    o:
+      - "Say then my peace is made."
+    m:
+      - "Tell me that you’ll accept my love."
+
+  - sp: ANNE
+    o:
+      - "That shall you know hereafter."
+    m:
+      - "You’ll know about that later."
+
+  - sp: RICHARD
+    o:
+      - "But shall I live in hope?"
+    m:
+      - "But can I have some hope?"
+
+  - sp: ANNE
+    o:
+      - "All men I hope live so."
+    m:
+      - "I’d like to think all men have some hope."
+
+  - sp: RICHARD
+    o:
+      - "Vouchsafe to wear this ring."
+    m:
+      - "Please wear this ring."
+
+  - sp: ANNE
+    o:
+      - "To take is not to give."
+    m:
+      - "I’ll take the ring, but don’t assume I’m giving you anything in return."
+
+  - os: "He places the ring on her finger"
+    ms: "He places the ring on her finger."
+
+  - sp: RICHARD
+    o:
+      - "Look, how this ring encompasseth finger;"
+      - "Even so thy breast encloseth my poor heart."
+      - "Wear both of them, for both of them are thine."
+      - "And if thy poor devoted servant may"
+      - "But beg one favor at thy gracious hand,"
+      - "Thou dost confirm his happiness forever."
+    m:
+      - "See how my ring encircles your finger? That’s how your heart embraces my poor heart. Wear both the ring and my heart, because both are yours. And if I, your poor devoted servant, may ask you for one small favor, you will guarantee my happiness forever."
+
+  - sp: ANNE
+    o:
+      - "What is it?"
+    m:
+      - "What’s that?"
+
+  - sp: RICHARD
+    o:
+      - "That it would please you leave these sad designs"
+      - "To him that hath more cause to be a mourner,"
+      - "And presently repair to Crosby House,"
+      - "Where, after I have solemnly interred"
+      - "At Chertsey monast’ry this noble king"
+      - "And wet his grave with my repentant tears,"
+      - "I will with all expedient duty see you."
+      - "For divers unknown reasons, I beseech you,"
+      - "Grant me this boon."
+    m:
+      - "Please leave it to me to take care of the burial, as I have more reason to mourn than you do. Meanwhile go to my estate at Crosby Place. After I have performed the solemn burial rites for this noble king at Chertsey monastery and cried with regret at his grave, I’ll hurry to meet you. For various reasons that must remain secret, please do this for me."
+
+  - sp: ANNE
+    o:
+      - "With all my heart, and much it joys me too"
+      - "To see you are become so penitent.—"
+      - "Tressel and Berkeley, go along with me."
+    m:
+      - "I’ll do it with all my heart. I’m happy to see you’ve come to repent for what you’ve done. Tressel and Berkeley, come with me."
+
+  - sp: RICHARD
+    o:
+      - "Bid me farewell."
+    m:
+      - "Say goodbye to me."
+
+  - sp: ANNE
+    o:
+      - "’Tis more than you deserve;"
+      - "But since you teach me how to flatter you,"
+      - "Imagine I have said “farewell” already."
+    m:
+      - "It’s more than you deserve. But since you’re already teaching me how to flatter you, pretend I’ve said goodbye already."
+
+  - os: "Exeunt Lady ANNE and two others"
+    ms: "ANNE and two others exit."
+
+  - sp: RICHARD
+    o:
+      - "Sirs, take up the corse."
+    m:
+      - "Sirs, take up the corpse."
+
+  - sp: GENTLEMAN
+    o:
+      - "Towards Chertsey, noble lord?"
+    m:
+      - "Toward Chertsey, noble lord?"
+
+  - sp: RICHARD
+    o:
+      - "No, to Whitefriars. There attend my coming."
+    m:
+      - "No, to the Whitefriars monastery. Wait for me there."
+
+  - os: "Exeunt all but RICHARD"
+    ms: "Everyone exits except RICHARD."
+
+  - o:
+      - "Was ever woman in this humor wooed?"
+      - "Was ever woman in this humor won?"
+      - "I’ll have her, but I will not keep her long."
+      - "What, I that killed her husband and his father,"
+      - "To take her in her heart’s extremest hate,"
+      - "With curses in her mouth, tears in her eyes,"
+      - "The bleeding witness of my hatred by,"
+      - "Having God, her conscience, and these bars against me,"
+      - "And I no friends to back my suit at all"
+      - "But the plain devil and dissembling looks?"
+      - "And yet to win her, all the world to nothing!"
+      - "Ha!"
+      - "Hath she forgot already that brave prince,"
+      - "Edward, her lord, whom I some three months since"
+      - "Stabbed in my angry mood at Tewkesbury?"
+      - "A sweeter and a Lovellier gentleman,"
+      - "Framed in the prodigality of nature,"
+      - "Young, valiant, wise, and, no doubt, right royal,"
+      - "The spacious world cannot again afford."
+      - "And will she yet abase her eyes on me,"
+      - "That cropped the golden prime of this sweet prince"
+      - "And made her widow to a woeful bed?"
+      - "On me, whose all not equals Edward’s moiety?"
+      - "On me, that halts and am misshapen thus?"
+      - "My dukedom to a beggarly denier,"
+      - "I do mistake my person all this while!"
+      - "Upon my life, she finds, although I cannot,"
+      - "Myself to be a marv’lous proper man."
+      - "I’ll be at charges for a looking glass"
+      - "And entertain a score or two of tailors"
+      - "To study fashions to adorn my body."
+      - "Since I am crept in favor with myself,"
+      - "I will maintain it with some little cost."
+      - "But first I’ll turn yon fellow in his grave"
+      - "And then return lamenting to my love."
+      - "Shine out, fair sun, till I have bought a glass,"
+      - "That I may see my shadow as I pass."
+    m:
+      - "Has anyone ever courted a woman in this state of mind? And has anyone ever won her, as I’ve done? I’ll get her, but I won’t keep her long. What! I, who killed her husband and his father, managed to win her over when her hatred for me was strongest, while she’s swearing her head off, sobbing her eyes out, and the bloody corpse, proof of why she should hate me, right in front of her? She has God, her conscience, and my own acts against me, and I have nothing on my side but the ugly devil and my false looks. And yet, against all odds, I win her over! Ha! Has she already forgotten her brave husband, Prince Edward, whom I stabbed on the battlefield three months ago in my anger? The world will never again produce such a sweet, lovely gentleman. He was graced with lots of natural gifts, he was young, valiant, wise, and no doubt meant to be king. And yet she cheapens herself by turning her gaze on me, who cut her sweet prince’s life short and made her a widow? On me, though I am barely half the man that Edward was? On me, though I am limping and deformed? I bet I’ve been wrong about myself all this time. Even though I don’t see it, this lady thinks I’m a marvelously good-looking man. Time to buy myself a mirror and employ a few dozen tailors to dress me up in the current fashions. Since I’m suddenly all the rage, it will be worth the cost. But first, I’ll dump this fellow in his grave, then return to my love weeping with grief. Come out, beautiful sun—until I’ve bought a mirror to admire my reflection in, I’ll watch my shadow as I stroll along."
+
+  - os: "Exit"
+    ms: "He exits."

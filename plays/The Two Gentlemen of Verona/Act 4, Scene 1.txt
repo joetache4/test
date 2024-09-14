@@ -1,0 +1,282 @@
+play: Two Gentlemen of Verona
+title: Act 4, Scene 1
+group: 4
+order: 12
+text:
+  - os: "Enter certain OUTLAWS"
+    ms: "Several OUTLAWS enter."
+
+  - sp: FIRST OUTLAW
+    o:
+      - "Fellows, stand fast. I see a passenger."
+    m:
+      - "Men, get ready. I see a traveler."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "If there be ten, shrink not, but down with ’em."
+    m:
+      - "Even if there are ten of them, don’t back down. Take them down."
+
+  - os: "Enter VALENTINE and SPEED"
+    ms: "VALENTINE and SPEED enter."
+
+  - sp: THIRD OUTLAW
+    o:
+      - "Stand, sir! And throw us that you have about ye."
+      - "If not, we’ll make you sit, and rifle you."
+    m:
+      - "Stop, sir! Give us what you have on you. If you don’t, we’ll make you sit and we’ll search you."
+
+  - sp: SPEED
+    o:
+      - "Sir, we are undone. These are the villains"
+      - "That all the travelers do fear so much."
+    m:
+      - "Sir, we’re ruined. These are the bandits that all the travelers in this area fear so much."
+
+  - sp: VALENTINE
+    o:
+      - "My friends—"
+    m:
+      - "My friends—"
+
+  - sp: FIRST OUTLAW
+    o:
+      - "That’s not so, sir. We are your enemies."
+    m:
+      - "That’s not how it is, sir. We are your enemies."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "Peace! We’ll hear him."
+    m:
+      - "Quiet! Let’s hear him out."
+
+  - sp: THIRD OUTLAW
+    o:
+      - "Ay, by my beard will we, for he is a proper man."
+    m:
+      - "Yeah, by the hair on my chin we’ll hear him out, because he is a handsome man."
+
+  - sp: VALENTINE
+    o:
+      - "Then know that I have little wealth to lose."
+      - "A man I am, crossed with adversity;"
+      - "My riches are these poor habiliments,"
+      - "Of which if you should here disfurnish me"
+      - "You take the sum and substance that I have."
+    m:
+      - "You should know that I have little wealth to lose. I am a man who’s been struck by hardship. My only riches are these poor clothes I’m wearing, and if you take them then you take the sum total of everything I own."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "Whither travel you?"
+    m:
+      - "Where are you going?"
+
+  - sp: VALENTINE
+    o:
+      - "To Verona."
+    m:
+      - "To Verona."
+
+  - sp: FIRST OUTLAW
+    o:
+      - "Whence came you?"
+    m:
+      - "Where did you come from?"
+
+  - sp: VALENTINE
+    o:
+      - "From Milan."
+    m:
+      - "From Milan."
+
+  - sp: THIRD OUTLAW
+    o:
+      - "Have you long sojourned there?"
+    m:
+      - "How long were you there?"
+
+  - sp: VALENTINE
+    o:
+      - "Some sixteen months, and longer might have stayed"
+      - "If crooked fortune had not thwarted me."
+    m:
+      - "About sixteen months, and I might have stayed longer if bad luck hadn’t thwarted me."
+
+  - sp: FIRST OUTLAW
+    o:
+      - "What! were you banished thence?"
+    m:
+      - "What! Were you banished?"
+
+  - sp: VALENTINE
+    o:
+      - "I was."
+    m:
+      - "I was."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "For what offence?"
+    m:
+      - "For what crime?"
+
+  - sp: VALENTINE
+    o:
+      - "For that which now torments me to rehearse:"
+      - "I killed a man, whose death I much repent,"
+      - "But yet I slew him manfully in fight"
+      - "Without false vantage or base treachery."
+    m:
+      - "For something that now hurts me to repeat: I killed a man, whose death I greatly regret, even though I killed him in a fair fight without deceit or wicked treachery."
+
+  - sp: FIRST OUTLAW
+    o:
+      - "Why, ne’er repent it, if it were done so."
+      - "But were you banished for so small a fault?"
+    m:
+      - "Why, never regret it if that’s the way it happened. Were you really banished for such a small offense?"
+
+  - sp: VALENTINE
+    o:
+      - "I was, and held me glad of such a doom."
+    m:
+      - "I was, and was grateful to have just been banished."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "Have you the tongues?"
+    m:
+      - "Do you speak any other languages?"
+
+  - sp: VALENTINE
+    o:
+      - "My youthful travel therein made me happy,"
+      - "Or else I often had been miserable."
+    m:
+      - "I traveled when I was young, which made me happy. Otherwise, I would have been miserable."
+
+  - sp: THIRD OUTLAW
+    o:
+      - "By the bare scalp of Robin Hood’s fat friar,"
+      - "This fellow were a king for our wild faction!"
+    m:
+      - "By the bald head of Robin Hood’s fat Friar Tuck! This fellow would make a great king for our group of bandits!"
+
+  - sp: FIRST OUTLAW
+    o:
+      - "We’ll have him. Sirs, a word."
+    m:
+      - "We’ll take him. Sirs, a word with you all."
+
+  - os: "The Outlaws confer in whispers."
+    ms: "The Outlaws confer in whispers."
+
+  - sp: SPEED
+    o:
+      - "Master, be one of them."
+      - "It’s an honorable kind of thievery."
+    m:
+      - "Master, become one of them. It’s an honorable kind of thievery."
+
+  - sp: VALENTINE
+    o:
+      - "Peace, villain!"
+    m:
+      - "Quiet, rascal!"
+
+  - sp: SECOND OUTLAW
+    o:
+      - "*(Returning to Valentine)* Tell us this: have you anything to take to?"
+    m:
+      - "*(returning to Valentine)* Tell us this: do you have any way to support yourself?"
+
+  - sp: VALENTINE
+    o:
+      - "Nothing but my fortune."
+    m:
+      - "Nothing but my luck."
+
+  - sp: THIRD OUTLAW
+    o:
+      - "Know, then, that some of us are gentlemen,"
+      - "Such as the fury of ungoverned youth"
+      - "Thrust from the company of awful men."
+      - "Myself was from Verona banishèd"
+      - "For practicing to steal away a lady,"
+      - "An heir, and near allied unto the Duke."
+    m:
+      - "You should know, then, that some of us are gentlemen who were forced out of respectable society by our unrestrained youth. I myself was banished from Verona for planning to elope with a lady, an heir who was close to the Duke."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "And I from Mantua, for a gentleman"
+      - "Who, in my mood, I stabbed unto the heart."
+    m:
+      - "And I am from Mantua. I stabbed a gentleman in the heart out of anger."
+
+  - sp: FIRST OUTLAW
+    o:
+      - "And I for suchlike petty crimes as these."
+      - "But to the purpose—for we cite our faults"
+      - "That they may hold excused our lawless lives;"
+      - "And partly, seeing you are beautified"
+      - "With goodly shape, and by your own report"
+      - "A linguist, and a man of such perfection"
+      - "As we do in our quality much want—"
+    m:
+      - "And I was banished for such petty crimes like these. But to get to the point, we state our crimes in part because they explain why we live lives of lawlessness, and also partly because seeing that you’re attractive, and by your own description a linguist, and since we are in need of a man of such qualities in our profession—"
+
+  - sp: SECOND OUTLAW
+    o:
+      - "Indeed, because you are a banished man,"
+      - "Therefore, above the rest, we parley to you."
+      - "Are you content to be our general?"
+      - "To make a virtue of necessity"
+      - "And live, as we do, in this wilderness?"
+    m:
+      - "In fact, because you are a banished man, and for that more than any other reason, we’d like to speak to you. Would you like to be our leader, to consider poverty an asset, and live as we do in this forest?"
+
+  - sp: THIRD OUTLAW
+    o:
+      - "What sayst thou? Wilt thou be of our consort?"
+      - "Say ay, and be the captain of us all."
+      - "We’ll do thee homage, and be ruled by thee,"
+      - "Love thee as our commander and our king."
+    m:
+      - "What do you say? Will you join our band of highwaymen? Say yes, and become our captain. We’ll respect you, be ruled by you, and love you as our leader and our king."
+
+  - sp: FIRST OUTLAW
+    o:
+      - "But if thou scorn our courtesy thou diest."
+    m:
+      - "But if you reject our offer you die."
+
+  - sp: SECOND OUTLAW
+    o:
+      - "Thou shalt not live to brag what we have offered."
+    m:
+      - "You won’t live to brag about what we’ve offered."
+
+  - sp: VALENTINE
+    o:
+      - "I take your offer and will live with you,"
+      - "Provided that you do no outrages"
+      - "On silly women or poor passengers."
+    m:
+      - "I accept your offer and will live with you, provided that you do not harm any helpless women or poor passengers."
+
+  - sp: THIRD OUTLAW
+    o:
+      - "No, we detest such vile base practices."
+      - "Come, go with us. We’ll bring thee to our crews"
+      - "And show thee all the treasure we have got,"
+      - "Which, with ourselves, all rest at thy dispose."
+    m:
+      - "No, we detest such vile, wicked practices. Come, go with us. We’ll take you to the rest of our band and show you all the treasure we have, which along with ourselves is at your disposal."
+
+  - os: "Exeunt"
+    ms: "They exit."

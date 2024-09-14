@@ -1,0 +1,477 @@
+play: Measure for Measure
+title: Act 2, Scene 4
+group: 2
+order: 7
+text:
+  - os: "A room in ANGELO’s house."
+    ms: "A room in ANGELO’s house."
+
+  - os: "Enter ANGELO"
+    ms: "ANGELO enters."
+
+  - sp: ANGELO
+    o:
+      - "When I would pray and think, I think and pray"
+      - "To several subjects. Heaven hath my empty words;"
+      - "Whilst my invention, hearing not my tongue,"
+      - "Anchors on Isabel: Heaven in my mouth,"
+      - "As if I did but only chew his name;"
+      - "And in my heart the strong and swelling evil"
+      - "Of my conception. The state, whereon I studied"
+      - "Is like a good thing, being often read,"
+      - "Grown fear’d and tedious; yea, my gravity,"
+      - "Wherein—let no man hear me—I take pride,"
+      - "Could I with boot change for an idle plume,"
+      - "Which the air beats for vain. O place, O form,"
+      - "How often dost thou with thy case, thy habit,"
+      - "Wrench awe from fools and tie the wiser souls"
+      - "To thy false seeming! Blood, thou art blood:"
+      - "Let’s write good angel on the devil’s horn:"
+      - "’Tis not the devil’s crest."
+    m:
+      - "When I try to pray and think, I think and pray about different things. My empty words focus on heaven, while my imagination ignores what I’m saying and fixates on Isabel. It’s as if I’m only mouthing God’s name, while an evil idea grows in my heart. The politics I used to study with such interest now seem dry and tedious. The dignity I was so proud of (I hope no one hears this) is now worth even less than some silly hat feather waving uselessly in the wind. Oh, how often do rank and ceremonial trappings impress the foolish and entrap even the wise! Passions are passions—they cannot simply be swept away. You can write “good angel” on the devil’s horns, but that doesn’t change his devilish nature."
+
+  - os: "Enter a Servant"
+    ms: "A Servant enters."
+
+  - o:
+      - "How now! who’s there?"
+    m:
+      - "Hello! Who’s there?"
+
+  - sp: SERVANT
+    o:
+      - "One Isabel, a sister, desires access to you."
+    m:
+      - "One Isabel, a nun, wishes to see you."
+
+  - sp: ANGELO
+    o:
+      - "Teach her the way."
+    m:
+      - "Show her the way."
+
+  - os: "Exit Servant"
+    ms: "The Servant exits."
+
+  - o:
+      - "O heavens!"
+      - "Why does my blood thus muster to my heart,"
+      - "Making both it unable for itself,"
+      - "And dispossessing all my other parts"
+      - "Of necessary fitness?"
+      - "So play the foolish throngs with one that swoons;"
+      - "Come all to help him, and so stop the air"
+      - "By which he should revive: and even so"
+      - "The general, subject to a well-wish’d king,"
+      - "Quit their own part, and in obsequious fondness"
+      - "Crowd to his presence, where their untaught love"
+      - "Must needs appear offence."
+    m:
+      - "Oh, heavens! Why does my blood rush to my heart, both choking it and making the rest of my body weak? It’s like a stupid crowd surrounding somebody who faints—they’re all trying to help him and actually they’re cutting off the air he needs. Or, like the common people who drop what they’re doing and rush over to see their beloved king when he appears, fawning and crowding him so much that their ignorant adoration becomes offensive."
+
+  - os: "Enter ISABELLA"
+    ms: "ISABELLA enters."
+
+  - o:
+      - "How now, fair maid?"
+    m:
+      - "How are you, pretty lady?"
+
+  - sp: ISABELLA
+    o:
+      - "I am come to know your pleasure."
+    m:
+      - "I’ve come to find out what you want to do."
+
+  - sp: ANGELO
+    o:
+      - "That you might know it, would much better please me"
+      - "Than to demand what ’tis. Your brother cannot live."
+    m:
+      - "If only you knew what I want to do and didn’t have to ask. Your brother cannot live."
+
+  - sp: ISABELLA
+    o:
+      - "Even so. Heaven keep your honour!"
+    m:
+      - "Very well, then. Heaven keep your honor!"
+
+  - sp: ANGELO
+    o:
+      - "Yet may he live awhile; and, it may be,"
+      - "As long as you or I:"
+      - "yet he must die."
+    m:
+      - "On the other hand, he may live awhile—maybe as long as you or me. Still, he must die."
+
+  - sp: ISABELLA
+    o:
+      - "Under your sentence?"
+    m:
+      - "By your command?"
+
+  - sp: ANGELO
+    o:
+      - "Yea."
+    m:
+      - "Yes."
+
+  - sp: ISABELLA
+    o:
+      - "When, I beseech you? that in his reprieve,"
+      - "Longer or shorter, he may be so fitted"
+      - "That his soul sicken not."
+    m:
+      - "I beg you, tell me when. So that, no matter how long or short his reprieve is, he’ll be spiritually prepared and can save his soul."
+
+  - sp: ANGELO
+    o:
+      - "Ha! fie, these filthy vices! It were as good"
+      - "To pardon him that hath from nature stolen"
+      - "A man already made, as to remit"
+      - "Their saucy sweetness that do coin heaven’s image"
+      - "In stamps that are forbid: ’tis all as easy"
+      - "Falsely to take away a life true made"
+      - "As to put metal in restrained means"
+      - "To make a false one."
+    m:
+      - "Ha! Damn these filthy vices! One might as well pardon a murderer as forgive a fornicator who begets an illegitimate child. It’s as easy to take a legitimate life as it is to create an illegitimate one."
+
+  - sp: ISABELLA
+    o:
+      - "’Tis set down so in heaven, but not in earth."
+    m:
+      - "Heaven may regard the two sins as equal, but humans do not."
+
+  - sp: ANGELO
+    o:
+      - "Say you so? then I shall pose you quickly."
+      - "Which had you rather, that the most just law"
+      - "Now took your brother’s life; or, to redeem him,"
+      - "Give up your body to such sweet uncleanness"
+      - "As she that he hath stain’d?"
+    m:
+      - "You think so? Then I’ll put this question to you: which would you prefer, that this very fair law took your brother’s life, or to save your brother, you give up your body to the same sort of sweet sin as did the girl he ruined?"
+
+  - sp: ISABELLA
+    o:
+      - "Sir, believe this,"
+      - "I had rather give my body than my soul."
+    m:
+      - "Sir, believe this, I’d rather give up my body than my soul."
+
+  - sp: ANGELO
+    o:
+      - "I talk not of your soul: our compell’d sins"
+      - "Stand more for number than for accompt."
+    m:
+      - "I’m not talking about your soul: sins we’re compelled to commit get counted, but they don’t count against us."
+
+  - sp: ISABELLA
+    o:
+      - "How say you?"
+    m:
+      - "What are you saying?"
+
+  - sp: ANGELO
+    o:
+      - "Nay, I’ll not warrant that; for I can speak"
+      - "Against the thing I say. Answer to this:"
+      - "I, now the voice of the recorded law,"
+      - "Pronounce a sentence on your brother’s life:"
+      - "Might there not be a charity in sin"
+      - "To save this brother’s life?"
+    m:
+      - "No, don’t hold me to that, for I can argue a point I don’t really believe. Answer this. As the voice of the written law, I pronounce a death sentence on your brother’s life. Might it not be charity to commit a sin to save this brother’s life?"
+
+  - sp: ISABELLA
+    o:
+      - "Please you to do’t,"
+      - "I’ll take it as a peril to my soul,"
+      - "It is no sin at all, but charity."
+    m:
+      - "If you want to do it, I’ll risk the punishment on my soul, and say it’d be no sin at all, but charity."
+
+  - sp: ANGELO
+    o:
+      - "Pleased you to do’t at peril of your soul,"
+      - "Were equal poise of sin and charity."
+    m:
+      - "If you felt like doing it, even at the risk of your soul, sin and charity would balance each other perfectly."
+
+  - sp: ISABELLA
+    o:
+      - "That I do beg his life, if it be sin,"
+      - "Heaven let me bear it! you granting of my suit,"
+      - "If that be sin, I’ll make it my morn prayer"
+      - "To have it added to the faults of mine,"
+      - "And nothing of your answer."
+    m:
+      - "If begging for his life is a sin, Heaven let me bear it! If your granting my request is a sin, I’ll pray each morning to have it added to my faults and not one you have to answer for."
+
+  - sp: ANGELO
+    o:
+      - "Nay, but hear me."
+      - "Your sense pursues not mine: either you are ignorant,"
+      - "Or seem so craftily; and that’s not good."
+    m:
+      - "No, listen to me. You’re not following me. Either you’re dumb or you’re playing dumb, and that’s not good."
+
+  - sp: ISABELLA
+    o:
+      - "Let me be ignorant, and in nothing good,"
+      - "But graciously to know I am no better."
+    m:
+      - "Call me dumb, then, and not very good. Let me accept by God’s grace that I’m not any better than that."
+
+  - sp: ANGELO
+    o:
+      - "Thus wisdom wishes to appear most bright"
+      - "When it doth tax itself; as these black masks"
+      - "Proclaim an enshield beauty ten times louder"
+      - "Than beauty could, display’d. But mark me;"
+      - "To be received plain, I’ll speak more gro"
+      - "Your brother is to die."
+    m:
+      - "This is how smart people try to seem really bright: by knocking their own intelligence. It’s the same way hiding behind a black mask makes a woman seem ten times more beautiful than her naked face does. But pay attention. I’ll be more blunt, so that you get it. Your brother is to die."
+
+  - sp: ISABELLA
+    o:
+      - "So."
+    m:
+      - "Yes."
+
+  - sp: ANGELO
+    o:
+      - "And his offence is so, as it appears,"
+      - "Accountant to the law upon that pain."
+    m:
+      - "That’s the penalty for his crime, under the law."
+
+  - sp: ISABELLA
+    o:
+      - "True."
+    m:
+      - "True."
+
+  - sp: ANGELO
+    o:
+      - "Admit no other way to save his life,—"
+      - "As I subscribe not that, nor any other,"
+      - "But in the loss of question,—that you, his sister,"
+      - "Finding yourself desired of such a person,"
+      - "Whose credit with the judge, or own great place,"
+      - "Could fetch your brother from the manacles"
+      - "Of the all-building law; and that there were"
+      - "No earthly mean to save him, but that either"
+      - "You must lay down the treasures of your body"
+      - "To this supposed, or else to let him suffer;"
+      - "What would you do?"
+    m:
+      - "Suppose that there was no other way to save his life—not that I’m admitting this, it’s just for the sake of argument—let’s say that you, his sister, were desired by someone whose influence with the judge, or whose own powerful position, could rescue your brother from the law’s binding chains. And there was no other earthly way to save him, unless you gave your virginity to this hypothetical man, or else your brother dies. What would you do?"
+
+  - sp: ISABELLA
+    o:
+      - "As much for my poor brother as myself:"
+      - "That is, were I under the terms of death,"
+      - "The impression of keen whips I’ld wear as rubies,"
+      - "And strip myself to death, as to a bed"
+      - "That longing have been sick for, ere I’ld yield"
+      - "My body up to shame."
+    m:
+      - "I would do this as much for my poor brother as myself—that is, if I were under a death sentence, I’d strip myself naked and display the whip’s bloody lashes like rubies. And I’d go to my death like going to my bed, before I’d surrender my body to sin."
+
+  - sp: ANGELO
+    o:
+      - "Then must your brother die."
+    m:
+      - "Then your brother must die."
+
+  - sp: ISABELLA
+    o:
+      - "And ’twere the cheaper way:"
+      - "Better it were a brother died at once,"
+      - "Than that a sister, by redeeming him,"
+      - "Should die for ever."
+    m:
+      - "And that’s the better bargain. Better a brother die once than a sister suffer eternal damnation to save him."
+
+  - sp: ANGELO
+    o:
+      - "Were not you then as cruel as the sentence"
+      - "That you have slander’d so?"
+    m:
+      - "Then aren’t you as cruel as the sentence you’ve so deplored?"
+
+  - sp: ISABELLA
+    o:
+      - "Ignomy in ransom and free pardon"
+      - "Are of two houses: lawful mercy"
+      - "Is nothing kin to foul redemption."
+    m:
+      - "A shameful release and an unconditional pardon are two different things. Legal mercy is in no way related to an immoral rescue."
+
+  - sp: ANGELO
+    o:
+      - "You seem’d of late to make the law a tyrant;"
+      - "And rather proved the sliding of your brother"
+      - "A merriment than a vice."
+    m:
+      - "You said a little while ago the law was tyrannical, arguing that your brother’s sinning was a lighthearted act, not a vice."
+
+  - sp: ISABELLA
+    o:
+      - "O, pardon me, my lord; it oft falls out,"
+      - "To have what we would have, we speak not what we mean:"
+      - "I something do excuse the thing I hate,"
+      - "For his advantage that I dearly love."
+    m:
+      - "Oh, forgive me, my lord. To get what we want, we often say things we don’t mean. I’ve made excuses for something I hate in order to help the brother I love."
+
+  - sp: ANGELO
+    o:
+      - "We are all frail."
+    m:
+      - "We’re all weak."
+
+  - sp: ISABELLA
+    o:
+      - "Else let my brother die,"
+      - "If not a feodary, but only he"
+      - "Owe and succeed thy weakness."
+    m:
+      - "Yes. Otherwise, my brother would deserve to die, if he were the only person to have inherited this weakness."
+
+  - sp: ANGELO
+    o:
+      - "Nay, women are frail too."
+    m:
+      - "No, women are weak too."
+
+  - sp: ISABELLA
+    o:
+      - "Ay, as the glasses where they view themselves;"
+      - "Which are as easy broke as they make forms."
+      - "Women! Help Heaven! men their creation mar"
+      - "In profiting by them. Nay, call us ten times frail;"
+      - "For we are soft as our complexions are,"
+      - "And credulous to false prints."
+    m:
+      - "Yes, as weak their mirrors, which break as easily as they reflect images. Women—Heaven help us!—are ruined by men who take advantage of us. Call us frail ten times over, for we’re as soft as our skin, and gullible."
+
+  - sp: ANGELO
+    o:
+      - "I think it well:"
+      - "And from this testimony of your own sex,—"
+      - "Since I suppose we are made to be no stronger"
+      - "Than faults may shake our frames,—let me be bold;"
+      - "I do arrest your words. Be that you are,"
+      - "That is, a woman; if you be more, you’re none;"
+      - "If you be one, as you are well express’d"
+      - "By all external warrants, show it now,"
+      - "By putting on the destined livery."
+    m:
+      - "I agree. And based on what you say about your sex—since I suppose we’re only as strong as our own weakest points—let me be bold. I take you at your word. Be what you are—a woman, that is. If you are better than that, then you’re not a woman. But if you are one, as you certainly seem to be by all outward appearances, show it now by being weak."
+
+  - sp: ISABELLA
+    o:
+      - "I have no tongue but one: gentle my lord,"
+      - "Let me entreat you speak the former language."
+    m:
+      - "I can only speak with a sincere tongue. My gentle lord, please talk plainly, as you did before."
+
+  - sp: ANGELO
+    o:
+      - "Plainly conceive, I love you."
+    m:
+      - "To put it plainly, I love you."
+
+  - sp: ISABELLA
+    o:
+      - "My brother did love Juliet,"
+      - "And you tell me that he shall die for it."
+    m:
+      - "My brother loved Juliet, and you tell me that he’ll die for it."
+
+  - sp: ANGELO
+    o:
+      - "He shall not, Isabel, if you give me love."
+    m:
+      - "He won’t, Isabel, if you give me love."
+
+  - sp: ISABELLA
+    o:
+      - "I know your virtue hath a licence in’t,"
+      - "Which seems a little fouler than it is,"
+      - "To pluck on others."
+    m:
+      - "I know your virtue gives you the freedom to act wicked, in order to test others."
+
+  - sp: ANGELO
+    o:
+      - "Believe me, on mine honour,"
+      - "My words express my purpose."
+    m:
+      - "Believe me, I swear I mean what I say."
+
+  - sp: ISABELLA
+    o:
+      - "Ha! little honour to be much believed,"
+      - "And most pernicious purpose! Seeming, seeming!"
+      - "I will proclaim thee, Angelo; look for’t:"
+      - "Sign me a present pardon for my brother,"
+      - "Or with an outstretch’d throat I’ll tell the world aloud"
+      - "What man thou art."
+    m:
+      - "What! To believe so much in someone with so little honor and such evil intentions! You deceiver! I’ll denounce you, Angelo, believe me. Sign a pardon for my brother immediately, or I’ll scream to the entire world what sort of man you are."
+
+  - sp: ANGELO
+    o:
+      - "Who will believe thee, Isabel?"
+      - "My unsoil’d name, the austereness of my life,"
+      - "My vouch against you, and my place i’ the state,"
+      - "Will so your accusation overweigh,"
+      - "That you shall stifle in your own report"
+      - "And smell of calumny. I have begun,"
+      - "And now I give my sensual race the rein:"
+      - "Fit thy consent to my sharp appetite;"
+      - "Lay by all nicety and prolixious blushes,"
+      - "That banish what they sue for; redeem thy brother"
+      - "By yielding up thy body to my will;"
+      - "Or else he must not only die the death,"
+      - "But thy unkindness shall his death draw out"
+      - "To lingering sufferance. Answer me to-morrow,"
+      - "Or, by the affection that now guides me most,"
+      - "I’ll prove a tyrant to him. As for you,"
+      - "Say what you can, my false o’erweighs your true."
+    m:
+      - "Who will believe you, Isabel? My spotless reputation, my strict way of living, my testimony against you, and my position will all outweigh your accusation. You’ll be silenced and discredited, accused of slander. The starting gate is open now, and my desires are off and running. Feed my hunger—no more of your modesty and time-wasting blushes, which charm me and then banish me for being charmed. Save your brother by sleeping with me, or he’ll be put to death. And not only that, but it’ll be death by torture, drawn out by your cruelty. Accept my offer tomorrow, or by my almighty passion, I’ll tyrannize him. As for you, say what you want. My lie, which calls your claim false, will outweigh your true claim."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ISABELLA
+    o:
+      - "To whom should I complain? Did I tell this,"
+      - "Who would believe me? O perilous mouths,"
+      - "That bear in them one and the self-same tongue,"
+      - "Either of condemnation or approof;"
+      - "Bidding the law make court’sy to their will:"
+      - "Hooking both right and wrong to the appetite,"
+      - "To follow as it draws! I’ll to my brother:"
+      - "Though he hath fallen by prompture of the blood,"
+      - "Yet hath he in him such a mind of honour."
+      - "That, had he twenty heads to tender down"
+      - "On twenty bloody blocks, he’ld yield them up,"
+      - "Before his sister should her body stoop"
+      - "To such abhorr’d pollution."
+      - "Then, Isabel, live chaste, and, brother, die:"
+      - "More than our brother is our chastity."
+      - "I’ll tell him yet of Angelo’s request,"
+      - "And fit his mind to death, for his soul’s rest."
+    m:
+      - "Who can I complain to? If I reported this, who would believe me? Oh, dangerous mouths, with double-talking tongues that can both condemn and approve, and make the law bow to their wishes. They put their sexual desires before notions of right and wrong! I’ll go to my brother. Although he gave in to his body’s demands, his mind’s so honorable that, if he had twenty heads to lay on twenty bloody execution blocks, he’d give them all up, rather than let his sister pollute her body. So, Isabel, you’ll live chaste, and brother, you’ll die. My chastity is more important than my brother. I’ll tell him of Angelo’s request, and prepare him for death—and the eternal rest of his soul."
+
+  - os: "Exit"
+    ms: "She exits."

@@ -1,0 +1,382 @@
+play: As You Like It
+title: Act 1, Scene 3
+group: 1
+order: 2
+text:
+  - os: "Enter CELIA and ROSALIND"
+    ms: "CELIA and ROSALIND enter."
+
+  - sp: CELIA
+    o:
+      - "Why, cousin! Why, Rosalind! Cupid have mercy, not a word?"
+    m:
+      - "What’s going on, Rosalind? Cupid have mercy! You won’t utter a single word?"
+
+  - sp: ROSALIND
+    o:
+      - "Not one to throw at a dog."
+    m:
+      - "I don’t even have one to throw at a dog."
+
+  - sp: CELIA
+    o:
+      - "No, thy words are too precious to be cast away upon curs."
+      - "Throw some of them at me. Come, lame me with reasons."
+    m:
+      - "No, your words are too precious to be wasted on dogs. Throw some of your words at me. Come on, throw your words at me like you would throw stones at a dog."
+
+  - sp: ROSALIND
+    o:
+      - "Then there were two cousins laid up, when the one should be lamed with reasons and the other mad without any."
+    m:
+      - "Then there would be two cousins lying sick in bed: one hurt by reasons and the other gone crazy without any."
+
+  - sp: CELIA
+    o:
+      - "But is all this for your father?"
+    m:
+      - "Is all of this about your father?"
+
+  - sp: ROSALIND
+    o:
+      - "No, some of it is for my child’s father. Oh, how full of briers is this working-day world!"
+    m:
+      - "No, some of it is about my child’s father. Oh, this working-day world is full of thorns!"
+
+  - sp: CELIA
+    o:
+      - "They are but burs, cousin, thrown upon thee in holiday foolery. If we walk not in the trodden paths our very petticoats will catch them."
+    m:
+      - "They’re only burrs, cousin, thrown at you because you took a holiday from conventional behavior. If we walk on the well-worn paths, they won’t get caught in our petticoats."
+
+  - sp: ROSALIND
+    o:
+      - "I could shake them off my coat. These burs are in my heart."
+    m:
+      - "Those burrs I could shake off my clothing, but these are in my heart."
+
+  - sp: CELIA
+    o:
+      - "Hem them away."
+    m:
+      - "Cough them up."
+
+  - sp: ROSALIND
+    o:
+      - "I would try, if I could cry “hem” and have him."
+    m:
+      - "I’d try it, if I could cry “hem” and have him."
+
+  - sp: CELIA
+    o:
+      - "Come, come, wrestle with thy affections."
+    m:
+      - "Come on, take control of your feelings."
+
+  - sp: ROSALIND
+    o:
+      - "Oh, they take the part of a better wrestler than myself."
+    m:
+      - "But they’re siding with a better wrestler than myself."
+
+  - sp: CELIA
+    o:
+      - "Oh, a good wish upon you. You will try in time, in despite of a fall. But turning these jests out of service, let us talk in good earnest. Is it possible on such a sudden you should fall into so strong a liking with old Sir Rowland’s youngest son?"
+    m:
+      - "Oh, that’s a good wish! You’ll fight with him eventually, and fall. But let’s put these jokes aside for a moment, and speak earnestly. Is it possible that you could have fallen in love with Orlando, Sir Rowland’s youngest son, this suddenly?"
+
+  - sp: ROSALIND
+    o:
+      - "The duke my father loved his father dearly."
+    m:
+      - "The duke, my father, loved his father very much."
+
+  - sp: CELIA
+    o:
+      - "Doth it therefore ensue that you should love his son dearly? By this kind of chase I should hate him, for my father hated his father dearly. Yet I hate not Orlando."
+    m:
+      - "Does that necessarily mean you should love his son? By that kind of logic, I should hate Orlando, since my father hates his father. But I don’t hate Orlando."
+
+  - sp: ROSALIND
+    o:
+      - "No, faith, hate him not, for my sake."
+    m:
+      - "No, please don’t hate him—for my sake."
+
+  - sp: CELIA
+    o:
+      - "Why should I not? Doth he not deserve well?"
+    m:
+      - "Why shouldn’t I? Doesn’t he deserve it?"
+
+  - sp: ROSALIND
+    o:
+      - "Let me love him for that, and do you love him because I do."
+      - "Look, here comes the duke."
+    m:
+      - "Let me love him because he deserves it, and you can love him because I do. Look, here comes the duke."
+
+  - os: "Enter DUKE FREDERICK with lords"
+    ms: "DUKE FREDERICK enters, with lords"
+
+  - sp: CELIA
+    o:
+      - "With his eyes full of anger."
+    m:
+      - "He looks angry."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Mistress, dispatch you with your safest haste,"
+      - "And get you from our court."
+    m:
+      - "Madam, hurry as fast as you can get out of my court."
+
+  - sp: ROSALIND
+    o:
+      - "Me, uncle?"
+    m:
+      - "Me, uncle?"
+
+  - sp: DUKE FREDERICK
+    o:
+      - "You, cousin."
+      - "Within these ten days if that thou beest found"
+      - "So near our public court as twenty miles,"
+      - "Thou diest for it."
+    m:
+      - "You, niece. In ten days time, if you’re found within twenty miles of the court, you’ll die for it."
+
+  - sp: ROSALIND
+    o:
+      - "I do beseech your Grace,"
+      - "Let me the knowledge of my fault bear with me."
+      - "If with myself I hold intelligence"
+      - "Or have acquaintance with mine own desires,"
+      - "If that I do not dream or be not frantic—"
+      - "As I do trust I am not—then, dear uncle,"
+      - "Never so much as in a thought unborn"
+      - "Did I offend your Highness."
+    m:
+      - "Please, your Grace, tell me what crime I have committed. If I know my own thoughts and desires, and I’m not dreaming or crazy—which I’m sure I’m not—then, dear uncle, I’ve never had so much as a half-formed thought that would have offended you."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Thus do all traitors."
+      - "If their purgation did consist in words,"
+      - "They are as innocent as grace itself."
+      - "Let it suffice thee that I trust thee not."
+    m:
+      - "All traitors protest like this. If they could purge their guilt simply by saying that they were innocent, they’d all be as innocent as God Himself. I don’t trust you. Enough said."
+
+  - sp: ROSALIND
+    o:
+      - "Yet your mistrust cannot make me a traitor."
+      - "Tell me whereon the likelihood depends."
+    m:
+      - "But your mistrust alone can’t make me a traitor—on what basis do you suspect me?"
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Thou art thy father’s daughter. There’s enough."
+    m:
+      - "You are your father’s daughter. That’s enough."
+
+  - sp: ROSALIND
+    o:
+      - "So was I when your Highness took his dukedom."
+      - "So was I when your Highness banished him."
+      - "Treason is not inherited, my lord,"
+      - "Or if we did derive it from our friends,"
+      - "What’s that to me? My father was no traitor."
+      - "Then, good my liege, mistake me not so much"
+      - "To think my poverty is treacherous."
+    m:
+      - "I was his daughter when your Highness took my father’s dukedom. I was his daughter when you banished him. Treason is not inherited, my lord. But even if we did inherit it from our family, what does that have to do with me? My father wasn’t a traitor. So, please, my lord, don’t assume that I’m treacherous just because I’m poor, with no titles to my name."
+
+  - sp: CELIA
+    o:
+      - "Dear sovereign, hear me speak."
+    m:
+      - "Dear master, listen to me."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "Ay, Celia, we stayed her for your sake."
+      - "Else had she with her father ranged along."
+    m:
+      - "Yes, Celia, we kept her here for your sake. Otherwise, she would have been banished with her father."
+
+  - sp: CELIA
+    o:
+      - "I did not then entreat to have her stay."
+      - "It was your pleasure and your own remorse."
+      - "I was too young that time to value her,"
+      - "But now I know her. If she be a traitor,"
+      - "Why so am I. We still have slept together,"
+      - "Rose at an instant, learned, played, eat together,"
+      - "And, wheresoe’er we went, like Juno’s swans"
+      - "Still we went coupled and inseparable."
+    m:
+      - "At that time, I didn’t beg you to keep her here; you wanted her here, and you felt guilty. I was too young at the time to appreciate her value, but now I know her. If she’s a traitor, why then, so am I. We have always slept together, woken up together, learned, played, and eaten together. Wherever we went, we went together and inseparable."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "She is too subtle for thee, and her smoothness,"
+      - "Her very silence and her patience"
+      - "Speak to the people, and they pity her."
+      - "Thou art a fool. She robs thee of thy name,"
+      - "And thou wilt show more bright and seem more virtuous"
+      - "When she is gone. Then open not thy lips."
+      - "Firm and irrevocable is my doom"
+      - "Which I have passed upon her. She is banished."
+    m:
+      - "She’s too devious for you. Her smoothness, her silence, and her patient suffering appeal to the people, and they pity her. You’re a fool. She’s robbing you of the attention you deserve. You will seem even brighter and more virtuous when she’s out of the picture. So be quiet. The sentence I’ve passed down on her is firm and unshakeable. She is banished."
+
+  - sp: CELIA
+    o:
+      - "Pronounce that sentence then on me, my liege."
+      - "I cannot live out of her company."
+    m:
+      - "Then lay that sentence on me too, my lord. I cannot live without her."
+
+  - sp: DUKE FREDERICK
+    o:
+      - "You are a fool.—You, niece, provide yourself."
+      - "If you outstay the time, upon mine honor"
+      - "And in the greatness of my word, you die."
+    m:
+      - "You are a fool.—You, niece, prepare to leave. On my honor and by my word, if you outstay the ten days, you will die."
+
+  - os: "DUKE FREDERICK and lords exit."
+    ms: "Exeunt DUKE FREDERICK and lords"
+
+  - sp: CELIA
+    o:
+      - "O my poor Rosalind, whither wilt thou go?"
+      - "Wilt thou change fathers? I will give thee mine."
+      - "I charge thee, be not thou more grieved than I am."
+    m:
+      - "Oh, my poor Rosalind, where will you go? Do you want to exchange fathers? I’ll give you mine. I insist, don’t be more distressed than I am."
+
+  - sp: ROSALIND
+    o:
+      - "I have more cause."
+    m:
+      - "I have more reason to be distressed."
+
+  - sp: CELIA
+    o:
+      - "Thou hast not, cousin."
+      - "Prithee, be cheerful. Know’st thou not the duke"
+      - "Hath banished me, his daughter?"
+    m:
+      - "No you haven’t, cousin. Please, be cheerful. Don’t you realize the duke has also banished me, his daughter?"
+
+  - sp: ROSALIND
+    o:
+      - "That he hath not."
+    m:
+      - "No, he hasn’t."
+
+  - sp: CELIA
+    o:
+      - "No, hath not? Rosalind lacks then the love"
+      - "Which teacheth thee that thou and I am one."
+      - "Shall we be sundered? Shall we part, sweet girl?"
+      - "No, let my father seek another heir."
+      - "Therefore devise with me how we may fly,"
+      - "Whither to go, and what to bear with us,"
+      - "And do not seek to take your change upon you,"
+      - "To bear your griefs yourself and leave me out."
+      - "For, by this heaven, now at our sorrows pale,"
+      - "Say what thou canst, I’ll go along with thee."
+    m:
+      - "Oh, he hasn’t? Well, then, you don’t have the affection that would teach you that you and I are one. Will we be separated? Should we part, sweet girl? No. Let my father find another heir. So, help me plan how we’ll escape, where we’ll go, and what we’ll take with us. Don’t even try to take this all upon yourself, bearing your grief alone and leaving me out. I swear by the heavens, which have grown pale in sympathy with us, I’m going with you, whatever you say."
+
+  - sp: ROSALIND
+    o:
+      - "Why, whither shall we go?"
+    m:
+      - "But where will we go?"
+
+  - sp: CELIA
+    o:
+      - "To seek my uncle in the Forest of Arden."
+    m:
+      - "To the Forest of Arden, to find your father."
+
+  - sp: ROSALIND
+    o:
+      - "Alas, what danger will it be to us,"
+      - "Maids as we are, to travel forth so far?"
+      - "Beauty provoketh thieves sooner than gold."
+    m:
+      - "But what danger we’ll put ourselves in, two young, innocent women traveling so far! Fresh beauty attracts thugs and thieves even more than money."
+
+  - sp: CELIA
+    o:
+      - "I’ll put myself in poor and mean attire"
+      - "And with a kind of umber smirch my face."
+      - "The like do you. So shall we pass along"
+      - "And never stir assailants."
+    m:
+      - "I’ll put on some poor and ragged clothes and smudge my face with dirt. You do the same, and we’ll be able to travel without attracting any attackers’ attention."
+
+  - sp: ROSALIND
+    o:
+      - "Were it not better,"
+      - "Because that I am more than common tall,"
+      - "That I did suit me all points like a man?"
+      - "A gallant curtal-axe upon my thigh,"
+      - "A boar-spear in my hand, and in my heart"
+      - "Lie there what hidden woman’s fear there will,"
+      - "We’ll have a swashing and a martial outside—"
+      - "As many other mannish cowards have"
+      - "That do outface it with their semblances."
+    m:
+      - "Wouldn’t it be better—since I’m unusually tall for a woman—to dress myself like a man? I’ll wear a big sword in my belt, carry a boar-spear in my hand, and hide all my womanish fear in my heart. We’ll maintain a swaggering, warrior look, like so many cowardly men, whose manner has nothing to do with what they’re feeling."
+
+  - sp: CELIA
+    o:
+      - "What shall I call thee when thou art a man?"
+    m:
+      - "What should I call you when you’re a man?"
+
+  - sp: ROSALIND
+    o:
+      - "I’ll have no worse a name than Jove’s own page,"
+      - "And therefore look you call me Ganymede."
+      - "But what will you be called?"
+    m:
+      - "I’ll take no lesser name than that of Jove’s own servant. So call me Ganymede. And what will you be called?"
+
+  - sp: CELIA
+    o:
+      - "Something that hath a reference to my state:"
+      - "No longer Celia, but Aliena."
+    m:
+      - "Something that refers to my current state. Instead of Celia, call me Aliena."
+
+  - sp: ROSALIND
+    o:
+      - "But, cousin, what if we assayed to steal"
+      - "The clownish fool out of your father’s court?"
+      - "Would he not be a comfort to our travel?"
+    m:
+      - "Cousin, what if we brought that clownish fool of your father’s court, Touchstone? Wouldn’t he be a comfort to us in our travels?"
+
+  - sp: CELIA
+    o:
+      - "He’ll go along o’er the wide world with me."
+      - "Leave me alone to woo him. Let’s away"
+      - "And get our jewels and our wealth together,"
+      - "Devise the fittest time and safest way"
+      - "To hide us from pursuit that will be made"
+      - "After my flight. Now go we in content"
+      - "To liberty, and not to banishment."
+    m:
+      - "He’d walk the whole wide world with me. Leave me alone to go convince him. Let’s go gather our jewels and money. We’ll figure out the best time and safest route to avoid being found out by my father’s guards, whom he’ll send out as soon as he discovers I’ve gone. Now, we go contentedly to freedom—not banishment."
+
+  - os: "Exeunt"
+    ms: "They exit."

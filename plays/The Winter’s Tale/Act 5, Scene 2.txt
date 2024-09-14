@@ -1,0 +1,399 @@
+play: The Winter’s Tale
+title: Act 5, Scene 2
+group: 5
+order: 13
+text:
+  - os: "Before LEONTES’ palace."
+    ms: "In front of LEONTES’ palace."
+
+  - os: "Enter AUTOLYCUS and a Gentleman"
+    ms: "AUTOLYCUS and a Gentleman enter."
+
+  - sp: AUTOLYCUS
+    o:
+      - "Beseech you, sir, were you present at this relation?"
+    m:
+      - "Please, sir, were you there when it was revealed?"
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "I was by at the opening of the fardel, heard the old"
+      - "shepherd deliver the manner how he found it:"
+      - "whereupon, after a little amazedness, we were all"
+      - "commanded out of the chamber; only this methought I"
+      - "heard the shepherd say, he found the child."
+    m:
+      - "I was there when the bundle was opened, and heard the old shepherd tell how he found it. Then, after some shock, we were all told to leave the room. But as I went, I thought I heard the shepherd say he found the child."
+
+  - sp: AUTOLYCUS
+    o:
+      - "I would most gladly know the issue of it."
+    m:
+      - "I would love to know the result of it."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "I make a broken delivery of the business; but the"
+      - "changes I perceived in the king and Camillo were"
+      - "very notes of admiration: they seemed almost, with"
+      - "staring on one another, to tear the cases of their"
+      - "eyes; there was speech in their dumbness, language"
+      - "in their very gesture; they looked as they had heard"
+      - "of a world ransomed, or one destroyed: a notable"
+      - "passion of wonder appeared in them; but the wisest"
+      - "beholder, that knew no more but seeing, could not"
+      - "say if the importance were joy or sorrow; but in the"
+      - "extremity of the one, it must needs be."
+    m:
+      - "I could only hear bits and pieces of the conversation. But I could hear the king and Camillo speaking in tones of admiration. They looked at each other so intently and with such astonishment that it seemed as if their eyes might pop out. Even their inability to speak communicated something, and so did their gestures. They looked as if the world had been taken hostage, or destroyed. They were obviously amazed. But even the most astute observer would be unable to say if it was joy or sorrow they felt, though obviously a great deal of one or the other."
+
+  - os: "Enter another Gentleman"
+    ms: "A second Gentleman enters."
+
+  - o:
+      - "Here comes a gentleman that haply knows more."
+      - "The news, Rogero?"
+    m:
+      - "Here comes a gentleman who perhaps knows more. Any news, Rogero?"
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "Nothing but bonfires: the oracle is fulfilled; the"
+      - "king’s daughter is found: such a deal of wonder is"
+      - "broken out within this hour that ballad-makers"
+      - "cannot be able to express it."
+    m:
+      - "Only of celebration. The oracle is fulfilled. The king’s daughter is found. So many amazing things have happened this hour that ballad-makers won’t be able to express them."
+
+  - os: "Enter a third Gentleman"
+    ms: "A third Gentleman enters."
+
+  - o:
+      - "Here comes the Lady Paulina’s steward: he can"
+      - "deliver you more. How goes it now, sir? this news"
+      - "which is called true is so like an old tale, that"
+      - "the verity of it is in strong suspicion: has the king"
+      - "found his heir?"
+    m:
+      - "Here comes Lady Paulina’s servant. He can tell you more. What’s happening now? This true story seems so much like a fable that it’s hard to believe. Has the king found his heir?"
+
+  - sp: THIRD GENTLEMAN
+    o:
+      - "Most true, if ever truth were pregnant by"
+      - "circumstance: that which you hear you’ll swear you"
+      - "see, there is such unity in the proofs. The mantle"
+      - "of Queen Hermione’s, her jewel about the neck of it,"
+      - "the letters of Antigonus found with it which they"
+      - "know to be his character, the majesty of the"
+      - "creature in resemblance of the mother, the affection"
+      - "of nobleness which nature shows above her breeding,"
+      - "and many other evidences proclaim her with all"
+      - "certainty to be the king’s daughter. Did you see"
+      - "the meeting of the two kings?"
+    m:
+      - "It’s very true, if truth was ever proven by evidence. All the stories match up and are consistent. It all shows that Perdita is certainly the king’s daughter— the cloak of Queen Hermione, the jewel that was found around her neck, letters in Antigonus’ handwriting found with her, how much she looks like her mother, her noble bearing, which shows her to be more than a shepherd’s daughter, and many other things. Did you see the meeting of the two kings?"
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: THIRD GENTLEMAN
+    o:
+      - "Then have you lost a sight, which was to be seen,"
+      - "cannot be spoken of. There might you have beheld one"
+      - "joy crown another, so and in such manner that it"
+      - "seemed sorrow wept to take leave of them, for their"
+      - "joy waded in tears. There was casting up of eyes,"
+      - "holding up of hands, with countenances of such"
+      - "distraction that they were to be known by garment,"
+      - "not by favour. Our king, being ready to leap out of"
+      - "himself for joy of his found daughter, as if that"
+      - "joy were now become a loss, cries “O, thy mother,"
+      - "thy mother!” then asks Bohemia forgiveness; then"
+      - "embraces his son-in-law; then again worries he his"
+      - "daughter with clipping her; now he thanks the old"
+      - "shepherd, which stands by like a weather-bitten"
+      - "conduit of many kings’ reigns. I never heard of such"
+      - "another encounter, which lames report to follow it"
+      - "and undoes description to do it."
+    m:
+      - "Then you’ve missed something indescribable. You would have seen one joy upon another. It was so emotional that they both wept. They raised their eyes to heaven, clasped hands, and their faces were so contorted with emotion that you could only recognize them by their clothing. Our king, overcome with joy at having found his daughter, cried out, “Oh, your mother, your mother,” as if that joy had become a loss. Then he asked Polixenes for forgiveness, then embraced his son-in-law, and then harassed his daughter with embraces. Then he thanks the old shepherd, who stands there weeping like a stone statue. I’ve never heard of such an event. It’s impossible to tell what happen, or to describe it."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "What, pray you, became of Antigonus, that carried"
+      - "hence the child?"
+    m:
+      - "What became of Antigonus, who carried away the child?"
+
+  - sp: THIRD GENTLEMAN
+    o:
+      - "Like an old tale still, which will have matter to"
+      - "rehearse, though credit be asleep and not an ear"
+      - "open. He was torn to pieces with a bear: this"
+      - "avouches the shepherd’s son; who has not only his"
+      - "innocence, which seems much, to justify him, but a"
+      - "handkerchief and rings of his that Paulina knows."
+    m:
+      - "That itself is like an old story, which will take effort to recount and is hard to believe. He was torn to pieces by a bear. The shepherd’s son swears so, and not only does he seem innocent enough to be believed, but he also has a handkerchief and rings that Paulina recognized as belonging to Antingonus."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "What became of his bark and his followers?"
+    m:
+      - "What happened to his ship and his companions?"
+
+  - sp: THIRD GENTLEMAN
+    o:
+      - "Wrecked the same instant of their master’s death and"
+      - "in the view of the shepherd: so that all the"
+      - "instruments which aided to expose the child were"
+      - "even then lost when it was found. But O, the noble"
+      - "combat that ’twixt joy and sorrow was fought in"
+      - "Paulina! She had one eye declined for the loss of"
+      - "her husband, another elevated that the oracle was"
+      - "fulfilled: she lifted the princess from the earth,"
+      - "and so locks her in embracing, as if she would pin"
+      - "her to her heart that she might no more be in danger"
+      - "of losing."
+    m:
+      - "They were wrecked at the same time their master was killed. The shepherd saw it happen. So all those who helped exile the child were lost. Paulina was caught between joy and sorrow! She was saddened at the loss of her husband but elated that the oracle was fulfilled. She lifted the princess in a hug, as if she could pin her to her heart so as never to lose her again."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "The dignity of this act was worth the audience of"
+      - "kings and princes; for by such was it acted."
+    m:
+      - "This is a scene worthy of an audience of kings and princes, who were also the actors in it."
+
+  - sp: THIRD GENTLEMAN
+    o:
+      - "One of the prettiest touches of all and that which"
+      - "angled for mine eyes, caught the water though not"
+      - "the fish, was when, at the relation of the queen’s"
+      - "death, with the manner how she came to’t bravely"
+      - "confessed and lamented by the king, how"
+      - "attentiveness wounded his daughter; till, from one"
+      - "sign of dolour to another, she did, with an “Alas,”"
+      - "I would fain say, bleed tears, for I am sure my"
+      - "heart wept blood. Who was most marble there changed"
+      - "colour; some swooned, all sorrowed: if all the world"
+      - "could have seen ’t, the woe had been universal."
+    m:
+      - "One of the most moving things of all, which brought me to tears, was when the king bravely and sadly told his daughter how the queen died. How intently Perdita listened! She went from sorrow to sorrow, and finally said, “Alas,” and seemed to bleed tears. I would say my heart nearly broke. Even the most hardened onlooker was affected. Some fainted, and all mourned. If the world could have seen it, everyone would have felt sorrow."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Are they returned to the court?"
+    m:
+      - "Have they returned to the court?"
+
+  - sp: THIRD GENTLEMAN
+    o:
+      - "No: the princess hearing of her mother’s statue,"
+      - "which is in the keeping of Paulina,—a piece many"
+      - "years in doing and now newly performed by that rare"
+      - "Italian master, Julio Romano, who, had he himself"
+      - "eternity and could put breath into his work, would"
+      - "beguile Nature of her custom, so perfectly he is her"
+      - "ape: he so near to Hermione hath done Hermione that"
+      - "they say one would speak to her and stand in hope of"
+      - "answer: thither with all greediness of affection"
+      - "are they gone, and there they intend to sup."
+    m:
+      - "No. The princess heard that Paulina keeps a statue of her mother that was made over many years and just recently finished. It was done by that Italian master, Julio Romano, who makes his subjects so close to life that, if he could breathe life into his statues, he would replace Nature. He has replicated Hermione so closely that they say that you might speak to her and expect an answer. They’ve gone to see it, and they intend to dine there."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "I thought she had some great matter there in hand;"
+      - "for she hath privately twice or thrice a day, ever"
+      - "since the death of Hermione, visited that removed"
+      - "house. Shall we thither and with our company piece"
+      - "the rejoicing?"
+    m:
+      - "I thought Paulina had some important business there. Ever since Hermione died, she has visited that remote place privately two or three times a day. Shall we go there and join the celebration?"
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Who would be thence that has the benefit of access?"
+      - "every wink of an eye some new grace will be born:"
+      - "our absence makes us unthrifty to our knowledge."
+      - "Let’s along."
+    m:
+      - "Who wouldn’t go who has access? Every moment you look will show a new wonder. Our absence will make us poorer in knowledge. Let’s go."
+
+  - os: "Exeunt Gentlemen"
+    ms: "The Gentlemen exit."
+
+  - sp: AUTOLYCUS
+    o:
+      - "Now, had I not the dash of my former life in me,"
+      - "would preferment drop on my head. I brought the old"
+      - "man and his son aboard the prince: told him I heard"
+      - "them talk of a fardel and I know not what: but he"
+      - "at that time, overfond of the shepherd’s daughter,"
+      - "so he then took her to be, who began to be much"
+      - "sea-sick, and himself little better, extremity of"
+      - "weather continuing, this mystery remained"
+      - "undiscovered. But ’tis all one to me; for had I"
+      - "been the finder out of this secret, it would not"
+      - "have relished among my other discredits."
+    m:
+      - "Now, if I didn’t have a trace of my former life in me, the king would favor me. I brought the old man and his son aboard with the prince, and told him I heard them talk about a bundle and so on. But he was distracted by his fondness for the shepherd’s daughter, who he still thought her to be at the time, and with the bad weather they both began to suffer from sea-sickness. The mystery remained undiscovered. But it’s all the same to me. If I had revealed this secret, it wouldn’t have gone well with my other misdeeds."
+
+  - os: "Enter SHEPHERD and CLOWN"
+    ms: "The SHEPHERD and YOKEL enter, dressed as gentlemen."
+
+  - o:
+      - "Here come those I have done good to against my will,"
+      - "and already appearing in the blossoms of their fortune."
+    m:
+      - "Here come those men I have helped against my will, and they already are enjoying their good fortune."
+
+  - sp: SHEPHERD
+    o:
+      - "Come, boy; I am past more children, but thy sons and"
+      - "daughters will be all gentlemen born."
+    m:
+      - "Come, my boy. I won’t have any more children, but your sons and daughters will be the children of a gentleman."
+
+  - sp: CLOWN
+    o:
+      - "You are well met, sir. You denied to fight with me"
+      - "this other day, because I was no gentleman born."
+      - "See you these clothes? say you see them not and"
+      - "think me still no gentleman born: you were best say"
+      - "these robes are not gentlemen born: give me the"
+      - "lie, do, and try whether I am not now a gentleman born."
+    m:
+      - "*(to Autolycus)* Good to see you, sir. You refused to fight me the other day because I wasn’t a gentleman’s son. Do you see these clothes? Tell me you don’t see them and still think I’m not a gentleman’s son. You’d be better off saying these clothes aren’t from a gentleman. Lie to me, and see whether I’m not a gentleman’s son."
+
+  - sp: AUTOLYCUS
+    o:
+      - "I know you are now, sir, a gentleman born."
+    m:
+      - "Now I know you are a gentleman, sir."
+
+  - sp: CLOWN
+    o:
+      - "Ay, and have been so any time these four hours."
+    m:
+      - "Yes, and have been so for these past four hours."
+
+  - sp: SHEPHERD
+    o:
+      - "And so have I, boy."
+    m:
+      - "And I’ve been, too, boy."
+
+  - sp: CLOWN
+    o:
+      - "So you have: but I was a gentleman born before my"
+      - "father; for the king’s son took me by the hand, and"
+      - "called me brother; and then the two kings called my"
+      - "father brother; and then the prince my brother and"
+      - "the princess my sister called my father father; and"
+      - "so we wept, and there was the first gentleman-like"
+      - "tears that ever we shed."
+    m:
+      - "You have. But I became a gentleman before my father, because the king’s son took me by the hand and called me “brother.” Then the two kings called my father “brother.” And then my brother the prince, and my sister the princess called my father “father.” And so we all wept, and those were the first tears we shed as gentlemen."
+
+  - sp: SHEPHERD
+    o:
+      - "We may live, son, to shed many more."
+    m:
+      - "May we live to shed many more, son."
+
+  - sp: CLOWN
+    o:
+      - "Ay; or else ’twere hard luck, being in so"
+      - "preposterous estate as we are."
+    m:
+      - "Yes, or it would be tough luck, being in such preposterous state as we are."
+
+  - sp: AUTOLYCUS
+    o:
+      - "I humbly beseech you, sir, to pardon me all the"
+      - "faults I have committed to your worship and to give"
+      - "me your good report to the prince my master."
+    m:
+      - "I humbly beg you, sir, to forgive me for all the ways I have offended you, and to speak well of me to the prince, my master."
+
+  - sp: SHEPHERD
+    o:
+      - "Prithee, son, do; for we must be gentle, now we are"
+      - "gentlemen."
+    m:
+      - "Yes, son, do so. We have to be gentle, now that we are gentlemen."
+
+  - sp: CLOWN
+    o:
+      - "Thou wilt amend thy life?"
+    m:
+      - "You’ll reform yourself?"
+
+  - sp: AUTOLYCUS
+    o:
+      - "Ay, an it like your good worship."
+    m:
+      - "Yes, as it pleases you."
+
+  - sp: CLOWN
+    o:
+      - "Give me thy hand: I will swear to the prince thou"
+      - "art as honest a true fellow as any is in Bohemia."
+    m:
+      - "Give me your hand. I will swear to the prince that you are as honest as any man in Bohemia."
+
+  - sp: SHEPHERD
+    o:
+      - "You may say it, but not swear it."
+    m:
+      - "You may say it, but don’t swear it."
+
+  - sp: CLOWN
+    o:
+      - "Not swear it, now I am a gentleman? Let boors and"
+      - "franklins say it, I’ll swear it."
+    m:
+      - "Don’t swear it, now that I am a gentleman?  Let peasants and farmers simply say it. I’ll swear it."
+
+  - sp: SHEPHERD
+    o:
+      - "How if it be false, son?"
+    m:
+      - "What if it turns out to be untrue, son?"
+
+  - sp: CLOWN
+    o:
+      - "If it be ne’er so false, a true gentleman may swear"
+      - "it in the behalf of his friend: and I’ll swear to"
+      - "the prince thou art a tall fellow of thy hands and"
+      - "that thou wilt not be drunk; but I know thou art no"
+      - "tall fellow of thy hands and that thou wilt be"
+      - "drunk: but I’ll swear it, and I would thou wouldst"
+      - "be a tall fellow of thy hands."
+    m:
+      - "Even if it’s untrue, a true gentleman will swear it on behalf of his friend. *(to Autolycus)* And I’ll swear to the prince that you are a brave man of action and that you won’t be drunk. I know you aren’t a brave man of action and that you will be drunk. But I’ll swear it, and I hope you’ll be a brave man of action."
+
+  - sp: AUTOLYCUS
+    o:
+      - "I will prove so, sir, to my power."
+    m:
+      - "I’ll do my best to prove so, sir."
+
+  - sp: CLOWN
+    o:
+      - "Ay, by any means prove a tall fellow: if I do not"
+      - "wonder how thou darest venture to be drunk, not"
+      - "being a tall fellow, trust me not. Hark! the kings"
+      - "and the princes, our kindred, are going to see the"
+      - "queen’s picture. Come, follow us: we’ll be thy"
+      - "good masters."
+    m:
+      - "Yes, prove yourself a brave fellow. If I’m not amazed how you dare to be drunk, not being a brave man myself, don’t trust me. *(noise off-stage)* Look! The kings and the princess, our family, are going to see the queen’s statue. Come, follow us. We’ll be your kind masters."
+
+  - os: "Exeunt"
+    ms: "They exit."

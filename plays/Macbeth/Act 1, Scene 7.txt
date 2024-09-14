@@ -1,0 +1,174 @@
+play: Macbeth
+title: Act 1, Scene 7
+group: 1
+order: 6
+text:
+  - os: "Hautboys. Torches. Enter a sewer and divers servants with dishes and service over the stage. Then enter MACBETH"
+    ms: "Hautboys play. The stage is lit by torches. A butler enters, and various servants carry utensils and dishes of food across the stage. Then MACBETH enters."
+
+  - sp: MACBETH
+    o:
+      - "If it were done when ’tis done, then ’twere well"
+      - "It were done quickly. If the assassination"
+      - "Could trammel up the consequence, and catch"
+      - "With his surcease success; that but this blow"
+      - "Might be the be-all and the end-all here,"
+      - "But here, upon this bank and shoal of time,"
+      - "We’d jump the life to come. But in these cases"
+      - "We still have judgment here, that we but teach"
+      - "Bloody instructions, which, being taught, return"
+      - "To plague th’ inventor: this even-handed justice"
+      - "Commends the ingredients of our poisoned chalice"
+      - "To our own lips. He’s here in double trust:"
+      - "First, as I am his kinsman and his subject,"
+      - "Strong both against the deed; then, as his host,"
+      - "Who should against his murderer shut the door,"
+      - "Not bear the knife myself. Besides, this Duncan"
+      - "Hath borne his faculties so meek, hath been"
+      - "So clear in his great office, that his virtues"
+      - "Will plead like angels, trumpet-tongued, against"
+      - "The deep damnation of his taking-off;"
+      - "And pity, like a naked newborn babe,"
+      - "Striding the blast, or heaven’s cherubim, horsed"
+      - "Upon the sightless couriers of the air,"
+      - "Shall blow the horrid deed in every eye,"
+      - "That tears shall drown the wind. I have no spur"
+      - "To prick the sides of my intent, but only"
+      - "Vaulting ambition, which o’erleaps itself"
+      - "And falls on th’ other."
+    m:
+      - "If this business would really be finished when I did the deed, then it would be best to get it over with quickly. If the assassination of the king could work like a net, sweeping up everything and preventing any consequences, then the murder would be the be-all and end-all of the whole affair, and I would gladly put my soul and the afterlife at risk to do it. But for crimes like these there are still punishments in this world. By committing violent crimes we only teach other people to commit violence, and the violence of our students will come back to plague us teachers. Justice, being equal to everyone, forces us to drink from the poisoned cup that we serve to others. The king trusts me in two ways. First of all, I am his kinsman and his subject, so I should always try to protect him. Second, I am his host, so I should be closing the door in his murderer’s face, not trying to murder him myself. Besides, Duncan has been such a humble leader, so free of corruption, that his virtuous legacy will speak for him when he dies, as if angels were playing trumpets against the injustice of his murder. Pity, like an innocent newborn baby, will ride the wind with winged angels on invisible horses through the air to spread news of the horrible deed to everyone everywhere. People will shed a flood of tears that will drown the wind like a horrible downpour of rain. I can’t spur myself to action. The only thing motivating me is ambition, which makes people rush ahead of themselves toward disaster."
+
+  - os: "Enter LADY MACBETH"
+    ms: "LADY MACBETH enters."
+
+  - o:
+      - "    How now! What news?"
+    m:
+      - "What news do you have?"
+
+  - sp: LADY MACBETH
+    o:
+      - "He has almost supped. Why have you left the chamber?"
+    m:
+      - "He has almost finished dinner. Why did you leave the dining room?"
+
+  - sp: MACBETH
+    o:
+      - "Hath he asked for me?"
+    m:
+      - "Has he asked for me?"
+
+  - sp: LADY MACBETH
+    o:
+      - "    Know you not he has?"
+    m:
+      - "Don’t you know he has?"
+
+  - sp: MACBETH
+    o:
+      - "We will proceed no further in this business."
+      - "He hath honored me of late, and I have bought"
+      - "Golden opinions from all sorts of people,"
+      - "Which would be worn now in their newest gloss,"
+      - "Not cast aside so soon."
+    m:
+      - "We can’t go on with this plan. The king has just honored me, and I have earned the good opinion of all sorts of people. I want to enjoy these honors while the feeling is fresh and not throw them away so soon."
+
+  - sp: LADY MACBETH
+    o:
+      - "    Was the hope drunk"
+      - "Wherein you dressed yourself? Hath it slept since?"
+      - "And wakes it now, to look so green and pale"
+      - "At what it did so freely? From this time"
+      - "Such I account thy love. Art thou afeard"
+      - "To be the same in thine own act and valor"
+      - "As thou art in desire? Wouldst thou have that"
+      - "Which thou esteem’st the ornament of life,"
+      - "And live a coward in thine own esteem,"
+      - "Letting “I dare not” wait upon “I would, ”"
+      - "Like the poor cat i’ th’ adage?"
+    m:
+      - "Were you drunk when you seemed so hopeful before? Have you gone to sleep and woken up green and pale in fear of this idea? From now on this is what I’ll think of your love. Are you afraid to act the way you desire? Will you take the crown you want so badly, or will you live as a coward, always saying “I can’t” after you say “I want to”? You’re like the poor cat in the old story."
+
+  - sp: MACBETH
+    o:
+      - "    Prithee, peace:"
+      - "I dare do all that may become a man;"
+      - "Who dares do more is none."
+    m:
+      - "Please, stop! I dare to do only what is proper for a man to do. He who dares to do more is not a man at all."
+
+  - sp: LADY MACBETH
+    o:
+      - "    What beast was ’t, then,"
+      - "That made you break this enterprise to me?"
+      - "When you durst do it, then you were a man;"
+      - "And to be more than what you were, you would"
+      - "Be so much more the man. Nor time nor place"
+      - "Did then adhere, and yet you would make both."
+      - "They have made themselves, and that their fitness now"
+      - "Does unmake you. I have given suck, and know"
+      - "How tender ’tis to love the babe that milks me."
+      - "I would, while it was smiling in my face,"
+      - "Have plucked my nipple from his boneless gums"
+      - "And dashed the brains out, had I so sworn as you"
+      - "Have done to this."
+    m:
+      - "If you weren’t a man, then what kind of animal were you when you first told me you wanted to do this? When you dared to do it, that’s when you were a man. And if you go one step further by doing what you dared to do before, you’ll be that much more the man. The time and place weren’t right before, but you would have gone ahead with the murder anyhow. Now the time and place are just right, but they’re almost too good for you. I have suckled a baby, and I know how sweet it is to love the baby at my breast. But even as the baby was smiling up at me, I would have plucked my nipple out of its mouth and smashed its brains out against a wall if I had sworn to do that the same way you have sworn to do this."
+
+  - sp: MACBETH
+    o:
+      - "    If we should fail?"
+    m:
+      - "But if we fail—"
+
+  - sp: LADY MACBETH
+    o:
+      - "    We fail?"
+      - "But screw your courage to the sticking-place,"
+      - "And we’ll not fail. When Duncan is asleep—"
+      - "Whereto the rather shall his day’s hard journey"
+      - "Soundly invite him—his two chamberlains"
+      - "Will I with wine and wassail so convince"
+      - "That memory, the warder of the brain,"
+      - "Shall be a fume, and the receipt of reason"
+      - "A limbeck only: when in swinish sleep"
+      - "Their drenchèd natures lie as in a death,"
+      - "What cannot you and I perform upon"
+      - "The unguarded Duncan? What not put upon"
+      - "His spongy officers, who shall bear the guilt"
+      - "Of our great quell?"
+    m:
+      - "We, fail? If you get your courage up, we can’t fail. When Duncan is asleep—the day’s hard journey has definitely made him tired—I’ll get his two servants so drunk that their memory will go up in smoke through the chimneys of their brains. When they lie asleep like pigs, so drunk they’ll be dead to the world, what won’t you and I be able to do to the unguarded Duncan? And whatever we do, we can lay all the blame on the drunken servants."
+
+  - sp: MACBETH
+    o:
+      - "    Bring forth men-children only,"
+      - "For thy undaunted mettle should compose"
+      - "Nothing but males. Will it not be received,"
+      - "When we have marked with blood those sleepy two"
+      - "Of his own chamber and used their very daggers,"
+      - "That they have done ’t?"
+    m:
+      - "May you only give birth to male children, because your fearless spirit should create nothing that isn’t masculine. Once we have covered the two servants with blood, and used their daggers to kill, won’t people believe that they were the culprits?"
+
+  - sp: LADY MACBETH
+    o:
+      - "    Who dares receive it other,"
+      - "As we shall make our griefs and clamor roar"
+      - "Upon his death?"
+    m:
+      - "Who could think it happened any other way? We’ll be grieving loudly when we hear that Duncan has died."
+
+  - sp: MACBETH
+    o:
+      - "    I am settled, and bend up"
+      - "Each corporal agent to this terrible feat."
+      - "Away, and mock the time with fairest show."
+      - "False face must hide what the false heart doth know."
+    m:
+      - "Now I’m decided, and I will exert every muscle in my body to commit this crime. Go now, and pretend to be a friendly hostess. Hide with a false pleasant face what you know in your false, evil heart."
+
+  - os: "Exeunt"
+    ms: "They exit."

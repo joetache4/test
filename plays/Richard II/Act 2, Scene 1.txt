@@ -1,0 +1,614 @@
+play: Richard II
+title: Act 2, Scene 1
+group: 2
+order: 4
+text:
+  - os: "London. A Room in Ely House."
+    ms: "A room in Ely Palace, London."
+
+  - os: "Enter JOHN OF GAUNT sick, with the DUKE OF YORK &c."
+    ms: "JOHN OF GAUNT, who is very sick, and the DUKE OF YORK, as well as a few assistants, enter."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "Will the king come, that I may breathe my last"
+      - "In wholesome counsel to his unstaid youth?"
+    m:
+      - "Is the young, wild king going to come visit me so I can give him my last words of advice before I die?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "Vex not yourself, nor strive not with your breath;"
+      - "For all in vain comes counsel to his ear."
+    m:
+      - "Don’t waste the little strength you have worrying about that. Even if he did come, the king doesn’t listen to advice."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "O, but they say the tongues of dying men"
+      - "Enforce attention like deep harmony:"
+      - "Where words are scarce, they are seldom spent in vain,"
+      - "For they breathe truth that breathe their words in pain."
+      - "He that no more must say is listen’d more"
+      - "Than they whom youth and ease have taught to glose;"
+      - "More are men’s ends mark’d than their lives before:"
+      - "The setting sun, and music at the close,"
+      - "As the last taste of sweets, is sweetest last,"
+      - "Writ in remembrance more than things long past:"
+      - "Though Richard my life’s counsel would not hear,"
+      - "My death’s sad tale may yet undeaf his ear."
+    m:
+      - "Also, in general, people pay more attention at the end of somebody’s life. It’s just like the last bite of dessert—it’s the sweetest part, the part you try to make last, and the part you remember most. So, even though King Richard ignored me throughout my life, maybe he’ll listen to me now that I am dying."
+
+  - sp: DUKE OF YORK
+    o:
+      - "No; it is stopp’d with other flattering sounds,"
+      - "As praises, of whose taste the wise are feared,"
+      - "Lascivious metres, to whose venom sound"
+      - "The open ear of youth doth always listen;"
+      - "Report of fashions in proud Italy,"
+      - "Whose manners still our tardy apish nation"
+      - "Limps after in base imitation."
+      - "Where doth the world thrust forth a vanity—"
+      - "So it be new, there’s no respect how vile—"
+      - "That is not quickly buzzed into his ears?"
+      - "Then all too late comes counsel to be heard,"
+      - "Where will doth mutiny with wit’s regard."
+      - "Direct not him whose way himself will choose:"
+      - "’Tis breath thou lack’st, and that breath wilt thou lose."
+    m:
+      - "No, he won’t listen—his ears are stuffed with all the sounds that make him happy, like the flattery and praise he receives, which wise men know to be wary of. He also likes raunchy poems, which immature young people always listen to. And he listens to the fashion reports from Italy, which England is always copying and always shamefully trying to catch up to. As long as it is new, no matter how awful it is, it instantly grabs Richard’s attention. His desire for all of these things doesn’t allow him to listen to good advice. Don’t give him direction, because he chooses his own course. You’ll just be wasting your precious breath."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "Methinks I am a prophet new inspired"
+      - "And thus expiring do foretell of him:"
+      - "His rash fierce blaze of riot cannot last,"
+      - "For violent fires soon burn out themselves;"
+      - "Small showers last long, but sudden storms are short;"
+      - "He tires betimes that spurs too fast betimes;"
+      - "With eager feeding food doth choke the feeder:"
+      - "Light vanity, insatiate cormorant,"
+      - "Consuming means, soon preys upon itself."
+      - "This royal throne of kings, this scepter’d isle,"
+      - "This earth of majesty, this seat of Mars,"
+      - "This other Eden, demi-paradise,"
+      - "This fortress built by Nature for herself"
+      - "Against infection and the hand of war,"
+      - "This happy breed of men, this little world,"
+      - "This precious stone set in the silver sea,"
+      - "Which serves it in the office of a wall,"
+      - "Or as a moat defensive to a house,"
+      - "Against the envy of less happier lands,"
+      - "This blessed plot, this earth, this realm, this England,"
+      - "This nurse, this teeming womb of royal kings,"
+      - "Fear’d by their breed and famous by their birth,"
+      - "Renowned for their deeds as far from home,"
+      - "For Christian service and true chivalry,"
+      - "As is the sepulchre in stubborn Jewry,"
+      - "Of the world’s ransom, blessed Mary’s Son,"
+      - "This land of such dear souls, this dear dear land,"
+      - "Dear for her reputation through the world,"
+      - "Is now leased out, I die pronouncing it,"
+      - "Like to a tenement or pelting farm:"
+      - "England, bound in with the triumphant sea"
+      - "Whose rocky shore beats back the envious siege"
+      - "Of watery Neptune, is now bound in with shame,"
+      - "With inky blots and rotten parchment bonds:"
+      - "That England, that was wont to conquer others,"
+      - "Hath made a shameful conquest of itself."
+      - "Ah, would the scandal vanish with my life,"
+      - "How happy then were my ensuing death!"
+    m:
+      - "As I lie here dying, I think that God is suddenly letting me see the king’s future. The king can’t go on living a wasteful lifestyle forever, in the same way that a raging fire will eventually burn itself out. Little rainstorms often go on for a long time, but big, violent thunderstorms come and go quickly. The person who starts off too fast will soon tire out, and the person who eats too fast will choke on his food. The hungry bird that can’t get enough to eat will soon eat itself. This kingdom, this majestic Earth, this paradise, this fortress that Nature built to protect herself against disease and war, this lucky race of people, this little world, this precious jewel of an island sitting in the sea—which protects it like a wall or a moat against the evil intentions of less fortunate countries—this blessed land, this England, this fertile mother of kings who are feared and famous for their Christian actions throughout the world, this land of such good people, this wonderful, wonderful land—it is now rented out, and I’m going to have to die watching it happen. England is surrounded by an ocean whose rocky shore has always pushed back the raging waters. Now, though, England is bound in shame by legal papers, made of rotting parchment and covered in inky blots, that were signed to rent it out. England, which is used to conquering other countries, has now shamefully conquered itself. Oh, how I wish this scandal would die and go away, just like I’m about to die. How happy my death would be then!"
+
+  - os: "Enter KING RICHARD II and QUEEN, DUKE OF AUMERLE, BUSHY, GREEN, BAGOT, LORD ROSS, and LORD WILLOUGHBY"
+    ms: "KING RICHARD II, the QUEEN, the DUKE OF AUMERLE, BUSHY, GREEN, BAGOT, LORD ROSS, and LORD WILLOUGHBY enter."
+
+  - sp: DUKE OF YORK
+    o:
+      - "*(to John of Gaunt)* The king is come: deal mildly with his youth;"
+      - "For young hot colts being raged do rage the more."
+    m:
+      - "*(to John of Guant)* The king is here. Go easy with him. He is young and easy to make angry, and if you give him a hard time, you’re likely to do nothing but make him angrier."
+
+  - sp: QUEEN
+    o:
+      - "How fares our noble uncle, Lancaster?"
+    m:
+      - "How are you, John of Gaunt?"
+
+  - sp: KING RICHARD II
+    o:
+      - "What comfort, man? how is’t with aged Gaunt?"
+    m:
+      - "Yes, John of Gaunt, tell us how you are."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "O how that name befits my composition!"
+      - "Old Gaunt indeed, and gaunt in being old:"
+      - "Within me grief hath kept a tedious fast;"
+      - "And who abstains from meat that is not gaunt?"
+      - "For sleeping England long time have I watch’d;"
+      - "Watching breeds leanness, leanness is all gaunt:"
+      - "The pleasure that some fathers feed upon,"
+      - "Is my strict fast; I mean, my children’s looks;"
+      - "And therein fasting, hast thou made me gaunt:"
+      - "Gaunt am I for the grave, gaunt as a grave,"
+      - "Whose hollow womb inherits nought but bones."
+    m:
+      - "My name is Gaunt, and I feel gaunt. I am gaunt because of my old age. And who can go without food and not be gaunt? I have stayed awake and watched England crumble for a long time, and from all the lack of sleep I’ve grown gaunt. Fathers receive nourishment from seeing their children, and since I can’t see my child it has made me gaunt. I’m ready for my grave, and when I’m laid in it I’ll be nothing but bones."
+
+  - sp: KING RICHARD II
+    o:
+      - "Can sick men play so nicely with their names?"
+    m:
+      - "Can men who are really sick play so subtly with their names?"
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "No, misery makes sport to mock itself:"
+      - "Since thou dost seek to kill my name in me,"
+      - "I mock my name, great king, to flatter thee."
+    m:
+      - "Misery likes to make fun of itself. And I thought you might enjoy listening to me make fun of my name since you are banishing my son, who, of course, shares my name."
+
+  - sp: KING RICHARD II
+    o:
+      - "Should dying men flatter with those that live?"
+    m:
+      - "Should dying men try to amuse the living?"
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "No, no, men living flatter those that die."
+    m:
+      - "No, no, the living should try to amuse the dying."
+
+  - sp: KING RICHARD II
+    o:
+      - "Thou, now a-dying, say’st thou flatterest me."
+    m:
+      - "You, who are dying, tell me that you’re trying to please me."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "O, no! thou diest, though I the sicker be."
+    m:
+      - "Oh no! You’re the one dying, even though I’m sicker."
+
+  - sp: KING RICHARD II
+    o:
+      - "I am in health, I breathe, and see thee ill."
+    m:
+      - "I’m in good health. I’m breathing fine, and I can see that you are the one who is sick."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "Now He that made me knows I see thee ill;"
+      - "Ill in myself to see, and in thee seeing ill."
+      - "Thy death-bed is no lesser than thy land"
+      - "Wherein thou liest in reputation sick;"
+      - "And thou, too careless patient as thou art,"
+      - "Commit’st thy anointed body to the cure"
+      - "Of those physicians that first wounded thee:"
+      - "A thousand flatterers sit within thy crown,"
+      - "Whose compass is no bigger than thy head;"
+      - "And yet, incaged in so small a verge,"
+      - "The waste is no whit lesser than thy land."
+      - "O, had thy grandsire with a prophet’s eye"
+      - "Seen how his son’s son should destroy his sons,"
+      - "From forth thy reach he would have laid thy shame,"
+      - "Deposing thee before thou wert possess’d,"
+      - "Which art possess’d now to depose thyself."
+      - "Why, cousin, wert thou regent of the world,"
+      - "It were a shame to let this land by lease;"
+      - "But for thy world enjoying but this land,"
+      - "Is it not more than shame to shame it so?"
+      - "Landlord of England art thou now, not king:"
+      - "Thy state of law is bondslave to the law; And thou—"
+    m:
+      - "God knows that I can see the sickness in you. You don’t realize it, but your deathbed is actually the country that you’ve been destroying. And you’re too stupid to realize that the people you think will cure you are actually the ones making you sick—those flatterers and yes-men you surround yourself with. You don’t even see that your subjects are turning on you. You have laid waste to all of England. If your grandfather had been able to see how you were going to destroy this country, he would’ve reached into the future and stopped you. My brother, it is an utter shame to lease parts of England out to others. You aren’t the king of England anymore. You are simply the landlord of England, and you—"
+
+  - sp: KING RICHARD II
+    o:
+      - "A lunatic lean-witted fool,"
+      - "Presuming on an ague’s privilege,"
+      - "Darest with thy frozen admonition"
+      - "Make pale our cheek, chasing the royal blood"
+      - "With fury from his native residence."
+      - "Now, by my seat’s right royal majesty,"
+      - "Wert thou not brother to great Edward’s son,"
+      - "This tongue that runs so roundly in thy head"
+      - "Should run thy head from thy unreverent shoulders."
+    m:
+      - "You idiot, taking advantage of your illness as an opportunity to criticize me. How dare you anger and embarrass me so much that my face has gone pale. If you weren’t my uncle—that is, the uncle to the King of England—that wild tongue of yours would fall from the head that sits on your disobedient shoulders."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "O, spare me not, my brother Edward’s son,"
+      - "For that I was his father Edward’s son;"
+      - "That blood already, like the pelican,"
+      - "Hast thou tapp’d out and drunkenly caroused:"
+      - "My brother Gloucester, plain well-meaning soul,"
+      - "Whom fair befal in heaven ’mongst happy souls!"
+      - "May be a precedent and witness good"
+      - "That thou respect’st not spilling Edward’s blood:"
+      - "Join with the present sickness that I have;"
+      - "And thy unkindness be like crooked age,"
+      - "To crop at once a too long wither’d flower."
+      - "Live in thy shame, but die not shame with thee!"
+      - "These words hereafter thy tormentors be!"
+      - "Convey me to my bed, then to my grave:"
+      - "Love they to live that love and honour have."
+    m:
+      - "Don’t do me any favors because I’m your uncle. You have never before hesitated to spill our family’s royal blood. My good and simple brother Gloucester, who had royal blood and is happily in heaven now, is someone you weren’t afraid to kill. Like a dead flower, your wicked behavior must be plucked immediately. You have lived a bad life, but you must change your ways before you die. May my words torment you always! *(to his assistants)* Take me to my bed, and then let me die. Let only those who are honorable and loving live happily."
+
+  - os: "Exit, borne off by his Attendants"
+    ms: "JOHN OF GAUNT is carried off the stage by his assistants."
+
+  - sp: KING RICHARD II
+    o:
+      - "And let them die that age and sullens have;"
+      - "For both hast thou, and both become the grave."
+    m:
+      - "And let those who are old and gloomy die, and you, John of Gaunt, are both."
+
+  - sp: DUKE OF YORK
+    o:
+      - "I do beseech your majesty, impute his words"
+      - "To wayward sickliness and age in him:"
+      - "He loves you, on my life, and holds you dear"
+      - "As Harry Duke of Hereford, were he here."
+    m:
+      - "I beg you, your majesty, blame his words on his age and his sickness. I swear that he loves you and holds you as close to his heart as he does Harry Duke of Hereford."
+
+  - sp: KING RICHARD II
+    o:
+      - "Right, you say true: as Hereford’s love, so his;"
+      - "As theirs, so mine; and all be as it is."
+    m:
+      - "Right, what you say is true. Just as Harry holds me close to his heart, John of Gaunt must hold me also. And, in turn, I love both of them. That’s how it is."
+
+  - os: "Enter NORTHUMBERLAND"
+    ms: "NORTHUMBERLAND enters."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "My liege, old Gaunt commends him to your majesty."
+    m:
+      - "My lord, Gaunt sends his regards to you."
+
+  - sp: KING RICHARD II
+    o:
+      - "What says he?"
+    m:
+      - "What did he say?"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Nay, nothing; all is said"
+      - "His tongue is now a stringless instrument;"
+      - "Words, life and all, old Lancaster hath spent."
+    m:
+      - "Actually, he didn’t say anything. He can’t talk. He has died."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Be York the next that must be bankrupt so!"
+      - "Though death be poor, it ends a mortal woe."
+    m:
+      - "I hope that I will be the next to die! Death is terrible, but at least it stops the pain of living."
+
+  - sp: KING RICHARD II
+    o:
+      - "The ripest fruit first falls, and so doth he;"
+      - "His time is spent, our pilgrimage must be."
+      - "So much for that. Now for our Irish wars:"
+      - "We must supplant those rough rug-headed kerns,"
+      - "Which live like venom where no venom else"
+      - "But only they have privilege to live."
+      - "And for these great affairs do ask some charge,"
+      - "Towards our assistance we do seize to us"
+      - "The plate, corn, revenues and moveables,"
+      - "Whereof our uncle Gaunt did stand possess’d."
+    m:
+      - "Gaunt is the first to die, just like the ripest fruit is always the first to fall off the tree. Well, that’s over with. Now, about the war in Ireland. We must get rid of those shaggy-haired Irish soldiers who live there. Let’s seize all of Gaunt’s money and property to help pay for the war."
+
+  - sp: DUKE OF YORK
+    o:
+      - "How long shall I be patient? ah, how long"
+      - "Shall tender duty make me suffer wrong?"
+      - "Not Gloucester’s death, nor Hereford’s banishment."
+      - "Not Gaunt’s rebukes, nor England’s private wrongs,"
+      - "Nor the prevention of poor Bolingbroke"
+      - "About his marriage, nor my own disgrace,"
+      - "Have ever made me sour my patient cheek,"
+      - "Or bend one wrinkle on my sovereign’s face."
+      - "I am the last of noble Edward’s sons,"
+      - "Of whom thy father, Prince of Wales, was first:"
+      - "In war was never lion raged more fierce,"
+      - "In peace was never gentle lamb more mild,"
+      - "Than was that young and princely gentleman."
+      - "His face thou hast, for even so look’d he,"
+      - "Accomplish’d with the number of thy hours;"
+      - "But when he frown’d, it was against the French"
+      - "And not against his friends; his noble hand"
+      - "Did will what he did spend and spent not that"
+      - "Which his triumphant father’s hand had won;"
+      - "His hands were guilty of no kindred blood,"
+      - "But bloody with the enemies of his kin."
+      - "O Richard! York is too far gone with grief,"
+      - "Or else he never would compare between."
+    m:
+      - "How long can I hold out? How long will my obligation to the king make me suffer these wrongs against Gaunt? Nothing has ever made me show my frustrations—not Gloucester’s death, nor Hereford’s banishment, nor Gaunt’s criticisms, nor the king’s bad treatment of England, nor the king’s refusal to let Bolingbroke marry, nor my own ill treatment. I am the last of Edward’s sons. Your father, the Prince of Wales, was the first. There was never anyone more fierce in wartime and more gentle in peacetime than the Prince of Wales. You look just like him when he was your age. When he got upset, it was against the French, not against his allies. He spent only what he’d earned, and he never spent anything that his father had won. He never did anything wrong to his countrymen, but he punished his enemies. Richard, I am too upset, or I would never make these comparisons."
+
+  - sp: KING RICHARD II
+    o:
+      - "Why, uncle, what’s the matter?"
+    m:
+      - "Why, uncle, what’s the matter?"
+
+  - sp: DUKE OF YORK
+    o:
+      - "O my liege,"
+      - "Pardon me, if you please; if not, I, pleased"
+      - "Not to be pardon’d, am content withal."
+      - "Seek you to seize and gripe into your hands"
+      - "The royalties and rights of banish’d Hereford?"
+      - "Is not Gaunt dead, and doth not Hereford live?"
+      - "Was not Gaunt just, and is not Harry true?"
+      - "Did not the one deserve to have an heir?"
+      - "Is not his heir a well-deserving son?"
+      - "Take Hereford’s rights away, and take from Time"
+      - "His charters and his customary rights;"
+      - "Let not to-morrow then ensue to-day;"
+      - "Be not thyself; for how art thou a king"
+      - "But by fair sequence and succession?"
+      - "Now, afore God—God forbid I say true!—"
+      - "If you do wrongfully seize Hereford’s rights,"
+      - "Call in the letters patent that he hath"
+      - "By his attorneys-general to sue"
+      - "His livery, and deny his offer’d homage,"
+      - "You pluck a thousand dangers on your head,"
+      - "You lose a thousand well-disposed hearts"
+      - "And prick my tender patience, to those thoughts"
+      - "Which honour and allegiance cannot think."
+    m:
+      - "Oh, my lord, forgive me, please. If you won’t I’ll understand. Do you really want to seize all of Gaunt’s property? He might be dead, but isn’t his son still alive? Wasn’t Gaunt a good man, and isn’t Harry good, too? Doesn’t Gaunt deserve to have an heir? And isn’t Harry a deserving heir? If you take away Harry’s right to inherit his father’s belongings, then you are going against tradition. It would be like taking away Time’s authority and rights and preventing tomorrow from following today. Remember, you yourself are a king because you inherited the position. Now, I swear before God, if you do this, you will bring all sorts of danger to yourself and turn a thousand people against you. You will force me to lose my patience, and I’ll think about doing things to you that, because I still honor and obey you, I cannot even think about."
+
+  - sp: KING RICHARD II
+    o:
+      - "Think what you will, we seize into our hands"
+      - "His plate, his goods, his money and his lands."
+    m:
+      - "Think whatever you want, but we’re going to seize his money and all of his property."
+
+  - sp: DUKE OF YORK
+    o:
+      - "I’ll not be by the while: my liege, farewell:"
+      - "What will ensue hereof, there’s none can tell;"
+      - "But by bad courses may be understood"
+      - "That their events can never fall out good."
+    m:
+      - "I won’t stand here and watch. Goodbye, my lord. What will happen now, nobody can say. But no good outcome can result from bad decisions like this."
+
+  - os: "Exit"
+    ms: "DUKE OF YORK exits."
+
+  - sp: KING RICHARD II
+    o:
+      - "Go, Bushy, to the Earl of Wiltshire straight:"
+      - "Bid him repair to us to Ely House"
+      - "To see this business. To-morrow next"
+      - "We will for Ireland; and ’tis time, I trow:"
+      - "And we create, in absence of ourself,"
+      - "Our uncle York lord governor of England;"
+      - "For he is just and always loved us well."
+      - "Come on, our queen: to-morrow must we part;"
+      - "Be merry, for our time of stay is short"
+    m:
+      - "Bushy, go straight to the Earl of Wiltshire and tell him to come to Ely House to help us. Tomorrow morning we’ll go to Ireland. I believe it’s time. I’ll make my uncle York the Lord Governor of England while I’m away. He is fair and has always loved me very much. Come, my queen, we must leave tomorrow. Be well."
+
+  - os: "Flourish. Exeunt KING RICHARD II, QUEEN, DUKE OF AUMERLE, BUSHY, GREEN, and BAGOT"
+    ms: "Trumpets blow, as KING RICHARD II, the QUEEN, the DUKE OF AUMERLE, BUSY, GREEN, and BAGOT exit."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Well, lords, the Duke of Lancaster is dead."
+    m:
+      - "Well, lords, the Duke of Lancaster is dead."
+
+  - sp: LORD ROSS
+    o:
+      - "And living too; for now his son is duke."
+    m:
+      - "But he also kind of lives because his son is now a duke."
+
+  - sp: LORD WILLOUGHBY
+    o:
+      - "Barely in title, not in revenue."
+    m:
+      - "His son might have the title of duke, but he doesn’t have the income of one."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Richly in both, if justice had her right."
+    m:
+      - "If there were justice in the world then he would both have the title and the income."
+
+  - sp: LORD ROSS
+    o:
+      - "My heart is great; but it must break with silence,"
+      - "Ere’t be disburden’d with a liberal tongue."
+    m:
+      - "I have a lot of troubles on my mind. But I must keep silent about them for now."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Nay, speak thy mind; and let him ne’er speak more"
+      - "That speaks thy words again to do thee harm!"
+    m:
+      - "Speak your mind. And if anyone uses what you say against you, let that person never speak again!"
+
+  - sp: LORD WILLOUGHBY
+    o:
+      - "Tends that thou wouldst speak to the Duke of Hereford?"
+      - "If it be so, out with it boldly, man;"
+      - "Quick is mine ear to hear of good towards him."
+    m:
+      - "Are you going to say something about the Duke of Hereford? If so, say it, man! I am always eager to hear good things about him."
+
+  - sp: LORD ROSS
+    o:
+      - "No good at all that I can do for him;"
+      - "Unless you call it good to pity him,"
+      - "Bereft and gelded of his patrimony."
+    m:
+      - "I can’t do him any good, unless it’s good to pity him, since he’s now deprived of his inheritance."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Now, afore God, ’tis shame such wrongs are borne"
+      - "In him, a royal prince, and many moe"
+      - "Of noble blood in this declining land."
+      - "The king is not himself, but basely led"
+      - "By flatterers; and what they will inform,"
+      - "Merely in hate, ’gainst any of us all,"
+      - "That will the king severely prosecute"
+      - "’Gainst us, our lives, our children, and our heirs."
+    m:
+      - "With God as my witness, I say it’s a shame that such wrongs have been done to him and to others of royal blood in this crumbling land. The king is not acting like himself. He’s being deceived by his group of flatterers. Purely out of hatred they make accusations against us, leading the king to persecute us and our children."
+
+  - sp: LORD ROSS
+    o:
+      - "The commons hath he pill’d with grievous taxes,"
+      - "And quite lost their hearts: the nobles hath he fined"
+      - "For ancient quarrels, and quite lost their hearts."
+    m:
+      - "He’s taxed the common people heavily, and they’ve turned against him. He’s also fined the nobles for old grudges and turned them against him, as well."
+
+  - sp: LORD WILLOUGHBY
+    o:
+      - "And daily new exactions are devised,"
+      - "As blanks, benevolences, and I wot not what:"
+      - "But what, o’ God’s name, doth become of this?"
+    m:
+      - "Every day he devises new ways of forcing people to pay, like mandatory loans and I don’t know what else. What, in God’s name, is he doing with all of this money?"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Wars have not wasted it, for warr’d he hath not,"
+      - "But basely yielded upon compromise"
+      - "That which his noble ancestors achieved with blows:"
+      - "More hath he spent in peace than they in wars."
+    m:
+      - "He hasn’t spent the money on wars because he hasn’t waged any wars. He has shamefully compromised with our enemies and given away what our ancestors won in battle. He’s spent more in peacetime than they did in wartime."
+
+  - sp: LORD ROSS
+    o:
+      - "The Earl of Wiltshire hath the realm in farm."
+    m:
+      - "The Earl of Wiltshire has rented out the land."
+
+  - sp: LORD WILLOUGHBY
+    o:
+      - "The king’s grown bankrupt, like a broken man."
+    m:
+      - "The king is bankrupt."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Reproach and dissolution hangeth over him."
+    m:
+      - "He is disgraced."
+
+  - sp: LORD ROSS
+    o:
+      - "He hath not money for these Irish wars,"
+      - "His burthenous taxations notwithstanding,"
+      - "But by the robbing of the banish’d duke."
+    m:
+      - "The only way he can afford to fight the war in Ireland, even with all the money that he’s collected from these new taxes, is by stealing everything from the Duke of Hereford."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "His noble kinsman: most degenerate king!"
+      - "But, lords, we hear this fearful tempest sing,"
+      - "Yet see no shelter to avoid the storm;"
+      - "We see the wind sit sore upon our sails,"
+      - "And yet we strike not, but securely perish."
+    m:
+      - "Friends, we see this storm coming, and yet we don’t seek any shelter to avoid it! We see the wind blowing fiercely upon our sails, and yet we don’t lower the sails but recklessly perish."
+
+  - sp: LORD ROSS
+    o:
+      - "We see the very wreck that we must suffer;"
+      - "And unavoided is the danger now,"
+      - "For suffering so the causes of our wreck."
+    m:
+      - "We see the shipwreck coming, but the danger is unavoidable now because we sat by and allowed all this to happen."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Not so; even through the hollow eyes of death"
+      - "I spy life peering; but I dare not say"
+      - "How near the tidings of our comfort is."
+    m:
+      - "That’s not true. Even though we are close to ruin, I can see a way out. But I’m not going to say how near the news of our rescue is."
+
+  - sp: LORD WILLOUGHBY
+    o:
+      - "Nay, let us share thy thoughts, as thou dost ours."
+    m:
+      - "Please tell us your thoughts, as we have told you ours."
+
+  - sp: LORD ROSS
+    o:
+      - "Be confident to speak, Northumberland:"
+      - "We three are but thyself; and, speaking so,"
+      - "Thy words are but as thoughts; therefore, be bold."
+    m:
+      - "Have the confidence to speak, Northumberland. The three of us are just like you. If you speak, you’ll most likely say what we’re already thinking. Be bold."
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "Then thus: I have from Port le Blanc, a bay"
+      - "In Brittany, received intelligence"
+      - "That Harry Duke of Hereford, Rainold Lord Cobham,"
+      - "That late broke from the Duke of Exeter,"
+      - "His brother, Archbishop late of Canterbury,"
+      - "Sir Thomas Erpingham, Sir John Ramston,"
+      - "Sir John Norbery, Sir Robert Waterton and Francis Quoint,"
+      - "All these well furnish’d by the Duke of Bretagne"
+      - "With eight tall ships, three thousand men of war,"
+      - "Are making hither with all due expedience"
+      - "And shortly mean to touch our northern shore:"
+      - "Perhaps they had ere this, but that they stay"
+      - "The first departing of the king for Ireland."
+      - "If then we shall shake off our slavish yoke,"
+      - "Imp out our drooping country’s broken wing,"
+      - "Redeem from broking pawn the blemish’d crown,"
+      - "Wipe off the dust that hides our sceptre’s gilt"
+      - "And make high majesty look like itself,"
+      - "Away with me in post to Ravenspurgh;"
+      - "But if you faint, as fearing to do so,"
+      - "Stay and be secret, and myself will go."
+    m:
+      - "Then here it is: I have learned that the Duke of Bretagne, in Brittany, has given eight large ships to Harry Duke of Hereford as well as Rainold Lord Cobhman—who recently broke his alliance with the Duke of Exeter—his brother, the former Archbishop of Canterbury, Sir Thomas Erpingham, Sir John Ramston, Sir John Norbery, Sir Robert Waterton, and Francis Quoint. These men sailed the ships with three thousand soldiers from Port le Blanc, and right now they are racing to England. They left as soon as the king departed for Ireland. If you want to be free of your slavery to the king, help our country to rise again, and restore the honor of our royalty, then come with me right now to Ravenspurgh. If you’re afraid to do so, then wait here while I go myself."
+
+  - sp: LORD ROSS
+    o:
+      - "To horse, to horse! urge doubts to them that fear."
+    m:
+      - "To our horses! Encourage anyone who is scared."
+
+  - sp: LORD WILLOUGHBY
+    o:
+      - "Hold out my horse, and I will first be there."
+    m:
+      - "If my horse holds up, I’ll be the first one there."
+
+  - os: "Exeunt"
+    ms: "They exit."

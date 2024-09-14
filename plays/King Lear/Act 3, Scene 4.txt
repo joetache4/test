@@ -1,0 +1,472 @@
+play: King Lear
+title: Act 3, Scene 4
+group: 3
+order: 12
+text:
+  - os: "Enter LEAR, KENT disguised, and FOOL"
+    ms: "LEAR enters with KENT in disguise and the FOOL."
+
+  - sp: KENT
+    o:
+      - "Here is the place, my lord. Good my lord, enter."
+      - "The tyranny of the open night’s too rough"
+      - "For nature to endure."
+    m:
+      - "Here’s the hut, my lord. Please go inside. The night’s too rough for humans to bear."
+
+  - os: "Storm still"
+    ms: "The storm continues."
+
+  - sp: LEAR
+    o:
+      - "  Let me alone."
+    m:
+      - "Leave me for a bit."
+
+  - sp: KENT
+    o:
+      - "Good my lord, enter here."
+    m:
+      - "My lord, here is the entrance."
+
+  - sp: LEAR
+    o:
+      - "  Wilt break my heart?"
+    m:
+      - "Will you break my heart?"
+
+  - sp: KENT
+    o:
+      - "I had rather break mine own. Good my lord, enter."
+    m:
+      - "I’d rather break my own heart. Now please go in."
+
+  - sp: LEAR
+    o:
+      - "Thou think’st ’tis much that this contentious storm"
+      - "Invades us to the skin. So ’tis to thee."
+      - "But where the greater malady is fixed"
+      - "The lesser is scarce felt. Thou’dst shun a bear,"
+      - "But if thy flight lay toward the raging sea"
+      - "Thou’dst meet the bear i’ th’ mouth. When the mind’s free,"
+      - "The body’s delicate. The tempest in my mind"
+      - "Doth from my senses take all feeling else"
+      - "Save what beats there—filial ingratitude."
+      - "Is it not as this mouth should tear this hand"
+      - "For lifting food to ’t? But I will punish home."
+      - "No, I will weep no more. In such a night"
+      - "To shut me out! Pour on, I will endure."
+      - "In such a night as this! O Regan, Goneril,"
+      - "Your old kind father, whose frank heart gave all—"
+      - "Oh, that way madness lies. Let me shun that."
+      - "No more of that."
+    m:
+      - "You think it’s a big deal that this fierce storm is soaking me to the skin. It’s a big deal to you. But whenever you feel a larger pain, the smaller one disappears. You would run away from a bear, but if the only way to run was into the stormy ocean, you’d turn around and confront the bear. When your mind is at peace, your body is sensitive to the elements. But this storm in my mind keeps me from feeling anything except what’s tormenting me—how ungrateful my children are! Isn’t their ingratitude like the mouth biting the hand that feeds it? But I’ll punish them thoroughly. No, I won’t cry any more. Imagine them locking me out on a night like this! But let it rain; I’ll survive. On a night like this! Oh, Regan, Goneril, your kind old father whose generous heart gave you everything—Oh, if I think about that I’ll go mad. I want to avoid that. No more of these thoughts."
+
+  - sp: KENT
+    o:
+      - "  Good my lord, enter here."
+    m:
+      - "My lord, please go inside here."
+
+  - sp: LEAR
+    o:
+      - "Prithee, go in thyself. Seek thine own ease."
+      - "This tempest will not give me leave to ponder"
+      - "On things would hurt me more. But I’ll go in."
+      - "*(to FOOL)* In, boy. Go first. You houseless poverty—"
+      - "Nay, get thee in. I’ll pray, and then I’ll sleep."
+    m:
+      - "Go inside yourself. Make yourself comfortable. This storm protects me from thoughts that would hurt me more. But I’ll go in. *(to FOOL)* You go in first, boy. Oh, you suffering homeless people—No, you go in. I’ll pray first, then I’ll sleep."
+
+  - os: "Exit FOOL"
+    ms: "The FOOL exits."
+
+  - o:
+      - "Poor naked wretches, whereso’er you are,"
+      - "That bide the pelting of this pitiless storm,"
+      - "How shall your houseless heads and unfed sides,"
+      - "Your looped and windowed raggedness, defend you"
+      - "From seasons such as these? Oh, I have ta’en"
+      - "Too little care of this! Take physic, pomp."
+      - "Expose thyself to feel what wretches feel,"
+      - "That thou mayst shake the superflux to them"
+      - "And show the heavens more just."
+    m:
+      - "Poor homeless creatures suffering this storm, wherever you are, how will you survive a night like this with no roof over your heads, no fat on your sides to keep you warm, and only rags for clothes? When I was king I didn’t do enough to help you. Powerful men, take your medicine by learning about hardship. Go out and feel what the impoverished feel. Then you can give them your extra wealth and make the world more fair."
+
+  - sp: EDGAR
+    o:
+      - "*(within)* Fathom and half, fathom and half! Poor Tom!"
+    m:
+      - "*(from inside)* The water in here is nine feet deep! Poor Tom!"
+
+  - os: "Enter FOOL"
+    ms: "FOOL enters."
+
+  - sp: FOOL
+    o:
+      - "Come not in here, nuncle. Here’s a spirit. Help me, help me!"
+    m:
+      - "Don’t come in here, uncle! There’s a spirit in here! Help me, help me!"
+
+  - sp: KENT
+    o:
+      - "Give me thy hand. Who’s there?"
+    m:
+      - "Give me your hand. Who’s there?"
+
+  - sp: FOOL
+    o:
+      - "A spirit, a spirit. He says his name’s Poor Tom."
+    m:
+      - "A ghost, a ghost! He says his name’s Poor Tom."
+
+  - sp: KENT
+    o:
+      - "What art thou that dost grumble there i’ th’ straw?"
+      - "Come forth."
+    m:
+      - "Who are you, moaning in the hut like that? Come out."
+
+  - os: "Enter EDGAR disguised"
+    ms: "EDGAR enters disguised."
+
+  - sp: EDGAR
+    o:
+      - "Away! The foul fiend follows me! Through the sharp hawthorn blows the cold wind. Hum! Go to thy cold bed and warm thee."
+    m:
+      - "Go away! The devil’s after me! The cold wind blows through the hawthorn trees. Ha! Get into your cold beds and warm yourselves up."
+
+  - sp: LEAR
+    o:
+      - "Didst thou give all to thy two daughters, and art thou come to this?"
+    m:
+      - "Did you give everything to your two daughters and end up like this?"
+
+  - sp: EDGAR
+    o:
+      - "Who gives any thing to Poor Tom, whom the foul fiend hath led through fire and through flame, through ford and whirlipool, o’er bog and quagmire; that hath laid knives under his pillow and halters in his pew, set ratsbane by his porridge, made him proud of heart to ride on a bay trotting- horse over four-inched bridges to course his own shadow for a traitor? Bless thy five wits. Tom’s a-cold. Oh, do-de, do-de, do-de. Bless thee from whirlwinds, star-blasting, and taking! Do Poor Tom some charity, whom the foul fiend vexes. There could I have him now—and there—and there again—and there."
+    m:
+      - "Whoever gave a thing to Poor Tom? The devil has chased him through fires, across rivers and whirlpools, and over swamps. The devil has put knives under Tom’s pillow and hangman’s ropes in his church pew, encouraging him to kill himself. The devil has put rat poison next to Poor Tom’s oatmeal and made him gallop his horse over narrow bridges, chasing his own shadow as if it were a traitor. Bless your five senses! Tom’s chilly. Oh do-de, do-de, do-de. God protect you from tornadoes, evil stars, and diseases! Take pity on Poor Tom, who is persecuted by the devil. I can almost catch him. There!… And over there!… And over there!"
+
+  - os: "Storm still"
+    ms: "The storm continues."
+
+  - sp: LEAR
+    o:
+      - "What, has his daughters brought him to this pass?—"
+      - "Couldst thou save nothing? Wouldst thou give ’em all?"
+    m:
+      - "Have his daughters made him crazy like this?—Couldn’t you have kept something for yourself? Did you have to give them everything?"
+
+  - sp: FOOL
+    o:
+      - "Nay, he reserved a blanket, else we had been all shamed."
+    m:
+      - "No, he kept a blanket to cover himself with. If he hadn’t, we’d all be embarrassed to look at him."
+
+  - sp: LEAR
+    o:
+      - "Now all the plagues that in the pendulous air"
+      - "Hang fated o’er men’s faults light on thy daughters!"
+    m:
+      - "Then may your daughters be cursed with all the horrible fates that await sinners!"
+
+  - sp: KENT
+    o:
+      - "He hath no daughters, sir."
+    m:
+      - "He doesn’t have any daughters, sir."
+
+  - sp: LEAR
+    o:
+      - "Death, traitor! Nothing could have subdued nature"
+      - "To such a lowness but his unkind daughters."
+      - "Is it the fashion that discarded fathers"
+      - "Should have thus little mercy on their flesh?"
+      - "Judicious punishment! ’Twas this flesh begot"
+      - "Those pelican daughters."
+    m:
+      - "Like hell! Nothing but cruel daughters could have degraded him like this. Is it fashionable now for neglected fathers to get so little pity? That’s a fair punishment! I’m the one who fathered those bloodsucking daughters."
+
+  - sp: EDGAR
+    o:
+      - "Pillicock sat on Pillicock hill. Alow, alow, loo, loo!"
+    m:
+      - "Pillicock sat on Pillicock hill. La, la, la, la!"
+
+  - sp: FOOL
+    o:
+      - "This cold night will turn us all to fools and madmen."
+    m:
+      - "This stormy night will turn us all into fools and madmen."
+
+  - sp: EDGAR
+    o:
+      - "Take heed o’ th’ foul fiend. Obey thy parents, keep thy word’s justice, swear not, commit not with man’s sworn spouse, set not thy sweet heart on proud array. Tom’s a- cold."
+    m:
+      - "Beware of the devil. Obey your parents, keep your word, don’t swear, don’t sleep with another man’s wife, and don’t covet flashy clothes. Tom’s chilly."
+
+  - sp: LEAR
+    o:
+      - "What hast thou been?"
+    m:
+      - "What were you before this?"
+
+  - sp: EDGAR
+    o:
+      - "A servingman, proud in heart and mind, that curled my hair, wore gloves in my cap, served the lust of my mistress’ heart and did the act of darkness with her, swore as many oaths as I spake words and broke them in the sweet face of heaven—one that slept in the contriving of lust and waked to do it. Wine loved I deeply, dice dearly, and in woman outparamoured the Turk. False of heart, light of ear, bloody of hand—hog in sloth, fox in stealth, wolf in greediness, dog in madness, lion in prey. Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman. Keep thy foot out of brothels, thy hand out of plackets, thy pen from lenders’ books, and defy the foul fiend. Still through the hawthorn blows the cold wind, says, “Suum, mun, nonny.” Dauphin my boy, my boy, cessez. Let him trot by."
+    m:
+      - "I used to be an honorable devoted servant who curled his hair, wore his mistress’ glove in his hat as a token of her affection, and slept with his mistress whenever she wanted. I swore oaths with every other word out of my mouth, and broke the oaths shamelessly. I used to dream of having sex and wake up to do it. I loved wine and gambling, and had more women than a Turkish sultan keeps in his harem. I was disloyal and violent. I eavesdropped. I was as lazy as a hog, as sneaky as a fox, as greedy as a wolf, as mad as a dog, and as ruthless as a lion. Don’t ever let a woman know what you’re thinking. Stay away from whores, don’t chase skirts, don’t borrow money, and resist the devil. The cold wind’s still blowing through the hawthorn tree. *(speaking to an imaginary horse)* Dauphin, my boy, stop that.—Let the horse go by."
+
+  - os: "Storm still"
+    ms: "The storm continues."
+
+  - sp: LEAR
+    o:
+      - "Why, thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies.—Is man no more than this? Consider him well.—Thou owest the worm no silk, the beast no hide, the sheep no wool, the cat no perfume. Ha! Here’s three on ’s are sophisticated. Thou art the thing itself."
+      - "Unaccommodated man is no more but such a poor, bare, forked animal as thou art.—"
+      - "Off, off, you lendings! Come. Unbutton here. *(tears at his clothes)*"
+    m:
+      - "You’d be better off dead than facing the storm as naked as you are. Is this all a human being is? Look at him. *(to EDGAR)* You are not indebted to animals for your clothes since don’t wear silk, leather, or wool—not even perfume. Ha! The three of us are sophisticated compared to you. You’re the real thing."
+      - "The human being unburdened by the trappings of civilization is no more than a poor, naked, two-legged animal like you."
+      - "Off with these clothes borrowed from animals! Let me unbutton this. *(he tears at his clothes)*"
+
+  - os: "Enter GLOUCESTER with a torch"
+    ms: "GLOUCESTER enters with a torch."
+
+  - sp: FOOL
+    o:
+      - "Prithee, nuncle, be contented. ’Tis a naughty night to swim in. Now a little fire in a wild field were like an old lecher’s heart—a small spark, all the rest on ’s body cold. Look, here comes a walking fire."
+    m:
+      - "Please calm down, uncle. This is a nasty night to go swimming. On a night like this a campfire in an empty field would be like the heart of a dirty old man—a tiny spark in a cold body. Look, here comes a walking fire."
+
+  - sp: EDGAR
+    o:
+      - "This is the foul fiend Flibbertigibbet. He begins at curfew and walks till the first cock. He gives the web and the pin, squints the eye and makes the harelip, mildews the white wheat and hurts the poor creature of earth."
+      - "Swithold footed thrice the ’old."
+      - "He met the nightmare and her ninefold,"
+      - "Bid her alight,"
+      - "And her troth plight."
+      - "And aroint thee, witch, aroint thee!"
+    m:
+      - "This is the devil Flibbertigibbet. He gets up at nightfall and wanders around till dawn. He can make your eyes squint and film over and give you a harelip. He rots ripened wheat and hurts the poor creatures of the earth."
+      - "Saint Withold crossed the field three times,"
+      - "He met a she-demon and her nine kids,"
+      - "He told her to promise"
+      - "To stop doing harm."
+      - "And go away, witch, go away."
+
+  - sp: KENT
+    o:
+      - "How fares your grace?"
+    m:
+      - "How are you, your highness?"
+
+  - sp: LEAR
+    o:
+      - "*(indicating GLOUCESTER)* What’s he?"
+    m:
+      - "*(pointing at GLOUCESTER)* Who’s that?"
+
+  - sp: KENT
+    o:
+      - "Who’s there? What is ’t you seek?"
+    m:
+      - "Who are you? What do you want?"
+
+  - sp: GLOUCESTER
+    o:
+      - "What are you there? Your names?"
+    m:
+      - "Who are you? What are your names?"
+
+  - sp: EDGAR
+    o:
+      - "Poor Tom, that eats the swimming frog, the toad, the tadpole, the wall newt, and the water; that in the fury of his heart, when the foul fiend rages, eats cow dung for salads, swallows the old rat and the ditch-dog, drinks the green mantle of the standing pool; who is whipped from tithing to tithing and stocked, punished and imprisoned; who hath had three suits to his back, six shirts to his body, Horse to ride and weapon to wear. But mice and rats and such small deer Have been Tom’s food for seven long year. Beware my follower. Peace, Smulkin. Peace, thou fiend!"
+    m:
+      - "Poor Tom, who eats frogs, toads, tadpoles, lizards, and newts. When the devil tells me to, I eat cow dung for salads, I swallow old rats and dead dogs, I drink pond scum. In every village I’m whipped and put in the stocks, punished and imprisoned. But I used to be a respectable servant, with three suits and six shirts. Once I had a horse to ride and a sword to wear, but now poor Tom’s been eating rats and mice for seven long years. Beware of the devil who follows me around. Calm down, Smulkin, you fiend!"
+
+  - sp: GLOUCESTER
+    o:
+      - "*(to LEAR)* What, hath your grace no better company?"
+    m:
+      - "*(to LEAR)* Don’t you have anyone more respectable with you, your highness?"
+
+  - sp: EDGAR
+    o:
+      - "The Prince of Darkness is a gentleman. Modo he’s called, and Mahu."
+    m:
+      - "Oh, the devil is quite a gentleman. He’s called Modo and Mahu."
+
+  - sp: GLOUCESTER
+    o:
+      - "*(to LEAR)* Our flesh and blood, my lord, is grown so vile"
+      - "That it doth hate what gets it."
+    m:
+      - "*(to LEAR)* My lord, our children have become so beastly that they hate their own parents."
+
+  - sp: EDGAR
+    o:
+      - "Poor Tom’s a-cold."
+    m:
+      - "Poor Tom’s chilly."
+
+  - sp: GLOUCESTER
+    o:
+      - "Go in with me. My duty cannot suffer"
+      - "To obey in all your daughters’ hard commands."
+      - "Though their injunction be to bar my doors"
+      - "And let this tyrannous night take hold upon you,"
+      - "Yet have I ventured to come seek you out"
+      - "And bring you where both fire and food is ready."
+    m:
+      - "Come back to my house with me. I couldn’t bear to obey all of your daughters’ harsh orders. They commanded me to lock my doors and leave you out in this merciless storm, but I’ve come out here to find you and take you where there’s warmth and food."
+
+  - sp: LEAR
+    o:
+      - "First let me talk with this philosopher.—"
+      - "*(to EDGAR)* What is the cause of thunder?"
+    m:
+      - "First let me talk with this philosopher here.—*(to EDGAR)* What causes thunder?"
+
+  - sp: KENT
+    o:
+      - "*(to LEAR)* Good my lord, take his offer. Go into the house."
+    m:
+      - "*(to LEAR)* Sir, please take him up on his offer and go back with him."
+
+  - sp: LEAR
+    o:
+      - "I’ll talk a word with this same learnèd Theban.—"
+      - "What is your study?"
+    m:
+      - "I want to chat a bit with this wise Greek man.—What kind of philosophy do you study?"
+
+  - sp: EDGAR
+    o:
+      - "How to prevent the fiend and to kill vermin."
+    m:
+      - "How to keep the devil away and kill rats."
+
+  - sp: LEAR
+    o:
+      - "Let me ask you one word in private."
+    m:
+      - "Let me ask you something in private."
+
+  - os: "LEAR and EDGAR talk aside"
+    ms: "LEAR and EDGAR talk privately."
+
+  - sp: KENT
+    o:
+      - "*(aside to GLOUCESTER)* Importune him once more to go, my lord."
+      - "His wits begin t’ unsettle."
+    m:
+      - "*(speaking so that only GLOUCESTER can hear)* Ask him again to return with you, my lord. He’s beginning to lose his mind."
+
+  - sp: GLOUCESTER
+    o:
+      - "    Canst thou blame him?"
+    m:
+      - "Can you blame him?"
+
+  - os: "Storm still"
+    ms: "The storm continues."
+
+  - o:
+      - "His daughters seek his death. Ah, that good Kent—"
+      - "He said it would be thus, poor banished man."
+      - "Thou say’st the king grows mad. I’ll tell thee, friend,"
+      - "I am almost mad myself. I had a son,"
+      - "Now outlawed from my blood. He sought my life,"
+      - "But lately, very late. I loved him, friend—"
+      - "No father his son dearer. Truth to tell thee,"
+      - "The grief hath crazed my wits. What a night’s this!"
+      - "*(to LEAR)* I do beseech your grace—"
+    m:
+      - "His daughters want to kill him. Ah, good old Kent said this would happen—that poor, banished man. You say the king is losing his mind. Let me tell you, my friend, I’m almost insane myself. I had a son, whom I’ve legally disowned. He tried to kill me recently, very recently. I loved him, as much as any father ever loved his son. To tell you the truth, I’m crazed with grief. What a storm! *(to LEAR)* Your highness, please, I’m begging you—"
+
+  - sp: LEAR
+    o:
+      - "  O, cry your mercy, sir.—"
+      - "*(to EDGAR)* Noble philosopher, your company."
+    m:
+      - "Excuse me, sir.—*(to EDGAR)* Noble philosopher, come talk to me."
+
+  - sp: EDGAR
+    o:
+      - "    Tom’s a-cold."
+    m:
+      - "Tom’s chilly."
+
+  - sp: GLOUCESTER
+    o:
+      - "In, fellow. There, into th’ hovel. Keep thee warm."
+    m:
+      - "Get into the hut, man. Stay warm."
+
+  - sp: LEAR
+    o:
+      - "Come let’s in all."
+    m:
+      - "Come on, let’s all go inside."
+
+  - sp: KENT
+    o:
+      - "  This way, my lord."
+    m:
+      - "This way, my lord."
+
+  - sp: LEAR
+    o:
+      - "*(indicating EDGAR)*"
+      - "    With him!"
+      - "I will keep still with my philosopher."
+    m:
+      - "*(pointing to EDGAR)* I’ll go with him. I want to stay with my philosopher."
+
+  - sp: KENT
+    o:
+      - "*(to GLOUCESTER)*"
+      - "Good my lord, soothe him. Let him take the fellow."
+    m:
+      - "*(to GLOUCESTER)* My lord, calm him down. Let him take that guy inside too."
+
+  - sp: GLOUCESTER
+    o:
+      - "Take him you on."
+    m:
+      - "All right, bring him along."
+
+  - sp: KENT
+    o:
+      - "*(to EDGAR)* Sirrah, come on. Go along with us."
+    m:
+      - "*(to EDGAR)* Boy, come along with us."
+
+  - sp: LEAR
+    o:
+      - "Come, good Athenian."
+    m:
+      - "Come on, my dear Greek philosopher."
+
+  - sp: GLOUCESTER
+    o:
+      - "  No words, no words. Hush."
+    m:
+      - "Hush, don’t talk."
+
+  - sp: EDGAR
+    o:
+      - "Child Roland to the dark tower came,"
+      - "His word was still “Fie, foh, and fum,"
+      - "I smell the blood of a British man.”"
+    m:
+      - "The young knight Roland came to the dark tower."
+      - "He said, “Fee, fie, fo, fum,"
+      - "I smell the blood of an Englishman.”"
+
+  - os: "Exeunt"
+    ms: "They all exit."

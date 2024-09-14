@@ -1,0 +1,409 @@
+play: Romeo and Juliet
+title: Act 3, Scene 3
+group: 3
+order: 15
+text:
+  - os: "Enter FRIAR LAWRENCE"
+    ms: "FRIAR LAWRENCE enters."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Romeo, come forth. Come forth, thou fearful man."
+      - "Affliction is enamoured of thy parts,"
+      - "And thou art wedded to calamity."
+    m:
+      - "Romeo, come out. Come out, you frightened man. Trouble likes you, and you’re married to disaster."
+
+  - os: "Enter ROMEO"
+    ms: "ROMEO enters."
+
+  - sp: ROMEO
+    o:
+      - "Father, what news? What is the Prince’s doom?"
+      - "What sorrow craves acquaintance at my hand"
+      - "That I yet know not?"
+    m:
+      - "Father, what’s the news? What punishment did the Prince announce? What suffering lies in store for me that I don’t know about yet?"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "    Too familiar"
+      - "Is my dear son with such sour company."
+      - "I bring thee tidings of the Prince’s doom."
+    m:
+      - "You know too much about suffering. I have news for you about the Prince’s punishment."
+
+  - sp: ROMEO
+    o:
+      - "What less than doomsday is the Prince’s doom?"
+    m:
+      - "Is the Prince’s punishment any less awful than doomsday?"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "A gentler judgment vanished from his lips:"
+      - "Not body’s death, but body’s banishment."
+    m:
+      - "He made a gentler decision. You won’t die, but you’ll be banished from the city."
+
+  - sp: ROMEO
+    o:
+      - "Ha, banishment! Be merciful, say “death,”"
+      - "For exile hath more terror in his look,"
+      - "Much more than death. Do not say “banishment.”"
+    m:
+      - "Ha, banishment? Be merciful and say “death.” Exile is much worse than death. Don’t say “banishment.”"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Hence from Verona art thou banishèd."
+      - "Be patient, for the world is broad and wide."
+    m:
+      - "From now on, you are banished from Verona. You should be able to endure this because the world is broad and wide."
+
+  - sp: ROMEO
+    o:
+      - "There is no world without Verona walls"
+      - "But purgatory, torture, hell itself."
+      - "Hence “banishèd” is banished from the world,"
+      - "And world’s exile is death. Then “banishèd,”"
+      - "Is death mistermed. Calling death “banishment,”"
+      - "Thou cutt’st my head off with a golden ax"
+      - "And smilest upon the stroke that murders me."
+    m:
+      - "There is no world for me outside the walls of Verona, except purgatory, torture, and hell itself. So to be banished from Verona is like being banished from the world, and being banished from the world is death. Banishment is death by the wrong name. Calling death banishment is like cutting off my head with a golden ax and smiling while I’m being murdered."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "O deadly sin! O rude unthankfulness!"
+      - "Thy fault our law calls death, but the kind Prince,"
+      - "Taking thy part, hath rushed aside the law,"
+      - "And turned that black word “death” to “banishment.”"
+      - "This is dear mercy, and thou seest it not."
+    m:
+      - "Oh, deadly sin! Oh, rude and unthankful boy! You committed a crime that is punishable by death, but our kind Prince took sympathy on you and ignored the law when he substituted banishment for death. This is kind mercy, and you don’t realize it."
+
+  - sp: ROMEO
+    o:
+      - "’Tis torture and not mercy. Heaven is here,"
+      - "Where Juliet lives, and every cat and dog"
+      - "And little mouse, every unworthy thing,"
+      - "Live here in heaven and may look on her,"
+      - "But Romeo may not. More validity,"
+      - "More honorable state, more courtship lives"
+      - "In carrion flies than Romeo. They may seize"
+      - "On the white wonder of dear Juliet’s hand"
+      - "And steal immortal blessing from her lips,"
+      - "Who even in pure and vestal modesty,"
+      - "Still blush, as thinking their own kisses sin."
+      - "But Romeo may not. He is banishèd."
+      - "Flies may do this, but I from this must fly."
+      - "They are free men, but I am banishèd."
+      - "And sayst thou yet that exile is not death?"
+      - "Hadst thou no poison mixed, no sharp-ground knife,"
+      - "No sudden mean of death, though ne’er so mean,"
+      - "But “banishèd” to kill me?—“Banishèd”!"
+      - "O Friar, the damnèd use that word in hell."
+      - "Howling attends it. How hast thou the heart,"
+      - "Being a divine, a ghostly confessor,"
+      - "A sin-absolver, and my friend professed,"
+      - "To mangle me with that word “banishèd”?"
+    m:
+      - "It’s torture, not mercy. Heaven is here because Juliet lives here. Every cat and dog and little mouse, every unworthy animal that lives here can see her, but Romeo can’t. Flies are healthier and more honorable and better suited for romance than Romeo. They can take hold of Juliet’s wonderful white hand and they can kiss her sweet lips. Even while she remains a pure virgin, she blushes when her lips touch each other because she thinks it’s a sin. But Romeo can’t kiss her or hold her hand because he’s been banished. Flies can kiss her, but I must flee the city. Flies are like free men, but I have been banished. And yet you say that exile is not death? Did you have no poison, no sharp knife, no weapon you could use to kill me quickly, nothing so disgraceful, except banishment? Oh Friar, damned souls use the word banishment to describe hell. They howl about banishment. If you’re a member of a divine spiritual order of men who forgive sins, and you say you’re my friend, how do you have the heart to mangle me with the word banishment?"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Thou fond mad man, hear me a little speak."
+    m:
+      - "You foolish madman, listen to me for a moment."
+
+  - sp: ROMEO
+    o:
+      - "Oh, thou wilt speak again of banishment."
+    m:
+      - "Oh, you’re just going to talk about banishment again."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "I’ll give thee armor to keep off that word—"
+      - "Adversity’s sweet milk, philosophy—"
+      - "To comfort thee though thou art banishèd."
+    m:
+      - "I’ll give you protection from that word. I’ll give you the antidote for trouble: philosophy. Philosophy will comfort you even though you’ve been banished."
+
+  - sp: ROMEO
+    o:
+      - "Yet “banishèd”? Hang up philosophy!"
+      - "Unless philosophy can make a Juliet,"
+      - "Displant a town, reverse a prince’s doom,"
+      - "It helps not, it prevails not. Talk no more."
+    m:
+      - "You’re still talking about “banished?” Forget about philosophy! Unless philosophy can create a Juliet, or pick up a town and put it somewhere else, or reverse a prince’s punishment, it doesn’t do me any good. Don’t say anything else."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Oh, then I see that madmen have no ears."
+    m:
+      - "Oh, so madmen like you are also deaf."
+
+  - sp: ROMEO
+    o:
+      - "How should they, when that wise men have no eyes?"
+    m:
+      - "How should madmen hear, if wise men can’t even see?"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Let me dispute with thee of thy estate."
+    m:
+      - "Let me talk to you about your situation."
+
+  - sp: ROMEO
+    o:
+      - "Thou canst not speak of that thou dost not feel."
+      - "Wert thou as young as I, Juliet thy love,"
+      - "An hour but married, Tybalt murderèd,"
+      - "Doting like me, and like me banishèd,"
+      - "Then mightst thou speak, then mightst thou tear thy hair"
+      - "And fall upon the ground, as I do now,"
+      - "Taking the measure of an unmade grave."
+    m:
+      - "You can’t talk about something that you don’t feel. If you were as young as I am, if you were in love with Juliet, if you had just married her an hour ago, if then you murdered Tybalt, if you were lovesick like me, and if you were banished, then you might talk about it. You might also tear your hair out of your head and collapse to the ground the way I do right now. *(ROMEO falls on the ground)* You might kneel down and measure the grave that hasn’t yet been dug."
+
+  - os: "Knocking from within"
+    ms: "Knocking from offstage."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Arise. One knocks. Good Romeo, hide thyself."
+    m:
+      - "Get up. Somebody’s knocking. Hide yourself, good Romeo."
+
+  - sp: ROMEO
+    o:
+      - "Not I, unless the breath of heartsick groans,"
+      - "Mistlike, infold me from the search of eyes."
+    m:
+      - "I won’t hide unless all the mist from my heartsick groans envelopes me like fog and conceals me from people’s searching eyes."
+
+  - os: "Knocking"
+    ms: "Knocking."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Hark, how they knock!—Who’s there?—Romeo, arise."
+      - "Thou wilt be taken.—Stay awhile.—Stand up."
+    m:
+      - "Listen, they’re still knocking!—*(to the person at the door)* Who’s there?—*(to ROMEO)* Romeo, get up. They’ll arrest you.—*(to the person at the door)* Hold on a moment.—*(to ROMEO)* Get up."
+
+  - os: "Knocking"
+    ms: "Knocking"
+
+  - o:
+      - "Run to my study.—By and by!—God’s will,"
+      - "What simpleness is this!—I come, I come."
+    m:
+      - "Run and hide in my study.—Just a minute—For the love of God, why are you being so stupid? I’m coming. I’m coming."
+
+  - os: "Knocking"
+    ms: "Knocking."
+
+  - o:
+      - "Who knocks so hard? Whence come you? What’s your will?"
+    m:
+      - "Why are you knocking so hard? Where do you come from? What do you want?"
+
+  - sp: NURSE
+    o:
+      - "*(from within)* Let me come in, and you shall know my errand."
+      - "I come from Lady Juliet."
+    m:
+      - "*(from offstage)* Let me come in, and I’ll tell you why I came. I come from Lady Juliet."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "    *(opens the door)* Welcome then."
+    m:
+      - "*(opening the door)* Welcome, then."
+
+  - os: "Enter NURSE"
+    ms: "The NURSE enters."
+
+  - sp: NURSE
+    o:
+      - "O holy Friar, O, tell me, holy Friar,"
+      - "Where is my lady’s lord? Where’s Romeo?"
+    m:
+      - "Oh, holy Friar, Oh, tell me, holy Friar, where is my lady’s husband? Where’s Romeo?"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "There on the ground, with his own tears made drunk."
+    m:
+      - "He’s there on the ground. He’s been getting drunk on his own tears."
+
+  - sp: NURSE
+    o:
+      - "Oh, he is even in my mistress’ case,"
+      - "Just in her case. O woeful sympathy,"
+      - "Piteous predicament! Even so lies she,"
+      - "Blubbering and weeping, weeping and blubbering."
+      - "Stand up, stand up. Stand, an you be a man."
+      - "For Juliet’s sake, for her sake, rise and stand."
+      - "Why should you fall into so deep an O?"
+    m:
+      - "Oh, he’s acting just like Juliet, just like her. Oh painful sympathy! What a pitiful problem! She’s lying on the ground just like him, blubbering and weeping, weeping and blubbering. Stand up. Stand up. Stand up if you’re really a man. For Juliet’s sake, for her sake, rise and stand up. Why should you fall into so deep a moan?"
+
+  - sp: ROMEO
+    o:
+      - "Nurse!"
+    m:
+      - "Nurse!"
+
+  - sp: NURSE
+    o:
+      - "Ah sir, ah sir. Death’s the end of all."
+    m:
+      - "Ah sir, ah sir. Well, death is the end for everybody."
+
+  - sp: ROMEO
+    o:
+      - "Spakest thou of Juliet? How is it with her?"
+      - "Doth she not think me an old murderer,"
+      - "Now I have stained the childhood of our joy"
+      - "With blood removed but little from her own?"
+      - "Where is she? And how doth she? And what says"
+      - "My concealed lady to our canceled love?"
+    m:
+      - "Were you talking about Juliet? How is she? Does she think that I’m a practiced murderer because I tainted our newfound joy by killing one of her close relatives? Where is she? How is she doing? What does my hidden wife say about our ruined love?"
+
+  - sp: NURSE
+    o:
+      - "Oh, she says nothing, sir, but weeps and weeps,"
+      - "And now falls on her bed, and then starts up,"
+      - "And “Tybalt” calls, and then on Romeo cries,"
+      - "And then down falls again."
+    m:
+      - "Oh, she doesn’t say anything, sir. She just weeps and weeps. She falls on her bed and then starts to get up. Then she calls out Tybalt’s name and cries “Romeo,” and then she falls down again."
+
+  - sp: ROMEO
+    o:
+      - "    As if that name,"
+      - "Shot from the deadly level of a gun,"
+      - "Did murder her, as that name’s cursed hand"
+      - "Murdered her kinsman. O, tell me, Friar, tell me,"
+      - "In what vile part of this anatomy"
+      - "Doth my name lodge? Tell me, that I may sack"
+      - "The hateful mansion. *(draws his dagger)*"
+    m:
+      - "She’s calling out my name as if I were a bullet murdering her, just like I murdered her relative. Tell me, Friar, in what part of my body is my name embedded? Tell me, so I can cut it out of myself. *(he draws his dagger)*"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "  Hold thy desperate hand."
+      - "Art thou a man? Thy form cries out thou art."
+      - "Thy tears are womanish. Thy wild acts denote"
+      - "The unreasonable fury of a beast."
+      - "Unseemly woman in a seeming man,"
+      - "And ill-beseeming beast in seeming both!"
+      - "Thou hast amazed me. By my holy order,"
+      - "I thought thy disposition better tempered."
+      - "Hast thou slain Tybalt? Wilt thou slay thyself,"
+      - "And slay thy lady that in thy life lives"
+      - "By doing damnèd hate upon thyself?"
+      - "Why rail’st thou on thy birth, the heaven, and earth?"
+      - "Since birth and heaven and earth, all three do meet"
+      - "In thee at once, which thou at once wouldst lose?"
+      - "Fie, fie, thou shamest thy shape, thy love, thy wit,"
+      - "Which, like a usurer, abound’st in all"
+      - "And usest none in that true use indeed"
+      - "Which should bedeck thy shape, thy love, thy wit."
+      - "Thy noble shape is but a form of wax,"
+      - "Digressing from the valor of a man;"
+      - "Thy dear love sworn but hollow perjury,"
+      - "Killing that love which thou hast vowed to cherish;"
+      - "Thy wit, that ornament to shape and love,"
+      - "Misshapen in the conduct of them both,"
+      - "Like powder in a skill-less soldier’s flask,"
+      - "Is set afire by thine own ignorance;"
+      - "And thou dismembered with thine own defence."
+      - "What, rouse thee, man! Thy Juliet is alive,"
+      - "For whose dear sake thou wast but lately dead—"
+      - "There art thou happy. Tybalt would kill thee,"
+      - "But thou slew’st Tybalt—there art thou happy."
+      - "The law that threatened death becomes thy friend"
+      - "And turns it to exile—there art thou happy."
+      - "A pack of blessings light upon thy back,"
+      - "Happiness courts thee in her best array,"
+      - "But, like a misbehaved and sullen wench,"
+      - "Thou pout’st upon thy fortune and thy love."
+      - "Take heed, take heed, for such die miserable."
+      - "Go, get thee to thy love, as was decreed."
+      - "Ascend her chamber, hence, and comfort her."
+      - "But look thou stay not till the watch be set,"
+      - "For then thou canst not pass to Mantua,"
+      - "Where thou shalt live, till we can find a time"
+      - "To blaze your marriage, reconcile your friends,"
+      - "Beg pardon of the Prince, and call thee back"
+      - "With twenty hundred thousand times more joy"
+      - "Than thou went’st forth in lamentation.—"
+      - "Go before, Nurse. Commend me to thy lady,"
+      - "And bid her hasten all the house to bed,"
+      - "Which heavy sorrow makes them apt unto."
+      - "Romeo is coming."
+    m:
+      - "Hold on, and don’t act out of desperation. Are you a man? You look like a man, but your tears make you look like a woman. Your wild actions resemble the irrational fury of a beast. You’re a shameful woman who looks like a man or else an ugly creature who’s half-man, half-beast. You have amazed me. I swear by my holy order, I thought you were smarter and more rational than this. Have you killed Tybalt? Will you kill yourself? And would you also kill your wife, who shares your life, by committing the sin of killing yourself? Why do you complain about your birth, the heavens, and the earth? Life is the union of soul in body through the miracle of birth, but you would throw all that away. You bring shame to your body, your love, and your mind. You have so much natural talent, but like someone who hoards money, you use none of your talent for the right purpose—not your body, not your love, not your mind. Your body is just a wax figure, without the honor of a man. The love that you promised was a hollow lie. You’re killing the love that you vowed to cherish. Your mind, which aids both your body and your love, has mishandled both of them. You’re like a stupid soldier whose gunpowder explodes because he’s careless. The things you were supposed to use to defend yourself end up killing you. Get up, man! Your Juliet is alive. It was for her that you were almost killed earlier. Be happy that she’s alive. Tybalt wanted to kill you, but you killed Tybalt. Be happy that you’re alive. The law that threatened your life was softened into exile. Be happy about that. Your life is full of blessings. You have the best sorts of happiness to enjoy. But like a misbehaved, sullen girl, you’re whining about your bad luck and your love. Listen, listen, people who act like that die miserable. Go be with your love, as it was decided at your wedding. Climb up to her bedroom and comfort her. But get out of there before the night watchmen take their positions. Then you will escape to the city of Mantua, where you’ll live until we can make your marriage public and make peace between your families. We’ll ask the Prince to pardon you. Then we’ll welcome you back with twenty thousand times more joy than you’ll have when you leave this town crying. Go ahead, Nurse. Give my regards to your lady, and tell her to hurry everybody in the house to bed. I’m sure they’re all so sad that they’ll be ready to sleep. Romeo is coming."
+
+  - sp: NURSE
+    o:
+      - "O Lord, I could have stayed here all the night"
+      - "To hear good counsel. Oh, what learning is!"
+      - "My lord, I’ll tell my lady you will come."
+    m:
+      - "O Lord, I could stay here all night listening to such good advice. Educated men are so impressive! *(speaking to ROMEO)* My lord, I’ll tell my lady you will come."
+
+  - sp: ROMEO
+    o:
+      - "Do so, and bid my sweet prepare to chide."
+    m:
+      - "Do so, and tell my sweet to be ready to scold me."
+
+  - sp: NURSE
+    o:
+      - "Here, sir, a ring she bid me give you, sir."
+      - "*(gives ROMEO JULIET’s ring)*"
+      - "Hie you, make haste, for it grows very late."
+    m:
+      - "Here, sir, this is a ring she asked me to give you. Hurry up, it’s getting late. *(she gives ROMEO JULIET’s ring)*"
+
+  - os: "Exit NURSE"
+    ms: "The NURSE exits."
+
+  - sp: ROMEO
+    o:
+      - "How well my comfort is revived by this!"
+    m:
+      - "This makes me feel so much better!"
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Go hence. Good night. And here stands all your state:"
+      - "Either be gone before the watch be set,"
+      - "Or by the break of day disguised from hence."
+      - "Sojourn in Mantua. I’ll find out your man,"
+      - "And he shall signify from time to time"
+      - "Every good hap to you that chances here."
+      - "Give me thy hand. ’Tis late. Farewell, good night."
+    m:
+      - "Now get out of here. Good night. Everything depends on this: either be out of here before the night watchmen take their positions, or leave in disguise after daybreak. Take a little vacation in Mantua. I’ll find your servant, and he’ll update you now and then on your case as it stands here. Give me your hand. It’s late. Farewell. Good night."
+
+  - sp: ROMEO
+    o:
+      - "But that a joy past joy calls out on me,"
+      - "It were a grief so brief to part with thee."
+      - "Farewell."
+    m:
+      - "I’m off to experience the greatest joy of all, but still it’s sad to leave you in such a rush. Farewell."
+
+  - os: "Exeunt"
+    ms: "They exit."

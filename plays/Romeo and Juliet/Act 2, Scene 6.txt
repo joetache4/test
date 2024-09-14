@@ -1,0 +1,99 @@
+play: Romeo and Juliet
+title: Act 2, Scene 6
+group: 2
+order: 12
+text:
+  - os: "Enter FRIAR LAWRENCE and ROMEO"
+    ms: "FRIAR LAWRENCE and ROMEO enter."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "So smile the heavens upon this holy act"
+      - "That after-hours with sorrow chide us not."
+    m:
+      - "May the heavens be happy with this holy act of marriage, so nothing unfortunate happens later to make us regret it."
+
+  - sp: ROMEO
+    o:
+      - "Amen, amen. But come what sorrow can,"
+      - "It cannot countervail the exchange of joy"
+      - "That one short minute gives me in her sight."
+      - "Do thou but close our hands with holy words,"
+      - "Then love-devouring death do what he dare;"
+      - "It is enough I may but call her mine."
+    m:
+      - "Amen, amen. But whatever misfortunes occur, they can’t ruin the joy I feel with one look at her. All you have to do is join our hands with holy words, then love-destroying death can do whatever it pleases. It’s enough for me if I can call her mine."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "These violent delights have violent ends"
+      - "And in their triumph die, like fire and powder,"
+      - "Which, as they kiss, consume. The sweetest honey"
+      - "Is loathsome in his own deliciousness"
+      - "And in the taste confounds the appetite."
+      - "Therefore love moderately. Long love doth so."
+      - "Too swift arrives as tardy as too slow."
+    m:
+      - "These sudden joys have sudden endings. They burn up in victory like fire and gunpowder. When they meet, as in a kiss, they explode. Too much honey is delicious, but it makes you sick to your stomach. Therefore, love each other in moderation. That is the key to long-lasting love. Too fast is as bad as too slow."
+
+  - os: "Enter JULIET, somewhat fast, and embraceth ROMEO"
+    ms: "JULIET enters in a rush and embraces ROMEO."
+
+  - o:
+      - "Here comes the lady. Oh, so light a foot"
+      - "Will ne’er wear out the everlasting flint."
+      - "A lover may bestride the gossamers"
+      - "That idles in the wanton summer air,"
+      - "And yet not fall. So light is vanity."
+    m:
+      - "Here comes the lady. Oh,a footstep as light as hers will never endure the rocky road of life. Lovers are so light they can walk on a spiderweb floating on a summer breeze, and yet not fall. That’s how flimsy and unreal pleasure is."
+
+  - sp: JULIET
+    o:
+      - "Good even to my ghostly confessor."
+    m:
+      - "Good evening, my spiritual confessor."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Romeo shall thank thee, daughter, for us both."
+    m:
+      - "Romeo will thank you, my girl, for both of us."
+
+  - sp: JULIET
+    o:
+      - "As much to him, else is his thanks too much."
+    m:
+      - "I’ll give him equal thanks, so we’re even."
+
+  - sp: ROMEO
+    o:
+      - "Ah, Juliet, if the measure of thy joy"
+      - "Be heaped like mine, and that thy skill be more"
+      - "To blazon it, then sweeten with thy breath"
+      - "This neighbor air, and let rich music’s tongue"
+      - "Unfold the imagined happiness that both"
+      - "Receive in either by this dear encounter."
+    m:
+      - "Ah, Juliet if you’re as happy as I am, and you’re better with words, tell me about the happiness you imagine we’ll have in our marriage."
+
+  - sp: JULIET
+    o:
+      - "Conceit, more rich in matter than in words,"
+      - "Brags of his substance, not of ornament."
+      - "They are but beggars that can count their worth."
+      - "But my true love is grown to such excess"
+      - "I cannot sum up sum of half my wealth."
+    m:
+      - "I can imagine more than I can say—I have more on my mind than words. Anyone who can count how much he has is poor. My true love has made me so rich that I can’t count even half of my wealth."
+
+  - sp: FRIAR LAWRENCE
+    o:
+      - "Come, come with me, and we will make short work."
+      - "For, by your leaves, you shall not stay alone"
+      - "Till holy church incorporate two in one."
+    m:
+      - "Come, come with me, and we’ll do the job quickly. Because if you don’t mind, I’m not leaving you two alone until you’re united in marriage."
+
+  - os: "Exeunt"
+    ms: "They exit."

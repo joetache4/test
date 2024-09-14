@@ -1,0 +1,391 @@
+play: Henry V
+title: Act 4, Scene 7
+group: 4
+order: 23
+text:
+  - os: "Enter FLUELLEN and GOWER"
+    ms: "FLUELLEN and GOWER enter."
+
+  - sp: FLUELLEN
+    o:
+      - "Kill the poys and the luggage! ’Tis expressly against the law of arms. ’Tis as arrant a piece of knavery, mark you now, as can be offert, in your conscience now, is it not?"
+    m:
+      - "To kill the boys with the luggage! It’s expressly against the rules of combat. It’s as complete a work of villainy as any that could be thought up. Tell me, don’t you think so?"
+
+  - sp: GOWER
+    o:
+      - "’Tis certain there’s not a boy left alive, and the cowardly rascals that ran from the battle ha’ done this slaughter. Besides, they have burned and carried away all that was in the king’s tent, wherefore the king, most worthily, hath caused every soldier to cut his prisoner’s throat. Oh, ’tis a gallant king!"
+    m:
+      - "There’s certainly not a boy left alive, and it was done by the cowardly rascals who were running from the battle. On top of this, they’ve either burned or carried away everything that was in the king’s tent. So the king has quite rightly ordered that every prisoner’s throat be cut. Oh, he’s a gallant king!"
+
+  - sp: FLUELLEN
+    o:
+      - "Ay, he was porn at Monmouth, Captain Gower. What call you the town’s name where Alexander the Pig was born?"
+    m:
+      - "Yes, he was born at Monmouth, Captain Gower. What is the name of the town where Alexander the Pig was born?"
+
+  - sp: GOWER
+    o:
+      - "Alexander the Great."
+    m:
+      - "Alexander the Great."
+
+  - sp: FLUELLEN
+    o:
+      - "Why, I pray you, is not “pig” great? The pig, or the great, or the mighty, or the huge, or the magnanimous are all one reckonings, save the phrase is a little variations."
+    m:
+      - "And is “pig” not the same as “great,” may I ask? The pig or the mighty or the huge or the magnanimous—they all mean the same thing, with some variation."
+
+  - sp: GOWER
+    o:
+      - "I think Alexander the Great was born in Macedon. His father was called Philip of Macedon, as I take it."
+    m:
+      - "I think Alexander the Great was born in Macedon. His father was Philip of Macedon, as I remember."
+
+  - sp: FLUELLEN
+    o:
+      - "I think it is in Macedon where Alexander is porn. I tell you, Captain, if you look in the maps of the ’orld, I warrant you shall find, in the comparisons between Macedon and Monmouth, that the situations, look you, is both alike. There is a river in Macedon, and there is also, moreover, a river at Monmouth. It is called Wye at Monmouth, but it is out of my prains what is the name of the other river. But ’tis all one; ’tis alike as my fingers is to my fingers, and there is salmons in both. If you mark Alexander’s life well, Harry of Monmouth’s life is come after it indifferent well, for there is figures in all things. Alexander, God knows and you know, in his rages and his furies and his wraths and his cholers and his moods and his displeasures and his indignations, and also being a little intoxicates in his prains, did, in his ales and his angers, look you, kill his best friend, Cleitus."
+    m:
+      - "I think that Macedon is indeed where Alexander was born. I tell you, Captain, if you look at a map of the world, I’ll bet you will find, comparing Macedon and Monmouth, that the situations, see, are very similar. There is a river in Macedon, and there is likewise a river in Monmouth. The river in Monmouth is called Wye, but the name of the other river has gone out of my head. Nevertheless, it’s all one—the two rivers are as alike as my fingers are to my fingers, and there are salmon in both. If you look closely at Alexander’s life, Harry of Monmouth’s stands up fairly well by comparison—for there are analogies in everything. Alexander, God knows and you know, in his rages and his furies and his wraths and his angers and his moods and his displeasures and his indignations, and also being a little the worse for drink, killed his best friend Cleitus in a drunken rage, see."
+
+  - sp: GOWER
+    o:
+      - "Our king is not like him in that. He never killed any of his friends."
+    m:
+      - "Our king is not like him in that respect: he never killed any of his friends."
+
+  - sp: FLUELLEN
+    o:
+      - "It is not well done, mark you now, to take the tales out of my mouth ere it is made and finished. I speak but in the figures and comparisons of it. As Alexander killed his friend Cleitus, being in his ales and his cups, so also Harry Monmouth, being in his right wits and his good judgments, turned away the fat knight with the great-belly doublet; he was full of jests, and gipes and knaveries, and mocks—I have forgot his name."
+    m:
+      - "It is not courteous, you know, to assume you know my meaning before I’ve finished talking. I’m speaking purely in analogies and comparisons. Just as Alexander killed his friend Cleitus when he was drinking, so Harry Monmouth, having come to his senses and acquired good judgment, turned away the fat knight in the oversized doublet: the man was full of jests and japes and pranks and mocks. I have forgotten his name."
+
+  - sp: GOWER
+    o:
+      - "Sir John Falstaff."
+    m:
+      - "Sir John Falstaff."
+
+  - sp: FLUELLEN
+    o:
+      - "That is he. I’ll tell you, there is good men porn at"
+      - "Monmouth."
+    m:
+      - "That’s the one. I tell you, there are good men born at Monmouth."
+
+  - sp: GOWER
+    o:
+      - "Here comes his Majesty."
+    m:
+      - "Here comes his Majesty."
+
+  - os: "Alarum Enter KING HENRY, WARWICK, GLOUCESTER, EXETER, and others"
+    ms: "Sounds of battle. KING HENRY enters with WARWICK, GLOUCESTER, EXETER, and others."
+
+  - sp: KING HENRY
+    o:
+      - "I was not angry since I came to France"
+      - "Until this instant. Take a trumpet, herald."
+      - "Ride thou unto the horsemen on yond hill."
+      - "If they will fight with us, bid them come down,"
+      - "Or void the field. They do offend our sight."
+      - "If they’ll do neither, we will come to them"
+      - "And make them skirr away as swift as stones"
+      - "Enforcèd from the old Assyrian slings."
+      - "Besides, we’ll cut the throats of those we have,"
+      - "And not a man of them that we shall take"
+      - "Shall taste our mercy. Go and tell them so."
+    m:
+      - "I was not angry since I came to France until this instant. Take a trumpet, herald. Ride out to the horsemen on that hill. If they seek battle with us, have them come down or else clear the field. The sight of them is offensive. If they’ll do neither, we’ll come to them and make them fly like stones shot from powerful slings. We’ll also cut the throats of any prisoners we have. Not a man of them that we shall take shall know our mercy. Go and tell them this."
+
+  - os: "Enter MONTJOY"
+    ms: "MONTJOY enters."
+
+  - sp: EXETER
+    o:
+      - "Here comes the herald of the French, my liege."
+    m:
+      - "Here comes the herald of the French, my liege."
+
+  - sp: GLOUCESTER
+    o:
+      - "His eyes are humbler than they used to be."
+    m:
+      - "He looks humbler than he used to."
+
+  - sp: KING HENRY
+    o:
+      - "How now, what means this, herald? Know’st thou not"
+      - "That I have fined these bones of mine for ransom?"
+      - "Com’st thou again for ransom?"
+    m:
+      - "Well? What is the meaning of this, herald? Don’t you know that I have offered these bones of mine for ransom? Are you coming again for ransom?"
+
+  - sp: MONTJOY
+    o:
+      - "No, great king."
+      - "I come to thee for charitable license,"
+      - "That we may wander o’er this bloody field"
+      - "To book our dead and then to bury them;"
+      - "To sort our nobles from our common men,"
+      - "For many of our princes—woe the while!—"
+      - "Lie drowned and soaked in mercenary blood."
+      - "So do our vulgar drench their peasant limbs"
+      - "In blood of princes, and the wounded steeds"
+      - "Fret fetlock deep in gore, and with wild rage"
+      - "Yerk out their armèd heels at their dead masters,"
+      - "Killing them twice. Oh, give us leave, great king,"
+      - "To view the field in safety and dispose"
+      - "Of their dead bodies."
+    m:
+      - "No, great king. I come to ask you out of charity to let us wander over this bloody field to record the numbers of our dead and bury them, separating our nobles from the common men, for many of our princes—alas!—lie drowned and soaked in the blood of mercenary soldiers. Likewise, our common men lie drenched in the blood of princes, and their wounded steeds, ankle-deep in gore, struggle and, raging wildly, stamp on their dead masters with their hooves, killing them a second time. Oh, give us permission, great king, to search the field in safety and dispose of our dead bodies."
+
+  - sp: KING HENRY
+    o:
+      - "I tell thee truly, herald,"
+      - "I know not if the day be ours or no,"
+      - "For yet a many of your horsemen peer"
+      - "And gallop o’er the field."
+    m:
+      - "I’ll be honest with you, herald: I don’t even know who won the battle. I still see many of your horsemen galloping across the field."
+
+  - sp: MONTJOY
+    o:
+      - "The day is yours."
+    m:
+      - "You won it."
+
+  - sp: KING HENRY
+    o:
+      - "Praised be God, and not our strength, for it!"
+      - "What is this castle called that stands hard by?"
+    m:
+      - "God, not our strength, be praised! What is the name of the castle that stands over there?"
+
+  - sp: MONTJOY
+    o:
+      - "They call it Agincourt."
+    m:
+      - "Agincourt."
+
+  - sp: KING HENRY
+    o:
+      - "Then call we this the field of Agincourt,"
+      - "Fought on the day of Crispin Crispianus."
+    m:
+      - "Then we’ll call this the Battle of Agincourt, fought on the day of Crispin Crispianus."
+
+  - sp: FLUELLEN
+    o:
+      - "Your grandfather of famous memory, an’t please your Majesty, and your great-uncle Edward the Plack Prince of Wales, as I have read in the chronicles, fought a most prave pattle here in France."
+    m:
+      - "If I may say so, your Majesty, your famous grandfather and your great-uncle Edward, the Black Prince of Wales—or so I’ve read in the history books—fought a very brave battle here in France."
+
+  - sp: KING HENRY
+    o:
+      - "They did, Fluellen."
+    m:
+      - "They did, Fluellen."
+
+  - sp: FLUELLEN
+    o:
+      - "Your Majesty says very true. If your Majesties is remembered of it, the Welshmen did good service in a garden where leeks did grow, wearing leeks in their Monmouth caps, which, your Majesty know, to this hour is an honorable badge of the service. And I do believe your Majesty takes no scorn to wear the leek upon Saint Tavy’s day."
+    m:
+      - "Your Majesty is quite right. If your Majesties recall it, the Welsh fought very valiantly in a garden where there were leeks growing, wearing leeks in their Monmouth caps which, your Majesty knows, is to this day a badge of honorable military service. I do believe your Majesty takes no shame in wearing the leek on Saint Davy’s Day."
+
+  - sp: KING HENRY
+    o:
+      - "I wear it for a memorable honor,"
+      - "For I am Welsh, you know, good countryman."
+    m:
+      - "I wear it with pride, for I am Welsh you know, good countryman."
+
+  - sp: FLUELLEN
+    o:
+      - "All the water in Wye cannot wash your Majesty’s Welsh plood out of your pody, I can tell you that: God pless it and preserve it as long as it pleases his Grace and his Majesty too."
+    m:
+      - "All the water in Wye cannot wash your Majesty’s Welsh blood out of your body. I can tell you that. God bless it and preserve it, as long as it pleases his Grace, and his Majesty, too!"
+
+  - sp: KING HENRY
+    o:
+      - "Thanks, good my countryman."
+    m:
+      - "Thanks, my good countryman."
+
+  - sp: FLUELLEN
+    o:
+      - "By Jeshu, I am your Majesty’s countryman, I care not who know it. I will confess it to all the ’orld. I need not to be ashamed of your Majesty, praised be God, so long as your Majesty is an honest man."
+    m:
+      - "By Jesus, I am your Majesty’s countryman, and I don’t care who knows it. I will confess it to all the world. I needn’t be ashamed of your Majesty, God be praised, so long as your Majesty is an honest man."
+
+  - sp: KING HENRY
+    o:
+      - "God keep me so.—Our heralds go with him."
+      - "Bring me just notice of the numbers dead"
+      - "On both our parts. *(points to WILLIAMS)*"
+      - "Call yonder fellow hither."
+    m:
+      - "God keep me so.—Heralds, go with him. Bring me an exact report of the number of dead on both sides. *(pointing to WILLIAMS)* Tell that fellow over there to come here."
+
+  - os: "Exeunt heralds with MONTJOY"
+    ms: "English messengers exit with MONTJOY."
+
+  - sp: EXETER
+    o:
+      - "Soldier, you must come to the king."
+    m:
+      - "Soldier, you must come to the king."
+
+  - sp: KING HENRY
+    o:
+      - "Soldier, why wear’st thou that glove in thy cap?"
+    m:
+      - "Soldier, why are you wearing that glove in your cap?"
+
+  - sp: WILLIAMS
+    o:
+      - "An’t please your Majesty, ’tis the gage of one that I should fight withal, if he be alive."
+    m:
+      - "If it pleases your Majesty, it is the token of a man I must fight with, if he’s still alive."
+
+  - sp: KING HENRY
+    o:
+      - "An Englishman?"
+    m:
+      - "An Englishman?"
+
+  - sp: WILLIAMS
+    o:
+      - "An ’t please your Majesty, a rascal that swaggered with me last night, who, if alive and ever dare to challenge this glove, I have sworn to take him a box o’ th’ ear, or if I can see my glove in his cap, which he swore, as he was a soldier, he would wear if alive, I will strike it out soundly."
+    m:
+      - "If I may say so, your Majesty, he is a rascal who quarreled with me last night, and who, if he lives and ever dares to challenge this glove, will get a box on the ear from me. Or, if I see him wearing my glove in his cap, which he swore as a soldier he would wear if he lived, I will knock it off his head."
+
+  - sp: KING HENRY
+    o:
+      - "What think you, Captain Fluellen, is it fit this soldier keep his oath?"
+    m:
+      - "What do you say, Captain Fluellen? Should this soldier keep his oath?"
+
+  - sp: FLUELLEN
+    o:
+      - "He is a craven and a villain else, an ’t please your Majesty, in my conscience."
+    m:
+      - "If I may say so, your Majesty, as I see it he would be a coward and a villain not to."
+
+  - sp: KING HENRY
+    o:
+      - "It may be his enemy is a gentleman of great sort, quite from the answer of his degree."
+    m:
+      - "It may be that his antagonist is a gentleman of very high degree, quite outside of his own sphere."
+
+  - sp: FLUELLEN
+    o:
+      - "Though he be as good a gentleman as the devil is, as Lucifer and Beelzebub himself, it is necessary, look your Grace, that he keep his vow and his oath. If he be perjured, see you now, his reputation is as arrant a villain and a Jack Sauce as ever his black shoe trod upon God’s ground and His earth, in my conscience, la."
+    m:
+      - "Even if he were as important a man as the devil—as Lucifer or Beelzebub himself—he’s required, see, your Grace, to keep his vow. If he backs down, he’ll become as notorious a villain and as saucy a Jack as ever walked on God’s earth, in my opinion."
+
+  - sp: KING HENRY
+    o:
+      - "Then keep thy vow, sirrah, when thou meet’st the fellow."
+    m:
+      - "Then keep your vow, fellow, when you meet the man."
+
+  - sp: WILLIAMS
+    o:
+      - "So I will, my liege, as I live."
+    m:
+      - "So I will, my liege. I swear on my life."
+
+  - sp: KING HENRY
+    o:
+      - "Who serv’st thou under?"
+    m:
+      - "Whom do you serve under?"
+
+  - sp: WILLIAMS
+    o:
+      - "Under Captain Gower, my liege."
+    m:
+      - "Under Captain Gower, my liege."
+
+  - sp: FLUELLEN
+    o:
+      - "Gower is a good captain, and is good knowledge and literatured in the wars."
+    m:
+      - "Gower is a good captain, and is well versed and well read in the wars."
+
+  - sp: KING HENRY
+    o:
+      - "Call him hither to me, soldier."
+    m:
+      - "Have him come to me here, soldier."
+
+  - sp: WILLIAMS
+    o:
+      - "I will, my liege."
+    m:
+      - "I will, my liege."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KING HENRY
+    o:
+      - "Here, Fluellen, wear thou this favor for me and stick it in thy cap. *(gives WILLIAMS’ glove to FLUELLEN)* When Alençon and myself were down together, I plucked this glove from his helm. If any man challenge this, he is a friend to Alençon and an enemy to our person. If thou encounter any such, apprehend him, an thou dost me love."
+    m:
+      - "Here, Fluellen, stick this in your cap. *(gives WILLIAMS’ glove to FLUELLEN)* When Alençon and I went down together, I plucked this glove from his helmet. If any man challenges it, he is a friend to Alençon and an enemy to me. If you encounter such a man, arrest him and prove your loyalty to me."
+
+  - sp: FLUELLEN
+    o:
+      - "Your Grace does me as great honors as can be desired in the hearts of his subjects. I would fain see the man that has but two legs that shall find himself aggrieved at this glove, that is all; but I would fain see it once, an please God of his Grace that I might see."
+    m:
+      - "Your Grace does me as great an honor as could be wished by any of his subjects. I’d like to see the man with two legs who takes offense at this glove, that’s all! Just once I’d like to see it, if it please God to grant me that."
+
+  - sp: KING HENRY
+    o:
+      - "Know’st thou Gower?"
+    m:
+      - "Do you know Captain Gower?"
+
+  - sp: FLUELLEN
+    o:
+      - "He is my dear friend, an please you."
+    m:
+      - "He is my dear friend, your Majesty."
+
+  - sp: KING HENRY
+    o:
+      - "Pray thee, go seek him, and bring him to my tent."
+    m:
+      - "Go find him, please, and bring him to my tent."
+
+  - sp: FLUELLEN
+    o:
+      - "I will fetch him."
+    m:
+      - "I’ll fetch him."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KING HENRY
+    o:
+      - "My Lord of Warwick and my brother Gloucester,"
+      - "Follow Fluellen closely at the heels."
+      - "The glove which I have given him for a favor"
+      - "May haply purchase him a box o’ th’ ear."
+      - "It is the soldier’s. I by bargain should"
+      - "Wear it myself. Follow, good cousin Warwick."
+      - "If that the soldier strike him, as I judge"
+      - "By his blunt bearing he will keep his word,"
+      - "Some sudden mischief may arise of it,"
+      - "For I do know Fluellen valiant"
+      - "And, touched with choler, hot as gunpowder,"
+      - "And quickly will return an injury."
+      - "Follow, and see there be no harm between them."
+      - "—Go you with me, uncle of Exeter."
+    m:
+      - "My Lord of Warwick and my brother Gloucester, follow Fluellen at a close distance. The glove which I have given him to wear may possibly win him a box on the ear. It belongs to the soldier I was just talking to. According to an agreement, I should wear it myself. Follow Fluellen, cousin Warwick, and if the soldier strikes him—and I would think from his forthright manner that he’ll keep his word—some mischief may arise as a result. I know Fluellen to be very conscious of his honor and quick to anger, hot as gunpowder and likely to return any injury promptly. Follow and see to it that nothing serious happens between them. You come with me, uncle of Exeter."
+
+  - os: "Exeunt"
+    ms: "They all exit."

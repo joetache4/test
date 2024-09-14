@@ -1,0 +1,231 @@
+play: The Taming of the Shrew
+title: Act 4, Scene 5
+group: 4
+order: 11
+text:
+  - os: "Enter PETRUCHIO, KATHERINE, HORTENSIO and Servants"
+    ms: "PETRUCHIO, KATHERINE and HORTENSIO enter, accompanied by servants."
+
+  - sp: PETRUCHIO
+    o:
+      - "Come on, i’ God’s name, once more toward our father’s."
+      - "Good Lord, how bright and goodly shines the moon!"
+    m:
+      - "Come, let’s continue on toward your father’s house. Good Lord, how bright and splendid is the moon tonight!"
+
+  - sp: KATHERINE
+    o:
+      - "The moon? The sun! It is not moonlight now."
+    m:
+      - "The moon? You mean the sun! It is not nighttime now."
+
+  - sp: PETRUCHIO
+    o:
+      - "I say it is the moon that shines so bright."
+    m:
+      - "I say it’s the moon that shines so bright."
+
+  - sp: KATHERINE
+    o:
+      - "I know it is the sun that shines so bright."
+    m:
+      - "I know it’s the sun that shines so bright."
+
+  - sp: PETRUCHIO
+    o:
+      - "Now, by my mother’s son, and that’s myself,"
+      - "It shall be moon, or star, or what I list,"
+      - "Or e’er I journey to your father’s house."
+      - "*(to servants)* Go on, and fetch our horses back again.—"
+      - "Evermore crossed and crossed, nothing but crossed!"
+    m:
+      - "Now, by my mother’s son, and that’s me, it will be moon or star or whatever I want before I’ll travel to your father’s house. *(to servants)* Go return our horses.— Constantly contradicted and contradicted, and nothing but contradicted!"
+
+  - sp: HORTENSIO
+    o:
+      - "*(to KATHERINE)* Say as he says, or we shall never go."
+    m:
+      - "*(to KATHERINE)* Say what he wants or we’ll never go."
+
+  - sp: KATHERINE
+    o:
+      - "Forward, I pray, since we have come so far,"
+      - "And be it moon, or sun, or what you please."
+      - "An if you please to call it a rush candle,"
+      - "Henceforth I vow it shall be so for me."
+    m:
+      - "Since we’ve come this far, please—let’s continue on. And whatever it is—moon or sun or anything you like—if you want to call it a tea candle, that’s what it is as far as I’m concerned. From now on, I promise."
+
+  - sp: PETRUCHIO
+    o:
+      - "I say it is the moon."
+    m:
+      - "I say it’s the moon."
+
+  - sp: KATHERINE
+    o:
+      - "I know it is the moon."
+    m:
+      - "I know it’s the moon."
+
+  - sp: PETRUCHIO
+    o:
+      - "Nay, then you lie. It is the blessèd sun."
+    m:
+      - "Well, you’re a liar, then. It’s the blessed sun."
+
+  - sp: KATHERINE
+    o:
+      - "Then God be blessed, it is the blessèd sun."
+      - "But sun it is not, when you say it is not,"
+      - "And the moon changes even as your mind."
+      - "What you will have it named, even that it is,"
+      - "And so it shall be so for Katherine."
+    m:
+      - "Then God be praised, it *is* the blessed sun. But it is not the sun when you say it is not, and the moon changes according to your mind. Whatever you want to call a thing, that’s what it is—and that’s what it will always be for me."
+
+  - sp: HORTENSIO
+    o:
+      - "Petruchio, go thy ways; the field is won."
+    m:
+      - "Petruchio, do whatever you like. You’ve won."
+
+  - sp: PETRUCHIO
+    o:
+      - "Well, forward, forward! Thus the bowl should run,"
+      - "And not unluckily against the bias."
+      - "But, soft! Company is coming here."
+    m:
+      - "Well, onward, then. That’s how things should be—straight and smooth. But, hang on! I hear someone coming."
+
+  - os: "Enter VINCENTIO"
+    ms: "VINCENTIO enters."
+
+  - o:
+      - "*(to VINCENTIO)*"
+      - "Good morrow, gentle mistress, where away?—"
+      - "Tell me, sweet Kate, and tell me truly too,"
+      - "Hast thou beheld a fresher gentlewoman?"
+      - "Such war of white and red within her cheeks!"
+      - "What stars do spangle heaven with such beauty"
+      - "As those two eyes become that heavenly face?—"
+      - "Fair lovely maid, once more good day to thee.—"
+      - "Sweet Kate, embrace her for her beauty’s sake."
+    m:
+      - "*(to VINCENTIO)* Good morning, young miss, where are you going?—Tell me, sweet Kate, and tell me truly, have you ever seen a young gentlewoman blooming more with health? The way the shades of white and red compete in her complexion. Which of the stars in heaven shine with such beauty as the two eyes that sparkle in that heavenly face? Fair lovely maid, once more good day to you.—Sweet Kate, embrace her for her beauty."
+
+  - sp: HORTENSIO
+    o:
+      - "*(aside)* He will make the man mad, to make a woman of him."
+    m:
+      - "*(speaking so that only the audience can hear)* He will drive the man mad pretending he thinks he’s a woman."
+
+  - sp: KATHERINE
+    o:
+      - "Young budding virgin, fair and fresh and sweet,"
+      - "Whither away, or where is thy abode?"
+      - "Happy the parents of so fair a child."
+      - "Happier the man whom favorable stars"
+      - "Allot thee for his lovely bedfellow!"
+    m:
+      - "Young budding virgin, fair and pure and sweet, where are you off to? Or where do you live? Your parents are lucky to have such a lovely child. And luckier still is the man who gets to be your husband and share your bed."
+
+  - sp: PETRUCHIO
+    o:
+      - "Why, how now, Kate! I hope thou art not mad."
+      - "This is a man—old, wrinkled, faded, withered—"
+      - "And not a maiden, as thou say’st he is."
+    m:
+      - "Why, dear me, Kate! I hope you haven’t lost your mind. This is not a maiden, as you say, but an old man—wrinkled, faded, and withered."
+
+  - sp: KATHERINE
+    o:
+      - "Pardon, old father, my mistaking eyes"
+      - "That have been so bedazzled with the sun"
+      - "That everything I look on seemeth green."
+      - "Now I perceive thou art a reverend father."
+      - "Pardon, I pray thee, for my mad mistaking."
+    m:
+      - "Sir, pardon my imperfect eyes, which have been so blinded by the sun that everything I look at appears green. Now I can see that you’re an elderly gentleman. Do forgive me for my crazy error."
+
+  - sp: PETRUCHIO
+    o:
+      - "Do, good old grandsire, and withal make known"
+      - "Which way thou travellest. If along with us,"
+      - "We shall be joyful of thy company."
+    m:
+      - "Do, good old grandfather, and while you’re at it, tell us which way you’re traveling. If we’re all headed in the same direction, we’d love your company."
+
+  - sp: VINCENTIO
+    o:
+      - "Fair sir, and you, my merry mistress,"
+      - "That with your strange encounter much amazed me,"
+      - "My name is called Vincentio, my dwelling Pisa,"
+      - "And bound I am to Padua, there to visit"
+      - "A son of mine which long I have not seen."
+    m:
+      - "Well, sir, and you, witty lady, who gave me quite a turn with your strange talk, my name is Vincentio, my hometown Pisa, and I am traveling to Padua to visit a son of mine whom I haven’t seen in a long while."
+
+  - sp: PETRUCHIO
+    o:
+      - "What is his name?"
+    m:
+      - "What is his name?"
+
+  - sp: VINCENTIO
+    o:
+      - "Lucentio, gentle sir."
+    m:
+      - "Lucentio, sir."
+
+  - sp: PETRUCHIO
+    o:
+      - "Happily met, the happier for thy son."
+      - "And now by law as well as reverend age,"
+      - "I may entitle thee my loving father."
+      - "The sister to my wife, this gentlewoman,"
+      - "Thy son by this hath married. Wonder not"
+      - "Nor be grieved. She is of good esteem,"
+      - "Her dowry wealthy, and of worthy birth."
+      - "Beside, so qualified as may beseem"
+      - "The spouse of any noble gentleman."
+      - "Let me embrace with old Vincentio,"
+      - "And wander we to see thy honest son,"
+      - "Who will of thy arrival be full joyous."
+    m:
+      - "A fortunate coincidence—more fortunate for your son. I can now call you “father” in a legal sense, not just out of respect for your age. The sister of my wife, this lady here, is married to your son. And there’s no need for wonder or worry. His bride is well thought of, with a rich dowry and noble birth—a fit wife for any nobleman. Let me embrace the father of Lucentio, and then we’ll journey on to see your son, who will rejoice at your arrival."
+
+  - sp: VINCENTIO
+    o:
+      - "But is this true, or is it else your pleasure,"
+      - "Like pleasant travelers, to break a jest"
+      - "Upon the company you overtake?"
+    m:
+      - "Is all this true? Or is this your way of livening up your travels—playing jokes on people you meet on the way?"
+
+  - sp: HORTENSIO
+    o:
+      - "I do assure thee, father, so it is."
+    m:
+      - "I assure you, sir, it’s true."
+
+  - sp: PETRUCHIO
+    o:
+      - "Come, go along and see the truth hereof,"
+      - "For our first merriment hath made thee jealous."
+    m:
+      - "Look, come along with us and see the truth for yourself. Our earlier joke has made you understandably suspicious."
+
+  - os: "Exeunt all but HORTENSIO"
+    ms: "Everyone but HORTENSIO exits."
+
+  - sp: HORTENSIO
+    o:
+      - "Well, Petruchio, this has put me in heart."
+      - "Have to my widow, and if she be froward,"
+      - "Then hast thou taught Hortensio to be untoward."
+    m:
+      - "Well, Petruchio, all this is very encouraging. I’ll visit my widow now, and if she proves difficult to manage, I’ll know how to make myself impossible."
+
+  - os: "Exit"
+    ms: "He exits."

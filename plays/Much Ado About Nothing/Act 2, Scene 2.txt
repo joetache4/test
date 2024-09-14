@@ -1,0 +1,141 @@
+play: Much Ado About Nothing
+title: Act 2, Scene 2
+group: 2
+order: 4
+text:
+  - os: "Enter DON JOHN andBORACHIO"
+    ms: "Enter DON JOHN andBORACHIO"
+
+  - sp: DON JOHN
+    o:
+      - "It is so. The Count Claudio shall marry the daughter of"
+      - "Leonato."
+    m:
+      - "It’s arranged. The Count Claudio will marry Leonato’s daughter."
+
+  - sp: BORACHIO
+    o:
+      - "Yea, my lord, but I can cross it."
+    m:
+      - "Yes, my lord, but I can spoil it."
+
+  - sp: DON JOHN
+    o:
+      - "Any bar, any cross, any impediment will be med’cinable to"
+      - "me. I am sick in displeasure to him, and whatsoever comes"
+      - "athwart his affection ranges evenly with mine. How canst"
+      - "thou cross this marriage?"
+    m:
+      - "Any obstacle or barrier to Claudio’s happiness will be like medicine to me. I hate him so much it makes me sick, and whoever can ruin his happiness will make me happy. How will you wreck this marriage?"
+
+  - sp: BORACHIO
+    o:
+      - "Not honestly, my lord, but so covertly that no dishonesty"
+      - "shall appear in me."
+    m:
+      - "I can only do it by lying, my lord, but I can do it so secretly that no one will suspect me."
+
+  - sp: DON JOHN
+    o:
+      - "Show me briefly how."
+    m:
+      - "Quickly, tell me how."
+
+  - sp: BORACHIO
+    o:
+      - "I think I told your lordship a year since how much I am in"
+      - "the favor of Margaret, the waiting gentlewoman to Hero."
+    m:
+      - "I think it was a year ago that I told you how much Margaret, Hero’s servant woman, likes me."
+
+  - sp: DON JOHN
+    o:
+      - "I remember."
+    m:
+      - "I remember."
+
+  - sp: BORACHIO
+    o:
+      - "I can, at any unseasonable instant of the night, appoint her"
+      - "to look out at her lady’s chamber window."
+    m:
+      - "I can arrange it so that at some indecent hour of the night, she looks out Hero’s bedroom window."
+
+  - sp: DON JOHN
+    o:
+      - "What life is in that to be the death of this marriage?"
+    m:
+      - "How will that kill this marriage?"
+
+  - sp: BORACHIO
+    o:
+      - "The poison of that lies in you to temper. Go you to the"
+      - "Prince your brother. Spare not to tell him that he hath"
+      - "wronged his honor in marrying the renowned Claudio,"
+      - "whose estimation do you mightily hold up, to a"
+      - "contaminated stale, such a one as Hero."
+    m:
+      - "That part is up to you. Go to the Prince, your brother, and tell him that he has done a terrible thing by matching the renowned Claudio—whom you greatly admire—with such a tainted whore as Hero."
+
+  - sp: DON JOHN
+    o:
+      - "What proof shall I make of that?"
+    m:
+      - "What will be my evidence?"
+
+  - sp: BORACHIO
+    o:
+      - "Proof enough to misuse the Prince, to vex Claudio, to undo"
+      - "Hero, and kill Leonato. Look you for any other issue?"
+    m:
+      - "Evidence enough to deceive the Prince, anger Claudio, ruin Hero, and kill Leonato. Is there anything else you wish?"
+
+  - sp: DON JOHN
+    o:
+      - "Only to despite them, I will endeavor anything."
+    m:
+      - "That’s all I want, and I’ll do anything to accomplish it."
+
+  - sp: BORACHIO
+    o:
+      - "Go then, find me a meet hour to draw Don Pedro and the"
+      - "Count Claudio alone. Tell them that you know that Hero"
+      - "loves me. Intend a kind of zeal both to the Prince and"
+      - "Claudio, as in love of your brother’s honor, who hath made"
+      - "this match, and his friend’s reputation, who is thus like to"
+      - "be cozened with the semblance of a maid, that you have"
+      - "discovered thus. They will scarcely believe this without"
+      - "trial. Offer them instances, which shall bear no less"
+      - "likelihood than to see me at her chamber window, hear me"
+      - "call Margaret “Hero,” hear Margaret term me “Claudio,”"
+      - "and bring them to see this the very night before the"
+      - "intended wedding, for in the meantime I will so fashion the"
+      - "matter that Hero shall be absent, and there shall appear"
+      - "such seeming truth of Hero’s disloyalty that jealousy shall"
+      - "be called assurance and all the preparation overthrown."
+    m:
+      - "Find a time to speak with Don Pedro and Claudio alone. Tell them you know that Hero loves me. Pretend to be very concerned about both the Prince, who has compromised his honor by making the match, and Claudio, whose reputation will be ruined by this woman who’s pretending to be a virgin. Of course, they won’t believe you without proof. Tell them you’ve seen the two of us at Hero’s bedroom window, and then bring them to see for themselves on the night before the wedding. I’ll arrange it so that Hero is away for the night, so what they’ll actually see is Margaret and me at the window, calling each other “Hero” and “Claudio.” It’ll be such blatant evidence of Hero’s disloyalty that Claudio’s jealousy will quickly turn to certainty, and the wedding will be instantly called off."
+
+  - sp: DON JOHN
+    o:
+      - "Grow this to what adverse issue it can, I will put it in"
+      - "practice. Be cunning in the working this, and thy fee is a"
+      - "thousand ducats."
+    m:
+      - "Make the arrangements, and I’ll do it. Do this carefully, and I will reward you with a thousand gold coins."
+
+  - sp: BORACHIO
+    o:
+      - "Be you constant in the accusation, and my cunning shall not"
+      - "shame me."
+    m:
+      - "If you make the accusation convincingly, then my cunning won’t fail me."
+
+  - sp: DON JOHN
+    o:
+      - "I will presently go learn their day of marriage."
+    m:
+      - "I’ll go now to find out the date of the wedding."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,135 @@
+play: As You Like It
+title: Act 5, Scene 3
+group: 5
+order: 20
+text:
+  - os: "Enter TOUCHSTONE and AUDREY."
+    ms: "TOUCHSTONE and AUDREY enter."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Tomorrow is the joyful day, Audrey. Tomorrow will we be married."
+    m:
+      - "Tomorrow is the happy day, Audrey. We’ll be married tomorrow."
+
+  - sp: AUDREY
+    o:
+      - "I do desire it with all my heart, and I hope it is no dishonest desire to desire to be a woman of the world."
+    m:
+      - "I can’t wait. I hope it doesn’t make me unchaste that I really want to be a married woman."
+
+  - os: "Enter two PAGES"
+    ms: "Two PAGES enter."
+
+  - o:
+      - "Here comes two of the banished duke’s pages."
+    m:
+      - "Here come two of Duke Senior’s pages."
+
+  - sp: FIRST PAGE
+    o:
+      - "Well met, honest gentleman."
+    m:
+      - "Good afternoon, good gentleman."
+
+  - sp: TOUCHSTONE
+    o:
+      - "By my troth, well met. Come, sit, sit, and a song."
+    m:
+      - "It really is good to see you. Come, sit, sit, and sing me a song."
+
+  - sp: SECOND PAGE
+    o:
+      - "We are for you. Sit i’ th’ middle."
+    m:
+      - "Sounds good to us. Sit between us."
+
+  - sp: FIRST PAGE
+    o:
+      - "Shall we clap into ’t roundly, without hawking or spitting or saying we are hoarse, which are the only prologues to a bad voice?"
+    m:
+      - "Should we just get down to it? Should we skip all that hacking and spitting and saying that we’re hoarse, which only makes clear what lousy singers we are?"
+
+  - sp: SECOND PAGE
+    o:
+      - "I’ faith, i’ faith, and both in a tune like two gypsies on a horse."
+    m:
+      - "Yes, yes, and let’s sing in unison, like two gypsies riding on a single horse."
+
+  - sp: PAGES
+    o:
+      - "*(sing)*"
+      - "*It was a lover and his lass,*"
+      - "*With a hey, and a ho, and a hey-nonny-no,*"
+      - "*That o’er the green cornfield did pass*"
+      - "*In springtime, the only pretty ring time,*"
+      - "*When birds do sing, Hey ding a ding, ding.*"
+      - "*Sweet lovers love the spring.*"
+      - "*Between the acres of the rye,*"
+    m:
+      - "*(singing)*"
+      - "*There was a lover and his girl,*"
+      - "*With a hey, and a ho, and a hey-nonny-no,*"
+      - "*Who walked through the cornfield*"
+      - "*In the springtime, the only proper wedding time,*"
+      - "*The time when birds sing, Hey ding-a-ding-ding.*"
+      - "*Sweet lovers love the spring.*"
+      - "*Between the acres of rye,*"
+
+  - o:
+      - "*With a hey, and a ho, and a hey-nonny-no,*"
+      - "*These pretty country folks would lie*"
+      - "*In springtime, the only pretty ring time,*"
+      - "*When birds do sing, Hey ding a ding, ding.*"
+      - "*Sweet lovers love the spring.*"
+      - "*This carol they began that hour,*"
+      - "*With a hey, and a ho, and a hey hey-nonny-no,*"
+      - "*How that a life was but a flower*"
+      - "*In springtime, the only pretty ring time,*"
+      - "*When birds do sing, Hey ding a ding, ding.*"
+      - "*Sweet lovers love the spring.*"
+      - "*And therefore take the present time,*"
+      - "*With a hey, and a ho, and a hey hey-nonny-no,*"
+      - "*For love is crownèd with the prime*"
+      - "*In springtime, the only pretty ring time,*"
+      - "*When birds do sing, Hey ding a ding, ding.*"
+      - "*Sweet lovers love the spring.*"
+    m:
+      - "*With a hey, and a ho, and a hey-nonny-no*"
+      - "*The pretty country folk would lie*"
+      - "*In the springtime, the only proper wedding-time,*"
+      - "*The time when birds sing, Hey ding-a-ding-ding.*"
+      - "*Sweet lovers love the spring.*"
+      - "*They wrote this song at that time,*"
+      - "*With a hey, and a ho, and a hey-nonny-no,*"
+      - "*About how life was as short-lived as a flower*"
+      - "*In the springtime, the only proper wedding time,*"
+      - "*The time when birds sing, hey ding-a-ding-ding.*"
+      - "*Sweet lovers love the spring.*"
+      - "*So seize the present time,*"
+      - "*With a hey, and a ho, and a hey-nonny-no,*"
+      - "*For love is all perfection*"
+      - "*In the springtime, the only proper wedding time,*"
+      - "*The time when birds sing, Hey ding-a-ding-ding.*"
+      - "*Sweet lovers love the spring.*"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Truly, young gentlemen, though there was no great matter in the ditty, yet the note was very untunable."
+    m:
+      - "Really, young men, though it wasn’t a very hard song to get right, the music was still all out of tune."
+
+  - sp: FIRST PAGE
+    o:
+      - "You are deceived, sir. We kept time. We lost not our time."
+    m:
+      - "No, sir, you’re wrong; we kept the song’s time, we didn’t lose any."
+
+  - sp: TOUCHSTONE
+    o:
+      - "By my troth, yes. I count it but time lost to hear such a foolish song. God be wi’ you, and God mend your voices.— Come, Audrey."
+    m:
+      - "Oh, yes you did—I lost time listening to your foolish song. God be with you, and I hope He fixes your voices! Come on, Audrey."
+
+  - os: "Exeunt"
+    ms: "They all exit."

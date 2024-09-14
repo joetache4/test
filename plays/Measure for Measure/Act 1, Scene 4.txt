@@ -1,0 +1,283 @@
+play: Measure for Measure
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "A nunnery."
+    ms: "A nunnery."
+
+  - os: "Enter ISABELLA and FRANCISCA"
+    ms: "ISABELLA and FRANCISCA enter."
+
+  - sp: ISABELLA
+    o:
+      - "And have you nuns no farther privileges?"
+    m:
+      - "And so you nuns have no other privileges?"
+
+  - sp: FRANCISCA
+    o:
+      - "Are not these large enough?"
+    m:
+      - "Aren’t these enough?"
+
+  - sp: ISABELLA
+    o:
+      - "Yes, truly; I speak not as desiring more;"
+      - "But rather wishing a more strict restraint"
+      - "Upon the sisterhood, the votarists of Saint Clare."
+    m:
+      - "Oh, yes. I didn’t mean I wanted more freedom. Actually, I wish there were even more restrictions on the Saint Claire sisterhood."
+
+  - sp: LUCIO
+    o:
+      - "*(Within)* Ho! Peace be in this place!"
+    m:
+      - "*(offstage)* Hello! Peace to this place!"
+
+  - sp: ISABELLA
+    o:
+      - "Who’s that which calls?"
+    m:
+      - "Who’s that?"
+
+  - sp: FRANCISCA
+    o:
+      - "It is a man’s voice. Gentle Isabella,"
+      - "Turn you the key, and know his business of him;"
+      - "You may, I may not; you are yet unsworn."
+      - "When you have vow’d, you must not speak with men"
+      - "But in the presence of the priore"
+      - "Then, if you speak, you must not show your face,"
+      - "Or, if you show your face, you must not speak."
+      - "He calls again; I pray you, answer him."
+    m:
+      - "It’s a man’s voice. Isabella, unlock the door and ask him what he wants. I can’t, but you can, since you haven’t taken your vows yet. Once you have, you’ll only be able to speak with men in the presence of the Mother Superior. Then, if you speak, you mustn’t show your face. Or if you show your face, you mustn’t speak. He’s calling again. Please answer him."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: ISABELLA
+    o:
+      - "Peace and prosperity! Who is’t that calls"
+    m:
+      - "Peace and prosperity! Who’s there?"
+
+  - os: "Enter LUCIO"
+    ms: "LUCIO enters."
+
+  - sp: LUCIO
+    o:
+      - "Hail, virgin, if you be, as those cheek-roses"
+      - "Proclaim you are no less! Can you so stead me"
+      - "As bring me to the sight of Isabella,"
+      - "A novice of this place and the fair sister"
+      - "To her unhappy brother Claudio?"
+    m:
+      - "Well, hello, virgin—if you are one, as your rosy cheeks proclaim you to be. Can you help me to find Isabella, a novice here and the pretty sister to Claudio, her unlucky brother?"
+
+  - sp: ISABELLA
+    o:
+      - "Why “her unhappy brother”? let me ask,"
+      - "The rather for I now must make you know"
+      - "I am that Isabella and his sister."
+    m:
+      - "Why “her unlucky brother”? I ask, because I’m Isabella, his sister."
+
+  - sp: LUCIO
+    o:
+      - "Gentle and fair, your brother kindly greets you:"
+      - "Not to be weary with you, he’s in prison."
+    m:
+      - "Your brother sends you his love, sweet, pretty one. To get right to the point, he’s in prison."
+
+  - sp: ISABELLA
+    o:
+      - "Woe me! for what?"
+    m:
+      - "How awful! For what?"
+
+  - sp: LUCIO
+    o:
+      - "For that which, if myself might be his judge,"
+      - "He should receive his punishment in thanks:"
+      - "He hath got his friend with child."
+    m:
+      - "For something which, if you ask me, he should be thanked rather than punished. He’s gotten his lover pregnant."
+
+  - sp: ISABELLA
+    o:
+      - "Sir, make me not your story."
+    m:
+      - "Sir, don’t make things up."
+
+  - sp: LUCIO
+    o:
+      - "It is true."
+      - "I would not—though ’tis my familiar sin"
+      - "With maids to seem the lapwing and to jest,"
+      - "Tongue far from heart—play with all virgins so:"
+      - "I hold you as a thing ensky’d and sainted."
+      - "By your renouncement an immortal spirit,"
+      - "And to be talk’d with in sincerity,"
+      - "As with a saint."
+    m:
+      - "It’s true. I admit, I often play the deceiver and joker with young virgins and say things I don’t mean. But because of your religious vocation, I see you as a heavenly, spiritual being, and someone to speak to with sincerely, as I would a saint."
+
+  - sp: ISABELLA
+    o:
+      - "You do blaspheme the good in mocking me."
+    m:
+      - "You mock real saints by calling me one."
+
+  - sp: LUCIO
+    o:
+      - "Do not believe it. Fewness and truth, ’tis thus:"
+      - "Your brother and his lover have embraced:"
+      - "As those that feed grow full, as blossoming time"
+      - "That from the seedness the bare fallow brings"
+      - "To teeming foison, even so her plenteous womb"
+      - "Expresseth his full tilth and husbandry."
+    m:
+      - "Don’t think that. In brief: your brother and his girl have slept together. And the same way your stomach gets full when you eat—and as a bare field, when you plant it, yields a rich harvest—her body shows the results of his plowing."
+
+  - sp: ISABELLA
+    o:
+      - "Some one with child by him? My cousin Juliet?"
+    m:
+      - "He’s made someone pregnant? My cousin Juliet?"
+
+  - sp: LUCIO
+    o:
+      - "Is she your cousin?"
+    m:
+      - "Is she your cousin?"
+
+  - sp: ISABELLA
+    o:
+      - "Adoptedly; as school-maids change their names"
+      - "By vain though apt affection."
+    m:
+      - "Unofficially, in the silly but sweet way schoolgirls swear to be sisters."
+
+  - sp: LUCIO
+    o:
+      - "She it is."
+    m:
+      - "She’s the one."
+
+  - sp: ISABELLA
+    o:
+      - "O, let him marry her."
+    m:
+      - "Oh, let him marry her."
+
+  - sp: LUCIO
+    o:
+      - "This is the point."
+      - "The duke is very strangely gone from hence;"
+      - "Bore many gentlemen, myself being one,"
+      - "In hand and hope of action: but we do learn"
+      - "By those that know the very nerves of state,"
+      - "His givings-out were of an infinite distance"
+      - "From his true-meant design. Upon his place,"
+      - "And with full line of his authority,"
+      - "Governs Lord Angelo; a man whose blood"
+      - "Is very snow-broth; one who never feels"
+      - "The wanton stings and motions of the sense,"
+      - "But doth rebate and blunt his natural edge"
+      - "With profits of the mind, study and fast."
+      - "He—to give fear to use and liberty,"
+      - "Which have for long run by the hideous law,"
+      - "As mice by lions—hath pick’d out an act,"
+      - "Under whose heavy sense your brother’s life"
+      - "Falls into forfeit: he arrests him on it;"
+      - "And follows close the rigour of the statute,"
+      - "To make him an example. All hope is gone,"
+      - "Unless you have the grace by your fair prayer"
+      - "To soften Angelo: and that’s my pith of business"
+      - "’Twixt you and your poor brother."
+    m:
+      - "Here’s the problem. The duke has mysteriously left town. He deluded many men—myself included—with the hope of some military action. But now we hear from government insiders that his publicly announced reasons for leaving were far from his real plans. In his place, and with his full authority, Lord Angelo rules. This is a man whose blood is like melted snow, never warmed by uncontrolled lust, but who represses and dulls his natural appetites with exercises for the mind—studying and fasting. To scare folks who are habitually promiscuous and have evaded the law like mice running past a lion, he’s found a severe act that, if taken literally, would cost your brother his life. He’s arrested him under it and plans to make an example of him by strictly applying this law. All hope is gone, unless you can soften Angelo with your pretty prayers. That’s the essence of this errand between you and your poor brother."
+
+  - sp: ISABELLA
+    o:
+      - "Doth he so seek his life?"
+    m:
+      - "Does he really intend to kill him?"
+
+  - sp: LUCIO
+    o:
+      - "Has censured him"
+      - "Already; and, as I hear, the provost hath"
+      - "A warrant for his execution."
+    m:
+      - "He’s already sentenced him to death, and I hear the provost has the warrant for his execution."
+
+  - sp: ISABELLA
+    o:
+      - "Alas! what poor ability’s in me"
+      - "To do him good?"
+    m:
+      - "Oh, dear! What can a poor girl like me do to help?"
+
+  - sp: LUCIO
+    o:
+      - "Assay the power you have."
+    m:
+      - "Test the power you have."
+
+  - sp: ISABELLA
+    o:
+      - "My power? Alas, I doubt—"
+    m:
+      - "My power? I doubt—"
+
+  - sp: LUCIO
+    o:
+      - "Our doubts are traitors"
+      - "And make us lose the good we oft might win"
+      - "By fearing to attempt. Go to Lord Angelo,"
+      - "And let him learn to know, when maidens sue,"
+      - "Men give like gods; but when they weep and kneel,"
+      - "All their petitions are as freely theirs"
+      - "As they themselves would owe them."
+    m:
+      - "Our doubts work against us and make us lose the good things we often could win by making us scared to try. Go to Lord Angelo, and show him that when girls plead, men give like gods. But when girls cry and kneel, their requests are granted even more freely, as if the girls were asking themselves for permission."
+
+  - sp: ISABELLA
+    o:
+      - "I’ll see what I can do."
+    m:
+      - "I’ll see what I can do."
+
+  - sp: LUCIO
+    o:
+      - "But speedily."
+    m:
+      - "Make it fast."
+
+  - sp: ISABELLA
+    o:
+      - "I will about it straight;"
+      - "No longer staying but to give the mother"
+      - "Notice of my affair. I humbly thank you:"
+      - "Commend me to my brother: soon at night"
+      - "I’ll send him certain word of my success."
+    m:
+      - "I’ll go straightaway, as soon as I give notice of my business to the Mother Superior. Thank you so much. Give my brother my love. I’ll let him know how I made out early this evening."
+
+  - sp: LUCIO
+    o:
+      - "I take my leave of you."
+    m:
+      - "I’ll go now."
+
+  - sp: ISABELLA
+    o:
+      - "Good sir, adieu."
+    m:
+      - "Goodbye, sir."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,226 @@
+play: As You Like It
+title: Act 3, Scene 3
+group: 3
+order: 12
+text:
+  - os: "Enter TOUCHSTONE and AUDREY, and JAQUES behind"
+    ms: "TOUCHSTONE and AUDREY enter, with JAQUES following unseen."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Come apace, good Audrey. I will fetch up your goats, Audrey. And how, Audrey? Am I the man yet? Doth my simple feature content you?"
+    m:
+      - "Come on, sweet Audrey. I’ll get your goats, Audrey. Well now, what do you think, Audrey? Am I the man for you, Audrey? Do my simple features please you?"
+
+  - sp: AUDREY
+    o:
+      - "Your features, Lord warrant us! What features?"
+    m:
+      - "Your features, God help us! What features?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths."
+    m:
+      - "Well, I’m out here with you and your goats, in the same way that the witty poet Ovid was abandoned to the barbaric Goths."
+
+  - sp: JAQUES
+    o:
+      - "*(aside)*  O knowledge ill-inhabited, worse than Jove in a thatched house."
+    m:
+      - "*(to himself)* Oh, knowledge put to such bad use is worse than a god cooped up in a hut."
+
+  - sp: TOUCHSTONE
+    o:
+      - "When a man’s verses cannot be understood nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room. Truly, I would the gods had made thee poetical."
+    m:
+      - "When a man’s jokes fall that flat, it’s as depressing as getting a large bill for a short stay in a little room. Really, Audrey, I wish you were more poetical."
+
+  - sp: AUDREY
+    o:
+      - "I do not know what “poetical” is. Is it honest in deed and word? Is it a true thing?"
+    m:
+      - "I don’t know what “poetical” means. Is it “chaste in word and action”? Does it mean being truthful?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "No, truly, for the truest poetry is the most feigning, and lovers are given to poetry, and what they swear in poetry may be said as lovers they do feign."
+    m:
+      - "Not really, for the truest poetry is often the most artificial. Lovers are fond of poetry and often concoct great lies in their poems."
+
+  - sp: AUDREY
+    o:
+      - "Do you wish then that the gods had made me poetical?"
+    m:
+      - "But you still wish the gods had made me poetical?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "I do, truly, for thou swear’st to me thou art honest. Now, if thou wert a poet, I might have some hope thou didst feign."
+    m:
+      - "I do, in fact. Right now you swear to me that you are a virgin; if you were a poet, I might have some hope you were lying."
+
+  - sp: AUDREY
+    o:
+      - "Would you not have me honest?"
+    m:
+      - "What, you don’t want me to be chaste?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "No, truly, unless thou wert hard-favored, for honesty coupled to beauty is to have honey a sauce to sugar."
+    m:
+      - "Not really, unless you were ugly. Chastity and beauty together in one woman is like sweetening sugar with honey."
+
+  - sp: JAQUES
+    o:
+      - "*(aside)* A material fool."
+    m:
+      - "*(to himself)*  A sensible fool."
+
+  - sp: AUDREY
+    o:
+      - "Well, I am not fair, and therefore I pray the gods make me honest."
+    m:
+      - "Well, I’m not beautiful, so I hope that I can at least be chaste."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Truly, and to cast away honesty upon a foul slut were to put good meat into an unclean dish."
+    m:
+      - "Yes, but wasting chastity on a dirty slut is like putting good meat in a dirty dish."
+
+  - sp: AUDREY
+    o:
+      - "I am not a slut, though I thank the gods I am foul."
+    m:
+      - "I’m not a slut—I keep myself clean—but I thank God I am ugly."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Well, praised be the gods for thy foulness; sluttishness may come hereafter. But be it as it may be, I will marry thee; and to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."
+    m:
+      - "Well, praise the Lord you’re ugly. Maybe sluttishness will follow. Be that as it may, I’m going to marry you. To that end, I’ve spoken with Sir Oliver Martext, the vicar from the next village, and he’s promised to meet us here and marry us."
+
+  - sp: JAQUES
+    o:
+      - "*(aside)*  I would fain see this meeting."
+    m:
+      - "*(to himself)*  This I’d like to see."
+
+  - sp: AUDREY
+    o:
+      - "Well, the gods give us joy."
+    m:
+      - "Well, God bless this marriage!"
+
+  - sp: TOUCHSTONE
+    o:
+      - "Amen. A man may, if he were of a fearful heart, stagger in this attempt, for here we have no temple but the wood, no assembly but horn-beasts. But what though? Courage. As horns are odious, they are necessary. It is said, “Many a man knows no end of his goods.” Right: many a man has good horns and knows no end of them."
+    m:
+      - "Amen. You know, some men, who have fear in their hearts, might falter at this point. After all, these woods aren’t a proper church, and there’s no congregation here but horned animals. But who cares? I’ll be brave. Horns may be hateful, but they’re also necessary. They say, “Many a man doesn’t know the full extent of what he owns.” Exactly: many a man will see no end to the horns his wife furnishes him with."
+
+  - o:
+      - "Well, that is the dowry of his wife; ’tis none of his own getting. Horns? Even so. Poor men alone? No, no. The noblest deer hath them as huge as the rascal. Is the single man therefore blessed? No. As a walled town is more worthier than a village, so is the forehead of a married man more honorable than the bare brow of a bachelor. And by how much defense is better than no skill, by so much is a horn more precious than to want."
+    m:
+      - "Well, that’s what the wife brings to the marriage. He didn’t do anything to get them. Horns? Well, there they are. Only for poor men? No, no. The nobleman’s are as huge as the underfed villager’s. Is the single man lucky, then? No. Just as a town protected by a wall around it is worth more than a low-lying village, a married man’s horned forehead is more honorable than a bachelor’s bare forehead. Just as it’s better to be skilled at self-defense than it is to avoid fighting, it’s better to risk a horn by marrying. Here comes Sir Oliver."
+
+  - os: "Enter SIR OLIVER MARTEXT"
+    ms: "SIR OLIVER MARTEXT enters."
+
+  - o:
+      - "Here comes Sir Oliver.—Sir Oliver Martext, you are well met. Will you dispatch us here under this tree, or shall we go with you to your chapel?"
+    m:
+      - "Sir Oliver Martext, we’re glad to see you. Will you marry us here, under this tree, or should we follow you to your chapel?"
+
+  - sp: SIR OLIVER MARTEXT
+    o:
+      - "Is there none here to give the woman?"
+    m:
+      - "Is there anyone to give the bride away?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "I will not take her on gift of any man."
+    m:
+      - "I don’t want to take another man’s second-hand goods."
+
+  - sp: SIR OLIVER MARTEXT
+    o:
+      - "Truly, she must be given, or the marriage is not lawful."
+    m:
+      - "No, someone has to give her away or the marriage isn’t legal."
+
+  - sp: JAQUES
+    o:
+      - "*(advancing)* Proceed, proceed. I’ll give her."
+    m:
+      - "*(coming forward)*  Go on, proceed—I’ll give her away."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Good even, good Monsieur What-ye-call’t. How do you, sir? You are very well met. God ’ild you for your last company. I am very glad to see you. Even a toy in hand here, sir. Nay, pray be covered."
+    m:
+      - "Good evening, Mr. What’shisname. How are you, sir? We’re glad to see you. God bless you for being here. I’m very glad to see you. This is just a trifling matter here, sir. No, no, put your hat back on."
+
+  - sp: JAQUES
+    o:
+      - "Will you be married, motley?"
+    m:
+      - "Do you want to get married, fool?"
+
+  - sp: TOUCHSTONE
+    o:
+      - "As the ox hath his bow, sir, the horse his curb, and the falcon her bells, so man hath his desires; and as pigeons bill, so wedlock would be nibbling."
+    m:
+      - "Just as the ox has his yoke, the horse its bridle, the falcon a tether, a man has his desires—to keep in check."
+
+  - sp: JAQUES
+    o:
+      - "And will you, being a man of your breeding, be married under a bush like a beggar? Get you to church, and have a good priest that can tell you what marriage is. This fellow will but join you together as they join wainscot. Then one of you will prove a shrunk panel and, like green timber, warp, warp."
+    m:
+      - "And, being a man of your breeding, you’re going to be married under some shrubs like a beggar? Get yourself to a church and have a proper priest, who can tell you what marriage is all about, marry you. This man here will slap you two together like two pieces of wood panelling. Then one of you will warp and pull away—and there goes your marriage."
+
+  - sp: TOUCHSTONE
+    o:
+      - "*(aside)*  I am not in the mind but I were better to be married of him than of another, for he is not like to marry me well, and not being well married, it will be a good excuse for me hereafter to leave my wife."
+    m:
+      - "*(to himself)*  I’d rather have this guy marry us, because he is not likely to marry us well, and if we’re not married properly, I’ll have a better excuse later to leave my wife."
+
+  - sp: JAQUES
+    o:
+      - "Go thou with me, and let me counsel thee."
+    m:
+      - "Come with me and let me advise you."
+
+  - sp: TOUCHSTONE
+    o:
+      - "Come, sweet Audrey. We must be married, or we must live in bawdry.—Farewell, good Master Oliver, not"
+      - "*O sweet Oliver,*"
+      - "*O brave Oliver,*"
+      - "*Leave me not behind thee*"
+      - "*But*"
+      - "*Wind away,*"
+      - "*Begone, I say,*"
+      - "*I will not to wedding with thee.*"
+    m:
+      - "Come, sweet Audrey. We have to be married properly. Otherwise, we’ll be living in sin.—Goodbye, Sir Oliver. We’re not singing,"
+      - "*Oh,* sweet Oliver"
+      - "*Oh, sweet Oliver*"
+      - "*Don’t leave me behind—*"
+      - "*but,*"
+      - "*Go away, wind*"
+      - "*Go, I say,*"
+      - "*I’m not going to marry you.*"
+
+  - os: "Exeunt JAQUES, TOUCHSTONE, and AUDREY"
+    ms: "JAQUES, TOUCHSTONE, and AUDREY exit."
+
+  - sp: SIR OLIVER MARTEXT
+    o:
+      - "’Tis no matter. Ne’er a fantastical knave of them all shall flout me out of my calling."
+    m:
+      - "It doesn’t matter to me. None of these deranged rascals can shake me from my profession."
+
+  - os: "Exit"
+    ms: "He exits."

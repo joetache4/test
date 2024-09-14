@@ -1,0 +1,483 @@
+play: The Comedy of Errors
+title: Act 3, Scene 2
+group: 3
+order: 5
+text:
+  - os: "Enter LUCIANA and ANTIPHOLUS OF SYRACUSE"
+    ms: "LUCIANA and ANTIPHOLUS OF SYRACUSE enter."
+
+  - sp: LUCIANA
+    o:
+      - "And may it be that you have quite forgot"
+      - "A husband’s office? Shall, Antipholus,"
+      - "Even in the spring of love thy love-springs rot?"
+      - "Shall love, in building, grow so ruinous?"
+      - "If you did wed my sister for her wealth,"
+      - "Then for her wealth’s sake use her with more kindness."
+      - "Or if you like elsewhere, do it by stealth—"
+      - "Muffle your false love with some show of blindness."
+      - "Let not my sister read it in your eye;"
+      - "Be not thy tongue thy own shame’s orator;"
+      - "Look sweet, be fair, become disloyalty;"
+      - "Apparel vice like virtue’s harbinger."
+      - "Bear a fair presence, though your heart be tainted."
+      - "Teach sin the carriage of a holy saint."
+      - "Be secret-false. What need she be acquainted?"
+      - "What simple thief brags of his own attaint?"
+      - "’Tis double wrong to truant with your bed"
+      - "And let her read it in thy looks at board."
+      - "Shame hath a bastard fame, well managèd;"
+      - "Ill deeds is doubled with an evil word."
+      - "Alas, poor women, make us but believe,"
+      - "Being compact of credit, that you love us."
+      - "Though others have the arm, show us the sleeve;"
+      - "We in your motion turn, and you may move us."
+      - "Then, gentle brother, get you in again."
+      - "Comfort my sister, cheer her, call her wife."
+      - "’Tis holy sport to be a little vain"
+      - "When the sweet breath of flattery conquers strife."
+    m:
+      - "Have you completely forgotten your duty as a husband? Antipholus, your marriage is still fresh and new, like the springtime—have the young shoots of your love already started to wither? Is the building of your love already in ruins? If you married my sister for her wealth, then for her wealth’s sake, treat her with more kindness. Or if your affection has already strayed to another woman, at least be stealthy about it. Hide your false love, blindfold yourself so my sister cannot read your faithlessness in your eyes. Watch what you say, and don’t let your own words give away your shame. Look sweet and act kindly—be attractive in your disloyalty. Disguise your misbehavior as integrity, and behave properly even if your heart is tainted. Though you are sinful, carry yourself like a holy saint. Be false in secret: why does she need to know? What foolish thief brags about his crimes? It’s doubly wrong to cheat on your wife and then let her see the offense in your eyes. When you do something shameful, it’s possible to put a good spin on it, but bad deeds are made worse by speaking of them. Alas, poor women! We’re so gullible, we believe it when you say you love us. Even if you love someone else in your heart, make it appear as if you love us. We follow in your orbit, and you have the power to move us. So, my sweet brother-in-law, go inside. Comfort my sister, cheer her up, call her “wife.” It’s a holy thing to lie a little when sweet flattery can smooth over trouble."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Sweet mistress—what your name is else I know not,"
+      - "Nor by what wonder you do hit of mine,—"
+      - "Less in your knowledge and your grace you show not"
+      - "Than our earth’s wonder, more than earth divine."
+      - "Teach me, dear creature, how to think and speak."
+      - "Lay open to my earthy gross conceit,"
+      - "Smothered in errors, feeble, shallow, weak,"
+      - "The folded meaning of your words’ deceit."
+      - "Against my soul’s pure truth why labour you"
+      - "To make it wander in an unknown field?"
+      - "Are you a god? would you create me new?"
+      - "Transform me, then, and to your power I’ll yield."
+      - "But if that I am I, then well I know"
+      - "Your weeping sister is no wife of mine,"
+      - "Nor to her bed no homage do I owe."
+      - "Far more, far more, to you do I decline."
+      - "O, train me not, sweet mermaid, with thy note"
+      - "To drown me in thy sister’s flood of tears."
+      - "Sing, Siren, for thyself, and I will dote."
+      - "Spread o’er the silver waves thy golden hairs,"
+      - "And as a bed I’ll take them and there lie,"
+      - "And in that glorious supposition think"
+      - "He gains by death that hath such means to die."
+      - "Let Love, being light, be drownèd if she sink."
+    m:
+      - "Sweet mistress—I don’t know what other name to give you, or how you’ve figured out mine—you seem as wise and graceful as the earth is wonderful and divine. Teach me how I should think and speak. My understanding is clumsy and human, riddled with errors—it is feeble, shallow, and weak. Reveal to me the hidden meaning of your words. Why would you have me betray the truth of my emotions and make my love wander in some other direction? Are you a god? Are you trying to remake me? Go ahead, I’ll yield to your power. But if I am myself, then I know for sure that your weeping sister is not my wife. I don’t owe her any duty—it’s you that I submit to. Oh, sweet mermaid, don’t command me to drown myself in the flood of your sister’s tears. Siren, use your song to make me love you instead, and I will obey. Spread your golden hair over the silver waves, and I will lie down in it like a bed. If a man could die in that glorious fantasy, then I think he would benefit by dying. Love is light and therefore floats—if my love is false, let me sink!"
+
+  - sp: LUCIANA
+    o:
+      - "What, are you mad that you do reason so?"
+    m:
+      - "Are you insane, talking like this?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Not mad, but mated—how, I do not know."
+    m:
+      - "Not insane, but amazed. I don’t know how."
+
+  - sp: LUCIANA
+    o:
+      - "It is a fault that springeth from your eye."
+    m:
+      - "Your eyes are playing tricks on you."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "For gazing on your beams, fair sun, being by."
+    m:
+      - "That’s because you are near me, and you’re as dazzling as the sun."
+
+  - sp: LUCIANA
+    o:
+      - "Gaze where you should, and that will clear your sight."
+    m:
+      - "Train your eye on what you should be looking at, and you’ll see straight again."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "As good to wink, sweet love, as look on night."
+    m:
+      - "Sweet love, I’d rather close my eyes than look at darkness."
+
+  - sp: LUCIANA
+    o:
+      - "Why call you me “love”? Call my sister so."
+    m:
+      - "Why are you calling me “love”? Call my sister that."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Thy sister’s sister."
+    m:
+      - "Your sister’s sister."
+
+  - sp: LUCIANA
+    o:
+      - "    That’s my sister."
+    m:
+      - "That’s my sister."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "    No,"
+      - "It is thyself, mine own self’s better part,"
+      - "Mine eye’s clear eye, my dear heart’s dearer heart,"
+      - "My food, my fortune, and my sweet hope’s aim,"
+      - "My sole earth’s heaven, and my heaven’s claim."
+    m:
+      - "No, it’s you: my better half. My eye’s clear vision, my heart’s most precious desire. My food, my fortune, my sweetest hope, my heaven on earth, and my entrance to heaven."
+
+  - sp: LUCIANA
+    o:
+      - "All this my sister is, or else should be."
+    m:
+      - "My sister is all those things, or else she should be."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Call thyself “sister,” sweet, for I am thee."
+      - "Thee will I love and with thee lead my life;"
+      - "Thou hast no husband yet, nor I no wife."
+      - "Give me thy hand."
+    m:
+      - "Call yourself your own sister, because I want you. I will love you, and with you I’ll spend my life. You have no husband yet, and I have no wife. Give me your hand."
+
+  - sp: LUCIANA
+    o:
+      - "  O soft, sir! Hold you still."
+      - "I’ll fetch my sister to get her goodwill."
+    m:
+      - "Oh, wait, sir. Stay here. I’ll go get my sister and see what she thinks."
+
+  - os: "Exit LUCIANA"
+    ms: "LUCIANA exits."
+
+  - os: "Enter DROMIO OF SYRACUSE"
+    ms: "DROMIO OF SYRACUSE enters."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Why, how now, Dromio. Where runn’st thou so fast?"
+    m:
+      - "What’s going on, Dromio? Where are you running so fast?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Do you know me, sir? Am I Dromio? Am I your man? Am"
+      - "I myself?"
+    m:
+      - "Do you know me? Am I Dromio? Am I your servant? Am I myself?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Thou art Dromio, thou art my man, thou art thyself."
+    m:
+      - "You are Dromio, you are my servant, and you are yourself."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "I am an ass, I am a woman’s man, and besides myself."
+    m:
+      - "I’m an ass, I’m a woman’s servant, and I’m beside myself."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What woman’s man? And how besides thyself?"
+    m:
+      - "What woman’s servant? What do you mean, beside yourself?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Marry, sir, besides myself I am due to a woman, one that claims me, one that haunts me, one that will have me."
+    m:
+      - "I’ll tell you. Besides belonging to myself, I belong to a woman. A woman who says she owns me, who won’t leave me alone, and who wants me."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What claim lays she to thee?"
+    m:
+      - "How does she claim to own you?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Marry, sir, such claim as you would lay to your horse; and she would have me as a beast; not that I being a beast she would have me, but that she, being a very beastly creature, lays claim to me."
+    m:
+      - "The same way a person would claim to own his horse. And she wants me as a beast. I don’t mean that she wants me because *I’m* a beast, but that she, who is a beast, says I belong to her."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What is she?"
+    m:
+      - "What’s she like?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "A very reverent body, ay, such a one as a man may not speak of without he say “sir-reverence.” I have but lean luck in the match, and yet is she a wondrous fat marriage."
+    m:
+      - "She has a very significant body. You couldn’t even talk about it without saying, “I beg your pardon.” My luck would be running thin if I ended up with her, although she’d make it a fat marriage."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "How dost thou mean a “fat marriage”?"
+    m:
+      - "What do you mean, a fat marriage?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Marry, sir, she’s the kitchen wench, and all grease, and I know not what use to put her to but to make a lamp of her and run from her by her own light. I warrant her rags and the tallow in them will burn a Poland winter. If she lives till doomsday, she’ll burn a week longer than the whole world."
+    m:
+      - "Sir, she works in the kitchen, so she’s oily. The only thing I could do with her is to use all that oil as fuel in a lamp and then use that light to run away by. Her clothes are so oily, they’d burn through the longest winter. Even if she lives till the end of the world, she’d keep burning an additional week."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What complexion is she of?"
+    m:
+      - "What’s her skin like?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Swart like my shoe, but her face nothing like so clean kept. For why? She sweats. A man may go overshoes in the grime of it."
+    m:
+      - "It’s dark, like my shoe. But it’s not as clean. You’d be up to your ankles in how filthy it is."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "That’s a fault that water will mend."
+    m:
+      - "Some water will fix that."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "No, sir, ’tis in grain; Noah’s flood could not do it."
+    m:
+      - "No, it’s permanent. Noah’s flood wouldn’t be enough water to clean it."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What’s her name?"
+    m:
+      - "What’s her name?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Nell, sir, but her name and three quarters—that’s an ell and three quarters—will not measure her from hip to hip."
+    m:
+      - "Nell. But an ell and three-quarters wouldn’t be long enough to measure her waist."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Then she bears some breadth?"
+    m:
+      - "So she’s wide?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "No longer from head to foot than from hip to hip. She is spherical, like a globe. I could find out countries in her."
+    m:
+      - "Her hips are as wide as she is tall. She’s round, like a globe. I could use her like a map to find out where countries are."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "In what part of her body stands Ireland?"
+    m:
+      - "What part of her body is Ireland?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Marry, sir, in her buttocks. I found it out by the bogs."
+    m:
+      - "Her bottom. It’s near the bogs."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Where Scotland?"
+    m:
+      - "Where’s Scotland?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "I found it by the barrenness; hard in the palm of the hand."
+    m:
+      - "In the palm of her hand, which is covered in calluses."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Where France?"
+    m:
+      - "Where’s France?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "In her forehead, armed and reverted, making war against her heir."
+    m:
+      - "In her forehead, which is enormous because of her receding hairline."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Where England?"
+    m:
+      - "Where’s England?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "I looked for the chalky cliffs, but I could find no whiteness in them. But I guess it stood in her chin, by the salt rheum that ran between France and it."
+    m:
+      - "I thought her teeth might be like the white cliffs, but they’re dark and stained. So I guess it’s her chin, which is separated from her forehead by all the sweat on her face."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Where Spain?"
+    m:
+      - "Where’s Spain?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Faith, I saw it not, but I felt it hot in her breath."
+    m:
+      - "Honestly, I didn’t see it, but I felt it in her hot breath."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Where America, the Indies?"
+    m:
+      - "Where’s America and the West Indies?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "O, sir, upon her nose, all o’er-embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadas of caracks to be ballast at her nose."
+    m:
+      - "Oh, sir, on her nose, which is covered with pimples, sores, and red welts. It points straight down at her mouth, which catches everything that drips from it. exotic jewels"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Where stood Belgia, the Netherlands?"
+    m:
+      - "Where’s Belgium and the Netherlands ?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "O, sir, I did not look so low. To conclude: this drudge or diviner laid claim to me, call’d me Dromio, swore I was assured to her, told me what privy marks I had about me, as the mark of my shoulder, the mole in my neck, the great wart on my left arm, that I, amazed, ran from her as a witch. And, I think, if my breast had not been made of faith, and my heart of steel, She had transformed me to a curtal dog and made me turn i’ th’ wheel."
+    m:
+      - "Oh, sir, I didn’t look down there. In conclusion, this witch said I was hers. She called me Dromio and swore I’d promised to marry her. She knew private things about my body, like the birthmark on my shoulder, the mole on my neck, and the huge wart on my left arm. I was terrified, and I ran away from her as if she were a witch. And I think that if I hadn’t been brave and strong, she would have turned me into a dog and made me her slave."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Go, hie thee presently. Post to the road."
+      - "An if the wind blow any way from shore,"
+      - "I will not harbor in this town tonight."
+      - "If any bark put forth, come to the mart,"
+      - "Where I will walk till thou return to me."
+      - "If every one knows us, and we know none,"
+      - "’Tis time, I think, to trudge, pack, and be gone."
+    m:
+      - "Get going—hustle over to the port. If there’s enough wind for a ship to sail out tonight, I won’t spend tonight in this town. If a ship’s leaving, come to the marketplace. I’ll wait there for you. If everyone here knows us but we don’t know anybody, it’s time, I think, for us to pack our bags and take off."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "As from a bear a man would run for life,"
+      - "So fly I from her that would be my wife."
+    m:
+      - "I’ll run from this woman who claims to be my wife as fast as I’d run from a bear."
+
+  - os: "Exit DROMIO OF SYRACUSE"
+    ms: "DROMIO OF SYRACUSE exits."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "There’s none but witches do inhabit here,"
+      - "And therefore ’tis high time that I were hence."
+      - "She that doth call me husband, even my soul"
+      - "Doth for a wife abhor. But her fair sister,"
+      - "Possessed with such a gentle sovereign grace,"
+      - "Of such enchanting presence and discourse,"
+      - "Hath almost made me traitor to myself."
+      - "But lest myself be guilty to self wrong,"
+      - "I’ll stop mine ears against the mermaid’s song."
+    m:
+      - "Everyone who lives here is a witch. That means it’s high time for me to go. That woman who claims I am her husband—I loathe her in my soul. But her gorgeous sister, who’s so lovely and gracious, who’s so charming and who speaks so well, almost makes me want to stay here against my better judgment. I’d better stop up my ears against this siren’s song."
+
+  - os: "Enter ANGELO with the chain"
+    ms: "ANGELO enters, with the necklace."
+
+  - sp: ANGELO
+    o:
+      - "Master Antipholus."
+    m:
+      - "Master Antipholus—"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "  Ay, that’s my name."
+    m:
+      - "Yes, that’s my name."
+
+  - sp: ANGELO
+    o:
+      - "I know it well, sir. Lo, here’s the chain."
+      - "I thought to have ta’en you at the Porpentine;"
+      - "The chain unfinished made me stay thus long."
+    m:
+      - "I know that, sir. Look, here’s the necklace. I was on my way to take it to you at the Porcupine, but it took a little longer to finish than I thought it would."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What is your will that I shall do with this?"
+    m:
+      - "What do you want me to do with this?"
+
+  - sp: ANGELO
+    o:
+      - "What please yourself, sir. I have made it for you."
+    m:
+      - "Whatever you want—I made it for you."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Made it for me, sir? I bespoke it not."
+    m:
+      - "Made it for me? I didn’t order it."
+
+  - sp: ANGELO
+    o:
+      - "Not once, nor twice, but twenty times you have."
+      - "Go home with it and please your wife withal,"
+      - "And soon at supper time I’ll visit you"
+      - "And then receive my money for the chain."
+    m:
+      - "You did—not just once or twice, but twenty times. Take it home and make your wife happy. I’ll come over at suppertime and you can pay me for it then."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I pray you, sir, receive the money now,"
+      - "For fear you ne’er see chain nor money more."
+    m:
+      - "You should take the money now. If you don’t, you might never see the money or the necklace ever again."
+
+  - sp: ANGELO
+    o:
+      - "You are a merry man, sir. Fare you well."
+    m:
+      - "You’re a funny man, sir. Take care."
+
+  - os: "Exit ANGELO"
+    ms: "ANGELO exits."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "What I should think of this I cannot tell,"
+      - "But this I think: there’s no man is so vain"
+      - "That would refuse so fair an offered chain."
+      - "I see a man here needs not live by shifts"
+      - "When in the streets he meets such golden gifts."
+      - "I’ll to the mart, and there for Dromio stay."
+      - "If any ship put out, then straight away."
+    m:
+      - "I don’t know what to think about this. But what I do think is that nobody in his right mind would refuse to accept such a beautiful necklace when somebody offers it. I guess there’s no need to be a thief in Ephesus. People come up to you in the street and hand you gold. I’ll go wait for Dromio at the marketplace. If any ships are sailing, I’ll get right on one."
+
+  - os: "Exit"
+    ms: "He exits."

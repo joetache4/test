@@ -1,0 +1,297 @@
+play: Richard III
+title: Act 3, Scene 4
+group: 3
+order: 11
+text:
+  - os: "Enter BUCKINGHAM, STANLEY, HASTINGS, the bishop of ELY, RATCLIFFE, LOVELL, with others, at a table"
+    ms: "BUCKINGHAM, STANLEY, HASTINGS, the bishop of ELY, RATCLIFFE, and LOVELL, enter with others and take their seats at a table."
+
+  - sp: HASTINGS
+    o:
+      - "Now, noble peers. the cause why we are met"
+      - "Is to determine of the coronation."
+      - "In God’s name, speak. When is the royal day?"
+    m:
+      - "Now, noble lords, the reason we’re meeting is to determine the day the prince will be crowned. In God’s name, speak. When should the royal day be?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Is all things ready for the royal time?"
+    m:
+      - "Is everything ready for that event?"
+
+  - sp: STANLEY
+    o:
+      - "It is, and wants but nomination."
+    m:
+      - "It is. All we have to do is name the day."
+
+  - sp: ELY
+    o:
+      - "Tomorrow, then, I judge a happy day."
+    m:
+      - "Tomorrow’s a good day."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Who knows the Lord Protector’s mind herein?"
+      - "Who is most inward with the noble duke?"
+    m:
+      - "Who knows what the Lord Protector thinks? Who’s closest to him?"
+
+  - sp: ELY
+    o:
+      - "Your Grace, we think, should soonest know his mind."
+    m:
+      - "You, I think, would best know what he’s thinking."
+
+  - sp: BUCKINGHAM
+    o:
+      - "We know each other’s faces; for our hearts,"
+      - "He knows no more of mine than I of yours,"
+      - "Or I of his, my lord, than you of mine.—"
+      - "Lord Hastings, you and he are near in love."
+    m:
+      - "We know each other’s faces, but as for our thoughts, he doesn’t know any more about my thinking than I do about yours or his—or you do about mine. Lord Hastings, you and he are close."
+
+  - sp: HASTINGS
+    o:
+      - "I thank his Grace. I know he loves me well."
+      - "But for his purpose in the coronation,"
+      - "I have not sounded him, nor he delivered"
+      - "His gracious pleasure any way therein."
+      - "But you, my honorable lords, may name the time,"
+      - "And in the duke’s behalf I’ll give my voice,"
+      - "Which I presume he’ll take in gentle part."
+    m:
+      - "Thank you. I know he holds me dear, but I haven’t asked him about the coronation, and he hasn’t told me. But you, my noble lords, may name a time, and I’ll second it on the duke’s behalf, which I don’t think he’ll mind."
+
+  - os: "Enter RICHARD"
+    ms: "RICHARD, enters."
+
+  - sp: ELY
+    o:
+      - "In happy time here comes the duke himself."
+    m:
+      - "Right on cue, here’s the duke himself."
+
+  - sp: RICHARD
+    o:
+      - "My noble lords and cousins all, good morrow."
+      - "I have been long a sleeper; but I trust"
+      - "My absence doth neglect no great design"
+      - "Which by my presence might have been concluded."
+    m:
+      - "My noble lords and relatives, good morning. I slept in. But I hope I didn’t delay any important decisions."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Had you not come upon your cue, my lord,"
+      - "William Lord Hastings had pronounced your part—"
+      - "I mean your voice for crowning of the king."
+    m:
+      - "If you hadn’t shown up on cue, my lord, Lord Hastings was going to take your part—I mean, he was going to speak for you—in the crowning of the king."
+
+  - sp: RICHARD
+    o:
+      - "Than my Lord Hastings no man might be bolder."
+      - "His Lordship knows me well, and loves me well.—"
+      - "My lord of Ely, when I was last in Holborn"
+      - "I saw good strawberries in your garden there;"
+      - "I do beseech you, send for some of them."
+    m:
+      - "No one may be bolder than my Lord Hastings. He knows me well and loves me well.—Ely, when I was last at your palace, I saw some great strawberries in your garden. I beg you, send someone to bring some of them."
+
+  - sp: ELY
+    o:
+      - "Marry and will, my lord, with all my heart."
+    m:
+      - "Yes, my lord. With pleasure."
+
+  - os: "Exit"
+    ms: "He Exits."
+
+  - sp: RICHARD
+    o:
+      - "Cousin of Buckingham, a word with you."
+      - "*They move aside*"
+      - "Catesby hath sounded Hastings in our business"
+      - "And finds the testy gentleman so hot"
+      - "As he will lose his head ere give consent"
+      - "His master’s child, as worshipfully he terms it,"
+      - "Shall lose the royalty of England’s throne."
+    m:
+      - "Buckingham, I need to have a word with you. *(drawing him aside)* Catesby has sounded Hastings out and found the prickly gentleman so opposed to our plan that he actually said he would die before he’d agree to have his “master’s son,” as he put it so devotedly, lose the crown."
+
+  - sp: BUCKINGHAM
+    o:
+      - "Withdraw yourself awhile. I’ll go with you."
+    m:
+      - "Move to the other room, my lord. I’ll come soon."
+
+  - os: "Exeunt RICHARD and BUCKINGHAM"
+    ms: "RICHARD exits, with BUCKINGHAM following him."
+
+  - sp: STANLEY
+    o:
+      - "We have not yet set down this day of triumph."
+      - "Tomorrow, in my judgement, is too sudden,"
+      - "For I myself am not so well provided"
+      - "As else I would be, were the day prolonged."
+    m:
+      - "We have not yet set the coronation day. Tomorrow, in my opinion, is too soon. I myself am not as well-equipped as I would be if the day were put off a bit."
+
+  - os: "Enter Bishop of ELY,"
+    ms: "ELY returns."
+
+  - sp: ELY
+    o:
+      - "Where is my lord the duke of Gloucester?"
+      - "I have sent for these strawberries."
+    m:
+      - "Where is my lord, the duke of Gloucester? I have sent for the strawberries."
+
+  - sp: HASTINGS
+    o:
+      - "His grace looks cheerfully and smooth this morning."
+      - "There’s some conceit or other likes him well"
+      - "When that he bids good morrow with such spirit."
+      - "I think there’s never a man in Christendom"
+      - "Can lesser hide his love or hate than he,"
+      - "For by his face straight shall you know his heart."
+    m:
+      - "Richard is looking cheerful today. You always know he’s got some plan that pleases him when he says good morning with such gusto. I don’t think there’s a man under the sun who’s worse at hiding his love or hate than Richard. You know his feelings immediately just by looking at his face."
+
+  - sp: STANLEY
+    o:
+      - "What of his heart perceive you in his face"
+      - "By any livelihood he showed today?"
+    m:
+      - "And what feelings did you see in his face today?"
+
+  - sp: HASTINGS
+    o:
+      - "Marry, that with no man here he is offended,"
+      - "For were he, he had shown it in his looks."
+    m:
+      - "That he’s not angry with anyone here. If he were, he would have shown it."
+
+  - sp: STANLEY
+    o:
+      - "I pray God he be not, I say."
+    m:
+      - "I pray to God he isn’t."
+
+  - os: "Enter RICHARD and BUCKINGHAM"
+    ms: "RICHARD and BUCKINGHAM return."
+
+  - sp: RICHARD
+    o:
+      - "I pray you all, tell me what they deserve"
+      - "That do conspire my death with devilish plots"
+      - "Of damnèd witchcraft, and that have prevailed"
+      - "Upon my body with their hellish charms?"
+    m:
+      - "Tell me, all of you, what punishment does a person deserve who conspires to kill me with witchcraft and who has already plagued my body with black magic?"
+
+  - sp: HASTINGS
+    o:
+      - "The tender love I bear your Grace, my lord,"
+      - "Makes me most forward in this princely presence"
+      - "To doom th’ offenders, whosoe’er they be."
+      - "I say, my lord, they have deservèd death."
+    m:
+      - "Because I love your Grace, I say that whoever the offenders are deserve to die."
+
+  - sp: RICHARD
+    o:
+      - "Then be your eyes the witness of their evil."
+      - "*(shows his arm)*"
+      - "Look how I am bewitched! Behold mine arm"
+      - "Is like a blasted sapling withered up;"
+      - "And this is Edward’s wife, that monstrous witch,"
+      - "Consorted with that harlot, strumpet Shore,"
+      - "That by their witchcraft thus have markèd me."
+    m:
+      - "Then see the evidence of their evil with your own eyes. *(he shows his arm)* Look how I’ve been bewitched! See how my arm has become like a withered tree-branch? This is the work of Edward’s wife, that monstrous witch, who is in league with that tramp Shore. They have used witchcraft to harm me."
+
+  - sp: HASTINGS
+    o:
+      - "If they have done this deed, my noble lord—"
+    m:
+      - "If they have done this thing, my noble lord—"
+
+  - sp: RICHARD
+    o:
+      - "If? Thou protector of this damnèd strumpet,"
+      - "Talk’st thou to me of “ifs”? Thou art a traitor—"
+      - "Off with his head. Now by Saint Paul I swear"
+      - "I will not dine until I see the same.—"
+      - "Lovell and Ratcliffe, look that it be done.—"
+      - "The rest that love me, rise and follow me."
+    m:
+      - "If? You lover of that damned whore, you’re talking to me of “ifs”? You’re a traitor.—Off with his head. By Saint Paul, I swear I won’t eat lunch until I see him beheaded. Lovell and Ratcliffe, make sure it gets done. The rest of you who love me, come with me."
+
+  - os: "Exeunt all but HASTINGS, RATCLIFFE, and LOVELL,"
+    ms: "Everyone but HASTINGS, RATCLIFFE, and LOVELL exits."
+
+  - sp: HASTINGS
+    o:
+      - "Woe, woe for England! Not a whit for me,"
+      - "For I, too fond, might have prevented this."
+      - "Stanley did dream the boar did raze his helm,"
+      - "And I did scorn it and disdain to fly."
+      - "Three times today my foot-cloth horse did stumble,"
+      - "And started when he looked upon the Tower,"
+      - "As loath to bear me to the slaughterhouse."
+      - "O, now I need the priest that spake to me!"
+    m:
+      - "I pity England, but not myself. I was too foolish. I might have prevented this. Stanley dreamed the boar beheaded him, and I laughed and refused to flee with him. Three times today my horse stumbled and started when he looked in the direction of the Tower, as if he hated to carry me to this slaughterhouse. Oh, now I really need that priest who spoke to me today!"
+
+  - sp: HASTINGS
+    o:
+      - "I now repent I told the pursuivant,"
+      - "As too triumphing, how mine enemies"
+      - "Today at Pomfret bloodily were butchered,"
+      - "And I myself secure in grace and favor."
+      - "O Margaret, Margaret, now thy heavy curse"
+      - "Is lighted on poor Hastings’ wretched head."
+    m:
+      - "And I regret having bragged to the messenger about how my enemies were being butchered at Pomfret while I, as I said, was in good standing with Richard. Oh Margaret, Margaret, your heavy curse has now landed on poor Hastings’ miserable head!"
+
+  - sp: RATCLIFFE
+    o:
+      - "Come, come, dispatch. The duke would be at dinner."
+      - "Make a short shrift. He longs to see your head."
+    m:
+      - "Hurry up—the duke wants to eat his dinner. Make your confession short. He’s eager to see your head."
+
+  - sp: HASTINGS
+    o:
+      - "O momentary grace of mortal men,"
+      - "Which we more hunt for than the grace of God!"
+      - "Who builds his hopes in air of your good looks"
+      - "Lives like a drunken sailor on a mast,"
+      - "Ready with every nod to tumble down"
+      - "Into the fatal bowels of the deep."
+    m:
+      - "We spend more time seeking out the fleeting glories of this temporary world than looking to the permanent grace of God! Anyone who builds his hopes on air lives like a drunken sailor hanging on a mast, ready with every dizzy nod of his head to tumble to the bottom of the sea. The things we worry about, like good looks and possessions, aren’t lasting, and they don’t matter."
+
+  - sp: LOVELL
+    o:
+      - "Come, come, dispatch. ’Tis bootless to exclaim."
+    m:
+      - "Come, come, hurry up. It’s pointless to talk now."
+
+  - sp: HASTINGS
+    o:
+      - "O bloody Richard! Miserable England,"
+      - "I prophesy the fearfull’st time to thee"
+      - "That ever wretched age hath looked upon.—"
+      - "Come, lead me to the block. Bear him my head."
+      - "They smile at me that shortly shall be dead."
+    m:
+      - "Oh bloody Richard! Miserable England, I foresee for you the most frightening time you have ever experienced.—Come, lead me to the block. Bring him my head. Those who smile at it will soon be dead themselves."
+
+  - os: "Exeunt"
+    ms: "They all exit."

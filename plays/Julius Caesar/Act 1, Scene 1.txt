@@ -1,0 +1,172 @@
+play: Julius Caesar
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter FLAVIUS, MURELLUS, a CARPENTER, a COBBLER, and certain other COMMONERS over the stage"
+    ms: "FLAVIUS and MURELLUS enter and speak to a CARPENTER, a COBBLER, and some other commoners."
+
+  - sp: FLAVIUS
+    o:
+      - "Hence! Home, you idle creatures get you home!"
+      - "Is this a holiday? What, know you not,"
+      - "Being mechanical, you ought not walk"
+      - "Upon a laboring day without the sign"
+      - "Of your profession?—Speak, what trade art thou?"
+    m:
+      - "Get out of here! Go home, you lazy men. What, is today a holiday? Don’t you know that working men aren’t supposed to walk around on a workday without wearing their work clothes? You there, speak up. What’s your occupation?"
+
+  - sp: CARPENTER
+    o:
+      - "Why, sir, a carpenter."
+    m:
+      - "I’m a carpenter, sir."
+
+  - sp: MURELLUS
+    o:
+      - "Where is thy leather apron and thy rule?"
+      - "What dost thou with thy best apparel on?"
+      - "—You, sir, what trade are you?"
+    m:
+      - "Where are your leather apron and your ruler? What are you doing, wearing your best clothes? And you, sir, what’s *your* trade?"
+
+  - sp: COBBLER
+    o:
+      - "Truly, sir, in respect of a fine workman, I am but, as you would say, a cobbler."
+    m:
+      - "Well, compared to a fine workman, you might call me a mere cobbler."
+
+  - sp: MURELLUS
+    o:
+      - "But what trade art thou? Answer me directly."
+    m:
+      - "But what’s your trade? Answer me straightforwardly."
+
+  - sp: COBBLER
+    o:
+      - "A trade, sir, that I hope I may use with a safe conscience, which is, indeed, sir, a mender of bad soles."
+    m:
+      - "It is a trade, sir, that I practice with a clear conscience. I am a mender of worn soles."
+
+  - sp: MURELLUS
+    o:
+      - "What trade, thou knave? Thou naughty knave, what trade?"
+    m:
+      - "What trade, boy? You insolent rascal, what trade?"
+
+  - sp: COBBLER
+    o:
+      - "Nay, I beseech you, sir, be not out with me. Yet, if you be out, sir, I can mend you."
+    m:
+      - "Sir, please, don’t be angry. But if your soles are worn out, I can mend you."
+
+  - sp: MURELLUS
+    o:
+      - "What mean’st thou by that? “Mend” me, thou saucy fellow?"
+    m:
+      - "What do you mean by that? “Mend” me, you impertinent fellow?!"
+
+  - sp: COBBLER
+    o:
+      - "Why, sir, cobble you."
+    m:
+      - "Cobble you, sir."
+
+  - sp: FLAVIUS
+    o:
+      - "Thou art a cobbler, art thou?"
+    m:
+      - "You’re a cobbler, are you?"
+
+  - sp: COBBLER
+    o:
+      - "Truly, sir, all that I live by is with the awl. I meddle with no tradesman’s matters nor women’s matters, but withal I am indeed, sir, a surgeon to old shoes. When they are in great danger, I recover them. As proper men as ever trod upon neat’s leather have gone upon my handiwork."
+    m:
+      - "Sir, I make my living using an awl. I stick to my work; I don’t meddle in politics or chase women. I’m a surgeon to old shoes. When they’re endangered, I save them. The noblest men who ever walked on leather have walked on my handiwork."
+
+  - sp: FLAVIUS
+    o:
+      - "But wherefore art not in thy shop today?"
+      - "Why dost thou lead these men about the streets?"
+    m:
+      - "But why aren’t you in your shop today? Why are you leading these men through the streets?"
+
+  - sp: COBBLER
+    o:
+      - "Truly, sir, to wear out their shoes to get myself into more work. But indeed, sir, we make holiday to see Caesar and to rejoice in his triumph."
+    m:
+      - "Well, to wear out their shoes and get myself more work. Seriously, though, we took the day off to see Caesar, sir, and celebrate his triumph."
+
+  - sp: MURELLUS
+    o:
+      - "Wherefore rejoice? What conquest brings he home?"
+      - "What tributaries follow him to Rome"
+      - "To grace in captive bonds his chariot wheels?"
+      - "You blocks, you stones, you worse than senseless things,"
+      - "O you hard hearts, you cruèl men of Rome,"
+      - "Knew you not Pompey? Many a time and oft"
+      - "Have you climbed up to walls and battlements,"
+      - "To towers and windows, yea, to chimney tops,"
+      - "Your infants in your arms, and there have sat"
+      - "The livelong day with patient expectation"
+      - "To see great Pompey pass the streets of Rome."
+      - "And when you saw his chariot but appear,"
+      - "Have you not made an universal shout"
+      - "That Tiber trembled underneath her banks"
+      - "To hear the replication of your sounds"
+      - "Made in her concave shores?"
+      - "And do you now put on your best attire?"
+      - "And do you now cull out a holiday?"
+      - "And do you now strew flowers in his way"
+      - "That comes in triumph over Pompey’s blood?"
+      - "Be gone!"
+      - "Run to your houses, fall upon your knees,"
+      - "Pray to the gods to intermit the plague"
+      - "That needs must light on this ingratitude."
+    m:
+      - "Why would you celebrate it? What victory does he bring home? What foreign lands has he conquered and captive foreigners chained to his chariot wheels? You blockheads, you unfeeling men! You hard hearts, you cruel men of Rome, didn’t you know Pompey? Many times you climbed up on walls and battlements, towers and windows—even chimney tops—with your babies in your arms, and sat there patiently all day waiting to see great Pompey ride through the streets of Rome. And when you caught a glimpse of his chariot, didn’t you shout so loud that the river Tiber shook as it echoed? And now you put on your best clothes? And now you take a holiday? And now you toss flowers in the path of Caesar, who comes in triumph over Pompey’s defeated sons? Go home! Run to your houses, fall on your knees, and pray to the gods to spare you the pain that you deserve for such ingratitude."
+
+  - sp: FLAVIUS
+    o:
+      - "Go, go, good countrymen, and for this fault,"
+      - "Assemble all the poor men of your sort,"
+      - "Draw them to Tiber banks, and weep your tears"
+      - "Into the channel till the lowest stream"
+      - "Do kiss the most exalted shores of all."
+    m:
+      - "Go, go, good countrymen, and to make up for having done wrong, gather up all the poor men like yourselves, lead them to the Tiber, and weep into the river until it overflows its banks."
+
+  - os: "Exeunt CARPENTER, COBBLER, and all the other commoners"
+    ms: "The CARPENTER, COBBLER, and all the commoners exit."
+
+  - o:
+      - "See whether their basest metal be not moved."
+      - "They vanish tongue-tied in their guiltiness."
+      - "Go you down that way towards the Capitol."
+      - "This way will I. Disrobe the images"
+      - "If you do find them decked with ceremonies."
+    m:
+      - "Well, that ought to move even the most thickheaded of them. There they go, feeling so guilty they’re now tongue-tied—they don’t have a thing to say. You go down toward the Capitol, and I’ll go this way. Undress the statues if they’re decorated in honor of Caesar."
+
+  - sp: MURELLUS
+    o:
+      - "May we do so?"
+      - "You know it is the feast of Lupercal."
+    m:
+      - "Can we do that? You know it’s the feast of Lupercal."
+
+  - sp: FLAVIUS
+    o:
+      - "It is no matter. Let no images"
+      - "Be hung with Caesar’s trophies. I’ll about"
+      - "And drive away the vulgar from the streets."
+      - "So do you too, where you perceive them thick."
+      - "These growing feathers plucked from Caesar’s wing"
+      - "Will make him fly an ordinary pitch,"
+      - "Who else would soar above the view of men"
+      - "And keep us all in servile fearfulness."
+    m:
+      - "It doesn’t matter. Make sure that none of the statues are decorated in tribute to Caesar. I’ll walk around and force the commoners off the streets. You do the same, wherever the crowds are thick. If we take away Caesar’s support, he’ll have to come back down to earth; otherwise, he’ll fly too high and keep the rest of us in a state of fear and obedience."
+
+  - os: "Exeunt severally"
+    ms: "They exit in different directions."

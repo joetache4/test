@@ -1,0 +1,750 @@
+play: Antony and Cleopatra
+title: Act 2, Scene 2
+group: 2
+order: 6
+text:
+  - os: "Enter ENOBARBUS and LEPIDUS"
+    ms: "ENOBARBUS and LEPIDUS enter."
+
+  - sp: LEPIDUS
+    o:
+      - "Good Enobarbus, ’tis a worthy deed,"
+      - "And shall become you well, to entreat your captain"
+      - "To soft and gentle speech."
+    m:
+      - "Good Enobarbus, you would be doing a very good thing if you advised your captain to speak calmly and quietly."
+
+  - sp: ENOBARBUS
+    o:
+      - "    I shall entreat him"
+      - "To answer like himself. If Caesar move him,"
+      - "Let Antony look over Caesar’s head"
+      - "And speak as loud as Mars. By Jupiter,"
+      - "Were I the wearer of Antonio’s beard,"
+      - "I would not shave ’t today."
+    m:
+      - "I will advise him to speak as he usually does. If Caesar makes him mad, let Antony stand tall and speak as loudly as Mars, the god of war. By Jupiter, if I were Antony, I wouldn’t shave my beard today. I’d leave it long and dare Caesar to insult me by pulling on it, just so I could fight him."
+
+  - sp: LEPIDUS
+    o:
+      - "’Tis not a time for private stomaching."
+    m:
+      - "This is not the time for dwelling on personal grievances."
+
+  - sp: ENOBARBUS
+    o:
+      - "Every time serves for the matter that is then born in ’t."
+    m:
+      - "It’s always appropriate to deal with matters as they arise."
+
+  - sp: LEPIDUS
+    o:
+      - "But small to greater matters must give way."
+    m:
+      - "But major issues must come before minor ones."
+
+  - sp: ENOBARBUS
+    o:
+      - "Not if the small come first."
+    m:
+      - "Not if the minor ones come up first."
+
+  - sp: LEPIDUS
+    o:
+      - "Your speech is passion. But pray you stir"
+      - "No embers up. Here comes the noble Antony."
+    m:
+      - "You speak out of passion, but I beg you not to stir things up. Here comes the noble Antony."
+
+  - os: "Enter ANTONY and VENTIDIUS"
+    ms: "ANTONY and VENTIDIUS enter."
+
+  - sp: ENOBARBUS
+    o:
+      - "And yonder, Caesar."
+    m:
+      - "And there comes Caesar."
+
+  - os: "Enter OCTAVIUS CAESAR, MECAENAS, and AGRIPPA"
+    ms: "CAESAR, MAECENAS, and AGRIPPA enter from another door."
+
+  - sp: ANTONY
+    o:
+      - "*(to VENTIDIUS)* If we compose well here, to Parthia."
+      - "Hark, Ventidius."
+    m:
+      - "*(to VENTIDIUS)* If we can come to an agreement here, we’ll move on to Parthia. Listen, Ventidius."
+
+  - os: "They talk aside"
+    ms: "They talk privately together."
+
+  - sp: CAESAR
+    o:
+      - "*(to MECAENAS)* I do not know, Maecenas. Ask Agrippa."
+    m:
+      - "*(to MAECENAS)* I don’t know, Maecenas. Ask Agrippa."
+
+  - sp: LEPIDUS
+    o:
+      - "*(to CAESAR and ANTONY)*     Noble friends,"
+      - "That which combined us was most great, and let not"
+      - "A leaner action rend us. What’s amiss,"
+      - "May it be gently heard. When we debate"
+      - "Our trivial difference loud, we do commit"
+      - "Murder in healing wounds. Then, noble partners,"
+      - "The rather for I earnestly beseech,"
+      - "Touch you the sourest points with sweetest terms,"
+      - "Nor curstness grow to th’ matter."
+    m:
+      - "*(to CAESAR and ANTONY)* Good friends, the cause that joined us was noble. Don’t let some petty quarrel tear us apart. Let’s discuss this calmly. When we argue our differences with raised voices, we do more harm than good. So I plead with you to use reasonable words as you discuss these unreasonable deeds, and don’t lose your tempers."
+
+  - sp: ANTONY
+    o:
+      - "    ’Tis spoken well."
+      - "Were we before our armies, and to fight,"
+      - "I should do thus."
+    m:
+      - "You’re right. If we were in front of our armies, about to fight, I would do this."
+
+  - os: "Flourish"
+    ms: "A trumpet fanfare."
+
+  - sp: CAESAR
+    o:
+      - "Welcome to Rome."
+    m:
+      - "Welcome to Rome."
+
+  - sp: ANTONY
+    o:
+      - "Thank you."
+    m:
+      - "Thank you."
+
+  - sp: CAESAR
+    o:
+      - "Sit."
+    m:
+      - "Have a seat."
+
+  - sp: ANTONY
+    o:
+      - "Sit, sir."
+    m:
+      - "After you."
+
+  - sp: CAESAR
+    o:
+      - "Nay, then."
+    m:
+      - "No, after you."
+
+  - os: "They sit"
+    ms: "They sit."
+
+  - sp: ANTONY
+    o:
+      - "I learn, you take things ill which are not so,"
+      - "Or being, concern you not."
+    m:
+      - "I hear you’ve interpreted some of my actions as being improper, when they weren’t improper at all—or if they were, their impropriety didn’t concern you."
+
+  - sp: CAESAR
+    o:
+      - "    I must be laughed at"
+      - "If or for nothing or a little, I"
+      - "Should say myself offended, and with you"
+      - "Chiefly i’ th’ world; more laughed at, that I should"
+      - "Once name you derogately, when to sound your name"
+      - "It not concerned me."
+    m:
+      - "I should be ridiculed if I were offended so easily—and laughed at even more for speaking of you disrespectfully, when I had no reason to speak of you at all."
+
+  - sp: ANTONY
+    o:
+      - "My being in Egypt, Caesar, what was ’t to you?"
+    m:
+      - "Caesar, what did my stay in Egypt have to do with you?"
+
+  - sp: CAESAR
+    o:
+      - "No more than my residing here at Rome"
+      - "Might be to you in Egypt. Yet if you there"
+      - "Did practice on my state, your being in Egypt"
+      - "Might be my question."
+    m:
+      - "No more than my staying here in Rome might mean to you in Egypt. But if you conspired against my position while you were there, I might be interested in the reason for your stay in Egypt."
+
+  - sp: ANTONY
+    o:
+      - "    How intend you, “practiced”?"
+    m:
+      - "How do you mean, “conspired”?"
+
+  - sp: CAESAR
+    o:
+      - "You may be pleased to catch at mine intent"
+      - "By what did here befall me. Your wife and brother"
+      - "Made wars upon me, and their contestation"
+      - "Was theme for you. You were the word of war."
+    m:
+      - "You can judge for yourself what I mean. Your wife and brother led troops against me, claiming to be fighting in your name. They said they were acting for you."
+
+  - sp: ANTONY
+    o:
+      - "You do mistake your business. My brother never"
+      - "Did urge me in his act. I did inquire it,"
+      - "And have my learning from some true reports"
+      - "That drew their swords with you. Did he not rather"
+      - "Discredit my authority with yours,"
+      - "And make the wars alike against my stomach,"
+      - "Having alike your cause? Of this my letters"
+      - "Before did satisfy you. If you’ll patch a quarrel,"
+      - "As matter whole you have to make it with,"
+      - "It must not be with this."
+    m:
+      - "You’re mistaken. My brother didn’t use my name to justify his rebellion. I talked to some reliable participants in that battle. On the contrary, his fight was with both of us. He rejected my authority as much as yours. Since you and I share a common cause, wouldn’t his actions against you be hostile to me as well? I’ve already sent the proof in my letters. If you want to pick a fight, you’ll have to find a more substantial excuse."
+
+  - sp: CAESAR
+    o:
+      - "    You praise yourself"
+      - "By laying defects of judgment to me, but"
+      - "You patched up your excuses."
+    m:
+      - "You defend yourself by blaming my judgment, but you’re just making up feeble excuses."
+
+  - sp: ANTONY
+    o:
+      - "    Not so, not so."
+      - "I know you could not lack, I am certain on ’t,"
+      - "Very necessity of this thought, that I,"
+      - "Your partner in the cause ’gainst which he fought,"
+      - "Could not with graceful eyes attend those wars"
+      - "Which fronted mine own peace. As for my wife,"
+      - "I would you had her spirit in such another."
+      - "The third o’ th’ world is yours, which with a snaffle"
+      - "You may pace easy, but not such a wife."
+    m:
+      - "Not true, not true. You know I would never approve a war against my own cause. As for my wife, if only you had such a wife. It’s easier to rule a third of the world than a wife like that."
+
+  - sp: ENOBARBUS
+    o:
+      - "Would we had all such wives, that the men might go to wars with the women!"
+    m:
+      - "We should all have wives like that. Then the women could go to war with the men."
+
+  - sp: ANTONY
+    o:
+      - "So much uncurbable, her garboils, Caesar,"
+      - "Made out of her impatience—which not wanted"
+      - "Shrewdness of policy too—I grieving grant"
+      - "Did you too much disquiet. For that you must"
+      - "But say I could not help it."
+    m:
+      - "I had no control over her uprisings, Caesar, which arose from her impatience—and were shrewdly undertaken, as well. I’m sorry she caused you so much trouble. But you can’t blame me for her offenses."
+
+  - sp: CAESAR
+    o:
+      - "    I wrote to you"
+      - "When rioting in Alexandria. You"
+      - "Did pocket up my letters and with taunts"
+      - "Did gibe my missive out of audience."
+    m:
+      - "I sent you a letter while you were carousing in Alexandria. You put my letters in your pocket without reading them and then mocked my messenger out of the room."
+
+  - sp: ANTONY
+    o:
+      - "    Sir,"
+      - "He fell upon me ere admitted, then."
+      - "Three kings I had newly feasted, and did want"
+      - "Of what I was i’ th’ morning. But next day"
+      - "I told him of myself, which was as much"
+      - "As to have asked him pardon. Let this fellow"
+      - "Be nothing of our strife. If we contend,"
+      - "Out of our question wipe him."
+    m:
+      - "Sir, he burst into the room without invitation, just after I had come from an important banquet with three kings. I was not myself, as a result of the wine. The next day I explained all this to him, which was as good as begging his pardon. Let’s not fight over this fellow. If we must argue, let us remove him from our arguments."
+
+  - sp: CAESAR
+    o:
+      - "    You have broken"
+      - "The article of your oath, which you shall never"
+      - "Have tongue to charge me with."
+    m:
+      - "You’ve broken the terms of our sworn agreement. You will never be able to say the same about me."
+
+  - sp: LEPIDUS
+    o:
+      - "Soft, Caesar."
+    m:
+      - "Easy, Caesar."
+
+  - sp: ANTONY
+    o:
+      - "No, Lepidus, let him speak."
+      - "The honor is sacred which he talks on now,"
+      - "Supposing that I lacked it.—But, on, Caesar."
+      - "The article of my oath?"
+    m:
+      - "No, Lepidus, let him say what’s on his mind. Now he slanders my honor, which is sacred to me. Go on, Caesar. What part of the agreement did I break?"
+
+  - sp: CAESAR
+    o:
+      - "To lend me arms and aid when I required them,"
+      - "The which you both denied."
+    m:
+      - "You agreed to send me troops and weapons when I needed them. You refused me both."
+
+  - sp: ANTONY
+    o:
+      - "    Neglected, rather,"
+      - "And then when poisoned hours had bound me up"
+      - "From mine own knowledge. As nearly as I may"
+      - "I’ll play the penitent to you, but mine honesty"
+      - "Shall not make poor my greatness nor my power"
+      - "Work without it. Truth is that Fulvia,"
+      - "To have me out of Egypt, made wars here,"
+      - "For which myself, the ignorant motive, do"
+      - "So far ask pardon as befits mine honor"
+      - "To stoop in such a case."
+    m:
+      - "I overlooked your request, but I did not deny it. Your request came at a time when the poisonous effects of reveling caused me to be unaware of my own actions. I will apologize as much as is appropriate, but my apology will not diminish my great stature—or if I am denied that honor, I will withhold my military might. The truth is that to get me out of Egypt, Fulvia provoked riots here. And though I am only indirectly the cause of all this trouble, I ask your pardon to the extent that my honor permits me to lower myself in such a situation."
+
+  - sp: LEPIDUS
+    o:
+      - "    ’Tis noble spoken."
+    m:
+      - "Spoken like a gentleman."
+
+  - sp: MAECENAS
+    o:
+      - "If it might please you to enforce no further"
+      - "The griefs between ye, to forget them quite"
+      - "Were to remember that the present need"
+      - "Speaks to atone you."
+    m:
+      - "If it’s okay with you, you should not press your grievances any further, but realize that the current situation should be enough to reconcile you."
+
+  - sp: LEPIDUS
+    o:
+      - "    Worthily spoken, Maecenas."
+    m:
+      - "Well put, Maecenas."
+
+  - sp: ENOBARBUS
+    o:
+      - "Or, if you borrow one another’s love for the instant, you may, when you hear no more words of Pompey, return it again. You shall have time to wrangle in when you have nothing else to do."
+    m:
+      - "Or you can pretend to settle your differences until this matter with Pompey is finished. You can argue as much as you like when there’s nothing else to do."
+
+  - sp: ANTONY
+    o:
+      - "Thou art a soldier only. Speak no more."
+    m:
+      - "You are only a soldier. Be quiet."
+
+  - sp: ENOBARBUS
+    o:
+      - "That truth should be silent I had almost forgot."
+    m:
+      - "Oh, I’d forgotten that no one’s supposed to speak the truth."
+
+  - sp: ANTONY
+    o:
+      - "You wrong this presence. Therefore speak no more."
+    m:
+      - "It’s not appropriate for a soldier to be part of a discussion among noblemen. Don’t speak any further."
+
+  - sp: ENOBARBUS
+    o:
+      - "Go to, then. Your considerate stone."
+    m:
+      - "As you please. I’ll pretend to be a conscious stone, and think without speaking."
+
+  - sp: CAESAR
+    o:
+      - "I do not much dislike the matter, but"
+      - "The manner of his speech, for ’t cannot be"
+      - "We shall remain in friendship, our conditions"
+      - "So diff’ring in their acts. Yet if I knew"
+      - "What hoop should hold us stanch, from edge to edge"
+      - "O’ th’ world I would pursue it."
+    m:
+      - "I agree with what he says, though I don’t care for the way he says it. It’s not possible for us to be friends anymore. We’re too different, in both our dispositions and actions. But if there were something that could join us together again, I would go to the ends of the world to find it."
+
+  - sp: AGRIPPA
+    o:
+      - "Give me leave, Caesar."
+    m:
+      - "May I speak, Caesar."
+
+  - sp: CAESAR
+    o:
+      - "Speak, Agrippa."
+    m:
+      - "What is it, Agrippa?"
+
+  - sp: AGRIPPA
+    o:
+      - "Thou hast a sister by the mother’s side,"
+      - "Admired Octavia. Great Mark Antony"
+      - "Is now a widower."
+    m:
+      - "You have a beautiful half-sister, Octavia. Great Mark Antony is a widower now."
+
+  - sp: CAESAR
+    o:
+      - "    Say not so, Agrippa."
+      - "If Cleopatra heard you, your reproof"
+      - "Were well deserved of rashness."
+    m:
+      - "You’d better not make that suggestion, Agrippa. If Cleopatra heard you, you would be well punished for your audacity."
+
+  - sp: ANTONY
+    o:
+      - "I am not married, Caesar. Let me hear"
+      - "Agrippa further speak."
+    m:
+      - "It’s true I’m not married, Caesar. Let me hear what Agrippa has to say."
+
+  - sp: AGRIPPA
+    o:
+      - "To hold you in perpetual amity,"
+      - "To make you brothers, and to knit your hearts"
+      - "With an unslipping knot, take Antony"
+      - "Octavia to his wife, whose beauty claims"
+      - "No worse a husband than the best of men,"
+      - "Whose virtue and whose general graces speak"
+      - "That which none else can utter. By this marriage,"
+      - "All little jealousies, which now seem great,"
+      - "And all great fears, which now import their dangers,"
+      - "Would then be nothing. Truths would be tales,"
+      - "Where now half-tales be truths. Her love to both"
+      - "Would each to other and all loves to both"
+      - "Draw after her. Pardon what I have spoke,"
+      - "For ’tis a studied, not a present thought,"
+      - "By duty ruminated."
+    m:
+      - "If Antony were to take Octavia as his wife, you two would be bound in eternal friendship. As brothers, your hearts would be tied together in an unbreakable knot. She is beautiful enough for the best of men. Her virtue and grace are unparalleled. With this marriage, all the petty jealousies that now seem huge, and all the great fears that are dangerous in themselves, would disappear. People would become used to speaking the truth rather than gossip. Since she would love both of you, you two would be joined in that love. Excuse my bluntness. This is not a spur-of-the-moment suggestion. I have been considering this for some time, in my duties to both of you."
+
+  - sp: ANTONY
+    o:
+      - "    Will Caesar speak?"
+    m:
+      - "What do you say, Caesar?"
+
+  - sp: CAESAR
+    o:
+      - "Not till he hears how Antony is touched"
+      - "With what is spoke already."
+    m:
+      - "I’d rather hear your reaction to this first."
+
+  - sp: ANTONY
+    o:
+      - "What power is in Agrippa"
+      - "If I would say, “Agrippa, be it so,”"
+      - "To make this good?"
+    m:
+      - "If I said to Agrippa, “I agree. Make it happen,” does Agrippa have the power to make it so?"
+
+  - sp: CAESAR
+    o:
+      - "    The power of Caesar, and His power unto Octavia."
+    m:
+      - "He has both my power and my influence over Octavia."
+
+  - sp: ANTONY
+    o:
+      - "    May I never"
+      - "To this good purpose, that so fairly shows,"
+      - "Dream of impediment! Let me have thy hand"
+      - "Further this act of grace, and from this hour"
+      - "The heart of brothers govern in our loves"
+      - "And sway our great designs!"
+    m:
+      - "I wouldn’t dream of opposing such an obviously promising idea. Let’s shake on it. If you go through with this plan, from now on we’ll be brothers, and our love for one another will guide our actions."
+
+  - sp: CAESAR
+    o:
+      - "    There’s my hand."
+    m:
+      - "Here’s my hand."
+
+  - os: "They clasp hands"
+    ms: "They shake hands."
+
+  - o:
+      - "A sister I bequeath you whom no brother"
+      - "Did ever love so dearly. Let her live"
+      - "To join our kingdoms and our hearts, and never"
+      - "Fly off our loves again!"
+    m:
+      - "I give you a sister whom I love more than a brother ever loved any sister. She will be the bond that joins our kingdoms and our hearts. We’ll never fight again."
+
+  - sp: LEPIDUS
+    o:
+      - "    Happily, amen!"
+    m:
+      - "I’m happy to say “amen” to that!"
+
+  - sp: ANTONY
+    o:
+      - "I did not think to draw my sword ’gainst Pompey,"
+      - "For he hath laid strange courtesies and great"
+      - "Of late upon me. I must thank him only,"
+      - "Lest my remembrance suffer ill report;"
+      - "At heel of that, defy him."
+    m:
+      - "I didn’t think I would ever fight Pompey. He’s shown me unusual deference lately, and I must repay his favors or risk a reputation for ingratitude. That done, I can turn against him."
+
+  - sp: LEPIDUS
+    o:
+      - "    Time calls upon ’s."
+      - "Of us must Pompey presently be sought,"
+      - "Or else he seeks out us."
+    m:
+      - "There isn’t much time. Either we go after Pompey or he’ll come after us."
+
+  - sp: ANTONY
+    o:
+      - "Where lies he?"
+    m:
+      - "Where is he now?"
+
+  - sp: CAESAR
+    o:
+      - "About the Mount Misena."
+    m:
+      - "Near Mt. Misena."
+
+  - sp: ANTONY
+    o:
+      - "What is his strength by land?"
+    m:
+      - "How large is his land army?"
+
+  - sp: CAESAR
+    o:
+      - "Great and increasing."
+      - "But by sea he is an absolute master."
+    m:
+      - "Large and increasing. But his navy rules the sea."
+
+  - sp: ANTONY
+    o:
+      - "So is the fame."
+      - "Would we had spoke together! Haste we for it."
+      - "Yet, ere we put ourselves in arms, dispatch we"
+      - "The business we have talked of."
+    m:
+      - "That’s what I hear. I wish we’d had this conversation sooner. Let’s get down to business—and yet, before we get ready for war, let’s take care of that business we just discussed."
+
+  - sp: CAESAR
+    o:
+      - "    With most gladness,"
+      - "And do invite you to my sister’s view,"
+      - "Whither straight I’ll lead you."
+    m:
+      - "With pleasure. I’ll introduce you to my sister. Follow me."
+
+  - sp: ANTONY
+    o:
+      - "Let us, Lepidus, not lack your company."
+    m:
+      - "Come with us, Lepidus."
+
+  - sp: LEPIDUS
+    o:
+      - "Noble Antony, not sickness should detain me."
+    m:
+      - "Noble Antony, even illness couldn’t keep me away."
+
+  - os: "Flourish. Exeunt all but ENOBARBUS, AGRIPPA, and MAECENAS"
+    ms: "Trumpets play a fanfare. Everyone exits except ENOBARBUS, AGRIPPA, and MAECENAS."
+
+  - sp: MAECENAS
+    o:
+      - "*(to ENOBARBUS)* Welcome from Egypt, sir."
+    m:
+      - "*(to ENOBARBUS)* Welcome back from Egypt, sir."
+
+  - sp: ENOBARBUS
+    o:
+      - "Half the heart of Caesar, worthy Maecenas! My honorable friend, Agrippa."
+    m:
+      - "You’ve become Caesar’s right hand man, Maecenas! It’s good to see you too, Agrippa."
+
+  - sp: AGRIPPA
+    o:
+      - "Good Enobarbus!"
+    m:
+      - "Good Enobarbus!"
+
+  - sp: MAECENAS
+    o:
+      - "We have cause to be glad that matters are so well digested."
+      - "You stayed well by ’t in Egypt."
+    m:
+      - "We can be happy that things have been resolved so agreeably. And I see you survived your time in Egypt."
+
+  - sp: ENOBARBUS
+    o:
+      - "Ay, sir, we did sleep day out of countenance and made the night light with drinking."
+    m:
+      - "Yes, sir, it was tough. We confused the daytime by sleeping through it, and made the night merry with our drinking."
+
+  - sp: MAECENAS
+    o:
+      - "Eight wild boars roasted whole at a breakfast—and but twelve persons there! Is this true?"
+    m:
+      - "We heard that once you were served eight wild boars roasted whole for breakfast—for only twelve people! Is that true?"
+
+  - sp: ENOBARBUS
+    o:
+      - "This was but as a fly by an eagle. We had much more monstrous matter of feast, which worthily deserved noting."
+    m:
+      - "That was nothing. There were many even more memorable feasts."
+
+  - sp: MAECENAS
+    o:
+      - "She’s a most triumphant lady, if report be square to her."
+    m:
+      - "She’s a remarkable lady, if the rumors are to be believed."
+
+  - sp: ENOBARBUS
+    o:
+      - "When she first met Mark Antony, she pursed up his heart upon the river of Cydnus."
+    m:
+      - "From the first time Antony saw her, sailing on her barge on the Cydnus River, he was hers."
+
+  - sp: AGRIPPA
+    o:
+      - "There she appeared indeed, or my reporter devised well for her."
+    m:
+      - "She made quite an appearance there, or else my informant invented a very flattering description of her."
+
+  - sp: ENOBARBUS
+    o:
+      - "I will tell you."
+      - "The barge she sat in, like a burnished throne,"
+      - "Burned on the water. The poop was beaten gold,"
+      - "Purple the sails, and so perfumèd that"
+      - "The winds were lovesick with them. The oars were silver,"
+      - "Which to the tune of flutes kept stroke, and made"
+      - "The water which they beat to follow faster,"
+      - "As amorous of their strokes. For her own person,"
+      - "It beggared all description: she did lie"
+      - "In her pavilion—cloth-of-gold, of tissue—"
+      - "O’erpicturing that Venus where we see"
+      - "The fancy outwork nature. On each side her"
+      - "Stood pretty dimpled boys, like smiling Cupids,"
+      - "With divers-colored fans, whose wind did seem"
+      - "To glow the delicate cheeks which they did cool,"
+      - "And what they undid did."
+    m:
+      - "I’ll tell you. Her barge looked like a golden throne upon the waves, burning bright with the sun’s reflections. The rear deck was covered with hammered gold. The sails were dyed purple, and they were perfumed so heavily that they made the air seem dizzy with love. The oars were made of silver, and the oarsmen rowed in time to flute music. As the oars beat the water, the waves seemed to speed up as if excited by lust. Cleopatra’s appearance was indescribable. As she reclined under a canopy woven from gold thread, she was more beautiful than any artist’s idealized portrait of the goddess Venus. Pretty, Cupid-like boys stood on either side of her, smiling and cooling her with multicolored fans, which seemed to fan the flames in her cheeks even as they cooled them, undoing what they did."
+
+  - sp: AGRIPPA
+    o:
+      - "    Oh, rare for Antony!"
+    m:
+      - "How excellent for Antony!"
+
+  - sp: ENOBARBUS
+    o:
+      - "Her gentlewomen, like the Nereides,"
+      - "So many mermaids, tended her i’ th’ eyes,"
+      - "And made their bends adornings. At the helm"
+      - "A seeming mermaid steers. The silken tackle"
+      - "Swell with the touches of those flower-soft hands"
+      - "That yarely frame the office. From the barge"
+      - "A strange invisible perfume hits the sense"
+      - "Of the adjacent wharfs. The city cast"
+      - "Her people out upon her, and Antony,"
+      - "Enthroned i’ th’ marketplace, did sit alone,"
+      - "Whistling to th’ air, which, but for vacancy,"
+      - "Had gone to gaze on Cleopatra too"
+      - "And made a gap in nature."
+    m:
+      - "Her ladies-in-waiting—like Nereides, or mermaids—tended to Cleopatra as she watched them, and their graceful movements added to the beauty of the scene. It seemed as if a mermaid were steering. The silken sails and ropes swelled in the wind, expertly handled by the ladies’ soft hands. People on the wharves could smell exotic perfume wafting from the barge as it passed them. All the people came out to see her, and Antony, waiting for her in the marketplace, was left alone. Even the air itself would have gone to look at Cleopatra, if that wouldn’t have caused an unnatural vacuum in the atmosphere."
+
+  - sp: AGRIPPA
+    o:
+      - "    Rare Egyptian!"
+    m:
+      - "Extraordinary Egyptian!"
+
+  - sp: ENOBARBUS
+    o:
+      - "Upon her landing, Antony sent to her,"
+      - "Invited her to supper. She replied"
+      - "It should be better he became her guest,"
+      - "Which she entreated. Our courteous Antony,"
+      - "Whom ne’er the word of “No” woman heard speak,"
+      - "Being barbered ten times o’er, goes to the feast,"
+      - "And for his ordinary pays his heart"
+      - "For what his eyes eat only."
+    m:
+      - "When she landed at the port, Antony sent an invitation for her to come to supper. She replied by saying that it would be better for him to be her guest instead. Our courteous Antony, who has never said “no” to any woman, after spending plenty of time being groomed by the barber, goes to the feast. For that simple meal, he paid with his heart—even though it was only his eyes that were satisfied."
+
+  - sp: AGRIPPA
+    o:
+      - "    Royal wench!"
+      - "She made great Caesar lay his sword to bed."
+      - "He plowed her, and she cropped."
+    m:
+      - "Royal seductress! She lured Julius Caesar into her bed, he made love to her, and she bore his child."
+
+  - sp: ENOBARBUS
+    o:
+      - "    I saw her once"
+      - "Hop forty paces through the public street,"
+      - "And having lost her breath, she spoke, and panted,"
+      - "That she did make defect perfection,"
+      - "And, breathless, pour breathe forth."
+    m:
+      - "I saw her once hop forty feet down the street. When she stopped she was so out of breath that she was panting. Her beauty made even that weakness seem perfect, and even in her breathlessness she seemed to pour out breath."
+
+  - sp: MAECENAS
+    o:
+      - "Now Antony must leave her utterly."
+    m:
+      - "Now Antony has to leave her completely."
+
+  - sp: ENOBARBUS
+    o:
+      - "Never. He will not."
+      - "Age cannot wither her, nor custom stale"
+      - "Her infinite variety. Other women cloy"
+      - "The appetites they feed, but she makes hungry"
+      - "Where most she satisfies, for vilest things"
+      - "Become themselves in her, that the holy priests"
+      - "Bless her when she is riggish."
+    m:
+      - "He’ll never leave her. Age won’t wither her, and her charms are so varied that she never grows boring. With other women, the more familiar you grow with them the less appealing they become. Cleopatra, on the other hand, makes you desire her the more you see her. Even her worst faults are charming, and holy priests bless her even when she acts the slut."
+
+  - sp: MAECENAS
+    o:
+      - "If beauty, wisdom, modesty, can settle"
+      - "The heart of Antony, Octavia is"
+      - "A blessèd lottery to him."
+    m:
+      - "If beauty, wisdom, and modesty can settle Antony’s restless heart, Octavia will be the best thing that has ever happened to him."
+
+  - sp: AGRIPPA
+    o:
+      - "    Let us go."
+      - "Good Enobarbus, make yourself my guest"
+      - "Whilst you abide here."
+    m:
+      - "Let’s go. Good Enobarbus, consider yourself my guest as long as you’re here."
+
+  - sp: ENOBARBUS
+    o:
+      - "    Humbly, sir, I thank you."
+    m:
+      - "I humbly thank you."
+
+  - os: "Exeunt"
+    ms: "They exit."

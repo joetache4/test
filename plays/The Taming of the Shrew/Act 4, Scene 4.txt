@@ -1,0 +1,305 @@
+play: The Taming of the Shrew
+title: Act 4, Scene 4
+group: 4
+order: 10
+text:
+  - os: "Enter TRANIO as LUCENTIO. MERCHANT booted and dressed like VINCENTIO"
+    ms: "TRANIO enters, disguised as LUCENTIO with the MERCHANT dressed like VINCENTIO"
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Sir, this is the house. Please it you that I call?"
+    m:
+      - "*(as LUCENTIO)* Sir, this is the house. Would you like me to ring?"
+
+  - sp: MERCHANT
+    o:
+      - "Ay, what else? and but I be deceived,"
+      - "Signior Baptista may remember me,"
+      - "Near twenty years ago, in Genoa,"
+      - "Where we were lodgers at the Pegasus."
+    m:
+      - "Yes, certainly. Unless I am mistaken, Signior Baptista may remember me from the Pegasus in Genoa, where we both stayed twenty years ago."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* ’Tis well; and hold your own, in any case,"
+      - "With such austerity as ’longeth to a father."
+    m:
+      - "*(as LUCENTIO)* Fine, fine. Just play your part and act as serious as a father should."
+
+  - sp: MERCHANT
+    o:
+      - "I warrant you."
+    m:
+      - "Of course I will."
+
+  - os: "Enter BIONDELLO"
+    ms: "BIONDELLO enters."
+
+  - o:
+      - "  But, sir, here comes your boy."
+      - "’Twere good he were schooled."
+    m:
+      - "But, sir, here comes your servant. Better fill him in."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Fear you not him.—Sirrah Biondello,"
+      - "Now do your duty throughly, I advise you."
+      - "Imagine ’twere the right Vincentio."
+    m:
+      - "*(as LUCENTIO)* Don’t worry about him.—You there, Biondello, now act your part convincingly. Behave as though this were the real Vincentio."
+
+  - sp: BIONDELLO
+    o:
+      - "Tut, fear not me."
+    m:
+      - "Don’t worry about me."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* But hast thou done thy errand to Baptista?"
+    m:
+      - "*(as LUCENTIO)* And did you take the message to Baptista?"
+
+  - sp: BIONDELLO
+    o:
+      - "I told him that your father was at Venice,"
+      - "And that you looked for him this day in Padua."
+    m:
+      - "I told him that your father was in Venice, and that you expected him to arrive in Padua today."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Thou’rt a tall fellow. Hold thee that to drink."
+      - "*(Gives money)*"
+    m:
+      - "*(as LUCENTIO)* Good lad! Here, buy yourself a drink on me."
+      - "*(He gives BIONDELLO some money.)*"
+
+  - os: "Enter BAPTISTA and LUCENTIO"
+    ms: "BAPTISTA and LUCENTIO enter."
+
+  - o:
+      - "Here comes Baptista. Set your countenance, sir."
+    m:
+      - "Here comes Baptista. Places, everyone!"
+
+  - os: "MERCHANT takes off his cap"
+    ms: "MERCHANT takes off his cap."
+
+  - o:
+      - "Signior Baptista, you are happily met.—"
+      - "Sir, this is the gentleman I told you of."
+      - "I pray you stand good father to me now."
+      - "Give me Bianca for my patrimony."
+    m:
+      - "Signior Baptista, I’m glad to see you.—Sir, this is the gentleman I told you of. I hope you’ll be a good father to me now. Give me Bianca for my inheritance."
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Soft son.—"
+      - "Sir, by your leave, having come to Padua"
+      - "To gather in some debts, my son Lucentio"
+      - "Made me acquainted with a weighty cause"
+      - "Of love between your daughter and himself."
+      - "And, for the good report I hear of you"
+      - "And for the love he beareth to your daughter"
+      - "And she to him, to stay him not too long,"
+      - "I am content, in a good father’s care,"
+      - "To have him matched. And if you please to like"
+      - "No worse than I, upon some agreement"
+      - "Me shall you find ready and willing"
+      - "With one consent to have her so bestowed,"
+      - "For curious I cannot be with you,"
+      - "Signior Baptista, of whom I hear so well."
+    m:
+      - "*(as VINCENTIO)* Hush, son.—Sir, may I? Having come to Padua to collect some debts, my son Lucentio acquainted me with a serious matter, namely the love between your daughter and himself. Now, since I’ve heard good reports of you, and in view of the love between your daughter and my son, I’m willing to give my consent to his marriage right away. So, if you think you can put up with no worse a man than I am, you’ll find me willing, pending some agreement, to see your daughter betrothed to him. I can’t haggle with you, Signior Baptista. I have too much respect for you."
+
+  - sp: BAPTISTA
+    o:
+      - "Sir, pardon me in what I have to say."
+      - "Your plainness and your shortness please me well."
+      - "Right true it is your son Lucentio here"
+      - "Doth love my daughter and she loveth him,"
+      - "Or both dissemble deeply their affections."
+      - "And therefore, if you say no more than this,"
+      - "That like a father you will deal with him"
+      - "And pass my daughter a sufficient dower,"
+      - "The match is made, and all is done."
+      - "Your son shall have my daughter with consent."
+    m:
+      - "Sir, pardon me for what I am about to say. I appreciate your frankness and your brevity. It’s true that your son Lucentio here loves my daughter, and she loves him—or else they’re putting on quite an act. Therefore, provided that you assure me that you will treat your son as a father should and offer my daughter a sufficient dowry, we’ll call it a match and be done with it. Your son will have my consent to marry my daughter."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)*"
+      - "I thank you, sir. Where then do you know best"
+      - "We be affied and such assurance ta’en"
+      - "As shall with either part’s agreement stand?"
+    m:
+      - "*(as LUCENTIO)* Thank you, sir. Where can we draw up the necessary papers and get this settled?"
+
+  - sp: BAPTISTA
+    o:
+      - "Not in my house, Lucentio, for you know"
+      - "Pitchers have ears, and I have many servants."
+      - "Besides, old Gremio is heark’ning still,"
+      - "And happily we might be interrupted."
+    m:
+      - "Not in my house, Lucentio. My servants might overhear, and old Gremio is still hanging around, so we might be interrupted."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Then at my lodging, an it like you."
+      - "There doth my father lie, and there this night"
+      - "We’ll pass the business privately and well."
+      - "Send for your daughter by your servant here."
+      - "My boy shall fetch the scrivener presently."
+      - "The worst is this, that at so slender warning"
+      - "You are like to have a thin and slender pittance."
+    m:
+      - "*(as LUCENTIO)* Then at my place, if you like. That’s where my father’s staying. We can get everything sorted out in private there tonight. Send your servant for Bianca. Mine shall go and fetch the notary. The only drawback is that, with such short notice, we’ll be able to offer you only modest refreshment."
+
+  - sp: BAPTISTA
+    o:
+      - "It likes me well.—Cambio, hie you home,"
+      - "And bid Bianca make her ready straight."
+      - "And, if you will, tell what hath happenèd:"
+      - "Lucentio’s father is arrived in Padua,"
+      - "And how she’s like to be Lucentio’s wife."
+    m:
+      - "This is all very acceptable.—Cambio, hurry home and tell Bianca to get ready right away and, if you don’t mind, tell her what’s happened: that Lucentio’s father has arrived in Padua, and that she’s likely to become Lucentio’s wife."
+
+  - os: "Exit LUCENTIO"
+    ms: "LUCENTIO exits."
+
+  - sp: BIONDELLO
+    o:
+      - "I pray the gods she may, with all my heart!"
+    m:
+      - "I hope with all my heart she will!"
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Dally not with the gods, but get thee gone.—"
+      - "Signior Baptista, shall I lead the way?"
+      - "Welcome! One mess is like to be your cheer."
+      - "Come, sir, we will better it in Pisa."
+    m:
+      - "*(as LUCENTIO)* Forget about your heart and get busy.—Signior Baptista, shall I lead the way? You’ll be welcome, though dinner will probably be only one course. We’ll make it up to you in Pisa."
+
+  - sp: BAPTISTA
+    o:
+      - "I follow you."
+    m:
+      - "I’ll come with you."
+
+  - os: "Exeunt TRANIO, MERCHANT, and BAPTISTA"
+    ms: "TRANIO, MERCHANT and BAPTISTA exit."
+
+  - sp: BIONDELLO
+    o:
+      - "Cambio."
+    m:
+      - "Cambio."
+
+  - sp: LUCENTIO
+    o:
+      - "What sayest thou, Biondello?"
+    m:
+      - "What is it, Biondello?"
+
+  - sp: BIONDELLO
+    o:
+      - "You saw my master wink and laugh upon you?"
+    m:
+      - "You saw my master wink and laugh at you?"
+
+  - sp: LUCENTIO
+    o:
+      - "Biondello, what of that?"
+    m:
+      - "What about it?"
+
+  - sp: BIONDELLO
+    o:
+      - "Faith, nothing; but ’has left me here behind to expound the meaning or moral of his signs and tokens."
+    m:
+      - "Nothing. It’s just that he left me here behind to interpret his signs and signals."
+
+  - sp: LUCENTIO
+    o:
+      - "I pray thee, moralize them."
+    m:
+      - "Please, educate me."
+
+  - sp: BIONDELLO
+    o:
+      - "Then thus: Baptista is safe, talking with the deceiving father of a deceitful son."
+    m:
+      - "Here’s the deal: we’re safe on the Baptista front. He’s talking with the bogus father about the bogus son."
+
+  - sp: LUCENTIO
+    o:
+      - "And what of him?"
+    m:
+      - "And so—?"
+
+  - sp: BIONDELLO
+    o:
+      - "His daughter is to be brought by you to the supper."
+    m:
+      - "You are to bring his daughter to the supper."
+
+  - sp: LUCENTIO
+    o:
+      - "And then?"
+    m:
+      - "And then?"
+
+  - sp: BIONDELLO
+    o:
+      - "The old priest at Saint Luke’s Church is at your command at all hours."
+    m:
+      - "The old priest at Saint Luke’s Church is at your command at all hours."
+
+  - sp: LUCENTIO
+    o:
+      - "And what of all this?"
+    m:
+      - "And what of all this?"
+
+  - sp: BIONDELLO
+    o:
+      - "I cannot tell, except they are busied about a counterfeit assurance. Take you assurance of her cum privilegio ad imprimendum solum. To th’ church take the priest, clerk, and some sufficient honest witnesses. If this be not that you look for, I have no more to say, But bid Bianca farewell forever and a day."
+    m:
+      - "I don’t know, except they are busy with some phony guarantee. So go and put your stamp on the girl. Go to the church: take the priest, the clerk, and some reasonably honest witnesses. If this isn’t what you’ve been hoping for, I have no more to say except that you ought to say goodbye to Bianca forever."
+
+  - sp: LUCENTIO
+    o:
+      - "Hear’st thou, Biondello?"
+    m:
+      - "Listen, Biondello—"
+
+  - sp: BIONDELLO
+    o:
+      - "I cannot tarry. I knew a wench married in an afternoon as she went to the garden for parsley to stuff a rabbit, and so may you, sir. And so adieu, sir. My master hath appointed me to go to Saint Luke’s to bid the priest be ready to come against you come with your appendix."
+    m:
+      - "I can’t stay. I knew a girl who was married in an afternoon as she went to the garden for parsley to stuff a rabbit. It could happen to you. Farewell, sir. My master has instructed me to go to Saint Luke’s to tell the priest to be ready in case you should show up with your better half."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: LUCENTIO
+    o:
+      - "I may, and will, if she be so contented."
+      - "She will be pleased. Then wherefore should I doubt?"
+      - "Hap what hap may, I’ll roundly go about her."
+      - "It shall go hard if “Cambio” go without her."
+    m:
+      - "I may. I will if she likes the idea. She will be pleased. Then why am I worried? Oh well, whatever. I’ll ask her straight out. It will be hard if “Cambio” loses her."
+
+  - os: "Exit"
+    ms: "He exits."

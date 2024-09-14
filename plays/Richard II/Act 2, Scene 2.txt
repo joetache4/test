@@ -1,0 +1,369 @@
+play: Richard II
+title: Act 2, Scene 2
+group: 2
+order: 5
+text:
+  - os: "The palace."
+    ms: "King Richard II’s palace."
+
+  - os: "Enter QUEEN, BUSHY, and BAGOT"
+    ms: "The QUEEN, BUSHY, and BAGOT enter."
+
+  - sp: BUSHY
+    o:
+      - "Madam, your majesty is too much sad:"
+      - "You promised, when you parted with the king,"
+      - "To lay aside life-harming heaviness"
+      - "And entertain a cheerful disposition."
+    m:
+      - "Madam, you are too sad. When we left the king, you promised to stop worrying so much and to try to act more cheerfully."
+
+  - sp: QUEEN
+    o:
+      - "To please the king I did; to please myself"
+      - "I cannot do it; yet I know no cause"
+      - "Why I should welcome such a guest as grief,"
+      - "Save bidding farewell to so sweet a guest"
+      - "As my sweet Richard: yet again, methinks,"
+      - "Some unborn sorrow, ripe in fortune’s womb,"
+      - "Is coming towards me, and my inward soul"
+      - "With nothing trembles: at some thing it grieves,"
+      - "More than with parting from my lord the king."
+    m:
+      - "I promised that to make the king happy, but for myself I cannot do it. I don’t know why I should be so sad, except that I had to say goodbye to my sweet Richard. But I also think that something bad is going to happen to me and I’m inwardly grieving. It’s making me more sad than the king’s leaving does."
+
+  - sp: BUSHY
+    o:
+      - "Each substance of a grief hath twenty shadows,"
+      - "Which shows like grief itself, but is not so;"
+      - "For sorrow’s eye, glazed with blinding tears,"
+      - "Divides one thing entire to many objects;"
+      - "Like perspectives, which rightly gazed upon"
+      - "Show nothing but confusion, eyed awry"
+      - "Distinguish form: so your sweet majesty,"
+      - "Looking awry upon your lord’s departure,"
+      - "Find shapes of grief, more than himself, to wail;"
+      - "Which, look’d on as it is, is nought but shadows"
+      - "Of what it is not. Then, thrice-gracious queen,"
+      - "More than your lord’s departure weep not: more’s not seen;"
+      - "Or if it be, ’tis with false sorrow’s eye,"
+      - "Which for things true weeps things imaginary."
+    m:
+      - "When you’re already sad it seems like everything is awful and your grief is multiplied. But, in reality, that’s not the case. Because you’re sad, things don’t appear to you as they actually are, so in your husband’s departure you see many things to grieve. Those are just shadows. So don’t cry for anything but your husband’s leaving. Any other causes of grief are just imaginary."
+
+  - sp: QUEEN
+    o:
+      - "It may be so; but yet my inward soul"
+      - "Persuades me it is otherwise: howe’er it be,"
+      - "I cannot but be sad; so heavy sad"
+      - "As, though on thinking on no thought I think,"
+      - "Makes me with heavy nothing faint and shrink."
+    m:
+      - "That may be true, but my instinct tells me otherwise. Whatever the case, I feel nothing but grief. In fact, I feel so sad that even when I’m not thinking about anything at all I feel woefully faint and weak."
+
+  - sp: BUSHY
+    o:
+      - "’Tis nothing but conceit, my gracious lady."
+    m:
+      - "That’s nothing but your imagination, my queen."
+
+  - sp: QUEEN
+    o:
+      - "’Tis nothing le conceit is still derived"
+      - "From some forefather grief; mine is not so,"
+      - "For nothing had begot my something grief;"
+      - "Or something hath the nothing that I grieve:"
+      - "’Tis in reversion that I do possess;"
+      - "But what it is, that is not yet known; what"
+      - "I cannot name; ’tis nameless woe, I wot."
+    m:
+      - "Far from it. Imaginary feelings of grief are always the result of some real, prior grief. But that’s not my situation, as nothing has happened to me to cause my grief. My grief is reversed: I feel a grief whose cause I haven’t experienced yet. But I don’t know what that is. I can’t name it. All I know is that it’s a nameless sadness."
+
+  - os: "Enter GREEN"
+    ms: "GREEN enters."
+
+  - sp: GREEN
+    o:
+      - "God save your majesty! and well met, gentlemen:"
+      - "I hope the king is not yet shipp’d for Ireland."
+    m:
+      - "God save the queen! And good to see you, too, gentlemen. I hope the king hasn’t left yet for Ireland."
+
+  - sp: QUEEN
+    o:
+      - "Why hopest thou so? ’tis better hope he is;"
+      - "For his designs crave haste, his haste good hope:"
+      - "Then wherefore dost thou hope he is not shipp’d?"
+    m:
+      - "Why do you hope that? It’s better if he has since his plans require that he act quickly, so why do you hope he hasn’t sailed?"
+
+  - sp: GREEN
+    o:
+      - "That he, our hope, might have retired his power,"
+      - "And driven into despair an enemy’s hope,"
+      - "Who strongly hath set footing in this land:"
+      - "The banish’d Bolingbroke repeals himself,"
+      - "And with uplifted arms is safe arrived"
+      - "At Ravenspurgh."
+    m:
+      - "Our hope is that he might have brought his forces back from Ireland and caused our enemy, Bolingbroke, to give up. Even though he is exiled he has returned to England. He and a strong army have arrived safely to Ravenspurgh ready to fight."
+
+  - sp: QUEEN
+    o:
+      - "Now God in heaven forbid!"
+    m:
+      - "God, no!"
+
+  - sp: GREEN
+    o:
+      - "Ah, madam, ’tis too true: and that is worse,"
+      - "The Lord Northumberland, his son young Henry Percy,"
+      - "The Lords of Ross, Beaumond, and Willoughby,"
+      - "With all their powerful friends, are fled to him."
+    m:
+      - "Madam, it’s true, and what’s worse is that Lord Northumberland, his young son Henry Percy, the Lord of Ross, the Lord of Beaumond, and the Lord of Willoughby, along with their powerful friends, have all gone to join him."
+
+  - sp: BUSHY
+    o:
+      - "Why have you not proclaim’d Northumberland"
+      - "And all the rest revolted faction traitors?"
+    m:
+      - "Why haven’t you proclaimed Northumberland and the others traitors?"
+
+  - sp: GREEN
+    o:
+      - "We have: whereupon the Earl of Worcester"
+      - "Hath broke his staff, resign’d his stewardship,"
+      - "And all the household servants fled with him"
+      - "To Bolingbroke."
+    m:
+      - "We did, and that’s when the Earl of Worcester broke his staff, resigned his job, and, along with the king’s servants, fled to join Bolingbroke."
+
+  - sp: QUEEN
+    o:
+      - "So, Green, thou art the midwife to my woe,"
+      - "And Bolingbroke my sorrow’s dismal heir:"
+      - "Now hath my soul brought forth her prodigy,"
+      - "And I, a gasping new-deliver’d mother,"
+      - "Have woe to woe, sorrow to sorrow join’d."
+    m:
+      - "So, Green, you have helped me to give birth: I was pregnant with sorrow, Bolingbroke is the newborn child, and I am like a gasping mother who has just delivered her baby."
+
+  - sp: BUSHY
+    o:
+      - "Despair not, madam."
+    m:
+      - "Madam, do not despair."
+
+  - sp: QUEEN
+    o:
+      - "Who shall hinder me?"
+      - "I will despair, and be at enmity"
+      - "With cozening hope: he is a flatterer,"
+      - "A parasite, a keeper back of death,"
+      - "Who gently would dissolve the bands of life,"
+      - "Which false hope lingers in extremity."
+    m:
+      - "Who’s going to stop me? I will despair, and I will not put up with any false hopes. False hope flatters and feeds on us, draws out our pain, and withholds death, which would be gentle otherwise."
+
+  - os: "Enter DUKE OF YORK"
+    ms: "The DUKE OF YORK enters."
+
+  - sp: GREEN
+    o:
+      - "Here comes the Duke of York."
+    m:
+      - "Here comes the Duke of York."
+
+  - sp: QUEEN
+    o:
+      - "With signs of war about his aged neck:"
+      - "O, full of careful business are his looks!"
+      - "Uncle, for God’s sake, speak comfortable words."
+    m:
+      - "His old neck shows signs of war. Oh, his face is full of anxiety! Uncle, for God’s sake, give us good news."
+
+  - sp: DUKE OF YORK
+    o:
+      - "Should I do so, I should belie my thoughts:"
+      - "Comfort’s in heaven; and we are on the earth,"
+      - "Where nothing lives but crosses, cares and grief."
+      - "Your husband, he is gone to save far off,"
+      - "Whilst others come to make him lose at home:"
+      - "Here am I left to underprop his land,"
+      - "Who, weak with age, cannot support myself:"
+      - "Now comes the sick hour that his surfeit made;"
+      - "Now shall he try his friends that flatter’d him."
+    m:
+      - "If I were to give you good news, I would be hiding my real thoughts. Good news is in heaven, and we are on earth, where nothing lives but trials, anxieties, and sorrow. Your husband has gone to protect his rule in Ireland, while others have come here to take it from him in England. Here I am, too old to support myself, left to prop up his country. The bad times that we thought his overindulgent ways would bring have arrived. Now his friends will be tested."
+
+  - os: "Enter a Servant"
+    ms: "A Servant enters."
+
+  - sp: SERVANT
+    o:
+      - "My lord, your son was gone before I came."
+    m:
+      - "My lord, your son was gone before I arrived."
+
+  - sp: DUKE OF YORK
+    o:
+      - "He was? Why, so! go all which way it will!"
+      - "The nobles they are fled, the commons they are cold,"
+      - "And will, I fear, revolt on Hereford’s side."
+      - "Sirrah, get thee to Plashy, to my sister Gloucester;"
+      - "Bid her send me presently a thousand pound:"
+      - "Hold, take my ring."
+    m:
+      - "The nobles have fled, the commoners aren’t concerned, and they will likely fight on Hereford’s side.  Sir, get thee to Plashy, to my sister-in-law Gloucester. Tell her to send me one thousand pounds right away. Wait, take my ring."
+
+  - sp: SERVANT
+    o:
+      - "My lord, I had forgot to tell your lordship,"
+      - "To-day, as I came by, I called there;"
+      - "But I shall grieve you to report the rest."
+    m:
+      - "My lord, I forgot to tell you, I went by her house today. But it will upset you if I tell you the rest."
+
+  - sp: DUKE OF YORK
+    o:
+      - "What is’t, knave?"
+    m:
+      - "What is it, boy?"
+
+  - sp: SERVANT
+    o:
+      - "An hour before I came, the duchess died."
+    m:
+      - "An hour before I got there, your sister-in-law died."
+
+  - sp: DUKE OF YORK
+    o:
+      - "God for his mercy! what a tide of woes"
+      - "Comes rushing on this woeful land at once!"
+      - "I know not what to do: I would to God,"
+      - "So my untruth had not provoked him to it,"
+      - "The king had cut off my head with my brother’s."
+      - "What, are there no posts dispatch’d for Ireland?"
+      - "How shall we do for money for these wars?"
+      - "Come, sister,—cousin, I would say—pray, pardon me."
+      - "Go, fellow, get thee home, provide some carts"
+      - "And bring away the armour that is there."
+    m:
+      - "God have mercy! What a tide of troubles comes rushing over this land all at once! I don’t know what to do. I wish to God that the king had cut off my head when he cut off my brother’s. Has no one sent any messengers to Ireland yet? How are we going to pay for these wars? Come, sister—or I should say, cousin. Excuse me. *(to the servant)* Go home, fellow, and find some carts and bring the armor that’s there."
+
+  - os: "Exit Servant"
+    ms: "The Servant exits."
+
+  - o:
+      - "Gentlemen, will you go muster men?"
+      - "If I know how or which way to order these affairs"
+      - "Thus thrust disorderly into my hands,"
+      - "Never believe me. Both are my kinsmen:"
+      - "The one is my sovereign, whom both my oath"
+      - "And duty bids defend; the other again"
+      - "Is my kinsman, whom the king hath wrong’d,"
+      - "Whom conscience and my kindred bids to right."
+      - "Well, somewhat we must do. Come, cousin, I’ll"
+      - "Dispose of you."
+      - "Gentlemen, go, muster up your men,"
+      - "And meet me presently at Berkeley."
+      - "I should to Plashy too;"
+      - "But time will not permit: all is uneven,"
+      - "And every thing is left at six and seven."
+    m:
+      - "Gentlemen, will you go round up some men? I don’t know what I should do now. Both Richard and Bolingbroke are my kinsmen. One is my king, to whom I’ve pledged allegiance and have a duty to defend. The other is my kinsman, whom the king has mistreated. My conscience and my family bonds tell me to right those wrongs. Well, we’ve got to do something. *(to the queen)* Come, cousin, I’ll make arrangements for you. Gentlemen, go and round up some men and meet me at Berkeley Castle. I should go to Plashy, too, but there isn’t enough time. Everything is in chaos."
+
+  - os: "Exeunt DUKE OF YORK and QUEEN"
+    ms: "The DUKE OF YORK and the QUEEN exit."
+
+  - sp: BUSHY
+    o:
+      - "The wind sits fair for news to go to Ireland,"
+      - "But none returns. For us to levy power"
+      - "Proportionable to the enemy"
+      - "Is all unpossible."
+    m:
+      - "The message has probably reached Ireland, but no news has come back yet. It’s impossible for us to find enough soldiers to match the enemy’s force."
+
+  - sp: GREEN
+    o:
+      - "Besides, our nearness to the king in love"
+      - "Is near the hate of those love not the king."
+    m:
+      - "Besides, our closeness to the king means we are hated by those who hate the king."
+
+  - sp: BAGOT
+    o:
+      - "And that’s the wavering commons: for their love"
+      - "Lies in their purses, and whoso empties them"
+      - "By so much fills their hearts with deadly hate."
+    m:
+      - "And that’s how the common folk must be. Their love depends on who gives them money, and they hate those who take their money away."
+
+  - sp: BUSHY
+    o:
+      - "Wherein the king stands generally condemn’d."
+    m:
+      - "That’s why almost all the common folk hate the king."
+
+  - sp: BAGOT
+    o:
+      - "If judgement lie in them, then so do we,"
+      - "Because we ever have been near the king."
+    m:
+      - "If they’re to be the judges, then our fate is in their hands, because we’ve always been on the side of the king."
+
+  - sp: GREEN
+    o:
+      - "Well, I will for refuge straight to Bristol castle:"
+      - "The Earl of Wiltshire is already there."
+    m:
+      - "Well, I’m going straight to Bristol Castle to take refuge. The Earl of Wiltshire is already there."
+
+  - sp: BUSHY
+    o:
+      - "Thither will I with you; for little office"
+      - "The hateful commons will perform for us,"
+      - "Except like curs to tear us all to pieces."
+      - "Will you go along with us?"
+    m:
+      - "I’ll go with you. The hateful common folk won’t help us at all but will act like dogs and tear us to pieces. Will you come with us?"
+
+  - sp: BAGOT
+    o:
+      - "No; I will to Ireland to his majesty."
+      - "Farewell: if heart’s presages be not vain,"
+      - "We three here art that ne’er shall meet again."
+    m:
+      - "No. I’ll go to the king in Ireland. Goodbye. If my instinct is correct, the three of us here will never meet again."
+
+  - sp: BUSHY
+    o:
+      - "That’s as York thrives to beat back Bolingbroke."
+    m:
+      - "That depends on whether York can defeat Bolingbroke."
+
+  - sp: GREEN
+    o:
+      - "Alas, poor duke! the task he undertakes"
+      - "Is numbering sands and drinking oceans dry:"
+      - "Where one on his side fights, thousands will fly."
+      - "Farewell at once, for once, for all, and ever."
+    m:
+      - "Oh, poor duke! The task he must begin is as hard as counting the sand in a desert or drinking all the water in the ocean. For every person who fights with him, there will be thousands who will not. Goodbye immediately and forever."
+
+  - sp: BUSHY
+    o:
+      - "Well, we may meet again."
+    m:
+      - "Well, we might meet again."
+
+  - sp: BAGOT
+    o:
+      - "I fear me, never."
+    m:
+      - "I fear that we won’t."
+
+  - os: "Exeunt"
+    ms: "They exit."

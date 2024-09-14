@@ -1,0 +1,387 @@
+play: Richard III
+title: Act 2, Scene 2
+group: 2
+order: 5
+text:
+  - os: "Enter the old DUCHESS of York, with the two children of Clarence"
+    ms: "The old DUCHESS OF YORK enters with CLARENCE’s two children."
+
+  - sp: BOY
+    o:
+      - "Good grandam, tell us, is our father dead?"
+    m:
+      - "Tell me, good grandmother, is our father dead?"
+
+  - sp: DUCHESS
+    o:
+      - "No, boy."
+    m:
+      - "No, boy."
+
+  - sp: GIRL
+    o:
+      - "Why do you weep so oft, and beat your breast,"
+      - "And cry, “O Clarence, my unhappy son?”"
+    m:
+      - "Then why do you weep so often, and beat your breast, and cry, “Oh Clarence, my unlucky son”?"
+
+  - sp: BOY
+    o:
+      - "Why do you look on us and shake your head,"
+      - "And call us orphans, wretches, castaways,"
+      - "If that our noble father were alive?"
+    m:
+      - "Why do you look at us and shake your head, and call us orphans, wretches, castaways, if our noble father is still alive?"
+
+  - sp: DUCHESS
+    o:
+      - "My pretty cousins, you mistake me both."
+      - "I do lament the sickness of the king,"
+      - "As loath to lose him, not your father’s death."
+      - "It were lost sorrow to wail one that’s lost."
+    m:
+      - "My pretty children, both of you misunderstand me. I’m lamenting the sickness of the king, because I’d hate to lose him—I’m not mourning your father’s death. What would be the point of crying over someone who was already dead?"
+
+  - sp: BOY
+    o:
+      - "Then, you conclude, my grandam, he is dead."
+      - "The king mine uncle is to blame for it."
+      - "God will revenge it, whom I will importune"
+      - "With earnest prayers, all to that effect."
+    m:
+      - "So you’re admitting Clarence, my father, is dead. My uncle the king is to blame for this. God will take revenge. I will pray every day that he does."
+
+  - sp: GIRL
+    o:
+      - "And so will I."
+    m:
+      - "And so will I."
+
+  - sp: DUCHESS
+    o:
+      - "Peace, children, peace. The king doth love you well."
+      - "Incapable and shallow innocents,"
+      - "You cannot guess who caused your father’s death."
+    m:
+      - "Quiet, children, quiet. The king loves you very much. Innocent sweethearts, you have no idea who’s responsible for your father’s death."
+
+  - sp: BOY
+    o:
+      - "Grandam, we can, for my good uncle Gloucester"
+      - "Told me the king, provoked to it by the queen,"
+      - "Devised impeachments to imprison him;"
+      - "And when my uncle told me so, he wept,"
+      - "And pitied me, and kindly kissed my cheek,"
+      - "Bade me rely on him as on my father,"
+      - "And he would love me dearly as a child."
+    m:
+      - "Yes we do, grandmother, because my good uncle Richard told me. He said the king was forced by the queen to make up charges against my father that would send him to prison. When my uncle explained this to me, he wept and hugged and kissed me. He told me I could rely on him as if he were my father, and he said he would love me as if I were his child."
+
+  - sp: DUCHESS
+    o:
+      - "Ah, that deceit should steal such gentle shape,"
+      - "And with a virtuous visor hide deep vice."
+      - "He is my son, ay, and therein my shame,"
+      - "Yet from my dugs he drew not this deceit."
+    m:
+      - "Ah, it’s a shame that a liar can seem so nice, hiding his wicked intentions under a mask of goodness. He is my son, yes, and I’m ashamed of him. But he didn’t get his deceitfulness from my breast."
+
+  - sp: BOY
+    o:
+      - "Think you my uncle did dissemble, grandam?"
+    m:
+      - "You think my uncle was lying, grandmother?"
+
+  - sp: DUCHESS
+    o:
+      - "Ay, boy."
+    m:
+      - "Yes, boy."
+
+  - sp: BOY
+    o:
+      - "I cannot think it. Hark, what noise is this?"
+    m:
+      - "I can’t believe that. Wait! What’s that noise?"
+
+  - os: "Enter QUEEN ELIZABETH, with her hair about her ears, RIVERS, and DORSET after her"
+    ms: "QUEEN ELIZABETH enters with her hair undone. RIVERS, and DORSETfollow."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Ah, who shall hinder me to wail and weep,"
+      - "To chide my fortune and torment myself?"
+      - "I’ll join with black despair against my soul"
+      - "And to myself become an enemy."
+    m:
+      - "No one can stop me now from wailing and weeping about my terrible luck. I don’t care if it kills me. I plan to fall into the blackest despair."
+
+  - sp: DUCHESS
+    o:
+      - "What means this scene of rude impatience?"
+    m:
+      - "Why are you making such a scene?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "To make an act of tragic violence."
+      - "Edward, my lord, thy son, our king, is dead."
+      - "Why grow the branches when the root is gone?"
+      - "Why wither not the leaves that want their sap?"
+      - "If you will live, lament. If die, be brief,"
+      - "That our swift-wingèd souls may catch the king’s,"
+      - "Or, like obedient subjects, follow him"
+      - "To his new kingdom of ne’er-changing night."
+    m:
+      - "I’m simply performing the violent tragedy that is my life: Edward—my husband, your son, our king—is dead. Why should we live now that our leader is dead? Why are the branches still living when the root is gone? Why aren’t the leaves withering now that the sap is all dried up? If you do intend to live, then mourn. If you’re going to die, be quick about it so you can catch the king’s departing soul or follow him, like obedient subjects, to his new kingdom of endless night."
+
+  - sp: DUCHESS
+    o:
+      - "Ah, so much interest have I in thy sorrow"
+      - "As I had title in thy noble husband."
+      - "I have bewept a worthy husband’s death"
+      - "And lived with looking on his images;"
+      - "But now two mirrors of his princely semblance"
+      - "Are cracked in pieces by malignant death,"
+      - "And I, for comfort, have but one false glass"
+      - "That grieves me when I see my shame in him."
+      - "Thou art a widow, yet thou art a mother,"
+      - "And hast the comfort of thy children left,"
+      - "But death hath snatched my husband from mine arms"
+      - "And plucked two crutches from my feeble hands,"
+      - "Clarence and Edward. O, what cause have I,"
+      - "Thine being but a moiety of my moan,"
+      - "To overgo thy woes and drown thy cries!"
+    m:
+      - "As the king’s mother, I have a large share in your grief. I have wept at my own good husband’s death and only kept myself alive by looking at his sons, the mirror images of him. But now these two mirrors of their princely father have cracked to pieces: my sons are dead. And my only comfort is Richard, who is nothing like his father and only causes me shame. You may be a widow, but you’re also a mother. You have your children as comfort. But death has snatched my husband from my arms and plucked my two crutches, Edward and Clarence, from my feeble hands. Since your woes are only a portion of mine, I have every reason to surpass your lamentations and drown out your cries with my own."
+
+  - sp: BOY
+    o:
+      - "*(to QUEEN ELIZABETH)* Ah, aunt, you wept not for our"
+      - "  father’s death."
+      - "How can we aid you with our kindred tears?"
+    m:
+      - "*(to QUEEN ELIZABETH)* Ah, Aunt, you didn’t weep at our father’s death. How can we help you by crying for your sorrow?"
+
+  - sp: GIRL
+    o:
+      - "Our fatherless distress was left unmoaned."
+      - "Your widow-dolor likewise be unwept!"
+    m:
+      - "You didn’t sympathize with us when we became orphans; we won’t cry for you!"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Give me no help in lamentation."
+      - "I am not barren to bring forth complaints."
+      - "All springs reduce their currents to mine eyes,"
+      - "That I, being governed by the watery moon,"
+      - "May send forth plenteous tears to drown the world."
+      - "Ah, for my husband, for my dear lord Edward!"
+    m:
+      - "I don’t need your help in grieving. I have my own sources of misery. In fact, all the world’s springs and oceans flow from my weeping eyes. I could drown the world. My poor husband, my dear Edward!"
+
+  - sp: CHILDREN
+    o:
+      - "Ah, for our father, for our dear lord Clarence!"
+    m:
+      - "Our poor father, Clarence!"
+
+  - sp: DUCHESS
+    o:
+      - "Alas for both, both mine, Edward and Clarence!"
+    m:
+      - "My sons Edward and Clarence!"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "What stay had I but Edward? And he’s gone."
+    m:
+      - "What support did I have other than Edward? And now he’s gone."
+
+  - sp: CHILDREN
+    o:
+      - "What stay had we but Clarence? And he’s gone."
+    m:
+      - "What support did we have besides our father? And now he’s gone."
+
+  - sp: DUCHESS
+    o:
+      - "What stays had I but they? And they are gone."
+    m:
+      - "What support did I have besides my two sons? And now they’re both gone."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Was never widow had so dear a loss."
+    m:
+      - "There has never been a widow who suffered such loss as me."
+
+  - sp: CHILDREN
+    o:
+      - "Were never orphans had so dear a loss."
+    m:
+      - "There have never been orphans who’ve suffered what we have."
+
+  - sp: DUCHESS
+    o:
+      - "Was never mother had so dear a loss."
+      - "Alas, I am the mother of these griefs."
+      - "Their woes are parceled; mine are general."
+      - "She for an Edward weeps, and so do I;"
+      - "I for a Clarence weep; so doth not she."
+      - "These babes for Clarence weep and so do I;"
+      - "I for an Edward weep; so do not they."
+      - "Alas, you three, on me, threefold distressed,"
+      - "Pour all your tears. I am your sorrow’s nurse,"
+      - "And I will pamper it with lamentations."
+    m:
+      - "There was never a mother who suffered so much loss. Alas, I am the mother of all these others’ griefs. Each of them has a single loss, while I share them all. She weeps for Edward and so do I, while she does not weep for Clarence, though I do. These young children cry for Clarence and so do I, though they don’t cry for Edward, as I do. Alas, all of you can turn to me with your sorrow, because I feel all of it. I will comfort you by adding my own grief to your sorrow."
+
+  - sp: DORSET
+    o:
+      - "*(to QUEEN ELIZABETH)* Comfort, dear mother. God is"
+      - "  much displeased"
+      - "That you take with unthankfulness, his doing."
+      - "In common worldly things, ’tis called ungrateful"
+      - "With dull unwillingness to repay a debt"
+      - "Which with a bounteous hand was kindly lent;"
+      - "Much more to be thus opposite with heaven,"
+      - "For it requires the royal debt it lent you."
+    m:
+      - "*(to QUEEN ELIZABETH)* Calm down, dear mother. God is unhappy that you’ve responded so unthankfully to his doings. In everyday life, when a person is unwilling to pay back a loan that was generously offered, he’s considered ungrateful. How much worse it is when Heaven is the lender, as in your case?"
+
+  - sp: RIVERS
+    o:
+      - "Madam, bethink you, like a careful mother,"
+      - "Of the young prince your son. Send straight for him."
+      - "Let him be crowned. In him your comfort lives."
+      - "Drown desperate sorrow in dead Edward’s grave"
+      - "And plant your joys in living Edward’s throne."
+    m:
+      - "Be a careful mother, madam, and think about your son, the young prince. Send for him right away and have him crowned. Your peace of mind depends on him. Bury your sorrows in dead Edward’s grave and plant your hopes in Prince Edward’s rise to the throne."
+
+  - os: "Enter RICHARD, BUCKINGHAM, STANLEY, HASTINGS, and RATCLIFFE"
+    ms: "RICHARD, BUCKINGHAM, STANLEY, HASTINGS, and RATCLIFFE enter."
+
+  - sp: RICHARD
+    o:
+      - "Sister, have comfort. All of us have cause"
+      - "To wail the dimming of our shining star,"
+      - "But none can help our harms by wailing them.—"
+      - "Madam, my mother, I do cry you mercy;"
+      - "I did not see your Grace. Humbly on my knee"
+      - "I crave your blessing."
+    m:
+      - "Sister, calm down. All of us have reason to mourn the dimming of our shining star the king. But no good comes from all this wailing. Oh, mother, forgive me. I didn’t see you there. On my knee, I humbly ask your blessing."
+
+  - os: "He kneels"
+    ms: "He kneels"
+
+  - sp: DUCHESS
+    o:
+      - "God bless thee, and put meekness in thy breast,"
+      - "Love, charity, obedience, and true duty."
+    m:
+      - "God bless you and make you obedient, loving, and kind."
+
+  - sp: RICHARD
+    o:
+      - "*(standing)* Amen. *(aside)* And make me die a good old man!"
+      - "That is the butt end of a mother’s blessing;"
+      - "I marvel that her Grace did leave it out."
+    m:
+      - "*(he stands)* Amen. *(to himself)* And make me die a good old man! That should be the point of a mother’s blessing. I’m surprised my mother forgot to make it."
+
+  - sp: BUCKINGHAM
+    o:
+      - "You cloudy princes and heart-sorrowing peers"
+      - "That bear this heavy mutual load of moan,"
+      - "Now cheer each other in each other’s love."
+      - "Though we have spent our harvest of this king,"
+      - "We are to reap the harvest of his son."
+      - "The broken rancor of your high-swoll’n hates,"
+      - "But lately splintered, knit, and joined together,"
+      - "Must gently be preserved, cherished, and kept."
+      - "Meseemeth good that with some little train"
+      - "Forthwith from Ludlow the young prince be fet"
+      - "Hither to London, to be crowned our king."
+    m:
+      - "You mournful princes and grieving gentlemen who have been sharing this burden of grief, now it’s time to cheer each other up with love. Though we have lost a generous king, we are about to enjoy the benefits of a new king. We must preserve our goodwill toward each other and not break into factions again. I think a few members of the court should fetch the young prince from Wales and bring him to London to be crowned our king."
+
+  - sp: RIVERS
+    o:
+      - "Why “with some little train,” my Lord of Buckingham?"
+    m:
+      - "Why only a few courtiers, my lord of Buckingham?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "Marry, my lord, lest by a multitude"
+      - "The new-healed wound of malice should break out,"
+      - "Which would be so much the more dangerous"
+      - "By how much the estate is green and yet ungoverned."
+      - "Where every horse bears his commanding rein"
+      - "And may direct his course as please himself,"
+      - "As well the fear of harm as harm apparent,"
+      - "In my opinion, ought to be prevented."
+    m:
+      - "Because if many of us go there, the hostility between us may break out again, which would be very dangerous with the young prince so newly crowned. When you have a situation where everyone seems free to take off on his or her own, it’s important that the heads of state keep a low profile. We wouldn’t want the prince or his new authority to be undermined by squabbling factions."
+
+  - sp: RICHARD
+    o:
+      - "I hope the king made peace with all of us;"
+      - "And the compact is firm and true in me."
+    m:
+      - "The king made peace among all of us. I, at least, intend to stick to our agreement to get along."
+
+  - sp: RIVERS
+    o:
+      - "And so in me, and so, I think, in all."
+      - "Yet since it is but green, it should be put"
+      - "To no apparent likelihood of breach,"
+      - "Which haply by much company might be urged."
+      - "Therefore I say with noble Buckingham"
+      - "That it is meet so few should fetch the prince."
+    m:
+      - "And so do I. I think we all do. But, since our agreement is a recent development, it shouldn’t be put to the test, which could happen if the coronation turned into a huge ceremony. So, I agree with noble Buckingham—only a few should go to meet the prince."
+
+  - sp: HASTINGS
+    o:
+      - "And so say I."
+    m:
+      - "I think so too."
+
+  - sp: RICHARD
+    o:
+      - "Then be it so, and go we to determine"
+      - "Who they shall be that straight shall post to Ludlow.—"
+      - "Madam, and you, my sister, will you go"
+      - "To give your censures in this business?"
+    m:
+      - "Then we’re agreed. Now we need to figure out which of us will go to meet him. Madam and mother, will you go to offer your support to this weighty business?"
+
+  - os: "Exeunt all but BUCKINGHAM and RICHARD"
+    ms: "Everyone but BUCKINGHAM and RICHARD exits."
+
+  - sp: BUCKINGHAM
+    o:
+      - "My lord, whoever journeys to the prince,"
+      - "For God’s sake let not us two at home."
+      - "For by the way I’ll sort occasion,"
+      - "As index to the story we late talked of,"
+      - "To part the queen’s proud kindred from the prince."
+    m:
+      - "For God’s sake, my lord, let’s be sure to be part of the group that meets the prince. Along the way, I’ll find an opportunity to separate him from the queen’s proud relatives, as step one in the plan we’ve discussed."
+
+  - sp: RICHARD
+    o:
+      - "My other self, my council’s consistory,"
+      - "My oracle, my prophet, my dear cousin,"
+      - "I, as a child, will go by thy direction"
+      - "Toward Ludlow then, for we’ll not stay behind."
+    m:
+      - "You are my other self, my oracle, my prophet, my dear brother! I plan to act like a child and do exactly what you say. To Wales then, for we will not be left out."
+
+  - os: "Exeunt"
+    ms: "They exit."

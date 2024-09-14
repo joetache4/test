@@ -1,0 +1,239 @@
+play: Henry IV, Part I
+title: Act 5, Scene 2
+group: 5
+order: 15
+text:
+  - os: "Enter WORCESTER and Sir Richard VERNON"
+    ms: "WORCESTER and Sir Richard VERNON enter."
+
+  - sp: WORCESTER
+    o:
+      - "O no, my nephew must not know, Sir Richard,"
+      - "The liberal and kind offer of the King."
+    m:
+      - "Oh no, Sir Richard, my nephew cannot be told about the generous and kind offer the King made."
+
+  - sp: VERNON
+    o:
+      - "’Twere best he did."
+    m:
+      - "But he should be told."
+
+  - sp: WORCESTER
+    o:
+      - "  Then are we all undone."
+      - "It is not possible, it cannot be"
+      - "The King should keep his word in loving us."
+      - "He will suspect us still and find a time"
+      - "To punish this offense in other faults."
+      - "Suspicion all our lives shall be stuck full of eyes,"
+      - "For treason is but trusted like the fox,"
+      - "Who, never so tame, so cherished and locked up,"
+      - "Will have a wild trick of his ancestors."
+      - "Look how we can, or sad or merrily,"
+      - "Interpretation will misquote our looks,"
+      - "And we shall feed like oxen at a stall,"
+      - "The better cherished still the nearer death."
+      - "My nephew’s trespass may be well forgot;"
+      - "It hath the excuse of youth and heat of blood,"
+      - "And an adopted name of privilege—"
+      - "A hairbrained Hotspur governed by a spleen:"
+      - "All his offenses live upon my head"
+      - "And on his father’s. We did train him on,"
+      - "And, his corruption being ta’en from us,"
+      - "We as the spring of all shall pay for all."
+      - "Therefore, good cousin, let not Harry know"
+      - "In any case the offer of the King."
+    m:
+      - "It will be the end of all of us! There is absolutely no way that the King will keep his word and trust us again. He will always be wary of us. He’ll find other reasons to punish us for this rebellion. For the rest of our lives he and his loyalists will look on us with suspicion. Treason is like a fox: you can tame it, care for it, and put it in a cage, but it will always have the wild instincts it inherited from its ancestors. No matter how we look—sad or happy—people will interpret our looks in the worst possible light. We’ll be like oxen in a stall: the better they’re fed, the closer they are to being slaughtered. My nephew’s disloyalty might be forgiven: his young age and hot temper will excuse it. Plus, his nickname gives him permission: Hotspur the Harebrain, always flaring up. All his offenses will be blamed on me and his father. After all, we encouraged him, and since we taught him to be angry at the King, we’ll pay for it. So cousin, don’t by any means let Harry know what the King offered."
+
+  - sp: VERNON
+    o:
+      - "Deliver what you will; I’ll say ’tis so."
+    m:
+      - "Tell him what you want, and I’ll back you up."
+
+  - os: "Enter HOTSPUR and DOUGLAS"
+    ms: "HOTSPUR and DOUGLAS enter."
+
+  - o:
+      - "Here comes your cousin."
+    m:
+      - "Here comes your nephew."
+
+  - sp: HOTSPUR
+    o:
+      - "  My uncle is returned."
+      - "Deliver up my Lord of Westmoreland.—"
+      - "Uncle, what news?"
+    m:
+      - "My uncle’s back. Free Westmoreland, his hostage. Uncle, what’s happening?"
+
+  - sp: WORCESTER
+    o:
+      - "The King will bid you battle presently."
+    m:
+      - "The King will beckon you to battle shortly."
+
+  - sp: DOUGLAS
+    o:
+      - "Defy him by the Lord of Westmoreland."
+    m:
+      - "Have Westmoreland deliver your message of defiance."
+
+  - sp: HOTSPUR
+    o:
+      - "Lord Douglas, go you and tell him so."
+    m:
+      - "Douglas, go tell him to do that."
+
+  - sp: DOUGLAS
+    o:
+      - "Marry, and shall, and very willingly."
+    m:
+      - "Indeed, I will, and gladly."
+
+  - os: "Exit DOUGLAS"
+    ms: "DOUGLAS exits."
+
+  - sp: WORCESTER
+    o:
+      - "There is no seeming mercy in the King."
+    m:
+      - "The King doesn’t appear willing to forgive us."
+
+  - sp: HOTSPUR
+    o:
+      - "Did you beg any? God forbid!"
+    m:
+      - "Did you ask him to? God forbid!"
+
+  - sp: WORCESTER
+    o:
+      - "I told him gently of our grievances,"
+      - "Of his oath-breaking, which he mended thus"
+      - "By now forswearing that he is forsworn."
+      - "He calls us “rebels,” “traitors,” and will scourge"
+      - "With haughty arms this hateful name in us."
+    m:
+      - "I politely told him what our issues were. I accused him of breaking his promise to us, and here’s how he answered: he lied about the fact that he lied. He called us rebels, traitors, and said he’d punish us with his mighty army."
+
+  - os: "Enter DOUGLAS"
+    ms: "DOUGLAS enters."
+
+  - sp: DOUGLAS
+    o:
+      - "Arm, gentlemen, to arms. For I have thrown"
+      - "A brave defiance in King Henry’s teeth,"
+      - "And Westmoreland, that was engaged, did bear it,"
+      - "Which cannot choose but bring him quickly on."
+    m:
+      - "Get your weapons, gentlemen, get your weapons! I sent King Henry a brave and defiant message, and Westmoreland, who was our hostage, will deliver it. This will surely bring the battle on immediately."
+
+  - sp: WORCESTER
+    o:
+      - "The Prince of Wales stepped forth before the King,"
+      - "And, nephew, challenged you to single fight."
+    m:
+      - "The Prince of Wales stepped forward, nephew, and challenged you to a one-on-one fight."
+
+  - sp: HOTSPUR
+    o:
+      - "O, would the quarrel lay upon our heads,"
+      - "And that no man might draw short breath today"
+      - "But I and Harry Monmouth! Tell me, tell me,"
+      - "How showed his tasking? Seemed it in contempt?"
+    m:
+      - "Oh, I wish the whole battle were between us, and that the only people who would lose their breath today would be me and Harry Monmouth! Tell me, tell me, what was the tone of his challenge? Did he show contempt for me?"
+
+  - sp: VERNON
+    o:
+      - "No, by my soul. I never in my life"
+      - "Did hear a challenge urged more modestly,"
+      - "Unless a brother should a brother dare"
+      - "To gentle exercise and proof of arms."
+      - "He gave you all the duties of a man,"
+      - "Trimmed up your praises with a princely tongue,"
+      - "Spoke your deservings like a chronicle,"
+      - "Making you ever better than his praise"
+      - "By still dispraising praise valued in you,"
+      - "And, which became him like a prince indeed,"
+      - "He made a blushing cital of himself,"
+      - "And chid his truant youth with such a grace"
+      - "As if he mastered there a double spirit"
+      - "Of teaching and of learning instantly."
+      - "There did he pause: but let me tell the world:"
+      - "If he outlive the envy of this day,"
+      - "England did never owe so sweet a hope,"
+      - "So much misconstrued in his wantonness."
+    m:
+      - "No, I swear; I never heard a challenge issued more gracefully. It was like a brother asking a brother to a little friendly competition. He paid you all due respect, and he summed up your good qualities in the most princely language. He spoke of how deserving you are, as though he were your biographer. He claimed you were even above praise, for simple praise could never measure up to your true merits. And he gave a modest account of himself, as well, which made him seem like a true prince indeed. He berated himself for having behaved wildly, but he said this so gracefully that he sounded like a teacher giving a lesson and a student learning one at the same time. There he stopped, but let me say this: if he survives this battle, then England never had a sweeter hope, nor one so misunderstood in his recklessness."
+
+  - sp: HOTSPUR
+    o:
+      - "Cousin, I think thou art enamorèd"
+      - "On his follies. Never did I hear"
+      - "Of any Prince so wild a liberty."
+      - "But be he as he will, yet once ere night"
+      - "I will embrace him with a soldier’s arm,"
+      - "That he shall shrink under my courtesy.—"
+      - "Arm, arm with speed, and, fellows, soldiers, friends,"
+      - "Better consider what you have to do"
+      - "Than I that have not well the gift of tongue"
+      - "Can lift your blood up with persuasion."
+    m:
+      - "I think you’ve been charmed by his foolishness. I’ve never heard of a Prince who was so wild and loose. But however he wants to seem, before night falls I will embrace him with these soldier’s arms, and he will tremble at my affection. Get ready, get ready quickly! And friends, partners, soldiers, take a moment to think for yourselves about what you have to do. I’m not a good enough speaker to motivate you."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "My lord, here are letters for you."
+    m:
+      - "My lord, I have some letters for you."
+
+  - sp: HOTSPUR
+    o:
+      - "I cannot read them now.—"
+      - "O gentlemen, the time of life is short;"
+      - "To spend that shortness basely were too long"
+      - "If life did ride upon a dial’s point,"
+      - "Still ending at the arrival of an hour."
+      - "An if we live, we live to tread on kings;"
+      - "If die, brave death, when princes die with us."
+      - "Now, for our consciences, the arms are fair"
+      - "When the intent of bearing them is just."
+    m:
+      - "I can’t read them now. Oh, gentlemen, life is short. But if you spend that brief time shamefully, you are wasting your time: even if life lasted only an hour, it would still be too long. If we live, it will be in triumph over kings. If we die, it will be a glorious death, since princes will die with us. As for our consciences, our battle is fair: it’s right to bear arms when the cause is just."
+
+  - os: "Enter another MESSENGER"
+    ms: "Another MESSENGER enters."
+
+  - sp: SECOND MESSENGER
+    o:
+      - "My lord, prepare. The King comes on apace."
+    m:
+      - "My lord, get ready. The King has launched his attack."
+
+  - sp: HOTSPUR
+    o:
+      - "I thank him that he cuts me from my tale,"
+      - "For I profess not talking. Only this:"
+      - "Let each man do his best. And here draw I a sword,"
+      - "Whose temper I intend to stain"
+      - "With the best blood that I can meet withal"
+      - "In the adventure of this perilous day."
+      - "Now, Esperance! Percy! And set on."
+      - "Sound all the lofty instruments of war,"
+      - "And by that music let us all embrace,"
+      - "For, heaven to earth, some of us never shall"
+      - "A second time do such a courtesy."
+    m:
+      - "I thank him for cutting off my speech, since I have no talent for speaking. Only one more thing: each man should do his best, and with that I will draw my sword. On this dangerous day, I intend to stain it with the best blood I can find. “Hope is my comfort!” Percy! Let’s go! Sound all the imposing instruments of battle, and let’s embrace one another to the tune of that music. For, by heaven, some of us will never be able to do that again."
+
+  - os: "Here they embrace. The trumpets sound."
+    ms: "They embrace. The trumpets sound."
+
+  - os: "Exeunt"
+    ms: "They exit."

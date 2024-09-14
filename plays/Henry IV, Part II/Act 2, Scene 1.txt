@@ -1,0 +1,540 @@
+play: Henry IV, Part II
+title: Act 2, Scene 1
+group: 2
+order: 4
+text:
+  - os: "Enter MISTRESS QUICKLY, with two officers; FANG with her and SNARE following"
+    ms: "MISTRESS QUICKLY enters with Sheriff FANG. Deputy SNARE follows."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Master Fang, have you entered the action?"
+    m:
+      - "Master Fang, have you filed the lawsuit?"
+
+  - sp: FANG
+    o:
+      - "It is entered."
+    m:
+      - "It’s filed."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Where’s your yeoman? Is ’t a lusty yeoman? Will a’"
+      - "stand to ’t?"
+    m:
+      - "Where’s your deputy? Is he a strong deputy? Will he rise to the occasion?"
+
+  - sp: FANG
+    o:
+      - "Sirrah! Where’s Snare?"
+    m:
+      - "Sirrah, where’s Snare?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O Lord, ay, good Master Snare."
+    m:
+      - "Oh my goodness! Master Snare!"
+
+  - sp: SNARE
+    o:
+      - "Here, here."
+    m:
+      - "Here, here."
+
+  - sp: FANG
+    o:
+      - "Snare, we must arrest Sir John Falstaff."
+    m:
+      - "Snare, we’ve got to arrest Sir John Falstaff."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Yea, good Master Snare, I have entered him and all."
+    m:
+      - "Yes, good Master Snare. I’ve filed the suit against him and everything."
+
+  - sp: SNARE
+    o:
+      - "It may chance cost some of us our lives, for he will stab."
+    m:
+      - "It could cost some of us our lives: he’ll stab."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Alas the day, take heed of him. He stabbed me in mine own"
+      - "house, and that most beastly, in good faith. He cares not what"
+      - "mischief he does. If his weapon be out, he will foin like any"
+      - "devil. He will spare neither man, woman, nor child."
+    m:
+      - "Oh my goodness! Watch out for him: he stabbed me in my own house, and it was nasty. I swear, he doesn’t care what trouble he causes. Once he’s got his weapon out, he’ll thrust it like the devil. He won’t spare man, woman, or child."
+
+  - sp: FANG
+    o:
+      - "If I can close with him, I care not for his thrust."
+    m:
+      - "If I can get close to him, I won’t worry about his thrusting."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "No, nor I neither. I’ll be at your elbow."
+    m:
+      - "Me neither. I’ll be right next to you."
+
+  - sp: FANG
+    o:
+      - "An I but fist him once, an he come but within my view—"
+    m:
+      - "If I can grab him once, if he just comes within my grasp-"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "I am undone by his going. I warrant you, he’s an infinitive"
+      - "thing upon my score. Good Master Fang, hold him sure."
+      - "Good Master Snare, let him not ’scape. He comes"
+      - "continuantly to Pie Corner, saving your manhoods, to buy a"
+      - "saddle, and he is indited to dinner to the Lubber’s Head in"
+      - "Lumbert Street, to Master Smooth’s the silkman. I pray you,"
+      - "since my exion is entered, and my case so openly known to"
+      - "the world, let him be brought in to his answer. A hundred"
+      - "mark is a long one for a poor lone woman to bear, and I have"
+      - "borne, and borne, and borne, and have been fubbed off, and"
+      - "fubbed off, and fubbed off from this day to that day, that it"
+      - "is a shame to be thought on. There is no honesty in such"
+      - "dealing, unless a woman should be made an ass and a beast"
+      - "to bear every knave’s wrong. Yonder he comes, and that"
+      - "errant malmsey-nose knave, Bardolph, with him. Do your"
+      - "offices, do your offices, Master Fang and Master Snare, do"
+      - "me, do me, do me your offices."
+    m:
+      - "I’m bankrupt from his never paying. He’s run up an infinitive bill with me. Catch him, Master Fang! Don’t let him get away, Master Snare! He’s always going to Pie Corner—sorry to mention it—to buy a saddle. And every day he gets indited to lunch with Master Smooth the silk seller, at the Leopard’s Head on Lumbert Street. Please bring him to justice. I’ve been entered—I mean, my lawsuit’s been entered at court, and the whole world knows how easy I am—I mean how easy it was for him to rip me off. A hundred marks is a lot for a poor, solitary woman to take. And I’ve taken it, and taken it, and taken it. And I’ve been fobbed off and fobbed off and fobbed off, day in and day out. It’s horrible to even think about. That’s a terrible way to treat people, unless you think that every woman should be made an ass and an animal, and that she should be opened to every jerk’s molestation. Here he comes, with that notorious wine-faced crook, Bardolph. Do me a favor and do me your jobs, Master Fang and Master Snare. Do me! Do me! Do me a favor and do me your jobs!"
+
+  - os: "Enter FALSTAFF, BARDOLPH, and PAGE"
+    ms: "FALSTAFF, his PAGE, and BARDOLPH enter."
+
+  - sp: FALSTAFF
+    o:
+      - "How now! Whose mare’s dead? What’s the matter?"
+    m:
+      - "What’s going on? Whose horse died? What’s the matter?"
+
+  - sp: FANG
+    o:
+      - "Sir John, I arrest you at the suit of Mistress Quickly."
+    m:
+      - "Sir John, you’re under arrest for charges brought by Mistress Quickly."
+
+  - sp: FALSTAFF
+    o:
+      - "Away, varlets!—Draw, Bardolph. Cut me off the villain’s"
+      - "head. Throw the quean in the channel."
+    m:
+      - "Get out of here, you crooks! Draw your sword, Bardolph. Cut off this rascal’s head, and throw this whore in the gutter."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Throw me in the channel? I’ll throw thee in the channel. Wilt"
+      - "thou, wilt thou, thou bastardly rogue?—Murder, murder!—"
+      - "Ah, thou honeysuckle villain, wilt thou kill God’s officers"
+      - "and the King’s? Ah, thou honeyseed rogue, thou art a"
+      - "honeyseed, a man-queller, and a woman-queller."
+    m:
+      - "Throw me in the gutter? I’ll throw you in the gutter. You will? You will? You bastardly cheat! Murder! Murder! Oh, you honeysuckle criminal! You’re going to kill God’s sheriffs, and the King’s? Oh, you honey-seed creep! You’re a honey-seed, a man-killer, and a woman-killer."
+
+  - sp: FALSTAFF
+    o:
+      - "Keep them off, Bardolph."
+    m:
+      - "Keep them off me, Bardolph."
+
+  - sp: FANG
+    o:
+      - "A rescue, a rescue!"
+    m:
+      - "An escape! An escape!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Good people, bring a rescue or two.— *(to FALSTAFF)* Thou"
+      - "wot, wot thou? Thou wot, wot ta? Do, do, thou rogue. Do,"
+      - "thou hempseed."
+    m:
+      - "Somebody, bring an escape or two! *(to FALSTAFF)* You will, will you? You will, will you? Go ahead, go ahead, you scoundrel! You hemp-seed!"
+
+  - sp: FALSTAFF
+    o:
+      - "Away, you scullion, you rampallion, you fustilarian! I’ll"
+      - "tickle your catastrophe."
+    m:
+      - "Get off, you serving wench! You ruffian! You fat old hag! I’ll beat you on the backside!"
+
+  - os: "Enter the Lord CHIEF JUSTICE and his men"
+    ms: "The Lord CHIEF JUSTICE and his men enter."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "What is the matter? Keep the peace here, ho!"
+    m:
+      - "What’s the matter? Let’s have some order here!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Good my lord, be good to me. I beseech you stand to me."
+    m:
+      - "Good sir, be good to me. I beg you, stand up for me."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "How now, Sir John? What, are you brawling here?"
+      - "Doth this become your place, your time, and business?"
+      - "You should have been well on your way to York.—"
+      - "*(to FANG)* Stand from him, fellow: wherefore hang’st thou"
+      - "  upon him?"
+    m:
+      - "Well if it isn’t Sir John! Are you making trouble here? Is this appropriate for a man of your position, your age, and your responsibilities? You should be well on your way to York by now. *(to FANG)* Get off him, man. Why are you holding him?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O my most worshipful lord, an ’t please your Grace, I am a"
+      - "poor widow of Eastcheap, and he is arrested at my suit."
+    m:
+      - "Oh, most excellent lord, begging your pardon: I’m a poor Eastcheap widow, and he’s arrested on charges I brought against him."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "For what sum?"
+    m:
+      - "What sum does he owe you?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "It is more than for some, my lord; it is for all I have. He hath"
+      - "eaten me out of house and home. He hath put all my substance"
+      - "into that fat belly of his. *(to FALSTAFF)* But I will have some of"
+      - "it out again, or I will ride thee o’ nights like the mare."
+    m:
+      - "It’s more than some, sir: it’s all, all that I have. He’s eaten me out of house and home. He’s put everything I own into that fat belly of his. *(to FALSTAFF)* But I’ll get some of it back again, or I’ll ride you all night like a bad dream."
+
+  - sp: FALSTAFF
+    o:
+      - "I think I am as like to ride the mare if I have any vantage of"
+      - "ground to get up."
+    m:
+      - "I think I might just ride you, if I get the chance to mount you."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "How comes this, Sir John? Fie, what man of good temper"
+      - "would endure this tempest of exclamation? Are you not"
+      - "ashamed to enforce a poor widow to so rough a course to"
+      - "come by her own?"
+    m:
+      - "What is this, Sir John? Damn! How could any decent man put up with this storm of screaming and cursing? Aren’t you ashamed to force a poor widow to take these extreme measures simply to get what’s hers?"
+
+  - sp: FALSTAFF
+    o:
+      - "*(to MISTRESS QUICKLY)* What is the gross sum that I owe thee?"
+    m:
+      - "*(to MISTRESS QUICKLY)* What’s the total I owe you?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Marry, if thou wert an honest man, thyself and the money"
+      - "too. Thou didst swear to me upon a parcel-gilt goblet, sitting"
+      - "in my Dolphin chamber at the round table by a sea-coal fire,"
+      - "upon Wednesday in Wheeson week, when the Prince broke"
+      - "thy head for liking his father to a singing-man of Windsor,"
+      - "thou didst swear to me then, as I was washing thy wound, to"
+      - "marry me and make me my lady thy wife. Canst thou deny"
+      - "it? Did not goodwife Keech, the butcher’s wife, come in then"
+      - "and call me Gossip Quickly, coming in to borrow a mess of"
+      - "vinegar; telling us she had a good dish of prawns, whereby"
+      - "thou didst desire to eat some, whereby I told thee they were"
+      - "ill for a green wound? And didst thou not, when she was"
+      - "gone downstairs, desire me to be no more so familiarity with"
+      - "such poor people, saying that ere long they should call me"
+      - "madam? And didst thou not kiss me and bid me fetch thee"
+      - "thirty shillings? I put thee now to thy book-oath. Deny it if"
+      - "thou canst."
+    m:
+      - "My goodness! If you were an honest man, you’d give yourself to me, as well as the money. You swore to me—over a gold-plated wine goblet, in the Dolphin Room in my tavern, at the round table, next to the fire, on the Wednesday seven weeks after Easter, when the Prince swung at your head for claiming his father was a fake—you swore, while I was cleaning your wounds, to marry me and make me a proper lady and your wife. Can you deny it? Didn’t Mrs. Baconfat, the butcher’s wife, come into the room then and ask to borrow some vinegar, saying that she had some good prawns—and you wanted to eat some, and I told you that it was a bad idea, to eat shrimp when you had a fresh wound—and when she left, didn’t you tell me to stop being friends with low types like her, because before long we’d be married and I’d be a proper lady? And didn’t you kiss me and tell me to lend you thirty shillings? Put your hand on the bible and deny it, if you dare."
+
+  - sp: FALSTAFF
+    o:
+      - "My lord, this is a poor mad soul, and she says up and down"
+      - "the town that her eldest son is like you. She hath been in good"
+      - "case, and the truth is, poverty hath distracted her. But, for"
+      - "these foolish officers, I beseech you I may have redress"
+      - "against them."
+    m:
+      - "Sir, this is a poor, insane soul. She’s been saying all over town that her oldest son looks just like you. She was once rich, but poverty has driven her crazy. Now, as for these two foolish officers, I would like to press charges against them."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Sir John, Sir John, I am well acquainted with your manner"
+      - "of wrenching the true cause the false way. It is not a"
+      - "confident brow, nor the throng of words that come with such"
+      - "more than impudent sauciness from you, can thrust me from"
+      - "a level consideration. You have, as it appears to me,"
+      - "practiced upon the easy-yielding spirit of this woman, and"
+      - "made her serve your uses both in purse and in person."
+    m:
+      - "Sir John, Sir John. I know too well how you are accustomed to turning the truth into a big lie. But neither your confident demeanor nor the storm of words that accompanies your insolent disrespect will sway me from making a just consideration. As far as I can see, you’ve taken advantage of this trusting woman, and you’ve made her give you cash and other favors."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Yea, in truth, my lord."
+    m:
+      - "Yes, truthfully, sir."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Pray thee, peace.— *(to FALSTAFF)* Pay her the debt you owe"
+      - "her, and unpay the villany you have done her. The one you"
+      - "may do with sterling money, and the other with current"
+      - "repentance."
+    m:
+      - "Quiet, please. *(to FALSTAFF)* Pay her what you owe her, and undo the wrongdoings you’ve done to her. You can do the first with money, and the second with a sincere apology."
+
+  - sp: FALSTAFF
+    o:
+      - "My lord, I will not undergo this sneap without reply. You call"
+      - "honorable boldness “impudent sauciness.” If a man will"
+      - "make curtsy and say nothing, he is virtuous. No, my lord, my"
+      - "humble duty remembered, I will not be your suitor. I say to"
+      - "you, I do desire deliverance from these officers, being upon"
+      - "hasty employment in the King’s affairs."
+    m:
+      - "Sir, I will not put up with this snub without a reply. You call my brave, honorable dealings insolent disrespect. Does a man have to stand here, silent and bowing, to be a virtuous man? No, sir. With all due respect, I won’t bow down to you. I say that I want to be set free by these officers, seeing as I have urgent work to do for the King."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "You speak as having power to do wrong; but answer in th’"
+      - "effect of your reputation, and satisfy this poor woman."
+    m:
+      - "You talk as though you have permission to break the law. But act appropriately to your status: satisfy this poor woman."
+
+  - sp: FALSTAFF
+    o:
+      - "Come hither, hostess."
+    m:
+      - "Come here, hostess."
+
+  - os: "FALSTAFF takes MISTRESS QUICKLY aside"
+    ms: "FALSTAFF takes MISTRESS QUICKLY aside."
+
+  - os: "Enter GOWER"
+    ms: "GOWER enters."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Now, Master Gower, what news?"
+    m:
+      - "Master Gower, what’s going on?"
+
+  - sp: GOWER
+    o:
+      - "The King, my lord, and Harry Prince of Wales"
+      - "Are near at hand. The rest the paper tells."
+    m:
+      - "My lord, the King and Harry Prince of Wales are nearby. This letter will tell you the rest."
+
+  - sp: FALSTAFF
+    o:
+      - "As I am a gentleman!"
+    m:
+      - "On my honor."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Faith, you said so before."
+    m:
+      - "Honestly, that’s what you said before."
+
+  - sp: FALSTAFF
+    o:
+      - "As I am a gentleman. Come. No more words of it."
+    m:
+      - "On my honor. Come, let’s not talk about it anymore."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "By this heavenly ground I tread on, I must be fain to pawn"
+      - "both my plate and the tapestry of my dining chambers."
+    m:
+      - "By heaven above and below, I’ll have to pawn my good china and the tapestries in my dining rooms."
+
+  - sp: FALSTAFF
+    o:
+      - "Glasses, glasses, is the only drinking. And for thy walls, a"
+      - "pretty slight drollery, or the story of the Prodigal or the"
+      - "German hunting in waterwork is worth a thousand of these"
+      - "bed-hangers and these fly-bitten tapestries. Let it be ten"
+      - "pound, if thou canst. Come, an ’twere not for thy humors,"
+      - "there’s not a better wench in England. Go wash thy face, and"
+      - "draw the action. Come, thou must not be in this humor with"
+      - "me. Dost not know me? Come, come, I know thou wast set"
+      - "on to this."
+    m:
+      - "It’s not such a big deal. Glass is the only good thing to drink out of anyway. And as for the walls, something pretty and comical—or a depiction of the prodigal son; or maybe one of those German hunting scenes, painted on the wall to look like a tapestry—why, those are worth a thousand of those bed curtains and moth-eaten tapestries. Let me borrow just ten pounds, all right? Come on—other than your moodiness, you’re the best wench in England. Go wash your face and withdraw the lawsuit. Come on—don’t be this way with me. Don’t you know me? Come, come, I know somebody put you up to this."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Pray thee, Sir John, let it be but twenty nobles. I’ faith, I am"
+      - "loath to pawn my plate, so God save me, la."
+    m:
+      - "Please, Sir John, let’s call it twenty nobles. I don’t want to have to pawn my china, in God’s name!"
+
+  - sp: FALSTAFF
+    o:
+      - "Let it alone. I’ll make other shift. You’ll be a fool still."
+    m:
+      - "All right, forget it. I’ll figure something else out. You’ll always be a fool."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Well, you shall have it, though I pawn my gown. I hope"
+      - "you’ll come to supper. You’ll pay me all together?"
+    m:
+      - "All right, I’ll lend it to you, even if I have to pawn my clothes. I hope you’ll have dinner here tonight. You’ll pay me the full amount then?"
+
+  - sp: FALSTAFF
+    o:
+      - "Will I live? *(to BARDOLPH)* Go with her, with her. Hook on,"
+      - "hook on."
+    m:
+      - "Will I live? *(to BARDOLPH)* Go, stick with her, stick with her. Don’t let her out of your sight."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Will you have Doll Tearsheet meet you at supper?"
+    m:
+      - "Do you want Doll Tearsheet to meet you at dinner?"
+
+  - sp: FALSTAFF
+    o:
+      - "No more words. Let’s have her."
+    m:
+      - "No more talking. Let’s have her."
+
+  - os: "Exeunt MISTRESS QUICKLY, FANG, SNARE, BARDOLPH, and the PAGE"
+    ms: "MISTRESS QUICKLY, BARDOLPH, the PAGE, FANG, and SNARE exit."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "I have heard better news."
+    m:
+      - "I’ve heard better news."
+
+  - sp: FALSTAFF
+    o:
+      - "What’s the news, my good lord?"
+    m:
+      - "What’s the news, my lord?"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Where lay the King last night?"
+    m:
+      - "Where did the King spend last night?"
+
+  - sp: GOWER
+    o:
+      - "At Basingstoke, my lord."
+    m:
+      - "At Basingstoke, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "I hope, my lord, all’s well. What is the news, my lord?"
+    m:
+      - "I hope everything’s okay, sir. What’s the news?"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Come all his forces back?"
+    m:
+      - "And his armies have come back?"
+
+  - sp: GOWER
+    o:
+      - "No; fifteen hundred foot, five hundred horse"
+      - "Are marched up to my Lord of Lancaster"
+      - "Against Northumberland and the Archbishop."
+    m:
+      - "No. Fifteen hundred infantrymen and five hundred horsemen are marching to meet Lord Lancaster, to fight against Northumberland and the Archbishop."
+
+  - sp: FALSTAFF
+    o:
+      - "Comes the King back from Wales, my noble lord?"
+    m:
+      - "Is the King back from Wales, my noble lord?"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "You shall have letters of me presently."
+      - "Come. Go along with me, good Master Gower."
+    m:
+      - "I’ll give you some letters shortly. Come with me, Master Gower."
+
+  - sp: FALSTAFF
+    o:
+      - "My lord!"
+    m:
+      - "Sir!"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: FALSTAFF
+    o:
+      - "Master Gower, shall I entreat you with me to dinner?"
+    m:
+      - "Master Gower, would you like to join me for lunch?"
+
+  - sp: GOWER
+    o:
+      - "I must wait upon my good lord here. I thank you, good Sir"
+      - "John."
+    m:
+      - "I have to attend to this noble man right here. But thank you, Sir John."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Sir John, you loiter here too long, being you are to take"
+      - "soldiers up in counties as you go."
+    m:
+      - "Sir John, you’ve been loitering here too long. You have to recruit soldiers in the counties you pass through on your way north."
+
+  - sp: FALSTAFF
+    o:
+      - "Will you sup with me, Master Gower?"
+    m:
+      - "Will you join me for supper, then, Master Gower?"
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "What foolish master taught you these manners, Sir John?"
+    m:
+      - "What foolish teacher taught you these manners, Sir John?"
+
+  - sp: FALSTAFF
+    o:
+      - "Master Gower, if they become me not, he was a fool that"
+      - "taught them me.—This is the right fencing grace, my lord:"
+      - "tap for tap, and so part fair."
+    m:
+      - "Master Gower, if my manners are inappropriate, I must have indeed been taught by a fool. That’s how the game is played—tit for tat, and game over."
+
+  - sp: CHIEF JUSTICE
+    o:
+      - "Now the Lord lighten thee. Thou art a great fool."
+    m:
+      - "God help you! You are a great fool."
+
+  - os: "Exeunt"
+    ms: "They exit."

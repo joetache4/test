@@ -1,0 +1,143 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 10
+group: 3
+order: 21
+text:
+  - os: "CANIDIUS marcheth with his land army one way over the stage, and TAURUS, the lieutenant of CAESAR, the other way. After their going in is heard the noise of a sea fight"
+    ms: "CANIDIUS and his army marches one way across the stage while CAESAR’s lieutenant, TAURUS, marches across the other way. After the two armies march off stage, the noise of a battle at sea is heard."
+
+  - os: "Alarum. Enter ENOBARBUS"
+    ms: "Trumpets sound a retreat. ENOBARBUS enters."
+
+  - sp: ENOBARBUS
+    o:
+      - "Naught, naught, all naught! I can behold no longer."
+      - "Th’ *Antoniad*, the Egyptian admiral,"
+      - "With all their sixty, fly and turn the rudder."
+      - "To see ’t mine eyes are blasted."
+    m:
+      - "We’re ruined, ruined, ruined! I can’t watch any more. The Egyptian flagship, the *Antoniad,* followed by all sixty Egyptian ships, has turned and fled. It destroyed my eyes to look upon it."
+
+  - os: "Enter SCARUS"
+    ms: "SCARUS enters."
+
+  - sp: SCARUS
+    o:
+      - "    Gods and goddesses, All the whole synod of them!"
+    m:
+      - "Gods and goddesses—the whole congregation of them!"
+
+  - sp: ENOBARBUS
+    o:
+      - "    What’s thy passion?"
+    m:
+      - "What’s wrong with you?"
+
+  - sp: SCARUS
+    o:
+      - "The greater cantle of the world is lost"
+      - "With very ignorance. We have kissed away"
+      - "Kingdoms and provinces."
+    m:
+      - "We have lost a major portion of the world through utter foolishness. We have kissed away entire kingdoms and provinces."
+
+  - sp: ENOBARBUS
+    o:
+      - "    How appears the fight?"
+    m:
+      - "How goes the battle?"
+
+  - sp: SCARUS
+    o:
+      - "On our side like the tokened pestilence,"
+      - "Where death is sure. Yon ribaudred nag of Egypt—"
+      - "Whom leprosy o’ertake!—i’ th’ midst o’ th’ fight,"
+      - "When vantage like a pair of twins appeared"
+      - "Both as the same, or rather ours the elder,"
+      - "The breeze upon her, like a cow in June,"
+      - "Hoists sails and flies."
+    m:
+      - "Our side shows all the signs of certain defeat, which appear like the symptomatic sores of the plague. Right in the middle of the fight, just when the battle could have gone either way—actually we had a slight advantage—that immoral Egyptian nag—May she die of leprosy!—suddenly became frightened, and turned her ships around and fled."
+
+  - sp: ENOBARBUS
+    o:
+      - "That I beheld."
+      - "Mine eyes did sicken at the sight and could not"
+      - "Endure a further view."
+    m:
+      - "I saw that. The sight made me so sick I couldn’t watch any more."
+
+  - sp: SCARUS
+    o:
+      - "    She once being loofed,"
+      - "The noble ruin of her magic, Antony,"
+      - "Claps on his sea-wing and, like a doting mallard"
+      - "Leaving the fight in height, flies after her."
+      - "I never saw an action of such shame."
+      - "Experience, manhood, honor, ne’er before"
+      - "Did violate so itself."
+    m:
+      - "Once she had turned around, the noble Antony, ruined by love, hoisted his own sails and followed her like a lovesick duck. He left the battle at the most crucial point. I never saw such a shameful act. He betrayed his own experience, manhood, and honor."
+
+  - sp: ENOBARBUS
+    o:
+      - "    Alack, alack!"
+    m:
+      - "Terrible. Terrible."
+
+  - os: "Enter CANIDIUS"
+    ms: "CANIDIUS enters."
+
+  - sp: CANIDIUS
+    o:
+      - "Our fortune on the sea is out of breath"
+      - "And sinks most lamentably. Had our general"
+      - "Been what he knew himself, it had gone well."
+      - "Oh, he has given example for our flight"
+      - "Most grossly by his own!"
+    m:
+      - "The battle on the sea is almost lost. If our general had been his old self, we would have won. Oh, with his sordid desertion, he sets the example for our own."
+
+  - sp: ENOBARBUS
+    o:
+      - "Ay, are you thereabouts? Why then, good night indeed."
+    m:
+      - "Are you considering desertion, as well? Then everything must really be finished."
+
+  - sp: CANIDIUS
+    o:
+      - "Toward Peloponnesus are they fled."
+    m:
+      - "They fled toward Peloponnesus."
+
+  - sp: SCARUS
+    o:
+      - "’Tis easy to ’t, and there I will attend"
+      - "What further comes."
+    m:
+      - "It’s easy to get there. I’ll go there and ascertain their next move."
+
+  - os: "He exits"
+    ms: "He exits."
+
+  - sp: CANIDIUS
+    o:
+      - "    To Caesar will I render"
+      - "My legions and my horse. Six kings already"
+      - "Show me the way of yielding."
+    m:
+      - "I’ll yield my legions and cavalry to Caesar. In this, I follow the examples of the six kings who have already surrendered."
+
+  - os: "He exits"
+    ms: "He exits."
+
+  - sp: ENOBARBUS
+    o:
+      - "    I’ll yet follow"
+      - "The wounded chance of Antony, though my reason"
+      - "Sits in the wind against me."
+    m:
+      - "I’ll still follow Antony, even though the odds are against him and good sense tells me I should go the other way."
+
+  - os: "He exits"
+    ms: "He exits."

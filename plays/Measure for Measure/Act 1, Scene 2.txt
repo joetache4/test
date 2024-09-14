@@ -1,0 +1,624 @@
+play: Measure for Measure
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "A Street."
+    ms: "A street."
+
+  - os: "Enter LUCIO and two Gentlemen"
+    ms: "LUCIO and two Gentlemen enter."
+
+  - sp: LUCIO
+    o:
+      - "If the duke with the other dukes come not to"
+      - "composition with the King of Hungary, why then all"
+      - "the dukes fall upon the king."
+    m:
+      - "If our Duke, along with the other Dukes, can’t reach an agreement with the King of Hungary, they’re all going to attack him."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Heaven grant us its peace, but not the King of"
+      - "Hungary’s!"
+    m:
+      - "May God give us peace—except not with Hungary."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "Amen."
+    m:
+      - "Amen."
+
+  - sp: LUCIO
+    o:
+      - "Thou concludest like the sanctimonious pirate, that"
+      - "went to sea with the Ten Commandments, but scraped"
+      - "one out of the table."
+    m:
+      - "You talk like the self-righteous pirate who went to sea with the Ten Commandments but cut out one of the commandments."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "“Thou shalt not steal”?"
+    m:
+      - "Was it “Thou shalt not steal”?"
+
+  - sp: LUCIO
+    o:
+      - "Ay, that he razed."
+    m:
+      - "Yep, that’s the one."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Why, ’twas a commandment to command the captain and"
+      - "all the rest from their functions: they put forth"
+      - "to steal. There’s not a soldier of us all, that, in"
+      - "the thanksgiving before meat, do relish the petition"
+      - "well that prays for peace."
+    m:
+      - "Right, because that commandment would’ve put the captain and his pirate crew out of business—they went to sea to steal. When grace is being said before a meal, there’s not a soldier among us who likes a prayer for peace."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "I never heard any soldier dislike it."
+    m:
+      - "I never heard any soldier say he dislikes it."
+
+  - sp: LUCIO
+    o:
+      - "I believe thee; for I think thou never wast where"
+      - "grace was said."
+    m:
+      - "I believe you—I don’t think you’ve ever been at a table where they said grace."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "No? a dozen times at least."
+    m:
+      - "No? I’ve heard it a dozen times at least."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "What, in metre?"
+    m:
+      - "What, in verse?"
+
+  - sp: LUCIO
+    o:
+      - "In any proportion or in any language."
+    m:
+      - "In any form or in any language."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "I think, or in any religion."
+    m:
+      - "Or in any religion."
+
+  - sp: LUCIO
+    o:
+      - "Ay, why not? Grace is grace, despite of all"
+      - "controversy: as, for example, thou thyself art a"
+      - "wicked villain, despite of all grace."
+    m:
+      - "Well, why not? Grace is grace, no matter what your religious beliefs are, just like you’re a scoundrel, no matter how much grace you have."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Well, there went but a pair of shears between us."
+    m:
+      - "Hey, you and me are cut from the same cloth."
+
+  - sp: LUCIO
+    o:
+      - "I grant; as there may between the lists and the"
+      - "velvet. Thou art the list."
+    m:
+      - "Right—the way a piece of velvet and the scrap ends are from the same cloth. You’re the scrap."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "And thou the velvet: thou art good velvet; thou’rt"
+      - "a three-piled piece, I warrant thee: I had as lief"
+      - "be a list of an English kersey as be piled, as thou"
+      - "art piled, for a French velvet. Do I speak"
+      - "feelingly now?"
+    m:
+      - "And you’re the velvet: a nice, thick piece of piled velvet. I swear, I’d rather be a piece of plain, English cloth than be like you, a French velvet that’s full of piles and STDs. Got you there, didn’t I?"
+
+  - sp: LUCIO
+    o:
+      - "I think thou dost; and, indeed, with most painful"
+      - "feeling of thy speech: I will, out of thine own"
+      - "confession, learn to begin thy health; but, whilst I"
+      - "live, forget to drink after thee."
+    m:
+      - "I think you did, and from the painful way you talk, I think something’s got *you* down there. I’d be glad to toast your health; just remind me never to drink from your glass after you."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "I think I have done myself wrong, have I not?"
+    m:
+      - "I guess I set myself up, didn’t I?"
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "Yes, that thou hast, whether thou art tainted or free."
+    m:
+      - "Yeah, you did, whether you’ve got something or not."
+
+  - sp: LUCIO
+    o:
+      - "Behold, behold, where Madam Mitigation comes! I"
+      - "have purchased as many diseases under her roof as come to—"
+    m:
+      - "Oh, look, here comes Madam Satisfaction. The number of venereal diseases I’ve caught under her roof comes to—"
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "To what, I pray?"
+    m:
+      - "To what?"
+
+  - sp: LUCIO
+    o:
+      - "Judge."
+    m:
+      - "Guess."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "To three thousand dolours a year."
+    m:
+      - "Three thousand dollars’ worth."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Ay, and more."
+    m:
+      - "Yeah, and more."
+
+  - sp: LUCIO
+    o:
+      - "A French crown more."
+    m:
+      - "A syphilis sore more."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Thou art always figuring diseases in me; but thou"
+      - "art full of error; I am sound."
+    m:
+      - "You’re always suggesting I’m diseased, but you’re wrong. I’m sound and healthy."
+
+  - sp: LUCIO
+    o:
+      - "Nay, not as one would say, healthy; but so sound as"
+      - "things that are hollow: thy bones are hollow;"
+      - "impiety has made a feast of thee."
+    m:
+      - "You may be sound, but you’re not healthy. Your bones sound hollow. Loose living has eaten out your insides."
+
+  - os: "Enter MISTRESS OVERDONE"
+    ms: "MISTRESS OVERDONE enters."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "How now! which of your hips has the most profound sciatica?"
+    m:
+      - "Hey, there! In which hip is the pain of your sciatica worse?"
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "Well, well; there’s one yonder arrested and carried"
+      - "to prison was worth five thousand of you all."
+    m:
+      - "Well, well. There’s someone over there who’s been arrested and hauled off to prison who was worth five thousand of you all."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "Who’s that, I pray thee?"
+    m:
+      - "Who’s that?"
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "Marry, sir, that’s Claudio, Signior Claudio."
+    m:
+      - "That’s Claudio, Signior Claudio."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "Claudio to prison? ’tis not so."
+    m:
+      - "Claudio in prison? It can’t be true."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "Nay, but I know ’tis so: I saw him arrested, saw"
+      - "him carried away; and, which is more, within these"
+      - "three days his head to be chopped off."
+    m:
+      - "I know it’s true: I saw him arrested and saw him carried away, and what’s more, they’re chopping his head off in three days."
+
+  - sp: LUCIO
+    o:
+      - "But, after all this fooling, I would not have it so."
+      - "Art thou sure of this?"
+    m:
+      - "All kidding aside, I’d hate for this to be true. Are you sure?"
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "I am too sure of it: and it is for getting Madam"
+      - "Julietta with child."
+    m:
+      - "I’m all too sure. It’s for getting Miss Julietta pregnant."
+
+  - sp: LUCIO
+    o:
+      - "Believe me, this may be: he promised to meet me two"
+      - "hours since, and he was ever precise in"
+      - "promise-keeping."
+    m:
+      - "She might be right about this. He promised to meet me two hours ago, and he always keeps his promises."
+
+  - sp: SECOND GENTLEMAN
+    o:
+      - "Besides, you know, it draws something near to the"
+      - "speech we had to such a purpose."
+    m:
+      - "You know, this is exactly the sort of thing we were just talking about."
+
+  - sp: FIRST GENTLEMAN
+    o:
+      - "But, most of all, agreeing with the proclamation."
+    m:
+      - "Most of all it fits with the public proclamation that was made."
+
+  - sp: LUCIO
+    o:
+      - "Away! let’s go learn the truth of it."
+    m:
+      - "Let’s go see if we can get to the bottom of this."
+
+  - os: "Exeunt LUCIO and Gentlemen"
+    ms: "LUCIO and the Gentlemen exit."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "Thus, what with the war, what with the sweat, what"
+      - "with the gallows and what with poverty, I am"
+      - "custom-shrunk."
+    m:
+      - "What with the war, plague, executions, and general poverty, I’m losing business."
+
+  - os: "Enter POMPEY"
+    ms: "POMPEY enters."
+
+  - o:
+      - "How now! what’s the news with you?"
+    m:
+      - "Hi! what’s new with you?"
+
+  - sp: POMPEY
+    o:
+      - "Yonder man is carried to prison."
+    m:
+      - "That man over there is being hauled off to prison."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "Well; what has he done?"
+    m:
+      - "What did he do?"
+
+  - sp: POMPEY
+    o:
+      - "A woman."
+    m:
+      - "A woman."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "But what’s his offence?"
+    m:
+      - "But what’s his crime?"
+
+  - sp: POMPEY
+    o:
+      - "Groping for trouts in a peculiar river."
+    m:
+      - "Fishing in the “private part” of a river."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "What, is there a maid with child by him?"
+    m:
+      - "What, a virgin is pregnant because of him?"
+
+  - sp: POMPEY
+    o:
+      - "No, but there’s a woman with maid by him. You have"
+      - "not heard of the proclamation, have you?"
+    m:
+      - "No, but a woman’s having a child because of him. You haven’t heard about the proclamation, have you?"
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "What proclamation, man?"
+    m:
+      - "What proclamation, man?"
+
+  - sp: POMPEY
+    o:
+      - "All houses in the suburbs of Vienna must be plucked down."
+    m:
+      - "All the brothels in the suburbs of Vienna must be torn down."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "And what shall become of those in the city?"
+    m:
+      - "And what about those in the city?"
+
+  - sp: POMPEY
+    o:
+      - "They shall stand for seed: they had gone down too,"
+      - "but that a wise burgher put in for them."
+    m:
+      - "They’ll be left standing. They would’ve been destroyed, too, but a savvy businessman bought them."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "But shall all our houses of resort in the suburbs be"
+      - "pulled down?"
+    m:
+      - "But all our brothels in the suburbs are going to be demolished?"
+
+  - sp: POMPEY
+    o:
+      - "To the ground, mistress."
+    m:
+      - "Down to the ground, ma’am."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "Why, here’s a change indeed in the commonwealth!"
+      - "What shall become of me?"
+    m:
+      - "Wow, *that’s* a change for the country. What’s going to happen to me?"
+
+  - sp: POMPEY
+    o:
+      - "Come; fear you not: good counsellors lack no"
+      - "clients: though you change your place, you need not"
+      - "change your trade; I’ll be your tapster still."
+      - "Courage! there will be pity taken on you: you that"
+      - "have worn your eyes almost out in the service, you"
+      - "will be considered."
+    m:
+      - "Come on, don’t worry. Good lawyers never lack for clients. Though you change locations, you don’t need to change professions. I’ll still be your pimp. Courage! They’ll take pity on you; all of you that have grown old and gray servicing people will be repaid."
+
+  - sp: MISTRESS OVERDONE
+    o:
+      - "What’s to do here, Thomas Tapster? Let’s withdraw."
+    m:
+      - "What’s all this fuss, Thomas Tapster? Let’s get out of here."
+
+  - sp: POMPEY
+    o:
+      - "Here comes Signior Claudio, led by the provost to"
+      - "prison; and there’s Madam Juliet."
+    m:
+      - "Here comes Signior Claudio, led to prison by the provost. And there’s Miss Juliet."
+
+  - os: "Exeunt"
+    ms: "They exit."
+
+  - os: "Enter Provost, CLAUDIO, JULIET, and Officers"
+    ms: "The Provost enters, with CLAUDIO *(his hands tied)*, JULIET, and officers."
+
+  - sp: CLAUDIO
+    o:
+      - "Fellow, why dost thou show me thus to the world?"
+      - "Bear me to prison, where I am committed."
+    m:
+      - "Man, why are you parading me like this in front of everyone? Take me off to prison already."
+
+  - sp: PROVOST
+    o:
+      - "I do it not in evil disposition,"
+      - "But from Lord Angelo by special charge."
+    m:
+      - "I’m not being cruel. It’s Lord Angelo’s special order."
+
+  - sp: CLAUDIO
+    o:
+      - "Thus can the demigod Authority"
+      - "Make us pay down for our offence by weight"
+      - "The words of heaven; on whom it will, it will;"
+      - "On whom it will not, so; yet still ’tis just."
+    m:
+      - "This is how the authorities, like gods, make us pay for our crimes. As the Bible says, God has mercy on those he chooses to have mercy on, and doesn’t have mercy on those he chooses not to, and so on. I suppose that’s fair."
+
+  - os: "Re-enter LUCIO and two Gentlemen"
+    ms: "LUCIO and two gentlemen re-enter."
+
+  - sp: LUCIO
+    o:
+      - "Why, how now, Claudio! Whence comes this restraint?"
+    m:
+      - "Claudio! Why are you being arrested?"
+
+  - sp: CLAUDIO
+    o:
+      - "From too much liberty, my Lucio, liberty:"
+      - "As surfeit is the father of much fast,"
+      - "So every scope by the immoderate use"
+      - "Turns to restraint. Our natures do pursue,"
+      - "Like rats that ravin down their proper bane,"
+      - "A thirsty evil; and when we drink we die."
+    m:
+      - "For being too promiscuous, Lucio, too promiscuous. The same way overeating leads to fasting, and overdoing anything leads to being restricted. Like rats gobbling up rat poison, we have a thirst for harmful things, and when we drink them we die."
+
+  - sp: LUCIO
+    o:
+      - "If I could speak so wisely under an arrest, I would"
+      - "send for certain of my creditors: and yet, to say"
+      - "the truth, I had as lief have the foppery of freedom"
+      - "as the morality of imprisonment. What’s thy"
+      - "offence, Claudio?"
+    m:
+      - "If I could speak so well while under arrest, I’d ask a few creditors I know to come and lock me up. Though frankly, I’d rather be foolish and free than wise and a prisoner. What’s your crime, Claudio?"
+
+  - sp: CLAUDIO
+    o:
+      - "What but to speak of would offend again."
+    m:
+      - "To speak of it would be another crime."
+
+  - sp: LUCIO
+    o:
+      - "What, is’t murder?"
+    m:
+      - "What, is it murder?"
+
+  - sp: CLAUDIO
+    o:
+      - "No."
+    m:
+      - "No."
+
+  - sp: LUCIO
+    o:
+      - "Lechery?"
+    m:
+      - "Lechery?"
+
+  - sp: CLAUDIO
+    o:
+      - "Call it so."
+    m:
+      - "You could call it that."
+
+  - sp: PROVOST
+    o:
+      - "Away, sir, you must go."
+    m:
+      - "Sir, you have to go."
+
+  - sp: CLAUDIO
+    o:
+      - "One word, good friend. Lucio, a word with you."
+    m:
+      - "*(to the Provost)* Just a minute, good friend. Lucio, let me have a word with you."
+
+  - sp: LUCIO
+    o:
+      - "A hundred, if they’ll do you any good."
+      - "Is lechery so look’d after?"
+    m:
+      - "A hundred, if they’ll do you any good. Is lechery regulated now?"
+
+  - sp: CLAUDIO
+    o:
+      - "Thus stands it with me: upon a true contract"
+      - "I got possession of Julietta’s bed:"
+      - "You know the lady; she is fast my wife,"
+      - "Save that we do the denunciation lack"
+      - "Of outward order: this we came not to,"
+      - "Only for propagation of a dower"
+      - "Remaining in the coffer of her friends,"
+      - "From whom we thought it meet to hide our love"
+      - "Till time had made them for us. But it chances"
+      - "The stealth of our most mutual entertainment"
+      - "With character too gross is writ on Juliet."
+    m:
+      - "Here’s what happened: I slept with Julietta after we got engaged. You know her—she’s practically my wife, except that we haven’t had an official ceremony. The only reason we didn’t was to increase the amount of the dowry she might receive from her friends and relatives. We thought we’d hide our love until we had a chance to win them over. But it turned out our secret intimacy had an all-too-obvious effect on Juliet."
+
+  - sp: LUCIO
+    o:
+      - "With child, perhaps?"
+    m:
+      - "Pregnant, huh?"
+
+  - sp: CLAUDIO
+    o:
+      - "Unhappily, even so."
+      - "And the new deputy now for the duke—"
+      - "Whether it be the fault and glimpse of newness,"
+      - "Or whether that the body public be"
+      - "A horse whereon the governor doth ride,"
+      - "Who, newly in the seat, that it may know"
+      - "He can command, lets it straight feel the spur;"
+      - "Whether the tyranny be in his place,"
+      - "Or in his emmence that fills it up,"
+      - "I stagger in:—but this new governor"
+      - "Awakes me all the enrolled penalties"
+      - "Which have, like unscour’d armour, hung by the wall"
+      - "So long that nineteen zodiacs have gone round"
+      - "And none of them been worn; and, for a name,"
+      - "Now puts the drowsy and neglected act"
+      - "Freshly on me: ’tis surely for a name."
+    m:
+      - "Unfortunately, yes. And this new deputy of the duke’s—I can’t say whether he’s been blinded by his new power or if he sees the public like a horse to be broken in, so he digs his spurs in right away to show it who’s boss; or if he’s just a bully; or if being a bully is part of the job. But this new governor is taking all these old penalties that, like rusty armor hanging on the wall, haven’t been used in years and is applying them to me. He’s imposing all these unenforced, long-ignored laws on me to make a name for himself. That has to be it, to make his name."
+
+  - sp: LUCIO
+    o:
+      - "I warrant it is: and thy head stands so tickle on"
+      - "thy shoulders that a milkmaid, if she be in love,"
+      - "may sigh it off. Send after the duke and appeal to"
+      - "him."
+    m:
+      - "I bet it is; and your head sits so precariously on your shoulders right now that the sigh of a lovesick milkmaid could knock it off. Get in touch with the duke and appeal to him."
+
+  - sp: CLAUDIO
+    o:
+      - "I have done so, but he’s not to be found."
+      - "I prithee, Lucio, do me this kind service:"
+      - "This day my sister should the cloister enter"
+      - "And there receive her approbation:"
+      - "Acquaint her with the danger of my state:"
+      - "Implore her, in my voice, that she make friends"
+      - "To the strict deputy; bid herself assay him:"
+      - "I have great hope in that; for in her youth"
+      - "There is a prone and speechless dialect,"
+      - "Such as move men; beside, she hath prosperous art"
+      - "When she will play with reason and discourse,"
+      - "And well she can persuade."
+    m:
+      - "I tried, but he can’t be found. Please, Lucio, do this favor for me: My sister’s entering a nunnery and starting her training period today. Tell her the danger I’m in, and implore her, in my name, to befriend this strict deputy and try to change his mind. I’ve got a lot of hope in her. Her youthful sweetness alone would move a man. Besides, she has a gift for rhetoric, and she can really persuade people."
+
+  - sp: LUCIO
+    o:
+      - "I pray she may; as well for the encouragement of the"
+      - "like, which else would stand under grievous"
+      - "imposition, as for the enjoying of thy life, who I"
+      - "would be sorry should be thus foolishly lost at a"
+      - "game of tick-tack. I’ll to her."
+    m:
+      - "I pray she can, for the lives of everyone like you who could now be punished, as well as for your own life, which I’d be sad to see lost so stupidly for playing with you. I’ll go to her."
+
+  - sp: CLAUDIO
+    o:
+      - "I thank you, good friend Lucio."
+    m:
+      - "Thank you, Lucio. You’re a good friend."
+
+  - sp: LUCIO
+    o:
+      - "Within two hours."
+    m:
+      - "I’ll be there in two hours."
+
+  - sp: CLAUDIO
+    o:
+      - "Come, officer, away!"
+    m:
+      - "OK, officer, let’s go."
+
+  - os: "Exeunt"
+    ms: "All exit."

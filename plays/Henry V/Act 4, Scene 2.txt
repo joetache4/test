@@ -1,0 +1,161 @@
+play: Henry V
+title: Act 4, Scene 2
+group: 4
+order: 18
+text:
+  - os: "Enter the DAUPHIN, ORLÉANS, RAMBURES, and others"
+    ms: "The DAUPHIN enters with ORLÉANS, RAMBURES, and others."
+
+  - sp: ORLÉANS
+    o:
+      - "The sun doth gild our armor. Up, my lords."
+    m:
+      - "The sun glints off our armor. Awake, my lords!"
+
+  - sp: DAUPHIN
+    o:
+      - "*Montez à cheval!* My horse, varlet! Lackey! Ha!"
+    m:
+      - "Mount up our horses! Bring my horse, lackey! Ha!"
+
+  - sp: ORLÉANS
+    o:
+      - "O brave spirit!"
+    m:
+      - "Oh, brave spirit!"
+
+  - sp: DAUPHIN
+    o:
+      - "*Via les eaux et la terre.*"
+    m:
+      - "He’ll take me through flood and field."
+
+  - sp: ORLÉANS
+    o:
+      - "*Rien puis? L’air et feu?*"
+    m:
+      - "Is that all? How about air and fire?"
+
+  - sp: DAUPHIN
+    o:
+      - "*Cieux,* cousin Orléans."
+    m:
+      - "Just the heavens, cousin OrlÉans."
+
+  - os: "Enter CONSTABLE"
+    ms: "The CONSTABLE enters."
+
+  - o:
+      - "Now, my Lord Constable?"
+    m:
+      - "Is it time, my Lord Constable?"
+
+  - sp: CONSTABLE
+    o:
+      - "Hark how our steeds for present service neigh."
+    m:
+      - "Listen to our horses neighing, longing to be working."
+
+  - sp: DAUPHIN
+    o:
+      - "Mount them and make incision in their hides,"
+      - "That their hot blood may spin in English eyes"
+      - "And dout them with superfluous courage. Ha!"
+    m:
+      - "Mount them and dig your spurs into their flanks so that their hot blood may spurt in English eyes and douse them with some of the spare courage we have around. Ha!"
+
+  - sp: RAMBURES
+    o:
+      - "What, will you have them weep our horses’ blood?"
+      - "How shall we then behold their natural tears?"
+    m:
+      - "What, you want them to weep our horses’ blood? Then how will we see their own natural tears?"
+
+  - os: "Enter MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "The English are embattled, you French peers."
+    m:
+      - "The English are in the field, French lords."
+
+  - sp: CONSTABLE
+    o:
+      - "To horse, you gallant princes, straight to horse."
+      - "Do but behold yond poor and starvèd band,"
+      - "And your fair show shall suck away their souls,"
+      - "Leaving them but the shales and husks of men."
+      - "There is not work enough for all our hands,"
+      - "Scarce blood enough in all their sickly veins"
+      - "To give each naked curtal axe a stain,"
+      - "That our French gallants shall today draw out"
+      - "And sheathe for lack of sport. Let us but blow on them,"
+      - "The vapor of our valor will o’erturn them."
+      - "’Tis positive against all exceptions, lords,"
+      - "That our superfluous lackeys and our peasants,"
+      - "Who in unnecessary action swarm"
+      - "About our squares of battle, were enough"
+      - "To purge this field of such a hilding foe,"
+      - "Though we upon this mountain’s basis by"
+      - "Took stand for idle speculation,"
+      - "But that our honors must not. What’s to say?"
+      - "A very little little let us do,"
+      - "And all is done. Then let the trumpets sound"
+      - "The tucket sonance and the note to mount,"
+      - "For our approach shall so much dare the field"
+      - "That England shall couch down in fear and yield."
+    m:
+      - "To our horses, you gallant princes. Let’s mount straight away. All we have to do is look at that poor starving army, and our wonderful display of strength will eat away their souls, leaving them the mere husk of men. There isn’t enough work out there to keep us all busy, and hardly enough blood in all their sickly veins put together to put a stain on each of our swords, which our French knights will take out and then put away again, with nothing to do. Let’s blow on them. The breath of our valor will send them sprawling. There’s no question, lords, but that those extra servants and peasants swarming uselessly around our battle formations would be sufficient to rid this field of such a good-for-nothing foe, while we ourselves stood at the base of this mountain idly looking on. But our honor wouldn’t stand for that. What’s there to say? Doing the very least will do the whole job. Let the trumpets sound the signal to mount up and march. Our advance will so dazzle the enemy that England will cower in fear and surrender."
+
+  - os: "Enter GRANDPRÉ"
+    ms: "GRANDPRÉ enters."
+
+  - sp: GRANDPRÉ
+    o:
+      - "Why do you stay so long, my lords of France?"
+      - "Yond island carrions, desperate of their bones,"
+      - "Ill-favoredly become the morning field."
+      - "Their ragged curtains poorly are let loose,"
+      - "And our air shakes them passing scornfully."
+      - "Big Mars seems bankrupt in their beggared host"
+      - "And faintly through a rusty beaver peeps."
+      - "The horsemen sit like fixèd candlesticks"
+      - "With torch staves in their hand, and their poor jades"
+      - "Lob down their heads, dropping the hides and hips,"
+      - "The gum down-roping from their pale-dead eyes,"
+      - "And in their pale dull mouths the gemeled bit"
+      - "Lies foul with chawed grass, still and motionless."
+      - "And their executors, the knavish crows,"
+      - "Fly o’er them all, impatient for their hour."
+      - "Description cannot suit itself in words"
+      - "To demonstrate the life of such a battle"
+      - "In life so lifeless, as it shows itself."
+    m:
+      - "What are you waiting for, lords of France? Those island-bred skeletons, terrified for their bones, are an offensive sight on the morning field. Their ragged banners hang in shreds and the very air of France makes them shiver as it blows by. The god of war looks like a pathetic bankrupt in this miserable army, peeking timidly through a rusty visor. The horsemen stand frozen like candlesticks, torches in their hands. The poor horses droop their heads, their flanks and hips sagging, pus seeping from eyes as pale as death, and in their colorless mouths, the motionless bit is smeared with chewed grass. Meanwhile, their executors, malicious crows, fly over them, impatient for their moment. It’s beyond the power of words to describe an army so bereft of life."
+
+  - sp: CONSTABLE
+    o:
+      - "They have said their prayers, and they stay for death."
+    m:
+      - "They’ve said their prayers, and now they wait for death."
+
+  - sp: DAUPHIN
+    o:
+      - "Shall we go send them dinners and fresh suits,"
+      - "And give their fasting horses provender,"
+      - "And after fight with them?"
+    m:
+      - "Shall we go send them food and fresh clothing and feed their starving horses before we fight them?"
+
+  - sp: CONSTABLE
+    o:
+      - "I stay but for my guard. On, to the field!"
+      - "I will the banner from a trumpet take"
+      - "And use it for my haste. Come, come away."
+      - "The sun is high, and we outwear the day."
+    m:
+      - "I’m just waiting for my flag-bearer. But, never mind, I can’t wait. To the field! I’ll take the banner from a trumpeter and use that. Come, let’s be off! The sun is up and we’re wasting the day!"
+
+  - os: "Exeunt"
+    ms: "They all exit."

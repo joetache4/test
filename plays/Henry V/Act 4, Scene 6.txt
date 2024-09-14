@@ -1,0 +1,81 @@
+play: Henry V
+title: Act 4, Scene 6
+group: 4
+order: 22
+text:
+  - os: "Alarum Enter KING HENRY and forces, EXETER, and others"
+    ms: "Sounds of battle. KING HENRY enters with soldiers, EXETER, and others."
+
+  - sp: KING HENRY
+    o:
+      - "Well have we done, thrice-valiant countrymen,"
+      - "But all’s not done. Yet keep the French the field."
+    m:
+      - "We have done well, my valiant countrymen. But it’s not over. The French are still fighting."
+
+  - sp: EXETER
+    o:
+      - "The duke of York commends him to your Majesty."
+    m:
+      - "The duke of York sends your Majesty his respects."
+
+  - sp: KING HENRY
+    o:
+      - "Lives he, good uncle? Thrice within this hour"
+      - "I saw him down, thrice up again and fighting."
+      - "From helmet to the spur, all blood he was."
+    m:
+      - "Is he still alive, good uncle? Three times in an hour I saw him down, and three times up again and fighting. He was covered with blood from his helmet to his spurs."
+
+  - sp: EXETER
+    o:
+      - "In which array, brave soldier, doth he lie,"
+      - "Larding the plain, and by his bloody side,"
+      - "Yoke-fellow to his honor-owing wounds,"
+      - "The noble earl of Suffolk also lies."
+      - "Suffolk first died, and York, all haggled over,"
+      - "Comes to him where in gore he lay insteeped"
+      - "And takes him by the beard, kisses the gashes"
+      - "That bloodily did yawn upon his face."
+      - "And cries aloud, “Tarry, my cousin Suffolk."
+      - "My soul shall thine keep company to heaven."
+      - "Tarry, sweet soul, for mine; then fly abreast,"
+      - "As in this glorious and well-foughten field"
+      - "We kept together in our chivalry.”"
+      - "Upon these words I came and cheered him up."
+      - "He smiled me in the face, raught me his hand,"
+      - "And with a feeble grip, says “Dear my lord,"
+      - "Commend my service to my sovereign.”"
+      - "So did he turn, and over Suffolk’s neck"
+      - "He threw his wounded arm and kissed his lips,"
+      - "And so, espoused to death, with blood he sealed"
+      - "A testament of noble-ending love."
+      - "The pretty and sweet manner of it forced"
+      - "Those waters from me which I would have stopped,"
+      - "But I had not so much of man in me,"
+      - "And all my mother came into mine eyes"
+      - "And gave me up to tears."
+    m:
+      - "The valiant soldier is still dressed like that, lying on the ground, drenching the field with his blood. By his side lies the noble earl of Suffolk, York’s comrade and equal in brave wounds. Suffolk died first, and York, cut to pieces, came to him where he lay in his blood and took him by the face, kissing his gashes. He cried out, “Wait for me, dear cousin. My soul will keep yours company on the way to heaven. Wait for mine, sweet soul. We’ll fly there side by side, just as we stood together as brother-knights in this glorious and well-fought battle!” At this, I went to comfort him. He smiled at me close, gave me his hand, gripping me feebly, and said, “My dear lord, commend my service to my king.” With that, he turned and threw his wounded arm around Suffolk’s neck and kissed his lips. And so, married to death, he sealed a testament of love that even ended in nobility. The fineness of the moment moved me to tears. I tried to hold them back, but wept like a mother."
+
+  - sp: KING HENRY
+    o:
+      - "I blame you not,"
+      - "For, hearing this, I must perforce compound"
+      - "With mistful eyes, or they will issue too."
+    m:
+      - "I don’t blame you. Just listening, I have to school my misty eyes, or they will brim over."
+
+  - os: "Alarum"
+    ms: "Sounds of battle."
+
+  - o:
+      - "But hark, what new alarum is this same?"
+      - "The French have reinforced their scattered men."
+      - "Then every soldier kill his prisoners."
+      - "Give the word through."
+    m:
+      - "But listen! What new battle is this? The French have reinforced their scattered men. Then every soldier must kill his prisoners. Spread the word."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,564 @@
+play: Antony and Cleopatra
+title: Act 2, Scene 7
+group: 2
+order: 11
+text:
+  - os: "Music plays. Enter two or three SERVANTS with a banquet"
+    ms: "Music plays. Two or three SERVANTS enter with a feast."
+
+  - sp: FIRST SERVANT
+    o:
+      - "Here they’ll be, man. Some o’ their plants are ill-rooted already. The least wind i’ th’ world will blow them down."
+    m:
+      - "Here’s where they’ll end up, on the floor. Some of them are leaning already. It won’t take much for them to fall over."
+
+  - sp: SECOND SERVANT
+    o:
+      - "Lepidus is high-colored."
+    m:
+      - "Lepidus is red in the face."
+
+  - sp: FIRST SERVANT
+    o:
+      - "They have made him drink alms-drink."
+    m:
+      - "They made him drink the leftover wine usually given to the poor."
+
+  - sp: SECOND SERVANT
+    o:
+      - "As they pinch one another by the disposition, he cries out, “No more,” reconciles them to his entreaty and himself to th’ drink."
+    m:
+      - "Their various personalities grate on one another. Lepidus cries, “No more arguing!” and then when they agree he resigns himself to drink."
+
+  - sp: FIRST SERVANT
+    o:
+      - "But it raises the greater war between him and his discretion."
+    m:
+      - "Which goes on to impede his judgment."
+
+  - sp: SECOND SERVANT
+    o:
+      - "Why, this it is to have a name in great men’s fellowship. I had as lief have a reed that will do me no service as a partisan I could not heave."
+    m:
+      - "That’s what happens when you partner with great men but lack their power. I’d rather carry a reed that obviously can’t protect me than a sword I cannot lift."
+
+  - sp: FIRST SERVANT
+    o:
+      - "To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."
+    m:
+      - "To be so unimportant in the company of important men is like having a face without any eyes."
+
+  - os: "A sennet sounded. Enter CAESAR, ANTONY, POMPEY, LEPIDUS, AGRIPPA, MAECENAS, ENOBARBUS, and MENAS, with other captains and a BOY"
+    ms: "A trumpet call sounds. CAESAR, ANTONY, POMPEY, LEPIDUS, AGRIPPA, MAECENAS, ENOBARBUS, and MENAS enter, along with other captains and a BOY."
+
+  - sp: ANTONY
+    o:
+      - "Thus do they, sir: they take the flow o’ th’ Nile"
+      - "By certain scales i’ th’ Pyramid. They know"
+      - "By th’ height, the lowness, or the mean, if dearth"
+      - "Or foison follow. The higher Nilus swells"
+      - "The more it promises. As it ebbs, the seedsman"
+      - "Upon the slime and ooze scatters his grain,"
+      - "And shortly comes to harvest."
+    m:
+      - "This is how they do it, sir: they measure the depth of the Nile, according to certain marks made on the walls of the Pyramid. They know by those measurements if there will be famine or plenty. The higher the Nile flows, the better the harvest. As the river ebbs, the farmer scatters his seeds on the remaining silt. The harvest comes shortly after that."
+
+  - sp: LEPIDUS
+    o:
+      - "You’ve strange serpents there?"
+    m:
+      - "Do you have unusual snakes there?"
+
+  - sp: ANTONY
+    o:
+      - "Ay, Lepidus."
+    m:
+      - "Yes, Lepidus."
+
+  - sp: LEPIDUS
+    o:
+      - "Your serpent of Egypt is bred now of your mud by the operation of your sun. So is your crocodile."
+    m:
+      - "The Egyptian snake is born when the sun shines on the Nile mud, just like the crocodile."
+
+  - sp: ANTONY
+    o:
+      - "They are so."
+    m:
+      - "Yes, Lepidus."
+
+  - sp: POMPEY
+    o:
+      - "*(to LEPIDUS)* Sit, and some wine. A health to Lepidus!"
+    m:
+      - "Let’s have a seat and some wine. A toast to Lepidus!"
+
+  - os: "They sit and drink"
+    ms: "They sit and drink."
+
+  - sp: LEPIDUS
+    o:
+      - "I am not so well as I should be, but I’ll ne’er out."
+    m:
+      - "I don’t feel so well, but I won’t stop."
+
+  - sp: ENOBARBUS
+    o:
+      - "Not till you have slept. I fear me you’ll be in till then."
+    m:
+      - "Not until you pass out. I’m afraid you’ll keep going until then."
+
+  - sp: LEPIDUS
+    o:
+      - "Nay, certainly, I have heard the Ptolemies’ pyramises are very goodly things. Without contradiction I have heard that."
+    m:
+      - "No, I certainly won’t stop. I’ve heard that the pyramids build by the Ptolemies are splendid. Without doubt I’ve heard that."
+
+  - sp: MENAS
+    o:
+      - "*(aside to POMPEY)* Pompey, a word."
+    m:
+      - "*(aside to POMPEY)* Pompey, could I have a word with you?"
+
+  - sp: POMPEY
+    o:
+      - "*(aside to MENAS)* Say in mine ear. What is ’t?"
+    m:
+      - "*(aside to MENAS)* Whisper it in my ear. What is it?"
+
+  - sp: MENAS
+    o:
+      - "*(aside to POMPEY)* Forsake thy seat, I do beseech thee, captain,"
+      - "And hear me speak a word."
+    m:
+      - "*(whispers in POMPEY’s ear)* Please, captain, leave the feast and let me speak with you privately."
+
+  - sp: POMPEY
+    o:
+      - "*(aside to MENAS)* Forbear me till anon.—This wine for Lepidus!"
+    m:
+      - "*(aside to MENAS)* Leave me alone awhile. Where’s the wine for Lepidus?"
+
+  - sp: LEPIDUS
+    o:
+      - "What manner o’ thing is your crocodile?"
+    m:
+      - "What does a crocodile look like?"
+
+  - sp: ANTONY
+    o:
+      - "It is shaped, sir, like itself, and it is as broad as it hath breadth. It is just so high as it is, and moves with its own organs. It lives by that which nourisheth it, and, the elements once out of it, it transmigrates."
+    m:
+      - "Sir, it’s shaped like itself and is as wide as it has width. It is only as high as it is and moves with its own legs. It lives on what nourishes it, and when the four elements leave it, its soul moves into another body."
+
+  - sp: LEPIDUS
+    o:
+      - "What color is it of?"
+    m:
+      - "What color is it?"
+
+  - sp: ANTONY
+    o:
+      - "Of it own color too."
+    m:
+      - "Its own color."
+
+  - sp: LEPIDUS
+    o:
+      - "’Tis a strange serpent."
+    m:
+      - "It’s a strange snake."
+
+  - sp: ANTONY
+    o:
+      - "’Tis so. And the tears of it are wet."
+    m:
+      - "It is that. And its tears are wet."
+
+  - sp: CAESAR
+    o:
+      - "*(aside to ANTONY)* Will this description satisfy him?"
+    m:
+      - "*(aside to ANTONY)* Will that description satisfy him?"
+
+  - sp: ANTONY
+    o:
+      - "*(aside to CAESAR)* With the health that Pompey gives him, else he is a very epicure."
+    m:
+      - "*(aside to CAESAR)* That last toast Pompey gave him will take care of him, unless he’s a raging glutton."
+
+  - os: "MENAS whispers again"
+    ms: "MENAS whispers to POMPEY again."
+
+  - sp: POMPEY
+    o:
+      - "*(aside to MENAS)* Go hang, sir, hang! Tell me of that? Away!"
+      - "Do as I bid you.—Where’s this cup I called for?"
+    m:
+      - "*(aside to MENAS)* Go to hell, sir. Are you still here? Go away! Do what I tell you. Where’s the wine I ordered?"
+
+  - sp: MENAS
+    o:
+      - "*(aside to POMPEY)* If for the sake of merit thou wilt hear me,"
+      - "Rise from thy stool."
+    m:
+      - "*(aside to POMPEY)* If any service I’ve done you deserves a favor, get up from your stool and speak with me."
+
+  - sp: POMPEY
+    o:
+      - "*(aside to MENAS)*     I think th’ art mad."
+    m:
+      - "*(aside to MENAS)* I think you’re crazy!"
+
+  - os: "He rises, and they walk aside"
+    ms: "He gets up and walks aside with MENAS."
+
+  - o:
+      - "    The matter?"
+    m:
+      - "What is it?"
+
+  - sp: MENAS
+    o:
+      - "I have ever held my cap off to thy fortunes."
+    m:
+      - "I’ve always had great respect for your destiny."
+
+  - sp: POMPEY
+    o:
+      - "Thou hast served me with much faith. What’s else to say?—"
+      - "*(to the others)* Be jolly, lords."
+    m:
+      - "You’ve served me faithfully. What else can I say? *(to the others)* Be happy, lords!"
+
+  - sp: ANTONY
+    o:
+      - "    These quicksands, Lepidus, Keep off them, for you sink."
+    m:
+      - "Stay away from the quicksand of drink, Lepidus: you’re sinking."
+
+  - sp: MENAS
+    o:
+      - "*(aside to POMPEY)* Wilt thou be lord of all the world?"
+    m:
+      - "*(to POMPEY)* Would you like to be king of the entire world?"
+
+  - sp: POMPEY
+    o:
+      - "    What sayst thou?"
+    m:
+      - "What are you saying?"
+
+  - sp: MENAS
+    o:
+      - "Wilt thou be lord of the whole world? That’s twice."
+    m:
+      - "Would you like to be king of the entire world? Now I’ve said it twice."
+
+  - sp: POMPEY
+    o:
+      - "How should that be?"
+    m:
+      - "How could that happen?"
+
+  - sp: MENAS
+    o:
+      - "But entertain it,"
+      - "And, though thou think me poor, I am the man"
+      - "Will give thee all the world."
+    m:
+      - "Just consider it. Though I seem poor, I am the man who will give you the world."
+
+  - sp: POMPEY
+    o:
+      - "    Hast thou drunk well?"
+    m:
+      - "Are you drunk?"
+
+  - sp: MENAS
+    o:
+      - "No, Pompey, I have kept me from the cup."
+      - "Thou art, if thou dar’st be, the earthly Jove."
+      - "Whate’er the ocean pales or sky inclips"
+      - "Is thine, if thou wilt ha ’t."
+    m:
+      - "No, Pompey, I haven’t had anything to drink. You can be the most powerful man on earth if you dare use your power. Both land and sea are yours if you will take them."
+
+  - sp: POMPEY
+    o:
+      - "    Show me which way."
+    m:
+      - "Tell me how."
+
+  - sp: MENAS
+    o:
+      - "These three world-sharers, these competitors,"
+      - "Are in thy vessel. Let me cut the cable,"
+      - "And, when we are put off, fall to their throats."
+      - "All there is thine."
+    m:
+      - "The three who share the known world are aboard your boat. Let me cut the anchor cable. When we are away from land, cut their throats. Everything that belongs to them is yours."
+
+  - sp: POMPEY
+    o:
+      - "    Ah, this thou shouldst have done"
+      - "And not have spoke on ’t! In me ’tis villainy,"
+      - "In thee ’t had been good service. Thou must know,"
+      - "’Tis not my profit that does lead mine honor;"
+      - "Mine honor, it. Repent that e’er thy tongue"
+      - "Hath so betrayed thine act. Being done unknown,"
+      - "I should have found it afterwards well done,"
+      - "But must condemn it now. Desist, and drink."
+    m:
+      - "Oh, you should have done it without telling me! For me to do such a thing would be dishonorable. For you to do it would be good service. You should know that to me, profit isn’t more important than honor, but the other way around. Regret that your mouth betrayed your actions. If you had acted without my knowledge, I would have approved your action later. But now I must condemn it. Give it up and go drink."
+
+  - os: "He returns to the feast"
+    ms: "He returns to the feast."
+
+  - sp: MENAS
+    o:
+      - "*(aside)* For this,"
+      - "I’ll never follow thy palled fortunes more."
+      - "Who seeks and will not take when once ’tis offered"
+      - "Shall never find it more."
+    m:
+      - "*(to himself)* For this, I’ll never be faithful to your declining fortunes again. A person who wants something but won’t take it when it materializes won’t get the opportunity again."
+
+  - sp: POMPEY
+    o:
+      - "    This health to Lepidus!"
+    m:
+      - "This toast is for Lepidus!"
+
+  - sp: ANTONY
+    o:
+      - "*(to a servant)* Bear him ashore.—I’ll pledge it for him, Pompey."
+    m:
+      - "*(to a servant)* Help Lepidus ashore . . . I’ll accept it for him, Pompey."
+
+  - sp: ENOBARBUS
+    o:
+      - "Here’s to thee, Menas!"
+    m:
+      - "Here’s to you, Menas."
+
+  - os: "They drink"
+    ms: "They drink."
+
+  - sp: MENAS
+    o:
+      - "    Enobarbus, welcome."
+    m:
+      - "I accept with thanks, Enobarbus."
+
+  - sp: POMPEY
+    o:
+      - "Fill till the cup be hid."
+    m:
+      - "Fill the cups until they run over."
+
+  - sp: ENOBARBUS
+    o:
+      - "There’s a strong fellow, Menas."
+    m:
+      - "There goes a strong fellow, Menas."
+
+  - os: "Pointing to the servant who carries off LEPIDUS"
+    ms: "He points to the servant carrying LEPIDUS away."
+
+  - sp: MENAS
+    o:
+      - "    Why?"
+    m:
+      - "Why do you say that?"
+
+  - sp: ENOBARBUS
+    o:
+      - "    He bears The third part of the world, man. Seest not?"
+    m:
+      - "He carries a third of the world. Can’t you see that?"
+
+  - sp: MENAS
+    o:
+      - "The third part, then, is drunk. Would it were all,"
+      - "That it might go on wheels!"
+    m:
+      - "Then a third of the world is drunk. I wish it were all drunk. Then everything would go more smoothly."
+
+  - sp: ENOBARBUS
+    o:
+      - "Drink thou. Increase the reels."
+    m:
+      - "Drink up. Liven up the party."
+
+  - sp: MENAS
+    o:
+      - "Come."
+    m:
+      - "All right, then."
+
+  - sp: POMPEY
+    o:
+      - "This is not yet an Alexandrian feast."
+    m:
+      - "This hasn’t reached the level of an Egyptian feast yet."
+
+  - sp: ANTONY
+    o:
+      - "It ripens towards it. Strike the vessels, ho!"
+      - "Here’s to Caesar."
+    m:
+      - "It’s getting there. Clink your cups together in a toast! Here’s to Caesar."
+
+  - sp: CAESAR
+    o:
+      - "    I could well forbear ’t."
+      - "It’s monstrous labor when I wash my brain"
+      - "And it grows fouler."
+    m:
+      - "I could do without another toast. It’s unnatural. I keep washing my brain with alcohol, and it keeps getting fouler and more muddled."
+
+  - sp: ANTONY
+    o:
+      - "    Be a child o’ th’ time."
+    m:
+      - "Live in the moment."
+
+  - sp: CAESAR
+    o:
+      - "Possess it, I’ll make answer."
+      - "But I had rather fast from all four days"
+      - "Than drink so much in one."
+    m:
+      - "I’d prefer to seize the day. But I would rather abstain from everything for four days than drink so much in one."
+
+  - sp: ENOBARBUS
+    o:
+      - "*(to ANTONY)* Ha! My brave emperor,"
+      - "Shall we dance now the Egyptian bacchanals"
+      - "And celebrate our drink?"
+    m:
+      - "*(to ANTONY)* Ha! Shall we dance Egyptian bacchanals, my noble emperor, and celebrate our wine?"
+
+  - sp: POMPEY
+    o:
+      - "Let’s ha ’t, good soldier."
+    m:
+      - "Let’s have one, good soldier."
+
+  - sp: ANTONY
+    o:
+      - "Come, let’s all take hands"
+      - "Till that the conquering wine hath steeped our sense"
+      - "In soft and delicate Lethe."
+    m:
+      - "Come, let’s join our hands until the overpowering wine makes us soft and forgetful."
+
+  - sp: ENOBARBUS
+    o:
+      - "    All take hands."
+      - "Make battery to our ears with the loud music,"
+      - "The while I’ll place you; then the boy shall sing."
+      - "The holding every man shall beat as loud"
+      - "As his strong sides can volley."
+    m:
+      - "Everyone join hands. Attack our ears with loud music, and I’ll position you for the dance. Then the boy will sing, and every man will sing the chorus at the top of his voice."
+
+  - os: "Music plays. ENOBARBUS places them hand in hand"
+    ms: "Music plays. ENOBARBUS places each man in position, hand in hand."
+
+  - os: "    SONG."
+    ms: "    The Song."
+
+  - sp: BOY
+    o:
+      - "*(Sings)*"
+      - "*Come, thou monarch of the vine,*"
+      - "*Plumpy Bacchus with pink eyne!*"
+      - "*In thy vats our cares be drowned,*"
+      - "*With thy grapes our hairs be crowned.*"
+    m:
+      - "*(singing)* Come, you king of the vine, plump Bacchus, with your pink eyes. Our troubles are drowned in your vats. We’ll crown ourselves with wreathes of grapes."
+
+  - sp: ALL
+    o:
+      - "*(Singing)*"
+      - "*Cup us till the world go round,*"
+      - "*Cup us till the world go round!*"
+    m:
+      - "*(singing)* Give us cups until the world spins! Give us cups until the world spins!"
+
+  - sp: CAESAR
+    o:
+      - "What would you more?—Pompey, good night. *(to ANTONY)* Good brother,"
+      - "Let me request you off. Our graver business"
+      - "Frowns at this levity.—Gentle lords, let’s part."
+      - "You see we have burnt our cheeks. Strong Enobarb"
+      - "Is weaker than the wine; and mine own tongue"
+      - "Splits what it speaks. The wild disguise hath almost"
+      - "Anticked us all. What needs more words? Good night."
+      - "Good Antony, your hand."
+    m:
+      - "How can you top that? Good night, Pompey. *(to ANTONY)* Dear brother-in-law, let’s leave together. This frivolity isn’t appropriate to the serious purpose that brought us here. Noble lords, let’s say good night. We’ve all gotten red in the face. Even the strong Enobarbus isn’t immune to the effects of wine, and I’m tongue-tied myself. This wild party has almost turned us all into clowns. What more need I say? Good night. Good Antony, shake my hand."
+
+  - sp: POMPEY
+    o:
+      - "I’ll try you on the shore."
+    m:
+      - "We’ll have a rematch at your feast on shore."
+
+  - sp: ANTONY
+    o:
+      - "And shall, sir. Give ’s your hand."
+    m:
+      - "Yes, we will. Let’s shake on it."
+
+  - sp: POMPEY
+    o:
+      - "O Antony, You have my father’s house."
+      - "But what? We are friends. Come, down into the boat."
+    m:
+      - "Oh, Antony, even if you’ve taken my father’s house, what is that to me? We’re friends! Come, this way to the rowboat."
+
+  - sp: ENOBARBUS
+    o:
+      - "Take heed you fall not."
+    m:
+      - "Be careful not to fall in."
+
+  - os: "Exeunt all but MENAS and ENOBARBUS"
+    ms: "Everyone exits except MENAS and ENOBARBUS."
+
+  - o:
+      - "    Menas, I’ll not on shore."
+    m:
+      - "Menas, I’m not going back on shore."
+
+  - sp: MENAS
+    o:
+      - "No, to my cabin. These drums, these trumpets, flutes! What!"
+      - "Let Neptune hear we bid a loud farewell"
+      - "To these great fellows. Sound and be hanged, sound out!"
+    m:
+      - "No, come to my cabin. We’ll have the musicians play drums, trumpets, flutes. What do you say? We’ll make Neptune hear us bid a loud good night to these great men. Play and be damned. Play loud!"
+
+  - os: "Sound a flourish, with drums"
+    ms: "Trumpets and drums play a fanfare."
+
+  - sp: ENOBARBUS
+    o:
+      - "Hoo! says ’a. There’s my cap."
+    m:
+      - "Hooray, I say. There’s my hat!"
+
+  - os: "He flings it in the air"
+    ms: "He throws his hat in the air."
+
+  - sp: MENAS
+    o:
+      - "Hoo! Noble captain, come."
+    m:
+      - "Hooray! Come on, noble captain."
+
+  - os: "Exeunt"
+    ms: "They exit."

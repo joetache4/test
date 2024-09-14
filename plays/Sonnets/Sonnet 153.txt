@@ -1,0 +1,22 @@
+play: Sonnets
+title: Sonnet 153
+group: 1
+order: 152
+text:
+  - o:
+      - "Cupid laid by his brand and fell asleep."
+      - "A maid of Dian’s this advantage found,"
+      - "And his love-kindling fire did quickly steep"
+      - "In a cold valley-fountain of that ground,"
+      - "Which borrowed from this holy fire of love"
+      - "A dateless lively heat, still to endure,"
+      - "And grew a seething bath, which yet men prove"
+      - "Against strange maladies a sovereign cure."
+      - "But at my mistress’ eye love’s brand new fired,"
+      - "The boy for trial needs would touch my breast;"
+      - "I, sick withal, the help of bath desired,"
+      - "And thither hied, a sad distempered guest,"
+      - "  But found no cure; the bath for my help lies"
+      - "  Where Cupid got new fire—my mistress’ eye."
+    m:
+      - "Cupid put down his torch and fell asleep. One of the nymphs who serve Diana took advantage of this situation and quickly plunged Cupid’s love-inducing flame in a nearby cold spring, which thus acquired a never-ending heat and became a bubbling hot bath that men still use to cure diseases. But at a glance from my mistress, Cupid’s torch fired up again, and Cupid decided to test whether his torch was working by touching my heart with it. I became sick with love and wanted the bath to ease my discomfort. I went to the spring as a sad, sick guest but found no cure. The only thing that could help me is the thing that gave Cupid his new fire: a glance from my mistress’ eye."

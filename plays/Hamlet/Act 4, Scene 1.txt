@@ -1,0 +1,113 @@
+play: Hamlet
+title: Act 4, Scene 1
+group: 4
+order: 11
+text:
+  - os: "Enter King CLAUDIUS and Queen GERTRUDE, with ROSENCRANTZ and GUILDENSTERN"
+    ms: "CLAUDIUS and GERTRUDE enter with ROSENCRANTZ and GUILDENSTERN."
+
+  - sp: CLAUDIUS
+    o:
+      - "*(to GERTRUDE)* There’s matter in these sighs, these profound heaves."
+      - "You must translate. ’Tis fit we understand them."
+      - "Where is your son?"
+    m:
+      - "*(to GERTRUDE)* These deep, heaving sighs of yours mean something. You have to tell me what. I need to know. Where’s your son?"
+
+  - sp: GERTRUDE
+    o:
+      - "*(to ROSENCRANTZ and GUILDENSTERN)*"
+      - "Bestow this place on us a little while."
+    m:
+      - "*(to ROSENCRANTZ and GUILDENSTERN)* Let us speak privately awhile, please."
+
+  - os: "Exeunt ROSENCRANTZ and GUILDENSTERN"
+    ms: "ROSENCRANTZ and GUILDENSTERN exit."
+
+  - o:
+      - "Ah, my good lord, what have I seen tonight!"
+    m:
+      - "Ah, my lord, you wouldn’t believe what I’ve witnessed tonight!"
+
+  - sp: CLAUDIUS
+    o:
+      - "What, Gertrude? How does Hamlet?"
+    m:
+      - "What, Gertrude? How is Hamlet?"
+
+  - sp: GERTRUDE
+    o:
+      - "Mad as the sea and wind when both contend"
+      - "Which is the mightier. In his lawless fit,"
+      - "Behind the arras hearing something stir,"
+      - "Whips out his rapier, cries, “A rat, a rat!”"
+      - "And in this brainish apprehension kills"
+      - "The unseen good old man."
+    m:
+      - "As mad as the waves and the wind when they struggle together in a storm. In an insane rage, he hears something behind the tapestry, whips out his sword, shouts, “A rat, a rat!” and in his deranged state of mind he kills the good old man, who is still hidden."
+
+  - sp: CLAUDIUS
+    o:
+      - "    O heavy deed!"
+      - "It had been so with us, had we been there."
+      - "His liberty is full of threats to all—"
+      - "To you yourself, to us, to everyone."
+      - "Alas, how shall this bloody deed be answered?"
+      - "It will be laid to us, whose providence"
+      - "Should have kept short, restrained and out of haunt,"
+      - "This mad young man. But so much was our love,"
+      - "We would not understand what was most fit,"
+      - "But, like the owner of a foul disease,"
+      - "To keep it from divulging, let it feed"
+      - "Even on the pith of life. Where is he gone?"
+    m:
+      - "Oh, this is terrible! It would’ve happened to me if I’d been there. His wildness is a threat to all of us—to you, to me, to everyone. How will we deal with this violent deed? I’m the one who will be blamed for not restraining and confining this mad young man. But I loved him so much I didn’t want to think about what I had to do. So, like someone suffering from a nasty disease who refuses to divulge his condition and lets it infect him to the core, I kept Hamlet’s condition secret and let it grow more and more dangerous. Where has he gone?"
+
+  - sp: GERTRUDE
+    o:
+      - "To draw apart the body he hath killed,"
+      - "O’er whom his very madness, like some ore"
+      - "Among a mineral of metals base,"
+      - "Shows itself pure. He weeps for what is done."
+    m:
+      - "To remove the corpse of the man he killed. His madness allows a glimmering of morality to shine through, like a vein of gold in a chunk of coal. He weeps for what he has done."
+
+  - sp: CLAUDIUS
+    o:
+      - "O Gertrude, come away!"
+      - "The sun no sooner shall the mountains touch"
+      - "But we will ship him hence, and this vile deed"
+      - "We must, with all our majesty and skill,"
+      - "Both countenance and excuse.—Ho, Guildenstern!"
+    m:
+      - "Oh, Gertrude, let’s go. As soon as the sun sets we’ll ship him off to England. It’ll take all my diplomatic know-how to explain and excuse the murder he’s committed. Hey, Guildenstern!"
+
+  - os: "Enter ROSENCRANTZ and GUILDENSTERN"
+    ms: "ROSENCRANTZ and GUILDENSTERN enter."
+
+  - o:
+      - "Friends both, go join you with some further aid."
+      - "Hamlet in madness hath Polonius slain,"
+      - "And from his mother’s closet hath he dragged him."
+      - "Go seek him out, speak fair, and bring the body"
+      - "Into the chapel. I pray you, haste in this."
+    m:
+      - "My friends, go find others to help you. Hamlet in his madness has killed Polonius and dragged him out of his mother’s bedroom. Go find him and speak nicely to him, and bring the corpse into the chapel. Please hurry."
+
+  - os: "Exeunt ROSENCRANTZ and GUILDENSTERN"
+    ms: "ROSENCRANTZ and GUILDENSTERN exit."
+
+  - o:
+      - "Come, Gertrude, we’ll call up our wisest friends,"
+      - "And let them know both what we mean to do"
+      - "And what’s untimely done. So dreaded slander—"
+      - "Whose whisper o’er the world’s diameter,"
+      - "As level as the cannon to his blank,"
+      - "Transports the poisoned shot—may miss our name"
+      - "And hit the woundless air. Oh, come away!"
+      - "My soul is full of discord and dismay."
+    m:
+      - "Come, Gertrude. We’ll confer with our wisest friends and tell them what we’re going to do, and what terrible deed has been done already. Let’s hope slander—a bullet that can travel halfway around the world and still hit its exact target—spares us. Oh, we must go. I’m full of confusion and despair."
+
+  - os: "Exeunt"
+    ms: "They exit."

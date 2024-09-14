@@ -1,0 +1,630 @@
+play: Romeo and Juliet
+title: Act 3, Scene 5
+group: 3
+order: 17
+text:
+  - os: "Enter ROMEO and JULIET aloft"
+    ms: "ROMEO and JULIET enter above the stage."
+
+  - sp: JULIET
+    o:
+      - "Wilt thou be gone? It is not yet near day."
+      - "It was the nightingale, and not the lark,"
+      - "That pierced the fearful hollow of thine ear."
+      - "Nightly she sings on yon pomegranate tree."
+      - "Believe me, love, it was the nightingale."
+    m:
+      - "Are you going? It’s still a long time until daybreak. Don’t be afraid. That sound you heard was the nightingale, not the lark. Every night the nightingale chirps on that pomegranate-tree. Believe me, my love, it was the nightingale."
+
+  - sp: ROMEO
+    o:
+      - "It was the lark, the herald of the morn,"
+      - "No nightingale. Look, love, what envious streaks"
+      - "Do lace the severing clouds in yonder east."
+      - "Night’s candles are burnt out, and jocund day"
+      - "Stands tiptoe on the misty mountain tops."
+      - "I must be gone and live, or stay and die."
+    m:
+      - "It was the lark, the bird that sings at dawn, not the nightingale. Look, my love, what are those streaks of light in the clouds parting in the east? Night is over, and day is coming. If I want to live, I must go. If I stay, I’ll die."
+
+  - sp: JULIET
+    o:
+      - "Yon light is not daylight, I know it, I."
+      - "It is some meteor that the sun exhales"
+      - "To be to thee this night a torchbearer,"
+      - "And light thee on thy way to Mantua."
+      - "Therefore stay yet. Thou need’st not to be gone."
+    m:
+      - "That light is not daylight, I know it. It’s some meteor coming out of the sun to light your way to Mantua. So stay for a while. You don’t have to go yet."
+
+  - sp: ROMEO
+    o:
+      - "Let me be ta’en. Let me be put to death."
+      - "I am content, so thou wilt have it so."
+      - "I’ll say yon grey is not the morning’s eye."
+      - "’Tis but the pale reflex of Cynthia’s brow."
+      - "Nor that is not the lark, whose notes do beat"
+      - "The vaulty heaven so high above our heads."
+      - "I have more care to stay than will to go."
+      - "Come, death, and welcome! Juliet wills it so.—"
+      - "How is ’t, my soul? Let’s talk. It is not day."
+    m:
+      - "Let me be captured. Let me be put to death. I am content, if that’s the way you want it. I’ll say the light over there isn’t morning. I’ll say it’s the reflection of the moon. I’ll say that sound isn’t the lark ringing in the sky. I want to stay more than I want to go. Come, death, and welcome! Juliet wants it this way. How are you, my love? Let’s talk. It’s not daylight."
+
+  - sp: JULIET
+    o:
+      - "It is, it is. Hie hence! Be gone, away!"
+      - "It is the lark that sings so out of tune,"
+      - "Straining harsh discords and unpleasing sharps."
+      - "Some say the lark makes sweet division."
+      - "This doth not so, for she divideth us."
+      - "Some say the lark and loathèd toad change eyes."
+      - "Oh, now I would they had changed voices too,"
+      - "Since arm from arm that voice doth us affray,"
+      - "Hunting thee hence with hunt’s-up to the day."
+      - "O, now be gone. More light and light it grows."
+    m:
+      - "It is, it is. Get out of here, be gone, go away! It’s the lark that sings so out of tune, making such harsh noise. Some say the lark makes a sweet division between day and night. It’s not true because she separates us. Some say the lark traded its eyes with the toad. Oh, now I wish they had traded voices too! Because the lark’s voice tears us out of each other’s arms, and now there will be men hunting for you. Oh, go away now. I see more and more light."
+
+  - sp: ROMEO
+    o:
+      - "More light and light, more dark and dark our woes!"
+    m:
+      - "More and more light. More and more pain for us."
+
+  - os: "Enter NURSE"
+    ms: "The NURSE enters."
+
+  - sp: NURSE
+    o:
+      - "Madam."
+    m:
+      - "Madam."
+
+  - sp: JULIET
+    o:
+      - "Nurse?"
+    m:
+      - "Nurse?"
+
+  - sp: NURSE
+    o:
+      - "Your lady mother is coming to your chamber."
+      - "The day is broke. Be wary, look about."
+    m:
+      - "Your mother is coming to your bedroom. Day has broken. Be careful. Watch out."
+
+  - os: "Exit NURSE"
+    ms: "The NURSE exits."
+
+  - sp: JULIET
+    o:
+      - "Then, window, let day in and let life out."
+    m:
+      - "Then the window lets day in, and life goes out the window."
+
+  - sp: ROMEO
+    o:
+      - "Farewell, farewell. One kiss, and I’ll descend."
+    m:
+      - "Farewell, farewell! Give me one kiss, and I’ll go down."
+
+  - os: "Kiss. ROMEO goes down"
+    ms: "They kiss. ROMEO drops the ladder and goes down."
+
+  - sp: JULIET
+    o:
+      - "Art thou gone so, love, lord? Ay, husband, friend,"
+      - "I must hear from thee every day in the hour,"
+      - "For in a minute there are many days."
+      - "Oh, by this count I shall be much in years"
+      - "Ere I again behold my Romeo."
+    m:
+      - "Are you gone like that, my love, my lord? Yes, my husband, my friend! I must hear from you every day in the hour. In a minute there are many days. Oh, by this count I’ll be many years older before I see my Romeo again."
+
+  - sp: ROMEO
+    o:
+      - "    Farewell!"
+      - "I will omit no opportunity"
+      - "That may convey my greetings, love, to thee."
+    m:
+      - "Farewell! I won’t miss any chance to send my love to you."
+
+  - sp: JULIET
+    o:
+      - "Oh, think’st thou we shall ever meet again?"
+    m:
+      - "Oh, do you think we’ll ever meet again?"
+
+  - sp: ROMEO
+    o:
+      - "I doubt it not, and all these woes shall serve"
+      - "For sweet discourses in our time to come."
+    m:
+      - "I have no doubts. All these troubles will give us stories to tell each other later in life."
+
+  - sp: JULIET
+    o:
+      - "O God, I have an ill-divining soul."
+      - "Methinks I see thee now, thou art so low"
+      - "As one dead in the bottom of a tomb."
+      - "Either my eyesight fails, or thou look’st pale."
+    m:
+      - "Oh God, I have a soul that predicts evil things! Now that you are down there, you look like someone dead in the bottom of a tomb. Either my eyesight is failing me, or you look pale."
+
+  - sp: ROMEO
+    o:
+      - "And trust me, love, in my eye so do you."
+      - "Dry sorrow drinks our blood. Adieu, adieu!"
+    m:
+      - "And trust me, love, you look pale to me too. Sadness takes away our color. Goodbye, Goodbye!"
+
+  - os: "Exit ROMEO"
+    ms: "ROMEO exits."
+
+  - sp: JULIET
+    o:
+      - "O fortune, fortune! All men call thee fickle."
+      - "If thou art fickle, what dost thou with him"
+      - "That is renowned for faith? Be fickle, fortune,"
+      - "For then, I hope, thou wilt not keep him long,"
+      - "But send him back."
+    m:
+      - "Oh luck, luck. Everyone says you can’t make up your mind. If you change your mind so much, what are you going to do to Romeo, who’s so faithful? Change your mind, luck. I hope maybe then you’ll send him back home soon."
+
+  - sp: LADY CAPULET
+    o:
+      - "*(from within)* Ho, daughter, are you up?"
+    m:
+      - "*(offstage)* Hey, daughter! Are you awake?"
+
+  - sp: JULIET
+    o:
+      - "Who is ’t that calls? Is it my lady mother?"
+      - "Is she not down so late or up so early?"
+      - "What unaccustomed cause procures her hither?"
+    m:
+      - "Who’s that calling? Is it my mother? Isn’t she up very late? Or is she up very early? What strange reason could she have for coming here?"
+
+  - os: "Enter LADY CAPULET"
+    ms: "LADY CAPULET enters."
+
+  - sp: LADY CAPULET
+    o:
+      - "Why, how now, Juliet?"
+    m:
+      - "What’s going on, Juliet?"
+
+  - sp: JULIET
+    o:
+      - "    Madam, I am not well."
+    m:
+      - "Madam, I am not well."
+
+  - sp: LADY CAPULET
+    o:
+      - "Evermore weeping for your cousin’s death?"
+      - "What, wilt thou wash him from his grave with tears?"
+      - "An if thou couldst, thou couldst not make him live."
+      - "Therefore, have done. Some grief shows much of love,"
+      - "But much of grief shows still some want of wit."
+    m:
+      - "Will you cry about your cousin’s death forever? Are you trying to wash him out of his grave with tears? If you could, you couldn’t bring him back to life. So stop crying. A little bit of grief shows a lot of love. But too much grief makes you look stupid."
+
+  - sp: JULIET
+    o:
+      - "Yet let me weep for such a feeling loss."
+    m:
+      - "Let me keep weeping for such a great loss."
+
+  - sp: LADY CAPULET
+    o:
+      - "So shall you feel the loss, but not the friend"
+      - "Which you weep for."
+    m:
+      - "You will feel the loss, but the man you weep for will feel nothing."
+
+  - sp: JULIET
+    o:
+      - "    Feeling so the loss,"
+      - "Cannot choose but ever weep the friend."
+    m:
+      - "Feeling the loss like this, I can’t help but weep for him forever."
+
+  - sp: LADY CAPULET
+    o:
+      - "Well, girl, thou weep’st not so much for his death,"
+      - "As that the villain lives which slaughtered him."
+    m:
+      - "Well, girl, you’re weeping not for his death as much as for the fact that the villain who killed him is still alive."
+
+  - sp: JULIET
+    o:
+      - "What villain, madam?"
+    m:
+      - "What villain, madam?"
+
+  - sp: LADY CAPULET
+    o:
+      - "    That same villain, Romeo."
+    m:
+      - "That villain, Romeo."
+
+  - sp: JULIET
+    o:
+      - "*(aside)* Villain and he be many miles asunder."
+      - "*(to LADY CAPULET)* God pardon him! I do, with all my heart,"
+      - "And yet no man like he doth grieve my heart."
+    m:
+      - "*(speaking so that LADY CAPULET can’t hear)* He’s far from being a villain. *(to LADY CAPULET)* May God pardon him! I do, with all my heart. And yet no man could make my heart grieve like he does."
+
+  - sp: LADY CAPULET
+    o:
+      - "That is because the traitor murderer lives."
+    m:
+      - "That’s because the murderer is alive."
+
+  - sp: JULIET
+    o:
+      - "Ay, madam, from the reach of these my hands."
+      - "Would none but I might venge my cousin’s death!"
+    m:
+      - "Yes, madam, he lies beyond my reach. I wish that no one could avenge my cousin’s death except me!"
+
+  - sp: LADY CAPULET
+    o:
+      - "We will have vengeance for it, fear thou not."
+      - "Then weep no more. I’ll send to one in Mantua,"
+      - "Where that same banished runagate doth live,"
+      - "Shall give him such an unaccustomed dram"
+      - "That he shall soon keep Tybalt company."
+      - "And then, I hope, thou wilt be satisfied."
+    m:
+      - "We’ll have revenge for it. Don’t worry about that. Stop crying. I’ll send a man to Mantua, where that exiled rogue is living. Our man will poison Romeo’s drink, and Romeo will join Tybalt in death. And then, I hope, you’ll be satisfied."
+
+  - sp: JULIET
+    o:
+      - "Indeed, I never shall be satisfied"
+      - "With Romeo, till I behold him—dead—"
+      - "Is my poor heart for a kinsman vexed."
+      - "Madam, if you could find out but a man"
+      - "To bear a poison, I would temper it,"
+      - "That Romeo should, upon receipt thereof,"
+      - "Soon sleep in quiet. Oh, how my heart abhors"
+      - "To hear him named, and cannot come to him."
+      - "To wreak the love I bore my cousin"
+      - "Upon his body that slaughtered him!"
+    m:
+      - "I’ll never be satisfied with Romeo until I see him . . . dead—dead is how my poor heart feels when I think about my poor cousin. Madam, if you can find a man to deliver the poison, I’ll mix it myself so that Romeo will sleep quietly soon after he drinks it. Oh, how I hate to hear people say his name and not be able to go after him. I want to take the love I had for my cousin and take it out on the body of the man who killed him."
+
+  - sp: LADY CAPULET
+    o:
+      - "Find thou the means, and I’ll find such a man."
+      - "But now I’ll tell thee joyful tidings, girl."
+    m:
+      - "Find out the way, and I’ll find the right man. But now I have joyful news for you, girl."
+
+  - sp: JULIET
+    o:
+      - "And joy comes well in such a needy time."
+      - "What are they, beseech your ladyship?"
+    m:
+      - "And it’s good to have joy in such a joyless time. What’s the news? Please tell me."
+
+  - sp: LADY CAPULET
+    o:
+      - "Well, well, thou hast a careful father, child."
+      - "One who, to put thee from thy heaviness,"
+      - "Hath sorted out a sudden day of joy"
+      - "That thou expect’st not, nor I looked not for."
+    m:
+      - "Well, well, you have a careful father, child. He has arranged a sudden day of joy to end your sadness. A day that you did not expect and that I did not seek out."
+
+  - sp: JULIET
+    o:
+      - "Madam, in happy time, what day is that?"
+    m:
+      - "Madam, tell me quickly, what day is that?"
+
+  - sp: LADY CAPULET
+    o:
+      - "Marry, my child, early next Thursday morn,"
+      - "The gallant, young, and noble gentleman,"
+      - "The County Paris, at Saint Peter’s Church,"
+      - "Shall happily make thee there a joyful bride."
+    m:
+      - "Indeed, my child, at Saint Peter’s Church early Thursday morning, the gallant, young, and noble gentleman Count Paris will happily make you a joyful bride."
+
+  - sp: JULIET
+    o:
+      - "Now, by Saint Peter’s Church and Peter too,"
+      - "He shall not make me there a joyful bride."
+      - "I wonder at this haste, that I must wed"
+      - "Ere he, that should be husband, comes to woo."
+      - "I pray you, tell my lord and father, madam,"
+      - "I will not marry yet. And when I do, I swear"
+      - "It shall be Romeo, whom you know I hate,"
+      - "Rather than Paris. These are news indeed!"
+    m:
+      - "Now, I swear by Saint Peter’s Church and Peter too, he will not make me a joyful bride there. This is a strange rush. How can I marry him, this husband, before he comes to court me? Please, tell my father, madam, I won’t marry yet. And, when I do marry, I swear, it will be Romeo, whom you know I hate, rather than Paris. That’s really news!"
+
+  - sp: LADY CAPULET
+    o:
+      - "Here comes your father. Tell him so yourself,"
+      - "And see how he will take it at your hands."
+    m:
+      - "Here comes your father. Tell him so yourself, and see how he takes the news."
+
+  - os: "Enter CAPULET and NURSE"
+    ms: "CAPULET and the NURSE enter."
+
+  - sp: CAPULET
+    o:
+      - "When the sun sets the air doth drizzle dew,"
+      - "But for the sunset of my brother’s son"
+      - "It rains downright."
+      - "How now? A conduit, girl? What, still in tears,"
+      - "Evermore showering? In one little body"
+      - "Thou counterfeit’st a bark, a sea, a wind,"
+      - "For still thy eyes, which I may call the sea,"
+      - "Do ebb and flow with tears. The bark thy body is,"
+      - "Sailing in this salt flood. The winds thy sighs,"
+      - "Who, raging with thy tears, and they with them,"
+      - "Without a sudden calm will overset"
+      - "Thy tempest-tossèd body.—How now, wife?"
+      - "Have you delivered to her our decree?"
+    m:
+      - "When the sun sets, the air drizzles dew. But at the death of my brother’s son, it rains a downpour. What are you, girl? Some kind of fountain? Why are you still crying? Will you cry forever? In one little body you seem like a ship, the sea, and the winds. Your eyes, which I call the sea, flow with tears. The ship is your body which is sailing on the salt flood of your tears. The winds are your sighs. Your sighs and your tears are raging. Unless you calm down, tears and sighs will overwhelm your body and sink your ship. So where do things stand, wife? Have you told her our decision?"
+
+  - sp: LADY CAPULET
+    o:
+      - "Ay, sir, but she will none, she gives you thanks."
+      - "I would the fool were married to her grave!"
+    m:
+      - "Yes, sir, I told her. But she won’t agree. She says thank you but refuses. I wish the fool were dead and married to her grave!"
+
+  - sp: CAPULET
+    o:
+      - "Soft, take me with you, take me with you, wife."
+      - "How, will she none? Doth she not give us thanks?"
+      - "Is she not proud? Doth she not count her blessed,"
+      - "Unworthy as she is, that we have wrought"
+      - "So worthy a gentleman to be her bride?"
+    m:
+      - "Wait! Hold on, wife. I don’t understand. How can this be? She refuses? Isn’t she grateful? Isn’t she proud of such a match? Doesn’t she realize what a blessing this is? Doesn’t she realize how unworthy she is of the gentleman we have found to be her bridegroom?"
+
+  - sp: JULIET
+    o:
+      - "Not proud you have, but thankful that you have."
+      - "Proud can I never be of what I hate,"
+      - "But thankful even for hate that is meant love."
+    m:
+      - "I am not proud of what you have found for me. But I am thankful that you have found it. I can never be proud of what I hate. But I can be thankful for something I hate, if it was meant with love."
+
+  - sp: CAPULET
+    o:
+      - "How, how, how, how? Chopped logic! What is this?"
+      - "“Proud,” and “I thank you,” and “I thank you not,”"
+      - "And yet “not proud”? Mistress minion you,"
+      - "Thank me no thankings, nor proud me no prouds,"
+      - "But fettle your fine joints ’gainst Thursday next"
+      - "To go with Paris to Saint Peter’s Church,"
+      - "Or I will drag thee on a hurdle thither."
+      - "Out, you green sickness, carrion! Out, you baggage!"
+      - "You tallow face!"
+    m:
+      - "What is this? What is this fuzzy logic? What is this? I hear you say “proud” and “I thank you,” and then “no thank you” and “not proud,” you spoiled little girl. You’re not really giving me any thanks or showing me any pride. But get yourself ready for Thursday. You’re going to Saint Peter’s Church to marry Paris. And if you don’t go on your own, I’ll drag you there. You disgust me, you little bug! You worthless girl! You pale face!"
+
+  - sp: LADY CAPULET
+    o:
+      - "  Fie, fie! What, are you mad?"
+    m:
+      - "Shame on you! What, are you crazy?"
+
+  - sp: JULIET
+    o:
+      - "Good Father, I beseech you on my knees,"
+      - "Hear me with patience but to speak a word."
+    m:
+      - "Good father, I’m begging you on my knees, be patient and listen to me say just one thing."
+
+  - sp: CAPULET
+    o:
+      - "Hang thee, young baggage! Disobedient wretch!"
+      - "I tell thee what: get thee to church o’ Thursday,"
+      - "Or never after look me in the face."
+      - "Speak not. Reply not. Do not answer me."
+      - "My fingers itch.—Wife, we scarce thought us blest"
+      - "That God had lent us but this only child,"
+      - "But now I see this one is one too much"
+      - "And that we have a curse in having her."
+      - "Out on her, hilding!"
+    m:
+      - "Forget about you, you worthless girl! You disobedient wretch! I’ll tell you what. Go to church on Thursday or never look me in the face again. Don’t say anything. Don’t reply. Don’t talk back to me. *(JULIET rises)* I feel like slapping you. Wife, we never thought ourselves blessed that God only gave us this one child. But now I see that this one is one too many. We were cursed when we had her. She disgusts me, the little hussy!"
+
+  - sp: NURSE
+    o:
+      - "    God in heaven bless her!"
+      - "You are to blame, my lord, to rate her so."
+    m:
+      - "God in heaven bless her! My lord, you’re wrong to berate her like that."
+
+  - sp: CAPULET
+    o:
+      - "And why, my Lady Wisdom? Hold your tongue,"
+      - "Good prudence. Smatter with your gossips, go."
+    m:
+      - "And why, wise lady? You shut up, old woman. Go blabber with your gossiping friends."
+
+  - sp: NURSE
+    o:
+      - "I speak no treason."
+    m:
+      - "I’ve said nothing wrong."
+
+  - sp: CAPULET
+    o:
+      - "  Oh, God ’i’ good e’en."
+    m:
+      - "Oh, for God’s sake."
+
+  - sp: NURSE
+    o:
+      - "May not one speak?"
+    m:
+      - "Can’t I say something?"
+
+  - sp: CAPULET
+    o:
+      - "  Peace, you mumbling fool!"
+      - "Utter your gravity o’er a gossip’s bowl,"
+      - "For here we need it not."
+    m:
+      - "Be quiet, you mumbling fool! Say your serious things at lunch with your gossiping friends. We don’t need to hear it."
+
+  - sp: LADY CAPULET
+    o:
+      - "    You are too hot."
+    m:
+      - "You’re getting too angry."
+
+  - sp: CAPULET
+    o:
+      - "God’s bread! It makes me mad."
+      - "Day, night, hour, tide, time, work, play,"
+      - "Alone, in company, still my care hath been"
+      - "To have her matched. And having now provided"
+      - "A gentleman of noble parentage,"
+      - "Of fair demesnes, youthful, and nobly trained,"
+      - "Stuffed, as they say, with honorable parts,"
+      - "Proportioned as one’s thought would wish a man—"
+      - "And then to have a wretched puling fool,"
+      - "A whining mammet, in her fortune’s tender,"
+      - "To answer “I’ll not wed,” “I cannot love,”"
+      - "“I am too young,” “I pray you, pardon me.”—"
+      - "But, an you will not wed, I’ll pardon you."
+      - "Graze where you will, you shall not house with me."
+      - "Look to ’t, think on ’t, I do not use to jest."
+      - "Thursday is near. Lay hand on heart, advise."
+      - "An you be mine, I’ll give you to my friend."
+      - "An you be not, hang, beg, starve, die in the streets,"
+      - "For, by my soul, I’ll ne’er acknowledge thee,"
+      - "Nor what is mine shall never do thee good."
+      - "Trust to ’t, bethink you. I’ll not be forsworn."
+    m:
+      - "Goddammit! It makes me mad. Day and night, hour after hour, all the time, at work, at play, alone, in company, my top priority has always been to find her a husband. Now I’ve provided a husband from a noble family, who is good-looking, young, well-educated. He’s full of good qualities. He’s the man of any girl’s dreams. But this wretched, whimpering fool, like a whining puppet, she looks at this good fortune and answers, “I won’t get married. I can’t fall in love. I’m too young. Please, excuse me.” Well, if you won’t get married, I’ll excuse you. Eat wherever you want, but you can no longer live under my roof. Consider that. Think about it. I’m not in the habit of joking. Thursday is coming. Put your hand on your heart and listen to my advice. If you act like my daughter, I’ll marry you to my friend. If you don’t act like my daughter, you can beg, starve, and die in the streets. I swear on my soul, I will never take you back or do anything for you. Believe me. Think about it. I won’t break this promise."
+
+  - os: "Exit CAPULET"
+    ms: "CAPULET exits."
+
+  - sp: JULIET
+    o:
+      - "Is there no pity sitting in the clouds"
+      - "That sees into the bottom of my grief?—"
+      - "O sweet my mother, cast me not away!"
+      - "Delay this marriage for a month, a week."
+      - "Or, if you do not, make the bridal bed"
+      - "In that dim monument where Tybalt lies."
+    m:
+      - "Is there no pity in the sky that can see my sadness? Oh, my sweet mother, don’t throw me out! Delay this marriage for a month, or a week. Or, if you don’t delay, make my wedding bed in the tomb where Tybalt lies."
+
+  - sp: LADY CAPULET
+    o:
+      - "Talk not to me, for I’ll not speak a word."
+      - "Do as thou wilt, for I have done with thee."
+    m:
+      - "Don’t talk to me, because I won’t say a word. Do as you please, because I’m done worrying about you."
+
+  - os: "Exit LADY CAPULET"
+    ms: "LADY CAPULET exits."
+
+  - sp: JULIET
+    o:
+      - "O God!—O Nurse, how shall this be prevented?"
+      - "My husband is on earth, my faith in heaven."
+      - "How shall that faith return again to earth,"
+      - "Unless that husband send it me from heaven"
+      - "By leaving earth? Comfort me. Counsel me.—"
+      - "Alack, alack, that heaven should practice stratagems"
+      - "Upon so soft a subject as myself.—"
+      - "What sayst thou? Hast thou not a word of joy?"
+      - "Some comfort, Nurse."
+    m:
+      - "Oh God!—Oh Nurse, how can this be stopped? My husband is alive on earth, my vows of marriage are in heaven. How can I bring those promises back down to earth, unless my husband sends them back down to me by dying and going to heaven? Give me comfort. Give me advice. Oh no! Oh no! Why does heaven play tricks on someone as weak as me? What do you say? Don’t you have one word of joy? Give me some comfort, Nurse."
+
+  - sp: NURSE
+    o:
+      - "  Faith, here it is."
+      - "Romeo is banishèd, and all the world to nothing"
+      - "That he dares ne’er come back to challenge you."
+      - "Or, if he do, it needs must be by stealth."
+      - "Then, since the case so stands as now it doth,"
+      - "I think it best you married with the county."
+      - "Oh, he’s a lovely gentleman."
+      - "Romeo’s a dishclout to him. An eagle, madam,"
+      - "Hath not so green, so quick, so fair an eye"
+      - "As Paris hath. Beshrew my very heart,"
+      - "I think you are happy in this second match,"
+      - "For it excels your first. Or if it did not,"
+      - "Your first is dead, or ’twere as good he were,"
+      - "As living here and you no use of him."
+    m:
+      - "This is what I have to say: Romeo has been banished. And it’s a sure thing that he will never come back to challenge you. If he does come back, he’ll have to sneak back undercover. Then, since things are the way they are, I think the best thing to do is to marry the count. Oh, he’s a lovely gentleman! Romeo’s a dishcloth compared to him. Madam, an eagle does not have eyes as green, as quick, and as fair as the eyes of Paris. Curse my very heart, but I think you should be happy in this second marriage, because it’s better than your first. Even if it’s not better, your first marriage is over. Or if Romeo is as good as Paris, Romeo doesn’t live here, so you don’t get to enjoy him."
+
+  - sp: JULIET
+    o:
+      - "Speakest thou from thy heart?"
+    m:
+      - "Are you speaking from your heart?"
+
+  - sp: NURSE
+    o:
+      - "And from my soul too, else beshrew them both."
+    m:
+      - "I speak from my heart and from my soul too. If not, curse them both."
+
+  - sp: JULIET
+    o:
+      - "Amen!"
+    m:
+      - "Amen!"
+
+  - sp: NURSE
+    o:
+      - "What?"
+    m:
+      - "What?"
+
+  - sp: JULIET
+    o:
+      - "Well, thou hast comforted me marvelous much."
+      - "Go in, and tell my lady I am gone,"
+      - "Having displeased my father, to Lawrence’s cell"
+      - "To make confession and to be absolved."
+    m:
+      - "Well, you have given me great comfort. Go inside and tell my mother that I’m gone. I made my father angry, so I went to Friar Lawrence’s cell to confess and be forgiven."
+
+  - sp: NURSE
+    o:
+      - "Marry, I will, and this is wisely done."
+    m:
+      - "Alright, I will. This is a good idea."
+
+  - os: "Exit NURSE"
+    ms: "The NURSE exits."
+
+  - sp: JULIET
+    o:
+      - "Ancient damnation! O most wicked fiend!"
+      - "Is it more sin to wish me thus forsworn,"
+      - "Or to dispraise my lord with that same tongue"
+      - "Which she hath praised him with above compare"
+      - "So many thousand times? Go, counselor."
+      - "Thou and my bosom henceforth shall be twain."
+      - "I’ll to the friar to know his remedy."
+      - "If all else fail, myself have power to die."
+    m:
+      - "That damned old lady! Oh, that most wicked fiend! Is it a worse sin for her to want me to break my vows or for her to say bad things about my husband after she praised him so many times before? Away with you and your advice, Nurse. From now on, I will never tell you what I feel in my heart. I’m going to the Friar to find out his solution. If everything else fails, at least I have the power to take my own life."
+
+  - os: "Exit"
+    ms: "JULIET exits."

@@ -1,0 +1,371 @@
+play: Richard II
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "London. King Richard II’s palace."
+    ms: "London. King Richard II’s palace."
+
+  - os: "Enter KING RICHARD II, JOHN OF GAUNT, with other Nobles and Attendants"
+    ms: "KING RICHARD II, JOHN OF GAUNT, and other nobles and attendants enter."
+
+  - sp: KING RICHARD II
+    o:
+      - "Old John of Gaunt, time-honour’d Lancaster,"
+      - "Hast thou, according to thy oath and band,"
+      - "Brought hither Henry Hereford thy bold son,"
+      - "Here to make good the boisterous late appeal,"
+      - "Which then our leisure would not let us hear,"
+      - "Against the Duke of Norfolk, Thomas Mowbray?"
+    m:
+      - "Old John of Gaunt, did you do as you promised and bring your brave son Henry here? I’d like to hear the violent accusation he wanted to make against the Duke of Norfolk, Thomas Mowbray, which I didn’t have time for earlier."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "I have, my liege."
+    m:
+      - "I’ve brought him, my lord."
+
+  - sp: KING RICHARD II
+    o:
+      - "Tell me, moreover, hast thou sounded him,"
+      - "If he appeal the duke on ancient malice;"
+      - "Or worthily, as a good subject should,"
+      - "On some known ground of treachery in him?"
+    m:
+      - "Have you asked him if the source of his complaint is an old feud, or if he knows of some treason the duke has committed?"
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "As near as I could sift him on that argument,"
+      - "On some apparent danger seen in him"
+      - "Aim’d at your highness, no inveterate malice."
+    m:
+      - "As far as I could tell, it’s not some personal malice. My son believes that the duke means to harm you in some way."
+
+  - sp: KING RICHARD II
+    o:
+      - "Then call them to our presence; face to face,"
+      - "And frowning brow to brow, ourselves will hear"
+      - "The accuser and the accused freely speak:"
+      - "High-stomach’d are they both, and full of ire,"
+      - "In rage deaf as the sea, hasty as fire."
+    m:
+      - "Then call them both in to see me. I want to hear in person what each has to say. They’re both so proud and full of anger that they act recklessly and don’t listen to reason."
+
+  - os: "Enter HENRY BOLINGBROKE and THOMAS MOWBRAY"
+    ms: "HENRY BOLINGBROKE and THOMAS MOWBRAY enter."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Many years of happy days befal"
+      - "My gracious sovereign, my most loving liege!"
+    m:
+      - "May you have many years of happiness, my gracious and loving lord."
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "Each day still better other’s happiness;"
+      - "Until the heavens, envying earth’s good hap,"
+      - "Add an immortal title to your crown!"
+    m:
+      - "May each day be happier than the last, and heaven give you immortality!"
+
+  - sp: KING RICHARD II
+    o:
+      - "We thank you both: yet one but flatters us,"
+      - "As well appeareth by the cause you come;"
+      - "Namely to appeal each other of high treason."
+      - "Cousin of Hereford, what dost thou object"
+      - "Against the Duke of Norfolk, Thomas Mowbray?"
+    m:
+      - "Thank you both. But I know one of you isn’t sincere since each of you accuses the other of treason against me. Henry of Hereford, what do you have to say against the Duke of Norfolk, Thomas Mowbray?"
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "First, heaven be the record to my speech!"
+      - "In the devotion of a subject’s love,"
+      - "Tendering the precious safety of my prince,"
+      - "And free from other misbegotten hate,"
+      - "Come I appellant to this princely presence."
+      - "Now, Thomas Mowbray, do I turn to thee,"
+      - "And mark my greeting well; for what I speak"
+      - "My body shall make good upon this earth,"
+      - "Or my divine soul answer it in heaven."
+      - "Thou art a traitor and a miscreant,"
+      - "Too good to be so and too bad to live,"
+      - "Since the more fair and crystal is the sky,"
+      - "The uglier seem the clouds that in it fly."
+      - "Once more, the more to aggravate the note,"
+      - "With a foul traitor’s name stuff I thy throat;"
+      - "And wish, so please my sovereign, ere I move,"
+      - "What my tongue speaks my right drawn sword may prove."
+    m:
+      - "First, may heaven be my witness! I’ve come here as an accuser because I am a devoted subject who cares for the safety of my prince, not because of any other prejudice against the duke. Now, Thomas Mowbray, I will turn to you. Pay attention to this. I will prove that what I am about to say is true, either with my body here on earth or with my immortal soul in heaven. You are a traitor and a villain, born into too good a family to be so and too bad to live. The more beautiful the sky, the uglier the clouds look. Once more, to emphasize my accusation, I call you a traitor. And with my king’s permission, I’d like to follow what I say with my sword."
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "Let not my cold words here accuse my zeal:"
+      - "Tis not the trial of a woman’s war,"
+      - "The bitter clamour of two eager tongues,"
+      - "Can arbitrate this cause betwixt us twain;"
+      - "The blood is hot that must be cool’d for this:"
+      - "Yet can I not of such tame patience boast"
+      - "As to be hush’d and nought at all to say:"
+      - "First, the fair reverence of your highness curbs me"
+      - "From giving reins and spurs to my free speech;"
+      - "Which else would post until it had return’d"
+      - "These terms of treason doubled down his throat."
+      - "Setting aside his high blood’s royalty,"
+      - "And let him be no kinsman to my liege,"
+      - "I do defy him, and I spit at him;"
+      - "Call him a slanderous coward and a villain:"
+      - "Which to maintain I would allow him odds,"
+      - "And meet him, were I tied to run afoot"
+      - "Even to the frozen ridges of the Alps,"
+      - "Or any other ground inhabitable,"
+      - "Where ever Englishman durst set his foot."
+      - "Mean time let this defend my loyalty,"
+      - "By all my hopes, most falsely doth he lie."
+    m:
+      - "Don’t let my calm words cast doubt on my loyalty. I know that angry words will not settle this argument, so I’ll try to keep myself under control. But I can’t be so calm as to not say anything in my own defense. First, my respect for you, my king, prevents me from saying what I want and throwing those charges of treason right back at Bolingbroke. I defy him and spit on him as if he weren’t your relative, my lord. He’s a trash-talking coward and a villain, and I’d back up those charges in a duel, even if I gave him an advantage by handicapping myself. For now, I’ve defended my loyalty and made it known that he lies."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Pale trembling coward, there I throw my gage,"
+      - "Disclaiming here the kindred of the king,"
+      - "And lay aside my high blood’s royalty,"
+      - "Which fear, not reverence, makes thee to except."
+      - "If guilty dread have left thee so much strength"
+      - "As to take up mine honour’s pawn, then stoop:"
+      - "By that and all the rites of knighthood else,"
+      - "Will I make good against thee, arm to arm,"
+      - "What I have spoke, or thou canst worse devise."
+    m:
+      - "You pale coward. There I’ll throw my glove in challenge to you and set aside my relationship to the king and my royal blood. It’s fear—not respect for the king’s bloodline—that keeps you quiet. If your guilt has given you the guts to accept my challenge, then pick up my glove. I’ll show your cowardice and treason by defeating you in knightly combat."
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "I take it up; and by that sword I swear"
+      - "Which gently laid my knighthood on my shoulder,"
+      - "I’ll answer thee in any fair degree,"
+      - "Or chivalrous design of knightly trial:"
+      - "And when I mount, alive may I not light,"
+      - "If I be traitor or unjustly fight!"
+    m:
+      - "I’ll take that challenge. And I promise, by my knighthood, that I’ll fight you fairly in whatever contest you wish. And when I mount my horse, let me not dismount alive if I’m a traitor or if I cheat in any way!"
+
+  - sp: KING RICHARD II
+    o:
+      - "What doth our cousin lay to Mowbray’s charge?"
+      - "It must be great that can inherit us"
+      - "So much as of a thought of ill in him."
+    m:
+      - "What do you accuse Mowbray of, my cousin? It will have to be something terrible if it’s going to make me think badly of him in any way."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Look, what I speak, my life shall prove it true;"
+      - "That Mowbray hath received eight thousand nobles"
+      - "In name of lendings for your highness’ soldiers,"
+      - "The which he hath detain’d for lewd employments,"
+      - "Like a false traitor and injurious villain."
+      - "Besides I say and will in battle prove,"
+      - "Or here or elsewhere to the furthest verge"
+      - "That ever was survey’d by English eye,"
+      - "That all the treasons for these eighteen years"
+      - "Complotted and contrived in this land"
+      - "Fetch from false Mowbray their first head and spring."
+      - "Further I say and further will maintain"
+      - "Upon his bad life to make all this good,"
+      - "That he did plot the Duke of Gloucester’s death,"
+      - "Suggest his soon-believing adversaries,"
+      - "And consequently, like a traitor coward,"
+      - "Sluiced out his innocent soul through streams of blood:"
+      - "Which blood, like sacrificing Abel’s, cries,"
+      - "Even from the tongueless caverns of the earth,"
+      - "To me for justice and rough chastisement;"
+      - "And, by the glorious worth of my descent,"
+      - "This arm shall do it, or this life be spent."
+    m:
+      - "I’ll prove with my life that what I say is true. Mowbray has received eight thousand gold coins that he was supposed to pay to your soldiers as advances on their wages. But he’s used the money improperly, just like a traitor and harmful villain would. Even more, I declare and will prove in battle that all treasonous plots over the past eighteen years originated with Mowbray. And further, I know that he caused the death of the Duke of Gloucester by encouraging the duke’s easily influenced enemies, like any coward would, to slay the innocent duke. The duke was murdered like Abel, and his blood demands that I seek revenge and justice. By my own good name, I’ll inflict that justice on Mowbray or die trying."
+
+  - sp: KING RICHARD II
+    o:
+      - "How high a pitch his resolution soars!"
+      - "Thomas of Norfolk, what say’st thou to this?"
+    m:
+      - "He is so determined! Thomas, how do you respond?"
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "O, let my sovereign turn away his face"
+      - "And bid his ears a little while be deaf,"
+      - "Till I have told this slander of his blood,"
+      - "How God and good men hate so foul a liar."
+    m:
+      - "I wish you would turn away and not listen till I’ve told this fellow, who disgraces his bloodline, how much God and good men hate liars like him."
+
+  - sp: KING RICHARD II
+    o:
+      - "Mowbray, impartial are our eyes and ears:"
+      - "Were he my brother, nay, my kingdom’s heir,"
+      - "As he is but my father’s brother’s son,"
+      - "Now, by my sceptre’s awe, I make a vow,"
+      - "Such neighbour nearness to our sacred blood"
+      - "Should nothing privilege him, nor partialize"
+      - "The unstooping firmness of my upright soul:"
+      - "He is our subject, Mowbray; so art thou:"
+      - "Free speech and fearless I to thee allow."
+    m:
+      - "Mowbray, my eyes and ears are impartial, even if he were my brother, or even my heir, rather than just my cousin. I vow on my scepter that his relation to me doesn’t give him any advantage or prejudice me in his favor. He’s my subject, Mowbray, and so are you, so speak freely and without fear."
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "Then, Bolingbroke, as low as to thy heart,"
+      - "Through the false passage of thy throat, thou liest."
+      - "Three parts of that receipt I had for Calais"
+      - "Disbursed I duly to his highness’ soldiers;"
+      - "The other part reserved I by consent,"
+      - "For that my sovereign liege was in my debt"
+      - "Upon remainder of a dear account,"
+      - "Since last I went to France to fetch his queen:"
+      - "Now swallow down that lie. For Gloucester’s death,"
+      - "I slew him not; but to my own disgrace"
+      - "Neglected my sworn duty in that case."
+      - "For you, my noble Lord of Lancaster,"
+      - "The honourable father to my foe"
+      - "Once did I lay an ambush for your life,"
+      - "A trespass that doth vex my grieved soul"
+      - "But ere I last received the sacrament"
+      - "I did confess it, and exactly begg’d"
+      - "Your grace’s pardon, and I hope I had it."
+      - "This is my fault: as for the rest appeall’d,"
+      - "It issues from the rancour of a villain,"
+      - "A recreant and most degenerate traitor"
+      - "Which in myself I boldly will defend;"
+      - "And interchangeably hurl down my gage"
+      - "Upon this overweening traitor’s foot,"
+      - "To prove myself a loyal gentleman"
+      - "Even in the best blood chamber’d in his bosom."
+      - "In haste whereof, most heartily I pray"
+      - "Your highness to assign our trial day."
+    m:
+      - "Then, Bolingbroke, you lie from your heart up through your false throat. I gave three quarters of the money I received to the king’s soldiers. The other quarter I had permission to keep, because I was owed the money for my service in going to fetch the queen from France. Now take back your lie. As for Gloucester, I didn’t kill him, but I admit I disgracefully neglected my duty. I once laid in wait to kill you, my noble lord of Lancaster, the father of my enemy. It was a terrible sin and troubles me greatly. But I confessed it already and specifically begged your pardon, and I hoped you had forgiven me. That is my fault. As for the rest of the charges, they come from a villain’s evil nature, and I’ll defend myself against this faithless and cowardly traitor. I’ll throw my glove down onto this arrogant traitor’s foot, and I’ll show that I’m loyal even compared to this member of the royal bloodline. I therefore pray that your highness will assign a day for our duel soon."
+
+  - sp: KING RICHARD II
+    o:
+      - "Wrath-kindled gentlemen, be ruled by me;"
+      - "Let’s purge this choler without letting blood:"
+      - "This we prescribe, though no physician;"
+      - "Deep malice makes too deep incision;"
+      - "Forget, forgive; conclude and be agreed;"
+      - "Our doctors say this is no month to bleed."
+      - "Good uncle, let this end where it begun;"
+      - "We’ll calm the Duke of Norfolk, you your son."
+    m:
+      - "Obey what I say, my hot-headed gentlemen. Let’s settle this feud without violence. Such fierce anger causes too great an injury. Forget it and forgive each other. Come to terms and agree to put this to an end. The astrologers have said that this is no month to shed blood. Good uncle, let’s end this now. I’ll calm down the Duke of Norfolk. You calm down your son."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "To be a make-peace shall become my age:"
+      - "Throw down, my son, the Duke of Norfolk’s gage."
+    m:
+      - "For someone my age it is appropriate to make peace. My son, throw down the Duke of Norfolk’s glove."
+
+  - sp: KING RICHARD II
+    o:
+      - "And, Norfolk, throw down his."
+    m:
+      - "And Norfolk, throw down his."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "When, Harry, when?"
+      - "Obedience bids I should not bid again."
+    m:
+      - "Come on, Henry, when are you going to do it? I shouldn’t have to ask you again."
+
+  - sp: KING RICHARD II
+    o:
+      - "Norfolk, throw down, we bid; there is no boot."
+    m:
+      - "Throw it down, Norfolk, I’m telling you. There is no advantage in refusing."
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "Myself I throw, dread sovereign, at thy foot."
+      - "My life thou shalt command, but not my shame:"
+      - "The one my duty owes; but my fair name,"
+      - "Despite of death that lives upon my grave,"
+      - "To dark dishonour’s use thou shalt not have."
+      - "I am disgraced, impeach’d and baffled here,"
+      - "Pierced to the soul with slander’s venom’d spear,"
+      - "The which no balm can cure but his heart-blood"
+      - "Which breathed this poison."
+    m:
+      - "I’ll throw myself at your feet, most revered king. You may command my life but not my shame. I owe you my life out of duty, but I cannot, even under pain of death, let you order this dishonor of my good reputation. I am accused and disgraced publicly here, pierced by the venom of slander. The only thing that will ease that pain is to kill the man who uttered these poisonous words."
+
+  - sp: KING RICHARD II
+    o:
+      - "Rage must be withstood:"
+      - "Give me his gage: lions make leopards tame."
+    m:
+      - "Such rage should be resisted. Give me his glove. I, as king, will tame these lesser nobles."
+
+  - sp: THOMAS MOWBRAY
+    o:
+      - "Yea, but not change his spots: take but my shame."
+      - "And I resign my gage. My dear dear lord,"
+      - "The purest treasure mortal times afford"
+      - "Is spotless reputation: that away,"
+      - "Men are but gilded loam or painted clay."
+      - "A jewel in a ten-times-barr’d-up chest"
+      - "Is a bold spirit in a loyal breast."
+      - "Mine honour is my life; both grow in one:"
+      - "Take honour from me, and my life is done:"
+      - "Then, dear my liege, mine honour let me try;"
+      - "In that I live and for that will I die."
+    m:
+      - "Yes, but you won’t take away the stain of these charges. If you’ll clear my name, I’ll give up my glove. My dear, dear lord, the greatest treasure in our earthly lives is to have a good reputation. Without that, men are nothing. To have a brave spirit is as valuable as a well-guarded jewel. My honor is my life. One is inseparable from the other. Take my honor, and my life is over. So, my lord, let me prove my honor, since I live for it and I will die for it."
+
+  - sp: KING RICHARD II
+    o:
+      - "Cousin, throw up your gage; do you begin."
+    m:
+      - "Cousin, take up your glove. Be the one to start."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "O, God defend my soul from such deep sin!"
+      - "Shall I seem crest-fall’n in my father’s sight?"
+      - "Or with pale beggar-fear impeach my height"
+      - "Before this out-dared dastard? Ere my tongue"
+      - "Shall wound my honour with such feeble wrong,"
+      - "Or sound so base a parle, my teeth shall tear"
+      - "The slavish motive of recanting fear,"
+      - "And spit it bleeding in his high disgrace,"
+      - "Where shame doth harbour, even in Mowbray’s face."
+    m:
+      - "Oh, God, keep me from such a terrible sin! Should I appear humbled in front of my father? Or discredit my rank out of fear before this terrified coward? Before I’d let my tongue utter such lies against my honor or make such a false truce, I’d rip it apart with my teeth and spit it into Mowbray’s shameful face."
+
+  - os: "Exit JOHN OF GAUNT"
+    ms: "JOHN OF GAUNT exits."
+
+  - sp: KING RICHARD II
+    o:
+      - "We were not born to sue, but to command;"
+      - "Which since we cannot do to make you friends,"
+      - "Be ready, as your lives shall answer it,"
+      - "At Coventry, upon Saint Lambert’s day:"
+      - "There shall your swords and lances arbitrate"
+      - "The swelling difference of your settled hate:"
+      - "Since we can not atone you, we shall see"
+      - "Justice design the victor’s chivalry."
+      - "Lord marshal, command our officers at arms"
+      - "Be ready to direct these home alarms."
+    m:
+      - "I was born to command, not to beg. But since I can’t order you to be friends, be ready to settle this feud with your lives at Coventry on Saint Lambert’s day. Then you can let your weapons resolve this hatred, since I can’t bring you to terms. Justice will be on the side of the winner. Lord marshal, tell my officers to be ready to control these domestic disturbances."
+
+  - os: "Exeunt"
+    ms: "Everyone exits."

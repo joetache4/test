@@ -1,0 +1,251 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 11
+group: 3
+order: 22
+text:
+  - os: "Enter ANTONY with attendants"
+    ms: "ANTONY enters with attendants."
+
+  - sp: ANTONY
+    o:
+      - "Hark. The land bids me tread no more upon ’t."
+      - "It is ashamed to bear me. Friends, come hither."
+      - "I am so lated in the world that I"
+      - "Have lost my way forever. I have a ship"
+      - "Laden with gold. Take that, divide it. Fly"
+      - "And make your peace with Caesar."
+    m:
+      - "Listen. The earth tells me to stop walking upon it, as it’s ashamed to carry me. Friends, come here. I’m completely lost. I have a ship full of treasure. Take that. Divide it. Escape and make peace with Caesar."
+
+  - sp: ALL
+    o:
+      - "    Fly? Not we."
+    m:
+      - "Flee? Not us."
+
+  - sp: ANTONY
+    o:
+      - "I have fled myself, and have instructed cowards"
+      - "To run and show their shoulders. Friends, begone."
+      - "I have myself resolved upon a course"
+      - "Which has no need of you. Begone."
+      - "My treasure’s in the harbor. Take it. Oh,"
+      - "I followed that I blush to look upon!"
+      - "My very hairs do mutiny, for the white"
+      - "Reprove the brown for rashness, and they them"
+      - "For fear and doting. Friends, begone. You shall"
+      - "Have letters from me to some friends that will"
+      - "Sweep your way for you. Pray you, look not sad,"
+      - "Nor make replies of loathness. Take the hint"
+      - "Which my despair proclaims. Let that be left"
+      - "Which leaves itself. To the seaside straightway!"
+      - "I will possess you of that ship and treasure."
+      - "Leave me, I pray, a little. Pray you now,"
+      - "Nay, do so, for indeed I have lost command."
+      - "Therefore I pray you. I’ll see you by and by."
+    m:
+      - "I have already fled from my true self. I’ve told cowards to turn their backs on me and run. Friends, go. I’ve decided on a plan that doesn’t require your assistance. Leave. My treasure’s in the harbor; take it. Oh, I followed something I’m ashamed to look at now! Even my hair revolts. The white hairs blame the brown hairs for being irresponsible, and the brown ones blame the white ones for being spineless and foolish. Friends, go. I’ll give you letters of introduction to some friends of mine who will help you. Please, don’t be sad, and don’t tell me how reluctant you are. Take your cues from my own despair. Abandon the person that has abandoned himself. Go to the harbor immediately! I’ll give you the title to that ship and its treasure. Just give me a moment, please—only a moment. I’ve relinquished my authority, so please—I’ll see you all before long."
+
+  - os: "Exeunt attendants. ANTONY sits down"
+    ms: "The attendants exit. ANTONY sits."
+
+  - os: "Enter CLEOPATRA, led by CHARMIAN, IRAS, and EROS"
+    ms: "CHARMIAN, IRAS, and EROS enter, supporting CLEOPATRA."
+
+  - sp: EROS
+    o:
+      - "Nay, gentle madam, to him, comfort him."
+    m:
+      - "No, gentle madam, go. Comfort him."
+
+  - sp: IRAS
+    o:
+      - "Do, most dear Queen."
+    m:
+      - "Yes, do, dearest Queen."
+
+  - sp: CHARMIAN
+    o:
+      - "Do. Why, what else?"
+    m:
+      - "Of course you must comfort him! What else?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Let me sit down. O Juno!"
+    m:
+      - "Let me sit down. Oh, Juno!"
+
+  - os: "She sits"
+    ms: "She sits."
+
+  - sp: ANTONY
+    o:
+      - "*(seeing CLEOPATRA)* No, no, no, no, no."
+    m:
+      - "*(seeing CLEOPATRA)* No, no, no, no, no."
+
+  - sp: EROS
+    o:
+      - "See you here, sir?"
+    m:
+      - "Do you see her, sir?"
+
+  - sp: ANTONY
+    o:
+      - "Oh, fie, fie, fie!"
+    m:
+      - "Oh, damn, damn, damn!"
+
+  - sp: CHARMIAN
+    o:
+      - "Madam!"
+    m:
+      - "Madam!"
+
+  - sp: IRAS
+    o:
+      - "Madam, O good Empress!"
+    m:
+      - "Madam, oh, good Empress!"
+
+  - sp: EROS
+    o:
+      - "Sir, sir—"
+    m:
+      - "Sir . . . sir . . ."
+
+  - sp: ANTONY
+    o:
+      - "*(aside)* Yes, my lord, yes. He at Philippi kept"
+      - "His sword e’en like a dancer, while I struck"
+      - "The lean and wrinkled Cassius, and ’twas I"
+      - "That the mad Brutus ended. He alone"
+      - "Dealt on lieutenantry, and no practice had"
+      - "In the brave squares of war, yet now—no matter."
+    m:
+      - "*(to himself)* Yes, my lord, that’s true. At Philippi, Caesar kept his sword in its sheath, like a dancer, while I commanded the armies that conquered Cassius and Brutus. Caesar fought only through lieutenants. He had no experience with the brave contests of war. But now . . . never mind."
+
+  - sp: CLEOPATRA
+    o:
+      - "Ah, stand by."
+    m:
+      - "Ah, give us some privacy."
+
+  - sp: EROS
+    o:
+      - "    The Queen, my lord, the Queen."
+    m:
+      - "The Queen is here, my lord."
+
+  - sp: IRAS
+    o:
+      - "Go to him, madam, speak to him."
+      - "He is unqualitied with very shame."
+    m:
+      - "Go to him, madam, speak to him. He’s not himself because he feels so ashamed."
+
+  - sp: CLEOPATRA
+    o:
+      - "Well then, sustain me. Oh!"
+    m:
+      - "Well, then, help me."
+
+  - os: "She rises"
+    ms: "Her attendants help her to stand."
+
+  - sp: EROS
+    o:
+      - "Most noble sir, arise. The Queen approaches."
+      - "Her head’s declined, and death will seize her but"
+      - "Your comfort makes the rescue."
+    m:
+      - "Most noble sir, stand up. The Queen is coming. She’s weak and will die unless you comfort her."
+
+  - sp: ANTONY
+    o:
+      - "I have offended reputation,"
+      - "A most unnoble swerving."
+    m:
+      - "I’ve destroyed my reputation, a most shameful error."
+
+  - sp: EROS
+    o:
+      - "    Sir, the Queen."
+    m:
+      - "Sir, here’s the Queen."
+
+  - sp: ANTONY
+    o:
+      - "Oh, whither hast thou led me, Egypt? See"
+      - "How I convey my shame out of thine eyes"
+      - "By looking back what I have left behind"
+      - "’Stroyed in dishonor."
+    m:
+      - "Oh, where have you led me, Egypt? See how I hide my shame from you by turning around? I look behind me to see my past, destroyed by dishonor."
+
+  - sp: CLEOPATRA
+    o:
+      - "    O my lord, my lord,"
+      - "Forgive my fearful sails! I little thought"
+      - "You would have followed."
+    m:
+      - "Oh, my lord, my lord, forgive my panic! I didn’t think you would follow me."
+
+  - sp: ANTONY
+    o:
+      - "    Egypt, thou knew’st too well"
+      - "My heart was to thy rudder tied by th’ strings,"
+      - "And thou shouldst tow me after. O’er my spirit"
+      - "Thy full supremacy thou knew’st, and that"
+      - "Thy beck might from the bidding of the gods"
+      - "Command me."
+    m:
+      - "Queen, you knew very well that my heart was tied to your ship and that you would pull me along with you. You knew that my spirit was completely under your control and that I would ignore the gods’ orders in favor of yours."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Oh, my pardon!"
+    m:
+      - "Oh, forgive me!"
+
+  - sp: ANTONY
+    o:
+      - "    Now I must"
+      - "To the young man send humble treaties, dodge"
+      - "And palter in the shifts of lowness, who"
+      - "With half the bulk o’ th’ world played as I pleased,"
+      - "Making and marring fortunes. You did know"
+      - "How much you were my conqueror, and that"
+      - "My sword, made weak by my affection, would"
+      - "Obey it on all cause."
+    m:
+      - "Now I will have to send my humble proposal of peace to that young man. I’ve done as I pleased with half the world, making and losing fortunes, but now I negotiate from a position of weakness. You knew how far you had conquered my spirit. You knew that my sword, weakened by my love for you, would obey that love no matter what."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Pardon, pardon!"
+    m:
+      - "Forgive me! Forgive me!"
+
+  - sp: ANTONY
+    o:
+      - "Fall not a tear, I say. One of them rates"
+      - "All that is won and lost. Give me a kiss."
+    m:
+      - "Don’t shed even one tear. One of your tears is worth everything that was won and lost. Give me a kiss."
+
+  - os: "They kiss"
+    ms: "They kiss."
+
+  - o:
+      - "Even this repays me.—"
+      - "We sent our schoolmaster. Is he come back?—"
+      - "Love, I am full of lead.—*(calling)* Some wine,"
+      - "Within there, and our viands! Fortune knows"
+      - "We scorn her most when most she offers blows."
+    m:
+      - "This repays me. I sent our children’s schoolmaster to Caesar with our offer. Has he returned? Love, I am full of heaviness. *(calling)* Servants, bring some wine and food! We have the most contempt for fortune when it goes against us."
+
+  - os: "Exeunt"
+    ms: "They exit."

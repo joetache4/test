@@ -1,0 +1,281 @@
+play: Romeo and Juliet
+title: Act 1, Scene 4
+group: 1
+order: 4
+text:
+  - os: "Enter ROMEO, MERCUTIO, BENVOLIO, with five or six other MASKERS and TORCHBEARERS"
+    ms: "ROMEO, MERCUTIO, and BENVOLIO enter dressed as maskers, along with five or six other MASKERS, carrying a drum and torches."
+
+  - sp: ROMEO
+    o:
+      - "What, shall this speech be spoke for our excuse?"
+      - "Or shall we on without apology?"
+    m:
+      - "What will we say is our excuse for being here? Or should we enter without apologizing?"
+
+  - sp: BENVOLIO
+    o:
+      - "The date is out of such prolixity."
+      - "We’ll have no Cupid hoodwinked with a scarf,"
+      - "Bearing a Tartar’s painted bow of lath,"
+      - "Scaring the ladies like a crowkeeper,"
+      - "Nor no without-book prologue, faintly spoke"
+      - "After the prompter for our entrance."
+      - "But let them measure us by what they will."
+      - "We’ll measure them a measure and be gone."
+    m:
+      - "It’s out of fashion to give lengthy explanations like that. We’re not going to introduce our dance by having someone dress up as Cupid, blindfolded and carrying a toy bow to frighten the ladies like a scarecrow. Nor are we going to recite a memorized speech to introduce ourselves. Let them judge us however they please. We’ll give them a dance and then hit the road."
+
+  - sp: ROMEO
+    o:
+      - "Give me a torch. I am not for this ambling."
+      - "Being but heavy, I will bear the light."
+    m:
+      - "Give me a torch. I don’t want to dance. I feel sad, so let me be the one who carries the light."
+
+  - sp: MERCUTIO
+    o:
+      - "Nay, gentle Romeo, we must have you dance."
+    m:
+      - "No, noble Romeo, you’ve got to dance."
+
+  - sp: ROMEO
+    o:
+      - "Not I, believe me. You have dancing shoes"
+      - "With nimble soles. I have a soul of lead"
+      - "So stakes me to the ground I cannot move."
+    m:
+      - "Not me, believe me. You’re wearing dancing shoes with nimble soles. My soul is made out of lead, and it’s so heavy it keeps me stuck on the ground so I can’t move."
+
+  - sp: MERCUTIO
+    o:
+      - "You are a lover. Borrow Cupid’s wings"
+      - "And soar with them above a common bound."
+    m:
+      - "You’re a lover. Take Cupid’s wings and fly higher than the average man."
+
+  - sp: ROMEO
+    o:
+      - "I am too sore enpiercèd with his shaft"
+      - "To soar with his light feathers, and so bound,"
+      - "I cannot bound a pitch above dull woe."
+      - "Under love’s heavy burden do I sink."
+    m:
+      - "His arrow has pierced me too deeply, so I can’t fly high with his cheerful feathers. Because this wound keeps me down, I can’t leap any higher than my dull sadness. I sink under the heavy weight of love."
+
+  - sp: MERCUTIO
+    o:
+      - "And to sink in it, should you burthen love—"
+      - "Too great oppression for a tender thing."
+    m:
+      - "If you sink, you’re dragging love down. It’s not right to drag down something as tender as love."
+
+  - sp: ROMEO
+    o:
+      - "Is love a tender thing? It is too rough,"
+      - "Too rude, too boisterous, and it pricks like thorn."
+    m:
+      - "Is love really tender? I think it’s too rough, too rude, too rowdy, and it pricks like a thorn."
+
+  - sp: MERCUTIO
+    o:
+      - "If love be rough with you, be rough with love."
+      - "Prick love for pricking, and you beat love down.—"
+      - "Give me a case to put my visage in!"
+      - "A visor for a visor.—What care I"
+      - "What curious eye doth cote deformities?"
+      - "Here are the beetle brows shall blush for me."
+    m:
+      - "If love plays rough with you, play rough with love. If you prick love when it pricks you, you’ll beat love down. Give me a mask to put my face in. A mask to put over my other mask. What do I care if some curious person sees my flaws? Let this mask, with its black eyebrows, blush for me. *(they put on masks)*"
+
+  - sp: BENVOLIO
+    o:
+      - "Come, knock and enter. And no sooner in"
+      - "But every man betake him to his legs."
+    m:
+      - "Come on, let’s knock and go in. The minute we get in let’s all start dancing."
+
+  - sp: ROMEO
+    o:
+      - "A torch for me. Let wantons light of heart"
+      - "Tickle the senseless rushes with their heels."
+      - "For I am proverbed with a grandsire phrase,"
+      - "I’ll be a candle holder, and look on."
+      - "The game was ne’er so fair, and I am done."
+    m:
+      - "I’ll take a torch. Let playful people with light hearts dance. There’s an old saying that applies to me: you can’t lose if you don’t play the game. I’ll just hold a torch and watch you guys. It looks like a lot of fun, but I’ll sit this one out."
+
+  - sp: MERCUTIO
+    o:
+      - "Tut, dun’s the mouse, the constable’s own word."
+      - "If thou art dun, we’ll draw thee from the mire,"
+      - "Or—save your reverence—love, wherein thou stick’st"
+      - "Up to the ears. Come, we burn daylight, ho!"
+    m:
+      - "Hey, you’re being a stick in the mud, as cautious as a policemen on night patrol. If you’re a stick in the mud, we’ll pull you out of the mud—I mean out of love, if you’ll excuse me for being so rude—where you’re stuck up to your ears. Come on, we’re wasting precious daylight. Let’s go!"
+
+  - sp: ROMEO
+    o:
+      - "Nay, that’s not so."
+    m:
+      - "No we’re not—it’s night."
+
+  - sp: MERCUTIO
+    o:
+      - "  I mean, sir, in delay."
+      - "We waste our lights in vain, like lights by day."
+      - "Take our good meaning, for our judgment sits"
+      - "Five times in that ere once in our fine wits."
+    m:
+      - "I mean, we’re wasting the light of our torches by delaying, which is like wasting the sunshine during the day. Use your common sense to figure out what I mean, instead of trying to be clever or trusting your five senses."
+
+  - sp: ROMEO
+    o:
+      - "And we mean well in going to this mask,"
+      - "But ’tis no wit to go."
+    m:
+      - "We mean well by going to this masquerade ball, but it’s not smart of us to go."
+
+  - sp: MERCUTIO
+    o:
+      - "  Why, may one ask?"
+    m:
+      - "Why, may I ask?"
+
+  - sp: ROMEO
+    o:
+      - "I dreamt a dream tonight."
+    m:
+      - "I had a dream last night."
+
+  - sp: MERCUTIO
+    o:
+      - "    And so did I."
+    m:
+      - "So did I."
+
+  - sp: ROMEO
+    o:
+      - "Well, what was yours?"
+    m:
+      - "Well, what was your dream?"
+
+  - sp: MERCUTIO
+    o:
+      - "    That dreamers often lie."
+    m:
+      - "My dream told me that dreamers often lie."
+
+  - sp: ROMEO
+    o:
+      - "In bed asleep while they do dream things true."
+    m:
+      - "They lie in bed while they dream about the truth."
+
+  - sp: MERCUTIO
+    o:
+      - "Oh, then, I see Queen Mab hath been with you."
+    m:
+      - "Oh, then I see you’ve been with Queen Mab."
+
+  - sp: BENVOLIO
+    o:
+      - "Queen Mab, what’s she"
+    m:
+      - "Who’s Queen Mab?"
+
+  - sp: MERCUTIO
+    o:
+      - "She is the fairies’ midwife, and she comes"
+      - "In shape no bigger than an agate stone"
+      - "On the forefinger of an alderman,"
+      - "Drawn with a team of little atomi"
+      - "Over men’s noses as they lie asleep."
+      - "Her wagon spokes made of long spinners’ legs,"
+      - "The cover of the wings of grasshoppers,"
+      - "Her traces of the smallest spider’s web,"
+      - "Her collars of the moonshine’s watery beams,"
+      - "Her whip of cricket’s bone, the lash of film,"
+      - "Her wagoner a small gray-coated gnat,"
+      - "Not half so big as a round little worm"
+      - "Pricked from the lazy finger of a maid."
+      - "Her chariot is an empty hazelnut"
+      - "Made by the joiner squirrel or old grub,"
+      - "Time out o’ mind the fairies’ coachmakers."
+      - "And in this state she gallops night by night"
+      - "Through lovers’ brains, and then they dream of love;"
+      - "On courtiers’ knees, that dream on curtsies straight;"
+      - "O’er lawyers’ fingers, who straight dream on fees;"
+      - "O’er ladies’ lips, who straight on kisses dream,"
+      - "Which oft the angry Mab with blisters plagues,"
+      - "Because their breaths with sweetmeats tainted are."
+      - "Sometime she gallops o’er a courtier’s nose,"
+      - "And then dreams he of smelling out a suit."
+      - "And sometime comes she with a tithe-pig’s tail"
+      - "Tickling a parson’s nose as he lies asleep,"
+      - "Then he dreams of another benefice."
+      - "Sometime she driveth o’er a soldier’s neck,"
+      - "And then dreams he of cutting foreign throats,"
+      - "Of breaches, ambuscadoes, Spanish blades,"
+      - "Of healths five fathom deep, and then anon"
+      - "Drums in his ear, at which he starts and wakes,"
+      - "And being thus frighted swears a prayer or two"
+      - "And sleeps again. This is that very Mab"
+      - "That plaits the manes of horses in the night"
+      - "And bakes the elflocks in foul sluttish hairs,"
+      - "Which once untangled, much misfortune bodes."
+      - "This is the hag, when maids lie on their backs,"
+      - "That presses them and learns them first to bear,"
+      - "Making them women of good carriage."
+      - "This is she—"
+    m:
+      - "She’s the fairies’ midwife. She’s no bigger than the stone on a city councilman’s ring. She rides around in a wagon drawn by tiny little atoms, and she rides over men’s noses as they lie sleeping. The spokes of her wagon are made of spiders’ legs. The cover of her wagon is made of grasshoppers’ wings. The harnesses are made of the smallest spiderwebs. The collars are made out of moonbeams. Her whip is a thread attached to a cricket’s bone. Her wagon driver is a tiny bug in a gray coat; he’s not half the size of a little round worm that comes from the finger of a lazy young girl. Her chariot is a hazelnut shell. It was made by a carpenter squirrel or an old grubworm; they’ve made wagons for the fairies as long as anyone can remember. In this royal wagon, she rides every night through the brains of lovers and makes them dream about love. She rides over courtiers’ knees, and they dream about curtsying. She rides over lawyers’ fingers, and right away, they dream about their fees. She rides over ladies’ lips, and they immediately dream of kisses. Queen Mab often puts blisters on their lips because their breath smells like candy, which makes her mad. Sometimes she rides over a courtier’s lips, and he dreams of making money off of someone. Sometimes she tickles a priest’s nose with a tithe-pigs tail, and he dreams of a large donation. Sometimes she rides over a soldier’s neck, and he dreams of cutting the throats of foreign enemies, of breaking down walls, of ambushes, of Spanish swords, and of enormous cups of liquor. And then, drums beat in his ear and he wakes up. He’s frightened, so he says a couple of prayers and goes back to sleep. She is the same Mab who tangles the hair in horses’ manes at night and makes the tangles hard in the dirty hairs, which bring bad luck if they’re untangled. Mab is the old hag who gives false sex dreams to virgins and teaches them how to hold a lover and bear a child. She’s the one—"
+
+  - sp: ROMEO
+    o:
+      - "  Peace, peace, Mercutio, peace!"
+      - "Thou talk’st of nothing."
+    m:
+      - "Enough, enough! Mercutio, be quiet. You’re talking nonsense."
+
+  - sp: MERCUTIO
+    o:
+      - "    True, I talk of dreams,"
+      - "Which are the children of an idle brain,"
+      - "Begot of nothing but vain fantasy,"
+      - "Which is as thin of substance as the air"
+      - "And more inconstant than the wind, who woos"
+      - "Even now the frozen bosom of the north,"
+      - "And, being angered, puffs away from thence,"
+      - "Turning his face to the dew-dropping south."
+    m:
+      - "True. I’m talking about dreams, which are the products of a brain that’s doing nothing. Dreams are nothing but silly imagination, as thin as air, and less predictable than the wind, which sometimes blows on the frozen north and then gets angry and blows south."
+
+  - sp: BENVOLIO
+    o:
+      - "This wind you talk of, blows us from ourselves."
+      - "Supper is done, and we shall come too late."
+    m:
+      - "The wind you’re talking about is blowing us off our course. Dinner is over, and we’re going to get there too late."
+
+  - sp: ROMEO
+    o:
+      - "I fear too early, for my mind misgives"
+      - "Some consequence yet hanging in the stars"
+      - "Shall bitterly begin his fearful date"
+      - "With this night’s revels, and expire the term"
+      - "Of a despisèd life closed in my breast"
+      - "By some vile forfeit of untimely death."
+      - "But he that hath the steerage of my course,"
+      - "Direct my sail. On, lusty gentlemen."
+    m:
+      - "I’m worried we’ll get there too early. I have a feeling this party tonight will be the start of something bad, something that will end with my own death. But whoever’s in charge of where my life’s going can steer me wherever they want. Onward, lover boys!"
+
+  - sp: BENVOLIO
+    o:
+      - "Strike, drum."
+    m:
+      - "Beat the drum."
+
+  - os: "March about the stage and exeunt"
+    ms: "They march about the stage and exit."

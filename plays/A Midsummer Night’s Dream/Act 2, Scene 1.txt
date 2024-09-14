@@ -1,0 +1,508 @@
+play: A Midsummer Night’s Dream
+title: Act 2, Scene 1
+group: 2
+order: 2
+text:
+  - os: "Enter a FAIRY at one side and ROBIN (ROBIN GOODFELLOW) at another"
+    ms: "A FAIRY and ROBIN GOODFELLOW (a “puck” or mischievous spirit) meet onstage."
+
+  - sp: ROBIN
+    o:
+      - "How now, spirit? Whither wander you?"
+    m:
+      - "Hello, spirit! Where are you going?"
+
+  - sp: FAIRY
+    o:
+      - "  Over hill, over dale,"
+      - "  Thorough bush, thorough brier,"
+      - "  Over park, over pale,"
+      - "  Thorough flood, thorough fire."
+      - "  I do wander everywhere"
+      - "  Swifter than the moon’s sphere."
+      - "  And I serve the fairy queen"
+      - "  To dew her orbs upon the green."
+      - "  The cowslips tall her pensioners be."
+      - "  In their gold coats spots you see."
+      - "  Those be rubies, fairy favors."
+      - "  In those freckles live their savors."
+      - "  I must go seek some dewdrops here"
+      - "  And hang a pearl in every cowslip’s ear."
+      - "Farewell, thou lob of spirits. I’ll be gone."
+      - "Our queen and all our elves come here anon."
+    m:
+      - "I go over hills and valleys, through bushes and thorns, over parks and fenced-in spaces, through water and fire. I wander everywhere faster than the moon revolves around the Earth. I work for Titania, the Fairy Queen, and organize fairy dances for her in the grass. The cowslip flowers are her bodyguards. You’ll see that their petals have spots on them—those are rubies, fairy gifts. Their sweet smells come from those little freckles. Now I have to go find some dewdrops and hang a pearl earring on every cowslip flower. Goodbye, you dumb old spirit. I’ve got to go. The queen and her elves will be here soon."
+
+  - sp: ROBIN
+    o:
+      - "The king doth keep his revels here tonight."
+      - "Take heed the queen come not within his sight."
+      - "For Oberon is passing fell and wrath"
+      - "Because that she, as her attendant hath"
+      - "A lovely boy stolen from an Indian king."
+      - "She never had so sweet a changeling."
+      - "And jealous Oberon would have the child"
+      - "Knight of his train, to trace the forests wild."
+      - "But she perforce withholds the lovèd boy,"
+      - "Crowns him with flowers, and makes him all her joy."
+      - "And now they never meet in grove or green,"
+      - "By fountain clear or spangled starlight sheen."
+      - "But they do square, that all their elves for fear"
+      - "Creep into acorn cups and hide them there."
+    m:
+      - "The king’s having a party here tonight. Just make sure the queen doesn’t come anywhere near him, because King Oberon is extremely angry. He’s furious because she stole an adorable boy from an Indian king. She’s never kidnapped such a darling human child before, and Oberon’s jealous. He wants the child for himself, to accompany him on his wanderings through the wild forests. But the queen refuses to hand the boy over to Oberon. Instead, she puts flowers in the boy’s hair and makes a fuss over him. And now Oberon and Titania refuse to speak to each other, or meet each other anywhere—neither in the forest nor on the plain, nor by the river nor under the stars. They always argue, and the little fairies get so frightened that they hide in acorn cups and won’t come out."
+
+  - sp: FAIRY
+    o:
+      - "Either I mistake your shape and making quite,"
+      - "Or else you are that shrewd and knavish sprite"
+      - "Called Robin Goodfellow. Are not you he"
+      - "That frights the maidens of the villagery,"
+      - "Skim milk, and sometimes labor in the quern"
+      - "And bootless make the breathless housewife churn,"
+      - "And sometime make the drink to bear no barm,"
+      - "Mislead night-wanderers, laughing at their harm?"
+      - "Those that “Hobgoblin” call you, and “sweet Puck,”"
+      - "You do their work, and they shall have good luck."
+      - "Are not you he?"
+    m:
+      - "Unless I’m mistaken, you’re that mischievous and naughty spirit named Robin Goodfellow. Aren’t you the one who goes around scaring the maidens in the village, stealing the cream from the top of the milk, screwing up the flour mills, and frustrating housewives by keeping their milk from turning into butter? Aren’t you the one who keeps beer from foaming up as it should, and causes people to get lost at night, while you laugh at them? Some people call you “Hobgoblin” and “sweet Puck,” and you’re nice to them. You do their work for them and give them good luck. That’s you, right?"
+
+  - sp: ROBIN
+    o:
+      - "  Thou speak’st aright."
+      - "I am that merry wanderer of the night."
+      - "I jest to Oberon and make him smile"
+      - "When I a fat and bean-fed horse beguile,"
+      - "Neighing in likeness of a filly foal."
+      - "And sometime lurk I in a gossip’s bowl"
+      - "In very likeness of a roasted crab,"
+      - "And when she drinks, against her lips I bob"
+      - "And on her withered dewlap pour the ale."
+      - "The wisest aunt telling the saddest tale"
+      - "Sometime for three-foot stool mistaketh me."
+      - "Then slip I from her bum, down topples she,"
+      - "And “Tailor!” cries, and falls into a cough,"
+      - "And then the whole quire hold their hips and laugh,"
+      - "And waxen in their mirth, and neeze, and swear"
+      - "A merrier hour was never wasted there."
+      - "But, room, fairy! Here comes Oberon."
+    m:
+      - "What you say is true. That’s me you’re talking about, the playful wanderer of the night. I tell jokes to Oberon and make him smile. I’ll trick a fat, well-fed horse into thinking that I’m a young female horse. Sometimes I hide at the bottom of an old woman’s drink disguised as an apple. When she takes a sip, I bob up against her lips and make her spill the drink all over her withered old neck. Sometimes a wise old woman with a sad story to tell tries to sit down on me, thinking I’m a three-legged stool. But I slip from underneath her and she falls down, crying, “Ow, my butt!” and starts coughing, and then everyone laughs and has fun. But step aside, fairy! Here comes Oberon."
+
+  - sp: FAIRY
+    o:
+      - "And here my mistress. Would that he were gone!"
+    m:
+      - "And here’s my mistress, Titania. I wish he’d go away!"
+
+  - os: "Enter OBERON, the King of Fairies, at one side with his train, and TITANIA, the Queen, at the other, with hers"
+    ms: "OBERON, the Fairy King, and his followers enter. On the opposite side of the stage, TITANIA, the Fairy Queen, and her followers enter."
+
+  - sp: OBERON
+    o:
+      - "Ill met by moonlight, proud Titania."
+    m:
+      - "How *not* nice to see you, Titania."
+
+  - sp: TITANIA
+    o:
+      - "What, jealous Oberon?—Fairies, skip hence."
+      - "I have forsworn his bed and company."
+    m:
+      - "What, are you jealous, Oberon?—Fairies, let’s get out of here. I’ve sworn I’ll never sleep with him or talk to him again."
+
+  - sp: OBERON
+    o:
+      - "Tarry, rash wanton. Am not I thy lord?"
+    m:
+      - "Wait just a minute, you brazen hussy. Aren’t you supposed to obey me, your lord and husband?"
+
+  - sp: TITANIA
+    o:
+      - "Then I must be thy lady. But I know"
+      - "When thou hast stolen away from Fairyland,"
+      - "And in the shape of Corin sat all day,"
+      - "Playing on pipes of corn and versing love"
+      - "To amorous Phillida. Why art thou here,"
+      - "Come from the farthest step of India?"
+      - "But that, forsooth, the bouncing Amazon,"
+      - "Your buskined mistress and your warrior love,"
+      - "To Theseus must be wedded, and you come"
+      - "To give their bed joy and prosperity."
+    m:
+      - "If you’re my lord and husband, I must be your lady and wife, so you’re supposed to be faithful to me. But I know for a fact that you snuck away from Fairyland disguised as a shepherd, and spent all day playing straw pipes and singing love poems to your new girlfriend. The only reason you left India was to come here and see that butch Amazon Hippolyta. She was your boot-wearing mistress and your warrior lover, and now that she’s getting married to Theseus, you’ve come to celebrate their marriage."
+
+  - sp: OBERON
+    o:
+      - "How canst thou thus for shame, Titania,"
+      - "Knowing I know thy love to Theseus? Glance at my credit with Hippolyta,"
+      - "Didst thou not lead him through the glimmering night"
+      - "From Perigouna, whom he ravishèd?"
+      - "And make him with fair Ægles break his faith,"
+      - "With Ariadne and Antiopa?"
+    m:
+      - "How can you stand there shamelessly talking about me and Hippolyta, when you know that I know about your love for Theseus? Weren’t you the one who made him desert Perigouna in the middle of the night, right after he’d raped her? And weren’t you the one who made him cheat on all of his other girlfriends, like Aegles, Ariadne, and Antiopa?"
+
+  - sp: TITANIA
+    o:
+      - "These are the forgeries of jealousy."
+      - "And never, since the middle summer’s spring,"
+      - "Met we on hill, in dale, forest, or mead,"
+      - "By pavèd fountain, or by rushy brook,"
+      - "Or in the beachèd margent of the sea,"
+      - "To dance our ringlets to the whistling wind,"
+      - "But with thy brawls thou hast disturbed our sport."
+      - "Therefore the winds, piping to us in vain,"
+      - "As in revenge, have sucked up from the sea"
+      - "Contagious fogs, which falling in the land"
+      - "Have every pelting river made so proud"
+      - "That they have overborne their continents."
+      - "The ox hath therefore stretched his yoke in vain,"
+      - "The ploughman lost his sweat, and the green corn"
+      - "Hath rotted ere his youth attained a beard."
+      - "The fold stands empty in the drownèd field,"
+      - "And crows are fatted with the murrain flock."
+      - "The nine-men’s-morris is filled up with mud,"
+      - "And the quaint mazes in the wanton green"
+      - "For lack of tread are undistinguishable."
+      - "The human mortals want their winter here."
+      - "No night is now with hymn or carol blessed."
+      - "Therefore the moon, the governess of floods,"
+      - "Pale in her anger, washes all the air,"
+      - "That rheumatic diseases do abound."
+      - "And thorough this distemperature we see"
+      - "The seasons alter: hoary-headed frosts"
+      - "Fall in the fresh lap of the crimson rose,"
+      - "And on old Hiems’ thin and icy crown"
+      - "An odorous chaplet of sweet summer buds"
+      - "Is, as in mockery, set. The spring, the summer,"
+      - "The childing autumn, angry winter change"
+      - "Their wonted liveries, and the mazèd world,"
+      - "By their increase, now knows not which is which."
+      - "And this same progeny of evils comes"
+      - "From our debate, from our dissension."
+      - "We are their parents and original."
+    m:
+      - "These are nothing but jealous lies. Since the beginning of midsummer, my fairies and I haven’t been able to meet anywhere to do our dances in the wind without being disturbed by you and your arguments. We haven’t been able to meet on a hill or in a valley, in the forest or a meadow, by a pebbly fountain or a rushing stream, or on the beach by the ocean without you disturbing us. And because you interrupt us so that we can’t dance for them, the winds have made fogs rise up out of the sea and fall down on the rivers so that the rivers flood, just to get revenge on you. So all the work that oxen and farmers have done in plowing the fields has been for nothing, because the unripe grain has rotted before it was ripe. Sheep pens are empty in the middle of the flooded fields, and the crows get fat from eating the dead bodies of infected sheep. All the fields where people usually play games are filled with mud, and you can’t even see the elaborate mazes that people create in the grass, because no one walks in them anymore and they’ve all grown over. It’s not winter here for the human mortals, so they’re not protected by the holy hymns and carols that they sing in winter. So the pale, angry moon, who controls the tides, fills the air with diseases. As a consequence of this bad weather and these bad moods the seasons have started to change. Cold frosts spread over the red roses, and the icy winter wears a crown of sweet summer flowers as some sick joke. Spring, summer, fertile autumn and angry winter have all changed places, and now the confused world doesn’t know which is which. And this is all because of our argument. We are responsible for this."
+
+  - sp: OBERON
+    o:
+      - "Do you amend it then. It lies in you."
+      - "Why should Titania cross her Oberon?"
+      - "I do but beg a little changeling boy,"
+      - "To be my henchman."
+    m:
+      - "Do something about it, then. You have the power to fix it. Why would Titania want to argue with her Oberon? All I’m asking for is to have that little human boy as part of my crew."
+
+  - sp: TITANIA
+    o:
+      - "  Set your heart at rest."
+      - "The Fairyland buys not the child of me."
+      - "His mother was a votaress of my order,"
+      - "And in the spicèd Indian air by night"
+      - "Full often hath she gossiped by my side,"
+      - "And sat with me on Neptune’s yellow sands,"
+      - "Marking th’ embarkèd traders on the flood,"
+      - "When we have laughed to see the sails conceive"
+      - "And grow big-bellied with the wanton wind;"
+      - "Which she, with pretty and with swimming gait"
+      - "Following—her womb then rich with my young squire—"
+      - "Would imitate, and sail upon the land"
+      - "To fetch me trifles and return again"
+      - "As from a voyage, rich with merchandise."
+      - "But she, being mortal, of that boy did die."
+      - "And for her sake do I rear up her boy,"
+      - "And for her sake I will not part with him."
+    m:
+      - "Get over it. I won’t give up this child for all of Fairyland. His mother was one of my worshippers, and we always used to gossip together at night in India, sitting together by the ocean and watching the merchant ships sailing on the ocean. We used to laugh to see the sails fill up with wind so that they looked like they had big, pregnant bellies, as if the wind had gotten them pregnant. She would imitate them—since she was already pregnant with the little boy—and she would go sailing over the land herself to go get me little presents, and come back carrying gifts like she was a ship coming back from a voyage. But since she was a mortal, she died giving birth to that boy, and for her sake I’m raising him and will not give him up."
+
+  - sp: OBERON
+    o:
+      - "How long within this wood intend you stay?"
+    m:
+      - "How long do you plan to stay here in this forest?"
+
+  - sp: TITANIA
+    o:
+      - "Perchance till after Theseus’ wedding day."
+      - "If you will patiently dance in our round"
+      - "And see our moonlight revels, go with us."
+      - "If not, shun me, and I will spare your haunts."
+    m:
+      - "Maybe until after Theseus’ wedding day. If you behave yourself and join us in our circle dance and moonlight celebrations, then you can come with us. If not, leave me alone, and I’ll stay away from your turf."
+
+  - sp: OBERON
+    o:
+      - "Give me that boy and I will go with thee."
+    m:
+      - "Give me that boy and I’ll come with you."
+
+  - sp: TITANIA
+    o:
+      - "Not for thy fairy kingdom.—Fairies, away!"
+      - "We shall chide downright, if I longer stay."
+    m:
+      - "Not for your entire fairy kingdom.—Come, fairies, let’s go. We’re going to have an out-and-out brawl if I stay any longer."
+
+  - os: "Exeunt TITANIA and her train"
+    ms: "TITANIA and her FAIRIES exit."
+
+  - sp: OBERON
+    o:
+      - "Well, go thy way. Thou shalt not from this grove"
+      - "Till I torment thee for this injury.—*(to ROBIN GOODFELLOW)*"
+      - "My gentle Puck, come hither. Thou rememberest"
+      - "Since once I sat upon a promontory"
+      - "And heard a mermaid on a dolphin’s back"
+      - "Uttering such dulcet and harmonious breath"
+      - "That the rude sea grew civil at her song"
+      - "And certain stars shot madly from their spheres"
+      - "To hear the seamaid’s music?"
+    m:
+      - "Well, go on your way, then. You won’t leave this grove until I’ve paid you back for this insult. *(to ROBIN GOODFELLOW)* My dear Puck, come here. You remember the time when I was sitting on a cliff, and I heard a mermaid sitting on a dolphin’s back sing such a sweet and harmonious song that it calmed the stormy sea and made stars shoot out of the sky so they could hear her better?"
+
+  - sp: ROBIN
+    o:
+      - "    I remember."
+    m:
+      - "Yes, I remember."
+
+  - sp: OBERON
+    o:
+      - "That very time I saw (but thou couldst not)"
+      - "Flying between the cold moon and the Earth,"
+      - "Cupid all armed. A certain aim he took"
+      - "At a fair vestal thronèd by the west,"
+      - "And loosed his love shaft smartly from his bow"
+      - "As it should pierce a hundred thousand hearts."
+      - "But I might see young Cupid’s fiery shaft"
+      - "Quenched in the chaste beams of the watery moon,"
+      - "And the imperial votaress passèd on,"
+      - "In maiden meditation, fancy-free."
+      - "Yet marked I where the bolt of Cupid fell."
+      - "It fell upon a little western flower,"
+      - "Before milk-white, now purple with love’s wound."
+      - "And maidens call it “love-in-idleness.”"
+      - "Fetch me that flower. The herb I showed thee once."
+      - "The juice of it on sleeping eyelids laid"
+      - "Will make or man or woman madly dote"
+      - "Upon the next live creature that it sees."
+      - "Fetch me this herb, and be thou here again"
+      - "Ere the leviathan can swim a league."
+    m:
+      - "That same night, I saw Cupid flying from the moon to the earth, with all of his arrows ready. (You couldn’t see him, but I could.) He took aim at a beautiful young virgin who was sitting on a throne in the western part of the world, and he shot his arrow of love well enough to have pierced a hundred thousand hearts. But I could see that Cupid’s fiery arrow was put out by watery, virginal moonbeams, so the royal virgin continued her virginal thoughts without being interrupted by thoughts of love. But I paid attention to where Cupid’s arrow fell. It fell on a little western flower, which used to be white as milk but now has turned purple from being wounded by the arrow of love. Young girls call it “love-in-idleness.” Bring me that flower. I showed it to you once. If its juice is put on someone’s eyelids while they’re asleep, that person will fall in love with the next living creature he or she sees. Bring me this plant, and get back here before the sea monster has time to swim three miles."
+
+  - sp: ROBIN
+    o:
+      - "I’ll put a girdle round about the Earth"
+      - "In forty minutes."
+    m:
+      - "I could go around the world in forty minutes."
+
+  - os: "Exit ROBIN"
+    ms: "ROBIN exits."
+
+  - sp: OBERON
+    o:
+      - "  Having once this juice,"
+      - "I’ll watch Titania when she is asleep"
+      - "And drop the liquor of it in her eyes."
+      - "The next thing then she waking looks upon—"
+      - "Be it on lion, bear, or wolf, or bull,"
+      - "On meddling monkey or on busy ape—"
+      - "She shall pursue it with the soul of love."
+      - "And ere I take this charm from of her sight—"
+      - "As I can take it with another herb—"
+      - "I’ll make her render up her page to me."
+      - "But who comes here? I am invisible."
+      - "And I will overhear their conference."
+    m:
+      - "When I have the juice of that flower, I’ll trickle some drops of it on Titania’s eyes while she’s sleeping. She’ll fall madly in love with the first thing she sees when she wakes up—even if it’s a lion, a bear, a wolf, a bull, a monkey, or an ape. And before I make her normal again—I can cure her by treating her with another plant—I’ll make her give me that little boy as my page. But who’s that coming this way? I’ll make myself invisible and listen to their conversation."
+
+  - os: "Enter DEMETRIUS, HELENA following him"
+    ms: "DEMETRIUS enters, followed by HELENA."
+
+  - sp: DEMETRIUS
+    o:
+      - "I love thee not, therefore pursue me not."
+      - "Where is Lysander and fair Hermia?"
+      - "The one I’ll stay, the other stayeth me."
+      - "Thou told’st me they were stol’n unto this wood."
+      - "And here am I, and wood within this wood,"
+      - "Because I cannot meet my Hermia."
+      - "Hence, get thee gone, and follow me no more."
+    m:
+      - "Look, I don’t love you, so stop following me around. Where are Lysander and beautiful Hermia? Lysander I want to stop, but Hermia stops my heart from beating. You told me they escaped into this forest. And here I am, going crazy in the middle of the woods because I can’t find my Hermia. Go away, get out of here, and stop following me."
+
+  - sp: HELENA
+    o:
+      - "You draw me, you hard-hearted adamant."
+      - "But yet you draw not iron, for my heart"
+      - "Is true as steel. Leave you your power to draw,"
+      - "And I shall have no power to follow you."
+    m:
+      - "You attract me to you, you cruel magnet! But you must not attract iron, because my heart is as true as steel. If you let go of your power to attract me, I won’t have any power to follow you."
+
+  - sp: DEMETRIUS
+    o:
+      - "Do I entice you? Do I speak you fair?"
+      - "Or rather, do I not in plainest truth"
+      - "Tell you I do not, nor I cannot, love you?"
+    m:
+      - "Do I ask you to follow me? Do I speak to you kindly? Don’t I tell you in the clearest terms that I do not and cannot love you?"
+
+  - sp: HELENA
+    o:
+      - "And even for that do I love you the more."
+      - "I am your spaniel. And, Demetrius,"
+      - "The more you beat me, I will fawn on you."
+      - "Use me but as your spaniel—spurn me, strike me,"
+      - "Neglect me, lose me. Only give me leave,"
+      - "Unworthy as I am, to follow you."
+      - "What worser place can I beg in your love—"
+      - "And yet a place of high respect with me—"
+      - "Than to be usèd as you use your dog?"
+    m:
+      - "Yes, but that makes me love you even more. I’m your little dog, Demetrius. The more you beat me, the more I’ll love you. Treat me like you would treat a dog—kick me, hit me, neglect me, try to lose me. Just let me follow behind you, even though I’m not good enough for you. Could I ask for a worse place in your heart than to be treated as you would treat a dog? And yet I would consider it an honor to be your dog."
+
+  - sp: DEMETRIUS
+    o:
+      - "Tempt not too much the hatred of my spirit."
+      - "For I am sick when I do look on thee."
+    m:
+      - "Don’t push it. Just looking at you makes me sick."
+
+  - sp: HELENA
+    o:
+      - "And I am sick when I look not on you."
+    m:
+      - "And I get sick when I can’t look at you."
+
+  - sp: DEMETRIUS
+    o:
+      - "You do impeach your modesty too much,"
+      - "To leave the city and commit yourself"
+      - "Into the hands of one that loves you not,"
+      - "To trust the opportunity of night"
+      - "And the ill counsel of a desert place"
+      - "With the rich worth of your virginity."
+    m:
+      - "You’re risking your reputation by leaving the city and stalking someone who doesn’t love you. Standing around alone in a deserted area in the middle of the night isn’t the best way to protect your virginity."
+
+  - sp: HELENA
+    o:
+      - "Your virtue is my privilege. For that"
+      - "It is not night when I do see your face."
+      - "Therefore I think I am not in the night."
+      - "Nor doth this wood lack worlds of company,"
+      - "For you in my respect are all the world."
+      - "Then how can it be said I am alone"
+      - "When all the world is here to look on me?"
+    m:
+      - "I rely on your virtue to protect me. And because I can see your shining face, it doesn’t feel like nighttime to me. This forest doesn’t seem deserted when you’re here, because you are all the world to me. So how can anyone say I’m alone, when the whole world is here to look at me?"
+
+  - sp: DEMETRIUS
+    o:
+      - "I’ll run from thee and hide me in the brakes,"
+      - "And leave thee to the mercy of wild beasts."
+    m:
+      - "I’ll run away from you and hide in the bushes, and leave you to the mercy of wild animals."
+
+  - sp: HELENA
+    o:
+      - "The wildest hath not such a heart as you."
+      - "Run when you will, the story shall be changed."
+      - "Apollo flies and Daphne holds the chase."
+      - "The dove pursues the griffin. The mild hind"
+      - "Makes speed to catch the tiger—bootless speed,"
+      - "When cowardice pursues and valor flies."
+    m:
+      - "The wildest animal isn’t as cruel as you are. Run whenever you want to. The story of Daphne and Apollo will be changed: the lustful god Apollo runs away from the virginal nymph Daphne who pursues him, the dove chases after the griffin, which is usually its predator, and the gentle deer tries to hunt down the tiger—speed is useless when the cowardly person chases and the brave person runs away."
+
+  - sp: DEMETRIUS
+    o:
+      - "I will not stay thy questions. Let me go."
+      - "Or if thou follow me, do not believe"
+      - "But I shall do thee mischief in the wood."
+    m:
+      - "I’m not sticking around to listen to you any longer. Leave me alone. Or if you follow me, you’d better understand that I’ll do something bad to you in the forest."
+
+  - sp: HELENA
+    o:
+      - "Ay, in the temple, in the town, the field"
+      - "You do me mischief. Fie, Demetrius!"
+      - "Your wrongs do set a scandal on my sex."
+      - "We cannot fight for love as men may do."
+      - "We should be wooed and were not made to woo."
+    m:
+      - "Yes, you already hurt me in the church, in the town, and in the fields. Shame on you, Demetrius! Your behavior is an insult to all women. We cannot fight for love as men can. We should be pursued and courted. We weren’t made to do the pursuing."
+
+  - os: "Exit DEMETRIUS"
+    ms: "DEMETRIUS exits."
+
+  - o:
+      - "I’ll follow thee and make a heaven of hell,"
+      - "To die upon the hand I love so well."
+    m:
+      - "I’ll follow you and turn this hell I’m in into a kind of heaven. It would be heavenly to be killed by someone I love so much."
+
+  - os: "Exit HELENA"
+    ms: "HELENA exits."
+
+  - sp: OBERON
+    o:
+      - "Fare thee well, nymph. Ere he do leave this grove,"
+      - "Thou shalt fly him and he shall seek thy love."
+    m:
+      - "Goodbye, nymph. Before he leaves this part of the forest, you’ll change places: you’ll be the one running away, and he’ll be in love with you."
+
+  - os: "Enter ROBIN"
+    ms: "ROBIN enters."
+
+  - o:
+      - "Hast thou the flower there? Welcome, wanderer."
+    m:
+      - "Do you have the flower? Welcome, traveler."
+
+  - sp: ROBIN
+    o:
+      - "Ay, there it is."
+    m:
+      - "Yes, here it is."
+
+  - sp: OBERON
+    o:
+      - "  I pray thee, give it me."
+      - "*(takes flower from ROBIN)*"
+      - "I know a bank where the wild thyme blows,"
+      - "Where oxlips and the nodding violet grows,"
+      - "Quite overcanopied with luscious woodbine,"
+      - "With sweet musk roses and with eglantine."
+      - "There sleeps Titania sometime of the night,"
+      - "Lulled in these flowers with dances and delight."
+      - "And there the snake throws her enameled skin,"
+      - "Weed wide enough to wrap a fairy in."
+      - "And with the juice of this I’ll streak her eyes"
+      - "And make her full of hateful fantasies."
+      - "*(gives ROBIN some of the flower)*"
+      - "Take thou some of it and seek through this grove:"
+      - "A sweet Athenian lady is in love"
+      - "With a disdainful youth. Anoint his eyes."
+      - "But do it when the next thing he espies"
+      - "May be the lady. Thou shalt know the man"
+      - "By the Athenian garments he hath on."
+      - "Effect it with some care, that he may prove"
+      - "More fond on her than she upon her love."
+      - "And look thou meet me ere the first cock crow."
+    m:
+      - "Please, give it to me. *(he takes the flower from ROBIN)* I know a place where wild thyme blooms, and oxlips and violets grow. It’s covered over with luscious honeysuckle, sweet muskroses and sweetbrier. Titania sleeps there sometimes at night, lulled to sleep among the flowers by dances and other delights. Snakes shed their skin there, and the shed skin is wide enough to wrap a fairy in. I’ll put the juice of this flower on Titania’s eyes, and fill her with horrible delusions and desires. *(he gives ROBIN part of the flower)* You take some of it too, and look around in this part of the forest. A sweet Athenian lady is in love with a young man who wants nothing to do with her. Put some of this flower’s juice on his eyes, and make sure to do it in such a way that the next thing he sees will be the lady. You’ll be able to tell it’s him because he’s wearing Athenian clothes. Do it carefully, so that he’ll end up loving her more than she loves him. And then make sure to meet me before the rooster’s first crow at dawn."
+
+  - sp: ROBIN
+    o:
+      - "Fear not, my lord. Your servant shall do so."
+    m:
+      - "Don’t worry, sir. I’m at your service."
+
+  - os: "Exeunt severally"
+    ms: "They all exit, separately."

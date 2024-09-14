@@ -1,0 +1,140 @@
+play: Antony and Cleopatra
+title: Act 2, Scene 3
+group: 2
+order: 7
+text:
+  - os: "Enter ANTONY, CAESAR; OCTAVIA between them"
+    ms: "ANTONY and CAESAR enter with OCTAVIA between them."
+
+  - sp: ANTONY
+    o:
+      - "*(to OCTAVIA)* The world and my great office will sometimes"
+      - "Divide me from your bosom."
+    m:
+      - "*(to OCTAVIA)* There will be times when my duties and responsibilities take me away from you."
+
+  - sp: OCTAVIA
+    o:
+      - "    All which time"
+      - "Before the gods my knee shall bow my prayers"
+      - "To them for you."
+    m:
+      - "And I will spend our time apart on my knees, praying for you."
+
+  - sp: ANTONY
+    o:
+      - "*(to CAESAR)* Good night, sir.—My Octavia,"
+      - "Read not my blemishes in the world’s report."
+      - "I have not kept my square, but that to come"
+      - "Shall all be done by th’ rule. Good night, dear lady."
+      - "*(to CAESAR)* Good night, sir."
+    m:
+      - "*(to CAESAR)* Good night, sir. My Octavia, don’t believe everything you hear about me. I haven’t always lived a conventional life, but the future will be by the book. Good night, dear lady. *(to CAESAR)* Good night, sir."
+
+  - sp: CAESAR
+    o:
+      - "Good night."
+    m:
+      - "Good night."
+
+  - os: "He exits with OCTAVIA"
+    ms: "CAESAR and OCTAVIA exit."
+
+  - os: "Enter SOOTHSAYER"
+    ms: "The FORTUNETELLER enters."
+
+  - sp: ANTONY
+    o:
+      - "Now, sirrah, you do wish yourself in Egypt?"
+    m:
+      - "Now, sirrah, I hear you wish you were back in Egypt."
+
+  - sp: SOOTHSAYER
+    o:
+      - "Would I had never come from thence, nor you thither."
+    m:
+      - "I wish I had never left Egypt and that you had never come to Egypt."
+
+  - sp: ANTONY
+    o:
+      - "If you can, your reason?"
+    m:
+      - "Tell me why, if you can."
+
+  - sp: SOOTHSAYER
+    o:
+      - "I see it in my motion, have it not in my tongue. But yet hie you to Egypt again."
+    m:
+      - "It’s a feeling, but nothing I can put into words. But you had better get back to Egypt again."
+
+  - sp: ANTONY
+    o:
+      - "Say to me whose fortunes shall rise higher,"
+      - "Caesar’s or mine?"
+    m:
+      - "Tell me who shall have the better luck, Caesar or me?"
+
+  - sp: SOOTHSAYER
+    o:
+      - "Caesar’s."
+      - "Therefore, O Antony, stay not by his side."
+      - "Thy dæmon—that thy spirit which keeps thee—is"
+      - "Noble, courageous, high, unmatchable"
+      - "Where Caesar’s is not. But near him thy angel"
+      - "Becomes afeard, as being o’erpowered. Therefore"
+      - "Make space enough between you."
+    m:
+      - "Caesar. So you’d better not stay with him, Antony. Your guardian angel is noble, courageous, significant, and unmatched when Caesar’s not around. But when you are with him, your angel is weakened and easily frightened. That’s why there must be space between you."
+
+  - sp: ANTONY
+    o:
+      - "    Speak this no more."
+    m:
+      - "Don’t speak of this again."
+
+  - sp: SOOTHSAYER
+    o:
+      - "To none but thee, no more but when to thee."
+      - "If thou dost play with him at any game,"
+      - "Thou art sure to lose, and of that natural luck"
+      - "He beats thee ’gainst the odds. Thy luster thickens"
+      - "When he shines by. I say again, thy spirit"
+      - "Is all afraid to govern thee near him,"
+      - "But, he away, ’tis noble."
+    m:
+      - "To none but you, only to you. You will surely lose any game you play with Caesar. With his natural luck, he will beat you even against the odds. Your light dulls when he is near. I repeat: your angel is afraid to inspire you when you’re around him, but when he goes away it becomes brilliant again."
+
+  - sp: ANTONY
+    o:
+      - "    Get thee gone. Say to Ventidius I would speak with him."
+    m:
+      - "Leave now. Tell Ventidius I want to speak with him."
+
+  - os: "Exit SOOTHSAYER"
+    ms: "The FORTUNETELLER exits."
+
+  - o:
+      - "*(to himself)* He shall to Parthia. Be it art or hap,"
+      - "He hath spoken true. The very dice obey him,"
+      - "And in our sports my better cunning faints"
+      - "Under his chance. If we draw lots, he speeds."
+      - "His cocks do win the battle still of mine"
+      - "When it is all to naught, and his quails ever"
+      - "Beat mine, inhooped, at odds. I will to Egypt."
+      - "And though I make this marriage for my peace,"
+      - "I’ th’ East my pleasure lies."
+    m:
+      - "*(to himself)* I’ll send him to Parthia. Whether he’s truly gifted or just lucky, what the Fortuneteller said is true. Even the dice obey Caesar. When we compete in sports, my skill is defeated by his luck. If we pick numbers in a lottery, he wins. His roosters always beat mine at the cockfights. His quails beat mine, even against the odds, when mine have the advantage. I’ll return to Egypt. Though I’ve made this marriage to keep peace with Caesar, my pleasure remains in the East, with Cleopatra."
+
+  - os: "Enter VENTIDIUS"
+    ms: "VENTIDIUS enters."
+
+  - o:
+      - "    O come, Ventidius."
+      - "You must to Parthia. Your commission’s ready."
+      - "Follow me and receive ’t."
+    m:
+      - "Come here, Ventidius. You must go to Parthia. Your authorization is ready. Come with me and I’ll get it for you."
+
+  - os: "Exeunt"
+    ms: "They exit."

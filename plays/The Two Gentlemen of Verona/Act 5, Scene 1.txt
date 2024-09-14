@@ -1,0 +1,44 @@
+play: Two Gentlemen of Verona
+title: Act 5, Scene 1
+group: 5
+order: 16
+text:
+  - os: "Enter Sir EGLAMOUR"
+    ms: "Sir EGLAMOUR enters."
+
+  - sp: EGLAMOUR
+    o:
+      - "The sun begins to gild the western sky,"
+      - "And now it is about the very hour"
+      - "That Sylvia at Friar Patrick’s cell should meet me."
+      - "She will not fail, for lovers break not hours"
+      - "Unless it be to come before their time,"
+      - "So much they spur their expedition."
+    m:
+      - "The setting sun begins to color the western sky, and now it’s almost the time that Sylvia is supposed to meet me at Friar Patrick’s chamber. She will not fail, because those who are in love are always on time, unless they arrive early to speed up their progress."
+
+  - os: "Enter SYLVIA"
+    ms: "SYLVIA enters."
+
+  - o:
+      - "See, where she comes.—Lady, a happy evening!"
+    m:
+      - "See, here she comes now. Good evening, my lady!"
+
+  - sp: SYLVIA
+    o:
+      - "Amen, amen! Go on, good Eglamour,"
+      - "Out at the postern by the abbey wall."
+      - "I fear I am attended by some spies."
+    m:
+      - "Thank God, thank God! Go on, my good Eglamour. Go out to the back door by the abbey wall. I’m afraid some spies have followed me."
+
+  - sp: EGLAMOUR
+    o:
+      - "Fear not. The forest is not three leagues off."
+      - "If we recover that, we are sure enough."
+    m:
+      - "Don’t worry. The forest is less than nine miles away. If we make it there, we are safe."
+
+  - os: "Exeunt"
+    ms: "They exit."

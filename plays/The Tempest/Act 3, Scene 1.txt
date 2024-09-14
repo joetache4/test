@@ -1,0 +1,254 @@
+play: The Tempest
+title: Act 3, Scene 1
+group: 3
+order: 4
+text:
+  - os: "Enter FERDINAND bearing a log"
+    ms: "FERDINAND enters, carrying a log."
+
+  - sp: FERDINAND
+    o:
+      - "There be some sports are painful, and their labor"
+      - "Delight in them sets off. Some kinds of baseness"
+      - "Are nobly undergone. And most poor matters"
+      - "Point to rich ends. This my mean task"
+      - "Would be as heavy to me as odious, but"
+      - "The mistress which I serve quickens what’s dead"
+      - "And makes my labors pleasures. Oh, she is"
+      - "Ten times more gentle than her father’s crabbed,"
+      - "And he’s composed of harshness. I must remove"
+      - "Some thousands of these logs and pile them up,"
+      - "Upon a sore injunction. My sweet mistress"
+      - "Weeps when she sees me work, and says such baseness"
+      - "Had never like executor. I forget,"
+      - "But these sweet thoughts do even refresh my labors,"
+      - "Most busiest when I do it."
+    m:
+      - "Some games are painful, but their discomfort makes them more fun. Some kinds of lowly activities are done for noble reasons. And you can do poor things that lead to rich results. This hard work would be boring and nasty to me, but I’m working for a mistress who makes me enjoy my labor. Oh, she’s ten times nicer than her father is mean, and he’s the height of crabbiness. I have thousands of logs to take away and pile up, on strict orders from him. My sweet darling cries when she sees me work and tells me that such a wonderful man never performed such lowly tasks before. These sweet thoughts relieve me and refresh me, especially when I’m slaving away busily."
+
+  - os: "Enter MIRANDA, and PROSPERO unseen"
+    ms: "MIRANDA enters, followed by PROSPERO at a distance, unobserved."
+
+  - sp: MIRANDA
+    o:
+      - "    Alas now, pray you,"
+      - "Work not so hard. I would the lightning had"
+      - "Burnt up those logs that you are enjoined to pile!"
+      - "Pray, set it down and rest you. When this burns,"
+      - "’Twill weep for having wearied you. My father"
+      - "Is hard at study. Pray now, rest yourself."
+      - "He’s safe for these three hours."
+    m:
+      - "Now, please, I beg you, don’t work so hard. I wish the lightning had burned up all those logs that you’ve been ordered to stack! Please put that log down and rest a while. When this wood burns, it’ll weep for making you tired. My father’s studying hard, so he won’t see you. So please rest. We’re safe from my father for at least three hours."
+
+  - sp: FERDINAND
+    o:
+      - "    O most dear mistress,"
+      - "The sun will set before I shall discharge"
+      - "What I must strive to do."
+    m:
+      - "Oh, my dear mistress, I won’t be able to finish this work until sunset at the earliest."
+
+  - sp: MIRANDA
+    o:
+      - "    If you’ll sit down,"
+      - "I’ll bear your logs the while. Pray, give me that."
+      - "I’ll carry it to the pile."
+    m:
+      - "If you sit down, I’ll carry your logs a while. Please give me that. I’ll take it over to the pile."
+
+  - sp: FERDINAND
+    o:
+      - "    No, precious creature."
+      - "I had rather crack my sinews, break my back,"
+      - "Than you should such dishonor undergo"
+      - "While I sit lazy by."
+    m:
+      - "No, my darling, I’d rather strain all my muscles and break my back than let you do work like this while I lounge around nearby."
+
+  - sp: MIRANDA
+    o:
+      - "    It would become me"
+      - "As well as it does you, and I should do it"
+      - "With much more ease, for my good will is to it"
+      - "And yours it is against."
+    m:
+      - "I’d be as right for the job as you are, and I’d do it more easily, since I’d have good will on my side."
+
+  - sp: PROSPERO
+    o:
+      - "*(aside)*    Poor worm, thou art infected!"
+      - "This visitation shows it."
+    m:
+      - "*(to himself)* You poor weak thing, you’re in love! I can see it clearly now."
+
+  - sp: MIRANDA
+    o:
+      - "    You look wearily."
+    m:
+      - "You look tired."
+
+  - sp: FERDINAND
+    o:
+      - "No, noble mistress. ’Tis fresh morning with me"
+      - "When you are by at night. I do beseech you—"
+      - "Chiefly that I might set it in my prayers—"
+      - "What is your name?"
+    m:
+      - "No, noble mistress, I’m as fresh as morning when you’re near me, even at night. I beg you to tell me your name so I can use it in my prayers."
+
+  - sp: MIRANDA
+    o:
+      - "    Miranda.—O my father,"
+      - "I have broke your hest to say so!"
+    m:
+      - "Miranda.—Oh father, I’ve disobeyed you by telling him that!"
+
+  - sp: FERDINAND
+    o:
+      - "    Admired Miranda!"
+      - "Indeed the top of admiration, worth"
+      - "What’s dearest to th’ world! Full many a lady"
+      - "I have eyed with best regard and many a time"
+      - "Th’ harmony of their tongues hath into bondage"
+      - "Brought my too diligent ear. For several virtues"
+      - "Have I liked several women. Never any"
+      - "With so full soul but some defect in her"
+      - "Did quarrel with the noblest grace she owed"
+      - "And put it to the foil. But you, O you,"
+      - "So perfect and so peerless, are created"
+      - "Of every creature’s best."
+    m:
+      - "Miranda—the very name means “admired!” You are indeed admired, more than anything else in the world! I’ve looked at many ladies with pleasure, and been seduced by the sweet nothings they said to me. I’ve liked several women for their good qualities, but there was something wrong with each one that blotted her excellent qualities and cancelled them out. But with you it’s different. You’re perfect, without a rival in the world, made up of the best qualities of every creature."
+
+  - sp: MIRANDA
+    o:
+      - "    I do not know"
+      - "One of my sex, no woman’s face remember—"
+      - "Save, from my glass, mine own. Nor have I seen"
+      - "More that I may call men than you, good friend,"
+      - "And my dear father. How features are abroad"
+      - "I am skill-less of, but, by my modesty,"
+      - "The jewel in my dower, I would not wish"
+      - "Any companion in the world but you,"
+      - "Nor can imagination form a shape"
+      - "Besides yourself to like of. But I prattle"
+      - "Something too wildly, and my father’s precepts"
+      - "I therein do forget."
+    m:
+      - "I’ve never known any woman or seen a woman’s face—except my own in the mirror. And I’ve never met any men besides you and my father. I have no idea what people look like in other places, but I swear by my modesty, which I value above everything else, that I’d never want any companion in the world but you. I can’t even imagine one. But listen to me chattering like crazy, and father always told me not to."
+
+  - sp: FERDINAND
+    o:
+      - "    I am in my condition"
+      - "A prince, Miranda—I do think, a king;"
+      - "I would, not so!—and would no more endure"
+      - "This wooden slavery than to suffer"
+      - "The flesh-fly blow my mouth. Hear my soul speak."
+      - "The very instant that I saw you did"
+      - "My heart fly to your service, there resides"
+      - "To make me slave to it, and for your sake"
+      - "Am I this patient log-man."
+    m:
+      - "I’m a prince by birth, Miranda—maybe even a king now; though I wish I weren’t—and normally I wouldn’t put up with carrying these logs any more than I’d let flies breed in my mouth. But I’ll tell you something from my soul. The second I saw you, my heart rushed to serve you and be your slave, so here I am now, a patient log-man."
+
+  - sp: MIRANDA
+    o:
+      - "    Do you love me?"
+    m:
+      - "Do you love me?"
+
+  - sp: FERDINAND
+    o:
+      - "O heaven, O earth, bear witness to this sound"
+      - "And crown what I profess with kind event"
+      - "If I speak true! If hollowly, invert"
+      - "What best is boded me to mischief! I"
+      - "Beyond all limit of what else i’ th’ world"
+      - "Do love, prize, honor you."
+    m:
+      - "Oh heaven, oh earth, witness what I’m about to say, and reward me if I tell the truth! If I’m lying, then destroy all my prospects in life! More than anything else in the world, I love you, value you, and honor you."
+
+  - sp: MIRANDA
+    o:
+      - "    I am a fool"
+      - "To weep at what I am glad of."
+    m:
+      - "Look at me crying—what a fool I am to cry at what makes me happy."
+
+  - sp: PROSPERO
+    o:
+      - "*(aside)*     Fair encounter"
+      - "Of two most rare affections! Heavens rain grace"
+      - "On that which breeds between ’em!"
+    m:
+      - "*(to himself)* What a pleasant meeting between two people truly in love! May heaven bless the feelings growing between them!"
+
+  - sp: FERDINAND
+    o:
+      - "Wherefore weep you?"
+    m:
+      - "Why are you crying?"
+
+  - sp: MIRANDA
+    o:
+      - "At mine unworthiness, that dare not offer"
+      - "What I desire to give, and much less take"
+      - "What I shall die to want. But this is trifling,"
+      - "And all the more it seeks to hide itself"
+      - "The bigger bulk it shows. Hence, bashful cunning,"
+      - "And prompt me, plain and holy innocence!"
+      - "I am your wife if you will marry me."
+      - "If not, I’ll die your maid. To be your fellow"
+      - "You may deny me, but I’ll be your servant"
+      - "Whether you will or no."
+    m:
+      - "I’m crying at how unworthy I am to give you what I want to give you and to take what I’m dying to have. But it’s a waste of time to say so. The more I try to hide what I’m feeling, the bigger it gets. Oh, stop being so bashful and tricky, Miranda, just be straightforward and innocent! I’ll be your wife if you’ll have me. Otherwise, I’ll die a virgin, devoted to you. You can refuse to make me your spouse, but I’ll be your servant whether you want me to or not."
+
+  - sp: FERDINAND
+    o:
+      - "My mistress, dearest, and I thus humble ever."
+    m:
+      - "You’ll be my wife, dearest, and I’ll serve you forever."
+
+  - sp: MIRANDA
+    o:
+      - "My husband, then?"
+    m:
+      - "Will you be my husband, then?"
+
+  - sp: FERDINAND
+    o:
+      - "Ay, with a heart as willing"
+      - "As bondage e’er of freedom. Here’s my hand."
+    m:
+      - "Yes, with a heart more eager to bear a husband’s responsibilities than a slave ever wanted freedom. Take my hand, darling."
+
+  - sp: MIRANDA
+    o:
+      - "And mine, with my heart in ’t. And now farewell"
+      - "Till half an hour hence."
+    m:
+      - "Here’s my hand, and my heart. And now goodbye. I’ll see you again in half an hour."
+
+  - sp: FERDINAND
+    o:
+      - "A thousand thousand!"
+    m:
+      - "A million goodbyes to you."
+
+  - os: "Exeunt FERDINAND and MIRANDA severally"
+    ms: "MIRANDA and FERDINAND exit in opposite directions."
+
+  - sp: PROSPERO
+    o:
+      - "So glad of this as they I cannot be,"
+      - "Who are surprised withal. But my rejoicing"
+      - "At nothing can be more. I’ll to my book,"
+      - "For yet ere supper-time must I perform"
+      - "Much business appertaining."
+    m:
+      - "I can’t be as happy as they are at this moment, but nothing could make me any happier. Now it’s time to get back to my studying, since I have a lot of serious business to take care of before dinner."
+
+  - os: "Exit"
+    ms: "He exits."

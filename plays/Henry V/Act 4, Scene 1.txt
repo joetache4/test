@@ -1,0 +1,648 @@
+play: Henry V
+title: Act 4, Scene 1
+group: 4
+order: 17
+text:
+  - os: "Enter KING HENRY, BEDFORD, and GLOUCESTER"
+    ms: "KING HENRY enters with BEDFORD and GLOUCESTER."
+
+  - sp: KING HENRY
+    o:
+      - "Gloucester, ’tis true that we are in great danger."
+      - "The greater therefore should our courage be."
+      - "—Good morrow, brother Bedford. God almighty,"
+      - "There is some soul of goodness in things evil,"
+      - "Would men observingly distill it out."
+      - "For our bad neighbor makes us early stirrers,"
+      - "Which is both healthful and good husbandry."
+      - "Besides, they are our outward consciences"
+      - "And preachers to us all, admonishing"
+      - "That we should dress us fairly for our end."
+      - "Thus may we gather honey from the weed"
+      - "And make a moral of the devil himself."
+    m:
+      - "Gloucester, it’s true that we are in great danger. But our courage should only be the greater for that. Good morning, brother Bedford. God Almighty, there must be some essential goodness even in evil, if men would only look for it. In our case, our bad neighbors over their make us early risers, a healthy and sensible thing to be. Besides, they act as outward consciences and preachers to us all, a visible reminder that we should prepare ourselves for death. Think like that, and you’ll manage to get honey out of a common weed and find a moral lesson in the devil himself."
+
+  - os: "Enter ERPINGHAM"
+    ms: "ERPINGHAM enters."
+
+  - o:
+      - "Good morrow, old Sir Thomas Erpingham."
+      - "A good soft pillow for that good white head"
+      - "Were better than a churlish turf of France."
+    m:
+      - "Good morning, old Sir Thomas Erpingham! A nice, soft pillow would be a more suitable place to lay that good white head than France’s hard, cold ground."
+
+  - sp: ERPINGHAM
+    o:
+      - "Not so, my liege, this lodging likes me better,"
+      - "Since I may say, “Now lie I like a king.”"
+    m:
+      - "Not at all, my liege. I prefer these quarters, since they allow me to say, “Now I live like a king.”"
+
+  - sp: KING HENRY
+    o:
+      - "’Tis good for men to love their present pains"
+      - "Upon example. So the spirit is eased."
+      - "And when the mind is quickened, out of doubt,"
+      - "The organs, though defunct and dead before,"
+      - "Break up their drowsy grave and newly move,"
+      - "With casted slough and fresh legerity."
+      - "Lend me thy cloak, Sir Thomas. Brothers both,"
+      - "Commend me to the princes in our camp,"
+      - "Do my good morrow to them, and anon"
+      - "Desire them all to my pavilion."
+    m:
+      - "It’s good for men to be given an example of how to take pleasure in discomfort. It eases the spirit. And when the mind is engaged, the rest of the body, dead and dull before, wakes up and comes to life with a new nimbleness and sensitivity, like a snake shedding its dead skin. Lend me your cloak, Sir Thomas. Brothers, give my regards to the princes in our camp. Say good day to them from me and ask them to come to my tent."
+
+  - sp: GLOUCESTER
+    o:
+      - "We shall, my liege."
+    m:
+      - "We shall, my liege."
+
+  - sp: ERPINGHAM
+    o:
+      - "Shall I attend your Grace?"
+    m:
+      - "Shall I accompany your Grace?"
+
+  - sp: KING HENRY
+    o:
+      - "No, my good knight."
+      - "Go with my brothers to my lords of England."
+      - "I and my bosom must debate awhile,"
+      - "And then I would no other company."
+    m:
+      - "No, my good knight. Go with my brothers to my English peers. I need to be alone with my thoughts for a while and don’t want any company."
+
+  - sp: ERPINGHAM
+    o:
+      - "The Lord in heaven bless thee, noble Harry!"
+    m:
+      - "The Lord in heaven bless you, noble Harry!"
+
+  - os: "Exeunt all but KING HENRY"
+    ms: "All but KING HENRY exit."
+
+  - sp: KING HENRY
+    o:
+      - "God-a-mercy, old heart, thou speak’st cheerfully."
+    m:
+      - "Bless you, old soul! Your words cheer my heart."
+
+  - os: "Enter PISTOL"
+    ms: "PISTOL enters."
+
+  - sp: PISTOL
+    o:
+      - "Qui vous là?"
+    m:
+      - "*(speaking in French)* Who goes there?"
+
+  - sp: KING HENRY
+    o:
+      - "A friend."
+    m:
+      - "A friend."
+
+  - sp: PISTOL
+    o:
+      - "Discuss unto me: art thou officer or art thou base, common, and popular?"
+    m:
+      - "Declare yourself to me. Are you an officer? Or are you low, vulgar, and of the common people?"
+
+  - sp: KING HENRY
+    o:
+      - "I am a gentleman of a company."
+    m:
+      - "I am a gentleman of a company."
+
+  - sp: PISTOL
+    o:
+      - "Trail’st thou the puissant pike?"
+    m:
+      - "Do you carry a pike?"
+
+  - sp: KING HENRY
+    o:
+      - "Even so. What are you?"
+    m:
+      - "Exactly. What about you?"
+
+  - sp: PISTOL
+    o:
+      - "As good a gentleman as the emperor."
+    m:
+      - "I’m as good a gentleman as the emperor."
+
+  - sp: KING HENRY
+    o:
+      - "Then you are a better than the king."
+    m:
+      - "Then you’re a better man than the king."
+
+  - sp: PISTOL
+    o:
+      - "The king’s a bawcock, and a heart of gold,"
+      - "A lad of life, an imp of fame,"
+      - "Of parents good, of fist most valiant."
+      - "I kiss his dirty shoe, and from heartstring"
+      - "I love the lovely bully. What is thy name?"
+    m:
+      - "The king’s a dear boy with a heart of gold, he’s a lively lad, a wag, born of fine parents, good with his fists. I kiss his dirty shoe, and from the bottom of my heart I love the lovely boy. What is your name?"
+
+  - sp: KING HENRY
+    o:
+      - "Harry le Roy."
+    m:
+      - "Harry le Roy."
+
+  - sp: PISTOL
+    o:
+      - "Le Roy? A Cornish name. Art thou of Cornish crew?"
+    m:
+      - "Le Roy? That’s a Cornish name. Are you with a Cornish company?"
+
+  - sp: KING HENRY
+    o:
+      - "No, I am a Welshman."
+    m:
+      - "No, I am a Welshman."
+
+  - sp: PISTOL
+    o:
+      - "Know’st thou Fluellen?"
+    m:
+      - "Do you know Fluellen?"
+
+  - sp: KING HENRY
+    o:
+      - "Yes."
+    m:
+      - "Yes."
+
+  - sp: PISTOL
+    o:
+      - "Tell him I’ll knock his leek about his pate"
+      - "Upon Saint Davy’s day."
+    m:
+      - "Tell him I’ll take the leek out of his hat on Saint Davy’s Day and slap his head with it."
+
+  - sp: KING HENRY
+    o:
+      - "Do not you wear your dagger in your cap that day, lest he knock that about yours."
+    m:
+      - "You’d better not wear your dagger in your cap that day, or he might slap your head with it."
+
+  - sp: PISTOL
+    o:
+      - "Art thou his friend?"
+    m:
+      - "Are you his friend?"
+
+  - sp: KING HENRY
+    o:
+      - "And his kinsman too."
+    m:
+      - "Yes, and his relative, too."
+
+  - sp: PISTOL
+    o:
+      - "The *figo* for thee then!"
+    m:
+      - "Then I’m giving you the finger."
+
+  - sp: KING HENRY
+    o:
+      - "I thank you. God be with you."
+    m:
+      - "Thank you. God be with you."
+
+  - sp: PISTOL
+    o:
+      - "My name is Pistol called."
+    m:
+      - "My name is Pistol."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KING HENRY
+    o:
+      - "It sorts well with your fierceness."
+    m:
+      - "The name suits your fierceness."
+
+  - os: "Enter FLUELLEN and GOWER"
+    ms: "FLUELLEN and GOWER enter."
+
+  - sp: GOWER
+    o:
+      - "Captain Fluellen."
+    m:
+      - "Captain Fluellen!"
+
+  - sp: FLUELLEN
+    o:
+      - "So. In the name of Jesu Christ, speak fewer. It is the greatest admiration in the universal world when the true and aunchient prerogatifes and laws of the wars is not kept. If you would take the pains but to examine the wars of Pompey the Great, you shall find, I warrant you, that there is no tiddle toddle nor pibble babble in Pompey’s camp. I warrant you, you shall find the ceremonies of the wars and the cares of it and the forms of it and the sobriety of it and the modesty of it to be otherwise."
+    m:
+      - "In the name of Jesus Christ, keep it down! It never ceases to amaze me the way people ignore the correct, traditional principles and rules of war. If you would take the trouble to study the tactics of Pompey the Great, I can tell you that you would find no tittle-tattle or pibble-pabble in Pompey’s camp. I tell you, you would find the rituals of war and, I promise you, its ceremonies and its solicitudes and its forms and its gravity and its discipline all to be quite counter to all this noise."
+
+  - sp: GOWER
+    o:
+      - "Why, the enemy is loud. You hear him all night."
+    m:
+      - "But the enemy is loud. You can hear them all night long."
+
+  - sp: FLUELLEN
+    o:
+      - "If the enemy is an ass and a fool and a prating coxcomb, is it meet, think you, that we should also, look you, be an ass and a fool and a prating coxcomb, in your own conscience, now?"
+    m:
+      - "And if the enemy is an ass and a fool and a prating idiot, does that mean, you think, that we should also be an ass and a fool and a prating idiot? Think about it."
+
+  - sp: GOWER
+    o:
+      - "I will speak lower."
+    m:
+      - "I will lower my voice."
+
+  - sp: FLUELLEN
+    o:
+      - "I pray you and beseech you that you will."
+    m:
+      - "I’d be very glad if you would."
+
+  - os: "Exeunt GOWER and FLUELLEN"
+    ms: "GOWER and FLUELLEN exit."
+
+  - sp: KING HENRY
+    o:
+      - "Though it appear a little out of fashion,"
+      - "There is much care and valor in this Welshman."
+    m:
+      - "Though he seems a little old-fashioned, there is much care and courage in this Welshman."
+
+  - os: "Enter three soldiers, John BATES, Alexander COURT, and Michael WILLIAMS"
+    ms: "Three soldiers, John BATES, Alexander COURT, and Michael WILLIAMS, enter."
+
+  - sp: COURT
+    o:
+      - "Brother John Bates, is not that the morning which breaks yonder?"
+    m:
+      - "Brother John Bates, isn’t that dawn breaking over there?"
+
+  - sp: BATES
+    o:
+      - "I think it be, but we have no great cause to desire the approach of day."
+    m:
+      - "I think it is. But we have no great reason to long for day."
+
+  - sp: WILLIAMS
+    o:
+      - "We see yonder the beginning of the day, but I think we shall never see the end of it.—Who goes there?"
+    m:
+      - "That’s the beginning of the day we see, but I don’t think we’ll see the end of it.—Who goes there?"
+
+  - sp: KING HENRY
+    o:
+      - "A friend."
+    m:
+      - "A friend."
+
+  - sp: WILLIAMS
+    o:
+      - "Under what captain serve you?"
+    m:
+      - "What captain do you serve?"
+
+  - sp: KING HENRY
+    o:
+      - "Under Sir Thomas Erpingham."
+    m:
+      - "Sir Thomas Erpingham."
+
+  - sp: WILLIAMS
+    o:
+      - "A good old commander and a most kind gentleman. I pray you, what thinks he of our estate?"
+    m:
+      - "A veteran commander and a very kind gentleman. Tell me, what does he think of our situation?"
+
+  - sp: KING HENRY
+    o:
+      - "Even as men wracked upon a sand, that look to be washed off the next tide."
+    m:
+      - "We’re men beached on the sand, hoping to be washed out by the next tide."
+
+  - sp: BATES
+    o:
+      - "He hath not told his thought to the king?"
+    m:
+      - "He hasn’t told this to the king, has he?"
+
+  - sp: KING HENRY
+    o:
+      - "No. Nor it is not meet he should, for, though I speak it to you, I think the king is but a man as I am. The violet smells to him as it doth to me. The element shows to him as it doth to me. All his senses have but human conditions. His ceremonies laid by, in his nakedness he appears but a man, and though his affections are higher mounted than ours, yet when they stoop, they stoop with the like wing. Therefore, when he sees reason of fears as we do, his fears, out of doubt, be of the same relish as ours are. Yet, in reason, no man should possess him with any appearance of fear, lest he, by showing it, should dishearten his army."
+    m:
+      - "No, nor would it be right for him to. Though it’s not my place to say so, I think the king is, after all, only a man, the same as me. The violet smells to him the same as it does to me. The sky appears to him much as it does to me, and all his senses are those of a mortal man. Without his fine clothes, the king appears just like any other naked man. And though his feelings may be pitched higher than ours, when they plummet, they plummet that much farther. Therefore, when he has reason to fear, as we do, his fears are without question of the same order. Still, it stands to reason that he mustn’t betray his fear, as it might dishearten his army."
+
+  - sp: BATES
+    o:
+      - "He may show what outward courage he will, but I believe, as cold a night as ’tis, he could wish himself in Thames up to the neck; and so I would he were, and I by him, at all adventures, so we were quit here."
+    m:
+      - "He can act as brave as he wants, but I believe on a cold night like this he wishes he were neck-deep in the Thames, and I wish he were, too, and I with him, whatever the danger, so long as we were far away from here."
+
+  - sp: KING HENRY
+    o:
+      - "By my troth, I will speak my conscience of the king. I think he would not wish himself anywhere but where he is."
+    m:
+      - "I’ll tell you truly what I think about the king in my heart. I don’t think he wants to be anywhere but where he is."
+
+  - sp: BATES
+    o:
+      - "Then I would he were here alone; so should he be sure to be ransomed, and a many poor men’s lives saved."
+    m:
+      - "Then I wish he were here alone. He’d be sure to be ransomed, and many a poor man’s life saved."
+
+  - sp: KING HENRY
+    o:
+      - "I dare say you love him not so ill to wish him here alone, howsoever you speak this to feel other men’s minds. Methinks I could not die anywhere so contented as in the king’s company, his cause being just and his quarrel honorable."
+    m:
+      - "Oh, I’m sure you don’t dislike him so much as to wish he were here alone, even though you say this to find out how the rest of us feel. I don’t think there’s anywhere I’d rather die than in the king’s company, as his cause is just and honorable."
+
+  - sp: WILLIAMS
+    o:
+      - "That’s more than we know."
+    m:
+      - "That’s more than we know."
+
+  - sp: BATES
+    o:
+      - "Ay, or more than we should seek after, for we know enough if we know we are the king’s subjects. If his cause be wrong, our obedience to the king wipes the crime of it out of us."
+    m:
+      - "Yes, and more than we should seek to know. It’s enough that we know we’re the king’s subjects. If his cause is wrong, our obedience to the king clears us of responsibility for it."
+
+  - sp: WILLIAMS
+    o:
+      - "But if the cause be not good, the king himself hath a heavy reckoning to make, when all those legs and arms and heads, chopped off in a battle, shall join together at the latter day, and cry all, “We died at such a place,” some swearing, some crying for a surgeon, some upon their wives left poor behind them, some upon the debts they owe, some upon their children rawly left. I am afeard there are few die well that die in a battle, for how can they charitably dispose of anything, when blood is their argument? Now, if these men do not die well, it will be a black matter for the king that led them to it, who to disobey were against all proportion of subjection."
+    m:
+      - "But if the cause is not just, the king himself will have a lot to answer for, when all those legs and arms and heads chopped off in battle shall join together on Judgment Day crying, “We died at such and such a place.” Some will be swearing, some crying for a surgeon, some for the wives that are destitute without them, some about the debts they owed, some for their children left unprovided for. I think few die well who die in battle. How can a person expect to resolve anything in a Christian manner when they’ve passed their lives killing? Now, if these men don’t die in a state of grace, it will be a heavy charge against the king who led them into battle, whom they, as his subjects, could not disobey."
+
+  - sp: KING HENRY
+    o:
+      - "So, if a son that is by his father sent about merchandise do sinfully miscarry upon the sea, the imputation of his wickedness, by your rule, should be imposed upon his father that sent him. Or if a servant, under his master’s command transporting a sum of money, be assailed by robbers and die in many irreconciled iniquities, you may call the business of the master the author of the servant’s damnation. But this is not so. The king is not bound to answer the particular endings of his soldiers, the father of his son, nor the master of his servant, for they purpose not their death, when they purpose their services. Besides, there is no king, be his cause never so spotless, if it come to the arbitrament of swords, can try it out with all unspotted soldiers. Some, peradventure, have on them the guilt of premeditated and contrived murder; some, of beguiling virgins with the broken seals of perjury; some, making the wars their bulwark, that have before gored the gentle bosom of peace with pillage and robbery. Now, if these men have defeated the law and outrun native punishment, though they can outstrip men, they have no wings to fly from God. War is His beadle, war is His vengeance, so that here men are punished for before-breach of the king’s laws in now the king’s quarrel. Where they feared the death, they have borne life away; and where they would be safe, they perish. Then, if they die unprovided, no more is the king guilty of their damnation than he was before guilty of those impieties for the which they are now visited. Every subject’s duty is the king’s, but every subject’s soul is his own. Therefore should every soldier in the wars do as every sick man in his bed: wash every mote out of his conscience. And, dying so, death is to him advantage; or not dying, the time was blessedly lost wherein such preparation was gained. And in him that escapes, it were not sin to think that, making God so free an offer, He let him outlive that day to see His greatness and to teach others how they should prepare."
+    m:
+      - "The king isn’t responsible for the particular end each soldier comes to, nor is the father responsible for his son’s final end or the master for his servant’s. The father and the master and the king didn’t order their subordinates’ deaths when they ordered their services. Besides, there’s no king, however pure his cause, who, if it comes to a trial by combat, can rely on using completely blameless soldiers. Perhaps some may be guilty of plotting murder, some of seducing maidens with lies and then abandoning them; some, of looting and stealing before they were even hired as soldiers. Even if these men have escaped the law and punishment at home, they cannot escape God. War is God’s agent of justice. War is vengeance. So there are men here who have broken the king’s law earlier and are punished now in his war. When they feared death, they escaped with their lives; and now where they imagine they’re safe, they perish. So, if they die unprepared, the king is no more guilty of their damnation than he was guilty of the earlier crimes they’re finally being punished for. Every subject’s duty is the king’s, but every subject’s soul is his own. Therefore, every soldier should do as any man who is sick in his bed would do: clear his conscience of any stain. Then if he dies, his death serves him. Or, if he doesn’t die, the time he spent preparing himself was at least blessed. And in the case of the man who survives, one could be forgiven for supposing that God spared him exactly because he was so ready to die; now he can live to appreciate God’s greatness and teach others to prepare.By this reasoning, if a son is sent by his father on business and drowns at sea while still in a state of sin, his wickedness is his father’s fault. Or if a servant, carrying a sum of money for his master, is attacked by robbers and dies without confessing his sins, we can say that the master’s business is to blame for the servant’s damnation. But that isn’t so."
+
+  - sp: WILLIAMS
+    o:
+      - "’Tis certain, every man that dies ill, the ill upon his own head. The king is not to answer it."
+    m:
+      - "It’s clear, every man must take responsibility for the manner of his own death. The king is not responsible for it."
+
+  - sp: BATES
+    o:
+      - "I do not desire he should answer for me, and yet I determine to fight lustily for him."
+    m:
+      - "I don’t expect him to answer for me, and yet I’m determined to fight vigorously for him."
+
+  - sp: KING HENRY
+    o:
+      - "I myself heard the king say he would not be ransomed."
+    m:
+      - "I myself heard the king say he would not be ransomed."
+
+  - sp: WILLIAMS
+    o:
+      - "Ay, he said so, to make us fight cheerfully, but when our throats are cut, he may be ransomed, and we ne’er the wiser."
+    m:
+      - "Sure, he said so to make us fight cheerfully. But when our throats are cut, he could be ransomed without our being any the wiser."
+
+  - sp: KING HENRY
+    o:
+      - "If I live to see it, I will never trust his word after."
+    m:
+      - "If I live to see it, I’ll never trust his word again."
+
+  - sp: WILLIAMS
+    o:
+      - "You pay him then. That’s a perilous shot out of an elder gun, that a poor and private displeasure can do against a monarch. You may as well go about to turn the sun to ice with fanning in his face with a peacock’s feather. You’ll “never trust his word after.” Come, ’tis a foolish saying."
+    m:
+      - "Yeah, right, go get him. That’s a lame threat from a toy gun, a poor individual’s private displeasure with a monarch. You may as well try to turn the sun to ice by fanning its face with a peacock feather. You’ll “never trust his word again.” Come on, that was a stupid thing to say."
+
+  - sp: KING HENRY
+    o:
+      - "Your reproof is something too round. I should be angry with you if the time were convenient."
+    m:
+      - "Your scolding is somewhat overblown. I’d be angry with you if the occasion allowed."
+
+  - sp: WILLIAMS
+    o:
+      - "Let it be a quarrel between us, if you live."
+    m:
+      - "Let it be a quarrel between us, if you live."
+
+  - sp: KING HENRY
+    o:
+      - "I embrace it."
+    m:
+      - "I’m game."
+
+  - sp: WILLIAMS
+    o:
+      - "How shall I know thee again?"
+    m:
+      - "How will I recognize you in the future?"
+
+  - sp: KING HENRY
+    o:
+      - "Give me any gage of thine, and I will wear it in my bonnet. Then, if ever thou dar’st acknowledge it, I will make it my quarrel."
+    m:
+      - "Give me some trinket of yours, and I will wear it in my hat. Then, if you dare to acknowledge it, I’ll take up my quarrel with you."
+
+  - sp: WILLIAMS
+    o:
+      - "Here’s my glove. Give me another of thine."
+    m:
+      - "Here’s my glove; give me one of yours."
+
+  - sp: KING HENRY
+    o:
+      - "There."
+    m:
+      - "Here."
+
+  - sp: WILLIAMS
+    o:
+      - "This will I also wear in my cap. If ever thou come to me and say, after tomorrow, “This is my glove,” by this hand I will take thee a box on the ear."
+    m:
+      - "I’ll also wear this in my cap. If you come to me after tomorrow and say, “That’s my glove,” I swear by this hand, I will take it and give you a box on the ear."
+
+  - sp: KING HENRY
+    o:
+      - "If ever I live to see it, I will challenge it."
+    m:
+      - "If I ever see it, I will challenge you."
+
+  - sp: WILLIAMS
+    o:
+      - "Thou dar’st as well be hanged."
+    m:
+      - "You may as well undertake to be hanged."
+
+  - sp: KING HENRY
+    o:
+      - "Well, I will do it, though I take thee in the king’s company."
+    m:
+      - "I’ll do it even if I find you in the company of the king himself."
+
+  - sp: WILLIAMS
+    o:
+      - "Keep thy word. Fare thee well."
+    m:
+      - "Keep your word. Farewell."
+
+  - sp: BATES
+    o:
+      - "Be friends, you English fools, be friends. We have French quarrels enough, if you could tell how to reckon."
+    m:
+      - "Be friends, you English fools, be friends: we have enough enemies on the French side, if either of you could count."
+
+  - sp: KING HENRY
+    o:
+      - "Indeed, the French may lay twenty French crowns to one they will beat us, for they bear them on their shoulders. But it is no English treason to cut French crowns, and tomorrow the king himself will be a clipper."
+    m:
+      - "Indeed, the French can bet twenty French crowns to one that they’ll beat us, they have such an army. But it’s no treason for an Englishman to cut off a French crown—a head, I mean—and tomorrow the king himself will do some snipping."
+
+  - os: "Exeunt soldiers"
+    ms: "BATES, COURT, and WILLIAMS exit."
+
+  - o:
+      - "Upon the king! Let us our lives, our souls, our debts, our careful wives, our children, and our sins lay on the king!"
+      - "We must bear all. O hard condition,"
+      - "Twin-born with greatness, subject to the breath"
+      - "Of every fool, whose sense no more can feel"
+      - "But his own wringing. What infinite heart’s ease"
+      - "Must kings neglect that private men enjoy?"
+      - "And what have kings that privates have not too,"
+      - "Save ceremony, save general ceremony?"
+      - "And what art thou, thou idol ceremony?"
+      - "What kind of god art thou, that suffer’st more"
+      - "Of mortal griefs than do thy worshippers?"
+      - "What are thy rents? What are thy comings in?"
+      - "O ceremony, show me but thy worth!"
+      - "What is thy soul of adoration?"
+      - "Art thou aught else but place, degree, and form,"
+      - "Creating awe and fear in other men,"
+      - "Wherein thou art less happy, being feared,"
+      - "Than they in fearing?"
+      - "What drink’st thou oft, instead of homage sweet,"
+      - "But poisoned flattery? Oh, be sick, great greatness,"
+      - "And bid thy ceremony give thee cure!"
+      - "Think’st thou the fiery fever will go out"
+      - "With titles blown from adulation?"
+      - "Will it give place to flexure and low bending?"
+      - "Canst thou, when thou command’st the beggar’s knee,"
+      - "Command the health of it? No, thou proud dream,"
+      - "That play’st so subtly with a king’s repose."
+      - "I am a king that find thee, and I know"
+      - "’Tis not the balm, the scepter, and the ball,"
+      - "The sword, the mace, the crown imperial,"
+      - "The intertissued robe of gold and pearl,"
+      - "The farcèd title running ’fore the king,"
+      - "The throne he sits on, nor the tide of pomp"
+    m:
+      - "Upon the king! “Let’s lay everything upon the king: our lives, our souls, our debts, our anxious wives, our children, and our sins.” I must bear responsibility for all of it. What a painful condition responsibility is. It goes along with being born to greatness, but it makes you get badmouthed by every fool who only has his own suffering to care about. What infinite peace do king’s give up that private men enjoy? What do kings have that private men do not, besides the pomp of their position? And what is this useless ceremony of kings? What kind of god is ceremony, which suffers more than its worshippers do? What income, what profit does it bring in? Oh, ceremony, only show me your value! Why are you adored? Do you amount to anything besides position, status, and ritual, which inspire awe and fear in others? You’re less happy, being feared, than they are in fearing you. What do you get to drink, instead of sweet obedience, but poisonous flattery? Try being sick, great greatness, and see if ceremony can cure you! Do you think fiery fever can be put out by the windy puff of titles? Will it be chased away by bowing and scraping? You can command a beggar to bow on bended knee, but can you take possession of his health? No, vain illusion, so intricately bound up with a king’s rest. I who understand you, gorgeous ceremony, because I’m a king and I know that neither the balm, the scepter, and the ball, the robe layered in gold and pearls, the fancy title that precedes the king, the throne he sits on, nor the tide of pomp that beats upon the high shore of this world —not all of these put together, not all of these laid down at night in an imperial bed, can cause the king to rest so soundly as does the miserable wretch who turns in at night with a full stomach and an empty mind, fed on the bread of his daily struggle. He never wakes to horrifying darkness, born of hell, but sweats in the hot sun from dawn to"
+
+  - o:
+      - "That beats upon the high shore of this world."
+      - "No, not all these, thrice-gorgeous ceremony,"
+      - "Not all these, laid in bed majestical,"
+      - "Can sleep so soundly as the wretched slave,"
+      - "Who, with a body filled and vacant mind,"
+      - "Gets him to rest, crammed with distressful bread;"
+      - "Never sees horrid night, the child of hell,"
+      - "But, like a lackey, from the rise to set"
+      - "Sweats in the eye of Phoebus, and all night"
+      - "Sleeps in Elysium; next day after dawn,"
+      - "Doth rise and help Hyperion to his horse,"
+      - "And follows so the ever-running year"
+      - "With profitable labor to his grave."
+      - "And, but for ceremony, such a wretch,"
+      - "Winding up days with toil and nights with sleep,"
+      - "Had the forehand and vantage of a king."
+      - "The slave, a member of the country’s peace,"
+      - "Enjoys it, but in gross brain little wots"
+      - "What watch the king keeps to maintain the peace,"
+      - "Whose hours the peasant best advantages."
+    m:
+      - "dusk and all night long sleeps in peace. Come morning, he wakes and helps the sun into his chariot and so wears out the ever-rolling years until his death. Apart from ceremony, this poor creature who spends his days in toil and his nights in sleep is better off than the king. The peasant enjoys his country’s peace without ever worrying his dull head about the vigil the king must keep to maintain that peace."
+
+  - os: "Enter ERPINGHAM"
+    ms: "ERPINGHAM enters."
+
+  - sp: ERPINGHAM
+    o:
+      - "My lord, your nobles, jealous of your absence,"
+      - "Seek through your camp to find you."
+    m:
+      - "My lord, your noble subjects are looking for you all over the camp. They’re anxious to see you."
+
+  - sp: KING HENRY
+    o:
+      - "Good old knight,"
+      - "Collect them all together at my tent."
+      - "I’ll be before thee."
+    m:
+      - "Good old knight, gather them all together at my tent. I’ll meet you there."
+
+  - sp: ERPINGHAM
+    o:
+      - "I shall do’t, my lord."
+    m:
+      - "Consider it done, my lord."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KING HENRY
+    o:
+      - "O God of battles, steel my soldiers’ hearts."
+      - "Possess them not with fear. Take from them now"
+      - "The sense of reck’ning ere th’ opposèd numbers"
+      - "Pluck their hearts from them. Not today, O Lord,"
+      - "Oh, not today, think not upon the fault"
+      - "My father made in compassing the crown."
+      - "I Richard’s body have interrèd anew,"
+      - "And on it have bestowed more contrite tears"
+      - "Than from it issued forcèd drops of blood."
+      - "Five hundred poor I have in yearly pay,"
+      - "Who twice a day their withered hands hold up"
+      - "Toward heaven to pardon blood. And I have built"
+      - "Two chantries where the sad and solemn priests"
+      - "Sing still for Richard’s soul. More will I do—"
+      - "Though all that I can do is nothing worth,"
+      - "Since that my penitence comes after all,"
+      - "Imploring pardon."
+    m:
+      - "Oh God of battles, bolster my soldiers’ courage. Don’t let them know fear. Rob them of the ability to count before the numbers against them overwhelm their courage. And just for today, Oh, Lord, just today don’t think of the crime my father committed in seizing the crown! I’ve transferred Richard’s body to a new grave and on it poured more tears of remorse than it has shed drops of blood. I’ve hired five hundred almsmen to hold up their withered hands to heaven, praying for my pardon twice a day throughout the year. And I’ve built two chapels where solemn priests sing continually for Richard’s soul. I will do more, though nothing I can do is any good since this remorse comes after the crime, asking for pardon."
+
+  - os: "Enter GLOUCESTER"
+    ms: "GLOUCESTER enters."
+
+  - sp: GLOUCESTER
+    o:
+      - "My liege."
+    m:
+      - "My liege."
+
+  - sp: KING HENRY
+    o:
+      - "My brother Gloucester’s voice.—Ay,"
+      - "I know thy errand. I will go with thee."
+      - "The day, my friends, and all things stay for me."
+    m:
+      - "My brother Gloucester’s voice? Yes, I know why you’ve come. I’ll go with you. The day, my friends, and everything await me."
+
+  - os: "Exeunt"
+    ms: "They exit."

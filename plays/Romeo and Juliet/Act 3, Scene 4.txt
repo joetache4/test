@@ -1,0 +1,87 @@
+play: Romeo and Juliet
+title: Act 3, Scene 4
+group: 3
+order: 16
+text:
+  - os: "Enter CAPULET, LADY CAPULET, and PARIS"
+    ms: "Enter CAPULET, LADY CAPULET, and PARIS"
+
+  - sp: CAPULET
+    o:
+      - "Things have fall’n out, sir, so unluckily,"
+      - "That we have had no time to move our daughter."
+      - "Look you, she loved her kinsman Tybalt dearly,"
+      - "And so did I. Well, we were born to die."
+      - "’Tis very late. She’ll not come down tonight."
+      - "I promise you, but for your company,"
+      - "I would have been abed an hour ago."
+    m:
+      - "Things have turned out so unluckily, sir, that we haven’t had time to convince our daughter to marry you. Listen, she loved her cousin Tybalt dearly, and so did I. Well, we were all born to die. It’s very late, she won’t be coming downstairs tonight. Believe me, if you weren’t here visiting me, I myself would have gone to bed an hour ago."
+
+  - sp: PARIS
+    o:
+      - "These times of woe afford no time to woo."
+      - "Madam, good night. Commend me to your daughter."
+    m:
+      - "These times of pain are bad times for romance. Madam, good night. Give my regards to your daughter."
+
+  - sp: LADY CAPULET
+    o:
+      - "I will, and know her mind early tomorrow."
+      - "Tonight she is mewed up to her heaviness."
+    m:
+      - "I will. And I’ll find out what she thinks about marriage early tomorrow. Tonight she is shut up in her room, alone with her sadness."
+
+  - sp: CAPULET
+    o:
+      - "Sir Paris, I will make a desperate tender"
+      - "Of my child’s love. I think she will be ruled"
+      - "In all respects by me. Nay, more, I doubt it not.—"
+      - "Wife, go you to her ere you go to bed."
+      - "Acquaint her here of my son Paris’ love,"
+      - "And bid her, mark you me, on Wednesday next—"
+      - "But, soft! What day is this?"
+    m:
+      - "Sir Paris, I’ll make a desperate argument for my child’s love. I think she’ll do whatever I say. No, I think she’ll do all that and more. I have no doubt about it. Wife, visit her in her room before you go to bed. Tell her about my son Paris’ love for her. And tell her, listen to me, on Wednesday—Wait—What day is today?"
+
+  - sp: PARIS
+    o:
+      - "Monday, my lord."
+    m:
+      - "Monday, my lord."
+
+  - sp: CAPULET
+    o:
+      - "Monday! Ha, ha. Well, Wednesday is too soon,"
+      - "O’ Thursday let it be.—O’ Thursday, tell her,"
+      - "She shall be married to this noble earl.—"
+      - "Will you be ready? Do you like this haste?"
+      - "We’ll keep no great ado, a friend or two."
+      - "For, hark you, Tybalt being slain so late,"
+      - "It may be thought we held him carelessly,"
+      - "Being our kinsman, if we revel much."
+      - "Therefore we’ll have some half a dozen friends,"
+      - "And there an end. But what say you to Thursday?"
+    m:
+      - "Monday! Ha, ha! Well, Wednesday is too soon. Let it be on Thursday. On Thursday, tell her, she’ll be married to this noble earl. Will you be ready? Do you think it’s a good idea to rush? We shouldn’t have too big a celebration—we can invite a friend or two. Listen, because Tybalt was just killed, people might think that we don’t care about his memory as our relative if we have too grand a party. Therefore we’ll have about half a dozen friends to the wedding, and that’s it. What do you think about Thursday?"
+
+  - sp: PARIS
+    o:
+      - "My lord, I would that Thursday were tomorrow."
+    m:
+      - "My lord, I wish Thursday were tomorrow."
+
+  - sp: CAPULET
+    o:
+      - "Well get you gone. O’ Thursday be it, then.—"
+      - "Go you to Juliet ere you go to bed."
+      - "Prepare her, wife, against this wedding day.—"
+      - "Farewell, my lord.—Light to my chamber, ho!"
+      - "Afore me! It is so very late,"
+      - "That we may call it early by and by.—"
+      - "Good night."
+    m:
+      - "Well go on home. Thursday it is, then. *(to LADY CAPULET)* Visit Juliet before you go to bed. Get her ready, my wife, for this wedding day. *(to PARIS)* Farewell, my lord. Now I’m off to bed. Oh my! It’s so late that we might as well call it early. Good night."
+
+  - os: "Exeunt"
+    ms: "They all exit."

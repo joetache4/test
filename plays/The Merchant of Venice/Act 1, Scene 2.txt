@@ -1,0 +1,193 @@
+play: The Merchant of Venice
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter PORTIA and NERISSA"
+    ms: "PORTIA and NERISSA enter."
+
+  - sp: PORTIA
+    o:
+      - "By my troth, Nerissa, my little body is aweary of this great world."
+    m:
+      - "Oh Nerissa, my poor little body is tired of this great big world."
+
+  - sp: NERISSA
+    o:
+      - "You would be, sweet madam, if your miseries were in the same abundance as your good fortunes are. And yet for aught I see, they are as sick that surfeit with too much as they that starve with nothing. It is no mean happiness, therefore, to be seated in the mean. Superfluity comes sooner by white hairs, but competency lives longer."
+    m:
+      - "You’d be tired, madam, if you had bad luck rather than wealth and good luck. But as far as I can tell, people with too much suffer as much as people with nothing. The best way to be happy is to be in between. When you have too much you get old sooner, but having just enough helps you live longer."
+
+  - sp: PORTIA
+    o:
+      - "Good sentences, and well pronounced."
+    m:
+      - "Good point, and well said."
+
+  - sp: NERISSA
+    o:
+      - "They would be better if well followed."
+    m:
+      - "It would be better if you actually applied it to your life."
+
+  - sp: PORTIA
+    o:
+      - "If to do were as easy as to know what were good to do, chapels had been churches and poor men’s cottages princes’ palaces. It is a good divine that follows his own instructions. I can easier teach twenty what were good to be done than be one of the twenty to follow mine own teaching. The brain may devise laws for the blood, but a hot temper leaps o’er a cold decree. Such a hare is madness the youth—to skip o’er the meshes of good counsel the cripple. But this reasoning is not in the fashion to choose me a husband. O me, the word “choose!” I may neither choose whom I would nor refuse whom I dislike—so is the will of a living daughter curbed by the will of a dead father. Is it not hard, Nerissa, that I cannot choose one nor refuse none?"
+    m:
+      - "You think it’s that easy? If doing good deeds were as easy as knowing how to do them, then everyone would be better off. Small chapels would be big churches, and poor men’s cottages would be princes’ palaces. It takes a good priest to practice what he preaches. For me, it’s easier to lecture twenty people on how to be good than to be the one person out of twenty who actually does good things. The brain can tell the heart what to do, but what does it matter? Cold rules don’t matter when you’ve got a hot temper. Young people are like frisky young rabbits, and good advice is like a crippled old man trying to catch them. But thinking like this won’t help me choose a husband. Oh, the word “choose” is strange! I can’t choose who I like, or refuse who I dislike. I’m a living daughter still controlled by the wishes of her dead father. Isn’t it a pain that I can’t choose or refuse anyone, Nerissa?"
+
+  - sp: NERISSA
+    o:
+      - "Your father was ever virtuous, and holy men at their death have good inspirations. Therefore the lottery that he hath devised in these three chests of gold, silver, and lead, whereof who chooses his meaning chooses you, will no doubt never be chosen by any rightly but one who shall rightly love. But what warmth is there in your affection towards any of these princely suitors that are already come?"
+    m:
+      - "Your father was an extremely moral man, and religious people get odd ideas on their deathbeds. Your father’s idea was to have a game with three boxes. The suitor who can figure out whether to pick the gold, silver, or lead box will solve your father’s riddle—and that suitor’s the man for you. No one will ever choose the right box who doesn’t deserve your love. But tell me. Do you like any of the princely suitors who’ve come?"
+
+  - sp: PORTIA
+    o:
+      - "I pray thee, overname them. And as thou namest them, I will describe them. And according to my description, level at my affection."
+    m:
+      - "Run through the list. As you name them I’ll describe them for you, and from my descriptions you can guess how I feel toward them."
+
+  - sp: NERISSA
+    o:
+      - "First, there is the Neapolitan prince."
+    m:
+      - "Well, first there was the prince from Naples."
+
+  - sp: PORTIA
+    o:
+      - "Ay, that’s a colt indeed, for he doth nothing but talk of his horse, and he makes it a great appropriation to his own good parts that he can shoe him himself. I am much afeard my lady his mother played false with a smith."
+    m:
+      - "Ah, yes, that stallion. All he talks about is his horse. He thinks it’s a great credit to his character that he can shoe a horse all by himself. I’m afraid his mother may have had an affair with a blacksmith."
+
+  - sp: NERISSA
+    o:
+      - "Then there is the County Palatine."
+    m:
+      - "Then there’s the Count Palatine."
+
+  - sp: PORTIA
+    o:
+      - "He doth nothing but frown, as who should say, “An you will not have me, choose.” He hears merry tales and smiles not. I fear he will prove the weeping philosopher when he grows old, being so full of unmannerly sadness in his youth. I had rather be married to a death’s-head with a bone in his mouth than to either of these. God defend me from these two!"
+    m:
+      - "He does nothing but frown, as if he wants to say, “If you don’t want me, I don’t care.” He doesn’t even smile when he hears funny stories. If he’s so sad and solemn when he’s young, I can only imagine how much he’ll cry as an old man. No, I’d rather be married to a skull with a bone in its mouth than to either of those men. God protect me from these two!"
+
+  - sp: NERISSA
+    o:
+      - "How say you by the French lord, Monsieur le Bon?"
+    m:
+      - "What did you think about that French lord, Monsieur le Bon?"
+
+  - sp: PORTIA
+    o:
+      - "God made him and therefore let him pass for a man. In truth, I know it is a sin to be a mocker, but he!—why, he hath a horse better than the Neapolitan’s, a better bad habit of frowning than the Count Palatine. He is every man in no man. If a throstle sing, he falls straight a- capering. He will fence with his own shadow. If I should marry him, I should marry twenty husbands. If he would despise me I would forgive him, for if he love me to madness I shall never requite him."
+    m:
+      - "We might as well call him a man, since God created him. No, I know it’s bad to make fun of people, but still! His horse is better than the Neapolitan’s and he frowns more than the Count Palatine. He was trying to outdo everyone so much that you couldn’t tell who he was. He started dancing every time a bird sang, and he was so eager to show off his fencing that he’d fight with his own shadow. If I married him, I might as well as marry twenty husbands, because he’s like twenty men all rolled into one! I’d understand it if he hated me, since even if he loved me desperately, I’d never be able to love him back."
+
+  - sp: NERISSA
+    o:
+      - "What say you then to Falconbridge, the young baron of"
+      - "England?"
+    m:
+      - "What about Falconbridge, that young English baron?"
+
+  - sp: PORTIA
+    o:
+      - "You know I say nothing to him, for he understands not me, nor I him. He hath neither Latin, French, nor Italian, and you will come into the court and swear that I have a poor pennyworth in the English. He is a proper man’s picture, but alas, who can converse with a dumb show? How oddly he is suited! I think he bought his doublet in Italy, his round hose in France, his bonnet in Germany, and his behavior everywhere."
+    m:
+      - "I have no opinion about him. We don’t talk because we don’t understand each other. He doesn’t speak Latin, French, or Italian, and you know how little English I speak. He’s great-looking, but how can you talk to someone who doesn’t speak your language? He was dressed so oddly too! I think he got his jacket in Italy, his tights in France, his hat in Germany, and his behavior everywhere."
+
+  - sp: NERISSA
+    o:
+      - "What think you of the Scottish lord, his neighbor?"
+    m:
+      - "What do you think of his neighbor, the Scottish lord?"
+
+  - sp: PORTIA
+    o:
+      - "That he hath a neighborly charity in him, for he borrowed a box of the ear of the Englishman and swore he would pay him again when he was able. I think the Frenchman became his surety and sealed under for another."
+    m:
+      - "I think he’s very forgiving, since he let the Englishman slap him on the ear without hitting him back. Rather than defend himself, he just threatened to pay the Englishman back later. Then the Frenchman promised to help the Scot pay the Englishman back, and added a slap of his own."
+
+  - sp: NERISSA
+    o:
+      - "How like you the young German, the Duke of Saxony’s nephew?"
+    m:
+      - "How did you like the young German, the duke of Saxony’s nephew?"
+
+  - sp: PORTIA
+    o:
+      - "Very vilely in the morning, when he is sober, and most vilely in the afternoon, when he is drunk. When he is best he is a little worse than a man, and when he is worst he is little better than a beast. And the worst fall that ever fell, I hope I shall make shift to go without him."
+    m:
+      - "He’s pretty awful in the morning when he’s sobering up, and even worse in the afternoon when he’s drunk. At his best he’s a little less than a man, and at his worst he’s little more than an animal. If we got married and he tragically met his demise, I’m sure I could find a way to go on without him."
+
+  - sp: NERISSA
+    o:
+      - "If he should offer to choose and choose the right casket, you should refuse to perform your father’s will if you should refuse to accept him."
+    m:
+      - "If he offers to play the game and chooses the right box, but then you reject him, you’ll be disobeying your father’s last wishes."
+
+  - sp: PORTIA
+    o:
+      - "Therefore, for fear of the worst, I pray thee, set a deep glass of rhenish wine on the contrary casket, for if the devil be within and that temptation without, I know he will choose it. I will do any thing, Nerissa, ere I’ll be married to a sponge."
+    m:
+      - "I know. So please put a nice big glass of white wine on the wrong box. I know he’ll get tempted and choose that one. I’ll do anything rather than marry a drunk, Nerissa."
+
+  - sp: NERISSA
+    o:
+      - "You need not fear, lady, the having any of these lords. They have acquainted me with their determinations, which is indeed to return to their home and to trouble you with no more suit unless you may be won by some other sort than your father’s imposition depending on the caskets."
+    m:
+      - "You don’t have to worry about any of these lords, my lady. They’ve all told me what they want, which is to go back home and give up on you—unless there was some other way to win you than your father’s pick-the-box test."
+
+  - sp: PORTIA
+    o:
+      - "If I live to be as old as Sibylla, I will die as chaste as Diana unless I be obtained by the manner of my father’s will. I am glad this parcel of wooers are so reasonable, for there is not one among them but I dote on his very absence. And I pray God grant them a fair departure."
+    m:
+      - "I’ll die an old maid unless I can be won according to the rules set by my father’s will. I’m glad these suitors are sensible enough to stay away. The only thing I like about them is that they’re not there. I wish them all safe trips home."
+
+  - sp: NERISSA
+    o:
+      - "Do you not remember, lady, in your father’s time a Venetian, a scholar and a soldier, that came hither in company of the Marquess of Montferrat?"
+    m:
+      - "Do you remember a Venetian scholar and soldier who accompanied the marquess of Montferrat here once when your father was still alive?"
+
+  - sp: PORTIA
+    o:
+      - "Yes, yes, it was Bassanio—as I think he was so called."
+    m:
+      - "Yes, yes, that was Bassanio. I think that was his name."
+
+  - sp: NERISSA
+    o:
+      - "True, madam. He, of all the men that ever my foolish eyes looked upon, was the best deserving a fair lady."
+    m:
+      - "Yes, madam, that’s the one. He deserves a beautiful wife more than all the other men I’ve ever seen."
+
+  - sp: PORTIA
+    o:
+      - "I remember him well, and I remember him worthy of thy praise."
+    m:
+      - "I remember him well, and my memory tells me that he deserves your praise."
+
+  - os: "Enter a SERVINGMAN"
+    ms: "A SERVANT enters."
+
+  - o:
+      - "How now, what news?"
+    m:
+      - "Hello, do you have any news?"
+
+  - sp: SERVINGMAN
+    o:
+      - "The four strangers seek for you, madam, to take their leave. And there is a forerunner come from a fifth, the Prince of Morocco, who brings word the prince his master will be here tonight."
+    m:
+      - "The four suitors are looking for you so they can say goodbye, madam. And there’s a messenger representing a fifth one, the prince of Morocco, who says the prince will be here tonight."
+
+  - sp: PORTIA
+    o:
+      - "If I could bid the fifth welcome with so good a heart as I can bid the other four farewell, I should be glad of his approach. If he have the condition of a saint and the complexion of a devil, I had rather he should shrive me than wive me. Come, Nerissa.—*(to SERVANT)* Sirrah, go before. Whiles we shut the gates upon one wooer Another knocks at the door."
+    m:
+      - "If I could say hello to the fifth one as happily as I’ll say goodbye to the first four, I’d be very happy he’s coming. If he’s as good as a saint but is black like a devil, I’d rather he hear my confession than marry me. Let’s go, Nerissa.—*(to the SERVANT)* Go ahead. As soon as we shut the door on one suitor, another one starts knocking."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,617 @@
+play: The Comedy of Errors
+title: Act 4, Scene 4
+group: 4
+order: 9
+text:
+  - os: "Enter ANTIPHOLUS OF EPHESUS and the OFFICER"
+    ms: "ANTIPHOLUS OF EPHESUS enters with the OFFICER."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Fear me not, man. I will not break away:"
+      - "I’ll give thee, ere I leave thee, so much money,"
+      - "To warrant thee, as I am ’rested for."
+      - "My wife is in a wayward mood today"
+      - "And will not lightly trust the messenger"
+      - "That I should be attached in Ephesus."
+      - "I tell you, ’twill sound harshly in her ears."
+    m:
+      - "Don’t worry, man, I won’t try to escape. When it’s time for me to be freed, I’ll pay you the fee you’re entitled to for arresting me. My wife’s in a perverse mood today. She’ll be suspicious when the messenger tells her that I was arrested. I tell you, this will make her angry when she hears about it."
+
+  - os: "Enter DROMIO OF EPHESUS with a rope’s end"
+    ms: "DROMIO OF EPHESUS enters, holding a length of rope."
+
+  - o:
+      - "Here comes my man. I think he brings the money."
+      - "How now, sir? Have you that I sent you for?"
+    m:
+      - "Here’s my servant. I think he’s got the money. Hello there, sir! Do you have what I told you to get?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Here’s that, I warrant you, will pay them all."
+    m:
+      - "Yes. And this rope will take care of everybody, I guarantee it."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "But where’s the money?"
+    m:
+      - "But where’s the money?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Why, sir, I gave the money for the rope."
+    m:
+      - "Why, sir, I spent it on this rope."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Five hundred ducats, villain, for a rope?"
+    m:
+      - "You idiot! Five hundred ducats for a rope?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "I’ll serve you, sir, five hundred at the rate."
+    m:
+      - "I can get you five hundred ropes for that price."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "To what end did I bid thee hie thee home?"
+    m:
+      - "Why did I just send you home?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "To a rope’s end, sir, and to that end am I returned."
+    m:
+      - "To get a piece of rope. And here I am, with that piece."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "And to that end, sir, I will welcome you. *(beats DROMIO OF EPHESUS)*"
+    m:
+      - "And I’ll use that piece of rope to welcome you with. *(beats DROMIO OF EPHESUS)*"
+
+  - sp: OFFICER
+    o:
+      - "Good sir, be patient."
+    m:
+      - "Good sir, calm down."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Nay, ’tis for me to be patient. I am in adversity."
+    m:
+      - "You should tell me to calm down—I’m the one who’s suffering here."
+
+  - sp: OFFICER
+    o:
+      - "Good now, hold thy tongue."
+    m:
+      - "Hold your tongue."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Nay, rather persuade him to hold his hands."
+    m:
+      - "No, you should tell him to hold his hands!"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Thou whoreson, senseless villain."
+    m:
+      - "You son of a bitch, senseless villain!"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "I would I were senseless, sir, that I might not feel your blows."
+    m:
+      - "I wish I were senseless, sir, so that I wouldn’t feel your punches!"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Thou art sensible in nothing but blows, and so is an ass."
+    m:
+      - "The only thing you can sense are punches—just like an ass."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "I am an ass, indeed; you may prove it by my long ears.—I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold, he heats me with beating; when I am warm, he cools me with beating. I am waked with it when I sleep, raised with it when I sit, driven out of doors with it when I go from home, welcomed home with it when I return. Nay, I bear it on my shoulders as a beggar wont her brat, and I think when he hath lamed me, I shall beg with it from door to door."
+    m:
+      - "I am an ass, indeed: you can tell by my long ears. I’ve served this man from the moment I was born until this very instant, and all I’ve ever gotten from him are bruises. When I’m cold, his beatings keep me warm. When I’m hot, they keep me cool. He wakes me up by beating me, makes me stand by beating me, sends me out of the house and welcomes me back by beating me. Seriously, I carry beatings around with me like a beggar woman carries her baby. I figure that once he’s crippled me, I’ll beg by showing off my beatings."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Come, go along. My wife is coming yonder."
+    m:
+      - "That’s enough. My wife’s coming."
+
+  - os: "Enter ADRIANA, LUCIANA, the COURTESAN and a schoolmaster called PINCH"
+    ms: "ADRIANA, LUCIANA, the COURTESAN, and PINCH, a schoolmaster, enter."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Mistress, *respice finem,* respect your end, or rather, the prophecy like the parrot, “Beware the rope’s end.”"
+    m:
+      - "Mistress, think about your end—beware of your death! Or as the parrot says: “Beware of the rope’s end,” and watch out for a hanging."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Wilt thou still talk? *(beats DROMIO OF EPHESUS)*"
+    m:
+      - "Are you going to keep talking? *(beats DROMIO OF EPHESUS)*"
+
+  - sp: COURTESAN
+    o:
+      - "How say you now? Is not your husband mad?"
+    m:
+      - "Now what do you think? Your husband’s mad, isn’t he?"
+
+  - sp: ADRIANA
+    o:
+      - "His incivility confirms no less.—"
+      - "Good Doctor Pinch, you are a conjurer;"
+      - "Establish him in his true sense again,"
+      - "And I will please you what you will demand."
+    m:
+      - "This terrible behavior proves it. Doctor Pinch, you’re an exorcist. If you can bring him back to his senses, I’ll pay you whatever you demand."
+
+  - sp: LUCIANA
+    o:
+      - "Alas, how fiery and how sharp he looks!"
+    m:
+      - "Alas, how passionate and angry he looks!"
+
+  - sp: COURTESAN
+    o:
+      - "Mark how he trembles in his ecstasy."
+    m:
+      - "Look! He’s trembling in his fit!"
+
+  - sp: PINCH
+    o:
+      - "Give me your hand, and let me feel your pulse."
+    m:
+      - "Give me your hand. Let me take your pulse."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "There is my hand, and let it feel your ear. *(strikes PINCH)*"
+    m:
+      - "Here’s my hand. Let it feel your ear. *(he strikes PINCH)*"
+
+  - sp: PINCH
+    o:
+      - "I charge thee, Satan, housed within this man,"
+      - "To yield possession to my holy prayers"
+      - "And to thy state of darkness hie thee straight."
+      - "I conjure thee by all the saints in heaven."
+    m:
+      - "Satan! You are living inside this man! I order you to release him through my prayers and to return immediately to the darkness you came from. I demand this in the name of all the saints in heaven."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Peace, doting wizard, peace. I am not mad."
+    m:
+      - "Shut up, you doddering old wizard! I’m not possessed!"
+
+  - sp: ADRIANA
+    o:
+      - "O, that thou wert not, poor distressèd soul!"
+    m:
+      - "Oh, I wish you weren’t, you poor, frightened soul."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "You minion, you, are these your customers?"
+      - "Did this companion with the saffron face"
+      - "Revel and feast it at my house today"
+      - "Whilst upon me the guilty doors were shut"
+      - "And I denied to enter in my house?"
+    m:
+      - "Listen, hussy—is this man one of your customers? Did this fool with the yellow face feast and celebrate in my house today while the guilty doors shut in my face and locked me out of my own house?"
+
+  - sp: ADRIANA
+    o:
+      - "O husband, God doth know you dined at home,"
+      - "Where would you had remained until this time,"
+      - "Free from these slanders and this open shame."
+    m:
+      - "Oh, husband, God himself knows you ate at home. I wish you had stayed there, avoiding these scandals and this public embarrassment!"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "“Dined at home”? Thou villain, what sayest thou?"
+    m:
+      - "Ate at home? You there, rogue, what do you have to say about that?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Sir, sooth to say, you did not dine at home."
+    m:
+      - "I swear, sir, you did not eat at home."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Were not my doors locked up and I shut out?"
+    m:
+      - "My doors were locked and I was shut out, right?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Perdie, your doors were locked, and you shut out."
+    m:
+      - "By God, your doors were locked and you were shut out."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "And did not she herself revile me there?"
+    m:
+      - "And she screamed at me, right?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Sans fable, she herself reviled you there."
+    m:
+      - "No lie—she screamed at you."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Did not her kitchen maid rail, taunt, and scorn me?"
+    m:
+      - "And her cook yelled, mocked, and teased me, right?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Certes, she did; the kitchen vestal scorned you."
+    m:
+      - "She sure did. The kitchen girl mocked you."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "And did not I in rage depart from thence?"
+    m:
+      - "And I departed in a rage, right?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "In verity you did.—My bones bear witness,"
+      - "That since have felt the vigour of his rage."
+    m:
+      - "You truly did. My body can prove it because it felt the power of your anger."
+
+  - sp: ADRIANA
+    o:
+      - "*(to PINCH)* Is’t good to soothe him in these contraries?"
+    m:
+      - "*(to PINCH)* Should I try to soothe him by pretending to agree with his lies?"
+
+  - sp: PINCH
+    o:
+      - "It is no shame. The fellow finds his vein"
+      - "And, yielding to him, humors well his frenzy."
+    m:
+      - "Good idea. His servant here has figured out that agreeing is a good way to cope with his anger."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "*(to ADRIANA)* Thou hast suborned the goldsmith to arrest me."
+    m:
+      - "*(to ADRIANA)* You convinced the jeweler to arrest me."
+
+  - sp: ADRIANA
+    o:
+      - "Alas, I sent you money to redeem you"
+      - "By Dromio here, who came in haste for it."
+    m:
+      - "For goodness sake, I sent money to bail you out. I gave it to Dromio, who rushed in for it."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Money by me! heart and goodwill you might,"
+      - "But surely, master, not a rag of money."
+    m:
+      - "You gave money to me? She might have given me her best wishes, master, but she didn’t give me one scrap of money."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Went’st not thou to her for a purse of ducats?"
+    m:
+      - "Didn’t you go to her for a purse full of ducats?"
+
+  - sp: ADRIANA
+    o:
+      - "He came to me, and I delivered it."
+    m:
+      - "He did, and I gave it to him."
+
+  - sp: LUCIANA
+    o:
+      - "And I am witness with her that she did."
+    m:
+      - "And I saw her do it."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "God and the rope-maker bear me witness"
+      - "That I was sent for nothing but a rope."
+    m:
+      - "I was sent for a rope! God and the rope maker are my witnesses!"
+
+  - sp: PINCH
+    o:
+      - "Mistress, both man and master is possessed."
+      - "I know it by their pale and deadly looks."
+      - "They must be bound and laid in some dark room."
+    m:
+      - "Mistress, both the man and his master are possessed. I can tell by how pale and deathlike they look. We must tie them up and leave them in some dark room."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "*(to ADRIANA)* Say wherefore didst thou lock me forth today."
+      - "*(to DROMIO OF EPHESUS)* And why dost thou deny the bag of gold?"
+    m:
+      - "*(to ADRIANA)* Tell me! Why did you lock me out today? *(to DROMIO OF EPHESUS)* And why are you denying that you received the gold?"
+
+  - sp: ADRIANA
+    o:
+      - "I did not, gentle husband, lock thee forth."
+    m:
+      - "My sweet husband, I did not lock you out."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "And, gentle master, I received no gold."
+      - "But I confess, sir, that we were locked out."
+    m:
+      - "And my sweet master, I received no gold. But I agree, sir, that we were locked out."
+
+  - sp: ADRIANA
+    o:
+      - "Dissembling villain, thou speak’st false in both."
+    m:
+      - "You lying villain! Both those statements are false."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Dissembling harlot, thou art false in all,"
+      - "And art confederate with a damnèd pack"
+      - "To make a loathsome abject scorn of me."
+      - "But with these nails I’ll pluck out these false eyes"
+      - "That would behold in me this shameful sport."
+    m:
+      - "You lying slut, everything you say is false. You’re scheming with some damned gang, trying to make a fool of me. With my own bare hands, I’ll scratch out your eyes, which want to see me humiliated."
+
+  - os: "Enter three or four, and offer to bind him. He strives."
+    ms: "Three or four men enter and try to restrain ANTIPHOLUS OF EPHESUS. He struggles with them."
+
+  - sp: ADRIANA
+    o:
+      - "O bind him, bind him! Let him not come near me."
+    m:
+      - "Tie him up! Tie him up! Keep him away from me!"
+
+  - sp: PINCH
+    o:
+      - "More company! The fiend is strong within him."
+    m:
+      - "We need more help! The devil in him is strong!"
+
+  - sp: LUCIANA
+    o:
+      - "Ay me, poor man, how pale and wan he looks!"
+    m:
+      - "Oh, my, poor man! How pale and listless he looks!"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "What, will you murder me?—Thou jailer, thou,"
+      - "I am thy prisoner. Wilt thou suffer them"
+      - "To make a rescue?"
+    m:
+      - "Are you trying to kill me? jailer, i’m your prisoner. are you going to let them break me out of jail?"
+
+  - sp: OFFICER
+    o:
+      - "  Masters, let him go."
+      - "He is my prisoner, and you shall not have him."
+    m:
+      - "Gentlemen, let go of him. He’s my prisoner and you can’t have him."
+
+  - sp: PINCH
+    o:
+      - "Go, bind this man, for he is frantic too."
+    m:
+      - "Tie up the servant, for he is mad as well."
+
+  - os: "They bind DROMIO OF EPHESUS"
+    ms: "The men tie up DROMIO OF EPHESUS."
+
+  - sp: ADRIANA
+    o:
+      - "What wilt thou do, thou peevish officer?"
+      - "Hast thou delight to see a wretched man"
+      - "Do outrage and displeasure to himself?"
+    m:
+      - "What are you doing, you stupid officer? Do you take some kind of pleasure in seeing a sick man harm himself?"
+
+  - sp: OFFICER
+    o:
+      - "He is my prisoner. If I let him go,"
+      - "The debt he owes will be required of me."
+    m:
+      - "He’s my prisoner. If I let him go, I’ll have to pay his bail fees myself."
+
+  - sp: ADRIANA
+    o:
+      - "I will discharge thee ere I go from thee."
+      - "Bear me forthwith unto his creditor,"
+      - "And, knowing how the debt grows, I will pay it.—"
+      - "Good Master Doctor, see him safe conveyed"
+      - "Home to my house. O most unhappy day!"
+    m:
+      - "I’ll pay you. Take me to the man my husband is in debt to. Once I find out what the debt is for, I’ll pay it. Doctor Pinch, please have him brought to my house. What a horrible day!"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "O most unhappy strumpet!"
+    m:
+      - "What a horrible slut!"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Master, I am here entered in bond for you."
+    m:
+      - "Master, I’m all tied up for you."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Out on thee, villain! Wherefore dost thou mad me?"
+    m:
+      - "Shut up already, you scoundrel! Why are you trying to provoke me?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Will you be bound for nothing? Be mad, good master."
+      - "Cry “The devil!”"
+    m:
+      - "You’d rather be tied up for nothing? Act insane, good master: scream out, “The devil!”"
+
+  - sp: LUCIANA
+    o:
+      - "God help poor souls! How idly do they talk!"
+    m:
+      - "Oh my God! The poor souls—how strangely they talk!"
+
+  - sp: ADRIANA
+    o:
+      - "Go bear him hence Sister, go you with me."
+    m:
+      - "Get him out of here. Sister, come with me."
+
+  - os: "Exeunt PINCH and the men, with ANTIPHOLUS OF EPHESUS and DROMIO OF EPHESUS"
+    ms: "PINCH and the men lead ANTIPHOLUS OF EPHESUS and DROMIO OF EPHESUS offstage."
+
+  - os: "Manent OFFICER, ADRIANA, LUCIANA, COURTESAN"
+    ms: "The OFFICER, ADRIANA, LUCIANA, and the COURTESAN remain onstage."
+
+  - o:
+      - "Say now whose suit is he arrested at."
+    m:
+      - "Now tell me. Who had him arrested?"
+
+  - sp: OFFICER
+    o:
+      - "One Angelo, a goldsmith. Do you know him?"
+    m:
+      - "Angelo, the jeweler. Do you know him?"
+
+  - sp: ADRIANA
+    o:
+      - "I know the man. What is the sum he owes?"
+    m:
+      - "I know him. How much does my husband owe?"
+
+  - sp: OFFICER
+    o:
+      - "Two hundred ducats."
+    m:
+      - "Two hundred ducats."
+
+  - sp: ADRIANA
+    o:
+      - "  Say, how grows it due?"
+    m:
+      - "For what?"
+
+  - sp: OFFICER
+    o:
+      - "Due for a chain your husband had of him."
+    m:
+      - "For a necklace your husband had him make."
+
+  - sp: ADRIANA
+    o:
+      - "He did bespeak a chain for me but had it not."
+    m:
+      - "He said he was going to buy me a necklace, but I never saw it."
+
+  - sp: COURTESAN
+    o:
+      - "Whenas your husband all in rage today"
+      - "Came to my house and took away my ring,"
+      - "The ring I saw upon his finger now,"
+      - "Straight after did I meet him with a chain."
+    m:
+      - "Today your husband came to my place, completely furious. He took my ring, which I just saw on his finger, by the way. Right after that, I saw him with a necklace."
+
+  - sp: ADRIANA
+    o:
+      - "It may be so, but I did never see it.—"
+      - "Come, jailer, bring me where the goldsmith is."
+      - "I long to know the truth hereof at large."
+    m:
+      - "Maybe so, but I never saw it. Jailer, bring me to the jeweler. I need to hear the truth about all this."
+
+  - os: "Enter ANTIPHOLUS OF SYRACUSE with his rapier drawn and DROMIO OF SYRACUSE"
+    ms: "ANTIPHOLUS OF SYRACUSE enters with his sword drawn, followed by DROMIO OF SYRACUSE"
+
+  - sp: LUCIANA
+    o:
+      - "God for Thy mercy, they are loose again!"
+    m:
+      - "God have mercy on us! They broke loose!"
+
+  - sp: ADRIANA
+    o:
+      - "And come with naked swords. Let’s call more help"
+      - "To have them bound again."
+    m:
+      - "And they’ve got their swords unsheathed! Let’s call for help and get them tied up again!"
+
+  - sp: OFFICER
+    o:
+      - "  Away! They’ll kill us."
+    m:
+      - "Let’s get out of here! They’ll kill us!"
+
+  - os: "Run all out as fast as may be, frighted."
+    ms: "Frightened, ADRIANA, LUCIANA,the OFFICER, and the COURTESAN run offstage as fast as they can."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I see these witches are afraid of swords."
+    m:
+      - "It looks like these witches are scared of swords."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "She that would be your wife now ran from you."
+    m:
+      - "The one who claims to be your wife just ran away from you."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Come to the Centaur. Fetch our stuff from thence."
+      - "I long that we were safe and sound aboard."
+    m:
+      - "Go to the Centaur and get our stuff. I wish we were safely on board our ship already."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Faith, stay here this night. They will surely do us no harm. You saw they speak us fair, give us gold. Methinks they are such a gentle nation that, but for the mountain of mad flesh that claims marriage of me, i could find in my heart to stay here still, and turn witch."
+    m:
+      - "Look, let’s stay here tonight. Nobody will hurt us. You see how kind everyone is to us, how they just hand us gold. I think this country is so kind that if it weren’t for that mountain of insanity that wants to marry me, I could find it in my heart to stay here and become a witch myself."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I will not stay tonight for all the town."
+      - "Therefore away, to get our stuff aboard."
+    m:
+      - "I wouldn’t stay here tonight for the entire town. Go and get our stuff onto the ship."
+
+  - os: "Exeunt"
+    ms: "They exit."

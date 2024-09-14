@@ -1,0 +1,76 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 4
+group: 3
+order: 15
+text:
+  - os: "Enter ANTONY and OCTAVIA"
+    ms: "ANTONY and OCTAVIA enter."
+
+  - sp: ANTONY
+    o:
+      - "Nay, nay, Octavia, not only that—"
+      - "That were excusable, that and thousands more"
+      - "Of semblable import—but he hath waged"
+      - "New wars ’gainst Pompey; made his will, and read it"
+      - "To public ear;"
+      - "Spoke scantly of me; when perforce he could not"
+      - "But pay me terms of honor, cold and sickly"
+      - "He vented them, most narrow measure lent me."
+      - "When the best hint was given him, he not took ’t,"
+      - "Or did it from his teeth."
+    m:
+      - "No, no, Octavia, it’s not only that. That would be excusable—that and a thousand other offenses like it. But Caesar has gone and waged a new war against Pompey. He made his will and read it in a public assembly. He hardly refers to me at all, though official decisions are supposed to be made jointly. When he can’t avoid mentioning my services to the state, he minimizes them as much as possible. When situations arise when it would be natural to emphasize my due credit, he either ignores them or only pays me lip service."
+
+  - sp: OCTAVIA
+    o:
+      - "    O my good lord,"
+      - "Believe not all, or, if you must believe,"
+      - "Stomach not all. A more unhappy lady,"
+      - "If this division chance, ne’er stood between,"
+      - "Praying for both parts."
+      - "The good gods will mock me presently,"
+      - "When I shall pray “O bless my lord and husband!”"
+      - "Undo that prayer by crying out as loud"
+      - "“O bless my brother!” Husband win, win brother"
+      - "Prays and destroys the prayer; no midway"
+      - "’Twixt these extremes at all."
+    m:
+      - "Oh, dear husband, don’t believe everything you hear—or if you must believe it, don’t let it all make you angry. No lady could be more miserable than I if you two disagree. I’ll be left in the middle, praying for both sides. The good gods will laugh at me when on the one hand I pray for my husband and on the other for my brother. “Let my husband win!” “Let my brother win!” One prayer cancels out the other. There’s no middle ground between these two extremes."
+
+  - sp: ANTONY
+    o:
+      - "    Gentle Octavia,"
+      - "Let your best love draw to that point which seeks"
+      - "Best to preserve it. If I lose mine honor,"
+      - "I lose myself; better I were not yours"
+      - "Than yours so branchless. But, as you requested,"
+      - "Yourself shall go between ’s. The meantime, lady,"
+      - "I’ll raise the preparation of a war"
+      - "Shall stain your brother. Make your soonest haste;"
+      - "So your desires are yours."
+    m:
+      - "Gentle Octavia, support the one that supports you. If I’m defeated, I lose my reputation. If I lose my reputation, I lose myself. It would be better for you to have no husband than a husband who lacks honor. However, as you requested, you may go and try to negotiate with your brother. In the meantime, I’ll raise an army that will surpass his. Go as soon as possible, so your prayers may be answered the sooner."
+
+  - sp: OCTAVIA
+    o:
+      - "    Thanks to my lord."
+      - "The Jove of power make me most weak, most weak,"
+      - "Your reconciler! Wars ’twixt you twain would be"
+      - "As if the world should cleave, and that slain men"
+      - "Should solder up the rift."
+    m:
+      - "Thank you, my lord. May the god of power make me, the weakest of the weak, your mediator. A war between you two would split the very world, and the bodies of your slaughtered soldiers would have to fill the chasm between."
+
+  - sp: ANTONY
+    o:
+      - "When it appears to you where this begins,"
+      - "Turn your displeasure that way, for our faults"
+      - "Can never be so equal that your love"
+      - "Can equally move with them. Provide your going;"
+      - "Choose your own company and command what cost"
+      - "Your heart has mind to."
+    m:
+      - "When you find out who started this disagreement, turn your anger upon them. Our faults can’t be so alike that you would judge us similarly. Order supplies for your trip and choose your traveling companions. Spend as much as you like."
+
+  - os: "Exeunt"
+    ms: "They exit."

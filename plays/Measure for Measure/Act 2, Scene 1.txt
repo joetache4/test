@@ -1,0 +1,897 @@
+play: Measure for Measure
+title: Act 2, Scene 1
+group: 2
+order: 4
+text:
+  - os: "A hall in ANGELO’s house."
+    ms: "A hall in ANGELO’s house."
+
+  - os: "Enter ANGELO, ESCALUS, and a Justice, Provost, Officers, and other Attendants, behind"
+    ms: "ANGELO and ESCALUS enter, followed by a justice, the Provost, officers, and other attendants."
+
+  - sp: ANGELO
+    o:
+      - "We must not make a scarecrow of the law,"
+      - "Setting it up to fear the birds of prey,"
+      - "And let it keep one shape, till custom make it"
+      - "Their perch and not their terror."
+    m:
+      - "We mustn’t let the law turn into a scarecrow—something you set up to scare away birds of prey but then never change, until the birds get so used to it that they sit on it rather than fear it."
+
+  - sp: ESCALUS
+    o:
+      - "Ay, but yet"
+      - "Let us be keen, and rather cut a little,"
+      - "Than fall, and bruise to death. Alas, this gentleman"
+      - "Whom I would save had a most noble father!"
+      - "Let but your honour know,"
+      - "Whom I believe to be most strait in virtue,"
+      - "That, in the working of your own affections,"
+      - "Had time cohered with place or place with wishing,"
+      - "Or that the resolute acting of your blood"
+      - "Could have attain’d the effect of your own purpose,"
+      - "Whether you had not sometime in your life"
+      - "Err’d in this point which now you censure him,"
+      - "And pull’d the law upon you."
+    m:
+      - "Yes, but we should also be precise. Better to use a scalpel than a hatchet, cutting carefully instead of chopping to death. This gentleman whose life I’d like to save had such a noble father. I know you’re a completely disciplined, virtuous man. But imagine you felt sexual stirrings for a woman, and you were in the right place at the right time, and by acting on that desire you could have her. If sometime in your life, you’d made the same mistake for which you now condemn him, you’d have brought the law down on yourself."
+
+  - sp: ANGELO
+    o:
+      - "’Tis one thing to be tempted, Escalus,"
+      - "Another thing to fall. I not deny,"
+      - "The jury, passing on the prisoner’s life,"
+      - "May in the sworn twelve have a thief or two"
+      - "Guiltier than him they try. What’s open made to justice,"
+      - "That justice seizes: what know the laws"
+      - "That thieves do pass on thieves? ’Tis very pregnant,"
+      - "The jewel that we find, we stoop and take’t"
+      - "Because we see it; but what we do not see"
+      - "We tread upon, and never think of it."
+      - "You may not so extenuate his offence"
+      - "For I have had such faults; but rather tell me,"
+      - "When I, that censure him, do so offend,"
+      - "Let mine own judgment pattern out my death,"
+      - "And nothing come in partial. Sir, he must die."
+    m:
+      - "It’s one thing to be tempted, Escalus, but another thing to give in. I don’t deny that the twelve members of a jury might include a thief or two who are far guiltier than the prisoner they’re passing sentence on. But justice takes the opportunities it has; who knows what laws thieves pass against other thieves? Obviously, if we stumble across a jewel in the road, we’ll bend down and take it, because we see it. But things we don’t see, we step over and never think about. You can’t excuse his crime on the grounds that I could have done the same thing. Instead, if I—the man who’s condemning him—commit the same offense, let this verdict of mine act as a precedent for my death, and let no allowances be made for me. Sir, he must die."
+
+  - sp: ESCALUS
+    o:
+      - "Be it as your wisdom will."
+    m:
+      - "As you command."
+
+  - sp: ANGELO
+    o:
+      - "Where is the provost?"
+    m:
+      - "Where is the provost?"
+
+  - sp: PROVOST
+    o:
+      - "Here, if it like your honour."
+    m:
+      - "Here, sir."
+
+  - sp: ANGELO
+    o:
+      - "See that Claudio"
+      - "Be executed by nine to-morrow morning:"
+      - "Bring him his confessor, let him be prepared;"
+      - "For that’s the utmost of his pilgrimage."
+    m:
+      - "See that Claudio is executed by nine tomorrow morning. Give him a priest to confess to, and let him prepare himself for death, for this is his journey’s end."
+
+  - os: "Exit Provost"
+    ms: "The Provost exits."
+
+  - sp: ESCALUS
+    o:
+      - "*(aside)* Well, heaven forgive him! and forgive us all!"
+      - "Some rise by sin, and some by virtue fall:"
+      - "Some run from brakes of ice, and answer none:"
+      - "And some condemned for a fault alone."
+    m:
+      - "*(to himself)* Well, heaven forgive him—and forgive us all! Some people succeed by sinning, and some are brought down by virtue. Some people run from dubious situations and so never suffer punishment, and some people get punished for a single mistake."
+
+  - os: "Enter ELBOW, and Officers with FROTH and POMPEY"
+    ms: "ELBOW and officers holding FROTH and POMPEY enter."
+
+  - sp: ELBOW
+    o:
+      - "Come, bring them away: if these be good people in"
+      - "a commonweal that do nothing but use their abuses in"
+      - "common houses, I know no law: bring them away."
+    m:
+      - "Bring them this way. If these aren’t the kind of people who do nothing but dirty things in whorehouses, then I don’t know the law. Bring them this way."
+
+  - sp: ANGELO
+    o:
+      - "How now, sir! What’s your name? and what’s the matter?"
+    m:
+      - "Well, sir! What’s your name? And what’s the matter?"
+
+  - sp: ELBOW
+    o:
+      - "If it Please your honour, I am the poor duke’s"
+      - "constable, and my name is Elbow: I do lean upon"
+      - "justice, sir, and do bring in here before your good"
+      - "honour two notorious benefactors."
+    m:
+      - "If it pleases your honor, I am the duke’s poor police officer, and my name is Elbow. I rely on the law, sir, and bring in here before you two notorious benefactors *(confusing the word* benefactor *with* malefactor)."
+
+  - sp: ANGELO
+    o:
+      - "Benefactors? Well; what benefactors are they? are"
+      - "they not malefactors?"
+    m:
+      - "Benefactors? What benefactors are they? Aren’t they malefactors?"
+
+  - sp: ELBOW
+    o:
+      - "If it please your honour, I know not well what they"
+      - "are: but precise villains they are, that I am sure"
+      - "of; and void of all profanation in the world that"
+      - "good Christians ought to have."
+    m:
+      - "If it pleases your honor, I don’t really know what they are. But they’re definitely scoundrels, that I’m sure of, and lacking the universal piety that all good Christians ought to have."
+
+  - sp: ESCALUS
+    o:
+      - "This comes off well; here’s a wise officer."
+    m:
+      - "*(to Angelo, sarcastically)* He’s a good talker, and a real smart cop."
+
+  - sp: ANGELO
+    o:
+      - "Go to: what quality are they of? Elbow is your"
+      - "name? why dost thou not speak, Elbow?"
+    m:
+      - "Out with it. What’s their rank? Your name’s Elbow? Why don’t you speak, Elbow?"
+
+  - sp: POMPEY
+    o:
+      - "He cannot, sir; he’s out at elbow."
+    m:
+      - "He can’t, sir. He’s been pushed out of the way."
+
+  - sp: ANGELO
+    o:
+      - "What are you, sir?"
+    m:
+      - "*(to Pompey)* What do you do, sir?"
+
+  - sp: ELBOW
+    o:
+      - "He, sir! a tapster, sir; parcel-bawd; one that"
+      - "serves a bad woman; whose house, sir, was, as they"
+      - "say, plucked down in the suburbs; and now she"
+      - "professes a hot-house, which, I think, is a very ill house too."
+    m:
+      - "Him, sir! He’s a bartender, sir, and a part-time pimp, one who works for a madam. Her brothel in the suburbs, sir, was, as they say, torn down, and now she claims to run a bathhouse, and I think that’s a bad house too."
+
+  - sp: ESCALUS
+    o:
+      - "How know you that?"
+    m:
+      - "How do you know that?"
+
+  - sp: ELBOW
+    o:
+      - "My wife, sir, whom I detest before heaven and your honour,—"
+    m:
+      - "My wife sir, whom I detest with heaven and your honor as my witnesses—"
+      - "*(confusing* detest *with* attest*)*"
+
+  - sp: ESCALUS
+    o:
+      - "How? thy wife?"
+    m:
+      - "What, you detest your wife?"
+
+  - sp: ELBOW
+    o:
+      - "Ay, sir; whom, I thank heaven, is an honest woman,—"
+    m:
+      - "Yes, sir, whom, I thank heaven, is a morally upright woman—"
+
+  - sp: ESCALUS
+    o:
+      - "Dost thou detest her therefore?"
+    m:
+      - "That’s why you detest her?"
+
+  - sp: ELBOW
+    o:
+      - "I say, sir, I will detest myself also, as well as"
+      - "she, that this house, if it be not a bawd’s house,"
+      - "it is pity of her life, for it is a naughty house."
+    m:
+      - "I say, sir, I’ll detest myself as well as her, if this house, if it’s not a whorehouse, it’s a great pity, for it’s an immoral place."
+
+  - sp: ESCALUS
+    o:
+      - "How dost thou know that, constable?"
+    m:
+      - "How do you know that?"
+
+  - sp: ELBOW
+    o:
+      - "Marry, sir, by my wife; who, if she had been a woman"
+      - "cardinally given, might have been accused in"
+      - "fornication, adultery, and all uncleanliness there."
+    m:
+      - "From my wife, who, if she had been a woman given to sin, might have been accused of fornication, adultery, and all sorts of dirty things there."
+
+  - sp: ESCALUS
+    o:
+      - "By the woman’s means?"
+    m:
+      - "Because of the actions of the madam of the whorehouse?"
+
+  - sp: ELBOW
+    o:
+      - "Ay, sir, by Mistress Overdone’s means: but as she"
+      - "spit in his face, so she defied him."
+    m:
+      - "Yes, sir, by Mistress Overdone’s doing. But my wife spit in this man’s face, defying him."
+
+  - sp: POMPEY
+    o:
+      - "Sir, if it please your honour, this is not so."
+    m:
+      - "Please, sir, this is not true."
+
+  - sp: ELBOW
+    o:
+      - "Prove it before these varlets here, thou honourable"
+      - "man; prove it."
+    m:
+      - "Prove it before these rogues here, you honorable man. Prove it."
+
+  - sp: ESCALUS
+    o:
+      - "Do you hear how he misplaces?"
+    m:
+      - "*(to Angelo)* Do you hear how he mixes up his words?"
+
+  - sp: POMPEY
+    o:
+      - "Sir, she came in great with child; and longing,"
+      - "saving your honour’s reverence, for stewed prunes;"
+      - "sir, we had but two in the house, which at that very"
+      - "distant time stood, as it were, in a fruit-dish, a"
+      - "dish of some three-pence; your honours have seen"
+      - "such dishes; they are not China dishes, but very"
+      - "good dishes,—"
+    m:
+      - "Sir, this very pregnant woman came in, longing—I beg your honor’s pardon—for stewed prunes. Sir, we had only two in the house, which at that very time were sitting, it so happened, in a fruit dish, a three-cent dish. Your honors have seen such dishes; they’re not fine china, but they’re very good dishes—"
+
+  - sp: ESCALUS
+    o:
+      - "Go to, go to: no matter for the dish, sir."
+    m:
+      - "Get on with it. Never mind about the dish, sir."
+
+  - sp: POMPEY
+    o:
+      - "No, indeed, sir, not of a pin; you are therein in"
+      - "the right: but to the point. As I say, this"
+      - "Mistress Elbow, being, as I say, with child, and"
+      - "being great-bellied, and longing, as I said, for"
+      - "prunes; and having but two in the dish, as I said,"
+      - "Master Froth here, this very man, having eaten the"
+      - "rest, as I said, and, as I say, paying for them very"
+      - "honestly; for, as you know, Master Froth, I could"
+      - "not give you three-pence again."
+    m:
+      - "No, sir, you’re right. It’s not worth a pin, but back to the point. As I was saying, this Mrs. Elbow, was, as I say, very pregnant, and longing, as I said, for prunes. We had only two left in the dish, as I said, and this very man, Mr. Froth here, having eaten the rest and paid for them very generously. Because as you know, Mr. Froth, I couldn’t give you three cents’ change."
+
+  - sp: FROTH
+    o:
+      - "No, indeed."
+    m:
+      - "No, indeed."
+
+  - sp: POMPEY
+    o:
+      - "Very well: you being then, if you be remembered,"
+      - "cracking the stones of the foresaid prunes,—"
+    m:
+      - "Very well. If you remember, you were talking about the previously mentioned prunes—"
+
+  - sp: FROTH
+    o:
+      - "Ay, so I did indeed."
+    m:
+      - "Right, I was."
+
+  - sp: POMPEY
+    o:
+      - "Why, very well; I telling you then, if you be"
+      - "remembered, that such a one and such a one were past"
+      - "cure of the thing you wot of, unless they kept very"
+      - "good diet, as I told you,—"
+    m:
+      - "Ok, and I was telling you, if you remember, that so-and-so couldn’t be cured of you-know-what, unless they kept to a strict diet—"
+
+  - sp: FROTH
+    o:
+      - "All this is true."
+    m:
+      - "All this is true."
+
+  - sp: POMPEY
+    o:
+      - "Why, very well, then,—"
+    m:
+      - "Why, very well, then—"
+
+  - sp: ESCALUS
+    o:
+      - "Come, you are a tedious fool: to the purpose. What"
+      - "was done to Elbow’s wife, that he hath cause to"
+      - "complain of? Come me to what was done to her."
+    m:
+      - "You’re a tedious fool. Get to the point. What was done to Elbow’s wife that gave him a reason to complain? Come and get to what was done to her."
+
+  - sp: POMPEY
+    o:
+      - "Sir, your honour cannot come to that yet."
+    m:
+      - "Sir, your honor can’t get to that yet."
+
+  - sp: ESCALUS
+    o:
+      - "No, sir, nor I mean it not."
+    m:
+      - "That’s not what I meant, sir."
+
+  - sp: POMPEY
+    o:
+      - "Sir, but you shall come to it, by your honour’s"
+      - "leave. And, I beseech you, look into Master Froth"
+      - "here, sir; a man of four-score pound a year; whose"
+      - "father died at Hallowmas: was’t not at Hallowmas,"
+      - "Master Froth?"
+    m:
+      - "But you will get it, sir, if your honor pleases. And, I beg you, look at Mr. Froth here, sir; a man who makes only 80 pounds a year and whose his father died, leaving him an inheritance, on All Saints’ Day—wasn’t it All Saints’ Day, Mr. Froth?"
+
+  - sp: FROTH
+    o:
+      - "All-hallond eve."
+    m:
+      - "Halloween."
+
+  - sp: POMPEY
+    o:
+      - "Why, very well; I hope here be truths. He, sir,"
+      - "sitting, as I say, in a lower chair, sir; ’twas in"
+      - "the Bunch of Grapes, where indeed you have a delight"
+      - "to sit, have you not?"
+    m:
+      - "Very well. I hope we’ll get to the truth here. He, sir, was sitting, as I say, in a reclining chair, sir. It was at the Bunch of Grapes tavern, where you like to sit and relax, don’t you?"
+
+  - sp: FROTH
+    o:
+      - "I have so; because it is an open room and good for winter."
+    m:
+      - "I do, because the room has a big open fire, good in winter."
+
+  - sp: POMPEY
+    o:
+      - "Why, very well, then; I hope here be truths."
+    m:
+      - "Why, very well, then. I hope we’ll get to the truth here."
+
+  - sp: ANGELO
+    o:
+      - "This will last out a night in Russia,"
+      - "When nights are longest there: I’ll take my leave."
+      - "And leave you to the hearing of the cause;"
+      - "Hoping you’ll find good cause to whip them all."
+    m:
+      - "This could last as long as a night in Russia, during the time of year when nights are longest. I’m leaving. I’ll leave you to get to the bottom of this case, hoping you’ll find reasons to whip them all."
+
+  - sp: ESCALUS
+    o:
+      - "I think no less. Good morrow to your lordship."
+    m:
+      - "I think I will. Good-bye, your lordship."
+
+  - os: "Exit ANGELO"
+    ms: "ANGELO exits."
+
+  - o:
+      - "Now, sir, come on: what was done to Elbow’s wife, once more?"
+    m:
+      - "Now, sir, come on: what happened to Elbow’s wife, once more?"
+
+  - sp: POMPEY
+    o:
+      - "Once, sir? there was nothing done to her once."
+    m:
+      - "Once, sir? Nothing happened to her once."
+
+  - sp: ELBOW
+    o:
+      - "I beseech you, sir, ask him what this man did to my wife."
+    m:
+      - "I beg you, sir, ask him what this man did to my wife."
+
+  - sp: POMPEY
+    o:
+      - "I beseech your honour, ask me."
+    m:
+      - "I beg your honor, ask me."
+
+  - sp: ESCALUS
+    o:
+      - "Well, sir; what did this gentleman to her?"
+    m:
+      - "Well, sir; what did this gentleman do to her?"
+
+  - sp: POMPEY
+    o:
+      - "I beseech you, sir, look in this gentleman’s face."
+      - "Good Master Froth, look upon his honour; ’tis for a"
+      - "good purpose. Doth your honour mark his face?"
+    m:
+      - "I beg you, sir, look at this gentleman’s face. Good Mr. Froth, look at his honor—it’s for a good reason. Does your honor see his face?"
+
+  - sp: ESCALUS
+    o:
+      - "Ay, sir, very well."
+    m:
+      - "Yes, sir, very well."
+
+  - sp: POMPEY
+    o:
+      - "Nay; I beseech you, mark it well."
+    m:
+      - "No, I beg you, really study it."
+
+  - sp: ESCALUS
+    o:
+      - "Well, I do so."
+    m:
+      - "Well, I am."
+
+  - sp: POMPEY
+    o:
+      - "Doth your honour see any harm in his face?"
+    m:
+      - "Does your honor see any harm in his face?"
+
+  - sp: ESCALUS
+    o:
+      - "Why, no."
+    m:
+      - "Why, no."
+
+  - sp: POMPEY
+    o:
+      - "I’ll be supposed upon a book, his face is the worst"
+      - "thing about him. Good, then; if his face be the"
+      - "worst thing about him, how could Master Froth do the"
+      - "constable’s wife any harm? I would know that of"
+      - "your honour."
+    m:
+      - "I’ll swear upon a bible, his face is the worst thing about him *(confusing* supposed *for* deposed*)*. And if his face is the worst thing about him, how could Mr. Froth do the officer’s wife any harm? I’d like your honor to explain that."
+
+  - sp: ESCALUS
+    o:
+      - "He’s in the right. Constable, what say you to it?"
+    m:
+      - "He’s right. Officer, what do you say to that?"
+
+  - sp: ELBOW
+    o:
+      - "First, an it like you, the house is a respected"
+      - "house; next, this is a respected fellow; and his"
+      - "mistress is a respected woman."
+    m:
+      - "*(confusing* respected *for* suspected *throughout)* First, if it pleases you, the house is a respected house; next, this is a respected fellow, and his employer a respected woman."
+
+  - sp: POMPEY
+    o:
+      - "By this hand, sir, his wife is a more respected"
+      - "person than any of us all."
+    m:
+      - "I swear, sir, his wife is a more respected person than any of us."
+
+  - sp: ELBOW
+    o:
+      - "Varlet, thou liest; thou liest, wicked varlet! The"
+      - "time has yet to come that she was ever respected"
+      - "with man, woman, or child."
+    m:
+      - "Scoundrel, you lie. You lie, wicked scoundrel! The time has yet to come that she was ever respected by man, woman, or child."
+
+  - sp: POMPEY
+    o:
+      - "Sir, she was respected with him before he married with her."
+    m:
+      - "Sir, he respected her before he married her."
+
+  - sp: ESCALUS
+    o:
+      - "Which is the wiser here? Justice or Iniquity? Is"
+      - "this true?"
+    m:
+      - "Who’s smarter here? The representative of justice or the representative of sin? Is this true?"
+
+  - sp: ELBOW
+    o:
+      - "O thou caitiff! O thou varlet! O thou wicked"
+      - "Hannibal! I respected with her before I was married"
+      - "to her! If ever I was respected with her, or she"
+      - "with me, let not your worship think me the poor"
+      - "duke’s officer. Prove this, thou wicked Hannibal, or"
+      - "I’ll have mine action of battery on thee."
+    m:
+      - "Oh, you wretch! Oh, you scoundrel! Oh, you cannibal! I respected her before I was married to her! If I ever respected her, or she respected me, I’m not the duke’s poor officer. Prove this, you wicked cannibal, or I’ll sue you for assault."
+
+  - sp: ESCALUS
+    o:
+      - "If he took you a box o’ the ear, you might have your"
+      - "action of slander too."
+    m:
+      - "If he boxed your ears, you could sue him for slander, too."
+
+  - sp: ELBOW
+    o:
+      - "Marry, I thank your good worship for it. What is’t"
+      - "your worship’s pleasure I shall do with this wicked caitiff?"
+    m:
+      - "Thank you, your worship. What would you like me to do with this wicked wretch?"
+
+  - sp: ESCALUS
+    o:
+      - "Truly, officer, because he hath some offences in him"
+      - "that thou wouldst discover if thou couldst, let him"
+      - "continue in his courses till thou knowest what they"
+      - "are."
+    m:
+      - "Honestly, officer, because he’s committed some crime that you would expose if you were capable, let him keep on until you figure out what it is."
+
+  - sp: ELBOW
+    o:
+      - "Marry, I thank your worship for it. Thou seest, thou"
+      - "wicked varlet, now, what’s come upon thee: thou art"
+      - "to continue now, thou varlet; thou art to continue."
+    m:
+      - "Thank you, your worship. Now, you wicked wretch, you see what’s going to happen to you: you’re to be kept on; they’re keeping you on."
+
+  - sp: ESCALUS
+    o:
+      - "Where were you born, friend?"
+    m:
+      - "Where were you born, friend?"
+
+  - sp: FROTH
+    o:
+      - "Here in Vienna, sir."
+    m:
+      - "Here in Vienna, sir."
+
+  - sp: ESCALUS
+    o:
+      - "Are you of fourscore pounds a year?"
+    m:
+      - "Do you have an income of 80 pounds a year?"
+
+  - sp: FROTH
+    o:
+      - "Yes, an’t please you, sir."
+    m:
+      - "Yes, sir."
+
+  - sp: ESCALUS
+    o:
+      - "So. What trade are you of, sir?"
+    m:
+      - "All right. What do you do, sir?"
+
+  - sp: POMPHEY
+    o:
+      - "Tapster; a poor widow’s tapster."
+    m:
+      - "Bartender; a poor widow’s bartender."
+
+  - sp: ESCALUS
+    o:
+      - "Your mistress’ name?"
+    m:
+      - "Your employer’s name?"
+
+  - sp: POMPHEY
+    o:
+      - "Mistress Overdone."
+    m:
+      - "Mistress Overdone."
+
+  - sp: ESCALUS
+    o:
+      - "Hath she had any more than one husband?"
+    m:
+      - "Has she had more than one husband?"
+
+  - sp: POMPEY
+    o:
+      - "Nine, sir; Overdone by the last."
+    m:
+      - "Nine, sir. She got the name Overdone from the last one."
+
+  - sp: ESCALUS
+    o:
+      - "Nine! Come hither to me, Master Froth. Master"
+      - "Froth, I would not have you acquainted with"
+      - "tapsters: they will draw you, Master Froth, and you"
+      - "will hang them. Get you gone, and let me hear no"
+      - "more of you."
+    m:
+      - "Nine! Come here, Mr. Froth. Mr. Froth, I’d prefer you not associate with bartenders. They’ll draw you dry, Mr. Froth, and you’ll get them hanged. Get out, and don’t let me hear of you again."
+
+  - sp: FROTH
+    o:
+      - "I thank your worship. For mine own part, I never"
+      - "come into any room in a tap-house, but I am drawn"
+      - "in."
+    m:
+      - "Thank you, your worship. Personally, I never go into bars, unless I’m drawn in."
+
+  - sp: ESCALUS
+    o:
+      - "Well, no more of it, Master Froth: farewell."
+    m:
+      - "Well, not anymore, Mr. Froth. Goodbye."
+
+  - os: "Exit FROTH"
+    ms: "FROTH exits."
+
+  - o:
+      - "Come you hither to me, Master tapster. What’s your"
+      - "name, Master tapster?"
+    m:
+      - "Come here, Mr. Bartender. What’s your name, Mr. Bartender?"
+
+  - sp: POMPEY
+    o:
+      - "Pompey."
+    m:
+      - "Pompey."
+
+  - sp: ESCALUS
+    o:
+      - "What else?"
+    m:
+      - "What else?"
+
+  - sp: POMPEY
+    o:
+      - "Bum, sir."
+    m:
+      - "Ass, sir."
+
+  - sp: ESCALUS
+    o:
+      - "Troth, and your bum is the greatest thing about you;"
+      - "so that in the beastliest sense you are Pompey the"
+      - "Great. Pompey, you are partly a bawd, Pompey,"
+      - "howsoever you colour it in being a tapster, are you"
+      - "not? come, tell me true: it shall be the better for you."
+    m:
+      - "Yes, and your ass is the biggest thing about you, so in the crudest sense you are Pompey the Great. Pompey, you’re a part-time pimp, however much you hide it by bartending, aren’t you? Come on, it’ll be better for you if you tell me the truth."
+
+  - sp: POMPEY
+    o:
+      - "Truly, sir, I am a poor fellow that would live."
+    m:
+      - "Honestly, sir, I’m a poor man just trying to earn a living."
+
+  - sp: ESCALUS
+    o:
+      - "How would you live, Pompey? by being a bawd? What"
+      - "do you think of the trade, Pompey? is it a lawful trade?"
+    m:
+      - "How would you live, Pompey? By being a pimp? What do you think of that profession, Pompey? Is it a legal profession?"
+
+  - sp: POMPEY
+    o:
+      - "If the law would allow it, sir."
+    m:
+      - "If the law allowed it, sir."
+
+  - sp: ESCALUS
+    o:
+      - "But the law will not allow it, Pompey; nor it shall"
+      - "not be allowed in Vienna."
+    m:
+      - "But the law will not allow it, Pompey, nor will it be allowed in Vienna."
+
+  - sp: POMPEY
+    o:
+      - "Does your worship mean to geld and splay all the"
+      - "youth of the city?"
+    m:
+      - "Does your worship mean to castrate and spay all the young men and women in town?"
+
+  - sp: ESCALUS
+    o:
+      - "No, Pompey."
+    m:
+      - "No, Pompey."
+
+  - sp: POMPEY
+    o:
+      - "Truly, sir, in my poor opinion, they will to’t then."
+      - "If your worship will take order for the drabs and"
+      - "the knaves, you need not to fear the bawds."
+    m:
+      - "Then, sir, in my poor opinion, they’ll get it on. If your worship would make arrangements for the whores and their clients, you wouldn’t need to fear the pimps."
+
+  - sp: ESCALUS
+    o:
+      - "There are pretty orders beginning, I can tell you:"
+      - "it is but heading and hanging."
+    m:
+      - "I can tell you, we’re introducing some strong penalties— specifically, beheading and hanging."
+
+  - sp: POMPEY
+    o:
+      - "If you head and hang all that offend that way but"
+      - "for ten year together, you’ll be glad to give out a"
+      - "commission for more heads: if this law hold in"
+      - "Vienna ten year, I’ll rent the fairest house in it"
+      - "after three-pence a bay: if you live to see this"
+      - "come to pass, say Pompey told you so."
+    m:
+      - "If you behead and hang everyone who breaks the law by having sex, in just ten years you’ll have to commission people to repopulate the city. If this law lasts a decade in Vienna, I’ll rent the best house in town at three cents a square foot. If you’re alive to see this, say Pompey told you so."
+
+  - sp: ESCALUS
+    o:
+      - "Thank you, good Pompey; and, in requital of your"
+      - "prophecy, hark you: I advise you, let me not find"
+      - "you before me again upon any complaint whatsoever;"
+      - "no, not for dwelling where you do: if I do, Pompey,"
+      - "I shall beat you to your tent, and prove a shrewd"
+      - "Caesar to you; in plain dealing, Pompey, I shall"
+      - "have you whipt: so, for this time, Pompey, fare you well."
+    m:
+      - "Thank you, Pompey, and, in return for your prediction, listen carefully. I advise you, don’t let me find you appearing before me again upon any complaint whatsoever, not even for living where you do. If I do, I’ll beat you like Julius Caesar did to your namesake—Pompey —and send you scurrying to your tent in defeat. To put it plainly, Pompey, I will have you whipped. So, for now, Pompey, goodbye."
+
+  - sp: POMPEY
+    o:
+      - "I thank your worship for your good counsel:"
+    m:
+      - "I thank your worship for your good advice."
+
+  - os: "Aside"
+    ms: "*(to himself)*"
+
+  - o:
+      - "but I shall follow it as the flesh and fortune shall"
+      - "better determine."
+      - "Whip me? No, no; let carman whip his jade:"
+      - "The valiant heart is not whipt out of his trade."
+    m:
+      - "But I shall follow it only as my body and my opportunities dictate. Whip me? No, no; let a cart driver whip his old nag. A brave heart isn’t whipped out of his job."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ESCALUS
+    o:
+      - "Come hither to me, Master Elbow; come hither, master"
+      - "constable. How long have you been in this place of constable?"
+    m:
+      - "Come here, Mr. Elbow; come here, Mr. Policeman. How long have you been a policeman?"
+
+  - sp: ELBOW
+    o:
+      - "Seven year and a half, sir."
+    m:
+      - "Seven and a half years, sir."
+
+  - sp: ESCALUS
+    o:
+      - "I thought, by your readiness in the office, you had"
+      - "continued in it some time. You say, seven years together?"
+    m:
+      - "I thought you’d been at the job for a while, given your skill at it. You say seven years altogether?"
+
+  - sp: ELBOW
+    o:
+      - "And a half, sir."
+    m:
+      - "And a half, sir."
+
+  - sp: ESCALUS
+    o:
+      - "Alas, it hath been great pains to you. They do you"
+      - "wrong to put you so oft upon ’t: are there not men"
+      - "in your ward sufficient to serve it?"
+    m:
+      - "Oh, that’s so hard on you. It’s wrong that you have to work so much. Aren’t there enough capable men in your precinct?"
+
+  - sp: ELBOW
+    o:
+      - "Faith, sir, few of any wit in such matters: as they"
+      - "are chosen, they are glad to choose me for them; I"
+      - "do it for some piece of money, and go through with"
+      - "all."
+    m:
+      - "Honestly, sir, few who are bright enough. They’re happy to have me substitute for them. They pay me a little money, and I handle all the duties."
+
+  - sp: ESCALUS
+    o:
+      - "Look you bring me in the names of some six or seven,"
+      - "the most sufficient of your parish."
+    m:
+      - "Please bring me some six or seven names, the most competent people in your parish."
+
+  - sp: ELBOW
+    o:
+      - "To your worship’s house, sir?"
+    m:
+      - "To your worship’s house, sir?"
+
+  - sp: ESCALUS
+    o:
+      - "To my house. Fare you well."
+    m:
+      - "To my house. Goodbye."
+
+  - os: "Exit ELBOW"
+    ms: "ELBOW exits."
+
+  - o:
+      - "What’s o’clock, think you?"
+    m:
+      - "What time is it?"
+
+  - sp: JUSTICE
+    o:
+      - "Eleven, sir."
+    m:
+      - "Eleven, sir."
+
+  - sp: ESCALUS
+    o:
+      - "I pray you home to dinner with me."
+    m:
+      - "Please, come home to lunch with me."
+
+  - sp: JUSTICE
+    o:
+      - "I humbly thank you."
+    m:
+      - "I’m most grateful. Thank you."
+
+  - sp: ESCALUS
+    o:
+      - "It grieves me for the death of Claudio;"
+      - "But there’s no remedy."
+    m:
+      - "Claudio’s death saddens me, but there’s no way to prevent it."
+
+  - sp: JUSTICE
+    o:
+      - "Lord Angelo is severe."
+    m:
+      - "Lord Angelo is severe."
+
+  - sp: ESCALUS
+    o:
+      - "It is but needful:"
+      - "Mercy is not itself, that oft looks so;"
+      - "Pardon is still the nurse of second woe:"
+      - "But yet,—poor Claudio! There is no remedy."
+      - "Come, sir."
+    m:
+      - "It’s unfortunately necessary. Mercy isn’t often what it seems, since pardoning a crime can lead to additional pain. Even so—poor Claudio! There’s no way to prevent it. Let’s go, sir."
+
+  - os: "Exeunt"
+    ms: "They exit."

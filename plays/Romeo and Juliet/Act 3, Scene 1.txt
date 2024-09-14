@@ -1,0 +1,517 @@
+play: Romeo and Juliet
+title: Act 3, Scene 1
+group: 3
+order: 13
+text:
+  - os: "Enter MERCUTIO, BENVOLIO, Mercutio’s PAGE, and others"
+    ms: "MERCUTIO, his page, and BENVOLIO enter with other men."
+
+  - sp: BENVOLIO
+    o:
+      - "I pray thee, good Mercutio, let’s retire."
+      - "The day is hot; the Capulets, abroad;"
+      - "And if we meet we shall not ’scape a brawl,"
+      - "For now, these hot days, is the mad blood stirring."
+    m:
+      - "I’m begging you, good Mercutio, let’s call it a day. It’s hot outside, and the Capulets are wandering around. If we bump into them, we’ll certainly get into a fight. When it’s hot outside, people become angry and hot-blooded."
+
+  - sp: MERCUTIO
+    o:
+      - "Thou art like one of those fellows that, when he enters the confines of a tavern, claps me his sword upon the table and says “God send me no need of thee!” and, by the operation of the second cup, draws it on the drawer when indeed there is no need."
+    m:
+      - "You’re like one of those guys who walks into a bar, slams his sword on the table, and then says, “I pray I never have to use you.” By the time he orders his second drink, he pulls his sword on the bartender for no reason at all."
+
+  - sp: BENVOLIO
+    o:
+      - "Am I like such a fellow?"
+    m:
+      - "Am I really like one of those guys?"
+
+  - sp: MERCUTIO
+    o:
+      - "Come, come, thou art as hot a Jack in thy mood as any in Italy, and as soon moved to be moody, and as soon moody to be moved."
+    m:
+      - "Come on, you can be as angry as any guy in Italy when you’re in the mood. When someone does the smallest thing to make you angry, you get angry. And when you’re in the mood to get angry, you find something to get angry about."
+
+  - sp: BENVOLIO
+    o:
+      - "And what to?"
+    m:
+      - "And what about that?"
+
+  - sp: MERCUTIO
+    o:
+      - "Nay, an there were two such, we should have none shortly, for one would kill the other. Thou, why, thou wilt quarrel with a man that hath a hair more or a hair less in his beard than thou hast. Thou wilt quarrel with a man for cracking nuts, having no other reason but because thou hast hazel eyes. What eye but such an eye would spy out such a quarrel? Thy head is as full of quarrels as an egg is full of meat, and yet thy head hath been beaten as addle as an egg for quarreling. Thou hast quarreled with a man for coughing in the street because he hath wakened thy dog that hath lain asleep in the sun. Didst thou not fall out with a tailor for wearing his new doublet before Easter? With another, for tying his new shoes with old ribbon? And yet thou wilt tutor me from quarreling!"
+    m:
+      - "If there were two men like you, pretty soon there’d be none because the two of you would kill each other. You would fight with a man if he had one more whisker or one less whisker in his beard than you have in your beard. You’ll fight with a man who’s cracking nuts just because you have hazelnut-colored eyes. Only you would look for a fight like that. Your head is as full of fights as an egg is full of yolk, but your head has been beaten like scrambled eggs from so much fighting. You started a fight with a man who coughed in the street because he woke up a dog that was sleeping in the sun. Didn’t you argue it out with your tailor for wearing one of his new suits before the right season? And with another for tying the new shoes he made with old laces? And yet you’re the one who wants to teach me about restraint!"
+
+  - sp: BENVOLIO
+    o:
+      - "An I were so apt to quarrel as thou art, any man should buy the fee simple of my life for an hour and a quarter."
+    m:
+      - "If I were in the habit of fighting the way you are, my life insurance rates would be sky high."
+
+  - sp: MERCUTIO
+    o:
+      - "The fee simple? O simple!"
+    m:
+      - "Your life insurance? That’s foolish."
+
+  - os: "Enter TYBALT, PETRUCHIO, and other CAPULETS"
+    ms: "TYBALT, PETRUCHIO, and CAPULETS enter."
+
+  - sp: BENVOLIO
+    o:
+      - "By my head, here comes the Capulets."
+    m:
+      - "Oh great, here come the Capulets."
+
+  - sp: MERCUTIO
+    o:
+      - "By my heel, I care not."
+    m:
+      - "Well, well, I don’t care."
+
+  - sp: TYBALT
+    o:
+      - "Follow me close, for I will speak to them."
+      - "Gentlemen, good e’en. A word with one of you."
+    m:
+      - "*(to PETRUCCIO and others)* Follow me closely, I’ll talk to them. *(to the MONTAGUES)* Good afternoon, gentlemen. I’d like to have a word with one of you."
+
+  - sp: MERCUTIO
+    o:
+      - "And but one word with one of us? Couple it with something. Make it a word and a blow."
+    m:
+      - "You just want one word with one of us? Put it together with something else. Make it a word and a blow."
+
+  - sp: TYBALT
+    o:
+      - "You shall find me apt enough to that, sir, an you will give me occasion."
+    m:
+      - "You’ll find me ready enough to do that, sir, if you give me a reason."
+
+  - sp: MERCUTIO
+    o:
+      - "Could you not take some occasion without giving?"
+    m:
+      - "Can’t you find a reason without my giving you one?"
+
+  - sp: TYBALT
+    o:
+      - "Mercutio, thou consort’st with Romeo."
+    m:
+      - "Mercutio, you hang out with Romeo."
+
+  - sp: MERCUTIO
+    o:
+      - "Consort? What, dost thou make us minstrels? An thou make minstrels of us, look to hear nothing but discords. Here’s my fiddlestick. Here’s that shall make you dance. Zounds, “consort”!"
+    m:
+      - "“Hang out?” Who do you think we are, musicians in a band? If we look like musicians to you, you can expect to hear nothing but noise. *(touching the blade of his sword)* This is my fiddlestick. I’ll use it to make you dance. Goddammit—“Hang out!”"
+
+  - sp: BENVOLIO
+    o:
+      - "We talk here in the public haunt of men."
+      - "Either withdraw unto some private place,"
+      - "And reason coldly of your grievances,"
+      - "Or else depart. Here all eyes gaze on us."
+    m:
+      - "We’re talking here in a public place. Either go someplace private, or talk it over rationally, or else just go away. Out here everybody can see us."
+
+  - sp: MERCUTIO
+    o:
+      - "Men’s eyes were made to look and let them gaze."
+      - "I will not budge for no man’s pleasure, I."
+    m:
+      - "Men’s eyes were made to see things, so let them watch. I won’t move to please anybody."
+
+  - os: "Enter ROMEO"
+    ms: "ROMEO enters."
+
+  - sp: TYBALT
+    o:
+      - "Well, peace be with you, sir. Here comes my man."
+    m:
+      - "Well, may peace be with you. Here comes my man, the man I’m looking for."
+
+  - sp: MERCUTIO
+    o:
+      - "But I’ll be hanged, sir, if he wear your livery."
+      - "Marry, go before to field, he’ll be your follower."
+      - "Your worship in that sense may call him “man.”"
+    m:
+      - "He’s not your man. Alright, walk out into a field, and he’ll chase you. In that sense you can call him your “man.”"
+
+  - sp: TYBALT
+    o:
+      - "Romeo, the love I bear thee can afford"
+      - "No better term than this: thou art a villain."
+    m:
+      - "Romeo, there’s only one thing I can call you. You’re a villain."
+
+  - sp: ROMEO
+    o:
+      - "Tybalt, the reason that I have to love thee"
+      - "Doth much excuse the appertaining rage"
+      - "To such a greeting. Villain am I none."
+      - "Therefore, farewell. I see thou know’st me not."
+    m:
+      - "Tybalt, I have a reason to love you that lets me put aside the rage I should feel and excuse that insult. I am no villain. So, goodbye. I can tell that you don’t know who I am."
+
+  - sp: TYBALT
+    o:
+      - "Boy, this shall not excuse the injuries"
+      - "That thou hast done me. Therefore turn and draw."
+    m:
+      - "Boy, your words can’t excuse the harm you’ve done to me. So now turn and draw your sword."
+
+  - sp: ROMEO
+    o:
+      - "I do protest I never injured thee,"
+      - "But love thee better than thou canst devise,"
+      - "Till thou shalt know the reason of my love."
+      - "And so, good Capulet—which name I tender"
+      - "As dearly as my own—be satisfied."
+    m:
+      - "I disagree. I’ve never done you harm. I love you more than you can understand until you know the reason why I love you. And so, good Capulet—which is a name I love like my own name—you should be satisfied with what I say."
+
+  - sp: MERCUTIO
+    o:
+      - "O calm dishonourable, vile submission!"
+      - "*Alla stoccata* carries it away. *(draws his sword)*"
+      - "Tybalt, you ratcatcher, will you walk?"
+    m:
+      - "This calm submission is dishonorable and vile. The thrust of a sword will end this surrender. *(draws his sword)* Tybalt, you rat-catcher, will you go fight me?"
+
+  - sp: TYBALT
+    o:
+      - "What wouldst thou have with me?"
+    m:
+      - "What do you want from me?"
+
+  - sp: MERCUTIO
+    o:
+      - "Good King of Cats, nothing but one of your nine lives, that I mean to make bold withal, and, as you shall use me hereafter, dry-beat the rest of the eight. Will you pluck your sword out of his pilcher by the ears? Make haste, lest mine be about your ears ere it be out."
+    m:
+      - "Good King of Cats, I want to take one of your nine lives. I’ll take one, and, depending on how you treat me after that, I might beat the other eight out of you too. Will you pull your sword out of its sheath? Hurry up, or I’ll smack you on the ears with my sword before you have yours drawn."
+
+  - sp: TYBALT
+    o:
+      - "I am for you. *(draws his sword)*"
+    m:
+      - "I’ll fight you. *(he draws his sword)*"
+
+  - sp: ROMEO
+    o:
+      - "Gentle Mercutio, put thy rapier up."
+    m:
+      - "Noble Mercutio, put your sword away."
+
+  - sp: MERCUTIO
+    o:
+      - "Come, sir, your *passado*."
+    m:
+      - "*(to TYBALT)* Come on, sir, perform your forward thrust, your *passado.*"
+
+  - os: "MERCUTIO and TYBALT fight"
+    ms: "MERCUTIO and TYBALT fight"
+
+  - sp: ROMEO
+    o:
+      - "*(draws his sword)* Draw, Benvolio. Beat down their weapons."
+      - "Gentlemen, for shame! Forbear this outrage."
+      - "Tybalt, Mercutio! The Prince expressly hath"
+      - "Forbidden bandying in Verona streets."
+      - "Hold, Tybalt! Good Mercutio!"
+    m:
+      - "*(drawing his sword)* Draw your sword, Benvolio. Let’s beat down their weapons. Gentlemen, stop this disgraceful fight. Tybalt, Mercutio, the Prince has banned fighting in the streets of Verona. Stop, Tybalt. Stop, good Mercutio."
+
+  - os: "ROMEO tries to break up the fight TYBALT stabs MERCUTIO under ROMEO’s am"
+    ms: "ROMEO tries to break up the fight. TYBALT reaches under ROMEO’s arm and stabs MERCUTIO."
+
+  - sp: PETRUCHIO
+    o:
+      - "Away, Tybalt."
+    m:
+      - "Let’s get away, Tybalt."
+
+  - os: "Exeunt TYBALT, PETRUCHIO, and the other CAPULETS"
+    ms: "TYBALT, PETRUCHIO, and the other CAPULETS exit."
+
+  - sp: MERCUTIO
+    o:
+      - "I am hurt."
+      - "A plague o’ both your houses! I am sped."
+      - "Is he gone and hath nothing?"
+    m:
+      - "I’ve been hurt. May a plague curse both your families. I’m finished. Did he get away clean?"
+
+  - sp: BENVOLIO
+    o:
+      - "    What, art thou hurt?"
+    m:
+      - "What, are you hurt?"
+
+  - sp: MERCUTIO
+    o:
+      - "Ay, ay, a scratch, a scratch. Marry, ’tis enough."
+      - "Where is my page?—Go, villain, fetch a surgeon."
+    m:
+      - "Yes, yes. It’s a scratch, just a scratch. But it’s enough. Where is my page? Go, boy. Get me a doctor."
+
+  - os: "Exit MERCUTIO’S PAGE"
+    ms: "MERCUTIO’S PAGE exits."
+
+  - sp: ROMEO
+    o:
+      - "Courage, man. The hurt cannot be much."
+    m:
+      - "Have courage, man. The wound can’t be that bad."
+
+  - sp: MERCUTIO
+    o:
+      - "No, ’tis not so deep as a well nor so wide as a church-door, but ’tis enough, ’twill serve. Ask for me tomorrow, and you shall find me a grave man. I am peppered, I warrant, for this world. A plague o’ both your houses! Zounds, a dog, a rat, a mouse, a cat to scratch a man to death! A braggart, a rogue, a villain that fights by the book of arithmetic! Why the devil came you between us? I was hurt under your arm."
+    m:
+      - "No, it’s not as deep as a well, or as wide as a church door, but it’s enough. It’ll do the job. Ask for me tomorrow, and you’ll find me in a grave. I’m done for in this world, I believe. May a plague strike both your houses. Goddammit! I can’t believe that dog, that rat, that mouse, that cat could scratch me to death! That braggart, punk villain who fights like he learned swordsmanship from a manual! Why the hell did you come in between us? He struck me from under your arm."
+
+  - sp: ROMEO
+    o:
+      - "I thought all for the best."
+    m:
+      - "I thought it was the right thing to do."
+
+  - sp: MERCUTIO
+    o:
+      - "Help me into some house, Benvolio,"
+      - "Or I shall faint. A plague o’ both your houses!"
+      - "They have made worms’ meat of me. I have it,"
+      - "And soundly too. Your houses!"
+    m:
+      - "Take me inside some house, Benvolio, or I’ll pass out. May a plague strike both your families! They’ve turned me into food for worms. I’m done for. Curse your families!"
+
+  - os: "Exeunt MERCUTIO and BENVOLIO"
+    ms: "MERCUTIO and BENVOLIO exit."
+
+  - sp: ROMEO
+    o:
+      - "This gentleman, the Prince’s near ally,"
+      - "My very friend, hath got his mortal hurt"
+      - "In my behalf. My reputation stained"
+      - "With Tybalt’s slander.—Tybalt, that an hour"
+      - "Hath been my kinsman! O sweet Juliet,"
+      - "Thy beauty hath made me effeminate"
+      - "And in my temper softened valor’s steel!"
+    m:
+      - "This gentleman Mercutio, a close relative of the Prince and my dear friend, was killed while defending me from Tybalt’s slander—Tybalt, who had been my cousin for a whole hour! Oh, sweet Juliet, your beauty has made me weak like a woman, and you have softened my bravery, which before was as hard as steel."
+
+  - os: "Enter BENVOLIO"
+    ms: "BENVOLIO enters."
+
+  - sp: BENVOLIO
+    o:
+      - "O Romeo, Romeo, brave Mercutio is dead!"
+      - "That gallant spirit hath aspired the clouds,"
+      - "Which too untimely here did scorn the earth."
+    m:
+      - "Oh Romeo, Romeo, brave Mercutio is dead! His brave spirit has floated up to heaven, but it was too early for him to leave life on earth."
+
+  - sp: ROMEO
+    o:
+      - "This day’s black fate on more days doth depend."
+      - "This but begins the woe others must end."
+    m:
+      - "The future will be affected by today’s terrible events. Today is the start of a terror that will end in the days ahead."
+
+  - os: "Enter TYBALT"
+    ms: "TYBALT enters."
+
+  - sp: BENVOLIO
+    o:
+      - "Here comes the furious Tybalt back again."
+    m:
+      - "Here comes the furious Tybalt back again."
+
+  - sp: ROMEO
+    o:
+      - "Alive in triumph—and Mercutio slain!"
+      - "Away to heaven, respective lenity,"
+      - "And fire-eyed fury be my conduct now."
+      - "Now, Tybalt, take the “villain” back again"
+      - "That late thou gavest me, for Mercutio’s soul"
+      - "Is but a little way above our heads,"
+      - "Staying for thine to keep him company."
+      - "Either thou or I, or both, must go with him."
+    m:
+      - "He’s alive and victorious, and Mercutio’s dead? Enough with mercy and consideration. It’s time for rage to guide my actions. Now, Tybalt, you can call me “villain” the way you did before. Mercutio’s soul is floating right above our heads. He’s waiting for you to keep him company on the way up to heaven. Either you, or I, or both of us have to go with him."
+
+  - sp: TYBALT
+    o:
+      - "Thou, wretched boy, that didst consort him here"
+      - "Shalt with him hence."
+    m:
+      - "Wretched boy, you hung out with him here, and you’re going to go to heaven with him."
+
+  - sp: ROMEO
+    o:
+      - "    This shall determine that."
+    m:
+      - "This fight will decide who dies."
+
+  - os: "They fight. TYBALT falls"
+    ms: "They fight. TYBALT falls and dies"
+
+  - sp: BENVOLIO
+    o:
+      - "Romeo, away, be gone!"
+      - "The citizens are up, and Tybalt slain."
+      - "Stand not amazed. The Prince will doom thee death"
+      - "If thou art taken. Hence, be gone, away!"
+    m:
+      - "Romeo, get out of here. The citizens are around, and Tybalt is dead. Don’t stand there shocked. The Prince will give you the death penalty if you get caught. So get out of here!"
+
+  - sp: ROMEO
+    o:
+      - "Oh, I am fortune’s fool!"
+    m:
+      - "Oh, I have awful luck."
+
+  - sp: BENVOLIO
+    o:
+      - "    Why dost thou stay?"
+    m:
+      - "Why are you waiting?"
+
+  - os: "Exit ROMEO"
+    ms: "ROMEO exits."
+
+  - os: "Enter CITIZENS OF THE WATCH"
+    ms: "The CITIZENS OF THE WATCH enter."
+
+  - sp: CITIZEN OF THE WATCH
+    o:
+      - "Which way ran he that killed Mercutio?"
+      - "Tybalt, that murderer, which way ran he?"
+    m:
+      - "The man who killed Mercutio, which way did he go? Tybalt, that murderer, which way did he run?"
+
+  - sp: BENVOLIO
+    o:
+      - "There lies that Tybalt."
+    m:
+      - "Tybalt is lying over there."
+
+  - sp: CITIZEN OF THE WATCH
+    o:
+      - "*(to TYBALT)* Up, sir, go with me."
+      - "I charge thee in the Prince’s name, obey."
+    m:
+      - "*(to TYBALT)* Get up, sir, and come with me. I command you, by the authority of the Prince, to obey me."
+
+  - os: "Enter PRINCE, MONTAGUE, CAPULET, LADY MONTAGUE, LADY CAPULET, and OTHERS"
+    ms: "The PRINCE enters with MONTAGUE, CAPULET, LADY MONTAGUE, LADY CAPULET, and OTHERS."
+
+  - sp: PRINCE
+    o:
+      - "Where are the vile beginners of this fray?"
+    m:
+      - "Where are the evil men who started this fight?"
+
+  - sp: BENVOLIO
+    o:
+      - "O noble prince, I can discover all"
+      - "The unlucky manage of this fatal brawl."
+      - "There lies the man, slain by young Romeo,"
+      - "That slew thy kinsman, brave Mercutio."
+    m:
+      - "Oh, noble prince, I can tell you everything about the unfortunate circumstances of this deadly fight. Over there Tybalt is lying dead. He killed your relative, brave Mercutio, and then young Romeo killed him."
+
+  - sp: LADY CAPULET
+    o:
+      - "Tybalt, my cousin! O my brother’s child!"
+      - "O Prince! O cousin! Husband! Oh, the blood is spilled"
+      - "Of my dear kinsman! Prince, as thou art true,"
+      - "For blood of ours shed blood of Montague."
+      - "O cousin, cousin!"
+    m:
+      - "Tybalt was my nephew! He was my brother’s son! Oh Prince, oh nephew, oh husband! Oh, my nephew is dead! Oh Prince, as you are a man of honor, take revenge for this murder by killing someone from the Montague family. Oh cousin, cousin!"
+
+  - sp: PRINCE
+    o:
+      - "  Benvolio, who began this bloody fray?"
+    m:
+      - "Benvolio, who started this fight?"
+
+  - sp: BENVOLIO
+    o:
+      - "Tybalt here slain, whom Romeo’s hand did slay."
+      - "Romeo, that spoke him fair, bade him bethink"
+      - "How nice the quarrel was and urged withal"
+      - "Your high displeasure. All this uttered"
+      - "With gentle breath, calm look, knees humbly bowed,"
+      - "Could not take truce with the unruly spleen"
+      - "Of Tybalt deaf to peace, but that he tilts"
+      - "With piercing steel at bold Mercutio’s breast,"
+      - "Who, all as hot, turns deadly point to point,"
+      - "And, with a martial scorn, with one hand beats"
+      - "Cold death aside and with the other sends"
+      - "It back to Tybalt, whose dexterity,"
+      - "Retorts it. Romeo, he cries aloud,"
+      - "“Hold, friends! Friends, part!” and, swifter than his tongue,"
+      - "His agile arm beats down their fatal points,"
+      - "And ’twixt them rushes—underneath whose arm"
+      - "An envious thrust from Tybalt hit the life"
+      - "Of stout Mercutio, and then Tybalt fled."
+      - "But by and by comes back to Romeo,"
+      - "Who had but newly entertained revenge,"
+      - "And to ’t they go like lightning, for ere I"
+      - "Could draw to part them was stout Tybalt slain."
+      - "And, as he fell, did Romeo turn and fly."
+      - "This is the truth, or let Benvolio die."
+    m:
+      - "Tybalt started the fight before he was killed by Romeo. Romeo spoke to Tybalt politely and told him how silly this argument was. He mentioned that you would not approve of the fight. He said all of this gently and calmly, kneeling down out of respect. But he could not make peace with Tybalt, who was in an angry mood and wouldn’t listen to talk about peace. Tybalt and Mercutio began to fight each other fiercely, lunging at one another and dodging each other’s blows. Romeo cried out, “Stop, my friends. Break it up.” Then he jumped in between them and forced them to put their swords down. But Tybalt reached under Romeo’s arm and thrust his sword into brave Mercutio. Then Tybalt fled the scene. But pretty soon he came back to meet Romeo, who was overcome with the desire for revenge. As quick as lightning, they started fighting. Before I could break up the fight, Tybalt was killed. Romeo ran away when Tybalt fell dead. I’m telling you the truth, I swear on my life."
+
+  - sp: LADY CAPULET
+    o:
+      - "He is a kinsman to the Montague."
+      - "Affection makes him false. He speaks not true."
+      - "Some twenty of them fought in this black strife,"
+      - "And all those twenty could but kill one life."
+      - "I beg for justice, which thou, Prince, must give."
+      - "Romeo slew Tybalt. Romeo must not live."
+    m:
+      - "Benvolio is part of the Montague family. His loyalties to the Montagues make him tell lies. He’s not telling the truth. There were twenty Montagues fighting in this awful riot, and together those twenty could only kill one man. I demand justice. You, Prince, are the man who can give me justice. Romeo killed Tybalt. Romeo must die."
+
+  - sp: PRINCE
+    o:
+      - "Romeo slew him; he slew Mercutio."
+      - "Who now the price of his dear blood doth owe?"
+    m:
+      - "Romeo killed Tybalt. Tybalt killed Mercutio. Who should now pay the price for Mercutio’s life?"
+
+  - sp: MONTAGUE
+    o:
+      - "Not Romeo, Prince, he was Mercutio’s friend."
+      - "His fault concludes but what the law should end,"
+      - "The life of Tybalt."
+    m:
+      - "Not Romeo, Prince. He was Mercutio’s friend. His crime did justice’s job by taking Tybalt’s life."
+
+  - sp: PRINCE
+    o:
+      - "  And for that offence"
+      - "Immediately we do exile him hence."
+      - "I have an interest in your hearts’ proceeding."
+      - "My blood for your rude brawls doth lie a-bleeding."
+      - "But I’ll amerce you with so strong a fine"
+      - "That you shall all repent the loss of mine."
+      - "I will be deaf to pleading and excuses."
+      - "Nor tears nor prayers shall purchase out abuses,"
+      - "Therefore use none. Let Romeo hence in haste,"
+      - "Else, when he’s found, that hour is his last."
+      - "Bear hence this body and attend our will."
+      - "Mercy but murders, pardoning those that kill."
+    m:
+      - "And for that crime, Romeo is hereby exiled from Verona. I’m involved in your rivalry. Mercutio was my relative, and he lies dead because of your bloody feud. I’ll punish you so harshly that you’ll regret causing me this loss. I won’t listen to your pleas or excuses. You can’t get out of trouble by praying or crying, so don’t bother. Tell Romeo to leave the city immediately, or else, if he is found, he will be killed. Take away this body, and do what I say. Showing mercy by pardoning killers only causes more murders."
+
+  - os: "Exeunt"
+    ms: "They exit."

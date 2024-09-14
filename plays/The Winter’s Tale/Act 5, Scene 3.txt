@@ -1,0 +1,409 @@
+play: The Winter’s Tale
+title: Act 5, Scene 3
+group: 5
+order: 14
+text:
+  - os: "A chapel in PAULINA’s house."
+    ms: "A chapel in PAULINA’s house."
+
+  - os: "Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA, Lords, and Attendants"
+    ms: "LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, and PAULINA enter, along with lords and attendants."
+
+  - sp: LEONTES
+    o:
+      - "O grave and good Paulina, the great comfort"
+      - "That I have had of thee!"
+    m:
+      - "Oh, serious and good Paulina, you have given me great comfort."
+
+  - sp: PAULINA
+    o:
+      - "What, sovereign sir,"
+      - "I did not well I meant well. All my services"
+      - "You have paid home: but that you have vouchsafed,"
+      - "With your crown’d brother and these your contracted"
+      - "Heirs of your kingdoms, my poor house to visit,"
+      - "It is a surplus of your grace, which never"
+      - "My life may last to answer."
+    m:
+      - "Sir, even if I didn’t always succeed in doing well, I always meant well. You’ve repaid all my services. The fact that you’ve vowed to visit my poor house with your royal brother and the heirs of each of your kingdoms shows your immense grace, which I’ll never be able to repay."
+
+  - sp: LEONTES
+    o:
+      - "O Paulina,"
+      - "We honour you with trouble: but we came"
+      - "To see the statue of our queen: your gallery"
+      - "Have we pass’d through, not without much content"
+      - "In many singularities; but we saw not"
+      - "That which my daughter came to look upon,"
+      - "The statue of her mother."
+    m:
+      - "Oh, Paulina, we honor you by disturbing you. But we came to see the statue of my queen. We’ve passed through your gallery, which has many amazing items, but we didn’t see what my daughter came to see: the statue of her mother."
+
+  - sp: PAULINA
+    o:
+      - "As she lived peerless,"
+      - "So her dead likeness, I do well believe,"
+      - "Excels whatever yet you look’d upon"
+      - "Or hand of man hath done; therefore I keep it"
+      - "Lonely, apart. But here it is: prepare"
+      - "To see the life as lively mock’d as ever"
+      - "Still sleep mock’d death: behold, and say ’tis well."
+    m:
+      - "Just as she was without peer in life, I believe that her dead statue is more beautiful that anything you’ve seen or that man has created. So I keep it apart from the others. But here it is. Prepare to see life mimicked as well as sleep mimics death. Look, and say it is beautiful."
+
+  - os: "PAULINA draws a curtain, and discovers HERMIONE standing like a statue"
+    ms: "Paulina draws a curtain to reveal Hermione, standing like a statue."
+
+  - o:
+      - "I like your silence, it the more shows off"
+      - "Your wonder: but yet speak; first, you, my liege,"
+      - "Comes it not something near?"
+    m:
+      - "I like your silence. It shows how awed you are. But you, my lord, answer first—doesn’t it look like her?"
+
+  - sp: LEONTES
+    o:
+      - "Her natural posture!"
+      - "Chide me, dear stone, that I may say indeed"
+      - "Thou art Hermione; or rather, thou art she"
+      - "In thy not chiding, for she was as tender"
+      - "As infancy and grace. But yet, Paulina,"
+      - "Hermione was not so much wrinkled, nothing"
+      - "So aged as this seems."
+    m:
+      - "Just as she stood! Reprimand me, dear stone, that I say that you are indeed Hermione. Or rather, don’t reprimand me, since you are so like her and she had a tender nature. But still, Paulina, Hermione wasn’t this wrinkled and not as old as this statue appears."
+
+  - sp: POLIXENES
+    o:
+      - "O, not by much."
+    m:
+      - "Oh, not at all."
+
+  - sp: PAULINA
+    o:
+      - "So much the more our carver’s excellence;"
+      - "Which lets go by some sixteen years and makes her"
+      - "As she lived now."
+    m:
+      - "That shows how excellent the sculptor is. He thinks about what she would look like now, sixteen years having passed, and makes her look as though she lived now."
+
+  - sp: LEONTES
+    o:
+      - "As now she might have done,"
+      - "So much to my good comfort, as it is"
+      - "Now piercing to my soul. O, thus she stood,"
+      - "Even with such life of majesty, warm life,"
+      - "As now it coldly stands, when first I woo’d her!"
+      - "I am ashamed: does not the stone rebuke me"
+      - "For being more stone than it? O royal piece,"
+      - "There’s magic in thy majesty, which has"
+      - "My evils conjured to remembrance and"
+      - "From thy admiring daughter took the spirits,"
+      - "Standing like stone with thee."
+    m:
+      - "This statue comforts me now, as she might have done, as much as it pains me to look at it. Oh, when I first courted her she stood just this way, with as much majesty and warmth as this stone has coldness. I am ashamed. Doesn’t the stone chastise me for being colder than it is? Oh, royal piece of art, there’s magic in your regal appearance, which has brought all my foul deeds to mind and has made your admiring daughter stand as still as stone like you."
+
+  - sp: PERDITA
+    o:
+      - "And give me leave,"
+      - "And do not say ’tis superstition, that"
+      - "I kneel and then implore her blessing. Lady,"
+      - "Dear queen, that ended when I but began,"
+      - "Give me that hand of yours to kiss."
+    m:
+      - "Let me kneel and implore her blessing, and don’t say it is superstition. Lady, dear queen, who died just as I was beginning to live, give me your hand to kiss."
+
+  - sp: PAULINA
+    o:
+      - "O, patience!"
+      - "The statue is but newly fix’d, the colour’s"
+      - "Not dry."
+    m:
+      - "Oh, wait! The statue is still new, and the paint isn’t dry."
+
+  - sp: CAMILLO
+    o:
+      - "My lord, your sorrow was too sore laid on,"
+      - "Which sixteen winters cannot blow away,"
+      - "So many summers dry; scarce any joy"
+      - "Did ever so long live; no sorrow"
+      - "But kill’d itself much sooner."
+    m:
+      - "My lord, your sorrow is too deep. Sixteen winters haven’t blown it away, and many summers haven’t dried it. No joy lives that long, and neither has any sorrow."
+
+  - sp: POLIXENES
+    o:
+      - "Dear my brother,"
+      - "Let him that was the cause of this have power"
+      - "To take off so much grief from you as he"
+      - "Will piece up in himself."
+    m:
+      - "My dear brother, since I was a cause of this situation, let me take some grief from you to make a part of myself."
+
+  - sp: PAULINA
+    o:
+      - "Indeed, my lord,"
+      - "If I had thought the sight of my poor image"
+      - "Would thus have wrought you,—for the stone is mine—"
+      - "I’ld not have show’d it."
+    m:
+      - "Indeed, my lord, if I had thought seeing this poor statue would have made you so distraught, I wouldn’t have shown it to you. *(She moves to close the curtain.)*"
+
+  - sp: LEONTES
+    o:
+      - "Do not draw the curtain."
+    m:
+      - "Don’t draw the curtain."
+
+  - sp: PAULINA
+    o:
+      - "No longer shall you gaze on’t, lest your fancy"
+      - "May think anon it moves."
+    m:
+      - "Don’t look at it any longer, or you’ll imagine soon that it moves."
+
+  - sp: LEONTES
+    o:
+      - "Let be, let be."
+      - "Would I were dead, but that, methinks, already—"
+      - "What was he that did make it? See, my lord,"
+      - "Would you not deem it breathed? and that those veins"
+      - "Did verily bear blood?"
+    m:
+      - "Let it be. If only I were dead, but I think already— Who made it? Look, my lord, wouldn’t you say it took a breath? And that those veins were filled with blood?"
+
+  - sp: POLIXENES
+    o:
+      - "Masterly done:"
+      - "The very life seems warm upon her lip."
+    m:
+      - "It’s masterfully done. Her mouth seems warmed with breath."
+
+  - sp: LEONTES
+    o:
+      - "The fixture of her eye has motion in’t,"
+      - "As we are mock’d with art."
+    m:
+      - "Her eyes seem to move, as though we are mocked by art."
+
+  - sp: PAULINA
+    o:
+      - "I’ll draw the curtain:"
+      - "My lord’s almost so far transported that"
+      - "He’ll think anon it lives."
+    m:
+      - "I’ll draw the curtain. My lord is so overwhelmed that soon he’ll think it lives."
+
+  - sp: LEONTES
+    o:
+      - "O sweet Paulina,"
+      - "Make me to think so twenty years together!"
+      - "No settled senses of the world can match"
+      - "The pleasure of that madness. Let ’t alone."
+    m:
+      - "Oh, sweet Paulina, make me think so for twenty more years! No sanity would match the pleasure of that madness. Leave it alone."
+
+  - sp: PAULINA
+    o:
+      - "I am sorry, sir, I have thus far stirr’d you: but"
+      - "I could afflict you farther."
+    m:
+      - "I’m sorry, sir, that I’ve made you so agitated, but to leave it would make it worse."
+
+  - sp: LEONTES
+    o:
+      - "Do, Paulina;"
+      - "For this affliction has a taste as sweet"
+      - "As any cordial comfort. Still, methinks,"
+      - "There is an air comes from her: what fine chisel"
+      - "Could ever yet cut breath? Let no man mock me,"
+      - "For I will kiss her."
+    m:
+      - "Do leave it, Paulina. This agitation is as sweet as any revitalizing comfort. Still, I think air is coming from her. What amazing artist could cut breath from stone? Don’t let anyone make fun of me, but I will kiss her."
+
+  - sp: PAULINA
+    o:
+      - "Good my lord, forbear:"
+      - "The ruddiness upon her lip is wet;"
+      - "You’ll mar it if you kiss it, stain your own"
+      - "With oily painting. Shall I draw the curtain?"
+    m:
+      - "Don’t do it, my lord. The red of her lips is wet. You’ll ruin it if you kiss it, and you’ll get your own lips covered in oil paint. Shall I draw the curtain?"
+
+  - sp: LEONTES
+    o:
+      - "No, not these twenty years."
+    m:
+      - "No, not for twenty years."
+
+  - sp: PERDITA
+    o:
+      - "So long could I"
+      - "Stand by, a looker on."
+    m:
+      - "I could stand here that long, looking at her."
+
+  - sp: PAULINA
+    o:
+      - "Either forbear,"
+      - "Quit presently the chapel, or resolve you"
+      - "For more amazement. If you can behold it,"
+      - "I’ll make the statue move indeed, descend"
+      - "And take you by the hand; but then you’ll think—"
+      - "Which I protest against—I am assisted"
+      - "By wicked powers."
+    m:
+      - "Either resist the temptation and leave the chapel, or prepare yourselves for more amazement. If you can take it, I’ll make the statue move, step down from her pedestal, and take you by the hand. But then you’ll think I’m a witch, though I swear I am not."
+
+  - sp: LEONTES
+    o:
+      - "What you can make her do,"
+      - "I am content to look on: what to speak,"
+      - "I am content to hear; for ’tis as easy"
+      - "To make her speak as move."
+    m:
+      - "Whatever you can make her do, I’m happy to watch. Whatever you can make her say, I’m happy to hear, because it must be as easy to make her speak as it is to make her move."
+
+  - sp: PAULINA
+    o:
+      - "It is required"
+      - "You do awake your faith. Then all stand still;"
+      - "On: those that think it is unlawful business"
+      - "I am about, let them depart."
+    m:
+      - "It’s necessary that you have faith. So everyone hold still, and anyone who thinks this is bad business should leave now."
+
+  - sp: LEONTES
+    o:
+      - "Proceed:"
+      - "No foot shall stir."
+    m:
+      - "Go ahead. No one will move."
+
+  - sp: PAULINA
+    o:
+      - "Music, awake her; strike!"
+    m:
+      - "Music, wake her!"
+
+  - os: "Music"
+    ms: "Music plays."
+
+  - o:
+      - "’Tis time; descend; be stone no more; approach;"
+      - "Strike all that look upon with marvel. Come,"
+      - "I’ll fill your grave up: stir, nay, come away,"
+      - "Bequeath to death your numbness, for from him"
+      - "Dear life redeems you. You perceive she stirs:"
+    m:
+      - "It’s time. Come down, and no longer be stone. Come forward. Make everyone who looks at you be amazed. Come, I’ll fill up your grave. Move, no, move away, let Death have your numbness since life is taking you from him. You see she moves."
+
+  - os: "HERMIONE comes down"
+    ms: "Hermione comes down."
+
+  - o:
+      - "Start not; her actions shall be holy as"
+      - "You hear my spell is lawful: do not shun her"
+      - "Until you see her die again; for then"
+      - "You kill her double. Nay, present your hand:"
+      - "When she was young you woo’d her; now in age"
+      - "Is she become the suitor?"
+    m:
+      - "Don’t jump. Her actions are pure, and this spell is no evil enchantment. Don’t shun her, because if you do, you’ll kill her all over again. No, put your hand forward. You courted her when she was young. Now in old age does she have to court you?"
+
+  - sp: LEONTES
+    o:
+      - "O, she’s warm!"
+      - "If this be magic, let it be an art"
+      - "Lawful as eating."
+    m:
+      - "Oh, she’s warm! If this is magic, it should be as ordinary as eating."
+
+  - sp: POLIXENES
+    o:
+      - "She embraces him."
+    m:
+      - "She embraces him."
+
+  - sp: CAMILLO
+    o:
+      - "She hangs about his neck:"
+      - "If she pertain to life let her speak too."
+    m:
+      - "She hugs him. If she is really alive let her speak, too."
+
+  - sp: POLIXENES
+    o:
+      - "Ay, and make’t manifest where she has lived,"
+      - "Or how stolen from the dead."
+    m:
+      - "Yes, and tell us where she has lived, or how she’s come back to life."
+
+  - sp: PAULINA
+    o:
+      - "That she is living,"
+      - "Were it but told you, should be hooted at"
+      - "Like an old tale: but it appears she lives,"
+      - "Though yet she speak not. Mark a little while."
+      - "Please you to interpose, fair madam: kneel"
+      - "And pray your mother’s blessing. Turn, good lady;"
+      - "Our Perdita is found."
+    m:
+      - "If you were told she was alive, you would consider it a fable. But it seems she is alive, even though she doesn’t speak. Look for a while. *(to Perdita)* Please, intervene, fair madam. Kneel down and ask for your mother’s blessing. Look, good lady—our Perdita is found."
+
+  - sp: HERMIONE
+    o:
+      - "You gods, look down"
+      - "And from your sacred vials pour your graces"
+      - "Upon my daughter’s head! Tell me, mine own."
+      - "Where hast thou been preserved? where lived? how found"
+      - "Thy father’s court? for thou shalt hear that I,"
+      - "Knowing by Paulina that the oracle"
+      - "Gave hope thou wast in being, have preserved"
+      - "Myself to see the issue."
+    m:
+      - "You gods, look down and pour your blessings upon my daughter’s head! Tell me, my child, where have you been kept safe? Where have you lived? How did you find yourself in your father’s court? Paulina told me the oracle gave hope that you were still alive, so I stayed alive to see you someday."
+
+  - sp: PAULINA
+    o:
+      - "There’s time enough for that;"
+      - "Lest they desire upon this push to trouble"
+      - "Your joys with like relation. Go together,"
+      - "You precious winners all; your exultation"
+      - "Partake to every one. I, an old turtle,"
+      - "Will wing me to some wither’d bough and there"
+      - "My mate, that’s never to be found again,"
+      - "Lament till I am lost."
+    m:
+      - "There’s enough time for that later, and they might want you to answer the same questions.  Go together, you happy people, and all rejoice. Like an old turtledove, I’ll take myself off to a solitary bough and mourn my husband, who will never be found again."
+
+  - sp: LEONTES
+    o:
+      - "O, peace, Paulina!"
+      - "Thou shouldst a husband take by my consent,"
+      - "As I by thine a wife: this is a match,"
+      - "And made between’s by vows. Thou hast found mine;"
+      - "But how, is to be question’d; for I saw her,"
+      - "As I thought, dead, and have in vain said many"
+      - "A prayer upon her grave. I’ll not seek far—"
+      - "For him, I partly know his mind—to find thee"
+      - "An honourable husband. Come, Camillo,"
+      - "And take her by the hand, whose worth and honesty"
+      - "Is richly noted and here justified"
+      - "By us, a pair of kings. Let’s from this place."
+      - "What! look upon my brother: both your pardons,"
+      - "That e’er I put between your holy looks"
+      - "My ill suspicion. This is your son-in-law,"
+      - "And son unto the king, who, heavens directing,"
+      - "Is troth-plight to your daughter. Good Paulina,"
+      - "Lead us from hence, where we may leisurely"
+      - "Each one demand an answer to his part"
+      - "Perform’d in this wide gap of time since first"
+      - "We were dissever’d: hastily lead away."
+    m:
+      - "Oh, peace, Paulina! You should take a husband that I approve of, as I take a wife that you approve of. This is a contract, vowed between us. You have found mine, though I don’t know how, since I saw her and believed her to be dead, and I’ve futilely said several prayers on her grave. I won’t have to look far to find you an honorable husband, since I know his mind already. Come, Camillo, take her by the hand. Her worth and honesty is well known and affirmed by both Polixenes and me. Let’s leave this place. *(to Hermione)* Look at my brother! I beg both your pardons for having suspected sin in your innocent glances. This is your son-in-law, the son of Polixenes, who is engaged to your daughter. Good Paulina, lead us away from here, and we’ll each answer for what we’ve all done in this wide expanse of time since we first separated. Quickly, lead us away."
+
+  - os: "Exeunt."
+    ms: "They exit."
+

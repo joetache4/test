@@ -1,0 +1,1068 @@
+play: Othello
+title: Act 4, Scene 1
+group: 4
+order: 10
+text:
+  - os: "Enter OTHELLO and IAGO"
+    ms: "OTHELLO and IAGO enter."
+
+  - sp: IAGO
+    o:
+      - "Will you think so?"
+    m:
+      - "Do you really think so?"
+
+  - sp: OTHELLO
+    o:
+      - "    Think so, Iago?"
+    m:
+      - "What do you mean, do I think so?"
+
+  - sp: IAGO
+    o:
+      - "    What,"
+      - "To kiss in private?"
+    m:
+      - "What, just because they kissed in private?"
+
+  - sp: OTHELLO
+    o:
+      - "  An unauthorized kiss!"
+    m:
+      - "An illicit kiss!"
+
+  - sp: IAGO
+    o:
+      - "Or to be naked with her friend in bed"
+      - "An hour or more, not meaning any harm?"
+    m:
+      - "Maybe she was just naked in bed with him for an hour or so, but they didn’t do anything."
+
+  - sp: OTHELLO
+    o:
+      - "Naked in bed, Iago, and not mean harm!"
+      - "It is hypocrisy against the devil."
+      - "They that mean virtuously, and yet do so,"
+      - "The devil their virtue tempts, and they tempt heaven."
+    m:
+      - "Naked in bed together, but without doing anything? Come on, Iago. That would be like playing a trick on the devil: they’d make him think they’re going to commit adultery, but then back off. Anyone who acted like that would be letting the devil tempt them, and tempting God to condemn them."
+
+  - sp: IAGO
+    o:
+      - "So they do nothing, ’tis a venial slip."
+      - "But if I give my wife a handkerchief—"
+    m:
+      - "As long as they didn’t do anything, it would only be a minor sin. But if I gave my wife a handkerchief—"
+
+  - sp: OTHELLO
+    o:
+      - "What then?"
+    m:
+      - "Then what?"
+
+  - sp: IAGO
+    o:
+      - "Why then ’tis hers, my lord, and, being hers,"
+      - "She may, I think, bestow ’t on any man."
+    m:
+      - "Then it’s hers. And if it’s hers, I guess she can give it to any man she wants."
+
+  - sp: OTHELLO
+    o:
+      - "She is protectress of her honor too."
+      - "May she give that?"
+    m:
+      - "Her reputation is also her own. Can she give that away too?"
+
+  - sp: IAGO
+    o:
+      - "Her honor is an essence that’s not seen,"
+      - "They have it very oft that have it not."
+      - "But for the handkerchief—"
+    m:
+      - "You can’t see a reputation. A lot of people don’t even deserve the reputations they have. But a handkerchief—"
+
+  - sp: OTHELLO
+    o:
+      - "By heaven, I would most gladly have forgot it."
+      - "Thou saidst—Oh, it comes o’er my memory,"
+      - "As doth the raven o’er the infectious house,"
+      - "Boding to all—he had my handkerchief."
+    m:
+      - "God, I wish I could forget about the handkerchief! What you told me it haunts me like a nightmare—he’s got my handkerchief!"
+
+  - sp: IAGO
+    o:
+      - "Ay, what of that?"
+    m:
+      - "Yes, what about it?"
+
+  - sp: OTHELLO
+    o:
+      - "  That’s not so good now."
+    m:
+      - "That’s not good."
+
+  - sp: IAGO
+    o:
+      - "What if I had said I had seen him do you wrong?"
+      - "Or heard him say—as knaves be such abroad,"
+      - "Who having, by their own importunate suit,"
+      - "Or voluntary dotage of some mistress,"
+      - "Convincèd or supplied them, cannot choose"
+      - "But they must blab—"
+    m:
+      - "What if I’d said I saw him do something to hurt you? Or heard him say something about it. You know there are jerks out there who have to brag about bedding some woman.—"
+
+  - sp: OTHELLO
+    o:
+      - "    Hath he said any thing?"
+    m:
+      - "Has he said anything?"
+
+  - sp: IAGO
+    o:
+      - "He hath, my lord, but be you well assured"
+      - "No more than he’ll unswear."
+    m:
+      - "Yes, but he’d deny it all."
+
+  - sp: OTHELLO
+    o:
+      - "    What hath he said?"
+    m:
+      - "What did he say?"
+
+  - sp: IAGO
+    o:
+      - "Why, that he did—I know not what he did."
+    m:
+      - "He said he did—I don’t know."
+
+  - sp: OTHELLO
+    o:
+      - "What? what?"
+    m:
+      - "He what?"
+
+  - sp: IAGO
+    o:
+      - "  Lie—"
+    m:
+      - "He was in bed with—"
+
+  - sp: OTHELLO
+    o:
+      - "  With her?"
+    m:
+      - "With her?"
+
+  - sp: IAGO
+    o:
+      - "    With her, on her, what you will."
+    m:
+      - "With her, on top of her—however you want to say it."
+
+  - sp: OTHELLO
+    o:
+      - "Lie with her? lie on her? We say “lie on her” when they belie her! Lie with her—that’s fulsome. Handkerchief—confessions—handkerchief! To confess, and be hanged for his labor. First to be hanged, and then to confess—I tremble at it. Nature would not invest herself in such shadowing passion without some instruction. It is not words that shake me thus. Pish! Noses, ears, and lips. Is ’t possible? Confess!—Handkerchief!—Oh, devil!—"
+    m:
+      - "In bed with her? On top of her? I would have thought people were telling lies about her rather than believe he was lying on her. My God, it’s nauseating! Handkerchief—confessions—handkerchief! I’ll kill him first, and then let him confess—I’m trembling with rage. I wouldn’t be trembling like this if I didn’t know deep down this was all true. Noses, ears, lips. Is it possible? Tell me the truth—Handkerchief—Damn it!"
+
+  - os: "*(falls in a trance)*"
+    ms: "*(he falls into a trance)*"
+
+  - sp: IAGO
+    o:
+      - "Work on, My medicine, work! Thus credulous fools are caught,"
+      - "And many worthy and chaste dames even thus,"
+      - "All guiltless, meet reproach.—What, ho! My lord!"
+      - "My lord, I say! Othello!"
+    m:
+      - "Keep working, poison! This is the way to trick gullible fools. Many good and innocent women are punished for reasons like this.—My lord? My lord, Othello!"
+
+  - os: "Enter CASSIO"
+    ms: "CASSIO enters."
+
+  - o:
+      - "    How now, Cassio!"
+    m:
+      - "Hey, Cassio!"
+
+  - sp: CASSIO
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: IAGO
+    o:
+      - "My lord is fall’n into an epilepsy."
+      - "This is his second fit. He had one yesterday."
+    m:
+      - "Othello’s having some kind of epileptic fit. This is his second fit like this. He had one yesterday."
+
+  - sp: CASSIO
+    o:
+      - "Rub him about the temples."
+    m:
+      - "Rub his temples."
+
+  - sp: IAGO
+    o:
+      - "    No, forbear."
+      - "The lethargy must have his quiet course."
+      - "If not, he foams at mouth and by and by"
+      - "Breaks out to savage madness. Look, he stirs."
+      - "Do you withdraw yourself a little while,"
+      - "He will recover straight. When he is gone"
+      - "I would on great occasion speak with you."
+    m:
+      - "No, don’t. This fit has to run its course. If you interrupt it, he’ll foam at the mouth and go crazy. Look, he’s moving. Why don’t you go away for a bit? He’ll get better right away. When he leaves, it’s very important that I talk to you."
+
+  - os: "Exit CASSIO"
+    ms: "CASSIO exits."
+
+  - o:
+      - "How is it, general? Have you not hurt your head?"
+    m:
+      - "What happened, general? Did you hit your head?"
+
+  - sp: OTHELLO
+    o:
+      - "Dost thou mock me?"
+    m:
+      - "Are you making fun of me?"
+
+  - sp: IAGO
+    o:
+      - "    I mock you not, by heaven."
+      - "Would you would bear your fortune like a man!"
+    m:
+      - "Making fun of you? No, I swear! I wish you could face your bad news like a man!"
+
+  - sp: OTHELLO
+    o:
+      - "A hornèd man’s a monster and a beast."
+    m:
+      - "A man who’s been cheated on isn’t a real man. He’s subhuman, like an animal."
+
+  - sp: IAGO
+    o:
+      - "There’s many a beast then in a populous city,"
+      - "And many a civil monster."
+    m:
+      - "In that case there are a lot of animals on the loose in this city."
+
+  - sp: OTHELLO
+    o:
+      - "Did he confess it?"
+    m:
+      - "Did he confess?"
+
+  - sp: IAGO
+    o:
+      - "  Good sir, be a man,"
+      - "Think every bearded fellow that’s but yoked"
+      - "May draw with you. There’s millions now alive"
+      - "That nightly lie in those unproper beds"
+      - "Which they dare swear peculiar. Your case is better."
+      - "Oh, ’tis the spite of hell, the fiend’s arch-mock,"
+      - "To lip a wanton in a secure couch,"
+      - "And to suppose her chaste. No, let me know,"
+      - "And knowing what I am, I know what she shall be."
+    m:
+      - "Sir, be a man. Every married man has been cheated on. Millions of men sleep with wives who cheat on them, wrongly believing they belong to them alone. Your case is better than that. At least you’re not ignorant. The worst thing of all is to kiss your wife thinking she’s innocent, when in fact she’s a whore. No, I’d rather know the truth. Then I’ll know exactly what she is, just as I know what I am."
+
+  - sp: OTHELLO
+    o:
+      - "Oh, thou art wise! ’Tis certain."
+    m:
+      - "You’re wise! That’s for sure."
+
+  - sp: IAGO
+    o:
+      - "    Stand you awhile apart,"
+      - "Confine yourself but in a patient list."
+      - "Whilst you were here o’erwhelmèd with your grief—"
+      - "A passion most resulting such a man—"
+      - "Cassio came hither. I shifted him away"
+      - "And laid good ’scuses upon your ecstasy,"
+      - "Bade him anon return and here speak with me,"
+      - "The which he promised. Do but encave yourself,"
+      - "And mark the fleers, the gibes, and notable scorns"
+      - "That dwell in every region of his face."
+      - "For I will make him tell the tale anew"
+      - "Where, how, how oft, how long ago, and when"
+      - "He hath, and is again to cope your wife."
+      - "I say, but mark his gesture. Marry, patience,"
+      - "Or I shall say you are all in all in spleen,"
+      - "And nothing of a man."
+    m:
+      - "Go somewhere else for a while. Calm down. While you were dazed by grief—which isn’t appropriate for a man like you—Cassio showed up here. I got him to leave, and made up an excuse for your trance. I told him to come back and talk to me in a bit, and he promised he would. So hide here and watch how he sneers at you. I’ll make him tell me the whole story again—where, how often, how long ago—and when he plans to sleep with your wife in the future. I’m telling you, just watch his face. But stay calm, and don’t get carried away by rage, or I’ll think you’re not a man."
+
+  - sp: OTHELLO
+    o:
+      - "    Dost thou hear, Iago?"
+      - "I will be found most cunning in my patience,"
+      - "But—dost thou hear?—most bloody."
+    m:
+      - "Do you hear what I’m saying, Iago? I’ll be very patient, but—do you hear me?—I’m not done with him yet"
+
+  - sp: IAGO
+    o:
+      - "    That’s not amiss,"
+      - "But yet keep time in all. Will you withdraw?"
+    m:
+      - "That’s fine, but for now keep your cool. Will you go hide?"
+
+  - os: "OTHELLO withdraws"
+    ms: "OTHELLO hides."
+
+  - o:
+      - "Now will I question Cassio of Bianca,"
+      - "A huswife that by selling her desires"
+      - "Buys herself bread and clothes. It is a creature"
+      - "That dotes on Cassio, as ’tis the strumpet’s plague"
+      - "To beguile many and be beguiled by one."
+      - "He, when he hears of her, cannot refrain"
+      - "From the excess of laughter. Here he comes."
+    m:
+      - "Now I’ll ask Cassio about Bianca, a prostitute who sells her body for food and clothes. She’s crazy about Cassio. That’s the whore’s curse, to seduce many men, but to be seduced by one. Whenever he talks about her he can’t stop laughing."
+
+  - os: "Enter CASSIO"
+    ms: "CASSIO enters."
+
+  - o:
+      - "As he shall smile, Othello shall go mad."
+      - "And his unbookish jealousy must construe"
+      - "Poor Cassio’s smiles, gestures, and light behavior"
+      - "Quite in the wrong.—How do you now, lieutenant?"
+    m:
+      - "And when he laughs, Othello will go crazy. In his ignorant jealousy, he’ll totally misunderstand Cassio’s smiles, gestures, and jokes.—How are you, lieutenant?"
+
+  - sp: CASSIO
+    o:
+      - "The worser that you give me the addition"
+      - "Whose want even kills me."
+    m:
+      - "It doesn’t make me feel any better when you call me lieutenant. I’m dying to have that title back again."
+
+  - sp: IAGO
+    o:
+      - "Ply Desdemona well, and you are sure on ’t."
+      - "Now if this suit lay in Bianca’s power"
+      - "How quickly should you speed!"
+    m:
+      - "Just keep asking Desdemona, and it’ll be yours. If it was up to Bianca to get you your job back, you’d have had it already!"
+
+  - sp: CASSIO
+    o:
+      - "    Alas, poor caitiff!"
+    m:
+      - "The poor thing!"
+
+  - sp: OTHELLO
+    o:
+      - "Look how he laughs already!"
+    m:
+      - "He’s laughing already!"
+
+  - sp: IAGO
+    o:
+      - "I never knew woman love man so."
+    m:
+      - "I never knew a woman who loved a man so much."
+
+  - sp: CASSIO
+    o:
+      - "Alas, poor rogue, I think indeed she loves me."
+    m:
+      - "The poor thing, I really think she loves me."
+
+  - sp: OTHELLO
+    o:
+      - "Now he denies it faintly, and laughs it out."
+    m:
+      - "Now he denies it a bit, and tries to laugh it off."
+
+  - sp: IAGO
+    o:
+      - "Do you hear, Cassio?"
+    m:
+      - "Have you heard this, Cassio?"
+
+  - sp: OTHELLO
+    o:
+      - "    Now he importunes him"
+      - "To tell it o’er. Go to, well said, well said."
+    m:
+      - "He’s asking him to tell the story again. Go on, tell it."
+
+  - sp: IAGO
+    o:
+      - "She gives it out that you shall marry her."
+      - "Do you intend it?"
+    m:
+      - "She says you’re going to marry her. Are you?"
+
+  - sp: CASSIO
+    o:
+      - "Ha, ha, ha!"
+    m:
+      - "Ha, ha, ha!"
+
+  - sp: OTHELLO
+    o:
+      - "Do ye triumph, Roman? Do you triumph?"
+    m:
+      - "Are you laughing because you’ve won? Do you think you’ve won?"
+
+  - sp: CASSIO
+    o:
+      - "I marry her! What? A customer? Prithee bear some charity to my wit. Do not think it so unwholesome. Ha, ha, ha!"
+    m:
+      - "Me, marry her? That whore? Please give me a little credit! I’m not that stupid. Ha, ha, ha!"
+
+  - sp: OTHELLO
+    o:
+      - "So, so, so, so! They laugh that win!"
+    m:
+      - "So, so, so, so! The winner’s always got the last laugh, hasn’t he?"
+
+  - sp: IAGO
+    o:
+      - "Why the cry goes that you shall marry her."
+    m:
+      - "I swear, there’s a rumor going around that you’ll marry her."
+
+  - sp: CASSIO
+    o:
+      - "Prithee say true!"
+    m:
+      - "You’re kidding!"
+
+  - sp: IAGO
+    o:
+      - "I am a very villain else."
+    m:
+      - "If it’s not true, you can call me a villain."
+
+  - sp: OTHELLO
+    o:
+      - "Have you scored me? Well."
+    m:
+      - "Have you given me bastard children to raise? All right, then."
+
+  - sp: CASSIO
+    o:
+      - "This is the monkey’s own giving out. She is persuaded I will marry her, out of her own love and flattery, not out of my promise."
+    m:
+      - "The little monkey must have started that rumor herself. She thinks I’ll marry her because she loves me. She’s just flattering herself. I never promised her anything."
+
+  - sp: OTHELLO
+    o:
+      - "Iago beckons me. Now he begins the story."
+    m:
+      - "Iago is gesturing for me to come closer. Now he’s telling the story."
+
+  - sp: CASSIO
+    o:
+      - "She was here even now. She haunts me in every place. I was the other day talking on the sea-bank with certain Venetians, and thither comes the bauble and, by this hand, she falls me thus about my neck—"
+    m:
+      - "She was here just now. She hangs around me all the time. I was talking to some Venetians down by the shore, and the fool showed up. I swear to you, she put her arms around me like this—"
+
+  - sp: OTHELLO
+    o:
+      - "Crying “O dear Cassio!” as it were. His gesture imports it."
+    m:
+      - "Saying, “Oh, Cassio,” it seems, judging by his gestures."
+
+  - sp: CASSIO
+    o:
+      - "So hangs and lolls and weeps upon me, so shakes, and pulls me! Ha, ha, ha!"
+    m:
+      - "She hangs around me and dangles from my neck and cries, shaking me and pulling at me. Ha, ha, ha!"
+
+  - sp: OTHELLO
+    o:
+      - "Now he tells how she plucked him to my chamber. Oh, I see that nose of yours, but not that dog I shall throw it to."
+    m:
+      - "Now he’s saying how she took him into our bedroom. Oh, I can see your nose now. But I can’t see the dog I’m going to throw it to."
+
+  - sp: CASSIO
+    o:
+      - "Well, I must leave her company."
+    m:
+      - "I have to get rid of her."
+
+  - sp: IAGO
+    o:
+      - "Before me! Look, where she comes."
+    m:
+      - "Look out, here she comes."
+
+  - os: "Enter BIANCA"
+    ms: "BIANCA enters."
+
+  - sp: CASSIO
+    o:
+      - "’Tis such another fitchew. Marry, a perfumed one.—"
+      - "What do you mean by this haunting of me?"
+    m:
+      - "It’s a whore like all the others, stinking of cheap perfume.—Why are you always hanging around me?"
+
+  - sp: BIANCA
+    o:
+      - "Let the devil and his dam haunt you! What did you mean by that same handkerchief you gave me even now? I was a fine fool to take it. I must take out the work? A likely piece of work, that you should find it in your chamber, and not know who left it there! This is some minx’s token, and I must take out the work? There, give it your hobby-horse. Wheresoever you had it, I’ll take out no work on ’t."
+    m:
+      - "Damn you! What did you mean by giving me this handkerchief? I was an idiot to take it! You want me to copy the embroidery pattern? That was a likely story, that you found it in your room and didn’t know who it belonged to. This is a love token from some other slut, and you want me to copy its pattern for you? Give it back to her, I won’t do anything with it."
+
+  - sp: CASSIO
+    o:
+      - "How now, my sweet Bianca! How now, how now?"
+    m:
+      - "What is it, my dear Bianca? What’s wrong?"
+
+  - sp: OTHELLO
+    o:
+      - "By heaven, that should be my handkerchief!"
+    m:
+      - "My God, that’s my handkerchief!"
+
+  - sp: BIANCA
+    o:
+      - "If you’ll come to supper tonight, you may. If you will not, come when you are next prepared for."
+    m:
+      - "If you want to come have dinner with me, you can. If you don’t want to, then good riddance."
+
+  - os: "Exit"
+    ms: "BIANCA exits."
+
+  - sp: IAGO
+    o:
+      - "After her, after her."
+    m:
+      - "Go after her, go."
+
+  - sp: CASSIO
+    o:
+      - "I must, she’ll rail in the street else."
+    m:
+      - "Actually, I should. She’ll scream in the streets if I don’t."
+
+  - sp: IAGO
+    o:
+      - "Will you sup there?"
+    m:
+      - "Will you be having dinner with her tonight?"
+
+  - sp: CASSIO
+    o:
+      - "Yes, I intend so."
+    m:
+      - "Yes, I will."
+
+  - sp: IAGO
+    o:
+      - "Well, I may chance to see you, for I would very fain speak with you."
+    m:
+      - "Well, maybe I’ll see you there. I’d really like to speak with you."
+
+  - sp: CASSIO
+    o:
+      - "Prithee come, will you?"
+    m:
+      - "Please come. Will you?"
+
+  - sp: IAGO
+    o:
+      - "Go to! Say no more."
+    m:
+      - "Don’t talk anymore, go after her."
+
+  - os: "Exit CASSIO"
+    ms: "CASSIO exits."
+
+  - sp: OTHELLO
+    o:
+      - "*(advancing)* How shall I murder him, Iago?"
+    m:
+      - "*(coming forward)* How should I murder him, Iago?"
+
+  - sp: IAGO
+    o:
+      - "Did you perceive how he laughed at his vice?"
+    m:
+      - "Did you see how he laughed about sleeping with her?"
+
+  - sp: OTHELLO
+    o:
+      - "O Iago!"
+    m:
+      - "Oh Iago!"
+
+  - sp: IAGO
+    o:
+      - "And did you see the handkerchief?"
+    m:
+      - "And did you see the handkerchief?"
+
+  - sp: OTHELLO
+    o:
+      - "Was that mine?"
+    m:
+      - "Was it mine?"
+
+  - sp: IAGO
+    o:
+      - "Yours by this hand. And to see how he prizes the foolish woman your wife! She gave it him, and he hath given it his whore."
+    m:
+      - "It was yours, I swear. And do you see how much your foolish wife means to him? She gave it to him, and he gave it to his whore."
+
+  - sp: OTHELLO
+    o:
+      - "I would have him nine years a-killing. A fine woman! A fair woman! A sweet woman!"
+    m:
+      - "I wish I could keep killing him for nine years straight. Oh, she’s a fine woman! A fair woman! A sweet woman!"
+
+  - sp: IAGO
+    o:
+      - "Nay, you must forget that."
+    m:
+      - "No, you have to forget all that now."
+
+  - sp: OTHELLO
+    o:
+      - "Ay, let her rot and perish and be damned tonight, for she shall not live. No, my heart is turned to stone. I strike it and it hurts my hand. Oh, the world hath not a sweeter creature, she might lie by an emperor’s side and command him tasks."
+    m:
+      - "Yes, let her die and rot and go to hell tonight. She won’t stay alive for long. No, my heart’s turned to stone—when I hit it, it hurts my hand. Oh, the world never saw a sweeter creature. She could be married to an emperor, and he’d be like her slave!"
+
+  - sp: IAGO
+    o:
+      - "Nay, that’s not your way."
+    m:
+      - "But that’s not how you’re going to be."
+
+  - sp: OTHELLO
+    o:
+      - "Hang her! I do but say what she is. So delicate with her needle, an admirable musician. Oh, she will sing the savageness out of a bear! Of so high and plenteous wit and invention!"
+    m:
+      - "Damn her, I’m just describing her truthfully! She’s so good at sewing, and a wonderful musician. Oh, she could sing a wild bear to sleep! Oh, she’s so witty and creative!"
+
+  - sp: IAGO
+    o:
+      - "She’s the worse for all this."
+    m:
+      - "All the worse that she stooped this low, then."
+
+  - sp: OTHELLO
+    o:
+      - "Oh, a thousand thousand times—and then of so gentle a condition!"
+    m:
+      - "Oh, a thousand times worse, a thousand times—and what a sweet personality she has!"
+
+  - sp: IAGO
+    o:
+      - "Ay, too gentle."
+    m:
+      - "Yes, a little too sweet."
+
+  - sp: OTHELLO
+    o:
+      - "Nay, that’s certain. But yet the pity of it, Iago! O Iago, the pity of it, Iago!"
+    m:
+      - "Yes, that’s for sure. Oh, it’s dreadful, dreadful, Iago!"
+
+  - sp: IAGO
+    o:
+      - "If you are so fond over her iniquity, give her patent to offend, for if it touch not you it comes near nobody."
+    m:
+      - "If you still feel so affectionate toward her, then why not give her permission to cheat on you? If it doesn’t bother you, it won’t bother anyone else."
+
+  - sp: OTHELLO
+    o:
+      - "I will chop her into messes! Cuckold me?"
+    m:
+      - "I’ll chop her into pieces. How could she cheat on me?"
+
+  - sp: IAGO
+    o:
+      - "Oh, ’tis foul in her."
+    m:
+      - "Oh, it’s horrible of her."
+
+  - sp: OTHELLO
+    o:
+      - "With mine officer!"
+    m:
+      - "And with my own officer!"
+
+  - sp: IAGO
+    o:
+      - "That’s fouler."
+    m:
+      - "That’s worse."
+
+  - sp: OTHELLO
+    o:
+      - "Get me some poison, Iago, this night. I’ll not expostulate with her, lest her body and beauty unprovide my mind again—This night, Iago!"
+    m:
+      - "Get me some poison tonight, Iago. I won’t argue with her, so her beautiful body won’t disarm me.—Tonight, Iago."
+
+  - sp: IAGO
+    o:
+      - "Do it not with poison. Strangle her in her bed, even the bed she hath contaminated."
+    m:
+      - "Don’t do it with poison. Strangle her in her bed, the same bed she’s contaminated."
+
+  - sp: OTHELLO
+    o:
+      - "Good, good, the justice of it pleases! Very good!"
+    m:
+      - "Good, good, I like that—it’s only fair! Very good!"
+
+  - sp: IAGO
+    o:
+      - "And for Cassio, let me be his undertaker. You shall hear more by midnight."
+    m:
+      - "And let me kill Cassio. You’ll hear more from me by midnight."
+
+  - sp: OTHELLO
+    o:
+      - "Excellent good."
+    m:
+      - "Excellent, good."
+
+  - os: "A trumpet within"
+    ms: "A trumpet sounds offstage."
+
+  - o:
+      - "  What trumpet is that same?"
+    m:
+      - "What’s that trumpet for?"
+
+  - sp: IAGO
+    o:
+      - "I warrant something from Venice. ’Tis Lodovico, this, comes from the duke. See, your wife’s with him."
+    m:
+      - "I think someone’s coming from Venice. It’s Lodovico. He must be coming from the duke. Look, your wife is with him."
+
+  - os: "Enter LODOVICO, DESDEMONA, and attendants"
+    ms: "LODOVICO, DESDEMONA and attendants enter."
+
+  - sp: LODOVICO
+    o:
+      - "Save you, worthy general!"
+    m:
+      - "Greetings, good general!"
+
+  - sp: OTHELLO
+    o:
+      - "With all my heart, sir."
+    m:
+      - "Greetings, sir."
+
+  - sp: LODOVICO
+    o:
+      - "The duke and senators of Venice greet you."
+    m:
+      - "The duke and senators of Venice greet you."
+
+  - os: "*(gives him a letter)*"
+    ms: "*(he hands OTHELLO a piece of paper)*"
+
+  - sp: OTHELLO
+    o:
+      - "I kiss the instrument of their pleasures."
+    m:
+      - "I’ll do whatever they order me to do in this letter."
+
+  - sp: DESDEMONA
+    o:
+      - "And what’s the news, good cousin Lodovico?"
+    m:
+      - "What’s new, cousin Lodovico?"
+
+  - sp: IAGO
+    o:
+      - "I am very glad to see you, signior. Welcome to Cyprus."
+    m:
+      - "Very nice to see you, sir. Welcome to Cyprus."
+
+  - sp: LODOVICO
+    o:
+      - "I thank you. How does lieutenant Cassio?"
+    m:
+      - "Thank you. How is lieutenant Cassio?"
+
+  - sp: IAGO
+    o:
+      - "Lives, sir."
+    m:
+      - "Well, he’s alive."
+
+  - sp: DESDEMONA
+    o:
+      - "Cousin, there’s fall’n between him and my lord"
+      - "An unkind breach, but you shall make all well."
+    m:
+      - "Cousin, there’s been a falling out between him and Othello. An unfortunate rift, but you can fix it."
+
+  - sp: OTHELLO
+    o:
+      - "Are you sure of that?"
+    m:
+      - "Are you sure of that?"
+
+  - sp: DESDEMONA
+    o:
+      - "My lord?"
+    m:
+      - "Excuse me?"
+
+  - sp: OTHELLO
+    o:
+      - "*(reads)* “This fail you not to do, as you will—”"
+    m:
+      - "*(reading)* “Don’t fail to do this, since you’ll—”"
+
+  - sp: LODOVICO
+    o:
+      - "He did not call, he’s busy in the paper."
+      - "Is there division ’twixt my lord and Cassio?"
+    m:
+      - "He didn’t say anything, he’s reading. So there’s a rift between Othello and Cassio?"
+
+  - sp: DESDEMONA
+    o:
+      - "A most unhappy one. I would do much"
+      - "T’ atone them, for the love I bear to Cassio."
+    m:
+      - "Yes, unfortunately. I’d do anything to bring them back together, since I really care for Cassio."
+
+  - sp: OTHELLO
+    o:
+      - "Fire and brimstone!"
+    m:
+      - "Damn it all!"
+
+  - sp: DESDEMONA
+    o:
+      - "    My lord?"
+    m:
+      - "Excuse me, my lord?"
+
+  - sp: OTHELLO
+    o:
+      - "    Are you wise?"
+    m:
+      - "Are you in your right mind?"
+
+  - sp: DESDEMONA
+    o:
+      - "What, is he angry?"
+    m:
+      - "Is he angry?"
+
+  - sp: LODOVICO
+    o:
+      - "    Maybe the letter moved him,"
+      - "For, as I think, they do command him home,"
+      - "Deputing Cassio in his government."
+    m:
+      - "Maybe the letter upset him. I think they want him to go home and appoint Cassio governor in his place."
+
+  - sp: DESDEMONA
+    o:
+      - "Trust me, I am glad on ’t."
+    m:
+      - "I’m happy about that."
+
+  - sp: OTHELLO
+    o:
+      - "Indeed!"
+    m:
+      - "Oh, are you really!"
+
+  - sp: DESDEMONA
+    o:
+      - "My lord?"
+    m:
+      - "My lord?"
+
+  - sp: OTHELLO
+    o:
+      - "I am glad to see you mad."
+    m:
+      - "I’m glad you’re insane enough to admit it in front of me."
+
+  - sp: DESDEMONA
+    o:
+      - "Why, sweet Othello—"
+    m:
+      - "Why, sweet Othello—"
+
+  - sp: OTHELLO
+    o:
+      - "*(striking her)* Devil!"
+    m:
+      - "*(striking her)* You devil!"
+
+  - sp: DESDEMONA
+    o:
+      - "I have not deserved this."
+    m:
+      - "I haven’t done anything to deserve this!"
+
+  - sp: LODOVICO
+    o:
+      - "My lord, this would not be believed in Venice,"
+      - "Though I should swear I saw ’t. ’Tis very much."
+      - "Make her amends, she weeps."
+    m:
+      - "My lord, no one will believe this in Venice, even though I’d swear I saw it with my own eyes. That was too much. You should apologize. She’s crying."
+
+  - sp: OTHELLO
+    o:
+      - "    Oh, devil, devil!"
+      - "If that the earth could teem with woman’s tears,"
+      - "Each drop she falls would prove a crocodile."
+      - "Out of my sight!"
+    m:
+      - "Oh, you devil, you devil! You can cry all day and all night, and I still won’t believe you’re sad. Get out of my sight!"
+
+  - sp: DESDEMONA
+    o:
+      - "I will not stay to offend you."
+    m:
+      - "I wouldn’t want to stay here and make you angry."
+
+  - sp: LODOVICO
+    o:
+      - "Truly, an obedient lady."
+      - "I do beseech your lordship, call her back."
+    m:
+      - "She’s obedient—a fine lady. Please, my lord, call her back."
+
+  - sp: OTHELLO
+    o:
+      - "Mistress!"
+    m:
+      - "Madam!"
+
+  - sp: DESDEMONA
+    o:
+      - "My lord?"
+    m:
+      - "My lord?"
+
+  - sp: OTHELLO
+    o:
+      - "What would you with her, sir?"
+    m:
+      - "What do you want with her, sir?"
+
+  - sp: LODOVICO
+    o:
+      - "Who, I, my lord?"
+    m:
+      - "Who, me?"
+
+  - sp: OTHELLO
+    o:
+      - "Ay, you did wish that I would make her turn."
+      - "Sir, she can turn, and turn, and yet go on,"
+      - "And turn again. And she can weep, sir, weep."
+      - "And she’s obedient, as you say, obedient,"
+      - "Very obedient.—Proceed you in your tears.—"
+      - "Concerning this, sir—Oh, well-painted passion!—"
+      - "I am commanded home.—Get you away,"
+      - "I’ll send for you anon.—Sir, I obey the mandate"
+      - "And will return to Venice.—Hence, avaunt!"
+    m:
+      - "Yes, you asked me to call her back. See how well she can turn? She can turn and turn, and then turn on you again. And she can cry, sir—oh, how she can cry! And she’s obedient, as you say, obedient. Very obedient—keep crying.—Concerning this—oh, what fake emotion!—I am being ordered home—Get away from me, I’ll send for you later.—Sir, I’ll obey the order and return to Venice. Get away from me, you witch!"
+
+  - os: "Exit DESDEMONA"
+    ms: "DESDEMONA exits."
+
+  - o:
+      - "Cassio shall have my place. And, sir, tonight"
+      - "I do entreat that we may sup together."
+      - "You are welcome, sir, to Cyprus. Goats and monkeys!"
+    m:
+      - "Cassio can have my job. And tonight, sir, I invite you have dinner with me. Welcome to Cyprus. Horny animals!"
+
+  - os: "Exit"
+    ms: "OTHELLO exits."
+
+  - sp: LODOVICO
+    o:
+      - "Is this the noble Moor whom our full senate"
+      - "Call all in all sufficient? Is this the nature"
+      - "Whom passion could not shake? Whose solid virtue"
+      - "The shot of accident nor dart of chance"
+      - "Could neither graze nor pierce?"
+    m:
+      - "Is this the same Moor whom the senate considers so capable? Is this the guy who’s supposed to never get emotional, and who never gets rattled, no matter what disaster happens?"
+
+  - sp: IAGO
+    o:
+      - "    He is much changed."
+    m:
+      - "He’s changed a great deal."
+
+  - sp: LODOVICO
+    o:
+      - "Are his wits safe? Is he not light of brain?"
+    m:
+      - "Is he sane? Is he losing his mind?"
+
+  - sp: IAGO
+    o:
+      - "He’s that he is. I may not breathe my censure"
+      - "What he might be. If what he might he is not,"
+      - "I would to heaven he were!"
+    m:
+      - "He is what he is. I won’t say anything negative about what he might be. If he isn’t what he might be, then I wish to God he were!"
+
+  - sp: LODOVICO
+    o:
+      - "    What? Strike his wife?"
+    m:
+      - "Hitting his wife?"
+
+  - sp: IAGO
+    o:
+      - "’Faith, that was not so well. Yet would I knew"
+      - "That stroke would prove the worst!"
+    m:
+      - "It’s true, that wasn’t such a nice thing to do. But I wish I could say that’s the last time he’ll do it!"
+
+  - sp: LODOVICO
+    o:
+      - "    Is it his use?"
+      - "Or did the letters work upon his blood"
+      - "And new-create his fault?"
+    m:
+      - "Is it a habit of his? Or did the letter make him emotional somehow, and this is the first time he’s done it?"
+
+  - sp: IAGO
+    o:
+      - "    Alas, alas!"
+      - "It is not honesty in me to speak"
+      - "What I have seen and known. You shall observe him,"
+      - "And his own courses will denote him so"
+      - "That I may save my speech. Do but go after"
+      - "And mark how he continues."
+    m:
+      - "Oh, it’s too bad! It wouldn’t be right for me to tell you everything I’ve seen and heard. You’ll see what he’s like. His own actions will show you what kind of person he is, so I won’t have to bother telling you. Just go after him and watch what he does next."
+
+  - sp: LODOVICO
+    o:
+      - "I am sorry that I am deceived in him."
+    m:
+      - "I’m sorry I was so wrong about him."
+
+  - os: "Exeunt"
+    ms: "They exit."

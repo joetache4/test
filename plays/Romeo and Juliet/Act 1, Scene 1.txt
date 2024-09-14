@@ -1,0 +1,749 @@
+play: Romeo and Juliet
+title: Act 1, Scene 1
+group: 1
+order: 1
+text:
+  - os: "Enter SAMPSON and GREGORY of the house of Capulet, with swords and bucklers"
+    ms: "SAMPSON and GREGORY, servants of the Capulet family, enter carrying swords and small shields."
+
+  - sp: SAMPSON
+    o:
+      - "Gregory, on my word, we’ll not carry coals."
+    m:
+      - "Gregory, I swear, we can’t let them humiliate us. We won’t take their garbage."
+
+  - sp: GREGORY
+    o:
+      - "No, for then we should be colliers."
+    m:
+      - "*(teasing SAMPSON)* No, because then we’d be garbagemen."
+
+  - sp: SAMPSON
+    o:
+      - "I mean, an we be in choler, we’ll draw."
+    m:
+      - "What I mean is, if they make us angry we’ll pull out our swords."
+
+  - sp: GREGORY
+    o:
+      - "Ay, while you live, draw your neck out of collar."
+    m:
+      - "Maybe you should focus on pulling yourself out of trouble, Sampson."
+
+  - sp: SAMPSON
+    o:
+      - "I strike quickly, being moved."
+    m:
+      - "I hit hard when I’m angry."
+
+  - sp: GREGORY
+    o:
+      - "But thou art not quickly moved to strike."
+    m:
+      - "But it’s hard to make you angry."
+
+  - sp: SAMPSON
+    o:
+      - "A dog of the house of Montague moves me."
+    m:
+      - "One of those dogs from the Montague house can make me angry."
+
+  - sp: GREGORY
+    o:
+      - "To move is to stir, and to be valiant is to stand."
+      - "Therefore if thou art moved thou runn’st away."
+    m:
+      - "Angry enough to run away. You won’t stand and fight."
+
+  - sp: SAMPSON
+    o:
+      - "A dog of that house shall move me to stand. I will take the wall of any man or maid of Montague’s."
+    m:
+      - "A dog from that house will make me angry enough to take a stand. If I pass one of them on the street, I’ll take the side closer to the wall and let him walk in the gutter."
+
+  - sp: GREGORY
+    o:
+      - "That shows thee a weak slave, for the weakest goes to the wall."
+    m:
+      - "That means you’re the weak one, because weaklings get pushed up against the wall."
+
+  - sp: SAMPSON
+    o:
+      - "’Tis true, and therefore women, being the weaker vessels, are ever thrust to the wall. Therefore I will push Montague’s men from the wall, and thrust his maids to the wall."
+    m:
+      - "You’re right. That’s why girls get pushed up against walls—they’re weak. So what I’ll do is push the Montague men into the street and the Montague women up against the wall."
+
+  - sp: GREGORY
+    o:
+      - "The quarrel is between our masters and us their men."
+    m:
+      - "The fight is between our masters, and we men who work for them."
+
+  - sp: SAMPSON
+    o:
+      - "’Tis all one. I will show myself a tyrant. When I have fought with the men, I will be civil with the maids. I will cut off their heads."
+    m:
+      - "It’s all the same. I’ll be a harsh master to them. After I fight the men, I’ll be nice to the women—I’ll cut off their heads."
+
+  - sp: GREGORY
+    o:
+      - "The heads of the maids?"
+    m:
+      - "Cut off their heads? You mean their maidenheads?"
+
+  - sp: SAMPSON
+    o:
+      - "Ay, the heads of the maids, or their maidenheads."
+      - "Take it in what sense thou wilt."
+    m:
+      - "Cut off their heads, take their maidenheads—whatever. Take my remark in whichever sense you like."
+
+  - sp: GREGORY
+    o:
+      - "They must take it in sense that feel it."
+    m:
+      - "The women you rape are the ones who’ll have to “sense” it."
+
+  - sp: SAMPSON
+    o:
+      - "Me they shall feel while I am able to stand, and"
+      - "’tis known I am a pretty piece of flesh."
+    m:
+      - "They’ll feel me as long as I can keep an erection. Everybody knows I’m a nice piece of flesh."
+
+  - sp: GREGORY
+    o:
+      - "’Tis well thou art not fish. If thou hadst, thou hadst been poor-john."
+    m:
+      - "It’s a good thing you’re not a piece of fish. You’re dried and shriveled like salted fish."
+
+  - os: "Enter ABRAM and another SERVINGMAN"
+    ms: "ABRAM and another servant of the Montagues enter."
+
+  - o:
+      - "Draw thy tool! Here comes of the house of Montagues."
+    m:
+      - "Pull out your tool now. These guys are from the house of Montague."
+
+  - sp: SAMPSON
+    o:
+      - "My naked weapon is out. Quarrel! I will back thee."
+    m:
+      - "I have my naked sword out. Fight, I’ll back you up."
+
+  - sp: GREGORY
+    o:
+      - "How? Turn thy back and run?"
+    m:
+      - "How will you back me up—by turning your back and running away?"
+
+  - sp: SAMPSON
+    o:
+      - "Fear me not."
+    m:
+      - "Don’t worry about me."
+
+  - sp: GREGORY
+    o:
+      - "No, marry. I fear thee."
+    m:
+      - "No, really. I *am* worried about you!"
+
+  - sp: SAMPSON
+    o:
+      - "Let us take the law of our sides. Let them begin."
+    m:
+      - "Let’s not break the law by starting a fight. Let them start something."
+
+  - sp: GREGORY
+    o:
+      - "I will frown as I pass by, and let them take it as they list."
+    m:
+      - "I’ll frown at them as they pass by, and they can react however they want."
+
+  - sp: SAMPSON
+    o:
+      - "Nay, as they dare. I will bite my thumb at them, which is a disgrace to them, if they bear it. *(bites his thumb)*"
+    m:
+      - "You mean however they dare. I’ll bite my thumb at them. That’s an insult, and if they let me get away with it they’ll be dishonored. *(SAMPSON bites his thumb)*"
+
+  - sp: ABRAM
+    o:
+      - "Do you bite your thumb at us, sir?"
+    m:
+      - "Hey, are you biting your thumb at us?"
+
+  - sp: SAMPSON
+    o:
+      - "I do bite my thumb, sir."
+    m:
+      - "I’m biting my thumb."
+
+  - sp: ABRAM
+    o:
+      - "Do you bite your thumb at us, sir?"
+    m:
+      - "Are you biting your thumb at us?"
+
+  - sp: SAMPSON
+    o:
+      - "*(aside to GREGORY)*"
+      - "Is the law of our side if I say “ay”?"
+    m:
+      - "*(aside to GREGORY)* Is the law on our side if I say yes?"
+
+  - sp: GREGORY
+    o:
+      - "*(aside to SAMPSON)*"
+      - "No."
+    m:
+      - "*(aside to SAMPSON)* No."
+
+  - sp: SAMPSON
+    o:
+      - "No, sir. I do not bite my thumb at you, sir, but I bite my thumb, sir."
+    m:
+      - "*(to ABRAM)* No, sir, I’m not biting my thumb at you, but I am biting my thumb."
+
+  - sp: GREGORY
+    o:
+      - "Do you quarrel, sir?"
+    m:
+      - "Are you trying to start a fight?"
+
+  - sp: ABRAM
+    o:
+      - "Quarrel, sir? No, sir."
+    m:
+      - "Start a fight? No, sir."
+
+  - sp: SAMPSON
+    o:
+      - "But if you do, sir, I am for you. I serve as good a man as you."
+    m:
+      - "If you want to fight, I’m your man. My employer is as good as yours."
+
+  - sp: ABRAM
+    o:
+      - "No better."
+    m:
+      - "But he’s not better than mine."
+
+  - sp: SAMPSON
+    o:
+      - "Well, sir."
+    m:
+      - "Well then."
+
+  - os: "Enter BENVOLIO"
+    ms: "BENVOLIO enters."
+
+  - sp: GREGORY
+    o:
+      - "*(aside to SAMPSON)* Say “better.” Here comes one of my master’s kinsmen."
+    m:
+      - "*(speaking so that only SAMPSON can hear)* Say “better.” Here comes one of my employer’s relatives."
+
+  - sp: SAMPSON
+    o:
+      - "*(to ABRAM)* Yes, better, sir."
+    m:
+      - "*(to ABRAM)* Yes, “better,” sir."
+
+  - sp: ABRAM
+    o:
+      - "You lie."
+    m:
+      - "You lie."
+
+  - sp: SAMPSON
+    o:
+      - "Draw, if you be men.—Gregory, remember thy washing blow."
+    m:
+      - "Pull out your swords, if you’re men. Gregory, remember how to slash."
+
+  - os: "They fight"
+    ms: "They fight."
+
+  - sp: BENVOLIO
+    o:
+      - "*(draws his sword)* Part, fools!"
+      - "Put up your swords. You know not what you do."
+    m:
+      - "*(pulling out his sword)* Break it up, you fools. Put your swords away. You don’t know what you’re doing."
+
+  - os: "Enter TYBALT"
+    ms: "TYBALT enters."
+
+  - sp: TYBALT
+    o:
+      - "What, art thou drawn among these heartless hinds?"
+      - "Turn thee, Benvolio. Look upon thy death."
+    m:
+      - "What? You’ve pulled out your sword to fight with these worthless servants? Turn around, Benvolio, and look at the man who’s going to kill you."
+
+  - sp: BENVOLIO
+    o:
+      - "I do but keep the peace. Put up thy sword,"
+      - "Or manage it to part these men with me."
+    m:
+      - "I’m only trying to keep the peace. Either put away your sword or use it to help me stop this fight."
+
+  - sp: TYBALT
+    o:
+      - "What, drawn, and talk of peace? I hate the word,"
+      - "As I hate hell, all Montagues, and thee."
+      - "Have at thee, coward!"
+    m:
+      - "What? You take out your sword and then talk about peace? I hate the word peace like I hate hell, all Montagues, and you. Let’s go at it, coward!"
+
+  - os: "They fight Enter three or four CITIZENS, with clubs or partisans"
+    ms: "BENVOLIO and TYBALT fight. Three or four CITIZENS of the watch enter with clubs and spears."
+
+  - sp: CITIZENS
+    o:
+      - "Clubs, bills, and partisans! Strike! Beat them down!"
+      - "Down with the Capulets! Down with the Montagues!"
+    m:
+      - "Use your clubs and spears! Hit them! Beat them down! Down with the Capulets! Down with the Montagues!"
+
+  - os: "Enter old CAPULET in his gown, and his wife, LADY CAPULET"
+    ms: "CAPULET enters in his gown, together with his wife, LADY CAPULET."
+
+  - sp: CAPULET
+    o:
+      - "What noise is this? Give me my long sword, ho!"
+    m:
+      - "What’s this noise? Give me my long sword! Come on!"
+
+  - sp: LADY CAPULET
+    o:
+      - "A crutch, a crutch! Why call you for a sword?"
+    m:
+      - "A crutch, you need a crutch—why are you asking for a sword?"
+
+  - os: "Enter old MONTAGUE and his wife, LADY MONTAGUE"
+    ms: "MONTAGUE enters with his sword drawn,together with his wife, LADY MONTAGUE."
+
+  - sp: CAPULET
+    o:
+      - "My sword, I say! Old Montague is come,"
+      - "And flourishes his blade in spite of me."
+    m:
+      - "I want my sword. Old Montague is here, and he’s waving his sword around just to make me mad."
+
+  - sp: MONTAGUE
+    o:
+      - "Thou villain Capulet! Hold me not. Let me go."
+    m:
+      - "Capulet, you villain! *(his wife holds him back)* Don’t stop me. Let me go."
+
+  - sp: LADY MONTAGUE
+    o:
+      - "Thou shalt not stir one foot to seek a foe."
+    m:
+      - "You’re not taking one step toward an enemy."
+
+  - os: "Enter PRINCE ESCALUS, with his train"
+    ms: "PRINCE ESCALUS enters with his escort."
+
+  - sp: PRINCE
+    o:
+      - "Rebellious subjects, enemies to peace,"
+      - "Profaners of this neighbor-stainèd steel!—"
+      - "Will they not hear?—What, ho! You men, you beasts,"
+      - "That quench the fire of your pernicious rage"
+      - "With purple fountains issuing from your veins,"
+      - "On pain of torture, from those bloody hands"
+      - "Throw your mistempered weapons to the ground,"
+      - "And hear the sentence of your movèd prince."
+      - "Three civil brawls, bred of an airy word,"
+      - "By thee, old Capulet, and Montague,"
+      - "Have thrice disturbed the quiet of our streets"
+      - "And made Verona’s ancient citizens"
+      - "Cast by their grave-beseeming ornaments,"
+      - "To wield old partisans in hands as old,"
+      - "Cankered with peace, to part your cankered hate."
+      - "If ever you disturb our streets again,"
+      - "Your lives shall pay the forfeit of the peace."
+      - "For this time, all the rest depart away."
+      - "You, Capulet, shall go along with me,"
+      - "And, Montague, come you this afternoon"
+      - "To know our farther pleasure in this case,"
+      - "To old Free-town, our common judgment-place."
+      - "Once more, on pain of death, all men depart."
+    m:
+      - "*(shouting at the rioters)* You rebels! Enemies of the peace! Men who turn their weapons against their own neighbors—They won’t listen to me?—You there! You men, you beasts, who satisfy your anger with fountains of each others’ blood! I’ll have you tortured if you don’t put down your swords and listen to your angry prince. *(MONTAGUE, CAPULET, and their followers throw down their weapons)* Three times now riots have broken out in this city, all because of a casual word from you, old Capulet and Montague. Three times the peace has been disturbed in our streets, and Verona’s old citizens have had to take off their dress clothes and pick up rusty old spears to part you. If you ever cause a disturbance on our streets again, you’ll pay for it with your lives. Everyone else, go away for now. *(to CAPULET)* You, Capulet, come with me. *(to MONTAGUE)* Montague, this afternoon come to old Free-town, the court where I deliver judgments, and I’ll tell you what else I want from you. As for the rest of you, I’ll say this once more: go away or be put to death."
+
+  - os: "Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO"
+    ms: "Everyone exits except MONTAGUE, LADY MONTAGUE, and BENVOLIO."
+
+  - sp: MONTAGUE
+    o:
+      - "Who set this ancient quarrel new abroach?"
+      - "Speak, nephew. Were you by when it began?"
+    m:
+      - "Who started this old fight up again? Speak, nephew. Were you here when it started?"
+
+  - sp: BENVOLIO
+    o:
+      - "Here were the servants of your adversary,"
+      - "And yours, close fighting ere I did approach."
+      - "I drew to part them. In the instant came"
+      - "The fiery Tybalt, with his sword prepared,"
+      - "Which, as he breathed defiance to my ears,"
+      - "He swung about his head and cut the winds,"
+      - "Who, nothing hurt withal, hissed him in scorn."
+      - "While we were interchanging thrusts and blows,"
+      - "Came more and more and fought on part and part,"
+      - "Till the Prince came, who parted either part."
+    m:
+      - "Your servants were fighting your enemy’s servants before I got here. I drew my sword to part them. Right then, that hothead Tybalt showed up with his sword ready. He taunted me and waved his sword around, making the air hiss. As we were trading blows, more and more people showed up to join the fight, until the Prince came and broke everyone up."
+
+  - sp: LADY MONTAGUE
+    o:
+      - "Oh, where is Romeo? Saw you him today?"
+      - "Right glad I am he was not at this fray."
+    m:
+      - "Oh, where’s Romeo? Have you seen him today? I’m glad he wasn’t here for this fight."
+
+  - sp: BENVOLIO
+    o:
+      - "Madam, an hour before the worshipped sun"
+      - "Peered forth the golden window of the east,"
+      - "A troubled mind drove me to walk abroad,"
+      - "Where, underneath the grove of sycamore"
+      - "That westward rooteth from this city side,"
+      - "So early walking did I see your son."
+      - "Towards him I made, but he was ’ware of me"
+      - "And stole into the covert of the wood."
+      - "I, measuring his affections by my own,"
+      - "Which then most sought where most might not be found,"
+      - "Being one too many by my weary self,"
+      - "Pursued my humor not pursuing his,"
+      - "And gladly shunned who gladly fled from me."
+    m:
+      - "Madam, I had a lot on my mind an hour before dawn this morning, so I went for a walk. Underneath the Sycamore grove that grows on the west side of the city, I saw your son taking an early-morning walk. I headed toward him, but he saw me coming and hid in the woods. I thought he must be feeling the same way I was—wanting to be alone and tired of his own company. I figured he was avoiding me, and I was perfectly happy to leave him alone and keep to myself."
+
+  - sp: MONTAGUE
+    o:
+      - "Many a morning hath he there been seen,"
+      - "With tears augmenting the fresh morning’s dew,"
+      - "Adding to clouds more clouds with his deep sighs."
+      - "But all so soon as the all-cheering sun"
+      - "Should in the farthest east begin to draw"
+      - "The shady curtains from Aurora’s bed,"
+      - "Away from light steals home my heavy son,"
+      - "And private in his chamber pens himself,"
+      - "Shuts up his windows, locks fair daylight out,"
+      - "And makes himself an artificial night."
+      - "Black and portentous must this humor prove"
+      - "Unless good counsel may the cause remove."
+    m:
+      - "He’s been seen there many mornings, crying tears that add drops to the morning dew and making a cloudy day cloudier with his sighs. But as soon as the sun rises in the east, my sad son comes home to escape the light. He locks himself up alone in his bedroom, shuts his windows to keep out the beautiful daylight, and makes himself an artificial night. This mood of his is going to bring bad news, unless someone smart can fix what’s bothering him."
+
+  - sp: BENVOLIO
+    o:
+      - "My noble uncle, do you know the cause?"
+    m:
+      - "My noble uncle, do you know why he acts this way?"
+
+  - sp: MONTAGUE
+    o:
+      - "I neither know it nor can learn of him."
+    m:
+      - "I don’t know, and he won’t tell me."
+
+  - sp: BENVOLIO
+    o:
+      - "Have you importuned him by any means?"
+    m:
+      - "Have you done everything you could to make him tell you the reason?"
+
+  - sp: MONTAGUE
+    o:
+      - "Both by myself and many other friends."
+      - "But he, his own affections’ counselor,"
+      - "Is to himself—I will not say how true,"
+      - "But to himself so secret and so close,"
+      - "So far from sounding and discovery,"
+      - "As is the bud bit with an envious worm,"
+      - "Ere he can spread his sweet leaves to the air,"
+      - "Or dedicate his beauty to the same."
+      - "Could we but learn from whence his sorrows grow."
+      - "We would as willingly give cure as know."
+    m:
+      - "I’ve tried, and many of our friends have tried to make him talk, but he keeps his thoughts to himself. He doesn’t want any friend but himself, and though I don’t know whether he’s a *good* friend to himself, he certainly keeps his own secrets. He’s like a flower bud that won’t open itself up to the world because it’s been poisoned from within by parasites. If we could only find out why he’s sad, we’d be as eager to help him as we were to learn the reason for his sadness."
+
+  - os: "Enter ROMEO"
+    ms: "ROMEO enters."
+
+  - sp: BENVOLIO
+    o:
+      - "See, where he comes. So please you, step aside."
+      - "I’ll know his grievance or be much denied."
+    m:
+      - "Look—here he comes. If you don’t mind, please step aside. He’ll either have to tell me what’s wrong or else tell me no over and over."
+
+  - sp: MONTAGUE
+    o:
+      - "I would thou wert so happy by thy stay"
+      - "To hear true shrift.—Come, madam, let’s away."
+    m:
+      - "I hope you’re lucky enough to hear the true story by sticking around. *(to his wife)* Come, madam, let’s go."
+
+  - os: "Exeunt MONTAGUE and LADY MONTAGUE"
+    ms: "MONTAGUE and LADY MONTAGUE exit."
+
+  - sp: BENVOLIO
+    o:
+      - "Good morrow, cousin."
+    m:
+      - "Good morning, cousin."
+
+  - sp: ROMEO
+    o:
+      - "  Is the day so young?"
+    m:
+      - "Is it that early in the day?"
+
+  - sp: BENVOLIO
+    o:
+      - "But new struck nine."
+    m:
+      - "It’s only just now nine o’clock."
+
+  - sp: ROMEO
+    o:
+      - "  Ay me! Sad hours seem long."
+      - "Was that my father that went hence so fast?"
+    m:
+      - "Oh my, time goes by slowly when you’re sad. Was that my father who left here in such a hurry?"
+
+  - sp: BENVOLIO
+    o:
+      - "It was. What sadness lengthens Romeo’s hours?"
+    m:
+      - "It was. What’s making you so sad and your hours so long?"
+
+  - sp: ROMEO
+    o:
+      - "Not having that which, having, makes them short."
+    m:
+      - "I don’t have the thing that makes time fly."
+
+  - sp: BENVOLIO
+    o:
+      - "In love?"
+    m:
+      - "You’re in love?"
+
+  - sp: ROMEO
+    o:
+      - "Out."
+    m:
+      - "Out."
+
+  - sp: BENVOLIO
+    o:
+      - "Of love?"
+    m:
+      - "Out of love?"
+
+  - sp: ROMEO
+    o:
+      - "Out of her favor, where I am in love."
+    m:
+      - "I love someone. She doesn’t love me."
+
+  - sp: BENVOLIO
+    o:
+      - "Alas, that love, so gentle in his view,"
+      - "Should be so tyrannous and rough in proof!"
+    m:
+      - "It’s sad. Love looks like a nice thing, but it’s actually very rough when you experience it."
+
+  - sp: ROMEO
+    o:
+      - "Alas, that love, whose view is muffled still,"
+      - "Should, without eyes, see pathways to his will!"
+      - "Where shall we dine?—O me! What fray was here?"
+      - "Yet tell me not, for I have heard it all."
+      - "Here’s much to do with hate but more with love."
+      - "Why then, O brawling love, O loving hate,"
+      - "O anything of nothing first created!"
+      - "O heavy lightness, serious vanity,"
+      - "Misshapen chaos of well-seeming forms!"
+      - "Feather of lead, bright smoke, cold fire, sick health,"
+      - "Still-waking sleep, that is not what it is!"
+      - "This love feel I, that feel no love in this."
+      - "Dost thou not laugh?"
+    m:
+      - "What’s sad is that love is supposed to be blind, but it can still make you do whatever it wants. So, where should we eat? *(seeing blood)* Oh my! What fight happened here? No, don’t tell me—I know all about it. This fight has a lot to do with hatred, but it has more to do with love. O brawling love! O loving hate! Love that comes from nothing! Sad happiness! Serious foolishness! Beautiful things muddled together into an ugly mess! Love is heavy and light, bright and dark, hot and cold, sick and healthy, asleep and awake—it’s everything except what it is! This is the love I feel, though no one loves me back. Are you laughing?"
+
+  - sp: BENVOLIO
+    o:
+      - "  No, coz, I rather weep."
+    m:
+      - "No, cousin, I’m crying."
+
+  - sp: ROMEO
+    o:
+      - "Good heart, at what?"
+    m:
+      - "Good man, why are you crying?"
+
+  - sp: BENVOLIO
+    o:
+      - "At thy good heart’s oppression."
+    m:
+      - "I’m crying because of how sad you are."
+
+  - sp: ROMEO
+    o:
+      - "Why, such is love’s transgression."
+      - "Griefs of mine own lie heavy in my breast,"
+      - "Which thou wilt propagate, to have it pressed"
+      - "With more of thine. This love that thou hast shown"
+      - "Doth add more grief to too much of mine own."
+      - "Love is a smoke raised with the fume of sighs;"
+      - "Being purged, a fire sparkling in lovers’ eyes;"
+      - "Being vexed, a sea nourished with loving tears."
+      - "What is it else? A madness most discreet,"
+      - "A choking gall, and a preserving sweet."
+      - "Farewell, my coz."
+    m:
+      - "Yes, this is what love does. My sadness sits heavy in my chest, and you want to add your own sadness to mine so there’s even more. I have too much sadness already, and now you’re going to make me sadder by feeling sorry for you. Here’s what love is: a smoke made out of lovers’ sighs. When the smoke clears, love is a fire burning in your lover’s eyes. If you frustrate love, you get an ocean made out of lovers’ tears. What else is love? It’s a wise form of madness. It’s a sweet lozenge that you choke on. Goodbye, cousin."
+
+  - sp: BENVOLIO
+    o:
+      - "  Soft! I will go along."
+      - "And if you leave me so, you do me wrong."
+    m:
+      - "Wait. I’ll come with you. If you leave me like this, you’re doing me wrong."
+
+  - sp: ROMEO
+    o:
+      - "Tut, I have lost myself. I am not here."
+      - "This is not Romeo. He’s some other where."
+    m:
+      - "I’m not myself. I’m not here. This isn’t Romeo—he’s somewhere else."
+
+  - sp: BENVOLIO
+    o:
+      - "Tell me in sadness, who is that you love."
+    m:
+      - "Tell me seriously, who is the one you love?"
+
+  - sp: ROMEO
+    o:
+      - "What, shall I groan and tell thee?"
+    m:
+      - "Seriously? You mean I should groan and tell you?"
+
+  - sp: BENVOLIO
+    o:
+      - "Groan! Why, no. But sadly, tell me who."
+    m:
+      - "Groan? No. But tell me seriously who it is."
+
+  - sp: ROMEO
+    o:
+      - "A sick man in sadness makes his will,"
+      - "A word ill urged to one that is so ill."
+      - "In sadness, cousin, I do love a woman."
+    m:
+      - "You wouldn’t tell a sick man he “seriously” has to make his will—it would just make him worse. Seriously, cousin, I love a woman."
+
+  - sp: BENVOLIO
+    o:
+      - "I aimed so near when I supposed you loved."
+    m:
+      - "I guessed that already when I guessed you were in love."
+
+  - sp: ROMEO
+    o:
+      - "A right good markman! And she’s fair I love."
+    m:
+      - "Then you were right on target. The woman I love is beautiful."
+
+  - sp: BENVOLIO
+    o:
+      - "A right fair mark, fair coz, is soonest hit."
+    m:
+      - "A beautiful target is the one that gets hit the fastest."
+
+  - sp: ROMEO
+    o:
+      - "Well, in that hit you miss. She’ll not be hit"
+      - "With Cupid’s arrow. She hath Dian’s wit."
+      - "And, in strong proof of chastity well armed"
+      - "From love’s weak childish bow, she lives uncharmed."
+      - "She will not stay the siege of loving terms,"
+      - "Nor bide th’ encounter of assailing eyes,"
+      - "Nor ope her lap to saint-seducing gold."
+      - "Oh, she is rich in beauty, only poor"
+      - "That when she dies, with beauty dies her store."
+    m:
+      - "Well, you’re not on target there. She refuses to be hit by Cupid’s arrow. She’s as clever as Diana, and shielded by the armor of chastity. She can’t be touched by the weak and childish arrows of love. She won’t listen to words of love, or let you look at her with loving eyes, or open her lap to receive gifts of gold. She’s rich in beauty, but she’s also poor, because when she dies her beauty will be destroyed with her."
+
+  - sp: BENVOLIO
+    o:
+      - "Then she hath sworn that she will still live chaste?"
+    m:
+      - "So she’s made a vow to be a virgin forever?"
+
+  - sp: ROMEO
+    o:
+      - "She hath, and in that sparing makes huge waste,"
+      - "For beauty, starved with her severity,"
+      - "Cuts beauty off from all posterity."
+      - "She is too fair, too wise, wisely too fair,"
+      - "To merit bliss by making me despair."
+      - "She hath forsworn to love, and in that vow"
+      - "Do I live dead that live to tell it now."
+    m:
+      - "Yes she has, and by keeping celibate, she wastes her beauty. If you starve yourself of sex you can’t ever have children, and so your beauty is lost to future generations. She’s too beautiful and too wise to deserve heaven’s blessing by making me despair. She’s sworn off love, and that promise has left me alive but dead, living only to talk about it now."
+
+  - sp: BENVOLIO
+    o:
+      - "Be ruled by me. Forget to think of her."
+    m:
+      - "Take my advice. Don’t think about her."
+
+  - sp: ROMEO
+    o:
+      - "O, teach me how I should forget to think!"
+    m:
+      - "Teach me to forget to think!"
+
+  - sp: BENVOLIO
+    o:
+      - "By giving liberty unto thine eyes."
+      - "Examine other beauties."
+    m:
+      - "Do it by letting your eyes wander freely. Look at other beautiful girls."
+
+  - sp: ROMEO
+    o:
+      - "    ’Tis the way"
+      - "To call hers exquisite, in question more."
+      - "These happy masks that kiss fair ladies’ brows,"
+      - "Being black, puts us in mind they hide the fair."
+      - "He that is strucken blind cannot forget"
+      - "The precious treasure of his eyesight lost."
+      - "Show me a mistress that is passing fair;"
+      - "What doth her beauty serve but as a note"
+      - "Where I may read who passed that passing fair?"
+      - "Farewell. Thou canst not teach me to forget."
+    m:
+      - "That will only make me think more about how beautiful *she* is. Beautiful women like to wear black masks over their faces—those black masks only make us think about how beautiful they are underneath. A man who goes blind can’t forget the precious eyesight he lost. Show me a really beautiful girl. Her beauty is like a note telling me where I can see someone even more beautiful. Goodbye. You can’t teach me to forget."
+
+  - sp: BENVOLIO
+    o:
+      - "I’ll pay that doctrine or else die in debt."
+    m:
+      - "I’ll show you how to forget, or else I’ll die owing you that lesson."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,1544 @@
+play: Richard III
+title: Act 4, Scene 4
+group: 4
+order: 18
+text:
+  - os: "Enter old QUEEN MARGARET"
+    ms: "Old QUEEN MARGARET enters."
+
+  - sp: QUEEN MARGARET
+    o:
+      - "So now prosperity begins to mellow"
+      - "And drop into the rotten mouth of death."
+      - "Here in these confines slyly have I lurked"
+      - "To watch the waning of mine enemies."
+      - "A dire induction am I witness to,"
+      - "And will to France, hoping the consequence"
+      - "Will prove as bitter, black, and tragical."
+      - "Withdraw thee, wretched Margaret. Who comes here?"
+    m:
+      - "So now the good times have ripened and grown rotten. I’ve lurked in the shadows here to watch the downfall of my enemies. I’ve been watching the terrible prologue to a scene that I hope will prove dark and tragic. I’ll head to France soon. It’s time to hide, wretched Margaret. Who’s coming?"
+
+  - os: "She steps aside"
+    ms: "She steps aside."
+
+  - os: "Enter QUEEN ELIZABETH and the DUCHESS of York"
+    ms: "QUEEN ELIZABETH and the DUCHESS of York enter."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Ah, my poor princes! Ah, my tender babes,"
+      - "My unblown flowers, new-appearing sweets,"
+      - "If yet your gentle souls fly in the air"
+      - "And be not fixed in doom perpetual,"
+      - "Hover about me with your airy wings"
+      - "And hear your mother’s lamentation."
+    m:
+      - "Ah, my poor princes! Ah, my tender babes, my flowers who didn’t even get a chance to bloom. If your gentle souls are still flying in the air and have not yet landed where they will remain forever, hover around me with your airy wings and hear your mother’s lament."
+
+  - sp: QUEEN MARGARET
+    o:
+      - "Hover about her; say that right for right"
+      - "Hath dimmed your infant morn to agèd night."
+    m:
+      - "Hover about her and tell her she got what she deserved, with her children dead before their time."
+
+  - sp: DUCHESS
+    o:
+      - "So many miseries have crazed my voice"
+      - "That my woe-wearied tongue is still and mute."
+      - "Edward Plantagenet, why art thou dead?"
+    m:
+      - "I’ve been crazed with so many miseries that my tongue has tired of lamenting and gone mute. Edward Plantagenet, why are you dead?"
+
+  - sp: QUEEN MARGARET
+    o:
+      - "*(aside)* Plantagenet doth quit Plantagenet;"
+      - "Edward for Edward pays a dying debt."
+    m:
+      - "*(to herself)* One Plantagenet pays for the other. One Edward dies to pay a debt for the other Edward who died."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Wilt thou, O God, fly from such gentle lambs"
+      - "And throw them in the entrails of the wolf?"
+      - "When didst thou sleep when such a deed was done?"
+    m:
+      - "Will you abandon such gentle lambs, God, and throw them to the wolves? Have you ever slept before while such a terrible deed was done?"
+
+  - sp: QUEEN MARGARET
+    o:
+      - "*(aside)* When holy Harry died, and my sweet son."
+    m:
+      - "*(to herself)* Sure—when my husband, holy Harry, died and when my sweet son died."
+
+  - sp: DUCHESS
+    o:
+      - "*(sitting down)*"
+      - "Dead life, blind sight, poor mortal living ghost,"
+      - "Woe’s scene, world’s shame, grave’s due by life usurped,"
+      - "Brief abstract and record of tedious days,"
+      - "Rest thy unrest on England’s lawful earth,"
+      - "Unlawfully made drunk with innocent blood."
+    m:
+      - "*(sitting down)* Sight has gone blind, life is as dead as a ghost. This is a mournful scene—it’s a shame to the world, when someone like me, who should have died long ago, still lives. As a short summary and record of an unbearable life, I’ll settle my restless bones on England’s lawful ground *(sitting down)*, which broke the law when it got drunk on the blood of the innocent!"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "*(sitting down beside her)*"
+      - "Ah, that thou wouldst as soon afford a grave"
+      - "As thou canst yield a melancholy seat,"
+      - "Then would I hide my bones, not rest them here."
+      - "O, who hath any cause to mourn but we?"
+    m:
+      - "*(sitting down beside her)* Oh, if only the earth would offer me not just a seat for mourning but a grave. Then I would bury myself, not just rest my bones. Oh, who has any reason to mourn except us?"
+
+  - sp: QUEEN MARGARET
+    o:
+      - "*(joining them)* If ancient sorrow be most reverend,"
+      - "Give mine the benefit of seigniory,"
+      - "And let my griefs frown on the upper hand."
+      - "If sorrow can admit society,"
+      - "Tell o’er your woes again by viewing mine."
+      - "I had an Edward till a Richard killed him;"
+      - "I had a husband till a Richard killed him."
+      - "Thou hadst an Edward till a Richard killed him;"
+      - "Thou hadst a Richard till a Richard killed him."
+    m:
+      - "If the oldest grief is the most revered, then mine should have the most weight here. Let my sorrow have the upper hand. If you can allow for comparison *(sitting down with them)*, consider your losses next to mine. I had an Edward till a Richard killed him, and I had a Harry till a Richard killed him. On your side, you had an Edward till a Richard killed him, and you had the young Richard, York, till a Richard killed him. So, I guess we’re equal."
+
+  - sp: DUCHESS
+    o:
+      - "I had a Richard too, and thou did’st kill him;"
+      - "I had a Rutland too; thou holp’st to kill him."
+    m:
+      - "I had a Richard too—namely, my husband—and you killed him. I had my son Rutland, and you helped kill him."
+
+  - sp: QUEEN MARGARET
+    o:
+      - "Thou hadst a Clarence too, and Richard killed him"
+      - "Then forth the kennel of thy womb hath crept"
+      - "A hellhound that doth hunt us all to death—"
+      - "That dog, that had his teeth before his eyes,"
+      - "To worry lambs and lap their gentle blood;"
+      - "That excellent grand tyrant of the earth,"
+      - "That reigns in gallèd eyes of weeping souls;"
+      - "That foul defacer of God’s handiwork"
+      - "Thy womb let loose to chase us to our graves."
+      - "O upright, just, and true-disposing God,"
+      - "How do I thank thee that this carnal cur"
+      - "Preys on the issue of his mother’s body"
+      - "And makes her pew-fellow with others’ moan!"
+    m:
+      - "You had a Clarence, too, and Richard killed him. Your womb let loose a hellhound that hunts us all to death. That dog, who was born with sharp teeth for lapping up the blood of lambs, who had teeth before he even had eyes, is the world’s worst tyrant, making the eyes of a whole kingdom red with weeping. He destroys God’s handiwork and will send us to our graves. Oh righteous God, how can I thank you enough that this meat-eating mutt preys on his mother’s children and forces her to join others in their grief!"
+
+  - sp: DUCHESS
+    o:
+      - "O Harry’s wife, triumph not in my woes!"
+      - "God witness with me, I have wept for thine."
+    m:
+      - "O Harry’s wife, do not triumph in my sorrow! With God as my witness, I swear I have wept for yours."
+
+  - sp: QUEEN MARGARET
+    o:
+      - "Bear with me, I am hungry for revenge,"
+      - "And now I cloy me with beholding it."
+      - "Thy Edward he is dead, that killed my Edward,"
+      - "Thy other Edward dead, to quit my Edward;"
+      - "Young York, he is but boot, because both they"
+      - "Matched not the high perfection of my loss."
+      - "Thy Clarence he is dead that stabbed my Edward,"
+      - "And the beholders of this frantic play,"
+      - "Th’ adulterate Hastings, Rivers, Vaughan, Grey,"
+      - "Untimely smothered in their dusky graves."
+      - "Richard yet lives, hell’s black intelligencer,"
+      - "Only reserved their factor to buy souls"
+      - "And send them thither. But at hand, at hand"
+      - "Ensues his piteous and unpitied end."
+      - "Earth gapes, hell burns, fiends roar, saints pray,"
+      - "To have him suddenly conveyed from hence."
+      - "Cancel his bond of life, dear God I pray,"
+      - "That I may live to say, “The dog is dead.”"
+    m:
+      - "Bear with me. I am hungry for revenge, and now I plan to gorge myself on it. Your son Edward, who stabbed my son Edward, is dead. To even the balance, your grandson Edward is also dead, with young York thrown in because both your grandsons aren’t equal to my one son. Your Clarence, who stabbed my Edward, is also dead. And the audience to this insane play—the adulterer Hastings, as well as Rivers, Vaughan, and Grey—have been sent early to their graves. Richard, a fiendish spy for hell itself, still lives, but only long enough to buy souls to send below. Soon, very soon, he will meet his ghastly and well deserved end. When he dies, the earth will gape open, hell will burn hotter, devils will roar, and saints will pray to get him out of here fast. I pray that God ends his life before I die, so I can say, “The dog is dead!”"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "O, thou didst prophesy the time would come"
+      - "That I should wish for thee to help me curse"
+      - "That bottled spider, that foul bunch-backed toad!"
+    m:
+      - "Oh, you prophesied that the time would come when I would want your help in cursing that humpbacked spider, that hideous toad!"
+
+  - sp: QUEEN MARGARET
+    o:
+      - "I called thee then “vain flourish of my fortune.”"
+      - "I called thee then poor shadow, “painted queen,”"
+      - "The presentation of but what I was,"
+      - "The flattering index of a direful pageant,"
+      - "One heaved a-high, to be hurled down below,"
+      - "A mother only mocked with two fair babes,"
+      - "A dream of what thou wast, a garish flag"
+      - "To be the aim of every dangerous shot,"
+      - "A sign of dignity, a breath, a bubble,"
+      - "A queen in jest, only to fill the scene."
+      - "Where is thy husband now? Where be thy brothers?"
+      - "Where are thy two sons? Wherein dost thou joy?"
+      - "Who sues and kneels and says “God save the queen?”"
+      - "Where be the bending peers that flattered thee?"
+      - "Where be the thronging troops that followed thee?"
+      - "Decline all this, and see what now thou art:"
+      - "For happy wife, a most distressèd widow;"
+      - "For joyful mother, one that wails the name;"
+      - "For queen, a very caitiff crowned with care;"
+      - "For she that scorned at me, now scorned of me;"
+      - "For she being feared of all, now fearing one;"
+      - "For she commanding all, obeyed of none."
+      - "Thus hath the course of justice whirled about"
+      - "And left thee but a very prey to time,"
+      - "Having no more but thought of what thou wast"
+      - "To torture thee the more, being what thou art."
+      - "Thou didst usurp my place, and dost thou not"
+      - "Usurp the just proportion of my sorrow?"
+      - "Now thy proud neck bears half my burdened yoke,"
+      - "From which even here I slip my weary head"
+      - "And leave the burthen of it all on thee."
+      - "Farewell, York’s wife, and queen of sad mischance."
+      - "These English woes will make me smile in France."
+    m:
+      - "Back then, I called you “a poor, imitation queen,” a badly reproduced copy of what I was, a pretty prologue for the tragedy that was about to follow, a woman who was lifted high only to be hurled down to hell, a mother only teased with two beautiful children, who would soon die. I said you were a mere shadow of what a queen once was, a garish target to be aimed at again and again, an empty symbol of dignity without any substance, a mockery of a queen only there to fill in a role. And I was right, because where’s your husband now? Your brothers? Your two sons? Your source of joy? Who kneels at your feet now and says, “God save the Queen?” What noblemen are bowing and scraping to flatter you now? And where is your throng of followers? Once you’ve laid out all of these losses, it’s clear what’s left. In place of a happy wife, there’s a miserable widow. Instead of a joyful mother, here’s a woman who cries at the mention of her children. For one who bestows favors on others, here’s one who has to beg for favors. Instead of a queen, we have a poor woman with a crown of worries. She who mocked me now is mocked by me. She who once ordered everyone about is now obeyed by no one. Your fortune has fallen. Now you have only the memory of what you were, which tortures you when you consider what you’ve become. You once stole my position; now you get to have the grief that goes with it. Now like an ox, you carry half my heavy burden of grief—here, I’ll give you the rest. Farewell, York’s wife. Goodbye, queen of tragic misfortune. Your English sorrows will make me smile in France."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "O, thou well-skilled in curses, stay awhile,"
+      - "And teach me how to curse mine enemies."
+    m:
+      - "You who are so skilled in cursing, stay awhile and teach me how to curse my enemies."
+
+  - sp: QUEEN MARGARET
+    o:
+      - "Forbear to sleep the nights, and fast the days;"
+      - "Compare dead happiness with living woe;"
+      - "Think that thy babes were sweeter than they were,"
+      - "And he that slew them fouler than he is."
+      - "Bettering thy loss makes the bad causer worse."
+      - "Revolving this will teach thee how to curse."
+    m:
+      - "Don’t sleep at night, and don’t eat during the day. Compare what you’ve lost with what you suffer now. Remember your children as being sweeter than they actually were, and think of the man who killed them as worse than he is. Making your loss greater makes the person who caused it worse. Think like this all day, and you’ll learn how to curse."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "My words are dull. O, quicken them with thine!"
+    m:
+      - "My words are dull. Enliven them with yours!"
+
+  - sp: QUEEN MARGARET
+    o:
+      - "Thy woes will make them sharp and pierce like mine."
+    m:
+      - "Your misery will make them sharp and piercing like mine."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: DUCHESS
+    o:
+      - "Why should calamity be full of words?"
+    m:
+      - "What good does it do to respond to catastrophe with a lot of words?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Windy attorneys to their clients’ woes,"
+      - "Airy succeeders of intestate joys,"
+      - "Poor breathing orators of miseries,"
+      - "Let them have scope, though what they will impart"
+      - "Help nothing else, yet do they ease the heart."
+    m:
+      - "Words are a lot of useless breath, like lawyers who won’t stop arguing for their sad clients, like a worthless inheritance, or like poor speech-makers who won’t stop speaking. But give words a chance. Though they won’t help in any other way, at least they make us feel better."
+
+  - sp: DUCHESS
+    o:
+      - "If so, then be not tongue-tied. Go with me,"
+      - "And in the breath of bitter words let’s smother"
+      - "My damnèd son that thy two sweet sons smothered."
+    m:
+      - "If that’s true, then don’t be tongue-tied. Come with me, and let’s smother my fiendish son—who smothered your two sweet sons—in bitter words."
+
+  - os: "A trumpet sounds"
+    ms: "A trumpet plays."
+
+  - o:
+      - "The trumpet sounds. Be copious in exclaims."
+    m:
+      - "I hear his battle drums. Don’t stint on your words."
+
+  - os: "They rise"
+    ms: "They rise"
+
+  - os: "Enter King RICHARD and his train, including CATESBY"
+    ms: "King RICHARD enters, with his followers, including CASTEBY."
+
+  - sp: RICHARD
+    o:
+      - "Who intercepts my expedition?"
+    m:
+      - "Who’s blocking the way?"
+
+  - sp: DUCHESS
+    o:
+      - "O, she that might have intercepted thee,"
+      - "By strangling thee in her accursèd womb,"
+      - "From all the slaughters, wretch, that thou hast done."
+    m:
+      - "The woman who might have blocked you from all the murders you’ve committed by strangling you in her cursed womb."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Hid’st thou that forehead with a golden crown"
+      - "Where should be branded, if that right were right,"
+      - "The slaughter of the prince that owed that crown"
+      - "And the dire death of my poor sons and brothers?"
+      - "Tell me, thou villain-slave, where are my children?"
+    m:
+      - "Are you hiding your forehead with a golden crown, when, if there was any justice in this world, it should be branded with the murders you committed—your slaughter of the prince who held that crown, and of my sons and my brothers? Tell me, you villainous lowlife, where are my children?"
+
+  - sp: DUCHESS
+    o:
+      - "Thou toad, thou toad, where is thy brother Clarence?"
+      - "And little Ned Plantagenet his son?"
+    m:
+      - "You toad, where is your brother Clarence and his son, little Ned Plantagenet?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Where is gentle Rivers, Vaughan, Grey?"
+    m:
+      - "Where are the noble Hastings, Rivers, Vaughan, Grey?"
+
+  - sp: DUCHESS
+    o:
+      - "Where is kind Hastings?"
+    m:
+      - "Where is kind Hastings?"
+
+  - sp: RICHARD
+    o:
+      - "A flourish, trumpets! Strike alarum, drums!"
+      - "Let not the heavens hear these telltale women"
+      - "Rail on the Lord’s anointed. Strike, I say!"
+    m:
+      - "Play, trumpets! A call to arms, drums! Don’t let the heavens hear these chattery women abuse the Lord’s anointed king. Play, I say!"
+
+  - os: "Flourish. Alarums"
+    ms: "Trumpet and drums play military music."
+
+  - o:
+      - "Either be patient and entreat me fair,"
+      - "Or with the clamorous report of war"
+      - "Thus will I drown your exclamations."
+    m:
+      - "Either be calm and polite or I’ll drown you out with the music of war."
+
+  - sp: DUCHESS
+    o:
+      - "Art thou my son?"
+    m:
+      - "Are you my son?"
+
+  - sp: RICHARD
+    o:
+      - "Ay, I thank God, my father, and yourself."
+    m:
+      - "Yes, I thank God, my father, and yourself."
+
+  - sp: DUCHESS
+    o:
+      - "Then patiently hear my impatience."
+    m:
+      - "Then patiently listen to my impatience."
+
+  - sp: RICHARD
+    o:
+      - "Madam, I have a touch of your condition,"
+      - "Which cannot brook the accent of reproof."
+    m:
+      - "Madam, I’m a bit like you in that I can’t tolerate a tone of disapproval."
+
+  - sp: DUCHESS
+    o:
+      - "O, let me speak!"
+    m:
+      - "Oh, let me speak!"
+
+  - sp: RICHARD
+    o:
+      - "    Do then, but I’ll not hear."
+    m:
+      - "Go ahead, but I won’t listen."
+
+  - sp: DUCHESS
+    o:
+      - "I will be mild and gentle in my words."
+    m:
+      - "I’ll be gentle and mild."
+
+  - sp: RICHARD
+    o:
+      - "And brief, good mother, for I am in haste."
+    m:
+      - "And brief, good mother—I’m in a hurry."
+
+  - sp: DUCHESS
+    o:
+      - "Art thou so hasty? I have stayed for thee,"
+      - "God knows, in torment and in agony."
+    m:
+      - "Are you that impatient? God knows I waited for you in anguish, pain, and agony when I gave birth to you."
+
+  - sp: RICHARD
+    o:
+      - "And came I not at last to comfort you?"
+    m:
+      - "And didn’t I finally arrive to comfort you?"
+
+  - sp: DUCHESS
+    o:
+      - "No, by the Holy Rood, thou know’st it well."
+      - "Thou cam’st on earth to make the earth my hell."
+      - "A grievous burden was thy birth to me;"
+      - "Tetchy and wayward was thy infancy;"
+      - "Thy school days frightful, desp’rate, wild, and furious;"
+      - "Thy prime of manhood daring, bold, and venturous;"
+      - "Thy age confirmed, proud, subtle, sly, and bloody,"
+      - "More mild, but yet more harmful, kind in hatred."
+      - "What comfortable hour canst thou name,"
+      - "That ever graced me in thy company?"
+    m:
+      - "No, by God, you know perfectly well you arrived on earth to make it my hell. Your birth was incredibly painful; you were a fussy and difficult baby; as a schoolboy, you were frightening, wild, furious, and caused me despair; as a young man, you were daring, bold, and enterprising, and in your maturity, you have been haughty, bloody, and treacherous—both more mild and more harmful than before. So, what hour of comfort have I ever had in your company? Name one."
+
+  - sp: RICHARD
+    o:
+      - "Faith, none but Humfrey Hower, that called your Grace"
+      - "To breakfast once, forth of my company."
+      - "If I be so disgracious in your eye,"
+      - "Let me march on and not offend you, madam.—"
+      - "Strike up the drum."
+    m:
+      - "I guess none except Humphrey Hour, who once invited you to have breakfast without me. If I be such a disgrace in your eyes, let me march on and not offend you. Strike up the band!"
+
+  - sp: DUCHESS
+    o:
+      - "    I prithee, hear me speak."
+    m:
+      - "Please, listen to me."
+
+  - sp: RICHARD
+    o:
+      - "You speak too bitterly."
+    m:
+      - "You’re too bitter."
+
+  - sp: DUCHESS
+    o:
+      - "    Hear me a word,"
+      - "For I shall never speak to thee again."
+    m:
+      - "Just listen this once. I’ll never speak to you again."
+
+  - sp: RICHARD
+    o:
+      - "So."
+    m:
+      - "So be it."
+
+  - sp: DUCHESS
+    o:
+      - "Either thou wilt die by God’s just ordinance"
+      - "Ere from this war thou turn a conqueror,"
+      - "Or I with grief and extreme age shall perish"
+      - "And nevermore behold thy face again."
+      - "Therefore take with thee my most grievous curse,"
+      - "Which in the day of battle tire thee more"
+      - "Than all the complete armor that thou wear’st."
+      - "My prayers on the adverse party fight,"
+      - "And there the little souls of Edward’s children"
+      - "Whisper the spirits of thine enemies"
+      - "And promise them success and victory."
+      - "Bloody thou art; bloody will be thy end."
+      - "Shame serves thy life and doth thy death attend."
+    m:
+      - "Either you will die as you should, before you’ve had a chance to win this battle, or *I* will die from grief and age and never look upon your face again. So, take with you my heaviest curse, which I hope wears you out in battle even more than your heavy suit of armor will. I pray that the little souls of Edward’s children will whisper to your enemies and promise them success and victory. You are violent, and your end will be violent. Your life was shameful, and let your death be, too."
+
+  - os: "Exit"
+    ms: "She exits."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Though far more cause, yet much less spirit to curse"
+      - "Abides in me. I say amen to her."
+    m:
+      - "Though I have far more reason, I don’t have as much energy to curse you. But I say amen to everything she said."
+
+  - sp: RICHARD
+    o:
+      - "Stay, madam. I must talk a word with you."
+    m:
+      - "Wait, madam. I need to speak a word with you."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "I have no more sons of the royal blood"
+      - "For thee to slaughter. For my daughters, Richard,"
+      - "They shall be praying nuns, not weeping queens,"
+      - "And therefore level not to hit their lives."
+    m:
+      - "I have no more royal sons for you to murder. As for my daughters, Richard, they will become praying nuns, not weeping queens. So don’t aim at them."
+
+  - sp: RICHARD
+    o:
+      - "You have a daughter called Elizabeth,"
+      - "Virtuous and fair, royal and gracious."
+    m:
+      - "You have a daughter named Elizabeth, who is virtuous and beautiful, aristocratic and full of grace."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "And must she die for this? O, let her live,"
+      - "And I’ll corrupt her manners, stain her beauty,"
+      - "Slander myself as false to Edward’s bed,"
+      - "Throw over her the veil of infamy."
+      - "So she may live unscarred of bleeding slaughter,"
+      - "I will confess she was not Edward’s daughter."
+    m:
+      - "And does she have to die for this? Oh, let her live, and I’ll ruin her manners and her beauty. So that she may live, I’ll say I cheated on Edward and that she is not really his child."
+
+  - sp: RICHARD
+    o:
+      - "Wrong not her birth. She is a royal princess."
+    m:
+      - "Don’t wrong her birth. She has royal blood."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "To save her life, I’ll say she is not so."
+    m:
+      - "To save her life, I’ll say she doesn’t."
+
+  - sp: RICHARD
+    o:
+      - "Her life is safest only in her birth."
+    m:
+      - "Her life is only safe if she’s really of royal blood."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "And only in that safety died her brothers."
+    m:
+      - "Yes, as safe as her brothers’ lives were."
+
+  - sp: RICHARD
+    o:
+      - "Lo, at their births good stars were opposite."
+    m:
+      - "They were born under unlucky stars."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "No, to their lives ill friends were contrary."
+    m:
+      - "The stars weren’t the problem. Bad friends were."
+
+  - sp: RICHARD
+    o:
+      - "All unavoided is the doom of destiny."
+    m:
+      - "You can’t escape a bad destiny."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "True, when avoided grace makes destiny."
+      - "My babes were destined to a fairer death"
+      - "If grace had blessed thee with a fairer life."
+    m:
+      - "True, when a king who defies God is choosing that destiny. My children would have enjoyed a better death if God had blessed you with a purer life."
+
+  - sp: RICHARD
+    o:
+      - "You speak as if that I had slain my cousins."
+    m:
+      - "You speak as if *I* had killed my nephews."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Cousins, indeed, and by their uncle cozened"
+      - "Of comfort, kingdom, kindred, freedom, life."
+      - "Whose hand soever launched their tender hearts,"
+      - "Thy head, all indirectly, gave direction."
+      - "No doubt the murd’rous knife was dull and blunt"
+      - "Till it was whetted on thy stone-hard heart,"
+      - "To revel in the entrails of my lambs."
+      - "But that still use of grief makes wild grief tame,"
+      - "My tongue should to thy ears not name my boys"
+      - "Till that my nails were anchored in thine eyes,"
+      - "And I, in such a desp’rate bay of death,"
+      - "Like a poor bark of sails and tackling reft,"
+      - "Rush all to pieces on thy rocky bosom."
+    m:
+      - "Nephews, indeed, cheated by their uncle of comfort, kingdom, relatives, freedom, and life. Whichever hand literally stabbed their tender hearts, you’re the one who gave the order. No doubt the murderous knife was blunt till it was sharpened on your stony heart—you reveled in my lambs’ bloody guts. But constant expression of wild grief will only make it tame, so I’m not going to say any more about my boys until I’ve gouged your eyes out with my bare hands. Like a sailboat that has lost its sails, I will throw myself on your rocky bosom—and get torn to pieces."
+
+  - sp: RICHARD
+    o:
+      - "Madam, so thrive I in my enterprise"
+      - "And dangerous success of bloody wars"
+      - "As I intend more good to you and yours"
+      - "Than ever you or yours were by me harmed!"
+    m:
+      - "Madam, if I do as well as I think I’m going to do in these dangerous, violent wars, you and your relatives will have more good at my hands than you’ve ever had bad!"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "What good is covered with the face of heaven,"
+      - "To be discovered, that can do me good?"
+    m:
+      - "What good does heaven have in store that can do me any good now?"
+
+  - sp: RICHARD
+    o:
+      - "The advancement of your children, gentle lady."
+    m:
+      - "The advancement of your children, noble lady."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Up to some scaffold, there to lose their heads."
+    m:
+      - "Advancement to some scaffold, to lose their heads."
+
+  - sp: RICHARD
+    o:
+      - "Unto the dignity and height of fortune,"
+      - "The high imperial type of this earth’s glory."
+    m:
+      - "No, advancement to the dignity and height of honor, to a high, imperial kind of glory."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Flatter my sorrow with report of it."
+      - "Tell me what state, what dignity, what honor,"
+      - "Canst thou demise to any child of mine?"
+    m:
+      - "Flatter me in my mourning: tell me what dignity or honor you could possible bring to any child of mine?"
+
+  - sp: RICHARD
+    o:
+      - "Even all I have— ay, and myself and all—"
+      - "Will I withal endow a child of thine;"
+      - "So in the Lethe of thy angry soul"
+      - "Thou drown the sad remembrance of those wrongs"
+      - "Which thou supposest I have done to thee."
+    m:
+      - "The dignity of everything I own. In fact, I will give a child of yours everything plus myself, provided you forget the wrongs you imagine I have done to you."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Be brief, lest that the process of thy kindness"
+      - "Last longer telling than thy kindness’ date."
+    m:
+      - "Well, explain—but do it fast so that your puny store of kindness isn’t used up by talking about it."
+
+  - sp: RICHARD
+    o:
+      - "Then know that from my soul I love thy daughter."
+    m:
+      - "Then know that from my soul I love your daughter."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "My daughter’s mother thinks it with her soul."
+    m:
+      - "I believe it."
+
+  - sp: RICHARD
+    o:
+      - "What do you think?"
+    m:
+      - "What do you believe?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "That thou dost love my daughter from thy soul."
+      - "So from thy soul’s love didst thou love her brothers,"
+      - "And from my heart’s love I do thank thee for it."
+    m:
+      - "That you love my daughter to spite your soul. That’s the way you loved my brothers. And that’s the way I thank you for it."
+
+  - sp: RICHARD
+    o:
+      - "Be not so hasty to confound my meaning."
+      - "I mean that with my soul I love thy daughter"
+      - "And do intend to make her Queen of England."
+    m:
+      - "Don’t be so quick to twist my meaning. I mean that I love your daughter *with* all my soul. I intend to make her queen of England."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Well then, who dost thou mean shall be her king?"
+    m:
+      - "Tell me, who will be the king?"
+
+  - sp: RICHARD
+    o:
+      - "Even he that makes her queen. Who else should be?"
+    m:
+      - "The one who makes her queen, of course. Who else should it be?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "What, thou?"
+    m:
+      - "What, you?"
+
+  - sp: RICHARD
+    o:
+      - "Even so. How think you of it?"
+    m:
+      - "Yes, exactly. Me. What do you think, madam?"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "How canst thou woo her?"
+    m:
+      - "How would you woo her?"
+
+  - sp: RICHARD
+    o:
+      - "    That would I learn of you,"
+      - "As one being best acquainted with her humor."
+    m:
+      - "That’s what I want to find out from you, who knows her best."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "And wilt thou learn of me?"
+    m:
+      - "And *will* you learn from me?"
+
+  - sp: RICHARD
+    o:
+      - "Madam, with all my heart."
+    m:
+      - "Madam, with all my heart."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Send to her, by the man that slew her brothers,"
+      - "A pair of bleeding hearts; thereon engrave"
+      - "“Edward” and “York.” Then haply she will weep."
+      - "Therefore present to her—as sometime Margaret"
+      - "Did to thy father, steeped in Rutland’s blood—"
+      - "A handkerchief, which say to her did drain"
+      - "The purple sap from her sweet brother’s body,"
+      - "And bid her wipe her weeping eyes withal."
+      - "If this inducement move her not to love,"
+      - "Send her a letter of thy noble deeds;"
+      - "Tell her thou mad’st away her uncle Clarence,"
+      - "Her uncle Rivers, ay, and for her sake"
+      - "Mad’st quick conveyance with her good aunt Anne."
+    m:
+      - "Okay, then. Do this: send her a pair of bleeding hearts. Make clear they come from the man who killed her brothers. Write “Edward” and “York” on them. That will get her to weep. Then present her with a handkerchief, like the one Margaret gave your father, which was steeped in his son Rutland’s blood. Tell her this handkerchief sopped up the blood of her sweet brother’s body and urge her to dry her weeping eyes with it. If this encouragement doesn’t move her to love you, send her a description of your other noble deeds. Tell her how you secretly dispensed with her uncle Clarence, her uncle Rivers, and, for her sake, her good aunt Anne."
+
+  - sp: RICHARD
+    o:
+      - "You mock me, madam. This is not the way"
+      - "To win your daughter."
+    m:
+      - "Come, come, you’re making fun of me. This is not the way to win your daughter."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "    There is no other way,"
+      - "Unless thou couldst put on some other shape"
+      - "And not be Richard, that hath done all this."
+    m:
+      - "There isn’t any other way, unless you took on another form and became someone else."
+
+  - sp: RICHARD
+    o:
+      - "Say that I did all this for love of her."
+    m:
+      - "But suppose I did all the things you named out of love for her."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Nay, then indeed she cannot choose but hate thee,"
+      - "Having bought love with such a bloody spoil."
+    m:
+      - "Then she has no choice but to hate you, as you purchased her love with murder."
+
+  - sp: RICHARD
+    o:
+      - "Look what is done cannot be now amended."
+      - "Men shall deal unadvisedly sometimes,"
+      - "Which after-hours give leisure to repent."
+      - "If I did take the kingdom from your sons,"
+      - "To make amends I’ll give it to your daughter."
+      - "If I have killed the issue of your womb,"
+      - "To quicken your increase I will beget"
+      - "Mine issue of your blood upon your daughter."
+      - "A grandam’s name is little less in love"
+      - "Than is the doting title of a mother."
+      - "They are as children but one step below,"
+      - "Even of your metal, of your very blood,"
+      - "Of all one pain, save for a night of groans"
+      - "Endured of her for whom you bid like sorrow."
+      - "Your children were vexation to your youth,"
+      - "But mine shall be a comfort to your age."
+      - "The loss you have is but a son being king,"
+      - "And by that loss your daughter is made queen."
+      - "I cannot make you what amends I would;"
+      - "Therefore accept such kindness as I can."
+      - "Dorset your son, that with a fearful soul"
+      - "Leads discontented steps in foreign soil,"
+      - "This fair alliance quickly shall call home"
+      - "To high promotions and great dignity."
+      - "The king that calls your beauteous daughter wife"
+      - "Familiarly shall call thy Dorset brother."
+      - "Again shall you be mother to a king,"
+      - "And all the ruins of distressful times"
+      - "Repaired with double riches of content."
+      - "What, we have many goodly days to see!"
+      - "The liquid drops of tears that you have shed"
+      - "Shall come again, transformed to orient pearl,"
+      - "Advantaging their love with interest"
+      - "Of ten times double gain of happiness."
+      - "Go then, my mother; to thy daughter go."
+      - "Make bold her bashful years with your experience;"
+      - "Prepare her ears to hear a wooer’s tale;"
+      - "Put in her tender heart th’ aspiring flame"
+      - "Of golden sovereignty; acquaint the Princess"
+      - "With the sweet silent hours of marriage joys;"
+      - "And when this arm of mine hath chastisèd"
+      - "The petty rebel, dull-brained Buckingham,"
+      - "Bound with triumphant garlands will I come"
+      - "And lead thy daughter to a conqueror’s bed,"
+      - "To whom I will retail my conquest won,"
+      - "And she shall be sole victoress, Caesar’s Caesar."
+    m:
+      - "Whatever has already been done can’t be undone now. Men act imprudently sometimes, then realize their mistakes when they have time to think about them. If I took the kingdom from your sons, I’ll give it to your daughter to make up for it. If I have killed your children, I will have children with your daughter. A grandmother is loved hardly less than a mother is. Your grandchildren will be just one step removed from your own children—they share your character, your blood, and require the same effort minus that one night of labor, like that which you suffered through for your own daughter. Your children caused you trouble in your youth, but mine will bring you comfort in your old age. The only loss you’ve had is that your son was not king. Because of that loss, your daughter will be queen. I can’t make up for everything that I’d like to, so accept such kindness as I can offer. Your son Dorset, who fled in fear to join an army in France against me, could come home to high promotions and great dignity. The king who calls your beautiful daughter “wife” will call Dorset “brother.” And you will be the mother to a king again, with all the miseries of unhappy times not just repaired, but also improved. Indeed, we have many good days to look forward to! The tears you have shed will be transformed into pearls. Your happiness will be like a loan that has grown through interest to ten times its original size. Go, then, mother, to your daughter. Give her the benefit of your experience, and prepare her to hear me court her. Make her aspire to be queen. Tell the princess about the sweet, silent hours of joy there are in marriage. And when my army has chastised the petty rebel, that stupid Buckingham, I will return wreathed in victory crowns and lead your daughter to a conqueror’s bed. She will be the only victor over my triumphs. She will be the ruler of a Caesar."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "What were I best to say? Her father’s brother"
+      - "Would be her lord? Or shall I say her uncle?"
+      - "Or he that slew her brothers and her uncles?"
+      - "Under what title shall I woo for thee,"
+      - "That God, the law, my honor and her love"
+      - "Can make seem pleasing to her tender years?"
+    m:
+      - "What should I say to her? That her father’s brother wants to be her husband? Or should I say it’s her uncle? Or should I describe you as the one who killed her brothers and her uncles? How can I describe you that will make you appeal to the young woman and will also agree with God, the law, my honor, and her feelings?"
+
+  - sp: RICHARD
+    o:
+      - "Infer fair England’s peace by this alliance."
+    m:
+      - "Claim fair England’s peace depends on this alliance."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Which she shall purchase with still-lasting war."
+    m:
+      - "She will purchase that peace with an everlasting war."
+
+  - sp: RICHARD
+    o:
+      - "Tell her the king, that may command, entreats—"
+    m:
+      - "Tell her that the king, who has the power to command people, asks her."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "That, at her hands, which the king’s King forbids."
+    m:
+      - "He asks her to do what God forbids."
+
+  - sp: RICHARD
+    o:
+      - "Say she shall be a high and mighty queen."
+    m:
+      - "Say she will be a high and mighty queen."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "To vail the title, as her mother doth."
+    m:
+      - "Only to watch that title become worthless, as her mother has."
+
+  - sp: RICHARD
+    o:
+      - "Say I will love her everlastingly."
+    m:
+      - "Say I will love her everlastingly."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "But how long shall that title “ever” last?"
+    m:
+      - "But how long will “ever” last?"
+
+  - sp: RICHARD
+    o:
+      - "Sweetly in force unto her fair life’s end."
+    m:
+      - "Until her beautiful life’s end."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "But how long fairly shall her sweet life last?"
+    m:
+      - "But how long will her beautiful life last?"
+
+  - sp: RICHARD
+    o:
+      - "As long as heaven and nature lengthens it."
+    m:
+      - "As long as heaven and nature extend it."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "As long as hell and Richard likes of it."
+    m:
+      - "As long as hell and Richard want it."
+
+  - sp: RICHARD
+    o:
+      - "Say I, her sovereign, am her subject low."
+    m:
+      - "Tell her that I, her king, am her lowly subject."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "But she, your subject, loathes such sovereignty."
+    m:
+      - "But she, your subject, hates such a king."
+
+  - sp: RICHARD
+    o:
+      - "Be eloquent in my behalf to her."
+    m:
+      - "Be eloquent on my behalf."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "An honest tale speeds best being plainly told."
+    m:
+      - "An honest tale succeeds best when it is told simply."
+
+  - sp: RICHARD
+    o:
+      - "Then plainly to her tell my loving tale."
+    m:
+      - "Then tell her my loving story in simple terms."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Plain and not honest is too harsh a style."
+    m:
+      - "You can’t tell a story simply when it’s a lie."
+
+  - sp: RICHARD
+    o:
+      - "Your reasons are too shallow and too quick."
+    m:
+      - "Your answers are too shallow and too hasty."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "O no, my reasons are too deep and dead—"
+      - "Too deep and dead, poor infants, in their graves."
+    m:
+      - "Oh no, my reasons are deep and as permanent as death. They’re buried as deep as my poor infants in their grave."
+
+  - sp: RICHARD
+    o:
+      - "Harp not on that string, madam; that is past."
+    m:
+      - "Don’t harp on that point, madam—it’s past."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Harp on it still shall I till heart-strings break."
+    m:
+      - "I will harp on it till my heartstrings break."
+
+  - sp: RICHARD
+    o:
+      - "Now by my George, my Garter, and my crown—"
+    m:
+      - "Now, by St. George, my knighthood, and my crown—"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Profaned, dishonored, and the third usurped."
+    m:
+      - "The first you profaned, the second you dishonored, and the third you stole."
+
+  - sp: RICHARD
+    o:
+      - "I swear—"
+    m:
+      - "I swear—"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "    By nothing, for this is no oath."
+      - "Thy George, profaned, hath lost his lordly honor;"
+      - "Thy garter, blemished, pawned his knightly virtue;"
+      - "Thy crown, usurped, disgraced his kingly glory."
+      - "If something thou wouldst swear to be believed,"
+      - "Swear then by something that thou hast not wronged."
+    m:
+      - "By nothing, because this is no oath. St. George loses his holiness once *you* have sworn by him; you’ve ruined the emblem of the knighthood, and the crown lost its kingly glory once you stole it. If you want me to believe something you’ll swear to, then swear by something you haven’t wronged."
+
+  - sp: RICHARD
+    o:
+      - "Then, by myself—"
+    m:
+      - "Then, by myself—"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "    Thyself is self-misused."
+    m:
+      - "You’ve misused yourself."
+
+  - sp: RICHARD
+    o:
+      - "Now, by the world—"
+    m:
+      - "Now, by the world—"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "    ’Tis full of thy foul wrongs."
+    m:
+      - "It’s full of your ugly wrongdoings."
+
+  - sp: RICHARD
+    o:
+      - "My father’s death—"
+    m:
+      - "By my father’s death—"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "    Thy life hath it dishonored."
+    m:
+      - "Your life has dishonored his death."
+
+  - sp: RICHARD
+    o:
+      - "Why then, by God."
+    m:
+      - "Why then, by God—"
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "    God’s wrong is most of all."
+      - "If thou didst fear to break an oath by Him,"
+      - "The unity the king my husband made"
+      - "Thou hadst not broken, nor my brothers died."
+      - "If thou hadst feared to break an oath by Him,"
+      - "Th’ imperial metal circling now thy head"
+      - "Had graced the tender temples of my child,"
+      - "And both the princes had been breathing here,"
+      - "Which now, two tender bedfellows for dust,"
+      - "Thy broken faith hath made the prey for worms."
+      - "What canst thou swear by now?"
+    m:
+      - "You wrong God most of all. If you had been afraid to break an oath with him, you wouldn’t have ruined the united front the king, my husband, created before he died, and you wouldn’t have killed my brothers. If you had been afraid to break an oath with him, the crown you are currently wearing would have graced the head of my child, and both princes would still be alive, not preyed on by worms. What can you swear by now?"
+
+  - sp: RICHARD
+    o:
+      - "    The time to come."
+    m:
+      - "By the future."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "That thou hast wrongèd in the time o’erpast;"
+      - "For I myself have many tears to wash"
+      - "Hereafter time, for time past wronged by thee."
+      - "The children live whose fathers thou hast slaughtered,"
+      - "Ungoverned youth, to wail it in their age;"
+      - "The parents live whose children thou hast butchered,"
+      - "Old barren plants, to wail it with their age."
+      - "Swear not by time to come, for that thou hast"
+      - "Misused ere used, by times ill-used o’erpast."
+    m:
+      - "You’ve already wronged that by what you did in the past. I myself have many tears to cry in the time to come, because of what you’ve done. There are children living whose fathers you have slaughtered. When they are grown, they will wail about a childhood in which no one watched out for them. There are parents living whose children you have butchered; they are now old withered plants who will moan over their losses as they grow old. Don’t swear by the future, because you’ve ruined it before it has even arrived."
+
+  - sp: RICHARD
+    o:
+      - "As I intend to prosper and repent,"
+      - "So thrive I in my dangerous affairs"
+      - "Of hostile arms! Myself myself confound,"
+      - "Heaven and fortune bar me happy hours,"
+      - "Day, yield me not thy light, nor night thy rest,"
+      - "Be opposite all planets of good luck"
+      - "To my proceedings if, with dear heart’s love,"
+      - "Immaculate devotion, holy thoughts,"
+      - "I tender not thy beauteous princely daughter."
+      - "In her consists my happiness and thine."
+      - "Without her follows to myself and thee,"
+      - "Herself, the land, and many a Christian soul,"
+      - "Death, desolation, ruin and decay."
+      - "It cannot be avoided but by this;"
+      - "It will not be avoided but by this."
+      - "Therefore, dear mother—I must call you so—"
+      - "Be the attorney of my love to her:"
+      - "Plead what I will be, not what I have been;"
+      - "Not my deserts, but what I will deserve."
+      - "Urge the necessity and state of times,"
+      - "And be not peevish found in great designs."
+    m:
+      - "May I only do well in these dangerous battles if my intention to repent and prosper is sincere! Let me destroy myself, let heaven and destiny deprive me of happy hours, let day remain dark and night sleepless, and let me have nothing but terrible luck if I do not love with a pure heart, clean devotion, and holy thoughts your beautiful royal daughter. My happiness and yours lie in her. If I do not win her, death, desolation, and decay will descend on this land and on me, you, herself, and many a Christian soul. Ruin cannot be avoided unless I marry her. It *will not* be avoided unless I marry her. Therefore, good mother—I must call you that—advocate for me. Plead with your daughter about what I will be, not what I have been. Don’t talk about my just desserts but about what I *will* deserve. Tell her how necessary this marriage is at this time, and don’t be small-minded about such important plans."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Shall I be tempted of the devil thus?"
+    m:
+      - "Shall I be tempted by the devil?"
+
+  - sp: RICHARD
+    o:
+      - "Ay, if the devil tempt you to do good."
+    m:
+      - "Yes, if the devil tempts you to do good."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Shall I forget myself to be myself?"
+    m:
+      - "Shall I forget the wrongs you’ve done to me so that I can be the mother of a king again?"
+
+  - sp: RICHARD
+    o:
+      - "Ay, if your self’s remembrance wrong yourself."
+    m:
+      - "Yes, if your memories do you no good."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Yet thou didst kill my children."
+    m:
+      - "Yet you killed my children."
+
+  - sp: RICHARD
+    o:
+      - "But in your daughter’s womb I bury them,"
+      - "Where, in that nest of spicery, they will breed"
+      - "Selves of themselves, to your recomforture."
+    m:
+      - "But in your daughter’s womb I will bury them. In that rich nest they shall grow again, to console you."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "Shall I go win my daughter to thy will?"
+    m:
+      - "Should I go convince my daughter to marry you?"
+
+  - sp: RICHARD
+    o:
+      - "And be a happy mother by the deed."
+    m:
+      - "And be a happy mother by doing so."
+
+  - sp: QUEEN ELIZABETH
+    o:
+      - "I go. Write to me very shortly,"
+      - "And you shall understand from me her mind."
+    m:
+      - "I’m going. Write to me very soon and I’ll let you know what she thinks."
+
+  - sp: RICHARD
+    o:
+      - "Bear her my true love’s kiss; and so, farewell."
+    m:
+      - "Give her a kiss from me, her true love. And so, goodbye."
+
+  - os: "Exit QUEEN ELIZABETH"
+    ms: "QUEEN ELIZABETH exits."
+
+  - o:
+      - "Relenting fool and shallow, changing woman!"
+    m:
+      - "Weak-willed fool! Shallow, fickle woman!"
+
+  - os: "Enter RATCLIFFE, with CATESBY behind"
+    ms: "RATCLIFFE enters, with CATESBY following."
+
+  - o:
+      - "How now, what news?"
+    m:
+      - "Hello! What’s the news?"
+
+  - sp: RATCLIFFE
+    o:
+      - "Most mighty sovereign, on the western coast"
+      - "Rideth a puissant navy. To our shores"
+      - "Throng many doubtful hollow-hearted friends,"
+      - "Unarmed and unresolved to beat them back."
+      - "’Tis thought that Richmond is their admiral;"
+      - "And there they hull, expecting but the aid"
+      - "Of Buckingham to welcome them ashore."
+    m:
+      - "My noble king, a powerful fleet of ships sails on the western coast. Many former friends of ours have gathered to meet the fleet and aren’t willing to beat it back. Word is that Richmond is the navy’s admiral. The ships are drifting off the coast, sails unfurled, only waiting for Buckingham to help them come ashore."
+
+  - sp: RICHARD
+    o:
+      - "Some light-foot friend post to the duke of Norfolk—"
+      - "Ratcliffe, thyself, or Catesby. Where is he?"
+    m:
+      - "Someone who can ride fast, go to the duke of Norfolk. You go, Ratcliffe, or Catesby. Where is Catesby?"
+
+  - sp: CATESBY
+    o:
+      - "Here, my good lord."
+    m:
+      - "Here, my good lord."
+
+  - sp: RICHARD
+    o:
+      - "Catesby, fly to the duke."
+    m:
+      - "Catesby, fly to the duke."
+
+  - sp: CATESBY
+    o:
+      - "I will, my lord, with all convenient haste."
+    m:
+      - "I will my lord, as fast as I can."
+
+  - sp: RICHARD
+    o:
+      - "Ratcliffe, come hither. Post to Salisbury."
+      - "When thou com’st thither"
+      - "— *(to CATESBY)* Dull, unmindful villain,"
+      - "Why stay’st thou here and go’st not to the duke?"
+    m:
+      - "Ratcliffe, come here. Ride to Salisbury. When you get there—*(to CATESBY)* Stupid, distracted rascal, why are you still standing there? Why haven’t you left for the duke’s?"
+
+  - sp: CATESBY
+    o:
+      - "First, mighty liege, tell me your Highness’ pleasure,"
+      - "What from your Grace I shall deliver to him."
+    m:
+      - "First, mighty king, tell me what you want me to tell him."
+
+  - sp: RICHARD
+    o:
+      - "O true, good Catesby. Bid him levy straight"
+      - "The greatest strength and power that he can make"
+      - "And meet me suddenly at Salisbury."
+    m:
+      - "Oh, right, good Catesby. Tell him to gather together the greatest army he can muster in a hurry and meet me right away at Salisbury."
+
+  - sp: CATESBY
+    o:
+      - "I go."
+    m:
+      - "I’m off."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: RATCLIFFE
+    o:
+      - "What, may it please you, shall I do at Salisbury?"
+    m:
+      - "What would you like me to do at Salisbury?"
+
+  - sp: RICHARD
+    o:
+      - "Why, what wouldst thou do there before I go?"
+    m:
+      - "Why, what is there to do before I get there?"
+
+  - sp: RATCLIFFE
+    o:
+      - "Your Highness told me I should post before."
+    m:
+      - "Your Highness just told me that I should ride there before you."
+
+  - sp: RICHARD
+    o:
+      - "My mind is changed."
+    m:
+      - "I changed my mind."
+
+  - os: "Enter STANLEY"
+    ms: "STANLEY enters."
+
+  - o:
+      - "    Stanley, what news with you?"
+    m:
+      - "Stanley, what news do you have?"
+
+  - sp: STANLEY
+    o:
+      - "None good, my liege, to please you with the hearing,"
+      - "Nor none so bad but well may be reported."
+    m:
+      - "Nothing that you want to hear, my lord, but nothing so bad that I can’t mention it."
+
+  - sp: RICHARD
+    o:
+      - "Hoyday, a riddle! Neither good nor bad."
+      - "What need’st thou run so many mile about"
+      - "When thou mayst tell thy tale the nearest way?"
+      - "Once more, what news?"
+    m:
+      - "Well, how nice, a riddle! Neither good nor bad. Why do you go around in circles when you could get to the point? Once again, what’s the news?"
+
+  - sp: STANLEY
+    o:
+      - "    Richmond is on the seas."
+    m:
+      - "Richmond is sailing on the sea."
+
+  - sp: RICHARD
+    o:
+      - "There let him sink, and be the seas on him!"
+      - "White-livered runagate, what doth he there?"
+    m:
+      - "Let him sink there so the sea will cover him! Lily-livered coward, what’s he doing there?"
+
+  - sp: STANLEY
+    o:
+      - "I know not, mighty sovereign, but by guess."
+    m:
+      - "I don’t know, mighty king. I can only guess."
+
+  - sp: RICHARD
+    o:
+      - "Well, as you guess?"
+    m:
+      - "Well, what do you guess?"
+
+  - sp: STANLEY
+    o:
+      - "Stirred up by Dorset, Buckingham, and Morton,"
+      - "He makes for England, here to claim the crown."
+    m:
+      - "That, stirred up by Dorset, Buckingham, and Morton, he’s coming to England to claim the crown."
+
+  - sp: RICHARD
+    o:
+      - "Is the chair empty? Is the sword unswayed?"
+      - "Is the king dead, the empire unpossessed?"
+      - "What heir of York is there alive but we?"
+      - "And who is England’s king but great York’s heir?"
+      - "Then tell me, what makes he upon the seas?"
+    m:
+      - "Is the throne empty? Is the army without a leader? Is the king dead, the empire dispossessed? What heir of the York family is there alive other than myself? And who is England’s king but an heir of the great York? Therefore, tell me, what is he doing at sea?"
+
+  - sp: STANLEY
+    o:
+      - "Unless for that, my liege, I cannot guess."
+    m:
+      - "Unless it’s what I said, your Majesty, I have no idea."
+
+  - sp: RICHARD
+    o:
+      - "Unless for that he comes to be your liege,"
+      - "You cannot guess wherefore the Welshman comes."
+      - "Thou wilt revolt and fly to him, I fear."
+    m:
+      - "Unless he’s coming to be your leader you can’t guess why the Welshman’s coming? You plan to revolt and join him, I’m afraid."
+
+  - sp: STANLEY
+    o:
+      - "No, my good lord. Therefore mistrust me not."
+    m:
+      - "No, mighty king, do not distrust me."
+
+  - sp: RICHARD
+    o:
+      - "Where is thy power, then, to beat him back?"
+      - "Where be thy tenants and thy followers?"
+      - "Are they not now upon the western shore,"
+      - "Safe-conducting the rebels from their ships?"
+    m:
+      - "Where is your army, then, to beat him back? Where are your tenants and your followers? Aren’t they at this very moment on the western shore helping the rebels land safely from their ships?"
+
+  - sp: STANLEY
+    o:
+      - "No, my good lord. My friends are in the north."
+    m:
+      - "No, my good lord, my friends are in the north."
+
+  - sp: RICHARD
+    o:
+      - "Cold friends to me. What do they in the north"
+      - "When they should serve their sovereign in the west?"
+    m:
+      - "Then they’re cold friends to me. What are they doing in the north when they should be in the west serving their king?"
+
+  - sp: STANLEY
+    o:
+      - "They have not been commanded, mighty king."
+      - "Pleaseth your Majesty to give me leave,"
+      - "I’ll muster up my friends and meet your Grace"
+      - "Where and what time your Majesty shall please."
+    m:
+      - "They haven’t been commanded to go to the west, mighty king. If your Majesty would like, I’ll muster up my friends and meet you wherever and whenever you like."
+
+  - sp: RICHARD
+    o:
+      - "Ay, thou wouldst be gone to join with Richmond,"
+      - "But I’ll not trust thee."
+    m:
+      - "Yes, you want to go join Richmond. But I’m not going to trust you."
+
+  - sp: STANLEY
+    o:
+      - "    Most mighty sovereign,"
+      - "You have no cause to hold my friendship doubtful."
+      - "I never was nor never will be false."
+    m:
+      - "Most mighty sovereign, you have no reason to doubt my friendship. I was never disloyal, and I never will be."
+
+  - sp: RICHARD
+    o:
+      - "Go then and muster men, but leave behind"
+      - "Your son George Stanley. Look your heart be firm."
+      - "Or else his head’s assurance is but frail."
+    m:
+      - "Then go gather your men, but leave behind your son, George Stanley. Make sure your faith is firm, or he has little chance of keeping his head."
+
+  - sp: STANLEY
+    o:
+      - "So deal with him as I prove true to you."
+    m:
+      - "Treat him as my loyalty toward you calls for."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "My gracious sovereign, now in Devonshire,"
+      - "As I by friends am well advertisèd,"
+      - "Sir Edward Courtney and the haughty prelate,"
+      - "Bishop of Exeter, his elder brother,"
+      - "With many more confederates are in arms."
+    m:
+      - "My noble king, my friends have informed me that Sir Edward Courtney and his brother, the haughty Bishop of Exeter, are now in Devonshire, where they have assembled an army."
+
+  - os: "Enter SECOND MESSENGER"
+    ms: "A SECOND MESSENGER enters."
+
+  - sp: SECOND MESSENGER
+    o:
+      - "In Kent, my liege, the Guilfords are in arms,"
+      - "And every hour more competitors"
+      - "Flock to the rebels, and their power grows strong."
+    m:
+      - "My king, the Guildfords in Kent have armed themselves, and every hour new associates flock to their aid, and their army increases."
+
+  - os: "Enter THIRD MESSENGER"
+    ms: "A THIRD MESSENGER enters."
+
+  - sp: THIRD MESSENGER
+    o:
+      - "My lord, the army of great Buckingham—"
+    m:
+      - "My lord, the duke of Buckingham’s army—"
+
+  - sp: RICHARD
+    o:
+      - "Out on you, owls! Nothing but songs of death."
+      - "*He striketh him*"
+      - "There, take thou that till thou bring better news."
+    m:
+      - "Enough, you owls! Do you have nothing but songs of death? *(he strikes the THIRD MESSENGER)* Take that until you bring me better news."
+
+  - sp: THIRD MESSENGER
+    o:
+      - "The news I have to tell your Majesty"
+      - "Is that by sudden floods and fall of waters"
+      - "Buckingham’s army is dispersed and scattered,"
+      - "And he himself wandered away alone,"
+      - "No man knows whither."
+    m:
+      - "The news I have to tell your majesty is that Buckingham’s army has dispersed from sudden floods and heavy rainfall. Buckingham himself has wandered away alone to who knows where."
+
+  - sp: RICHARD
+    o:
+      - "    I cry thee mercy."
+      - "There is my purse to cure that blow of thine."
+      - "*He gives money*"
+      - "Hath any well-advisèd friend proclaimed"
+      - "Reward to him that brings the traitor in?"
+    m:
+      - "I beg your pardon. Here’s some money to make up for that blow I gave you. *(he gives money)* Has any intelligent friend of ours offered a reward to whoever catches the traitor?"
+
+  - sp: THIRD MESSENGER
+    o:
+      - "Such proclamation hath been made, my lord."
+    m:
+      - "Yes, your Highness."
+
+  - os: "Enter FOURTH MESSENGER"
+    ms: "A FOURTH MESSENGER enters."
+
+  - sp: FOURTH MESSENGER
+    o:
+      - "Sir Thomas Lovell and Lord Marquess Dorset,"
+      - "’Tis said, my liege, in Yorkshire are in arms."
+      - "But this good comfort bring I to your Highness:"
+      - "The Breton navy is dispersed by tempest."
+      - "Richmond, in Dorsetshire, sent out a boat"
+      - "Unto the shore to ask those on the banks"
+      - "If they were his assistants, yea or no—"
+      - "Who answered him they came from Buckingham"
+      - "Upon his party. He, mistrusting them,"
+      - "Hoisted sail and made his course for Brittany."
+    m:
+      - "It’s been reported that Sir Thomas Lovell and Lord Marquess Dorset have assembled an army in Yorkshire, my lord. But I bring your Grace this comfort: a storm has dispersed the navy from Brittany. And Richmond, who is in Dorsetshire, sent a boat to shore to ask the men on the banks if they were on his side, yes or no. They said they were with Buckingham. Richmond didn’t trust them. He hoisted sail again and sailed back to Brittany."
+
+  - sp: RICHARD
+    o:
+      - "March on, march on, since we are up in arms,"
+      - "If not to fight with foreign enemies,"
+      - "Yet to beat down these rebels here at home."
+    m:
+      - "Let’s keep marching since we’re prepared to fight. Even if we don’t fight foreign enemies, we’ll beat down these rebels at home."
+
+  - os: "Enter CATESBY"
+    ms: "CATESBY returns."
+
+  - sp: CATESBY
+    o:
+      - "My liege, the duke of Buckingham is taken."
+      - "That is the best news. That the earl of Richmond"
+      - "Is with a mighty power landed at Milford,"
+      - "Is colder tidings, yet they must be told."
+    m:
+      - "Your Majesty, the duke of Buckingham has been captured—that’s the best news. The fact that the earl of Richmond has landed in Milford with a mighty army is less good news, but it must be told."
+
+  - sp: RICHARD
+    o:
+      - "Away towards Salisbury! While we reason here,"
+      - "A royal battle might be won and lost."
+      - "Someone take order Buckingham be brought"
+      - "To Salisbury. The rest march on with me."
+    m:
+      - "Away toward Salisbury! While we’re talking here, a royal battle could be won and lost. Someone deliver the order that Buckingham be brought to Salisbury. Everyone else, march on with me."
+
+  - os: "Flourish. Exeunt"
+    ms: "A trumpet plays. They all exit."

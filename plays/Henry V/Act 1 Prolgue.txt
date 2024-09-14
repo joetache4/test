@@ -1,0 +1,49 @@
+play: Henry V
+title: Act 1, Prologue
+group: 1
+order: 0
+text:
+  - os: "Enter CHORUS"
+    ms: "The CHORUS enters."
+
+  - sp: CHORUS
+    o:
+      - "Oh, for a muse of fire that would ascend"
+      - "The brightest heaven of invention!"
+      - "A kingdom for a stage, princes to act,"
+      - "And monarchs to behold the swelling scene!"
+      - "Then should the warlike Harry, like himself,"
+      - "Assume the port of Mars, and at his heels,"
+      - "Leashed in like hounds, should famine, sword, and fire"
+      - "Crouch for employment. But pardon, gentles all,"
+      - "The flat unraisèd spirits that hath dared"
+      - "On this unworthy scaffold to bring forth"
+      - "So great an object. Can this cockpit hold"
+      - "The vasty fields of France? Or may we cram"
+      - "Within this wooden *O* the very casques"
+      - "That did affright the air at Agincourt?"
+      - "O pardon, since a crookèd figure may"
+      - "Attest in little place a million,"
+      - "And let us, ciphers to this great account,"
+      - "On your imaginary forces work."
+      - "Suppose within the girdle of these walls"
+      - "Are now confined two mighty monarchies"
+      - "Whose high uprearèd and abutting fronts"
+      - "The perilous narrow ocean parts asunder."
+      - "Piece out our imperfections with your thoughts."
+      - "Into a thousand parts divide one man,"
+      - "And make imaginary puissance."
+      - "Think, when we talk of horses, that you see them"
+      - "Printing their proud hoofs i’ th’ receiving earth,"
+      - "For ’tis your thoughts that now must deck our kings,"
+      - "Carry them here and there, jumping o’er times,"
+      - "Turning th’ accomplishment of many years"
+      - "Into an hour-glass; for the which supply,"
+      - "Admit me chorus to this history;"
+      - "Who, prologue-like, your humble patience pray"
+      - "Gently to hear, kindly to judge our play."
+    m:
+      - "If only we had divine inspiration, our play might rise to the highest level of imagination. If we had a stage as big as a kingdom, real kings and queens to act the part of kings and queens, and royalty to also witness the glorious spectacle, then it would be as it really was. Then valiant King Harry would resemble the god of war, as he did in life, and famine, sword, and fire would sit like dogs at his feet, waiting to be unleashed. But, ladies and gentlemen, since that’s not the case, you must forgive us plain, ordinary men who dare to act out so great a story on this humble stage. Can this theater seem to contain the sweeping fields of France? Could we even squeeze into this little theater the helmets that looked so frightening at Agincourt? Hardly! But, pardon us, because just as a few strokes of a pen, a few zeros, can signify a huge number, we, who are zeros in this great story, can work on your imagination. Pretend that within the confines of this theater sit two great kingdoms divided by a narrow but perilous ocean. Let your thoughts make up for our imperfections. Divide each man into a thousand, and there you will have an imaginary army. Imagine, when we talk of horses, that you see them planting their proud hooves in the soft earth. Because now it is your thoughts that must dress up our kings and transport them from place to place. Your thoughts must leap over huge spans of time, turning the events of many years into the space of a few hours. To that end, consider me a sort of chorus, here to help tell the story. And, as the speaker of any prologue should, I ask you to hear our play courteously and to judge it kindly."
+
+  - os: "Exit"
+    ms: "The CHORUS exits."

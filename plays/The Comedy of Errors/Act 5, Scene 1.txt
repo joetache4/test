@@ -1,0 +1,1196 @@
+play: The Comedy of Errors
+title: Act 5, Scene 1
+group: 5
+order: 10
+text:
+  - os: "Enter SECOND MERCHANT and ANGELO the goldsmith"
+    ms: "The SECOND MERCHANT and ANGELO enter."
+
+  - sp: ANGELO
+    o:
+      - "I am sorry, sir, that I have hindered you,"
+      - "But I protest he had the chain of me,"
+      - "Though most dishonestly he doth deny it."
+    m:
+      - "I’m sorry that I delayed you, sir. But even though he denies it, I swear he got the necklace from me."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "How is the man esteemed here in the city?"
+    m:
+      - "What’s this man’s reputation like here in the city?"
+
+  - sp: ANGELO
+    o:
+      - "Of very reverend reputation, sir,"
+      - "Of credit infinite, highly beloved,"
+      - "Second to none that lives here in the city."
+      - "His word might bear my wealth at any time."
+    m:
+      - "People think very highly of him. The merchants give him unlimited credit. He’s well beloved, second to none in the city. I’d trust him with everything I own."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "Speak softly. Yonder, as I think, he walks."
+    m:
+      - "Speak more quietly: I think he’s coming this way."
+
+  - os: "ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE again"
+    ms: "ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE enter."
+
+  - sp: ANGELO
+    o:
+      - "’Tis so; and that self chain about his neck"
+      - "Which he forswore most monstrously to have."
+      - "Good sir, draw near to me. I’ll speak to him.—"
+      - "Signior Antipholus, I wonder much"
+      - "That you would put me to this shame and trouble,"
+      - "And not without some scandal to yourself,"
+      - "With circumstance and oaths so to deny"
+      - "This chain, which now you wear so openly."
+      - "Beside the charge, the shame, imprisonment,"
+      - "You have done wrong to this my honest friend,"
+      - "Who, but for staying on our controversy,"
+      - "Had hoisted sail and put to sea today."
+      - "This chain you had of me. Can you deny it?"
+    m:
+      - "You’re right. And that necklace around his neck is the very one he swore he didn’t have! Good sir, stay close to me. I’ll speak to him. Signior Antipholus, I can’t believe you’d put me to this kind of shame and trouble—not to mention the scandal you’ve brought on yourself. You swore I never gave you the necklace, but now you’re wearing it openly. Not only has your lie cost you money, shame, and imprisonment, but you’ve also mistreated this honest friend of mine. If it hadn’t been for this dispute, he would have already hoisted sail and left for sea. You got that necklace from me: can you deny that?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I think I had. I never did deny it."
+    m:
+      - "I got it from you—I never said I didn’t."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "Yes, that you did, sir, and forswore it too."
+    m:
+      - "Yes, you did, sir. In fact, you swore it."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Who heard me to deny it or forswear it?"
+    m:
+      - "Who heard me do that?"
+
+  - sp: SECOND MERCHANT
+    o:
+      - "These ears of mine, thou know’st did hear thee."
+      - "Fie on thee, wretch. ’Tis pity that thou liv’st"
+      - "To walk where any honest men resort."
+    m:
+      - "My own ears heard it, and you know it. To hell with you! It’s a shame that you walk the streets with all the honest men."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Thou art a villain to impeach me thus."
+      - "I’ll prove mine honor and mine honesty"
+      - "Against thee presently if thou dar’st stand."
+    m:
+      - "You’re a villain to say this about me. I’ll prove that I’m an honest man and a man of honor if you dare defend yourself."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "I dare, and do defy thee for a villain."
+    m:
+      - "I do dare, and I say that you are the villain."
+
+  - os: "They draw Enter ADRIANA, LUCIANA, the COURTESAN and others"
+    ms: "They draw their swords. ADRIANA, LUCIANA, the COURTESAN, and others enter."
+
+  - sp: ADRIANA
+    o:
+      - "Hold, hurt him not, for God’s sake. He is mad.—"
+      - "Some get within him; take his sword away."
+      - "Bind dromio too, and bear them to my house!"
+    m:
+      - "*(to SECOND MERCHANT)* Wait! Don’t hurt him, for God’s sake! He’s crazy! Somebody approach him and take away his sword. Tie up Dromio, too, and take them to my house."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Run, master, run. For God’s sake, take a house."
+      - "This is some priory. In, or we are spoiled."
+    m:
+      - "Run, master, run. For God’s sake, find a house to duck into. This looks like an abbey. Go in, or we’re done for."
+
+  - os: "Exeunt ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE to the priory"
+    ms: "ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE exit into the abbey."
+
+  - os: "Enter the Lady ABBESS"
+    ms: "The ABBESS enters."
+
+  - sp: ABBESS
+    o:
+      - "Be quiet, people. Wherefore throng you hither?"
+    m:
+      - "Be quiet, people! Why have you come here in such a mob?"
+
+  - sp: ADRIANA
+    o:
+      - "To fetch my poor distracted husband hence."
+      - "Let us come in, that we may bind him fast"
+      - "And bear him home for his recovery."
+    m:
+      - "To get my poor, mad husband out from inside there. Let us in so we can tie him up tight and bring him home to recover."
+
+  - sp: ANGELO
+    o:
+      - "I knew he was not in his perfect wits."
+    m:
+      - "*(to SECOND MERCHANT)* I knew he wasn’t quite in his right mind."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "I am sorry now that I did draw on him."
+    m:
+      - "*(to ANGELO)* Now I’m sorry I raised my sword against him."
+
+  - sp: ABBESS
+    o:
+      - "How long hath this possession held the man?"
+    m:
+      - "How long has he been possessed like this?"
+
+  - sp: ADRIANA
+    o:
+      - "This week he hath been heavy, sour, sad,"
+      - "And much different from the man he was."
+      - "But till this afternoon his passion"
+      - "Ne’er brake into extremity of rage."
+    m:
+      - "This week he was sad, moody, and depressed and very different from his usual self. But it wasn’t until this afternoon that he broke out into violence."
+
+  - sp: ABBESS
+    o:
+      - "Hath he not lost much wealth by wrack of sea?"
+      - "Buried some dear friend? Hath not else his eye"
+      - "Stray’d his affection in unlawful love,"
+      - "A sin prevailing much in youthful men"
+      - "Who give their eyes the liberty of gazing?"
+      - "Which of these sorrows is he subject to?"
+    m:
+      - "Did he lose a lot of money in a shipwreck? Has a close friend of his died? Has he fallen in love with another woman? That’s a sin young men often commit because they allow their eyes to wander. Which of these bad things happened to him?"
+
+  - sp: ADRIANA
+    o:
+      - "To none of these, except it be the last,"
+      - "Namely, some love that drew him oft from home."
+    m:
+      - "None of them, except the last one. He fell in love, and that made him leave home often."
+
+  - sp: ABBESS
+    o:
+      - "You should for that have reprehended him."
+    m:
+      - "You should have reprimanded him for that."
+
+  - sp: ADRIANA
+    o:
+      - "Why, so I did."
+    m:
+      - "I did."
+
+  - sp: ABBESS
+    o:
+      - "  Ay, but not rough enough."
+    m:
+      - "Fine, but you weren’t harsh enough."
+
+  - sp: ADRIANA
+    o:
+      - "As roughly as my modesty would let me."
+    m:
+      - "I was as harsh as I could be while still being a lady."
+
+  - sp: ABBESS
+    o:
+      - "Haply in private."
+    m:
+      - "You scolded him in private?"
+
+  - sp: ADRIANA
+    o:
+      - "  And in assemblies too."
+    m:
+      - "And in public too."
+
+  - sp: ABBESS
+    o:
+      - "Ay, but not enough."
+    m:
+      - "Fine, but not enough."
+
+  - sp: ADRIANA
+    o:
+      - "It was the copy of our conference."
+      - "In bed he slept not for my urging it;"
+      - "At board he fed not for my urging it."
+      - "Alone, it was the subject of my theme;"
+      - "In company I often glancèd it."
+      - "Still did I tell him it was vile and bad."
+    m:
+      - "It was all we talked about. I kept him awake at night talking about it. He couldn’t eat without me talking about it. When we were alone, it was the only thing I talked about, and when we were with other people, I often found a way to mention it. All I ever did was tell him how hurtful and bad it was."
+
+  - sp: ABBESS
+    o:
+      - "And thereof came it that the man was mad."
+      - "The venom clamors of a jealous woman"
+      - "Poisons more deadly than a mad dog’s tooth."
+      - "It seems his sleeps were hinder’d by thy railing,"
+      - "And therefore comes it that his head is light."
+      - "Thou sayst his meat was sauced with thy upbraidings."
+      - "Unquiet meals make ill digestions."
+      - "Thereof the raging fire of fever bred,"
+      - "And what’s a fever but a fit of madness?"
+      - "Thou sayest his sports were hinderd by thy brawls."
+      - "Sweet recreation barred, what doth ensue"
+      - "But moody and dull melancholy,"
+      - "Kinsman to grim and comfortless despair,"
+      - "And at her heels a huge infectious troop"
+      - "Of pale distemperatures and foes to life?"
+      - "In food, in sport, and life-preserving rest"
+      - "To be disturbed, would mad or man or beast."
+      - "The consequence is, then, thy jealous fits"
+      - "Have scared thy husband from the use of wits."
+    m:
+      - "And that’s why he went crazy. A jealous woman’s poisonous ranting is worse than the bite of a rabid dog. You disturbed his sleep with your complaining, which is why he’s disoriented. You seasoned his food with screams. Stress during mealtime ruins the digestion, and that gave him a raging fever. Fever, as we know, is a kind of madness. You spoiled his fun by fighting with him, and when people can’t enjoy themselves, they grow moody and dull with melancholy—they come very close to being grim and cheerlessly depressed. Next thing you know, all kinds of terrible illnesses break out. Ruining his meals, his enjoyment, and his sleep would drive any man or beast mad. What I’m saying is, your jealousy has pushed your husband away from his sanity."
+
+  - sp: LUCIANA
+    o:
+      - "She never reprehended him but mildly"
+      - "When he demeaned himself rough, rude, and wildly.—"
+      - "*(to ADRIANA)* Why bear you these rebukes and answer not?"
+    m:
+      - "She was always gentle when she scolded him, even when he behaved in the worst and wildest ways. *(to ADRIANA)* Why won’t you defend yourself against this woman?"
+
+  - sp: ADRIANA
+    o:
+      - "She did betray me to my own reproof."
+      - "Good people, enter and lay hold on him."
+    m:
+      - "She has tricked me into seeing my own faults. Gentlemen, go in there and grab him."
+
+  - sp: ABBESS
+    o:
+      - "No, not a creature enters in my house."
+    m:
+      - "Nobody goes into my house!"
+
+  - sp: ADRIANA
+    o:
+      - "Then let your servants bring my husband forth."
+    m:
+      - "Then have your servants bring him out."
+
+  - sp: ABBESS
+    o:
+      - "Neither: he took this place for sanctuary,"
+      - "And it shall privilege him from your hands"
+      - "Till I have brought him to his wits again"
+      - "Or lose my labor in assaying it."
+    m:
+      - "No: he came here for sanctuary, and that will protect him from you. I’ll try to bring him back to his right mind and work to the end of my abilities to do so."
+
+  - sp: ADRIANA
+    o:
+      - "I will attend my husband, be his nurse,"
+      - "Diet his sickness, for it is my office"
+      - "And will have no attorney but myself;"
+      - "And therefore let me have him home with me."
+    m:
+      - "It’s my place to take care of my husband and nurse him back to health. It is my duty and mine alone. So let me take him home."
+
+  - sp: ABBESS
+    o:
+      - "Be patient, for I will not let him stir"
+      - "Till I have used the approvd means I have,"
+      - "With wholesome syrups, drugs, and holy prayers,"
+      - "To make of him a formal man again."
+      - "It is a branch and parcel of mine oath,"
+      - "A charitable duty of my order."
+      - "Therefore depart and leave him here with me."
+    m:
+      - "Be patient. I’m not going to let him leave until I’ve tried every means to cure him. With my healthful potions, drugs, and holy prayers, I’ll make him a complete man again. Healing is part and parcel of my religious vows; it is a charitable duty my order performs. Therefore, depart, and leave him here with me."
+
+  - sp: ADRIANA
+    o:
+      - "I will not hence and leave my husband here;"
+      - "And ill it doth beseem your holiness"
+      - "To separate the husband and the wife."
+    m:
+      - "I will not depart and leave my husband here. It doesn’t suit your holiness to separate a husband and his wife."
+
+  - sp: ABBESS
+    o:
+      - "Be quiet and depart. Thou shalt not have him."
+    m:
+      - "Be quiet and depart. You’re not going to take him."
+
+  - os: "Exit ABBESS"
+    ms: "The ABBESS exits."
+
+  - sp: LUCIANA
+    o:
+      - "Complain unto the Duke of this indignity."
+    m:
+      - "Go lodge a complaint about this with the duke."
+
+  - sp: ADRIANA
+    o:
+      - "Come, go. I will fall prostrate at his feet"
+      - "And never rise until my tears and prayers"
+      - "Have won his grace to come in person hither"
+      - "And take perforce my husband from the Abbess."
+    m:
+      - "Come with me. I’ll fall at his feet and lie there until my pleading and crying convinces the duke to come here and force my husband to leave this abbey."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "By this, I think, the dial points at five."
+      - "Anon, I’m sure, the Duke himself in person"
+      - "Comes this way to the melancholy vale,"
+      - "The place of death and sorry execution"
+      - "Behind the ditches of the abbey here."
+    m:
+      - "It’s almost five o’clock. The duke will pass by here soon. He always passes here on his way to that melancholy place where criminals are put to death. It’s just behind this abbey."
+
+  - sp: ANGELO
+    o:
+      - "Upon what cause?"
+    m:
+      - "Why is he going there today?"
+
+  - sp: SECOND MERCHANT
+    o:
+      - "To see a reverend Syracusian merchant,"
+      - "Who put unluckily into this bay"
+      - "Against the laws and statutes of this town,"
+      - "Beheaded publicly for his offense."
+    m:
+      - "To see an elderly, unlucky merchant from Syracuse publicly beheaded for breaking the law and coming here to Ephesus."
+
+  - sp: ANGELO
+    o:
+      - "See where they come. We will behold his death."
+    m:
+      - "Here they come. We will watch the execution."
+
+  - sp: LUCIANA
+    o:
+      - "Kneel to the duke before he pass the abbey."
+    m:
+      - "Kneel down to the duke before he passes by the abbey."
+
+  - os: "Enter the DUKE OF EPHESUS and EGEON the merchant of Syracuse, bare head, with the headsman and other officers"
+    ms: "The DUKE enters with EGEON, who is bareheaded. The executioner and other officers follow."
+
+  - sp: DUKE
+    o:
+      - "Yet once again proclaim it publicly,"
+      - "If any friend will pay the sum for him,"
+      - "He shall not die; so much we tender him."
+    m:
+      - "One more time, we proclaim this publicly: If anyone will pay this man’s bail, he will not be put to death. This is how well we regard him."
+
+  - sp: ADRIANA
+    o:
+      - "Justice, most sacred duke, against the Abbess."
+    m:
+      - "Duke, the abbess has wronged me and I seek justice."
+
+  - sp: DUKE
+    o:
+      - "She is a virtuous and a reverend lady."
+      - "It cannot be that she hath done thee wrong."
+    m:
+      - "She’s a virtuous and holy lady. She can’t possibly have done you any wrong."
+
+  - sp: ADRIANA
+    o:
+      - "May it please your Grace, Antipholus my husband,"
+      - "Whom I made lord of me and all I had"
+      - "At your important letters, this ill day"
+      - "A most outrageous fit of madness took him,"
+      - "That desp’rately he hurried through the street,"
+      - "With him his bondman, all as mad as he,"
+      - "Doing displeasure to the citizens"
+      - "By rushing in their houses, bearing thence"
+      - "Rings, jewels, any thing his rage did like."
+      - "Once did I get him bound and sent him home"
+      - "Whilst to take order for the wrongs I went"
+      - "That here and there his fury had committed."
+      - "Anon, I wot not by what strong escape,"
+      - "He broke from those that had the guard of him,"
+      - "And with his mad attendant and himself,"
+      - "Each one with ireful passion, with drawn swords,"
+      - "Met us again and, madly bent on us,"
+      - "Chased us away, till, raising of more aid,"
+      - "We came again to bind them. Then they fled"
+      - "Into this abbey, whither we pursued them,"
+      - "And here the Abbess shuts the gates on us"
+      - "And will not suffer us to fetch him out,"
+      - "Nor send him forth that we may bear him hence."
+      - "Therefore, most gracious duke, with thy command"
+      - "Let him be brought forth and borne hence for help."
+    m:
+      - "Your Highness, you were the one who introduced me to my husband, Antipholus, and suggested I marry him. On this terrible day, a most outrageous fit of madness possessed him. It made him run desperately through the streets with his servant, who is just as mad. He angered all the citizens by rushing into their houses and taking rings, jewels, and anything else he felt like. At one point I managed to get him tied up and sent home so that I could make some order out of all the trouble he caused. But somehow, he broke free from his guards. Then he and his crazy servant found us and chased us away with swords. We got more help and came back to capture them, but then they fled into this abbey. We tried to go in, but the abbess stopped us. She wouldn’t let us get him and she wouldn’t send him out. So please, most gracious duke, order her to bring him out so we can get him some help."
+
+  - sp: DUKE
+    o:
+      - "Long since thy husband served me in my wars,"
+      - "And I to thee engaged a prince’s word,"
+      - "When thou didst make him master of thy bed,"
+      - "To do him all the grace and good I could."
+      - "Go, some of you, knock at the abbey gate,"
+      - "And bid the Lady Abbess come to me."
+      - "I will determine this before I stir."
+    m:
+      - "A long time ago your husband was a soldier in the wars I led. And when you married him and made him the master of your bed, I gave you my word that I would do everything I possibly could for him. *(to his followers)* Go, knock on the gate and bid the abbess come out here and speak to me. I’ll settle this before I go"
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "O mistress, mistress, shift and save yourself."
+      - "My master and his man are both broke loose,"
+      - "Beaten the maids a-row, and bound the doctor,"
+      - "Whose beard they have singed off with brands of fire,"
+      - "And ever as it blazed, they threw on him"
+      - "Great pails of puddled mire to quench the hair."
+      - "My master preaches patience to him, and the while"
+      - "His man with scissors nicks him like a fool;"
+      - "And sure, unless you send some present help,"
+      - "Between them they will kill the conjurer."
+    m:
+      - "Mistress! Run and save yourself. My master and his servant broke loose. They’ve beaten the maids and tied up Doctor Pinch. Then they set fire to his beard and threw sewage to put out the flames. My master keeps telling the doctor to relax, while his servant cuts the doctor’s hair in a ridiculous fashion. If you don’t send some help, they’ll kill Doctor Pinch."
+
+  - sp: ADRIANA
+    o:
+      - "Peace, fool. Thy master and his man are here,"
+      - "And that is false thou dost report to us."
+    m:
+      - "Shut up, fool! Your master and his servant are here. You’re telling a lie."
+
+  - sp: MESSENGER
+    o:
+      - "Mistress, upon my life I tell you true."
+      - "I have not breathed almost since I did see it."
+      - "He cries for you, and vows, if he can take you,"
+      - "To scorch your face and to disfigure you."
+    m:
+      - "Mistress, I swear on my life that it’s true. It was just moments ago. He’s crying out for you and swears he’ll burn your face and disfigure you if he can get ahold of you."
+
+  - os: "Cry within"
+    ms: "Shouts are heard from offstage."
+
+  - o:
+      - "Hark, hark, I hear him, mistress. Fly, begone!"
+    m:
+      - "Listen, listen! I hear him, mistress. Run, get out of here!"
+
+  - sp: DUKE
+    o:
+      - "Come, stand by me. Fear nothing.—Guard with halberds."
+    m:
+      - "*(to ADRIANA)* Stand with me. Don’t be scared. *(to his men)* Guards, get your weapons!"
+
+  - os: "Enter ANTIPHOLUS OF EPHESUS and DROMIO OF EPHESUS"
+    ms: "ANTIPHOLUS OF EPHESUS and DROMIO OF EPHESUS enter."
+
+  - sp: ADRIANA
+    o:
+      - "Ay me, it is my husband. Witness you"
+      - "That he is borne about invisible."
+      - "Even now we housed him in the abbey here,"
+      - "And now he’s there, past thought of human reason."
+    m:
+      - "Oh, my, it’s my husband. Look, he can become invisible. Just now we put him in the abbey over here, and now he’s over there. It’s impossible to understand."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Justice, most gracious duke, O, grant me justice,"
+      - "Even for the service that long since I did thee"
+      - "When I bestrid thee in the wars and took"
+      - "Deep scars to save thy life. Even for the blood"
+      - "That then I lost for thee, now grant me justice."
+    m:
+      - "Justice, gracious duke. Please bring me justice! A long time ago I did good service to you. I fought in your wars and took deep wounds to save your life. In exchange for the blood I shed for you then, I ask you for justice now."
+
+  - sp: EGEON
+    o:
+      - "*(aside)* Unless the fear of death doth make me dote,"
+      - "I see my son Antipholus and Dromio."
+    m:
+      - "*(to himself)* The fear of death might be making me senile, but I think I see my son Antipholus, and Dromio."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Justice, sweet prince, against that woman there,"
+      - "She whom thou gav’st to me to be my wife,"
+      - "That hath abusèd and dishonored me"
+      - "Even in the strength and height of injury."
+      - "Beyond imagination is the wrong"
+      - "That she this day hath shameless thrown on me."
+    m:
+      - "Sweet prince, I want justice from that woman there. This woman that you urged me to marry has abused me and dishonored me, doing the most injury possible. The things she has shamelessly hurled on me are beyond imagination."
+
+  - sp: DUKE
+    o:
+      - "Discover how, and thou shalt find me just."
+    m:
+      - "Tell me the details. You know I’ll be fair."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "This day, great duke, she shut the doors upon me"
+      - "While she with harlots feasted in my house."
+    m:
+      - "Today, great duke, she locked me out of my house and feasted there with whores."
+
+  - sp: DUKE
+    o:
+      - "A grievous fault.—Say, woman, didst thou so?"
+    m:
+      - "That’s terrible! *(to ADRIANA)* Tell us, woman, did you do that?"
+
+  - sp: ADRIANA
+    o:
+      - "No, my good lord. Myself, he, and my sister"
+      - "Today did dine together. So befall my soul"
+      - "As this is false he burdens me withal."
+    m:
+      - "No, my good lord. I ate with him and my sister. Damn my soul if these accusations are true!"
+
+  - sp: LUCIANA
+    o:
+      - "Ne’er may I look on day, nor sleep on night"
+      - "But she tells to your Highness simple truth."
+    m:
+      - "If she’s lying, I pray that I never sleep again at night or wake up during the day."
+
+  - sp: ANGELO
+    o:
+      - "O perjured woman! —They are both forsworn."
+      - "In this the madman justly chargeth them."
+    m:
+      - "Oh, lying woman! Both of them are liars: the madman accuses them justly."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "My liege, I am advisèd what I say,"
+      - "Neither disturbed with the effect of wine,"
+      - "Nor heady-rash, provoked with raging ire,"
+      - "Albeit my wrongs might make one wiser mad."
+      - "This woman locked me out this day from dinner."
+      - "That goldsmith there, were he not packed with her,"
+      - "Could witness it, for he was with me then,"
+      - "Who parted with me to go fetch a chain,"
+      - "Promising to bring it to the Porpentine,"
+      - "Where Balthasar and I did dine together."
+      - "Our dinner done and he not coming thither,"
+      - "I went to seek him. In the street I met him,"
+      - "And in his company that gentleman. *(points to the SECOND MERCHANT)*"
+      - "There did this perjured goldsmith swear me down"
+      - "That I this day of him received the chain,"
+      - "Which, God he knows, I saw not; for the which"
+      - "He did arrest me with an officer."
+      - "I did obey, and sent my peasant home"
+      - "For certain ducats. He with none returned."
+      - "Then fairly I bespoke the officer"
+      - "To go in person with me to my house."
+      - "By th’ way we met"
+      - "My wife, her sister, and a rabble more"
+      - "Of vile confederates. Along with them"
+      - "They brought one Pinch, a hungry, lean-faced villain,"
+      - "A mere anatomy, a mountebank,"
+      - "A threadbare juggler, and a fortune-teller,"
+      - "A needy, hollow-eyed, sharp-looking wretch,"
+      - "A living dead man. This pernicious slave,"
+      - "Forsooth, took on him as a conjurer,"
+      - "And, gazing in mine eyes, feeling my pulse,"
+      - "And with no face (as ’twere) outfacing me,"
+      - "Cries out I was possessed. Then all together"
+      - "They fell upon me, bound me, bore me thence,"
+      - "And in a dark and dankish vault at home"
+      - "There left me and my man, both bound together,"
+      - "Till gnawing with my teeth my bonds in sunder,"
+      - "I gained my freedom and immediately"
+      - "Ran hither to your Grace, whom I beseech"
+      - "To give me ample satisfaction"
+      - "For these deep shames and great indignities."
+    m:
+      - "My lord, I know what I’m saying. I’m not drunk, and I haven’t gone mad from anger—even though the wrongs done to me today would drive any man insane. This woman locked me out of the house today at lunchtime, and if he weren’t conspiring with her, this jeweler could confirm my story since he was with me at the time. He left to fetch a necklace and he promised to bring it to the Porcupine, where I was dining with Balthasar. He hadn’t arrived by the time we finished eating, so I went out looking for him. I met him in the street—he was there with that man. *(points to the SECOND MERCHANT)* That’s when this lying jeweler swore that he had already given me the necklace, which, God knows, he hadn’t. He had me arrested for it, and I went with the officer, sending my servant home to get money for the bail. When my servant returned empty-handed, I politely asked the officer to accompany me to my house. On the way, we came across my wife, her sister, and their gang of vile associates. One of them was a man named Pinch: a hungry, narrow-faced villain; a skeleton; a fraud; a raggedy magician and fortune-teller; a needy, hollow-eyed, emaciated wretch; a walking corpse. He pretended to be some kind of sorcerer, and he gazed in my eyes and took my pulse. Then, with his thin face leering down at mine, he cried out that I was possessed. Then they all pounced on me, tied me up, carried me away, and left me in a dark, dank cellar in my house. They left me and my servant there, tied together. Eventually I chewed through the ropes and freed myself, and I immediately ran to find you, Your Grace. I beg you: grant me justice for the deep shame I have suffered and the terrible wrongs done to me."
+
+  - sp: ANGELO
+    o:
+      - "My lord, in truth, thus far I witness with him:"
+      - "That he dined not at home, but was locked out."
+    m:
+      - "Your Highness, I can confirm this much: he was locked out of his house and didn’t eat at home."
+
+  - sp: DUKE
+    o:
+      - "But had he such a chain of thee or no?"
+    m:
+      - "But did he receive a necklace from you?"
+
+  - sp: ANGELO
+    o:
+      - "He had, my lord, and when he ran in here,"
+      - "These people saw the chain about his neck."
+    m:
+      - "He did, my lord. And when he ran in here, everyone could see that he was wearing that necklace."
+
+  - sp: SECOND MERCHANT
+    o:
+      - "Besides, I will be sworn these ears of mine"
+      - "Heard you confess you had the chain of him"
+      - "After you first forswore it on the mart,"
+      - "And thereupon I drew my sword on you,"
+      - "And then you fled into this abbey here,"
+      - "From whence I think you are come by miracle."
+    m:
+      - "Besides, I’ll swear I heard you confess that you *did* receive the necklace, even after you swore at the marketplace that you hadn’t. That’s when I raised my sword against you, and you fled into this abbey—which, I think, you must have escaped from through some kind of trick."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "I never came within these abbey walls,"
+      - "Nor ever didst thou draw thy sword on me."
+      - "I never saw the chain, so help me heaven,"
+      - "And this is false you burden me withal."
+    m:
+      - "I was never inside this abbey, and you never raised your sword against me. I never saw the necklace, so help me heaven! Everything you charge me with is untrue."
+
+  - sp: DUKE
+    o:
+      - "Why, what an intricate impeach is this!"
+      - "I think you all have drunk of Circe’s cup."
+      - "If here you housed him, here he would have been."
+      - "*(to ADRIANA)* If he were mad, he would not plead so coldly."
+      - "You say he dined at home; the goldsmith here"
+      - "Denies that saying. Sirrah, what say you?"
+    m:
+      - "Why, what a complicated case this is! I think you all must have drunk some kind of potion that’s turned you all into animals. *(to ADRIANA)* If you put him in the abbey, that’s where he’d be. If he were insane, he wouldn’t be pleading his case so sensibly. You say he ate at home, but the jeweler says he didn’t. Sirrah, what do you have to say?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Sir, he dined with her there, at the Porpentine."
+    m:
+      - "Sir, he ate with this woman at the Porcupine."
+
+  - sp: COURTESAN
+    o:
+      - "He did, and from my finger snatched that ring."
+    m:
+      - "He did, and he snatched my ring right off my finger."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "’Tis true, my liege; this ring I had of her."
+    m:
+      - "That’s true, my lord: I did get this ring from her."
+
+  - sp: DUKE
+    o:
+      - "Saw’st thou him enter at the abbey here?"
+    m:
+      - "Did you see him enter this abbey?"
+
+  - sp: COURTESAN
+    o:
+      - "As sure, my liege, as I do see your Grace."
+    m:
+      - "As clearly as I see you, my lord."
+
+  - sp: DUKE
+    o:
+      - "Why, this is strange.—Go call the Abbess hither."
+      - "I think you are all mated or stark mad."
+    m:
+      - "This is very odd. Get the abbess out here. I think you’re all either bewildered or stark raving mad."
+
+  - os: "Exit one to ABBESS"
+    ms: "Someone exits to get the ABBESS"
+
+  - sp: EGEON
+    o:
+      - "Most mighty duke, vouchsafe me speak a word."
+      - "Haply I see a friend will save my life"
+      - "And pay the sum that may deliver me."
+    m:
+      - "Mighty duke, please allow me to say something. I think I see a friend who will pay my bail and save my life."
+
+  - sp: DUKE
+    o:
+      - "Speak freely, Syracusian, what thou wilt."
+    m:
+      - "Feel free to say what you wish, Syracusian."
+
+  - sp: EGEON
+    o:
+      - "*(to ANTIPHOLUS OF EPHESUS)* Is not your name, sir, called"
+      - "Antipholus?"
+      - "And is not that your bondman Dromio?"
+    m:
+      - "*(to ANTIPHOLUS OF EPHESUS)* Isn’t your name Antipholus? And isn’t that Dromio, the man bound to you?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Within this hour I was his bondman sir,"
+      - "But he, I thank him, gnawed in two my cords."
+      - "Now am I Dromio, and his man, unbound."
+    m:
+      - "I was bound to him an hour ago, sir, but thankfully he chewed through our ropes. Now I’m Dromio and no longer attached to him."
+
+  - sp: EGEON
+    o:
+      - "I am sure you both of you remember me."
+    m:
+      - "I’m sure you both remember me."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Ourselves we do remember, sir, by you."
+      - "For lately we were bound as you are now."
+      - "You are not Pinch’s patient, are you, sir?"
+    m:
+      - "Actually, it’s ourselves you bring to mind since just a few moments ago we were tied up, as you are now. You’re not one of Pinch’s patients, are you, sir?"
+
+  - sp: EGEON
+    o:
+      - "Why look you strange on me? you know me well."
+    m:
+      - "Why are you looking at me so strangely? You know me well."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "I never saw you in my life till now."
+    m:
+      - "I never saw you before in my life."
+
+  - sp: EGEON
+    o:
+      - "O, grief hath changed me since you saw me last,"
+      - "And careful hours with time’s deformèd hand"
+      - "Have written strange defeatures in my face."
+      - "But tell me yet, dost thou not know my voice?"
+    m:
+      - "Oh, grief has transformed me since the last time you saw me. Time has the power to deform people, and the sorrowful hours I have spent in his company have put these strange lines and wrinkles on my face. But tell me this: don’t you know my voice?"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Neither."
+    m:
+      - "No."
+
+  - sp: EGEON
+    o:
+      - "Dromio, nor thou?"
+    m:
+      - "Don’t you, Dromio?"
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "  No, trust me, sir, nor I."
+    m:
+      - "No sir, trust me, I do not."
+
+  - sp: EGEON
+    o:
+      - "I am sure thou dost."
+    m:
+      - "I am sure you do."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Ay, sir, but I am sure I do not, and whatsoever a man denies, you are now bound to believe him."
+    m:
+      - "Fine, sir, but I’m sure I don’t. And you’re in no position to doubt my word."
+
+  - sp: EGEON
+    o:
+      - "Not know my voice! O time’s extremity,"
+      - "Hast thou so crack’d and splitted my poor tongue"
+      - "In seven short years that here my only son"
+      - "Knows not my feeble key of untuned cares?"
+      - "Though now this grainèd face of mine be hid"
+      - "In sap-consuming winter’s drizzled snow,"
+      - "And all the conduits of my blood froze up,"
+      - "Yet hath my night of life some memory,"
+      - "My wasting lamps some fading glimmer left,"
+      - "My dull deaf ears a little use to hear."
+      - "All these old witnesses—I cannot err—"
+      - "Tell me thou art my son Antipholus."
+    m:
+      - "You don’t know my voice? Oh, severe Time! Have you mangled my tongue so badly in these seven short years that my only son can no longer recognize my weak, sorrow-ravaged voice? It’s true: this aged face of mine is hidden by a snow white beard, and the blood is freezing in my veins. But I still have a little memory left, and there’s still some fire in my eyes; my dull, deaf ears can still hear a little. All these aging faculties tell me—and I cannot be wrong—that you are my son, Antipholus."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "I never saw my father in my life."
+    m:
+      - "I never saw my father in my life."
+
+  - sp: EGEON
+    o:
+      - "But seven years since, in Syracusa, boy,"
+      - "Thou know’st we parted. But perhaps, my son,"
+      - "Thou sham’st to acknowledge me in misery."
+    m:
+      - "You know that we parted only seven years ago, in Syracuse. Maybe you’re ashamed to admit that you know me because I’m a prisoner now."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "The Duke and all that know me in the city"
+      - "Can witness with me that it is not so"
+      - "I ne’er saw Syracusa in my life."
+    m:
+      - "The duke and everyone who knows me in this city can confirm that’s not true. I’ve never been to Syracuse in my life."
+
+  - sp: DUKE
+    o:
+      - "I tell thee, Syracusian, twenty years"
+      - "Have I been patron to Antipholus,"
+      - "During which time he ne’er saw Syracusa."
+      - "I see thy age and dangers make thee dote."
+    m:
+      - "I tell you, Syracusian. I’ve been looking after Antipholus for twenty years, and during that time he’s never been to Syracuse. Your old age and the prospect of death are making you imagine things."
+
+  - os: "Enter the ABBESS with ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE"
+    ms: "The ABBESS enters, along with ANTIPHOLUS OF SYRACUSE and DROMIO OF SYRACUSE"
+
+  - sp: ABBESS
+    o:
+      - "Most mighty duke, behold a man much wronged."
+    m:
+      - "Mighty duke, look here and see a man who’s been treated most terribly!"
+
+  - os: "All gather to see them"
+    ms: "Everyone gathers around to look."
+
+  - sp: ADRIANA
+    o:
+      - "I see two husbands, or mine eyes deceive me."
+    m:
+      - "Either my eyes deceive me, or I see two husbands."
+
+  - sp: DUKE
+    o:
+      - "*(looks at the ANTIPHOLUS twins)* One of these men is genius to the other."
+      - "*(looks at the DROMIO twins)* And so, of these, which is the natural man"
+      - "And which the spirit? Who deciphers them?"
+    m:
+      - "*(looks at the ANTIPHOLUS twins)* One of these men is the other’s genius. *(looks at the DROMIO twins)* And the same with these two. But which is the man and which is the spirit? Can anyone tell?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "I, sir, am Dromio. Command him away."
+    m:
+      - "I, sir, am Dromio. Command this man to leave."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "I, sir, am Dromio. Please, let me stay."
+    m:
+      - "I, sir, am Dromio. Pray, let me stay."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "Egeon art thou not, or else his ghost?"
+    m:
+      - "You are Egeon, aren’t you? Or are you his ghost?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "O, my old master.—Who hath bound him here?"
+    m:
+      - "Oh, my old master!—Who tied him up?"
+
+  - sp: ABBESS
+    o:
+      - "Whoever bound him, I will loose his bonds"
+      - "And gain a husband by his liberty.—"
+      - "Speak, old Egeon, if thou be’st the man"
+      - "That hadst a wife once called Emilia,"
+      - "That bore thee at a burden two fair sons."
+      - "O, if thou be’st the same Egeon, speak,"
+      - "And speak unto the same Emilia."
+    m:
+      - "Whoever tied him up, I will loosen the ropes, and with his freedom I will gain a husband. Tell us, old Egeon: are you the man who once had a wife named Emilia, who gave birth to two fair sons? Oh, if you are the same Egeon, speak now, and speak to that same Emilia!"
+
+  - sp: DUKE
+    o:
+      - "Why, here begins his morning story right;"
+      - "These two Antipholuses, these two so like,"
+      - "And these two Dromios, one in semblance—"
+      - "Besides her urging of her wreck at sea—"
+      - "These are the parents to these children,"
+      - "Which accidentally are met together."
+    m:
+      - "Why, now the story the merchant told me this morning is starting to make sense. These two Antipholuses, who look so alike—and these two Dromios, who seem to have the same face—and her story of being shipwrecked—why, these two are the parents of these children and have been reunited by accident."
+
+  - sp: EGEON
+    o:
+      - "If I dream not, thou art Emilia."
+      - "If thou art she, tell me where is that son"
+      - "That floated with thee on the fatal raft?"
+    m:
+      - "If I’m not dreaming, you are Emilia. If it’s really you, tell me what happened to our son, who floated away with you on that deadly raft."
+
+  - sp: ABBESS
+    o:
+      - "By men of Epidamnum he and I"
+      - "And the twin Dromio all were taken up;"
+      - "But by and by rude fishermen of Corinth"
+      - "By force took Dromio and my son from them"
+      - "And me they left with those of Epidamnum."
+      - "What then became of them I cannot tell;"
+      - "I to this fortune that you see me in."
+    m:
+      - "Some men from Epidamnum rescued me, our son, and Dromio. But then a gang of violent fishermen from Corinth kidnapped Dromio and my son and carried them away. I don’t know what became of them. You can see what became of me."
+
+  - sp: DUKE
+    o:
+      - "*(to ANTIPHOLUS OF SYRACUSE)* Antipholus, thou cam’st from"
+      - "Corinth first."
+    m:
+      - "Antipholus, aren’t you originally from Corinth?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "No, sir, not I. I came from Syracuse."
+    m:
+      - "No, sir. I came from Syracuse."
+
+  - sp: DUKE
+    o:
+      - "Stay, stand apart. I know not which is which."
+    m:
+      - "Wait, don’t stand next to each other. I can’t tell who’s who."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "I came from Corinth, my most gracious lord."
+    m:
+      - "I came from Corinth, Your Highness."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "And I with him."
+    m:
+      - "And I came with him."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Brought to this town by that most famous warrior"
+      - "Duke Menaphon, your most renownèd uncle."
+    m:
+      - "Your renowned uncle, Duke Menaphon, the famous soldier, brought me here."
+
+  - sp: ADRIANA
+    o:
+      - "Which of you two did dine with me today?"
+    m:
+      - "Which of you two ate lunch with me today?"
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I, gentle mistress."
+    m:
+      - "I did, kind lady."
+
+  - sp: ADRIANA
+    o:
+      - "  And are not you my husband?"
+    m:
+      - "And you’re my husband, right?"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "No, I say nay to that."
+    m:
+      - "No, he’s not. I say no to that."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "And so do I, yet did she call me so,"
+      - "And this fair gentlewoman, her sister here,"
+      - "Did call me brother. *(to LUCIANA)* What I told you then"
+      - "I hope I shall have leisure to make good,"
+      - "If this be not a dream I see and hear."
+    m:
+      - "So do I, although she called me her husband. And this beautiful gentlewoman, her sister, called me brother. *(to LUCIANA)* If all this is for real, I hope I’ll get the chance to make good on all the things I said to you today."
+
+  - sp: ANGELO
+    o:
+      - "That is the chain, sir, which you had of me."
+    m:
+      - "That’s the necklace I gave you, sir."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "I think it be, sir. I deny it not."
+    m:
+      - "I think it is, sir. I don’t deny it."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "And you, sir, for this chain arrested me."
+    m:
+      - "And you, sir, had me arrested over that necklace."
+
+  - sp: ANGELO
+    o:
+      - "I think I did, sir. I deny it not."
+    m:
+      - "I think I did, sir. I don’t deny it."
+
+  - sp: ADRIANA
+    o:
+      - "I sent you money, sir, to be your bail"
+      - "By Dromio, but I think he brought it not."
+    m:
+      - "I sent Dromio to you with money for bail, but I don’t think he brought it to you."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "No, none by me."
+    m:
+      - "No, he didn’t get any by me."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "This purse of ducats I received from you,"
+      - "And Dromio my man did bring them me."
+      - "I see we still did meet each other’s man,"
+      - "And I was ta’en for him, and he for me,"
+      - "And thereupon these errors are arose."
+    m:
+      - "I got this purse full of money from you, and my Dromio brought it to me. It seems that we kept running into each other’s servants all day. And everyone thought I was him, and he was me, and that’s how all these errors came about."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "These ducats pawn I for my father here."
+    m:
+      - "I want to use this money to set my father free."
+
+  - sp: DUKE
+    o:
+      - "It shall not need. Thy father hath his life."
+    m:
+      - "That’s not necessary. I’m going to let him live."
+
+  - sp: COURTESAN
+    o:
+      - "Sir, I must have that diamond from you."
+    m:
+      - "Sir, I must get that diamond ring back from you."
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "There, take it; and much thanks for my good cheer."
+    m:
+      - "There, take it, and thanks for taking such good care of me."
+
+  - sp: ABBESS
+    o:
+      - "Renownèd duke, vouchsafe to take the pains"
+      - "To go with us into the abbey here"
+      - "And hear at large discoursed all our fortunes,"
+      - "And all that are assembled in this place"
+      - "That by this sympathizèd one day’s error"
+      - "Have suffered wrong. Go, keep us company,"
+      - "And we shall make full satisfaction.—"
+      - "Thirty-three years have I but gone in travail"
+      - "Of you, my sons, and till this present hour"
+      - "My heavy burden ne’er deliverèd.—"
+      - "The Duke, my husband, and my children both,"
+      - "And you, the calendars of their nativity,"
+      - "Go to a gossips’ feast, and go with me."
+      - "After so long grief, such nativity!"
+    m:
+      - "Renowned duke, please join us in the abbey, where we will discuss at length all that has happened to us. Everyone assembled here who has been troubled by the day’s events join us as well, and we will straighten everything out. My sons, waiting to hear news of you has been like a second childbirth: this time, my labor lasted thirty-three years, and I am only now delivered of my heavy burden. Duke Solinus, my husband, and both my children—and you two Dromios, who marked the day of my sons’ births with your own—come into the abbey with me for a new christening. After such a long period of grief, we will have such a celebration!"
+
+  - sp: DUKE
+    o:
+      - "With all my heart I’ll gossip at this feast."
+    m:
+      - "With all my heart, I’ll join you."
+
+  - os: "Exeunt; the two DROMIOS and the two ANTIPHOLUS brothers remain behind."
+    ms: "Everyone exits, except for the DROMIO twins and the ANTIPHOLUS twins."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "*(to ANTIPHOLUS OF EPHESUS)* Master, shall I fetch your stuff from shipboard?"
+    m:
+      - "*(to ANTIPHOLUS OF EPHESUS)* Master, should I go get your luggage off the ship?"
+
+  - sp: ANTIPHOLUS OF EPHESUS
+    o:
+      - "Dromio, what stuff of mine hast thou embarked?"
+    m:
+      - "Dromio, what stuff of mine did you put on a ship?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Your goods that lay at host, sir, in the Centaur."
+    m:
+      - "The stuff you had at the Centaur, sir."
+
+  - sp: ANTIPHOLUS OF SYRACUSE
+    o:
+      - "He speaks to me.—I am your master, Dromio."
+      - "Come, go with us. We’ll look to that anon."
+      - "Embrace thy brother there. Rejoice with him."
+    m:
+      - "He means me. I’m your master, Dromio. Come inside with us: we’ll deal with that later. Embrace your brother there, and rejoice with him."
+
+  - os: "Exeunt ANTIPHOLUS OF SYRACUSE and ANTIPHOLUS OF EPHESUS"
+    ms: "ANTIPHOLUS OF SYRACUSE and ANTIPHOLUS OF EPHESUS exit."
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "There is a fat friend at your master’s house"
+      - "That kitchened me for you today at dinner."
+      - "She now shall be my sister, not my wife."
+    m:
+      - "You have a fat friend at your master’s house: she took care of me in the kitchen today, thinking I was you. I guess now she’s going to be my sister-in-law and not my wife."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Methinks you are my glass, and not my brother:"
+      - "I see by you I am a sweet-faced youth."
+      - "Will you walk in to see their gossiping?"
+    m:
+      - "I think you’re my mirror, not my brother. And I can see by looking at you that I’m a pretty good-looking fellow. Do you want to go in and join the party?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "Not I, sir. You are my elder."
+    m:
+      - "After you, sir. You’re older than me."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "That’s a question. How shall we try it?"
+    m:
+      - "That’s a good point. How can we tell which of us is the oldest?"
+
+  - sp: DROMIO OF SYRACUSE
+    o:
+      - "We’ll draw cuts for the signior. Till then, lead thou first."
+    m:
+      - "We’ll draw straws. Meanwhile, after you."
+
+  - sp: DROMIO OF EPHESUS
+    o:
+      - "Nay, then, thus:"
+      - "We came into the world like brother and brother,"
+      - "And now let’s go hand in hand, not one before another."
+    m:
+      - "No, I’ll tell you what. We came into the world as brother and brother, so now let’s enter hand in hand—not one before the other."
+
+  - os: "Exeunt"
+    ms: "They exit"

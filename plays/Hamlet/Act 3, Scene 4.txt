@@ -1,0 +1,553 @@
+play: Hamlet
+title: Act 3, Scene 4
+group: 3
+order: 10
+text:
+  - os: "Enter GERTRUDE and POLONIUS"
+    ms: "GERTRUDEand POLONIUS enter."
+
+  - sp: POLONIUS
+    o:
+      - "He will come straight. Look you lay home to him."
+      - "Tell him his pranks have been too broad to bear with,"
+      - "And that your grace hath screened and stood between"
+      - "Much heat and him. I’ll silence me even here."
+      - "Pray you, be round with him."
+    m:
+      - "He’ll come right away. Make sure you lay into him. Tell him his pranks have caused too much trouble, and that Your Highness has taken a lot of heat for them. I’ll be right here, silent. Please be blunt with him."
+
+  - sp: HAMLET
+    o:
+      - "*(within)* Mother, mother, mother!"
+    m:
+      - "*(offstage)* Mother, mother, mother!"
+
+  - sp: GERTRUDE
+    o:
+      - "I’ll warrant you. Fear me not. Withdraw, I hear him coming."
+    m:
+      - "Don’t worry, I’ll do what you say. Now hide, I hear him coming."
+
+  - os: "POLONIUS hides behind the arras"
+    ms: "POLONIUS hides behind the tapestry."
+
+  - os: "Enter HAMLET"
+    ms: "HAMLET enters."
+
+  - sp: HAMLET
+    o:
+      - "Now mother, what’s the matter?"
+    m:
+      - "Now mother, what’s this all about?"
+
+  - sp: GERTRUDE
+    o:
+      - "Hamlet, thou hast thy father much offended."
+    m:
+      - "Hamlet, you’ve insulted your father."
+
+  - sp: HAMLET
+    o:
+      - "Mother, you have my father much offended."
+    m:
+      - "Mother, you’ve insulted my father."
+
+  - sp: GERTRUDE
+    o:
+      - "Come, come, you answer with an idle tongue."
+    m:
+      - "Come on, you’re answering me foolishly."
+
+  - sp: HAMLET
+    o:
+      - "Go, go, you question with a wicked tongue."
+    m:
+      - "Go on, you’re questioning me evilly."
+
+  - sp: GERTRUDE
+    o:
+      - "Why, how now, Hamlet?"
+    m:
+      - "Hamlet, what, why?"
+
+  - sp: HAMLET
+    o:
+      - "    What’s the matter now?"
+    m:
+      - "What’s the problem now?"
+
+  - sp: GERTRUDE
+    o:
+      - "Have you forgot me?"
+    m:
+      - "Have you forgotten who I am?"
+
+  - sp: HAMLET
+    o:
+      - "  No, by the rood, not so."
+      - "You are the queen, your husband’s brother’s wife,"
+      - "And—would it were not so!—you are my mother."
+    m:
+      - "For God’s sake no, I haven’t. You are the queen, your husband’s brother’s wife, and you are my mother, though I wish you weren’t."
+
+  - sp: GERTRUDE
+    o:
+      - "Nay, then I’ll set those to you that can speak."
+    m:
+      - "In that case I’ll call in others who can still speak."
+
+  - sp: HAMLET
+    o:
+      - "Come, come, and sit you down. You shall not budge."
+      - "You go not till I set you up a glass"
+      - "Where you may see the inmost part of you."
+    m:
+      - "No, sit down. You won’t budge until I hold a mirror up to you, where you will see what’s deep inside you."
+
+  - sp: GERTRUDE
+    o:
+      - "What wilt thou do? Thou wilt not murder me?"
+      - "Help, help, ho!"
+    m:
+      - "What are you going to do? You won’t kill me, will you? Help!"
+
+  - sp: POLONIUS
+    o:
+      - "*(from behind the arras)* What, ho? Help, help, help!"
+    m:
+      - "*(from behind the tapestry)* Hey! Help, help, help!"
+
+  - sp: HAMLET
+    o:
+      - "How now, a rat? Dead for a ducat, dead!"
+    m:
+      - "What’s this, a rat? I’ll bet a buck he’s a dead rat now."
+
+  - os: "*(stabs his sword through the arras and kills POLONIUS)*"
+    ms: "*(he stabs his sword through the tapestry and kills POLONIUS)*"
+
+  - sp: POLONIUS
+    o:
+      - "*(from behind the arras)* Oh, I am slain."
+    m:
+      - "*(from behind the tapestry)* Oh, I’ve been killed!"
+
+  - sp: GERTRUDE
+    o:
+      - "O me, what hast thou done?"
+    m:
+      - "Oh my God, what have you done?"
+
+  - sp: HAMLET
+    o:
+      - "Nay, I know not. Is it the king?"
+    m:
+      - "I don’t know. Is it the king?"
+
+  - sp: GERTRUDE
+    o:
+      - "Oh, what a rash and bloody deed is this!"
+    m:
+      - "Oh, what a senseless, horrible act!"
+
+  - sp: HAMLET
+    o:
+      - "A bloody deed? Almost as bad, good mother,"
+      - "As kill a king and marry with his brother."
+    m:
+      - "A horrible act—almost as bad, my good mother, as killing a king and marrying his brother."
+
+  - sp: GERTRUDE
+    o:
+      - "As kill a king?"
+    m:
+      - "Killing a king?"
+
+  - sp: HAMLET
+    o:
+      - "  Ay, lady, ’twas my word."
+    m:
+      - "That’s what I said, my good woman."
+
+  - os: "*(draws back the arras and discovers POLONIUS)*"
+    ms: "*(he pulls back the tapestry and discovers POLONIUS)*"
+
+  - o:
+      - "Thou wretched, rash, intruding fool, farewell."
+      - "I took thee for thy better. Take thy fortune."
+      - "Thou find’st to be too busy is some danger."
+      - "*(to GERTRUDE)* Leave wringing of your hands. Peace. Sit you down"
+      - "And let me wring your heart. For so I shall"
+      - "If it be made of penetrable stuff,"
+      - "If damnèd custom have not brassed it so"
+      - "That it is proof and bulwark against sense."
+    m:
+      - "You low-life, nosy, busybody fool, goodbye. I thought you were somebody more important. You’ve gotten what you deserve. I guess you found out it’s dangerous to be a busybody. *(to GERTRUDE)* Stop wringing your hands. Sit down and let me wring your heart instead, which I will do if it’s still soft enough, if your evil lifestyle has not toughened it against feeling anything at all."
+
+  - sp: GERTRUDE
+    o:
+      - "What have I done, that thou darest wag thy tongue"
+      - "In noise so rude against me?"
+    m:
+      - "What have I done that you dare to talk to me so rudely?"
+
+  - sp: HAMLET
+    o:
+      - "    Such an act"
+      - "That blurs the grace and blush of modesty,"
+      - "Calls virtue hypocrite, takes off the rose"
+      - "From the fair forehead of an innocent love"
+      - "And sets a blister there, makes marriage vows"
+      - "As false as dicers’ oaths—oh, such a deed"
+      - "As from the body of contraction plucks"
+      - "The very soul, and sweet religion makes"
+      - "A rhapsody of words. Heaven’s face doth glow"
+      - "O’er this solidity and compound mass"
+      - "With tristful visage, as against the doom,"
+      - "Is thought-sick at the act."
+    m:
+      - "A deed that destroys modesty, turns virtue into hypocrisy, replaces the blossom on the face of true love with a nasty blemish, makes marriage vows as false as a gambler’s oath—oh, you’ve done a deed that plucks the soul out of marriage and turns religion into meaningless blather. Heaven looks down on this earth, as angry as if Judgment Day were here, and is sick at the thought of what you’ve done."
+
+  - sp: GERTRUDE
+    o:
+      - "    Ay me, what act"
+      - "That roars so loud and thunders in the index?"
+    m:
+      - "C’mon, what’s this deed that sounds so awful even before I know what it is?"
+
+  - sp: HAMLET
+    o:
+      - "Look here upon this picture and on this,"
+      - "The counterfeit presentment of two brothers."
+      - "See, what a grace was seated on this brow?"
+      - "Hyperion’s curls, the front of Jove himself,"
+      - "An eye like Mars to threaten and command,"
+      - "A station like the herald Mercury"
+      - "New-lighted on a heaven-kissing hill—"
+      - "A combination and a form indeed"
+      - "Where every god did seem to set his seal"
+      - "To give the world assurance of a man."
+      - "This was your husband. Look you now, what follows."
+      - "Here is your husband, like a mildewed ear"
+      - "Blasting his wholesome brother. Have you eyes?"
+      - "Could you on this fair mountain leave to feed"
+      - "And batten on this moor? Ha, have you eyes?"
+      - "You cannot call it love, for at your age"
+      - "The heyday in the blood is tame, it’s humble,"
+      - "And waits upon the judgment. And what judgment"
+      - "Would step from this to this? Sense sure you have,"
+      - "Else could you not have motion. But sure that sense"
+      - "Is apoplexed, for madness would not err,"
+      - "Nor sense to ecstasy was ne’er so thralled,"
+      - "But it reserved some quantity of choice"
+      - "To serve in such a difference. What devil was ’t"
+      - "That thus hath cozened you at hoodman-blind?"
+      - "Eyes without feeling, feeling without sight,"
+      - "Ears without hands or eyes, smelling sans all,"
+      - "Or but a sickly part of one true sense"
+      - "Could not so mope. O shame, where is thy blush?"
+      - "Rebellious hell,"
+      - "If thou canst mutine in a matron’s bones,"
+      - "To flaming youth let virtue be as wax"
+      - "And melt in her own fire. Proclaim no shame"
+      - "When the compulsive ardor gives the charge,"
+      - "Since frost itself as actively doth burn,"
+      - "And reason panders will."
+    m:
+      - "Look at this picture here, and that one there, the painted images of two brothers. Look how kind and gentlemanly this one is, with his curly hair and his forehead like a Greek god. His eye could command like the god of war. His body is as agile as Mercury just landing on a high hill. A figure and a combination of good qualities that seemed like every god had set his stamp on this man. That was your husband. Now look at this other one. Here is your present husband, like a mildewed ear of corn infecting the healthy one next to it. Do you have eyes? How could you leave the lofty heights of this man here and descend as low as this one? Ha! Do you have eyes? You cannot say you did it out of love, since at your age romantic passions have grown weak, and the heart obeys reason. But what reason could move you from this one to that one? You must have some sense in your head, since you’re able to get around, but it seems to be paralyzed, since even if you were crazy you would know the difference between these two men. No one ever went so insane that they couldn’t get an easy choice like this one right. What devil was it that blindfolded you? Eyes without feeling, feeling without sight, ears without hands or eyes, smell without anything else, the use of even one impaired sense would not permit such a mistake as yours. Oh, for shame, why aren’t you blushing? If evil can overtake even an old mother’s bones, then let it melt my own. It turns out it’s no longer shameful to act on impulse—now that the old are doing so, and now that reason is a servant to desire."
+
+  - sp: GERTRUDE
+    o:
+      - "    O Hamlet, speak no more!"
+      - "Thou turn’st mine eyes into my very soul,"
+      - "And there I see such black and grainèd spots"
+      - "As will not leave their tinct."
+    m:
+      - "Oh, Hamlet, stop! You’re making me look into my very soul, where the marks of sin are so thick and black they will never be washed away."
+
+  - sp: HAMLET
+    o:
+      - "    Nay, but to live"
+      - "In the rank sweat of an enseamèd bed,"
+      - "Stewed in corruption, honeying and making love"
+      - "Over the nasty sty—"
+    m:
+      - "Yes, and you lie in the sweaty stench of your dirty sheets, wet with corruption, making love—"
+
+  - sp: GERTRUDE
+    o:
+      - "  O, speak to me no more!"
+      - "These words like daggers enter in my ears."
+      - "No more, sweet Hamlet."
+    m:
+      - "Oh, you must stop! Your words are like daggers. Please, no more, sweet Hamlet."
+
+  - sp: HAMLET
+    o:
+      - "    A murderer and a villain,"
+      - "A slave that is not twentieth part the tithe"
+      - "Of your precedent lord, a vice of kings,"
+      - "A cutpurse of the empire and the rule,"
+      - "That from a shelf the precious diadem stole,"
+      - "And put it in his pocket—"
+    m:
+      - "A murderer and a villain, a low-life who’s not worth a twentieth of a tenth of your first husband—the worst of kings, a thief of the throne, who took the precious crown from a shelf and put it in his pocket—"
+
+  - sp: GERTRUDE
+    o:
+      - "No more!"
+    m:
+      - "Stop!"
+
+  - sp: HAMLET
+    o:
+      - "A king of shreds and patches—"
+    m:
+      - "A ragtag king—"
+
+  - os: "Enter GHOST"
+    ms: "The GHOST enters."
+
+  - o:
+      - "Save me and hover o’er me with your wings,"
+      - "You heavenly guards!—What would your gracious figure?"
+    m:
+      - "Oh, angels in heaven, protect me with your wings!—What can I do for you, my gracious lord?"
+
+  - sp: GERTRUDE
+    o:
+      - "Alas, he’s mad!"
+    m:
+      - "Oh no! Hamlet’s gone completely crazy."
+
+  - sp: HAMLET
+    o:
+      - "Do you not come your tardy son to chide,"
+      - "That, lapsed in time and passion, lets go by"
+      - "The important acting of your dread command?"
+      - "O, say!"
+    m:
+      - "Have you come to scold your tardy son for straying from his mission, letting your important command slip by? Tell me!"
+
+  - sp: GHOST
+    o:
+      - "  Do not forget. This visitation"
+      - "Is but to whet thy almost blunted purpose."
+      - "But look, amazement on thy mother sits."
+      - "O, step between her and her fighting soul."
+      - "Conceit in weakest bodies strongest works."
+      - "Speak to her, Hamlet."
+    m:
+      - "Don’t forget. I’ve come to sharpen your somewhat dull appetite for revenge. But look, your mother is in shock. Oh, keep her struggling soul from being overwhelmed by horrid visions. The imagination works strongest in those with the weakest bodies. Talk to her, Hamlet."
+
+  - sp: HAMLET
+    o:
+      - "How is it with you, lady?"
+    m:
+      - "How are you doing, madam?"
+
+  - sp: GERTRUDE
+    o:
+      - "    Alas, how is ’t with you,"
+      - "That you do bend your eye on vacancy"
+      - "And with th’ incorporal air do hold discourse?"
+      - "Forth at your eyes your spirits wildly peep,"
+      - "And, as the sleeping soldiers in th’ alarm,"
+      - "Your bedded hair, like life in excrements,"
+      - "Starts up and stands on end. O gentle son,"
+      - "Upon the heat and flame of thy distemper"
+      - "Sprinkle cool patience. Whereon do you look?"
+    m:
+      - "And how are *you* doing, staring into the empty air and talking to nobody? Your eyes give away your wild thoughts, and your hair is standing upright, like soldiers during a call to arms. Oh my dear son, calm yourself and cool off your overheated mind! What are you staring at?"
+
+  - sp: HAMLET
+    o:
+      - "On him, on him! Look you, how pale he glares!"
+      - "His form and cause conjoined, preaching to stones,"
+      - "Would make them capable."
+      - "*(to GHOST)* Do not look upon me,"
+      - "Lest with this piteous action you convert"
+      - "My stern effects. Then what I have to do"
+      - "Will want true color—tears perchance for blood."
+    m:
+      - "At him, at him! Look how pale he is and how he glares at me. Preaching even at stones, he could get them to act. *(to the GHOST)* Don’t look at me like that, unless you want me to cry instead of kill."
+
+  - sp: GERTRUDE
+    o:
+      - "To whom do you speak this?"
+    m:
+      - "Who are you talking to?"
+
+  - sp: HAMLET
+    o:
+      - "    Do you see nothing there?"
+    m:
+      - "You don’t see anything?"
+
+  - sp: GERTRUDE
+    o:
+      - "Nothing at all, yet all that is I see."
+    m:
+      - "Nothing at all, but I can see everything that’s here."
+
+  - sp: HAMLET
+    o:
+      - "Nor did you nothing hear?"
+    m:
+      - "And you don’t hear anything?"
+
+  - sp: GERTRUDE
+    o:
+      - "    No, nothing but ourselves."
+    m:
+      - "No, nothing but us talking."
+
+  - sp: HAMLET
+    o:
+      - "Why, look you there! Look how it steals away—"
+      - "My father, in his habit as he lived—"
+      - "Look where he goes, even now, out at the portal!"
+    m:
+      - "Look, look how it’s sneaking away! My father, dressed just like he was when he was alive! Look, he’s going out the door right now!"
+
+  - os: "Exit GHOST"
+    ms: "The GHOST exits."
+
+  - sp: GERTRUDE
+    o:
+      - "This the very coinage of your brain."
+      - "This bodiless creation ecstasy"
+      - "Is very cunning in."
+    m:
+      - "This is only a figment of your imagination. Madness is good at creating hallucinations."
+
+  - sp: HAMLET
+    o:
+      - "  Ecstasy?"
+      - "My pulse as yours doth temperately keep time"
+      - "And makes as healthful music. It is not madness"
+      - "That I have uttered. Bring me to the test,"
+      - "And I the matter will reword, which madness"
+      - "Would gambol from. Mother, for love of grace,"
+      - "Lay not that flattering unction to your soul"
+      - "That not your trespass but my madness speaks."
+      - "It will but skin and film the ulcerous place"
+      - "Whilst rank corruption, mining all within,"
+      - "Infects unseen. Confess yourself to heaven."
+      - "Repent what’s past. Avoid what is to come."
+      - "And do not spread the compost on the weeds"
+      - "To make them ranker. Forgive me this my virtue,"
+      - "For in the fatness of these pursy times"
+      - "Virtue itself of vice must pardon beg,"
+      - "Yea, curb and woo for leave to do him good."
+    m:
+      - "Madness? My heart beats just as evenly as yours does. There’s nothing crazy in what I’ve just uttered. Put me to the test. I’ll rephrase everything I’ve just said, which a lunatic couldn’t do. Mother, for the love of God, don’t flatter yourself into believing that it’s my madness, not your crime, that’s the problem. You’d just be concealing the rot that’s eating you from the inside. Confess your sins to heaven. Repent and avoid damnation. Don’t spread manure over the weeds in your heart; it’ll only make them more filthy. Forgive me my good intentions here since in these fat and spoiled times, virtuous people have to say, “Beg your pardon” to vile ones and beg for the chance to do any good."
+
+  - sp: GERTRUDE
+    o:
+      - "O Hamlet, thou hast cleft my heart in twain."
+    m:
+      - "Oh Hamlet, you’ve broken my heart in two!"
+
+  - sp: HAMLET
+    o:
+      - "Oh, throw away the worser part of it,"
+      - "And live the purer with the other half."
+      - "Good night—but go not to mine uncle’s bed."
+      - "Assume a virtue if you have it not."
+      - "That monster, custom, who all sense doth eat,"
+      - "Of habits devil, is angel yet in this:"
+      - "That to the use of actions fair and good"
+      - "He likewise gives a frock or livery"
+      - "That aptly is put on. Refrain tonight,"
+      - "And that shall lend a kind of easiness"
+      - "To the next abstinence, the next more easy."
+      - "For use almost can change the stamp of nature,"
+      - "And either rein the devil or throw him out"
+      - "With wondrous potency. Once more, good night,"
+      - "And when you are desirous to be blessed,"
+      - "I’ll blessing beg of you. *(points to POLONIUS)*"
+      - "For this same lord,"
+      - "I do repent. But heaven hath pleased it so,"
+      - "To punish me with this and this with me,"
+      - "That I must be their scourge and minister."
+      - "I will bestow him and will answer well"
+      - "The death I gave him. So, again, good night."
+      - "I must be cruel only to be kind."
+      - "Thus bad begins and worse remains behind."
+      - "One word more, good lady—"
+    m:
+      - "Then throw away the worse half, and live a purer life with the other! Good night to you. But don’t go to my uncle’s bed tonight. At least pretend to be virtuous, even if you’re not. Habit is a terrible thing, in that it’s easy to get used to doing evil without feeling bad about it. But it’s also a good thing, in that being good can also become a habit. Say no to sex tonight, and that will make it easier to say no the next time, and still easier the time after that. Habit can change even one’s natural instincts, and either rein in the devil in us, or kick him out. Once again, good night to you, and when you want to repent, I’ll ask you for your blessing too. I’m sorry about what happened to this gentleman *(pointing to POLONIUS)*, but God wanted to punish me with this murder, and this man with me, so I’m both Heaven’s executioner and its minister of justice. This is bad, but it’ll get worse soon. Oh, and one other thing, madam."
+
+  - sp: GERTRUDE
+    o:
+      - "What shall I do?"
+    m:
+      - "What should I do?"
+
+  - sp: HAMLET
+    o:
+      - "Not this, by no means, that I bid you do—"
+      - "Let the bloat king tempt you again to bed,"
+      - "Pinch wanton on your cheek, call you his mouse,"
+      - "And let him, for a pair of reechy kisses"
+      - "Or paddling in your neck with his damned fingers,"
+      - "Make you to ravel all this matter out:"
+      - "That I essentially am not in madness"
+      - "But mad in craft. ’Twere good you let him know,"
+      - "For who that’s but a queen, fair, sober, wise,"
+      - "Would from a paddock, from a bat, a gib,"
+      - "Such dear concernings hide? Who would do so?"
+      - "No, in despite of sense and secrecy,"
+      - "Unpeg the basket on the house’s top."
+      - "Let the birds fly, and like the famous ape,"
+      - "To try conclusions, in the basket creep"
+      - "And break your own neck down."
+    m:
+      - "Whatever you do, don’t do this: let the fat king seduce you into his bed again, so he can pinch your cheek, call you his bunny, and with filthy kisses and a massage of your neck with his damned fingers, make you admit that my madness is fake, all calculated. What a great idea that would be, because why would a fair, sober, wise queen hide such things from a toad, a pig, a monster like him? Who would do that? No, no, it’s *much, much* better to spill the beans right away, let the cat out of the bag, and break your neck in the process."
+
+  - sp: GERTRUDE
+    o:
+      - "Be thou assured, if words be made of breath"
+      - "And breath of life, I have no life to breathe"
+      - "What thou hast said to me."
+    m:
+      - "You can rest easy, since words are made of breath, and breathing requires that you be alive. I feel too dead to breathe a word of what you’ve told me."
+
+  - sp: HAMLET
+    o:
+      - "I must to England, you know that?"
+    m:
+      - "I have to go to England, don’t you know that?"
+
+  - sp: GERTRUDE
+    o:
+      - "Alack,"
+      - "I had forgot. ’Tis so concluded on."
+    m:
+      - "Ah, I’d forgotten all about that! It’s been decided."
+
+  - sp: HAMLET
+    o:
+      - "There’s letters sealed, and my two schoolfellows,"
+      - "Whom I will trust as I will adders fanged,"
+      - "They bear the mandate. They must sweep my way"
+      - "And marshal me to knavery. Let it work,"
+      - "For ’tis the sport to have the engineer"
+      - "Hoist with his own petard. And ’t shall go hard,"
+      - "But I will delve one yard below their mines,"
+      - "And blow them at the moon. Oh, ’tis most sweet"
+      - "When in one line two crafts directly meet."
+      - "*(indicates POLONIUS)*"
+      - "This man shall set me packing."
+      - "I’ll lug the guts into the neighbor room."
+      - "Mother, good night. Indeed this counselor"
+      - "Is now most still, most secret, and most grave"
+      - "Who was in life a foolish prating knave.—"
+      - "Come, sir, to draw toward an end with you.—"
+      - "Good night, mother."
+    m:
+      - "Yes, it’s a done deal, the documents are ready, and my two schoolmates, whom I trust about as much as rattlesnakes, are in charge. They’re the ones who’ll lead me on my march to mischief. Let it happen. It’s fun to watch the engineer get blown up by his own explosives, and with any luck I’ll dig a few feet below their bombs and blow them to the moon. Oh, it’s nice to kill two birds with one stone. *(points to* POLONIUS)* Now that I’ve killed this guy, I’ll be off in a hurry. I’ll lug his guts into the next room. Mother, have a good night. This politician who was in life a babbling idiot is now quiet and serious. Come on, sir, let’s get to the end of our business. Good night, mother."
+
+  - os: "Exeunt, HAMLET tugging in POLONIUS"
+    ms: "They exit, HAMLET dragging POLONIUS offstage."

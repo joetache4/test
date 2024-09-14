@@ -1,0 +1,441 @@
+play: Othello
+title: Act 1, Scene 1
+group: 1
+order: 0
+text:
+  - os: "Enter RODMERIGO and IAGO"
+    ms: "RODERIGO and IAGO enter."
+
+  - sp: RODERIGO
+    o:
+      - "Tush! Never tell me. I take it much unkindly"
+      - "That thou, Iago, who hast had my purse"
+      - "As if the strings were thine, shouldst know of this."
+    m:
+      - "Come on, don’t tell me that. I don’t like it that you knew about this, Iago. All this time I’ve thought you were such a good friend that I’ve let you spend my money as if it was yours."
+
+  - sp: IAGO
+    o:
+      - "’Sblood, but you’ll not hear me! If ever I did dream of such a matter, abhor me."
+    m:
+      - "Damn it, you’re not listening to me! I never dreamed this was happening—if you find out I did, you can go ahead and hate me."
+
+  - sp: RODERIGO
+    o:
+      - "Thou told’st me"
+      - "Thou didst hold him in thy hate."
+    m:
+      - "You told me you hated him."
+
+  - sp: IAGO
+    o:
+      - "Despise me"
+      - "If I do not. Three great ones of the city"
+      - "(In personal suit to make me his lieutenant)"
+      - "Off-capped to him, and by the faith of man"
+      - "I know my price, I am worth no worse a place."
+      - "But he (as loving his own pride and purposes)"
+      - "Evades them with a bombast circumstance"
+      - "Horribly stuffed with epithets of war,"
+      - "And in conclusion"
+      - "Nonsuits my mediators. For “Certes,” says he,"
+      - "“I have already chose my officer.”"
+      - "And what was he?"
+      - "Forsooth, a great arithmetician,"
+      - "One Michael Cassio, a Florentine"
+      - "(A fellow almost damned in a fair wife)"
+      - "That never set a squadron in the field,"
+      - "Nor the division of a battle knows"
+      - "More than a spinster—unless the bookish theoric,"
+      - "Wherein the toged consuls can propose"
+      - "As masterly as he. Mere prattle without practice"
+      - "Is all his soldiership. But he, sir, had th’ election"
+      - "And I, of whom his eyes had seen the proof"
+      - "At Rhodes, at Cyprus, and on other grounds"
+      - "Christian and heathen, must be belee’d and calmed"
+      - "By debitor and creditor. This counter-caster"
+      - "He (in good time) must his lieutenant be"
+      - "And I, bless the mark, his Moorship’s ancient."
+    m:
+      - "I do hate him, I swear. Three of Venice’s most important noblemen took their hats off to him and asked him humbly to make me his lieutenant, the second in command. And I know my own worth well enough to know I deserve that position. But he wants to have things his own way, so he sidesteps the issue with a lot of military talk and refuses their request. “I’ve already chosen my lieutenant,” he says. And who does he choose? A guy who knows more about numbers then fighting! This guy from Florence named Michael Cassio. He has a pretty wife but he can’t even control her. And he’s definitely never commanded men in battle. He’s got no more hands-on knowledge of warfare than an old woman—unless you count what he’s read in books, which any peace-lover can do. His military understanding is all theory, no practice. But Cassio’s been chosen over me. My career is cut short by some bookkeeper, even though the general saw my fighting skills first-hand in Rhodes and Cyprus. This accountant is now lieutenant, while I end up as the Moor’s flag-bearer."
+
+  - sp: RODERIGO
+    o:
+      - "By heaven, I rather would have been his hangman."
+    m:
+      - "By God, I’d rather be his executioner."
+
+  - sp: IAGO
+    o:
+      - "Why, there’s no remedy. ’Tis the curse of service."
+      - "Preferment goes by letter and affection,"
+      - "And not by old gradation, where each second"
+      - "Stood heir to th’ first. Now sir, be judge yourself,"
+      - "Whether I in any just term am affined"
+      - "To love the Moor."
+    m:
+      - "And there’s nothing I can do about it. That’s the curse of military service. You get promoted when someone likes you, not because you’re next in line. Now, you tell me: should I feel loyal to the Moor?"
+
+  - sp: RODERIGO
+    o:
+      - "I would not follow him then."
+    m:
+      - "If you don’t like him you should quit."
+
+  - sp: IAGO
+    o:
+      - "O sir, content you."
+      - "I follow him to serve my turn upon him."
+      - "We cannot all be masters, nor all masters"
+      - "Cannot be truly followed. You shall mark"
+      - "Many a duteous and knee-crooking knave"
+      - "That (doting on his own obsequious bondage)"
+      - "Wears out his time much like his master’s ass"
+      - "For naught but provender, and when he’s old, cashiered."
+      - "Whip me such honest knaves. Others there are"
+      - "Who, trimmed in forms and visages of duty,"
+      - "Keep yet their hearts attending on themselves"
+      - "And, throwing but shows of service on their lords,"
+      - "Do well thrive by them. And when they have lined their coats,"
+      - "Do themselves homage. These fellows have some soul,"
+      - "And such a one do I profess myself. For, sir,"
+      - "It is as sure as you are Roderigo,"
+      - "Were I the Moor, I would not be Iago."
+      - "In following him, I follow but myself."
+      - "Heaven is my judge, not I for love and duty,"
+      - "But seeming so, for my peculiar end."
+      - "For when my outward action doth demonstrate"
+      - "The native act and figure of my heart"
+      - "In compliment extern, ’tis not long after"
+      - "But I will wear my heart upon my sleeve"
+      - "For daws to peck at. I am not what I am."
+    m:
+      - "No, calm down. I’m serving under him to take advantage of him. We can’t all be masters, and not all masters should be followed. Look at all the devoted servants who work for their masters their whole lives for nothing but their food, and then when they get old they’re terminated. They ought to be whipped for being so stupid. But then there’s another kind of servant who looks dutiful and devoted, but who’s really looking out for himself. By pretending to serve their lords, these men get rich, and when they’ve saved up enough they can be their own masters. Guys like that have soul, and that’s the kind of guy I am. Let me tell you, as sure as your name’s Roderigo, if I were the Moor I wouldn’t want to be Iago. I may seem to love and obey him, but in fact, I’m just serving him to get what I want. If my outward appearance started reflecting what I really felt, soon enough I’d be wearing my heart on my sleeve for birds to peck at. No, it’s better to hide it. I’m not who I appear to be."
+
+  - sp: RODERIGO
+    o:
+      - "What a full fortune does the Thick-lips owe"
+      - "If he can carry’t thus!"
+    m:
+      - "Thick-lips sure is lucky if he can pull this off!"
+
+  - sp: IAGO
+    o:
+      - "    Call up her father."
+      - "Rouse him. Make after him, Poison his delight,"
+      - "Proclaim him in the streets. Incense her kinsmen,"
+      - "And, though he in a fertile climate dwell,"
+      - "Plague him with flies. Though that his joy be joy"
+      - "Yet throw such changes of vexation on’t,"
+      - "As it may lose some color."
+    m:
+      - "Let’s shout up to Desdemona’s father, wake him, pester him, spoil his happiness, spread rumors about him in the streets, enrage his relatives, and irritate him endlessly. However real his happiness is, it will vanish in light of this."
+
+  - sp: RODERIGO
+    o:
+      - "Here is her father’s house, I’ll call aloud."
+    m:
+      - "Here’s her father’s house. I’ll call out."
+
+  - sp: IAGO
+    o:
+      - "Do, with like timorous accent and dire yell"
+      - "As when, by night and negligence, the fire"
+      - "Is spied in populous cities."
+    m:
+      - "Do it, and shout like the city’s on fire."
+
+  - sp: RODERIGO
+    o:
+      - "What, ho, Brabantio! Signior Brabantio, ho!"
+    m:
+      - "Hey, Brabantio! Signor Brabantio, hey!"
+
+  - sp: IAGO
+    o:
+      - "Awake! What, ho, Brabantio! Thieves! Thieves!"
+      - "Look to your house, your daughter, and your bags!"
+      - "Thieves! thieves!"
+    m:
+      - "Wake up, Brabantio! Wake up! Thieves! Thieves! Check on your daughter, your house, your money! Thieves! Thieves!"
+
+  - os: "Enter BRABANTIO, above"
+    ms: "BRABANTIO enters, above."
+
+  - sp: BRABANTIO
+    o:
+      - "What is the reason of this terrible summons?"
+      - "What is the matter there?"
+    m:
+      - "What’s the reason for this horrible shouting? What’s the matter?"
+
+  - sp: RODERIGO
+    o:
+      - "Signior, is all your family within?"
+    m:
+      - "Sir, is everyone in your family at home?"
+
+  - sp: IAGO
+    o:
+      - "Are your doors locked?"
+    m:
+      - "Are your doors locked?"
+
+  - sp: BRABANTIO
+    o:
+      - "    Why, wherefore ask you this?"
+    m:
+      - "Why are you asking me that?"
+
+  - sp: IAGO
+    o:
+      - "Zounds, sir, you’re robbed! For shame, put on your gown."
+      - "Your heart is burst, you have lost half your soul."
+      - "Even now, now, very now, an old black ram"
+      - "Is tupping your white ewe. Arise, arise,"
+      - "Awake the snorting citizens with the bell"
+      - "Or else the devil will make a grandsire of you."
+      - "Arise, I say!"
+    m:
+      - "For God’s sake, sir, you’ve been robbed. Get dressed. Your heart’s going to break. It’s like half your soul’s been ripped out. At this very minute an old black ram is having sex with your little white lamb. Wake up, wake up, ring a bell and wake up all the snoring citizens. If you wait too long you’ll have black grandchildren. Get up, I tell you!"
+
+  - sp: BRABANTIO
+    o:
+      - "    What, have you lost your wits?"
+    m:
+      - "Are you crazy?"
+
+  - sp: RODERIGO
+    o:
+      - "Most reverend signior, do you know my voice?"
+    m:
+      - "Do you recognize my voice, noble lord?"
+
+  - sp: BRABANTIO
+    o:
+      - "Not I. What are you?"
+    m:
+      - "Not me. Who are you?"
+
+  - sp: RODERIGO
+    o:
+      - "My name is Roderigo."
+    m:
+      - "My name’s Roderigo."
+
+  - sp: BRABANTIO
+    o:
+      - "The worser welcome."
+      - "I have charged thee not to haunt about my doors."
+      - "In honest plainness thou hast heard me say"
+      - "My daughter is not for thee. And now in madness,"
+      - "Being full of supper and distempering drafts,"
+      - "Upon malicious knavery dost thou come"
+      - "To start my quiet?"
+    m:
+      - "I told you not to hang around my house. I’ve already told you quite plainly that my daughter will never marry you. Now you come here drunk to make trouble and startle me out of a sound sleep?"
+
+  - sp: RODERIGO
+    o:
+      - "Sir, sir, sir—"
+    m:
+      - "Sir, sir, sir—"
+
+  - sp: BRABANTIO
+    o:
+      - "But thou must needs be sure"
+      - "My spirits and my place have in their power"
+      - "To make this bitter to thee."
+    m:
+      - "You know I’m powerful enough to make you pay for this."
+
+  - sp: RODERIGO
+    o:
+      - "    Patience, good sir."
+    m:
+      - "Please wait, sir."
+
+  - sp: BRABANTIO
+    o:
+      - "What tell’st thou me of robbing? This is Venice,"
+      - "My house is not a grange."
+    m:
+      - "Why are you talking about robbery? This is Venice. My house isn’t in some remote countryside."
+
+  - sp: RODERIGO
+    o:
+      - "    Most grave Brabantio,"
+      - "In simple and pure soul I come to you—"
+    m:
+      - "Brabantio, with all due respect, I’m here out of courtesy and good will. I’ve come to tell you—"
+
+  - sp: IAGO
+    o:
+      - "Zounds, sir, you are one of those that will not serve God, if the devil bid you. Because we come to do you service and you think we are ruffians, you’ll have your daughter covered with a Barbary horse. You’ll have your nephews neigh to you. You’ll have coursers for cousins and gennets for germans."
+    m:
+      - "My God, sir, you’re stubborn and suspicious. We come here to help you and you treat us like thugs, but you let an African horse climb all over your daughter. Your grandsons will neigh to you like horses. Your whole family will be ruined."
+
+  - sp: BRABANTIO
+    o:
+      - "What profane wretch art thou?"
+    m:
+      - "What kind of crude jerk are you?"
+
+  - sp: IAGO
+    o:
+      - "I am one, sir, that comes to tell you your daughter and the Moor are now making the beast with two backs."
+    m:
+      - "The kind that tells you that the Moor is having sex with your daughter right now."
+
+  - sp: BRABANTIO
+    o:
+      - "Thou art a villain!"
+    m:
+      - "You’re a villain!"
+
+  - sp: IAGO
+    o:
+      - "    You are a senator!"
+    m:
+      - "You’re a senator!"
+
+  - sp: BRABANTIO
+    o:
+      - "This thou shalt answer. I know thee, Roderigo."
+    m:
+      - "You’re going to pay for this, Roderigo. I know who you are."
+
+  - sp: RODERIGO
+    o:
+      - "Sir, I will answer any thing. But, I beseech you,"
+      - "If’t be your pleasure and most wise consent"
+      - "(As partly I find it is) that your fair daughter"
+      - "At this odd-even and dull watch o’ th’ night"
+      - "Transported with no worse nor better guard"
+      - "But with a knave of common hire, a gondolier,"
+      - "To the gross clasps of a lascivious Moor,"
+      - "If this be known to you and your allowance,"
+      - "We then have done you bold and saucy wrongs."
+      - "But if you know not this my manners tell me"
+      - "We have your wrong rebuke. Do not believe"
+      - "That, from the sense of all civility,"
+      - "I thus would play and trifle with your reverence."
+      - "Your daughter (if you have not given her leave)"
+      - "I say again, hath made a gross revolt,"
+      - "Tying her duty, beauty, wit, and fortunes"
+      - "In an extravagant and wheeling stranger"
+      - "Of here and everywhere. Straight satisfy yourself."
+      - "If she be in her chamber or your house,"
+      - "Let loose on me the justice of the state"
+      - "For thus deluding you."
+    m:
+      - "I’ll answer for everything. I don’t know if you know or approve of this, but in the wee hours of the morning your daughter left your house, with no better escort than a hired gondolier, to go into the rough embrace of a lustful Moor. If all of this happened with your approval, then we’ve been very rude to bother you like this. But if you didn’t know about it, then you were wrong to get mad at us. I’d never play pranks on you. If you didn’t allow your daughter to do what she’s doing, then she’s rebelling against you. She’s throwing her life away on some stranger. Go ahead, see for yourself if she’s in her bedroom. If she is, you can sue me for lying to you."
+
+  - sp: BRABANTIO
+    o:
+      - "    Strike on the tinder, ho!"
+      - "Give me a taper, call up all my people!"
+      - "This accident is not unlike my dream,"
+      - "Belief of it oppresses me already."
+      - "Light, I say, light!"
+    m:
+      - "Light the candles! Wake up my whole household! I dreamt about this. I’m starting to worry it’s true. Give me some light!"
+
+  - os: "Exit above"
+    ms: "BRABANTIO exits."
+
+  - sp: IAGO
+    o:
+      - "*(to RODERIGO)*"
+      - "    Farewell, for I must leave you."
+      - "It seems not meet, nor wholesome to my place,"
+      - "To be producted (as, if I stay, I shall)"
+      - "Against the Moor. For I do know the state"
+      - "(However this may gall him with some check)"
+      - "Cannot with safety cast him, for he’s embarked"
+      - "With such loud reason to the Cyprus wars"
+      - "(Which even now stand in act) that, for their souls,"
+      - "Another of his fathom they have none"
+      - "To lead their business. In which regard,"
+    m:
+      - "*(to RODERIGO)*"
+      - "It’s time for me to say goodbye to you. It would be inappropriate—dangerous, even—for me to be seen working against the Moor, as I would if I stayed. The Venetian government might reprimand him for this, but it can’t safely get rid of him, since it needs him urgently for the imminent Cyprus wars. They couldn’t find another man with his abilities to lead their armed forces—not if their souls depended on it. I hate him, but I’ve got to show him signs of loyalty"
+
+  - o:
+      - "Though I do hate him as I do hell pains,"
+      - "Yet for necessity of present life"
+      - "I must show out a flag and sign of love,"
+      - "(Which is indeed but sign). That you shall surely find him,"
+      - "Lead to the Sagittary the raisèd search,"
+      - "And there will I be with him. So farewell."
+    m:
+      - "and affection, even if it’s just an act. If you want to find him, send the search party to the Sagittarius Inn. He and I will be there."
+
+  - os: "Exit"
+    ms: "IAGO exits."
+
+  - os: "Enter BRABANTIO, with servants and torches"
+    ms: "BRABANTIO enters with servants and torches."
+
+  - sp: BRABANTIO
+    o:
+      - "It is too true an evil. Gone she is."
+      - "And what’s to come of my despisèd time"
+      - "Is naught but bitterness. Now, Roderigo,"
+      - "Where didst thou see her?—Oh, unhappy girl!—"
+      - "With the Moor, say’st thou?—Who would be a father?—"
+      - "How didst thou know ’twas she?—Oh, she deceives me"
+      - "Past thought!—What said she to you?—Get more tapers,"
+      - "Raise all my kindred. Are they married, think you?"
+    m:
+      - "It’s true. She’s gone. The rest of my life will be nothing but bitterness. Now, Roderigo, where did you see her?—Oh, that miserable wretch!—You say you saw her with the Moor?—Oh, who would want to be a father?—How did you know it was her?—To think she tricked me so easily!—What did she say to you?—Get me more candles, and wake up all my relatives. Do you think they’re married?"
+
+  - sp: RODERIGO
+    o:
+      - "Truly, I think they are."
+    m:
+      - "Yes, I really think so."
+
+  - sp: BRABANTIO
+    o:
+      - "Oh, heaven, how got she out? Oh, treason of the blood!"
+      - "Fathers, from hence trust not your daughters’ minds"
+      - "By what you see them act. Is there not charms"
+      - "By which the property of youth and maidhood"
+      - "May be abused? Have you not read, Roderigo,"
+      - "Of some such thing?"
+    m:
+      - "Oh, heaven, how did she get out? My own flesh and blood rebels against me! Fathers, never trust your daughters just because they act obedient and innocent. Are there magic spells that can lead young virgins astray? Have you ever heard of anything like that, Roderigo?"
+
+  - sp: RODERIGO
+    o:
+      - "    Yes, sir, I have indeed."
+    m:
+      - "Yes, sir, I have."
+
+  - sp: BRABANTIO
+    o:
+      - "Call up my brother—Oh, would you had had her!"
+      - "Some one way, some another. Do you know"
+      - "Where we may apprehend her and the Moor?"
+    m:
+      - "Call my brother.—Now I wish you’d married her!—Some of you go one way, some the other way.—Do you know where we can find her and the Moor?"
+
+  - sp: RODERIGO
+    o:
+      - "I think I can discover him, if you please"
+      - "To get good guard and go along with me."
+    m:
+      - "I think I can find him. Get together a group of armed men and follow me."
+
+  - sp: BRABANTIO
+    o:
+      - "Pray you lead on. At every house I’ll call."
+      - "I may command at most.—Get weapons, ho!"
+      - "And raise some special officers of might.—"
+      - "On, good Roderigo. I will deserve your pains."
+    m:
+      - "Lead the way. I’ll stop at every house. I’m respected enough that most of them will do what I say.—Get your weapons! And get the officers who guard the city at night.—Let’s go, Roderigo. I’ll reward you for your troubles."
+
+  - os: "Exeunt"
+    ms: "They exit"

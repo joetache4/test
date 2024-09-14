@@ -1,0 +1,244 @@
+play: Henry IV, Part I
+title: Act 5, Scene 1
+group: 5
+order: 14
+text:
+  - os: "Enter the KING, PRINCE HENRY of Wales, Lord John of LANCASTER, Earl of WESTMORELAND, BLUNT, and FALSTAFF"
+    ms: "The KING, PRINCE HENRY of Wales, Lord John of LANCASTER, Earl of WESTMORELAND, Sir Walter BLUNT, and FALSTAFF enter."
+
+  - sp: KING
+    o:
+      - "How bloodily the sun begins to peer"
+      - "Above yon busky hill. The day looks pale"
+      - "At his distemp’rature."
+    m:
+      - "How bloody the sun looks as it peers over that massive hill. The day looks pale—it must be sick to see the sun in such a mood."
+
+  - sp: PRINCE HENRY
+    o:
+      - "  The southern wind"
+      - "Doth play the trumpet to his purposes,"
+      - "And by his hollow whistling in the leaves"
+      - "Foretells a tempest and a blust’ring day."
+    m:
+      - "The southern wind is playing its trumpet, to announce to the world what the sun means. And judging by the whistling leaves, it’s going to be a stormy, windy day."
+
+  - sp: KING
+    o:
+      - "Then with the losers let it sympathize,"
+      - "For nothing can seem foul to those that win."
+    m:
+      - "Then let it take the losers’ side. To winners, nothing seems unpleasant."
+
+  - os: "The trumpet sounds. Enter WORCESTER and VERNON"
+    ms: "A trumpet sounds. WORCESTER and VERNON enter."
+
+  - o:
+      - "How now, my Lord of Worcester? ’Tis not well"
+      - "That you and I should meet upon such terms"
+      - "As now we meet. You have deceived our trust"
+      - "And made us doff our easy robes of peace"
+      - "To crush our old limbs in ungentle steel."
+      - "This is not well, my lord; this is not well."
+      - "What say you to it? Will you again unknit"
+      - "This curlish knot of all-abhorrèd war"
+      - "And move in that obedient orb again"
+      - "Where you did give a fair and natural light,"
+      - "And be no more an exhaled meteor,"
+      - "A prodigy of fear and a portent"
+      - "Of broachèd mischief to the unborn times?"
+    m:
+      - "Hello there, my lord of Worcester! It isn’t right that you and I are meeting under these circumstances. You have betrayed my trust. You forced me to put aside my comfortable peacetime clothing and instead have made me crush my old body into hard, military armor. That isn’t right, sir, that isn’t right. What do you have to say about it? Will you untie this ill-tempered knot of hateful war? Will you return to my loyalty? When you circled me, your King, in your obedient orbit, you shone beautifully and naturally. Now you blaze like a comet: a fearful omen, and a signal that evil will be released into the future."
+
+  - sp: WORCESTER
+    o:
+      - "Hear me, my liege:"
+      - "For mine own part I could be well content"
+      - "To entertain the lag end of my life"
+      - "With quiet hours. For I do protest"
+      - "I have not sought the day of this dislike."
+    m:
+      - "Listen, my lord. For me, I would love nothing more than to spend my old age in peace and quiet. I protest: I did not seek out this day of aggression."
+
+  - sp: KING
+    o:
+      - "You have not sought it. How comes it then?"
+    m:
+      - "You did not seek it? Then how did it come here?"
+
+  - sp: FALSTAFF
+    o:
+      - "Rebellion lay in his way, and he found it."
+    m:
+      - "Rebellion was standing in front of him, and he bumped into it."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Peace, chewet, peace."
+    m:
+      - "Quiet, you chatterer, quiet!"
+
+  - sp: WORCESTER
+    o:
+      - "*(to the KING)* It pleased your Majesty to turn your looks"
+      - "Of favour from myself and all our house;"
+      - "And yet I must remember you, my lord,"
+      - "We were the first and dearest of your friends."
+      - "For you my staff of office did I break"
+      - "In Richard’s time, and posted day and night"
+      - "To meet you on the way, and kiss your hand"
+      - "When yet you were in place and in account"
+      - "Nothing so strong and fortunate as I."
+      - "It was myself, my brother, and his son"
+      - "That brought you home and boldly did outdare"
+      - "The dangers of the time. You swore to us,"
+      - "And you did swear that oath at Doncaster,"
+      - "That you did nothing purpose ’gainst the state,"
+      - "Nor claim no further than your new-fall’n right,"
+      - "The seat of Gaunt, dukedom of Lancaster."
+      - "To this we swore our aid. But in short space"
+      - "It rained down fortune show’ring on your head,"
+      - "And such a flood of greatness fell on you—"
+      - "What with our help, what with the absent King,"
+      - "What with the injuries of a wanton time,"
+      - "The seeming sufferances that you had borne,"
+      - "And the contrarious winds that held the King"
+      - "So long in his unlucky Irish wars"
+      - "That all in England did repute him dead—"
+      - "And from this swarm of fair advantages"
+      - "You took occasion to be quickly wooed"
+      - "To gripe the general sway into your hand,"
+      - "Forget your oath to us at Doncaster;"
+      - "And being fed by us, you used us so"
+      - "As that ungentle gull, the cuckoo’s bird,"
+      - "Useth the sparrow—did oppress our nest,"
+      - "Grew by our feeding to so great a bulk"
+      - "That even our love durst not come near your sight"
+      - "For fear of swallowing; but with nimble wing"
+      - "We were enforced for safety sake to fly"
+      - "Out of sight and raise this present head,"
+      - "Whereby we stand opposèd by such means"
+      - "As you yourself have forged against yourself"
+      - "By unkind usage, dangerous countenance,"
+      - "And violation of all faith and troth"
+      - "Sworn to us in your younger enterprise."
+    m:
+      - "*(to the KING)* Your Highness chose to turn your back on me and my family. I must remind you, sir, that we were your first and dearest friends. For you, I quit my position under Richard, and ran day and night to meet you on the road and kiss your hand. At that time, you were far less powerful than I was. But my brother, his son, and I brought you home and ignored the danger. At Doncaster you swore an oath to us that you were not going to challenge the King; all you wanted was your late father’s estate, the dukedom of Lancaster, and in this we promised to help you. But soon, good luck began to pour on you like rain, and a flood of greatness fell upon you. You had a swarm of advantages: you had our assistance; and the King had been away so long; and the country was suffering under violence; and you seemed to have been so grievously wronged; and difficult winds were keeping Richard so long in those unlucky Irish wars, people thought he was dead. You seized the opportunity, and used the general feeling to your advantage. You forgot the oath you swore to us at Doncaster. We nourished you, but you used us, like the cuckoo bird uses the sparrow: you settled in our nest, ate our food, and as you grew, you crowded us out. We loved you, but we couldn’t even come near you, for fear that you’d swallow us up. For our own safety, we were forced to run away and secretly raise this army. And now we stand with it, armed with powers that you yourself have caused to stand against you. You treated us poorly, you looked at us with anger, and you broke the faith and trust you swore to us when you were younger."
+
+  - sp: KING
+    o:
+      - "These things indeed you have articulate,"
+      - "Proclaimed at market crosses, read in churches,"
+      - "To face the garment of rebellion"
+      - "With some fine color that may please the eye"
+      - "Of fickle changelings and poor discontents,"
+      - "Which gape and rub the elbow at the news"
+      - "Of hurlyburly innovation."
+      - "And never yet did insurrection want"
+      - "Such water colors to impaint his cause,"
+      - "Nor moody beggars starving for a time"
+      - "Of pellmell havoc and confusion."
+    m:
+      - "You’ve said all this already. You’ve announced it in marketplaces, given sermons on it in churches. You’ve tried to make rebellion look pleasant in the eyes of all the fickle turncoats and poor malcontents, who laugh and clap eagerly at the news that a revolution is coming. But rebellion always trades in these kinds of thin excuses, and never lacks angry beggars, desperate for mayhem and chaos."
+
+  - sp: PRINCE HENRY
+    o:
+      - "In both your armies there is many a soul"
+      - "Shall pay full dearly for this encounter"
+      - "If once they join in trial. Tell your nephew,"
+      - "The Prince of Wales doth join with all the world"
+      - "In praise of Henry Percy. By my hopes,"
+      - "This present enterprise set off his head,"
+      - "I do not think a braver gentleman,"
+      - "More active-valiant, or more valiant-young,"
+      - "More daring or more bold, is now alive"
+      - "To grace this latter age with noble deeds."
+      - "For my part, I may speak it to my shame,"
+      - "I have a truant been to chivalry,"
+      - "And so I hear he doth account me too."
+      - "Yet this before my father’s majesty:"
+      - "I am content that he shall take the odds"
+      - "Of his great name and estimation,"
+      - "And will, to save the blood on either side,"
+      - "Try fortune with him in a single fight."
+    m:
+      - "Both our armies are full of men who will make the ultimate sacrifice in this battle, once it starts. Tell your nephew that the Prince of Wales joins the whole world in praising Henry Percy. Except for his current endeavor, I don’t think there’s a man alive who is braver, more heroic, more daring, or more bold. As for me, I’m ashamed to admit that I’ve shirked my responsibilities. I hear that he agrees with me on that point. And yet—and I say this in front of my father—in order to avoid casualties on both sides, I want to challenge him in hand-to-hand combat. And I’m content to admit that, based on his good name and reputation, he’s the favorite to win."
+
+  - sp: KING
+    o:
+      - "And, Prince of Wales, so dare we venture thee,"
+      - "Albeit considerations infinite"
+      - "Do make against it.—No, good Worcester, no,"
+      - "We love our people well, even those we love"
+      - "That are misled upon your cousin’s part."
+      - "And, will they take the offer of our grace,"
+      - "Both he and they and you, yea, every man"
+      - "Shall be my friend again, and I’ll be his."
+      - "So tell your cousin, and bring me word"
+      - "What he will do. But if he will not yield,"
+      - "Rebuke and dread correction wait on us,"
+      - "And they shall do their office. So begone."
+      - "We will not now be troubled with reply."
+      - "We offer fair. Take it advisedly."
+    m:
+      - "Prince of Wales, I’d support that idea, except that there are countless reasons why I shouldn’t. No, Worcester, no. I love my subjects, even those who have mistakenly followed your nephew’s lead. If they accept our pardon, then he, you, and they will all be my friends again, and I’ll be theirs. Tell your nephew this, and bring back his answer. But if he doesn’t surrender, he will be rebuked and harshly punished. So, be gone. I don’t want to hear anymore from you now. I offer a fair deal; I advise you to accept it."
+
+  - os: "Exeunt WORCESTER and VERNON"
+    ms: "WORCESTER and VERNON exit."
+
+  - sp: PRINCE HENRY
+    o:
+      - "It will not be accepted, on my life."
+      - "The Douglas and the Hotspur both together"
+      - "Are confident against the world in arms."
+    m:
+      - "He won’t accept. I’ll bet my life on it. Douglas and Hotspur are convinced that they could take on the whole world together."
+
+  - sp: KING
+    o:
+      - "Hence, therefore, every leader to his charge,"
+      - "For on their answer will we set on them,"
+      - "And God befriend us as our cause is just."
+    m:
+      - "Then everyone get to their battalions. As soon as they respond, we’ll attack. May God be with us. Our cause is just!"
+
+  - os: "Exeunt all but PRINCE HENRY and FALSTAFF"
+    ms: "Everyone exits except PRINCE HENRY and FALSTAFF."
+
+  - sp: FALSTAFF
+    o:
+      - "Hal, if thou see me down in the battle and bestride me, so;"
+      - "’tis a point of friendship."
+    m:
+      - "Hal, if you see me fall in battle, stand over me, like this. It would be an act of friendship."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Nothing but a colossus can do thee that friendship."
+      - "Say thy prayers, and farewell."
+    m:
+      - "Only a giant could do you that friendship. Say your prayers, and farewell."
+
+  - sp: FALSTAFF
+    o:
+      - "I would ’twere bedtime, Hal, and all well."
+    m:
+      - "I wish it were bedtime, Hal, and everything were okay."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, thou owest God a death."
+    m:
+      - "But you owe God a death."
+
+  - os: "Exit PRINCE HENRY"
+    ms: "PRINCE HENRY exits."
+
+  - sp: FALSTAFF
+    o:
+      - "’Tis not due yet. I would be loath to pay Him before His day. What need I be so forward with Him that calls not on me? Well, ’tis no matter. Honour pricks me on. Yea, but how if honor prick me off when I come on? How then? Can honor set to a leg? no. Or an arm? no. Or take away the grief of a wound? No. Honor hath no skill in surgery, then? No. What is honor? A word. What is in that word “honor”? What is that “honor”? Air. A trim reckoning. Who hath it? He that died o’ Wednesday. Doth he feel it? No. Doth he hear it? No. ’Tis insensible, then? Yea, to the dead. But will it not live with the living? No. Why? Detraction will not suffer it. Therefore, I’ll none of it. Honor is a mere scutcheon. And so ends my catechism."
+    m:
+      - "It’s not due yet. I’d hate to pay him before the due date. Why should I be so eager to pay him before he even asks for it? Well, it doesn’t matter: honor spurs me on. Yeah, but what if honor spurs me off once I’m on, and picks me out to die? What happens then? Can honor set a broken leg? No. Or an arm? No. Can it make a wound stop hurting? No. Honor can’t perform surgery, then? No. What is honor? A word. What is in that word, “honor?” What is that “honor?” Air. Quite a bargain! Who has it? A guy who died last Wednesday. Does he feel it? No. Does he hear it? No. It can’t be detected, then? Right—not by the dead, anyway. But won’t it live with the living? No. Why? Slander won’t allow it. That’s why I don’t want any part of it. Honor is nothing more than a gravestone, and that concludes my catechism."
+
+  - os: "Exit"
+    ms: "He exits."

@@ -1,0 +1,114 @@
+play: Much Ado About Nothing
+title: Act 5, Scene 3
+group: 5
+order: 15
+text:
+  - os: "Enter DON PEDRO, CLAUDIO, three or four LORDS with tapers, and musicians"
+    ms: "DON PEDROand CLAUDIO enter with three or four LORDS carrying candles, and musicians."
+
+  - sp: CLAUDIO
+    o:
+      - "Is this the monument of Leonato?"
+    m:
+      - "Is this the family tomb of Leonato?"
+
+  - sp: FIRST LORD
+    o:
+      - "It is, my lord."
+    m:
+      - "It is, my lord."
+
+  - sp: CLAUDIO
+    o:
+      - "*(reading an epitaph)*"
+      - "Done to death by slanderous tongues"
+      - "Was the Hero that here lies."
+      - "Death, in guerdon of her wrongs,"
+      - "Gives her fame which never dies."
+      - "So the life that died with shame"
+      - "Lives in death with glorious fame."
+    m:
+      - "*(reading an epitaph)*"
+      - "Here lies Hero,"
+      - "The heroic maiden killed by slanderous words."
+      - "To repay her for her troubles, Death"
+      - "Gives her undying fame."
+      - "So the life that died with shame"
+      - "Lives on with fame."
+
+  - os: "Hangs the scroll"
+    ms: "(he hangs the scroll)"
+
+  - o:
+      - "Hang thou there upon the tomb,"
+      - "Praising her when I am dumb."
+      - "Now, music, sound, and sing your solemn hymn."
+      - "*(Song)*"
+      - "  *Pardon, goddess of the night*,"
+      - "  *Those that slew thy virgin knight*,"
+      - "  *For the which with songs of woe*"
+      - "  *Round about her tomb they go*."
+      - "  *Midnight, assist our moan*."
+      - "  *Help us to sigh and groan*"
+      - "  *Heavily, heavily*."
+      - "  *Graves, yawn and yield your dead*,"
+      - "  *Till death be utterèd*,"
+      - "  *Heavily, heavily*."
+    m:
+      - "This epitaph will hang here forever,"
+      - "Continuing to praise Hero after I die."
+      - "Now start the music, and sing the solemn hymn."
+      - "*(singing)*"
+      - "  *Please pardon, goddess of the night*,"
+      - "  *The men who killed your* virgin knight."
+      - "  *These men now walk around her tomb*,"
+      - "  *Singing songs of woe*."
+      - "  *Oh, midnight, join our moaning*"
+      - "  *Help us with our sighs and groaning*"
+      - "  *Heavily, heavily*."
+      - "  *Graves, open up and release your corpses*"
+      - "  *Until Hero’s death is fully mourned*"
+      - "  *Heavily, heavily*."
+
+  - sp: CLAUDIO
+    o:
+      - "Now, unto thy bones good night!"
+      - "Yearly will I do this rite."
+    m:
+      - "Now I say good night to your bones, Hero. I will perform this ceremony every year."
+
+  - sp: DON PEDRO
+    o:
+      - "Good morrow, masters. Put your torches out."
+      - "The wolves have preyed, and look, the gentle day,"
+      - "Before the wheels of Phoebus, round about"
+      - "Dapples the drowsy east with spots of grey."
+      - "Thanks to you all, and leave us. Fare you well."
+    m:
+      - "Good morning, gentlemen. Put out your torches. The wolves have finished preying for the night, and look—the gentle dawn is rising, dappling the sleepy eastern sky with spots of light."
+
+  - sp: CLAUDIO
+    o:
+      - "Good morrow, masters. Each his several way."
+    m:
+      - "Good morning, gentlemen. We go our separate ways."
+
+  - os: "Exeunt LORDS and Musicians"
+    ms: "LORDS and musicians exit"
+
+  - sp: DON PEDRO
+    o:
+      - "Come, let us hence, and put on other weeds,"
+      - "And then to Leonato’s we will go."
+    m:
+      - "Come, let’s go and change our clothes. Then we’ll visit Leonato’s."
+
+  - sp: CLAUDIO
+    o:
+      - "And Hymen now with luckier issue speed ’s"
+      - "Than this for whom we rendered up this woe."
+    m:
+      - "And I hope Hymen will give us better luck than Hero got."
+
+  - os: "Exeunt"
+    ms: "They all exit."

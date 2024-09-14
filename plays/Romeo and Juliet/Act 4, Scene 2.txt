@@ -1,0 +1,181 @@
+play: Romeo and Juliet
+title: Act 4, Scene 2
+group: 4
+order: 19
+text:
+  - os: "Enter CAPULET, LADY CAPULET, NURSE, and two or three SERVINGMEN"
+    ms: "CAPULET enters with LADY CAPULET, the NURSE, and two or three SERVINGMEN."
+
+  - sp: CAPULET
+    o:
+      - "*(gives paper to FIRST SERVINGMAN)* So many guests invite as here are writ."
+    m:
+      - "*(giving the FIRST SERVINGMAN a piece of paper)* Invite all the guests on this list."
+
+  - os: "Exit FIRST SERVINGMAN"
+    ms: "The FIRST SERVINGMAN exits."
+
+  - o:
+      - "*(to SECOND SERVINGMAN)* Sirrah, go hire me twenty cunning cooks."
+    m:
+      - "*(to SECOND SERVINGMAN)* Boy, go hire twenty skilled cooks."
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "You shall have none ill, sir, for I’ll try if they can lick their fingers."
+    m:
+      - "You won’t get any bad cooks from me. I’ll test them by making them lick their fingers."
+
+  - sp: CAPULET
+    o:
+      - "How canst thou try them so?"
+    m:
+      - "How can you test them like that?"
+
+  - sp: SECOND SERVINGMAN
+    o:
+      - "Marry, sir, ’tis an ill cook that cannot lick his own fingers. Therefore he that cannot lick his fingers goes not with me."
+    m:
+      - "Easy, sir. It’s a bad cook who can’t lick his own fingers. So the cooks who can’t lick their fingers aren’t hired."
+
+  - sp: CAPULET
+    o:
+      - "Go, be gone."
+      - "We shall be much unfurnished for this time."
+    m:
+      - "Go, get out of here."
+
+  - os: "Exit SECOND SERVINGMAN"
+    ms: "The SECOND SERVINGMAN exits."
+
+  - o:
+      - "What, is my daughter gone to Friar Lawrence?"
+    m:
+      - "We’re unprepared for this wedding celebration. *(to the NURSE)* What, has my daughter gone to see Friar Lawrence?"
+
+  - sp: NURSE
+    o:
+      - "Ay, forsooth."
+    m:
+      - "Yes, that’s true."
+
+  - sp: CAPULET
+    o:
+      - "Well, he may chance to do some good on her."
+      - "A peevish self-willed harlotry it is."
+    m:
+      - "Well, there’s a chance he may do her some good. She’s a stubborn little brat."
+
+  - os: "Enter JULIET"
+    ms: "JULIET enters."
+
+  - sp: NURSE
+    o:
+      - "See where she comes from shrift with merry look."
+    m:
+      - "Look, she’s come home from confession with a happy look on her face."
+
+  - sp: CAPULET
+    o:
+      - "How now, my headstrong? Where have you been gadding?"
+    m:
+      - "So, my headstrong daughter, where have you been?"
+
+  - sp: JULIET
+    o:
+      - "Where I have learned me to repent the sin"
+      - "Of disobedient opposition"
+      - "To you and your behests, and am enjoined"
+      - "By holy Lawrence to fall prostrate here"
+      - "To beg your pardon. *(falls to her knees)*"
+      - "Pardon, I beseech you!"
+      - "Henceforward I am ever ruled by you."
+    m:
+      - "I went somewhere where I learned that being disobedient to my father is a sin. Holy Father Lawrence instructed me to fall on my knees and beg your forgiveness. *(she kneels down)* Forgive me, I beg you. From now on I’ll do whatever you say."
+
+  - sp: CAPULET
+    o:
+      - "Send for the county. Go tell him of this."
+      - "I’ll have this knot knit up tomorrow morning."
+    m:
+      - "Send for the Count. Go tell him about this. I’ll make this wedding happen tomorrow morning."
+
+  - sp: JULIET
+    o:
+      - "I met the youthful lord at Lawrence’ cell,"
+      - "And gave him what becomèd love I might,"
+      - "Not stepping o’er the bounds of modesty."
+    m:
+      - "I met the young man at Lawrence’s cell. I treated him with the proper love, as well as I could, while still being modest."
+
+  - sp: CAPULET
+    o:
+      - "Why, I am glad on ’t. This is well. Stand up."
+    m:
+      - "Well, I’m glad about this. This is good. Stand up."
+
+  - os: "JULIET stands up"
+    ms: "JULIET stands up."
+
+  - o:
+      - "This is as ’t should be.—Let me see the county."
+      - "Ay, marry, go, I say, and fetch him hither.—"
+      - "Now, afore God, this reverend holy friar!"
+      - "Our whole city is much bound to him."
+    m:
+      - "This is the way is should be. I want to see the count. Yes, alright, go, I say, and bring him here. Now, before God, our whole city owes this friar a great debt."
+
+  - sp: JULIET
+    o:
+      - "Nurse, will you go with me into my closet"
+      - "To help me sort such needful ornaments"
+      - "As you think fit to furnish me tomorrow?"
+    m:
+      - "Nurse, will you come with me to my closet and help me pick out the clothes and the jewelry I’ll need to wear tomorrow?"
+
+  - sp: LADY CAPULET
+    o:
+      - "No, not till Thursday. There is time enough."
+    m:
+      - "No, not until Thursday. There’s plenty of time."
+
+  - sp: CAPULET
+    o:
+      - "Go, Nurse. Go with her. We’ll to church tomorrow."
+    m:
+      - "Go, Nurse, go with her. We’ll have the wedding at the church tomorrow."
+
+  - os: "Exeunt JULIET and NURSE"
+    ms: "JULIET and the NURSE exit."
+
+  - sp: LADY CAPULET
+    o:
+      - "We shall be short in our provision."
+      - "’Tis now near night."
+    m:
+      - "Our supplies will be short for the party. It’s already almost night."
+
+  - sp: CAPULET
+    o:
+      - "  Tush, I will stir about,"
+      - "And all things shall be well, I warrant thee, wife."
+      - "Go thou to Juliet, help to deck up her."
+      - "I’ll not to bed tonight. Let me alone."
+      - "I’ll play the housewife for this once."
+    m:
+      - "Don’t worry, I will set things in motion. And everything will be alright, I promise you, wife. You should go to Juliet and dress her up. I’m not going to bed tonight. Leave me alone. I’ll pretend to be the housewife for once."
+
+  - os: "LADY CAPULET exits."
+    ms: "LADY CAPULET exits."
+
+  - o:
+      - "  —What, ho?"
+      - "They are all forth?—Well, I will walk myself"
+      - "To County Paris, to prepare him up"
+      - "Against tomorrow. My heart is wondrous light"
+      - "Since this same wayward girl is so reclaimed."
+    m:
+      - "Hey! What? They’re all gone? Well, I will walk by myself to Count Paris to get him ready for tomorrow. My heart is wonderfully happy because this troubled girl has been taken back and now will be married."
+
+  - os: "Exit"
+    ms: "CAPULET exits."

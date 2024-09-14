@@ -1,0 +1,185 @@
+play: Macbeth
+title: Act 2, Scene 1
+group: 2
+order: 7
+text:
+  - os: "Enter BANQUO, and FLEANCE, with a torch before him"
+    ms: "BANQUO enters with FLEANCE, who lights the way with a torch."
+
+  - sp: BANQUO
+    o:
+      - "How goes the night, boy?"
+    m:
+      - "How’s the night going, boy?"
+
+  - sp: FLEANCE
+    o:
+      - "The moon is down. I have not heard the clock."
+    m:
+      - "The moon has set. The clock hasn’t struck yet."
+
+  - sp: BANQUO
+    o:
+      - "And she goes down at twelve."
+    m:
+      - "The moon sets at twelve, right?"
+
+  - sp: FLEANCE
+    o:
+      - "    I take ’t ’tis later, sir."
+    m:
+      - "I think it’s later than that, sir."
+
+  - sp: BANQUO
+    o:
+      - "Hold, take my sword. There’s husbandry in heaven;"
+      - "Their candles are all out. Take thee that too."
+      - "A heavy summons lies like lead upon me,"
+      - "And yet I would not sleep. Merciful powers,"
+      - "Restrain in me the cursèd thoughts that nature"
+      - "Gives way to in repose."
+    m:
+      - "Here, take my sword. The heavens are being stingy with their light. Take this, too. I’m tired and feeling heavy, but I can’t sleep. Merciful powers, keep away the nightmares that plague me when I rest!"
+
+  - os: "Enter MACBETH and a SERVANT with a torch"
+    ms: "MACBETH enters with a SERVANT, who carries a torch."
+
+  - o:
+      - "    Give me my sword. Who’s there?"
+    m:
+      - "Give me my sword. Who’s there?"
+
+  - sp: MACBETH
+    o:
+      - "A friend."
+    m:
+      - "A friend."
+
+  - sp: BANQUO
+    o:
+      - "What, sir, not yet at rest? The king’s a-bed."
+      - "He hath been in unusual pleasure, and"
+      - "Sent forth great largess to your offices."
+      - "This diamond he greets your wife withal,"
+      - "By the name of most kind hostess, and shut up"
+      - "In measureless content."
+    m:
+      - "You’re not asleep yet, sir? The king’s in bed. He’s been in an unusually good mood and has granted many gifts to your household and servants. This diamond is a present from him to your wife for her boundless hospitality. *(he hands MACBETH a diamond)*"
+
+  - sp: MACBETH
+    o:
+      - "    Being unprepared,"
+      - "Our will became the servant to defect,"
+      - "Which else should free have wrought."
+    m:
+      - "Because we were unprepared for the king’s visit, we weren’t able to entertain him as well as we would have wanted to."
+
+  - sp: BANQUO
+    o:
+      - "    All’s well."
+      - "I dreamt last night of the three weird sisters:"
+      - "To you they have showed some truth."
+    m:
+      - "Everything’s OK. I had a dream last night about the three witches. At least part of what they said about you was true."
+
+  - sp: MACBETH
+    o:
+      - "    I think not of them."
+      - "Yet, when we can entreat an hour to serve,"
+      - "We would spend it in some words upon that business,"
+      - "If you would grant the time."
+    m:
+      - "I don’t think about them now. But when we have an hour to spare we can talk more about it, if you’re willing."
+
+  - sp: BANQUO
+    o:
+      - "    At your kind’st leisure."
+    m:
+      - "Whenever you like."
+
+  - sp: MACBETH
+    o:
+      - "If you shall cleave to my consent, when ’tis,"
+      - "It shall make honor for you."
+    m:
+      - "If you stick with me, when the time comes, there will be something in it for you."
+
+  - sp: BANQUO
+    o:
+      - "    So I lose none"
+      - "In seeking to augment it, but still keep"
+      - "My bosom franchised and allegiance clear,"
+      - "I shall be counselled."
+    m:
+      - "I’ll do whatever you say, as long as I can do it with a clear conscience."
+
+  - sp: MACBETH
+    o:
+      - "Good repose the while!"
+    m:
+      - "Rest easy in the meantime."
+
+  - sp: BANQUO
+    o:
+      - "Thanks, sir: the like to you!"
+    m:
+      - "Thank you, sir. You do the same."
+
+  - os: "Exeunt BANQUO and FLEANCE"
+    ms: "BANQUO and FLEANCE exit."
+
+  - sp: MACBETH
+    o:
+      - "*(to the SERVANT)* Go bid thy mistress, when my drink is ready,"
+      - "She strike upon the bell. Get thee to bed."
+    m:
+      - "*(to the SERVANT)* Go and tell your mistress to strike the bell when my drink is ready. Get yourself to bed."
+
+  - os: "Exit SERVANT"
+    ms: "The SERVANT exits."
+
+  - o:
+      - "Is this a dagger which I see before me,"
+      - "The handle toward my hand? Come, let me clutch thee."
+      - "I have thee not, and yet I see thee still."
+      - "Art thou not, fatal vision, sensible"
+      - "To feeling as to sight? Or art thou but"
+      - "A dagger of the mind, a false creation,"
+      - "Proceeding from the heat-oppressèd brain?"
+      - "I see thee yet, in form as palpable"
+      - "As this which now I draw."
+      - "Thou marshall’st me the way that I was going,"
+      - "And such an instrument I was to use."
+      - "Mine eyes are made the fools o’ th’ other senses,"
+      - "Or else worth all the rest. I see thee still,"
+      - "And on thy blade and dudgeon gouts of blood,"
+      - "Which was not so before. There’s no such thing."
+      - "It is the bloody business which informs"
+      - "Thus to mine eyes. Now o’er the one half-world"
+      - "Nature seems dead, and wicked dreams abuse"
+      - "The curtained sleep. Witchcraft celebrates"
+      - "Pale Hecate’s offerings, and withered murder,"
+      - "Alarumed by his sentinel, the wolf,"
+      - "Whose howl’s his watch, thus with his stealthy pace,"
+      - "With Tarquin’s ravishing strides, towards his design"
+      - "Moves like a ghost. Thou sure and firm-set earth,"
+      - "Hear not my steps, which way they walk, for fear"
+      - "Thy very stones prate of my whereabout,"
+      - "And take the present horror from the time,"
+      - "Which now suits with it. Whiles I threat, he lives."
+      - "Words to the heat of deeds too cold breath gives."
+    m:
+      - "Is this a dagger I see in front of me, with its handle pointing toward my hand? *(to the dagger)* Come, let me hold you. *(he grabs at the air in front of him without touching anything)* I don’t have you but I can still see you. Fateful apparition, isn’t it possible to touch you as well as see you? Or are you nothing more than a dagger created by the mind, a hallucination from my fevered brain? I can still see you, and you look as real as this other dagger that I’m pulling out now.*(he draws a dagger)* You’re leading me toward the place I was going already, and I was planning to use a weapon just like you. My eyesight must either be the one sense that’s not working, or else it’s the only one that’s working right. I can still see you, and I see blood splotches on your blade and handle that weren’t there before. *(to himself)* There’s no dagger here. It’s the murder I’m about to do that’s making me think I see one. Now half the world is asleep and being deceived by evil nightmares. Witches are offering sacrifices to their goddess Hecate. Old man murder, having been roused by the howls of his wolf, walks silently to his destination, moving like Tarquin, as quiet as a ghost. *(speaking to the ground)* Hard ground, don’t listen to the direction of my steps. I don’t want you to echo back where I am and break the terrible stillness of this moment, a silence that is so appropriate for what I’m about to do. While I stay here talking, Duncan lives. The more I talk, the more my courage cools."
+
+  - os: "A bell rings"
+    ms: "A bell rings."
+
+  - o:
+      - "I go, and it is done. The bell invites me."
+      - "Hear it not, Duncan, for it is a knell"
+      - "That summons thee to heaven or to hell."
+    m:
+      - "I’m going now. The murder is as good as done. The bell is telling me to do it. Don’t listen to the bell, Duncan, because it summons you either to heaven or to hell."
+
+  - os: "Exit"
+    ms: "MACBETH exits."

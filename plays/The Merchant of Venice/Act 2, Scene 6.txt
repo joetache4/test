@@ -1,0 +1,212 @@
+play: The Merchant of Venice
+title: Act 2, Scene 6
+group: 2
+order: 8
+text:
+  - os: "Enter the masquers GRATIANO and SALARINO"
+    ms: "RATIANO and SALARINO enter, dressed for the masquerade ball."
+
+  - sp: GRATIANO
+    o:
+      - "This is the penthouse under which Lorenzo"
+      - "Desired us to make stand."
+    m:
+      - "This is the roof under which Lorenzo said to meet him."
+
+  - sp: SALARINO
+    o:
+      - "    His hour is almost past."
+    m:
+      - "He’s late."
+
+  - sp: GRATIANO
+    o:
+      - "And it is marvel he outdwells his hour,"
+      - "For lovers ever run before the clock."
+    m:
+      - "Yes, and that’s surprising, because lovers are usually early."
+
+  - sp: SALARINO
+    o:
+      - "Oh, ten times faster Venus’ pigeons fly"
+      - "To seal love’s bonds new made than they are wont"
+      - "To keep obligèd faith unforfeited."
+    m:
+      - "Yes, for new lovers time passes ten times faster than for couples who’ve been married forever."
+
+  - sp: GRATIANO
+    o:
+      - "That ever holds. Who riseth from a feast"
+      - "With that keen appetite that he sits down?"
+      - "Where is the horse that doth untread again"
+      - "His tedious measures with the unbated fire"
+      - "That he did pace them first? All things that are,"
+      - "Are with more spirit chasèd than enjoyed."
+      - "How like a younger or a prodigal"
+      - "The scarfèd bark puts from her native bay,"
+      - "Hugged and embraèd by the strumpet wind!"
+      - "How like the prodigal doth she return,"
+      - "With overweathered ribs and ragged sails"
+      - "Lean, rent, and beggared by the strumpet wind!"
+    m:
+      - "That’s always true. Who gets up from a meal with the same appetite he had when he sat down? Can any horse retrace his footsteps with the same energy he had when he walked them the first time? We chase everything in life more excitedly than we actually enjoy it when we get it. It’s like when a ship sails out of the harbor with all its flags waving, gently pushed by the wind. When that ship returns, her timber is all weather-beaten and her sails are ragged. That same wind makes the ship thin and poor."
+
+  - sp: SALARINO
+    o:
+      - "Here comes Lorenzo. More of this hereafter."
+    m:
+      - "Here comes Lorenzo. We’ll talk about this later."
+
+  - os: "Enter LORENZO"
+    ms: "LORENZO enters."
+
+  - sp: LORENZO
+    o:
+      - "Sweet friends, your patience for my long abode."
+      - "Not I but my affairs have made you wait."
+      - "When you shall please to play the thieves for wives,"
+      - "I’ll watch as long for you then. Approach."
+      - "Here dwells my father Jew.—Ho! Who’s within?"
+    m:
+      - "My dear friends, thanks for your patience. I had business that made me late. When you have to steal your own wives some day, I’ll wait for you just as long. Come over here. My future father-in-law, the Jew, lives here.—Hey! Who’s in there?"
+
+  - os: "Enter JESSICA above, disguised as a boy"
+    ms: "JESSICA appears above, disguised as a boy."
+
+  - sp: JESSICA
+    o:
+      - "Who are you? Tell me for more certainty,"
+      - "Albeit I’ll swear that I do know your tongue."
+    m:
+      - "Who are you? Tell me so I can be sure, though I swear I recognize your voice."
+
+  - sp: LORENZO
+    o:
+      - "Lorenzo, and thy love."
+    m:
+      - "I’m Lorenzo, your love."
+
+  - sp: JESSICA
+    o:
+      - "Lorenzo certain, and my love indeed—"
+      - "For who love I so much? And now who knows"
+      - "But you, Lorenzo, whether I am yours?"
+    m:
+      - "Lorenzo, that’s for sure, and I’m also sure you’re my love—who else do I love so much? And now who but you knows whether I’m yours?"
+
+  - sp: LORENZO
+    o:
+      - "Heaven and thy thoughts are witness that thou art."
+    m:
+      - "As God is my witness, you know you’re mine."
+
+  - sp: JESSICA
+    o:
+      - "Here, catch this casket. It is worth the pains."
+      - "I am glad ’tis night, you do not look on me,"
+      - "For I am much ashamed of my exchange."
+      - "But love is blind, and lovers cannot see"
+      - "The pretty follies that themselves commit,"
+      - "For if they could Cupid himself would blush"
+      - "To see me thus transformèd to a boy."
+    m:
+      - "Here, catch this box. It’ll be worth your while. I’m glad it’s nighttime and you can’t see me. I’m ashamed of my disguise. But love is blind, and lovers can’t see the silly things they do around each other. If they could, Cupid himself would be embarassed to see me dressed up as a boy."
+
+  - sp: LORENZO
+    o:
+      - "Descend, for you must be my torchbearer."
+    m:
+      - "Come down here. You have to be my torchbearer for the masquerade."
+
+  - sp: JESSICA
+    o:
+      - "What, must I hold a candle to my shames?"
+      - "They in themselves, good sooth, are too too light."
+      - "Why, ’tis an office of discovery, love."
+      - "And I should be obscured."
+    m:
+      - "What, I have to hold a candle up so people can see what I’m doing? The truth is, I’m behaving like a loose woman. The torchbearer is supposed to bring light and love, but I should be hidden away in the dark."
+
+  - sp: LORENZO
+    o:
+      - "    So are you, sweet,"
+      - "Even in the lovely garnish of a boy."
+      - "But come at once,"
+      - "For the close night doth play the runaway,"
+      - "And we are stayed for at Bassanio’s feast."
+    m:
+      - "You’re hidden away, sweetheart, dressed up like a boy. Come on quickly. Time flies at night, and we’re late for Bassanio’s feast."
+
+  - sp: JESSICA
+    o:
+      - "I will make fast the doors and gild myself"
+      - "With some more ducats, and be with you straight."
+    m:
+      - "I’ll lock up the doors, grab some more ducats, and be with you right away."
+
+  - os: "Exit JESSICA above"
+    ms: "JESSICA exits from above."
+
+  - sp: GRATIANO
+    o:
+      - "Now, by my hood, a gentle and no Jew."
+    m:
+      - "My God, she can’t be a Jew, she’s too nice!"
+
+  - sp: LORENZO
+    o:
+      - "Beshrew me but I love her heartily."
+      - "For she is wise, if I can judge of her."
+      - "And fair she is, if that mine eyes be true."
+      - "And true she is, as she hath proved herself."
+      - "And therefore, like herself—wise, fair and true—"
+      - "Shall she be placèd in my constant soul."
+    m:
+      - "God, I’m crazy about her. She’s wise, if I’m judging her right. She’s beautiful, if my eyes can see. And she’s loyal, as she has proven. And as long as she’s herself—wise, beautiful, and faithful—she’ll always have a place in my heart."
+
+  - os: "Enter JESSICA"
+    ms: "JESSICA enters."
+
+  - o:
+      - "What, art thou come?—On, gentlemen, away!"
+      - "Our masquing mates by this time for us stay."
+    m:
+      - "Ah, you’re here?—Come on, gentlemen, let’s go! Our masquerade mates are waiting for us."
+
+  - os: "Exit LORENZO with JESSICA and SALARINO"
+    ms: "LORENZO, JESSICA, and SALARINO exit."
+
+  - os: "Enter ANTONIO"
+    ms: "ANTONIO enters."
+
+  - sp: ANTONIO
+    o:
+      - "Who’s there?"
+    m:
+      - "Who’s there?"
+
+  - sp: GRATIANO
+    o:
+      - "  Signor Antonio?"
+    m:
+      - "Signor Antonio?"
+
+  - sp: ANTONIO
+    o:
+      - "Fie, fie, Gratiano! Where are all the rest?"
+      - "’Tis nine o’clock. Our friends all stay for you."
+      - "No masque tonight. The wind is come about."
+      - "Bassanio presently will go aboard."
+      - "I have sent twenty out to seek for you."
+    m:
+      - "Gratiano, where is everybody? It’s nine o’clock! Our friends are all waiting for you. There’s no masquerade tonight. The wind is blowing right, so Bassanio’s going onboard immediately. I’ve sent twenty people to look for you."
+
+  - sp: GRATIANO
+    o:
+      - "I am glad on ’t. I desire no more delight"
+      - "Than to be under sail and gone tonight."
+    m:
+      - "I’m glad. I want to head out tonight."
+
+  - os: "Exeunt"
+    ms: "They exit."

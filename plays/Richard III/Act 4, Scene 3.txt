@@ -1,0 +1,153 @@
+play: Richard III
+title: Act 4, Scene 3
+group: 4
+order: 17
+text:
+  - os: "Enter TYRREL"
+    ms: "TYRREL enters."
+
+  - sp: TYRREL
+    o:
+      - "The tyrannous and bloody act is done,"
+      - "The most arch deed of piteous massacre"
+      - "That ever yet this land was guilty of."
+      - "Dighton and Forrest, whom I did suborn"
+      - "To do this piece of ruthless butchery,"
+      - "Albeit they were fleshed villains, bloody dogs,"
+      - "Melted with tenderness and mild compassion,"
+      - "Wept like two children in their deaths’ sad story."
+      - "“O thus” quoth Dighton, “lay those gentle babes.”"
+      - "“Thus, thus,” quoth Forrest, “girdling one another"
+      - "Within their alabaster innocent arms."
+      - "Their lips were four red roses on a stalk,"
+      - "And in their summer beauty kissed each other."
+      - "A book of prayers on their pillow lay,"
+      - "Which once,” quoth Forrest, “almost changed my mind,"
+      - "But O, the devil—”There the villain stopped;"
+      - "When Dighton thus told on: “We smotherèd"
+      - "The most replenishèd sweet work of nature"
+      - "That from the prime creation e’er she framed.”"
+      - "Hence both are gone with conscience and remorse;"
+      - "They could not speak; and so I left them both"
+      - "To bear this tidings to the bloody king."
+    m:
+      - "The tyrant’s bloody request has been met. It was the most ruthless massacre this country has ever been guilty of. Dighton and Forrest, whom I hired to perform the butchery, are used to killing people, the bloody dogs. But they melted with tenderness and human compassion, weeping like children, when they described what they’d done. “The tender babes lay like this,” said Dighton. “Like this,” said Forrest, “with their innocent white arms around each other. Their lips, like four red roses on a stalk, touched. A prayer book lay on their pillow, which” said Forrest, “almost made me change my mind. But, oh, the devil”—there he stopped talking and Dighton took up where he left off: “We smothered the perfect, most sweet work of nature.” The two men were both destroyed by remorse. They couldn’t speak. So I left them to bring the news to the murderous king. And here he comes."
+
+  - os: "Enter RICHARD"
+    ms: "RICHARD enters."
+
+  - o:
+      - "And here he comes.—All health, my sovereign lord."
+    m:
+      - "Here he comes.—Health to you, my king."
+
+  - sp: RICHARD
+    o:
+      - "Kind Tyrrel, am I happy in thy news?"
+    m:
+      - "Kind Tyrrel, will your news make me happy?"
+
+  - sp: TYRREL
+    o:
+      - "If to have done the thing you gave in charge"
+      - "Beget your happiness, be happy then,"
+      - "For it is done."
+    m:
+      - "If my doing what you told me to makes you happy, then be happy, because I did it."
+
+  - sp: RICHARD
+    o:
+      - "    But did’st thou see them dead?"
+    m:
+      - "But did you see them dead?"
+
+  - sp: TYRREL
+    o:
+      - "I did, my lord."
+    m:
+      - "I did, my lord."
+
+  - sp: RICHARD
+    o:
+      - "    And buried, gentle Tyrrel?"
+    m:
+      - "And buried, noble Tyrrel?"
+
+  - sp: TYRREL
+    o:
+      - "The chaplain of the Tower hath buried them,"
+      - "But where, to say the truth, I do not know."
+    m:
+      - "The Tower’s chaplain has buried them, but to tell you the truth, I don’t know where."
+
+  - sp: RICHARD
+    o:
+      - "Come to me, Tyrrel, soon at after-supper,"
+      - "When thou shalt tell the process of their death."
+      - "Meantime, but think how I may do thee good,"
+      - "And be inheritor of thy desire."
+      - "Farewell till then."
+    m:
+      - "Tyrrel, come back shortly after dinner and tell me the details of their deaths. In the meantime, think about how I can do you good and give you what you want. See you soon."
+
+  - sp: TYRREL
+    o:
+      - "    I humbly take my leave."
+    m:
+      - "    I humbly say goodbye."
+
+  - os: "Exit TYRREL"
+    ms: "TYRREL exits."
+
+  - sp: RICHARD
+    o:
+      - "The son of Clarence have I pent up close,"
+      - "His daughter meanly have I matched in marriage,"
+      - "The sons of Edward sleep in Abraham’s bosom,"
+      - "And Anne my wife hath bid this world goodnight."
+      - "Now, for I know the Breton Richmond aims"
+      - "At young Elizabeth, my brother’s daughter,"
+      - "And by that knot looks proudly on the crown,"
+      - "To her go I, a jolly thriving wooer."
+    m:
+      - "I’ve locked up Clarence’s son and matched his daughter with a poor fellow. Edward’s sons have been carried off by the angels and Anne, my wife, has bid good night to the world. Now I go, a jolly, thriving wooer, to marry my brother Edward’s young daughter, Elizabeth, because I know Richmond has his eye on her. He wants to win the crown by way of marrying her."
+
+  - os: "Enter RATCLIFFE"
+    ms: "RATCLIFFE enters."
+
+  - sp: RATCLIFFE
+    o:
+      - "My lord!"
+    m:
+      - "My lord!"
+
+  - sp: RICHARD
+    o:
+      - "Good or bad news, that thou com’st in so bluntly?"
+    m:
+      - "Is the news good or bad that you enter without knocking?"
+
+  - sp: RATCLIFFE
+    o:
+      - "Bad news, my lord. Morton is fled to Richmond,"
+      - "And Buckingham, backed with the hardy Welshmen,"
+      - "Is in the field, and still his power increaseth."
+    m:
+      - "Bad news, my lord. The Bishop of Ely has fled to Richmond, and Buckingham, backed by a hardy Welsh army, is on the march. His army is growing."
+
+  - sp: RICHARD
+    o:
+      - "Ely with Richmond troubles me more near"
+      - "Than Buckingham and his rash-levied strength."
+      - "Come, I have learned that fearful commenting"
+      - "Is leaden servitor to dull delay;"
+      - "Delay leads impotent and snail-paced beggary;"
+      - "Then fiery expedition be my wing,"
+      - "Jove’s Mercury, and herald for a king."
+      - "Go, muster men. My counsel is my shield."
+      - "We must be brief when traitors brave the field."
+    m:
+      - "Ely joining Richmond troubles me more than Buckingham and his quickly assembled army. Come, I’ve heard that frightened analysis only serves to delay action, and delay can lead to ruin. So my method is going to be to move as quickly as fire. Come, let’s gather an army. The best strategy is to head right to the battlefield. When traitors challenge us to fight, it’s best to act fast."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,1018 @@
+play: A Midsummer Night’s Dream
+title: Act 5, Scene 1
+group: 5
+order: 8
+text:
+  - os: "Enter THESEUS, HIPPOLYTA, and PHILOSTRATE, with other attendant lords"
+    ms: "THESEUS, HIPPOLYTA, and PHILOSTRATE enter, with a number of lords and servants."
+
+  - sp: HIPPOLYTA
+    o:
+      - "’Tis strange, my Theseus, that these lovers speak of."
+    m:
+      - "These lovers are saying some strange things, Theseus."
+
+  - sp: THESEUS
+    o:
+      - "More strange than true. I never may believe"
+      - "These antique fables nor these fairy toys."
+      - "Lovers and madmen have such seething brains,"
+      - "Such shaping fantasies, that apprehend"
+      - "More than cool reason ever comprehends."
+      - "The lunatic, the lover, and the poet"
+      - "Are of imagination all compact."
+      - "One sees more devils than vast hell can hold—"
+      - "That is the madman. The lover, all as frantic,"
+      - "Sees Helen’s beauty in a brow of Egypt."
+      - "The poet’s eye, in fine frenzy rolling,"
+      - "Doth glance from heaven to Earth, from Earth to heaven."
+      - "And as imagination bodies forth"
+      - "The forms of things unknown, the poet’s pen"
+      - "Turns them to shapes and gives to airy nothing"
+      - "A local habitation and a name."
+      - "Such tricks hath strong imagination,"
+      - "That if it would but apprehend some joy,"
+      - "It comprehends some bringer of that joy."
+      - "Or in the night, imagining some fear,"
+      - "How easy is a bush supposed a bear!"
+    m:
+      - "Yes, strange—and totally made up too. I’ll never believe any of these old legends or fairy tales. Lovers and madmen hallucinate about things that sane people just can’t understand. Lunatics, lovers, and poets all are ruled by their overactive imaginations. some people think they see devils and monsters everywhere—and they’re lunatics. Lovers are just as crazy, and think a dark-skinned gypsy is the most gorgeous woman in the world. Poets are always looking around like they’re having a fit, confusing the mundane with the otherworldly, and describing things in their writing that simply don’t exist. All these people have such strong imaginations that, when they feel happy, they assume a god or some other supernatural being is bringing that happiness to them. Or if they’re afraid of something at night, they look at the shrubbery and imagine it’s a wild bear!"
+
+  - sp: HIPPOLYTA
+    o:
+      - "But all the story of the night told over,"
+      - "And all their minds transfigured so together,"
+      - "More witnesseth than fancy’s images"
+      - "And grows to something of great constancy,"
+      - "But, howsoever, strange and admirable."
+    m:
+      - "But the story that these lovers are telling, and the fact that they all saw and heard exactly the same things, make me think there’s more going on here than imaginary fantasies. Their story is bizarre and astounding, but it’s solid and consistent."
+
+  - os: "Enter lovers: LYSANDER, DEMETRIUS, HELENA, and HERMIA"
+    ms: "The lovers—LYSANDER, DEMETRIUS, HELENA, and HERMIA—enter."
+
+  - sp: THESEUS
+    o:
+      - "Here come the lovers, full of joy and mirth.—"
+      - "Joy, gentle friends! Joy and fresh days of love"
+      - "Accompany your hearts!"
+    m:
+      - "Here come the lovers, laughing happily.—I wish you joy, my friends! I hope the days ahead are full of joy for you."
+
+  - sp: LYSANDER
+    o:
+      - "    More than to us"
+      - "Wait in your royal walks, your board, your bed!"
+    m:
+      - "We wish you even more joy, and hope joy comes to you in your royal walks, at your table, and in your royal bed!"
+
+  - sp: THESEUS
+    o:
+      - "Come now, what masques, what dances shall we have"
+      - "To wear away this long age of three hours"
+      - "Between our after-supper and bedtime?"
+      - "Where is our usual manager of mirth?"
+      - "What revels are in hand? Is there no play,"
+      - "To ease the anguish of a torturing hour?"
+      - "Call Philostrate."
+    m:
+      - "Now, what kind of entertainment do we have to fill up the long three hours between dinner and bedtime? Where is our entertainment director? What performances have been prepared? Aren’t there any plays for us to enjoy while we wait in torture for bedtime to come? Let me see Philostrate."
+
+  - sp: PHILOSTRATE
+    o:
+      - "  Here, mighty Theseus."
+    m:
+      - "Here I am, Theseus."
+
+  - sp: THESEUS
+    o:
+      - "Say, what abridgement have you for this evening?"
+      - "What masque, what music? How shall we beguile"
+      - "The lazy time if not with some delight?"
+    m:
+      - "Tell us what entertainment you’ve prepared for the evening. Which plays, what music? How will we pass the time without some entertainment?"
+
+  - sp: PHILOSTRATE
+    o:
+      - "*(giving THESEUS a document)*"
+      - "There is a brief, how many sports are ripe."
+      - "Make choice of which your highness will see first."
+    m:
+      - "*(giving THESEUS a piece of paper)* Here’s a list of all of the acts that have been prepared. Choose which one you want to see first."
+
+  - sp: THESEUS
+    o:
+      - "*(reads)*"
+      - "“The battle with the Centaurs, to be sung"
+      - "  By an Athenian eunuch to the harp.”"
+      - "We’ll none of that. That have I told my love,"
+      - "In glory of my kinsman Hercules."
+      - "“The riot of the tipsy Bacchanals,"
+      - "  Tearing the Thracian singer in their rage.”"
+      - "That is an old device, and it was played"
+      - "When I from Thebes came last a conqueror."
+      - "“The thrice three Muses mourning for the death"
+      - "  Of learning, late deceased in beggary.”"
+      - "That is some satire, keen and critical,"
+      - "Not sorting with a nuptial ceremony."
+      - "“A tedious brief scene of young Pyramus"
+      - "  And his love Thisbe. Very tragical mirth.”"
+      - "“Merry” and “tragical”? “Tedious” and “brief”?"
+      - "That is hot ice and wondrous strange snow."
+      - "How shall we find the concord of this discord?"
+    m:
+      - "*(reading)* “The battle between Hercules and the Centaurs, to be sung by an Athenian eunuch, accompanied by a harp.” No, we won’t see that. I’ve already told that story to Hippolyta, while praising my cousin Hercules. What else? “The riot of the drunk Bacchanals who rip the singer Orpheus to shreds.” That’s an old show, and I saw it the last time I came back from conquering Thebes. “The nine Muses mourning the death of learning and scholarship.” That’s some sharp, critical satire, and it’s not appropriate for a wedding. “A tedious short drama about young Pyramus and his love Thisbe, a very sad and tragic comedy.” A sad comedy? Short but still tedious? That’s like hot ice and strange snow. How can this drama be so many contradictory things?"
+
+  - sp: PHILOSTRATE
+    o:
+      - "A play there is, my lord, some ten words long,"
+      - "Which is as brief as I have known a play."
+      - "But by ten words, my lord, it is too long,"
+      - "Which makes it tedious. For in all the play"
+      - "There is not one word apt, one player fitted."
+      - "And tragical, my noble lord, it is."
+      - "For Pyramus therein doth kill himself."
+      - "Which, when I saw rehearsed, I must confess,"
+      - "Made mine eyes water—but more merry tears"
+      - "The passion of loud laughter never shed."
+    m:
+      - "It’s a play about ten words long, which is the shortest play I’ve ever heard of. But in my opinion, it’s about ten words too long. That’s why it’s tedious. In the entire play, not one word is well-written, and not one of the actors is right for his part. It’s tragic because Pyramus kills himself. I have to admit that when I saw his suicide during rehearsal, I had tears in my eyes—but they were tears of laughter."
+
+  - sp: THESEUS
+    o:
+      - "What are they that do play it?"
+    m:
+      - "Who are the actors?"
+
+  - sp: PHILOSTRATE
+    o:
+      - "Hard-handed men that work in Athens here,"
+      - "Which never labored in their minds till now,"
+      - "And now have toiled their unbreathed memories"
+      - "With this same play against your nuptial."
+    m:
+      - "Rough workmen from Athens who never spent much time thinking. Now they’ve worn out their out-of-shape brains to put on this play for your wedding."
+
+  - sp: THESEUS
+    o:
+      - "And we will hear it."
+    m:
+      - "So let’s see it."
+
+  - sp: PHILOSTRATE
+    o:
+      - "  No, my noble lord."
+      - "It is not for you. I have heard it over,"
+      - "And it is nothing, nothing in the world—"
+      - "Unless you can find sport in their intents,"
+      - "Extremely stretched and conned with cru ’l pain"
+      - "To do you service."
+    m:
+      - "No, my noble lord. This play isn’t right for you. I’ve seen the whole thing, and it’s completely worthless—unless you think their bad acting and their misremembered lines—which they memorized so painfully—are funny."
+
+  - sp: THESEUS
+    o:
+      - "  I will hear that play."
+      - "For never anything can be amiss"
+      - "When simpleness and duty tender it."
+      - "Go, bring them in.—And take your places, ladies."
+    m:
+      - "I’ll watch this play. Nothing can really be bad when it’s created by simple people who try hard. Come on, bring them in. And sit down, ladies."
+
+  - os: "Exit PHILOSTRATE"
+    ms: "PHILOSTRATE exits."
+
+  - sp: HIPPOLYTA
+    o:
+      - "I love not to see wretchedness o’er charged"
+      - "And duty in his service perishing."
+    m:
+      - "I don’t like seeing poor people overburdened or looking bad when they’re trying to do something good."
+
+  - sp: THESEUS
+    o:
+      - "Why, gentle sweet, you shall see no such thing."
+    m:
+      - "You won’t see anything like that, sweetheart."
+
+  - sp: HIPPOLYTA
+    o:
+      - "He says they can do nothing in this kind."
+    m:
+      - "He just said that they’re no good at acting."
+
+  - sp: THESEUS
+    o:
+      - "The kinder we, to give them thanks for nothing."
+      - "Our sport shall be to take what they mistake."
+      - "And what poor duty cannot do, noble respect"
+      - "Takes it in might, not merit."
+      - "Where I have come, great clerks have purposèd"
+      - "To greet me with premeditated welcomes,"
+      - "Where I have seen them shiver and look pale,"
+      - "Make periods in the midst of sentences,"
+      - "Throttle their practiced accent in their fears,"
+      - "And in conclusion dumbly have broke off,"
+      - "Not paying me a welcome. Trust me, sweet,"
+      - "Out of this silence yet I picked a welcome,"
+      - "And in the modesty of fearful duty"
+      - "I read as much as from the rattling tongue"
+      - "Of saucy and audacious eloquence."
+      - "Love, therefore, and tongue-tied simplicity"
+      - "In least speak most, to my capacity."
+    m:
+      - "Then we’re even kinder people for thanking them for something that they’re not good at. We’ll entertain ourselves by accepting their mistakes. When poor dutiful people can’t do certain things well, generous people can consider the effort they put into it rather than the effect that they produce. In my travels, great scholars have come up to me, meaning to greet me with well-rehearsed welcoming speeches, and I have seen them tremble and turn pale, and pause inappropriately in the middle of their sentences, and botch their well-rehearsed tones of voice because they’re so nervous, and then break off abruptly at the end, without actually welcoming me. Trust me, my sweet, I figured out that they were trying to welcome me even though they were silent, and that message was as clear from someone who was modest and nervously dutiful as it is from someone who is loud and audacious and eloquent. Therefore, love and tongue-tied simplicity can say the most even when they’re saying the least, in my opinion."
+
+  - os: "Enter PHILOSTRATE"
+    ms: "PHILOSTRATE enters."
+
+  - sp: PHILOSTRATE
+    o:
+      - "So please your grace, the Prologue is addressed."
+    m:
+      - "Your grace, the person who is going to deliver the prologue is ready."
+
+  - sp: THESEUS
+    o:
+      - "Let him approach."
+    m:
+      - "Let him come forward."
+
+  - os: "Enter QUINCE as the PROLOGUE"
+    ms: "The PROLOGUE (QUINCE) enters."
+
+  - sp: PROLOGUE
+    o:
+      - "*(delivered by QUINCE)*"
+      - "If we offend, it is with our good will."
+      - "That you should think we come not to offend,"
+      - "But with good will. To show our simple skill,"
+      - "That is the true beginning of our end."
+      - "Consider then we come but in despite."
+      - "We do not come as minding to contest you,"
+      - "Our true intent is. All for your delight"
+      - "We are not here. That you should here repent you,"
+      - "The actors are at hand, and by their show"
+      - "You shall know all that you are like to know."
+    m:
+      - "If we happen to offend you, it’s because we want to. We don’t want you to think we came here to offend you, except that we want to offend you with our good intentions. Our plan to show off our little bit of talent will wind up getting us executed. Please keep in mind we’re only here out of spite. We don’t come here with the intention of making you happy. We’re absolutely not here to delight you. The actors are ready to come out and make you sorry. By watching their show, you’ll find out everything you’re likely to know."
+
+  - sp: THESEUS
+    o:
+      - "This fellow doth not stand upon points."
+    m:
+      - "This guy doesn’t pay much attention to punctuation."
+
+  - sp: LYSANDER
+    o:
+      - "He hath rid his prologue like a rough colt. He knows not the stop. A good moral, my lord: it is not enough to speak, but to speak true."
+    m:
+      - "He rode that prologue like a wild horse. He didn’t know how to stop it. The moral of this story is that it’s not enough to speak; you have to speak grammatically."
+
+  - sp: HIPPOLYTA
+    o:
+      - "Indeed he hath played on his prologue like a child on a recorder—a sound, but not in government."
+    m:
+      - "Yes, he performed his prologue like a child plays a recorder—he can make sounds, but they’re out of control."
+
+  - sp: THESEUS
+    o:
+      - "His speech was like a tangled chain. Nothing impaired, but all disordered. Who is next?"
+    m:
+      - "His speech was like a tangled chain. It went on and on and was a total mess. Who’s next?"
+
+  - os: "Enter BOTTOM as PYRAMUS, and FLUTE as THISBE, and SNOUT as WALL, and STARVELING as MOONSHINE, and SNUG as LION"
+    ms: "BOTTOM enters as PYRAMUS, with FLUTE as THISBE, SNOUT as WALL, STARVELING as MOONSHINE, and SNUG as LION."
+
+  - sp: PROLOGUE
+    o:
+      - "*(delivered by QUINCE)*"
+      - "Gentles, perchance you wonder at this show."
+      - "But wonder on, till truth make all things plain."
+      - "This man is Pyramus, if you would know."
+      - "This beauteous lady Thisbe is certain."
+      - "This man, with lime and roughcast, doth present"
+      - "Wall, that vile wall which did these lovers sunder."
+      - "And through Wall’s chink, poor souls, they are content"
+      - "To whisper. At the which let no man wonder."
+      - "This man, with lanthorn, dog, and bush of thorn,"
+      - "Presenteth Moonshine. For, if you will know,"
+      - "By moonshine did these lovers think no scorn"
+      - "To meet at Ninus’ tomb—there, there to woo."
+      - "This grisly beast, which “Lion” hight by name,"
+      - "The trusty Thisbe, coming first by night,"
+      - "Did scare away, or rather did affright."
+      - "And, as she fled, her mantle she did fall,"
+      - "Which Lion vile with bloody mouth did stain."
+      - "Anon comes Pyramus, sweet youth and tall,"
+      - "And finds his trusty Thisbe’s mantle slain."
+      - "Whereat, with blade, with bloody blameful blade,"
+      - "He bravely broached his boiling bloody breast."
+      - "And Thisbe, tarrying in mulberry shade,"
+      - "His dagger drew, and died. For all the rest,"
+      - "Let Lion, Moonshine, Wall, and lovers twain"
+      - "At large discourse, while here they do remain."
+    m:
+      - "*(delivered by QUINCE)* Ladies and gentlemen, perhaps you are wondering what is going on. Well, keep wondering, until the truth makes everything clear. This man is Pyramus, if you want to know. This beautiful lady is definitely Thisbe. This man with the limestone and cement is portraying Wall, that horrible wall that kept these lovers apart. They are content to whisper through Wall’s little hole, the poor souls, and no one should be surprised. This man, with his lantern, dog, and thornbush, portrays Moonshine, because, if you want to know, the lovers were not ashamed to meet each other by moonshine at Ninus’ tomb in order to carry on their courtship. This grisly beast, which is called “Lion,” scared away, or rather frightened, the faithful Thisbe when she arrived at the meeting place at night. As she ran away from him, she dropped her cloak, which the horrible Lion stained with his bloody mouth. Soon Pyramus comes along, a tall and handsome young man, and finds his faithful Thisbe’s cloak to be dead. At this point, he takes his sword, his bloody blameful blade, and bravely breaks open his boiling bloody breast. And Thisbe, hiding in the shade of the mulberry bushes, took his dagger and killed herself. For the rest of the story, let Lion, Moonshine, Wall, and the two lovers talk more about it, since they’re standing here."
+
+  - sp: THESEUS
+    o:
+      - "I wonder if the lion be to speak."
+    m:
+      - "I wonder if the lion’s going to talk."
+
+  - sp: DEMETRIUS
+    o:
+      - "No wonder, my lord. One lion may when many asses do."
+    m:
+      - "It wouldn’t surprise me, my lord. If these asses can speak, a lion should be able to."
+
+  - os: "Exeunt PROLOGUE, PYRAMUS, THISBE, LION, and MOONSHINE"
+    ms: "PROLOGUE, THISBE, LION, and MOONSHINE exit."
+
+  - sp: WALL
+    o:
+      - "*(played by SNOUT)* In this same interlude it doth befall"
+      - "That I, one Snout by name, present a wall."
+      - "And such a wall, as I would have you think,"
+      - "That had in it a crannied hole, or chink,"
+      - "Through which the lovers, Pyramus and Thisbe,"
+      - "Did whisper often very secretly."
+      - "This loam, this roughcast, and this stone doth show"
+      - "That I am that same wall. The truth is so."
+      - "And this the cranny is, right and sinister,"
+      - "Through which the fearful lovers are to whisper."
+    m:
+      - "*(played by SNOUT)* At this point I, Snout, play a wall. But not just any wall. I want you to understand that I’m pretending to be a kind of wall that has a little hole in it. The lovers Pyramus and Thisbe often whispered very secretly through that hole. This clay, this cement, and this stone that I’m carrying around show that I’m that wall. It’s the truth. And this is the crack, right side and left side *(points with two fingers)*, through which the frightened lovers will be whispering."
+
+  - sp: THESEUS
+    o:
+      - "Would you desire lime and hair to speak better?"
+    m:
+      - "Can you imagine cement and stone talking better?"
+
+  - sp: DEMETRIUS
+    o:
+      - "It is the wittiest partition that ever I heard discourse, my lord."
+    m:
+      - "It’s the smartest partition I’ve ever heard speak, my lord."
+
+  - os: "Enter PYRAMUS"
+    ms: "PYRAMUS enters."
+
+  - sp: THESEUS
+    o:
+      - "Pyramus draws near the wall. Silence!"
+    m:
+      - "Pyramus is coming up to the wall. Be quiet!"
+
+  - sp: PYRAMUS
+    o:
+      - "*(played by BOTTOM)*"
+      - "O grim-looked night! O night with hue so black!"
+      - "O night, which ever art when day is not!"
+      - "O night, O night! Alack, alack, alack,"
+      - "I fear my Thisbe’s promise is forgot!—"
+      - "And thou, O Wall, O sweet, O lovely Wall,"
+      - "That stand’st between her father’s ground and mine."
+      - "Thou Wall, O Wall, O sweet and lovely Wall,"
+      - "Show me thy chink to blink through with mine eyne!"
+    m:
+      - "*(played by BOTTOM)* Oh, grim-looking night! Oh, night that is so black in color! Oh night, which is always there when it is not day! Oh night! Oh night! So sad, sad, sad, I’m afraid my Thisbe has forgotten her promise!—And you, oh Wall, oh sweet, oh lovely Wall, you stand between her father’s property and mine, you Wall, oh Wall, oh sweet and lovely Wall. Show me your hole to stick my eye up against!"
+
+  - os: "WALL holds up fingers as chink"
+    ms: "WALL holds up two fingers"
+
+  - o:
+      - "Thanks, courteous Wall. Jove shield thee well for this!"
+      - "But what see I? No Thisbe do I see."
+      - "O wicked Wall through whom I see no bliss!"
+      - "Cursed be thy stones for thus deceiving me!"
+    m:
+      - "Thank you, you’re such a polite wall. God bless you for doing this. But what’s this I see? I don’t see any Thisbe. Oh wicked wall, through which I don’t see any happiness! Damn your stones for disappointing me like this!"
+
+  - sp: THESEUS
+    o:
+      - "The wall, methinks, being sensible, should curse again."
+    m:
+      - "Since the wall is conscious, it should curse back at him."
+
+  - sp: BOTTOM
+    o:
+      - "*(out of character)* No, in truth, sir, he should not. “Deceiving me” is Thisbe’s cue. She is to enter now and I am to spy her through the wall. You shall see, it will fall pat as I told you. Yonder she comes."
+    m:
+      - "*(out of character)* No, actually, sir, he shouldn’t say anything. It’s not his turn, it’s Thisbe’s. “Disappointing me like this” is Thisbe’s cue. She’s supposed to enter now, and I’ll see her through the wall. You’ll see, it’ll happen exactly like I say. Here she comes."
+
+  - os: "Enter THISBE"
+    ms: "THISBE enters."
+
+  - sp: THISBE
+    o:
+      - "*(played by FLUTE)*"
+      - "O Wall, full often hast thou heard my moans,"
+      - "For parting my fair Pyramus and me!"
+      - "My cherry lips have often kissed thy stones,"
+      - "Thy stones with lime and hair knit up in thee."
+    m:
+      - "*(played by FLUTE)* Oh wall, you’ve often heard me moaning because you keep me separated from my handsome Pyramus! My cherry lips have often kissed your bricks, which are stuck together with cement."
+
+  - sp: PYRAMUS
+    o:
+      - "I see a voice. Now will I to the chink,"
+      - "To spy an I can hear my Thisbe’s face. Thisbe?"
+    m:
+      - "I see a voice! I’ll go to the hole to see if I can hear my Thisbe’s face. Thisbe?"
+
+  - sp: THISBE
+    o:
+      - "My love thou art, my love, I think."
+    m:
+      - "You are my love, my love, I think."
+
+  - sp: PYRAMUS
+    o:
+      - "Think what thou wilt, I am thy lover’s grace."
+      - "And like Limander am I trusty still."
+    m:
+      - "I’m your love, no matter what you think. And I’m still faithful to you, just like the famous Limander."
+
+  - sp: THISBE
+    o:
+      - "And I like Helen, till the Fates me kill."
+    m:
+      - "And I’ll be as faithful to you as Helen of Troy, until the day I die."
+
+  - sp: PYRAMUS
+    o:
+      - "Not Shafalus to Procrus was so true."
+    m:
+      - "Not even Shafalus was as faithful to his lover Procrus as I am to you."
+
+  - sp: THISBE
+    o:
+      - "As Shafalus to Procrus, I to you."
+    m:
+      - "Me too, I’m as faithful as Shafalus to Procrus."
+
+  - sp: PYRAMUS
+    o:
+      - "Oh, kiss me through the hole of this vile wall!"
+    m:
+      - "Oh, kiss me through the hole in this nasty wall."
+
+  - sp: THISBE
+    o:
+      - "I kiss the wall’s hole, not your lips at all."
+    m:
+      - "But I’m only kissing the wall’s hole, not your lips at all."
+
+  - sp: PYRAMUS
+    o:
+      - "Wilt thou at Ninny’s tomb meet me straightway?"
+    m:
+      - "Will you meet me right away at Ninny’s grave?"
+
+  - sp: THISBE
+    o:
+      - "Tide life, tide death, I come without delay."
+    m:
+      - "Neither death nor life will stop me from coming."
+
+  - os: "Exeunt PYRAMUS and THISBE"
+    ms: "PYRAMUS and THISBE exit."
+
+  - sp: WALL
+    o:
+      - "Thus have I, Wall, my part dischargèd so."
+      - "And, being done, thus Wall away doth go."
+    m:
+      - "I, Wall, have done my part. Now that I’m done, Wall can go away."
+
+  - os: "Exit WALL"
+    ms: "WALL exits."
+
+  - sp: THESEUS
+    o:
+      - "Now is the mural down between the two neighbors."
+    m:
+      - "The lovers should’ve waited around a little longer—the wall between them is down now."
+
+  - sp: DEMETRIUS
+    o:
+      - "No remedy, my lord, when walls are so willful to hear without warning."
+    m:
+      - "What can you do? That’s what happens with talking walls."
+
+  - sp: HIPPOLYTA
+    o:
+      - "This is the silliest stuff that ever I heard."
+    m:
+      - "This is the silliest thing I’ve ever seen."
+
+  - sp: THESEUS
+    o:
+      - "The best in this kind are but shadows, and the worst are no worse if imagination amend them."
+    m:
+      - "The best plays are still only illusions, and the worst are just as good, if you just use your imagination to fill them in."
+
+  - sp: HIPPOLYTA
+    o:
+      - "It must be your imagination then, and not theirs."
+    m:
+      - "In that case it’s your imagination that’s interesting, not the play."
+
+  - sp: THESEUS
+    o:
+      - "If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion."
+    m:
+      - "If we imagine these guys as they imagine themselves, then they’re first-class actors. Look, here come two noble animals, a man and a lion."
+
+  - os: "Enter LION and MOONSHINE"
+    ms: "LION and MOONSHINE enter."
+
+  - sp: LION
+    o:
+      - "*(played by SNUG)*"
+      - "You, ladies, you whose gentle hearts do fear"
+      - "The smallest monstrous mouse that creeps on floor,"
+      - "May now perchance both quake and tremble here,"
+      - "When lion rough in wildest rage doth roar."
+      - "Then know that I, as Snug the joiner, am"
+      - "A lion fell, nor else no lion’s dam."
+      - "For if I should as lion come in strife"
+      - "Into this place, ’twere pity on my life."
+    m:
+      - "*(played by SNUG)* You, ladies, whose gentle hearts make you afraid of the smallest monstrous mouse that crawls around on the floor, might quake and tremble now when the wild lion roars in his most violent rage. You should know that I, Snug the carpenter, am not a fierce lion or a lioness, because if I were a lion and I showed up here to cause trouble, I’d be taking my life in my hands."
+
+  - sp: THESEUS
+    o:
+      - "A very gentle beast, of a good conscience."
+    m:
+      - "Ah, it’s a sensitive animal, with a good conscience."
+
+  - sp: DEMETRIUS
+    o:
+      - "A very best at a beast, my lord, that e’er I saw."
+    m:
+      - "He’s the best actor I’ve ever seen play a lion."
+
+  - sp: LYSANDER
+    o:
+      - "This lion is a very fox, for his valor."
+    m:
+      - "He’s as brave as a fox."
+
+  - sp: THESEUS
+    o:
+      - "True. And a goose for his discretion."
+    m:
+      - "True. And as wise as a goose."
+
+  - sp: DEMETRIUS
+    o:
+      - "Not so, my lord. For his valor cannot carry his discretion, and the fox carries the goose."
+    m:
+      - "Oh, that’s not true, my lord. He’s not brave enough to be wise."
+
+  - sp: THESEUS
+    o:
+      - "His discretion, I am sure, cannot carry his valor, for the goose carries not the fox. It is well. Leave it to his discretion, and let us listen to the moon."
+    m:
+      - "He’s not wise enough to be brave. Anyway, he is what he is. Let’s listen to the moon."
+
+  - sp: MOONSHINE
+    o:
+      - "*(played by STARVELING)*"
+      - "This lanthorn doth the hornèd moon present—"
+    m:
+      - "This lantern represents the horned moon—"
+
+  - sp: DEMETRIUS
+    o:
+      - "He should have worn the horns on his head."
+    m:
+      - "He should have worn the horns on his head."
+
+  - sp: THESEUS
+    o:
+      - "He is no crescent, and his horns are invisible within the circumference."
+    m:
+      - "He’s not a crescent moon, so his horns must be invisible inside the circle."
+
+  - sp: MOONSHINE
+    o:
+      - "This lanthorn doth the hornèd moon present."
+      - "Myself the man i’ th’ moon do seem to be—"
+    m:
+      - "This lantern represents the moon. I myself am playing the man in the moon—"
+
+  - sp: THESEUS
+    o:
+      - "This is the greatest error of all the rest. The man should be put into the lanthorn. How is it else the “man i’ th’ moon”?"
+    m:
+      - "Well then, that’s the biggest mistake of all. The man should be inside the lantern. How else is he the “man in the moon”?"
+
+  - sp: DEMETRIUS
+    o:
+      - "He dares not come there for the candle. For you see, it is already in snuff."
+    m:
+      - "He can’t go in there because of the candle. It’s too hot."
+
+  - sp: HIPPOLYTA
+    o:
+      - "I am aweary of this moon. Would he would change!"
+    m:
+      - "I’m tired of this moon. I wish he’d wax or wane off the stage."
+
+  - sp: THESEUS
+    o:
+      - "It appears by his small light of discretion, that he is in the wane. But yet, in courtesy, in all reason, we must stay the time."
+    m:
+      - "It seems like he’s waning, but out of politeness we’ll have to wait and see."
+
+  - sp: LYSANDER
+    o:
+      - "Proceed, Moon."
+    m:
+      - "Go ahead, Moon."
+
+  - sp: MOONSHINE
+    o:
+      - "All that I have to say is to tell you that the lanthorn is the moon; I, the man in the moon; this thornbush, my thornbush; and this dog, my dog."
+    m:
+      - "All I wanted to tell you is that the lantern is the moon, I’m the man in the moon, this thornbush is my thornbush, and this dog is my dog."
+
+  - sp: DEMETRIUS
+    o:
+      - "Why, all these should be in the lanthorn, for all these are in the moon.—But silence! Here comes Thisbe."
+    m:
+      - "Well, all of these should be in the lantern, because they’re all in the moon. But be quiet, here comes Thisbe."
+
+  - os: "Enter THISBE"
+    ms: "THISBE enters."
+
+  - sp: THISBE
+    o:
+      - "This is old Ninny’s tomb. Where is my love?"
+    m:
+      - "This is old Ninny’s tomb. But where is my love?"
+
+  - sp: LION
+    o:
+      - "*(roaring)* Oh!"
+    m:
+      - "*(roaring)* Hey!"
+
+  - os: "THISBE runs off, dropping her mantle"
+    ms: "THISBE runs off, dropping her cloak."
+
+  - sp: DEMETRIUS
+    o:
+      - "Well roared, Lion!"
+    m:
+      - "Good roaring, Lion!"
+
+  - sp: THESEUS
+    o:
+      - "Well run, Thisbe!"
+    m:
+      - "Good running, Thisbe!"
+
+  - sp: HIPPOLYTA
+    o:
+      - "Well shone, Moon!—Truly, the moon shines with a good grace."
+    m:
+      - "Good shining, Moon!—Really, the Moon shines very well."
+
+  - os: "LION bloodies THISBE’s mantle"
+    ms: "LION shakes THISBE’s cloak around and stains it with blood."
+
+  - sp: THESEUS
+    o:
+      - "Well moused, Lion!"
+    m:
+      - "That’s good, Lion! Shake it around like a cat with a mouse."
+
+  - os: "Enter PYRAMUS"
+    ms: "PYRAMUS enters."
+
+  - sp: DEMETRIUS
+    o:
+      - "And then came Pyramus."
+    m:
+      - "And then Pyramus showed up."
+
+  - os: "Exit LION"
+    ms: "LION exits."
+
+  - sp: LYSANDER
+    o:
+      - "And so the lion vanished."
+    m:
+      - "So the lion disappeared."
+
+  - sp: PYRAMUS
+    o:
+      - "Sweet Moon, I thank thee for thy sunny beams."
+      - "I thank thee, Moon, for shining now so bright."
+      - "For by thy gracious, golden, glittering gleams,"
+      - "I trust to take of truest Thisbe sight.—"
+      - "But stay, O spite!"
+      - "But mark, poor knight,"
+      - "What dreadful dole is here!"
+      - "Eyes, do you see?"
+      - "How can it be?"
+      - "O dainty duck! O dear!"
+      - "Thy mantle good,"
+      - "What, stained with blood?"
+      - "Approach, ye Furies fell!"
+      - "O Fates, come, come,"
+      - "Cut thread and thrum."
+      - "Quail, crush, conclude, and quell!"
+    m:
+      - "Sweet Moon, I thank you for your sunny beams. I thank you, Moon, for shining now so bright, because by the light of your gracious, golden, glittering gleams, I hope to be able to see my faithful Thisbe.—But wait. Oh no! But, look, poor me, what a terrible tragedy is here! Eyes, do you see? How can it be? Oh, dainty duck! Oh, dear! Your cloak so good, what, stained with blood? Come, terrible Furies, and punish whoever has hurt her! Oh, Fate, come and cut the thread of my life. Conquer, crush, conclude, and kill!"
+
+  - sp: THESEUS
+    o:
+      - "This passion and the death of a dear friend would go near to make a man look sad."
+    m:
+      - "You could get sad watching this actor’s passionate lament—if one of your good friends happened to die right at the same time."
+
+  - sp: HIPPOLYTA
+    o:
+      - "Beshrew my heart, but I pity the man."
+    m:
+      - "Damned if I don’t feel sorry for him."
+
+  - sp: PYRAMUS
+    o:
+      - "O wherefore, Nature, didst thou lions frame?"
+      - "Since lion vile hath here deflowered my dear,"
+      - "Which is—no, no—which was the fairest dame"
+      - "That lived, that loved, that liked, that looked with cheer."
+      - "Come, tears, confound!"
+      - "Out, sword, and wound!"
+      - "The pap of Pyramus—"
+      - "Ay, that left pap"
+      - "Where heart doth hop. *(stabs himself)*"
+      - "Thus die I, thus, thus, thus."
+      - "Now am I dead."
+      - "Now am I fled."
+      - "My soul is in the sky."
+      - "Tongue, lose thy light."
+      - "Moon, take thy flight."
+    m:
+      - "Oh, Mother Nature, why did you create lions? A mean and awful lion has deflowered my darling, who is—no, no, who was the most beautiful lady who ever lived, or loved, or liked, or looked. Come on, tears, pour over me! Come on out, sword, and wound Pyramus in the chest—yes, right here on the left side where his heart is. *(PYRAMUS stabs himself)* And so I’m dying. Here I go, here I go. Okay, now I’m dead. My soul has fled to the sky. My tongue shall see no more, It’s time for the moon to go away."
+
+  - os: "Exit MOONSHINE"
+    ms: "MOONSHINE exits."
+
+  - o:
+      - "Now die, die, die, die, die."
+      - "*(dies)*"
+    m:
+      - "Now die, die, die, die, die. *(PYRAMUS dies)*"
+
+  - sp: DEMETRIUS
+    o:
+      - "No die, but an ace for him, for he is but one."
+    m:
+      - "Is someone throwing dice? I guess it’s “die,” not dice, since there’s only one of him."
+
+  - sp: LYSANDER
+    o:
+      - "Less than an ace, man. For he is dead. He is nothing."
+    m:
+      - "Actually he’s a die with no dots, since he’s nothing—he’s dead."
+
+  - sp: THESEUS
+    o:
+      - "With the help of a surgeon he might yet recover and prove an ass."
+    m:
+      - "With a doctor’s help he might recover and become an ass again."
+
+  - sp: HIPPOLYTA
+    o:
+      - "How chance Moonshine is gone before Thisbe comes back and finds her lover?"
+    m:
+      - "If Moonshine’s gone before Thisbe comes back, how will she be able to see in the dark to find her lover dead?"
+
+  - sp: THESEUS
+    o:
+      - "She will find him by starlight. Here she comes, and her passion ends the play."
+    m:
+      - "She’ll see him by starlight. Here she comes. Her moaning and groaning will end the play."
+
+  - os: "Enter THISBE"
+    ms: "THISBE enters."
+
+  - sp: HIPPOLYTA
+    o:
+      - "Methinks she should not use a long one for such a Pyramus."
+      - "I hope she will be brief."
+    m:
+      - "I don’t think a ridiculous Pyramus like that one deserves much moaning. I hope she keeps it short."
+
+  - sp: DEMETRIUS
+    o:
+      - "A mote will turn the balance, which Pyramus, which Thisbe, is the better. He for a man, God warrant us, she for a woman, God bless us."
+    m:
+      - "I can’t decide whether Pyramus or Thisbe is better. God help us if he’s a better man. But God help us if she’s a better woman."
+
+  - sp: LYSANDER
+    o:
+      - "She hath spied him already with those sweet eyes."
+    m:
+      - "Look, she’s spotted him with those sweet eyes of hers."
+
+  - sp: DEMETRIUS
+    o:
+      - "And thus she means, videlicet—"
+    m:
+      - "And now she’ll start moaning, of course—"
+
+  - sp: THISBE
+    o:
+      - "Asleep, my love?"
+      - "What, dead, my dove?"
+      - "O Pyramus, arise!"
+      - "Speak, speak. Quite dumb?"
+      - "Dead, dead? A tomb"
+      - "Must cover thy sweet eyes."
+      - "These lily lips,"
+      - "This cherry nose,"
+      - "These yellow cowslip cheeks"
+      - "Are gone, are gone."
+      - "Lovers, make moan."
+      - "His eyes were green as leeks."
+      - "O Sisters three,"
+      - "Come, come to me"
+      - "With hands as pale as milk."
+      - "Lay them in gore,"
+      - "Since you have shore"
+      - "With shears his thread of silk."
+      - "Tongue, not a word."
+      - "Come, trusty sword."
+      - "Come, blade, my breast imbrue.*(stabs herself)*"
+      - "And, farewell, friends."
+      - "Thus Thisbe ends."
+      - "Adieu, adieu, adieu."
+      - "*(dies)*"
+    m:
+      - "Are you asleep, my love? What, are you dead, my dove? Oh, Pyramus, get up! Speak, speak. Can’t you talk? Dead, dead? The dirt of a grave must cover your sweet eyes! Your lily-white lips, your cherry-red nose, and your buttercup-yellow cheeks are gone, gone forever. Lovers, moan and weep. His eyes were as green as leeks. Oh, Fate, come, come to me, with hands as pale as milk. Soak your hands in blood and gore, since you have cut the thread of his life with scissors. Tongue, do not speak. Come, trusty sword. Come, blade, drench my breast with blood. *(she stabs herself)* Goodbye, friends! This is how Thisbe comes to an end. Goodbye, goodbye, goodbye. *(THISBE dies)*"
+
+  - sp: THESEUS
+    o:
+      - "Moonshine and Lion are left to bury the dead."
+    m:
+      - "Moonshine and Lion are left to bury the dead."
+
+  - sp: DEMETRIUS
+    o:
+      - "Ay, and Wall too."
+    m:
+      - "Yes, and Wall too."
+
+  - sp: BOTTOM
+    o:
+      - "*(out of character)* No, assure you. The wall is down that parted their fathers. Will it please you to see the epilogue, or to hear a Bergomask dance between two of our company?"
+    m:
+      - "*(out of character)* No, I assure you. The wall that kept their fathers apart has been taken down. Would you like to see the epilogue or hear a country dance between two of us?"
+
+  - sp: THESEUS
+    o:
+      - "No epilogue, I pray you, for your play needs no excuse. Never excuse—for when the players are all dead, there needs none to be blamed. Marry, if he that writ it had played Pyramus and hanged himself in Thisbe’s garter, it would have been a fine tragedy. And so it is, truly, and very notably discharged. But come, your Bergomask. Let your epilogue alone."
+    m:
+      - "No epilogue, please. Your play doesn’t need to be excused afterward with an epilogue. Never apologize—when the actors are all dead, no one can be blamed. As a matter of fact, if the playwright had played Pyramus and hanged himself with Thisbe’s belt, it would have been a very good tragedy. It’s a good tragedy, very well done. But come on, let’s see you do your dance. Forget your epilogue."
+
+  - os: "Bergomask dance    Exeunt BOTTOM and FLUTE"
+    ms: "The actors dance, and BOTTOM and FLUTE exit."
+
+  - o:
+      - "The iron tongue of midnight hath told twelve."
+      - "Lovers, to bed. ’Tis almost fairy time."
+      - "I fear we shall outsleep the coming morn"
+      - "As much as we this night have overwatched."
+      - "This palpable-gross play hath well beguiled"
+      - "The heavy gait of night. Sweet friends, to bed."
+      - "A fortnight hold we this solemnity,"
+      - "In nightly revels and new jollity."
+    m:
+      - "The clock has chimed midnight. Lovers, it’s time to go to bed. It’s almost fairy time. I’m afraid we’re going to oversleep in the morning as late as we’ve stayed up tonight.This blatantly stupid play helped us kill the time until bed. Dear friends, let’s go to bed. We’ll continue this celebration for two weeks, with nightly parties and new fun."
+
+  - os: "Exeunt"
+    ms: "They all exit."
+
+  - os: "Enter ROBIN"
+    ms: "ROBIN enters."
+
+  - sp: ROBIN
+    o:
+      - "  Now the hungry lion roars"
+      - "  And the wolf behowls the moon,"
+      - "  Whilst the heavy ploughman snores,"
+      - "  All with weary task fordone."
+      - "  Now the wasted brands do glow,"
+      - "  Whilst the screech-owl, screeching loud,"
+      - "  Puts the wretch that lies in woe"
+      - "  In remembrance of a shroud."
+      - "  Now it is the time of night"
+      - "  That the graves all gaping wide,"
+      - "  Every one lets forth his sprite,"
+      - "  In the churchway paths to glide."
+      - "  And we fairies, that do run"
+      - "  By the triple Hecate’s team"
+      - "  From the presence of the sun,"
+      - "  Following darkness like a dream,"
+      - "  Now are frolic. Not a mouse"
+      - "  Shall disturb this hallowed house."
+      - "  I am sent with broom before"
+      - "  To sweep the dust behind the door."
+    m:
+      - "Now the hungry lion roars and the wolf howls at the moon. The farmer snores, exhausted from his work. The charred logs glow in the fireplace, and the owl’s hoot makes the sick man think about his own death. Now is the time of night when graves open wide and release spirits to glide over the graveyard paths. And we fairies, who run away from the sun just like the goddess of the night, following darkness like a dream, are getting antsy. But I’m here to make sure that not even a mouse disturbs this blessed house. I’ve been sent to clean house a bit before the fairies come."
+
+  - os: "Enter OBERON and TITANIA, King and Queen of Fairies, with all their train"
+    ms: "OBERON and TITANIA enter with their servants and followers."
+
+  - sp: OBERON
+    o:
+      - "Through the house give glimmering light,"
+      - "By the dead and drowsy fire."
+      - "Every elf and fairy sprite"
+      - "Hop as light as bird from brier."
+      - "And this ditty, after me,"
+      - "Sing and dance it trippingly."
+    m:
+      - "Let the dying fire shine a glimmering light throughout the house. I want every elf and fairy to hop lightly, like a bird on a twig, and to sing and dance this song along with me."
+
+  - sp: TITANIA
+    o:
+      - "First, rehearse your song by rote,"
+      - "To each word a warbling note."
+      - "Hand in hand with fairy grace"
+      - "Will we sing and bless this place."
+    m:
+      - "First rehearse your song from memory, and make sure each note is pretty. We’ll all join hands and sing, and bless this place with our fairy grace."
+
+  - os: "OBERON, TITANIA, and the FAIRIES sing and dance"
+    ms: "OBERON and TITANIA lead the FAIRIES in song and dance."
+
+  - sp: OBERON
+    o:
+      - "*(sings)*"
+      - "  *Now until the break of day*,"
+      - "  *Through this house each fairy stray*."
+      - "  *To the best bride bed will we*,"
+      - "  *Which by us shall blessèd be*."
+      - "  *And the issue there create*"
+      - "  *Ever shall be fortunate*."
+      - "  *So shall all the couples three*"
+      - "  *Ever true in loving be*."
+      - "  *And the blots of Nature’s hand*"
+      - "  *Shall not in their issue stand*."
+    m:
+      - "*(singing)*"
+      - "*Now, until morning, each fairy should walk through this house. Titania and I will go to the royal marriage bed to bless it, and the children conceived in that bed will always have good luck. Each of the three couples will always be faithful and in love, and their children will have no deformities.*"
+
+  - o:
+      - "  *Never mole, harelip, nor scar*,"
+      - "  *Nor mark prodigious, such as are*"
+      - "  *Despisèd in nativity*,"
+      - "  *Shall upon their children be*."
+      - "  *With this field dew consecrate*,"
+      - "  *Every fairy take his gait*."
+      - "  *And each several chamber bless*"
+      - "  *Through this palace with sweet peace*."
+      - "  *And the owner of it blessed*"
+      - "  *Ever shall in safety rest*."
+      - "  *Trip away. Make no stay*."
+      - "  *Meet me all by break of day*."
+    m:
+      - "*They won’t have moles, or harelips, or scars, or abnormal markings, or anything else that might alarm someone if their baby was born with it. Use this blessed dew from the fields to bless each room in the palace with sweet peace. And the blessed owner will always be safe. Run along. Don’t stay long. Meet me at dawn.*"
+
+  - os: "Exeunt all but ROBIN"
+    ms: "They all exit except for ROBIN."
+
+  - sp: ROBIN
+    o:
+      - "  If we shadows have offended,"
+      - "  Think but this, and all is mended—"
+      - "  That you have but slumbered here"
+      - "  While these visions did appear."
+      - "  And this weak and idle theme,"
+      - "  No more yielding but a dream,"
+      - "  Gentles, do not reprehend."
+      - "  If you pardon, we will mend."
+      - "  And, as I am an honest Puck,"
+      - "  If we have unearnèd luck"
+      - "  Now to ’scape the serpent’s tongue,"
+      - "  We will make amends ere long."
+      - "  Else the Puck a liar call."
+      - "  So good night unto you all."
+      - "  Give me your hands if we be friends,"
+      - "  And Robin shall restore amends."
+    m:
+      - "If we actors have offended you, just think of it this way and everything will be all right—you were asleep when you saw these visions, and this silly and pathetic story was no more real than a dream. Ladies and gentlemen, don’t get upset with me. If you forgive us, we’ll make everything all right. I’m an honest Puck, and I swear that if we’re lucky enough not to get hissed at, we’ll make it up to you soon. If not, then I’m a liar. So good night to everyone. Give me some applause, if we’re friends, and Robin will make everything up to you."
+
+  - os: "Exit"
+    ms: "He exits."

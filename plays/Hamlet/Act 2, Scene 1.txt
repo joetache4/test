@@ -1,0 +1,332 @@
+play: Hamlet
+title: Act 2, Scene 1
+group: 2
+order: 5
+text:
+  - os: "Enter POLONIUS with his man REYNALDO"
+    ms: "POLONIUS enters with his servant REYNALDO."
+
+  - sp: POLONIUS
+    o:
+      - "Give him this money and these notes, Reynaldo."
+    m:
+      - "Give him this money and these letters, Reynaldo."
+
+  - sp: REYNALDO
+    o:
+      - "I will, my lord."
+    m:
+      - "I will, sir."
+
+  - sp: POLONIUS
+    o:
+      - "You shall do marvelous wisely, good Reynaldo,"
+      - "Before you visit him, to make inquire"
+      - "Of his behavior."
+    m:
+      - "It would be wonderfully wise of you, my dear Reynaldo, to ask around about his behavior a little before you visit him."
+
+  - sp: REYNALDO
+    o:
+      - "    My lord, I did intend it."
+    m:
+      - "That’s what I thought too, sir."
+
+  - sp: POLONIUS
+    o:
+      - "Marry, well said, very well said. Look you, sir,"
+      - "Inquire me first what Danskers are in Paris,"
+      - "And how, and who, what means, and where they keep"
+      - "What company at what expense; and finding"
+      - "By this encompassment and drift of question"
+      - "That they do know my son, come you more nearer"
+      - "Than your particular demands will touch it."
+      - "Take you, as ’twere, some distant knowledge of him,"
+      - "As thus: “I know his father and his friends,"
+      - "And, in part, him.” Do you mark this, Reynaldo?"
+    m:
+      - "Excellent, very good. Ask around and find out what Danish people are in Paris—who they are, where they live and how much money they have, who their friends are. And if you find out in this general sort of questioning that they happen to know my son, you’ll find out much more than if you asked specific questions about him. Just tell them you vaguely know Laertes, say something like, “I’m a friend of his father and I sort of know him,” or whatever. Do you get what I’m saying, Reynaldo?"
+
+  - sp: REYNALDO
+    o:
+      - "Ay, very well, my lord."
+    m:
+      - "Yes, very well, sir."
+
+  - sp: POLONIUS
+    o:
+      - "“And in part him, but,” you may say, “not well."
+      - "But, if ’t be he I mean, he’s very wild."
+      - "Addicted so and so.—” And there put on him"
+      - "What forgeries you please. Marry, none so rank"
+      - "As may dishonor him. Take heed of that."
+      - "But, sir, such wanton, wild, and usual slips"
+      - "As are companions noted and most known"
+      - "To youth and liberty."
+    m:
+      - "You should say, “I sort of know him, but not well. Is it the same Laertes who’s a wild party animal? Isn’t he the one who’s always,” and so on. Then just make up whatever you want—of course, nothing so bad that it would shame him. I mean make up any stories that sound like your average young guy, the kind of trouble they get into."
+
+  - sp: REYNALDO
+    o:
+      - "  As gaming, my lord?"
+    m:
+      - "Like gambling, sir?"
+
+  - sp: POLONIUS
+    o:
+      - "Ay, or drinking, fencing, swearing,"
+      - "Quarreling, drabbing—you may go so far."
+    m:
+      - "That’s right, or drinking, swearing, fist-fighting, visiting prostitutes—that kind of thing."
+
+  - sp: REYNALDO
+    o:
+      - "My lord, that would dishonor him!"
+    m:
+      - "But that would ruin his reputation!"
+
+  - sp: POLONIUS
+    o:
+      - "’Faith, no, as you may season it in the charge."
+      - "You must not put another scandal on him"
+      - "That he is open to incontinency."
+      - "That’s not my meaning. But breathe his faults so quaintly"
+      - "That they may seem the taints of liberty,"
+      - "The flash and outbreak of a fiery mind,"
+      - "A savageness in unreclaimèd blood,"
+      - "Of general assault."
+    m:
+      - "Oh no, not if you say it right. I don’t want you to say he’s a sex fiend, that’s not what I mean. Just mention his faults lightly, so they make him seem like a free spirit who’s gone a little too far."
+
+  - sp: REYNALDO
+    o:
+      - "  But, my good lord—"
+    m:
+      - "But, sir—"
+
+  - sp: POLONIUS
+    o:
+      - "Wherefore should you do this?"
+    m:
+      - "Why should you do this, you want to know?"
+
+  - sp: REYNALDO
+    o:
+      - "Ay, my lord. I would know that."
+    m:
+      - "Yes, sir. I’d like to know."
+
+  - sp: POLONIUS
+    o:
+      - "Marry, sir, here’s my drift:"
+      - "(And I believe it is a fetch of wit)"
+      - "You, laying these slight sullies on my son"
+      - "As ’twere a thing a little soiled i’ th’ working—"
+      - "Mark you, your party in converse, him you would sound,"
+      - "Having ever seen in the prenominate crimes"
+      - "The youth you breathe of guilty, be assured"
+      - "He closes with you in this consequence:"
+      - "“Good sir” or so, or “Friend,” or “Gentleman,”"
+      - "According to the phrase or the addition"
+      - "Of man and country."
+    m:
+      - "Well, here’s what I’m thinking. (I’m quite proud of myself for coming up with this.) As you talk with someone and hint about my son’s faults and little sins, you’ll watch his reaction, and if he’s ever seen Laertes do any of these things, it will only be natural for him to agree with you, at which point he’ll call you “sir,” or “my good friend,” depending on who the person is, where he comes from, and so on."
+
+  - sp: REYNALDO
+    o:
+      - "  Very good, my lord."
+    m:
+      - "Yes, sir."
+
+  - sp: POLONIUS
+    o:
+      - "And then, sir, does he this, he does— What was I about to say? By the mass, I was about to say something. Where did I leave?"
+    m:
+      - "And then he’ll … he’ll … wait, what was I about to say? Good God, I was about to say something. What was I saying?"
+
+  - sp: REYNALDO
+    o:
+      - "At “closes in the consequence,” at “friend,"
+      - "Or so” and “gentleman.”"
+    m:
+      - "At, “It will be natural for him to agree with you” he’ll call you “sir,” “friend,” et cetera."
+
+  - sp: POLONIUS
+    o:
+      - "At “closes in the consequence.” Ay, marry."
+      - "He closes thus: “I know the gentleman."
+      - "I saw him yesterday”—or “t’ other day,”"
+      - "Or then, or then, with such or such—“and, as you say,"
+      - "There was he gaming, there o’ertook in’s rouse,"
+      - "There falling out at tennis,” or, perchance,"
+      - "“I saw him enter such a house of sale”—"
+      - "*Videlicet* a brothel, or so forth. See you now,"
+      - "Your bait of falsehood takes this carp of truth."
+      - "And thus do we of wisdom and of reach,"
+      - "With windlasses and with assays of bias,"
+      - "By indirections find directions out."
+      - "So by my former lecture and advice"
+      - "Shall you my son. You have me, have you not?"
+    m:
+      - "“It will be natural for him to agree with you.” Ah, yes, that’s right. If he agrees he’ll say something like this: “Yes, I know the gentleman you’re referring to. I just saw him yesterday,” or “the other day,” or whenever it is, you know, “and there he was gambling,” or “there he was, totally wasted, or fighting with somebody about a tennis match, or going into a house of ill repute”—that means a whorehouse, you know—or whatever. Make sure your little lie brings out the truth. We’re doing this wisely and intelligently, indirectly, finding out things by roundabout means. That’s how you’ll find out what my son is up to in Paris. You get my point, don’t you?"
+
+  - sp: REYNALDO
+    o:
+      - "My lord, I have."
+    m:
+      - "Yes, I do, sir."
+
+  - sp: POLONIUS
+    o:
+      - "  God be wi’ you. Fare you well."
+    m:
+      - "God bless you. Have a safe trip."
+
+  - sp: REYNALDO
+    o:
+      - "Good my lord."
+    m:
+      - "Thank you, sir."
+
+  - sp: POLONIUS
+    o:
+      - "Observe his inclination in yourself."
+    m:
+      - "Don’t forget to see what he’s up to with your own eyes. Don’t trust gossip."
+
+  - sp: REYNALDO
+    o:
+      - "I shall, my lord."
+    m:
+      - "I will, sir."
+
+  - sp: POLONIUS
+    o:
+      - "And let him ply his music."
+    m:
+      - "And I hope he’s studying his music like he’s supposed to."
+
+  - sp: REYNALDO
+    o:
+      - "Well, my lord."
+    m:
+      - "Got it, sir."
+
+  - sp: POLONIUS
+    o:
+      - "Farewell."
+    m:
+      - "Good-bye."
+
+  - os: "Exit REYNALDO"
+    ms: "REYNALDO exits."
+
+  - os: "Enter OPHELIA"
+    ms: "OPHELIA enters."
+
+  - o:
+      - "  How now, Ophelia? What’s the matter?"
+    m:
+      - "Ophelia, what’s the matter?"
+
+  - sp: OPHELIA
+    o:
+      - "O my lord, my lord, I have been so affrighted!"
+    m:
+      - "Oh, father, father, I’ve just had such a scare!"
+
+  - sp: POLONIUS
+    o:
+      - "With what, i’ th’ name of God?"
+    m:
+      - "From what, in God’s name?"
+
+  - sp: OPHELIA
+    o:
+      - "My lord, as I was sewing in my closet,"
+      - "Lord Hamlet, with his doublet all unbraced;"
+      - "No hat upon his head; his stockings fouled,"
+      - "Ungartered, and down-gyvèd to his ankle;"
+      - "Pale as his shirt; his knees knocking each other;"
+      - "And with a look so piteous in purport"
+      - "As if he had been loosèd out of hell"
+      - "To speak of horrors—he comes before me."
+    m:
+      - "Father, I was up in my room sewing when Hamlet came in with no hat on his head, his shirt unbuttoned, and his stockings dirty, undone, and down around his ankles. He was pale as his undershirt, and his knees were knocking together. He looked so out of sorts, as if he’d just come back from hell. He came up to me."
+
+  - sp: POLONIUS
+    o:
+      - "Mad for thy love?"
+    m:
+      - "Is he crazy with love for you?"
+
+  - sp: OPHELIA
+    o:
+      - "  My lord, I do not know."
+      - "But truly, I do fear it."
+    m:
+      - "I’m not sure, but I’m afraid he might be."
+
+  - sp: POLONIUS
+    o:
+      - "  What said he?"
+    m:
+      - "What did he say?"
+
+  - sp: OPHELIA
+    o:
+      - "He took me by the wrist and held me hard."
+      - "Then goes he to the length of all his arm,"
+      - "And, with his other hand thus o’er his brow,"
+      - "He falls to such perusal of my face"
+      - "As he would draw it. Long stayed he so."
+      - "At last, a little shaking of mine arm"
+      - "And thrice his head thus waving up and down,"
+      - "He raised a sigh so piteous and profound"
+      - "As it did seem to shatter all his bulk"
+      - "And end his being. That done, he lets me go,"
+      - "And, with his head over his shoulder turned,"
+      - "He seemed to find his way without his eyes,"
+      - "For out o’ doors he went without their helps,"
+      - "And to the last bended their light on me."
+    m:
+      - "He grabbed me by the wrist and held me hard, then backed away an arm’s length and just looked at me, staring at me like an artist about to paint my picture. He stayed like that a long time. Finally, after shaking my arm a little, and jerking his head up and down three times, he sighed like it was his last breath. After that he let me go. He left the room with his head turned back on me, finding his way out without looking, since his eyes were on me the whole time."
+
+  - sp: POLONIUS
+    o:
+      - "Come, go with me. I will go seek the king."
+      - "This is the very ecstasy of love,"
+      - "Whose violent property fordoes itself"
+      - "And leads the will to desperate undertakings"
+      - "As oft as any passion under heaven"
+      - "That does afflict our natures. I am sorry."
+      - "What, have you given him any hard words of late?"
+    m:
+      - "Come with me. I’ll go tell the king about this. This is definitely love-craziness. Love is such a violent emotion that it makes people self-destruct, as much as any strong emotion. I’m so sorry. Did you tell him anything that might have hurt his feelings lately?"
+
+  - sp: OPHELIA
+    o:
+      - "No, my good lord. But as you did command"
+      - "I did repel his fetters and denied"
+      - "His access to me."
+    m:
+      - "No, father, but I did what you told me to do and sent back his letters and wouldn’t let him visit me."
+
+  - sp: POLONIUS
+    o:
+      - "  That hath made him mad."
+      - "I am sorry that with better heed and judgment"
+      - "I had not quoted him. I feared he did but trifle"
+      - "And meant to wreck thee. But beshrew my jealousy!"
+      - "By heaven, it is as proper to our age"
+      - "To cast beyond ourselves in our opinions"
+      - "As it is common for the younger sort"
+      - "To lack discretion. Come, go we to the king."
+      - "This must be known, which, being kept close, might move"
+      - "More grief to hide than hate to utter love."
+      - "Come."
+    m:
+      - "That’s what made him crazy. I regret not observing him more closely before I told you to do that. I thought he was just toying with you and meant to ruin your reputation. Damn my suspicious thoughts! It’s as common for us old people to assume we know more than we do as for young people to be too wild and crazy. Come on, let’s go see the king. We’ve got to discuss this matter, which could cause more trouble if we keep it secret than if we discuss it openly."
+
+  - os: "Exeunt"
+    ms: "They exit."

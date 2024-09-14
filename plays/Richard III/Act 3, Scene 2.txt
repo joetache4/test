@@ -1,0 +1,400 @@
+play: Richard III
+title: Act 3, Scene 2
+group: 3
+order: 9
+text:
+  - os: "Enter a MESSENGER at door of HASTINGS"
+    ms: "A MESSENGER enters and goes to Hastings’ door."
+
+  - sp: MESSENGER
+    o:
+      - "*(knocking)* My lord, my lord."
+    m:
+      - "*(knocking)* My lord, my lord."
+
+  - sp: HASTINGS
+    o:
+      - "*(within)* Who knocks?"
+    m:
+      - "*(offstage)* Who’s knocking?"
+
+  - sp: MESSENGER
+    o:
+      - "One from the Lord Stanley."
+    m:
+      - "A messenger from Lord Stanley."
+
+  - sp: HASTINGS
+    o:
+      - "*(within)* What is ’t o’clock?"
+    m:
+      - "*(offstage)* What time is it?"
+
+  - sp: MESSENGER
+    o:
+      - "Upon the stroke of four."
+    m:
+      - "Four o’clock in the morning."
+
+  - os: "Enter HASTINGS"
+    ms: "HASTINGS Enter"
+
+  - sp: HASTINGS
+    o:
+      - "Cannot my Lord Stanley sleep these tedious nights?"
+    m:
+      - "Can’t Lord Stanley sleep?"
+
+  - sp: MESSENGER
+    o:
+      - "So it appears by that I have to say."
+      - "First, he commends him to your noble self."
+    m:
+      - "I guess not—for good reason, as you’ll soon hear. First, he sends his regards."
+
+  - sp: HASTINGS
+    o:
+      - "What then?"
+    m:
+      - "And then?"
+
+  - sp: MESSENGER
+    o:
+      - "Then certifies your Lordship that this night"
+      - "He dreamt the boar had razèd his helm"
+      - "Besides, he says there are two councils kept,"
+      - "And that may be determined at the one"
+      - "Which may make you and him to rue at th’ other."
+      - "Therefore he sends to know your Lordship’s pleasure,"
+      - "If you will presently take horse with him"
+      - "And with all speed post with him toward the north"
+      - "To shun the danger that his soul divines."
+    m:
+      - "And then he said to tell you that tonight he dreamed the duke of Gloucester cut off his helmet—that is, his head. Besides that, he says that two meetings are going to be held tomorrow, and something may be decided at one of them that may make you and him, who are at the other, sorry. He wants to know if instead of going to the meeting, you’ll get on your horse and ride north with him to get out of harm’s way."
+
+  - sp: HASTINGS
+    o:
+      - "Go, fellow, go. Return unto thy lord."
+      - "Bid him not fear the separated council."
+      - "His Honor and myself are at the one,"
+      - "And at the other is my good friend Catesby,"
+      - "Where nothing can proceed that toucheth us"
+      - "Whereof I shall not have intelligence."
+      - "Tell him his fears are shallow, without instance."
+      - "And for his dreams, I wonder he’s so simple"
+      - "To trust the mock’ry of unquiet slumbers."
+      - "To fly the boar before the boar pursues"
+      - "Were to incense the boar to follow us"
+      - "And make pursuit where he did mean no chase."
+      - "Go, bid thy master rise and come to me,"
+      - "And we will both together to the Tower,"
+      - "Where he shall see, the boar will use us kindly."
+    m:
+      - "Go, man, return to your lord and tell him not to worry about the separate meetings. While he and I are at one, my loyal servant Catesby will be at the other, so nothing will happen that we won’t find out about. Tell your master there is no sound basis for his worries. And as for his dreams, I’m surprised he’s so foolish as to trust the fantasies of a restless night. If we flee from the boar before the boar even pursues us, we’ll only make the boar angry and suspicious, causing him to chase us when he never intended to. Tell your master to get up and come here, and we’ll go together to the Tower to meet the boar, who will treat us well, as he’ll see."
+
+  - sp: MESSENGER
+    o:
+      - "I’ll go, my lord, and tell him what you say."
+    m:
+      - "I’ll go, my lord, and tell him what you say."
+
+  - os: "Exits."
+    ms: "He exits."
+
+  - os: "Enter CATESBY"
+    ms: "CATESBY enters."
+
+  - sp: CATESBY
+    o:
+      - "Many good morrows to my noble lord."
+    m:
+      - "Good morning, my noble lord."
+
+  - sp: HASTINGS
+    o:
+      - "Good morrow, Catesby. You are early stirring."
+      - "What news, what news in this our tott’ring state?"
+    m:
+      - "Good day, Catesby. You’re up early. What news can you tell me in this fast-moving, unsteady state of ours?"
+
+  - sp: CATESBY
+    o:
+      - "It is a reeling world indeed, my lord,"
+      - "And I believe will never stand upright"
+      - "Till Richard wear the garland of the realm."
+    m:
+      - "Our world sure is spinning fast, my lord. I believe it won’t stop moving and stand upright till Richard wears the wreath of the realm."
+
+  - sp: HASTINGS
+    o:
+      - "How “wear the garland”? Dost thou mean the crown?"
+    m:
+      - "What do you mean, “wears the wreath”? Are you talking about the crown?"
+
+  - sp: CATESBY
+    o:
+      - "Ay, my good lord."
+    m:
+      - "Yes, my good lord."
+
+  - sp: HASTINGS
+    o:
+      - "I’ll have this crown of mine cut from my shoulders"
+      - "Before I’ll see the crown so foul misplaced."
+      - "But canst thou guess that he doth aim at it?"
+    m:
+      - "I’ll have my head cut from my shoulders before I’ll see the crown so misplaced. But do you think that’s what he’s aiming for?"
+
+  - sp: CATESBY
+    o:
+      - "Ay, on my life, and hopes to find you forward"
+      - "Upon his party for the gain thereof;"
+      - "And thereupon he sends you this good news,"
+      - "That this same very day your enemies,"
+      - "The kindred of the queen, must die at Pomfret."
+    m:
+      - "Yes, I swear, and he hopes you’ll join his party to help. For that reason he sends you this good news—that this very day your enemies, the queen’s relatives, will die at Pomfret."
+
+  - sp: HASTINGS
+    o:
+      - "Indeed, I am no mourner for that news,"
+      - "Because they have been still my adversaries."
+      - "But that I’ll give my voice on Richard’s side"
+      - "To bar my master’s heirs in true descent,"
+      - "God knows I will not do it, to the death."
+    m:
+      - "Well, I’m not sorry to hear that, because they have always been my enemies. But the idea that I’d give my support to Richard and keep my master King Edward IV’s true heirs from the crown—never. God knows I’d die before I’d do that."
+
+  - sp: CATESBY
+    o:
+      - "God keep your Lordship in that gracious mind."
+    m:
+      - "Well, let’s hope you stay in that noble frame of mind."
+
+  - sp: HASTINGS
+    o:
+      - "But I shall laugh at this a twelve-month hence,"
+      - "That they which brought me in my master’s hate,"
+      - "I live to look upon their tragedy."
+      - "Well, Catesby, ere a fortnight make me older"
+      - "I’ll send some packing that yet think not on ’t."
+    m:
+      - "In a year, when things have calmed down, I’ll laugh about how those who got King Edward IV to hate me are now brought low. But as for now—before two weeks have gone by, I’m going to send some people packing. They have no idea what’s coming."
+
+  - sp: CATESBY
+    o:
+      - "’Tis a vile thing to die, my gracious lord,"
+      - "When men are unprepared and look not for it."
+    m:
+      - "It’s a horrible thing to die when you’re not prepared for it, my gracious lord."
+
+  - sp: HASTINGS
+    o:
+      - "O monstrous, monstrous! And so falls it out"
+      - "With Rivers, Vaughan, Grey; and so ’twill do"
+      - "With some men else that think themselves as safe"
+      - "As thou and I, who, as thou know’st, are dear"
+      - "To princely Richard and to Buckingham."
+    m:
+      - "Yes, monstrous, monstrous! That’s how it will be for Rivers, Vaughan, and Grey. That’s how it will be for some other men, too, who think they’re as safe as you and I, who are well-loved by noble Richard and Buckingham."
+
+  - sp: CATESBY
+    o:
+      - "The princes both make high account of you— *(aside)* For they account his head upon the Bridge."
+    m:
+      - "Richard and Buckingham have a high opinion of you. *(to himself)* So high they’ll stick your head on the Bridge."
+
+  - sp: HASTINGS
+    o:
+      - "I know they do, and I have well deserved it."
+    m:
+      - "I know they do, and I certainly deserve it."
+
+  - os: "Enter STANLEY"
+    ms: "STANLEY enters."
+
+  - o:
+      - "Come on, come on. Where is your boar-spear, man?"
+      - "Fear you the boar, and go so unprovided?"
+    m:
+      - "Come on, come on, where is your spear for the boar, man? You’re afraid of the boar but you go around without your spear?"
+
+  - sp: STANLEY
+    o:
+      - "My lord, good morrow. —Good morrow, Catesby.—"
+      - "You may jest on, but, by the Holy Rood,"
+      - "I do not like these several councils, I."
+    m:
+      - "My lord, good morning. Good morning, Catesby. Go ahead and laugh at me, but by Jesus, I don’t like these separate meetings—I really don’t."
+
+  - sp: HASTINGS
+    o:
+      - "My lord, I hold my life as dear as you do yours,"
+      - "And never in my days, I do protest,"
+      - "Was it so precious to me as ’tis now."
+      - "Think you but that I know our state secure,"
+      - "I would be so triumphant as I am?"
+    m:
+      - "My lord, my life is as important to me as yours is to you, and it was never as precious to me as it is now. Do you think I would be feeling as triumphant as I am if I didn’t know that our situation was secure?"
+
+  - sp: STANLEY
+    o:
+      - "The lords at Pomfret, when they rode from London,"
+      - "Were jocund and supposed their states were sure,"
+      - "And they indeed had no cause to mistrust;"
+      - "But yet you see how soon the day o’ercast."
+      - "This sudden stab of rancor I misdoubt."
+      - "Pray God, I say, I prove a needless coward!"
+      - "What, shall we toward the Tower? The day is spent."
+    m:
+      - "When the lords who are imprisoned at Pomfret left London, they also were in a good mood and supposed their situation was secure. And they also had no reason to worry. But you see how soon the day got cloudy for them. Richard’s sudden, hateful attack on them makes me worry. I hope to God I’m proven wrong! Well, should we head to the Tower? The day is well on its way."
+
+  - sp: HASTINGS
+    o:
+      - "Come, come. Have with you. Wot you what, my lord?"
+      - "Today the lords you talked of are beheaded."
+    m:
+      - "Come on, let’s get going. You know what, my lord? Those men you just mentioned will be beheaded today."
+
+  - sp: LORD STANLEY
+    o:
+      - "They, for their truth, might better wear their heads"
+      - "Than some that have accused them wear their hats."
+      - "But come, my lord, let’s away."
+    m:
+      - "They deserved to keep their heads more than some people who have managed to keep their positions. But come, my lord, let’s go."
+
+  - os: "Enter a PURSUIVANT"
+    ms: "A PURSUIVANT enters."
+
+  - sp: HASTINGS
+    o:
+      - "Go on before. I’ll talk with this good fellow."
+    m:
+      - "Go on ahead. I’ll talk with this good man."
+
+  - os: "Exeunt STANLEY and CATESBY"
+    ms: "STANLEY and CATESBY exit."
+
+  - o:
+      - "How now, sirrah! How goes the world with thee?"
+    m:
+      - "What’s up, man? How’s it going?"
+
+  - sp: PURSUIVANT
+    o:
+      - "The better that your Lordship please to ask."
+    m:
+      - "Better, since your lordship was nice enough to ask."
+
+  - sp: HASTINGS
+    o:
+      - "I tell thee, man, ’tis better with me now"
+      - "Than when thou met’st me last where now we meet."
+      - "Then was I going prisoner to the TowerBy the suggestion of the queen’s allies."
+      - "But now, I tell thee—keep it to thyself—"
+      - "This day those enemies are put to death,"
+      - "And I in better state than e’er I was."
+    m:
+      - "I tell you, man, it’s better for me, too, than the last time we met here. Then I was on my way to the Tower, where I was going to be locked up thanks to the false charges of the queen’s allies. But now, I tell you—keep it to yourself, though—those enemies of mine are being put to death today, and I’m better than I’ve ever been."
+
+  - sp: PURSUIVANT
+    o:
+      - "God hold it, to your Honor’s good content!"
+    m:
+      - "Well, let’s hope your good fortune continues!"
+
+  - sp: HASTINGS
+    o:
+      - "Gramercy, fellow. There, drink that for me."
+    m:
+      - "Thanks a lot, mister. Here, drink to me."
+
+  - os: "Throws him his purse"
+    ms: "He throws the PURSUIVANT some money."
+
+  - sp: PURSUIVANT
+    o:
+      - "I thank your Honor."
+    m:
+      - "God be good to you!"
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - os: "Enter a PRIEST"
+    ms: "A PRIEST enters."
+
+  - sp: PRIEST
+    o:
+      - "Well met, my lord. I am glad to see your Honor."
+    m:
+      - "A nice coincidence, my lord. I’m glad to see you."
+
+  - sp: HASTINGS
+    o:
+      - "I thank thee, good Sir John, with all my heart."
+      - "I am in your debt for your last exercise."
+      - "Come the next sabbath, and I will content you."
+    m:
+      - "I thank you, Sir John, with all my heart. I am indebted to you for your last sermon. By next week, I’ll be able to pay you."
+
+  - sp: PRIEST
+    o:
+      - "I’ll wait upon your Lordship"
+    m:
+      - "I’ll come to you, your Lordship."
+
+  - os: "HASTINGS whispers in his ear."
+    ms: "HASTINGS whispers in his ear."
+
+  - os: "Exit PRIEST"
+    ms: "The PRIEST exits."
+
+  - os: "Enter BUCKINGHAM"
+    ms: "BUCKINGHAM enters."
+
+  - sp: BUCKINGHAM
+    o:
+      - "What, talking with a priest, Lord Chamberlain?"
+      - "Your friends at Pomfret, they do need the priest;"
+      - "Your Honor hath no shriving work in hand."
+    m:
+      - "What, talking with a priest, Hastings? Your friends at Pomfret, they’re the ones who need a priest. You, on the other hand, don’t have any confessions you have to make."
+
+  - sp: HASTINGS
+    o:
+      - "Good faith, and when I met this holy man,"
+      - "The men you talk of came into my mind."
+      - "What, go you toward the Tower?"
+    m:
+      - "When I ran into this holy man, those men you mentioned did come to mind, in fact. Are you headed to the Tower?"
+
+  - sp: BUCKINGHAM
+    o:
+      - "I do, my lord, but long I shall not stay there."
+      - "I shall return before your Lordship thence."
+    m:
+      - "I am, my lord. But I won’t be there for long. I’ll be off before you are."
+
+  - sp: HASTINGS
+    o:
+      - "Nay, like enough, for I stay dinner there."
+    m:
+      - "Yes, probably, because I’m staying for lunch."
+
+  - sp: BUCKINGHAM
+    o:
+      - "*(aside)* And supper too, although thou know’st it not.—"
+      - "Come, will you go?"
+    m:
+      - "*(to himself)* And for dinner, too, though you don’t know it. *(to HASTINGS)* Come, are you going?"
+
+  - sp: HASTINGS
+    o:
+      - "    I’ll wait upon your Lordship."
+    m:
+      - "I’ll follow you, my lord."
+
+  - os: "Exeunt"
+    ms: "They exit."

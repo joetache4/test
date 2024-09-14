@@ -1,0 +1,422 @@
+play: Much Ado About Nothing
+title: Act 3, Scene 2
+group: 3
+order: 7
+text:
+  - os: "Enter DON PEDRO, CLAUDIO, BENEDICK, and LEONATO"
+    ms: "DON PEDRO, CLAUDIO,BENEDICK, and LEONATO enter."
+
+  - sp: DON PEDRO
+    o:
+      - "I do but stay till your marriage be consummate, and then go"
+      - "I toward Aragon."
+    m:
+      - "I’ll stay in Messina until you’re married, and then I’ll go to Aragon."
+
+  - sp: CLAUDIO
+    o:
+      - "I’ll bring you thither, my lord, if you’ll vouchsafe me."
+    m:
+      - "I’ll go with you, my lord, if you’ll allow me."
+
+  - sp: DON PEDRO
+    o:
+      - "Nay, that would be as great a soil in the new gloss of your"
+      - "marriage as to show a child his new coat and forbid him to"
+      - "wear it. I will only be bold with Benedick for his company,"
+      - "for from the crown of his head to the sole of his foot he is all"
+      - "mirth. He hath twice or thrice cut Cupid’s bow-string, and"
+      - "the little hangman dare not shoot at him. He hath a heart as"
+      - "sound as a bell, and his tongue is the clapper, for what his"
+      - "heart thinks, his tongue speaks."
+    m:
+      - "No, taking you away from your new marriage would be like showing a child a new coat and then not letting him wear it. I’ll ask only Benedick to come with me, for from the top of his head to the soles of his feet he’s a joker. He’s evaded love once or twice, and since then Cupid doesn’t dare to shoot at him. Benedick’s heart is like a bell, with his tongue as the clapper: everything his heart thinks, his tongue speaks."
+
+  - sp: BENEDICK
+    o:
+      - "Gallants, I am not as I have been."
+    m:
+      - "Gentleman, I am not the same man I was before."
+
+  - sp: LEONATO
+    o:
+      - "So say I. Methinks you are sadder."
+    m:
+      - "I agree. I think you seem more serious."
+
+  - sp: CLAUDIO
+    o:
+      - "I hope he be in love."
+    m:
+      - "I hope he’s in love."
+
+  - sp: DON PEDRO
+    o:
+      - "Hang him, truant! There’s no true drop of blood in him to"
+      - "be truly touched with love. If he be sad, he wants money."
+    m:
+      - "Come off it, man! There isn’t a single drop of sincerity in him that could be touched with love. If he looks serious, he must need money."
+
+  - sp: BENEDICK
+    o:
+      - "I have the toothache."
+    m:
+      - "I have a toothache."
+
+  - sp: DON PEDRO
+    o:
+      - "Draw it."
+    m:
+      - "Draw it."
+
+  - sp: BENEDICK
+    o:
+      - "Hang it!"
+    m:
+      - "Hang it!"
+
+  - sp: CLAUDIO
+    o:
+      - "You must hang it first, and draw it afterwards."
+    m:
+      - "You have to hang it first. Then you can draw it."
+
+  - sp: DON PEDRO
+    o:
+      - "What, sigh for the toothache?"
+    m:
+      - "What, are you moaning on about your toothache?"
+
+  - sp: LEONATO
+    o:
+      - "Where is but a humor or a worm."
+    m:
+      - "It could only have been caused by some humor or worm."
+
+  - sp: BENEDICK
+    o:
+      - "Well, everyone can master a grief but he that has it."
+    m:
+      - "Well, everyone knows how to overcome an injury except the one who actually has one."
+
+  - sp: CLAUDIO
+    o:
+      - "Yet say I, he is in love."
+    m:
+      - "I repeat, he’s in love."
+
+  - sp: DON PEDRO
+    o:
+      - "There is no appearance of fancy in him, unless it be a fancy"
+      - "that he hath to strange disguises, as to be a Dutchman"
+      - "today, a Frenchman tomorrow, or in the shape of two"
+      - "countries at once, as a German from the waist downward,"
+      - "all slops, and a Spaniard from the hip upward, no doublet."
+      - "Unless he have a fancy to this foolery, as it appears he hath,"
+      - "he is no fool for fancy, as you would have it appear he is."
+    m:
+      - "No, there’s no love in him, unless you mean his love for strange costumes. He’s a Dutchman today, a Frenchman tomorrow, and sometimes wears the clothing of two countries at once: a German from the waist down, with his baggy pants, and a Spaniard from the hips up, with a cloak and no jacket. Unless you’re talking about his love for this kind of foolishness—which, judging from his appearance, he has—he is no fool for love, as you pretend."
+
+  - sp: CLAUDIO
+    o:
+      - "If he be not in love with some woman, there is no believing"
+      - "old signs. He brushes his hat o’ mornings. What should"
+      - "that bode?"
+    m:
+      - "If he’s not in love with a woman, then you can’t trust the usual symptoms. He brushes his hat in the mornings. What do you think that means?"
+
+  - sp: DON PEDRO
+    o:
+      - "Hath any man seen him at the barber’s?"
+    m:
+      - "Has any man seen him at the barber’s?"
+
+  - sp: CLAUDIO
+    o:
+      - "No, but the barber’s man hath been seen with him, and the"
+      - "old ornament of his cheek hath already stuffed tennis balls."
+    m:
+      - "No, but the barber’s assistant has been seen with him. The beard that used to decorate Benedick’s cheeks has been shaved off and is now stuffing tennis balls."
+
+  - sp: LEONATO
+    o:
+      - "Indeed, he looks younger than he did, by the loss of a beard."
+    m:
+      - "Getting rid of the beard definitely makes him look younger."
+
+  - sp: DON PEDRO
+    o:
+      - "Nay, he rubs himself with civet. Can you smell him out by"
+      - "that?"
+    m:
+      - "And he’s rubbed himself with perfume. Can you smell out his secret now?"
+
+  - sp: CLAUDIO
+    o:
+      - "That’s as much as to say, the sweet youth’s in love."
+    m:
+      - "That’s as good as proof that the sweet young man’s in love."
+
+  - sp: DON PEDRO
+    o:
+      - "The greatest note of it is his melancholy."
+    m:
+      - "The biggest clue is his seriousness."
+
+  - sp: CLAUDIO
+    o:
+      - "And when was he wont to wash his face?"
+    m:
+      - "And when has he ever been known to wash his face?"
+
+  - sp: DON PEDRO
+    o:
+      - "Yea, or to paint himself? For the which I hear what they say"
+      - "of him."
+    m:
+      - "Yes, or to wear cosmetics? I hear what they say about him for doing that."
+
+  - sp: CLAUDIO
+    o:
+      - "Nay, but his jesting spirit, which is now crept into a lute"
+      - "string and now governed by stops—"
+    m:
+      - "Indeed, his mocking spirit has now crawled into a lute, and he can be played like an instrument—"
+
+  - sp: DON PEDRO
+    o:
+      - "Indeed, that tells a heavy tale for him. Conclude, conclude,"
+      - "he is in love."
+    m:
+      - "Truly, it all adds up to a serious story for Benedick. A conclusion, a conclusion: he is in love."
+
+  - sp: CLAUDIO
+    o:
+      - "Nay, but I know who loves him."
+    m:
+      - "Oh, and I know who loves him."
+
+  - sp: DON PEDRO
+    o:
+      - "That would I know too. I warrant, one that knows him not."
+    m:
+      - "I bet I know, too: someone who clearly doesn’t know him at all."
+
+  - sp: CLAUDIO
+    o:
+      - "Yes, and his ill conditions, and, in despite of all, dies for"
+      - "him."
+    m:
+      - "No, she does know him, and she also knows all his bad qualities—and in spite of all this, she still dies for him."
+
+  - sp: DON PEDRO
+    o:
+      - "She shall be buried with her face upwards."
+    m:
+      - "She’ll be buried with her face upwards, then."
+
+  - sp: BENEDICK
+    o:
+      - "Yet is this no charm for the toothache.—Old Signior, walk"
+      - "aside with me. I have studied eight or nine wise words to"
+      - "speak to you, which these hobbyhorses must not hear."
+    m:
+      - "This chatter is no cure for my toothache. *(to LEONATO)* Old sir, please walk with me a bit. I have eight or nine well-considered words to say to you, and I don’t want these fools to hear."
+
+  - os: "Exeunt BENEDICK andLEONATO"
+    ms: "BENEDICK and LEONATO exit."
+
+  - sp: DON PEDRO
+    o:
+      - "For my life, to break with him about Beatrice!"
+    m:
+      - "I bet my life he’s gone to speak with Leonato about Beatrice!"
+
+  - sp: CLAUDIO
+    o:
+      - "’Tis even so. Hero and Margaret have by this played their"
+      - "parts with Beatrice, and then the two bears will not bite one"
+      - "another when they meet."
+    m:
+      - "It must be. By now, Hero and Margaret have done their part with Beatrice. The two bears won’t bite each other the next time they meet."
+
+  - os: "Enter DON JOHN"
+    ms: "DON JOHN enters."
+
+  - sp: DON JOHN
+    o:
+      - "My lord and brother, God save you."
+    m:
+      - "My lord and brother, God save you."
+
+  - sp: DON PEDRO
+    o:
+      - "Good e’en, brother."
+    m:
+      - "Good evening, brother."
+
+  - sp: DON JOHN
+    o:
+      - "If your leisure served, I would speak with you."
+    m:
+      - "If you don’t mind, I’d like to speak with you."
+
+  - sp: DON PEDRO
+    o:
+      - "In private?"
+    m:
+      - "In private?"
+
+  - sp: DON JOHN
+    o:
+      - "If it please you. Yet Count Claudio may hear, for what I"
+      - "would speak of concerns him."
+    m:
+      - "If you wish. But Count Claudio can stay, for what I’m about to say concerns him."
+
+  - sp: DON PEDRO
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: DON JOHN
+    o:
+      - "*(to CLAUDIO)* Means your lordship to be married tomorrow?"
+    m:
+      - "*(to CLAUDIO)* Do you plan on getting married tomorrow?"
+
+  - sp: DON PEDRO
+    o:
+      - "You know he does."
+    m:
+      - "You know that he does."
+
+  - sp: DON JOHN
+    o:
+      - "I know not that, when he knows what I know."
+    m:
+      - "I don’t know that, once he knows what I know."
+
+  - sp: CLAUDIO
+    o:
+      - "If there be any impediment, I pray you discover it."
+    m:
+      - "If there’s any reason we shouldn’t get married, I urge you to tell me."
+
+  - sp: DON JOHN
+    o:
+      - "You may think I love you not. Let that appear hereafter, and"
+      - "aim better at me by that I now will manifest. For my"
+      - "brother, I think he holds you well, and in dearness of heart"
+      - "hath holp to effect your ensuing marriage—surely suit ill"
+      - "spent and labor ill bestowed."
+    m:
+      - "You may think that I don’t love you. I hope that, after I tell you my news, you will think better of me. My brother thinks highly of you, and because of his affection, has helped arrange your marriage—but that was definitely a waste of his time and energy."
+
+  - sp: DON PEDRO
+    o:
+      - "Why, what’s the matter?"
+    m:
+      - "Why, what’s the matter?"
+
+  - sp: DON JOHN
+    o:
+      - "I came hither to tell you; and, circumstances shortened, for"
+      - "she has been too long a-talking of, the lady is disloyal."
+    m:
+      - "I came here to tell you—I’ll make this short, since she’s already been talked about for too long—the lady is unfaithful."
+
+  - sp: CLAUDIO
+    o:
+      - "Who, Hero?"
+    m:
+      - "Who, Hero?"
+
+  - sp: DON JOHN
+    o:
+      - "Even she: Leonato’s Hero, your Hero, every man’s Hero."
+    m:
+      - "That’s the one: Leonato’s Hero, your Hero, every man’s Hero."
+
+  - sp: CLAUDIO
+    o:
+      - "Disloyal?"
+    m:
+      - "Unfaithful?"
+
+  - sp: DON JOHN
+    o:
+      - "The word is too good to paint out her wickedness. I could"
+      - "say she were worse. Think you of a worse title, and I will fit"
+      - "her to it. Wonder not till further warrant. Go but with me"
+      - "tonight, you shall see her chamber window entered, even"
+      - "the night before her wedding day. If you love her then,"
+      - "tomorrow wed her. But it would better fit your honor to"
+      - "change your mind."
+    m:
+      - "The word is too good to represent her wickedness. She is worse than wicked. If you can think of a more awful title, I’ll call her that. But don’t keep wondering without more proof. Come with me tonight, and you’ll see a man enter her bedroom chamber—even tonight, the night before her wedding. If you still love her after that, then marry her tomorrow. But you would be more honorable if you changed your mind."
+
+  - sp: CLAUDIO
+    o:
+      - "*(to DON PEDRO)* May this be so?"
+    m:
+      - "*(to DON PEDRO)* Is this possible?"
+
+  - sp: DON PEDRO
+    o:
+      - "I will not think it."
+    m:
+      - "I won’t consider it."
+
+  - sp: DON JOHN
+    o:
+      - "If you dare not trust that you see, confess not that you know."
+      - "If you will follow me, I will show you enough, and when"
+      - "you have seen more and heard more, proceed accordingly."
+    m:
+      - "If you won’t risk coming to see her tonight, then don’t claim to know what she’s like. If you follow me, I’ll give you all the proof you need. Once you have seen more and heard more, then you can decide what to do."
+
+  - sp: CLAUDIO
+    o:
+      - "If I see anything tonight why I should not marry her,"
+      - "tomorrow in the congregation, where I should wed, there"
+      - "will I shame her."
+    m:
+      - "If I see anything tonight that convinces me not to marry her, I’ll shame her tomorrow in the very congregation where I would have married her."
+
+  - sp: DON PEDRO
+    o:
+      - "And as I wooed for thee to obtain her, I will join with thee"
+      - "to disgrace her."
+    m:
+      - "And since I wooed her in your name, I’ll join you in disgracing her."
+
+  - sp: DON JOHN
+    o:
+      - "I will disparage her no farther till you are my witnesses."
+      - "Bear it coldly but till midnight and let the issue show itself."
+    m:
+      - "I won’t say anything else about her until you two see things for yourselves. Remain calm until midnight, and then you’ll see what the trouble is."
+
+  - sp: DON PEDRO
+    o:
+      - "O day untowardly turned!"
+    m:
+      - "Oh, this day has turned into a disaster!"
+
+  - sp: CLAUDIO
+    o:
+      - "O mischief strangely thwarting!"
+    m:
+      - "Oh, mischief has ruined our plans!"
+
+  - sp: DON JOHN
+    o:
+      - "O plague right well prevented! So will you say when you"
+      - "have seen the sequel."
+    m:
+      - "Oh, a plague has been prevented, thank God! That’s what you’ll say once you’ve seen part two."
+
+  - os: "Exeunt"
+    ms: "They all exit."

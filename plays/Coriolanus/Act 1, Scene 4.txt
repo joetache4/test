@@ -1,0 +1,273 @@
+play: Coriolanus
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "Before Corioli."
+    ms: "Outside the gates of Corioles."
+
+  - os: "Enter, with drum and colours, MARTIUS, TITUS LARTIUS, Captains and Soldiers. To them a Messenger"
+    ms: "MARTIUS, TITUS LARTIUS, captains and soldiers enter, with a drummer and trumpeter. A Messenger comes toward them."
+
+  - sp: MARTIUS
+    o:
+      - "Yonder comes news. A wager they have met."
+    m:
+      - "Here comes news. I bet there’s been a battle."
+
+  - sp: LARTIUS
+    o:
+      - "My horse to yours, no."
+    m:
+      - "I bet you my horse for yours that there hasn’t been a battle."
+
+  - sp: MARTIUS
+    o:
+      - "’Tis done."
+    m:
+      - "It’s a bet."
+
+  - sp: LARTIUS
+    o:
+      - "Agreed."
+    m:
+      - "Agreed."
+
+  - sp: MARTIUS
+    o:
+      - "Say, has our general met the enemy?"
+    m:
+      - "Tell us, has our general been in battle with the enemy?"
+
+  - sp: MESSENGER
+    o:
+      - "They lie in view; but have not spoke as yet."
+    m:
+      - "They can see each other, but they haven’t fought yet."
+
+  - sp: LARTIUS
+    o:
+      - "So, the good horse is mine."
+    m:
+      - "So, your good horse is mine."
+
+  - sp: MARTIUS
+    o:
+      - "I’ll buy him of you."
+    m:
+      - "I’ll buy him back from you."
+
+  - sp: LARTIUS
+    o:
+      - "No, I’ll nor sell nor give him: lend you him I will"
+      - "For half a hundred years. Summon the town."
+    m:
+      - "No, I’ll won’t sell or give him away. I’ll lend him to you for fifty years. Alert the town."
+
+  - sp: MARTIUS
+    o:
+      - "How far off lie these armies?"
+    m:
+      - "How far away are the armies?"
+
+  - sp: MESSENGER
+    o:
+      - "Within this mile and half."
+    m:
+      - "Within a mile and a half."
+
+  - sp: MARTIUS
+    o:
+      - "Then shall we hear their ’larum, and they ours."
+      - "Now, Mars, I prithee, make us quick in work,"
+      - "That we with smoking swords may march from hence,"
+      - "To help our fielded friends! Come, blow thy blast."
+    m:
+      - "Then we’ll hear their call to arms, and they’ll hear ours. Now, Mars, god of war, I pray to you, make our attack quick, so that with victorious swords we may march from here to help our friends on the battlefield! *(to the trumpeter)* Come, blow your blast."
+
+  - os: "They sound a parley. Enter two Senators with others on the walls"
+    ms: "The trumpet sounds. Two Volscian Senators enter, with others, on the walls of Corioles."
+
+  - o:
+      - "*(to the Senators)* Tutus Aufidius, is he within your walls?"
+    m:
+      - "*(to the Senators)* Is Tullus Aufidius inside these walls?"
+
+  - sp: FIRST SENATOR
+    o:
+      - "No, nor a man that fears you less than he,"
+      - "That’s lesser than a little."
+    m:
+      - "No. And there isn’t a man here who fears you any less than he does, which is virtually not at all."
+
+  - os: "Drums afar off"
+    ms: "Drums are heard from far away."
+
+  - o:
+      - "Hark! our drums"
+      - "Are bringing forth our youth. We’ll break our walls,"
+      - "Rather than they shall pound us up: our gates,"
+      - "Which yet seem shut, we, have but pinn’d with rushes;"
+      - "They’ll open of themselves."
+    m:
+      - "*(to the Volsces)* Listen! Our drums are summoning our young soldiers. We’d rather break down our own walls than let them fence us in. Our gates, which look locked, are actually just gently shut. They’ll open on their own."
+
+  - os: "Alarum afar off"
+    ms: "A trumpet is heard from far away."
+
+  - o:
+      - "Hark you, far off!"
+      - "There is Aufidius; list, what work he makes"
+      - "Amongst your cloven army."
+    m:
+      - "*(to the Romans)* Listen! In the distance, that’s Aufidius. Listen to how he’s beating your divided army."
+
+  - sp: MARTIUS
+    o:
+      - "O, they are at it!"
+    m:
+      - "Oh, they’re fighting each other!"
+
+  - sp: LARTIUS
+    o:
+      - "Their noise be our instruction. Ladders, ho!"
+    m:
+      - "Their noise tells us what to do. Raise the ladders!"
+
+  - os: "Enter the army of the Volsces"
+    ms: "The Volscian army enters."
+
+  - sp: MARTIUS
+    o:
+      - "They fear us not, but issue forth their city."
+      - "Now put your shields before your hearts, and fight"
+      - "With hearts more proof than shields. Advance,"
+      - "brave Titus:"
+      - "They do disdain us much beyond our thoughts,"
+      - "Which makes me sweat with wrath. Come on, my fellows:"
+      - "He that retires I’ll take him for a Volsce,"
+      - "And he shall feel mine edge."
+    m:
+      - "They’re not afraid of us—instead they march out of their own city. Cover your hearts with your shields now and fight with hearts that are stronger than these shields. Go forward, brave Titus. They hate us more than we think, which makes me sweat with anger. Come on, my fellow soldiers. Whoever hangs back, I’ll think you’re a Volsce, and you’ll feel the edge of my sword."
+
+  - os: "Alarum. The Romans are beat back to their trenches. Re-enter MARTIUS cursing"
+    ms: "Trumpets sound. The Romans all exit, as they are beaten back to their trenches. MARTIUS re-enters, cursing."
+
+  - sp: MARTIUS
+    o:
+      - "All the contagion of the south light on you,"
+      - "You shames of Rome! you herd of—Boils and plagues"
+      - "Plaster you o’er, that you may be abhorr’d"
+      - "Further than seen and one infect another"
+      - "Against the wind a mile! You souls of geese,"
+      - "That bear the shapes of men, how have you run"
+      - "From slaves that apes would beat! Pluto and hell!"
+      - "All hurt behind; backs red, and faces pale"
+      - "With flight and agued fear! Mend and charge home,"
+      - "Or, by the fires of heaven, I’ll leave the foe"
+      - "And make my wars on you: look to’t: come on;"
+      - "If you’ll stand fast, we’ll beat them to their wives,"
+      - "As they us to our trenches followed."
+    m:
+      - "I curse you with the plague of the south, you shameful Romans! You bunch of—may blisters and infection cover over you so that people will smell you before they see you, and may your disease spread on the wind for a mile, even when the wind blows against you! You look like men, but you have the souls of geese. Why did you run from slaves that even apes could beat? Pluto, god of the dead and the underworld! You ran away and didn’t fight back; your backs are red with blood and your faces pale with fear! Pull yourselves together and charge again, or, by the fires of heaven, I’ll stop fighting the Volsces and attack you instead. Listen, if you can hold steady, we’ll beat them and take their wives. They’re in our trenches. Follow me!"
+
+  - os: "Another alarum. The Volsces fly, and MARTIUS follows them to the gates"
+    ms: "Another trumpet sounds. The Volsces re-enter to attack, and MARTIUS follows them to the gates."
+
+  - o:
+      - "So, now the gates are ope: now prove good seconds:"
+      - "’Tis for the followers fortune widens them,"
+      - "Not for the fliers: mark me, and do the like."
+    m:
+      - "So, the gates are open now. Support me well. Fortune opens the gates for those who follow me, not for those who run from battle. Listen to me, and do as I say."
+
+  - os: "Enters the gates"
+    ms: "The Roman soldiers enter the gates."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Fool-hardiness; not I."
+    m:
+      - "That’s crazy. I’m not going."
+
+  - sp: SECOND SOLDIER
+    o:
+      - "Nor I."
+    m:
+      - "Neither am I."
+
+  - os: "MARTIUS is shut in"
+    ms: "MARTIUS is locked inside the gates."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "See, they have shut him in."
+    m:
+      - "Look, they’ve locked him in."
+
+  - sp: ALL
+    o:
+      - "To the pot, I warrant him."
+    m:
+      - "I’m sure he’ll end up in their cooking pot."
+
+  - os: "Alarum continues"
+    ms: "The trumpet continues."
+
+  - os: "Re-enter TITUS LARTIUS"
+    ms: "TITUS LARTIUS re-enters."
+
+  - sp: LARTIUS
+    o:
+      - "What is become of Martius?"
+    m:
+      - "What happened to Martius?"
+
+  - sp: ALL
+    o:
+      - "Slain, sir, doubtless."
+    m:
+      - "He has undoubtedly been killed, sir."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Following the fliers at the very heels,"
+      - "With them he enters; who, upon the sudden,"
+      - "Clapp’d to their gates: he is himself alone,"
+      - "To answer all the city."
+    m:
+      - "He followed right behind the fleeing Volsces and entered the city with them. They closed the gates behind him, and he’s in there all alone to fight the whole city."
+
+  - sp: LARTIUS
+    o:
+      - "O noble fellow!"
+      - "Who sensibly outdares his senseless sword,"
+      - "And, when it bows, stands up. Thou art left, Martius:"
+      - "A carbuncle entire, as big as thou art,"
+      - "Were not so rich a jewel. Thou wast a soldier"
+      - "Even to Cato’s wish, not fierce and terrible"
+      - "Only in strokes; but, with thy grim looks and"
+      - "The thunder-like percussion of thy sounds,"
+      - "Thou madst thine enemies shake, as if the world"
+      - "Were feverous and did tremble."
+    m:
+      - "Oh, noble fellow! He’s braver than his sword, which cannot feel pain, and he stands firm while even his sword bends. You are gone for, Martius. A flawless red gem, as large as you, wouldn’t be as valuable a jewel as you are. You were the soldier {Cato │ A military adviser in ancient Rome.} would have wished for, not just fierce and terrible on occasion, but with your serious looks and your thunderous voice, you terrified your enemies as if the whole world were shaking with a fever."
+
+  - os: "Re-enter MARTIUS, bleeding, assaulted by the enemy"
+    ms: "MARTIUS re-enters, bleeding, having been assaulted by the Volsces."
+
+  - sp: FIRST SOLDIER
+    o:
+      - "Look, sir."
+    m:
+      - "Look, sir."
+
+  - sp: LARTIUS
+    o:
+      - "O,’tis Martius!"
+      - "Let’s fetch him off, or make remain alike."
+    m:
+      - "Oh, it’s Martius! Let’s rescue him or we’ll be assaulted by the Volsces, too."
+
+  - os: "They fight, and all enter the city"
+    ms: "They fight, and all enter the city."

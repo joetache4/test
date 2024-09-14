@@ -1,0 +1,276 @@
+play: Hamlet
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "Enter HAMLET, HORATIO, and MARCELLUS"
+    ms: "HAMLET, HORATIO, and MARCELLUS enter."
+
+  - sp: HAMLET
+    o:
+      - "The air bites shrewdly. It is very cold."
+    m:
+      - "The air is biting cold."
+
+  - sp: HORATIO
+    o:
+      - "It is a nipping and an eager air."
+    m:
+      - "Yes, it’s definitely nippy."
+
+  - sp: HAMLET
+    o:
+      - "What hour now?"
+    m:
+      - "What time is it?"
+
+  - sp: HORATIO
+    o:
+      - "I think it lacks of twelve."
+    m:
+      - "A little before twelve, I think."
+
+  - sp: MARCELLUS
+    o:
+      - "No, it is struck."
+    m:
+      - "No, it’s just after twelve; I heard the clock strike."
+
+  - sp: HORATIO
+    o:
+      - "Indeed? I heard it not. It then draws near the season"
+      - "Wherein the spirit held his wont to walk."
+    m:
+      - "Really? I didn’t hear it. So it’s nearly the time when the ghost likes to appear."
+
+  - os: "A flourish of trumpets and two pieces of ordnance goes off"
+    ms: "Trumpets play offstage and two cannons are fired."
+
+  - o:
+      - "What does this mean, my lord?"
+    m:
+      - "What does that mean, sir?"
+
+  - sp: HAMLET
+    o:
+      - "The king doth wake tonight and takes his rouse,"
+      - "Keeps wassail and the swaggering upspring reels,"
+      - "And, as he drains his draughts of Rhenish down,"
+      - "The kettle-drum and trumpet thus bray out"
+      - "The triumph of his pledge."
+    m:
+      - "The king is staying up all night drinking and dancing. As he guzzles down his German wine, the musicians make a ruckus to celebrate his draining another cup."
+
+  - sp: HORATIO
+    o:
+      - "Is it a custom?"
+    m:
+      - "Is that a tradition?"
+
+  - sp: HAMLET
+    o:
+      - "Ay, marry, is ’t."
+      - "But to my mind, though I am native here"
+      - "And to the manner born, it is a custom"
+      - "More honored in the breach than the observance."
+      - "This heavy-headed revel east and west"
+      - "Makes us traduced and taxed of other nations."
+      - "They clepe us drunkards and with swinish phrase"
+      - "Soil our addition. And indeed it takes"
+      - "From our achievements, though performed at height,"
+      - "The pith and marrow of our attribute."
+      - "So oft it chances in particular men"
+      - "That for some vicious mole of nature in them—"
+      - "As in their birth (wherein they are not guilty,"
+      - "Since nature cannot choose his origin),"
+      - "By the o’ergrowth of some complexion,"
+      - "Oft breaking down the pales and forts of reason,"
+      - "Or by some habit that too much o’erleavens"
+      - "The form of plausive manners—that these men,"
+      - "Carrying, I say, the stamp of one defect,"
+      - "Being nature’s livery or fortune’s star,"
+      - "Their virtues else (be they as pure as grace,"
+      - "As infinite as man may undergo)"
+      - "Shall in the general censure take corruption"
+      - "From that particular fault. The dram of evil"
+      - "Doth all the noble substance of a doubt"
+      - "To his own scandal."
+    m:
+      - "Yes, it is. But though I was born here and should consider that tradition part of my own heritage, I think it would be better to ignore it than practice it. Other countries criticize us for our loud partying. They call us drunks and insult our noble titles. And our drunkenness does detract from our achievements, as great as they are, and lessens our reputations. It’s just like what happens to certain people who have some birth defect (which they are not responsible for, since nobody chooses how he’s born), or some weird habit or compulsion that changes them completely. It happens sometimes that one little defect in these people, as wonderful and talented as they may be, will make them look completely bad to other people. A tiny spot of evil casts doubt on their good qualities and ruins their reputations."
+
+  - os: "Enter GHOST"
+    ms: "The GHOST enters."
+
+  - sp: HORATIO
+    o:
+      - "Look, my lord, it comes!"
+    m:
+      - "Look, sir—here it comes!"
+
+  - sp: HAMLET
+    o:
+      - "Angels and ministers of grace defend us!"
+      - "Be thou a spirit of health or goblin damned,"
+      - "Bring with thee airs from heaven or blasts from hell,"
+      - "Be thy intents wicked or charitable,"
+      - "Thou comest in such a questionable shape"
+      - "That I will speak to thee. I’ll call thee “Hamlet,”"
+      - "“King,” “Father,” “royal Dane.” O, answer me!"
+      - "Let me not burst in ignorance, but tell"
+      - "Why thy canonized bones, hearsed in death,"
+      - "Have burst their cerements; why the sepulcher,"
+      - "Wherein we saw thee quietly interred,"
+      - "Hath oped his ponderous and marble jaws"
+      - "To cast thee up again. What may this mean,"
+      - "That thou, dead corse, again in complete steel"
+      - "Revisits thus the glimpses of the moon,"
+      - "Making night hideous and we fools of nature,"
+      - "So horridly to shake our disposition"
+      - "With thoughts beyond the reaches of our souls?"
+      - "Say why is this? Wherefore? What should we do?"
+    m:
+      - "Oh angels, protect us! Whether you’re a good spirit or a cursed demon, whether you bring heavenly breezes or blasts of hell fire, whether your intentions are good or evil, you look so strange I want to talk to you. I’ll call you “Hamlet Senior,” “King,” “Father,” “royal Dane.” Answer me! Don’t drive me crazy with curiosity, but tell me why your church-buried bones have burst out of their coffin, and why your tomb, where we quietly buried you, has opened up its heavy marble jaws to spit you out again. What could it mean that you have put on your armor again, you corpse, and have come back to look at the moon, making the night terrifying and stirring us humans with supernatural fears? Why? What do you want from us? What should we do?"
+
+  - os: "GHOST beckons HAMLET"
+    ms: "The GHOST motions for HAMLET to come with it."
+
+  - sp: HORATIO
+    o:
+      - "It beckons you to go away with it,"
+      - "As if it some impartment did desire"
+      - "To you alone."
+    m:
+      - "It wants you to go off with it, as if it wants to tell you something alone."
+
+  - sp: MARCELLUS
+    o:
+      - "  Look, with what courteous action"
+      - "It waves you to a more removèd ground."
+      - "But do not go with it."
+    m:
+      - "Look how politely it’s pointing you to a place that’s farther away. But don’t go."
+
+  - sp: HORATIO
+    o:
+      - "  No, by no means."
+    m:
+      - "Definitely not."
+
+  - sp: HAMLET
+    o:
+      - "It will not speak. Then I will follow it."
+    m:
+      - "It’s not going to speak, so I’ll follow it."
+
+  - sp: HORATIO
+    o:
+      - "Do not, my lord."
+    m:
+      - "Don’t do it, sir."
+
+  - sp: HAMLET
+    o:
+      - "  Why, what should be the fear?"
+      - "I do not set my life in a pin’s fee,"
+      - "And for my soul—what can it do to that,"
+      - "Being a thing immortal as itself?"
+      - "It waves me forth again. I’ll follow it."
+    m:
+      - "Why, what’s the danger? I don’t value my life one bit. And as for my soul, how can the ghost endanger that, since it’s as immortal as the ghost is? Look, it’s waving me over again. I’ll follow it."
+
+  - sp: HORATIO
+    o:
+      - "What if it tempt you toward the flood, my lord,"
+      - "Or to the dreadful summit of the cliff"
+      - "That beetles o’er his base into the sea,"
+      - "And there assume some other horrible form,"
+      - "Which might deprive your sovereignty of reason"
+      - "And draw you into madness? Think of it."
+      - "The very place puts toys of desperation,"
+      - "Without more motive, into every brain"
+      - "That looks so many fathoms to the sea"
+      - "And hears it roar beneath."
+    m:
+      - "What if it tempts you to jump into the sea, sir? Or to the terrifying cliff that overhangs the water, where it takes on some other horrible form that drives you insane. Think about it. The edge of the sea makes people feel despair even at the best of times. All they have to do is look into its depths and hear it roar far below."
+
+  - sp: HAMLET
+    o:
+      - "It waves me still."
+      - "—Go on. I’ll follow thee."
+    m:
+      - "It’s still waving to me. —Go ahead, I’ll follow."
+
+  - sp: MARCELLUS
+    o:
+      - "You shall not go, my lord."
+    m:
+      - "You’re not going, sir."
+
+  - os: "MARCELLUS and HORATIO try to hold HAMLET back"
+    ms: "MARCELLUS and HORATIO try to hold HAMLET back."
+
+  - sp: HAMLET
+    o:
+      - "    Hold off your hands."
+    m:
+      - "Let go of me."
+
+  - sp: HORATIO
+    o:
+      - "Be ruled. You shall not go."
+    m:
+      - "Calm down. You’re not going anywhere."
+
+  - sp: HAMLET
+    o:
+      - "    My fate cries out"
+      - "And makes each petty artery in this body"
+      - "As hardy as the Nemean lion’s nerve."
+      - "Still am I called.—Unhand me, gentlemen."
+      - "*(draws his sword)*"
+      - "By heaven, I’ll make a ghost of him that lets me."
+      - "I say, away!—Go on. I’ll follow thee."
+    m:
+      - "It’s my fate calling me. Every nerve in my body is now as tough as steel. The ghost is still waving me over. Let me go, gentlemen. *(he draws his sword)* I swear, if anyone holds me back, I’ll make a ghost of him! I say, get away!—Go ahead, I’ll follow you."
+
+  - os: "Exeunt GHOST and HAMLET"
+    ms: "The GHOST and HAMLET exit."
+
+  - sp: HORATIO
+    o:
+      - "He waxes desperate with imagination."
+    m:
+      - "His imagination is making him crazy."
+
+  - sp: MARCELLUS
+    o:
+      - "Let’s follow. ’Tis not fit thus to obey him."
+    m:
+      - "Let’s follow them. It’s not right to obey his orders to let him go alone."
+
+  - sp: HORATIO
+    o:
+      - "Have after. To what issue will this come?"
+    m:
+      - "Go ahead and follow him. But what does all this mean, where will it all end?"
+
+  - sp: MARCELLUS
+    o:
+      - "Something is rotten in the state of Denmark."
+    m:
+      - "It means that something is rotten in the state of Denmark."
+
+  - sp: HORATIO
+    o:
+      - "Heaven will direct it."
+    m:
+      - "If that’s true, we should let God take care of it."
+
+  - sp: MARCELLUS
+    o:
+      - "  Nay, let’s follow him."
+    m:
+      - "No, let’s follow him."
+
+  - os: "Exeunt"
+    ms: "They exit."

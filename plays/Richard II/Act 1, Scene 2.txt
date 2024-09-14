@@ -1,0 +1,127 @@
+play: Richard II
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "The Duke of Lancaster’s palace."
+    ms: "The Duke of Lancaster’s palace."
+
+  - os: "Enter JOHN OF GAUNT with DUCHESS"
+    ms: "JOHN OF GAUNT and the DUCHESS OF GLOUCESTER enter."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "Alas, the part I had in Woodstock’s blood"
+      - "Doth more solicit me than your exclaims,"
+      - "To stir against the butchers of his life!"
+      - "But since correction lieth in those hands"
+      - "Which made the fault that we cannot correct,"
+      - "Put we our quarrel to the will of heaven;"
+      - "Who, when they see the hours ripe on earth,"
+      - "Will rain hot vengeance on offenders’ heads."
+    m:
+      - "Even more than your uproar, it’s the fact that the Duke of Gloucester was my brother that makes me want to act against his murderers. But since it was Richard who was responsible for the murder in the first place and also controls how it will be avenged, I’ll have to trust in the will of heaven to bring justice to my brother’s killers."
+
+  - sp: DUCHESS
+    o:
+      - "Finds brotherhood in thee no sharper spur?"
+      - "Hath love in thy old blood no living fire?"
+      - "Edward’s seven sons, whereof thyself art one,"
+      - "Were as seven vials of his sacred blood,"
+      - "Or seven fair branches springing from one root:"
+      - "Some of those seven are dried by nature’s course,"
+      - "Some of those branches by the Destinies cut;"
+      - "But Thomas, my dear lord, my life, my Gloucester,"
+      - "One vial full of Edward’s sacred blood,"
+      - "One flourishing branch of his most royal root,"
+      - "Is crack’d, and all the precious liquor spilt,"
+      - "Is hack’d down, and his summer leaves all faded,"
+      - "By envy’s hand and murder’s bloody axe."
+      - "Ah, Gaunt, his blood was thine! that bed, that womb,"
+      - "That metal, that self-mould, that fashion’d thee"
+      - "Made him a man; and though thou livest and breathest,"
+      - "Yet art thou slain in him: thou dost consent"
+      - "In some large measure to thy father’s death,"
+      - "In that thou seest thy wretched brother die,"
+      - "Who was the model of thy father’s life."
+      - "Call it not patience, Gaunt; it is despair:"
+      - "In suffering thus thy brother to be slaughter’d,"
+      - "Thou showest the naked pathway to thy life,"
+      - "Teaching stern murder how to butcher thee:"
+      - "That which in mean men we intitle patience"
+      - "Is pale cold cowardice in noble breasts."
+      - "What shall I say? to safeguard thine own life,"
+      - "The best way is to venge my Gloucester’s death."
+    m:
+      - "Don’t you feel compelled to do more since he was your brother? Is there no passion in your love for him? Your father Edward treasured you and your six brothers. Some of you died natural deaths, and some of your lives were cut short. But Thomas, who was my love and one of Edward’s precious sons, is dead, killed by people who hated him. Oh, Gaunt, he was your own blood! The same mother and father who made you made him, and though you live and breathe, a part of you died with him. And because your father was the model for him, by watching him die you have in a sense consented to see your father die. You aren’t being patient. You’re giving up. In allowing your brother to be murdered, you have shown how you yourself might be killed. What we might call patience in common men is simply cowardice in noble men. What else can I say? The best way to protect your own life is to get revenge for Gloucester’s death."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "God’s is the quarrel; for God’s substitute,"
+      - "His deputy anointed in His sight,"
+      - "Hath caused his death: the which if wrongfully,"
+      - "Let heaven revenge; for I may never lift"
+      - "An angry arm against His minister."
+    m:
+      - "It’s God’s quarrel now, because it was his chosen king, who serves as God’s deputy on earth, who caused Gloucester’s death. If it was a crime, let heaven punish it, because I won’t raise a hand against God’s minister."
+
+  - sp: DUCHESS
+    o:
+      - "Where then, alas, may I complain myself?"
+    m:
+      - "Whom should I complain to then?"
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "To God, the widow’s champion and defence."
+    m:
+      - "To God, who defends widows."
+
+  - sp: DUCHESS
+    o:
+      - "Why, then, I will. Farewell, old Gaunt."
+      - "Thou goest to Coventry, there to behold"
+      - "Our cousin Hereford and fell Mowbray fight:"
+      - "O, sit my husband’s wrongs on Hereford’s spear,"
+      - "That it may enter butcher Mowbray’s breast!"
+      - "Or, if misfortune miss the first career,"
+      - "Be Mowbray’s sins so heavy in his bosom,"
+      - "They may break his foaming courser’s back,"
+      - "And throw the rider headlong in the lists,"
+      - "A caitiff recreant to my cousin Hereford!"
+      - "Farewell, old Gaunt: thy sometimes brother’s wife"
+      - "With her companion grief must end her life."
+    m:
+      - "Why then, I will. Goodbye, old Gaunt. You are going to Coventry to see our kinsman Hereford and ruthless Mowbray fight. I hope that the weight of the crime against my husband will give force to Hereford’s spear, letting it pierce the killer Mowbray’s breast! Or, if he misses in the first attempt, that Mowbray’s sins weigh so heavily on him that his horse’s back breaks and throws him to the ground! Goodbye, old Gaunt. My grief is so great that I must end my life."
+
+  - sp: JOHN OF GAUNT
+    o:
+      - "Sister, farewell; I must to Coventry:"
+      - "As much good stay with thee as go with me!"
+    m:
+      - "Sister, goodbye. I have to go to Coventry. May we both fare well!"
+
+  - sp: DUCHESS
+    o:
+      - "Yet one word more: grief boundeth where it falls,"
+      - "Not with the empty hollowness, but weight:"
+      - "I take my leave before I have begun,"
+      - "For sorrow ends not when it seemeth done."
+      - "Commend me to thy brother, Edmund York."
+      - "Lo, this is all:—nay, yet depart not so;"
+      - "Though this be all, do not so quickly go;"
+      - "I shall remember more. Bid him—ah, what?—"
+      - "With all good speed at Plashy visit me."
+      - "Alack, and what shall good old York there see"
+      - "But empty lodgings and unfurnish’d walls,"
+      - "Unpeopled offices, untrodden stones?"
+      - "And what hear there for welcome but my groans?"
+      - "Therefore commend me; let him not come there,"
+      - "To seek out sorrow that dwells every where."
+      - "Desolate, desolate, will I hence and die:"
+      - "The last leave of thee takes my weeping eye."
+    m:
+      - "Just one more word. When grief falls, it rises again, even though it is heavy and not light and empty. I’ve said goodbye before I said everything that I wanted to say. Give my respects to your brother, Edmund York. That’s all, but wait—don’t leave yet! I’ll think of something else. Tell him—what?—tell him to visit me at Plashy soon. Alas, what will he see there but empty servants’ quarters, bare walls, and floors that no one walks on? What will he hear as a welcome but my groans? So give my greetings, but don’t tell him to visit me there, since he can find sorrow easily enough elsewhere. I’ll go and die alone, and now I weep, having to finally say goodbye to you."
+
+  - os: "Exeunt severally"
+    ms: "They exit separately."

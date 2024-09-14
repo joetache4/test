@@ -1,0 +1,56 @@
+play: Richard III
+title: Act 4, Scene 5
+group: 4
+order: 19
+text:
+  - os: "Enter STANLEY and Sir CHRISTOPHER."
+    ms: "STANLEY and Sir CHRISTOPHER enter."
+
+  - sp: STANLEY
+    o:
+      - "Sir Christopher, tell Richmond this from me:"
+      - "That in the sty of the most deadly boar"
+      - "My son George Stanley is franked up in hold;"
+      - "If I revolt, off goes young George’s head;"
+      - "The fear of that holds off my present aid."
+      - "So get three gone. Commend me to thy lord."
+      - "Withal, say that the queen hath heartily consented"
+      - "He should espouse Elizabeth her daughter."
+      - "But, tell me, where is princely Richmond now?"
+    m:
+      - "Sir Christopher, relay this message to Richmond: My son George Stanley is penned up in the bloody boar’s sty. If I revolt, off goes young George’s head. My fear of that prevents me from helping Richmond at this time. But, tell me, where is the noble Richmond now?"
+
+  - sp: CHRISTOPHER
+    o:
+      - "At Pembroke, or at Ha’rfordwest in Wales."
+    m:
+      - "At Pembroke, or at Harfordwest in Wales."
+
+  - sp: STANLEY
+    o:
+      - "What men of name resort to him?"
+    m:
+      - "Which noblemen have joined him?"
+
+  - sp: CHRISTOPHER
+    o:
+      - "Sir Walter Herbert, a renownèd soldier;"
+      - "Sir Gilbert Talbot, Sir William Stanley,"
+      - "Oxford, redoubted Pembroke, Sir James Blunt,"
+      - "And Rice ap Thomas, with a valiant crew,"
+      - "And many other of great name and worth;"
+      - "And towards London they do bend their power,"
+      - "If by the way they be not fought withal."
+    m:
+      - "Sir Walter Herbert, a renowned soldier; Sir Gilbert Talbot; Sir William Stanley; Oxford; the highly feared Pembroke; Sir James Blunt; Rice ap Thomas, with a valiant crew; and many other famous and powerful noblemen. They plan to head straight to London, assuming they don’t encounter any resistance on the way."
+
+  - sp: STANLEY
+    o:
+      - "*(gives him a paper)* Well, hie thee to thy lord."
+      - "I kiss his hand. My letter will resolve him of my mind."
+      - "Farewell."
+    m:
+      - "*(giving him a paper)* Return to your lord. Give him my best regards. Tell him the queen has given her heartfelt consent to his marriage to her daughter, Elizabeth. And these letters will let him know what my thinking is. Goodbye, and take care."
+
+  - os: "Exeunt"
+    ms: "They exit."

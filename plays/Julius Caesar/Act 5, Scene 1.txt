@@ -1,0 +1,372 @@
+play: Julius Caesar
+title: Act 5, Scene 1
+group: 5
+order: 13
+text:
+  - os: "Enter OCTAVIUS, ANTONY, and their army"
+    ms: "OCTAVIUS and ANTONY enter with their army."
+
+  - sp: OCTAVIUS
+    o:
+      - "Now, Antony, our hopes are answerèd."
+      - "You said the enemy would not come down"
+      - "But keep the hills and upper regions."
+      - "It proves not so. Their battles are at hand."
+      - "They mean to warn us at Philippi here,"
+      - "Answering before we do demand of them."
+    m:
+      - "Now, Antony, our prayers have been answered. You said the enemy wouldn’t come down but keep to the hills and upper regions. It seems not. Their forces are nearby. They intend to challenge us here at Philippi, responding to our challenge before we’ve even challenged him."
+
+  - sp: ANTONY
+    o:
+      - "Tut, I am in their bosoms, and I know"
+      - "Wherefore they do it. They could be content"
+      - "To visit other places, and come down"
+      - "With fearful bravery, thinking by this face"
+      - "To fasten in our thoughts that they have courage."
+      - "But ’tis not so."
+    m:
+      - "I know how they think, and I understand why they’re doing this. They really wish they were somewhere else, but they want to descend on us, looking fierce so we’ll think they’re brave. But they aren’t."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "  Prepare you, generals."
+      - "The enemy comes on in gallant show."
+      - "Their bloody sign of battle is hung out,"
+      - "And something to be done immediately."
+    m:
+      - "Prepare yourselves, generals. The enemy approaches with great display. They show their bloody heralds of battle, and something must be done immediately."
+
+  - sp: ANTONY
+    o:
+      - "Octavius, lead your battle softly on,"
+      - "Upon the left hand of the even field."
+    m:
+      - "Octavius, lead your forces slowly out to the left side of the level field."
+
+  - sp: OCTAVIUS
+    o:
+      - "Upon the right hand I. Keep thou the left."
+    m:
+      - "I’ll go to the right side. You stay on the left."
+
+  - sp: ANTONY
+    o:
+      - "Why do you cross me in this exigent?"
+    m:
+      - "Why are you defying me in this urgent matter?"
+
+  - sp: OCTAVIUS
+    o:
+      - "I do not cross you. But I will do so."
+    m:
+      - "I’m not defying you, but it’s what I’m going to do."
+
+  - os: "March. Drum. Enter BRUTUS, CASSIUS, and their army, including LUCILLIUS, TITINIUS, and MESSALA"
+    ms: "The sound of soldiers marching, and a drum. BRUTUS and CASSIUS enter with their army, which includes LUCILLIUS, TITINIUS, and MESSALA."
+
+  - sp: BRUTUS
+    o:
+      - "They stand and would have parley."
+    m:
+      - "They’ve stopped. They want to talk."
+
+  - sp: CASSIUS
+    o:
+      - "Stand fast, Titinius. We must out and talk."
+    m:
+      - "Stay here, Titinius. We have to go out and talk to them."
+
+  - sp: OCTAVIUS
+    o:
+      - "Mark Antony, shall we give sign of battle?"
+    m:
+      - "Mark Antony, should we give the signal to attack?"
+
+  - sp: ANTONY
+    o:
+      - "No, Caesar, we will answer on their charge."
+      - "Make forth. The generals would have some words."
+    m:
+      - "No, Octavius Caesar, we’ll respond to their charge. Go forward. The generals want to speak with us."
+
+  - sp: OCTAVIUS
+    o:
+      - "*(to his army)* Stir not until the signal."
+    m:
+      - "*(to his army)* Don’t move until we give the signal."
+
+  - sp: BRUTUS
+    o:
+      - "Words before blows. Is it so, countrymen?"
+    m:
+      - "Words before fighting. Is that how it is, countrymen?"
+
+  - sp: OCTAVIUS
+    o:
+      - "Not that we love words better, as you do."
+    m:
+      - "Not that we love words more than fighting, like you do."
+
+  - sp: BRUTUS
+    o:
+      - "Good words are better than bad strokes, Octavius."
+    m:
+      - "Good words are better than bad strokes, Octavius."
+
+  - sp: ANTONY
+    o:
+      - "In your bad strokes, Brutus, you give good words."
+      - "Witness the hole you made in Caesar’s heart,"
+      - "Crying “Long live, hail, Caesar!”"
+    m:
+      - "Brutus, you give a nice speech along with your evil strokes. Think of the hole you made in Caesar’s heart when you cried, “Long live Caesar! Hail Caesar!”"
+
+  - sp: CASSIUS
+    o:
+      - "    Antony,"
+      - "The posture of your blows are yet unknown."
+      - "But for your words, they rob the Hybla bees"
+      - "And leave them honeyless."
+    m:
+      - "Antony, we don’t yet know what kind of blows you can inflict. But your words are as sweet as honey—you’ve stolen from the bees and left them with nothing."
+
+  - sp: ANTONY
+    o:
+      - "Not stingless too?"
+    m:
+      - "I took their strings too, wouldn’t you say?"
+
+  - sp: BRUTUS
+    o:
+      - "Oh, yes, and soundless too."
+      - "For you have stol’n their buzzing, Antony,"
+      - "And very wisely threat before you sting."
+    m:
+      - "Oh, yes, and you’ve left them silent too, because you stole their buzzing, Antony. You very wisely warn us before you sting."
+
+  - sp: ANTONY
+    o:
+      - "Villains, you did not so when your vile daggers"
+      - "Hacked one another in the sides of Caesar."
+      - "You showed your teeth like apes, and fawned like hounds,"
+      - "And bowed like bondmen, kissing Caesar’s feet,"
+      - "Whilst damnèd Casca, like a cur, behind"
+      - "Struck Caesar on the neck. O you flatterers!"
+    m:
+      - "Villains, you didn’t do even that much when your vile daggers struck each other as they hacked up Caesar’s sides. You smiled like apes and fawned like dogs and bowed like servants, kissing Caesar’s feet. And all the while, damned Casca, like a dog, struck Caesar on the neck from behind. Oh, you flatterers!"
+
+  - sp: CASSIUS
+    o:
+      - "Flatterers?—Now, Brutus, thank yourself."
+      - "This tongue had not offended so today"
+      - "If Cassius might have ruled."
+    m:
+      - "Flatterers! Now, Brutus, you have only yourself to thank. Antony wouldn’t be here to offend us today if you’d listened to me earlier."
+
+  - sp: OCTAVIUS
+    o:
+      - "Come, come, the cause. If arguing make us sweat,"
+      - "The proof of it will turn to redder drops."
+      - "*(draws his sword)* Look, I draw a sword against conspirators."
+      - "When think you that the sword goes up again?"
+      - "Never, till Caesar’s three and thirty wounds"
+      - "Be well avenged, or till another Caesar"
+      - "Have added slaughter to the sword of traitors."
+    m:
+      - "Come, come, let’s remember why we’re here. If arguing makes us sweat, the real trial will turn that water to blood. *(he draws his sword)* Look: I draw my sword against conspirators. When do you think I’ll put it away? Never, until Caesar’s thirty-three wounds are well avenged, or until I too have been killed by you."
+
+  - sp: BRUTUS
+    o:
+      - "Caesar, thou canst not die by traitors’ hands"
+      - "Unless thou bring’st them with thee."
+    m:
+      - "Caesar, you’re not going to be killed by a traitor—unless you kill yourself.."
+
+  - sp: OCTAVIUS
+    o:
+      - "    So I hope."
+      - "I was not born to die on Brutus’ sword."
+    m:
+      - "I hope you’re right. I wasn’t born to die on your sword."
+
+  - sp: BRUTUS
+    o:
+      - "O, if thou wert the noblest of thy strain,"
+      - "Young man, thou couldst not die more honorable."
+    m:
+      - "If you were the noblest of your family, young man, you couldn’t die more honorably."
+
+  - sp: CASSIUS
+    o:
+      - "A peevish schoolboy, worthless of such honor,"
+      - "Joined with a masker and a reveler!"
+    m:
+      - "An annoying schoolboy, unworthy of such an honor, joined by a masquerader and a partier!"
+
+  - sp: ANTONY
+    o:
+      - "Old Cassius still."
+    m:
+      - "Still the same old Cassius!"
+
+  - sp: OCTAVIUS
+    o:
+      - "    Come, Antony, away.—"
+      - "Defiance, traitors, hurl we in your teeth."
+      - "If you dare fight today, come to the field."
+      - "If not, when you have stomachs."
+    m:
+      - "Come Antony, let’s go. Traitors, we defy you. If you dare to fight today, come to the field. If not, come when you have the courage."
+
+  - os: "Exeunt OCTAVIUS, ANTONY, and their army"
+    ms: "OCTAVIUS, ANTONY, and their army exit."
+
+  - sp: CASSIUS
+    o:
+      - "Why, now, blow wind, swell billow, and swim bark!"
+      - "The storm is up and all is on the hazard."
+    m:
+      - "Now let the wind blow, waves swell, and ships sink! The storm has begun and everything is at stake."
+
+  - sp: BRUTUS
+    o:
+      - "Ho, Lucillius, hark, a word with you."
+    m:
+      - "Lucillius! I’d like a word with you."
+
+  - sp: LUCILLIUS
+    o:
+      - "*(stands forth)* My lord?"
+    m:
+      - "*(coming forward)* My lord?"
+
+  - os: "BRUTUS and LUCILLIUS converse apart"
+    ms: "BRUTUS and LUCILLIUS converse to the side."
+
+  - sp: CASSIUS
+    o:
+      - "Messala!"
+    m:
+      - "Messala!"
+
+  - sp: MESSALA
+    o:
+      - "*(stands forth)* What says my general?"
+    m:
+      - "*(coming forward)* What is it, my general?"
+
+  - sp: CASSIUS
+    o:
+      - "    Messala,"
+      - "This is my birthday, as this very day"
+      - "Was Cassius born. Give me thy hand, Messala."
+      - "Be thou my witness that against my will,"
+      - "As Pompey was, am I compelled to set"
+      - "Upon one battle all our liberties."
+      - "You know that I held Epicurus strong"
+      - "And his opinion. Now I change my mind,"
+      - "And partly credit things that do presage."
+      - "Coming from Sardis, on our former ensign"
+      - "Two mighty eagles fell, and there they perched,"
+      - "Gorging and feeding from our soldiers’ hands,"
+      - "Who to Philippi here consorted us."
+      - "This morning are they fled away and gone,"
+      - "And in their steads do ravens, crows, and kites"
+      - "Fly o’er our heads and downward look on us"
+      - "As we were sickly prey. Their shadows seem"
+      - "A canopy most fatal, under which"
+      - "Our army lies, ready to give up the ghost."
+    m:
+      - "Messala, today is my birthday—I was born on this very day. Give me your hand, Messala. You’ll be my witness that I’ve been forced, as Pompey was, to wager all of our freedoms on one battle. You know that I used to believe in Epicurus and his disregard for omens. I’ve changed my mind now and partly believe in omens. Traveling from Sardis, two mighty eagles fell on our front flag and perched there, eating from the hands of the soldiers who’d accompanied us to Philippi. This morning, they’ve flown away and in their place are ravens, crows, and kites, flying over our heads and looking down on us, as though we were sickly prey. Their shadows are like a deadly canopy, under which our army lies, ready to die."
+
+  - sp: MESSALA
+    o:
+      - "Believe not so."
+    m:
+      - "Don’t believe in this."
+
+  - sp: CASSIUS
+    o:
+      - "  I but believe it partly,"
+      - "For I am fresh of spirit and resolved"
+      - "To meet all perils very constantly."
+    m:
+      - "I only partly believe it, for I’m enthusiastic and resolved to meet all dangers without wavering."
+
+  - sp: BRUTUS
+    o:
+      - "*(returning with LUCILLIUS)* Even so, Lucillius."
+    m:
+      - "*(returning with LUCILLIUS)* —Right, Lucillius."
+
+  - sp: CASSIUS
+    o:
+      - "    Now, most noble Brutus,"
+      - "The gods today stand friendly that we may,"
+      - "Lovers in peace, lead on our days to age."
+      - "But since the affairs of men rest still incertain,"
+      - "Let’s reason with the worst that may befall."
+      - "If we do lose this battle, then is this"
+      - "The very last time we shall speak together."
+      - "What are you then determinèd to do?"
+    m:
+      - "Now, most noble Brutus, the gods are friendly with us today so that we, who want peace, can live on to old age! But since the affairs of men are always uncertain, let’s think about the worst that may happen. If we lose this battle, this is the last time we’ll speak to each other. If we lose, what do you plan to do?"
+
+  - sp: BRUTUS
+    o:
+      - "Even by the rule of that philosophy"
+      - "By which I did blame Cato for the death"
+      - "Which he did give himself (I know not how,"
+      - "But I do find it cowardly and vile,"
+      - "For fear of what might fall, so to prevent"
+      - "The time of life), arming myself with patience"
+      - "To stay the providence of some high powers"
+      - "That govern us below."
+    m:
+      - "By the same principle that made me condemn Cato for committing suicide, I plan to be patient and submit to what the gods decide. I don’t know why, but I find it cowardly and vile to kill oneself early to prevent possible suffering later on."
+
+  - sp: CASSIUS
+    o:
+      - "    Then if we lose this battle"
+      - "You are contented to be led in triumph"
+      - "Thorough the streets of Rome?"
+    m:
+      - "Then if we lose this battle, you’ll be willing to be led in chains through the streets of Rome?"
+
+  - sp: BRUTUS
+    o:
+      - "No, Cassius, no. Think not, thou noble Roman,"
+      - "That ever Brutus will go bound to Rome."
+      - "He bears too great a mind. But this same day"
+      - "Must end that work the ides of March begun."
+      - "And whether we shall meet again I know not."
+      - "Therefore our everlasting farewell take."
+      - "Forever and forever farewell, Cassius."
+      - "If we do meet again, why, we shall smile."
+      - "If not, why then this parting was well made."
+    m:
+      - "No, Cassius, no. Don’t imagine that I’ll ever allow myself to return to Rome in chains. My mind is too great for that. But today, the work that March 15th began must end, and I don’t know if we’ll meet again. Therefore, accept my everlasting farewell. Forever and forever, farewell, Cassius! If we meet again, then we’ll smile. If not, then this parting was well done."
+
+  - sp: CASSIUS
+    o:
+      - "Forever and forever farewell, Brutus."
+      - "If we do meet again, we’ll smile indeed."
+      - "If not, ’tis true this parting was well made."
+    m:
+      - "Forever and forever, farewell, Brutus! If we meet again, then we’ll smile indeed. If not, it’s true, this parting was well done."
+
+  - sp: BRUTUS
+    o:
+      - "Why then, lead on. Oh, that a man might know"
+      - "The end of this day’s business ere it come!"
+      - "But it sufficeth that the day will end,"
+      - "And then the end is known.—Come, ho! Away!"
+    m:
+      - "Well, lead on. Oh, I wish I could know what will happen today before it happens! But it’s enough to know that the day will end, and then the end will be known. Come! Let’s go!"
+
+  - os: "Exeunt"
+    ms: "They all exit."

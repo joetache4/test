@@ -1,0 +1,193 @@
+play: Romeo and Juliet
+title: Act 5, Scene 1
+group: 5
+order: 23
+text:
+  - os: "Enter ROMEO"
+    ms: "ROMEO enters."
+
+  - sp: ROMEO
+    o:
+      - "If I may trust the flattering truth of sleep,"
+      - "My dreams presage some joyful news at hand."
+      - "My bosom’s lord sits lightly in his throne,"
+      - "And all this day an unaccustomed spirit"
+      - "Lifts me above the ground with cheerful thoughts."
+      - "I dreamt my lady came and found me dead—"
+      - "Strange dream, that gives a dead man leave to think—"
+      - "And breathed such life with kisses in my lips"
+      - "That I revived and was an emperor."
+      - "Ah me! How sweet is love itself possessed"
+      - "When but love’s shadows are so rich in joy!"
+    m:
+      - "If I can trust my dreams, then some joyful news is coming soon. Love rules my heart, and all day long a strange feeling has been making me cheerful. I had a dream that my lady came and found me dead. It’s a strange dream that lets a dead man think! She came and brought me back to life by kissing my lips. I rose from the dead and was an emperor. Oh my! How sweet it it would be to actually have the woman I love, when merely thinking about love makes me so happy."
+
+  - os: "Enter ROMEO’s man BALTHASAR"
+    ms: "ROMEO’s servant BALTHASAR enters."
+
+  - o:
+      - "News from Verona!—How now, Balthasar?"
+      - "Dost thou not bring me letters from the friar?"
+      - "How doth my lady? Is my father well?"
+      - "How fares my Juliet? That I ask again,"
+      - "For nothing can be ill if she be well."
+    m:
+      - "Do you have news from Verona!—What is it, Balthasar? Do you bring me a letter from the friar? How is my wife? Is my father well? How is my Juliet? I ask that again because nothing can be wrong if she is well."
+
+  - sp: BALTHASAR
+    o:
+      - "Then she is well, and nothing can be ill."
+      - "Her body sleeps in Capels’ monument,"
+      - "And her immortal part with angels lives."
+      - "I saw her laid low in her kindred’s vault"
+      - "And presently took post to tell it you."
+      - "O, pardon me for bringing these ill news,"
+      - "Since you did leave it for my office, sir."
+    m:
+      - "Then she is well, and nothing is wrong. Her body sleeps in the Capulet tomb, and her immortal soul lives with the angels in heaven. I saw her buried in her family’s tomb, and then I came here to tell you the news. Oh, pardon me for bringing this bad news, but you told me it was my job, sir."
+
+  - sp: ROMEO
+    o:
+      - "Is it e’en so? Then I defy you, stars!"
+      - "Thou know’st my lodging. Get me ink and paper,"
+      - "And hire post horses. I will hence tonight."
+    m:
+      - "Is it really true? Then I rebel against you, stars! You know where I live. Get me some ink and paper, and hire some horses to ride. I will leave here for Verona tonight."
+
+  - sp: BALTHASAR
+    o:
+      - "I do beseech you, sir, have patience."
+      - "Your looks are pale and wild, and do import"
+      - "Some misadventure."
+    m:
+      - "Please, sir, have patience. You look pale and wild as if you’re going to hurt yourself."
+
+  - sp: ROMEO
+    o:
+      - "Tush, thou art deceived."
+      - "Leave me and do the thing I bid thee do."
+      - "Hast thou no letters to me from the friar?"
+    m:
+      - "Tsk, you’re wrong. Leave me and do what I told you to do. Don’t you have a letter for me from the friar?"
+
+  - sp: BALTHASAR
+    o:
+      - "No, my good lord."
+    m:
+      - "No, my good lord."
+
+  - sp: ROMEO
+    o:
+      - "No matter. Get thee gone,"
+      - "And hire those horses. I’ll be with thee straight."
+    m:
+      - "No matter. Get on your way and hire those horses. I’ll be with you right away."
+
+  - os: "Exit BALTHASAR"
+    ms: "BALTHASAR exits."
+
+  - o:
+      - "Well, Juliet, I will lie with thee tonight."
+      - "Let’s see for means. O mischief, thou art swift"
+      - "To enter in the thoughts of desperate men!"
+      - "I do remember an apothecary—"
+      - "And hereabouts he dwells—which late I noted"
+      - "In tattered weeds, with overwhelming brows,"
+      - "Culling of simples. Meager were his looks,"
+      - "Sharp misery had worn him to the bones,"
+      - "And in his needy shop a tortoise hung,"
+      - "An alligator stuffed, and other skins"
+      - "Of ill-shaped fishes; and about his shelves"
+      - "A beggarly account of empty boxes,"
+      - "Green earthen pots, bladders and musty seeds,"
+      - "Remnants of packthread and old cakes of roses,"
+      - "Were thinly scattered to make up a show."
+      - "Noting this penury, to myself I said,"
+      - "“An if a man did need a poison now”—"
+      - "Whose sale is present death in Mantua—"
+      - "“Here lives a caitiff wretch would sell it him.”"
+      - "Oh, this same thought did but forerun my need,"
+      - "And this same needy man must sell it me."
+      - "As I remember, this should be the house."
+      - "Being holiday, the beggar’s shop is shut."
+      - "What, ho! Apothecary!"
+    m:
+      - "Well, Juliet, I’ll lie with you tonight. Let’s see how. Destructive thoughts come quickly to the minds of desperate men! I remember a pharmacist who lives nearby. I remember he wears shabby clothes and has bushy eyebrows. He makes drugs from herbs. He looks poor and miserable and worn out to the bone. He had a tortoise shell hanging up in his shop as well as a stuffed alligator and other skins of strange fish. There were a few empty boxes on his shelves, as well as green clay pots, and some musty seeds. There were a few strands of string and mashed rose petals on display. Noticing all this poverty, I said to myself, “If a man needed some poison”—which they would immediately kill you for selling in Mantua—“here is a miserable wretch who’d sell it to him.” Oh, this idea came before I needed the poison. But this same poor man must sell it to me. As I remember, this should be the house. Today’s a holiday, so the beggar’s shop is shut. Hey! Pharmacist!"
+
+  - os: "Enter APOTHECARY"
+    ms: "The APOTHECARY enters."
+
+  - sp: APOTHECARY
+    o:
+      - "    Who calls so loud?"
+    m:
+      - "Who’s that calling so loud?"
+
+  - sp: ROMEO
+    o:
+      - "Come hither, man. I see that thou art poor."
+      - "Hold, there is forty ducats. Let me have"
+      - "A dram of poison, such soon-speeding gear"
+      - "As will disperse itself through all the veins"
+      - "That the life-weary taker may fall dead,"
+      - "And that the trunk may be discharged of breath"
+      - "As violently as hasty powder fired"
+      - "Doth hurry from the fatal cannon’s womb."
+    m:
+      - "Come here, man. I see that you are poor. Here are forty ducats. Let me have a shot of poison, something that works so fast that the person who takes it will die as fast as gunpowder exploding in a canon."
+
+  - sp: APOTHECARY
+    o:
+      - "Such mortal drugs I have, but Mantua’s law"
+      - "Is death to any he that utters them."
+    m:
+      - "I have lethal poisons like that. But it’s against the law to sell them in Mantua, and the penalty is death."
+
+  - sp: ROMEO
+    o:
+      - "Art thou so bare and full of wretchedness,"
+      - "And fear’st to die? Famine is in thy cheeks."
+      - "Need and oppression starveth in thine eyes."
+      - "Contempt and beggary hangs upon thy back."
+      - "The world is not thy friend nor the world’s law."
+      - "The world affords no law to make thee rich."
+      - "Then be not poor, but break it, and take this."
+      - "*(holds out money)*"
+    m:
+      - "You’re this poor and wretched and still afraid to die? Your cheeks are thin because of hunger. I can see in your eyes that you’re starving. Anyone can see that you’re a beggar. The world is not your friend, and neither is the law. The world doesn’t make laws to make you rich. So don’t be poor. Break the law, and take this money. *(he holds out money)*"
+
+  - sp: APOTHECARY
+    o:
+      - "My poverty, but not my will, consents."
+    m:
+      - "I agree because I’m poor, not because I want to."
+
+  - sp: ROMEO
+    o:
+      - "I pay thy poverty and not thy will."
+    m:
+      - "I pay you because you’re poor, not because you want me to buy this."
+
+  - sp: APOTHECARY
+    o:
+      - "*(gives ROMEO poison)* Put this in any liquid thing you will"
+      - "And drink it off; and, if you had the strength"
+      - "Of twenty men, it would dispatch you straight."
+    m:
+      - "*(gives ROMEO poison)* Put this in any kind of liquid you want and drink it down. Even if you were as strong as twenty men, it would kill you immediately."
+
+  - sp: ROMEO
+    o:
+      - "*(gives APOTHECARY money)*"
+      - "There is thy gold, worse poison to men’s souls,"
+      - "Doing more murder in this loathsome world,"
+      - "Than these poor compounds that thou mayst not sell."
+      - "I sell thee poison. Thou hast sold me none."
+      - "Farewell. Buy food, and get thyself in flesh.—"
+      - "Come, cordial and not poison, go with me"
+      - "To Juliet’s grave, for there must I use thee."
+    m:
+      - "*(gives APOTHECARY money)* There is your gold. Money is a worse poison to men’s souls, and commits more murders in this awful world, than these poor poisons that you’re not allowed to sell. I’ve sold *you* poison. You haven’t sold me any. Goodbye. Buy yourself food, and put some flesh on your bones. I’ll take this mixture, which is a medicine, not a poison, to Juliet’s grave. That’s where I must use it."
+
+  - os: "Exeunt"
+    ms: "They exit."

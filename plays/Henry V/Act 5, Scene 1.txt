@@ -1,0 +1,193 @@
+play: Henry V
+title: Act 5, Scene 1
+group: 5
+order: 26
+text:
+  - os: "Enter FLUELLEN and GOWER"
+    ms: "FLUELLEN and GOWER enter."
+
+  - sp: GOWER
+    o:
+      - "Nay, that’s right. But why wear you your leek today? Saint"
+      - "Davy’s day is past."
+    m:
+      - "Yes, that’s true, but why are you wearing your leek today? Saint Davy’s Day has passed."
+
+  - sp: FLUELLEN
+    o:
+      - "There is occasions and causes why and wherefore in all things. I will tell you as my friend, Captain Gower. The rascally, scald, beggarly, lousy, pragging knave, Pistol, which you and yourself and all the world know to be no petter than a fellow, look you now, of no merits, he is come to me and prings me pread and salt yesterday, look you, and bid me eat my leek. It was in place where I could not breed no contention with him, but I will be so bold as to wear it in my cap till I see him once again, and then I will tell him a little piece of my desires."
+    m:
+      - "There are reasons and causes why and how in everything. I’ll tell you as my friend, Captain Gower: that rascally, mean, beggarly, lousy, bragging Pistol, whom you and yourself and all the world know to be no better than a peasant—see—with no good qualities at all: he came to me yesterday and brought me bread and salt and told me to eat my leek. We were somewhere where I couldn’t pick a fight with him, but I’ve decided to wear it in my cap until I see him again, whereupon I’ll give him a little piece of my mind."
+
+  - os: "Enter PISTOL"
+    ms: "PISTOL enters."
+
+  - sp: GOWER
+    o:
+      - "Why, here he comes, swelling like a turkey-cock."
+    m:
+      - "And here he comes, puffing himself up like a turkey."
+
+  - sp: FLUELLEN
+    o:
+      - "’Tis no matter for his swellings, nor his turkey-cocks.—"
+      - "God pless you, Aunchient Pistol, you scurvy, lousy knave,"
+      - "God pless you."
+    m:
+      - "Never mind his puffings and his turkeys. God bless you, Ensign Pistol! You lousy, rotten, villain, God bless you!"
+
+  - sp: PISTOL
+    o:
+      - "Ha, art thou bedlam? Dost thou thirst, base Trojan, to have me fold up Parca’s fatal web? Hence. I am qualmish at the smell of leek."
+    m:
+      - "Are you mad? Do you want me to cut your life short, you deceiving lowlife? Away! The smell of leek turns my stomach."
+
+  - sp: FLUELLEN
+    o:
+      - "I peseech you heartily, scurvy, lousy knave, at my desires, and my requests, and my petitions, to eat, look you, this leek. Because, look you, you do not love it, nor your affections and your appetites and your digestions does not agree with it, I would desire you to eat it."
+    m:
+      - "I wonder if you’d be so good, you lousy, rotten villain, to grant my wish and my request and gratify me, see, by eating this leek. I’d like you to, see, because you don’t like it, and because it isn’t to your taste, and because it doesn’t agree with you."
+
+  - sp: PISTOL
+    o:
+      - "Not for Cadwallader and all his goats."
+    m:
+      - "Not for Cadwallader and all his goats."
+
+  - sp: FLUELLEN
+    o:
+      - "There is one goat for you. *(strikes him)* Will you be so good, scald knave, as eat it?"
+    m:
+      - "Here’s a goat for you. *(strikes him with a club)* Will you be good enough to eat it, mangy rascal?"
+
+  - sp: PISTOL
+    o:
+      - "Base Trojan, thou shalt die."
+    m:
+      - "Dissolute lowlife, you shall die."
+
+  - sp: FLUELLEN
+    o:
+      - "You say very true, scald knave, when God’s will is. I will desire you to live in the meantime and eat your victuals. Come, there is sauce for it. (strikes him) You called me yesterday “mountain squire,” but I will make you today a squire of low degree. I pray you, fall to. If you can mock a leek, you can eat a leek."
+    m:
+      - "That’s very true, mangy rascal, when it pleases God. Meanwhile, I’d be gratified if you’d live and eat your food. Come, here’s some sauce to go with it. *(strikes him with his club)* Yesterday you called me “mountain squire.” Today I’ll make you squire of the low ground. Go on, eat up. If you can mock a leek, you can eat a leek."
+
+  - sp: GOWER
+    o:
+      - "Enough, Captain. You have astonished him."
+    m:
+      - "Enough, Captain. You’ve stunned him."
+
+  - sp: FLUELLEN
+    o:
+      - "I say I will make him eat some part of my leek, or I will peat his pate four days.—Bite, I pray you. It is good for your green wound and your ploody coxcomb."
+    m:
+      - "I tell you, I’ll either make him eat some part of this leek or give him a four-day head-bashing.—Go on, bite. It’s good for your fresh wound and your bloody noggin."
+
+  - sp: PISTOL
+    o:
+      - "Must I bite?"
+    m:
+      - "Must I bite?"
+
+  - sp: FLUELLEN
+    o:
+      - "Yes, certainly, and out of doubt and out of question, too, and ambiguities."
+    m:
+      - "Yes, absolutely, no question or ambiguity about it."
+
+  - sp: PISTOL
+    o:
+      - "By this leek, I will most horribly revenge. I eat and eat, I swear—"
+    m:
+      - "By this leek, I swear I’ll make you pay for this. (FLUELLEN*threatens to strike him)* Okay, okay, I’m eating it—"
+
+  - sp: FLUELLEN
+    o:
+      - "Eat, I pray you. Will you have some more sauce to your leek? There is not enough leek to swear by."
+    m:
+      - "Please do. Would you like some more sauce to go with it? There isn’t enough leek left for you to swear on."
+
+  - sp: PISTOL
+    o:
+      - "Quiet thy cudgel. Thou dost see I eat."
+    m:
+      - "Lay off, already! Can’t you see I’m eating?"
+
+  - sp: FLUELLEN
+    o:
+      - "Much good do you, scald knave, heartily. Nay, pray you throw none away. The skin is good for your broken coxcomb. When you take occasions to see leeks hereafter, I pray you, mock at ’em, that is all."
+    m:
+      - "I sincerely hope it does you good, mangy rascal. No, don’t throw any of it away. The skin is good for your cracked head. When you see leeks in the future, I hope you keep mocking them. That’s all."
+
+  - sp: PISTOL
+    o:
+      - "Good."
+    m:
+      - "Good."
+
+  - sp: FLUELLEN
+    o:
+      - "Ay, leeks is good. Hold you, there is a groat to heal your pate."
+    m:
+      - "Yes, leeks are good. Wait, here’s a penny to heal your head."
+
+  - sp: PISTOL
+    o:
+      - "Me, a groat?"
+    m:
+      - "Me, a penny?"
+
+  - sp: FLUELLEN
+    o:
+      - "Yes, verily, and in truth you shall take it, or I have another leek in my pocket, which you shall eat."
+    m:
+      - "Yes, and you’ll take it. If not, I have another leek in my pocket that you can eat."
+
+  - sp: PISTOL
+    o:
+      - "I take thy groat in earnest of revenge."
+    m:
+      - "I’ll take this penny as a token that you’ll pay for this."
+
+  - sp: FLUELLEN
+    o:
+      - "If I owe you anything, I will pay you in cudgels. You shall be a woodmonger and buy nothing of me but cudgels. God be wi’ you and keep you and heal your pate."
+    m:
+      - "If I owe you anything, I’ll pay you in clubbings. You’ll become a wood salesman and buy nothing but clubs from me. God be with you and keep you, and may he heal your head."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: PISTOL
+    o:
+      - "All hell shall stir for this."
+    m:
+      - "There’ll be hell to pay for this."
+
+  - sp: GOWER
+    o:
+      - "Go, go. You are a counterfeit cowardly knave. Will you mock at an ancient tradition begun upon an honorable respect and worn as a memorable trophy of predeceased valor, and dare not avouch in your deeds any of your words? I have seen you gleeking and galling at this gentleman twice or thrice. You thought because he could not speak English in the native garb, he could not therefore handle an English cudgel. You find it otherwise, and henceforth let a Welsh correction teach you a good English condition. Fare you well."
+    m:
+      - "Go on, get out of here. You’re a lying, cowardly wretch. You mock an ancient tradition, born of reverence and worn in honor of brave men who have died, and then have the gall not to stand by your words. I’ve seen you bait and mock this man more than once. You thought because he didn’t speak English like a native he couldn’t handle an English club. You’ve learned otherwise. Let this be a Welsh lesson to you to behave with English manners in the future. Farewell."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: PISTOL
+    o:
+      - "Doth Fortune play the huswife with me now?"
+      - "News have I that my Nell is dead i’ th’ spital"
+      - "Of a malady of France,"
+      - "And there my rendezvous is quite cut off."
+      - "Old I do wax, and from my weary limbs"
+      - "Honor is cudgeled. Well, bawd I’ll turn,"
+      - "And something lean to cutpurse of quick hand."
+      - "To England will I steal, and there I’ll steal."
+      - "And patches will I get unto these cudgeled scars,"
+      - "And swear I got them in the Gallia wars."
+    m:
+      - "Has Fortune turned on me, like the whore she is? I’ve had news that my Nell died of the pox in a hospice. There went my last refuge. I grow old, and all dignity has been thrashed out of me. Well, I’ll turn pimp and do some occasional pickpocketing. I’ll steal away to England, and I’ll steal some more when I get there. I’ll bandage up these wounds and swear I got them in the French wars."
+
+  - os: "Exit"
+    ms: "He exits."

@@ -1,0 +1,103 @@
+play: Coriolanus
+title: Act 1, Scene 5
+group: 1
+order: 4
+text:
+  - os: "Corioli. A street."
+    ms: "A street in Corioles."
+
+  - os: "Enter certain Romans, with spoils"
+    ms: "Some Romans enter with spoils of war."
+
+  - sp: FIRST ROMAN
+    o:
+      - "This will I carry to Rome."
+    m:
+      - "I’ll bring this back to Rome."
+
+  - sp: SECOND ROMAN
+    o:
+      - "And I this."
+    m:
+      - "And I’ll bring this."
+
+  - sp: THIRD ROMAN
+    o:
+      - "A murrain on’t! I took this for silver."
+    m:
+      - "Curse it! I thought this was silver."
+
+  - os: "Alarum continues still afar off"
+    ms: "Trumpets still continue far away."
+
+  - os: "Enter MARTIUS and TITUS LARTIUS with a trumpet"
+    ms: "MARTIUS (bleeding) and TITUS LARTIUS enter with a trumpeter."
+
+  - sp: MARTIUS
+    o:
+      - "See here these movers that do prize their hours"
+      - "At a crack’d drachm! Cushions, leaden spoons,"
+      - "Irons of a doit, doublets that hangmen would"
+      - "Bury with those that wore them, these base slaves,"
+      - "Ere yet the fight be done, pack up: down with them!"
+      - "And hark, what noise the general makes! To him!"
+      - "There is the man of my soul’s hate, Aufidius,"
+      - "Piercing our Romans: then, valiant Titus, take"
+      - "Convenient numbers to make good the city;"
+      - "Whilst I, with those that have the spirit, will haste"
+      - "To help Cominius."
+    m:
+      - "Look at these scavengers who spend their time gathering worthless coins! Cushions, lead spoons, cheap swords, clothes that hangmen would bury along with whoever died wearing them. These lowly slaves are packing up before the fight is even over. They’re the worst! And listen to the noise Cominius makes! Let’s go help him! Aufidius, the one my soul hates, is driving our Roman army apart. Valiant Titus, take enough men with you to secure the city. I’ll go now with those who have the spirit and help Cominius."
+
+  - sp: LARTIUS
+    o:
+      - "Worthy sir, thou bleed’st;"
+      - "Thy exercise hath been too violent for"
+      - "A second course of fight."
+    m:
+      - "Worthy sir, you’re bleeding. Your efforts have been too violent for you to fight again now."
+
+  - sp: MARTIUS
+    o:
+      - "Sir, praise me not;"
+      - "My work hath yet not warm’d me: fare you well:"
+      - "The blood I drop is rather physical"
+      - "Than dangerous to me: to Aufidius thus"
+      - "I will appear, and fight."
+    m:
+      - "Don’t flatter me. I’m not even warmed up yet.  Good luck to you. Bleeding is more helpful to me than it is dangerous. I’ll find Aufidius and fight."
+
+  - sp: LARTIUS
+    o:
+      - "Now the fair goddess, Fortune,"
+      - "Fall deep in love with thee; and her great charms"
+      - "Misguide thy opposers’ swords! Bold gentleman,"
+      - "Prosperity be thy page!"
+    m:
+      - "May the fair goddess Fortune fall deeply in love with you, and may she cast a spell on your opponents so their swords don’t strike you! Brave gentlemen, may you be successful!"
+
+  - sp: MARTIUS
+    o:
+      - "Thy friend no less"
+      - "Than those she placeth highest! So, farewell."
+    m:
+      - "May Fortune be no less a friend to you than she is to those she loves most! Good luck."
+
+  - sp: LARTIUS
+    o:
+      - "Thou worthiest Martius!"
+    m:
+      - "You’re the bravest, Martius!"
+
+  - os: "Exit MARTIUS"
+    ms: "MARTIUS exits."
+
+  - o:
+      - "Go, sound thy trumpet in the market-place;"
+      - "Call thither all the officers o’ the town,"
+      - "Where they shall know our mind: away!"
+    m:
+      - "Go, sound your trumpet in the marketplace. Bring all the town officials here. We’ll tell them what we’re thinking. Go!"
+
+  - os: "Exeunt"
+    ms: "All exit, going in different directions."

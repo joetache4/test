@@ -1,0 +1,992 @@
+play: King Lear
+title: Act 1, Scene 4
+group: 1
+order: 3
+text:
+  - os: "Enter KENT disguised"
+    ms: "KENT enters in disguise."
+
+  - sp: KENT
+    o:
+      - "If but as well I other accents borrow,"
+      - "That can my speech diffuse, my good intent"
+      - "May carry through itself to that full issue"
+      - "For which I razed my likeness. Now, banished Kent,"
+      - "If thou canst serve where thou dost stand condemned,"
+      - "So may it come thy master, whom thou lovest,"
+      - "Shall find thee full of labors."
+    m:
+      - "If I can disguise my voice as well as my appearance, then I’ll be able to carry out my plan perfectly. I was banished, but hopefully I can serve the very king who condemned me. I love my master, and he’ll find me very hard-working."
+
+  - os: "Horns within Enter LEAR with attendant knights"
+    ms: "Trumpets play offstage. LEAR enters with his attendant knights."
+
+  - sp: LEAR
+    o:
+      - "Let me not stay a jot for dinner. Go get it ready."
+    m:
+      - "Don’t make me wait for dinner even a moment. Get it ready immediately."
+
+  - os: "Exit attendant"
+    ms: "An attendant exits."
+
+  - o:
+      - "*(to KENT)* How now, what art thou?"
+    m:
+      - "*(to KENT)* Well now, who are you?"
+
+  - sp: KENT
+    o:
+      - "A man, sir."
+    m:
+      - "A man, sir."
+
+  - sp: LEAR
+    o:
+      - "What dost thou profess? What wouldst thou with us?"
+    m:
+      - "What’s your profession? What do you want from me?"
+
+  - sp: KENT
+    o:
+      - "I do profess to be no less than I seem—to serve him truly that will put me in trust, to love him that is honest, to converse with him that is wise and says little, to fear judgment, to fight when I cannot choose, and to eat no fish."
+    m:
+      - "I profess that I’m as good as I seem—I’ll faithfully serve a master who trusts me, love those who are honest, talk with those who are wise and don’t talk too much. I’m God-fearing, I fight if I must, and I don’t eat fish."
+
+  - sp: LEAR
+    o:
+      - "What art thou?"
+    m:
+      - "But who are you?"
+
+  - sp: KENT
+    o:
+      - "A very honest-hearted fellow, and as poor as the king."
+    m:
+      - "An honest guy who’s as poor as the king."
+
+  - sp: LEAR
+    o:
+      - "If thou beest as poor for a subject as he’s for a king, thou’rt poor enough. What wouldst thou?"
+    m:
+      - "If you’re as poor a subject as he is a king, you definitely are poor. What do you want?"
+
+  - sp: KENT
+    o:
+      - "Service."
+    m:
+      - "To work as a servant."
+
+  - sp: LEAR
+    o:
+      - "Who wouldst thou serve?"
+    m:
+      - "Who do you want to work for?"
+
+  - sp: KENT
+    o:
+      - "You."
+    m:
+      - "You."
+
+  - sp: LEAR
+    o:
+      - "Dost thou know me, fellow?"
+    m:
+      - "Do you know me?"
+
+  - sp: KENT
+    o:
+      - "No, sir. But you have that in your countenance which I would fain call master."
+    m:
+      - "No, sir, but there’s something about your face that makes me want to serve you."
+
+  - sp: LEAR
+    o:
+      - "What’s that?"
+    m:
+      - "What do you see in my face?"
+
+  - sp: KENT
+    o:
+      - "Authority."
+    m:
+      - "Authority."
+
+  - sp: LEAR
+    o:
+      - "What services canst thou do?"
+    m:
+      - "What work can you do?"
+
+  - sp: KENT
+    o:
+      - "I can keep honest counsel, ride, run, mar a curious tale in telling it, and deliver a plain message bluntly. That which ordinary men are fit for, I am qualified in. And the best of me is diligence."
+    m:
+      - "I can be discreet in honorable matters, ride a horse, run, tell a good story badly, and deliver a plain message bluntly. I’m good at everything that ordinary men can do. The best thing about me is that I’m hardworking."
+
+  - sp: LEAR
+    o:
+      - "How old art thou?"
+    m:
+      - "How old are you?"
+
+  - sp: KENT
+    o:
+      - "Not so young, sir, to love a woman for singing, nor so old to dote on her for anything. I have years on my back forty- eight."
+    m:
+      - "Not young enough to fall in love with a woman because she sings well, but not old enough to dote on a woman for any reason. I’m forty-eight."
+
+  - sp: LEAR
+    o:
+      - "Follow me. Thou shalt serve me. If I like thee no worse after dinner, I will not part from thee yet.—Dinner, ho, dinner! Where’s my knave, my fool?—Go you, and call my fool hither."
+    m:
+      - "Follow me. You’ll work for me. If I still like you after dinner, I won’t send you away yet.—Hey, dinnertime! Dinner! Where’s my fool?—Go call my fool and have him come here."
+
+  - os: "Exit attendant"
+    ms: "An attendant exits."
+
+  - os: "Enter OSWALD the steward"
+    ms: "OSWALD enters."
+
+  - o:
+      - "You, you, sirrah, where’s my daughter?"
+    m:
+      - "You, sir, where’s my daughter?"
+
+  - sp: OSWALD
+    o:
+      - "So please you—"
+    m:
+      - "I beg your pardon, sir—"
+
+  - os: "Exit OSWALD"
+    ms: "OSWALD exits."
+
+  - sp: LEAR
+    o:
+      - "What says the fellow there? Call the clotpoll back."
+    m:
+      - "What did that guy say? Call the numbskull back in here."
+
+  - os: "Exit FIRST KNIGHT"
+    ms: "The FIRST KNIGHT exits."
+
+  - o:
+      - "Where’s my fool, ho? I think the world’s asleep."
+    m:
+      - "Where’s my fool? You’d think everyone was asleep."
+
+  - os: "Enter FIRST KNIGHT"
+    ms: "The FIRST KNIGHT enters again."
+
+  - o:
+      - "How now? Where’s that mongrel?"
+    m:
+      - "  So what’s going on? Where’s that dog?"
+
+  - sp: FIRST KNIGHT
+    o:
+      - "He says, my lord, your daughter is not well."
+    m:
+      - "He says your daughter’s not feeling well, my lord."
+
+  - sp: LEAR
+    o:
+      - "Why came not the slave back to me when I called him."
+    m:
+      - "Why didn’t the jerk come back to me when I called him?"
+
+  - sp: FIRST KNIGHT
+    o:
+      - "Sir, he answered me in the roundest manner he would not."
+    m:
+      - "Sir, he told me quite bluntly that he didn’t feel like it."
+
+  - sp: LEAR
+    o:
+      - "He would not?"
+    m:
+      - "Didn’t feel like it?"
+
+  - sp: FIRST KNIGHT
+    o:
+      - "My lord, I know not what the matter is, but to my judgment your highness is not entertained with that ceremonious affection as you were wont. There’s a great abatement of kindness appears as well in the general dependants as in the duke himself also, and your daughter."
+    m:
+      - "My lord, I don’t know what’s going on, but it seems to me that your highness isn’t being treated as politely as before. The servants, the duke, and your daughter all seem to be treating you less kindly."
+
+  - sp: LEAR
+    o:
+      - "Ha! Sayest thou so?"
+    m:
+      - "Huh! Do you really mean that?"
+
+  - sp: FIRST KNIGHT
+    o:
+      - "I beseech you pardon me, my lord, if I be mistaken—for my duty cannot be silent when I think your highness wronged."
+    m:
+      - "Please forgive me if I’m mistaken, my lord—but I can’t keep quiet when I think you’re being insulted."
+
+  - sp: LEAR
+    o:
+      - "Thou but rememberest me of mine own conception. I have perceived a most faint neglect of late, which I have rather blamed as mine own jealous curiosity than as a very pretense and purpose of unkindness. I will look further into ’t. But where’s my fool? I have not seen him this two days."
+    m:
+      - "No, you’re just reminding me of something I’ve also noticed. I’ve felt neglected recently, but I decided that it was more likely that I was being hypersensitive than that they were intentionally unkind. I’ll look into it further. But where’s my fool? I haven’t seen him for two days."
+
+  - sp: FIRST KNIGHT
+    o:
+      - "Since my young lady’s going into France, sir, the fool hath much pined away."
+    m:
+      - "Ever since Cordelia left for France, sir, the fool has been depressed."
+
+  - sp: LEAR
+    o:
+      - "No more of that. I have noted it well. Go you and tell my daughter I would speak with her."
+    m:
+      - "Let’s not talk about it. I’ve noticed it myself. Go and tell my daughter I want to speak with her."
+
+  - os: "Exit an attendant"
+    ms: "An attendant exits."
+
+  - o:
+      - "Go you, call hither my fool."
+    m:
+      - "And you, go call my fool."
+
+  - os: "Exit another attendant"
+    ms: "Another attendant exits."
+
+  - os: "Enter OSWALD"
+    ms: "OSWALD enters."
+
+  - o:
+      - "O you sir, you, come you hither, sir. Who am I, sir?"
+    m:
+      - "You there, sir, come here please. Who am I, sir?"
+
+  - sp: OSWALD
+    o:
+      - "My lady’s father."
+    m:
+      - "The father of the lady of the house, sir."
+
+  - sp: LEAR
+    o:
+      - "“My lady’s father”? My lord’s knave, your whoreson dog!"
+      - "You slave, you cur!"
+    m:
+      - "“The father of the lady of the house”? You scoundrel! You lowlife son-of-a-bitch! You dog, you peasant!"
+
+  - sp: OSWALD
+    o:
+      - "I am none of these, my lord. I beseech your pardon."
+    m:
+      - "I’m sorry, sir, but I’m not any of those things."
+
+  - sp: LEAR
+    o:
+      - "Do you bandy looks with me, you rascal?"
+      - "*(he strikes OSWALD)*"
+    m:
+      - "Are you making faces at me, you scoundrel? *(he hits OSWALD)*"
+
+  - sp: OSWALD
+    o:
+      - "I’ll not be strucken, my lord."
+    m:
+      - "I won’t be hit, my lord."
+
+  - sp: KENT
+    o:
+      - "*(tripping OSWALD)*"
+      - "Nor tripped neither, you base football player."
+    m:
+      - "*(tripping OSWALD)* Or tripped, you lowlife football player?"
+
+  - sp: LEAR
+    o:
+      - "*(to KENT)* I thank thee, fellow. Thou servest me, and I’ll love thee."
+    m:
+      - "*(to KENT)* Thank you, sir. You serve me well, and I’ll love you for it."
+
+  - sp: KENT
+    o:
+      - "*(to OSWALD)* Come, sir, arise, away! I’ll teach you differences. Away, away. If you will measure your lubber’s length again, tarry. But away, go to. Have you wisdom? So."
+    m:
+      - "*(to OSWALD)* Come on, sir, get up and get out of here! I’ll teach you to respect your betters. If you want me to trip you again, then stick around. If not, get going. Go on. Do you know what’s good for you? There you go."
+
+  - os: "Exit OSWALD"
+    ms: "OSWALD exits."
+
+  - sp: LEAR
+    o:
+      - "Now, my friendly knave, I thank thee."
+    m:
+      - "Now, my friendly servant, thank you."
+
+  - os: "Enter FOOL"
+    ms: "The FOOL enters."
+
+  - o:
+      - "*(gives KENT money)* There’s earnest of thy service."
+    m:
+      - "*(giving KENT money)* Here’s a token of my gratitude."
+
+  - sp: FOOL
+    o:
+      - "Let me hire him too.—Here’s my coxcomb."
+      - "*(offers KENT his cap)*"
+    m:
+      - "Wait, let me hire him too.—Here’s my fool’s cap, a token of my gratitude. *(he offers KENT his cap)*"
+
+  - sp: LEAR
+    o:
+      - "How now, my pretty knave? How dost thou?"
+    m:
+      - "Well hello, my good boy. How are you doing?"
+
+  - sp: FOOL
+    o:
+      - "*(to KENT)* Sirrah, you were best take my coxcomb."
+    m:
+      - "*(to KENT)* Guy, you’d better take my cap."
+
+  - sp: LEAR
+    o:
+      - "Why, Fool?"
+    m:
+      - "Why, Fool?"
+
+  - sp: FOOL
+    o:
+      - "Why? For taking one’s part that’s out of favor. Nay, an thou canst not smile as the wind sits, thou’lt catch cold shortly. There, take my coxcomb. Why, this fellow has banished two on ’s daughters, and did the third a blessing against his will. If thou follow him, thou must needs wear my coxcomb.—How now, nuncle? Would I had two coxcombs and two daughters."
+    m:
+      - "Why? For standing up for this unpopular king. No, if you can’t adjust to political changes, you’ll suffer for it. There, take my fool’s cap. This guy here has banished two of his daughters and blessed the third one without intending to. If you work for him, you’re a fool and should wear a fool’s cap.—So how’s it going, uncle? I wish I had two fool’s caps and two daughters."
+
+  - sp: LEAR
+    o:
+      - "Why, my boy?"
+    m:
+      - "Why, my boy?"
+
+  - sp: FOOL
+    o:
+      - "If I gave them all my living, I’d keep my coxcombs myself."
+      - "There’s mine. Beg another of thy daughters."
+    m:
+      - "If I gave them all I own, I’d have two fool’s caps for myself. Here’s mine. Ask your daughters for another one."
+
+  - sp: LEAR
+    o:
+      - "Take heed, sirrah—the whip."
+    m:
+      - "Watch out, boy—remember I can whip you."
+
+  - sp: FOOL
+    o:
+      - "Truth’s a dog that must to kennel. He must be whipped out, when Lady Brach may stand by th’ fire and stink."
+    m:
+      - "I get whipped like a dog for telling the truth, while Lady Bitch gets to stand around the fire and stink the place up with her false words."
+
+  - sp: LEAR
+    o:
+      - "A pestilent gall to me!"
+    m:
+      - "A constant pain to me!"
+
+  - sp: FOOL
+    o:
+      - "Sirrah, I’ll teach thee a speech."
+    m:
+      - "I’ll recite something for you, guy."
+
+  - sp: LEAR
+    o:
+      - "Do."
+    m:
+      - "Yes, do that."
+
+  - sp: FOOL
+    o:
+      - "Mark it, nuncle."
+      - "Have more than thou showest,"
+      - "Speak less than thou knowest,"
+      - "Lend less than thou owest,"
+      - "Ride more than thou goest,"
+      - "Learn more than thou trowest,"
+      - "Set less than thou throwest,"
+      - "Leave thy drink and thy whore"
+      - "And keep in-a-door,"
+      - "And thou shalt have more"
+      - "Than two tens to a score."
+    m:
+      - "Listen up, uncle."
+      - "Have more than you show,"
+      - "Speak less than you know,"
+      - "Lend less than you owe."
+      - "Ride more than you walk,"
+      - "Don’t believe everything you hear,"
+      - "Don’t bet everything on one throw of the dice,"
+      - "Leave behind your booze and your whore,"
+      - "And stay indoors,"
+      - "And you’ll end up with more"
+      - "Than two tens to a twenty."
+
+  - sp: KENT
+    o:
+      - "This is nothing, Fool."
+    m:
+      - "That makes no sense, Fool. It’s nothing."
+
+  - sp: FOOL
+    o:
+      - "Then ’tis like the breath of an unfee’d lawyer. You gave me nothing for ’t.—Can you make no use of nothing, nuncle?"
+    m:
+      - "In that case it’s like the words of an unpaid lawyer. You paid me nothing for it. Can’t you make any use of nothing, uncle?"
+
+  - sp: LEAR
+    o:
+      - "Why no, boy. Nothing can be made out of nothing."
+    m:
+      - "Why, no, boy. Nothing can be made out of nothing."
+
+  - sp: FOOL
+    o:
+      - "*(to KENT)* Prithee, tell him so much the rent of his land comes to. He will not believe a fool."
+    m:
+      - "*(to KENT)* Please tell him that his income is nothing, now that he’s given his lands away. He won’t believe a fool."
+
+  - sp: LEAR
+    o:
+      - "A bitter fool."
+    m:
+      - "You’re a bitter fool."
+
+  - sp: FOOL
+    o:
+      - "Dost thou know the difference, my boy, between a bitter fool and a sweet fool?"
+    m:
+      - "Do you know the difference, my boy, between a bitter fool and a sweet one?"
+
+  - sp: LEAR
+    o:
+      - "No, lad. Teach me."
+    m:
+      - "No, son. Tell me."
+
+  - sp: FOOL
+    o:
+      - "That lord that counseled thee"
+      - "To give away thy land,"
+      - "Come place him here by me."
+      - "Do thou for him stand."
+      - "The sweet and bitter fool"
+      - "Will presently appear—"
+      - "The one in motley here,"
+      - "The other found out there."
+    m:
+      - "Bring here"
+      - "The gentleman who advised you"
+      - "To give away your land."
+      - "You can stand in his place."
+      - "The sweet and bitter fool"
+      - "Will appear right away."
+      - "The sweet fool in a fool’s costume—that’s me."
+      - "The bitter one is the other one—that’s you.LEAR"
+
+  - sp: LEAR
+    o:
+      - "Dost thou call me fool, boy?"
+    m:
+      - "Are you calling me a fool, boy?"
+
+  - sp: FOOL
+    o:
+      - "All thy other titles thou hast given away that thou wast born with."
+    m:
+      - "Well, you’ve given away all your other rightful titles. The title of “fool” is the only one left."
+
+  - sp: KENT
+    o:
+      - "This is not altogether fool, my lord."
+    m:
+      - "This isn’t entirely a joke, your highness."
+
+  - sp: FOOL
+    o:
+      - "No, faith, lords and great men will not let me. If I had a monopoly out, they would have part on ’t. And ladies too— they will not let me have all fool to myself; they’ll be snatching. Give me an egg, nuncle, and I’ll give thee two crowns."
+    m:
+      - "No. I wish I could be a complete joker—but so many lords and important men are also playing fools that I can’t have a monopoly on it. Ladies too—they’re always snatching away my role as the biggest fool.—Uncle, give me an egg, and I’ll give you two crowns."
+
+  - sp: LEAR
+    o:
+      - "What two crowns shall they be?"
+    m:
+      - "Which two crowns would those be?"
+
+  - sp: FOOL
+    o:
+      - "Why—after I have cut the egg i’ th’ middle and eat up the meat—the two crowns of the egg. When thou clovest thy crown i’ th’ middle, and gavest away both parts, thou borest thy ass o’ th’ back o’er the dirt. Thou hadst little wit in thy bald crown when thou gavest thy golden one away. If I speak like myself in this, let him be whipped that first finds it so."
+      - "*(sings)*"
+      - "*Fools had ne’er less wit in a year,*"
+      - "*For wise men are grown foppish.*"
+      - "*They know not how their wits to wear,*"
+      - "*Their manners are so apish.*"
+    m:
+      - "Well, when I cut the egg in half and eat the whites, the yolk will be in two parts like two golden crowns. When you cut your own crown and kingdom in half and gave away both parts, you were as foolish as the old man in the old story who carries his donkey on his back instead of letting the donkey carry him. You didn’t have much brains inside the bald crown of your head when you gave away the gold crown of your kingdom. If I’m telling the truth like a fool in saying all this, whip the first person who thinks I sound foolish."
+      - "*(he sings)*"
+      - "*Fools have had a hard time this year.*"
+      - "*They’ve been displaced by wise men who’ve grown foolish.*"
+      - "*These men no longer know how to use their brains,*"
+      - "*And they don’t know how to behave except by foolishly imitating others.*"
+
+  - sp: LEAR
+    o:
+      - "When were you wont to be so full of songs, sirrah?"
+    m:
+      - "When did you become so fond of singing, boy?"
+
+  - sp: FOOL
+    o:
+      - "I have used it, nuncle, ever since thou madest thy daughters thy mothers. For when thou gavest them the rod, and put’st down thine own breeches,"
+      - "*(sings)*"
+      - "*Then they for sudden joy did weep*"
+      - "*And I for sorrow sung,*"
+      - "*That such a king should play bo-peep*"
+      - "*And go the fools among.*"
+      - "Prithee, nuncle, keep a schoolmaster that can teach thy fool to lie. I would fain learn to lie."
+    m:
+      - "I’ve been singing ever since you made your daughters into your mothers by giving them all your power. That’s when you gave them the spanking paddle and pulled your pants down,"
+      - "*(he sings)*"
+      - "*Then your daughters wept for joy,*"
+      - "*And I sang in sadness,*"
+      - "*Seeing such a king become*"
+      - "*A child and a fool.*"
+      - "Please, uncle, hire a teacher who can teach your fool to lie. I want to learn how to lie."
+
+  - sp: LEAR
+    o:
+      - "An you lie, sirrah, we’ll have you whipped."
+    m:
+      - "If you lie, boy, we’ll have you whipped."
+
+  - sp: FOOL
+    o:
+      - "I marvel what kin thou and thy daughters are. They’ll have me whipped for speaking true, thou’lt have me whipped for lying, and sometimes I am whipped for holding my peace. I had rather be any kind o’ thing than a fool. And yet I would not be thee, nuncle. Thou hast pared thy wit o’ both sides and left nothing i’ th’ middle. Here comes one o’ the parings."
+    m:
+      - "I’m amazed how similar you and your daughters are. They want to whip me for telling the truth, you want to whip me for lying, and sometimes I’m even whipped for keeping quiet. I’d rather be anything besides a fool. And yet I wouldn’t want to be you, uncle. When you gave away pieces of your kingdom, it’s as if you cut off pieces on both sides of your brain and left nothing in the middle. Here comes the owner of one piece."
+
+  - os: "Enter GONERIL"
+    ms: "GONERIL enters."
+
+  - sp: LEAR
+    o:
+      - "How now, daughter? What makes that frontlet on?"
+      - "Methinks you are too much of late i’ th’ frown."
+    m:
+      - "What’s going on, daughter? Why are you frowning like that? I think you’ve been frowning too much recently."
+
+  - sp: FOOL
+    o:
+      - "*(to LEAR)* Thou wast a pretty fellow when thou hadst no need to care for her frowning. Now thou art an O without a figure. I am better than thou art now. I am a fool. Thou art nothing."
+      - "*(to GONERIL)* Yes, forsooth, I will hold my tongue. So your face bids me, though you say nothing. Mum, mum,"
+      - "He that keeps nor crust nor crumb,"
+      - "Weary of all, shall want some."
+      - "*(indicates LEAR)* That’s a shelled peascod."
+    m:
+      - "*(to LEAR)* You were better off when you didn’t have to care whether she frowned or not. Now you’re a big zero, with no digit in front of it to give it value. I’m better than you are—I’m a fool and you’re nothing."
+      - "*(to GONERIL)* Yes, I promise I’ll shut up. That’s what you’re telling me with that expression on your face, even though you don’t say anything. Mum, mum,"
+      - "The man who gives away his crust and his crumbs"
+      - "Will discover that he needs some crumbs back."
+      - "*(pointing at LEAR)* That guy is an empty pea pod."
+
+  - sp: GONERIL
+    o:
+      - "*(to LEAR)* Not only, sir, this your all-licensed fool,"
+      - "But other of your insolent retinue"
+      - "Do hourly carp and quarrel, breaking forth"
+      - "In rank and not-to-be-endurèd riots. Sir,"
+      - "I had thought by making this well known unto you"
+      - "To have found a safe redress, but now grow fearful"
+      - "By what yourself too late have spoke and done"
+      - "That you protect this course and put it on"
+      - "By your allowance—which if you should, the fault"
+      - "Would not ’scape censure, nor the redresses sleep"
+      - "Which in the tender of a wholesome weal"
+      - "Might in their working do you that offense,"
+      - "Which else were shame, that then necessity"
+      - "Will call discreet proceeding."
+    m:
+      - "*(to LEAR)* It’s not just your fool here who can say whatever he wants, but your whole obnoxious entourage keeps whining and arguing, bursting out in intolerably vicious riots. Sir, I thought you could put an end to all this if I told you about it. But judging by what you’ve said and done recently, I’m worried that you don’t mind this chaos, and even approve of it. If that’s true, it’s shameful. I realize that restraining your knights will damage your reputation with them—and under ordinary circumstances it would be unfortunate to have them see you as an ogre. However, this is an extreme situation, and it’s more important to control it than to worry about how you’ll look."
+
+  - sp: FOOL
+    o:
+      - "For you know, nuncle,"
+      - "The hedge-sparrow fed the cuckoo so long,"
+      - "That it’s had it head bit off by it young."
+      - "So out went the candle and we were left darkling."
+    m:
+      - "You know, uncle,"
+      - "A sparrow once raised a cuckoo in its nest"
+      - "Until the cuckoo grew up and bit the sparrow’s head off."
+      - "So the candle went out and now we’re all in the dark."
+
+  - sp: LEAR
+    o:
+      - "Are you our daughter?"
+    m:
+      - "Are you my daughter?"
+
+  - sp: GONERIL
+    o:
+      - "Come, sir,"
+      - "I would you would make use of that good wisdom"
+      - "Whereof I know you are fraught, and put away"
+      - "These dispositions that of late transform you"
+      - "From what you rightly are."
+    m:
+      - "Come on, sir. I know you’re very wise, and I wish you would use some of that wisdom to snap out of this mood you’ve been in lately and be your true self again."
+
+  - sp: FOOL
+    o:
+      - "May not an ass know when the cart draws the horse?"
+      - "Whoop, Jug! I love thee."
+    m:
+      - "Even an idiot knows when the normal order has been inverted and the cart is pulling the horse. Whoo-hoo, honey, I love you!"
+
+  - sp: LEAR
+    o:
+      - "Does any here know me? Why, this is not Lear."
+      - "Doth Lear walk thus? Speak thus? Where are his eyes?"
+      - "Either his notion weakens, or his discernings"
+      - "Are lethargied. Ha, sleeping or waking?"
+      - "Sure, ’tis not so."
+      - "Who is it that can tell me who I am?"
+    m:
+      - "Does anyone here know who I am? I’m not Lear. Does Lear walk and talk like this? Where are his eyes? Either his mind is losing its grip or his judgment is screwy.—Hey, am I awake? I don’t think so. Who can tell me who I am?"
+
+  - sp: FOOL
+    o:
+      - "Lear’s shadow."
+    m:
+      - "You’re Lear’s shadow."
+
+  - sp: LEAR
+    o:
+      - "I would learn that. For by the marks"
+      - "Of sovereignty, knowledge, and reason,"
+      - "I should be false persuaded I had daughters."
+    m:
+      - "I’d like to find out who I am, since the obvious signs around me wrongly indicate that I’ve got daughters."
+
+  - sp: FOOL
+    o:
+      - "Which they will make an obedient father."
+    m:
+      - "Daughters who can make you obey them."
+
+  - sp: LEAR
+    o:
+      - "*(to GONERIL)* Your name, fair gentlewoman?"
+    m:
+      - "*(to GONERIL)* What’s your name, my dear lady?"
+
+  - sp: GONERIL
+    o:
+      - "This admiration, sir, is much o’ th’ savor"
+      - "Of other your new pranks. I do beseech you"
+      - "To understand my purposes aright."
+      - "As you are old and reverend, should be wise."
+      - "Here do you keep a hundred knights and squires,"
+      - "Men so disordered, so debauched and bold"
+      - "That this our court, infected with their manners,"
+      - "Shows like a riotous inn. Epicurism and lust"
+      - "Make it more like a tavern or a brothel"
+      - "Than a graced palace. The shame itself doth speak"
+      - "For instant remedy. Be then desired"
+      - "By her that else will take the thing she begs,"
+      - "A little to disquantity your train,"
+      - "And the remainder that shall still depend"
+      - "To be such men as may besort your age,"
+      - "Which know themselves and you."
+    m:
+      - "This fake astonishment of yours is just like your other pranks. I’m asking you to understand my point of view. Since you’re old and respected, you should be wise. But you’re keeping a hundred knights here who are so disorderly, vulgar, and obnoxious that our noble court is starting to look like a noisy cheap hotel. They’re such oversexed gluttons that I feel like we’re living in a pub or a whorehouse rather than a respectable palace. It’s shameful, and we have to make some changes right away. Please, as a favor to me—and if you don’t do it for me, I’ll do it myself—reduce the number of your knights a little. Keep the ones who are older, like you, and who act their age."
+
+  - sp: LEAR
+    o:
+      - "Darkness and devils!"
+      - "Saddle my horses. Call my train together.—"
+      - "Degenerate bastard, I’ll not trouble thee."
+      - "Yet have I left a daughter."
+    m:
+      - "Hell and damnation! Saddle up my horses. Call my knights together. I won’t bother you any more, you monstrous bastard. You’re not really my daughter, but I still have one daughter left."
+
+  - sp: GONERIL
+    o:
+      - "You strike my people, and your disordered rabble"
+      - "Make servants of their betters."
+    m:
+      - "You hit my servants, and your disorderly mob of knights treat their superiors like servants."
+
+  - os: "Enter ALBANY"
+    ms: "ALBANY enters."
+
+  - sp: LEAR
+    o:
+      - "Woe that too late repents!—"
+      - "*(to ALBANY)*     O sir, are you come?"
+      - "Is it your will? Speak, sir.—Prepare my horses."
+    m:
+      - "You’ll be sorry later, but it’ll be too late. *(to ALBANY)* Oh, sir, are you here now? You decided to come? Answer me, sir. *(to attendants)* Get my horses ready."
+
+  - os: "Exit attendant"
+    ms: "An attendant exits."
+
+  - o:
+      - "Ingratitude, thou marble-hearted fiend,"
+      - "More hideous when thou show’st thee in a child"
+      - "Than the sea monster."
+    m:
+      - "Ingratitude is always hideous, but an ungrateful child is uglier than a sea monster!"
+
+  - sp: ALBANY
+    o:
+      - "Pray, sir, be patient."
+    m:
+      - "Please, sir, be patient."
+
+  - sp: LEAR
+    o:
+      - "*(to GONERIL)*   Detested kite, thou liest!"
+      - "My train are men of choice and rarest parts"
+      - "That all particulars of duty know"
+      - "And in the most exact regard support"
+      - "The worships of their name. O most small fault,"
+      - "How ugly didst thou in Cordelia show,"
+      - "Which like an engine wrenched my frame of nature"
+      - "From the fixed place, drew from heart all love,"
+      - "And added to the gall! O Lear, Lear, Lear!"
+      - "*(strikes his head)*"
+      - "Beat at this gate that let thy folly in"
+      - "And thy dear judgment out!—Go, go, my people."
+    m:
+      - "*(to GONERIL)* You disgusting vulture, you’re a liar! My knights are the finest men who can attend a king, and they meticulously uphold their reputation. Oh, how ugly did Cordelia’s small flaw appear! And now Cordelia’s small flaw has bent me completely out of shape and sucked all the love out of my heart. Oh, Lear, Lear, Lear! *(he hits himself on the head)* Let me beat this portal that let my good sense out and my foolishness in!— Go, go, people."
+
+  - sp: ALBANY
+    o:
+      - "My lord, I am guiltless, as I am ignorant,"
+      - "Of what hath moved you."
+    m:
+      - "My lord, I have no idea what’s upset you, but whatever it is, I had nothing to do with it."
+
+  - sp: LEAR
+    o:
+      - "It may be so, my lord."
+      - "Hear, Nature, hear, dear goddess, hear!"
+      - "Suspend thy purpose if thou didst intend"
+      - "To make this creature fruitful."
+      - "Into her womb convey sterility."
+      - "Dry up in her the organs of increase,"
+      - "And from her derogate body never spring"
+      - "A babe to honor her. If she must teem,"
+      - "Create her child of spleen, that it may live"
+      - "And be a thwart disnatured torment to her."
+      - "Let it stamp wrinkles in her brow of youth,"
+      - "With cadent tears fret channels in her cheeks,"
+      - "Turn all her mother’s pains and benefits"
+      - "To laughter and contempt, that she may feel—"
+      - "That she may feel"
+      - "How sharper than a serpent’s tooth it is"
+      - "To have a thankless child.—Away, away!"
+    m:
+      - "That may be true, my lord. Ah, dear Nature, my goddess, listen to me! Change your plans if you ever intended for this woman to have children. Make her sterile and dry up her womb so that no baby will ever come out of her body and honor her. If she must give birth, make her child a bad seed who will torment her, give her a forehead wrinkled with worry, make her cry until her cheeks are sunken. Let it be a wicked child who mocks the mother who cares for it. Make my daughter feel—make her feel how an ungrateful child hurts worse than a snakebite.—Now let’s leave. Go!"
+
+  - os: "Exeunt LEAR, FOOL, KENT, FIRST KNIGHT and the other attendants"
+    ms: "LEAR, the FOOL, KENT, FIRST KNIGHT, and attendant knights exit."
+
+  - sp: ALBANY
+    o:
+      - "Now gods that we adore, whereof comes this?"
+    m:
+      - "Dear gods in heaven, what’s the reason for this?"
+
+  - sp: GONERIL
+    o:
+      - "Never afflict yourself to know more of it,"
+      - "But let his disposition have that scope"
+      - "That dotage gives it."
+    m:
+      - "Don’t even bother to ask the reasons. Just let him rant and rave. He’s senile."
+
+  - os: "Enter LEAR and FOOL"
+    ms: "LEAR enters with the FOOL."
+
+  - sp: LEAR
+    o:
+      - "What, fifty of my followers at a clap?"
+      - "Within a fortnight?"
+    m:
+      - "What, fifty of my knights dismissed all at once? In only two weeks?"
+
+  - sp: ALBANY
+    o:
+      - "What’s the matter, sir?"
+    m:
+      - "What are you talking about, sir?"
+
+  - sp: LEAR
+    o:
+      - "I’ll tell thee."
+      - "*(to GONERIL)* Life and death! I am ashamed"
+      - "That thou hast power to shake my manhood thus,"
+      - "That these hot tears which break from me perforce"
+      - "Should make thee worth them. Blasts and fogs upon thee!"
+      - "Th’ untented woundings of a father’s curse"
+      - "Pierce every sense about thee! Old fond eyes,"
+      - "Beweep this cause again, I’ll pluck ye out"
+      - "And cast you, with the waters that you loose,"
+      - "To temper clay. Yea, is ’t come to this?"
+      - "Ha? Let it be so. I have another daughter,"
+      - "Who I am sure is kind and comfortable."
+      - "When she shall hear this of thee, with her nails"
+      - "She’ll flay thy wolvish visage. Thou shalt find"
+      - "That I’ll resume the shape which thou dost think"
+      - "I have cast off for ever. Thou shalt, I warrant thee."
+    m:
+      - "I’ll tell you. *(to GONERIL)* I’m ashamed that you have the power to upset me like this, as though you’re worth the tears you’re making me shed. Damn you! May you feel every pain a father’s curse can bring! If I cry again because of you, I’ll rip my eyes out of their sockets and throw them and their wet tears down to moisten the earth. Has it come to this? Then so be it. I have one more daughter who I’m sure is kind. When she hears what you’ve done to me, she’ll tear up your wolflike face with her fingernails. And then you’ll see that despite what you thought, I’ll be as powerful as I was before. You’ll see, I promise you."
+
+  - os: "Exit LEAR"
+    ms: "LEAR exits."
+
+  - sp: GONERIL
+    o:
+      - "Do you mark that, my lord?"
+    m:
+      - "Did you hear that?"
+
+  - sp: ALBANY
+    o:
+      - "I cannot be so partial, Goneril,"
+      - "To the great love I bear you—"
+    m:
+      - "Goneril, you know how much I love you, but still I have to say—"
+
+  - sp: GONERIL
+    o:
+      - "    Pray you, content."
+      - "Come, sire, no more.—What, Oswald, ho!"
+      - "*(to FOOL)* You, sir, more knave than fool, after your master."
+    m:
+      - "Shush, please. Come, sir, no more.—Oswald, come here! *(to FOOL)* And you, sir, you’re more of a rascal than a fool. Go follow your master."
+
+  - sp: FOOL
+    o:
+      - "Nuncle Lear, nuncle Lear, tarry and take the fool with thee."
+      - "A fox when one has caught her"
+      - "And such a daughter"
+      - "Should sure to the slaughter,"
+      - "If my cap would buy a halter."
+      - "So the fool follows after."
+    m:
+      - "Uncle Lear, uncle Lear, wait. Take your fool with you."
+      - "A fox you’ve trapped"
+      - "And such a daughter"
+      - "Should both be slaughtered,"
+      - "If my fool’s cap is worth a rope to bind them."
+      - "So the fool follows you."
+
+  - os: "Exit FOOL"
+    ms: "The FOOL exits."
+
+  - sp: GONERIL
+    o:
+      - "This man hath had good counsel—a hundred knights!"
+      - "’Tis politic and safe to let him keep"
+      - "At point a hundred knights, yes, that on every dream,"
+      - "Each buzz, each fancy, each complaint, dislike,"
+      - "He may enguard his dotage with their powers"
+      - "And hold our lives in mercy?—Oswald, I say!"
+    m:
+      - "My father can’t think straight—a hundred knights! Just imagine the risk we run in letting him keep a hundred knights around! He could use them to strong-arm us into bowing to every little whim of his, and keep us at his mercy.—Oswald, where are you?"
+
+  - sp: ALBANY
+    o:
+      - "Well, you may fear too far."
+    m:
+      - "You may be exaggerating the risks."
+
+  - sp: GONERIL
+    o:
+      - "Safer than trust too far."
+      - "Let me still take away the harms I fear,"
+      - "Not fear still to be taken. I know his heart."
+      - "What he hath uttered I have writ my sister."
+      - "If she sustain him and his hundred knights"
+      - "When I have showed th’ unfitness—"
+    m:
+      - "That’s better than exaggerating our trust. It’s always better to get rid of what you’re scared of than to be afraid. I know how his mind works. I’ve written to my sister telling her everything he’s said. If she welcomes him and his hundred knights after I’ve shown how inappropriately he’s behaved—"
+
+  - os: "Enter OSWALD the steward"
+    ms: "OSWALD enters."
+
+  - sp: OSWALD
+    o:
+      - "Here, madam."
+    m:
+      - "Here, ma’am."
+
+  - sp: GONERIL
+    o:
+      - "How now, Oswald?"
+      - "What, have you writ that letter to my sister?"
+    m:
+      - "Well, Oswald? Have you written that letter to my sister yet?"
+
+  - sp: OSWALD
+    o:
+      - "Ay, madam."
+    m:
+      - "Yes, ma’am."
+
+  - sp: GONERIL
+    o:
+      - "Take you some company, and away to horse."
+      - "Inform her full of my particular fear,"
+      - "And thereto add such reasons of your own"
+      - "As may compact it more. Get you gone"
+      - "And hasten your return."
+    m:
+      - "Take some men and horses and go to her. Tell her everything that worries me. Add details of your own to back up what I’m saying. Now go, and hurry back."
+
+  - os: "Exit OSWALD"
+    ms: "OSWALD exits."
+
+  - o:
+      - "  No, no, my lord,"
+      - "Though I condemn not, yet under pardon"
+      - "You are much more attasked for want of wisdom"
+      - "Than praised for harmful mildness."
+    m:
+      - "No, no, my husband, I’m not angry that you urge me to deal more gently with my father. But you’re showing a lack of wisdom that that is much more noticeable than your tenderness toward him."
+
+  - sp: ALBANY
+    o:
+      - "How far your eyes may pierce I cannot tell."
+      - "Striving to better, oft we mar what’s well."
+    m:
+      - "Maybe you know more than I do. But people often screw things up trying to make them better."
+
+  - sp: GONERIL
+    o:
+      - "Nay, then—"
+    m:
+      - "No, not at all—"
+
+  - sp: ALBANY
+    o:
+      - "Well, well, th’ event."
+    m:
+      - "All right, all right. Time will tell."
+
+  - os: "Exeunt"
+    ms: "They exit."

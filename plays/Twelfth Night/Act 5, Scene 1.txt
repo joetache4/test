@@ -1,0 +1,1101 @@
+play: Twelfth Night
+title: Act 5, Scene 1
+group: 5
+order: 17
+text:
+  - os: "Enter FOOL and FABIAN"
+    ms: "The FOOL and FABIAN enter."
+
+  - sp: FABIAN
+    o:
+      - "Now, as thou lovest me, let me see his letter."
+    m:
+      - "If you’re my friend, you’ll let me see his letter."
+
+  - sp: FOOL
+    o:
+      - "Good Master Fabian, grant me another request."
+    m:
+      - "Dear Mr. Fabian, do me another favor first."
+
+  - sp: FABIAN
+    o:
+      - "Anything."
+    m:
+      - "Anything."
+
+  - sp: FOOL
+    o:
+      - "Do not desire to see this letter."
+    m:
+      - "Don’t ask to see this letter."
+
+  - sp: FABIAN
+    o:
+      - "This is, to give a dog and in recompense desire my dog again."
+    m:
+      - "That’s like giving someone a dog as a present, and then asking for the dog back in return."
+
+  - os: "Enter ORSINO, VIOLA, CURIO, and lords"
+    ms: "ORSINO, VIOLA, CURIO, and lords enter."
+
+  - sp: ORSINO
+    o:
+      - "Belong you to the Lady Olivia, friends?"
+    m:
+      - "My friends, are you all Lady Olivia’s servants?"
+
+  - sp: FOOL
+    o:
+      - "Ay, sir, we are some of her trappings."
+    m:
+      - "Yes, sir, we’re part of her entourage."
+
+  - sp: ORSINO
+    o:
+      - "I know thee well. How dost thou, my good fellow?"
+    m:
+      - "I know you. How are you, my friend?"
+
+  - sp: FOOL
+    o:
+      - "Truly, sir, the better for my foes and the worse for my friends."
+    m:
+      - "I’m better off because of my enemies, and worse off because of my friends."
+
+  - sp: ORSINO
+    o:
+      - "Just the contrary. The better for thy friends."
+    m:
+      - "You mean it the other way around. You’re better off because of your friends."
+
+  - sp: FOOL
+    o:
+      - "No, sir, the worse."
+    m:
+      - "No, sir, worse off."
+
+  - sp: ORSINO
+    o:
+      - "How can that be?"
+    m:
+      - "How can that be?"
+
+  - sp: FOOL
+    o:
+      - "Marry, sir, they praise me and make an ass of me, now my foes tell me plainly I am an ass. So that by my foes, sir I profit in the knowledge of myself, and by my friends, I am abused. So that, conclusions to be as kisses, if your four negatives make your two affirmatives, why then the worse for my friends and the better for my foes."
+    m:
+      - "Well, my friends praise me and make me look like an idiot, while my enemies tell me straightforwardly that I am an idiot. My enemies help me understand myself better, which is an advantage, and my friends help me lie about myself, which is a disadvantage. So if four negatives make two affirmatives, I’m worse off because of my friends and better off because of my foes."
+
+  - sp: ORSINO
+    o:
+      - "Why, this is excellent."
+    m:
+      - "That’s excellent."
+
+  - sp: FOOL
+    o:
+      - "By my troth, sir, no—though it please you to be one of my friends."
+    m:
+      - "Don’t say that—unless you want to be one of my friends."
+
+  - sp: ORSINO
+    o:
+      - "*(giving a coin)*"
+      - "Thou shalt not be the worse for me: there’s gold."
+    m:
+      - "*(he gives him a coin)* You won’t be worse off because of me: here’s some money."
+
+  - sp: FOOL
+    o:
+      - "But that it would be double-dealing, sir, I would you could make it another."
+    m:
+      - "That’s a nice hand you dealt me. But if it’s not double-dealing, sir, I wish you’d deal me another."
+
+  - sp: ORSINO
+    o:
+      - "O, you give me ill counsel."
+    m:
+      - "Oh, you’re a naughty one, encouraging double-dealing."
+
+  - sp: FOOL
+    o:
+      - "Put your grace in your pocket, sir, for this once, and let your flesh and blood obey it."
+    m:
+      - "Ignore your virtue and nobility just this once, sir, go ahead."
+
+  - sp: ORSINO
+    o:
+      - "Well, I will be so much a sinner, to be a double-dealer."
+      - "There’s another. *(giving a coin)*"
+    m:
+      - "Well, I’ll commit the sin of double-dealing, and deal you a second coin. Here it is. *(he gives him another coin)*"
+
+  - sp: FOOL
+    o:
+      - "Primo, secundo, tertio is a good play, and the old saying is, the third pays for all. The triplex, sir, is a good tripping measure, or the bells of Saint Bennet, sir, may put you in mind—one, two, three."
+    m:
+      - "And maybe a third? You know, there’s a game called “third time’s the charm,” which is fun to play, and they always say that three’s a magic number. The three-beat rhythm is a good for dancing, and the church bells chime—one, two, three."
+
+  - sp: ORSINO
+    o:
+      - "You can fool no more money out of me at this throw. If you will let your lady know I am here to speak with her, and bring her along with you, it may awake my bounty further."
+    m:
+      - "You can’t get any more money out of me right now. If you tell your lady I’m here to speak with her, and bring her out with you when you come back, you might make me more generous."
+
+  - sp: FOOL
+    o:
+      - "Marry, sir, lullaby to your bounty till I come again. I go, sir, but I would not have you to think that my desire of having is the sin of covetousness. But, as you say, sir, let your bounty take a nap, I will awake it anon."
+    m:
+      - "Well then, sing a lullaby to your generosity: it’ll nap until I come back. But don’t think I’m doing this because I’m greedy. I’ll be back soon to wake up your generosity."
+
+  - os: "Exit"
+    ms: "The FOOL exits."
+
+  - sp: VIOLA
+    o:
+      - "Here comes the man, sir, that did rescue me."
+    m:
+      - "Here comes the man who rescued me, sir."
+
+  - os: "Enter ANTONIO and OFFICERS"
+    ms: "ANTONIO and OFFICERS enter."
+
+  - sp: ORSINO
+    o:
+      - "That face of his I do remember well."
+      - "Yet, when I saw it last, it was besmeared"
+      - "As black as Vulcan in the smoke of war."
+      - "A baubling vessel was he captain of,"
+      - "For shallow draught and bulk unprizable,"
+      - "With which such scathful grapple did he make"
+      - "With the most noble bottom of our fleet,"
+      - "That very envy and the tongue of loss"
+      - "Cried fame and honor on him.—What’s the matter?"
+    m:
+      - "I remember his face well. Though the last time I saw him it was black from the smoke of war. He was the captain of a flimsy boat that was practically worthless because it was so small. But with that tiny boat he fought such a fierce battle against the largest warship in our fleet that we had to admire his courage and skill even though he caused us a lot of damage.—What’s going on?"
+
+  - sp: FIRST OFFICER
+    o:
+      - "Orsino, this is that Antonio"
+      - "That took the *Phoenix* and her fraught from Candy,"
+      - "And this is he that did the *Tiger* board"
+      - "When your young nephew Titus lost his leg."
+      - "Here in the streets, desperate of shame and state,"
+      - "In private brabble did we apprehend him."
+    m:
+      - "Orsino, this is the same Antonio who took the *Phoenix* and her cargo from Crete and captured our ship the *Tiger* during the battle where your young nephew Titus lost his leg. We arrested him here for fighting in the streets. It’s as if he didn’t care we were on the lookout for him here."
+
+  - sp: VIOLA
+    o:
+      - "He did me kindness, sir, drew on my side,"
+      - "But in conclusion put strange speech upon me."
+      - "I know not what ’twas but distraction."
+    m:
+      - "He was kind to me and took my side in the fight. But then he said strange things to me. He might be insane. I don’t know what else it could be."
+
+  - sp: ORSINO
+    o:
+      - "Notable pirate! Thou saltwater thief,"
+      - "What foolish boldness brought thee to their mercies,"
+      - "Whom thou, in terms so bloody and so dear,"
+      - "Hast made thine enemies?"
+    m:
+      - "But you’re a famous pirate! A master thief of the seas! What made you stupid and careless enough to come visit the people you robbed and slaughtered?"
+
+  - sp: ANTONIO
+    o:
+      - "  Orsino, noble sir,"
+      - "Be pleased that I shake off these names you give me."
+      - "Antonio never yet was thief or pirate,"
+      - "Though, I confess, on base and ground enough,"
+      - "Orsino’s enemy. A witchcraft drew me hither."
+      - "That most ingrateful boy there by your side"
+      - "From the rude sea’s enraged and foamy mouth"
+      - "Did I redeem. A wreck past hope he was."
+      - "His life I gave him and did thereto add"
+      - "My love, without retention or restraint,"
+      - "All his in dedication. For his sake"
+      - "Did I expose myself, pure for his love,"
+      - "Into the danger of this adverse town,"
+      - "Drew to defend him when he was beset,"
+      - "Where being apprehended, his false cunning,"
+      - "(Not meaning to partake with me in danger)"
+      - "Taught him to face me out of his acquaintance,"
+      - "And grew a twenty-years-removed thing"
+      - "While one would wink, denied me mine own purse,"
+      - "Which I had recommended to his use"
+      - "Not half an hour before."
+    m:
+      - "Orsino, sir, please don’t call me those names. I was never a thief or a pirate, though I admit I was your enemy for good reasons. I came here because someone put a spell on me. I rescued that ungrateful boy next to you from drowning. He was a wreck, almost past hope. I saved his life and gave him my love, without reservation. I dedicated myself to him. For his sake I ran the risk of revisiting this unfriendly town, and I drew my sword to defend him when he was in trouble. But when the police caught us, he was clever and treacherous enough to pretend he’d never met me before. He acted like someone who barely knew me. He refused to give me my own wallet, which I had lent him only half an hour before."
+
+  - sp: VIOLA
+    o:
+      - "How can this be?"
+    m:
+      - "How is that possible?"
+
+  - sp: ORSINO
+    o:
+      - "*(to ANTONIO)* When came he to this town?"
+    m:
+      - "*(to ANTONIO)* When did he come to town?"
+
+  - sp: ANTONIO
+    o:
+      - "Today, my lord, and for three months before,"
+      - "No interim, not a minute’s vacancy,"
+      - "Both day and night did we keep company."
+    m:
+      - "Today, my lord. And for three months before that, we spent every day and night together."
+
+  - os: "Enter OLIVIA and attendants"
+    ms: "OLIVIA and attendants enter."
+
+  - sp: ORSINO
+    o:
+      - "Here comes the Countess. Now heaven walks on earth."
+      - "But for thee, fellow. Fellow, thy words are madness:"
+      - "Three months this youth hath tended upon me;"
+      - "But more of that anon. *(to an officer)* Take him aside."
+    m:
+      - "Ah, the countess is coming! An angel is walking on earth. But as for you, mister, what you’re saying is insane. This young man has worked for me for three months; but more about that later. *(to an officer)* Take him away."
+
+  - sp: OLIVIA
+    o:
+      - "What would my lord, but that he may not have,"
+      - "Wherein Olivia may seem serviceable?"
+      - "Cesario, you do not keep promise with me."
+    m:
+      - "What can I give you that you want, my lord, except the one thing you can’t have? Cesario, you missed your appointment with me."
+
+  - sp: VIOLA
+    o:
+      - "Madam?"
+    m:
+      - "Madam?"
+
+  - sp: ORSINO
+    o:
+      - "Gracious Olivia—"
+    m:
+      - "Dearest Olivia—"
+
+  - sp: OLIVIA
+    o:
+      - "What do you say, Cesario?—Good my lord—"
+    m:
+      - "What do you have to say for yourself, Cesario?—My lord, please—"
+
+  - sp: VIOLA
+    o:
+      - "My lord would speak. My duty hushes me."
+    m:
+      - "My lord wants to speak. It’s my duty to be quiet."
+
+  - sp: OLIVIA
+    o:
+      - "If it be aught to the old tune, my lord,"
+      - "It is as fat and fulsome to mine ear"
+      - "As howling after music."
+    m:
+      - "If what you have to say is anything like what you used to say, it’ll be as repulsive to my ears as wild screams after beautiful music."
+
+  - sp: ORSINO
+    o:
+      - "Still so cruel?"
+    m:
+      - "Are you still so cruel?"
+
+  - sp: OLIVIA
+    o:
+      - "Still so constant, lord."
+    m:
+      - "I am still so faithful, my lord."
+
+  - sp: ORSINO
+    o:
+      - "What, to perverseness? You, uncivil lady,"
+      - "To whose ingrate and unauspicious altars"
+      - "My soul the faithfull’st off’rings have breathed out"
+      - "That e’er devotion tendered—what shall I do?"
+    m:
+      - "What, faithful to being mean and nasty? You’re not polite! I breathed from my soul the most faithful offerings to your ungrateful altars that any devoted person has ever offered—what more am I supposed to do?"
+
+  - sp: OLIVIA
+    o:
+      - "Even what it please my lord that shall become him."
+    m:
+      - "You can do whatever you want as long as it’s socially appropriate."
+
+  - sp: ORSINO
+    o:
+      - "Why should I not, had I the heart to do it,"
+      - "Like to the Egyptian thief at point of death,"
+      - "Kill what I love?—A savage jealousy"
+      - "That sometimes savors nobly. But hear me this:"
+      - "Since you to nonregardance cast my faith,"
+      - "And that I partly know the instrument"
+      - "That screws me from my true place in your favor,"
+      - "Live you the marble-breasted tyrant still."
+      - "But this your minion, whom I know you love,"
+      - "And whom, by heaven I swear, I tender dearly,"
+      - "Him will I tear out of that cruel eye"
+      - "Where he sits crowned in his master’s spite."
+      - "Come, boy, with me. My thoughts are ripe in mischief:"
+      - "I’ll sacrifice the lamb that I do love"
+      - "To spite a raven’s heart within a dove."
+    m:
+      - "Maybe I should act like the Egyptian thief who kills the woman he loves before he dies? That kind of savage jealousy sometimes seems noble. But listen to me. Since you keep denying the love I feel for you, and since I know who’s stealing my place in your heart, you can go on being cold-hearted, but I’m going to take this boy from you. He knows his master loves you. I’m doing this, even though he’s dear to me, because I know you love him. Come with me, boy. I’m ready to do something extreme. I’ll sacrifice this boy I care for, just to spite a beautiful woman with a heart of stone."
+
+  - sp: VIOLA
+    o:
+      - "And I, most jocund, apt, and willingly,"
+      - "To do you rest, a thousand deaths would die."
+    m:
+      - "And I would die a thousand deaths cheerfully, if it made your life easier."
+
+  - sp: OLIVIA
+    o:
+      - "Where goes Cesario?"
+    m:
+      - "Where’s Cesario going?"
+
+  - sp: VIOLA
+    o:
+      - "  After him I love"
+      - "More than I love these eyes, more than my life,"
+      - "More, by all mores, than e’er I shall love wife."
+      - "If I do feign, you witnesses above,"
+      - "Punish my life for tainting of my love!"
+    m:
+      - "Following the one I love more than my eyes or my life. More than I will ever love a wife. That’s the truth. The angels in heaven are my witnesses, and can see how pure my love is."
+
+  - sp: OLIVIA
+    o:
+      - "Ay me, detested! How am I beguiled!"
+    m:
+      - "Ah, how awful, I feel so used! I’ve been tricked!"
+
+  - sp: VIOLA
+    o:
+      - "Who does beguile you? Who does do you wrong?"
+    m:
+      - "Who tricked you? Who treated you badly?"
+
+  - sp: OLIVIA
+    o:
+      - "Hast thou forgot thyself? Is it so long?—"
+      - "Call forth the holy father."
+    m:
+      - "Have you completely forgotten? Has it been so long? Call the priest."
+
+  - os: "Exit an attendant"
+    ms: "An attendant exits."
+
+  - sp: ORSINO
+    o:
+      - "*(to VIOLA)*"
+      - "  Come, away!"
+    m:
+      - "*(to VIOLA)* Come on, let’s go!"
+
+  - sp: OLIVIA
+    o:
+      - "Whither, my lord?—Cesario, husband, stay."
+    m:
+      - "Go where, my lord?—Cesario, my husband, stay here."
+
+  - sp: ORSINO
+    o:
+      - "Husband?"
+    m:
+      - "Husband?"
+
+  - sp: OLIVIA
+    o:
+      - "  Ay, husband. Can he that deny?"
+    m:
+      - "Yes, husband. Can he deny it?"
+
+  - sp: ORSINO
+    o:
+      - "Her husband, sirrah?"
+    m:
+      - "Are you her husband, boy?"
+
+  - sp: VIOLA
+    o:
+      - "  No, my lord, not I."
+    m:
+      - "No, my lord, not me."
+
+  - sp: OLIVIA
+    o:
+      - "Alas, it is the baseness of thy fear"
+      - "That makes thee strangle thy propriety."
+      - "Fear not, Cesario. Take thy fortunes up."
+      - "Be that thou know’st thou art, and then thou art"
+      - "As great as that thou fear’st."
+    m:
+      - "You’re afraid, so you hide your identity. But don’t be afraid, Cesario. Accept the good luck that’s come your way. Be the person you know you are, and you’ll be as powerful as this person you fear."
+
+  - os: "Enter PRIEST"
+    ms: "The PRIEST enters."
+
+  - o:
+      - "  O, welcome, father!"
+      - "Father, I charge thee, by thy reverence,"
+      - "Here to unfold (though lately we intended"
+      - "To keep in darkness what occasion now"
+      - "Reveals before ’tis ripe) what thou dost know"
+      - "Hath newly passed between this youth and me."
+    m:
+      - "Oh, hello, father! Father, could I please ask you to tell these people what happened between me and this young man? (I know we wanted to hide it, but now the situation demands that we reveal everything.)"
+
+  - sp: PRIEST
+    o:
+      - "A contract of eternal bond of love,"
+      - "Confirmed by mutual joinder of your hands,"
+      - "Attested by the holy close of lips,"
+      - "Strengthened by interchangement of your rings,"
+      - "And all the ceremony of this compact"
+      - "Sealed in my function, by my testimony,"
+      - "Since when, my watch hath told me, toward my grave"
+      - "I have traveled but two hours."
+    m:
+      - "They were joined in an eternal bond of love and matrimony, and it was confirmed by a holy kiss and an exchange of rings. I witnessed it all as priest. It took place just two hours ago."
+
+  - sp: ORSINO
+    o:
+      - "O thou dissembling cub! What wilt thou be"
+      - "When time hath sowed a grizzle on thy case?"
+      - "Or will not else thy craft so quickly grow"
+      - "That thine own trip shall be thine overthrow?"
+      - "Farewell, and take her; but direct thy feet"
+      - "Where thou and I henceforth may never meet."
+    m:
+      - "*(to VIOLA)* Oh, you little liar! How much worse will you be when you’re older? Maybe you’ll get so good at deceit that your tricks will destroy you. Goodbye, and take her. Just never set foot in any place where you and I might happen to meet."
+
+  - sp: VIOLA
+    o:
+      - "My lord, I do protest—"
+    m:
+      - "My lord, I swear to you—"
+
+  - sp: OLIVIA
+    o:
+      - "  O, do not swear!"
+      - "Hold little faith, though thou hast too much fear."
+    m:
+      - "Oh, don’t swear! Keep a little bit of honesty, even if you’re afraid."
+
+  - os: "Enter SIR ANDREW"
+    ms: "SIR ANDREW enters."
+
+  - sp: SIR ANDREW
+    o:
+      - "For the love of God, a surgeon! Send one presently to Sir"
+      - "Toby."
+    m:
+      - "For the love of God, call a doctor! Sir Toby needs help right away."
+
+  - sp: OLIVIA
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: SIR ANDREW
+    o:
+      - "He has broke my head across and has given Sir Toby a bloody coxcomb too. For the love of God, your help! I had rather than forty pound I were at home."
+    m:
+      - "He cut my head and gave Sir Toby a bloody head, too. For the love of God, help us! I’d give forty pounds to be safe at home right now."
+
+  - sp: OLIVIA
+    o:
+      - "Who has done this, Sir Andrew?"
+    m:
+      - "Who did this, Sir Andrew?"
+
+  - sp: SIR ANDREW
+    o:
+      - "The Count’s gentleman, one Cesario. We took him for a coward, but he’s the very devil incardinate."
+    m:
+      - "The count’s messenger, Cesario. We thought he was a coward, but he fights like a devil."
+
+  - sp: ORSINO
+    o:
+      - "My gentleman, Cesario?"
+    m:
+      - "My Cesario?"
+
+  - sp: SIR ANDREW
+    o:
+      - "’Od’s lifelings, here he is!—You broke my head for nothing, and that that I did, I was set on to do ’t by Sir Toby."
+    m:
+      - "Oh, no, there he is! —You cut my head for no reason. Anything I did to you, I did it because Sir Toby made me."
+
+  - sp: VIOLA
+    o:
+      - "Why do you speak to me? I never hurt you."
+      - "You drew your sword upon me without cause,"
+      - "But I bespoke you fair and hurt you not."
+    m:
+      - "Why are you talking like this? I never hurt you. You waved your sword at me for no reason, but I was nice to you. I didn’t hurt you."
+
+  - sp: SIR ANDREW
+    o:
+      - "If a bloody coxcomb be a hurt, you have hurt me. I think you set nothing by a bloody coxcomb."
+    m:
+      - "If a bloody head counts as a hurt, then you hurt me. Apparently you think there’s nothing unusual about a bloody head."
+
+  - os: "Enter SIR TOBY BELCH and FOOL"
+    ms: "SIR TOBY BELCH and the FOOL enter."
+
+  - o:
+      - "Here comes Sir Toby halting. You shall hear more. But if he had not been in drink, he would have tickled you othergates than he did."
+    m:
+      - "Here comes Sir Toby, limping. He’ll tell you more of the story. If he hadn’t been drunk, he would’ve really roughed you up."
+
+  - sp: ORSINO
+    o:
+      - "How now, gentleman? How is ’t with you?"
+    m:
+      - "Hello, sir! How are you?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "That’s all one: has hurt me, and there’s the end on ’t. *(to FOOL)* Sot, didst see Dick Surgeon, sot?"
+    m:
+      - "It doesn’t matter how I am: he hurt me, and that’s that. *(to FOOL)* Fool, have you seen Dick the surgeon?"
+
+  - sp: FOOL
+    o:
+      - "Oh, he’s drunk, Sir Toby, an hour agone. His eyes were set at eight i’ the morning."
+    m:
+      - "Oh, he’s drunk, Sir Toby, for a whole hour now. His eyes started glazing over around eight in the morning."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Then he’s a rogue, and a passy-measures pavin. I hate a drunken rogue."
+    m:
+      - "Then he’s no good. I hate no-good drunks."
+
+  - sp: OLIVIA
+    o:
+      - "Away with him! Who hath made this havoc with them?"
+    m:
+      - "Take him away! Who did this to him?"
+
+  - sp: SIR ANDREW
+    o:
+      - "I’ll help you, Sir Toby, because we’ll be dressed together."
+    m:
+      - "I’ll help you, Sir Toby. They’ll treat our wounds together."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Will you help?—An ass-head, and a coxcomb, and a knave, a thin-faced knave, a gull!"
+    m:
+      - "Will you help me?—What an ass and a fool, a gullible no-good idiot!"
+
+  - sp: OLIVIA
+    o:
+      - "Get him to bed, and let his hurt be looked to."
+    m:
+      - "Get him to bed and make sure his wounds are treated."
+
+  - os: "Exeunt FOOL, FABIAN, SIR TOBY BELCH, and SIR ANDREW"
+    ms: "The FOOL, FABIAN, SIR TOBY BELCH, and SIR ANDREW exit."
+
+  - os: "Enter SEBASTIAN"
+    ms: "SEBASTIAN enters."
+
+  - sp: SEBASTIAN
+    o:
+      - "I am sorry, madam, I have hurt your kinsman,"
+      - "But, had it been the brother of my blood,"
+      - "I must have done no less with wit and safety."
+      - "You throw a strange regard upon me, and by that"
+      - "I do perceive it hath offended you."
+      - "Pardon me, sweet one, even for the vows"
+      - "We made each other but so late ago."
+    m:
+      - "I’m sorry, madam. I wounded your relative. But I would’ve been forced to do the same thing to my brother, since my safety was at stake. You’re looking at me strangely, so I guess you’re offended. But please forgive me, darling, for the sake of the vows we made to each other so recently."
+
+  - sp: ORSINO
+    o:
+      - "One face, one voice, one habit, and two persons!"
+      - "A natural perspective, that is and is not!"
+    m:
+      - "One face, one voice, one way of dressing, but two people! It’s like an optical illusion. It is and isn’t the same person!"
+
+  - sp: SEBASTIAN
+    o:
+      - "Antonio, O my dear Antonio!"
+      - "How have the hours racked and tortured me"
+      - "Since I have lost thee!"
+    m:
+      - "Antonio, oh my dear Antonio! I’ve been so tortured since I lost track of you!"
+
+  - sp: ANTONIO
+    o:
+      - "Sebastian are you?"
+    m:
+      - "Are you Sebastian?"
+
+  - sp: SEBASTIAN
+    o:
+      - "Fear’st thou that, Antonio?"
+    m:
+      - "Do you have any doubts, Antonio?"
+
+  - sp: ANTONIO
+    o:
+      - "How have you made division of yourself?"
+      - "An apple, cleft in two, is not more twin"
+      - "Than these two creatures. Which is Sebastian?"
+    m:
+      - "How did you divide yourself in two? These two people are as identical as two halves of an apple. Which one is Sebastian?"
+
+  - sp: OLIVIA
+    o:
+      - "Most wonderful!"
+    m:
+      - "How unbelievable!"
+
+  - sp: SEBASTIAN
+    o:
+      - "*(looking at VIOLA)* Do I stand there? I never had a brother;"
+      - "Nor can there be that deity in my nature,"
+      - "Of here and everywhere. I had a sister,"
+      - "Whom the blind waves and surges have devoured."
+      - "Of charity, what kin are you to me?"
+      - "What countryman? What name? What parentage?"
+    m:
+      - "*(looking at VIOLA)* Is that me standing over there? I never had a brother, and I’m certainly not a god who can be in two places at once. I had a sister who drowned. Please tell me, how am I related to you? Are you from my country? What’s your name? Who are your parents?"
+
+  - sp: VIOLA
+    o:
+      - "Of Messaline. Sebastian was my father;"
+      - "Such a Sebastian was my brother too,"
+      - "So went he suited to his watery tomb."
+      - "If spirits can assume both form and suit"
+      - "You come to fright us."
+    m:
+      - "I’m from Messaline. Sebastian was my father’s name, and my brother was named Sebastian too. He was dressed just like you are when he drowned. If ghosts can take on someone’s body and clothes, you must be a spirit who’s come to frighten us."
+
+  - sp: SEBASTIAN
+    o:
+      - "  A spirit I am indeed,"
+      - "But am in that dimension grossly clad"
+      - "Which from the womb I did participate."
+      - "Were you a woman, as the rest goes even,"
+      - "I should my tears let fall upon your cheek"
+      - "And say “Thrice-welcome, drownèd Viola!”"
+    m:
+      - "I am a spirit, yes, since I have a soul. But my spirit has a body attached to it, one that I’ve carried since I was in the womb. If you were a woman, I’d hug you now and cry, and say “Welcome back, drowned Viola!”"
+
+  - sp: VIOLA
+    o:
+      - "My father had a mole upon his brow."
+    m:
+      - "My father had a mole on his forehead."
+
+  - sp: SEBASTIAN
+    o:
+      - "And so had mine."
+    m:
+      - "Mine did too."
+
+  - sp: VIOLA
+    o:
+      - "And died that day when Viola from her birth"
+      - "Had numbered thirteen years."
+    m:
+      - "He died on Viola’s thirteenth birthday."
+
+  - sp: SEBASTIAN
+    o:
+      - "Oh, that record is lively in my soul!"
+      - "He finished indeed his mortal act"
+      - "That day that made my sister thirteen years."
+    m:
+      - "Oh, I remember that very clearly! It’s true, he died on the day my sister turned thirteen."
+
+  - sp: VIOLA
+    o:
+      - "If nothing lets to make us happy both"
+      - "But this my masculine usurped attire,"
+      - "Do not embrace me till each circumstance"
+      - "Of place, time, fortune, do cohere and jump"
+      - "That I am Viola. Which to confirm,"
+      - "I’ll bring you to a captain in this town,"
+      - "Where lie my maiden weeds, by whose gentle help"
+      - "I was preserved to serve this noble count."
+      - "All the occurrence of my fortune since"
+      - "Hath been between this lady and this lord."
+    m:
+      - "If the only thing keeping us from rejoicing is the fact that I’m wearing men’s clothes, then don’t hug me till I can prove beyond the shadow of a doubt that I’m Viola. I’ll take you to a sea captain here in town who’s got my women’s clothing in storage. He saved my life so I could serve this noble count. Everything that’s happened to me since then has involved my relationship with this lady and this lord."
+
+  - sp: SEBASTIAN
+    o:
+      - "*(to OLIVIA)* So comes it, lady, you have been mistook."
+      - "But nature to her bias drew in that."
+      - "You would have been contracted to a maid;"
+      - "Nor are you therein, by my life, deceived."
+      - "You are betrothed both to a maid and man."
+    m:
+      - "*(to OLIVIA)* So you got it wrong, my lady. But nature fixed everything, turning your love for my sister into a love for me. If you hadn’t, you would’ve married a maiden. But that’s not completely wrong. I’m still a virgin, so in a sense I’m a maiden too."
+
+  - sp: ORSINO
+    o:
+      - "*(to OLIVIA)* Be not amazed. Right noble is his blood."
+      - "If this be so, as yet the glass seems true,"
+      - "I shall have share in this most happy wreck."
+      - "*(to VIOLA)* Boy, thou hast said to me a thousand times"
+      - "Thou never shouldst love woman like to me."
+    m:
+      - "*(to OLIVIA)* Don’t be shocked. His blood is noble. If this is all as true as it seems to be, then I’m going to have a share in that lucky shipwreck. *(to VIOLA)* Boy, you told me a thousand times you’d never love a woman as much as you love me."
+
+  - sp: VIOLA
+    o:
+      - "And all those sayings will I overswear;"
+      - "And those swearings keep as true in soul"
+      - "As doth that orbèd continent the fire"
+      - "That severs day from night."
+    m:
+      - "Everything I said before I’ll say again. I swear I meant every word."
+
+  - sp: ORSINO
+    o:
+      - "  Give me thy hand,"
+      - "And let me see thee in thy woman’s weeds."
+    m:
+      - "Give me your hand and let me see you dressed in woman’s clothing."
+
+  - sp: VIOLA
+    o:
+      - "The captain that did bring me first on shore"
+      - "Hath my maid’s garments. He, upon some action,"
+      - "Is now in durance at Malvolio’s suit,"
+      - "A gentleman and follower of my lady’s."
+    m:
+      - "The captain who brought me to shore has my women’s clothes. For some reason he’s in prison now on some legal technicality, on Malvolio’s orders. Malvolio is a gentleman in my lady’s entourage."
+
+  - sp: OLIVIA
+    o:
+      - "He shall enlarge him."
+    m:
+      - "He’ll release him."
+
+  - os: "Enter FOOL with a letter, and FABIAN"
+    ms: "FABIAN and the FOOL with a letter enter."
+
+  - o:
+      - "Fetch Malvolio hither:"
+      - "And yet, alas, now I remember me,"
+      - "They say, poor gentleman, he’s much distract."
+      - "A most extracting frenzy of mine own"
+      - "From my remembrance clearly banished his."
+      - "*(to FOOL)* How does he, sirrah?"
+    m:
+      - "Go and get Malvolio—But, oh no! Now I remember, they say the poor man is mentally ill. I was so crazy myself that I forgot all about him. *(to the FOOL)* How is Malvolio doing, do you know?"
+
+  - sp: FOOL
+    o:
+      - "Truly, madam, he holds Beelzebub at the staves’ end as well as a man in his case may do. Has here writ a letter to you. I should have given ’t you today morning, but as a madman’s epistles are no gospels, so it skills not much when they are delivered."
+    m:
+      - "Well, he keeps the devil away as well as a man can in his situation. He’s written you a letter. I would’ve given it to you this morning, but a madman’s letters aren’t Gospel, so it doesn’t matter much if I’m a bit late."
+
+  - sp: OLIVIA
+    o:
+      - "Open ’t, and read it."
+    m:
+      - "Open it and read it."
+
+  - sp: FOOL
+    o:
+      - "Look then to be well edified when the fool delivers the madman. *(reads)* “By the Lord, madam,”—"
+    m:
+      - "There’s a lot to learn when a fool recites the words of a madman. *(he reads)* “I swear to God, madam,”—"
+
+  - sp: OLIVIA
+    o:
+      - "How now? Art thou mad?"
+    m:
+      - "Why are you talking like that? Are you insane?"
+
+  - sp: FOOL
+    o:
+      - "No, madam, I do but read madness. An your ladyship will have it as it ought to be, you must allow *vox.*"
+    m:
+      - "No, madam, I’m just reading an insane letter. If you want things done in the right way, you’ll have to let me read a crazy letter in a crazy voice."
+
+  - sp: OLIVIA
+    o:
+      - "Prithee, read i’ thy right wits."
+    m:
+      - "No, please, read it like a sane person."
+
+  - sp: FOOL
+    o:
+      - "So I do, madonna. But to read his right wits is to read thus."
+      - "Therefore perpend, my princess, and give ear."
+    m:
+      - "I will, my lady, but a sane person reading this would make it sound crazy. So listen up, princess."
+
+  - sp: OLIVIA
+    o:
+      - "*(giving the letter to FABIAN)* Read it you, sirrah."
+    m:
+      - "*(giving the letter to FABIAN)* Oh, you read it, sir."
+
+  - sp: FABIAN
+    o:
+      - "*(reads)*"
+      - "“By the Lord, madam, you wrong me, and the world shall know it. Though you have put me into darkness and given your drunken cousin rule over me, yet have I the benefit of my senses as well as your Ladyship. I have your own letter that induced me to the semblance I put on, with the which I doubt not but to do myself much right or you much shame. Think of me as you please. I leave my duty a little unthought of and speak out of my injury. The madly used Malvolio.”"
+    m:
+      - "*(he reads)*"
+      - "“I swear to God, madam, you’ve wronged me, and I’ll tell the whole world. You’ve shut me up in a dark room and given your drunken cousin authority over me, but I’m as sane as you are. I’ve got a letter from you encouraging me to act the way I did. If I didn’t have it, I couldn’t prove that I’m right and you’re wrong. I don’t care what you think of me. I’m going to forget my duties to you a little bit and complain about the injuries you’ve caused me. Signed,"
+      - "  The poorly treated Malvolio.”"
+
+  - sp: OLIVIA
+    o:
+      - "Did he write this?"
+    m:
+      - "Did he write this?"
+
+  - sp: FOOL
+    o:
+      - "Ay, madam."
+    m:
+      - "Yes, madam."
+
+  - sp: ORSINO
+    o:
+      - "This savors not much of distraction."
+    m:
+      - "It doesn’t sound like an insane person’s letter."
+
+  - sp: OLIVIA
+    o:
+      - "See him delivered, Fabian; bring him hither."
+    m:
+      - "Set him free. Fabian, bring him here."
+
+  - os: "Exit FABIAN"
+    ms: "FABIAN exits."
+
+  - o:
+      - "My lord so please you, these things further thought on,"
+      - "To think me as well a sister as a wife,"
+      - "One day shall crown the alliance on ’t, so please you,"
+      - "Here at my house and at my proper cost."
+    m:
+      - "My lord, I hope that after you think things over a bit you’ll come to like the idea of having me as a sister-in-law instead of a wife. We can have the weddings tomorrow if you want, here at my own house. I’ll pay for everything."
+
+  - sp: ORSINO
+    o:
+      - "Madam, I am most apt to embrace your offer."
+      - "*(to VIOLA)*"
+      - "Your master quits you, and for your service done him,"
+      - "So much against the mettle of your sex,"
+      - "So far beneath your soft and tender breeding,"
+      - "And since you called me “master” for so long,"
+      - "Here is my hand. You shall from this time be"
+      - "Your master’s mistress."
+    m:
+      - "I accept that offer happily, madam. *(to VIOLA)* So you’re free now. I’m offering you my hand in marriage because of your loyal service to me, which was far from what any woman should be expected to do, especially a noble woman. You’ve called me “master” for so long. And now you’ll be your master’s mistress."
+
+  - sp: OLIVIA
+    o:
+      - "*(to VIOLA)*     A sister! You are she."
+    m:
+      - "*(to VIOLA)* You’ll be my sister-in-law!"
+
+  - os: "Enter FABIAN, with MALVOLIO"
+    ms: "FABIAN enters with MALVOLIO"
+
+  - sp: ORSINO
+    o:
+      - "Is this the madman?"
+    m:
+      - "Is this the madman?"
+
+  - sp: OLIVIA
+    o:
+      - "  Ay, my lord, this same."
+      - "How now, Malvolio!"
+    m:
+      - "Yes, my lord. How are you, Malvolio?"
+
+  - sp: MALVOLIO
+    o:
+      - "  Madam, you have done me wrong,"
+      - "Notorious wrong."
+    m:
+      - "Madam, you’ve treated me badly, very badly."
+
+  - sp: OLIVIA
+    o:
+      - "Have I, Malvolio? No."
+    m:
+      - "I did, Malvolio? No."
+
+  - sp: MALVOLIO
+    o:
+      - "*(handing a paper)*"
+      - "    Lady, you have. Pray you, peruse that letter."
+      - "You must not now deny it is your hand."
+      - "Write from it if you can, in hand or phrase;"
+      - "Or say ’tis not your seal, not your invention:"
+      - "You can say none of this. Well, grant it then"
+      - "And tell me, in the modesty of honor,"
+      - "Why you have given me such clear lights of favor,"
+      - "Bade me come smiling and cross-gartered to you,"
+      - "To put on yellow stockings, and to frown"
+      - "Upon Sir Toby and the lighter people?"
+      - "And, acting this in an obedient hope,"
+      - "Why have you suffered me to be imprisoned,"
+      - "Kept in a dark house, visited by the priest,"
+      - "And made the most notorious geck and gull"
+      - "That e’er invention played on? Tell me why."
+    m:
+      - "*(he hands OLIVIA a paper)* You did. Please have a look at this letter. You can’t deny that it’s your handwriting. Go ahead and try to write differently, and try to pretend that’s not your seal with your design on it. You can’t. So just admit it. And tell me honestly, why did you show me such fondness and asked me to smile at you, wear yellow stockings and crisscrossed laces for you, and be rude to Sir Toby and the servants? And then tell me why you imprisoned me in a dark house after I followed your instructions perfectly. You made me look like the biggest fool that anybody ever tricked. Tell me why you did it."
+
+  - sp: OLIVIA
+    o:
+      - "Alas, Malvolio, this is not my writing,"
+      - "Though, I confess, much like the character."
+      - "But out of question, ’tis Maria’s hand."
+      - "And now I do bethink me, it was she"
+      - "First told me thou wast mad, then camest in smiling,"
+      - "And in such forms which here were presupposed"
+      - "Upon thee in the letter. Prithee, be content."
+      - "This practice hath most shrewdly passed upon thee;"
+      - "But when we know the grounds and authors of it,"
+      - "Thou shalt be both the plaintiff and the judge"
+      - "Of thine own cause."
+    m:
+      - "I’m sorry, Malvolio, but this isn’t my writing, though I admit it looks like mine. It’s definitely Maria’s handwriting. Now that I think about it, Maria was the one who first told me you were insane. That’s when you came in smiling at me, dressed up like the letter said, and acting just like it told you to act. Someone has played a very mean trick on you, but when we find out who’s responsible, you won’t just be the victim, but the judge who sentences the culprit. I promise."
+
+  - sp: FABIAN
+    o:
+      - "  Good madam, hear me speak,"
+      - "And let no quarrel nor no brawl to come"
+      - "Taint the condition of this present hour,"
+      - "Which I have wonder’d at. In hope it shall not,"
+      - "Most freely I confess, myself and Toby"
+      - "Set this device against Malvolio here,"
+      - "Upon some stubborn and uncourteous parts"
+      - "We had conceived against him. Maria writ"
+      - "The letter at Sir Toby’s great importance,"
+      - "In recompense whereof he hath married her."
+      - "How with a sportful malice it was followed,"
+      - "May rather pluck on laughter than revenge,"
+      - "If that the injuries be justly weighed"
+      - "That have on both sides passed."
+    m:
+      - "Madam, let me say something. Please don’t let squabbles ruin this beautiful and miraculous moment. I confess that Toby and I were the ones who tricked Malvolio because we hated his strict and heavy-handed ways. Sir Toby had Maria wrote that letter, and he married her as a reward. We should just laugh about the whole thing rather than get upset about it, especially if we consider that each of the two parties offended the other equally."
+
+  - sp: OLIVIA
+    o:
+      - "*(to MALVOLIO)* Alas, poor fool, how have they baffled thee!"
+    m:
+      - "*(to MALVOLIO)* Oh, poor fool, they’ve really humiliated you!"
+
+  - sp: FOOL
+    o:
+      - "Why, “some are born great, some achieve greatness, and some have greatness thrown upon them.” I was one, sir, in this interlude, one Sir Topas, sir, but that’s all one. *(imitates MALVOLIO)* “By the Lord, fool, I am not mad.”—But do you remember? “Madam, why laugh you at such a barren rascal; an you smile not, he’s gagged?” and thus the whirligig of time brings in his revenges."
+    m:
+      - "Well, you know, “some are born great, some achieve greatness, and some have greatness thrust upon them.” Anyway, I was part of the trick, sir. I pretended to be a priest named Sir Topas. But what does it matter? *(he imitates MALVOLIO)* “I swear, fool, I’m not crazy.”—But do you remember what he said about me before? “I’m surprised you enjoy the company of this stupid troublemaker—unless he’s got somebody laughing at him, he can’t think of anything to say.” What goes around comes around."
+
+  - sp: MALVOLIO
+    o:
+      - "I’ll be revenged on the whole pack of you."
+    m:
+      - "I’ll get my revenge on every last one of you."
+
+  - os: "Exit"
+    ms: "MALVOLIO exits."
+
+  - sp: OLIVIA
+    o:
+      - "He hath been most notoriously abused."
+    m:
+      - "He really was tricked horribly."
+
+  - sp: ORSINO
+    o:
+      - "Pursue him and entreat him to a peace."
+    m:
+      - "Go after him and try to calm him down a little."
+
+  - os: "Some exit"
+    ms: "Some exit."
+
+  - o:
+      - "He hath not told us of the captain yet."
+      - "When that is known and golden time convents,"
+      - "A solemn combination shall be made"
+      - "Of our dear souls.—Meantime, sweet sister,"
+      - "We will not part from hence. Cesario, come,"
+      - "For so you shall be, while you are a man."
+      - "But when in other habits you are seen,"
+      - "Orsino’s mistress and his fancy’s queen."
+    m:
+      - "He still hasn’t told us about the captain. When that’s been taken care of and the time is right, we’ll all get married. Until then, we’ll stay here, my dear sister-in-law. Cesario, come here. I’ll keep calling you Cesario while you’re still a man, but when we see you in women’s clothes you’ll be the queen of my dreams, Orsino’s true love."
+
+  - os: "Exeunt all, except FOOL"
+    ms: "Everyone exits except the FOOL"
+
+  - sp: FOOL
+    o:
+      - "*(sings)*"
+      - "*When that I was and a little tiny boy,*"
+      - "*With hey, ho, the wind and the rain,*"
+      - "*A foolish thing was but a toy,*"
+      - "*For the rain it raineth every day.*"
+      - "*But when I came to man’s estate,*"
+      - "*With hey, ho, the wind and the rain,*"
+      - "*’Gainst knaves and thieves men shut their gate,*"
+      - "*For the rain it raineth every day.*"
+      - "*But when I came, alas! to wive,*"
+      - "*With hey, ho, the wind and the rain,*"
+      - "*By swaggering could I never thrive,*"
+      - "*For the rain it raineth every day.*"
+      - "*But when I came unto my beds,*"
+      - "*With hey, ho, the wind and the rain,*"
+      - "*With toss-pots still had drunken heads,*"
+      - "*For the rain it raineth every day.*"
+      - "*A great while ago the world begun,*"
+      - "*With hey, ho, the wind and the rain,*"
+      - "*But that’s all one, our play is done,*"
+      - "*And we’ll strive to please you every day.*"
+    m:
+      - "*(he sings)*"
+      - "*When I was a tiny little boy,*"
+      - "*With, hey, ho, the wind and the rain,*"
+      - "*A foolish thing didn’t matter much,*"
+      - "*Because the rain it rains every day.*"
+      - "*But when I became a man,*"
+      - "*With, hey, ho, the wind and the rain,*"
+      - "*People stopped talking to bad guys and thieves.*"
+      - "*Because the rain it rains every day.*"
+      - "*But when I got married, ah, too bad!*"
+      - "*With, hey, ho, the wind and the rain,*"
+      - "*It did me no good to boast and show off,*"
+      - "*Because the rain, it rains every day.*"
+      - "*But when I had to go to bed*"
+      - "*With, hey, ho, the wind and the rain,*"
+      - "*With idiots drunk out of their minds,*"
+      - "*Because the rain it rains every day.*"
+      - "*The world began a long time ago,*"
+      - "*With, hey, ho, the wind and the rain,*"
+      - "*But that doesn’t matter, our play is done,*"
+      - "*And we’ll try to please you every day.*"
+
+  - os: "Exit"
+    ms: "The FOOL exits."

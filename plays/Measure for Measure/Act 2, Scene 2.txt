@@ -1,0 +1,627 @@
+play: Measure for Measure
+title: Act 2, Scene 2
+group: 2
+order: 5
+text:
+  - os: "Another room in the same."
+    ms: "Another room in ANGELO’s house."
+
+  - os: "Enter Provost and a Servant"
+    ms: "The Provost and a servant enter."
+
+  - sp: SERVANT
+    o:
+      - "He’s hearing of a cause; he will come straight"
+      - "I’ll tell him of you."
+    m:
+      - "He’s listening to a case. He’ll come at once, when I tell him you’re here."
+
+  - sp: PROVOST
+    o:
+      - "Pray you, do."
+    m:
+      - "Please do."
+
+  - os: "Exit Servant"
+    ms: "The Servant exits."
+
+  - o:
+      - "I’ll know"
+      - "His pleasure; may be he will relent. Alas,"
+      - "He hath but as offended in a dream!"
+      - "All sects, all ages smack of this vice; and he"
+      - "To die for’t!"
+    m:
+      - "I’ll ask him his intentions; maybe he’ll relent. Claudio didn’t consciously commit a crime. People of every class and age indulge in this vice—and he’s going to die for it!"
+
+  - os: "Enter ANGELO"
+    ms: "ANGELO enters."
+
+  - sp: ANGELO
+    o:
+      - "Now, what’s the matter. Provost?"
+    m:
+      - "Now, what’s the matter, Provost?"
+
+  - sp: PROVOST
+    o:
+      - "Is it your will Claudio shall die tomorrow?"
+    m:
+      - "Do you want Claudio to die tomorrow?"
+
+  - sp: ANGELO
+    o:
+      - "Did not I tell thee yea? Hadst thou not order?"
+      - "Why dost thou ask again?"
+    m:
+      - "Did I not tell you yes? Don’t you have your orders? Why do you ask again?"
+
+  - sp: PROVOST
+    o:
+      - "Lest I might be too rash:"
+      - "Under your good correction, I have seen,"
+      - "When, after execution, judgment hath"
+      - "Repented o’er his doom."
+    m:
+      - "In case I might be too rash. Correct me if I’m wrong, but I’ve seen judges regret imposing the death sentence after the execution."
+
+  - sp: ANGELO
+    o:
+      - "Go to; let that be mine:"
+      - "Do you your office, or give up your place,"
+      - "And you shall well be spared."
+    m:
+      - "Enough—that’s my problem. Do your job, or resign your position. We can easily do without you."
+
+  - sp: PROVOST
+    o:
+      - "I crave your honour’s pardon."
+      - "What shall be done, sir, with the groaning Juliet?"
+      - "She’s very near her hour."
+    m:
+      - "I beg your honor’s pardon. What should we do, sir, with Juliet? She’s in labor, very close to giving birth."
+
+  - sp: ANGELO
+    o:
+      - "Dispose of her"
+      - "To some more fitter place, and that with speed."
+    m:
+      - "Make arrangements to get her to a more appropriate place, and do it quickly."
+
+  - os: "Re-enter Servant"
+    ms: "The Servant re-enters."
+
+  - sp: SERVANT
+    o:
+      - "Here is the sister of the man condemn’d"
+      - "Desires access to you."
+    m:
+      - "The condemned man’s sister is here and wants to speak to you."
+
+  - sp: ANGELO
+    o:
+      - "Hath he a sister?"
+    m:
+      - "He has a sister?"
+
+  - sp: PROVOST
+    o:
+      - "Ay, my good lord; a very virtuous maid,"
+      - "And to be shortly of a sisterhood,"
+      - "If not already."
+    m:
+      - "Yes, my good lord—a very virtuous girl who’s entering a convent, if she hasn’t already."
+
+  - sp: ANGELO
+    o:
+      - "Well, let her be admitted."
+    m:
+      - "Well, bring her in."
+
+  - os: "Exit Servant"
+    ms: "The Servant exits."
+
+  - o:
+      - "See you the fornicatress be removed:"
+      - "Let have needful, but not lavish, means;"
+      - "There shall be order for’t."
+    m:
+      - "See that the tramp Juliet is moved, and provide her with everything she needs, but nothing extravagant. I’ll authorize it."
+
+  - os: "Enter ISABELLA and LUCIO"
+    ms: "ISABELLA and LUCIO enter."
+
+  - sp: PROVOST
+    o:
+      - "God save your honour!"
+    m:
+      - "*(departing)* God save your honor!"
+
+  - sp: ANGELO
+    o:
+      - "Stay a little while."
+    m:
+      - "Don’t leave yet."
+
+  - os: "To ISABELLA"
+    ms: "*(to ISABELLA)*"
+
+  - o:
+      - "You’re welcome: what’s your will?"
+    m:
+      - "Welcome. What do you want?"
+
+  - sp: ISABELLA
+    o:
+      - "I am a woeful suitor to your honour,"
+      - "Please but your honour hear me."
+    m:
+      - "I sadly beg a request of your honor. Please hear me, your honor."
+
+  - sp: ANGELO
+    o:
+      - "Well; what’s your suit?"
+    m:
+      - "Well, what’s your request?"
+
+  - sp: ISABELLA
+    o:
+      - "There is a vice that most I do abhor,"
+      - "And most desire should meet the blow of justice;"
+      - "For which I would not plead, but that I must;"
+      - "For which I must not plead, but that I am"
+      - "At war ’twixt will and will not."
+    m:
+      - "There’s a certain vice that I hate, and would love to see struck down by law. I’d rather not plead for it, but I must. I shouldn’t plead for it, but I’m torn between wanting and not wanting to."
+
+  - sp: ANGELO
+    o:
+      - "Well; the matter?"
+    m:
+      - "Well, what’s the matter?"
+
+  - sp: ISABELLA
+    o:
+      - "I have a brother is condemn’d to die:"
+      - "I do beseech you, let it be his fault,"
+      - "And not my brother."
+    m:
+      - "I have a brother who’s condemned to death. I beg you, condemn his crime but not him."
+
+  - sp: PROVOST
+    o:
+      - "*(aside)* Heaven give thee moving graces!"
+    m:
+      - "*(to himself)* Heaven give you the power to persuade him!"
+
+  - sp: ANGELO
+    o:
+      - "Condemn the fault and not the actor of it?"
+      - "Why, every fault’s condemn’d ere it be done:"
+      - "Mine were the very cipher of a function,"
+      - "To fine the faults whose fine stands in record,"
+      - "And let go by the actor."
+    m:
+      - "Condemn the crime and not the person who commits it? Why, by definition every crime is condemned before it’s committed. I would have a meaningless role if I just punished the crimes whose penalties were in the law books and let the criminal go."
+
+  - sp: ISABELLA
+    o:
+      - "O just but severe law!"
+      - "I had a brother, then. Heaven keep your honour!"
+    m:
+      - "Oh, fair but harsh law! Then I had a brother but don’t anymore. *(departing)* Heaven protect your honor!"
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* Give’t not o’er so: to him"
+      - "again, entreat him;"
+      - "Kneel down before him, hang upon his gown:"
+      - "You are too cold; if you should need a pin,"
+      - "You could not with more tame a tongue desire it:"
+      - "To him, I say!"
+    m:
+      - "*(aside to ISABELLA)* Don’t give up so fast. Go to him again, beg him, kneel down before him, cling to his gown. You’re too cold. You couldn’t be more casual if you were asking him for a pin. Go to him."
+
+  - sp: ISABELLA
+    o:
+      - "Must he needs die?"
+    m:
+      - "Does he have to die?"
+
+  - sp: ANGELO
+    o:
+      - "Maiden, no remedy."
+    m:
+      - "Miss, there’s no way out."
+
+  - sp: ISABELLA
+    o:
+      - "Yes; I do think that you might pardon him,"
+      - "And neither heaven nor man grieve at the mercy."
+    m:
+      - "Yes, there is. I think that you could pardon him, and no one on heaven or earth would be sorry."
+
+  - sp: ANGELO
+    o:
+      - "I will not do’t."
+    m:
+      - "I won’t do it."
+
+  - sp: ISABELLA
+    o:
+      - "But can you, if you would?"
+    m:
+      - "But could you, if you wanted to?"
+
+  - sp: ANGELO
+    o:
+      - "Look, what I will not, that I cannot do."
+    m:
+      - "Look, what I won’t do, I can’t do."
+
+  - sp: ISABELLA
+    o:
+      - "But might you do’t, and do the world no wrong,"
+      - "If so your heart were touch’d with that remorse"
+      - "As mine is to him?"
+    m:
+      - "But might you do it, without harming the world, if your heart felt as compassionate toward him as mine does?"
+
+  - sp: ANGELO
+    o:
+      - "He’s sentenced; ’tis too late."
+    m:
+      - "He’s sentenced; it’s too late."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* You are too cold."
+    m:
+      - "*(aside to ISABELLA)* You’re too cold."
+
+  - sp: ISABELLA
+    o:
+      - "Too late? why, no; I, that do speak a word."
+      - "May call it back again. Well, believe this,"
+      - "No ceremony that to great ones ’longs,"
+      - "Not the king’s crown, nor the deputed sword,"
+      - "The marshal’s truncheon, nor the judge’s robe,"
+      - "Become them with one half so good a grace"
+      - "As mercy does."
+      - "If he had been as you and you as he,"
+      - "You would have slipt like him; but he, like you,"
+      - "Would not have been so stern."
+    m:
+      - "Too late? why, no—I can speak a word and then take it back. Believe this: no symbol of authority—not the king’s crown, or the deputy’s sword, or the military officer’s baton, or the judge’s robe—makes a person great as much as mercy does. If he’d been you and you’d been him, you would have slipped like he did; but he, in your place, wouldn’t have been so stern."
+
+  - sp: ANGELO
+    o:
+      - "Pray you, be gone."
+    m:
+      - "Please leave."
+
+  - sp: ISABELLA
+    o:
+      - "I would to heaven I had your potency,"
+      - "And you were Isabel! should it then be thus?"
+      - "No; I would tell what ’twere to be a judge,"
+      - "And what a prisoner."
+    m:
+      - "I wish to heaven I had your power, and you were Isabel! Would things be like this? No, I’d decide what it is to be a judge, and to be a prisoner."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* Ay, touch him; there’s the vein."
+    m:
+      - "*(aside to ISABELLA)* Yes, that’s the way to talk."
+
+  - sp: ANGELO
+    o:
+      - "Your brother is a forfeit of the law,"
+      - "And you but waste your words."
+    m:
+      - "Your brother is doomed for breaking the law. You’re wasting your breath."
+
+  - sp: ISABELLA
+    o:
+      - "Alas, alas!"
+      - "Why, all the souls that were forfeit once;"
+      - "And He that might the vantage best have took"
+      - "Found out the remedy. How would you be,"
+      - "If He, which is the top of judgment, should"
+      - "But judge you as you are? O, think on that;"
+      - "And mercy then will breathe within your lips,"
+      - "Like man new made."
+    m:
+      - "How sad! Why, all the souls on earth were doomed once upon a time. And God, who might have seized the chance to condemn us, instead found a way to redeem our sins. What would happen to you, if he who is the highest judge of all should judge you as you are now? Oh, think about that, and then merciful speech will flow out your mouth, as if you had been reborn."
+
+  - sp: ANGELO
+    o:
+      - "Be you content, fair maid;"
+      - "It is the law, not I condemn your brother:"
+      - "Were he my kinsman, brother, or my son,"
+      - "It should be thus with him: he must die tomorrow."
+    m:
+      - "Accept it, lovely lady. It’s the law, not I, that condemns your brother. Were he my cousin, brother, or my son, it’d be the same. He must die tomorrow."
+
+  - sp: ISABELLA
+    o:
+      - "To-morrow! O, that’s sudden! Spare him, spare him!"
+      - "He’s not prepared for death. Even for our kitchens"
+      - "We kill the fowl of season: shall we serve heaven"
+      - "With less respect than we do minister"
+      - "To our gross selves? Good, good my lord, bethink you;"
+      - "Who is it that hath died for this offence?"
+      - "There’s many have committed it."
+    m:
+      - "Tomorrow! Oh, that’s so sudden! Spare him, spare him! He’s not prepared for death. We only kill fowl in season, when they’re in the best shape for eating. Should we serve him up to heaven with less respect than we show toward our inferior mortal bodies? My good, good lord, consider: who else has died for this crime? Many people have committed it."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* Ay, well said."
+    m:
+      - "*(aside to ISABELLA)* Yes, well said."
+
+  - sp: ANGELO
+    o:
+      - "The law hath not been dead, though it hath slept:"
+      - "Those many had not dared to do that evil,"
+      - "If the first that did the edict infringe"
+      - "Had answer’d for his deed: now ’tis awake"
+      - "Takes note of what is done; and, like a prophet,"
+      - "Looks in a glass, that shows what future evils,"
+      - "Either new, or by remissness new-conceived,"
+      - "And so in progress to be hatch’d and born,"
+      - "Are now to have no successive degrees,"
+      - "But, ere they live, to end."
+    m:
+      - "The law wasn’t dead, but it was asleep. All those people wouldn’t have dared to commit that crime if the first lawbreaker had been punished. Now the law’s awake, notes what’s going on, and, like a fortuneteller, looks in a crystal ball to see what future evils, either newly conceived or just being contemplated, will someday hatch. Now, they won’t develop any further but will die before they’re born."
+
+  - sp: ISABELLA
+    o:
+      - "Yet show some pity."
+    m:
+      - "Show some pity."
+
+  - sp: ANGELO
+    o:
+      - "I show it most of all when I show justice;"
+      - "For then I pity those I do not know,"
+      - "Which a dismiss’d offence would after gall;"
+      - "And do him right that, answering one foul wrong,"
+      - "Lives not to act another. Be satisfied;"
+      - "Your brother dies to-morrow; be content."
+    m:
+      - "I show it most of all when I show justice, for then I pity all those people I don’t know who’d be harmed by an unpunished crime. I do right to the man who, by paying for one wrong act, doesn’t live to commit another one. Be satisfied with this. Your brother dies tomorrow. Accept it."
+
+  - sp: ISABELLA
+    o:
+      - "So you must be the first that gives this sentence,"
+      - "And he, that suffer’s. O, it is excellent"
+      - "To have a giant’s strength; but it is tyrannous"
+      - "To use it like a giant."
+    m:
+      - "So you must be the first one to impose this sentence, and he the first one to suffer it. Oh, it’s excellent to have a giant’s strength, but it’s tyranny to use it like a giant."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* That’s well said."
+    m:
+      - "*(aside to ISABELLA)* That’s well said."
+
+  - sp: ISABELLA
+    o:
+      - "Could great men thunder"
+      - "As Jove himself does, Jove would ne’er be quiet,"
+      - "For every pelting, petty officer"
+      - "Would use his heaven for thunder;"
+      - "Nothing but thunder! Merciful Heaven,"
+      - "Thou rather with thy sharp and sulphurous bolt"
+      - "Split’st the unwedgeable and gnarled oak"
+      - "Than the soft myrtle: but man, proud man,"
+      - "Drest in a little brief authority,"
+      - "Most ignorant of what he’s most assured,"
+      - "His glassy essence, like an angry ape,"
+      - "Plays such fantastic tricks before high heaven"
+      - "As make the angels weep; who, with our spleens,"
+      - "Would all themselves laugh mortal."
+    m:
+      - "If men of power could thunder and wield lightning as the god Jove himself does, Jove would never have any peace, for every puny, petty official would use his heaven for thunder, nothing but thunder! Merciful Heaven, you use your sharp, sulfur-scented lightning bolts to split the hard gnarled oak tree, rather than the soft myrtle bush. But give a proud man a little bit of temporary authority and he forgets what it means to be made in God’s image. Instead, like an angry ape that mimics people’s behavior, he does such incredibly grotesque things before high heaven that the angels, if they were human, would either weep or die laughing."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* O, to him, to him, wench! he"
+      - "will relent;"
+      - "He’s coming; I perceive ’t."
+    m:
+      - "*(aside to ISABELLA)* Oh, keep at him, keep at him, girl! He’s going to relent. He’s coming around, I can tell."
+
+  - sp: PROVOST
+    o:
+      - "*(aside)* Pray heaven she win him!"
+    m:
+      - "*(to himself)* Pray heaven she wins him over!"
+
+  - sp: ISABELLA
+    o:
+      - "We cannot weigh our brother with ourself:"
+      - "Great men may jest with saints; ’tis wit in them,"
+      - "But in the less foul profanation."
+    m:
+      - "We can’t use ourselves as a standard to judge others. Great men may joke about the saints; that’s good fun. But if an ordinary person does it, it’s profane."
+
+  - sp: LUCIO
+    o:
+      - "Thou’rt i’ the right, girl; more o, that."
+    m:
+      - "You’re right, girl. Keep talking like that."
+
+  - sp: ISABELLA
+    o:
+      - "That in the captain’s but a choleric word,"
+      - "Which in the soldier is flat blasphemy."
+    m:
+      - "When a captain curses, it’s just angry words. When a private does it, it’s blasphemy."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* Art avised o’ that? more on ’t."
+    m:
+      - "*(aside to ISABELLA)* You know about that sort of stuff? Tell us more."
+
+  - sp: ANGELO
+    o:
+      - "Why do you put these sayings upon me?"
+    m:
+      - "Why are you attacking me with these sayings?"
+
+  - sp: ISABELLA
+    o:
+      - "Because authority, though it err like others,"
+      - "Hath yet a kind of medicine in itself,"
+      - "That skins the vice o’ the top. Go to your bosom;"
+      - "Knock there, and ask your heart what it doth know"
+      - "That’s like my brother’s fault: if it confess"
+      - "A natural guiltiness such as is his,"
+      - "Let it not sound a thought upon your tongue"
+      - "Against my brother’s life."
+    m:
+      - "Because people in authority, even though they sin like everyone else, apply a sort of bandage to cover—but not cure—their sinful sores. Look in your heart and ask yourself if you’ve ever experienced anything like my brother’s crime. If your heart admits to being guilty of the same natural impulses, don’t say a word to condemn my brother."
+
+  - sp: ANGELO
+    o:
+      - "*(aside)* She speaks, and ’tis"
+      - "Such sense, that my sense breeds with it. Fare you well."
+    m:
+      - "*(to himself)* She speaks with such sense, she’s got my senses and desire stirred up. Goodbye."
+
+  - sp: ISABELLA
+    o:
+      - "Gentle my lord, turn back."
+    m:
+      - "My gracious lord, come back."
+
+  - sp: ANGELO
+    o:
+      - "I will bethink me: come again tomorrow."
+    m:
+      - "I’ll consider the matter. Come again tomorrow."
+
+  - sp: ISABELLA
+    o:
+      - "Hark how I’ll bribe you: good my lord, turn back."
+    m:
+      - "I’ll bribe you—come back, my good lord."
+
+  - sp: ANGELO
+    o:
+      - "How! bribe me?"
+    m:
+      - "What? Bribe me?"
+
+  - sp: ISABELLA
+    o:
+      - "Ay, with such gifts that heaven shall share with you."
+    m:
+      - "Yes, with gifts from heaven."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* You had marr’d all else."
+    m:
+      - "*(aside to ISABELLA)* You nearly blew it."
+
+  - sp: ISABELLA
+    o:
+      - "Not with fond shekels of the tested gold,"
+      - "Or stones whose rates are either rich or poor"
+      - "As fancy values them; but with true prayers"
+      - "That shall be up at heaven and enter there"
+      - "Ere sun-rise, prayers from preserved souls,"
+      - "From fasting maids whose minds are dedicate"
+      - "To nothing temporal."
+    m:
+      - "Not with silly coins of real gold, or jewels whose value rises and falls, depending on fashion; but with constant prayers that will rise up and enter heaven before dawn—the prayers of protected souls, nuns whose minds are dedicated only to spiritual things."
+
+  - sp: ANGELO
+    o:
+      - "Well; come to me to-morrow."
+    m:
+      - "Well, come see me tomorrow."
+
+  - sp: LUCIO
+    o:
+      - "*(Aside to ISABELLA)* Go to; ’tis well; away!"
+    m:
+      - "*(aside to ISABELLA)* Great, that’s enough. Let’s go!"
+
+  - sp: ISABELLA
+    o:
+      - "Heaven keep your honour safe!"
+    m:
+      - "Heaven keep your honor safe!"
+
+  - sp: ANGELO
+    o:
+      - "*(aside)* Amen:"
+      - "For I am that way going to temptation,"
+      - "Where prayers cross."
+    m:
+      - "*(to himself)* Amen—for I’m falling into temptation, where desires and prayers work against each other."
+
+  - sp: ISABELLA
+    o:
+      - "At what hour to-morrow"
+      - "Shall I attend your lordship?"
+    m:
+      - "What time tomorrow should I come to your lordship?"
+
+  - sp: ANGELO
+    o:
+      - "At any time ’fore noon."
+    m:
+      - "Anytime before noon."
+
+  - sp: ISABELLA
+    o:
+      - "’Save your honour!"
+    m:
+      - "God save your honor!"
+
+  - os: "Exeunt ISABELLA, LUCIO, and Provost"
+    ms: "ISABELLA, LUCIO, and the Provost exit."
+
+  - sp: ANGELO
+    o:
+      - "From thee, even from thy virtue!"
+      - "What’s this, what’s this? Is this her fault or mine?"
+      - "The tempter or the tempted, who sins most?"
+      - "Ha!"
+      - "Not she: nor doth she tempt: but it is I"
+      - "That, lying by the violet in the sun,"
+      - "Do as the carrion does, not as the flower,"
+      - "Corrupt with virtuous season. Can it be"
+      - "That modesty may more betray our sense"
+      - "Than woman’s lightness? Having waste ground enough,"
+      - "Shall we desire to raze the sanctuary"
+      - "And pitch our evils there? O, fie, fie, fie!"
+      - "What dost thou, or what art thou, Angelo?"
+      - "Dost thou desire her foully for those things"
+      - "That make her good? O, let her brother live!"
+      - "Thieves for their robbery have authority"
+      - "When judges steal themselves. What, do I love her,"
+      - "That I desire to hear her speak again,"
+      - "And feast upon her eyes? What is’t I dream on?"
+      - "O cunning enemy, that, to catch a saint,"
+      - "With saints dost bait thy hook! Most dangerous"
+      - "Is that temptation that doth goad us on"
+      - "To sin in loving virtue: never could the strumpet,"
+      - "With all her double vigour, art and nature,"
+      - "Once stir my temper; but this virtuous maid"
+      - "Subdues me quite. Even till now,"
+      - "When men were fond, I smiled and wonder’d how."
+    m:
+      - "From you, and from your virtue, too! What’s happening? Is this her fault or mine? The tempter or the tempted, who sins the most? Ha! It’s not her, she’s not trying to be a tempter. It’s me. It’s like I’m lying in a field of violets, only instead of blossoming and smelling like a flower, I’m rotting and stinking like a corpse from the same sun that makes the flowers grow. Is it possible that a modest woman can arouse desire more than a seductive one? Having destroyed enough land already, should a person want to tear down a holy place and establish evil there as well? Oh, damn, damn, damn! Angelo, what are you doing, who are you? Do you sinfully desire her for the things that make her good? Oh, I should let her brother live! Thieves are justified in robbing when the judges themselves are thieves. Can it be I’m in love with her, when I want to hear her speak again, and gaze into her eyes? What am I dreaming of? Oh, the devil’s a cunning enemy—to catch a saint, he baits the hook with saints! The most dangerous temptation is the one that uses our love of goodness to draw us into sin. A prostitute could never attract me, even with her two powers: her seductive skills and her natural endowments. But this virtuous girl totally overwhelms me. Whenever I saw men who were infatuated like idiots, I smiled and didn’t understand—up until now."
+
+  - os: "Exit"
+    ms: "He exits."

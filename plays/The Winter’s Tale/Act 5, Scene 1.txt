@@ -1,0 +1,624 @@
+play: The Winter’s Tale
+title: Act 5, Scene 1
+group: 5
+order: 12
+text:
+  - os: "A room in LEONTES’ palace."
+    ms: "A room in LEONTES’ palace."
+
+  - os: "Enter LEONTES, CLEOMENES, DION, PAULINA, and Servants"
+    ms: "LEONTES, CLEOMENES, DION, PAULINA, and several servants enter."
+
+  - sp: CLEOMENES
+    o:
+      - "Sir, you have done enough, and have perform’d"
+      - "A saint-like sorrow: no fault could you make,"
+      - "Which you have not redeem’d; indeed, paid down"
+      - "More penitence than done trespa at the last,"
+      - "Do as the heavens have done, forget your evil;"
+      - "With them forgive yourself."
+    m:
+      - "*(to Leontes)* Sir, you have done enough and have shown the sorrow and piety of a saint. You have redeemed every mistake you might have made, and have paid more penance than you have done wrong. At last, forgive your sins as Heaven has forgiven it, and forgive yourself."
+
+  - sp: LEONTES
+    o:
+      - "Whilst I remember"
+      - "Her and her virtues, I cannot forget"
+      - "My blemishes in them, and so still think of"
+      - "The wrong I did myself; which was so much,"
+      - "That heirless it hath made my kingdom and"
+      - "Destroy’d the sweet’st companion that e’er man"
+      - "Bred his hopes out of."
+    m:
+      - "As long as I remember her and her virtue, I can’t forget how I attacked them, and I still think of the wrong I did. My misbehavior was so terrible that it has left my kingdom without an heir and destroyed the sweetest companion that a man could hope would bear his children."
+
+  - sp: PAULINA
+    o:
+      - "True, too true, my lord:"
+      - "If, one by one, you wedded all the world,"
+      - "Or from the all that are took something good,"
+      - "To make a perfect woman, she you kill’d"
+      - "Would be unparallel’d."
+    m:
+      - "It is too true, my lord. Even if you wedded every woman in the world one by one, or took the best quality from each and made the perfect woman, the woman you killed couldn’t be matched."
+
+  - sp: LEONTES
+    o:
+      - "I think so. Kill’d!"
+      - "She I kill’d! I did so: but thou strikest me"
+      - "Sorely, to say I did; it is as bitter"
+      - "Upon thy tongue as in my thought: now, good now,"
+      - "Say so but seldom."
+    m:
+      - "I think so, too. Killed! The woman I killed! I did, but you wound me deeply to say it so bluntly. You say it as bitterly as I think it. Now, please, don’t say it often."
+
+  - sp: CLEOMENES
+    o:
+      - "Not at all, good lady:"
+      - "You might have spoken a thousand things that would"
+      - "Have done the time more benefit and graced"
+      - "Your kindness better."
+    m:
+      - "Never say that, good lady. There are a thousand other things you could have said that would have been of greater benefit and would have made you seem kinder."
+
+  - sp: PAULINA
+    o:
+      - "You are one of those"
+      - "Would have him wed again."
+    m:
+      - "You are one of the people who want him to marry again."
+
+  - sp: DION
+    o:
+      - "If you would not so,"
+      - "You pity not the state, nor the remembrance"
+      - "Of his most sovereign name; consider little"
+      - "What dangers, by his highness’ fail of issue,"
+      - "May drop upon his kingdom and devour"
+      - "Incertain lookers on. What were more holy"
+      - "Than to rejoice the former queen is well?"
+      - "What holier than, for royalty’s repair,"
+      - "For present comfort and for future good,"
+      - "To bless the bed of majesty again"
+      - "With a sweet fellow to’t?"
+    m:
+      - "If you wouldn’t have him marry again, you don’t care anything for the state, or for the continuance of his royal name. Think about what dangers might befall his kingdom, and how anxious citizens might suffer, if he doesn’t have a son. What is more virtuous than to rejoice that the former queen is in heaven? What would be holier than the king producing a child to restore the royal family and to make the realm safe and happy for the present and the future?"
+
+  - sp: PAULINA
+    o:
+      - "There is none worthy,"
+      - "Respecting her that’s gone. Besides, the gods"
+      - "Will have fulfill’d their secret purposes;"
+      - "For has not the divine Apollo said,"
+      - "Is’t not the tenor of his oracle,"
+      - "That King Leontes shall not have an heir"
+      - "Till his lost child be found? which that it shall,"
+      - "Is all as monstrous to our human reason"
+      - "As my Antigonus to break his grave"
+      - "And come again to me; who, on my life,"
+      - "Did perish with the infant. ’Tis your counsel"
+      - "My lord should to the heavens be contrary,"
+      - "Oppose against their wills."
+    m:
+      - "There is no one worthy to take the place of the queen who is gone. Besides, the gods are fulfilling their intentions. Didn’t divine Apollo say, through the words of his oracle, that King Leontes should not have an heir until his lost child is found? And that seems as unlikely as the notion that my Antigonus, whom I am sure died along with my infant, will rise from his grave and return to me. Your advice is that my lord should go against the heavens and oppose their wills."
+
+  - os: "To LEONTES"
+    ms: "To Leontes"
+
+  - o:
+      - "Care not for issue;"
+      - "The crown will find an heir: great Alexander"
+      - "Left his to the worthiest; so his successor"
+      - "Was like to be the best."
+    m:
+      - "Don’t worry about a son. The crown will find an heir. Great Alexander left his kingdom to the worthiest of his followers, so that his successor would be the best leader possible."
+
+  - sp: LEONTES
+    o:
+      - "Good Paulina,"
+      - "Who hast the memory of Hermione,"
+      - "I know, in honour, O, that ever I"
+      - "Had squared me to thy counsel! then, even now,"
+      - "I might have look’d upon my queen’s full eyes,"
+      - "Have taken treasure from her lips—"
+    m:
+      - "Good Paulina, I know you honor the memory of Hermione. I wish that I had listened to you! Then I would now be able to look into my queen’s eyes and kiss her treasured lips—"
+
+  - sp: PAULINA
+    o:
+      - "And left them"
+      - "More rich for what they yielded."
+    m:
+      - "And been the richer for having done so."
+
+  - sp: LEONTES
+    o:
+      - "Thou speak’st truth."
+      - "No more such wives; therefore, no wife: one worse,"
+      - "And better used, would make her sainted spirit"
+      - "Again possess her corpse, and on this stage,"
+      - "Where we’re offenders now, appear soul-vex’d,"
+      - "And begin, “Why to me?”"
+    m:
+      - "You speak the truth. No wife such as that exists, so there will be no wife. For me to take a wife less perfect, and to treat her better, would make Hermione’s ghost arise again, and she’d appear here to me and say, “Why insult me like this?”"
+
+  - sp: PAULINA
+    o:
+      - "Had she such power,"
+      - "She had just cause."
+    m:
+      - "If she were able to, she’d be justified."
+
+  - sp: LEONTES
+    o:
+      - "She had; and would incense me"
+      - "To murder her I married."
+    m:
+      - "She would be, and she’d drive me to murder the woman I married in her place."
+
+  - sp: PAULINA
+    o:
+      - "I should so."
+      - "Were I the ghost that walk’d, I’ld bid you mark"
+      - "Her eye, and tell me for what dull part in’t"
+      - "You chose her; then I’ld shriek, that even your ears"
+      - "Should rift to hear me; and the words that follow’d"
+      - "Should be “Remember mine.”"
+    m:
+      - "I should think so. If I were Hermione’s ghost, I’d tell you to look at that new woman’s eyes and tell me what about their dullness attracted you. Then I’d shriek, and your ears would hurt to hear me. And then I’d say, “Remember my eyes.”"
+
+  - sp: LEONTES
+    o:
+      - "Stars, stars,"
+      - "And all eyes else dead coals! Fear thou no wife;"
+      - "I’ll have no wife, Paulina."
+    m:
+      - "They were like stars, and next to them all other eyes look like dead coals! Don’t fear, Paulina, I won’t take another wife."
+
+  - sp: PAULINA
+    o:
+      - "Will you swear"
+      - "Never to marry but by my free leave?"
+    m:
+      - "Will you swear to never marry unless I give you my permission?"
+
+  - sp: LEONTES
+    o:
+      - "Never, Paulina; so be blest my spirit!"
+    m:
+      - "Never, Paulina, on my life!"
+
+  - sp: PAULINA
+    o:
+      - "Then, good my lords, bear witness to his oath."
+    m:
+      - "Then, my good lords, witness his oath."
+
+  - sp: CLEOMENES
+    o:
+      - "You tempt him over-much."
+    m:
+      - "You test him too much *.*"
+
+  - sp: PAULINA
+    o:
+      - "Unless another,"
+      - "As like Hermione as is her picture,"
+      - "Affront his eye—"
+    m:
+      - "Unless he sees another woman who looks as much like Hermione as her picture—"
+
+  - sp: CLEOMENES
+    o:
+      - "Good madam,—"
+    m:
+      - "Good madam—"
+
+  - sp: PAULINA
+    o:
+      - "I have done."
+      - "Yet, if my lord will marry,—if you will, sir,"
+      - "No remedy, but you will,—give me the office"
+      - "To choose you a queen: she shall not be so young"
+      - "As was your former; but she shall be such"
+      - "As, walk’d your first queen’s ghost,"
+      - "it should take joy"
+      - "To see her in your arms."
+    m:
+      - "I’m done. Yet, if my lord decides to marry despite everything, let me choose your queen. She won’t be as young as your former wife, but she’ll be someone who even your first queen would rejoice to see in your arms."
+
+  - sp: LEONTES
+    o:
+      - "My true Paulina,"
+      - "We shall not marry till thou bid’st us."
+    m:
+      - "My faithful Paulina, I won’t marry until you tell me to."
+
+  - sp: PAULINA
+    o:
+      - "That"
+      - "Shall be when your first queen’s again in breath;"
+      - "Never till then."
+    m:
+      - "That will be when your first queen is alive again, not until then."
+
+  - os: "Enter a Gentleman"
+    ms: "A Gentleman enters."
+
+  - sp: GENTLEMAN
+    o:
+      - "One that gives out himself Prince Florizel,"
+      - "Son of Polixenes, with his princess, she"
+      - "The fairest I have yet beheld, desires access"
+      - "To your high presence."
+    m:
+      - "A man who calls himself Prince Florizel, son of Polixenes, asks to see you. With him is his princess, who is the fairest lady I have ever seen."
+
+  - sp: LEONTES
+    o:
+      - "What with him? he comes not"
+      - "Like to his father’s greatne his approach,"
+      - "So out of circumstance and sudden, tells us"
+      - "’Tis not a visitation framed, but forced"
+      - "By need and accident. What train?"
+    m:
+      - "What is this? He arrives without the ceremony someone of his station requires. That he appears so suddenly and unexpectedly tells me that it wasn’t a planned visit, but one forced by circumstances. How many does he have with him?"
+
+  - sp: GENTLEMAN
+    o:
+      - "But few,"
+      - "And those but mean."
+    m:
+      - "Only a few, and those of rather low rank."
+
+  - sp: LEONTES
+    o:
+      - "His princess, say you, with him?"
+    m:
+      - "You say his princess is with him?"
+
+  - sp: GENTLEMAN
+    o:
+      - "Ay, the most peerless piece of earth, I think,"
+      - "That e’er the sun shone bright on."
+    m:
+      - "Yes, and she is the most incomparable woman that the sun has ever shone upon."
+
+  - sp: PAULINA
+    o:
+      - "O Hermione,"
+      - "As every present time doth boast itself"
+      - "Above a better gone, so must thy grave"
+      - "Give way to what’s seen now! Sir, you yourself"
+      - "Have said and writ so, but your writing now"
+      - "Is colder than that theme, “She had not been,"
+      - "Nor was not to be equall’d;”—thus your verse"
+      - "Flow’d with her beauty once: ’tis shrewdly ebb’d,"
+      - "To say you have seen a better."
+    m:
+      - "Oh, Hermione, just as every era thinks it’s better than the one past, so must you make way for a new woman. Sir, you yourself have said and written that she was never, and never would be, equaled in beauty, but now you change your mind. Your poetry was once filled with reports of her beauty, but it must have declined since you say that you have seen someone more beautiful."
+
+  - sp: GENTLEMAN
+    o:
+      - "Pardon, madam:"
+      - "The one I have almost forgot,—your pardon,—"
+      - "The other, when she has obtain’d your eye,"
+      - "Will have your tongue too. This is a creature,"
+      - "Would she begin a sect, might quench the zeal"
+      - "Of all professors else, make proselytes"
+      - "Of who she but bid follow."
+    m:
+      - "Pardon, madam. I’m sorry to say I’ve almost forgotten Hermione. When you see this other woman, you’ll be speechless, too. If she started her own religion, it would put an end to the zeal of any other and make followers of anyone she called."
+
+  - sp: PAULINA
+    o:
+      - "How! not women?"
+    m:
+      - "What? Not women, though?"
+
+  - sp: GENTLEMAN
+    o:
+      - "Women will love her, that she is a woman"
+      - "More worth than any man; men, that she is"
+      - "The rarest of all women."
+    m:
+      - "Women will love her because she is a woman more worthy than any man. Men will love her because she is the most exceptional of women."
+
+  - sp: LEONTES
+    o:
+      - "Go, Cleomenes;"
+      - "Yourself, assisted with your honour’d friends,"
+      - "Bring them to our embracement."
+    m:
+      - "Go, Cleomenes. With the help of your friends, bring them back here for my welcome."
+
+  - os: "Exeunt CLEOMENES and others"
+    ms: "CLEOMENES and others exit."
+
+  - o:
+      - "Still, ’tis strange"
+      - "He thus should steal upon us."
+    m:
+      - "Still, it is strange that he comes to us so suddenly."
+
+  - sp: PAULINA
+    o:
+      - "Had our prince,"
+      - "Jewel of children, seen this hour, he had pair’d"
+      - "Well with this lord: there was not full a month"
+      - "Between their births."
+    m:
+      - "If your prince, the most prized of children, were alive to see this, he would have gotten along well with this lord. They were born less than a month apart."
+
+  - sp: LEONTES
+    o:
+      - "Prithee, no more; cease; thou know’st"
+      - "He dies to me again when talk’d of: sure,"
+      - "When I shall see this gentleman, thy speeches"
+      - "Will bring me to consider that which may"
+      - "Unfurnish me of reason. They are come."
+    m:
+      - "Please, no more. Stop. You know it’s like he dies again for me when you talk about him. When I see this gentleman, your words will make me think of that which makes me go mad. They are here."
+
+  - os: "Re-enter CLEOMENES and others, with FLORIZEL and PERDITA"
+    ms: "CLEOMENES and others enter, accompanied by FLORIZEL and PERDITA."
+
+  - o:
+      - "Your mother was most true to wedlock, prince;"
+      - "For she did print your royal father off,"
+      - "Conceiving you: were I but twenty-one,"
+      - "Your father’s image is so hit in you,"
+      - "His very air, that I should call you brother,"
+      - "As I did him, and speak of something wildly"
+      - "By us perform’d before. Most dearly welcome!"
+      - "And your fair princess,—goddess!—O, alas!"
+      - "I lost a couple, that ’twixt heaven and earth"
+      - "Might thus have stood begetting wonder as"
+      - "You, gracious couple, do: and then I lost—"
+      - "All mine own folly—the society,"
+      - "Amity too, of your brave father, whom,"
+      - "Though bearing misery, I desire my life"
+      - "Once more to look on him."
+    m:
+      - "Your mother was a faithful wife, prince, because in bearing you she has produced a copy of your royal father. You look and act so much like your father that if I were twenty-one, I’d call you brother just like I called him, and speak of some wild escapade we’d gotten into. You are very welcome here, and your fair princess, like a goddess! Oh, alas, I’ve lost two who might have stood there, too, in wonderment, as you do. And then through my own folly I lost the company and friendship of your brave father, whom I wish I could see once more in this lifetime, even if it caused me sadness."
+
+  - sp: FLORIZEL
+    o:
+      - "By his command"
+      - "Have I here touch’d Sicilia and from him"
+      - "Give you all greetings that a king, at friend,"
+      - "Can send his brother: and, but infirmity"
+      - "Which waits upon worn times hath something seized"
+      - "His wish’d ability, he had himself"
+      - "The lands and waters ’twixt your throne and his"
+      - "Measured to look upon you; whom he loves—"
+      - "He bade me say so—more than all the sceptres"
+      - "And those that bear them living."
+    m:
+      - "I’ve come to Sicilia at his command, and I bring from him all the greetings that a king and a friend can send to his brother. If it weren’t for the infirmity of age that somewhat hinders him, he would travel here himself to greet you. He told me to tell you that he loves you, more than all the other kings alive."
+
+  - sp: LEONTES
+    o:
+      - "O my brother,"
+      - "Good gentleman! the wrongs I have done thee stir"
+      - "Afresh within me, and these thy offices,"
+      - "So rarely kind, are as interpreters"
+      - "Of my behind-hand slackness. Welcome hither,"
+      - "As is the spring to the earth. And hath he too"
+      - "Exposed this paragon to the fearful usage,"
+      - "At least ungentle, of the dreadful Neptune,"
+      - "To greet a man not worth her pains, much less"
+      - "The adventure of her person?"
+    m:
+      - "Oh, my brother, good gentleman! I feel the wrongs I’ve done to him all over again. And your exceptional kindness shows me how slow I’ve been in greeting you. You are as welcome here as the spring is to the earth. And has he sent this most lovely woman here, too, across the dangerous and rough sea, to greet an unworthy man?"
+
+  - sp: FLORIZEL
+    o:
+      - "Good my lord,"
+      - "She came from Libya."
+    m:
+      - "My lord, she came from Libya."
+
+  - sp: LEONTES
+    o:
+      - "Where the warlike Smalus,"
+      - "That noble honour’d lord, is fear’d and loved?"
+    m:
+      - "Where the fierce Smalus, that honorable lord, is both feared and loved?"
+
+  - sp: FLORIZEL
+    o:
+      - "Most royal sir, from thence; from him, whose daughter"
+      - "His tears proclaim’d his, parting with her: thence,"
+      - "A prosperous south-wind friendly, we have cross’d,"
+      - "To execute the charge my father gave me"
+      - "For visiting your highne my best train"
+      - "I have from your Sicilian shores dismiss’d;"
+      - "Who for Bohemia bend, to signify"
+      - "Not only my success in Libya, sir,"
+      - "But my arrival and my wife’s in safety"
+      - "Here where we are."
+    m:
+      - "Most royal sir, from there, and from her father, who cried at her departure. From there, with a good south wind, we have crossed the sea to carry out my father’s request to visit you. I have sent the best men of my entourage back to Bohemia, to let my father know both that my trip to Libya was successful and that my wife and I arrived here safely."
+
+  - sp: LEONTES
+    o:
+      - "The blessed gods"
+      - "Purge all infection from our air whilst you"
+      - "Do climate here! You have a holy father,"
+      - "A graceful gentleman; against whose person,"
+      - "So sacred as it is, I have done sin:"
+      - "For which the heavens, taking angry note,"
+      - "Have left me issueless; and your father’s blest,"
+      - "As he from heaven merits it, with you"
+      - "Worthy his goodness. What might I have been,"
+      - "Might I a son and daughter now have look’d on,"
+      - "Such goodly things as you!"
+    m:
+      - "May the gods keep the air fresh and healthy while you are here! You have a great and graceful father, against whom I have committed a sin. In return, the angry heavens have left me childless, while your father is blessed by heaven with you, as he deserves. What might my life have been like if I had a son and daughter as lovely as you two to look at!"
+
+  - os: "Enter a Lord"
+    ms: "A Lord enters."
+
+  - sp: LORD
+    o:
+      - "Most noble sir,"
+      - "That which I shall report will bear no credit,"
+      - "Were not the proof so nigh. Please you, great sir,"
+      - "Bohemia greets you from himself by me;"
+      - "Desires you to attach his son, who has—"
+      - "His dignity and duty both cast off—"
+      - "Fled from his father, from his hopes, and with"
+      - "A shepherd’s daughter."
+    m:
+      - "Most noble sir, if I didn’t have such firm proof you wouldn’t believe what I’m about to tell you. Sir, Polixenes himself greets you through me. He asks you to hold his son, who has abandoned his royal status and responsibilities, and who has fled from his father and his hope of the throne with a shepherd’s daughter."
+
+  - sp: LEONTES
+    o:
+      - "Where’s Bohemia? speak."
+    m:
+      - "Where is Polixenes? Tell me."
+
+  - sp: LORD
+    o:
+      - "Here in your city; I now came from him:"
+      - "I speak amazedly; and it becomes"
+      - "My marvel and my message. To your court"
+      - "Whiles he was hastening, in the chase, it seems,"
+      - "Of this fair couple, meets he on the way"
+      - "The father of this seeming lady and"
+      - "Her brother, having both their country quitted"
+      - "With this young prince."
+    m:
+      - "Here in your city. I just came from him. I’m astonished, as suits my message. It seems that while he was hurrying here to your court in pursuit of this fair couple, he met the father and brother of the lady, who had both left their country with the prince."
+
+  - sp: FLORIZEL
+    o:
+      - "Camillo has betray’d me;"
+      - "Whose honour and whose honesty till now"
+      - "Endured all weathers."
+    m:
+      - "Camillo has betrayed me, though his honor and honesty had been steadfast until now."
+
+  - sp: LORD
+    o:
+      - "Lay’t so to his charge:"
+      - "He’s with the king your father."
+    m:
+      - "You may charge him with that yourself. He’s with the king, your father."
+
+  - sp: LEONTES
+    o:
+      - "Who? Camillo?"
+    m:
+      - "Who? Camillo?"
+
+  - sp: LORD
+    o:
+      - "Camillo, sir; I spake with him; who now"
+      - "Has these poor men in question. Never saw I"
+      - "Wretches so quake: they kneel, they kiss the earth;"
+      - "Forswear themselves as often as they speak:"
+      - "Bohemia stops his ears, and threatens them"
+      - "With divers deaths in death."
+    m:
+      - "Camillo, sir. I spoke with him, and he now has the poor men in question. I’ve never seen anyone tremble as they do. They kneel, and kiss the earth, and take back what they’ve said every time they speak. Polixenes refuses to listen and threatens them with various tortures."
+
+  - sp: PERDITA
+    o:
+      - "O my poor father!"
+      - "The heaven sets spies upon us, will not have"
+      - "Our contract celebrated."
+    m:
+      - "Oh, my poor father! The heavens set spies on us and refuse to let us celebrate our vows."
+
+  - sp: LEONTES
+    o:
+      - "You are married?"
+    m:
+      - "You are married?"
+
+  - sp: FLORIZEL
+    o:
+      - "We are not, sir, nor are we like to be;"
+      - "The stars, I see, will kiss the valleys first:"
+      - "The odds for high and low’s alike."
+    m:
+      - "We aren’t, sir, and it seems impossible that we will be. I see that the stars will fall to the earth first. Chance works equally for the high- and the lowborn."
+
+  - sp: LEONTES
+    o:
+      - "My lord,"
+      - "Is this the daughter of a king?"
+    m:
+      - "My lord, is this the daughter of a king?"
+
+  - sp: FLORIZEL
+    o:
+      - "She is,"
+      - "When once she is my wife."
+    m:
+      - "She will be, once she is my wife."
+
+  - sp: LEONTES
+    o:
+      - "That “once” I see by your good father’s speed"
+      - "Will come on very slowly. I am sorry,"
+      - "Most sorry, you have broken from his liking"
+      - "Where you were tied in duty, and as sorry"
+      - "Your choice is not so rich in worth as beauty,"
+      - "That you might well enjoy her."
+    m:
+      - "I think that “once” will not be soon, given your father’s speed in coming here. I am very sorry that you have gone against his wishes and your duty, and as sorry that your lady isn’t as rich in rank as she is in beauty, so that you could marry her."
+
+  - sp: FLORIZEL
+    o:
+      - "Dear, look up:"
+      - "Though Fortune, visible an enemy,"
+      - "Should chase us with my father, power no jot"
+      - "Hath she to change our loves. Beseech you, sir,"
+      - "Remember since you owed no more to time"
+      - "Than I do now: with thought of such affections,"
+      - "Step forth mine advocate; at your request"
+      - "My father will grant precious things as trifles."
+    m:
+      - "Dear, cheer up. Even if Fate, which is apparently our enemy, has chased us with my father, she has no power to change our love for each other. Please, sir, remember when you were my age. Thinking of such love, come forward in my defense. If you request it, my father will grant precious things as though they were nothing."
+
+  - sp: LEONTES
+    o:
+      - "Would he do so, I’ld beg your precious mistress,"
+      - "Which he counts but a trifle."
+    m:
+      - "I’d beg your precious mistress’ pardon if he counted her as nothing."
+
+  - sp: PAULINA
+    o:
+      - "Sir, my liege,"
+      - "Your eye hath too much youth in’t: not a month"
+      - "’Fore your queen died, she was more worth such gazes"
+      - "Than what you look on now."
+    m:
+      - "My lord, you are too dazzled by youth. Your queen deserved those admiring glances more than this woman only a month before she died."
+
+  - sp: LEONTES
+    o:
+      - "I thought of her,"
+      - "Even in these looks I made."
+    m:
+      - "I thought of her, even as I looked upon this woman."
+
+  - os: "To FLORIZEL"
+    ms: "To Florizel"
+
+  - o:
+      - "But your petition"
+      - "Is yet unanswer’d. I will to your father:"
+      - "Your honour not o’erthrown by your desires,"
+      - "I am friend to them and you: upon which errand"
+      - "I now go toward him; therefore follow me"
+      - "And mark what way I make: come, good my lord."
+    m:
+      - "But I haven’t answered your request. I will tell your father that you haven’t let your desire to marry this girl overwhelm your honor. I support both you and your wish. I’ll go to him now on this errand. Follow me, and watch where I go. Come, my lord."
+
+  - os: "Exeunt"
+    ms: "They exit."

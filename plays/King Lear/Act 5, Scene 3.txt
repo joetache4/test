@@ -1,0 +1,1094 @@
+play: King Lear
+title: Act 5, Scene 3
+group: 5
+order: 25
+text:
+  - os: "Enter in conquest with drum and colors EDMUND, with LEAR and CORDELIA as prisoners, and FIRST CAPTAIN with soldiers"
+    ms: "EDMUND enters, victorious, with drums and banners. LEAR and CORDELIA enter as prisoners, led by the FIRST CAPTAIN and soldiers."
+
+  - sp: EDMUND
+    o:
+      - "Some officers take them away. Good guard"
+      - "Until their greater pleasures first be known"
+      - "That are to censure them."
+    m:
+      - "Officers, take them away. Guard them carefully until we decide how to punish them."
+
+  - sp: CORDELIA
+    o:
+      - "*(to LEAR)*"
+      - "  We are not the first"
+      - "Who with best meaning have incurred the worst."
+      - "For thee, oppressèd King, I am cast down."
+      - "Myself could else outfrown false fortune’s frown."
+      - "Shall we not see these daughters and these sisters?"
+    m:
+      - "*(to LEAR)* At least we’re not the first ones in our position. The road to hell is paved with good intentions. But I’m worried about you, my poor King. If it were only me, I would just wait out my bad luck. Should we meet with my sisters?"
+
+  - sp: LEAR
+    o:
+      - "No, no, no, no! Come, let’s away to prison."
+      - "We two alone will sing like birds i’ th’ cage."
+      - "When thou dost ask me blessing, I’ll kneel down"
+      - "And ask of thee forgiveness. So we’ll live,"
+      - "And pray, and sing, and tell old tales, and laugh"
+      - "At gilded butterflies, and hear poor rogues"
+      - "Talk of court news, and we’ll talk with them too—"
+      - "Who loses and who wins, who’s in, who’s out—"
+      - "And take upon ’s the mystery of things"
+      - "As if we were God’s spies. And we’ll wear out"
+      - "In a walled prison packs and sects of great ones"
+      - "That ebb and flow by the moon."
+    m:
+      - "No, no, no, no! Come on, let’s go to prison. The two of us together will sing like birds in a cage. We will be good to each other. When you ask for my blessing, I’ll get down on my knees and ask you to forgive me. That’s how we’ll live—we’ll pray, we’ll sing, we’ll tell old stories, we’ll laugh at pretentious courtiers, we’ll listen to nasty court gossip, we’ll find out who’s losing and who’s winning, who’s in and who’s out. We’ll think about the mysteries of the universe as if we were God’s spies. In prison we’ll outlast hordes of rulers that will come and go as their fortunes change."
+
+  - sp: EDMUND
+    o:
+      - "    Take them away."
+    m:
+      - "Take them away."
+
+  - sp: LEAR
+    o:
+      - "Upon such sacrifices, my Cordelia,"
+      - "The gods themselves throw incense. Have I caught thee?"
+      - "He that parts us shall bring a brand from heaven"
+      - "And fire us hence like foxes. Wipe thine eyes."
+      - "The good years shall devour them, flesh and fell,"
+      - "Ere they shall make us weep. We’ll see ’em starve first."
+      - "Come."
+    m:
+      - "My Cordelia, even the gods admire how much you’ve sacrificed for me. Have I hugged you yet? Anyone who wants to separate us will have to smoke us out of the cave of our togetherness like foxes. Wipe your eyes. Our jailers will shrivel up with old age before they make us cry again. We’ll watch them starve to death first. Come on."
+
+  - os: "Exeunt LEAR and CORDELIA, led by soldiers"
+    ms: "LEAR and CORDELIA exit, led by soldiers."
+
+  - sp: EDMUND
+    o:
+      - "Come hither, captain. Hark."
+      - "*(gives FIRST CAPTAIN a document)*"
+      - "Take thou this note. Go follow them to prison."
+      - "One step I have advanced thee. If thou dost"
+      - "As this instructs thee, thou dost make thy way"
+      - "To noble fortunes. Know thou this: that men"
+      - "Are as the time is. To be tender-minded"
+      - "Does not become a sword. Thy great employment"
+      - "Will not bear question. Either say thou’lt do ’t,"
+      - "Or thrive by other means."
+    m:
+      - "Come here, captain. Listen. *(gives the FIRST CAPTAIN a sheet of paper)* Take this note. Follow those two to prison and follow these instructions. I’ve already promoted you once. If you do as you’re told, you’ll be richly rewarded. Just remember this: you have to go with the times, and these are the times for being tough. A soldier can’t afford to be a ninny. There’ll be no quibbling about this assignment. Either you accept it, or go find some other way to support yourself."
+
+  - sp: FIRST CAPTAIN
+    o:
+      - "  I’ll do ’t, my lord."
+    m:
+      - "I’ll do it, sir."
+
+  - sp: EDMUND
+    o:
+      - "About it, and write “happy” when thou’st done."
+      - "Mark, I say, instantly, and carry it so"
+      - "As I have set it down."
+    m:
+      - "Then off you go. When you’ve finished, you’ll be a happy man. Go immediately, and do exactly as I wrote down."
+
+  - sp: FIRST CAPTAIN
+    o:
+      - "I cannot draw a cart, nor eat dried oats."
+      - "If it be man’s work, I’ll do ’t."
+    m:
+      - "Jobs are hard to come by. I can’t pull a cart or eat dried oats like a horse. If it’s work for a man, I’ll do it."
+
+  - os: "Exit FIRST CAPTAIN"
+    ms: "The FIRST CAPTAIN exits."
+
+  - os: "Flourish Enter the Duke of ALBANY, the two ladies GONERIL and REGAN, a SECOND CAPTAIN, and soldiers"
+    ms: "Trumpets play. ALBANY enters with GONERIL and REGAN, a SECOND CAPTAIN, and more soldiers."
+
+  - sp: ALBANY
+    o:
+      - "*(to EDMUND)* Sir, you have shown today your valiant strain,"
+      - "And fortune led you well. You have the captives"
+      - "That were the opposites of this day’s strife."
+      - "I do require them of you, so to use them"
+      - "As we shall find their merits and our safety"
+      - "May equally determine."
+    m:
+      - "*(to EDMUND)* Sir, you’ve shown your true courage today, and luck was on your side. You’ve taken prisoner the leaders of the opposition. I need to take cus- tody of them so I can do what’s best out of concern for their honor and the safety of the kingdom."
+
+  - sp: EDMUND
+    o:
+      - "  Sir, I thought it fit"
+      - "To send the old and miserable king"
+      - "To some retention and appointed guard—"
+      - "Whose age has charms in it, whose title more—"
+      - "To pluck the common bosom on his side,"
+      - "An turn our impressed lances in our eyes"
+      - "Which do command them. With him I sent the queen,"
+      - "My reason all the same, and they are ready"
+      - "Tomorrow or at further space t’ appear"
+      - "Where you shall hold your session. At this time"
+      - "We sweat and bleed. The friend hath lost his friend,"
+      - "And the best quarrels, in the heat, are cursed"
+      - "By those that feel their sharpness."
+      - "The question of Cordelia and her father"
+      - "Requires a fitter place."
+    m:
+      - "Sir, I decided it was appropriate to send the pathetic old king to a guarded prison cell. His old age and his title make him so popular among the commoners that I was worried our enlisted soldiers would turn against us on his behalf. I sent the French queen with him too, for the same reason. They’re ready to meet with you tomorrow, or whenever you like, wherever you’d like to hold your hearing. These are difficult times. Many have lost friends in battle, and soldiers will curse even a justified war if it causes them pain. We need a more appropriate place to discuss Cordelia and her father."
+
+  - sp: ALBANY
+    o:
+      - "I hold you but a subject of this war,"
+      - "Not as a brother."
+    m:
+      - "I’m sorry, sir, but in this war I consider you a subordinate, not my equal."
+
+  - sp: REGAN
+    o:
+      - "  That’s as we list to grace him."
+      - "Methinks our pleasure might have been demanded"
+      - "Ere you had spoke so far. He led our powers,"
+      - "Bore the commission of my place and person—"
+      - "The which immediacy may well stand up"
+      - "And call itself your brother."
+    m:
+      - "That’s for to me to decide. You might have asked my opinion before saying something so rude. Edmund has led our forces well, and implemented my wishes—and his close connection with me gives him the right to be considered your equal."
+
+  - sp: GONERIL
+    o:
+      - "    Not so hot."
+      - "In his own grace he doth exalt himself"
+      - "More than in your addition."
+    m:
+      - "Not so fast. He has distinguished himself as a great soldier in his own right, deserving more than any honor your can bestow on him."
+
+  - sp: REGAN
+    o:
+      - "    In my rights,"
+      - "By me invested, he compeers the best."
+    m:
+      - "I’m the one who gave him his military commission, and it is as my proxy that he fought bravely."
+
+  - sp: ALBANY
+    o:
+      - "    That were the most if he should"
+      - "  husband you."
+    m:
+      - "He’d really be your proxy if he married you."
+
+  - sp: REGAN
+    o:
+      - "Jesters do oft prove prophets."
+    m:
+      - "Don’t joke, it might come true."
+
+  - sp: GONERIL
+    o:
+      - "    Holla, holla!"
+      - "That eye that told you so looked but asquint."
+    m:
+      - "Whoa, whoa! You’re so infatuated with him that you’re hallucinating."
+
+  - sp: REGAN
+    o:
+      - "Lady, I am not well, else I should answer"
+      - "From a full-flowing stomach."
+      - "*(to EDMUND)*     General,"
+      - "Take thou my soldiers, prisoners, patrimony."
+      - "Dispose of them, of me. The walls is thine."
+      - "Witness the world that I create thee here"
+      - "My lord and master."
+    m:
+      - "Hey, lady, if I weren’t feeling a little sick, I’d give you a piece of my mind. *(to EDMUND)* General, take my soldiers, my prisoners, my whole inheritance, and do as you like with them. I surrender myself to your good judgment. Let the whole world see that I hereby make you my lord and master."
+
+  - sp: GONERIL
+    o:
+      - "  Mean you to enjoy him then?"
+    m:
+      - "Are you trying to sleep with him?"
+
+  - sp: ALBANY
+    o:
+      - "The let-alone lies not in your good will."
+    m:
+      - "*(to GONERIL)* It’s not up to you to say “Yes” or “No.”"
+
+  - sp: EDMUND
+    o:
+      - "Nor in thine, lord."
+    m:
+      - "Nor is it up to you, my lord."
+
+  - sp: ALBANY
+    o:
+      - "  Half-blooded fellow, yes."
+    m:
+      - "Yes it is, you half-blood."
+
+  - sp: REGAN
+    o:
+      - "*(to EDMUND)* Let the drum strike and prove my title thine."
+    m:
+      - "*(to EDMUND)* Let the drums beat. Prove your right to me by defeating any challenger."
+
+  - sp: ALBANY
+    o:
+      - "Stay yet. Hear reason.—Edmund, I arrest thee"
+      - "On capital treason, and in thine attaint"
+      - "This gilded serpent.*(indicates GONERIL)*"
+      - "*(to REGAN)* For your claim, fair sister,"
+      - "I bar it in the interest of my wife."
+      - "’Tis she is subcontracted to this lord."
+      - "And I, her husband, contradict your banns."
+      - "If you will marry, make your loves to me,"
+      - "My lady is bespoke."
+    m:
+      - "Hang on a second. Listen to me.—Edmund, you’re under arrest for capital treason. Along with you, your co-conspirator, this snake of a woman. *(points at GONERIL. Then, speaking to REGAN)* My dear sister-in-law, I veto your marriage announcement for the benefit of my wife, who is already engaged to Edmund. So if you want to get married, you’ll have to woo me. My wife’s already spoken for."
+
+  - sp: GONERIL
+    o:
+      - "  An interlude!"
+    m:
+      - "What a farce!"
+
+  - sp: ALBANY
+    o:
+      - "Thou art armed, Gloucester. Let the trumpet sound."
+      - "If none appear to prove upon thy person"
+      - "Thy heinous, manifest, and many treasons,"
+      - "There is my pledge. *(throws down his glove)*"
+      - "I’ll make it on thy heart,"
+      - "Ere I taste bread, thou art in nothing less"
+      - "Than I have here proclaimed thee."
+    m:
+      - "You’ve got a sword, Gloucester. Blow the trumpets. If nobody else comes to challenge you and prove what an abominable traitor you have been, I’ll have to challenge you myself. *(he throws down his glove)* I’ll prove soon enough that you’re just as wicked as I say you are."
+
+  - sp: REGAN
+    o:
+      - "Sick, oh, sick!"
+    m:
+      - "Oh, I’m sick, sick!"
+
+  - sp: GONERIL
+    o:
+      - "*(aside)* If not, I’ll ne’er trust medicine."
+    m:
+      - "*(to herself)* If she’s not ill, I’ll never trust drugs again."
+
+  - sp: EDMUND
+    o:
+      - "*(throwing down his glove)*"
+      - "There’s my exchange. What in the world he is"
+      - "That names me traitor, villainlike he lies."
+      - "Call by thy trumpet. He that dares approach,"
+      - "On him—on you, who not?—I will maintain"
+      - "My truth and honor firmly."
+    m:
+      - "*(throwing down his glove)* You’re on. Whoever calls me a traitor is a vicious liar. Blow the trumpet. Anyone who dares to step forward and make that accusation—you or anyone else—go ahead. I’ll uphold my truth and my honor."
+
+  - sp: ALBANY
+    o:
+      - "A herald, ho!"
+    m:
+      - "A herald! Call a herald!"
+
+  - sp: EDMUND
+    o:
+      - "A herald, ho, a herald!"
+    m:
+      - "A herald, a herald!"
+
+  - os: "Enter a HERALD"
+    ms: "A HERALD enters."
+
+  - sp: ALBANY
+    o:
+      - "*(to EDMUND)* Trust to thy single virtue, for thy soldiers,"
+      - "All levied in my name, have in my name"
+      - "Took their discharge."
+    m:
+      - "*(to EDMUND)* You’re on your own now. The soldiers were all drafted in my name, and now they are discharged in my name."
+
+  - sp: REGAN
+    o:
+      - "  My sickness grows upon me."
+    m:
+      - "I feel sicker and sicker."
+
+  - sp: ALBANY
+    o:
+      - "She is not well. Convey her to my tent."
+    m:
+      - "She’s not feeling well. Take her to my tent."
+
+  - os: "Exit REGAN, led"
+    ms: "REGAN is helped to exit."
+
+  - o:
+      - "Come hither, herald.—Let the trumpet sound,—"
+      - "And read out this. *(gives the HERALD a document)*"
+    m:
+      - "Come here, herald.—Let the trumpet sound!—Read this out. *(he hands the HERALD a document)*"
+
+  - sp: SECOND CAPTAIN
+    o:
+      - "Sound, trumpet!"
+    m:
+      - "Blow the trumpet!"
+
+  - os: "A trumpet sounds"
+    ms: "A trumpet sounds."
+
+  - sp: HERALD
+    o:
+      - "*(reads)*"
+      - "“If any man of quality or degree within the lists of the army will maintain upon Edmund, supposed Earl of Gloucester, that he is a manifold traitor, let him appear by the third sound of the trumpet. He is bold in his defense.”"
+    m:
+      - "*(reads)*"
+      - "“If any noble man in the army asserts that Edmund, so-called Earl of Gloucester, is a traitor many times over, let him step forward by the third trumpet blast.”"
+
+  - sp: EDMUND
+    o:
+      - "Sound!"
+    m:
+      - "Sound!"
+
+  - os: "First trumpet"
+    ms: "First trumpet sounds."
+
+  - sp: HERALD
+    o:
+      - "Again!"
+    m:
+      - "Again!"
+
+  - os: "Second trumpet"
+    ms: "Second trumpet sounds."
+
+  - sp: HERALD
+    o:
+      - "Again!"
+    m:
+      - "Again!"
+
+  - os: "Third trumpet Trumpet answers within Enter EDGAR, at the third sound, armed, a trumpet before him"
+    ms: "Third trumpet sounds. Another trumpet answers inside. EDGAR enters, wearing armor."
+
+  - sp: ALBANY
+    o:
+      - "*(to HERALD)* Ask him his purposes, why he appears"
+      - "Upon this call o’ th’ trumpet."
+    m:
+      - "*(to HERALD)* Ask him why he’s stepping forward."
+
+  - sp: HERALD
+    o:
+      - "What are you?"
+      - "Your name, your quality, and why you answer"
+      - "This present summons?"
+    m:
+      - "Who are you? What’s your name and rank, and why are you stepping forward?"
+
+  - sp: EDGAR
+    o:
+      - "  O, know, my name is lost."
+      - "By treason’s tooth bare-gnawn and canker-bit."
+      - "Yet am I noble as the adversary"
+      - "I come to cope withal."
+    m:
+      - "I’ve lost my name and title to a traitor. But I’m as noble as my opponent."
+
+  - sp: ALBANY
+    o:
+      - "  Which is that adversary?"
+    m:
+      - "And who is that?"
+
+  - sp: EDGAR
+    o:
+      - "What’s he that speaks for Edmund, Earl of Gloucester?"
+    m:
+      - "Who’s the spokesman for Edmund, Earl of Gloucester?"
+
+  - sp: EDMUND
+    o:
+      - "Himself. What sayst thou to him?"
+    m:
+      - "I’m my own spokesman. What do you have to say to me?"
+
+  - sp: EDGAR
+    o:
+      - "    Draw thy sword,"
+      - "That if my speech offend a noble heart"
+      - "Thy arm may do thee justice. *(draws his sword)* Here is mine."
+      - "Behold: it is the privilege of mine honors,"
+      - "My oath, and my profession. I protest—"
+      - "Maugre thy strength, youth, place, and eminence,"
+      - "Despite thy victor sword and fire-new fortune,"
+      - "Thy valor and thy heart—thou art a traitor,"
+      - "False to thy gods, thy brother, and thy father,"
+      - "Conspirant ’gainst this high illustrious prince,"
+      - "And from th’ extremest upward of thy head"
+      - "To the descent and dust below thy foot"
+      - "A most toad-spotted traitor. Say thou “No,”"
+      - "This sword, this arm, and my best spirits are bent"
+      - "To prove upon thy heart, whereto I speak,"
+      - "Thou liest."
+    m:
+      - "Draw your sword. If I offend you by what I say, you can use your sword to take revenge. Here’s mine. *(he draws his sword)* Look at it. It’s the symbol of my honor, my rank, and my status as a knight. In spite of your youth, rank, strength, and excellence at warfare, in spite of your courage, your recent victory, and your good luck, I declare that you’re a traitor. You’ve betrayed your gods, your brother, and your father. You’ve plotted against this noble duke. You’re a rotten traitor, through and through, from the top of your head to the soles of your feet. If you disagree with me, I’m ready to use this sword and my courage to prove that you’re a liar."
+
+  - sp: EDMUND
+    o:
+      - "  In wisdom I should ask thy name."
+      - "But since thy outside looks so fair and warlike,"
+      - "And that thy tongue some say of breeding breathes,"
+      - "What safe and nicely I might well delay"
+      - "By rule of knighthood, I disdain and spurn."
+      - "Back do I toss these treasons to thy head,"
+      - "With the hell-hated lie o’erwhelm thy heart—"
+      - "Which, for they yet glance by and scarcely bruise,"
+      - "This sword of mine shall give them instant way,"
+      - "Where they shall rest for ever.—Trumpets, speak!"
+    m:
+      - "Normally I would ask you what your name is first. But since you look so fine and noble, and since you’re so well mannered in your speech, I’m prepared to overlook the rules of knighthood, which say I should refuse to fight a man I don’t know. I throw your accusations back in your face. Your lies can hardly hurt me, but I’ll still fight you and embed your lies back in your hellish heart.—Trumpets, blow!"
+
+  - os: "Alarums EDMUND and EDGAR fight EDMUND falls"
+    ms: "Trumpets play. EDMUND and EDGAR fight. EDMUND falls."
+
+  - sp: ALBANY
+    o:
+      - "Save him, save him!"
+    m:
+      - "*(to EDGAR)* Save him, save him!"
+
+  - sp: GONERIL
+    o:
+      - "This is practice, Gloucester."
+      - "By th’ law of arms thou wast not bound to answer"
+      - "An unknown opposite. Thou art not vanquished,"
+      - "But cozened and beguiled."
+    m:
+      - "You were tricked into fighting, Gloucester. According to the laws of war, you didn’t have to fight a stranger. You haven’t lost this fight; you’ve been tricked and deceived."
+
+  - sp: ALBANY
+    o:
+      - "  Shut your mouth, dame,"
+      - "Or with this paper shall I stop it.—Hold, sir,"
+      - "*(gives the letter to EDMUND)*"
+      - "Thou worse than any name, read thine own evil.—"
+      - "*(to GONERIL)* Nay, no tearing, lady. I perceive you know it."
+    m:
+      - "Shut your mouth, woman, or I’ll shove this paper in it.—Stop, sir. *(gives the letter to EDMUND)* You despicable criminal, read your crime. *(to GONERIL)* Don’t try to tear it up, madam. I take it you know what this letter says."
+
+  - sp: GONERIL
+    o:
+      - "Say, if I do? The laws are mine, not thine."
+      - "Who can arraign me for ’t?"
+    m:
+      - "And what if I do? I make the laws, not you. Who can prosecute me for it?"
+
+  - sp: ALBANY
+    o:
+      - "  Most monstrous, oh!"
+      - "*(to EDMUND)* Know’st thou this paper?"
+    m:
+      - "Oh, monstrous! *(to EDMUND)* Do you know what letter this is?"
+
+  - sp: EDMUND
+    o:
+      - "Ask me not what I know."
+    m:
+      - "Don’t ask me what I know."
+
+  - os: "Exit GONERIL"
+    ms: "GONERIL exits."
+
+  - sp: ALBANY
+    o:
+      - "Go after her. She’s desperate. Govern her."
+    m:
+      - "Follow her. She’s desperate. Make sure she doesn’t do anything stupid."
+
+  - os: "Exit a soldier"
+    ms: "A soldier exits."
+
+  - sp: EDMUND
+    o:
+      - "What you have charged me with, that have I done—"
+      - "And more, much more. The time will bring it out."
+      - "’Tis past, and so am I."
+      - "*(to EDGAR)*"
+      - "  But what art thou"
+      - "That hast this fortune on me? If thou’rt noble,"
+      - "I do forgive thee."
+    m:
+      - "I’ve done everything you accuse me of—and more, much more. You’ll find out everything in due time. It’s all over now, and so am I. *(to EDGAR)* But who are you, you who’ve managed to defeat me? If you’re a nobleman, I forgive you."
+
+  - sp: EDGAR
+    o:
+      - "  Let’s exchange charity."
+      - "I am no less in blood than thou art, Edmund."
+      - "If more, the more thou’st wronged me."
+      - "My name is Edgar, and thy father’s son."
+      - "The gods are just, and of our pleasant vices"
+      - "Make instruments to plague us."
+      - "The dark and vicious place where thee he got"
+      - "Cost him his eyes."
+    m:
+      - "Let’s forgive each other. I’m no less noble than you are, Edmund. If I’m more noble than you, you’ve done me wrong. My name is Edgar, and I’m your father’s son. The gods are fair, and they use our little vices to punish us. The woman he committed adultery with, your mother, cost him his eyes."
+
+  - sp: EDMUND
+    o:
+      - "  Thou’st spoken right. ’Tis true."
+      - "The wheel is come full circle. I am here."
+    m:
+      - "You’re right. That’s true. It’s all come full circle, and here I am."
+
+  - sp: ALBANY
+    o:
+      - "Methought thy very gait did prophesy"
+      - "A royal nobleness. I must embrace thee."
+      - "Let sorrow split my heart if ever I"
+      - "Did hate thee or thy father."
+    m:
+      - "I suspected that you were noble when I saw how you walked. Let me embrace you. I swear I never hated you or your father!"
+
+  - sp: EDGAR
+    o:
+      - "Worthy prince, I know ’t."
+    m:
+      - "I know, prince."
+
+  - sp: ALBANY
+    o:
+      - "Where have you hid yourself?"
+      - "How have you known the miseries of your father?"
+    m:
+      - "Where have you been hiding? How did you know what happened to your poor father?"
+
+  - sp: EDGAR
+    o:
+      - "By nursing them, my lord. List a brief tale,"
+      - "And when ’tis told, oh, that my heart would burst!"
+      - "The bloody proclamation to escape,"
+      - "That followed me so near—O our lives’ sweetness,"
+      - "That we the pain of death would hourly die"
+      - "Rather than die at once!—taught me to shift"
+      - "Into a madman’s rags, t’ assume a semblance"
+      - "That very dogs disdained. And in this habit"
+      - "Met I my father with his bleeding rings,"
+      - "Their precious stones new lost, became his guide,"
+      - "Led him, begged for him, saved him from despair."
+      - "Never—O fault!—revealed myself unto him"
+      - "Until some half-hour past, when I was armed."
+      - "Not sure, though hoping of this good success,"
+      - "I asked his blessing, and from first to last"
+      - "Told him my pilgrimage. But his flawed heart—"
+      - "Alack, too weak the conflict to support—"
+      - "’Twixt two extremes of passion, joy and grief,"
+      - "Burst smilingly."
+    m:
+      - "I knew because I helped nurse him through his suffering. Listen to my little story, and when it’s done, oh, my heart will break! To escape the decree condemning me to death, I disguised myself as a madman beggar and became a creature despised even by dogs.—Oh, how sweet our lives must be if we prefer to die gradually by debasing ourselves rather than dying all at once!—In that disguise I met up with my father with bloody sockets where his beautiful eyes used to be. I became his guide, I led him and begged for him, and kept him from suicide. I never—oh, what a mistake!—revealed myself to him until half an hour ago, when I was in my armor. With hope in my heart I asked him for his blessing, not sure that he’d give it to me. He did. I told him everything that had happened on my journey. But his frail heart, too weak to grapple with such a conflict between joy and sadness, gave out."
+
+  - sp: EDMUND
+    o:
+      - "  This speech of yours hath moved me,"
+      - "And shall perchance do good. But speak you on."
+      - "You look as you had something more to say."
+    m:
+      - "Your words have moved me, and maybe it’ll do some good. But go on. You look like you have something more to say."
+
+  - sp: ALBANY
+    o:
+      - "If there be more, more woeful, hold it in."
+      - "For I am almost ready to dissolve,"
+      - "Hearing of this."
+    m:
+      - "If there’s anything more sorrowful left to add, keep it to yourself. I’m almost ready to break down hearing this much."
+
+  - sp: EDGAR
+    o:
+      - "  This would have seemed a period"
+      - "To such as love not sorrow, but another"
+      - "To amplify too much would make much more"
+      - "And top extremity."
+      - "Whilst I was big in clamor came there in a man"
+      - "Who, having seen me in my worst estate,"
+      - "Shunned my abhorred society, but then, finding"
+      - "Who ’twas that so endured, with his strong arms"
+      - "He fastened on my neck, and bellowed out"
+      - "As he’d burst heaven, threw him on my father,"
+      - "Told the most piteous tale of Lear and him"
+      - "That ever ear received—which in recounting"
+      - "His grief grew puissant and the strings of life"
+      - "Began to crack. Twice then the trumpets sounded,"
+      - "And there I left him tranced."
+    m:
+      - "This may have seemed like the pinnacle of sadness, but if I went on I could outdo it. While I was sobbing loudly, a man came in. He had seen me in my ragged clothes and shunned me, but when he found out who I was, he clasped my neck with his strong arms and cried to high heaven. He threw himself on my father and told the saddest story you’ve ever heard about Lear and him. As he was telling that story he grieved more and more, until his heart started to break. Then I heard the trumpets blow twice, and left him there in a trance."
+
+  - sp: ALBANY
+    o:
+      - "    But who was this?"
+    m:
+      - "But who was that man?"
+
+  - sp: EDGAR
+    o:
+      - "Kent, sir, the banished Kent, who in disguise"
+      - "Followed his enemy king and did him service"
+      - "Improper for a slave."
+    m:
+      - "It was Kent, sir, the exiled Kent, who, after the king treated him like an enemy of the state, put on a disguise and followed his king, carrying out tasks unworthy of even a slave."
+
+  - os: "Enter SECOND KNIGHT with a bloody knife"
+    ms: "The SECOND KNIGHT enters with a bloody knife."
+
+  - sp: SECOND KNIGHT
+    o:
+      - "  Help, help, O, help!"
+    m:
+      - "Help, help, oh, help!"
+
+  - sp: EDGAR
+    o:
+      - "    What kind of help?"
+    m:
+      - "What kind of help do you need?"
+
+  - sp: ALBANY
+    o:
+      - "Speak, man."
+    m:
+      - "Say something, man!"
+
+  - sp: EDGAR
+    o:
+      - "What means that bloody knife?"
+    m:
+      - "What is that bloody knife?"
+
+  - sp: SECOND KNIGHT
+    o:
+      - "’Tis hot, it smokes."
+      - "It came even from the heart of—oh, she’s dead!"
+    m:
+      - "It’s still warm from the cut. It was just removed from from the heart of—oh, she’s dead!"
+
+  - sp: ALBANY
+    o:
+      - "Who dead? Speak, man."
+    m:
+      - "Who’s dead? Speak, man."
+
+  - sp: SECOND KNIGHT
+    o:
+      - "Your lady, sir, your lady. And her sister"
+      - "By her is poisoned. She confesses it."
+    m:
+      - "Your wife, sir, your wife. And her sister’s dead too, poisoned by your wife. She confessed."
+
+  - sp: EDMUND
+    o:
+      - "I was contracted to them both. All three"
+      - "Now marry in an instant."
+    m:
+      - "I was engaged to both of them. All three of us will marry now in death."
+
+  - sp: EDGAR
+    o:
+      - "  Here comes Kent."
+    m:
+      - "Here comes Kent."
+
+  - sp: ALBANY
+    o:
+      - "Produce their bodies, be they alive or dead."
+      - "This judgment of the heavens that makes us tremble"
+      - "Touches us not with pity."
+    m:
+      - "*(to SECOND KNIGHT)* Bring the bodies here, whether they’re alive or dead. We tremble at the gods’ wrath, but we don’t mourn these deaths."
+
+  - os: "Exit SECOND KNIGHT"
+    ms: "The SECOND KNIGHT exits."
+
+  - os: "Enter KENT"
+    ms: "KENT enters."
+
+  - o:
+      - "    Oh, is this he?"
+      - "The time will not allow the compliment"
+      - "Which very manners urges."
+    m:
+      - "Oh, is that Kent? There’s no time for polite greetings."
+
+  - sp: KENT
+    o:
+      - "  I am come"
+      - "To bid my king and master aye good night."
+      - "Is he not here?"
+    m:
+      - "I’ve come to say farewell to my king and master. Isn’t he here?"
+
+  - sp: ALBANY
+    o:
+      - "  Great thing of us forgot!—"
+      - "Speak, Edmund, where’s the king? And where’s Cordelia?—"
+    m:
+      - "What an enormous thing for us to forget!—Edmund, tell us, where’s the king? And where’s Cordelia?—"
+
+  - os: "REGAN’s and GONERIL’s corpses are brought out"
+    ms: "GONERIL’s and REGAN’s bodies are brought out."
+
+  - o:
+      - "Seest thou this object, Kent?"
+    m:
+      - "Do you see this, Kent?"
+
+  - sp: Kent
+    o:
+      - "Alack, why thus?"
+    m:
+      - "Oh, why is this so?"
+
+  - sp: EDMUND
+    o:
+      - "Yet Edmund was beloved."
+      - "The one the other poisoned for my sake,"
+      - "And after slew herself."
+    m:
+      - "Still, Edmund was beloved. One of the sisters poisoned the other out of love for me, and then killed herself."
+
+  - sp: ALBANY
+    o:
+      - "  Even so.—Cover their faces."
+    m:
+      - "Apparently so.—Cover their faces."
+
+  - sp: EDMUND
+    o:
+      - "I pant for life. Some good I mean to do"
+      - "Despite of mine own nature. Quickly send—"
+      - "Be brief in it—to th’ castle, for my writ"
+      - "Is on the life of Lear and on Cordelia."
+      - "Nay, send in time!"
+    m:
+      - "I wish I could live longer. I want to do a little good despite my evil nature. Go quickly—hurry—to the castle, for I’ve given orders to have Lear and Cordelia killed. Hurry, send someone immediately!"
+
+  - sp: ALBANY
+    o:
+      - "  Run, run, O, run!"
+    m:
+      - "Run, run, oh, run!"
+
+  - sp: EDGAR
+    o:
+      - "To who, my lord?—Who hath the office? Send"
+      - "Thy token of reprieve."
+    m:
+      - "Whom should we look for in the castle?—Whose job is it? Send something along to prove you’re withdrawing the orders."
+
+  - sp: Edmund
+    o:
+      - "Well thought on. Take my sword. The captain—"
+      - "Give it the captain."
+    m:
+      - "Good idea. Take my sword. The captain—give it to the captain."
+
+  - sp: ALBANY
+    o:
+      - "  Haste thee for thy life."
+    m:
+      - "Run as if your life depended on it."
+
+  - os: "Exit a soldier"
+    ms: "A soldier exits."
+
+  - sp: Edmund
+    o:
+      - "He hath commission from thy wife and me"
+      - "To hang Cordelia in the prison and"
+      - "To lay the blame upon her own despair,"
+      - "That she fordid herself."
+    m:
+      - "My wife and I ordered him to hang Cordelia in prison and then to make it look as if she committed suicide in despair."
+
+  - sp: ALBANY
+    o:
+      - "The gods defend her!—hear him hence awhile."
+    m:
+      - "Heaven help her!—Get him out of here for now."
+
+  - os: "Exit soldiers with EDMUND"
+    ms: "Soldiers exit with EDMUND."
+
+  - os: "Enter LEAR with CORDELIA in his arms, a THIRD KNIGHT following"
+    ms: "LEAR enters with CORDELIA in his arms, followed by the THIRD KNIGHT."
+
+  - sp: LEAR
+    o:
+      - "Howl, howl, howl, howl! Oh, you are men of stones."
+      - "Had I your tongues and eyes, I’d use them so"
+      - "That heaven’s vault should crack. She’s gone forever."
+      - "I know when one is dead and when one lives."
+      - "She’s dead as earth. Lend me a looking-glass."
+      - "If that her breath will mist or stain the stone,"
+      - "Why then, she lives."
+    m:
+      - "Howl, howl, howl, howl! Oh, you men are made of stone! If I were you with eyes and a tongue to speak with, I’d crack heaven wide open with my laments! She’s gone forever. I know how to tell when someone is alive or dead. She’s as dead as the cold ground. Let me borrow a mirror. If her breath steams up the glass, then she’s alive."
+
+  - sp: KENT
+    o:
+      - "  Is this the promised end?"
+    m:
+      - "Is this doomsday? The end of the world?"
+
+  - sp: EDGAR
+    o:
+      - "Or image of that horror?"
+    m:
+      - "Or just a foretaste of it?"
+
+  - sp: ALBANY
+    o:
+      - "  Fall and cease."
+    m:
+      - "Let the world collapse around us."
+
+  - sp: LEAR
+    o:
+      - "This feather stirs. She lives. If it be so,"
+      - "It is a chance which does redeem all sorrows"
+      - "That ever I have felt."
+    m:
+      - "This feather moved because of her breath. She’s alive. If that’s true, it makes up for all the sorrows I’ve ever known."
+
+  - sp: KENT
+    o:
+      - "  O my good master!"
+    m:
+      - "Oh, my good master!"
+
+  - sp: LEAR
+    o:
+      - "Prithee, away."
+    m:
+      - "Please, go away."
+
+  - sp: EDGAR
+    o:
+      - "   ’Tis noble Kent, your friend."
+    m:
+      - "It’s noble Kent, your friend."
+
+  - sp: LEAR
+    o:
+      - "A plague upon you, murderers, traitors all!"
+      - "I might have saved her. Now she’s gone for ever.—"
+      - "Cordelia, Cordelia, stay a little. Ha?"
+      - "What is ’t thou say’st?—Her voice was ever soft,"
+      - "Gentle and low, an excellent thing in woman.—"
+      - "I killed the slave that was a-hanging thee."
+    m:
+      - "Curse you all, you’re all murderers and traitors! I could have saved her. Now she’s gone forever.—Cordelia, Cordelia, stay a while. Ha? What are you saying?—Her voice always was so soft and gentle. That’s a good thing in a woman.—I killed the scum who was hanging you."
+
+  - sp: THIRD KNIGHT
+    o:
+      - "’Tis true, my lords, he did."
+    m:
+      - "It’s true, my lords, he did."
+
+  - sp: LEAR
+    o:
+      - "    Did I not, fellow?"
+      - "I have seen the day with my good biting falchion"
+      - "I would have made them skip. I am old now,"
+      - "And these same crosses spoil me. *(to KENT)* Who are you?"
+      - "Mine eyes are not o’ th’ best, I’ll tell you straight."
+    m:
+      - "Didn’t I? Back in the old days I would’ve made him dance with my sword. But I’m old now, and suffering has weakened me. *(to KENT)* Who are you? My eyesight’s not the best, I’ll tell you straight."
+
+  - sp: KENT
+    o:
+      - "If Fortune brag of two she loved and hated,"
+      - "One of them we behold."
+    m:
+      - "We’re looking at the unluckiest man who ever lived."
+
+  - sp: LEAR
+    o:
+      - "  This a dull sight."
+      - "Are you not Kent?"
+    m:
+      - "My vision is dull. Aren’t you Kent?"
+
+  - sp: KENT
+    o:
+      - "The same. Your servant Kent."
+      - "Where is your servant Caius?"
+    m:
+      - "That’s me. Your servant Kent. Where’s your servant Caius?"
+
+  - sp: LEAR
+    o:
+      - "He’s a good fellow, I can tell you that."
+      - "He’ll strike, and quickly too. He’s dead and rotten."
+    m:
+      - "He’s a good fellow, I can tell you that much. Not afraid to fight, he’s a feisty one. He’s dead and rotting in the dirt now."
+
+  - sp: KENT
+    o:
+      - "No, my good lord. I am the very man—"
+    m:
+      - "No, my lord, that was me. I’m the one who—"
+
+  - sp: LEAR
+    o:
+      - "I’ll see that straight."
+    m:
+      - "I’ll get right on that."
+
+  - sp: KENT
+    o:
+      - "That from your first of difference and decay"
+      - "Have followed your sad steps."
+    m:
+      - "—followed you on your sad wanderings, ever since your bad luck began."
+
+  - sp: LEAR
+    o:
+      - "    You’re welcome hither."
+    m:
+      - "Nice to see you."
+
+  - sp: KENT
+    o:
+      - "Nor no man else. All’s cheerless, dark, and deadly."
+      - "Your eldest daughters have fordone themselves,"
+      - "And desperately are dead."
+    m:
+      - "It was me, no one else. Everything is gloomy, dark, and dreadful. Your eldest daughters destroyed themselves and died in despair."
+
+  - sp: LEAR
+    o:
+      - "  Ay, so I think."
+    m:
+      - "Yes, I think that’s true."
+
+  - sp: ALBANY
+    o:
+      - "He knows not what he says, and vain it is"
+      - "That we present us to him."
+    m:
+      - "He doesn’t know what he’s saying. It’s useless to try to talk to him."
+
+  - os: "Enter THIRD MESSENGER"
+    ms: "The THIRD MESSENGER enters."
+
+  - sp: EDGAR
+    o:
+      - "    Very bootless."
+    m:
+      - "Yes, it’s pointless."
+
+  - sp: THIRD MESSENGER
+    o:
+      - "Edmund is dead, my lord."
+    m:
+      - "Edmund is dead, my lord."
+
+  - sp: ALBANY
+    o:
+      - "  That’s but a trifle here.—"
+      - "You lords and noble friends, know our intent."
+      - "What comfort to this great decay may come"
+      - "Shall be applied. For us, we will resign"
+      - "During the life of this old majesty"
+      - "To him our absolute power."
+      - "*(to EDGAR and KENT)*"
+      - "  You, to your rights"
+      - "With boot, and such addition as your honors"
+      - "Have more than merited.—All friends shall taste"
+      - "The wages of their virtue, and all foes"
+      - "The cup of their deservings. O, see, see!"
+    m:
+      - "That doesn’t matter much with everything else that’s going on.—Gentlemen, I will announce my plans. I’ll do everything I can to ease the king’s suffering. As for me, I’m surrendering all my power over to him, giving him absolute authority for the rest of his life. *(to EDGAR and KENT)* You will get back your rightful property and titles, along with new honors that you have more than deserved.—My friends and allies will be rewarded for their support, and my enemies will get what they deserve. Look, look!"
+
+  - sp: LEAR
+    o:
+      - "And my poor fool is hanged.—No, no, no life?"
+      - "Why should a dog, a horse, a rat have life,"
+      - "And thou no breath at all? Oh, thou’lt come no more,"
+      - "Never, never, never, never, never.—"
+      - "Pray you, undo this button. Thank you, sir."
+      - "Do you see this? Look on her. Look, her lips."
+      - "Look there, look there. O, O, O, O."
+      - "*(dies)*"
+    m:
+      - "And my poor fool was hanged.— No, no, no life left? Why should a dog or horse or rat have life, but not you? You’ll never come to me again, never, never, never, never, never.—Please help me undo this button. Thank you, sir. Do you see that? Look at her. Look, her lips. Look there, look there. Oh, oh, oh, oh. *(he dies)*"
+
+  - sp: EDGAR
+    o:
+      - "He faints!—My lord, my lord!"
+    m:
+      - "He’s fainted.—My lord, my lord!"
+
+  - sp: KENT
+    o:
+      - "Break, heart. I prithee, break!"
+    m:
+      - "My heart will break, break."
+
+  - sp: EDGAR
+    o:
+      - "*(to LEAR)* Look up, my lord."
+    m:
+      - "*(to LEAR)* Look at me, my lord."
+
+  - sp: KENT
+    o:
+      - "Vex not his ghost. O, let him pass. He hates him"
+      - "That would upon the rack of this tough world"
+      - "Stretch him out longer."
+    m:
+      - "Don’t disturb his soul. Let it go up to heaven. His soul would be angry at anyone who tried to keep him in the torture chamber of this life any longer."
+
+  - sp: EDGAR
+    o:
+      - "  Oh, he is gone indeed."
+    m:
+      - "Oh, he’s really gone."
+
+  - sp: KENT
+    o:
+      - "The wonder is he hath endured so long."
+      - "He but usurped his life."
+    m:
+      - "What’s amazing is how long he lasted. He was living on borrowed time at the end."
+
+  - sp: ALBANY
+    o:
+      - "Bear them from hence. Our present business"
+      - "Is to general woe."
+      - "*(to KENT and EDGAR)* Friends of my soul, you twain"
+      - "Rule in this realm, and the gored state sustain."
+    m:
+      - "Carry them away. Our business now is mourning and grief. *(to KENT and EDGAR)* My friends and soulmates, you two will reign over this kingdom and keep the wounded country alive."
+
+  - sp: KENT
+    o:
+      - "I have a journey, sir, shortly to go."
+      - "My master calls me. I must not say no."
+    m:
+      - "I will have to go on a journey to death soon, sir. My master’s calling me. I can’t say no."
+
+  - sp: EDGAR
+    o:
+      - "The weight of this sad time we must obey."
+      - "Speak what we feel, not what we ought to say."
+      - "The oldest hath borne most. We that are young"
+      - "Shall never see so much, nor live so long."
+    m:
+      - "We must remember the gravity of this sad day. We should speak what we feel, not what we ought to say. The oldest one suffered the most. We young ones will never see as much as he has seen, or live as long."
+
+  - os: "Exeunt with a dead march"
+    ms: "They exit in a funeral march."

@@ -1,0 +1,223 @@
+play: Henry IV, Part II
+title: Act 1, Scene 3
+group: 1
+order: 3
+text:
+  - os: "Enter the ARCHBISHOP of York, Thomas MOWBRAY the Earl Marshal, Lord HASTINGS, and LORD BARDOLPH"
+    ms: "The ARCHBISHOP of York, Thomas MOWBRAY the Earl Marshal, Lord HASTINGS and LORD BARDOLPH enter."
+
+  - sp: ARCHBISHOP
+    o:
+      - "Thus have you heard our cause and known our means,"
+      - "And, my most noble friends, I pray you all"
+      - "Speak plainly your opinions of our hopes."
+      - "And first, Lord Marshal, what say you to it?"
+    m:
+      - "So that’s what we’re fighting for, and that’s the kind of support we have. Now please, my noble friends, tell me frankly if you think we have a chance. First you, Marshal Mowbray. What do you say?"
+
+  - sp: MOWBRAY
+    o:
+      - "I well allow the occasion of our arms,"
+      - "But gladly would be better satisfied"
+      - "How in our means we should advance ourselves"
+      - "To look with forehead bold and big enough"
+      - "Upon the power and puissance of the King."
+    m:
+      - "I absolutely agree with our reasons for fighting. But given our resources, I’d feel better if I knew how we’re going to grow bold and strong enough to defeat this mighty and powerful King."
+
+  - sp: HASTINGS
+    o:
+      - "Our present musters grow upon the file"
+      - "To five-and-twenty thousand men of choice,"
+      - "And our supplies live largely in the hope"
+      - "Of great Northumberland, whose bosom burns"
+      - "With an incensèd fire of injuries."
+    m:
+      - "Our army has grown to twenty-five thousand good men. Our reinforcements are coming with Northumberland, and his heart burns with anger over all he’s lost."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "The question then, Lord Hastings, standeth thus:"
+      - "Whether our present five-and-twenty thousand"
+      - "May hold up head without Northumberland."
+    m:
+      - "Then, Lord Hastings, this is the question: can our twenty-five thousand get the job done without Northumberland?"
+
+  - sp: HASTINGS
+    o:
+      - "With him we may."
+    m:
+      - "With him, we can."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "  Yea, marry, there’s the point."
+      - "But if without him we be thought too feeble,"
+      - "My judgment is we should not step too far"
+      - "Till we had his assistance by the hand."
+      - "For in a theme so bloody-faced as this,"
+      - "Conjecture, expectation, and surmise"
+      - "Of aids incertain should not be admitted."
+    m:
+      - "Yes, exactly, and that’s the point. If we’re too weak without him, then I don’t think we should advance until we know that his help is guaranteed. In a fight as bloody as this one, we need to be certain about the status of our supporters: we can’t rely on conjecture, hope, and guesswork when aid isn’t guaranteed."
+
+  - sp: ARCHBISHOP
+    o:
+      - "’Tis very true, Lord Bardolph; for indeed"
+      - "It was young Hotspur’s cause at Shrewsbury."
+    m:
+      - "That’s right, Lord Bardolph. That’s what happened to young Hotspur at Shrewsbury."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "It was, my lord; who lined himself with hope,"
+      - "Eating the air on promise of supply,"
+      - "Flatt’ring himself in project of a power"
+      - "Much smaller than the smallest of his thoughts,"
+      - "And so, with great imagination"
+      - "Proper to madmen, led his powers to death"
+      - "And, winking, leapt into destruction."
+    m:
+      - "That’s true, my lord. Hotspur fortified himself with nothing but hope, and mistook empty words as a true promise of reinforcements. He imagined that a huge army was coming to his aid, but what actually arrived turned out to be even smaller than the smallest of his fantasies. And so, with daydreams that could only belong to a madman, he closed his eyes and leaped into destruction."
+
+  - sp: HASTINGS
+    o:
+      - "But, by your leave, it never yet did hurt"
+      - "To lay down likelihoods and forms of hope."
+    m:
+      - "But, begging your pardon, there’s no harm in making guesses and hopeful strategies."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "Yes, if this present quality of war—"
+      - "Indeed the instant action, a cause on foot—"
+      - "Lives so in hope, as in an early spring"
+      - "We see the appearing buds, which to prove fruit"
+      - "Hope gives not so much warrant as despair"
+      - "That frosts will bite them. When we mean to build,"
+      - "We first survey the plot, then draw the model,"
+      - "And when we see the figure of the house,"
+      - "Then must we rate the cost of the erection,"
+      - "Which if we find outweighs ability,"
+      - "What do we then but draw anew the model"
+      - "In fewer offices, or at last desist"
+      - "To build at all? Much more in this great work,"
+      - "Which is almost to pluck a kingdom down"
+      - "And set another up, should we survey"
+      - "The plot of situation and the model,"
+      - "Consent upon a sure foundation,"
+      - "Question surveyors, know our own estate,"
+      - "How able such a work to undergo,"
+      - "To weigh against his opposite. Or else"
+      - "We fortify in paper and in figures,"
+      - "Using the names of men instead of men,"
+      - "Like one that draws the model of a house"
+      - "Beyond his power to build it, who, half through,"
+      - "Gives o’er and leaves his part-created cost"
+      - "A naked subject to the weeping clouds"
+      - "And waste for churlish winter’s tyranny."
+    m:
+      - "Yes, there is. Presently, our armies are already in motion, but putting our hope in them is as ridiculous as expecting that early spring buds will produce fruit: at that time of year, buds are more likely to be killed by frost than to bloom. When we want to put up a building, first we survey the land, and then we draw up a set of plans. Then we calculate the cost, and if we can’t afford it, we revise the plans with fewer rooms, or we decide not to build at all. In the great task we’re attempting—the taking down of one kingdom, and the building of another—we have even more reason to evaluate the land and the plans. We must be certain that the foundation is sound, that the engineer is skilled. We must know precisely what we can afford, how ready and able we are, and we must consider the opposing arguments. Otherwise, it becomes a meaningless exercise: papers and numbers, and names of men rather than real, live men. That’s like drawing up plans for a house you can’t possibly afford, building half of it, and then abandoning the partly-built structure to be ruined by the elements."
+
+  - sp: HASTINGS
+    o:
+      - "Grant that our hopes, yet likely of fair birth,"
+      - "Should be stillborn and that we now possessed"
+      - "The utmost man of expectation,"
+      - "I think we are a body strong enough,"
+      - "Even as we are, to equal with the King."
+    m:
+      - "Let’s suppose that everything we’re hoping for fails to materialize, and the army we have now is as big as it’s going to get. I still think that, even in this condition, we’re a match for the King."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "What, is the King but five-and twenty-thousand?"
+    m:
+      - "Why? Does the King only have twenty-five thousand men?"
+
+  - sp: HASTINGS
+    o:
+      - "To us no more, nay, not so much, Lord Bardolph,"
+      - "For his divisions, as the times do brawl,"
+      - "Are in three heads: one power against the French,"
+      - "And one against Glendower; perforce a third"
+      - "Must take up us. So is the unfirm King"
+      - "In three divided, and his coffers sound"
+      - "With hollow poverty and emptiness."
+    m:
+      - "The King isn’t facing us with any more than that—in fact, he doesn’t even have that many, Lord Bardolph. This is a time of war, and the King’s had to divide his army into three sections. One division is fighting the French; one’s fighting Glendower. That leaves a third of his army to fight against us. The King is weak and divided into three, and the coffers of his treasury echo with the sounds of hollow poverty and emptiness."
+
+  - sp: ARCHBISHOP
+    o:
+      - "That he should draw his several strengths together"
+      - "And come against us in full puissance"
+      - "Need not be dreaded."
+    m:
+      - "There’s no reason to fear that he will pull all three divisions together and confront us with his full strength."
+
+  - sp: HASTINGS
+    o:
+      - "  If he should do so,"
+      - "He leaves his back unarmed, the French and Welsh"
+      - "Baying him at the heels. Never fear that."
+    m:
+      - "If he did that, he’d be vulnerable at the rear, and the French and the Welsh would be at his heels. He would never let that happen."
+
+  - sp: LORD BARDOLPH
+    o:
+      - "Who is it like should lead his forces hither?"
+    m:
+      - "Who’s going to lead his troops against us?"
+
+  - sp: HASTINGS
+    o:
+      - "The Duke of Lancaster and Westmoreland;"
+      - "Against the Welsh, himself and Harry Monmouth;"
+      - "But who is substituted against the French"
+      - "I have no certain notice."
+    m:
+      - "The Duke of Lancaster and Westmoreland. The King and Harry Monmouth will fight against the Welsh. I don’t know for sure who is in charge of the fight against the French."
+
+  - sp: ARCHBISHOP
+    o:
+      - "  Let us on,"
+      - "And publish the occasion of our arms."
+      - "The commonwealth is sick of their own choice."
+      - "Their over-greedy love hath surfeited."
+      - "An habitation giddy and unsure"
+      - "Hath he that buildeth on the vulgar heart."
+      - "O thou fond many, with what loud applause"
+      - "Didst thou beat heaven with blessing Bolingbroke"
+      - "Before he was what thou wouldst have him be."
+      - "And being now trimmed in thine own desires,"
+      - "Thou, beastly feeder, art so full of him"
+      - "That thou provok’st thyself to cast him up."
+      - "So, so, thou common dog, didst thou disgorge"
+      - "Thy glutton bosom of the royal Richard,"
+      - "And now thou wouldst eat thy dead vomit up"
+      - "And howl’st to find it. What trust is in these times?"
+      - "They that, when Richard lived, would have him die"
+      - "Are now become enamored on his grave."
+      - "Thou, that threw’st dust upon his goodly head"
+      - "When through proud London he came sighing on"
+      - "After th’ admired heels of Bolingbroke,"
+      - "Criest now “O earth, yield us that King again,"
+      - "And take thou this!” O thoughts of men accursed!"
+      - "Past and to come seems best; things present, worst."
+    m:
+      - "Let’s continue. We’ll publicly proclaim the reasons we’re fighting. The people are sick of the leadership they themselves supported. They were greedy for it, but now they have overfed. When you build your foundation on the public’s love, you build on shaky and unsure ground. Oh, you foolish masses! You shouted your love for Bolingbroke to the skies, before you knew what he’d turn into. Now that you’re dressed in the things you desired, you monstrous devourer, you’re so full of Bolingbroke that you’re ready to vomit him up. This, you vulgar dog, is just how you emptied your gluttonous stomach of King Richard; and now you want to eat up your dead vomit, and you howl trying to find it. What can you count on in this world? The very people who wanted Richard dead when he was alive are now in love with his corpse. The very people who threw garbage on his noble head when he marched through London in shame behind the admired Bolingbroke are now saying, “Oh Earth, return that King, and take this one!” Curses on men’s thoughts! Only the past and the future appeal to them; whatever they have right now they despise."
+
+  - sp: MOWBRAY
+    o:
+      - "Shall we go draw our numbers and set on?"
+    m:
+      - "Should we gather our troops and press forward?"
+
+  - sp: HASTINGS
+    o:
+      - "We are time’s subjects, and time bids begone."
+    m:
+      - "Time is our commander, and time proposes we be on our way."
+
+  - os: "Exeunt"
+    ms: "They exit."

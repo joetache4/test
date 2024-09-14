@@ -1,0 +1,692 @@
+play: The Taming of the Shrew
+title: Act 3, Scene 2
+group: 3
+order: 6
+text:
+  - os: "Enter BAPTISTA, GREMIO, TRANIO as LUCENTIO, KATHERINE, BIANCA, LUCENTIO, and others, attendants"
+    ms: "BAPTISTA and GREMIO enter, followed by TRANIO disguised as LUCENTIO, KATHERINE, BIANCA, LUCENTIO, and servants."
+
+  - sp: BAPTISTA
+    o:
+      - "*(to TRANIO)* Signior Lucentio, this is the ’pointed day"
+      - "That Katherine and Petruchio should be married,"
+      - "And yet we hear not of our son-in-law."
+      - "What will be said? What mockery will it be,"
+      - "To want the bridegroom when the priest attends"
+      - "To speak the ceremonial rites of marriage?"
+      - "What says Lucentio to this shame of ours?"
+    m:
+      - "*(to TRANIO as LUCENTIO)* Signior Lucentio, this is the day appointed for Katherine and Petruchio’s wedding, but there’s no sign of the groom. What will people say? To have the priest right here, ready to perform the marriage ceremony, and be missing a bridegroom! What do you think about our humiliation, Lucentio?"
+
+  - sp: KATHERINE
+    o:
+      - "No shame but mine. I must, forsooth, be forced"
+      - "To give my hand, opposed against my heart,"
+      - "Unto a mad-brain rudesby, full of spleen,"
+      - "Who wooed in haste and means to wed at leisure."
+      - "I told you, I, he was a frantic fool,"
+      - "Hiding his bitter jests in blunt behavior,"
+      - "And, to be noted for a merry man,"
+      - "He’ll woo a thousand, ’point the day of marriage,"
+      - "Make friends, invite, and proclaim the banns,"
+      - "Yet never means to wed where he hath wooed."
+      - "Now must the world point at poor Katherine"
+      - "And say, “Lo, there is mad Petruchio’s wife,"
+      - "If it would please him come and marry her!”"
+    m:
+      - "The humiliation is all mine. You forced me to accept this man against my will, this fancy con artist who was in such a hurry to get engaged. He has no intention of marrying me. I knew it—I told you. The whole thing was a joke. He pretends to be this simple, backward guy, but it’s all a gag to amuse his witty friends. He goes around proposing to women—they set a date, he gets introduced around, they send out the invitations and make a public announcement, but he has no intention of going through with it. So now everyone will point at me and say, “Look, there goes the wife of that comedian Petruchio—if he could be bothered to marry the pathetic thing!”"
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Patience, good Katherine, and Baptista too."
+      - "Upon my life, Petruchio means but well,"
+      - "Whatever fortune stays him from his word:"
+      - "Though he be blunt, I know him passing wise;"
+      - "Though he be merry, yet withal he’s honest."
+    m:
+      - "*(speaking as LUCENTIO)* No, no, I assure you, Katherine—and you, too, Baptista—Petruchio means well, whatever circumstance prevents him from keeping his word. He’s rough-edged, but he’s a good man, and though he likes a joke, he’s not a liar."
+
+  - sp: KATHERINE
+    o:
+      - "Would Katherine had never seen him, though!"
+    m:
+      - "Maybe, but I wish I’d never laid eyes on him."
+
+  - os: "Exit weeping, followed by BIANCA and others"
+    ms: "She exits weeping, followed by BIANCA and others."
+
+  - sp: BAPTISTA
+    o:
+      - "Go, girl. I cannot blame thee now to weep,"
+      - "For such an injury would vex a very saint,"
+      - "Much more a shrew of thy impatient humor."
+    m:
+      - "Go, daughter. I cannot blame you now for weeping. An insult like this would try the patience of a saint, let alone a hot-tempered shrew like you!"
+
+  - os: "Enter BIONDELLO"
+    ms: "BIONDELLO enters."
+
+  - sp: BIONDELLO
+    o:
+      - "Master, master! News, old news, and such news as you never heard of!"
+    m:
+      - "Master, master! I have news—old news such as you never heard before!"
+
+  - sp: BAPTISTA
+    o:
+      - "Is it new and old too? How may that be?"
+    m:
+      - "You say you have news that’s old? How can that be?"
+
+  - sp: BIONDELLO
+    o:
+      - "Why, is it not news to hear of Petruchio’s coming?"
+    m:
+      - "Well, is it not news that Petruchio’s coming?"
+
+  - sp: BAPTISTA
+    o:
+      - "Is he come?"
+    m:
+      - "Is he here?"
+
+  - sp: BIONDELLO
+    o:
+      - "Why, no, sir."
+    m:
+      - "Why, no, sir."
+
+  - sp: BAPTISTA
+    o:
+      - "What then?"
+    m:
+      - "What then?"
+
+  - sp: BIONDELLO
+    o:
+      - "He is coming."
+    m:
+      - "He is coming."
+
+  - sp: BAPTISTA
+    o:
+      - "When will he be here?"
+    m:
+      - "When will he be here?"
+
+  - sp: BIONDELLO
+    o:
+      - "When he stands where I am and sees you there."
+    m:
+      - "When he stands where I am and sees you there."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* But say, what to thine old news?"
+    m:
+      - "*(as LUCENTIO)* So what’s the *old* news?"
+
+  - sp: BIONDELLO
+    o:
+      - "Why, Petruchio is coming in a new hat and an old jerkin, a pair of old breeches thrice turned, a pair of boots that have been candle cases, one buckled, another laced; an old rusty sword ta’en out of the town armory, with a broken hilt and chapeless; with two broken points; his horse hipped, with an old mothy saddle and stirrups of no kindred, besides possessed with the glanders and like to mose in the chine, troubled with the lampass, infected with the fashions, full of wingdalls, sped with spavins, rayed with yellows, past cure of the fives, stark spoiled with the staggers, begnawn with the bots, swayed in the back and shoulder-shotten, near-legged before and with a half-checked bit and a headstall of sheeps leather, which, being restrained to keep him from stumbling, hath been often burst, and now repaired with knots, one girth six times pieced, and a woman’s crupper of velour, which hath two letters for her name fairly set down in studs, and here and there pieced with packthread."
+    m:
+      - "Well, Petruchio is coming in a new hat and an old vest, a pair of old pants turned inside out, unmatched boots that have been used as spittoons, one buckled, the other laced; a rusty old sword from the town armory with a broken hilt and no scabbard. He’s got on worn-out garters and is riding a swayback old horse with a moth-eaten saddle, stirrups from two different sets, a bad hip, swollen glands, lockjaw, leg ulcers, bedsores, arthritis, jaundice, a hernia, hives, worms, cancer, a mossy overbite, and post-nasal drip. He’s knock-kneed too. His bit’s lopsided and his cardboard bridle, which breaks when you pull on it, is taped in a few places. The saddle strap is made out of patchwork, and the strap that goes under his tail to keep the saddle in place is velvet, with the initials of some woman written in studs."
+
+  - sp: BAPTISTA
+    o:
+      - "Who comes with him?"
+    m:
+      - "Who comes with him?"
+
+  - sp: BIONDELLO
+    o:
+      - "O, sir, his lackey, for all the world caparisoned like the horse; with a linen stock on one leg and a kersey boot-hose on the other, gartered with a red and blue list; an old hat and the humor of forty fancies pricked in ’t for a feather. A monster, a very monster in apparel, and not like a Christian footboy or a gentleman’s lackey."
+    m:
+      - "Just his servant, sir—pretty much got up like the horse, with a linen stocking on one leg and a big woolen booty on the other, a pair of red and blue garters, and an old hat with something no one’s ever seen before where the feather should be. He’s dressed like a freak, a total freak, and not at all like a proper footman or a gentleman’s valet."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)*"
+      - "’Tis some odd humor pricks him to this fashion,"
+      - "Yet oftentimes he goes but mean-appareled."
+    m:
+      - "*(as LUCENTIO)* He must be in a strange mood to go in for this fashion—though from time to time he *has* been known to dress down."
+
+  - sp: BAPTISTA
+    o:
+      - "I am glad he’s come, howsoe’er he comes."
+    m:
+      - "I am glad he’s coming, however he’s dressed."
+
+  - sp: BIONDELLO
+    o:
+      - "Why, sir, he comes not."
+    m:
+      - "Why, sir, he’s not coming."
+
+  - sp: BAPTISTA
+    o:
+      - "Didst thou not say he comes?"
+    m:
+      - "Didn’t you just say he was?"
+
+  - sp: BIONDELLO
+    o:
+      - "Who? That Petruchio came?"
+    m:
+      - "Who? Petruchio?"
+
+  - sp: BAPTISTA
+    o:
+      - "Ay, that Petruchio came."
+    m:
+      - "Yes, Petruchio."
+
+  - sp: BIONDELLO
+    o:
+      - "No, sir, I say his horse comes, with him on his back."
+    m:
+      - "No, I said his horse is coming, with him on its back."
+
+  - sp: BAPTISTA
+    o:
+      - "Why, that’s all one."
+    m:
+      - "Well, that’s the same thing."
+
+  - sp: BIONDELLO
+    o:
+      - "Nay, by Saint Jamy,"
+      - "I hold you a penny,"
+      - "A horse and a man"
+      - "Is more than one"
+      - "And yet not many."
+    m:
+      - "No, by Saint Jamy,"
+      - "I’ll bet you a penny!"
+      - "A man and his horse"
+      - "Aren’t the same person—"
+      - "Not that there’s much difference."
+
+  - os: "Enter PETRUCHIO and GRUMIO"
+    ms: "PETRUCHIO and GRUMIO enter."
+
+  - sp: PETRUCHIO
+    o:
+      - "Come, where be these gallants? Who’s at home?"
+    m:
+      - "Whoa! Where is everybody?"
+
+  - sp: BAPTISTA
+    o:
+      - "You are welcome, sir."
+    m:
+      - "You are welcome, sir."
+
+  - sp: PETRUCHIO
+    o:
+      - "And yet I come not well."
+    m:
+      - "I don’t *feel* well."
+
+  - sp: APTISTA
+    o:
+      - "And yet you halt not."
+    m:
+      - "I don’t notice you limping."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Not so well appareled as I wish you were."
+    m:
+      - "*(as LUCENTIO)* And I would like it if you were a bit more formally dressed."
+
+  - sp: PETRUCHIO
+    o:
+      - "Were it better I should rush in thus—"
+      - "But where is Kate? Where is my love?"
+      - "How does my father? Gentles, methinks you frown."
+      - "And wherefore gaze this goodly company"
+      - "As if they saw some wondrous monument,"
+      - "Some comet or unusual prodigy?"
+    m:
+      - "Isn’t it better this way? But where is Kate? Where is my lovely bride? *(to BAPTISTA)* How is my father-in-law? Gentlemen, you seem displeased. What’s everyone staring at? You look as if you’d seen something unusual—a comet or something."
+
+  - sp: BAPTISTA
+    o:
+      - "Why, sir, you know this is your wedding day."
+      - "First were we sad, fearing you would not come,"
+      - "Now sadder that you come so unprovided."
+      - "Fie, doff this habit, shame to your estate,"
+      - "An eyesore to our solemn festival."
+    m:
+      - "Why, sir, you know this is your wedding day. First we were sad because we were afraid you wouldn’t come. Now we’re even sadder to see that you’ve come so unprepared. For heaven’s sake, take off that get-up. It’s a disgrace to a man of your social position and an insult to this solemn ceremony."
+
+  - sp: TRANIO
+    o:
+      - "And tell us what occasion of import"
+      - "Hath all so long detained you from your wife"
+      - "And sent you hither so unlike yourself."
+    m:
+      - "And tell us what extraordinary occurrence made you so late for your wedding and drove you to present yourself in an outfit that’s so—not typical of you."
+
+  - sp: PETRUCHIO
+    o:
+      - "Tedious it were to tell and harsh to hear."
+      - "Sufficeth I am come to keep my word,"
+      - "Though in some part enforcèd to digress,"
+      - "Which, at more leisure, I will so excuse"
+      - "As you shall well be satisfied withal."
+      - "But where is Kate? I stay too long from her."
+      - "The morning wears. ’Tis time we were at church."
+    m:
+      - "It’s a long story—and tough to listen to. It’s enough that I’m here according to my promise, though I will have to deviate from it to some extent—for reasons which, when I explain them later, you’ll understand completely. But where is Kate? We’re wasting time here. It’s getting late and time we were in church."
+
+  - sp: TRANIO
+    o:
+      - "See not your bride in these unreverent robes."
+      - "Go to my chamber, put on clothes of mine."
+    m:
+      - "Don’t greet your bride in these disgraceful clothes. Go to my room and put on something of mine."
+
+  - sp: PETRUCHIO
+    o:
+      - "Not I, believe me. Thus I’ll visit her."
+    m:
+      - "Not me. I’ll see her like this."
+
+  - sp: BAPTISTA
+    o:
+      - "But thus, I trust, you will not marry her."
+    m:
+      - "But surely you’re not planning to *marry* her in what you’re wearing!"
+
+  - sp: PETRUCHIO
+    o:
+      - "Good sooth, even thus. Therefore, ha’ done with words:"
+      - "To me she’s married, not unto my clothes."
+      - "Could I repair what she will wear in me"
+      - "As I can change these poor accoutrements,"
+      - "’Twere well for Kate and better for myself."
+      - "But what a fool am I to chat with you,"
+      - "When I should bid good morrow to my bride"
+      - "And seal the title with a lovely kiss!"
+    m:
+      - "Yes, just like this. But enough talk. It’s me she’s marrying and not my clothes. Though I expect she’ll wear me out more quickly than I’ll wear out what I’m wearing—which will be good for her and even better for me! But what a fool I am to stand here chatting when I should bid good morning to my bride and seal the bargain with a loving kiss."
+
+  - os: "Exeunt PETRUCHIO and GRUMIO"
+    ms: "PETRUCHIO and GRUMIO exit."
+
+  - sp: TRANIO
+    o:
+      - "He hath some meaning in his mad attire."
+      - "We will persuade him, be it possible,"
+      - "To put on better ere he go to church."
+    m:
+      - "He must be wearing this crazy outfit for some reason. I’ll try to persuade him to put on something more appropriate before going to the church, if it’s at all possible."
+
+  - sp: BAPTISTA
+    o:
+      - "I’ll after him, and see the event of this."
+    m:
+      - "I’ll go too and make sure that happens."
+
+  - os: "Exeunt BAPTISTA, GREMIO, and attendants"
+    ms: "BAPTISTA, GREMIO, and attendants exit."
+
+  - sp: TRANIO
+    o:
+      - "But sir, to love concerneth us to add"
+      - "Her father’s liking, which to bring to pass,"
+      - "As I before unparted to your worship,"
+      - "I am to get a man—whate’er he be"
+      - "It skills not much, we’ll fit him to our turn—"
+      - "And he shall be “Vincentio of Pisa”"
+      - "And make assurance here in Padua"
+      - "Of greater sums than I have promisèd."
+      - "So shall you quietly enjoy your hope"
+      - "And marry sweet Bianca with consent."
+    m:
+      - "But sir, you need to get her father’s consent as well as her love. And to that end, as I explained to your worship, I’m looking for a man—any man, it doesn’t matter; we’ll suit him to our purpose—who can pretend to be your father, Vincentio. And *he’ll* guarantee the dowry—for even more money than I’ve promised on your behalf. This way, you’ll get your wish and marry sweet Bianca with her father’s consent and with the least possible hassle."
+
+  - sp: LUCENTIO
+    o:
+      - "Were it not that my fellow schoolmaster"
+      - "Doth watch Bianca’s steps so narrowly,"
+      - "’Twere good, methinks, to steal our marriage,"
+      - "Which, once performed, let all the world say no,"
+      - "I’ll keep mine own despite of all the world."
+    m:
+      - "If my fellow schoolmaster weren’t keeping such a close watch on her, I’d think about eloping. Then it wouldn’t matter what anyone said—I’d keep what’s mine, whatever the rest of the world said."
+
+  - sp: TRANIO
+    o:
+      - "That by degrees we mean to look into"
+      - "And watch our vantage in this business."
+      - "We’ll overreach the graybeard, Gremio,"
+      - "The narrow-prying father, Minola,"
+      - "The quaint musician, amorous Litio,"
+      - "All for my master’s sake, Lucentio."
+    m:
+      - "Don’t worry, I’m looking into that too. I’m on top of the situation—monitoring it very closely. We’ll outwit them all—that old geezer, Gremio; the suspicious father, Minola; the prim musician lover, Litio—all for the sake of my master, Lucentio."
+
+  - os: "Enter GREMIO"
+    ms: "GREMIO enters."
+
+  - o:
+      - "Signior Gremio, came you from the church?"
+    m:
+      - "Signior Gremio, are you coming from the church?"
+
+  - sp: GREMIO
+    o:
+      - "As willingly as e’er I came from school."
+    m:
+      - "As eagerly as I ever came from school."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* And is the bride and bridegroom coming home?"
+    m:
+      - "*(speaking as LUCENTIO)* And will the bride and bridegroom be here soon?"
+
+  - sp: GREMIO
+    o:
+      - "A bridegroom, say you? ’Tis a groom indeed,"
+      - "A grumbling groom, and that the girl shall find."
+    m:
+      - "Bridegroom? This guy is more like the groom who cleans the stable—a grumbling groom at that, as the poor girl is discovering."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Curster than she? Why, ’tis impossible."
+    m:
+      - "*(speaking as LUCENTIO)* You mean he’s worse than she is? That’s not possible!"
+
+  - sp: GREMIO
+    o:
+      - "Why, he’s a devil, a devil, a very fiend."
+    m:
+      - "No, he’s a devil—a devil, I tell you! An utter fiend."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Why, she’s a devil, a devil, the devil’s dam."
+    m:
+      - "*(speaking as LUCENTIO)* No, *she’s* a devil—a devil, I tell you. The devil’s grandmother."
+
+  - sp: GREMIO
+    o:
+      - "Tut, she’s a lamb, a dove, a fool to him!"
+      - "I’ll tell you, Sir Lucentio: when the priest"
+      - "Should ask if Katherine should be his wife,"
+      - "“Ay, by gogs wouns!” quoth he, and swore so loud"
+      - "That, all amazed, the priest let fall the book,"
+      - "And as he stooped again to take it up,"
+      - "The mad-brained bridegroom took him such a cuff"
+      - "That down fell priest and book, and book and priest."
+      - "“Now take them up,” quoth he, “if any list.”"
+    m:
+      - "Why, she’s a lamb, a dove, a child compared to him! Picture this: when the priest asked Katherine if she would have him, he answered, “Hell, yes!” and swore so loud that the priest drops the prayer book. Everyone froze, and as the priest stooped to pick it up again the lunatic bridegroom smacked him so hard that the priest and book went flying! *Then* he said, “Now pick them up—if anyone dares.”"
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* What said the wench when he rose again?"
+    m:
+      - "*(as LUCENTIO)* What did the girl say when the priest got up?"
+
+  - sp: GREMIO
+    o:
+      - "Trembled and shook, for why he stamped and swore"
+      - "As if the vicar meant to cozen him."
+      - "But after many ceremonies done,"
+      - "He calls for wine. “A health!” quoth he, as if"
+      - "He had been aboard, carousing to his mates"
+      - "After a storm; quaffed off the muscatel"
+      - "And threw the sops all in the sexton’s face,"
+      - "Having no other reason"
+      - "But that his beard grew thin and hungerly"
+      - "And seemed to ask him sops as he was drinking."
+      - "This done, he took the bride about the neck"
+      - "And kissed her lips with such a clamorous smack"
+      - "That at the parting all the church did echo."
+      - "And I, seeing this, came thence for very shame,"
+      - "And after me, I know, the rout is coming."
+      - "Such a mad marriage never was before."
+    m:
+      - "She trembled and shook because he stamped and swore and carried on as though the vicar were trying to put something over on him. Finally, the ceremony done, he called for wine. “A health!” he shouted, like some sailor aboard ship, carousing with his mates after a storm. Then he chugs the wine and throws the dregs in the sexton’s face. Why? Because the fellow’s beard looked thin, he said, and it seemed to be asking him for the dregs while he was drinking. Next he slung his arm around the bride’s neck and kissed her with such a smack that when they parted the sound of their lips made the whole church echo. That was the limit for me. I got out of there as fast as I could. I know the rest of the crowd isn’t far behind me. It’s disgraceful! You never saw such a mockery of a marriage in your life!"
+
+  - os: "Music"
+    ms: "Music plays"
+
+  - o:
+      - "Hark, hark! I hear the minstrels play."
+    m:
+      - "There go the minstrels. They’ve started up."
+
+  - os: "Enter PETRUCHIO, KATHERINE, BIANCA, BAPTISTA, HORTENSIO, GRUMIO, and train"
+    ms: "PETRUCHIO and KATHERINE enter, with BIANCA, BAPTISTA, HORTENSIO, GRUMIO, and members of the wedding procession."
+
+  - sp: PETRUCHIO
+    o:
+      - "Gentlemen and friends, I thank you for you"
+      - "I know you think to dine with me today"
+      - "And have prepared great store of wedding cheer,"
+      - "But so it is, my haste doth call me hence,"
+      - "And therefore here I mean to take my leave."
+    m:
+      - "Gentlemen and friends, thanks for bothering to come. I know you expected me to stay to dinner and have prepared a celebratory feast, but as it happens I’m called away. So let me say goodbye."
+
+  - sp: BAPTISTA
+    o:
+      - "Is ’t possible you will away tonight?"
+    m:
+      - "You’re not thinking of leaving tonight, surely?"
+
+  - sp: PETRUCHIO
+    o:
+      - "I must away today, before night come."
+      - "Make it no wonder. If you knew my business,"
+      - "You would entreat me rather go than stay."
+      - "And, honest company, I thank you all,"
+      - "That have beheld me give away myself"
+      - "To this most patient, sweet and virtuous wife."
+      - "Dine with my father, drink a health to me,"
+      - "For I must hence, and farewell to you all."
+    m:
+      - "Not tonight—today. If you knew the reason, you’d understand and would urge me to go rather than stay. Good friends, I thank you all for coming to see me wed this patient, sweet, virtuous wife. Dine with my father and drink a health to me. I have to leave. Goodbye to you all."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Let us entreat you stay till after dinner."
+    m:
+      - "*(as LUCENTIO)* Please, stay till after dinner."
+
+  - sp: PETRUCHIO
+    o:
+      - "It may not be."
+    m:
+      - "Can’t do it."
+
+  - sp: GREMIO
+    o:
+      - "  Let me entreat you."
+    m:
+      - "As a favor to *me?*"
+
+  - sp: PETRUCHIO
+    o:
+      - "It cannot be."
+    m:
+      - "Nope."
+
+  - sp: KATHERINE
+    o:
+      - "  Let me entreat you."
+    m:
+      - "As a favor to *me?*"
+
+  - sp: PETRUCHIO
+    o:
+      - "I am content."
+    m:
+      - "I’m delighted."
+
+  - sp: KATHERINE
+    o:
+      - "Are you content to stay?"
+    m:
+      - "Delighted to stay?"
+
+  - sp: PETRUCHIO
+    o:
+      - "I am content you shall entreat me stay,"
+      - "But yet not stay, entreat me how you can."
+    m:
+      - "Delighted to hear you ask so nicely, but I won’t stay in any case."
+
+  - sp: KATHERINE
+    o:
+      - "Now, if you love me, stay."
+    m:
+      - "Look, if you love me, stay."
+
+  - sp: PETRUCHIO
+    o:
+      - "    Grumio, my horse."
+    m:
+      - "Grumio, get me my horse."
+
+  - sp: GRUMIO
+    o:
+      - "Ay, sir, they be ready. The oats have eaten the horses."
+    m:
+      - "Yes, sir, they’re ready. They’ve eaten themselves sick."
+
+  - sp: KATHERINE
+    o:
+      - "Nay, then,"
+      - "Do what thou canst, I will not go today,"
+      - "No, nor tomorrow, not till I please myself."
+      - "The door is open, sir. There lies your way."
+      - "You may be jogging whiles your boots are green."
+      - "For me, I’ll not be gone till I please myself."
+      - "’Tis like you’ll prove a jolly surly groom,"
+      - "That take it on you at the first so roundly."
+    m:
+      - "All right, then, do what you like. I won’t leave today. Not tomorrow, either. I’ll leave when I’m good and ready. The door is open, sir. Feel free to use it. Go on, wear your boots out! As for me, I’ll leave when I like. If you’re this high-handed to start with, I can imagine how arrogant and arbitrary you’ll be as a husband."
+
+  - sp: PETRUCHIO
+    o:
+      - "O Kate, content thee. Prithee, be not angry."
+    m:
+      - "Calm down, Kate. Please don’t be angry."
+
+  - sp: KATHERINE
+    o:
+      - "I will be angry. What hast thou to do?—"
+      - "Father, be quiet. He shall stay my leisure."
+    m:
+      - "I will be angry. What business is it of yours?—Father, be quiet. He’ll stay as long as I say."
+
+  - sp: GREMIO
+    o:
+      - "Ay, marry, sir, now it begins to work."
+    m:
+      - "Okay, now it starts!"
+
+  - sp: KATHERINE
+    o:
+      - "Gentlemen, forward to the bridal dinner."
+      - "I see a woman may be made a fool"
+      - "If she had not a spirit to resist."
+    m:
+      - "Gentlemen, on to the bridal dinner. I see a woman may be made a fool of if she doesn’t have nerve enough to stand up for herself."
+
+  - sp: PETRUCHIO
+    o:
+      - "They shall go forward, Kate, at thy command.—"
+      - "Obey the bride, you that attend on her."
+      - "Go to the feast, revel and domineer,"
+      - "Carouse full measure to her maidenhead,"
+      - "Be mad and merry, or go hang yourselves."
+      - "But for my bonny Kate, she must with me."
+      - "Nay, look not big, nor stamp, nor stare, nor fret;"
+      - "I will be master of what is mine own."
+      - "She is my goods, my chattels; she is my house,"
+      - "My household stuff, my field, my barn,"
+      - "My horse, my ox, my ass, my anything."
+      - "And here she stands, touch her whoever dare."
+      - "I’ll bring mine action on the proudest he"
+      - "That stops my way in Padua.—Grumio,"
+      - "Draw forth thy weapon, we are beset with thieves."
+      - "Rescue thy mistress if thou be a man.—"
+      - "Fear not, sweet wench, they shall not touch thee, Kate."
+      - "I’ll buckler thee against a million."
+    m:
+      - "They *shall* go in to the bridal dinner, Kate—they’re yours to command. Obey the bride, guests! Go to the banquet: revel, feast, and carouse! Drink yourselves silly toasting her virginity! Be wild and merry—or go to hell. But as for my bonny Kate, she must come with me. No, don’t puff out your chests and stamp and stare wonderingly. I will be master of what belongs to me. She is my property, one of my possessions—just like my house and everything in it, and my field, my barn, my horse, my ox, my donkey—anything of mine you care to name. Here she is; I dare you to touch her! I’ll sue anyone in Padua who tries to stand in my way, no matter how powerful he is.—Grumio, draw your sword! We are surrounded by thieves. Rescue your mistress! Prove yourself a man! Don’t be afraid, sweet girl, I won’t let them touch you. I’ll protect you, Kate, against a million of them."
+
+  - os: "Exeunt PETRUCHIO, KATHERINE, and GRUMIO"
+    ms: "PETRUCHIO, KATHERINE, and GRUMIO exit."
+
+  - sp: BAPTISTA
+    o:
+      - "Nay, let them go, a couple of quiet ones."
+    m:
+      - "No, let them go. They’re certainly a peaceful couple!"
+
+  - sp: GREMIO
+    o:
+      - "Went they not quickly, I should die with laughing."
+    m:
+      - "If they hadn’t left soon, I would have died laughing."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Of all mad matches never was the like."
+    m:
+      - "*(as LUCENTIO)* Of all the mad matches, this is by far the craziest."
+
+  - sp: LUCENTIO
+    o:
+      - "*(as CAMBIO)* Mistress, what’s your opinion of your sister?"
+    m:
+      - "*(as CAMBIO)* Mistress, what’s your opinion of your sister?"
+
+  - sp: BIANCA
+    o:
+      - "That, being mad herself, she’s madly mated."
+    m:
+      - "That since she’s mad herself, she’s married a madman."
+
+  - sp: GREMIO
+    o:
+      - "I warrant him, Petruchio is Kated."
+    m:
+      - "I guarantee you, Petruchio’s going to suffer from his Kate."
+
+  - sp: BAPTISTA
+    o:
+      - "Neighbors and friends, though bride and bridegroom wants"
+      - "For to supply the places at the table,"
+      - "You know there wants no junkets at the feast."
+      - "*(to TRANIO)*"
+      - "Lucentio, you shall supply the bridegroom’s place,"
+      - "And let Bianca take her sister’s room."
+    m:
+      - "Neighbors and friends, though we don’t have anyone for the bride and bridegroom’s places at the table, you know there’s nothing missing in the feast itself. *(to TRANIO)* Lucentio, you shall assume the bridegroom’s place and let Bianca take her sister’s seat."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Shall sweet Bianca practice how to bride it?"
+    m:
+      - "*(as LUCENTIO)* Shall sweet Bianca practice how to be a bride?"
+
+  - sp: BAPTISTA
+    o:
+      - "She shall, Lucentio. Come, gentlemen, let’s go."
+    m:
+      - "She shall, Lucentio. Come, gentlemen, let’s go in."
+
+  - os: "Exeunt"
+    ms: "They all exit."

@@ -1,0 +1,496 @@
+play: Two Gentlemen of Verona
+title: Act 4, Scene 4
+group: 4
+order: 15
+text:
+  - os: "Enter LANCE with his dog, Crab"
+    ms: "LANCE enters with his dog, Crab."
+
+  - sp: LANCE
+    o:
+      - "When a man’s servant shall play the cur with him, look you, it goes hard—one that I brought up of a puppy, one that I saved from drowning when three or four of his blind brothers and sisters went to it. I have taught him, even as one would say precisely, “Thus I would teach a dog.” I was sent to deliver him as a present to Mistress Sylvia from my master, and I came no sooner into the dining chamber, but he steps me to her trencher and steals her capon’s leg. O, ’tis a foul thing when a cur cannot keep himself in all companies! I would have, as one should say, one that takes upon him to be a dog indeed, to be, as it were, a dog at all things. If I had not had more wit than he, to take a fault upon me that he did, I think verily he had been hanged for ’t; sure as I live, he had suffered for ’t. You shall judge. He thrusts me himself into the company of three or four gentlemanlike dogs, under the Duke’s table. He had not been there—bless the mark!—a pissing while but all the chamber smelt him. “Out with the dog!” says one; “What cur is that?” says another. “Whip him out” says the third. “Hang him up” says the Duke. I, having been acquainted with the smell before, knew it was Crab, and goes me to the fellow that whips the dogs. “Friend,” quoth I “you mean to whip the dog?” “Ay, marry do I,” quoth he. “You do him the more wrong,” quoth I; “’twas I did the thing you wot of.” He makes me no more ado, but whips me out of the chamber. How many masters would do this for his servant? Nay, I’ll be sworn I have sat in the stocks for puddings he hath stolen, otherwise he had been executed. I have stood on the pillory for geese he hath killed, otherwise he had suffered for ’t.—Thou think’st not of this now. Nay, I remember the trick you served me when I took my leave of Madam Sylvia. Did not I bid thee still mark me and do as I do? When didst thou see me heave up my leg and make water against a gentlewoman’s farthingale? Didst thou ever see me do such a trick?"
+    m:
+      - "When a man’s pet behaves like a stupid mongrel, mind you, it’s hard to take—a dog that I brought up from a puppy, one that I saved from drowning when three or four of his newborn brothers and sisters were drowned. I have trained him quite literally “as I would teach a dog,” as the saying goes. I was sent to deliver him as a present to Mistress Sylvia from my master, but no sooner had I stepped into the dining room than he ran ahead of me to the plate and stole her drumstick. Oh, it is a foul thing when a mongrel can’t behave himself in front of company! It seems I have a dog that tries to be a dog indeed—dog-gone good at all things, as one would say. If I hadn’t had the brains to take the blame for what he’d done, I honestly think he would have been hanged for it. As sure as I’m alive he would have been punished for it. You be the judge. He thrusts himself under the duke’s table and into the company of three or four fancier dogs. He hadn’t been there a second or two before everyone in the whole room could smell his piss—pardon my French! “Out with the dog!” says one person; “What mangy mutt is that?” asks another. “Whip him,” says a third. “Hang him!” says the duke. I, having smelled that smell before, knew it was Crab, so I went to the fellow whose job it is to whip the dogs. “Friend,” I said, “are you going to whip the dog?” “Yes, in fact, I am,” he replied. “Then you’re doing him a great injustice,” I answered back, “because it was I who peed all over the place.” He didn’t say anything else but just whipped me out of the room. How many masters would do this for their pets? No, I swear I’ve sat in the stocks for meat pies he has stolen—otherwise he would have been executed. I have stood on the pillory for geese he has killed—otherwise he would have suffered the consequences. You don’t remember any of this now, do you, Crab? No, I remember the trick you pulled on me when I said goodbye to Madame Sylvia. Didn’t I tell you that you should still obey me and do as I do? When did you ever see me lift up my leg and urinate on a noble woman’s undergarments? Did you ever see me do such a thing?"
+
+  - os: "Enter PROTEUS and JULIA disguised"
+    ms: "PROTEUS and JULIA enter in disguise."
+
+  - sp: PROTEUS
+    o:
+      - "*(to JULIA)* Sebastian is thy name? I like thee well,"
+      - "And will employ thee in some service presently."
+    m:
+      - "*(to Julia)* Your name is Sebastian, right? I like you, and I’d like to hire you for a job I need done."
+
+  - sp: JULIA
+    o:
+      - "In what you please. I’ll do what I can."
+    m:
+      - "Name it. I’ll do what I can."
+
+  - sp: PROTEUS
+    o:
+      - "I hope thou wilt."
+    m:
+      - "I hope you will."
+
+  - os: "To LANCE"
+    ms: "To LANCE"
+
+  - o:
+      - "How now, you whoreson peasant,"
+      - "Where have you been these two days loitering?"
+    m:
+      - "How’s it going, you poor son of a bitch? Where have you been hanging around these past two days?"
+
+  - sp: LANCE
+    o:
+      - "Marry, sir, I carried Mistress Sylvia the dog you bade me."
+    m:
+      - "Well, sir, I brought the dog to Mistress Sylvia, as you instructed."
+
+  - sp: PROTEUS
+    o:
+      - "And what says she to my little jewel?"
+    m:
+      - "What did she say about my little jewel of a gift?"
+
+  - sp: LANCE
+    o:
+      - "Marry, she says your dog was a cur, and tells you currish thanks is good enough for such a present."
+    m:
+      - "Actually, she said your dog was a mongrel and said that a shabby thanks is good enough for such a present."
+
+  - sp: PROTEUS
+    o:
+      - "But she received my dog?"
+    m:
+      - "But she accepted my dog?"
+
+  - sp: LANCE
+    o:
+      - "No, indeed, did she not. Here have I brought him back again."
+    m:
+      - "No, indeed, she didn’t. Here, I’ve brought him back again."
+
+  - os: "He points to his dog."
+    ms: "He points to his dog."
+
+  - sp: PROTEUS
+    o:
+      - "What, didst thou offer her this from me?"
+    m:
+      - "What, did you offer her this mutt from me?"
+
+  - sp: LANCE
+    o:
+      - "Ay, sir: the other squirrel was stolen from me by the hangman boys in the marketplace, and then I offered her mine own, who is a dog as big as ten of yours, and therefore the gift the greater."
+    m:
+      - "Yes, sir. The other runt was stolen from me by a gang of boys in the marketplace. So, I offered her my own, which is a bigger dog than ten of your little dogs, and so a better gift."
+
+  - sp: PROTEUS
+    o:
+      - "Go get thee hence, and find my dog again,"
+      - "Or ne’er return again into my sight."
+      - "Away, I say! Stayest thou to vex me here?"
+    m:
+      - "Go on and get out of here, and find my dog again, or never let me see you again. Away, I say! Are you staying here to make me angry?"
+
+  - os: "Exit LANCE with Crab"
+    ms: "LANCE exits with Crab."
+
+  - o:
+      - "A slave, that still an end turns me to shame!—"
+      - "Sebastian, I have entertainèd thee,"
+      - "Partly that I have need of such a youth"
+      - "That can with some discretion do my business,"
+      - "For ’tis no trusting to yond foolish lout,"
+      - "But chiefly for thy face and thy behavior,"
+      - "Which, if my augury deceive me not,"
+      - "Witness good bringing up, fortune, and truth."
+      - "Therefore know thou, for this I entertain thee."
+      - "Go presently, and take this ring with thee."
+    m:
+      - "What a scoundrel, who never fails to disgrace me! Sebastian, I’ve hired you partly because I have need of a young man who can take care of some business for me quietly, and there’s no trusting that foolish lout Lance. But I’ve chiefly hired you for the way you look and act, which if my intuition doesn’t deceive me mean you are honest, lucky, and have been brought up well. Know that this is why I hired you. Now go, and take this ring with you."
+
+  - os: "Giving a ring"
+    ms: "He gives Julia, disguised as Lance, a ring."
+
+  - o:
+      - "Deliver it to Madam Sylvia—"
+      - "She loved me well delivered it to me."
+    m:
+      - "The woman who gave it to me loved me very much. Deliver it to Madame Sylvia."
+
+  - sp: JULIA
+    o:
+      - "It seems you loved not her, to leave her token."
+      - "She’s dead, belike?"
+    m:
+      - "It seems you didn’t love her if you’re giving away her gift. Is she dead?"
+
+  - sp: PROTEUS
+    o:
+      - "Not so. I think she lives."
+    m:
+      - "No. I think she’s alive."
+
+  - sp: JULIA
+    o:
+      - "Alas!"
+    m:
+      - "Oh no!"
+
+  - sp: PROTEUS
+    o:
+      - "Why dost thou cry “Alas”?"
+    m:
+      - "Why do you cry “Oh no!”?"
+
+  - sp: JULIA
+    o:
+      - "I cannot choose but pity her."
+    m:
+      - "I can’t help but feel sorry for her."
+
+  - sp: PROTEUS
+    o:
+      - "Wherefore shouldst thou pity her?"
+    m:
+      - "Why would you feel sorry for her?"
+
+  - sp: JULIA
+    o:
+      - "Because methinks that she loved you as well"
+      - "As you do love your lady Sylvia."
+      - "She dreams on him that has forgot her love;"
+      - "You dote on her that cares not for your love."
+      - "’Tis pity love should be so contrary;"
+      - "And thinking on it makes me cry “alas!”"
+    m:
+      - "Because I suspect she loved you as much as you love your lady Sylvia. She dreams of that man who has forgotten her love. You dote on a woman who doesn’t care for your love. It’s a pity love is so difficult, and thinking about it makes me cry “Oh no!”"
+
+  - sp: PROTEUS
+    o:
+      - "Well, give her that ring and therewithal"
+      - "This letter. *(Giving a letter)* That’s her chamber. Tell my lady"
+      - "I claim the promise for her heavenly picture."
+      - "Your message done, hie home unto my chamber,"
+      - "Where thou shalt find me, sad and solitary."
+    m:
+      - "Well, give her that ring and with it this letter. *(giving a letter)* That’s her room. Tell her I want the heavenly picture she promised me. When you’ve finished delivering the message, return home to my room, where you’ll find me sad and alone."
+
+  - os: "Exit PROTEUS"
+    ms: "PROTEUS exits."
+
+  - sp: JULIA
+    o:
+      - "How many women would do such a message?"
+      - "Alas, poor Proteus! thou hast entertained"
+      - "A fox to be the shepherd of thy lambs."
+      - "Alas, poor fool, why do I pity him"
+      - "That with his very heart despiseth me?"
+      - "Because he loves her, he despiseth me;"
+      - "Because I love him, I must pity him."
+      - "This ring I gave him when he parted from me,"
+      - "To bind him to remember my good will;"
+      - "And now am I, unhappy messenger,"
+      - "To plead for that which I would not obtain,"
+      - "To carry that which I would have refused,"
+      - "To praise his faith, which I would have dispraised."
+      - "I am my master’s true-confirmèd love,"
+      - "But cannot be true servant to my master"
+      - "Unless I prove false traitor to myself."
+      - "Yet will I woo for him, but yet so coldly"
+      - "As, heaven it knows, I would not have him speed."
+    m:
+      - "How many women would deliver such a message? Too bad, poor Proteus! You’ve hired a fox to be the shepherd of your lambs. Why, poor fool that I am, do I pity the man who despises me? He despises me because he loves her, and I feel sorry for him because I love him. This is the ring I gave him when he left, and it was to remind him always of my feelings. And now I’m an unhappy messenger who is supposed to ask for the picture I don’t want him to have, to deliver the ring I want Sylvia to refuse, and to praise his loyalty, which I want to disparage. I am my master’s true love, but I can’t be a loyal servant to my master without being a traitor to myself. Still I’ll woo Sylvia for him, but heaven knows I’ll do it coldly, because I don’t want him to win her."
+
+  - os: "Enter SYLVIA attended"
+    ms: "SYLVIA enters with servants."
+
+  - o:
+      - "Gentlewoman, good day! I pray you be my means"
+      - "To bring me where to speak with Madam Sylvia."
+    m:
+      - "Gentlewoman, good day! Would you please take me to Madame Sylvia so that I may speak with her?"
+
+  - sp: SYLVIA
+    o:
+      - "What would you with her, if that I be she?"
+    m:
+      - "What do you want with her, assuming I am she?"
+
+  - sp: JULIA
+    o:
+      - "If you be she, I do entreat your patience"
+      - "To hear me speak the message I am sent on."
+    m:
+      - "If you are she, I ask your patience to hear me deliver the message I’ve been instructed to bring you."
+
+  - sp: SYLVIA
+    o:
+      - "From whom?"
+    m:
+      - "From whom?"
+
+  - sp: JULIA
+    o:
+      - "From my master, Sir Proteus, madam."
+    m:
+      - "From my master, Sir Proteus, madam."
+
+  - sp: SYLVIA
+    o:
+      - "O, he sends you for a picture?"
+    m:
+      - "Oh, did he send you for a picture of me?"
+
+  - sp: JULIA
+    o:
+      - "Ay, madam."
+    m:
+      - "Yes, madame."
+
+  - sp: SYLVIA
+    o:
+      - "Ursula, bring my picture there."
+    m:
+      - "Ursula, bring my picture there."
+
+  - os: "A servant brings SYLVIA a picture, which she gives to JULIA."
+    ms: "A servant brings Sylvia a picture, which she gives to Julia."
+
+  - o:
+      - "Go, give your master this. Tell him from me,"
+      - "One Julia, that his changing thoughts forget,"
+      - "Would better fit his chamber than this shadow."
+    m:
+      - "Go, give your master this. Tell him from me that a woman named Julia, whom his fickle heart has forgotten, would be more appropriate for his bedroom than this image of me."
+
+  - sp: JULIA
+    o:
+      - "Madam, please you peruse this letter.—"
+    m:
+      - "Madame, please read this letter."
+
+  - os: "She offers a letter and withdraws it."
+    ms: "She offers a letter, but then takes it back."
+
+  - o:
+      - "Pardon me, madam; I have unadvised"
+      - "Delivered you a paper that I should not."
+    m:
+      - "Pardon me, madame—I accidentally gave you a paper I shouldn’t have."
+
+  - os: "She gives another letter."
+    ms: "She gives another letter."
+
+  - o:
+      - "This is the letter to your ladyship."
+    m:
+      - "This is the letter for your ladyship."
+
+  - sp: SYLVIA
+    o:
+      - "I pray thee, let me look on that again."
+    m:
+      - "Please, let me look at that other letter again."
+
+  - sp: JULIA
+    o:
+      - "It may not be. Good madam, pardon me."
+    m:
+      - "I can’t do that. Forgive me, good madam."
+
+  - sp: SYLVIA
+    o:
+      - "There, hold!"
+      - "I will not look upon your master’s lines."
+      - "I know they are stuffed with protestations"
+      - "And full of newfound oaths, which he will break"
+      - "As easily as I do tear his paper."
+    m:
+      - "Wait, stop! I will not look at your master’s letter. I know it is filled with vows and full of newly made oaths, which he will break as easily as I tear up his letter."
+
+  - os: "She tears the letter."
+    ms: "She tears the letter."
+
+  - sp: JULIA
+    o:
+      - "*(Offering the ring)* Madam, he sends your ladyship this ring."
+    m:
+      - "*(offering the ring)* Madame, he sends your ladyship this ring."
+
+  - sp: SYLVIA
+    o:
+      - "The more shame for him that he sends it me,"
+      - "For I have heard him say a thousand times"
+      - "His Julia gave it him at his departure."
+      - "Though his false finger have profaned the ring,"
+      - "Mine shall not do his Julia so much wrong."
+    m:
+      - "He should be even more ashamed for sending it to me, since I have heard him say a thousand times that his love Julia gave it to him when he departed. Even though his deceitful finger has sullied the ring, my finger will not mistreat Julia so much."
+
+  - sp: JULIA
+    o:
+      - "She thanks you."
+    m:
+      - "She thanks you."
+
+  - sp: SYLVIA
+    o:
+      - "What sayst thou?"
+    m:
+      - "What did you say?"
+
+  - sp: JULIA
+    o:
+      - "I thank you, madam, that you tender her."
+      - "Poor gentlewoman! My master wrongs her much."
+    m:
+      - "I thank you, madam, that you consider her feelings. Poor gentlewoman! My master mistreats her very much."
+
+  - sp: SYLVIA
+    o:
+      - "Dost thou know her?"
+    m:
+      - "Do you know her?"
+
+  - sp: JULIA
+    o:
+      - "Almost as well as I do know myself."
+      - "To think upon her woes I do protest"
+      - "That I have wept a hundred several times."
+    m:
+      - "Almost as well as I know myself. I swear I’ve wept several hundred times thinking about her sorrows."
+
+  - sp: SYLVIA
+    o:
+      - "Belike she thinks that Proteus hath forsook her."
+    m:
+      - "She probably thinks that Proteus has rejected her."
+
+  - sp: JULIA
+    o:
+      - "I think she doth, and that’s her cause of sorrow."
+    m:
+      - "I think she does, and that’s the cause of her sorrow."
+
+  - sp: SYLVIA
+    o:
+      - "Is she not passing fair?"
+    m:
+      - "Isn’t she very beautiful?"
+
+  - sp: JULIA
+    o:
+      - "She hath been fairer, madam, than she is."
+      - "When she did think my master loved her well,"
+      - "She, in my judgment, was as fair as you;"
+      - "But since she did neglect her looking-glass"
+      - "And threw her sun-expelling mask away,"
+      - "The air hath starved the roses in her cheeks"
+      - "And pinched the lily tincture of her face,"
+      - "That now she is become as black as I."
+    m:
+      - "She has been more beautiful, madam, than she is now. When she thought my master loved her deeply, she was as beautiful as you, in my opinion. But since she no longer takes care of her appearance and has thrown her sunblocking mask away, the air has taken the rosiness from her cheeks and stolen the whiteness from her face, so that now she is as ugly as I am."
+
+  - sp: SYLVIA
+    o:
+      - "How tall was she?"
+    m:
+      - "How tall was she?"
+
+  - sp: JULIA
+    o:
+      - "About my stature; for at Pentecost,"
+      - "When all our pageants of delight were played,"
+      - "Our youth got me to play the woman’s part,"
+      - "And I was trimmed in Madam Julia’s gown,"
+      - "Which servèd me as fit, by all men’s judgments,"
+      - "As if the garment had been made for me:"
+      - "Therefore I know she is about my height."
+      - "And at that time I made her weep agood,"
+      - "For I did play a lamentable part:"
+      - "Madam, ’twas Ariadne passioning"
+      - "For Theseus’ perjury and unjust flight;"
+      - "Which I so lively acted with my tears"
+      - "That my poor mistress, movèd therewithal,"
+      - "Wept bitterly; and would I might be dead"
+      - "If I in thought felt not her very sorrow!"
+    m:
+      - "About my height. When we put on a pageant at Pentecost, the young men got me to play the part of a woman, and I was dressed in Madam Julia’s gown, which everyone said fit me very well, as if the garment had been made for me. Therefore, I know she is about my height. And at the time I made her cry a lot, because I played a really sad part—I was Ariadne, Madame, suffering from Theseus’ lies and unfair departure. I acted the part so convincingly with my tears that poor Julia, moved with the performance, wept bitterly. I would wish I were dead if I didn’t feel her very sorrow!"
+
+  - sp: SYLVIA
+    o:
+      - "She is beholding to thee, gentle youth."
+      - "Alas, poor lady, desolate and left!"
+      - "I weep myself, to think upon thy words."
+      - "Here, youth, there is my purse."
+    m:
+      - "She is indebted to you, young man. Such a shame—the poor lady, desolate and abandoned! I weep myself just hearing your story. Here, young man, there is my purse."
+
+  - os: "She gives money."
+    ms: "She gives him some money."
+
+  - o:
+      - "I give thee this"
+      - "For thy sweet mistress’ sake, because thou lov’st her."
+      - "Farewell."
+    m:
+      - "I give this to you for your sweet mistresses’ sake, because you love her. Farewell."
+
+  - os: "Exit SYLVIA, with attendants"
+    ms: "SYLVIA exits with servants."
+
+  - sp: JULIA
+    o:
+      - "And she shall thank you for ’t, if e’er you know her.—"
+      - "A virtuous gentlewoman, mild and beautiful!"
+      - "I hope my master’s suit will be but cold,"
+      - "Since she respects my mistress’ love so much."
+      - "Alas, how love can trifle with itself!"
+      - "Here is her picture."
+    m:
+      - "And she will thank you for it, if you ever meet her. A virtuous gentlewoman, kind and beautiful! I hope my master’s endeavors to win her love will fail since she respects the love I feel for him so much. It’s too bad how love can fool itself! Here is her picture."
+
+  - os: "She looks at the picture."
+    ms: "She looks at the picture."
+
+  - o:
+      - "Let me see, I think"
+      - "If I had such a tire, this face of mine"
+      - "Were full as lovely as is this of hers;"
+      - "And yet the painter flattered her a little,"
+      - "Unless I flatter with myself too much."
+      - "Her hair is auburn, mine is perfect yellow;"
+      - "If that be all the difference in his love,"
+      - "I’ll get me such a colored periwig."
+      - "Her eyes are grey as glass, and so are mine."
+      - "Ay, but her forehead’s low, and mine’s as high."
+      - "What should it be that he respects in her"
+      - "But I can make respective in myself,"
+      - "If this fond Love were not a blinded god?"
+      - "Come, shadow, come, and take this shadow up,"
+      - "For ’tis thy rival."
+    m:
+      - "Let me see, I think if I had a similar headdress my face would be as lovely as hers. And yet the painter made her prettier than she is, unless I flatter myself too much in thinking I’m as pretty. Her hair is auburn, while mine is perfect yellow. If that’s the only thing he likes better about her, then I’ll get myself a blond wig. Her eyes are as gray as glass, and so are mine. Yes, but her forehead’s low, and mine is as high as hers is low. If Love is really blind, what does he value in her that I can’t make him value in myself? Let’s go, Sebastian. Let’s go and get rid of this picture, since it’s your rival."
+
+  - os: "She picks up the picture."
+    ms: "She picks up the picture."
+
+  - o:
+      - "O thou senseless form,"
+      - "Thou shalt be worshiped, kissed, loved, and adored!"
+      - "And, were there sense in his idolatry,"
+      - "My substance should be statue in thy stead."
+      - "I’ll use thee kindly for thy mistress’ sake,"
+      - "That used me so; or else, by Jove I vow,"
+      - "I should have scratched out your unseeing eyes"
+      - "To make my master out of love with thee!"
+    m:
+      - "Oh you unfeeling image, you’ll be worshipped, kissed, loved, and adored! Were there any sense in his worship, it would be the real me he worships instead. I’ll treat this picture kindly for the sake of its mistress, who treated me so well. Otherwise, by Jove, I would have scratched out your unseeing eyes to make my master fall out of love with you!"
+
+  - os: "Exit"
+    ms: "Exit."

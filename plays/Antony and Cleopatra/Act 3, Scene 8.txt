@@ -1,0 +1,39 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 8
+group: 3
+order: 19
+text:
+  - os: "Enter CAESAR with his army, and TAURUS, marching"
+    ms: "CAESAR enters with TAURUS and his army."
+
+  - sp: CAESAR
+    o:
+      - "Taurus!"
+    m:
+      - "Taurus!"
+
+  - sp: TAURUS
+    o:
+      - "My lord?"
+    m:
+      - "My lord?"
+
+  - sp: CAESAR
+    o:
+      - "Strike not by land; keep whole. Provoke not battle"
+      - "Till we have done at sea. Do not exceed"
+      - "The prescript of this scroll."
+    m:
+      - "Don’t attack by land. Keep the army together. Don’t provoke them to battle until we have finished at sea. Don’t exceed your orders as written here."
+
+  - os: "He gives a scroll"
+    ms: "He hands TAURUS a scroll."
+
+  - o:
+      - "    Our fortune lies"
+      - "Upon this jump."
+    m:
+      - "Our fate depends on this chance."
+
+  - os: "Exit with army"
+    ms: "They exit."

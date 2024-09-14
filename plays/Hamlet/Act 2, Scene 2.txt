@@ -1,0 +1,1386 @@
+play: Hamlet
+title: Act 2, Scene 2
+group: 2
+order: 6
+text:
+  - os: "Flourish. Enter King CLAUDIUS and Queen GERTRUDE, ROSENCRANTZ and GUILDENSTERN, and attendants"
+    ms: "Trumpets play. CLAUDIUS and GERTRUDE enter with ROSENCRANTZ, GUILDENSTERN, and attendants."
+
+  - sp: CLAUDIUS
+    o:
+      - "Welcome, dear Rosencrantz and Guildenstern."
+      - "Moreover that we much did long to see you,"
+      - "The need we have to use you did provoke"
+      - "Our hasty sending. Something have you heard"
+      - "Of Hamlet’s “transformation”—so call it"
+      - "Since nor th’ exterior nor the inward man"
+      - "Resembles that it was. What it should be,"
+      - "More than his father’s death, that thus hath put him"
+      - "So much from th’ understanding of himself,"
+      - "I cannot dream of. I entreat you both"
+      - "That, being of so young days brought up with him"
+      - "And since so neighbored to his youth and ’havior,"
+      - "That you vouchsafe your rest here in our court"
+      - "Some little time so by your companies"
+      - "To draw him on to pleasures and to gather,"
+      - "So much as from occasion you may glean,"
+      - "Whether aught, to us unknown, afflicts him thus"
+      - "That, opened, lies within our remedy."
+    m:
+      - "Welcome, dear Rosencrantz and Guildenstern. I’ve wanted to see you for a long time now, but I sent for you so hastily because I need your help right away. You’ve probably heard about the “change” that’s come over Hamlet—that’s the only word for it, since inside and out he’s different from what he was before. I can’t imagine what’s made him so unlike himself, other than his father’s death. Since you both grew up with him and are so familiar with his personality and behavior, I’m asking you to stay a while at court and spend some time with him. See if you can get Hamlet to have some fun, and find out if there’s anything in particular that’s bothering him, so we can set about trying to fix it."
+
+  - sp: GERTRUDE
+    o:
+      - "Good gentlemen, he hath much talked of you."
+      - "And sure I am two men there are not living"
+      - "To whom he more adheres. If it will please you"
+      - "To show us so much gentry and good will"
+      - "As to expend your time with us awhile"
+      - "For the supply and profit of our hope,"
+      - "Your visitation shall receive such thanks"
+      - "As fits a king’s remembrance."
+    m:
+      - "Gentlemen, Hamlet’s talked a lot about you, and I know there are no two men alive he’s fonder of. If you’ll be so good as to spend some time with us and help us out, you’ll be thanked on a royal scale."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "    Both your majesties"
+      - "Might, by the sovereign power you have of us,"
+      - "Put your dread pleasures more into command"
+      - "Than to entreaty."
+    m:
+      - "Both you and the king might have ordered us to execute your command, instead of asking us so politely."
+
+  - sp: GUILDENSTERN
+    o:
+      - "  But we both obey"
+      - "And here give up ourselves, in the full bent,"
+      - "To lay our service freely at your feet"
+      - "To be commanded."
+    m:
+      - "But we’ll obey. Our services are entirely at your command."
+
+  - sp: CLAUDIUS
+    o:
+      - "Thanks, Rosencrantz and gentle Guildenstern."
+    m:
+      - "Thanks, Rosencrantz and worthy Guildenstern."
+
+  - sp: GERTRUDE
+    o:
+      - "Thanks, Guildenstern and gentle Rosencrantz."
+      - "And I beseech you instantly to visit"
+      - "My too much changèd son. Go, some of you,"
+      - "And bring these gentlemen where Hamlet is."
+    m:
+      - "Thanks, Guildenstern and worthy Rosencrantz. I beg you to pay a visit right away to my son, who’s changed too much. Servants, take these gentlemen to see Hamlet."
+
+  - sp: GUILDENSTERN
+    o:
+      - "Heavens make our presence and our practices"
+      - "Pleasant and helpful to him!"
+    m:
+      - "I hope to God we can make him happy and do him some good!"
+
+  - sp: GERTRUDE
+    o:
+      - "    Ay, amen!"
+    m:
+      - "Amen to that!"
+
+  - os: "Exeunt ROSENCRANTZ and GUILDENSTERN, escorted by attendants"
+    ms: "ROSENCRANTZ and GUILDENSTERN exit, escorted by attendants."
+
+  - os: "Enter POLONIUS"
+    ms: "POLONIUS enters."
+
+  - sp: POLONIUS
+    o:
+      - "Th’ ambassadors from Norway, my good lord,"
+      - "Are joyfully returned."
+    m:
+      - "The ambassadors are back from Norway, sir."
+
+  - sp: CLAUDIUS
+    o:
+      - "Thou still hast been the father of good news."
+    m:
+      - "Once again you bring good news."
+
+  - sp: POLONIUS
+    o:
+      - "Have I, my lord? I assure my good liege,"
+      - "I hold my duty as I hold my soul,"
+      - "Both to my God and to my gracious king."
+      - "And I do think—or else this brain of mine"
+      - "Hunts not the trail of policy so sure"
+      - "As it hath used to do—that I have found"
+      - "The very cause of Hamlet’s lunacy."
+    m:
+      - "Do I, sir? I assure your majesty I’m only doing my duty both to my God and my good king. And I believe—unless this brain of mine is not so politically cunning as it used to be—that I’ve found out why Hamlet’s gone crazy."
+
+  - sp: CLAUDIUS
+    o:
+      - "Oh, speak of that. That do I long to hear."
+    m:
+      - "Tell me! I want very much to find out."
+
+  - sp: POLONIUS
+    o:
+      - "Give first admittance to th’ ambassadors."
+      - "My news shall be the fruit to that great feast."
+    m:
+      - "All right, but first let the ambassadors speak. Then you can hear my news, as dessert."
+
+  - sp: CLAUDIUS
+    o:
+      - "Thyself do grace to them, and bring them in."
+    m:
+      - "Then be so kind as to show them in."
+
+  - os: "Exit POLONIUS"
+    ms: "POLONIUS exits."
+
+  - o:
+      - "He tells me, my dear Gertrude, he hath found"
+      - "The head and source of all your son’s distemper."
+    m:
+      - "Gertrude, he says he’s found out the reason for your son’s insanity."
+
+  - sp: GERTRUDE
+    o:
+      - "I doubt it is no other but the main:"
+      - "His father’s death and our o’erhasty marriage."
+    m:
+      - "I doubt it’s anything but the obvious reason: his father’s dying and our quick marriage."
+
+  - os: "Enter POLONIUS with ambassadors VOLTEMAND and CORNELIUS"
+    ms: "POLONIUS enters with the ambassadors VOLTEMAND and CORNELIUS."
+
+  - sp: CLAUDIUS
+    o:
+      - "Well, we shall sift him.—Welcome, my good friends!"
+      - "Say, Voltemand, what from our brother Norway?"
+    m:
+      - "Well, we’ll get to the bottom of it. Welcome, my good friends. Tell me, Voltemand, what’s the news from the king of Norway?"
+
+  - sp: VOLTEMAND
+    o:
+      - "Most fair return of greetings and desires."
+      - "Upon our first, he sent out to suppress"
+      - "His nephew’s levies, which to him appeared"
+      - "To be a preparation ’gainst the Polack,"
+      - "But, better looked into, he truly found"
+      - "It was against your highness. Whereat grieved—"
+      - "That so his sickness, age, and impotence"
+      - "Was falsely borne in hand—sends out arrests"
+      - "On Fortinbras, which he, in brief, obeys,"
+      - "Receives rebuke from Norway, and in fine"
+      - "Makes vow before his uncle never more"
+      - "To give th’ assay of arms against your majesty."
+      - "Whereon old Norway, overcome with joy,"
+      - "Gives him three thousand crowns in annual fee"
+      - "And his commission to employ those soldiers,"
+      - "So levied as before, against the Polack,"
+      - "With an entreaty, herein further shown,"
+      - "That it might please you to give quiet pass"
+      - "Through your dominions for this enterprise,"
+      - "On such regards of safety and allowance"
+      - "As therein are set down. *(gives CLAUDIUS a document)*"
+    m:
+      - "Greetings to you too, your Highness. As soon as we raised the matter, the king sent out messengers to stop his nephew’s war preparations, which he originally thought were directed against Poland but learned on closer examination were directed against you. He was very upset that Fortinbras had taken advantage of his being old and sick to deceive him, and he ordered Fortinbras’ arrest. Fortinbras swore never to threaten Denmark again. The old king was so overjoyed by this promise that he gave young Fortinbras an annual income of three thousand crowns and permission to lead his soldiers into Poland, asking you officially in this letter to allow his troops to pass through your kingdom on their way to Poland. He’s assuring you of your safety. *(he gives CLAUDIUS a document)*"
+
+  - sp: CLAUDIUS
+    o:
+      - "    It likes us well,"
+      - "And at our more considered time we’ll read,"
+      - "Answer, and think upon this business."
+      - "Meantime we thank you for your well-took labor."
+      - "Go to your rest. At night we’ll feast together."
+      - "Most welcome home!"
+    m:
+      - "I like this news, and when I have time I’ll read this and think about how to reply. Meanwhile, thank you for your efforts. Go relax now. Tonight we’ll have dinner. Welcome back!"
+
+  - os: "Exeunt VOLTEMAND and CORNELIUS"
+    ms: "VOLTEMAND and CORNELIUS exit."
+
+  - sp: POLONIUS
+    o:
+      - "This business is well ended."
+      - "My liege and madam, to expostulate"
+      - "What majesty should be, what duty is,"
+      - "Why day is day, night night, and time is time,"
+      - "Were nothing but to waste night, day, and time."
+      - "Therefore, since brevity is the soul of wit"
+      - "And tediousness the limbs and outward flourishes,"
+      - "I will be brief: your noble son is mad."
+      - "Mad call I it, for, to define true madness,"
+      - "What is ’t but to be nothing else but mad?"
+      - "But let that go."
+    m:
+      - "Well, that turned out well in the end. Sir and madam, to make grand speeches about what majesty is, what service is, or why day is day, night is night, and time is time is just a waste of a lot of day, night, and time. Therefore, since the essence of wisdom is not talking too much, I’ll get right to the point here. Your son is crazy. “Crazy” I’m calling it, since how can you say what craziness is except to say that it’s craziness? But that’s another story."
+
+  - sp: GERTRUDE
+    o:
+      - "More matter, with less art."
+    m:
+      - "Please, stick to the point."
+
+  - sp: POLONIUS
+    o:
+      - "Madam, I swear I use no art at all."
+      - "That he is mad, ’tis true. Tis true, ’tis pity,"
+      - "And pity ’tis ’tis true—a foolish figure,"
+      - "But farewell it, for I will use no art."
+      - "Mad let us grant him then. And now remains"
+      - "That we find out the cause of this effect,"
+      - "Or rather say, the cause of this defect,"
+      - "For this effect defective comes by cause."
+      - "Thus it remains, and the remainder thus. Perpend."
+      - "I have a daughter—have while she is mine—"
+      - "Who in her duty and obedience, mark,"
+      - "Hath given me this. Now gather and surmise."
+      - "*(reads a letter) “To the celestial and my soul’s idol, the most beautified Ophelia”*—That’s an ill phrase, a vile phrase. “Beautified” is a vile phrase. But you shall hear. Thus: *(reads the letter) “In her excellent white bosom, these,” etc.*—"
+    m:
+      - "Madam, I’m doing nothing but sticking to the point. It’s true he’s crazy, and it’s a shame it’s true, and it’s truly a shame he’s crazy—but now I sound foolish, so I’ll get right to the point. Now, if we agree Hamlet’s crazy, then the next step is to figure out the cause of this effect of craziness, or I suppose I should say the cause of this defect, since this defective effect is caused by something. This is what we must do, and that’s exactly what needs to be done. Think about it. I have a daughter (I have her until she gets married) who’s given me this letter, considering it her duty. Listen and think about this: *(he reads a letter)* “To the heavenly idol of my soul, the most beautified Ophelia”—By the way, “beautified” sounds bad, it sounds awful, it sounds crude, it’s a terrible use of the word. But I’ll go on: *(he reads the letter)* “In her excellent white bosom,” et cetera, et cetera—you don’t need to hear all this stuff—"
+
+  - sp: GERTRUDE
+    o:
+      - "Came this from Hamlet to her?"
+    m:
+      - "Hamlet wrote this letter to Ophelia?"
+
+  - sp: POLONIUS
+    o:
+      - "Good madam, stay a while. I will be faithful."
+      - "*(reads the letter)*"
+      - "  “*Doubt thou the stars are fire*,"
+      - "  *Doubt that the sun doth move*,"
+      - "  *Doubt truth to be a liar*,"
+      - "  *But never doubt I love*."
+      - "  O dear Ophelia, I am ill at these numbers. I have not art to reckon my groans, but that I love thee best, oh, most best, believe it. Adieu."
+      - "  *Thine evermore, most dear lady*,"
+      - "  *whilst this machine is to him*,"
+      - "    Hamlet.”"
+      - "This in obedience hath my daughter shown me,"
+      - "And more above, hath his solicitings,"
+      - "As they fell out by time, by means, and place,"
+      - "All given to mine ear."
+    m:
+      - "Madam, please be patient. I’ll read it to you."
+      - "*(he reads the letter)*"
+      - " “*You may wonder if the stars are fire*,"
+      - "  *You may wonder if the sun moves across the sky*."
+      - "  *You may wonder if the truth is a liar*,"
+      - "  *But never wonder if I love*."
+      - "Oh, Ophelia, I’m bad at poetry. I can’t put my feelings into verse, but please believe I love you best, oh, best of all. Believe it."
+      - "  *Yours forever, my dearest one,*"
+      - "  *as long as I live—still chugging along*,"
+      - "    Hamlet.”"
+      - "Dutifully and obediently my daughter showed me this letter, and more like it. She’s told me all about how Hamlet has been courting her—all the details of where, and what he said, and when."
+
+  - sp: CLAUDIUS
+    o:
+      - "But how hath she received his love?"
+    m:
+      - "And how did she react to all this?"
+
+  - sp: POLONIUS
+    o:
+      - "What do you think of me?"
+    m:
+      - "Sir, what is your opinion of me?"
+
+  - sp: CLAUDIUS
+    o:
+      - "As of a man faithful and honorable."
+    m:
+      - "I know you are loyal and honorable."
+
+  - sp: POLONIUS
+    o:
+      - "I would fain prove so. But what might you think,"
+      - "When I had seen this hot love on the wing—"
+      - "As I perceived it, I must tell you that,"
+      - "Before my daughter told me—what might you,"
+      - "Or my dear majesty your queen here, think,"
+      - "If I had played the desk or table-book,"
+      - "Or given my heart a winking, mute and dumb,"
+      - "Or looked upon this love with idle sight?"
+      - "What might you think? No, I went round to work,"
+      - "And my young mistress thus I did bespeak:"
+      - "“Lord Hamlet is a prince out of thy star."
+      - "This must not be.” And then I prescripts gave her,"
+      - "That she should lock herself from his resort,"
+      - "Admit no messengers, receive no tokens."
+      - "Which done, she took the fruits of my advice;"
+      - "And he, repelled—a short tale to make—"
+      - "Fell into a sadness, then into a fast,"
+      - "Thence to a watch, thence into a weakness,"
+      - "Thence to a lightness, and, by this declension,"
+      - "Into the madness wherein now he raves"
+      - "And all we mourn for."
+    m:
+      - "I would like to prove to you that I am. But what would you have thought of me if I had kept quiet when I found out about this hot little love (which I noticed even before my daughter told me about it)? My dear queen, what would you have thought of me if I had turned a blind eye to what was happening between Hamlet and my daughter? No, I had to do something. And so I said to my daughter: “Lord Hamlet is a prince, he’s out of your league. You have to end this.” And then I gave her orders to stay away from him, and not to accept any messages or little gifts from him. She did what I said. When she rejected Hamlet, he became sad, and stopped eating, stopped sleeping, got weak, got dizzy, and as a result lost his mind. And that’s why he’s crazy now, and all of us feel sorry for him."
+
+  - sp: CLAUDIUS
+    o:
+      - "*(to GERTRUDE)* Do you think ’tis this?"
+    m:
+      - "*(to GERTRUDE)* Do you think that’s why Hamlet’s crazy?"
+
+  - sp: GERTRUDE
+    o:
+      - "    It may be, very like."
+    m:
+      - "It may be, it certainly may be."
+
+  - sp: POLONIUS
+    o:
+      - "Hath there been such a time—I would fain know that—"
+      - "That I have positively said, “’Tis so,”"
+      - "When it proved otherwise?"
+    m:
+      - "Has there ever been a time—I’d really like to know—when I’ve definitely said something was true, and it turned out not to be true?"
+
+  - sp: CLAUDIUS
+    o:
+      - "    Not that I know."
+    m:
+      - "Not that I know of."
+
+  - sp: POLONIUS
+    o:
+      - "*(points to his head and shoulders)*"
+      - "Take this from this if this be otherwise."
+      - "If circumstances lead me, I will find"
+      - "Where truth is hid, though it were hid indeed"
+      - "Within the center."
+    m:
+      - "*(pointing to his head and shoulders)* Chop my head off if I’m wrong. I’ll follow the clues and uncover the truth, even if it’s at the very center of the earth."
+
+  - sp: CLAUDIUS
+    o:
+      - "  How may we try it further?"
+    m:
+      - "What can we do to find out if it’s true?"
+
+  - sp: POLONIUS
+    o:
+      - "You know sometimes he walks four hours together"
+      - "Here in the lobby."
+    m:
+      - "Well, you know he sometimes walks here in the lobby for four hours at a time."
+
+  - sp: GERTRUDE
+    o:
+      - "  So he does indeed."
+    m:
+      - "Yes, he does."
+
+  - sp: POLONIUS
+    o:
+      - "At such a time I’ll loose my daughter to him."
+      - "*(to CLAUDIUS)* Be you and I behind an arras then,"
+      - "Mark the encounter. If he love her not"
+      - "And be not from his reason fall’n thereon,"
+      - "Let me be no assistant for a state"
+      - "But keep a farm and carters."
+    m:
+      - "When he’s there next time, I’ll send my daughter to see him. *(to CLAUDIUS)* You and I will hide behind the arras and watch what happens. If it turns out that Hamlet’s not in love after all, and hasn’t gone mad from love, then you can fire me from my court job and I’ll go work on a farm."
+
+  - sp: CLAUDIUS
+    o:
+      - "    We will try it."
+    m:
+      - "We’ll try what you suggest."
+
+  - os: "Enter HAMLET, reading on a book"
+    ms: "HAMLET enters, reading a book."
+
+  - sp: GERTRUDE
+    o:
+      - "But look where sadly the poor wretch comes reading."
+    m:
+      - "Look how sadly he’s coming in, reading his book."
+
+  - sp: POLONIUS
+    o:
+      - "Away, I do beseech you, both away."
+      - "I’ll board him presently. O, give me leave."
+    m:
+      - "Please go away, both of you. I’ll speak to him now. Oh, please let me."
+
+  - os: "Exeunt CLAUDIUS and GERTRUDE"
+    ms: "CLAUDIUS and GERTRUDE exit."
+
+  - o:
+      - "How does my good Lord Hamlet?"
+    m:
+      - "How are you, Hamlet?"
+
+  - sp: HAMLET
+    o:
+      - "Well, God-’a’-mercy."
+    m:
+      - "Fine, thank you."
+
+  - sp: POLONIUS
+    o:
+      - "Do you know me, my lord?"
+    m:
+      - "Do you know who I am?"
+
+  - sp: HAMLET
+    o:
+      - "Excellent well. You are a fishmonger."
+    m:
+      - "Of course. You sell fish."
+
+  - sp: POLONIUS
+    o:
+      - "Not I, my lord."
+    m:
+      - "No, not me, sir."
+
+  - sp: HAMLET
+    o:
+      - "Then I would you were so honest a man."
+    m:
+      - "In that case I wish you were as good a man as a fish seller."
+
+  - sp: POLONIUS
+    o:
+      - "Honest, my lord?"
+    m:
+      - "Good, sir?"
+
+  - sp: HAMLET
+    o:
+      - "Ay, sir. To be honest, as this world goes, is to be one man picked out of ten thousand."
+    m:
+      - "Yes, sir. Only one man in ten thousand is good in this world."
+
+  - sp: POLONIUS
+    o:
+      - "That’s very true, my lord."
+    m:
+      - "That’s definitely true, my lord."
+
+  - sp: HAMLET
+    o:
+      - "For if the sun breed maggots in a dead dog, being a good kissing carrion— Have you a daughter?"
+    m:
+      - "Since if the sun breeds maggots on a dead dog, kissing the corpse—by the way, do you have a daughter?"
+
+  - sp: POLONIUS
+    o:
+      - "I have, my lord."
+    m:
+      - "I do indeed, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Let her not walk i’ th’ sun. Conception is a blessing, but, as your daughter may conceive—Friend, look to ’t."
+    m:
+      - "Then by all means never let her walk in public. Procreation is a good thing, but if your daughter gets pregnant … look out, friend."
+
+  - sp: POLONIUS
+    o:
+      - "*(aside)* How say you by that? Still harping on my daughter. Yet he knew me not at first. He said I was a fishmonger. He is far gone, far gone. And truly in my youth I suffered much extremity for love, very near this. I’ll speak to him again.—*(to HAMLET)* What do you read, my lord?"
+    m:
+      - "*(to himself)* Now, what does he mean by that? Still harping on my daughter. But he didn’t recognize me at first. He mistook me for a fish seller. He’s far gone. But when I was young I went crazy for love too, almost as bad as this. I’ll talk to him again.—*(to HAMLET)* What are you reading, your highness?"
+
+  - sp: HAMLET
+    o:
+      - "Words, words, words."
+    m:
+      - "A lot of words."
+
+  - sp: POLONIUS
+    o:
+      - "What is the matter, my lord?"
+    m:
+      - "And what is the subject?"
+
+  - sp: HAMLET
+    o:
+      - "Between who?"
+    m:
+      - "Between whom?"
+
+  - sp: POLONIUS
+    o:
+      - "I mean, the matter that you read, my lord."
+    m:
+      - "I mean, what do the words say?"
+
+  - sp: HAMLET
+    o:
+      - "Slanders, sir. For the satirical rogue says here that old men have gray beards, that their faces are wrinkled, their eyes purging thick amber and plum-tree gum, and that they have a plentiful lack of wit, together with most weak hams—all which, sir, though I most powerfully and potently believe, yet I hold it not honesty to have it thus set down; for yourself, sir, should be old as I am, if like a crab you could go backward."
+    m:
+      - "Oh, just lies, sir. The sly writer says here that old men have gray beards, their faces are wrinkled, their eyes full of gunk, and that they have no wisdom and weak thighs. Of course I believe it all, but I don’t think it’s good manners to write it down, since you yourself, sir, would grow as old as I am, if you could only travel backward like a crab."
+
+  - sp: POLONIUS
+    o:
+      - "*(aside)* Though this be madness, yet there is method in ’t.—*(to HAMLET)* Will you walk out of the air, my lord?"
+    m:
+      - "*(to himself)* There’s a method to his madness. *(to HAMLET)* Will you step outside, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "Into my grave."
+    m:
+      - "Into my grave."
+
+  - sp: POLONIUS
+    o:
+      - "Indeed, that is out of the air. *(aside)* How pregnant sometimes his replies are. A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of. I will leave him and suddenly contrive the means of meeting between him and my daughter.—*(to HAMLET)* My honorable lord, I will most humbly take my leave of you."
+    m:
+      - "Well, that’s certainly out of this world, all right. *(to himself)* His answers are so full of meaning sometimes! He has a way with words, as crazy people often do, and that sane people don’t have a talent for. I’ll leave him now and arrange a meeting between him and my daughter. *(to HAMLET)* My lord, I’ll take my leave of you now."
+
+  - sp: HAMLET
+    o:
+      - "You cannot, sir, take from me any thing that I will more willingly part withal—except my life, except my life, except my life."
+    m:
+      - "You can’t take anything from me that I care less about—except my life, except my life, except my life."
+
+  - sp: POLONIUS
+    o:
+      - "Fare you well, my lord."
+    m:
+      - "Good-bye, my lord."
+
+  - sp: HAMLET
+    o:
+      - "*(aside)* These tedious old fools!"
+    m:
+      - "*(to himself)* These boring old fools!"
+
+  - os: "Enter ROSENCRANTZ and GUILDENSTERN"
+    ms: "ROSENCRANTZ and GUILDENSTERN enter."
+
+  - sp: POLONIUS
+    o:
+      - "You go to seek the Lord Hamlet. There he is."
+    m:
+      - "You’re looking for Lord Hamlet. He’s right over there."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "God save you, sir!"
+    m:
+      - "Thank you, sir."
+
+  - os: "Exit POLONIUS"
+    ms: "POLONIUS exits."
+
+  - sp: GUILDENSTERN
+    o:
+      - "My honored lord!"
+    m:
+      - "My lord!"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "My most dear lord!"
+    m:
+      - "My dear sir!"
+
+  - sp: HAMLET
+    o:
+      - "My excellent good friends! How dost thou, Guildenstern?"
+      - "Ah, Rosencrantz! Good lads, how do you both?"
+    m:
+      - "Ah, my good old friends! How are you, Guildenstern?"
+      - "And Rosencrantz! Boys, how are you both doing?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "As the indifferent children of the earth."
+    m:
+      - "Oh, as well as anybody."
+
+  - sp: GUILDENSTERN
+    o:
+      - "Happy, in that we are not overhappy."
+      - "On Fortune’s cap we are not the very button."
+    m:
+      - "Happy that we’re not too happy, lucky in being not too lucky. We’re not exactly at the top of our luck."
+
+  - sp: HAMLET
+    o:
+      - "Nor the soles of her shoes?"
+    m:
+      - "But you’re not down and out, either, are you?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Neither, my lord."
+    m:
+      - "No, we’re just somewhere in the middle, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Then you live about her waist, or in the middle of her favors?"
+    m:
+      - "So you’re around Lady Luck’s waist?"
+
+  - sp: GUILDENSTERN
+    o:
+      - "Faith, her privates we."
+    m:
+      - "Yes, we’re the privates in her army."
+
+  - sp: HAMLET
+    o:
+      - "In the secret parts of Fortune? Oh, most true. She is a strumpet. What news?"
+    m:
+      - "Ha, ha, so you’ve gotten into her private parts? Of course—Lady Luck is such a slut. Anyway, what’s up?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "None, my lord, but that the world’s grown honest."
+    m:
+      - "Not much, my lord. Just that the world’s become honest."
+
+  - sp: HAMLET
+    o:
+      - "Then is doomsday near. But your news is not true. Let me question more in particular. What have you, my good friends, deserved at the hands of fortune that she sends you to prison hither?"
+    m:
+      - "In that case, the end of the world is approaching. But you’re wrong. Let me ask you a particular question. What crimes have you committed to be sent here to this prison?"
+
+  - sp: GUILDENSTERN
+    o:
+      - "Prison, my lord?"
+    m:
+      - "Prison, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "Denmark’s a prison."
+    m:
+      - "Denmark’s a prison."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Then is the world one."
+    m:
+      - "Then I guess the whole world is one."
+
+  - sp: HAMLET
+    o:
+      - "A goodly one, in which there are many confines, wards, and dungeons, Denmark being one o’ th’ worst."
+    m:
+      - "Yes, quite a large one, with many cells and dungeons, Denmark being one of the worst."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "We think not so, my lord."
+    m:
+      - "We don’t think so, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Why, then, ’tis none to you, for there is nothing either good or bad, but thinking makes it so. To me it is a prison."
+    m:
+      - "Well, then it isn’t one to you, since nothing is really good or bad in itself—it’s all what a person thinks about it. And to me, Denmark is a prison."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Why then, your ambition makes it one. ’Tis too narrow for your mind."
+    m:
+      - "That must be because you’re so ambitious. It’s too small for your large mind."
+
+  - sp: HAMLET
+    o:
+      - "O God, I could be bounded in a nutshell and count myself a king of infinite space, were it not that I have bad dreams."
+    m:
+      - "Small? No, I could live in a walnut shell and feel like the king of the universe. The real problem is that I have bad dreams."
+
+  - sp: GUILDENSTERN
+    o:
+      - "Which dreams indeed are ambition, for the very substance of the ambitious is merely the shadow of a dream."
+    m:
+      - "Dreams are a sign of ambition, since ambition is nothing more than the shadow of a dream."
+
+  - sp: HAMLET
+    o:
+      - "A dream itself is but a shadow."
+    m:
+      - "But a dream itself is just a shadow."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Truly, and I hold ambition of so airy and light a quality that it is but a shadow’s shadow."
+    m:
+      - "Exactly. In fact, I consider ambition to be so light and airy that it’s only the shadow of a shadow."
+
+  - sp: HAMLET
+    o:
+      - "Then are our beggars bodies, and our monarchs and outstretched heroes the beggars’ shadows. Shall we to th’ court? For by my fay, I cannot reason."
+    m:
+      - "Then I guess beggars are the ones with bodies, while ambitious kings and heroes are just the shadows of beggars. Should we go inside? I seem to be losing my mind a bit."
+
+  - sp: ROSENCRANTZ, GUILDENSTERN
+    o:
+      - "We’ll wait upon you."
+    m:
+      - "We’re at your service, whatever you say."
+
+  - sp: HAMLET
+    o:
+      - "No such matter. I will not sort you with the rest of my servants, for, to speak to you like an honest man, I am most dreadfully attended. But in the beaten way of friendship, what make you at Elsinore?"
+    m:
+      - "No, no, I won’t class you with my servants, since—to be frank with you—my servants are terrible. But tell me as my friends, what are you doing here at Elsinore?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "To visit you, my lord, no other occasion."
+    m:
+      - "Visiting you, my lord. There’s no other reason."
+
+  - sp: HAMLET
+    o:
+      - "Beggar that I am, I am even poor in thanks; but I thank you, and sure, dear friends, my thanks are too dear a halfpenny. Were you not sent for? Is it your own inclining? Is it a free visitation? Come, come, deal justly with me. Come, come. Nay, speak."
+    m:
+      - "Well, then, I thank you, though I’m such a beggar that even my thanks are not worth much. Did someone tell you to visit me? Or was it just your whim, on your own initiative? Come on, tell me the truth."
+
+  - sp: GUILDENSTERN
+    o:
+      - "What should we say, my lord?"
+    m:
+      - "What should we say, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "Why, any thing, but to th’ purpose. You were sent for, and there is a kind of confession in your looks which your modesties have not craft enough to color. I know the good king and queen have sent for you."
+    m:
+      - "Anything you like, as long as it answers my question. You were sent for. You’ve got a guilty look on your faces, which you’re too honest to disguise. I know the king and queen sent for you."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "To what end, my lord?"
+    m:
+      - "Why would they do that, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "That you must teach me. But let me conjure you, by the rights of our fellowship, by the consonancy of our youth, by the obligation of our ever-preserved love, and by what more dear a better proposer could charge you withal: be even and direct with me whether you were sent for or no."
+    m:
+      - "That’s what I want you to tell me. Let me remind you of our old friendship, our youth spent together, the duties of our love for each other, and whatever else will make you answer me straight."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "*(to GUILDENSTERN)* What say you?"
+    m:
+      - "*(to GUILDENSTERN)* What do you think?"
+
+  - sp: HAMLET
+    o:
+      - "*(aside)* Nay, then, I have an eye of you—If you love me, hold not off."
+    m:
+      - "*(to himself)* I’ve got my eye on you. *(to GUILDENSTERN)* If you care about me, you’ll be honest with me."
+
+  - sp: GUILDENSTERN
+    o:
+      - "My lord, we were sent for."
+    m:
+      - "My lord, we were sent for."
+
+  - sp: HAMLET
+    o:
+      - "I will tell you why. So shall my anticipation prevent your discovery, and your secrecy to the king and queen moult no feather. I have of late—but wherefore I know not—lost all my mirth, forgone all custom of exercises, and indeed it goes so heavily with my disposition that this goodly frame, the earth, seems to me a sterile promontory; this most excellent canopy, the air—look you, this brave o’erhanging firmament, this majestical roof fretted with golden fire—why, it appears no other thing to me than a foul and pestilent congregation of vapors. What a piece of work is a man! How noble in reason, how infinite in faculty! In form and moving how express and admirable! In action how like an angel, in apprehension how like a god! The beauty of the world. The paragon of animals. And yet, to me, what is this quintessence of dust? Man delights not me. No, nor woman neither, though by your smiling you seem to say so."
+    m:
+      - "I’ll tell you why—so you won’t have to tell *me* and give away any secrets you have with the king and queen. Recently, though I don’t know why, I’ve lost all sense of fun, stopped exercising—the whole world feels sterile and empty. This beautiful canopy we call the sky—this majestic roof decorated with golden sunlight—why, it’s nothing more to me than disease-filled air. What a perfect invention a human is, how noble in his capacity to reason, how unlimited in thinking, how admirable in his shape and movement, how angelic in action, how godlike in understanding! There’s nothing more beautiful. We surpass all other animals. And yet to me, what are we but dust? Men don’t interest me. No—women neither, but you’re smiling, so you must think they do."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "My lord, there was no such stuff in my thoughts."
+    m:
+      - "My lord, I wasn’t thinking anything like that."
+
+  - sp: HAMLET
+    o:
+      - "Why did you laugh then, when I said “man delights not me”?"
+    m:
+      - "So why did you laugh when I said that men don’t interest me?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "To think, my lord, if you delight not in man, what Lenten entertainment the players shall receive from you. We coted them on the way, and hither are they coming to offer you service."
+    m:
+      - "I was just thinking that if people don’t interest you, you’ll be pretty bored by the actors on their way here. We crossed paths with a drama company just a while ago, and they’re coming to entertain you."
+
+  - sp: HAMLET
+    o:
+      - "He that plays the king shall be welcome. His majesty shall have tribute of me. The adventurous knight shall use his foil and target, the lover shall not sigh gratis, the humorous man shall end his part in peace, the clown shall make those laugh whose lungs are tickle o’ th’ sear, and the lady shall say her mind freely, or the blank verse shall halt for ’t. What players are they?"
+    m:
+      - "The one who plays the part of the king will be particularly welcome. I’ll treat him like a real king. The adventurous knight will wave around his sword and shield, the lover will be rewarded for his sighs, the crazy character can rant all he wants, the clown will make everybody laugh, and the lady character can say whatever’s on her mind, or I’ll stop the play. Which troupe is it?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Even those you were wont to take delight in, the tragedians of the city."
+    m:
+      - "The tragic actors from the city, the ones you used to enjoy so much."
+
+  - sp: HAMLET
+    o:
+      - "How chances it they travel? Their residence, both in reputation and profit, was better both ways."
+    m:
+      - "What are they doing on the road? They made more money and got more attention in the city."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "I think their inhibition comes by the means of the late innovation."
+    m:
+      - "But things have changed there, and it’s easier for them on the road now."
+
+  - sp: HAMLET
+    o:
+      - "Do they hold the same estimation they did when I was in the city? Are they so followed?"
+    m:
+      - "Are they as popular as they used to be when I lived in the city? Do they attract big audiences?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "No, indeed are they not."
+    m:
+      - "No, not like before."
+
+  - sp: HAMLET
+    o:
+      - "How comes it? Do they grow rusty?"
+    m:
+      - "Why? Are they getting rusty?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Nay, their endeavor keeps in the wonted pace. But there is, sir, an eyrie of children, little eyases, that cry out on the top of question and are most tyrannically clapped for ’t. These are now the fashion, and so berattle the common stages—so they call them—that many wearing rapiers are afraid of goose quills and dare scarce come thither."
+    m:
+      - "No, they’re busy and as excellent as ever. The problem is that they have to compete with a group of children who yell out their lines and receive outrageous applause for it. These child actors are now in fashion, and they’ve so overtaken the public theaters that society types hardly come at all, they’re so afraid of being mocked by the playwrights who write for the boys."
+
+  - sp: HAMLET
+    o:
+      - "What, are they children? Who maintains ’em? How are they escoted? Will they pursue the quality no longer than they can sing? Will they not say afterwards, if they should grow themselves to common players (as it is most like if their means are no better), their writers do them wrong to make them exclaim against their own succession?"
+    m:
+      - "What, you mean kid actors? Who takes care of them? Who pays their way? Will they stop working when their voices mature? Aren’t the playwrights hurting them by making them upstage adult actors, which they are going to grow up and become? (Unless, of course, they have trust funds.)"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Faith, there has been much to do on both sides, and the nation holds it no sin to tar them to controversy. There was, for a while, no money bid for argument unless the poet and the player went to cuffs in the question."
+    m:
+      - "There’s been a whole debate on the topic. For a while, no play was sold to the theaters without a big fight between the children’s playwright and the actors playing adult roles."
+
+  - sp: HAMLET
+    o:
+      - "Is ’t possible?"
+    m:
+      - "Are you kidding?"
+
+  - sp: GUILDENSTERN
+    o:
+      - "Oh, there has been much throwing about of brains."
+    m:
+      - "Oh, there’s been a lot of quarreling."
+
+  - sp: HAMLET
+    o:
+      - "Do the boys carry it away?"
+    m:
+      - "And the boys are winning so far?"
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Ay, that they do, my lord. Hercules and his load too."
+    m:
+      - "Yes, they are, my lord—little boys are carrying the whole theater on their backs, like Hercules carried the world."
+
+  - sp: HAMLET
+    o:
+      - "It is not very strange. For my uncle is King of Denmark, and those that would make mouths at him while my father lived give twenty, forty, fifty, a hundred ducats apiece for his picture in little. ’Sblood, there is something in this more than natural, if philosophy could find it out."
+    m:
+      - "Actually, it’s not so unusual when you think about it. My uncle is king of Denmark, and the same people who made fun of him while my father was still alive are now rushing to pay twenty, forty, fifty, a hundred ducats apiece for miniature portraits of him. There’s something downright unnatural about it, if a philosopher stopped to think about it."
+
+  - os: "Flourish for the PLAYERS within"
+    ms: "Trumpets play offstage, announcing the arrival of thePLAYERS."
+
+  - sp: GUILDENSTERN
+    o:
+      - "There are the players."
+    m:
+      - "The actors are here."
+
+  - sp: HAMLET
+    o:
+      - "Gentlemen, you are welcome to Elsinore. Your hands, come then. Th’ appurtenance of welcome is fashion and ceremony. Let me comply with you in this garb—lest my extent to the players, which, I tell you, must show fairly outwards, should more appear like entertainment than yours. You are welcome. But my uncle-father and aunt-mother are deceived."
+    m:
+      - "Gentlemen, welcome to Elsinore. Don’t be shy—shake hands with me. If I’m going to welcome you I have to go through all these polite customs, don’t I? And if we don’t shake hands, when I act all nice to the players it will seem like I’m happier to see them than you. You are very welcome here. But still, my uncle-father and aunt-mother have got the wrong idea."
+
+  - sp: GUILDENSTERN
+    o:
+      - "In what, my dear lord?"
+    m:
+      - "In what sense, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "I am but mad north-north-west. When the wind is southerly, I know a hawk from a handsaw."
+    m:
+      - "I’m only crazy sometimes. At other times, I know what’s what."
+
+  - os: "Enter POLONIUS"
+    ms: "POLONIUS enters."
+
+  - sp: POLONIUS
+    o:
+      - "Well be with you, gentlemen."
+    m:
+      - "Gentlemen, I hope you are well."
+
+  - sp: HAMLET
+    o:
+      - "Hark you, Guildenstern, and you too—at each ear a hearer. *(indicates POLONIUS)* That great baby you see there is not yet out of his swaddling-clouts"
+    m:
+      - "Listen, Guildenstern, and you too, Rosencrantz—listen as close as you can! *(he gestures toward POLONIUS)* This big baby is still in diapers."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Happily he’s the second time come to them, for they say an old man is twice a child."
+    m:
+      - "Yes, the second time around, since, as they say, old people become children again."
+
+  - sp: HAMLET
+    o:
+      - "*(aside to ROSENCRANTZ and GUILDENSTERN)* I will prophesy he comes to tell me of the players. Mark it. *(to POLONIUS)*— You say right, sir. O’ Monday morning, ’twas so indeed."
+    m:
+      - "*(whispering to ROSENCRANTZ and GUILDENSTERN)* I bet he’s coming to tell me about the actors; just watch. *(to POLONIUS)* You’re right, sir, that happened on Monday morning."
+
+  - sp: POLONIUS
+    o:
+      - "My lord, I have news to tell you."
+    m:
+      - "My lord, I have news for you."
+
+  - sp: HAMLET
+    o:
+      - "My lord, I have news to tell you. When Roscius was an actor in Rome—"
+    m:
+      - "My lord, I have news for you. When Roscius was an actor in ancient Rome —"
+
+  - sp: POLONIUS
+    o:
+      - "The actors are come hither, my lord."
+    m:
+      - "The actors have arrived, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Buzz, buzz."
+    m:
+      - "Yawn, snore."
+
+  - sp: POLONIUS
+    o:
+      - "Upon my honor—"
+    m:
+      - "I swear—"
+
+  - sp: HAMLET
+    o:
+      - "Then came each actor on his ass—"
+    m:
+      - "—each actor arrived on his ass."
+
+  - sp: POLONIUS
+    o:
+      - "The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited. Seneca cannot be too heavy, nor Plautus too light. For the law of writ and the liberty, these are the only men."
+    m:
+      - "They are the best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical, one-act plays, or long poems. The tragic playwright Seneca is not too heavy for them to handle nor is the comic writer Plautus too light. For formal plays or freer dramas, these are the best actors around."
+
+  - sp: HAMLET
+    o:
+      - "O Jephthah, judge of Israel, what a treasure hadst thou!"
+    m:
+      - "Oh, Jephthah, judge of ancient Israel, what a treasure you had!"
+
+  - sp: POLONIUS
+    o:
+      - "What a treasure had he, my lord?"
+    m:
+      - "What treasure did he have, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "Why,"
+      - "  *One fair daughter and no more*,"
+      - "  *The which he lovèd passing well*."
+    m:
+      - "Well, *(sings)*"
+      - "  *One fine daughter, and no more*,"
+      - "  *Whom he loved more than anything*—."
+
+  - sp: POLONIUS
+    o:
+      - "*(aside)* Still on my daughter."
+    m:
+      - "*(to himself)* Still talking about my daughter, I see."
+
+  - sp: HAMLET
+    o:
+      - "Am I not i’ th’ right, old Jephthah?"
+    m:
+      - "Aren’t I right, Jephthah, old man?"
+
+  - sp: POLONIUS
+    o:
+      - "If you call me Jephthah, my lord, I have a daughter that I love passing well."
+    m:
+      - "If you’re calling me Jephthah, my lord, I do have a daughter I love more than anything, yes."
+
+  - sp: HAMLET
+    o:
+      - "Nay, that follows not."
+    m:
+      - "No, that’s not logical."
+
+  - sp: POLONIUS
+    o:
+      - "What follows, then, my lord?"
+    m:
+      - "What is logical, then, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "Why,"
+      - "  *As by lot, God wot,*"
+      - "and then, you know,"
+      - "  *It came to pass, as most like it was—*"
+      - "the first row of the pious chanson will show you more, for look where my abridgement comes."
+    m:
+      - "Why,"
+      - "  *As if by chance, God knows*,"
+      - "and then, you know,"
+      - "  *It happened, as you’d expect*—"
+      - "If you want to know more, you can refer to the popular song, because now I have to stop."
+
+  - os: "Enter the PLAYERS"
+    ms: "The PLAYERS enter."
+
+  - o:
+      - "You are welcome, masters, welcome, all!—I am glad to see thee well.—Welcome, good friends.—O old friend? Why, thy face is valenced since I saw thee last. Comest thou to beard me in Denmark?—What, my young lady and mistress! By ’r Lady, your ladyship is nearer to heaven than when I saw you last, by the altitude of a chopine. Pray God, your voice, like a piece of uncurrent gold, be not cracked within the ring.—Masters, you are all welcome. We’ll e’en to ’t like French falconers, fly at any thing we see. We’ll have a speech straight. Come, give us a taste of your quality. Come, a passionate speech."
+    m:
+      - "Welcome, welcome to all of you. *(he turns to one of the actors)*—Oh, you, I’m glad to see you. *(turns back to all of them)*—Welcome, my good friends. *(turns to another actor)*—Oh, it’s you! You’ve grown a beard since I saw you last. Are you going to put a beard on me too?*(turns to an actor dressed as a woman)*—Well hello, my young lady friend. You’ve grown as much as the height of a pair of platform shoes at least! I hope your voice hasn’t changed yet. *(to the whole company)*—All of you are most welcome here. We’ll get right to business. First, a speech. Come on, give us a little speech to whet our appetites. A passionate speech, please."
+
+  - sp: FIRST PLAYER
+    o:
+      - "What speech, my good lord?"
+    m:
+      - "Which speech, my lord?"
+
+  - sp: HAMLET
+    o:
+      - "I heard thee speak me a speech once, but it was never acted. Or, if it was, not above once, for the play, I remember, pleased not the million. ’Twas caviary to the general. But it was—as I received it, and others, whose judgments in such matters cried in the top of mine—an excellent play, well digested in the scenes, set down with as much modesty as cunning. I remember, one said there were no sallets in the lines to make the matter savory, nor no matter in the phrase that might indict the author of affectation, but called it an honest method, as wholesome as sweet, and by very much more handsome than fine. One speech in it I chiefly loved. ’Twas Aeneas’ tale to Dido and thereabout of it, especially where he speaks of Priam’s slaughter. If it live in your memory, begin at this line—Let me see, let me see—"
+      - "*The rugged Pyrrhus, like th’ Hyrcanian beast*—"
+      - "It is not so. It begins with Pyrrhus—"
+      - "*The rugged Pyrrhus, he whose sable arms*,"
+      - "*Black as his purpose, did the night resemble*"
+      - "*When he lay couchèd in the ominous horse*,"
+      - "*Hath now this dread and black complexion smeared*"
+      - "*With heraldry more dismal. Head to foot*"
+      - "*Now is he total gules, horridly tricked*"
+      - "*With blood of fathers, mothers, daughters, sons*,"
+      - "*Baked and impasted with the parching streets*,"
+      - "*That lend a tyrannous and damnèd light*"
+      - "*To their lord’s murder. Roasted in wrath and fire*,"
+      - "*And thus o’ersizèd with coagulate gore*,"
+      - "*With eyes like carbuncles, the hellish Pyrrhus*"
+      - "*Old grandsire Priam seeks*."
+      - "So, proceed you."
+    m:
+      - "I heard you recite a speech for me once that was never acted out, or if it was, it was performed only once, since the play was not popular—like caviar for a slob who couldn’t appreciate it. But the critics and I found it to be an excellent play, with well-ordered scenes that were clever but not fancy. I remember one critic said there was no vulgar language to spice up the dialogue, and showing off on playwright’s part. That critic called it an excellent play, containing things to reflect upon as well as sweet music to enjoy. I loved one speech in particular. It was when Aeneas told Dido about Priam’s murder. If you happen to remember this scene, begin at line—let me see, how does it go?"
+      - "  *The ruggedPyrrhus,strong as a tiger—*"
+      - "No, that’s wrong; it begins like this:"
+      - "  *Savage Pyrrhus, whose black armor was*"
+      - "  *As dark plans, and was like the night*"
+      - "  *When he crouched inside the Trojan Horse*,"
+      - "  *Has now smeared his dark armor*"
+      - "  *With something worse. From head to foot*"
+      - "  *He’s now covered in red, decorated horribly*"
+      - "  *With the blood of fathers, mothers, daughters, sons*."
+      - "  *The blood is baked to a paste by fires he set in the streets*,"
+      - "  *Fires that lend a terrible light to his horrible murders*."
+      - "  *Boiling with anger and fire*,"
+      - "  *And coated thick with hard-baked blood*,"
+      - "  *His eyes glowing like rubies, the hellish Pyrrhus*"
+      - "  *Goes looking for grandfather Priam*."
+      - "Sir, take it from there."
+
+  - sp: POLONIUS
+    o:
+      - "’Fore God, my lord, well spoken, with good accent and good discretion."
+    m:
+      - "My God, that was well done, my lord, with the right accent and a good ear."
+
+  - sp: FIRST PLAYER
+    o:
+      - "    *Anon he finds him*"
+      - "*Striking too short at Greeks. His antique sword*,"
+      - "*Rebellious to his arm, lies where it falls*,"
+      - "*Repugnant to command. Unequal matched*,"
+      - "*Pyrrhus at Priam drives, in rage strikes wide*,"
+      - "*But with the whiff and wind of his fell sword*"
+      - "*The unnerved father falls. Then senseless Ilium*,"
+      - "*Seeming to feel this blow, with flaming top*"
+      - "*Stoops to his base, and with a hideous crash*"
+      - "*Takes prisoner Pyrrhus’ ear. For, lo, his sword*,"
+      - "*Which was declining on the milky head*"
+      - "*Of reverend Priam, seemed i’ th’ air to stick*."
+      - "*So as a painted tyrant Pyrrhus stood*,"
+    m:
+      - "    *Soon he finds Priam*"
+      - "*Failing in his battle against the Greeks. His old sword*,"
+      - "*Which Priam cannot wield anymore, lies where it fell*."
+      - "*An unfair opponent*,"
+      - "*Pyrrhus rushes at Priam, and in his rage he misses;*"
+
+  - o:
+      - "*And, like a neutral to his will and matter*,"
+      - "*Did nothing*."
+      - "*But as we often see against some storm*"
+      - "*A silence in the heavens, the rack stand still*,"
+      - "*The bold winds speechless, and the orb below*"
+      - "*As hush as death, anon the dreadful thunder*"
+      - "*Doth rend the region. So, after Pyrrhus’ pause*,"
+      - "*Arousèd vengeance sets him new a-work*."
+      - "*And never did the Cyclops’ hammers fall*"
+      - "*On Mars’ armor forged for proof eterne*"
+      - "*With less remorse than Pyrrhus’ bleeding sword*"
+      - "*Now falls on Priam*."
+      - "*Out, out, thou strumpet Fortune! All you gods*"
+      - "*In general synod take away her power*,"
+      - "*Break all the spokes and fellies from her wheel*,"
+      - "*And bowl the round nave down the hill of heaven*,"
+      - "*As low as to the fiends!*"
+    m:
+      - "*But the wind created by his sword is enough to make*"
+      - "*The weakened old man fall. Just then the city of Ilium*,"
+      - "*As if feeling this fatal blow to its ruler*,"
+      - "*Collapses in flames, and the crash*"
+      - "*Captures Pyrrhus’ attention. His sword*,"
+      - "*Which was falling onto Priam’s white-haired head*"
+      - "*Seemed to hang in the air*."
+      - "*Pyrrhus stood there like a man in a painting*,"
+      - "*Doing nothing*."
+      - "*But just as a raging thunderstorm*"
+      - "*Is often interrupted by a moment’s silence*,"
+      - "*And then soon after the region is split apart by dreadful thunderclaps*,"
+      - "*In the same way, after Pyrrhus paused*,"
+      - "*His newly awakened fury set him to work again*."
+      - "*When the Cyclopses were making unbreakable armor*"
+      - "*For the god of war, their hammers never fell*"
+      - "*So mercilessly as Pyrrhus’ bloody sword*"
+      - "*Now falls on Priam*."
+      - "*Get out of here, Lady Luck, you whore! All you gods*"
+      - "*Should come together to rob her of her powers*,"
+      - "*Break all the spokes on her wheel of fortune*,"
+      - "*And send it rolling down the hills of heaven*"
+      - "*Into the depths of hell*."
+
+  - sp: POLONIUS
+    o:
+      - "This is too long."
+    m:
+      - "This speech is going on too long."
+
+  - sp: HAMLET
+    o:
+      - "It shall to the barber’s, with your beard.—Prithee, say on. He’s for a jig or a tale of bawdry, or he sleeps. Say on. Come to Hecuba."
+    m:
+      - "We’ll have the barber trim it later, along with your beard. Please, continue, players. This old man only likes the dancing or the sex scenes; he sleeps through all the rest. Go on, come to the part about Hecuba."
+
+  - sp: FIRST PLAYER
+    o:
+      - "*But who, ah woe, who had seen the moblèd queen*—"
+    m:
+      - "*But who—ah, the sadness—had seen the muffled queen—*"
+
+  - sp: HAMLET
+    o:
+      - "“The moblèd queen”?"
+    m:
+      - "“The muffled queen”?"
+
+  - sp: POLONIUS
+    o:
+      - "That’s good. “Moblèd queen” is good."
+    m:
+      - "That’s good. “The muffled queen” is good."
+
+  - sp: FIRST PLAYER
+    o:
+      - "*Run barefoot up and down, threatening the flames*"
+      - "*With bisson rheum, a clout upon that head*"
+      - "*Where late the diadem stood, and for a robe*,"
+      - "*About her lank and all o’erteemèd loins*,"
+      - "*A blanket, in the alarm of fear caught up*—"
+      - "*Who this had seen, with tongue in venom steeped*,"
+      - "*’Gainst fortune’s state would treason have pronounced*."
+      - "*But if the gods themselves did see her then*"
+      - "*When she saw Pyrrhus make malicious sport*"
+      - "*In mincing with his sword her husband’s limbs*,"
+      - "*The instant burst of clamor that she made*,"
+      - "*(Unless things mortal move them not at all)*"
+      - "*Would have made milch the burning eyes of heaven*,"
+      - "*And passion in the gods*."
+    m:
+      - "*Running back and forth, spraying the flames with her tears, a cloth on that head where a crown had recently sat and a blanket instead of a robe wrapped around her body, which has withered from childbearing: anyone seeing her in such a state, no matter how spiteful he was, would have cursed Lady Luck for bringing her down like that. If the gods had seen her while she watched Pyrrhus chopping her husband into bits, the terrible cry she uttered would have made all the eyes in heaven burn with hot tears—unless the gods don’t care at all about human affairs*."
+
+  - sp: POLONIUS
+    o:
+      - "Look whe’e he has not turned his color and has tears in ’s eyes.—Prithee, no more."
+    m:
+      - "Look how flushed the actor is, with tears in his eyes. All right, that’s enough, please."
+
+  - sp: HAMLET
+    o:
+      - "*(to FIRST PLAYER)* ’Tis well. I’ll have thee speak out the rest soon. *(to POLONIUS)* Good my lord, will you see the players well bestowed? Do you hear, let them be well used, for they are the abstract and brief chronicles of the time. After your death you were better have a bad epitaph than their ill report while you live."
+    m:
+      - "*(to FIRST PLAYER)* Very fine. I’ll have you perform the rest of it soon. *(to POLONIUS)*—My lord, will you make sure the actors are made comfortable? Make sure you’re good to them, since what they say about us later will go down in history. It’d be better to have a bad epitaph on our graves than to have their ill will while we’re alive."
+
+  - sp: POLONIUS
+    o:
+      - "My lord, I will use them according to their desert."
+    m:
+      - "My lord, I will give them all they deserve."
+
+  - sp: HAMLET
+    o:
+      - "God’s bodykins, man, much better. Use every man after his desert, and who should ’scape whipping? Use them after your own honor and dignity. The less they deserve, the more merit is in your bounty. Take them in."
+    m:
+      - "Good heavens, man, give them more than that! If you pay everyone what they deserve, would anyone ever escape a whipping? Treat them with honor and dignity. The less they deserve, the more your generosity is worth. Lead them inside."
+
+  - sp: POLONIUS
+    o:
+      - "Come, sirs."
+    m:
+      - "Come, everyone."
+
+  - sp: HAMLET
+    o:
+      - "Follow him, friends. We’ll hear a play tomorrow. *(to FIRST PLAYER)*— Dost thou hear me, old friend? Can you play *TheMurder of Gonzago*?"
+    m:
+      - "Follow him, friends. We’ll watch a whole play tomorrow. *(to FIRST PLAYER)* My friend, can you perform *The Murder of Gonzago*?"
+
+  - sp: FIRST PLAYER
+    o:
+      - "Ay, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: HAMLET
+    o:
+      - "We’ll ha ’t tomorrow night. You could, for a need, study a speech of some dozen or sixteen lines which I would set down and insert in ’t, could you not?"
+    m:
+      - "Then we’ll see that tomorrow night. By the way, if I were to compose an extra speech of twelve to sixteen lines and stick it into the play, you could learn it by heart for tomorrow, right?"
+
+  - sp: FIRST PLAYER
+    o:
+      - "Ay, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Very well. Follow that lord, and look you mock him not."
+    m:
+      - "Very well. Follow that gentleman now, and be careful not to make fun of him."
+
+  - os: "Exeunt POLONIUS and the PLAYERS"
+    ms: "POLONIUS and the PLAYERS exit."
+
+  - o:
+      - "My good friends, I’ll leave you till night. You are welcome to Elsinore."
+    m:
+      - "My good friends, I’ll see you tomorrow. Welcome to Elsinore."
+
+  - sp: ROSENCRANTZ
+    o:
+      - "Good my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: HAMLET
+    o:
+      - "Ay, so. Good-bye to you."
+    m:
+      - "Ah yes, good-bye to you both."
+
+  - os: "Exeunt ROSENCRANTZ and GUILDENSTERN"
+    ms: "ROSENCRANTZ and GUILDENSTERN exit."
+
+  - o:
+      - "    Now I am alone."
+      - "Oh, what a rogue and peasant slave am I!"
+      - "Is it not monstrous that this player here,"
+      - "But in a fiction, in a dream of passion,"
+      - "Could force his soul so to his own conceit"
+      - "That from her working all his visage wanned,"
+      - "Tears in his eyes, distraction in his aspect,"
+      - "A broken voice, and his whole function suiting"
+      - "With forms to his conceit? And all for nothing—"
+      - "For Hecuba!"
+      - "What’s Hecuba to him or he to Hecuba"
+      - "That he should weep for her? What would he do"
+      - "Had he the motive and the cue for passion"
+      - "That I have? He would drown the stage with tears"
+      - "And cleave the general ear with horrid speech,"
+      - "Make mad the guilty and appall the free,"
+      - "Confound the ignorant, and amaze indeed"
+      - "The very faculties of eyes and ears. Yet I,"
+      - "A dull and muddy-mettled rascal, peak"
+      - "Like John-a-dreams, unpregnant of my cause,"
+      - "And can say nothing—no, not for a king,"
+      - "Upon whose property and most dear life"
+      - "A damned defeat was made. Am I a coward?"
+      - "Who calls me “villain”? Breaks my pate across?"
+      - "Plucks off my beard and blows it in my face?"
+      - "Tweaks me by the nose? Gives me the lie i’ th’ throat"
+      - "As deep as to the lungs? Who does me this?"
+      - "Ha!"
+      - "’Swounds, I should take it, for it cannot be"
+      - "But I am pigeon-livered and lack gall"
+      - "To make oppression bitter, or ere this"
+      - "I should have fatted all the region kites"
+      - "With this slave’s offal. Bloody, bawdy villain!"
+      - "Remorseless, treacherous, lecherous, kindless villain!"
+      - "O vengeance!"
+      - "Why, what an ass am I! This is most brave,"
+      - "That I, the son of a dear father murdered,"
+      - "Prompted to my revenge by heaven and hell,"
+      - "Must, like a whore, unpack my heart with words"
+      - "And fall a-cursing like a very drab,"
+      - "A scullion! Fie upon ’t, foh!"
+      - "About, my brain.—Hum, I have heard"
+      - "That guilty creatures sitting at a play"
+      - "Have, by the very cunning of the scene,"
+      - "Been struck so to the soul that presently"
+      - "They have proclaimed their malefactions."
+      - "For murder, though it have no tongue, will speak"
+      - "With most miraculous organ. I’ll have these players"
+      - "Play something like the murder of my father"
+      - "Before mine uncle. I’ll observe his looks."
+      - "I’ll tent him to the quick. If he do blench,"
+      - "I know my course. The spirit that I have seen"
+      - "May be the devil, and the devil hath power"
+      - "T’ assume a pleasing shape. Yea, and perhaps"
+      - "Out of my weakness and my melancholy,"
+      - "As he is very potent with such spirits,"
+      - "Abuses me to damn me. I’ll have grounds"
+      - "More relative than this. The play’s the thing"
+      - "Wherein I’ll catch the conscience of the king."
+    m:
+      - "Now I’m alone. Oh, what a mean low-life I am! It’s awful that this actor could force his soul to feel made-up feelings in a work of make-believe. He grew pale, shed real tears, became overwhelmed, his voice breaking with feeling and his whole being, even, meeting the needs of his act—and all for nothing. For Hecuba! What is Hecuba to him, or he to Hecuba, that he would weep for her? Just imagine what he would do if he had the cause for feeling that I do. He would drown the stage with his tears and burst the audience’s ears with his terrible words, drive the guilty spectators crazy, terrify the innocent ones, confuse the ignorant ones, and astound absolutely everyone’s eyes and ears. But what do I, a grim and uncourageous rascal, do? Mope around like a dreamer, not even bothering with plans for revenge, and I can say nothing—nothing at all—on behalf of a king whose dear life was stolen. Am I a coward? Is there anyone out there who’ll call me “villain” and slap me hard? Pull off my beard? Pinch my nose? Call me the worst liar? By God, if someone would do that to me, I’d take it, because I’m a lily-livered man—otherwise, I would’ve fattened up the local vultures with the intestines of that low-life king a long time ago. Bloody, inhuman villain! Remorseless, treacherous, sex-obsessed, unnatural villain! Ah, revenge! What an ass I am. I’m so damn brave. My dear father’s been murdered, and I’ve been urged to seek revenge by heaven and hell, and yet all I can do is stand around cursing like a whore in the streets. Damn it! I need to get myself together here! Hmm…. I’ve heard that guilty people watching a play have been so affected by the artistry of the scene that they are driven to confess their crimes out loud. Murder has no tongue, but miraculously it still finds a way to speak. I’ll have these actors perform something like my father’s murder in front of my uncle. I’ll watch my uncle. I’ll probe his conscience and see if he flinches. If he becomes pale, I know what to do. The ghost I saw may be the devil, and the devil has the power to assume a pleasing disguise, and so he may be taking advantage of my weakness and sadness to bring about my damnation. I need better evidence than the ghost to work with. The play’s the thing to uncover the conscience of the king."
+
+  - os: "Exit"
+    ms: "HAMLET exits."

@@ -1,0 +1,1143 @@
+play: Henry IV, Part II
+title: Act 2, Scene 4
+group: 2
+order: 7
+text:
+  - os: "Enter two DRAWERS"
+    ms: "Two DRAWERS enter."
+
+  - sp: FRANCIS
+    o:
+      - "What the devil hast thou brought there—applejohns? Thou"
+      - "knowest Sir John cannot endure an applejohn."
+    m:
+      - "What the hell have you got there? Apple johns? You know Sir John can’t stand apple johns."
+
+  - sp: SECOND DRAWER
+    o:
+      - "Mass, thou sayest true. The Prince once set a dish of"
+      - "applejohns before him and told him there were five more Sir"
+      - "Johns and, putting off his hat, said “I will now take my leave"
+      - "of these six dry, round, old, withered knights.” It angered"
+      - "him to the heart. But he hath forgot that."
+    m:
+      - "Damn, you’re right. One day the Prince put a plate of apple-johns in front of Falstaff and said, “Here are five more Sir Johns.” Then the Prince took off his hat and said, “I’m now going to bid farewell to these six dry, round, old, withered knights.” It angered Sir John deeply, but he got over it."
+
+  - sp: FRANCIS
+    o:
+      - "Why then, cover, and set them down, and see if thou canst"
+      - "find out Sneak’s noise. Mistress Tearsheet would fain hear"
+      - "some music."
+    m:
+      - "Well then, put the table cloth on and set the dish down. Go see if you can find Sneak’s band of musicians. Mistress Tearsheet wants to hear some music."
+
+  - os: "Enter THIRD DRAWER"
+    ms: "Enter THIRD DRAWER"
+
+  - sp: THIRD DRAWER
+    o:
+      - "Dispatch: the room where they supped is too hot. They’ll"
+      - "come in straight."
+    m:
+      - "Hurry! The room they ate in was too hot, and they’ll be here any minute."
+
+  - sp: FRANCIS
+    o:
+      - "Sirrah, here will be the Prince and Master Poins anon, and"
+      - "they will put on two of our jerkins and aprons, and Sir John"
+      - "must not know of it. Bardolph hath brought word."
+    m:
+      - "Sirrah, the Prince and Poins will be here soon. They’re going to put on a couple of our jackets and aprons. Sir John can’t know it’s them. Bardolph came and told me."
+
+  - sp: THIRD DRAWER
+    o:
+      - "By the Mass, here will be old utis. It will be an excellent"
+      - "stratagem."
+    m:
+      - "Well, there’s going to be hilarity here! What a great scheme!"
+
+  - sp: SECOND DRAWER
+    o:
+      - "I’ll see if I can find out Sneak."
+    m:
+      - "I’ll see if I can find Sneak."
+
+  - os: "FRANCIS and THE DRAWERS exit"
+    ms: "The DRAWERS exit."
+
+  - os: "Enter MISTRESS QUICKLY and DOLL TEARSHEET"
+    ms: "MISTRESS QUICKLY and DOLL TEARSHEET enter."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "I’ faith, sweetheart, methinks now you are in an excellent"
+      - "good temperality. Your pulsidge beats as extraordinarily as"
+      - "heart would desire, and your color, I warrant you, is as red"
+      - "as any rose, in good truth, la. But, i’ faith, you have drunk"
+      - "too much canaries, and that’s a marvellous searching wine,"
+      - "and it perfumes the blood ere one can say “What’s this?”"
+      - "How do you now?"
+    m:
+      - "I swear, sweetheart, you seem to be in a great temporality. Your pulsidge is beating as strongly as you could want, and your color is as red as a rose; truly! But seriously, I do think you’ve drank too much of that sweet wine from the Canary Islands—it’s a mighty powerful drink, and it’ll get into your blood faster than you can say, “What’s this?” How are you feeling now?"
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Better than I was. Hem."
+    m:
+      - "Better than I was before. *(she coughs or belches)*"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Why, that’s well said. A good heart’s worth gold."
+      - "Lo, here comes Sir John."
+    m:
+      - "Well said! A healthy heart is worth its weight in gold. Look, here comes Sir John."
+
+  - os: "Enter FALSTAFF"
+    ms: "FALSTAFF enters."
+
+  - sp: FALSTAFF
+    o:
+      - "*(sings) When Arthur first in court*—Empty the jordan."
+      - "*(sings) And was a worthy king—*How now, Mistress Doll?"
+    m:
+      - "*(singing)* “When Arthur first in court”—somebody empty the chamber pot! “And was a worthy king”—how are you, Mistress Doll?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Sick of a calm, yea, good faith."
+    m:
+      - "She’s sick of a qualm, she is."
+
+  - sp: FALSTAFF
+    o:
+      - "So is all her sect. An they be once in a calm, they are sick."
+    m:
+      - "That’s how all the women in her profession are. As soon as they’re calm—and not in someone’s bed—they get sick."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "A pox damn you, muddy rascal. Is that all the comfort you"
+      - "give me?"
+    m:
+      - "You stupid bastard. Is this how you make me feel better?"
+
+  - sp: FALSTAFF
+    o:
+      - "You make fat rascals, Mistress Doll."
+    m:
+      - "You make fat bastards, Mistress Doll."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "I make them? Gluttony and diseases make them; I make"
+      - "them not."
+    m:
+      - "I make them fat? Gluttony and disease will make men fat; I have nothing to do with it."
+
+  - sp: FALSTAFF
+    o:
+      - "If the cook help to make the gluttony, you help to make the"
+      - "diseases, Doll. We catch of you, Doll, we catch of you. Grant"
+      - "that, my poor virtue, grant that."
+    m:
+      - "Well, cooks help create gluttony, by making and selling food—the object of gluttony. And you help create diseases, Doll. We catch them from you, Doll, we catch them from you: admit it."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Yea, joy, our chains and our jewels."
+    m:
+      - "Sure, sweetheart. You catch us by the chains and the jewels, and then you steal them from us."
+
+  - sp: FALSTAFF
+    o:
+      - "Your broaches, pearls, and ouches—for to serve bravely is"
+      - "to come halting off, you know; to come off the breach with"
+      - "his pike bent bravely, and to surgery bravely, to venture upon"
+      - "the charged chambers bravely—"
+    m:
+      - "“Your brooches, pearls, and gems”—We fight bravely and then come away limping. We retreat from the breach in the wall with our weapons bravely bent. We head off to the doctor, bravely. And then we charge into the loaded chambers again, bravely."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Hang yourself, you muddy conger, hang yourself!"
+    m:
+      - "Drop dead, you filthy eel. Drop dead!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "By my troth, this is the old fashion. You two never meet but"
+      - "you fall to some discord. You are both, i’ good truth, as"
+      - "rheumatic as two dry toasts. You cannot one bear with"
+      - "another’s confirmities. What the good-year! One must bear,"
+      - "and that must be you. You are the weaker vessel, as they say,"
+      - "the emptier vessel."
+    m:
+      - "I swear, this is how it always is. You two even see each other without fighting. You’re as hot as dry toast, you can’t stand each other’s bad qualities. Good grief! But one of you has to bear the burden, and that’s you, Doll. You’re the weaker sex, the empty vessel."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Can a weak empty vessel bear such a huge full hogshead?"
+      - "There’s a whole merchant’s venture of Bourdeaux stuff in"
+      - "him. You have not seen a hulk better stuffed in the hold.—"
+      - "ome, I’ll be friends with thee, Jack. Thou art going to the"
+      - "wars, and whether I shall ever see thee again or no, there is"
+      - "nobody cares."
+    m:
+      - "Can a weak, empty vessel bear the burden of such a huge, full barrel? There’s a whole merchant’s stock of Bordeaux wine in him; you’ve never seen a ship with a fuller cargo hold. Come, Jack, I’ll be friends with you. You’re going off to war, and whether or not I ever see you again—well, who cares."
+
+  - os: "Enter FIRST DRAWER"
+    ms: "The FIRST DRAWER enters."
+
+  - sp: FIRST DRAWER
+    o:
+      - "Sir, Ancient Pistol’s below and would speak with"
+      - "you."
+    m:
+      - "Sir, Ensign Pistol’s downstairs. He wants to talk with you."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Hang him, swaggering rascal! Let him not come hither. It is"
+      - "the foul-mouthed’st rogue in England."
+    m:
+      - "Let him drop dead, that hot-tempered jerk! Don’t let him in: he’s got the foulest mouth in England."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "If he swagger, let him not come here. No, by my faith, I must"
+      - "live among my neighbors. I’ll no swaggerers: I am in good"
+      - "name and fame with the very best. Shut the door. There"
+      - "comes no swaggerers here. I have not lived all this while to"
+      - "have swaggering now. Shut the door, I pray you."
+    m:
+      - "If he’s going to make trouble, don’t let him in. No way; I have my neighbors to think about. I’ll have no troublemakers here. I’ve got my good reputation to watch out for. Shut the doors; no troublemakers are getting in here. I haven’t lived this long to have trouble now. Shut the doors, please."
+
+  - sp: FALSTAFF
+    o:
+      - "Dost thou hear, hostess?"
+    m:
+      - "Do you hear, hostess?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Pray you pacify yourself, Sir John. There comes no swaggerers"
+      - "here."
+    m:
+      - "Please, be quiet a second, Sir John. No troublemakers are coming in here."
+
+  - sp: FALSTAFF
+    o:
+      - "Dost thou hear? It is mine ancient."
+    m:
+      - "Didn’t you hear? It’s my ensign."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Tilly-vally, Sir John, ne’er tell me. And your ancient"
+      - "swaggerer comes not in my doors. I was before Master"
+      - "Tisick, the debuty t’ other day, and, as he said to me—’twas"
+      - "no longer ago than Wednesday last, i’ good faith—"
+      - "“Neighbour Quickly,” says he—Master Dumb, our minister,"
+      - "was by then—“Neighbour Quickly,” says he, “receive those"
+      - "that are civil, for,” said he, “you are in an ill name.” Now he"
+      - "said so, I can tell whereupon. “For,” says he, “you are an"
+      - "honest woman, and well thought on. Therefore take heed"
+      - "what guests you receive. Receive,” says he, “no swaggering"
+      - "companions.” There comes none here. You would bless you"
+      - "to hear what he said. No, I’ll no swaggerers."
+    m:
+      - "Oh fiddlesticks, Sir John, I don’t want to hear it. Your Ensign Troublemaker is not coming in here. I talked to Master Tisick, the deputy, the other day. And he said to me—it couldn’t have been longer ago than last Wednesday—“I swear, neighbor Quickly,” he said. (Master Dumbe, the minister, was here at the time.) “Neighbor Quickly,” he said, “only let in people who are well behaved, because,” he said, “your reputation is suffering.” He said that, and I’ll tell you why. “You’re an honest woman, and people think highly of you. So think about who you let in. Don’t let in,” he said, “any troublemakers.” And none are getting in. You’d be lucky if you heard what he said. No way, no troublemakers."
+
+  - sp: FALSTAFF
+    o:
+      - "He’s no swaggerer, hostess, a tame cheater, i’ faith. You may"
+      - "stroke him as gently as a puppy greyhound. He’ll not"
+      - "swagger with a Barbary hen if her feathers turn back in any"
+      - "show of resistance.—Call him up, drawer."
+    m:
+      - "He’s not a troublemaker, hostess. He’s a harmless cheater; you can pet him like a little puppy. He wouldn’t even start a fight with a guinea-hen, if her feathers stood up in annoyance. Get him up here, drawer."
+
+  - os: "Exit FIRST DRAWER"
+    ms: "FIRST DRAWER exits."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "“Cheater,” call you him? I will bar no honest man my house,"
+      - "nor no cheater, but I do not love swaggering. By my troth,"
+      - "I am the worse when one says “swagger.” Feel, masters, how"
+      - "I shake; look you, I warrant you."
+    m:
+      - "You call him a cheater? I won’t keep an honest man out of this bar, so I won’t keep a cheater out, either. But I don’t like troublemakers, I swear. I get sick when I hear the word, “troublemaker.” Feel, masters: I’m shaking. Look, I’m telling you."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "So you do, hostess."
+    m:
+      - "You are shaking."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Do I? Yea, in very truth, do I, an ’twere an aspen leaf. I"
+      - "cannot abide swaggerers."
+    m:
+      - "I am?—I am! I swear, I’m shaking like a big tree leaf. I can’t stand troublemakers."
+
+  - os: "Enter PISTOL, BARDOLPH, and the PAGE"
+    ms: "PISTOL, BARDOLPH, and the PAGE enter."
+
+  - sp: PISTOL
+    o:
+      - "God save you, Sir John."
+    m:
+      - "Good to see you, Sir John!"
+
+  - sp: FALSTAFF
+    o:
+      - "Welcome, Ancient Pistol. Here, Pistol, I charge you with a"
+      - "cup of sack. Do you discharge upon mine hostess."
+    m:
+      - "Welcome, Ensign Pistol. Here, Pistol. I charge you with a glass of wine. Now discharge on the hostess."
+
+  - sp: PISTOL
+    o:
+      - "I will discharge upon her, Sir John, with two bullets."
+    m:
+      - "I’ll unload two big bullets on her, Sir John."
+
+  - sp: FALSTAFF
+    o:
+      - "She is pistol-proof. Sir, you shall not hardly offend her."
+    m:
+      - "She’s Pistol-proof, sir. You’ll hardly be able to injure her."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Come, I’ll drink no proofs nor no bullets. I’ll drink no more"
+      - "than will do me good, for no man’s pleasure, I."
+    m:
+      - "I won’t have any proofs or any bullets. I won’t drink any more than I feel like, not for any man."
+
+  - sp: PISTOL
+    o:
+      - "Then to you, Mistress Dorothy! I will charge you."
+    m:
+      - "Then here’s to you, Mistress. Dorothy, I’ll charge you."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Charge me! I scorn you, scurvy companion. What, you poor,"
+      - "base, rascally, cheating lack-linen mate! Away, you mouldy"
+      - "rogue, away! I am meat for your master."
+    m:
+      - "Charge me? Get lost, you sick jerk. What? You broke, rude, scheming, cheating, shirtless fool! Get away from me, you moldy bastard, away! I’m meant for your betters."
+
+  - sp: PISTOL
+    o:
+      - "I know you, Mistress Dorothy."
+    m:
+      - "I know you, Mistress Dorothy."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Away, you cutpurse rascal, you filthy bung, away! By this"
+      - "wine, I’ll thrust my knife in your mouldy chaps an you play"
+      - "the saucy cuttle with me. Away, you bottle-ale rascal, you"
+      - "basket-hilt stale juggler, you. Since when, I pray you, sir?"
+      - "God’s light, with two points on your shoulder? Much!"
+    m:
+      - "Get away, you pickpocket rascal! You dirty thief, away! I swear on this wine, I’ll stick a knife in your rotten cheeks if you keep abusing me like this. Out, you boozy rascal! You imposter of a solider! Since when are you a soldier, I ask you? With two armor tags on your shoulder? I’m sure!"
+
+  - sp: PISTOL
+    o:
+      - "God let me not live, but I will murder your ruff for this."
+    m:
+      - "I’ll strangle your neck for that, or I’ll die trying."
+
+  - sp: FALSTAFF
+    o:
+      - "No more, Pistol. I would not have you go off here. Discharge"
+      - "yourself of our company, Pistol."
+    m:
+      - "Hold it, Pistol. I don’t want you to go off here. Discharge someplace else, Pistol."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "No, good Captain Pistol, not here, sweet captain."
+    m:
+      - "No, good Captain Pistol. Not here, sweet captain."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Captain? Thou abominable damned cheater, art thou not"
+      - "ashamed to be called captain? An captains were of my mind,"
+      - "they would truncheon you out for taking their names upon"
+      - "you before you have earned them. You a captain? You slave,"
+      - "for what? For tearing a poor whore’s ruff in a bawdy house?"
+      - "He a captain! Hang him, rogue. He lives upon mouldy"
+      - "stewed prunes and dried cakes. A captain? God’s light, these"
+      - "villains will make the word as odious as the word “occupy,”"
+      - "which was an excellent good word before it was ill sorted."
+      - "Therefore captains had need look to ’t."
+    m:
+      - "Captain? You horrible, damned liar, aren’t you ashamed to be called “captain”? If captains shared my opinions, they’d beat you for taking their rank without earning it. You, a captain? You bastard, for what? For tearing a poor whore’s clothes in a whorehouse? Him, a captain? Let him drop dead, the rogue! He lives off the moldy food you find in brothels. A captain? For God’s sake! Men like him will make the word “captain” as nasty as the word “occupy,” which was a fine word before it got corrupted. Captains had better watch out."
+
+  - sp: BARDOLPH
+    o:
+      - "Pray thee go down, good ancient."
+    m:
+      - "Please, calm down, good ensign."
+
+  - sp: FALSTAFF
+    o:
+      - "Hark thee hither, Mistress Doll."
+    m:
+      - "Listen here, Mistress Doll."
+
+  - sp: PISTOL
+    o:
+      - "Not I. I tell thee what, Corporal Bardolph, I could tear her."
+      - "I’ll be revenged of her."
+    m:
+      - "Not me. I’ll tell you what, Corporal Bardolph, I could tear her. I’ll get revenge on her."
+
+  - sp: PAGE
+    o:
+      - "Pray thee go down."
+    m:
+      - "Please, calm down!"
+
+  - sp: PISTOL
+    o:
+      - "I’ll see her damned first to Pluto’s damnèd lake, by this"
+      - "hand, to th’ infernal deep with Erebus and tortures vile also."
+      - "Hold hook and line, say I. Down, down, dogs! Down, Fates!"
+      - "Have we not Hiren here?"
+    m:
+      - "I’ll see her damned first. To the waters of hell, I swear, to the endless deep, with chaos and vile tortures. Hold onto that pole, I say. Down, down, dogs! Down, fates! Here’s my sword!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Good Captain Peesell, be quiet. ’Tis very late, i’ faith. I"
+      - "beseek you now, aggravate your choler."
+    m:
+      - "Captain Pisser, be quiet! It’s late. I beg of you, stop being angry!"
+
+  - sp: PISTOL
+    o:
+      - "These be good humors indeed. Shall pack-horses"
+      - "And hollow pampered jades of Asia, which cannot go but"
+      - "  thirty mile a day,"
+      - "Compare with Caesars and with cannibals, and Troyant"
+      - "    Greeks? Nay, rather damn them with King"
+      - "  Cerberus, and let the welkin roar. Shall we fall foul"
+      - "  for toys?"
+    m:
+      - "Now we’re talking! Are we going to let old nags and pampered horses (who can’t manage more than a few miles a day) be compared with kings, and generals, and mythic heroes? No! Damn them to hell, and let the storms rage! Should we fight over nothing?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "By my troth, captain, these are very bitter words."
+    m:
+      - "My goodness, captain! Those are strong words!"
+
+  - sp: BARDOLPH
+    o:
+      - "Begone, good ancient. This will grow to a brawl anon."
+    m:
+      - "You should go now, ensign. This is going to get out of control in a minute."
+
+  - sp: PISTOL
+    o:
+      - "Die men like dogs! Give crowns like pins! Have we not"
+      - "Hiren here?"
+    m:
+      - "Let men die like dogs! Give away kings’ crowns like they’re nothing! Isn’t this a sword we have here?"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O’ my word, captain, there’s none such here. What the good-"
+      - "year, do you think I would deny her? For God’s sake, be"
+      - "quiet."
+    m:
+      - "My word of honor, captain, there’s no such thing here! For goodness sake! Do you think I’d say she’s not if she were? For God’s sake, be quiet!"
+
+  - sp: PISTOL
+    o:
+      - "Then feed and be fat, my fair Calipolis. Come, give ’s some"
+      - "sack. *Si fortune me tormente, sperato me contento.* Fear we"
+      - "broadsides? No, let the fiend give fire. Give me some sack,"
+      - "and, sweetheart, lie thou there. *(lays down his sword)* Come"
+      - "we to full points here? And are etceteras nothing?"
+    m:
+      - "Then eat and grow fat, my sweet lady! Come, bring me some wine. *Si fortuna me tormente, sperato me contento.* Are we scared of an attack? No! Let the devil open fire. Give me some wine, and darling, lie there. *(he lays his sword down)* Is the party over? What about the rest of it, the et ceteras?"
+
+  - sp: FALSTAFF
+    o:
+      - "Pistol, I would be quiet."
+    m:
+      - "Pistol, I’d be quiet if I were you."
+
+  - sp: PISTOL
+    o:
+      - "Sweet knight, I kiss thy neaf. What, we have seen the seven"
+      - "stars."
+    m:
+      - "Sweet knight, I kiss your fist. Look! It’s so late—we can see the Big Dipper out."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "For God’s sake, thrust him downstairs. I cannot endure such"
+      - "a fustian rascal."
+    m:
+      - "For God’s sake, throw him down the stairs. I can’t stand such a worthless jerk."
+
+  - sp: PISTOL
+    o:
+      - "“Thrust him downstairs”? Know we not Galloway nags?"
+    m:
+      - "Throw him down the stairs? Don’t we know a common prostitute when we see one?"
+
+  - sp: FALSTAFF
+    o:
+      - "Quoit him down, Bardolph, like a shove-groat shilling. Nay,"
+      - "an he do nothing but speak nothing, he shall be nothing here."
+    m:
+      - "Toss him down, Bardolph, like a coin on a game board. He does nothing but talk a bunch of nothing, so he’s going to count for nothing here."
+
+  - sp: BARDOLPH
+    o:
+      - "Come, get you downstairs."
+    m:
+      - "Come on. Get downstairs."
+
+  - sp: PISTOL
+    o:
+      - "What! shall we have incision? Shall we imbrue? *(snatches up his sword)* Then death rock me asleep, abridge my doleful"
+      - "days. Why then, let grievous, ghastly, gaping wounds"
+      - "untwine the Sisters Three. Come, Atropos, I say."
+    m:
+      - "What? Is there going to be cutting now? Shall we be soaked in blood? *(he grabs his sword)* Then let death sing me a lullaby; let him end my melancholy days! Let grievous, ghastly, gaping wounds unravel the thread of my life, spun by those three sisters of fate! Come, Atropos, cut off my thread!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Here’s goodly stuff toward!"
+    m:
+      - "This ought to be good."
+
+  - sp: FALSTAFF
+    o:
+      - "Give me my rapier, boy."
+    m:
+      - "Give me my sword, boy."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "I pray thee, Jack, I pray thee do not draw."
+    m:
+      - "Please, Jack, please; don’t fight!"
+
+  - sp: FALSTAFF
+    o:
+      - "Get you downstairs. *(drawing and driving PISTO out)*"
+    m:
+      - "Get downstairs! *(he draws his sword and chases PISTOL)*"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Here’s a goodly tumult. I’ll forswear keeping house afore"
+      - "I’ll be in these tirrits and frights. So, murder, I warrant now."
+      - "Alas, alas, put up your naked weapons, put up your naked"
+      - "weapons."
+    m:
+      - "This is going to be some fight! I would sooner close this bar than put up with terrors and fits. It’s murder, I swear! Oh my! Oh my! Put away your naked weapons! Put away your naked weapons!"
+
+  - os: "Exeunt PISTOL pursued by BARDOLPH"
+    ms: "PISTOL exits, pursued by BARDOLPH."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "I pray thee, Jack, be quiet. The rascal’s gone. Ah, you"
+      - "whoreson little valiant villain, you."
+    m:
+      - "Please, Jack, calm down; the jerk’s gone. Oh you son-of-a-bitch, brave little bastard, you!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Are you not hurt i’ the groin? Methought he made a shrewd thrust at your belly."
+    m:
+      - "Did he hurt you in the groin? I thought he got in a good shot at your belly."
+
+  - os: "Enter BARDOLPH"
+    ms: "BARDOLPH enters."
+
+  - sp: FALSTAFF
+    o:
+      - "Have you turned him out o’ doors?"
+    m:
+      - "Did you kick him out of here?"
+
+  - sp: BARDOLPH
+    o:
+      - "Yea, sir. The rascal’s drunk. You have hurt him, sir, i’ the shoulder."
+    m:
+      - "Yup! The jerk’s drunk. You hurt his shoulder."
+
+  - sp: FALSTAFF
+    o:
+      - "A rascal to brave me!"
+    m:
+      - "That jerk! How dare he challenge me!"
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Ah, you sweet little rogue, you. Alas, poor ape, how thou"
+      - "sweat’st! Come, let me wipe thy face. Come on, you"
+      - "whoreson chops. Ah, rogue, i’ faith, I love thee. Thou art as"
+      - "valorous as Hector of Troy, worth five of Agamemnon, and"
+      - "ten times better than the Nine Worthies. Ah, villain!"
+    m:
+      - "Oh, you sweet little rogue, you! Oh my, you poor monkey, you’re sweating! Come, let me wipe your face. Come on, you fat bastard. Oh, you rogue! I swear, I love you. You’re as brave as Hector of Troy, you’re worth five Agamemnons, and you’re ten times better than the nine wonders of the world! Oh, you villain!"
+
+  - sp: FALSTAFF
+    o:
+      - "Ah, rascally slave! I will toss the rogue in a blanket."
+    m:
+      - "The no-good jerk! I’ll wrap the rogue in a blanket, the way they punish cowards."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Do, an thou darest for thy heart. An thou dost, I’ll canvass"
+      - "thee between a pair of sheets."
+    m:
+      - "Do it, if you dare. If you do, I’ll toss you between a pair of sheets!"
+
+  - os: "Enter musicians"
+    ms: "The musicians enter."
+
+  - sp: PAGE
+    o:
+      - "The music is come, sir."
+    m:
+      - "The music is here, sir."
+
+  - sp: FALSTAFF
+    o:
+      - "Let them play.—Play, sirs.—Sit on my knee, Doll. A rascal"
+      - "bragging slave! The rogue fled from me like quicksilver."
+    m:
+      - "Let them play. Play, sirs. Sit on my knee, Doll. A no-good, bragging jerk! The fool ran from me like quicksilver."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "I’ faith, and thou followed’st him like a church. Thou"
+      - "whoreson little tidy Bartholomew boar-pig, when wilt thou"
+      - "leave fighting a-days and foining a-nights and begin to patch"
+      - "up thine old body for heaven?"
+    m:
+      - "Truly, and you chased him like a church—slowly. You rotten little fat roasting pig! When will you stop fighting all day and thrusting all night, and start to get your body ready for its final resting place?"
+
+  - os: "Enter, behind, PRINCE HENRY and POINS, disguised as drawers"
+    ms: "Unseen, PRINCE HENRY and POINS enter, disguised as drawers."
+
+  - sp: FALSTAFF
+    o:
+      - "Peace, good Doll. Do not speak like a death’s-head; do not bid"
+      - "me remember mine end."
+    m:
+      - "Quiet, Doll. Don’t talk like a death’s-head. Don’t make me think of my own end."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Sirrah, what humor’s the Prince of?"
+    m:
+      - "Sirrah, what’s the Prince like?"
+
+  - sp: FALSTAFF
+    o:
+      - "A good shallow young fellow, he would have made a good"
+      - "pantler; he would a’ chipped bread well."
+    m:
+      - "He’s a shallow youngster. He would have made a good pantry servant: he would have been great at trimming the crusts off bread."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "They say Poins has a good wit."
+    m:
+      - "They say Poins is smart."
+
+  - sp: FALSTAFF
+    o:
+      - "He a good wit? Hang him, baboon. His wit’s as thick as"
+      - "Tewksbury mustard. There’s no more conceit in him than is"
+      - "in a mallet."
+    m:
+      - "Him, smart? Hang him, he’s a baboon! He’s as thick as mustard, and no smarter than a sledgehammer."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "Why does the Prince love him so then?"
+    m:
+      - "Then why does the Prince love him?"
+
+  - sp: FALSTAFF
+    o:
+      - "Because their legs are both of a bigness, and he plays at"
+      - "quoits well, and eats conger and fennel, and drinks off"
+      - "candles’ ends for flap-dragons, and rides the wild mare with"
+      - "the boys, and jumps upon joint stools, and swears with a"
+      - "good grace, and wears his boots very smooth, like unto the"
+      - "sign of the Leg, and breeds no bate with telling of discreet"
+      - "stories, and such other gambol faculties he has that show a"
+      - "weak mind and an able body, for the which the Prince admits"
+      - "him; for the Prince himself is such another. The weight of a"
+      - "hair will turn the scales between their avoirdupois."
+    m:
+      - "Because their legs are the same size, and he likes to play the game of quoits and eat fatty foods; and he’ll play drinking games, like dropping burning candle ends into his drinks. He plays on the see-saw with the boys, and pulls crazy stunts, and curses nicely. And his boots fit nice and smooth, just like the ones painted on the shoe store’s signs. And he doesn’t cause trouble by spilling secrets. He has all kinds of qualities associated with weak minds and healthy bodies, and that’s why the Prince keeps him around: because the Prince is exactly the same. There’s not a hair’s difference between the two of them."
+
+  - sp: PRINCE HENRY
+    o:
+      - "*(to POINS)* Would not this nave of a wheel have his ears cut off?"
+    m:
+      - "*(to POINS)* We should cut this fatso’s ears off."
+
+  - sp: POINS
+    o:
+      - "Let’s beat him before his whore."
+    m:
+      - "Let’s beat him in front of his whore."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Look whe’er the withered elder hath not his poll clawed like"
+      - "a parrot."
+    m:
+      - "Look at that old geezer having his head scratched like a parrot."
+
+  - sp: POINS
+    o:
+      - "Is it not strange that desire should so many years outlive"
+      - "performance?"
+    m:
+      - "Isn’t it odd that desire lasts so much longer than the ability to perform?"
+
+  - sp: FALSTAFF
+    o:
+      - "Kiss me, Doll."
+    m:
+      - "Kiss me, Doll."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Saturn and Venus this year in conjunction! What says th’"
+      - "almanac to that?"
+    m:
+      - "Saturn and Venus must be aligned this year! What do you think the astrological tables have to say about that?"
+
+  - sp: POINS
+    o:
+      - "And look whether the fiery trigon, his man, be not lisping to"
+      - "his master’s old tables, his notebook, his counsel keeper."
+    m:
+      - "And look. That fiery-faced Bardolph is whispering sweet nothings to Quickly, his master’s old confidante."
+
+  - sp: FALSTAFF
+    o:
+      - "*(to DOLL)* Thou dost give me flattering busses."
+    m:
+      - "*(to DOLL)* You flatter me with your kisses."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "By my troth, I kiss thee with a most constant heart."
+    m:
+      - "I swear, my kisses are heartfelt."
+
+  - sp: FALSTAFF
+    o:
+      - "I am old, I am old."
+    m:
+      - "I’m old. I’m old."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "I love thee better than I love e’er a scurvy young boy of them"
+      - "all."
+    m:
+      - "I love you more than I could love any ridiculous young man in the world."
+
+  - sp: FALSTAFF
+    o:
+      - "What stuff wilt have a kirtle of? I shall receive money o’"
+      - "Thursday; shalt have a cap tomorrow. A merry song! Come,"
+      - "it grows late. We’ll to bed. Thou ’lt forget me when I am"
+      - "gone."
+    m:
+      - "What fabric do you want a new skirt made out of? I’ll get paid on Thursday, so you’ll get a new hat tomorrow. Let’s have a happy song. It’s getting late; let’s go to bed. You’ll forget me when I’m gone."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "By my troth, thou ’lt set me a-weeping an thou sayest so."
+      - "Prove that ever I dress myself handsome till thy return. Well,"
+      - "harken a’ th’ end."
+    m:
+      - "I swear, you’ll make me cry if you talk like that. I won’t wear any beautiful clothing till you return. Well, we’ll see what happens."
+
+  - sp: FALSTAFF
+    o:
+      - "Some sack, Francis."
+    m:
+      - "Some wine, Francis."
+
+  - sp: PRINCE HENRY AND POINS
+    o:
+      - "Anon, anon, sir."
+    m:
+      - "Right away, sir!"
+
+  - os: "Coming forward"
+    ms: "PRINCE HENRY and POINS reveal themselves."
+
+  - sp: FALSTAFF
+    o:
+      - "Ha? A bastard son of the King’s?—And art not thou"
+      - "Poins his brother?"
+    m:
+      - "What! A bastard son of the King? And aren’t you Poins, his brother?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, thou globe of sinful continents, what a life dost thou"
+      - "lead?"
+    m:
+      - "Your globe, covered with continents of sin! What kind of life are you leading?"
+
+  - sp: FALSTAFF
+    o:
+      - "A better than thou. I am a gentleman. Thou art a drawer."
+    m:
+      - "A better life than you. I’m a gentleman and you’re just a drawer."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Very true, sir, and I come to draw you out by the ears."
+    m:
+      - "That’s right, sir. And I’m going to draw you out of this room by the ears."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O, the Lord preserve thy good Grace! By my troth, welcome"
+      - "to London. Now the Lord bless that sweet face of thine. O"
+      - "Jesu, are you come from Wales?"
+    m:
+      - "Oh, may God bless you, sir. I swear, welcome to London. God bless that sweet face of yours! Oh Jesus! Have you come from Wales?"
+
+  - sp: FALSTAFF
+    o:
+      - "Thou whoreson mad compound of majesty, *(indicating*"
+      - "DOLL)* by this light flesh and corrupt blood, thou art welcome."
+    m:
+      - "You son of a bitch, you insane block of royalty! *(indicating DOLL)* I swear on this piece of weak flesh and corrupt blood that you’re welcome here!"
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "How? You fat fool, I scorn you."
+    m:
+      - "What? You fat fool! The hell with you!"
+
+  - sp: POINS
+    o:
+      - "My lord, he will drive you out of your revenge and turn all"
+      - "to a merriment, if you take not the heat."
+    m:
+      - "My lord, if you don’t strike while the iron’s hot, he’ll turn everything into a joke and rob you of your chance for revenge."
+
+  - sp: PRINCE HENRY
+    o:
+      - "You whoreson candle-mine, you how vilely did you speak of"
+      - "me even now before this honest, virtuous, civil"
+      - "gentlewoman!"
+    m:
+      - "You son of a whore, you giant piece of candle wax, you said such horrible things about me just now, in front of this honest, upstanding and well-behaved lady."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "God’s blessing of your good heart, and so she is, by my troth."
+    m:
+      - "May God bless your good heart! She is all that, I swear."
+
+  - sp: FALSTAFF
+    o:
+      - "Didst thou hear me?"
+    m:
+      - "Did you hear me?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Yea, and you knew me, as you did when you ran away by"
+      - "Gad’s Hill. You knew I was at your back, and spoke it on"
+      - "purpose to try my patience."
+    m:
+      - "Yes. And you knew I was there, right? It’s just like when you ran away at Gad’s Hill : you knew I was the one who beat you, and you made up some story just to irritate me."
+
+  - sp: FALSTAFF
+    o:
+      - "No, no, no; not so. I did not think thou wast within hearing."
+    m:
+      - "No, no, no. Not at all. I had no idea you were there."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I shall drive you, then, to confess the wilfull abuse, and then"
+      - "I know how to handle you."
+    m:
+      - "Then I’m going to make you confess that you deliberately slandered me. And then I’ll know what to do next."
+
+  - sp: FALSTAFF
+    o:
+      - "No abuse, Hal, o’ mine honor, no abuse."
+    m:
+      - "No slander, Hal. On my honor, no slander."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Not to dispraise me and call me pantier and bread-chipper"
+      - "and I know not what?"
+    m:
+      - "No? To malign me, and call me a pantry servant and a bread-trimmer, and I don’t know what else?"
+
+  - sp: FALSTAFF
+    o:
+      - "No abuse, Hal."
+    m:
+      - "No slander, Hal."
+
+  - sp: POINS
+    o:
+      - "No abuse?"
+    m:
+      - "No slander?"
+
+  - sp: FALSTAFF
+    o:
+      - "No abuse, Ned, i’ th’ world, honest Ned, none. I dispraised"
+      - "him before the wicked, that the wicked might not fall in love"
+      - "with thee; in which doing, I have done the part of a careful"
+      - "friend and a true subject, and thy father is to give me thanks"
+      - "for it. No abuse, Hal.—None, Ned, none. No, faith, boys, none."
+    m:
+      - "No slander, Ned, in the world, honest Ned, none. I maligned him only to the wicked, so that the wicked wouldn’t fall in love with him. And by doing that, I’ve acted like a good friend and loyal subject, and your father should thank me for it. No slander, Hal, none, Ned. No, truly boys, none."
+
+  - sp: PRINCE HENRY
+    o:
+      - "See now whether pure fear and entire cowardice doth not"
+      - "make thee wrong this virtuous gentlewoman to close with"
+      - "us. Is she of the wicked, is thine hostess here of the wicked,"
+      - "or is thy boy of the wicked, or honest Bardolph, whose zeal"
+      - "burns in his nose, of the wicked?"
+    m:
+      - "Now your absolute fear and utter cowardliness has made you wrong this good lady in order to make peace with us. Is she wicked? Is this hostess here wicked? Is your boy here wicked? Or honest Bardolph, whose piety burns in his face? Is he wicked?"
+
+  - sp: POINS
+    o:
+      - "Answer, thou dead elm, answer."
+    m:
+      - "Answer, you withered old trunk, answer."
+
+  - sp: FALSTAFF
+    o:
+      - "The fiend hath pricked down Bardolph irrecoverable, and"
+      - "his face is Lucifer’s privy kitchen, where he doth nothing but"
+      - "roast malt-worms. For the boy, there is a good angel about"
+      - "him, but the devil outbids him too."
+    m:
+      - "The devil has marked Bardolph as long gone, and his face is Lucifer’s kitchen, where only drunks are served. As for the boy, he may have a good spirit on one shoulder, but the devil on the other is stronger."
+
+  - sp: PRINCE HENRY
+    o:
+      - "For the women?"
+    m:
+      - "And the women?"
+
+  - sp: FALSTAFF
+    o:
+      - "For one of them, she’s in hell already and burns poor souls."
+      - "For the other, I owe her money, and whether she be damned"
+      - "for that I know not."
+    m:
+      - "One of them is in hell already, where she gets poor souls hot. As for the other, I owe her money. If she’s damned for that, I have no idea."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "No, I warrant you."
+    m:
+      - "I’m not, I promise you that."
+
+  - sp: FALSTAFF
+    o:
+      - "No, I think thou art not; I think thou art quit for that. Marry,"
+      - "there is another indictment upon thee for suffering flesh to"
+      - "be eaten in thy house contrary to the law, for the which I"
+      - "think thou wilt howl."
+    m:
+      - "No, I think you’re not. I think you’ve been excused for that. But there’s another charge against you. You serve flesh in this place, and that’s against the law. You’re going to hell for that."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "All vitlars do so. What’s a joint of mutton or two in a whole"
+      - "Lent?"
+    m:
+      - "Everybody who serves food does that. What’s wrong with a bite or two of meat during Lent?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "You, gentlewoman."
+    m:
+      - "You, good lady—"
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "What says your Grace?"
+    m:
+      - "What is it, gracious sir?"
+
+  - sp: FALSTAFF
+    o:
+      - "His grace says that which his flesh rebels against."
+    m:
+      - "He may speak to you graciously, but his body feels otherwise."
+
+  - os: "Knocking within"
+    ms: "Knocking is heard offstage."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Who knocks so loud at door? Look to th’ door there, Francis."
+    m:
+      - "Who’s knocking so loudly on the door? Francis, go see."
+
+  - os: "Enter PETO"
+    ms: "PETO enters."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Peto, how now, what news?"
+    m:
+      - "Peto, how are you? What’s going on?"
+
+  - sp: PETO
+    o:
+      - "The King your father is at Westminster,"
+      - "And there are twenty weak and wearied posts"
+      - "Come from the north, and as I came along"
+      - "I met and overtook a dozen captains,"
+      - "Bareheaded, sweating, knocking at the taverns"
+      - "And asking everyone for Sir John Falstaff."
+    m:
+      - "Your father the King is in Westminster. Twenty exhausted messengers have arrived from the north. And, on my way here, I met a dozen captains, hustling and working hard, knocking on the door of every tavern and searching for Sir John Falstaff."
+
+  - sp: PRINCE HENRY
+    o:
+      - "By heaven, Poins, I feel me much to blame"
+      - "So idly to profane the precious time"
+      - "When tempest of commotion, like the south"
+      - "Borne with black vapour, doth begin to melt"
+      - "And drop upon our bare unarmèd heads.—"
+      - "Give me my sword and cloak.—Falstaff, good night."
+    m:
+      - "My God, Poins, I feel terrible wasting precious time on this idleness when a huge black storm is brewing, soon to open up on our bare, vulnerable heads. Give me my coat and my sword. Good night, Falstaff."
+
+  - os: "Exeunt PRINCE HENRY, POINS, PETO and BARDOLPH"
+    ms: "PRINCE HENRY, POINS, PETO, and BARDOLPH exit."
+
+  - sp: FALSTAFF
+    o:
+      - "Now comes in the sweetest morsel of the night, and we must hence and leave it unpicked."
+    m:
+      - "Now’s the sweetest part of the night, and we have to leave without enjoying it."
+
+  - os: "Knocking within"
+    ms: "Knocking is heard offstage."
+
+  - o:
+      - "More knocking at the door?"
+    m:
+      - "More knocking!"
+
+  - os: "Enter BARDOLPH"
+    ms: "BARDOLPH enters."
+
+  - o:
+      - "How now, what’s the matter?"
+    m:
+      - "What’s going on? What’s the matter?"
+
+  - sp: BARDOLPH
+    o:
+      - "You must away to court, sir, presently."
+      - "A dozen captains stay at door for you."
+    m:
+      - "You have to go to the royal court immediately, sir. A dozen captains are at the door waiting for you."
+
+  - sp: FALSTAFF
+    o:
+      - "*(to the PAGE)* Pay the musicians, sirrah.—Farewell,"
+      - "hostess.—Farewell, Doll. You see, my good wenches, how"
+      - "men of merit are sought after. The undeserver may sleep"
+      - "when the man of action is called on. Farewell, good"
+      - "wenches. If I be not sent away post, I will see you again ere"
+      - "I go."
+    m:
+      - "*(to the PAGE)* Pay the musicians, Sirrah. Goodbye, waitress. Goodbye, Doll. See, wenches, how wanted we valuable men are? The good-for-nothing may sleep when the man of action is needed. Farewell, good wenches. If I’m not sent away immediately, I’ll come see you again before I go."
+
+  - sp: DOLL TEARSHEET
+    o:
+      - "I cannot speak. If my heart be not ready to burst—well,"
+      - "sweet Jack, have a care of thyself."
+    m:
+      - "I can’t speak; my heart is ready to burst. Well, sweet Jack, take care of yourself."
+
+  - sp: FALSTAFF
+    o:
+      - "Farewell, farewell."
+    m:
+      - "Farewell, farewell."
+
+  - os: "Exeunt FALSTAFF, BARDOLPH, PAGE, and musicians"
+    ms: "FALSTAFF and BARDOLPH exit."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "Well, fare thee well. I have known thee these twenty-nine"
+      - "years, come peascod time, but an honester and truer-hearted"
+      - "man—well, fare thee well."
+    m:
+      - "Well, goodbye. I’ve known you twenty-nine years this June. But a more honest, more good-hearted man—well, fare you well."
+
+  - sp: BARDOLPH
+    o:
+      - "*(within)* Mistress Tearsheet!"
+    m:
+      - "*(offstage)* Mistress Tearsheet!"
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "What’s the matter?"
+    m:
+      - "What’s the matter?"
+
+  - sp: BARDOLPH
+    o:
+      - "*(within)* Bid Mistress Tearsheet come to my master."
+    m:
+      - "*(offstage)* Mistress Tearsheet, come to my master."
+
+  - sp: MISTRESS QUICKLY
+    o:
+      - "O, run, Doll, run, run, good Doll. Come.—She comes"
+      - "blubbered.—Yea! Will you come, Doll?"
+    m:
+      - "O, run, Doll, run; run, good Doll. Come.—She’s coming, all crying and blubbering.—Will you come, Doll?"
+
+  - os: "Exeunt"
+    ms: "They exit."

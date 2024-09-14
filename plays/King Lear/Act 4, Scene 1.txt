@@ -1,0 +1,256 @@
+play: King Lear
+title: Act 4, Scene 1
+group: 4
+order: 16
+text:
+  - os: "Enter EDGAR diguised"
+    ms: "EDGAR enters in disguise."
+
+  - sp: EDGAR
+    o:
+      - "Yet better thus, and known to be contemned,"
+      - "Than still contemned and flattered. To be worst,"
+      - "The lowest and most dejected thing of fortune"
+      - "Stands still in esperance, lives not in fear."
+      - "The lamentable change is from the best;"
+      - "The worst returns to laughter. Welcome, then,"
+      - "Thou unsubstantial air that I embrace!"
+      - "The wretch that thou hast blown unto the worst"
+      - "Owes nothing to thy blasts."
+    m:
+      - "Still, I’m better off now, as a beggar who is openly hated, than when I was flattered to my face hated in secret. The lowliest and most dejected creatures live without fear and still harbor hope. The worst kind of change is when good fortune turns sour. At the bottom, any change is for the better. So I welcome this wind freely. I’ve sunk as far down as I can go, so I’ve got nothing more to fear from the weather."
+
+  - os: "Enter GLOUCESTER led by an OLD MAN"
+    ms: "GLOUCESTER enters, led by an OLD MAN."
+
+  - o:
+      - "But who comes here?"
+      - "My father, poorly led? World, world, O world!"
+      - "But that thy strange mutations make us hate thee,"
+      - "Life would not yield to age."
+    m:
+      - "But who is this? My father, led by a poor peasant? Oh, life is full of surprises! We age and die because they wear us out."
+
+  - sp: OLD MAN
+    o:
+      - "*(to GLOUCESTER)*"
+      - "O my good lord,"
+      - "I have been your tenant and your father’s tenant these fourscore years."
+    m:
+      - "*(to GLOUCESTER)* My good lord, I’ve rented land from you and your father for eighty years."
+
+  - sp: GLOUCESTER
+    o:
+      - "Away, get thee away. Good friend, be gone."
+      - "Thy comforts can do me no good at all."
+      - "Thee they may hurt."
+    m:
+      - "Away, get out of here. Leave me, my friend. There’s nothing you can do to help me now, and being with me puts your life in danger."
+
+  - sp: OLD MAN
+    o:
+      - "Alack, sir, you cannot see your way."
+    m:
+      - "But you can’t see where you’re going, sir."
+
+  - sp: GLOUCESTER
+    o:
+      - "I have no way, and therefore want no eyes."
+      - "I stumbled when I saw. Full oft ’tis seen,"
+      - "Our means secure us and our mere defects"
+      - "Prove our commodities. O dear son Edgar,"
+      - "The food of thy abusèd father’s wrath,"
+      - "Might I but live to see thee in my touch,"
+      - "I’d say I had eyes again!"
+    m:
+      - "I don’t have anywhere to go, so I don’t need to see. When I could see, I didn’t always see clearly. I made mistakes, I stumbled and fell. It’s often the case that having something makes us spoiled, while not having it turns out to be advantageous. So may it be with my eyesight. Oh, my dear son Edgar, how enraged I was at you when I was deceived. If I live long enough to touch you again, that would be as good as having my eyesight back."
+
+  - sp: OLD MAN
+    o:
+      - "  How now? Who’s there?"
+    m:
+      - "Who’s that? Who’s there?"
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* O gods! Who is ’t can say “I am at the worst”?"
+      - "I am worse than e’er I was."
+    m:
+      - "*(to himself)* Oh, gods! Who can ever say, “This is as bad as it can get”? I’m worse off now than ever before."
+
+  - sp: OLD MAN
+    o:
+      - "*(to GLOUCESTER)*"
+      - "    ’Tis poor mad Tom."
+    m:
+      - "*(to GLOUCESTER)* It’s poor crazy Tom."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* And worse I may be yet. The worst is not"
+      - "So long as we can say “This is the worst.”"
+    m:
+      - "*(to himself)* And my life could still be worse. If you have the presence of mind to say, “This is the worst,” then it’s not the worst yet."
+
+  - sp: OLD MAN
+    o:
+      - "*(to EDGAR)* Fellow, where goest?"
+    m:
+      - "*(to EDGAR)* Where are you going, man?"
+
+  - sp: GLOUCESTER
+    o:
+      - "Is it a beggarman?"
+    m:
+      - "Is it a beggar?"
+
+  - sp: OLD MAN
+    o:
+      - "Madman and beggar too."
+    m:
+      - "Yes, he’s both crazy and a beggar."
+
+  - sp: GLOUCESTER
+    o:
+      - "He has some reason, else he could not beg."
+      - "I’ th’ last night’s storm I such a fellow saw,"
+      - "Which made me think a man a worm. My son"
+      - "Came then into my mind, and yet my mind"
+      - "Was then scarce friends with him. I have heard more since."
+      - "As flies to wanton boys are we to th’ gods."
+      - "They kill us for their sport."
+    m:
+      - "Well, he can’t be completely crazy, or he wouldn’t be able to beg. Last night during the storm I saw a man who was both poor and crazy. He made me think that men are as weak and insignificant as worms. I was reminded of my son, even though I despised my son at that time. Now I know better. The gods play around with us as cruelly as schoolboys who pull the wings off flies."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)*"
+      - "    How should this be?"
+      - "Bad is the trade that must play fool to sorrow,"
+      - "Angering itself and others.—Bless thee, master!"
+    m:
+      - "*(to himself)* What’s going on? I hate pretending I’m a wandering beggar when all I want to do now is comfort my poor father.—Bless you, master."
+
+  - sp: GLOUCESTER
+    o:
+      - "Is that the naked fellow?"
+    m:
+      - "Is that the naked guy?"
+
+  - sp: OLD MAN
+    o:
+      - "  Ay, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: GLOUCESTER
+    o:
+      - "Then prithee, get thee gone. If for my sake"
+      - "Thou wilt o’ertake us hence a mile or twain"
+      - "I’ th’ way toward Dover, do it for ancient love."
+      - "And bring some covering for this naked soul,"
+      - "Which I’ll entreat to lead me."
+    m:
+      - "*(to the OLD MAN)* Then please go. If you’re willing to do me a favor, as an old friend, then catch up to us a mile or two further on the way to Dover, and bring some clothes for this poor beggar. I’ll ask him to be my guide."
+
+  - sp: OLD MAN
+    o:
+      - "    Alack, sir, he is mad."
+    m:
+      - "But sir, he’s crazy."
+
+  - sp: GLOUCESTER
+    o:
+      - "’Tis the time’s plague when madmen lead the blind."
+      - "Do as I bid thee. Or rather, do thy pleasure."
+      - "Above the rest, be gone."
+    m:
+      - "It’s the tragedy of our times that lunatics must lead the blind. Do as I asked you. Or rather, do what you feel like doing. But above all, get out of here."
+
+  - sp: OLD MAN
+    o:
+      - "I’ll bring him the best ’parel that I have,"
+      - "Come on ’t what will."
+    m:
+      - "I’ll bring the crazy beggar the best clothes I have, no matter what happens."
+
+  - os: "Exit OLD MAN"
+    ms: "He exits."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Sirrah, naked fellow—"
+    m:
+      - "Hey, naked guy—"
+
+  - sp: EDGAR
+    o:
+      - "Poor Tom’s a-cold."
+      - "*(aside)* I cannot daub it further."
+    m:
+      - "Poor Tom’s chilly. *(to himself)* I can’t play this role any longer."
+
+  - sp: GLOUCESTER
+    o:
+      - "Come hither, fellow."
+    m:
+      - "Come here, man."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* And yet I must.—Bless thy sweet eyes, they bleed."
+    m:
+      - "*(to himself)* But I must.—Bless you, sir. Your dear eyes are bleeding."
+
+  - sp: GLOUCESTER
+    o:
+      - "Know’st thou the way to Dover?"
+    m:
+      - "Do you know the way to Dover?"
+
+  - sp: EDGAR
+    o:
+      - "Both stile and gate, horseway and footpath. Poor Tom hath been scared out of his good wits. Bless thee, goodman’s son, from the foul fiend! Five fiends have been in poor Tom at once: of lust, as Obidicut; Hobbididence, prince of dumbness; Mahu, of stealing; Modo, of murder; Flibbertigibbet, of mopping and mowing, who since possesses chambermaids and waiting-women. So bless thee, master."
+    m:
+      - "I know it like the back of my hand, every step of the way. Poor Tom has been scared out of his mind. Bless you, good man, and stay away from the devil. Five devils haunted Poor Tom at the same time: Obidicut, the devil of lust; Hobbididence, the devil of mutes; Mahu, the devil of stealing; Modo, the devil of murder; and Flibbertigibbet, the devil of mockery, who causes chambermaids to make silly faces. Bless you, master."
+
+  - sp: GLOUCESTER
+    o:
+      - "*(giving EDGAR a purse)*"
+      - "Here, take this purse, thou whom the heavens’ plagues"
+      - "Have humbled to all strokes. That I am wretched"
+      - "Makes thee the happier. Heavens, deal so still."
+      - "Let the superfluous and lust-dieted man,"
+      - "That slaves your ordinance, that will not see"
+      - "Because he doth not feel, feel your power quickly."
+      - "So distribution should undo excess,"
+      - "And each man have enough. Dost thou know Dover?"
+    m:
+      - "*(giving EDGAR a purse)* Here, take some money. The torments of heaven have brought you down to this humble state. My misery makes you more fortunate in comparison. It should always work like that. The spoiled man who has everything, who can’t see the misery around him because he doesn’t feel it himself, should be made to feel agony so he can learn to share his wealth. That way wealth would be redistributed until everyone has enough to survive. Are you familiar with Dover?"
+
+  - sp: EDGAR
+    o:
+      - "Ay, master."
+    m:
+      - "Yes, sir."
+
+  - sp: GLOUCESTER
+    o:
+      - "There is a cliff, whose high and bending head"
+      - "Looks fearfully in the confinèd deep."
+      - "Bring me but to the very brim of it,"
+      - "And I’ll repair the misery thou dost bear"
+      - "With something rich about me. From that place"
+      - "I shall no leading need."
+    m:
+      - "There’s a cliff there that leans precariously over the deep sea. Take me to the edge of it, and I’ll reward all your troubles with something valuable. Once I’m there, I won’t need a guide anymore."
+
+  - sp: EDGAR
+    o:
+      - "Give me thy arm."
+      - "Poor Tom shall lead thee."
+    m:
+      - "Give me your arm. Poor Tom will take you there."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,274 @@
+play: A Midsummer Night’s Dream
+title: Act 1, Scene 2
+group: 1
+order: 1
+text:
+  - os: "Enter QUINCE the carpenter, and SNUG the joiner, and BOTTOM the weaver, and FLUTE the bellows-mender, and SNOUT the tinker, and STARVELING the tailor"
+    ms: "QUINCE, the carpenter, enters with SNUG, the cabinetmaker; BOTTOM, the weaver; FLUTE, the bellows-repairman; SNOUT, the handyman; and STARVELING, the tailor."
+
+  - sp: QUINCE
+    o:
+      - "Is all our company here?"
+    m:
+      - "Is everyone here?"
+
+  - sp: BOTTOM
+    o:
+      - "You were best to call them generally, man by man, according to the scrip."
+    m:
+      - "You should call their names generally, one person at a time, in the order in which their names appear on this piece of paper."
+
+  - sp: QUINCE
+    o:
+      - "Here is the scroll of every man’s name which is thought fit, through all Athens, to play in our interlude before the duke and the duchess, on his wedding day at night."
+    m:
+      - "This is a list of the names of all the men in Athens who are good enough to act in the play we’re going to perform for the duke and duchess on their wedding night."
+
+  - sp: BOTTOM
+    o:
+      - "First, good Peter Quince, say what the play treats on, then read the names of the actors, and so grow to a point."
+    m:
+      - "First, Peter Quince, tell us what the play is about, then read the names of the actors, and then shut up."
+
+  - sp: QUINCE
+    o:
+      - "Marry, our play is The most lamentable comedy and most *cruel death of Pyramus and Thisbe*."
+    m:
+      - "All right. Our play is called *A Very Tragic Comedy About the Horrible Deaths of Pyramus and Thisbe*."
+
+  - sp: BOTTOM
+    o:
+      - "A very good piece of work, I assure you, and a merry.—Now, good Peter Quince, call forth your actors by the scroll.—Masters, spread yourselves."
+    m:
+      - "Let me tell you, it’s a great piece of work, and very—funny.—Now, Peter Quince, call the names of the actors on the list. Men, gather around him."
+
+  - sp: QUINCE
+    o:
+      - "Answer as I call you.—Nick Bottom, the weaver?"
+    m:
+      - "Answer when I call your name.—Nick Bottom, the weaver?"
+
+  - sp: BOTTOM
+    o:
+      - "Ready. Name what part I am for and proceed."
+    m:
+      - "Here. Tell me which part I’m going to play, then go on."
+
+  - sp: QUINCE
+    o:
+      - "You, Nick Bottom, are set down for Pyramus."
+    m:
+      - "You, Nick Bottom, have been cast as Pyramus."
+
+  - sp: BOTTOM
+    o:
+      - "What is Pyramus? A lover or a tyrant?"
+    m:
+      - "What’s Pyramus? A lover or a tyrant?"
+
+  - sp: QUINCE
+    o:
+      - "A lover that kills himself, most gallant, for love."
+    m:
+      - "A lover who kills himself very nobly for love."
+
+  - sp: BOTTOM
+    o:
+      - "That will ask some tears in the true performing of it. If I do it, let the audience look to their eyes. I will move storms. I will condole in some measure.—To the rest.—Yet my chief humor is for a tyrant. I could play Ercles rarely, or a part to tear a cat in to make all split."
+      - "  *The raging rocks*"
+      - "  *And shivering shocks*"
+      - "  *Shall break the locks*"
+      - "  *Of prison gates*."
+      - "  *And Phoebus’ car*"
+      - "  *Shall shine from far*"
+      - "  *And make and mar*"
+      - "  *The foolish Fates*."
+      - "This was lofty!—Now name the rest of the players.—This is Ercles’ vein, a tyrant’s vein. A lover is more condoling."
+    m:
+      - "I’ll have to cry to make my performance believable. And as soon as I start crying, oh boy, the audience had better watch out, because they’ll start crying too. I’ll make tears pour out of their eyes like rainstorms. I’ll moan very believably.—Name the other actors.—But I’m really in the mood to play a tyrant. I could do a great job with Hercules, or any other part that requires ranting and raving. I would rant and rave really well. Like this, listen."
+      - "  *The raging rocks*"
+      - "  *And shivering shocks*"
+      - "  *Will break the locks*"
+      - "  *Of prison gates*."
+      - "  *And the sun-god’s car*"
+      - "  *Will shine from far*"
+      - "  *Away, and make and mar*"
+      - "  *Foolish fate*."
+      - "Oh, that was truly inspired!—Now tell us who the other actors are.—By the way, my performance just now was in the style of Hercules, the tyrant style. A lover would have to be weepier, of course."
+
+  - sp: QUINCE
+    o:
+      - "Francis Flute, the bellows-mender?"
+    m:
+      - "Francis Flute, the bellows-repairman?"
+
+  - sp: FLUTE
+    o:
+      - "Here, Peter Quince."
+    m:
+      - "Here, Peter Quince."
+
+  - sp: QUINCE
+    o:
+      - "Flute, you must take Thisbe on you."
+    m:
+      - "Flute, you’ll be playing the role of Thisbe."
+
+  - sp: FLUTE
+    o:
+      - "What is Thisbe? A wandering knight?"
+    m:
+      - "Who’s Thisbe? A knight on a quest?"
+
+  - sp: QUINCE
+    o:
+      - "It is the lady that Pyramus must love."
+    m:
+      - "Thisbe is the lady Pyramus is in love with."
+
+  - sp: FLUTE
+    o:
+      - "Nay, faith, let me not play a woman. I have a beard coming."
+    m:
+      - "No, come on, don’t make me play a woman. I’m growing a beard."
+
+  - sp: QUINCE
+    o:
+      - "That’s all one. You shall play it in a mask, and you may speak as small as you will."
+    m:
+      - "That doesn’t matter. You’ll wear a mask, and you can make your voice as high as you want to."
+
+  - sp: BOTTOM
+    o:
+      - "An I may hide my face, let me play Thisbe too! I’ll speak in a monstrous little voice: “Thisne, Thisne!”—“Ah, Pyramus, my lover dear, thy Thisbe dear and lady dear!”"
+    m:
+      - "In that case, if I can wear a mask, let me play Thisbe too! I’ll be Pyramus first: “Thisne, Thisne!”—And then in falsetto: “Ah, Pyramus, my dear lover! I’m your dear Thisbe, your dear lady!”"
+
+  - sp: QUINCE
+    o:
+      - "No, no. You must play Pyramus.—And Flute, you Thisbe."
+    m:
+      - "No, no. Bottom, you’re Pyramus.—And Flute, you’re Thisbe."
+
+  - sp: BOTTOM
+    o:
+      - "Well, proceed."
+    m:
+      - "All right. Go on."
+
+  - sp: QUINCE
+    o:
+      - "Robin Starveling, the tailor?"
+    m:
+      - "Robin Starveling, the tailor?"
+
+  - sp: STARVELING
+    o:
+      - "Here, Peter Quince."
+    m:
+      - "Here, Peter Quince."
+
+  - sp: QUINCE
+    o:
+      - "Robin Starveling, you must play Thisbe’s mother.—Tom Snout, the tinker?"
+    m:
+      - "Robin Starveling, you’re going to play Thisbe’s mother.—Tom Snout, the handyman."
+
+  - sp: SNOUT
+    o:
+      - "Here, Peter Quince."
+    m:
+      - "Here, Peter Quince."
+
+  - sp: QUINCE
+    o:
+      - "You, Pyramus’ father.—Myself, Thisbe’s father.—Snug the joiner, you, the lion’s part.—And I hope here is a play fitted."
+    m:
+      - "You’ll be Pyramus’ father—I’ll play Thisbe’s father myself—Snug, the cabinetmaker, you’ll play the part of the lion.—So that’s everyone. I hope this play is well cast now."
+
+  - sp: SNUG
+    o:
+      - "Have you the lion’s part written? Pray you, if it be, give it me, for I am slow of study."
+    m:
+      - "Do you have the lion’s part written down? If you do, please give it to me, because I need to start learning the lines. It takes me a long time to learn things."
+
+  - sp: QUINCE
+    o:
+      - "You may do it extempore, for it is nothing but roaring."
+    m:
+      - "You can improvise the whole thing. It’s just roaring."
+
+  - sp: BOTTOM
+    o:
+      - "Let me play the lion too. I will roar, that I will do any man’s heart good to hear me. I will roar, that I will make the duke say, “Let him roar again. Let him roar again.”"
+    m:
+      - "Let me play the lion too. I’ll roar so well that it’ll be an inspiration to anyone who hears me. I’ll roar so well that the duke will say, “Let him roar again. Let him roar again.”"
+
+  - sp: QUINCE
+    o:
+      - "An you should do it too terribly, you would fright the duchess and the ladies, that they would shriek. And that were enough to hang us all."
+    m:
+      - "If you roar too ferociously, you’ll scare the duchess and the other ladies and make them scream. And that would get us all executed."
+
+  - sp: ALL
+    o:
+      - "That would hang us, every mother’s son."
+    m:
+      - "Yeah, that would get every single one of us executed."
+
+  - sp: BOTTOM
+    o:
+      - "I grant you, friends, if you should fright the ladies out of their wits, they would have no more discretion but to hang us. But I will aggravate my voice so that I will roar you as gently as any sucking dove. I will roar you an ’twere any nightingale."
+    m:
+      - "Well, my friends, you’ve got to admit that if you scare the living daylights out of the ladies, they’d have no choice but to execute us. But I’ll soften my voice—you know, aggravate it, so to speak—so that I’ll roar as gently as a baby dove. I’ll roar like a sweet, peaceful nightingale."
+
+  - sp: QUINCE
+    o:
+      - "You can play no part but Pyramus. For Pyramus is a sweet-faced man, a proper man as one shall see in a summer’s day, a most lovely, gentlemanlike man. Therefore you must needs play Pyramus."
+    m:
+      - "You can’t play any part except Pyramus. Because Pyramus is a good-looking man, the most handsome man that you could find on a summer’s day, a lovely gentlemanly man. So you’re the only one who could play Pyramus."
+
+  - sp: BOTTOM
+    o:
+      - "Well, I will undertake it. What beard were I best to play it in?"
+    m:
+      - "Well then, I’ll do it. What kind of beard should I wear for the part?"
+
+  - sp: QUINCE
+    o:
+      - "Why, what you will."
+    m:
+      - "Whatever kind you want, I guess."
+
+  - sp: BOTTOM
+    o:
+      - "I will discharge it in either your straw-color beard, your orange-tawny beard, your purple-in-grain beard, or your French crown-color beard, your perfect yellow."
+    m:
+      - "I’ll play the part wearing either a straw-colored beard, or a sandy beard, or a red beard, or one of those bright yellow beards that’s the color of a French coin."
+
+  - sp: QUINCE
+    o:
+      - "Some of your French crowns have no hair at all, and then you will play barefaced.—But masters, here are your parts. And I am to entreat you, request you, and desire you to con them by tomorrow night and meet me in the palace wood, a mile without the town, by moonlight. There will we rehearse, for if we meet in the city we shall be dogged with company, and our devices known. In the meantime I will draw a bill of properties such as our play wants. I pray you, fail me not."
+    m:
+      - "Some French people don’t have beards at all, because syphilis has made all their hair fall out, so you might have to play the part clean-shaven.—But gentlemen, here are your scripts, and I beg you to please learn them by tomorrow night. Meet me in the duke’s forest a mile outside of town. It’s best to rehearse there, because if we do it here in the city, we’ll be bothered by crowds of people and everyone will know the plot of our play. Meanwhile, I’ll make a list of props that we’ll need for the play. Now make sure you show up, all of you. Don’t leave me in the lurch."
+
+  - sp: BOTTOM
+    o:
+      - "We will meet, and there we may rehearse most obscenely and courageously. Take pains. Be perfect. Adieu."
+    m:
+      - "We’ll be there, and there we’ll rehearse courageously and wonderfully, truly obscenely. Work hard, know your lines. Goodbye."
+
+  - sp: QUINCE
+    o:
+      - "At the duke’s oak we meet."
+    m:
+      - "We’ll meet at the giant oak tree in the duke’s forest."
+
+  - sp: BOTTOM
+    o:
+      - "Enough. Hold, or cut bowstrings."
+    m:
+      - "Got it? Be there, or don’t show your face again."
+
+  - os: "Exeunt"
+    ms: "They all exit."

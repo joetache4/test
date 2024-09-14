@@ -1,0 +1,1177 @@
+play: The Merchant of Venice
+title: Act 4, Scene 1
+group: 4
+order: 17
+text:
+  - os: "Enter the DUKE, the magnificoes, ANTONIO, BASSANIO, GRATIANO, SALERIO, and others"
+    ms: "The DUKE , the magnificoes, ANTONIO, BASSANIO, GRATIANO, SALERIO, and attendants all enter."
+
+  - sp: DUKE
+    o:
+      - "What, is Antonio here?"
+    m:
+      - "Is Antonio here?"
+
+  - sp: ANTONIO
+    o:
+      - "Ready, so please your grace."
+    m:
+      - "Yes, sir, I’m here."
+
+  - sp: DUKE
+    o:
+      - "I am sorry for thee. Thou art come to answer"
+      - "A stony adversary, an inhuman wretch"
+      - "Uncapable of pity, void and empty"
+      - "From any dram of mercy."
+    m:
+      - "I feel sorry for you. You’ve come to face a ruthless enemy, an inhuman wretch incapable of pity, without any feelings of mercy."
+
+  - sp: ANTONIO
+    o:
+      - "    I have heard"
+      - "Your grace hath ta’en great pains to qualify"
+      - "His rigorous course. But since he stands obdurate"
+      - "And that no lawful means can carry me"
+      - "Out of his envy’s reach, I do oppose"
+      - "My patience to his fury, and am armed"
+      - "To suffer with a quietness of spirit"
+      - "The very tyranny and rage of his."
+    m:
+      - "They tell me you’ve done everything you can to talk him out of what he’s doing. But since he remains stubborn, and there’s no legal way to protect me from his malice, I’ll just have to take what he’ll give me. I’m ready to suffer peacefully whatever he does to me in his cruelty and anger."
+
+  - sp: DUKE
+    o:
+      - "Go, one, and call the Jew into the court."
+    m:
+      - "One of you go call the Jew into court here."
+
+  - sp: SALERIO
+    o:
+      - "He is ready at the door. He comes, my lord."
+    m:
+      - "He’s standing ready outside the door. Here he comes, my lord."
+
+  - os: "Enter SHYLOCK"
+    ms: "SHYLOCK enters."
+
+  - sp: DUKE
+    o:
+      - "Make room, and let him stand before our face.—"
+      - "Shylock, the world thinks, and I think so too,"
+      - "That thou but lead’st this fashion of thy malice"
+      - "To the last hour of act, and then ’tis thought"
+      - "Thou’lt show thy mercy and remorse more strange"
+      - "Than is thy strange apparent cruelty,"
+      - "And where thou now exacts the penalty—"
+      - "Which is a pound of this poor merchant’s flesh—"
+      - "Thou wilt not only loose the forfeiture"
+      - "But—touched with human gentleness and love,—"
+      - "Forgive a moiety of the principal,"
+      - "Glancing an eye of pity on his losses"
+      - "That have of late so huddled on his back"
+      - "Eno’ to press a royal merchant down"
+      - "And pluck commiseration of his state"
+      - "From brassy bosoms and rough hearts of flint,"
+      - "From stubborn Turks and Tartars never trained"
+      - "To offices of tender courtesy."
+      - "We all expect a gentle answer, Jew."
+    m:
+      - "Make room so he can stand in front of me. Shylock, everyone thinks—and I agree—that you’re just pretending to be cruel. They think that at the last second you’re going to show mercy and pity, which will be more surprising than the bizarre cruelty that you seem to be showing now. And even though you’re here to collect the penalty—a pound of this poor merchant’s flesh—they think you’ll not only let it go, but out of humanity and love you’ll forgive some portion of the principal he owes you too. In doing so you’ll be taking pity on him for his many recent losses, which have been large enough to send even the greatest merchant out of business, and make even the most hard-hearted Turk or Tartar feel sorry for him. What do you say? We all expect a nice answer from you, Jew."
+
+  - sp: SHYLOCK
+    o:
+      - "I have possessed your grace of what I purpose,"
+      - "And by our holy Sabbath have I sworn"
+      - "To have the due and forfeit of my bond."
+      - "If you deny it, let the danger light"
+      - "Upon your charter and your city’s freedom."
+      - "You’ll ask me why I rather choose to have"
+      - "A weight of carrion flesh than to receive"
+      - "Three thousand ducats. I’ll not answer that"
+      - "But say it is my humour. Is it answered?"
+      - "What if my house be troubled with a rat"
+      - "And I be pleased to give ten thousand ducats"
+      - "To have it baned? What, are you answered yet?"
+      - "Some men there are love not a gaping pig,"
+      - "Some that are mad if they behold a cat,"
+      - "And others, when the bagpipe sings i’ th’ nose,"
+      - "Cannot contain their urine. For affection,"
+      - "Mistress of passion, sways it to the mood"
+      - "Of what it likes or loathes. Now, for your answer:"
+      - "As there is no firm reason to be rendered"
+      - "Why he cannot abide a gaping pig;"
+      - "Why he, a harmless necessary cat;"
+      - "Why he, a woollen bagpipe, but of force"
+      - "Must yield to such inevitable shame"
+      - "As to offend, himself being offended—"
+      - "So can I give no reason, nor I will not"
+      - "(More than a lodged hate and a certain loathing"
+      - "I bear Antonio), that I follow thus"
+      - "A losing suit against him. Are you answered?"
+    m:
+      - "I’ve told you what I intend to do, and I’ve sworn by the holy Sabbath to seek the penalty that is due according to our contract. If you refuse to allow me to do so, your city’s charter and its freedom are endangered. You’re going to ask me why I’d rather have a pound of decaying flesh than three thousand ducats. I won’t answer that. Let’s just say it’s because I feel like it. Is that enough of an answer? What if I had a rat in my house, and I felt like paying ten thousand ducats to have it exterminated? Do you have your answer yet? Some men don’t like roast pig, others go crazy if they see a cat, and others can’t help urinating when they hear bagpipes. There’s no sense trying to explain people’s likes and dislikes. So, to answer your question. Just as there’s no clear reason why one man doesn’t want a roast pig, or why another man can’t stand a harmless and useful cat, or another can’t tolerate bagpipes, so I can’t give a reason, and I won’t give a reason (other than the simple hate and loathing I feel for Antonio) why I’m pursuing this unprofitable case against him. Does that answer your question?"
+
+  - sp: BASSANIO
+    o:
+      - "This is no answer, thou unfeeling man,"
+      - "To excuse the current of thy cruelty."
+    m:
+      - "That’s no answer, you heartless man. It doesn’t excuse your cruel behavior."
+
+  - sp: SHYLOCK
+    o:
+      - "I am not bound to please thee with my answers."
+    m:
+      - "I don’t have to give you answers that you like."
+
+  - sp: BASSANIO
+    o:
+      - "Do all men kill the things they do not love?"
+    m:
+      - "Does everyone kill what they don’t love?"
+
+  - sp: SHYLOCK
+    o:
+      - "Hates any man the thing he would not kill?"
+    m:
+      - "Does anyone hate something and not want to kill it?"
+
+  - sp: BASSANIO
+    o:
+      - "Every offense is not a hate at first."
+    m:
+      - "Disliking something isn’t the same thing as hating it."
+
+  - sp: SHYLOCK
+    o:
+      - "What, wouldst thou have a serpent sting thee twice?"
+    m:
+      - "What, would you let a snake bite you twice?"
+
+  - sp: ANTONIO
+    o:
+      - "*(to BASSANIO)*"
+      - "I pray you, think you question with the Jew?"
+      - "You may as well go stand upon the beach"
+      - "And bid the main flood bate his usual height."
+      - "You may as well use question with the wolf"
+      - "Why he hath made the ewe bleat for the lamb."
+      - "You may as well forbid the mountain pines"
+      - "To wag their high tops and to make no noise"
+      - "When they are fretten with the gusts of heaven."
+      - "You may as well do anything most hard,"
+      - "As seek to soften that—than which what’s harder?—"
+      - "His Jewish heart. Therefore I do beseech you"
+      - "Make no more offers, use no farther means,"
+      - "But with all brief and plain conveniency"
+      - "Let me have judgment and the Jew his will."
+    m:
+      - "*(to BASSANIO)* Please don’t bother arguing with the Jew. You might as well go stand on the beach and ask the ocean to get smaller. You might as well ask a wolf why he killed the lamb and made its mother cry. You might as well tell the pine trees on the mountain to stop waving their treetops when the storms blow through them. You might as well do the impossible rather than try to soften his Jewish heart. It’s the hardest thing imaginable. Therefore I’m begging you, don’t make any more offers, don’t look for other ways to stop him. Just let me receive my punishment, and let the Jew take his penalty."
+
+  - sp: BASSANIO
+    o:
+      - "*(to SHYLOCK)* For thy three thousand ducats here is six."
+    m:
+      - "*(to SHYLOCK)* Instead of your three thousand ducats, here are six thousand."
+
+  - sp: SHYLOCK
+    o:
+      - "If every ducat in six thousand ducats"
+      - "Were in six parts, and every part a ducat,"
+      - "I would not draw them. I would have my bond."
+    m:
+      - "If you offered me six times that, I wouldn’t accept it. I would choose to take my penalty."
+
+  - sp: DUKE
+    o:
+      - "How shalt thou hope for mercy, rendering none?"
+    m:
+      - "How can you ever hope for mercy for yourself, when you don’t give any now?"
+
+  - sp: SHYLOCK
+    o:
+      - "What judgment shall I dread, doing no wrong?"
+      - "You have among you many a purchased slave,"
+      - "Which—like your asses and your dogs and mules—"
+      - "You use in abject and in slavish parts"
+      - "Because you bought them. Shall I say to you,"
+      - "“Let them be free! Marry them to your heirs!"
+      - "Why sweat they under burdens? Let their beds"
+      - "Be made as soft as yours and let their palates"
+      - "Be seasoned with such viands”? You will answer,"
+      - "“The slaves are ours.” So do I answer you."
+      - "The pound of flesh which I demand of him"
+      - "Is dearly bought. ’Tis mine and I will have it."
+      - "If you deny me, fie upon your law—"
+      - "There is no force in the decrees of Venice."
+      - "I stand for judgment. Answer, shall I have it?"
+    m:
+      - "Why should I be afraid of your judgment when I haven’t done anything wrong? Many of you own slaves, which—like your donkeys and dogs and mules—you use to perform awful jobs just because you bought them. Should I say to you, “Set them free! Let them marry your children! Why are you making them work so hard? Let their beds be as soft as yours, and let them eat the same food as you”? No, you’d answer, “The slaves are ours.” And that’s just how I’m answering you. The pound of flesh that I want from him was very expensive. It’s mine and I’m going to get it. If you refuse me, the laws of Venice have no validity. I await justice. So answer me. Will I get it?"
+
+  - sp: DUKE
+    o:
+      - "Upon my power I may dismiss this court,"
+      - "Unless Bellario, a learnèd doctor,"
+      - "Whom I have sent for to determine this,"
+      - "Come here today."
+    m:
+      - "I have the authority to dismiss this court, unless Bellario comes today. He’s a legal expert I sent for to act as judge and help settle this matter."
+
+  - sp: SALERIO
+    o:
+      - "  My lord, here stays without"
+      - "A messenger with letters from the doctor,"
+      - "New come from Padua."
+    m:
+      - "My lord, a messenger is waiting outside with letters from Bellario. He’s just come from Padua."
+
+  - sp: DUKE
+    o:
+      - "Bring us the letter. Call the messenger."
+    m:
+      - "Bring us the letters. Call the messenger in."
+
+  - sp: BASSANIO
+    o:
+      - "Good cheer, Antonio! What, man, courage yet!"
+      - "The Jew shall have my flesh, blood, bones and all,"
+      - "Ere thou shalt lose for me one drop of blood."
+    m:
+      - "Cheer up, Antonio! Keep up your courage, man! I’ll give the Jew my flesh, blood, bones, and everything before you lose one drop of blood for me."
+
+  - sp: ANTONIO
+    o:
+      - "I am a tainted wether of the flock,"
+      - "Meetest for death. The weakest kind of fruit"
+      - "Drops earliest to the ground, and so let me."
+      - "You cannot better be employed, Bassanio,"
+      - "Than to live still and write mine epitaph."
+    m:
+      - "I’m like the one sick sheep in the flock, the one who deserves to die. The weakest fruit drops to the ground first, so let me drop. Bassanio, the best thing you can do is to keep living and write an epitaph for my gravestone."
+
+  - os: "Enter NERISSA, disguised as a clerk"
+    ms: "NERISSA enters, disguised as a lawyer’s clerk."
+
+  - sp: DUKE
+    o:
+      - "Came you from Padua, from Bellario?"
+    m:
+      - "Have you come from Bellario’s office in Padua?"
+
+  - sp: NERISSA
+    o:
+      - "From both, my lord. Bellario greets your grace."
+      - "*(gives DUKE a letter)*"
+    m:
+      - "Yes, my lord. Bellario sends his greetings. *(she gives the DUKE a letter)*"
+
+  - os: "SHYLOCK sharpens a knife on the bottom of his shoe"
+    ms: "SHYLOCK sharpens his knife on the sole of his shoe."
+
+  - sp: BASSANIO
+    o:
+      - "*(to SHYLOCK)* Why dost thou whet thy knife so earnestly?"
+    m:
+      - "*(to SHYLOCK)* Why are you sharpening your knife so eagerly?"
+
+  - sp: SHYLOCK
+    o:
+      - "To cut the forfeiture from that bankrupt there."
+    m:
+      - "To cut my penalty from that bankrupt man over there."
+
+  - sp: GRATIANO
+    o:
+      - "Not on thy sole, but on thy soul, harsh Jew,"
+      - "Thou makest thy knife keen. But no metal can—"
+      - "No, not the hangman’s axe—bear half the keenness"
+      - "Of thy sharp envy. Can no prayers pierce thee?"
+    m:
+      - "You’re sharpening that knife not on your sole but on your soul, you cruel Jew. No metal—not even the executioner’s axe—could ever be half as sharp as your hatred. Can’t any prayers reach your heart?"
+
+  - sp: SHYLOCK
+    o:
+      - "No, none that thou hast wit enough to make."
+    m:
+      - "No, none that you’re smart enough to make."
+
+  - sp: GRATIANO
+    o:
+      - "O, be thou damned, inexecrable dog,"
+      - "And for thy life let justice be accused!"
+      - "Thou almost makest me waver in my faith"
+      - "To hold opinion with Pythagoras"
+      - "That souls of animals infuse themselves"
+      - "Into the trunks of men. Thy currish spirit"
+      - "Governed a wolf who, hanged for human slaughter,"
+      - "Even from the gallows did his fell soul fleet,"
+      - "And whilst thou layest in thy unhallowed dam"
+      - "Infused itself in thee, for thy desires"
+      - "Are wolvish, bloody, starved, and ravenous."
+    m:
+      - "Oh, you’re going to hell, you disgusting dog. Killing you would be justice. You almost make me forget that I’m a Christian. You make me want to agree with the philosopher Pythagoras that animal souls are reincarnated in human bodies. Your vicious dog soul used to belong to a wolf that was killed for slaughtering humans. When he died, his cruel soul passed out of his body and went into yours while you were lying in your unholy mother’s womb. That’s why your desires are wolfish, bloody, and ravenous."
+
+  - sp: SHYLOCK
+    o:
+      - "Till thou canst rail the seal from off my bond,"
+      - "Thou but offend’st thy lungs to speak so loud."
+      - "Repair thy wit, good youth, or it will fall"
+      - "To cureless ruin. I stand here for law."
+    m:
+      - "Unless your taunts can undo the signature on my contract, you’re just wearing out your lungs by speaking so loud. Be quiet, boy, or you’ll lose your mind. I stand here with the law on my side."
+
+  - sp: DUKE
+    o:
+      - "This letter from Bellario doth commend"
+      - "A young and learnèd doctor to our court."
+      - "Where is he?"
+    m:
+      - "This letter from Bellario introduces us to a young and well-educated legal expert. Where is he?"
+
+  - sp: NERISSA
+    o:
+      - "  He attendeth here hard by"
+      - "To know your answer whether you’ll admit him."
+    m:
+      - "He’s waiting nearby to find out if you’ll invite him in."
+
+  - sp: DUKE
+    o:
+      - "With all my heart.—Some three or four of you"
+      - "Go give him courteous conduct to this place.—"
+      - "Meantime the court shall hear Bellario’s letter."
+      - "*(reads)*"
+      - "“Your grace shall understand that at the receipt of your letter I am very sick, but in the instant that your messenger came, in loving visitation was with me a young doctor of Rome. His name is Balthazar. I acquainted him with the cause in controversy between the Jew and Antonio the merchant. We turned o’er many books together. He is furnished with my opinion, which—bettered with his own learning, the greatness whereof I cannot enough commend—comes with him at my importunity to fill up your grace’s request in my stead.I beseech you, let his lack of years be no impediment to let him lack a reverend estimation, for I never knew so young a body with so old a head. I leave him to your gracious acceptance, whose trial shall better publish his commendation.”"
+    m:
+      - "With all my heart.—Three or four of you go welcome him.—In the meantime, I’ll read Bellario’s letter out loud."
+      - "*(he reads)*"
+      - "“I’ve received your letter but I’m very sick at the moment. As it happened, when your messenger came, a young lawyer from Rome was visiting me. His name is Balthazar. I told him about the case of the Jew and Antonio the merchant, and we consulted many books together. He knows my legal opinions about this matter, and he has his own expert opinions as well. I’m sending him in my place to answer your request for someone to act as judge in this matter. Please don’t underestimate him because he’s so young. I never knew such a young man with such a mature head. I leave him to you. When you put him to the test, you’ll see how wonderful he really is. You hear what the wise and educated Bellario writes.”"
+
+  - os: "Enter PORTIA for Balthazar, disguised as a doctor of law"
+    ms: "PORTIA enters disguised as Balthazar, a lawyer."
+
+  - o:
+      - "You hear the learned Bellario, what he writes."
+      - "And here I take it is the doctor come.—"
+      - "Give me your hand. Come you from old Bellario?"
+    m:
+      - "And this is the legal professor, I take it.—Let me shake your hand. Did old Bellario send you here?"
+
+  - sp: PORTIA
+    o:
+      - "I did, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: DUKE
+    o:
+      - "  You are welcome. Take your place."
+      - "Are you acquainted with the difference"
+      - "That holds this present question in the court?"
+    m:
+      - "Welcome. Please have a seat. Are you familiar with the case currently before the court?"
+
+  - sp: PORTIA
+    o:
+      - "I am informèd thoroughly of the cause."
+      - "Which is the merchant here, and which the Jew?"
+    m:
+      - "Yes, thoroughly. Which one is the merchant? And which one is the Jew?"
+
+  - sp: DUKE
+    o:
+      - "Antonio and old Shylock, both stand forth."
+    m:
+      - "Antonio and Shylock, both of you come forward."
+
+  - sp: PORTIA
+    o:
+      - "Is your name Shylock?"
+    m:
+      - "Is your name Shylock?"
+
+  - sp: SHYLOCK
+    o:
+      - "    Shylock is my name."
+    m:
+      - "Shylock is my name."
+
+  - sp: PORTIA
+    o:
+      - "Of a strange nature is the suit you follow,"
+      - "Yet in such rule that the Venetian law"
+      - "Cannot impugn you as you do proceed.—"
+      - "*(to ANTONIO)* You stand within his danger, do you not?"
+    m:
+      - "Your case is most unusual, though the Venetian law can’t stop you from proceeding.—*(to ANTONIO)* He has a claim on you, correct?"
+
+  - sp: ANTONIO
+    o:
+      - "Ay, so he says."
+    m:
+      - "Yes, so he says."
+
+  - sp: PORTIA
+    o:
+      - "  Do you confess the bond?"
+    m:
+      - "Do you acknowledge the contract?"
+
+  - sp: ANTONIO
+    o:
+      - "I do."
+    m:
+      - "Yes, I do."
+
+  - sp: PORTIA
+    o:
+      - "  Then must the Jew be merciful."
+    m:
+      - "Then the Jew must show you mercy."
+
+  - sp: SHYLOCK
+    o:
+      - "On what compulsion must I? Tell me that."
+    m:
+      - "Why do I have to do that? Tell me."
+
+  - sp: PORTIA
+    o:
+      - "The quality of mercy is not strained."
+      - "It droppeth as the gentle rain from heaven"
+      - "Upon the place beneath. It is twice blessed:"
+      - "It blesseth him that gives and him that takes."
+      - "’Tis mightiest in the mightiest. It becomes"
+      - "The thronèd monarch better than his crown."
+      - "His scepter shows the force of temporal power,"
+      - "The attribute to awe and majesty"
+      - "Wherein doth sit the dread and fear of kings,"
+      - "But mercy is above this sceptered sway."
+      - "It is enthronèd in the hearts of kings."
+      - "It is an attribute to God himself."
+      - "And earthly power doth then show likest God’s"
+      - "When mercy seasons justice. Therefore, Jew,"
+      - "Though justice be thy plea, consider this—"
+      - "That in the course of justice none of us"
+      - "Should see salvation. We do pray for mercy,"
+      - "And that same prayer doth teach us all to render"
+      - "The deeds of mercy. I have spoke thus much"
+      - "To mitigate the justice of thy plea,"
+      - "Which if thou follow, this strict court of Venice"
+      - "Must needs give sentence ’gainst the merchant there."
+    m:
+      - "No one shows mercy because he has to. It just happens, the way gentle rain drops on the ground. Mercy is a double blessing. It blesses the one who gives it and the one who receives it. It’s strongest in the strongest people. It looks better in a king than his own crown looks on him. The king’s scepter represents his earthly power, the symbol of majesty, the focus of royal authority. But mercy is higher than the scepter. It’s enthroned in the hearts of kings, a quality of God himself. Kingly power seems most like God’s power when the king mixes mercy with justice. So although justice is your plea, Jew, consider this. Justice won’t save our souls. We pray for mercy, and this same prayer teaches us to show mercy to others as well. I’ve told you this to make you give up this case. If you pursue it, this strict court of Venice will need to carry out the sentence against the merchant there."
+
+  - sp: SHYLOCK
+    o:
+      - "My deeds upon my head. I crave the law,"
+      - "The penalty, and forfeit of my bond."
+    m:
+      - "I take all responsibility for my decisions. I want the law, the penalty, and the fulfillment of my contract."
+
+  - sp: PORTIA
+    o:
+      - "Is he not able to discharge the money?"
+    m:
+      - "Can’t he pay back the money?"
+
+  - sp: BASSANIO
+    o:
+      - "Yes, here I tender it for him in the court—"
+      - "Yea, twice the sum. If that will not suffice,"
+      - "I will be bound to pay it ten times o’er,"
+      - "On forfeit of my hands, my head, my heart."
+      - "If this will not suffice, it must appear"
+      - "That malice bears down truth.—"
+      - "*(to DUKE)*"
+      - "    And I beseech you,"
+      - "Wrest once the law to your authority."
+      - "To do a great right, do a little wrong,"
+      - "And curb this cruel devil of his will."
+    m:
+      - "Yes. I’m offering to pay it back right this moment—even twice the sum. If that’s not enough, I’ll sign a contract to pay ten times that much, and I’ll give you my hands, my head, and my heart as security. If that’s not enough, then you’re just evil and malicious.—*(to the DUKE)* I beg you, just this once, use your authority to bend the law. Do a great right by doing a little wrong. Don’t let this devil have his way."
+
+  - sp: PORTIA
+    o:
+      - "It must not be. There is no power in Venice"
+      - "Can alter a decree establishèd."
+      - "’Twill be recorded for a precedent,"
+      - "And many an error by the same example"
+      - "Will rush into the state. It cannot be."
+    m:
+      - "That can’t happen. There’s no power in Venice that can change an established decree. The change will be recorded as a precedent, and many bad legal decisions will result. That can’t happen."
+
+  - sp: SHYLOCK
+    o:
+      - "A Daniel come to judgment, yea, a Daniel!—"
+      - "O wise young judge, how I do honor thee!"
+    m:
+      - "A Daniel has come to judgment, yes, a Daniel!—Oh, wise young judge, I honor you!"
+
+  - sp: PORTIA
+    o:
+      - "I pray you, let me look upon the bond."
+    m:
+      - "Please, let me review the contract."
+
+  - sp: SHYLOCK
+    o:
+      - "*(giving PORTIA a document)*"
+      - "Here ’tis, most reverend doctor, here it is."
+    m:
+      - "*(he hands PORTIA a paper)* Here it is, judge, here it is."
+
+  - sp: PORTIA
+    o:
+      - "Shylock, there’s thrice thy money offered thee."
+    m:
+      - "Shylock, they’re offering you three times the money you lent."
+
+  - sp: SHYLOCK
+    o:
+      - "An oath, an oath, I have an oath in heaven."
+      - "Shall I lay perjury upon my soul?"
+      - "No, not for Venice."
+    m:
+      - "But I made an oath, an oath, an oath in heaven. Should I perjure my soul by disobeying it? No, not for all of Venice."
+
+  - sp: PORTIA
+    o:
+      - "    Why, this bond is forfeit!"
+      - "And lawfully by this the Jew may claim"
+      - "A pound of flesh to be by him cut off"
+      - "Nearest the merchant’s heart.—Be merciful."
+      - "Take thrice thy money. Bid me tear the bond."
+    m:
+      - "The money wasn’t paid back! And so the Jew may lawfully claim a pound of flesh nearest the merchant’s heart, to be cut off by him.—But please have mercy. Take three times your money. Tell me to tear up this contract."
+
+  - sp: SHYLOCK
+    o:
+      - "When it is paid according to the tenor."
+      - "It doth appear you are a worthy judge."
+      - "You know the law. Your exposition"
+      - "Hath been most sound. I charge you by the law,"
+      - "Whereof you are a well-deserving pillar,"
+      - "Proceed to judgment. By my soul I swear"
+      - "There is no power in the tongue of man"
+      - "To alter me. I stay here on my bond."
+    m:
+      - "I’ll tear it up when it’s paid. You seem like a good judge. You know the law. Your explanation has made sense. I urge you to deliver your verdict. I swear that nothing anyone can say will change my mind. I’m sticking to the contract."
+
+  - sp: ANTONIO
+    o:
+      - "Most heartily I do beseech the court"
+      - "To give the judgment."
+    m:
+      - "I beg the court to deliver the verdict."
+
+  - sp: PORTIA
+    o:
+      - "    Why then, thus it is:"
+      - "You must prepare your bosom for his knife."
+    m:
+      - "Well, then, here it is: you must prepare yourself for his knife."
+
+  - sp: SHYLOCK
+    o:
+      - "O noble judge! O excellent young man!"
+    m:
+      - "Oh, good judge! Oh, you excellent young man!"
+
+  - sp: PORTIA
+    o:
+      - "For the intent and purpose of the law"
+      - "Hath full relation to the penalty,"
+      - "Which here appeareth due upon the bond."
+    m:
+      - "The law fully authorizes the penalty, which you have to pay according to the contract."
+
+  - sp: SHYLOCK
+    o:
+      - "’Tis very true. O wise and upright judge!"
+      - "How much more elder art thou than thy looks!"
+    m:
+      - "Very true. Oh wise judge! You’re so much older than you look!"
+
+  - sp: PORTIA
+    o:
+      - "*(to ANTONIO)* Therefore lay bare your bosom."
+    m:
+      - "*(to ANTONIO)* So bare your chest."
+
+  - sp: SHYLOCK
+    o:
+      - "    Ay, his breast."
+      - "So says the bond. Doth it not, noble judge?"
+      - "“Nearest his heart”—those are the very words."
+    m:
+      - "Yes, his chest! That’s what the contract says, doesn’t it, judge? “Nearest his heart.”—Those are the very words."
+
+  - sp: PORTIA
+    o:
+      - "It is so. Are there balance here to weigh"
+      - "The flesh?"
+    m:
+      - "Yes. Is there a scale here to weigh the flesh?"
+
+  - sp: SHYLOCK
+    o:
+      - "  I have them ready."
+    m:
+      - "I have it ready."
+
+  - sp: PORTIA
+    o:
+      - "Have by some surgeon, Shylock, on your charge,"
+      - "To stop his wounds lest he do bleed to death."
+    m:
+      - "Pay a surgeon to stand by and bind his wounds, Shylock, so he doesn’t bleed to death."
+
+  - sp: SHYLOCK
+    o:
+      - "Is it so nominated in the bond?"
+    m:
+      - "Is that called for in the contract?"
+
+  - sp: PORTIA
+    o:
+      - "It is not so expressed, but what of that?"
+      - "’Twere good you do so much for charity."
+    m:
+      - "Not explicitly, but so what? It wouldn’t hurt you to be charitable."
+
+  - sp: SHYLOCK
+    o:
+      - "I cannot find it. ’Tis not in the bond."
+    m:
+      - "I can’t find it. It’s not in the contract."
+
+  - sp: PORTIA
+    o:
+      - "*(to ANTONIO)* You, merchant, have you any thing to say?"
+    m:
+      - "*(to ANTONIO)* You, merchant, do you have anything to say?"
+
+  - sp: ANTONIO
+    o:
+      - "But little. I am armed and well prepared.—"
+      - "Give me your hand, Bassanio. Fare you well."
+      - "Grieve not that I am fall’n to this for you,"
+      - "For herein Fortune shows herself more kind"
+      - "Than is her custom. It is still her use"
+      - "To let the wretched man outlive his wealth,"
+      - "To view with hollow eye and wrinkled brow"
+      - "An age of poverty—from which lingering penance"
+      - "Of such misery doth she cut me off."
+      - "Commend me to your honorable wife."
+      - "Tell her the process of Antonio’s end."
+      - "Say how I loved you. Speak me fair in death."
+      - "And when the tale is told, bid her be judge"
+      - "Whether Bassanio had not once a love."
+      - "Repent but you that you shall lose your friend,"
+      - "And he repents not that he pays your debt."
+      - "For if the Jew do cut but deep enough,"
+      - "I’ll pay it presently with all my heart."
+    m:
+      - "Not much. I’m ready and waiting.—Give me your hand, Bassanio. Goodbye. Don’t be sad that this happened because of you, because Lady Luck’s been nicer to me than usual. Usually she makes the unhappy man live on after he loses his wealth, to spend his old age in poverty. But in my case she’s letting me avoid that misery. Send your honorable wife my greetings, and tell her how I died and how I loved you. Speak well of me after I’m dead, and when the tale’s done, ask her to judge whether Bassanio had a friend. Be sad only at the fact that you’ll lose your friend—your friend doesn’t regret that he paid your debt. If the Jew cuts deep enough, I’ll pay it instantly with all my heart."
+
+  - sp: BASSANIO
+    o:
+      - "Antonio, I am married to a wife"
+      - "Which is as dear to me as life itself."
+      - "But life itself, my wife, and all the world"
+      - "Are not with me esteemed above thy life."
+      - "I would lose all—ay, sacrifice them all"
+      - "Here to this devil—to deliver you."
+    m:
+      - "Antonio, I married a woman as dear to me as life itself. But life itself, my wife, and the whole world aren’t more valuable to me than your life is. I’d give it all up—yes, I’d sacrifice them all to this devil here—to save you."
+
+  - sp: PORTIA
+    o:
+      - "Your wife would give you little thanks for that"
+      - "If she were by to hear you make the offer."
+    m:
+      - "Your wife wouldn’t like it if she were here to hear you make that offer."
+
+  - sp: GRATIANO
+    o:
+      - "I have a wife, whom I protest I love."
+      - "I would she were in heaven, so she could"
+      - "Entreat some power to change this currish Jew."
+    m:
+      - "I have a wife I love. I wish she were in heaven so she could appeal to some power to make this dog Jew change his mind."
+
+  - sp: NERISSA
+    o:
+      - "’Tis well you offer it behind her back."
+      - "The wish would make else an unquiet house."
+    m:
+      - "It’s nice you’re offering to sacrifice her behind her back. That wish of yours could start quite an argument back at home."
+
+  - sp: SHYLOCK
+    o:
+      - "These be the Christian husbands. I have a daughter."
+      - "Would any of the stock of Barabbas"
+      - "Had been her husband rather than a Christian!—"
+      - "We trifle time. I pray thee, pursue sentence."
+    m:
+      - "That’s what you get for marrying Christian husbands. I have a daughter. I wish she’d married any one of Barabbas’ descendants instead of a Christian!—We’re wasting time. Please, deliver the sentence."
+
+  - sp: PORTIA
+    o:
+      - "A pound of that same merchant’s flesh is thine."
+      - "The court awards it, and the law doth give it."
+    m:
+      - "A pound of this merchant’s flesh is yours. The court awards it and the law authorizes it."
+
+  - sp: SHYLOCK
+    o:
+      - "Most rightful judge!"
+    m:
+      - "What a righteous judge!"
+
+  - sp: PORTIA
+    o:
+      - "And you must cut this flesh from off his breast."
+      - "The law allows it, and the court awards it."
+    m:
+      - "And you have to cut this flesh from his chest. The law allows it, and the court awards it."
+
+  - sp: SHYLOCK
+    o:
+      - "Most learnèd judge, a sentence! Come, prepare."
+    m:
+      - "What a wise judge! Come on, get ready."
+
+  - sp: PORTIA
+    o:
+      - "Tarry a little. There is something else."
+      - "This bond doth give thee here no jot of blood."
+      - "The words expressly are “a pound of flesh.”"
+      - "Take then thy bond, take thou thy pound of flesh,"
+      - "But in the cutting it if thou dost shed"
+      - "One drop of Christian blood, thy lands and goods"
+      - "Are by the laws of Venice confiscate"
+      - "Unto the state of Venice."
+    m:
+      - "But wait a moment. There’s something else. This contract doesn’t give you any blood at all. The words expressly specify “a pound of flesh.” So take your penalty of a pound of flesh, but if you shed one drop of Christian blood when you cut it, the state of Venice will confiscate your land and property under Venetian law."
+
+  - sp: GRATIANO
+    o:
+      - "O upright judge!—Mark, Jew.—O learnèd judge!"
+    m:
+      - "Oh, what an upright judge!—Pay attention, Jew.—Oh, what a smart judge!"
+
+  - sp: SHYLOCK
+    o:
+      - "Is that the law?"
+    m:
+      - "Is that the law?"
+
+  - sp: PORTIA
+    o:
+      - "Thyself shalt see the act."
+      - "For as thou urgest justice, be assured"
+      - "Thou shalt have justice more than thou desirest."
+    m:
+      - "You can see for yourself. You asked for justice, so rest assured you’ll get more justice than you bargained for."
+
+  - sp: GRATIANO
+    o:
+      - "O learnèd judge!—Mark, Jew, a learnèd judge!"
+    m:
+      - "Oh, what a wise judge!—Pay attention, Jew. A wise judge!"
+
+  - sp: SHYLOCK
+    o:
+      - "I take this offer then: pay the bond thrice"
+      - "And let the Christian go."
+    m:
+      - "In that case I’ll take their offer. Pay me three times the amount of the loan and let the Christian go."
+
+  - sp: BASSANIO
+    o:
+      - "    Here is the money."
+    m:
+      - "Here is the money."
+
+  - sp: PORTIA
+    o:
+      - "Soft!"
+      - "The Jew shall have all justice. Soft, no haste."
+      - "He shall have nothing but the penalty."
+    m:
+      - "Wait! The Jew will have justice. Wait, don’t rush! He’s not getting anything except the penalty."
+
+  - sp: GRATIANO
+    o:
+      - "O Jew! An upright judge, a learnèd judge!"
+    m:
+      - "Oh, Jew, what an upright judge this is! What a wise judge!"
+
+  - sp: PORTIA
+    o:
+      - "Therefore prepare thee to cut off the flesh."
+      - "Shed thou no blood, nor cut thou less nor more"
+      - "But just a pound of flesh. If thou takest more"
+      - "Or less than a just pound, be it but so much"
+      - "As makes it light or heavy in the substance"
+      - "Or the division of the twentieth part"
+      - "Of one poor scruple—nay, if the scale do turn"
+      - "But in the estimation of a hair,"
+      - "Thou diest and all thy goods are confiscate."
+    m:
+      - "So get ready to cut off the flesh. Don’t shed any blood, or cut less or more than exactly a pound of flesh. If you take more or less than exactly a pound, even if it’s just the tiniest fraction of an ounce—if the scale changes by even so much as a hair, you die, and all your property will be confiscated."
+
+  - sp: GRATIANO
+    o:
+      - "A second Daniel!—A Daniel, Jew!"
+      - "Now, infidel, I have you on the hip."
+    m:
+      - "A second Daniel!—A Daniel, Jew! I’ve got you now, pagan."
+
+  - sp: PORTIA
+    o:
+      - "Why doth the Jew pause? Take thy forfeiture."
+    m:
+      - "Why is the Jew waiting? Take your penalty."
+
+  - sp: SHYLOCK
+    o:
+      - "Give me my principal, and let me go."
+    m:
+      - "Give me my money and let me go."
+
+  - sp: BASSANIO
+    o:
+      - "I have it ready for thee. Here it is."
+    m:
+      - "I have it ready for you. Here it is."
+
+  - sp: PORTIA
+    o:
+      - "He hath refused it in the open court."
+      - "He shall have merely justice and his bond."
+    m:
+      - "No, he refused it publicly, in open court. He will have only justice and his penalty."
+
+  - sp: GRATIANO
+    o:
+      - "A Daniel, still say I, a second Daniel!—"
+      - "I thank thee, Jew, for teaching me that word."
+    m:
+      - "A Daniel, I keep saying it! A second Daniel!—Thank you, Jew, for teaching me that word."
+
+  - sp: SHYLOCK
+    o:
+      - "Shall I not have barely my principal?"
+    m:
+      - "I won’t even get the original three thousand ducats back?"
+
+  - sp: PORTIA
+    o:
+      - "Thou shalt have nothing but the forfeiture"
+      - "To be so taken at thy peril, Jew."
+    m:
+      - "You can’t have anything but the penalty, to be taken at your peril, Jew."
+
+  - sp: SHYLOCK
+    o:
+      - "Why then, the devil give him good of it!"
+      - "I’ll stay no longer question."
+    m:
+      - "Well, then, I hope he chokes on it! I’m not staying here to argue anymore."
+
+  - sp: PORTIA
+    o:
+      - "    Tarry, Jew."
+      - "The law hath yet another hold on you."
+      - "It is enacted in the laws of Venice,"
+      - "If it be proved against an alien"
+      - "That by direct or indirect attempts"
+      - "He seek the life of any citizen,"
+      - "The party ’gainst the which he doth contrive"
+      - "Shall seize one half his goods. The other half"
+      - "Comes to the privy coffer of the state,"
+      - "And the offender’s life lies in the mercy"
+      - "Of the Duke only ’gainst all other voice."
+      - "In which predicament I say thou stand’st,"
+      - "For it appears by manifest proceeding"
+      - "That indirectly—and directly too—"
+      - "Thou hast contrived against the very life"
+      - "Of the defendant, and thou hast incurred"
+      - "The danger formerly by me rehearsed."
+      - "Down, therefore, and beg mercy of the Duke."
+    m:
+      - "Wait a minute, Jew. The law has another hold on you. The laws of Venice state that if a foreign resident directly or indirectly attempts to kill any citizen, the person he tried to kill will receive one half of the foreigner’s goods. The other half goes to the state. Whether the offending person lives or dies is up to the duke—there’s no one else to appeal to. In your predicament you’ve earned that punishment, because you’ve clearly contrived indirectly—and directly too—to take the life of the defendant. So get down on your knees and beg mercy from the duke."
+
+  - sp: GRATIANO
+    o:
+      - "Beg that thou mayst have leave to hang thyself,"
+      - "And yet, thy wealth being forfeit to the state,"
+      - "Thou hast not left the value of a cord."
+      - "Therefore thou must be hanged at the state’s charge."
+    m:
+      - "Beg to be allowed to hang yourself! But if you’ve handed over all your wealth to the state, you don’t even have enough money left to buy a rope. So you’ll be hanged at the state’s expense."
+
+  - sp: DUKE
+    o:
+      - "That thou shalt see the difference of our spirit,"
+      - "I pardon thee thy life before thou ask it."
+      - "For half thy wealth, it is Antonio’s."
+      - "The other half comes to the general state,"
+      - "Which humbleness may drive unto a fine."
+    m:
+      - "I want you to see the difference between us, so I pardon you even before you ask for a pardon. Half of your wealth goes to Antonio. The other half goes to the state. However, if you show a proper humility, I may reduce this penalty to a fine."
+
+  - sp: PORTIA
+    o:
+      - "Ay, for the state, not for Antonio."
+    m:
+      - "Yes, the state’s half can be reduced, but not Antonio’s."
+
+  - sp: SHYLOCK
+    o:
+      - "Nay, take my life and all. Pardon not that."
+      - "You take my house when you do take the prop"
+      - "That doth sustain my house. You take my life"
+      - "When you do take the means whereby I live."
+    m:
+      - "No, go ahead and take my life. Don’t pardon that. You take my house away when you take the money I need for upkeep. You take my life when you take away my means of making a living."
+
+  - sp: PORTIA
+    o:
+      - "What mercy can you render him, Antonio?"
+    m:
+      - "What mercy can you show him, Antonio?"
+
+  - sp: GRATIANO
+    o:
+      - "A halter gratis, nothing else, for God’s sake."
+    m:
+      - "A hangman’s rope free of charge. Nothing else, for God’s sake!"
+
+  - sp: ANTONIO
+    o:
+      - "So please my lord the duke and all the court,"
+      - "To quit the fine for one half of his goods"
+      - "I am content, so he will let me have"
+      - "The other half in use to render it"
+      - "Upon his death unto the gentleman"
+      - "That lately stole his daughter."
+      - "Two things provided more: that for this favor"
+      - "He presently become a Christian;"
+      - "The other, that he do record a gift"
+      - "Here in the court, of all he dies possessed,"
+      - "Unto his son Lorenzo and his daughter."
+    m:
+      - "If the duke and his court agree to set aside the fine for one half of his property, I’m happy, as long as he lets me have the other half in trust, to give it to the gentleman who recently stole his daughter. I only ask two more things. First, Shylock must immediately become a Christian. Second, he must make a will here in this court that leaves all his property to his son-in-law Lorenzo and his daughter when he dies."
+
+  - sp: DUKE
+    o:
+      - "He shall do this, or else I do recant"
+      - "The pardon that I late pronouncèd here."
+    m:
+      - "He must do this, or I’ll recant the pardon I just delivered."
+
+  - sp: PORTIA
+    o:
+      - "Art thou contented, Jew? What dost thou say?"
+    m:
+      - "Are you satisfied, Jew? What do you say?"
+
+  - sp: SHYLOCK
+    o:
+      - "I am content."
+    m:
+      - "I’m satisfied."
+
+  - sp: PORTIA
+    o:
+      - "*(to NERISSA)*"
+      - "  Clerk, draw a deed of gift."
+    m:
+      - "*(to NERISSA)* Clerk, draw up a document to make his gift official."
+
+  - sp: SHYLOCK
+    o:
+      - "I pray you, give me leave to go from hence."
+      - "I am not well. Send the deed after me,"
+      - "And I will sign it."
+    m:
+      - "Please let me go. I’m not well. Send the deed after me and I’ll sign it."
+
+  - sp: DUKE
+    o:
+      - "  Get thee gone, but do it."
+    m:
+      - "Go, but sign the deed."
+
+  - sp: GRATIANO
+    o:
+      - "*(to SHYLOCK)*"
+      - "In christening shalt thou have two godfathers."
+      - "Had I been judge, thou shouldst have had ten more—"
+      - "To bring thee to the gallows, not to the font."
+    m:
+      - "*(to SHYLOCK)* When you’re baptized a Christian, you’ll have two godfathers. If I’d been the judge, you would’ve had ten more—twelve jurors to sentence you to death rather than baptism."
+
+  - os: "Exit SHYLOCK"
+    ms: "SHYLOCK exits."
+
+  - sp: DUKE
+    o:
+      - "*(to PORTIA)* Sir, I entreat you home with me to dinner."
+    m:
+      - "*(to PORTIA)* Sir, please come home with me to dinner."
+
+  - sp: PORTIA
+    o:
+      - "I humbly do desire your grace of pardon."
+      - "I must away this night toward Padua,"
+      - "And it is meet I presently set forth."
+    m:
+      - "I’m very sorry, sir, but I have to go to Padua tonight. I should really leave right away."
+
+  - sp: DUKE
+    o:
+      - "I am sorry that your leisure serves you not.—"
+      - "Antonio, gratify this gentleman,"
+      - "For in my mind you are much bound to him."
+    m:
+      - "I’m sorry you don’t have time.—Antonio, give this gentleman a reward. In my opinion, you owe him a lot."
+
+  - os: "Exit DUKE and his train"
+    ms: "The DUKE and his entourage exit."
+
+  - sp: BASSANIO
+    o:
+      - "*(to PORTIA)* Most worthy gentleman, I and my friend"
+      - "Have by your wisdom been this day acquitted"
+      - "Of grievous penalties, in lieu whereof"
+      - "Three thousand ducats due unto the Jew"
+      - "We freely cope your courteous pains withal."
+    m:
+      - "*(to PORTIA)* Sir, thanks to you my friend and I have been freed from paying some awful penalties today. Instead of giving the Jew the three thousand ducats he’s owed, we give it to you in gratitude for your kind efforts."
+
+  - sp: ANTONIO
+    o:
+      - "And stand indebted, over and above,"
+      - "In love and service to you evermore."
+    m:
+      - "And even then we’re still indebted to you. We owe you love and service forever."
+
+  - sp: PORTIA
+    o:
+      - "He is well paid that is well satisfied."
+      - "And I, delivering you, am satisfied,"
+      - "And therein do account myself well paid."
+      - "My mind was never yet more mercenary."
+      - "I pray you, know me when we meet again."
+      - "I wish you well, and so I take my leave."
+    m:
+      - "Being satisfied with a job well done is payment enough. In saving you I consider myself well paid. My thoughts were never on money. I hope you’ll recognize me when we meet again. I wish you well. Now, I’ve got to go."
+
+  - sp: BASSANIO
+    o:
+      - "Dear sir, of force I must attempt you further."
+      - "Take some remembrance of us as a tribute,"
+      - "Not as a fee. Grant me two things, I pray you:"
+      - "Not to deny me, and to pardon me."
+    m:
+      - "Sir, I really feel the need to give you something. Take some memento from us as a token of our gratitude, not as a fee. Please do two favors for me. First, don’t refuse me, and second, excuse me for insisting."
+
+  - sp: PORTIA
+    o:
+      - "You press me far and therefore I will yield."
+      - "*(to ANTONIO)*"
+      - "Give me your gloves. I’ll wear them for your sake."
+      - "*(to BASSANIO)*"
+      - "And for your love, I’ll take this ring from you."
+      - "Do not draw back your hand. I’ll take no more,"
+      - "And you in love shall not deny me this."
+    m:
+      - "Since you keep insisting, I’ll do as you say. *(to ANTONIO)* Give me your gloves. I’ll wear them for your sake. *(to BASSANIO)* And as a souvenir of your appreciation, I’ll take this ring from you. Don’t pull your hand back. I won’t take anything more than this, and you can’t refuse me this."
+
+  - sp: BASSANIO
+    o:
+      - "This ring, good sir—alas, it is a trifle."
+      - "I will not shame myself to give you this."
+    m:
+      - "This ring, sir—oh no, it’s nothing. I’d be ashamed to give you this."
+
+  - sp: PORTIA
+    o:
+      - "I will have nothing else but only this."
+      - "And now methinks I have a mind to it."
+    m:
+      - "I don’t want anything but that. Now that I think about it, I really want it."
+
+  - sp: BASSANIO
+    o:
+      - "There’s more depends on this than on the value."
+      - "The dearest ring in Venice will I give you,"
+      - "And find it out by proclamation."
+      - "Only for this, I pray you, pardon me."
+    m:
+      - "There’s more to this ring than its cash value. I’ll give you the most expensive ring in Venice, and I’ll make a public announcement to help me find it. But as for this ring, please excuse me."
+
+  - sp: PORTIA
+    o:
+      - "I see, sir, you are liberal in offers."
+      - "You taught me first to beg, and now methinks"
+      - "You teach me how a beggar should be answered."
+    m:
+      - "I see you like to make big offers, sir. First you taught me how to beg, and now I think you’re teaching me how a beggar should be answered."
+
+  - sp: BASSANIO
+    o:
+      - "Good sir, this ring was given me by my wife."
+      - "And when she put it on, she made me vow"
+      - "That I should neither sell nor give nor lose it."
+    m:
+      - "Good sir, this ring was given to me by my wife. When she put it on my finger, she made me swear never to sell it, give it away, or lose it."
+
+  - sp: PORTIA
+    o:
+      - "That ’scuse serves many men to save their gifts."
+      - "An if your wife be not a madwoman,"
+      - "And know how well I have deserved the ring,"
+      - "She would not hold out enemy forever"
+      - "For giving it to me. Well, peace be with you."
+    m:
+      - "Many men use that excuse to avoid giving gifts. If your wife’s not a madwoman, and you tell her how much I deserve this ring, she won’t stay angry at you forever if you give it to me. Well, anyway, goodbye."
+
+  - os: "Exeunt PORTIA and NERISSA"
+    ms: "PORTIA and NERISSA exit."
+
+  - sp: ANTONIO
+    o:
+      - "My Lord Bassanio, let him have the ring."
+      - "Let his deservings and my love withal"
+      - "Be valued against your wife’s commandment."
+    m:
+      - "Bassanio, let him have the ring. Consider how much he deserves it, and weigh that, along with my friendship, against your wife’s order."
+
+  - sp: BASSANIO
+    o:
+      - "*(giving GRATIANO the ring)*"
+      - "Go, Gratiano, run and overtake him."
+      - "Give him the ring and bring him, if thou canst,"
+      - "Unto Antonio’s house. Away, make haste."
+    m:
+      - "*(he gives GRATIANO the ring)* Go, Gratiano, run and catch up with him. Give him the ring, and take him to Antonio’s house if you can. Go quickly."
+
+  - os: "Exit GRATIANO"
+    ms: "GRATIANO exits."
+
+  - o:
+      - "Come, you and I will thither presently."
+      - "And in the morning early will we both"
+      - "Fly toward Belmont. Come, Antonio."
+    m:
+      - "Come on, you and I will go soon. Early in the morning we’ll both rush to Belmont. Come on, Antonio."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,145 @@
+play: The Merchant of Venice
+title: Act 2, Scene 5
+group: 2
+order: 7
+text:
+  - os: "Enter SHYLOCK the Jew and his man LAUNCELOT that was the clown"
+    ms: "SHYLOCK and LAUNCELOT enter"
+
+  - sp: SHYLOCK
+    o:
+      - "Well, thou shalt see, thy eyes shall be thy judge,"
+      - "The difference of old Shylock and Bassanio.—"
+      - "What, Jessica!—Thou shalt not gormandize"
+      - "As thou hast done with me.—What, Jessica!—"
+      - "And sleep and snore, and rend apparel out—"
+      - "Why, Jessica, I say!"
+    m:
+      - "Well, you’ll see it with your own eyes. You’ll see the difference between working for Shylock and working for Bassanio.—*(calling for his daughter)* Jessica!—You won’t eat like a pig like you used to do at my place.—Jessica!—And sleep, and snore, and wear your clothes out.—Jessica, I’m calling you!"
+
+  - sp: LAUNCELOT
+    o:
+      - "  Why, Jessica!"
+    m:
+      - "Jessica!"
+
+  - sp: SHYLOCK
+    o:
+      - "Who bids thee call? I do not bid thee call."
+    m:
+      - "Who asked you to call her? I’m not asking you to call her."
+
+  - sp: LAUNCELOT
+    o:
+      - "Your worship was wont to tell me that I could do nothing without bidding."
+    m:
+      - "You always loved to tell me I couldn’t do anything without being told."
+
+  - os: "Enter JESSICA"
+    ms: "JESSICA enters."
+
+  - sp: JESSICA
+    o:
+      - "Call you? What is your will?"
+    m:
+      - "Did you call me? Do you need something?"
+
+  - sp: SHYLOCK
+    o:
+      - "I am bid forth to supper, Jessica."
+      - "There are my keys.—But wherefore should I go?"
+      - "I am not bid for love. They flatter me."
+      - "But yet I’ll go in hate to feed upon"
+      - "The prodigal Christian.—Jessica, my girl,"
+      - "Look to my house. I am right loath to go."
+      - "There is some ill a-brewing towards my rest,"
+      - "For I did dream of money bags tonight."
+    m:
+      - "I’ve been invited to supper, Jessica. Here are my keys.—But why should I go? I wasn’t invited because they like me. They’re just flattering me. But I’ll go out of spite, to feed off the wasteful Christian.—Jessica, my girl, watch the house. I don’t feel like going. Things aren’t going my way right now. I know because I dreamed of money bags last night."
+
+  - sp: LAUNCELOT
+    o:
+      - "I beseech you, sir, go. My young master doth expect your reproach."
+    m:
+      - "Please go, sir. My new master is expecting your approach."
+
+  - sp: SHYLOCK
+    o:
+      - "So do I his."
+    m:
+      - "And I’m expecting his reproach."
+
+  - sp: LAUNCELOT
+    o:
+      - "And they have conspired together. I will not say you shall see a masque, but if you do then it was not for nothing that my nose fell a-bleeding on Black Monday last at six o’clock i’ th’ morning falling out that year on Ash Wednesday was four year in th’ afternoon."
+    m:
+      - "And they’ve been plotting things together. I’m not saying you’ll get a masquerade party, but if you do, I predicted it. I knew there would be a masquerade when I got that bad omen of a bloody nose last Easter Monday, at six in the morning, four years after I got the same kind of bloody nose on Ash Wednesday, in the afternoon."
+
+  - sp: SHYLOCK
+    o:
+      - "What, are there masques? Hear you me, Jessica."
+      - "Lock up my doors, and when you hear the drum"
+      - "And the vile squealing of the wry-necked fife,"
+      - "Clamber not you up to the casements then,"
+      - "Nor thrust your head into the public street"
+      - "To gaze on Christian fools with varnished faces."
+      - "But stop my house’s ears—I mean my casements—"
+      - "Let not the sound of shallow foppery enter"
+      - "My sober house. By Jacob’s staff, I swear,"
+      - "I have no mind of feasting forth tonight."
+      - "But I will go.—Go you before me, sirrah."
+      - "Say I will come."
+    m:
+      - "What, there’s going to be a masquerade? Listen to me, Jessica, lock my doors up, and when you hear the drum and the nasty squealing of the flute, don’t climb up to the windows. Don’t stick your head out into the public street to stare at the Christian fools with painted faces. Block up my house’s ears—I mean the windows. Don’t let the noise of shallow fools enter my serious house. I swear, I’m in no mood to go out to dinner tonight, but I’ll go anyway.—Launcelot, go tell them I’ll come."
+
+  - sp: LAUNCELOT
+    o:
+      - "  I will go before, sir.—"
+      - "Mistress, look out at window, for all this."
+      - "There will come a Christian by"
+      - "Will be worth a Jewess’ eye."
+    m:
+      - "I’ll go ahead of you, sir. *(to JESSICA)* Mistress, be on the lookout when you’re staring out the window. A Christian’s coming who’ll be worth a Jewess’ glance."
+
+  - os: "Exit LAUNCELOT"
+    ms: "LAUNCELOT exits."
+
+  - sp: SHYLOCK
+    o:
+      - "What says that fool of Hagar’s offspring, ha?"
+    m:
+      - "What did that gentile fool say to you, hmmm?"
+
+  - sp: JESSICA
+    o:
+      - "His words were, “Farewell, mistress.” Nothing else."
+    m:
+      - "He said “Goodbye, madam,” and nothing else."
+
+  - sp: SHYLOCK
+    o:
+      - "The patch is kind enough, but a huge feeder,"
+      - "Snail-slow in profit, and he sleeps by day"
+      - "More than the wildcat. Drones hive not with me."
+      - "Therefore I part with him, and part with him"
+      - "To one that would have him help to waste"
+      - "His borrowed purse. Well, Jessica, go in."
+      - "Perhaps I will return immediately."
+      - "Do as I bid you. Shut doors after you."
+      - "Fast bind, fast find."
+      - "A proverb never stale in thrifty mind."
+    m:
+      - "The fool’s nice enough, but he’s such a huge eater, and slow as a snail when he works. He sleeps all day like a cat. Bees that don’t work can’t stay in my hive, so I’m letting him go, handing him off so he can waste money for his new boss, the man who borrowed money from me. Anyway, Jessica, go inside. I might come back soon. Do as I told you. Shut the doors after you. As the saying goes, lock things up, and you’ll get to keep them."
+
+  - os: "Exit SHYLOCK"
+    ms: "  He exits."
+
+  - sp: JESSICA
+    o:
+      - "Farewell, and if my fortune be not crost,"
+      - "I have a father, you a daughter, lost."
+    m:
+      - "Goodbye. If luck’s with me, I’ll lose a father, and you’ll lose a daughter."
+
+  - os: "Exit"
+    ms: "She exits."

@@ -1,0 +1,502 @@
+play: Henry IV, Part II
+title: Act 2, Scene 2
+group: 2
+order: 5
+text:
+  - os: "Enter PRINCE HENRY and POINS"
+    ms: "PRINCE HENRY and POINS enter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Before God, I am exceeding weary."
+    m:
+      - "I swear to God, I’m exceedingly tired."
+
+  - sp: POINS
+    o:
+      - "Is ’t come to that? I had thought weariness durst not have"
+      - "attached one of so high blood."
+    m:
+      - "Really? I would have thought that weariness wouldn’t dare afflict someone as highly born as you."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Faith, it does me; though it discolors the complexion of my"
+      - "greatness to acknowledge it. Doth it not show vilely in me"
+      - "to desire small beer?"
+    m:
+      - "Well, it afflicts me, although saying so dims my nobility somewhat. Does it make me seem coarse and common to say that I’d love a small beer?"
+
+  - sp: POINS
+    o:
+      - "Why, a prince should not be so loosely studied as to"
+      - "remember so weak a composition."
+    m:
+      - "A prince shouldn’t be vulgarly inclined toward things like small beer."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Belike then my appetite was not princely got, for, by my"
+      - "troth, I do now remember the poor creature small beer. But"
+      - "indeed these humble considerations make me out of love"
+      - "with my greatness. What a disgrace is it to me to remember"
+      - "thy name, or to know thy face tomorrow, or to take note how"
+      - "many pair of silk stockings thou hast—with these, and those"
+      - "that were thy peach-colored ones—or to bear the inventory"
+      - "of thy shirts, as, one for superfluity and another for use. But"
+      - "that the tennis-court keeper knows better than I, for it is a"
+      - "low ebb of linen with thee when thou keepest not racket"
+      - "there, as thou hast not done a great while, because the rest of"
+      - "the low countries have made a shift to eat up thy holland; and"
+      - "God knows whether those that bawl out the ruins of thy linen"
+      - "shall inherit His kingdom; but the midwives say the children"
+      - "are not in the fault, whereupon the world increases and"
+      - "kindreds are mightily strengthened."
+    m:
+      - "Then I suppose don’t have a prince’s appetite, because right now all I can think about is small beer. But it’s true: all these everyday considerations distance me from my own nobility. It’s disgraceful that I should be familiar with a man like you! To know your name, your face, and your wardrobe so intimately that I know that you have two pairs of stockings: the ones you’re wearing now, and those peach-colored ones. I even know how many shirts you have: one to wear, and one extra. But then, the keeper of the tennis courts knows your wardrobe better than I do, for when you’ve run out of clean shirts, you don’t show up to play. And you haven’t played in a while, because the whore houses have eaten all the rest of your money, which you’d otherwise use to buy more shirts. God only knows whether all the crying brats you’ve fathered will make it to heaven. But then, the midwives say that babies don’t bear the sins of the parents. That’s how the population increases, and families are strengthened."
+
+  - sp: POINS
+    o:
+      - "How ill it follows, after you have labored so hard, you should"
+      - "talk so idly! Tell me, how many good young princes would"
+      - "do so, their fathers being so sick as yours at this time is?"
+    m:
+      - "It seems wrong, after all your hard work in battle, that you should be spending your time now in idle chatter. How many other princes would behave like this if their fathers were as sick as yours?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Shall I tell thee one thing, Poins?"
+    m:
+      - "Can I tell you something, Poins?"
+
+  - sp: POINS
+    o:
+      - "Yes, faith, and let it be an excellent good thing."
+    m:
+      - "Sure; and make sure it’s an excellent thing."
+
+  - sp: PRINCE HENRY
+    o:
+      - "It shall serve among wits of no higher breeding than thine."
+    m:
+      - "It’ll be fine, for people who aren’t any smarter than you are."
+
+  - sp: POINS
+    o:
+      - "Go to. I stand the push of your one thing that you will tell."
+    m:
+      - "Go ahead. I’m can take whatever you have to say."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Marry, I tell thee it is not meet that I should be sad, now my"
+      - "father is sick—albeit I could tell thee, as to one it pleases me,"
+      - "for fault of a better, to call my friend, I could be sad, and sad"
+      - "indeed too."
+    m:
+      - "Here it is, then. It’s not seemly for me to be sad over my father’s illness. But I could tell you—as a person who, for lack of anyone else, I’m pleased to call my friend—that I could be sad. I could be very sad, indeed."
+
+  - sp: POINS
+    o:
+      - "Very hardly, upon such a subject."
+    m:
+      - "It would be difficult to feel that way over a thing like this."
+
+  - sp: PRINCE HENRY
+    o:
+      - "By this hand, thou thinkest me as far in the devil’s book as"
+      - "thou and Falstaff for obduracy and persistency. Let the end"
+      - "try the man. But I tell thee, my heart bleeds inwardly that my"
+      - "father is so sick: and keeping such vile company as thou art"
+      - "hath in reason taken from me all ostentation of sorrow."
+    m:
+      - "I swear, you must think that I’m as sinful as you and Falstaff are, and as stubborn and persistent. We’ll see about that. But I’m telling you: my heart is bleeding for my father, and for his illness. But because I’m hanging out with lowlifes like you, I can’t show how sorrowful I am."
+
+  - sp: POINS
+    o:
+      - "The reason?"
+    m:
+      - "Why?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "What wouldst thou think of me if I should weep?"
+    m:
+      - "What would you think of me if I started crying?"
+
+  - sp: POINS
+    o:
+      - "I would think thee a most princely hypocrite."
+    m:
+      - "I would think you’re a royal hypocrite."
+
+  - sp: PRINCE HENRY
+    o:
+      - "It would be every man’s thought, and thou art a blessed"
+      - "fellow to think as every man thinks. Never a man’s thought"
+      - "in the world keeps the roadway better than thine. Every man"
+      - "would think me an hypocrite indeed. And what accites your"
+      - "most worshipful thought to think so?"
+    m:
+      - "That’s what everyone would be thinking. And what’s great about you is that you think just the way everyone else does: nobody sticks to popular opinion quite as well as you. Everyone would think I was a hypocrite, indeed. And, your honor, what makes you think that?"
+
+  - sp: POINS
+    o:
+      - "Why, because you have been so lewd and so much engraffed"
+      - "to Falstaff."
+    m:
+      - "Because you’ve behaved so badly, and because you’re so attached to Falstaff."
+
+  - sp: PRINCE HENRY
+    o:
+      - "And to thee."
+    m:
+      - "And to you."
+
+  - sp: POINS
+    o:
+      - "By this light, I am well spoke on. I can hear it with my own"
+      - "ears. The worst that they can say of me is that I am a second"
+      - "brother, and that I am a proper fellow of my hands; and those"
+      - "two things, I confess, I cannot help. By the Mass, here comes"
+      - "Bardolph."
+    m:
+      - "Honestly, people think highly of me; I hear their praises with my own ears. The worst thing they can say about me is that, as a younger brother, I’ve had no inheritance from my family, and that I’m a good fighter. And I can’t help either of those things. By God, here comes Bardolph."
+
+  - os: "Enter BARDOLPH and the PAGE"
+    ms: "BARDOLPH and the PAGE enter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "And the boy that I gave Falstaff. He had him from me"
+      - "Christian, and look if the fat villain have not transformed"
+      - "him ape."
+    m:
+      - "And the boy who I sent to work for Falstaff. He was a normal boy when I sent him, and now look: the fat bastard’s turned him into an ape."
+
+  - sp: BARDOLPH
+    o:
+      - "God save your Grace."
+    m:
+      - "God save your grace!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "And yours, most noble Bardolph."
+    m:
+      - "And yours, most noble Bardolph!"
+
+  - sp: POINS
+    o:
+      - "*(to BARDOLPH)* Come, you virtuous ass, you bashful fool,"
+      - "must you be blushing? Wherefore blush you now? What a"
+      - "maidenly man-at-arms are you become! Is ’t such a matter"
+      - "to get a pottle-pot’s maidenhead?"
+    m:
+      - "*(to BARDOLPH)* Come on, you principled ass, you timid fool! Why are you blushing? What a womanly solider you are! Is it that big a deal to deflower a two-quart tankard of ale?"
+
+  - sp: PAGE
+    o:
+      - "He calls me e’en now, my lord, through a red lattice, and I"
+      - "could discern no part of his face from the window. At last I"
+      - "spied his eyes, and methought he had made two holes in the"
+      - "ale-wife’s new petticoat and so peeped through."
+    m:
+      - "Just now he called to me from behind a red window shade, and I couldn’t tell his face from the curtain! Finally I saw his eyes, and I thought he’d made two holes in a whore’s skirt and peeped through them!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Has not the boy profited?"
+    m:
+      - "This kid’s learned a lot from Falstaff, hasn’t he?"
+
+  - sp: BARDOLPH
+    o:
+      - "Away, you whoreson upright rabbit, away!"
+    m:
+      - "Get out of here, you little rabbit! Get out!"
+
+  - sp: PAGE
+    o:
+      - "Away, you rascally Althea’s dream, away!"
+    m:
+      - "You get out, you rotten Althea’s dream!"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Instruct us, boy. What dream, boy?"
+    m:
+      - "What dream, boy? Tell us."
+
+  - sp: PAGE
+    o:
+      - "Marry, my lord, Althea dreamt she was delivered of a"
+      - "firebrand, and therefore I call him her dream."
+    m:
+      - "Sir, Althea dreamed she gave birth to a red-hot iron. That’s why I call him her dream; he’s all red in the face."
+
+  - sp: PRINCE HENRY
+    o:
+      - "A crown’s worth of good interpretation. There ’tis, boy."
+    m:
+      - "That joke’s worth a crown! Here you go, boy."
+
+  - sp: POINS
+    o:
+      - "O, that this good blossom could be kept from cankers! Well,"
+      - "there is sixpence to preserve thee."
+    m:
+      - "I wish this wholesome little flower could be kept away from disease. Well, here’s a sixpence for you."
+
+  - sp: BARDOLPH
+    o:
+      - "An you do not make him hanged among you, the gallows"
+      - "shall have wrong."
+    m:
+      - "If between the three of you this boy doesn’t end up hanged, the gallows will be cheated."
+
+  - sp: PRINCE HENRY
+    o:
+      - "And how doth thy master, Bardolph?"
+    m:
+      - "How’s your master Falstaff doing, Bardolph?"
+
+  - sp: BARDOLPH
+    o:
+      - "Well, my good lord. He heard of your Grace’s coming to"
+      - "town. There’s a letter for you."
+    m:
+      - "Fine, sir. He heard you were coming to town. Here’s a letter for you."
+
+  - sp: POINS
+    o:
+      - "Delivered with good respect. And how doth the Martlemas"
+      - "your master?"
+    m:
+      - "Delivered very respectfully. How is that fattened calf, your boss?"
+
+  - sp: BARDOLPH
+    o:
+      - "In bodily health, sir."
+    m:
+      - "His body’s healthy, sir."
+
+  - sp: POINS
+    o:
+      - "Marry, the immortal part needs a physician, but that moves"
+      - "not him. Though that be sick, it dies not."
+    m:
+      - "That’s right, it’s just his immortal soul that needs a doctor. But he doesn’t care. His soul may be sick, but it won’t die."
+
+  - sp: PRINCE HENRY
+    o:
+      - "*(reads to himself)* I do allow this wen to be as familiar with"
+      - "me as my dog, and he holds his place, for look you how be"
+      - "writes. *(he hands the letter to POINS)*"
+    m:
+      - "*(reads to himself)* I allow this wart to be as familiar with me as my dog, and he holds onto his privileged position. Listen to how he writes. *(he hands the letter to POINS)*"
+
+  - sp: POINS
+    o:
+      - "*(reads)* *John Falstaff, knight.* Every man must know that as"
+      - "oft as he has occasion to name himself, even like those that"
+      - "are kin to the King, for they never prick their finger but they"
+      - "say, “There’s some of the King’s blood spilt.” “How comes"
+      - "that?” says he that takes upon him not to conceive. The"
+      - "answer is as ready as a borrower’s cap: “I am the King’s"
+      - "poor cousin, sir.”"
+    m:
+      - "*(reads)* “John Falstaff, knight”—he always throws that title around, every chance he gets. It’s like people who are related to the King: every time they get a tiny cut, they say, “Some of the King’s blood has been spilled.” Then someone pretends not to get it, and asks, “How do you mean?” The answer comes faster than a beggar can whip out his cap: “I’m the King’s poor relative.”"
+
+  - sp: PRINCE HENRY
+    o:
+      - "Nay, they will be kin to us, or they will fetch it from Japheth. But to the letter. *(takes the letter and reads) Sir John alstaff, knight, to the son of the King nearest his father, Harry Prince of Wales, greeting.*"
+    m:
+      - "Right. They all say they’re related to us, even if they have to trace the family tree all the way back to Japhet, the common ancestor of all Europeans. But back to the letter. *(takes the letter and reads)* “Sir John Falstaff—knight to the son of the King, nearest to his father, Harry Prince of Wales—sends his greetings.”"
+
+  - sp: POINS
+    o:
+      - "Why, this is a certificate."
+    m:
+      - "Listen to that. It sounds like a contract."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Peace! *(reads) I will imitate the honorable Romans in brevity.*"
+    m:
+      - "Quiet! *(reads)* “I will copy the Romans in shortness.”"
+
+  - sp: POINS
+    o:
+      - "He sure means brevity in breath, short-winded."
+    m:
+      - "He must mean shortness of breath, and wheezing."
+
+  - sp: PRINCE HENRY
+    o:
+      - "*(reads) I commend me to thee, I commend thee, and I leave thee. Be not too familiar with Poins, for he misuses thy favors so much that he swears thou art to marry his sister* *Nell. Repent at idle times as thou mayest, and so, farewell. Thine by yea and no, which is as much as to say, as thou usest him, Jack Falstaff with my familiars, John with my brothers and sisters, and Sir John with all Europe.*"
+    m:
+      - "*(reads)* “I salute myself, I salute you, and I’m done. Don’t get too close to Poins. He takes such rampant advantage of your kindness that he swears you will marry his sister Nell. Confess your sins when you have the time; and with that, farewell. Yours up and down (which is to say, in whatever way you feel like), I remain Jack Falstaff to my friends, John to my brothers and sisters, and Sir John to all Europe.”"
+
+  - sp: POINS
+    o:
+      - "My lord, I’ll steep this letter in sack and make him eat it."
+    m:
+      - "Sir, I’ll soak this letter in wine and shove it down his throat."
+
+  - sp: PRINCE HENRY
+    o:
+      - "That’s to make him eat twenty of his words. But do you use"
+      - "me thus, Ned? Must I marry your sister?"
+    m:
+      - "That would be making him eat twenty of his words. But are you taking advantage of me like he says, Ned? Must I marry your sister?"
+
+  - sp: POINS
+    o:
+      - "God send the wench no worse fortune! But I never said so."
+    m:
+      - "It would be her lucky day if you did. But I never said that."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Well, thus we play the fools with the time, and the spirits of"
+      - "the wise sit in the clouds and mock us. *(to BARDOLPH)* Is your"
+      - "master here in London?"
+    m:
+      - "Well, we’re wasting time, and the angels in heaven are mocking us. *(to BARDOLPH)* Is your boss here in London?"
+
+  - sp: BARDOLPH
+    o:
+      - "Yea, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Where sups he? Doth the old boar feed in the old frank?"
+    m:
+      - "Where’s he eating tonight? Is the old pig eating in the old sty?"
+
+  - sp: BARDOLPH
+    o:
+      - "At the old place, my lord, in Eastcheap."
+    m:
+      - "At the old place, my lord. In Eastcheap."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What company?"
+    m:
+      - "Who’s with him?"
+
+  - sp: PAGE
+    o:
+      - "Ephesians, my lord, of the old church."
+    m:
+      - "The usual old characters."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Sup any women with him?"
+    m:
+      - "Are any women eating with him?"
+
+  - sp: PAGE
+    o:
+      - "None, my lord, but old Mistress Quickly and Mistress Doll"
+      - "Tearsheet."
+    m:
+      - "No women sir. Just old Mistress Quickly and Mistress Doll Tearsheet."
+
+  - sp: PRINCE HENRY
+    o:
+      - "What pagan may that be?"
+    m:
+      - "What heathen is that?"
+
+  - sp: PAGE
+    o:
+      - "A proper gentlewoman, sir, and a kinswoman of my"
+      - "master’s."
+    m:
+      - "A proper lady, sir, and my master’s relative."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Even such kin as the parish heifers are to the town bull.—"
+      - "Shall we steal upon them, Ned, at supper?"
+    m:
+      - "Exactly the kind of relative as the country cows are to the town bull. Ned, should we spy on them as they eat supper?"
+
+  - sp: POINS
+    o:
+      - "I am your shadow, my lord. I’ll follow you."
+    m:
+      - "I’m after you like a shadow, my lord: I’ll follow you."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Sirrah—you, boy—and Bardolph, no word to your master"
+      - "that I am yet come to town. *(gives them money)* There’s for"
+      - "your silence."
+    m:
+      - "Sirrah, you boy, and you, Bardolph—don’t tell your master that I’m back in town. *(gives them money)* This is for your silence."
+
+  - sp: BARDOLPH
+    o:
+      - "I have no tongue, sir."
+    m:
+      - "I have no tongue to speak with, sir."
+
+  - sp: PAGE
+    o:
+      - "And for mine, sir, I will govern it."
+    m:
+      - "As for my tongue, I’ll manage it."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Fare you well. Go."
+    m:
+      - "Farewell to you both; go now."
+
+  - os: "Exeunt BARDOLPH and PAGE"
+    ms: "BARDOLPH and the PAGE exit."
+
+  - o:
+      - "This Doll Tearsheet should be some road."
+    m:
+      - "This Doll Tearsheet must be some road."
+
+  - sp: POINS
+    o:
+      - "I warrant you, as common as the way between Saint Alban’s"
+      - "and London."
+    m:
+      - "Truly, she’s as well-traveled as the highway to London."
+
+  - sp: PRINCE HENRY
+    o:
+      - "How might we see Falstaff bestow himself tonight in his true"
+      - "colors, and not ourselves be seen?"
+    m:
+      - "How can we see Falstaff behave like his true self tonight, and yet not be detected ourselves?"
+
+  - sp: POINS
+    o:
+      - "Put on two leathern jerkins and aprons, and wait upon him"
+      - "at his table as drawers."
+    m:
+      - "We’ll put on leather jackets and aprons and wait upon him as bartenders."
+
+  - sp: PRINCE HENRY
+    o:
+      - "From a god to a bull: a heavy decension. It was Jove’s case."
+      - "From a prince to a ’prentice: a low transformation that shall"
+      - "be mine, for in everything the purpose must weigh with the"
+      - "folly. Follow me, Ned."
+    m:
+      - "Should a God disguise himself as a bull? That’s quite a degradation. Well, Jove did it. And should a prince disguise himself as an apprentice bartender and transform into something so lowly? Yes, I will: in every undertaking, the ends must match the means. Follow me, Ned."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,759 @@
+play: King Lear
+title: Act 4, Scene 6
+group: 4
+order: 21
+text:
+  - os: "Enter GLOUCESTER, and EDGAR disguised in peasant clothing"
+    ms: "GLOUCESTER enters with EDGAR, who is dressed as a peasant."
+
+  - sp: GLOUCESTER
+    o:
+      - "When shall we come to th’ top of that same hill?"
+    m:
+      - "When will we get to the top of that cliff?"
+
+  - sp: EDGAR
+    o:
+      - "You do climb up it now. Look how we labor."
+    m:
+      - "We’re walking up to the top right now. See how hard it is to climb?"
+
+  - sp: GLOUCESTER
+    o:
+      - "Methinks the ground is even."
+    m:
+      - "The ground feels flat to me."
+
+  - sp: EDGAR
+    o:
+      - "    Horrible steep."
+      - "Hark, do you hear the sea?"
+    m:
+      - "No, it’s dreadfully steep. Listen. Do you hear the sea?"
+
+  - sp: GLOUCESTER
+    o:
+      - "  No, truly."
+    m:
+      - "No, really, I don’t."
+
+  - sp: EDGAR
+    o:
+      - "Why then, your other senses grow imperfect"
+      - "By your eyes’ anguish."
+    m:
+      - "Then your other senses must be getting worse because of the trauma of blindness."
+
+  - sp: GLOUCESTER
+    o:
+      - "  So may it be indeed."
+      - "Methinks thy voice is altered, and thou speak’st"
+      - "In better phrase and matter than thou didst."
+    m:
+      - "It may be so. It seems to me that your voice has changed, and that your speech is more elegant than it used to be."
+
+  - sp: EDGAR
+    o:
+      - "You’re much deceived. In nothing am I changed"
+      - "But in my garments."
+    m:
+      - "You’re mistaken about all that. The only thing different about me is my clothes."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Methinks you’re better spoken."
+    m:
+      - "I think you’re more articulate."
+
+  - sp: EDGAR
+    o:
+      - "Come on, sir. Here’s the place. Stand still. How fearful"
+      - "And dizzy ’tis to cast one’s eyes so low!"
+      - "The crows and choughs that wing the midway air"
+      - "Show scarce so gross as beetles. Halfway down"
+      - "Hangs one that gathers samphire—dreadful trade!"
+      - "Methinks he seems no bigger than his head."
+      - "The fishermen that walk upon the beach"
+      - "Appear like mice. And yon tall anchoring bark,"
+      - "Diminished to her cock, her cock a buoy"
+      - "Almost too small for sight. The murmuring surge"
+      - "That on th’ unnumbered idle pebbles chafes"
+      - "Cannot be heard so high. I’ll look no more"
+      - "Lest my brain turn and the deficient sight"
+      - "Topple down headlong."
+    m:
+      - "Come on, sir. This is the place. Stand still. It’s so scary to look down! It makes me dizzy. The crows flying down below look as small as ants. Halfway down the cliff there’s somebody clinging to the rock and gathering wild herbs—a risky business! He looks like a dot to me. The fishermen walking along the beach are as small as mice. That big ship over there looks no bigger than its lifeboat, and its lifeboat looks as small as a tiny buoy. Up here you can’t even hear the waves crashing against the rocks. I have to stop looking, or my head will start spinning and I’ll fall."
+
+  - sp: GLOUCESTER
+    o:
+      - "Set me where you stand."
+    m:
+      - "Lead me to where you’re standing."
+
+  - sp: EDGAR
+    o:
+      - "Give me your hand. You are now within a foot"
+      - "Of th’ extreme verge. For all beneath the moon"
+      - "Would I not leap upright."
+    m:
+      - "Give me your hand. You’re now within a foot of the cliff’s edge. I wouldn’t try to jump up and down here for anything on earth."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Let go my hand."
+      - "*(gives EDGAR another purse)*"
+      - "Here, friend, ’s another purse, in it a jewel"
+      - "Well worth a poor man’s taking. Fairies and gods"
+      - "Prosper it with thee! Go thou farther off."
+      - "Bid me farewell, and let me hear thee going."
+    m:
+      - "Let go of my hand. *(he gives EDGAR another purse)* Here’s another purse, my friend. Inside it there’s a jewel that any poor man would be happy to have. I hope it’s only the beginning of future prosperity for you. Now go further away. Say goodbye to me, and let me hear your footsteps as you walk away."
+
+  - sp: EDGAR
+    o:
+      - "Now fare you well, good sir."
+    m:
+      - "Goodbye, good sir."
+
+  - sp: GLOUCESTER
+    o:
+      - "  With all my heart."
+    m:
+      - "With all my heart."
+
+  - os: "EDGAR moves aside"
+    ms: "EDGAR moves aside."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* Why I do trifle thus with his despair"
+      - "Is done to cure it."
+    m:
+      - "*(to himself)* I’m toying with his despair to cure him of it."
+
+  - sp: GLOUCESTER
+    o:
+      - "  O you mighty gods, *(kneels)*"
+      - "This world I do renounce, and in your sights"
+      - "Shake patiently my great affliction off."
+      - "If I could bear it longer and not fall"
+      - "To quarrel with your great opposeless wills,"
+      - "My snuff and loathèd part of nature should"
+      - "Burn itself out. If Edgar live, O, bless him!—"
+      - "Now, fellow, fare thee well. *(falls)*"
+    m:
+      - "Oh, you mighty gods! *(he kneels)* I hereby renounce this world and all my troubles and torments. If I could bear them better, and not fight against your unstoppable decisions, then I would simply wait until I expired naturally. If Edgar’s alive, bless him, gods!—Now, man, goodbye. *(he falls)*"
+
+  - sp: EDGAR
+    o:
+      - "  Gone, sir. Farewell."
+      - "*(aside)* And yet I know not how conceit may rob"
+      - "The treasury of life when life itself"
+      - "Yields to the theft. Had he been where he thought,"
+      - "By this had thought been past. Alive or dead?—"
+      - "Ho you, sir, friend! Hear you, sir? Speak.—"
+      - "Thus might he pass indeed. Yet he revives.—"
+      - "What are you, sir?"
+    m:
+      - "Gone, sir. Goodbye. *(to himself)* But I still wonder if it’s possible for his own imagination to kill him, since he’s so willing to die. If he’d been standing on the edge of the cliff as he thought, he’d be dead right now. Is he alive or dead?—Hey, sir, friend! Can you hear me? Answer me.—Maybe he passed away after all. But no, he’s stirring.—Who are you, sir?"
+
+  - sp: GLOUCESTER
+    o:
+      - "  Away, and let me die."
+    m:
+      - "Go away and let me die."
+
+  - sp: EDGAR
+    o:
+      - "Hadst thou been aught but gossamer, feathers, air,"
+      - "So many fathom down precipitating,"
+      - "Thou’dst shivered like an egg. But thou dost breathe,"
+      - "Hast heavy substance, bleed’st not, speak’st, art sound."
+      - "Ten masts at each make not the altitude"
+      - "Which thou hast perpendicularly fell."
+      - "Thy life’s a miracle. Speak yet again."
+    m:
+      - "Even if you were made of feathers and air, you should’ve been smashed in pieces like an egg after falling as far as you just did. But your flesh is solid, your mind is strong, you’re breathing and talking, you’re not bleeding. You just fell the height of ten ship masts, straight down. It’s a miracle you’re alive. Say something again."
+
+  - sp: GLOUCESTER
+    o:
+      - "But have I fall’n, or no?"
+    m:
+      - "But did I fall or not?"
+
+  - sp: EDGAR
+    o:
+      - "From the dread summit of this chalky bourn."
+      - "Look up a-height. The shrill-gorged lark so far"
+      - "Cannot be seen or heard. Do but look up."
+    m:
+      - "You fell from the terrifying top of this chalk cliff. Look for yourself—see the top of the cliff way up there? The lark shrilly singing up there is too far away to be heard. Just look."
+
+  - sp: GLOUCESTER
+    o:
+      - "Alack, I have no eyes."
+      - "Is wretchedness deprived that benefit,"
+      - "To end itself by death? ’Twas yet some comfort"
+      - "When misery could beguile the tyrant’s rage"
+      - "And frustrate his proud will."
+    m:
+      - "I can’t. I have no eyes. If you’re wretched and desperate, aren’t you allowed to kill yourself? It used to be the last ditch comfort of miserable people."
+
+  - sp: EDGAR
+    o:
+      - "  Give me your arm."
+      - "Up so. How is ’t? Feel you your legs? You stand."
+    m:
+      - "Give me your arm. Get up. There you go. How do you feel? Can you feel your legs? You’re standing."
+
+  - sp: GLOUCESTER
+    o:
+      - "Too well, too well."
+    m:
+      - "Only too well."
+
+  - sp: EDGAR
+    o:
+      - "  This is above all strangeness."
+      - "Upon the crown o’ th’ cliff, what thing was that"
+      - "Which parted from you?"
+    m:
+      - "This is beyond weird. What was that thing I saw moving away from you up on the cliff before you fell?"
+
+  - sp: GLOUCESTER
+    o:
+      - "  A poor unfortunate beggar."
+    m:
+      - "That was a poor unlucky beggar."
+
+  - sp: EDGAR
+    o:
+      - "As I stood here below, methought his eyes"
+      - "Were two full moons. He had a thousand noses,"
+      - "Horns whelked and waved like the enragèd sea."
+      - "It was some fiend. Therefore, thou happy father,"
+      - "Think that the clearest gods, who make them honors"
+      - "Of men’s impossibilities, have preserved thee."
+    m:
+      - "From down here, I thought his eyes looked like full moons. He had a thousand noses and twisted horns, like wave crests in a storm at sea. It was some devil. You lucky old man, it seems that the gods have saved your life. They love to perform miracles so that humans will worship them."
+
+  - sp: GLOUCESTER
+    o:
+      - "I do remember now. Henceforth I’ll bear"
+      - "Affliction till it do cry out itself,"
+      - "“Enough, enough,” and die. That thing you speak of,"
+      - "I took it for a man. Often ’twould say,"
+      - "“The fiend, the fiend!” He led me to that place."
+    m:
+      - "I understand now. From now on I’ll put up with my anguish until the anguish itself cries out, “Enough, enough!” and disappears. I thought that thing you’re talking about was a man. It would often talk about the devil. It took me to that deadly place."
+
+  - sp: EDGAR
+    o:
+      - "Bear free and patient thoughts."
+    m:
+      - "Cheer up and be at peace."
+
+  - os: "Enter LEAR, mad"
+    ms: "LEAR enters, insane."
+
+  - o:
+      - "    But who comes here?"
+      - "The safer sense will ne’er accommodate"
+      - "His master thus."
+    m:
+      - "But who is that? A sane person would never dress like this."
+
+  - sp: LEAR
+    o:
+      - "No, they cannot touch me for coining. I am the king himself."
+    m:
+      - "No, they can’t accuse me of counterfeiting coins. I’m the king himself."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* O thou side-piercing sight!"
+    m:
+      - "*(to himself)* Oh, what a heartbreaking sight!"
+
+  - sp: LEAR
+    o:
+      - "Nature’s above art in that respect. There’s your press- money. That fellow handles his bow like a crowkeeper. Draw me a clothier’s yard. Look, look, a mouse! Peace, peace, this piece of toasted cheese will do ’t. There’s my gauntlet. I’ll prove it on a giant. Bring up the brown bills. O, well flown, bird. I’ th’ clout, i’ th’ clout. Hewgh! Give the word."
+    m:
+      - "Life’s better at breaking hearts than art is.—Hey, a new recruit. Here’s your enlistment bonus.—Look how awkwardly he handles his crossbow.—Come on, pull it back farther!—Look, look, a mouse! Calm down, this piece of cheese will get him.—I challenge you to a match. I’ll even fight a giant.—Call out the infantry. —Oh, that arrow was well shot. Whoosh! Right in the bull’s eye.-—What’s the password?"
+
+  - sp: EDGAR
+    o:
+      - "Sweet marjoram."
+    m:
+      - "Sweet marjoram."
+
+  - sp: LEAR
+    o:
+      - "Pass."
+    m:
+      - "That’s it!"
+
+  - sp: GLOUCESTER
+    o:
+      - "I know that voice."
+    m:
+      - "I know that voice."
+
+  - sp: LEAR
+    o:
+      - "Ha! Goneril with a white beard? Ha, Regan? They flattered me like a dog and told me I had white hairs in my beard ere the black ones were there. To say “Ay” and “No” to everything that I said “Ay” and “No” to was no good divinity. When the rain came to wet me once, and the wind to make me chatter, when the thunder would not peace at my bidding—there I found ’em, there I smelt ’em out. Go to, they are not men o’ their words. They told me I was everything. ’Tis a lie, I am not ague-proof."
+    m:
+      - "Ha! Goneril with a white beard? Ha, Regan?—They flattered me and told me how wise I was, wise before my time. To agree to everything I said was not truly devout.—The rain came to drench me, and the wind to make me shiver, and the thunder wouldn’t stop roaring when I ordered it to. That’s when I learned the truth about them. That’s when I sniffed them out. I tell you, they are not honest men. They told me I was everything. It’s a lie. I’m not immune to chills."
+
+  - sp: GLOUCESTER
+    o:
+      - "The trick of that voice I do well remember."
+      - "Is ’t not the king?"
+    m:
+      - "I recognize something about that voice. Isn’t that the king?"
+
+  - sp: LEAR
+    o:
+      - "  Ay, every inch a king. When I do stare, see how the subject quakes. I pardon that man’s life. What was thy cause? Adultery? Thou shalt not die. Die for adultery? No. The wren goes to ’t, and the small gilded fly does lecher in my sight. Let copulation thrive, for Gloucester’s bastard son Was kinder to his father than my daughters got ’tween the lawful sheets. To ’t, luxury, pell-mell—for I lack soldiers. Behold yond simpering dame, whose face between her forks presages snow, that minces virtue and does shake the head to hear of pleasure’s name. The fitchew, nor the soiled horse, goes to ’t with a more riotous appetite. Down from the waist they are centaurs, though women all above. But to the girdle do the gods inherit; beneath is all the fiends’. There’s hell, there’s darkness, there’s the sulfurous pit— burning, scalding, stench, consumption! Fie, fie, fie, pah, pah!—Give me an ounce of civet, good apothecary, to sweeten my imagination. There’s money for thee."
+    m:
+      - "Yes, every inch a king. My subjects tremble when I look at them. I pardon that man. What are you accused of? Adultery? I’ll commute your death sentence. To die for adultery? No. Little birds do it, and dragonflies copulate right in front of me. Let’s have more sex in the world, since Gloucester’s bastard son was kinder to him than my daughters, conceived in lawful wedlock, have been to me. Get to it, be lustful, sleep around—I need soldiers for my army. Look at that simpering lady over there. From looking at her face, I’d say she’s frigid. She pretends to be virtuous and to disdain the word “sex, but she’s hornier than a passel of rabbits. Women are sex machines below the waist, though they’re chaste up above. Above the waist they belong to God, but the lower part belongs to the devil. That’s where hell is, and darkness, and fires and stench! Death and orgasm! Ah, ah, ah! Give me an aphrodisiac, pharmacist. Let me have sweet dreams. There’s money in it for you."
+
+  - sp: GLOUCESTER
+    o:
+      - "O, let me kiss that hand!"
+    m:
+      - "Oh, let me kiss his hand!"
+
+  - sp: LEAR
+    o:
+      - "Let me wipe it first. It smells of mortality."
+    m:
+      - "Let me wipe it off first. It stinks of death."
+
+  - sp: GLOUCESTER
+    o:
+      - "O ruined piece of nature! This great world"
+      - "Shall so wear out to naught. Dost thou know me?"
+    m:
+      - "A ruined man! This is how the whole world will end up, worn away to nothing.—Do you know who I am?"
+
+  - sp: LEAR
+    o:
+      - "I remember thine eyes well enough. Dost thou squiny at me? No, do thy worst, blind Cupid. I’ll not love. Read thou this challenge. Mark but the penning of it."
+    m:
+      - "I remember your eyes quite well. Are you squinting at me? Go ahead, try to make me fall in love, blind Cupid. I won’t ever love again. Read this letter. Just look at the handwriting."
+
+  - sp: GLOUCESTER
+    o:
+      - "Were all thy letters suns, I could not see one."
+    m:
+      - "If every letter on that page were a sun, I couldn’t see even one of them."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* I would not take this from report. It is,"
+      - "And my heart breaks at it."
+    m:
+      - "*(to himself)* I wouldn’t believe this if I weren’t seeing it with my own eyes. It’s real, and it breaks my heart."
+
+  - sp: LEAR
+    o:
+      - "Read."
+    m:
+      - "Read it."
+
+  - sp: GLOUCESTER
+    o:
+      - "What, with the case of eyes?"
+    m:
+      - "How? With my eye sockets?"
+
+  - sp: LEAR
+    o:
+      - "Oh ho, are you there with me? No eyes in your head, nor no money in your purse? Your eyes are in a heavy case, your purse in a light. Yet you see how this world goes."
+    m:
+      - "Oh ho, is that what you’re getting at? You want money before you’ll read? No eyes in your head til there’s money in your wallet? Your eyes are in a bad way, your wallet’s empty, but you understand the ways of the world."
+
+  - sp: GLOUCESTER
+    o:
+      - "I see it feelingly."
+    m:
+      - "I do understand, by touch."
+
+  - sp: LEAR
+    o:
+      - "What, art mad? A man may see how this world goes with no eyes. Look with thine ears. See how yon justice rails upon yon simple thief. Hark in thine ear: change places and, handy-dandy, which is the justice, which is the thief? Thou hast seen a farmer’s dog bark at a beggar?"
+    m:
+      - "What, are you crazy? You don’t need eyes to see how the world works. Look with your ears. Look how the judge yells at a simple thief. Listen. But mix them up, have them switch places, and do you think you’d be able to tell which one is which? Have you seen a farmer’s dog bark at a beggar?"
+
+  - sp: GLOUCESTER
+    o:
+      - "Ay, sir."
+    m:
+      - "Yes, sir."
+
+  - sp: LEAR
+    o:
+      - "And the creature run from the cur? There thou mightst behold the great image of authority: a dog’s obeyed in office."
+      - "Thou rascal beadle, hold thy bloody hand."
+      - "Why dost thou lash that whore? Strip thine own back."
+      - "Thou hotly lust’st to use her in that kind"
+      - "For which thou whipp’st her. The usurer hangs the cozener."
+      - "Through tattered clothes great vices do appear;"
+      - "Robes and furred gowns hide all. Plate sin with gold,"
+      - "And the strong lance of justice hurtless breaks."
+      - "Arm it in rags, a pigmy’s straw does pierce it."
+      - "None does offend—none, I say, none. I’ll able ’em."
+      - "Take that of me, my friend, who have the power"
+      - "To seal th’ accuser’s lips. Get thee glass eyes,"
+      - "And like a scurvy politician seem"
+      - "To see the things thou dost not. Now, now, now, now,"
+      - "Pull off my boots. Harder, harder. So."
+    m:
+      - "And you saw how the beggar ran from the mutt? That’s authority! Even a dog is obeyed sometimes. You stupid cop, stop your violence! Why are you whipping that whore? You should be whipping yourself, since you lust after her and yearn to do the same thing for which you’re punishing her. One criminal punishes another. Poor men’s sins are much more noticeable than rich men’s. Cover up a crime with gold and the arm of justice can’t touch it. But dress the crime in rags and it’s caught easily. Everyone sins. You can’t blame anyone for it anyone, I say. I’ll vouch for that. Believe me, my friend, since I have the power to stop the prosecutors. Get yourself some glass eyes, and pretend to see things you can’t, like a crooked politician. Now, now, now, now. Pull off my boots. Harder, harder. Like that."
+
+  - sp: EDGAR
+    o:
+      - "*(aside)* O matter and impertinency mixed! Reason in madness!"
+    m:
+      - "*(to himself)* Oh, wisdom and absurdity mixed up together! Reason in madness!"
+
+  - sp: LEAR
+    o:
+      - "If thou wilt weep my fortunes, take my eyes."
+      - "I know thee well enough. Thy name is Gloucester."
+      - "Thou must be patient. We came crying hither."
+      - "Thou know’st the first time that we smell the air"
+      - "We wawl and cry. I will preach to thee. Mark me."
+    m:
+      - "If you want to cry over my bad luck, I’ll give you my eyes. I know you. Your name’s Gloucester. You have to be patient with me. I came here crying. The first time we see the world as newborns, we cry and scream. I’ll read you a sermon. Listen to this."
+
+  - sp: GLOUCESTER
+    o:
+      - "Alack, alack the day!"
+    m:
+      - "Oh, how awful!"
+
+  - sp: LEAR
+    o:
+      - "When we are born, we cry that we are come"
+      - "To this great stage of fools. This a good block."
+      - "It were a delicate stratagem to shoe"
+      - "A troop of horse with felt. I’ll put ’t in proof."
+      - "And when I have stol’n upon these sons-in-law,"
+      - "Then, kill, kill, kill, kill, kill, kill!"
+    m:
+      - "When we’re born, we cry because we’ve arrived on the stage of life, like all the other fools. That’s a nice hat you’ve got there. How ingenious to make horseshoes out of felt. I’ll test it out. And when I’ve sneaked up on my sons-in-law, then I’ll kill, kill, kill, kill, kill, kill!"
+
+  - os: "Enter GENTLEMAN with two others"
+    ms: "The GENTLEMAN enters with two other gentlemen."
+
+  - sp: GENTLEMAN
+    o:
+      - "Oh, here he is. Lay hand upon him.—Sir,"
+      - "Your most dear daughter—"
+    m:
+      - "*(noticing LEAR)* Oh, here he is. Grab him.—Sir, your most dear daughter—"
+
+  - sp: LEAR
+    o:
+      - "No rescue? What, a prisoner? I am even"
+      - "The natural fool of fortune. Use me well."
+      - "You shall have ransom. Let me have surgeons."
+      - "I am cut to th’ brains."
+    m:
+      - "What, I’m a prisoner? No rescue for me? My luck has always been bad. Treat me well. There’s a ransom. I need a doctor. My brains are injured."
+
+  - sp: GENTLEMAN
+    o:
+      - "  You shall have anything."
+    m:
+      - "You can have anything you want."
+
+  - sp: LEAR
+    o:
+      - "No seconds? All myself?"
+      - "Why, this would make a man a man of salt,"
+      - "To use his eyes for garden water-pots,"
+      - "Ay, and laying autumn’s dust."
+    m:
+      - "Will no one back me up? Am I all alone? That would make anyone cry enough to water his garden with his tears."
+
+  - sp: GENTLEMAN
+    o:
+      - "    Good sir—"
+    m:
+      - "Good sir—"
+
+  - sp: LEAR
+    o:
+      - "I will die bravely, like a smug bridegroom."
+      - "What, I will be jovial. Come, come."
+      - "I am a king, my masters, know you that?"
+    m:
+      - "I’ll die courageously, like a well-dressed bridegroom. Okay, I’ll be cheery. I’m king. Did you know that, gentlemen?"
+
+  - sp: GENTLEMAN
+    o:
+      - "You are a royal one, and we obey you."
+    m:
+      - "You’re of royal blood, and we obey you."
+
+  - sp: LEAR
+    o:
+      - "Then there’s life in ’t. Come, an if you get it, you shall get it by running. Sa, sa, sa, sa."
+    m:
+      - "Then there’s still a chance. Come and get it! But you’ll have to catch me! Catch me if you can! Sa, sa, sa, sa."
+
+  - os: "Exit LEAR running, followed by two gentlemen"
+    ms: "LEAR exits running, chased by two gentlemen."
+
+  - sp: GENTLEMAN
+    o:
+      - "A sight most pitiful in the meanest wretch,"
+      - "Past speaking of in a king. Thou hast a daughter"
+      - "Who redeems nature from the general curse"
+      - "Which twain have brought her to."
+    m:
+      - "This is a difficult to see even in a beggar. In a king, the sight is unbearable. He has a daughter good enough to cancel out the wickedness of the other two."
+
+  - sp: EDGAR
+    o:
+      - "    Hail, gentle sir."
+    m:
+      - "Hello, good sir."
+
+  - sp: GENTLEMAN
+    o:
+      - "Sir, speed you. What’s your will?"
+    m:
+      - "How do you do, sir. How can I help you?"
+
+  - sp: EDGAR
+    o:
+      - "Do you hear aught, sir, of a battle toward?"
+    m:
+      - "Have you heard any news of impending battle?"
+
+  - sp: GENTLEMAN
+    o:
+      - "Most sure and vulgar. Everyone hears that"
+      - "That can distinguish sound."
+    m:
+      - "Certainly. Everyone who can hear has heard about it."
+
+  - sp: EDGAR
+    o:
+      - "But, by your favor, how near’s the other army?"
+    m:
+      - "Could you tell me how near the enemy is?"
+
+  - sp: GENTLEMAN
+    o:
+      - "Near and on speedy foot. The main descry"
+      - "Stands in the hourly thought."
+    m:
+      - "Very near, and approaching fast. The main body of the army is expected here any hour now."
+
+  - sp: EDGAR
+    o:
+      - "  I thank you, sir. That’s all."
+    m:
+      - "Thank you, sir. That’s all I wanted to know."
+
+  - sp: GENTLEMAN
+    o:
+      - "Though that the queen on special cause is here,"
+      - "Her army is moved on."
+    m:
+      - "The queen is here on special business, and her army has moved on."
+
+  - sp: EDGAR
+    o:
+      - "  I thank you, sir."
+    m:
+      - "Thank you, sir."
+
+  - os: "Exit GENTLEMAN"
+    ms: "The GENTLEMAN exits."
+
+  - sp: GLOUCESTER
+    o:
+      - "You ever gentle gods, take my breath from me."
+      - "Let not my worser spirit tempt me again"
+      - "To die before you please."
+    m:
+      - "Gentle gods in heaven, please let me die. Don’t tempt me to suicide again."
+
+  - sp: EDGAR
+    o:
+      - "Well pray you, father."
+    m:
+      - "Pray well, father."
+
+  - sp: GLOUCESTER
+    o:
+      - "Now, good sir, what are you?"
+    m:
+      - "And who are you, good sir?"
+
+  - sp: EDGAR
+    o:
+      - "A most poor man made tame to fortune’s blows,"
+      - "Who by the art of known and feeling sorrows"
+      - "Am pregnant to good pity. Give me your hand,"
+      - "I’ll lead you to some biding."
+    m:
+      - "I’m a poor man who’s been humbled by many misfortunes. I’ve had enough sorrow in my life to feel compassion for others. Give me your hand. I’ll lead you to some shelter."
+
+  - sp: GLOUCESTER
+    o:
+      - "    Hearty thanks."
+      - "The bounty and the benison of heaven"
+      - "To boot and boot."
+    m:
+      - "Thank you very much. May heaven bless you."
+
+  - os: "Enter OSWALD the steward"
+    ms: "OSWALD enters."
+
+  - sp: OSWALD
+    o:
+      - "A proclaimed prize! Most happy!"
+      - "That eyeless head of thine was first framed flesh"
+      - "To raise my fortunes. Thou old unhappy traitor,"
+      - "Briefly thyself remember. The sword is out"
+      - "That must destroy thee."
+    m:
+      - "What good luck! I’ll get the promised reward. That blind head of yours was created to make me rich. You old traitor, repent all your sins. Prepare to die."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Now let thy friendly hand"
+      - "Put strength enough to ’t."
+    m:
+      - "Death is exactly what I want. I hope you’re strong enough to do it."
+
+  - os: "EDGAR interferes"
+    ms: "EDGAR steps in between GLOUCESTER and OSWALD."
+
+  - sp: OSWALD
+    o:
+      - "  Wherefore, bold peasant,"
+      - "Darest thou support a published traitor? Hence,"
+      - "Lest that th’ infection of his fortune take"
+      - "Like hold on thee. Let go his arm."
+    m:
+      - "Whoa, man, you dare to support someone who’s been proclaimed a traitor? Get out of here, before his bad luck infects you too. Let go of his arm."
+
+  - sp: EDGAR
+    o:
+      - "’Chill not let go, zir, without vurther ’casion."
+    m:
+      - "Oh no, sir, I won’t let him go, sir, not without a good reason."
+
+  - sp: OSWALD
+    o:
+      - "Let go, slave, or thou diest!"
+    m:
+      - "Let go of him, peasant, or you die!"
+
+  - sp: EDGAR
+    o:
+      - "Good gentleman, go your gait, and let poor volk pass. An ’chud ha’ bin zwaggered out of my life, ’twould not ha’ bin zo long as ’tis by a vortnight. Nay, come not near th’ old man. Keep out, che vor’ ye, or I’se try whether your costard or my ballow be the harder. ’Chill be plain with you."
+    m:
+      - "Get on with your business, sir, and leave the poor people alone. If macho talk like yours could kill me, I’d have died weeks ago. No, don’t come near the old man. Keep away, I’m warning you, or I’ll find out whether your head is harder than my walking stick. I’m completely serious."
+
+  - sp: OSWALD
+    o:
+      - "Out, dunghill!"
+    m:
+      - "Get out of here, you pile of crap."
+
+  - sp: EDGAR
+    o:
+      - "’Chill pick your teeth, zir. Come, no matter vor your foins."
+    m:
+      - "I’ll knock your teeth out, sir. To hell with your sword."
+
+  - os: "EDGAR and OSWALD fight"
+    ms: "EDGAR and OSWALD fight."
+
+  - sp: OSWALD
+    o:
+      - "*(falling)* Slave, thou hast slain me. Villain, take my purse."
+      - "If ever thou wilt thrive, bury my body."
+      - "And give the letters which thou find’st about me"
+      - "To Edmund, Earl of Gloucester. Seek him out"
+      - "Upon the British party. O untimely death! *(dies)*"
+    m:
+      - "*(falling)* You peasant, you’ve killed me! Villain, take my money. If you survive, make sure I have a decent burial. Give the letters I’m carrying to Edmund, Earl of Gloucester. He’s with the English camp. Oh, early death! *(he dies)*"
+
+  - sp: EDGAR
+    o:
+      - "I know thee well—a serviceable villain,"
+      - "As duteous to the vices of thy mistress"
+      - "As badness would desire."
+    m:
+      - "I know you well. You’re a hardworking villain who’d do anything his evil mistress wanted him to."
+
+  - sp: GLOUCESTER
+    o:
+      - "  What, is he dead?"
+    m:
+      - "Is he dead?"
+
+  - sp: EDGAR
+    o:
+      - "Sit you down, father. Rest you."
+      - "Let’s see these pockets. The letters that he speaks of"
+      - "May be my friends. He’s dead. I am only sorry"
+      - "He had no other death’s-man. Let us see."
+      - "*(takes letters out of OSWALD’s pocket and opens them)*"
+      - "Leave, gentle wax, and, manners, blame us not."
+      - "To know our enemies’ minds, we rip their hearts."
+      - "Their papers is more lawful."
+      - "*(reads)*"
+      - "”Let our reciprocal vows be remembered. You have many opportunities to cut him off. If your will want not, time and place will be fruitfully offered. There is nothing done if he return the conqueror. Then am I the prisoner and his bed my gaol, from the loathed warmth whereof deliver me, and supply the place for your labor. Your—wife, so I would say—affectionate servant, and for you her own for venture,"
+      - "    Goneril.“"
+      - "O indistinguished space of woman’s will!"
+      - "A plot upon her virtuous husband’s life,"
+      - "And the exchange my brother!—Here in the sands"
+      - "Thee I’ll rake up, the post unsanctified"
+      - "Of murderous lechers. And in the mature time"
+      - "With this ungracious paper strike the sight"
+      - "Of the death-practiced duke. For him ’tis well"
+      - "That of thy death and business I can tell."
+    m:
+      - "Sit down and rest, father. Let’s look in his pockets. The letters he spoke of may help me. He’s dead. I’m just sorry I had to be the one to kill him. Let’s see here."
+      - "*(takes letters out of OSWALD’s pocket and opens them)*"
+      - "Come on, envelope, open up for me. I know it’s bad manners, but we kill our enemies to know their secrets. Reading their mail isn’t as bad."
+      - "*(reads)*"
+      - "”Don’t forget the vows we made to each other. You have many chances to kill Albany. If you have the strength of will to do it, you’ll have many opportunities. If he returns in triumph, then all is lost. I’ll be his prisoner, and his bed will be my prison. Help me escape him, and you can take his place. Your—I wish I could say “wife”—loving servant, who is ready to love you,"
+      - "    Goneril.\""
+      - "Is there no limit to women’s lust? She’s plotting against the life of her virtuous husband, and wants my brother to replace him! *(to the dead OSWALD)* I’ll bury you here in a shallow grave, you messenger for lustful criminals. In due time I’ll show this ugly letter to the duke whose life’s at risk. It’s a good thing for him that I can tell him about your death and the letter you were carrying."
+
+  - sp: GLOUCESTER
+    o:
+      - "The king is mad. How stiff is my vile sense,"
+      - "That I stand up and have ingenious feeling"
+      - "Of my huge sorrows. Better I were distract—"
+      - "So should my thoughts be severed from my griefs,"
+      - "And woes by wrong imaginations lose"
+      - "The knowledge of themselves."
+    m:
+      - "The king is insane. I hate the fact that I’m sane enough to be aware of my own great suffering. It’d be better to be delirious and unaware of anything. Then my mind would be free of sorrow, and sadness would be forgotten in my hallucinations."
+
+  - os: "Drum afar off"
+    ms: "Drums play in the distance."
+
+  - sp: EDGAR
+    o:
+      - "    Give me your hand."
+      - "Far off methinks I hear the beaten drum."
+      - "Come, father, I’ll bestow you with a friend."
+    m:
+      - "Give me your hand. I think I hear the drums far away. Come, father, I’ll leave you at a friend’s house."
+
+  - os: "Exeunt"
+    ms: "They exit."

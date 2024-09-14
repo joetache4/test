@@ -1,0 +1,655 @@
+play: Henry V
+title: Act 5, Scene 2
+group: 5
+order: 27
+text:
+  - os: "Enter at one door KING HENRY, EXETER, BEDFORD, GLOUCESTER, WARWICK, WESTMORELAND, and other lords; at another, the FRENCH KING, QUEEN ISABEL, the princess KATHERINE, ALICE and other ladies; the Duke of BURGUNDY, and his train"
+    ms: "Through one door KING HENRY, EXETER, BEDFORD, GLOUCESTER, WARWICK, WESTMORELAND, and other lords enter. Through another door, the FRENCH KING, QUEEN ISABEL, the princess KATHERINE, ALICE, and other ladies enter with the DUKE OF BURGUNDY and his train."
+
+  - sp: KING HENRY
+    o:
+      - "Unto our brother France and to our sister,"
+      - "Health and fair time of day.—Joy and good wishes"
+      - "To our most fair and princely cousin Katherine.—"
+      - "And, as a branch and member of this royalty,"
+      - "By whom this great assembly is contrived,"
+      - "We do salute you, Duke of Burgundy.—"
+      - "And princes French, and peers, health to you all."
+      - "Peace to this meeting wherefore we are met."
+    m:
+      - "Peace to this occasion that’s brought us all together. Health and good day to our brother the king of France and to our sister the queen. Joy and good wishes to our lovely royal cousin, Katherine. And you, Duke of Burgundy, who brought this great assembly together, we salute you as descendent and member of this royal family. And a health to all you lords and princes of France."
+
+  - sp: KING OF FRANCE
+    o:
+      - "Right joyous are we to behold your face,"
+      - "Most worthy brother England. Fairly met."
+      - "—So are you, princes English, every one."
+    m:
+      - "We rejoice to see you, most worthy brother of England. You are welcome here, as are all of you English princes."
+
+  - sp: QUEEN ISABEL
+    o:
+      - "So happy be the issue, brother England,"
+      - "Of this good day and of this gracious meeting,"
+      - "As we are now glad to behold your eyes—"
+      - "Your eyes which hitherto have borne in them"
+      - "Against the French that met them in their bent"
+      - "The fatal balls of murdering basilisks."
+      - "The venom of such looks, we fairly hope,"
+      - "Have lost their quality, and that this day"
+      - "Shall change all griefs and quarrels into love."
+    m:
+      - "Brother of England, may this meeting prove as fruitful as it is joyous. We are glad to look upon your face—a face whose eyes have until now carried in them a glance as deadly, for any Frenchman they alighted on, as the poisonous eyes of those mythical lizards, the basilisks. We hope your poison has worn off and this day shall transform all grievances and quarrels into friendship."
+
+  - sp: KING HENRY
+    o:
+      - "To cry “Amen” to that, thus we appear."
+    m:
+      - "We’re here to say “amen” to that."
+
+  - sp: QUEEN ISABEL
+    o:
+      - "You English princes all, I do salute you."
+    m:
+      - "All you English princes, I salute you."
+
+  - sp: BURGUNDY
+    o:
+      - "My duty to you both, on equal love,"
+      - "Great kings of France and England. That I have labored"
+      - "With all my wits, my pains, and strong endeavors,"
+      - "To bring your most imperial Majesties"
+      - "Unto this bar and royal interview,"
+      - "Your mightiness on both parts best can witness."
+      - "Since, then, my office hath so far prevailed"
+      - "That face to face and royal eye to eye"
+      - "You have congreeted. Let it not disgrace me"
+      - "If I demand before this royal view"
+      - "What rub or what impediment there is"
+      - "Why that the naked, poor, and mangled peace,"
+      - "Dear nurse of arts, plenties, and joyful births,"
+      - "Should not in this best garden of the world,"
+      - "Our fertile France, put up her lovely visage?"
+      - "Alas, she hath from France too long been chased,"
+      - "And all her husbandry doth lie on heaps,"
+      - "Corrupting in its own fertility."
+      - "Her vine, the merry cheerer of the heart,"
+      - "Unprunèd, dies. Her hedges, even-pleached,"
+      - "Like prisoners wildly overgrown with hair,"
+      - "Put forth disordered twigs. Her fallow leas"
+      - "The darnel, hemlock, and rank fumitory"
+      - "Doth root upon, while that the coulter rusts"
+      - "That should deracinate such savagery."
+      - "The even mead, that erst brought sweetly forth"
+      - "The freckled cowslip, burnet, and green clover,"
+      - "Wanting the scythe, withal uncorrected, rank,"
+      - "Conceives by idleness, and nothing teems"
+      - "But hateful docks, rough thistles, kecksies, burrs,"
+      - "Losing both beauty and utility."
+      - "And as our vineyards, fallows, meads, and hedges,"
+      - "Defective in their natures, grow to wildness,"
+      - "Even so our houses and ourselves and children"
+      - "Have lost, or do not learn for want of time,"
+      - "The sciences that should become our country,"
+      - "But grow like savages, as soldiers will"
+      - "That nothing do but meditate on blood,"
+      - "To swearing and stern looks, diffused attire,"
+      - "And everything that seems unnatural."
+      - "Which to reduce into our former favor"
+      - "You are assembled, and my speech entreats"
+      - "That I may know the let why gentle peace"
+      - "Should not expel these inconveniences"
+      - "And bless us with her former qualities."
+    m:
+      - "Great kings of France and England, I owe you both equal service and loyalty. Your Highnesses can both attest to the fact that I’ve strived mightily, with all my wits and energy, to bring about this royal meeting between you two imperial Majesties. Since I have succeeded to the point of bringing you face to face and eye to eye, don’t take it ill if I formally demand to know, before this royal congregation, what obstacle or impediment prevents the poor fragile, mangled peace, the mother of arts and joyous births, from showing her lovely face in this most fertile garden of the world, our fair France? Alas, she has been too long exiled from France, whose crops all lie in heaps, rotting with ripeness. Her grapes, which make the wine that cheers our hearts, die unpruned on the vines. Her once-trimmed hedges, like prisoners with wild, untended hair, put forth unruly twigs. Her fallow fields are overgrown with weeds, while the blade that should uproot such wilderness lies rusting. The level meadow, where the freckled cowslip, burnet, and green clover once grew, has become useless: unmowed, it grows to seed, so that nothing springs up but weeds, rough thistles, barren plants, and burs. And just as our vineyards, fallow fields, meadows, and hedges, which grow improperly if left to themselves, run riot, so our families and ourselves and our children have lost—or no longer have time to learn—skills that should be a credit to our country. They grow like savages—like soldiers who meditate on nothing but blood—surrounded by swearing and stern looks, ragged clothing and everything unnatural. It’s to reverse all this, so we can once again become as we were, that you have all been brought together; therefore I demand to know why gentle peace should not banish these troubles and bless us with her former qualities."
+
+  - sp: KING HENRY
+    o:
+      - "If, Duke of Burgundy, you would the peace,"
+      - "Whose want gives growth to th’ imperfections"
+      - "Which you have cited, you must buy that peace"
+      - "With full accord to all our just demands,"
+      - "Whose tenors and particular effects"
+      - "You have, enscheduled briefly, in your hands."
+    m:
+      - "Duke of Burgundy, if you want peace, the lack of which creates these misfortunes you describe, you must purchase it buy agreeing across-the-board to all our very just demands. You hold the details and particulars of our terms, briefly enumerated, before you in your hands."
+
+  - sp: BURGUNDY
+    o:
+      - "The king hath heard them, to the which as yet"
+      - "There is no answer made."
+    m:
+      - "The king has heard them, but as yet has made no answer."
+
+  - sp: KING HENRY
+    o:
+      - "Well then, the peace which you before so urged"
+      - "Lies in his answer."
+    m:
+      - "Well, the peace you pleaded for so eloquently just now lies in his answer."
+
+  - sp: KING OF FRANCE
+    o:
+      - "I have but with a cursitory eye"
+      - "O’erglanced the articles. Pleaseth your Grace"
+      - "To appoint some of your council presently"
+      - "To sit with us once more with better heed"
+      - "To resurvey them, we will suddenly"
+      - "Pass our accept and peremptory answer."
+    m:
+      - "I’ve only given the articles a cursory glance. If your Grace would kindly appoint some members of your council to sit with me once more and go over them more carefully, I will give my answer and acceptance right away."
+
+  - sp: KING HENRY
+    o:
+      - "Brother, we shall.—Go, uncle Exeter,"
+      - "And brother Clarence, and you, brother Gloucester,"
+      - "Warwick and Huntingdon, go with the king"
+      - "And take with you free power to ratify,"
+      - "Augment, or alter, as your wisdoms best"
+      - "Shall see advantageable for our dignity,"
+      - "Anything in or out of our demands,"
+      - "And we’ll consign thereto.—Will you, fair sister,"
+      - "Go with the princes or stay here with us?"
+    m:
+      - "Brother, I shall. Go, uncle Exeter, and brother Clarence, and you, brother Gloucester, Warwick and Huntingdon, go with the king. You have full power to confirm, change, or add to any of my demands in any way that you judge advantageous to my rule, and I’ll undertake to agree to it. Fair sister, will you go with the princes or stay here with me?"
+
+  - sp: QUEEN ISABEL
+    o:
+      - "Our gracious brother, I will go with them."
+      - "Haply a woman’s voice may do some good,"
+      - "When articles too nicely urged be stood on."
+    m:
+      - "Gracious brother, I will go with them. Perhaps a woman’s voice may do some good when some small detail proves to be holding things up."
+
+  - sp: KING HENRY
+    o:
+      - "Yet leave our cousin Katherine here with us."
+      - "She is our capital demand, comprised"
+      - "Within the forerank of our articles."
+    m:
+      - "In that case, leave our cousin Katherine here with us. She is our principal demand—one of the first points of the treaty."
+
+  - sp: QUEEN ISABEL
+    o:
+      - "She hath good leave."
+    m:
+      - "She is welcome to stay."
+
+  - os: "Exeunt all except KING HENRY, KATHERINE, and ALICE"
+    ms: "Everyone except KING HENRY, KATHERINE, and ALICE exits."
+
+  - sp: KING HENRY
+    o:
+      - "Fair Katherine, and most fair,"
+      - "Will you vouchsafe to teach a soldier terms"
+      - "Such as will enter at a lady’s ear"
+      - "And plead his love suit to her gentle heart?"
+    m:
+      - "Lovely, most lovely Katherine, will you agree to teach a soldier the words that would recommend his love-suit to a gentle heart like yours?"
+
+  - sp: KATHERINE
+    o:
+      - "Your Majesty shall mock at me. I cannot speak your"
+      - "England."
+    m:
+      - "Your Majesty shall mock at me. I cannot speak your England."
+
+  - sp: KING HENRY
+    o:
+      - "O fair Katherine, if you will love me soundly with your French heart, I will be glad to hear you confess it brokenly with your English tongue. Do you like me, Kate?"
+    m:
+      - "Lovely Katherine, if you will love me well with your French heart, I’m happy to hear you confess it in broken English. Do you like me, Kate?"
+
+  - sp: KATHERINE
+    o:
+      - "*Pardonnez-moi,* I cannot tell what is “like me.”"
+    m:
+      - "Pardon me but I do not know what is “like me.”"
+
+  - sp: KING HENRY
+    o:
+      - "An angel is like you, Kate, and you are like an angel."
+    m:
+      - "An angel is like you, Kate, and you are like an angel."
+
+  - sp: KATHERINE
+    o:
+      - "*(to ALICE) Que dit-il? Que je suis semblable à les anges?*"
+    m:
+      - "*(to ALICE, in French)* What does he say? That I am like an angel?"
+
+  - sp: ALICE
+    o:
+      - "*Oui, vraiment, sauf votre Grâce, ainsi dit-il.*"
+    m:
+      - "*(in French)* Yes, your Grace, that’s what he says."
+
+  - sp: KING HENRY
+    o:
+      - "I said so, dear Katherine; and I must not blush to affirm it."
+    m:
+      - "I said so, dear Katherine, and I’m not ashamed to repeat it."
+
+  - sp: KATHERINE
+    o:
+      - "*Ô bon Dieu! Les langues des hommes sont pleines de tromperies.*"
+    m:
+      - "*(in French)* Oh, Lord! The tongues of men are full of deceit."
+
+  - sp: KING HENRY
+    o:
+      - "What says she, fair one? That the tongues of men are full of deceits?"
+    m:
+      - "*(to ALICE)* What does she say, pretty one? That the tongues of men are full of deceits?"
+
+  - sp: ALICE
+    o:
+      - "Oui, dat de tongues of de mans is be full of deceits; dat is de princess."
+    m:
+      - "*Oui*, dat de tongues of de mans is be full of deceits: dere’s de princess for you."
+
+  - sp: KING HENRY
+    o:
+      - "The princess is the better Englishwoman.—I’ faith, Kate, my wooing is fit for thy understanding. I am glad thou canst speak no better English, for if thou couldst, thou wouldst find me such a plain king that thou wouldst think I had sold my farm to buy my crown. I know no ways to mince it in love, but directly to say, “I love you.” Then if you urge me farther than to say, “Do you, in faith?” I wear out my suit. Give me your answer, i’ faith, do; and so clap hands and a bargain. How say you, lady?"
+    m:
+      - "How very English of her. Kate, my wooing is fit for your understanding: I am glad your English isn’t better. If it were, you would find me such an ordinary king that you would think I’d sold my farm to buy my crown. I don’t know any fancy ways of talking about love, only to say right out, “I love you.” If you press me any further than with the question, “Do you really?” my love scene is over. So give me your answer, and we’ll shake on it. Deal?"
+
+  - sp: KATHERINE
+    o:
+      - "*Sauf votre honneur,* me understand vell."
+    m:
+      - "With all due respect, me understand well."
+
+  - sp: KING HENRY
+    o:
+      - "Marry, if you would put me to verses or to dance for your sake, Kate, why you undid me. For the one, I have neither words nor measure; and for the other, I have no strength in measure, yet a reasonable measure in strength. If I could win a lady at leapfrog or by vaulting into my saddle with my armor on my back, under the correction of bragging be it spoken, I should quickly leap into a wife. Or if I might buffet for my love or bound my horse for her favors, I could lay on like a butcher and sit like a jackanapes, never off. But, before God, Kate, I cannot look greenly nor gasp out my eloquence, nor I have no cunning in protestation, only downright oaths, which I never use till urged, nor never break for urging. If thou canst love a fellow of this temper, Kate, whose face is not worth sunburning, that never looks in his glass for love of anything he sees there, let thine eye be thy cook. I speak to thee plain soldier. If thou canst love me for this, take me. If not, to say to thee that I shall die is true, but for thy love, by the Lord, no. Yet I love thee too. And while thou liv’st, dear Kate, take a fellow of plain and uncoined constancy, for he perforce must do thee right because he hath not the gift to woo in other places. For these fellows of infinite tongue, that can rhyme themselves into ladies’ favors, they do always reason themselves out again. What? A speaker is but a prater, a rhyme is but a ballad, a good leg will fall, a straight back will stoop, a black beard will turn white, a curled pate will grow bald, a fair face will wither, a full eye will wax hollow, but a good heart, Kate, is the sun and the moon, or rather the sun and not the moon, for it shines bright and never changes but keeps his course truly. If thou would have such a one, take me. And take me, take a soldier. Take a soldier, take a king. And what say’st thou then to my love? Speak, my fair, and fairly, I pray thee."
+    m:
+      - "Really, if you were thinking of having me write poetry or dance for you, Kate, you’ve defeated me already. I have no gift for the one and no strength for the other, though I have the gift of strength. If I could win a lady by playing leapfrog or vaulting into my saddle with my armor on my back—though you may accuse me of boasting—I could easily get myself a wife. I can fight with my fists and rear my horse up without falling off him, if either of those things could win me love. But, before God, Kate, I cannot turn pale on purpose or gasp out fancy phrases, and I have no gift for clever declarations, only blunt oaths, which I never use till I’m asked and never break no matter who asks me. If you can love a man of this temperament, Kate, whose face a sunburn wouldn’t make any worse and who never looks in the mirror to admire himself, let your eye improve me. I speak to you as a plain soldier. If you can love me for this, take me. If not, to tell you I will die is true, but not for love, by God. And yet I do love you. So take for life a fellow of pure and plain faithfulness. He’s bound to be true to you as he won’t be up to flirting with other women. These chatty fellows who can rhyme their way into a lady’s good graces always reason themselves out again. Look, a talker is just a gabber; a poem is just a rhyme. A good leg will shrink, a straight back stoop, a black beard turn white, a curly head grow bald, an attractive face grow wrinkled and a pretty eye hollow. But a good heart, Kate, is the sun and the moon, or, rather, the sun, and not the moon, for it goes on shining brightly forever. If you would have such a man, take me. Take me and get a soldier; take a soldier and get a king. So what do you say to my suit? Speak, my fair one, and speak fairly, I beg you."
+
+  - sp: KATHERINE
+    o:
+      - "Is it possible dat I sould love de enemy of France?"
+    m:
+      - "Is it possible dat I sould love de enemy of France?"
+
+  - sp: KING HENRY
+    o:
+      - "No, it is not possible you should love the enemy of France, Kate. But, in loving me, you should love the friend of France, for I love France so well that I will not part with a village of it. I will have it all mine. And, Kate, when France is mine and I am yours, then yours is France and you are mine."
+    m:
+      - "No, it is not possible you should love the enemy of France, Kate. But in loving me, you would love the friend of France, for I love France so much that I will not part with a single village of it. I will have it all mine. And, Kate, when France is mine and I am yours, then France is yours and you are mine."
+
+  - sp: KATHERINE
+    o:
+      - "I cannot tell wat is dat."
+    m:
+      - "I don’t understand all dat."
+
+  - sp: KING HENRY
+    o:
+      - "No, Kate? I will tell thee in French, which I am sure will hang upon my tongue like a new-married wife about her husband’s neck, hardly to be shook off. Je quand sur le possession de France, et quand vous avez le possession de moi—let me see, what then? Saint Denis be my speed!— donc vôtre est France et vous êtes mienne. It is as easy for me, Kate, to conquer the kingdom as to speak so much more French. I shall never move thee in French, unless it be to laugh at me."
+    m:
+      - "No, Kate? I will tell you in French, which I am sure will hang as heavily on my tongue as a newly married wife around her husband’s neck, impossible to shake off. *(in stilted French)* I, when, on the possession of France, and when you have the possession of me—*(in English)* let me see, what then? help me, Saint Denis!—*(French again)* then yours is France and you are mine. *(in English)* It would be as easy for me to reconquer the kingdom, Kate, as it would be for me to speak that much French again. I’ll never move you in French, except to laugh at me."
+
+  - sp: KATHERINE
+    o:
+      - "*Sauf votre honneur, le français que vous parlez, il est meilleur que l’anglais lequel je parle.*"
+    m:
+      - "Your French, sir, is better than my English."
+
+  - sp: KING HENRY
+    o:
+      - "No, faith, is ’t not, Kate, but thy speaking of my tongue, and I thine, most truly-falsely must needs be granted to be much at one. But, Kate, dost thou understand thus much English? Canst thou love me?"
+    m:
+      - "No, really, it’s not, Kate. But your speaking my language, and I yours truly-falsely comes to pretty much the same thing. Can you understand this much English though, Kate? Could you love me?"
+
+  - sp: KATHERINE
+    o:
+      - "I cannot tell."
+    m:
+      - "I cannot tell."
+
+  - sp: KING HENRY
+    o:
+      - "Can any of your neighbors tell, Kate? I’ll ask them. Come, I know thou lovest me; and at night, when you come into your closet, you’ll question this gentlewoman about me, and, I know, Kate, you will to her dispraise those parts in me that you love with your heart. But, good Kate, mock me mercifully, the rather, gentle princess, because I love thee cruelly. If ever thou beest mine, Kate, as I have a saving faith within me tells me thou shalt, I get thee with scambling, and thou must therefore needs prove a good soldier-breeder. Shall not thou and I, between Saint Denis and Saint George, compound a boy, half French, half English, that shall go to Constantinople and take the Turk by the beard? Shall we not? What say’st thou, my fair flower de luce?"
+    m:
+      - "Can any of your neighbors tell, Kate? I’ll ask them. Come, I know you love me. And at night, when you go to your bedroom, you’ll question this gentlewoman about me and, I know, Kate, you’ll criticize those qualities of mine that you secretly love. But mock me gently, dear Kate, because I love you terribly. If I ever win you, Kate, as I have an inkling I will, it won’t be without a skirmish—and that suggests you’d make a good mother of soldiers. Shall not you and I together, then, between Saint Denis and Saint George, make a boy, half French, half English, who will go to Constantinople and grab the Turk by the beard? Shall we not? What do you say, my fair *fleur-de-lys*?"
+
+  - sp: KATHERINE
+    o:
+      - "I do not know dat."
+    m:
+      - "I do not know dat."
+
+  - sp: KING HENRY
+    o:
+      - "No, ’tis hereafter to know, but now to promise. Do but now promise, Kate, you will endeavor for your French part of such a boy; and for my English moiety take the word of a king and a bachelor. How answer you, la plus belle *Katherine du monde, mon très cher et divin déesse?*"
+    m:
+      - "No, of course you don’t. It lies in the future, along with certainty. Now there can only be the promise. Do promise, Kate, that you’ll do your French part to bring forth such a boy; and for my English half, take the word of a king and a bachelor. What’s your answer, *(speaking in French)* oh loveliest of Katherines, my most precious and divine goddess?"
+
+  - sp: KATHERINE
+    o:
+      - "Your Majestée ave fausse French enough to deceive de most sage *demoiselle* dat is *en* France."
+    m:
+      - "Your Majesty has false French enough to deceive de wisest lady in France."
+
+  - sp: KING HENRY
+    o:
+      - "Now fie upon my false French. By mine honor, in true English, I love thee, Kate. By which honor I dare not swear thou lovest me, yet my blood begins to flatter me that thou dost, notwithstanding the poor and untempering effect of my visage. Now, beshrew my father’s ambition! He was thinking of civil wars when he got me; therefore was I created with a stubborn outside, with an aspect of iron, that when I come to woo ladies, I fright them. But, in faith, Kate, the elder I wax, the better I shall appear. My comfort is that old age, that ill layer-up of beauty, can do no more spoil upon my face. Thou hast me, if thou hast me, at the worst, and thou shalt wear me, if thou wear me, better and better. And therefore tell me, most fair Katherine, will you have me? Put off your maiden blushes, avouch the thoughts of your heart with the looks of an empress, take me by the hand, and say “Harry of England, I am thine,” which word thou shalt no sooner bless mine ear withal, but I will tell thee aloud “England is thine, Ireland is thine, France is thine, and Harry Plantagenet is thine,” who, though I speak it before his face, if he be not fellow with the best king, thou shalt find the best king of good fellows. Come, your answer in broken music, for thy voice is music and thy English broken. Therefore, queen of all, Katherine, break thy mind to me in broken English. Wilt thou have me?"
+    m:
+      - "Damn my false French. I tell you truly, in true English: I love you, Kate. And though I wouldn’t dare to swear that you love me, still my blood begins to flatter me that you do, despite the ill effects of my face. Curse my father’s ambition! He was thinking of civil wars when he conceived me, and consequently my outward appearance is harsh and steely. I intimidate ladies when I come to woo them. But I promise you, Kate: the older I grow the better I’ll look. My comfort is that old age, that poor preserver of beauty, can’t make my face any worse than it already is. If you have me, you have me now at my worst; and if you have me, you’ll appreciate me better and better. Therefore tell me, fairest Katherine, will you have me? Put aside your maiden blushes and speak your true feelings with the bearing of an empress. Take me by the hand and say, “Harry of England, I am yours.” No sooner shall I hear that word than I will tell you straight out, “England is yours, Ireland is yours, France is yours, and Harry Plantagenet is yours.” And, though I say so in his presence, if he’s not a friend of the best kings, you’ll find him king of the best friends. Come on, tell me in broken music—for your voice is music and your English broken. Come, Katherine Queen of All, reveal your heart to me in broken English. Will you have me?"
+
+  - sp: KATHERINE
+    o:
+      - "Dat is as it sall please de *roi mon père.*"
+    m:
+      - "Dat is as it shall please de king my father."
+
+  - sp: KING HENRY
+    o:
+      - "Nay, it will please him well, Kate; it shall please him, Kate."
+    m:
+      - "Oh, it will please him, Kate. It will please him very well."
+
+  - sp: KATHERINE
+    o:
+      - "Den it sall also content me."
+    m:
+      - "Den it shall also content me."
+
+  - sp: KING HENRY
+    o:
+      - "Upon that I kiss your hand, and I call you my queen."
+    m:
+      - "With that I kiss your hand and call you my queen."
+
+  - sp: KATHERINE
+    o:
+      - "*Laissez, mon seigneur, laissez, laissez! Ma foi, je ne veux point que vous abaissiez votre grandeur en baisant la main d’une—Notre Seigneur!—indigne serviteur. Excusez-moi, je vous supplie, mon très puissant eigneur.*"
+    m:
+      - "*(in French)* No, sir! Stop, stop! Heavens, I can’t allow you to lower yourself by kissing the hand of one of your humble servants. I hope you’ll pardon me, mighty king."
+
+  - sp: KING HENRY
+    o:
+      - "Then I will kiss your lips, Kate."
+    m:
+      - "Then I will kiss your lips, Kate."
+
+  - sp: KATHERINE
+    o:
+      - "*Les dames et demoiselles pour être baisées devant leur noces, il n’est pas la coutume de France.*"
+    m:
+      - "*(in French)* It is not the custom for French maidens to kiss before they are married."
+
+  - sp: KING HENRY
+    o:
+      - "Madam my interpreter, what says she?"
+    m:
+      - "What does she say, madam interpreter?"
+
+  - sp: ALICE
+    o:
+      - "Dat it is not be de fashion pour les ladies of France—I cannot tell wat is *baiser en* Anglish."
+    m:
+      - "Dat it not be de custom pour les ladies of France—I cannot tell vat is *baiser* en Anglish."
+
+  - sp: KING HENRY
+    o:
+      - "To kiss."
+    m:
+      - "To kiss."
+
+  - sp: ALICE
+    o:
+      - "Your *Majesté entendre* bettre *que moi.*"
+    m:
+      - "Your Majesty understand bettre den me."
+
+  - sp: KING HENRY
+    o:
+      - "It is not a fashion for the maids in France to kiss before they are married, would she say?"
+    m:
+      - "It is not the custom for the maids in France to kiss before they are married, is that what she says?"
+
+  - sp: ALICE
+    o:
+      - "*Oui, vraiment.*"
+    m:
+      - "Yes, exactly."
+
+  - sp: KING HENRY
+    o:
+      - "O Kate, nice customs curtsy to great kings. Dear Kate, you and I cannot be confined within the weak list of a country’s fashion. We are the makers of manners, Kate, and the liberty that follows our places stops the mouth of all find- faults, as I will do yours for upholding the nice fashion of your country in denying me a kiss. Therefore, patiently and yielding. *(kissing her)* You have witchcraft in your lips, Kate. There is more eloquence in a sugar touch of them than in the tongues of the French council, and they should sooner persuade Harry of England than a general petition of monarchs. Here comes your father."
+    m:
+      - "Oh, Kate, prudish customs bow before great kings. You and I cannot be held within the confines of a country’s arbitrary customs, dear Kate. You and I, Kate, we are the makers of custom, and the freedom that goes with our position silences all who would criticize, as I will silence you for upholding the prudish custom of your country in refusing me a kiss. Therefore, willingly and yielding. *(kisses her)* You have witchcraft in your lips, Kate. There is more eloquence in a sweet touch of them than in the tongues of the whole French council. They would persuade Harry of England sooner than a whole assembly of monarchs. Here comes your father."
+
+  - os: "Enter the FRENCH KING, QUEEN ISABEL, BURGUNDY, and other LORDS"
+    ms: "The FRENCH KING and QUEEN, BURGUNDY, and other LORDS enter."
+
+  - sp: BURGUNDY
+    o:
+      - "God save your Majesty. My royal cousin, teach you our princess English?"
+    m:
+      - "God save your Majesty. My royal kinsman, are you teaching our princess English?"
+
+  - sp: KING HENRY
+    o:
+      - "I would have her learn, my fair cousin, how perfectly I love her, and that is good English."
+    m:
+      - "I wanted to teach her how perfectly I love her, kinsman, and that’s good English."
+
+  - sp: BURGUNDY
+    o:
+      - "Is she not apt?"
+    m:
+      - "She picks it up quick, doesn’t she?"
+
+  - sp: KING HENRY
+    o:
+      - "Our tongue is rough, coz, and my condition is not smooth, so that, having neither the voice nor the heart of flattery about me, I cannot so conjure up the spirit of love in her that he will appear in his true likeness."
+    m:
+      - "Our language is rough, friend, and it’s not in my nature to speak smoothly. So, possessing neither a voice nor a heart for flattery, I can’t awaken the spirit of love in her so as to make him appear in his true likeness."
+
+  - sp: BURGUNDY
+    o:
+      - "Pardon the frankness of my mirth if I answer you for that. If you would conjure in her, you must make a circle; if conjure up Love in her in his true likeness, he must appear naked and blind. Can you blame her then, being a maid yet rosed over with the virgin crimson of modesty, if she deny the appearance of a naked blind boy in her naked seeing self? It were, my lord, a hard condition for a maid to consign to."
+    m:
+      - "Forgive my boldness if I take you up on your words about making magic. For love to appear in his true likeness, he would have to be as Cupid is: naked and blind. How can you blame her, a tender young maiden still given to virgin blushes, for objecting to having a blind, naked boy appear before her? It’s a lot to ask of a maiden."
+
+  - sp: KING HENRY
+    o:
+      - "Yet they do wink and yield, as love is blind and enforces."
+    m:
+      - "But virgins close their eyes and submit all the time, and blind love has his way."
+
+  - sp: BURGUNDY
+    o:
+      - "They are then excused, my lord, when they see not what they do."
+    m:
+      - "They’re forgiven, then, if they don’t see what they’re doing."
+
+  - sp: KING HENRY
+    o:
+      - "Then, good my lord, teach your cousin to consent winking."
+    m:
+      - "Then teach your cousin to also be willing to close her eyes, my lord."
+
+  - sp: BURGUNDY
+    o:
+      - "I will wink on her to consent, my lord, if you will teach her to know my meaning, for maids, well summered and warm kept, are like flies at Bartholomew-tide: blind, though they have their eyes; and then they will endure handling, which before would not abide looking on."
+    m:
+      - "I will signal her with a wink to consent, my lord, if you will teach her what that means. Maidens who are well fed and well taken care of are like August flies, blind though they can see. They’ll let you handle them then, though they’d scarcely let you look at them before."
+
+  - sp: KING HENRY
+    o:
+      - "This moral ties me over to time and a hot summer. And so I shall catch the fly, your cousin, in the latter end and she must be blind too."
+    m:
+      - "So you’re telling me to give it time and wait for summer. And even then, in order for me to catch the fly your cousin, she must be blind?"
+
+  - sp: BURGUNDY
+    o:
+      - "As love is, my lord, before it loves."
+    m:
+      - "Like love, my lord, before it learns to love."
+
+  - sp: KING HENRY
+    o:
+      - "It is so. And you may, some of you, thank love for my blindness, who cannot see many a fair French city for one fair French maid that stands in my way."
+    m:
+      - "Fair enough. Some of you may, thank love for my blindness. There’s many a French town that I can’t see because one pretty French maid stands in front of me."
+
+  - sp: FRENCH KING
+    o:
+      - "Yes, my lord, you see them perspectively, the cities turned into a maid, for they are all girdled with maiden walls that war hath never entered."
+    m:
+      - "Oh yes, my lord, you see them, but you see them metaphorically. The cities appear to you like a maiden because virgin walls, which war has never invaded, surround them."
+
+  - sp: KING HENRY
+    o:
+      - "Shall Kate be my wife?"
+    m:
+      - "Shall Kate be my wife?"
+
+  - sp: FRENCH KING
+    o:
+      - "So please you."
+    m:
+      - "If you wish."
+
+  - sp: KING HENRY
+    o:
+      - "I am content, so the maiden cities you talk of may wait on her. So the maid that stood in the way for my wish shall show me the way to my will."
+    m:
+      - "I am satisfied, as long as the maiden cities you talk of come with her. That way, the maiden that stood between me and them shall be the means of my achieving my desire."
+
+  - sp: FRENCH KING
+    o:
+      - "We have consented to all terms of reason."
+    m:
+      - "We have consented to all reasonable terms."
+
+  - sp: KING HENRY
+    o:
+      - "Is ’t so, my lords of England?"
+    m:
+      - "Is that true, my lords of England?"
+
+  - sp: WESTMORELAND
+    o:
+      - "The king hath granted every article,"
+      - "His daughter first, and, in sequel, all,"
+      - "According to their firm proposed natures."
+    m:
+      - "The king has agreed to every point: first his daughter, then everything else, as you strictly proposed."
+
+  - sp: EXETER
+    o:
+      - "Only he hath not yet subscribèd this:"
+      - "Where your Majesty demands that the king of France, having any occasion to write for matter of grant, shall name your Highness in this form and with this addition, in French: *Notre très cher fils Henri, roi d’Angleterre, héritier de France*; and thus in Latin: *Praeclarissimus filius noster Henricus, rex Angliae, et haeres Franciae.*"
+    m:
+      - "Except that he has not yet agreed to address you in this form and with this title—in French, *Notre tres cher fils Henri, Roi d’Angleterre, Heritier de France*; and in Latin, *Praeclarissimus filius noster* Henricus, *Rex Angliae, et Haeres Franciae.*"
+
+  - sp: FRENCH KING
+    o:
+      - "Nor this I have not, brother, so denied"
+      - "But your request shall make me let it pass."
+    m:
+      - "And even this I’m willing to grant if you request it."
+
+  - sp: KING HENRY
+    o:
+      - "I pray you, then, in love and dear alliance,"
+      - "Let that one article rank with the rest,"
+      - "And thereupon give me your daughter."
+    m:
+      - "In that case, I ask that for the sake of friendship and alliance you let that one item stand with the rest, and bestow your daughter on me."
+
+  - sp: FRENCH KING
+    o:
+      - "Take her, fair son, and from her blood raise up"
+      - "Issue to me, that the contending kingdoms"
+      - "Of France and England, whose very shores look pale"
+      - "With envy of each other’s happiness,"
+      - "May cease their hatred, and this dear conjunction"
+      - "Plant neighborhood and Christian-like accord"
+      - "In their sweet bosoms, that never war advance"
+      - "His bleeding sword ’twixt England and fair France."
+    m:
+      - "Take her, my son, and give me children by her, so that the warring kingdoms of France and England, whose very shores have paled in envy at each other’s happiness, may finally end their mutual hostility. May this precious marriage cause friendship and alliance between them and war never again threaten England or fair France with his bloody sword."
+
+  - sp: LORDS
+    o:
+      - "Amen."
+    m:
+      - "Amen."
+
+  - sp: KING HENRY
+    o:
+      - "Now welcome, Kate, and bear me witness all"
+      - "That here I kiss her as my sovereign queen."
+    m:
+      - "Now, welcome, Kate.—And let everyone bear witness that here I kiss her as my sovereign queen."
+
+  - os: "Flourish"
+    ms: "Trumpets sound."
+
+  - sp: QUEEN ISABEL
+    o:
+      - "God, the best maker of all marriages,"
+      - "Combine your hearts in one, your realms in one."
+      - "As man and wife, being two, are one in love,"
+      - "So be there ’twixt your kingdoms such a spousal"
+      - "That never may ill office or fell jealousy,"
+      - "Which troubles oft the bed of blessèd marriage,"
+      - "Thrust in between the paction of these kingdoms"
+      - "To make divorce of their incorporate league,"
+      - "That English may as French, French Englishmen,"
+      - "Receive each other. God speak this “amen”!"
+    m:
+      - "May God, who is the best matchmaker, join your hearts and realms in one. As man and wife, though two, are one in love, so let there be between your kingdoms such a marriage that neither wrongdoing nor fierce jealousy, which often trouble the sacred state of marriage, ever sever them. And let Englishmen be French and Frenchmen English. God say, “Amen”!"
+
+  - sp: ALL
+    o:
+      - "Amen."
+    m:
+      - "Amen!"
+
+  - sp: KING HENRY
+    o:
+      - "Prepare we for our marriage; on which day,"
+      - "My Lord of Burgundy, we’ll take your oath,"
+      - "And all the peers’, for surety of our leagues."
+      - "Then shall I swear to Kate, and you to me,"
+      - "And may our oaths well kept and prosp’rous be."
+    m:
+      - "Let us prepare for our wedding.—On that day, I’ll take your oath of loyalty, my Lord of Burgundy and all my peers, to guarantee my treaty. Then I will swear to Kate and you to me, and may our oaths be faithfully kept and prove fortunate."
+
+  - os: "Sennet"
+    ms: "Trumpets sound."
+
+  - os: "Exeunt"
+    ms: "They all exit."
+
+  - os: "Enter CHORUS"
+    ms: "The CHORUS enters."
+
+  - sp: CHORUS
+    o:
+      - "Thus far with rough and all-unable pen"
+      - "Our bending author hath pursued the story,"
+      - "In little room confining mighty men,"
+      - "Mangling by starts the full course of their glory."
+      - "Small time, but in that small most greatly lived"
+      - "This star of England. Fortune made his sword,"
+      - "By which the world’s best garden be achieved"
+      - "And of it left his son imperial lord."
+      - "Henry the Sixth, in infant bands crowned king"
+      - "Of France and England, did this king succeed,"
+      - "Whose state so many had the managing"
+      - "That they lost France and made his England bleed,"
+      - "Which oft our stage hath shown. And for their sake,"
+      - "In your fair minds let this acceptance take."
+    m:
+      - "Thus far has our straining author pursued the story with his crude, inadequate writing, keeping important people penned up in this little room while he mangled history’s full glory with his uneven telling. The lifespan of our English hero was brief, but in that brief time he achieved greatness. He had good luck as a warrior, and with it he created the world’s greatest garden, France, leaving his son as its imperial ruler. Henry the Sixth, crowned king of France and England while still in his infancy, succeeded him. But so many people had a hand in managing the child’s kingdom that France was lost and civil war came to England—a story we’ve acted out many times on this stage. With those plays in mind, we hope you’ll receive this one kindly."
+
+  - os: "Exit"
+    ms: "The CHORUS exits."

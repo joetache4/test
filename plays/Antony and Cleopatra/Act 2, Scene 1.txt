@@ -1,0 +1,141 @@
+play: Antony and Cleopatra
+title: Act 2, Scene 1
+group: 2
+order: 5
+text:
+  - os: "Enter POMPEY, MENECRATES, and MENAS, in warlike manner"
+    ms: "POMPEY, MENECRATES, and MENAS enter, dressed for battle."
+
+  - sp: POMPEY
+    o:
+      - "If the great gods be just, they shall assist"
+      - "The deeds of justest men."
+    m:
+      - "If the great gods are just, they will help the most honest men."
+
+  - sp: MENAS
+    o:
+      - "    Know, worthy Pompey, That what they do delay, they not deny."
+    m:
+      - "You should know, noble Pompey, that although the gods may delay action, that doesn’t mean they will necessarily refuse their help."
+
+  - sp: POMPEY
+    o:
+      - "Whiles we are suitors to their throne, decays"
+      - "The thing we sue for."
+    m:
+      - "But while we pray and wait for that help, the cause we petition for may be lost."
+
+  - sp: MENAS
+    o:
+      - "    We, ignorant of ourselves,"
+      - "Beg often our own harms, which the wise powers"
+      - "Deny us for our good, so find we profit"
+      - "By losing of our prayers."
+    m:
+      - "Sometimes we don’t know what’s best for us and ask for things that may harm us. In that case, the wise gods deny our prayers for our own good."
+
+  - sp: POMPEY
+    o:
+      - "    I shall do well."
+      - "The people love me, and the sea is mine."
+      - "My powers are crescent, and my auguring hope"
+      - "Says it will come to th’ full. Mark Antony"
+      - "In Egypt sits at dinner, and will make"
+      - "No wars without doors. Caesar gets money where"
+      - "He loses hearts. Lepidus flatters both,"
+      - "Of both is flattered, but he neither loves,"
+      - "Nor either cares for him."
+    m:
+      - "I’ll do well. The people are on my side, and I’m in charge of the sea. My forces are growing, and everything I know tells me it’s all coming together. Mark Antony is at dinner in Egypt and won’t be going outside to make war. Caesar loses supporters wherever he raises money. Lepidus flatters both of them, as they flatter him, but he doesn’t love them, and they don’t love him."
+
+  - sp: MENAS
+    o:
+      - "    Caesar and Lepidus Are in the field. A mighty strength they carry."
+    m:
+      - "Caesar and Lepidus are organizing their military operation. They have a massive army."
+
+  - sp: POMPEY
+    o:
+      - "Where have you this? ’Tis false."
+    m:
+      - "Where did you hear this? It’s not true."
+
+  - sp: MENAS
+    o:
+      - "    From Silvius, sir."
+    m:
+      - "From Silvius, sir."
+
+  - sp: POMPEY
+    o:
+      - "He dreams. I know they are in Rome together"
+      - "Looking for Antony. But all the charms of love,"
+      - "Salt Cleopatra, soften thy wanned lip!"
+      - "Let witchcraft join with beauty, lust with both."
+      - "Tie up the libertine in a field of feasts,"
+      - "Keep his brain fuming. Epicurean cooks,"
+      - "Sharpen with cloyless sauce his appetite,"
+      - "That sleep and feeding may prorogue his honor"
+      - "Even till a Lethe’d dulness—"
+    m:
+      - "He’s dreaming. I know they’re in Rome together, hoping for Antony to return. Lecherous Cleopatra, may all the charms of love soften those withered lips! Join your witchcraft with your beauty, and let Antony’s lust combine with both. Keep this libertine occupied with endless debauchery. Keep his brain drunk and his appetite unsatisfied, so that sleeping and eating make him drowsy and forgetful of his duties, like the Lethe does."
+
+  - os: "Enter VARRIUS"
+    ms: "VARRIUS enters."
+
+  - o:
+      - "    How now, Varrius?"
+    m:
+      - "What’s the news, Varrius?"
+
+  - sp: VARRIUS
+    o:
+      - "This is most certain that I shall deliver:"
+      - "Mark Antony is every hour in Rome"
+      - "Expected. Since he went from Egypt ’tis"
+      - "A space for farther travel."
+    m:
+      - "This news is absolutely true: Mark Antony is expected to arrive in Rome at any hour now. In the time since he left Egypt, he could have traveled an even longer distance."
+
+  - sp: POMPEY
+    o:
+      - "I could have given less matter"
+      - "A better ear.—Menas, I did not think"
+      - "This amorous surfeiter would have donned his helm"
+      - "For such a petty war. His soldiership"
+      - "Is twice the other twain. But let us rear"
+      - "The higher our opinion, that our stirring"
+      - "Can from the lap of Egypt’s widow pluck"
+      - "The ne’er lust-wearied Antony."
+    m:
+      - "I would have listened to less important news with greater enthusiasm. Menas, I had no idea this amorous glutton would have put on his helmet for such an insignificant war. His military ability is double that of the other two. We must form a better opinion of ourselves if our uprising can pull the insatiable Antony’s attention away from that Egyptian widow."
+
+  - sp: MENAS
+    o:
+      - "    I cannot hope"
+      - "Caesar and Antony shall well greet together."
+      - "His wife that’s dead did trespasses to Caesar."
+      - "His brother warred upon him, although, I think,"
+      - "Not moved by Antony."
+    m:
+      - "I don’t expect Caesar and Antony will have a very friendly reunion. Antony’s dead wife raised an army against him, as did his brother, though I don’t think Antony instigated it."
+
+  - sp: POMPEY
+    o:
+      - "    I know not, Menas,"
+      - "How lesser enmities may give way to greater."
+      - "Were ’t not that we stand up against them all,"
+      - "’Twere pregnant they should square between themselves,"
+      - "For they have entertainèd cause enough"
+      - "To draw their swords. But how the fear of us"
+      - "May cement their divisions and bind up"
+      - "The petty difference, we yet not know."
+      - "Be ’t as our gods will have ’t. It only stands"
+      - "Our lives upon to use our strongest hands."
+      - "Come, Menas."
+    m:
+      - "Menas, I don’t understand how minor quarrels can be superseded by greater ones. If it weren’t for the fact that we oppose all three of them together, they’d be fighting each other. They certainly have enough provocation. But it’s possible the fear of us may mend their petty differences, though how that will work out, we cannot say. It will be as the gods see fit. In any case, our survival depends on putting together the strongest force possible. Let’s go, Menas."
+
+  - os: "Exeunt"
+    ms: "They exit."

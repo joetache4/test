@@ -1,0 +1,649 @@
+play: Hamlet
+title: Act 4, Scene 5
+group: 4
+order: 15
+text:
+  - os: "Enter HORATIO, GERTRUDE, and a GENTLEMAN"
+    ms: "HORATIO, GERTRUDE, and a GENTLEMAN enter."
+
+  - sp: GERTRUDE
+    o:
+      - "I will not speak with her."
+    m:
+      - "I won’t speak to her."
+
+  - sp: GENTLEMAN
+    o:
+      - "    She is importunate,"
+      - "Indeed distract. Her mood will needs be pitied."
+    m:
+      - "She’s insistent. In fact, she’s crazed. You can’t help feeling sorry for her."
+
+  - sp: GERTRUDE
+    o:
+      - "What would she have?"
+    m:
+      - "What does she want?"
+
+  - sp: GENTLEMAN
+    o:
+      - "She speaks much of her father, says she hears"
+      - "There’s tricks i’ th’ world, and hems, and beats her heart,"
+      - "Spurns enviously at straws, speaks things in doubt"
+      - "That carry but half sense. Her speech is nothing,"
+      - "Yet the unshaped use of it doth move"
+      - "The hearers to collection. They aim at it,"
+      - "And botch the words up fit to their own thoughts,"
+      - "Which, as her winks and nods and gestures yield them,"
+      - "Indeed would make one think there might be thought,"
+      - "Though nothing sure, yet much unhappily."
+    m:
+      - "She talks about her father a lot, and says she hears there are conspiracies around the world, and coughs, and beats her breast, and gets angry over tiny matters, and talks nonsense. Her words don’t mean anything, but her babbling causes her listeners to draw conclusions. They hear what they want to hear. Her winks and nods and gestures do suggest that she means to convey a message, and not a happy one."
+
+  - sp: HORATIO
+    o:
+      - "’Twere good she were spoken with, for she may strew"
+      - "Dangerous conjectures in ill-breeding minds."
+    m:
+      - "It’s a good idea to speak to her, since she might lead those with evil intentions to dangerous conclusions."
+
+  - sp: GERTRUDE
+    o:
+      - "Let her come in."
+    m:
+      - "Show her in."
+
+  - os: "Exit GENTLEMAN"
+    ms: "The GENTLEMAN exits."
+
+  - o:
+      - "  *(aside)* To my sick soul (as sin’s true nature is)"
+      - "Each toy seems prologue to some great amiss."
+      - "So full of artless jealousy is guilt,"
+      - "It spills itself in fearing to be spilt."
+    m:
+      - "*(to herself)* To my sick soul (since sin is always a sickness), every detail looks like an omen of disaster to come. Guilt makes you so full of stupid suspicions that you give yourself away because you’re trying so hard not to."
+
+  - os: "Enter OPHELIA, distracted"
+    ms: "OPHELIA enters, insane."
+
+  - sp: OPHELIA
+    o:
+      - "Where is the beauteous majesty of Denmark?"
+    m:
+      - "Where is the beautiful queen of Denmark?"
+
+  - sp: GERTRUDE
+    o:
+      - "How now, Ophelia?"
+    m:
+      - "What are you doing, Ophelia?"
+
+  - sp: OPHELIA
+    o:
+      - "*(sings)*"
+      - "  *How should I your true love know*"
+      - "  *From another one?*"
+      - "  *By his cockle hat and staff*,"
+      - "  *And his sandal shoon*."
+    m:
+      - "*(sings)*"
+      - "  *How can you tell the difference*"
+      - "  *Between your true lover and some other?*"
+      - "  *Your true one wears a pilgrim’s hat*"
+      - "  *And a pilgrim’s sandals and staff*."
+
+  - sp: GERTRUDE
+    o:
+      - "Alas, sweet lady, what imports this song?"
+    m:
+      - "Oh heavens, what does that song mean, my dear?"
+
+  - sp: OPHELIA
+    o:
+      - "Say you? Nay, pray you, mark."
+      - "*(sings)*"
+      - "  *He is dead and gone, lady*,"
+      - "  *He is dead and gone*,"
+      - "  *At his head a grass-green turf*,"
+      - "  *At his heels a stone*."
+      - "Oh, ho!"
+    m:
+      - "I’m sorry, did you say something? Please just listen."
+      - "*(sings)*"
+      - "  *He is dead and gone, lady*,"
+      - "  *He is dead and gone*."
+      - "  *At his head is a patch of green grass*,"
+      - "  *And at his feet there is a tomb stone*."
+      - "Oh, ho!"
+
+  - sp: GERTRUDE
+    o:
+      - "Nay, but, Ophelia—"
+    m:
+      - "No, Ophelia—"
+
+  - sp: OPHELIA
+    o:
+      - "Pray you, mark."
+      - "*(sings)*"
+      - "  *White his shroud as the mountain snow*—"
+    m:
+      - "Just listen, please."
+      - "*(sings)*"
+      - "  *His death shroud was as white as snow—*"
+
+  - os: "Enter CLAUDIUS"
+    ms: "CLAUDIUS enters."
+
+  - sp: GERTRUDE
+    o:
+      - "Alas, look here, my lord."
+    m:
+      - "My lord, look at this poor girl."
+
+  - sp: OPHELIA
+    o:
+      - "*(sings)*"
+      - "  *Larded all with sweet flowers*,"
+      - "  *Which bewept to the ground did not go*"
+      - "  *With true-love showers*."
+    m:
+      - "*(sings)*"
+      - "  *Covered with sweet flowers*"
+      - "  *Which did not fall to the ground*"
+      - "  *In true-love showers*."
+
+  - sp: CLAUDIUS
+    o:
+      - "How do you, pretty lady?"
+    m:
+      - "How are you doing, my pretty lady?"
+
+  - sp: OPHELIA
+    o:
+      - "Well, God’ield you! They say the owl was a baker’s daughter. Lord, we know what we are, but know not what we may be. God be at your table."
+    m:
+      - "I’m quite well, and may God give you what you deserve. They say the baker’s daughter was turned into an owl for refusing Jesus’ bread. My lord, we know what we are now, but not what we may become. May God be at your table."
+
+  - sp: CLAUDIUS
+    o:
+      - "Conceit upon her father."
+    m:
+      - "She’s talking about her dead father."
+
+  - sp: OPHELIA
+    o:
+      - "Pray you, let’s have no words of this, but when they ask you what it means, say you this:"
+      - "*(sings)*"
+      - "  *Tomorrow is Saint Valentine’s day*,"
+      - "  *All in the morning betime*,"
+      - "  *And I a maid at your window*,"
+      - "  *To be your Valentine*."
+      - "  *Then up he rose, and donned his clothes*,"
+      - "  *And dupped the chamber door*."
+      - "  *Let in the maid that out a maid*"
+      - "  *Never departed more*."
+    m:
+      - "Oh, let’s not talk about that, but when they ask you what it means, just say:"
+      - "*(sings)*"
+      - "  *Tomorrow is St. Valentine’s Day*"
+      - "  *And early in the morning*"
+      - "  *I’m a girl below your window*"
+      - "  *Waiting to be your Valentine*."
+      - "  *Then he got up and put on his clothes*"
+      - "  *And opened the door to his room*."
+      - "  *He let in the girl, and when she left*"
+      - "  *She wasn’t a virgin anymore*."
+
+  - sp: CLAUDIUS
+    o:
+      - "Pretty Ophelia—"
+    m:
+      - "Pretty Ophelia—"
+
+  - sp: OPHELIA
+    o:
+      - "Indeed, without an oath I’ll make an end on ’t:"
+      - "*(sings)*"
+      - "  *By Gis and by Saint Charity*,"
+      - "  *Alack, and fie, for shame!*"
+      - "  *Young men will do ’t, if they come to ’t*."
+      - "  *By Cock, they are to blame*."
+      - "  *Quoth she, “Before you tumbled me*,"
+      - "  *You promised me to wed.”*"
+      - "  *He answers*,"
+      - "  *“So would I ha’ done, by yonder sun*,"
+      - "  *An thou hadst not come to my bed.”*"
+    m:
+      - "Hang on, I’ll end it soon, I promise:"
+      - "*(sings)*"
+      - "  *By the name of Jesus and Saint Charity*,"
+      - "  *My goodness, what a shame it is*,"
+      - "  *Young men will do it if they get a chance:*"
+      - "  *By God, they’re very bad*."
+      - "  *She said, “Before you got me into bed*,"
+      - "  *You promised to marry me.”*"
+      - "  *He answers:*"
+      - "  *“I would have married you, I swear*,"
+      - "  *If you hadn’t gone to bed with me.”*"
+
+  - sp: CLAUDIUS
+    o:
+      - "How long hath she been thus?"
+    m:
+      - "How long has she been like this?"
+
+  - sp: OPHELIA
+    o:
+      - "I hope all will be well. We must be patient, but I cannot choose but weep, to think they should lay him i’ th’ cold ground. My brother shall know of it, and so I thank you for your good counsel. Come, my coach! Good night, ladies. Good night, sweet ladies. Good night, good night."
+    m:
+      - "I hope everything will turn out fine. We must be patient, but I can’t help crying when I think of him being laid in the cold ground. My brother will hear about this. And so I thank you for your good advice. Come, driver! Good night, ladies, good night, sweet ladies, good night, good night."
+
+  - os: "Exit OPHELIA"
+    ms: "OPHELIA exits."
+
+  - sp: CLAUDIUS
+    o:
+      - "Follow her close. Give her good watch, I pray you."
+    m:
+      - "Follow her. Keep an eye on her, please."
+
+  - os: "Exit HORATIO"
+    ms: "HORATIO exits."
+
+  - o:
+      - "Oh, this is the poison of deep grief. It springs"
+      - "All from her father’s death, and now behold!"
+      - "O Gertrude, Gertrude,"
+      - "When sorrows come, they come not single spies"
+      - "But in battalions. First, her father slain."
+      - "Next, your son gone, and he most violent author"
+      - "Of his own just remove. The people muddied,"
+      - "Thick, and unwholesome in their thoughts and whispers"
+      - "For good Polonius’ death, and we have done but greenly"
+      - "In hugger-mugger to inter him. Poor Ophelia"
+      - "Divided from herself and her fair judgment,"
+      - "Without the which we are pictures, or mere beasts."
+      - "Last—and as much containing as all these—"
+      - "Her brother is in secret come from France,"
+      - "Feeds on his wonder, keeps himself in clouds,"
+      - "And wants not buzzers to infect his ear"
+      - "With pestilent speeches of his father’s death,"
+      - "Wherein necessity, of matter beggared,"
+      - "Will nothing stick our person to arraign"
+      - "In ear and ear. O my dear Gertrude, this,"
+      - "Like to a murdering piece, in many places"
+      - "Gives me superfluous death."
+    m:
+      - "Oh, her grief has poisoned her mind. Her father died and now look at her! Oh, Gertrude, Gertrude, when bad things happen, they don’t come one at a time, like enemy spies, but all at once like an army. First her father was killed, then your son was taken away—because of his own violent actions. The people are confused and spreading nasty rumors about Polonius’ death, and I was a fool to bury him in a hurry, without a proper state funeral. Poor Ophelia has been robbed of her sanity, without which we’re just pictures, or animals. Last but not least, her brother has secretly returned from France and is surrounded by gossip-mongers, who fill his ears with wicked stories about his father’s death. Deprived of proper evidence, he’ll naturally attribute the murder to me. Oh, dear Gertrude, I feel as though I’m being murdered many times over."
+
+  - os: "A noise within"
+    ms: "A noise offstage."
+
+  - sp: GERTRUDE
+    o:
+      - "    Alack, what noise is this?"
+    m:
+      - "Oh, no—what’s that noise?"
+
+  - sp: CLAUDIUS
+    o:
+      - "Where are my Switzers? Let them guard the door."
+    m:
+      - "Listen! Where are my bodyguards? Let them guard the door."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - o:
+      - "What is the matter?"
+    m:
+      - "What is it?"
+
+  - sp: MESSENGER
+    o:
+      - "  Save yourself, my lord."
+      - "The ocean, overpeering of his list,"
+      - "Eats not the flats with more impiteous haste"
+      - "Than young Laertes, in a riotous head,"
+      - "O’erbears your officers. The rabble call him “lord”"
+      - "And—as the world were now but to begin,"
+      - "Antiquity forgot, custom not known,"
+      - "The ratifiers and props of every word—"
+      - "They cry, “Choose we! Laertes shall be king!”"
+      - "Caps, hands, and tongues applaud it to the clouds:"
+      - "“Laertes shall be king, Laertes king!”"
+    m:
+      - "You must save yourself, my lord. The young Laertes, like the ocean when it floods the shore and devours the lowlands, is leading a rebellion against your government. The crowd calls him “lord” and shouts, “We want Laertes to be king!” It’s as if they were starting the world from scratch right now, throwing out the traditions and ancient customs that are the support of every word we utter. They throw their caps in the air and yell, “Laertes will be king! Laertes king!”"
+
+  - sp: GERTRUDE
+    o:
+      - "How cheerfully on the false trail they cry."
+      - "O, this is counter, you false Danish dogs!"
+    m:
+      - "They sound so cheerful as they hunt down the wrong prey! Oh, you’re on the wrong track, you disloyal Danish dogs!"
+
+  - os: "Noise within"
+    ms: "A noise offstage."
+
+  - sp: CLAUDIUS
+    o:
+      - "The doors are broke."
+    m:
+      - "The doors have been smashed open."
+
+  - os: "Enter LAERTES with others"
+    ms: "LAERTES enters with others."
+
+  - sp: LAERTES
+    o:
+      - "Where is this king?—Sirs, stand you all without."
+    m:
+      - "Where’s this so-called king? Men, wait outside."
+
+  - sp: ALL
+    o:
+      - "No, let’s come in!"
+    m:
+      - "No, let us in!"
+
+  - sp: LAERTES
+    o:
+      - "I pray you, give me leave."
+    m:
+      - "Please wait."
+
+  - sp: ALL
+    o:
+      - "We will, we will."
+    m:
+      - "All right, we will, we will."
+
+  - os: "Exeunt LAERTES’ FOLLOWERS"
+    ms: "LAERTES’ FOLLOWERS exit."
+
+  - sp: LAERTES
+    o:
+      - "I thank you. Keep the door.—O thou vile king,"
+      - "Give me my father!"
+    m:
+      - "Thank you. Guard the door. *(to CLAUDIUS)* Oh, you vile king, give me my father!"
+
+  - sp: GERTRUDE
+    o:
+      - "  Calmly, good Laertes."
+    m:
+      - "Calm down, good Laertes."
+
+  - sp: LAERTES
+    o:
+      - "That drop of blood that’s calm proclaims me bastard,"
+      - "Cries “Cuckold!” to my father, brands the “harlot”"
+      - "Even here between the chaste unsmirchèd brow"
+      - "Of my true mother."
+    m:
+      - "I’ve got exactly one calm drop of blood in my body, and it proclaims that I’m a bastard, says my father was betrayed, and stamps the label “whore” on the pure forehead of my devoted mother."
+
+  - sp: CLAUDIUS
+    o:
+      - "  What is the cause, Laertes,"
+      - "That thy rebellion looks so giant-like?—"
+      - "Let him go, Gertrude. Do not fear our person."
+      - "There’s such divinity doth hedge a king"
+      - "That treason can but peep to what it would,"
+      - "Acts little of his will.—Tell me, Laertes,"
+      - "Why thou art thus incensed.—Let him go, Gertrude.—"
+      - "Speak, man."
+    m:
+      - "Laertes, what makes you so rebellious? Let him go, Gertrude. Don’t worry about my getting hurt. God protects the king, so traitors can’t hurt him.—Tell me, Laertes, why you’re so angry.—Gertrude, let him go.—Tell me, man."
+
+  - sp: LAERTES
+    o:
+      - "  Where is my father?"
+    m:
+      - "Where’s my father?"
+
+  - sp: CLAUDIUS
+    o:
+      - "    Dead."
+    m:
+      - "He’s dead."
+
+  - sp: GERTRUDE
+    o:
+      - "But not by him."
+    m:
+      - "But the king didn’t kill him."
+
+  - sp: CLAUDIUS
+    o:
+      - "  Let him demand his fill."
+    m:
+      - "Let him ask what he wants to ask."
+
+  - sp: LAERTES
+    o:
+      - "How came he dead? I’ll not be juggled with."
+      - "To hell, allegiance! Vows, to the blackest devil!"
+      - "Conscience and grace, to the profoundest pit!"
+      - "I dare damnation. To this point I stand"
+      - "That both the worlds I give to negligence."
+      - "Let come what comes, only I’ll be revenged"
+      - "Most thoroughly for my father."
+    m:
+      - "How did he end up dead? Don’t mess with me. To hell with my vows of allegiance to you! Vows can go to hell! Conscience, too! I don’t care if I’m damned. I don’t care what happens to me in this world or the next. Whatever happens, happens, but I’ll get revenge for my father’s murder."
+
+  - sp: CLAUDIUS
+    o:
+      - "Who shall stay you?"
+    m:
+      - "Who’s stopping you?"
+
+  - sp: LAERTES
+    o:
+      - "My will, not all the world."
+      - "And for my means, I’ll husband them so well,"
+      - "They shall go far with little."
+    m:
+      - "Only my free will—nothing else. What little means I have, I’ll use against you."
+
+  - sp: CLAUDIUS
+    o:
+      - "    Good Laertes,"
+      - "If you desire to know the certainty"
+      - "Of your dear father’s death, is ’t writ in your revenge,"
+      - "That, swoopstake, you will draw both friend and foe,"
+      - "Winner and loser?"
+    m:
+      - "My dear Laertes, in your eagerness to know the truth about your father’s death, are you determined to hurt your father’s friends and enemies alike?"
+
+  - sp: LAERTES
+    o:
+      - "None but his enemies."
+    m:
+      - "No, only his enemies."
+
+  - sp: CLAUDIUS
+    o:
+      - "Will you know them then?"
+    m:
+      - "Do you want to know who they are, then?"
+
+  - sp: LAERTES
+    o:
+      - "To his good friends thus wide I’ll ope my arms"
+      - "And, like the kind life-rendering pelican,"
+      - "Repast them with my blood."
+    m:
+      - "I’ll open my arms wide to his true friends, and like a mother pelican with her brood, I’ll even give my life for them."
+
+  - sp: CLAUDIUS
+    o:
+      - "    Why, now you speak"
+      - "Like a good child and a true gentleman."
+      - "That I am guiltless of your father’s death"
+      - "And am most sensible in grief for it,"
+      - "It shall as level to your judgment pierce"
+      - "As day does to your eye."
+    m:
+      - "Why, now you’re talking like a good son and a true gentleman. I’ll prove to you as clearly as daylight that I’m innocent of your father’s death, and am struck with grief over it."
+
+  - os: "Noise within: “Let her come in!”"
+    ms: "A voice offstage, “Let her in!”"
+
+  - sp: LAERTES
+    o:
+      - "How now? What noise is that?"
+    m:
+      - "What’s that noise?"
+
+  - os: "Enter OPHELIA"
+    ms: "OPHELIA enters."
+
+  - o:
+      - "O heat, dry up my brains! Tears seven times salt,"
+      - "Burn out the sense and virtue of mine eye!"
+      - "By heaven, thy madness shall be paid by weight,"
+      - "Till our scale turn the beam. O rose of May,"
+      - "Dear maid, kind sister, sweet Ophelia!"
+      - "O heavens, is ’t possible a young maid’s wits"
+      - "Should be as mortal as an old man’s life?"
+      - "Nature is fine in love, and where ’tis fine,"
+      - "It sends some precious instance of itself"
+      - "After the thing it loves."
+    m:
+      - "Oh, heat, dry up my brains! Salty tears, burn my eyes! By heaven, I’ll get revenge for your madness! Oh, you springtime rose, dear maiden, kind sister, sweet Ophelia! Is it possible that a young woman’s mind could fade away as easily as an old man’s life? Human nature is refined and thoughtful—person graciously gives a valuable part of herself away to her beloved, as Ophelia has sent off her sanity to her dead father."
+
+  - sp: OPHELIA
+    o:
+      - "*(sings)*"
+      - "  *They bore him barefaced on the bier*,"
+      - "  *Hey, non nonny, nonny, hey, nonny*,"
+      - "  *And in his grave rained many a tear*."
+      - "Fare you well, my dove."
+    m:
+      - "*(sings)*"
+      - "  *They carried him uncovered in the coffin*,"
+      - "  *Hey non nonny, nonny, hey nonny*."
+      - "  *And tears poured down into his grave*."
+      - "Good-bye, honey."
+
+  - sp: LAERTES
+    o:
+      - "Hadst thou thy wits, and didst persuade revenge,"
+      - "It could not move thus."
+    m:
+      - "If you were sane and could urge me to take revenge, you couldn’t be more persuasive than you are now."
+
+  - sp: OPHELIA
+    o:
+      - "You must sing *A-down a-down*—And you, *Call him a-down-a*—Oh, how the wheel becomes it! It is the false steward that stole his master’s daughter."
+    m:
+      - "You’re supposed to sing, “A down a-down,” and you, “Call him a-down-a.” Oh, how it turns around like a wheel! Like the worker who stole his boss’ daughter."
+
+  - sp: LAERTES
+    o:
+      - "This nothing’s more than matter."
+    m:
+      - "This nonsense means more than rational speech."
+
+  - sp: OPHELIA
+    o:
+      - "There’s rosemary, that’s for remembrance. Pray you, love, remember. And there is pansies, that’s for thoughts."
+    m:
+      - "Look at my flowers. There’s rosemary, that’s for remembering. Please remember, love. And there are pansies, they’re for thoughts."
+
+  - sp: LAERTES
+    o:
+      - "A document in madness. Thoughts and remembrance fitted."
+    m:
+      - "A case study in madness, to connect memory and thought."
+
+  - sp: OPHELIA
+    o:
+      - "There’s fennel for you, and columbines.—There’s rue for you, and here’s some for me. We may call it “herb of grace” o’ Sundays.—Oh, you must wear your rue with a difference.—There’s a daisy. I would give you some violets, but they withered all when my father died. They say he made a good end *(sings) For bonny sweet Robin is all my joy*—"
+    m:
+      - "*(to GERTRUDE)* Here are fennel and columbines for you—they symbolize adultery. *(to CLAUDIUS)* And here’s rue for you—it symbolizes repentance. We can call it the merciful Sunday flower. You should wear it for a different reason. And here’s a daisy, for unhappy love. I’d give you some violets, flowers of faithfulness, but they all dried up when my father died. They say he looked good when he died. *(sings) For good sweet Robin is all my joy*."
+
+  - sp: LAERTES
+    o:
+      - "Thought and affliction, passion, hell itself,"
+      - "She turns to favor and to prettiness."
+    m:
+      - "Sadness and torment, suffering, hell itself—she makes them almost pretty."
+
+  - sp: OPHELIA
+    o:
+      - "*(sings)*"
+      - "  *And will he not come again?*"
+      - "  *And will he not come again?*"
+      - "  *No, no, he is dead*,"
+      - "  *Go to thy deathbed*."
+      - "  *He never will come again*."
+      - "  *His beard was as white as snow*,"
+      - "  *All flaxen was his poll*."
+      - "  *He is gone, he is gone*,"
+      - "  *And we cast away moan*,"
+      - "  *God ha’ mercy on his soul*.—"
+      - "And of all Christian souls, I pray God. God be wi’ ye."
+    m:
+      - "*(sings)*"
+      - "  *And won’t he come again?*"
+      - "  *And won’t he come again?*"
+      - "  *No, no, he’s dead*."
+      - "  *Go to your deathbed*."
+      - "  *He’ll never come again*."
+      - "  *His beard was white as snow,*"
+      - "  *His hair was all white too*."
+      - "  *He’s gone, he’s gone*,"
+      - "  *And we moan as we’re cast away*."
+      - "  *God have mercy on his soul*."
+      - "And on the souls of all good Christians, I hope. Goodbye, God be with you."
+
+  - os: "Exit OPHELIA"
+    ms: "OPHELIA exits."
+
+  - sp: LAERTES
+    o:
+      - "Do you see this, O God?"
+    m:
+      - "Do you see this, oh, God?"
+
+  - sp: CLAUDIUS
+    o:
+      - "Laertes, I must commune with your grief,"
+      - "Or you deny me right. Go but apart,"
+      - "Make choice of whom your wisest friends you will."
+      - "And they shall hear and judge ’twixt you and me."
+      - "If by direct or by collateral hand"
+      - "They find us touched, we will our kingdom give,"
+      - "Our crown, our life, and all that we can ours,"
+      - "To you in satisfaction. But if not,"
+      - "Be you content to lend your patience to us,"
+      - "And we shall jointly labor with your soul"
+      - "To give it due content."
+    m:
+      - "Laertes, I have a right to share your grief. Go choose your wisest friends, and have them listen to both of us and decide which of us is right. If directly or indirectly they find me implicated in your father’s murder, I’ll give up my kingdom, my crown, my life, and everything I call my own to you as restitution. But if they find me innocent, then be patient and I’ll work to satisfy to the fullest extent your deepest need for revenge."
+
+  - sp: LAERTES
+    o:
+      - "    Let this be so."
+      - "His means of death, his obscure funeral—"
+      - "No trophy, sword, nor hatchment o’er his bones,"
+      - "No noble rite nor formal ostentation—"
+      - "Cry to be heard as ’twere from heaven to earth,"
+      - "That I must call ’t in question."
+    m:
+      - "All right, then. The way he died, his secret funeral, no funeral rites or military display, no noble rites or formal ceremony—shout out from heaven and earth that I must call the way he died into question."
+
+  - sp: CLAUDIUS
+    o:
+      - "    So you shall."
+      - "And where the offense is, let the great ax fall."
+      - "I pray you, go with me."
+    m:
+      - "And you’re right to do so. May the guilty party be punished by death. Please, come with me."
+
+  - os: "Exeunt"
+    ms: "They exit."

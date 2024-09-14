@@ -1,0 +1,215 @@
+play: Henry IV, Part I
+title: Act 2, Scene 1
+group: 2
+order: 3
+text:
+  - os: "Enter a CARRIER with a lantern in his hand"
+    ms: "FIRST CARRIER enters, holding a lantern."
+
+  - sp: FIRST CARRIER
+    o:
+      - "Heigh-ho! An it be not four by the day, I’ll be hanged. Charles’ Wain is over the new chimney, and yet our horse not packed.—What, ostler!"
+    m:
+      - "I’ll be damned if it isn’t 4 A.M. already. The Big Dipper has already risen above the chimney, and our horses aren’t ready yet. Hey, ostler!"
+
+  - sp: OSTLER
+    o:
+      - "*(within)* Anon, anon."
+    m:
+      - "*(offstage)* Just a second!"
+
+  - sp: FIRST CARRIER
+    o:
+      - "I prithee, Tom, beat Cut’s saddle. Put a few flocks in the point. Poor jade is wrung in the withers out of all cess."
+    m:
+      - "Hey, Tom, give the saddle of my horse, Cut, a few whacks to soften it up, and stuff some wool under it—the old nag’s got some bad bruises on her shoulders."
+
+  - os: "Enter another CARRIER"
+    ms: "SECOND CARRIER enters."
+
+  - sp: SECOND CARRIER
+    o:
+      - "Peas and beans are as dank here as a dog, and that is the next way to give poor jades the bots. This house is turned upside down since Robin ostler died."
+    m:
+      - "The feed here’s as damp as anything. That’s a fast way for a horse to get parasites. This stable’s upside down since Ostler Robin died."
+
+  - sp: FIRST CARRIER
+    o:
+      - "Poor fellow never joyed since the price of oats rose. It was the death of him."
+    m:
+      - "Poor guy. Once the price of oats went up, he was never happy again. It killed him."
+
+  - sp: SECOND CARRIER
+    o:
+      - "I think this be the most villanous house in all London road for fleas. I am stung like a tench."
+    m:
+      - "This stable’s got worse fleas than any in London. I’m stung like a tench."
+
+  - sp: FIRST CARRIER
+    o:
+      - "Like a tench? By the Mass, there is ne’er a king christen could be better bit than I have been since the first cock."
+    m:
+      - "Like a tench? I’m telling you, not even a king could be bitten more than I’ve been bitten since midnight."
+
+  - sp: SECOND CARRIER
+    o:
+      - "Why, they will allo w us ne’er a jordan, and then we leak in your chimney, and your chamber-lye breeds fleas like a loach."
+    m:
+      - "They don’t even give us a bathroom. So we pee in the fireplace, and you know that urine breeds fleas like nobody’s business."
+
+  - sp: FIRST CARRIER
+    o:
+      - "What, ostler, come away and be hanged. Come away."
+    m:
+      - "Hey, ostler! Come on already, damn you!"
+
+  - sp: SECOND CARRIER
+    o:
+      - "I have a gammon of bacon and two races of ginger to be delivered as far as Charing Cross."
+    m:
+      - "I’ve got to deliver a ham and some ginger root all the way to Charing Cross."
+
+  - sp: FIRST CARRIER
+    o:
+      - "God’s body, the turkeys in my pannier are quite starved.— What, ostler! A plague on thee! Hast thou never an eye in thy head? Canst not hear? An ’twere not as good deed as drink to break the pate on thee, I am a very villain. Come, and be hanged. Hast no faith in thee?"
+    m:
+      - "God almighty! The turkeys I’m carrying are starving! Hey, Stable-boy! Curse you! Can’t you see? Can’t you hear? If it isn’t a good idea to knock you on the head, I’m a fool. Come on, damn you! Can’t we trust you to do your job?"
+
+  - os: "Enter GADSHILL"
+    ms: "GADSHILL enters."
+
+  - sp: GADSHILL
+    o:
+      - "Good morrow, carriers. What’s o’clock?"
+    m:
+      - "Morning, deliverymen. What time is it?"
+
+  - sp: FIRST CARRIER
+    o:
+      - "I think it be two o’clock."
+    m:
+      - "I think it’s two o’clock."
+
+  - sp: GADSHILL
+    o:
+      - "I prithee, lend me thy lantern to see my gelding in the stable."
+    m:
+      - "Let me borrow your lantern so I can check on my horse in the stable."
+
+  - sp: FIRST CARRIER
+    o:
+      - "Nay, by God, soft. I know a trick worth two of that, i’ faith."
+    m:
+      - "No way, by God; just hold on a minute. I know a few tricks like that myself, I swear."
+
+  - sp: GADSHILL
+    o:
+      - "*(to SECOND CARRIER)* I pray thee, lend me thine."
+    m:
+      - "*(to SECOND CARRIER)* Please, let me borrow yours."
+
+  - sp: SECOND CARRIER
+    o:
+      - "Ay, when, canst tell? “Lend me thy lantern,” quoth he."
+      - "Marry, I’ll see thee hanged first."
+    m:
+      - "Sure, whenever. Whatever you say. “Let me borrow your lantern,” he says? Yeah, right. I’ll see you dead first."
+
+  - sp: GADSHILL
+    o:
+      - "Sirrah carrier, what time do you mean to come to London?"
+    m:
+      - "Sirrah, what time do you plan to be in London?"
+
+  - sp: SECOND CARRIER
+    o:
+      - "Time enough to go to bed with a candle, I warrant thee. Come, neighbour Mugs, we’ll call up the gentlemen. They will along with company, for they have great charge."
+    m:
+      - "At a reasonable enough time. *(to FIRST CARRIER)* Come on, Mugs, old friend. Let’s wake up the gentlemen. They want to travel in a group because they’re carrying a lot of valuables."
+
+  - os: "Exeunt CARRIERS"
+    ms: "Both CARRIERS exit."
+
+  - sp: GADSHILL
+    o:
+      - "What ho, chamberlain!"
+    m:
+      - "Hey, chamberlain!"
+
+  - sp: CHAMBERLAIN
+    o:
+      - "*(within)* At hand, quoth pickpurse."
+    m:
+      - "*(offstage)* “I’m there for you,” as the pickpockets say!"
+
+  - sp: GADSHILL
+    o:
+      - "That’s even as fair as “at hand, quoth the Chamberlain,” for thou variest no more from picking of purses than giving direction doth from laboring: thou layest the plot how."
+    m:
+      - "That’s as good as saying, “’I’m there for you,’ said the chamberlain.” You’re only as different from a pickpocket as a supervisor is from a worker; you’re the one who sets the plans."
+
+  - os: "Enter CHAMBERLAIN"
+    ms: "The CHAMBERLAIN enters."
+
+  - sp: CHAMBERLAIN
+    o:
+      - "Good morrow, Master Gadshill. It holds current that I told you yesternight: there’s a franklin in the Wild of Kent hath brought three hundred marks with him in gold. I heard him tell it to one of his company last night at supper—a kind of auditor, one that hath abundance of charge too, God knows what. They are up already and call for eggs and butter. They will away presently."
+    m:
+      - "Morning, Mr. Gadshill. What I told you last night is still true. There’s a rich landowner all the way from Kent staying here, and he’s got three hundred gold coins with him. I heard him say so to a man at supper last night. That man’s some kind of tax collector, and he has plenty of money with him, too. They just woke up and they’ve ordered breakfast; they’ll be leaving soon."
+
+  - sp: GADSHILL
+    o:
+      - "Sirrah, if they meet not with Saint Nicholas’ clerks, I’ll give thee this neck."
+    m:
+      - "Sirrah, if they don’t run into some highway robbers today, you can have my neck."
+
+  - sp: CHAMBERLAIN
+    o:
+      - "No, I’ll none of it. I pray thee keep that for the hangman, for I know thou worshipest Saint Nicholas as truly as a man of falsehood may."
+    m:
+      - "I don’t want it; keep it for the hangman. I know you worship the patron saint of highway robbery, as much as a godless man like you worships anything."
+
+  - sp: GADSHILL
+    o:
+      - "What talkest thou to me of the hangman? If I hang, I’ll make a fat pair of gallows, for if I hang, old Sir John hangs with me, and thou knowest he is no starveling. Tut, there are other Troyans that thou dream’st not of, the which for sport sake are content to do the profession some grace, that would, if matters should be looked into, for their own credit sake make all whole. I am joined with no foot-land-rakers, no long-staff sixpenny strikers, none of these mad mustachio purple-hued malt-worms, but with nobility and tranquillity, burgomasters and great oneyers, such as can hold in, such as will strike sooner than speak, and speak sooner than drink, and drink sooner than pray, and yet, zounds, I lie, for they pray continually to their saint the commonwealth, or rather not pray to her but prey on her, for they ride up and down on her and make her their boots."
+    m:
+      - "Why are you taking to me about the hangman? If I hang, I’ll make half of a fat pair on the gallows, because if I hang, old Sir John will be hanging right with me—and he’s not exactly thin. Please! Our gang has some members you could never guess, and for their own amusement, they’re happy to lend the profession of thievery some respect. If we were ever investigated, they would smooth everything over. I’ve got no wandering highwaymen, no thieves with homemade weapons, no red-faced drunks with crazy mustaches. Only men of calm and noble demeanor for me: magistrates and court officials. Men who can keep a secret; who’d rather smack you than speak, rather speak than drink, and rather drink than pray.—No! That’s a lie! They pray all the time to England, their patron saint. Or rather, they don’t pray to her; they prey on her. They ride her up and down and then make her their boots."
+
+  - sp: CHAMBERLAIN
+    o:
+      - "What, the commonwealth their boots? Will she hold out water in foul way?"
+    m:
+      - "Make her their boots? Why, will she keep their feet dry from muddy water?"
+
+  - sp: GADSHILL
+    o:
+      - "She will, she will. Justice hath liquored her. We steal as in a castle, cocksure. We have the receipt of fern seed; we walk invisible."
+    m:
+      - "She can, she can. She’s been greased with so many bribes that she’s waterproof. We thieve in complete safety; we’ve got a potion that makes us invisible."
+
+  - sp: CHAMBERLAIN
+    o:
+      - "Nay, by my faith, I think you are more beholding to the night than to fern seed for your walking invisible."
+    m:
+      - "Oh, I don’t think so. It’s the dark of night that makes you hard to see, not a secret potion."
+
+  - sp: GADSHILL
+    o:
+      - "Give me thy hand. Thou shalt have a share in our purchase, as I am a true man."
+    m:
+      - "Let’s shake hands. You’ll get a share of our spoils; I swear on my honor as a true man."
+
+  - sp: CHAMBERLAIN
+    o:
+      - "Nay, rather let me have it as you are a false thief."
+    m:
+      - "I’d rather have you swear by your reputation as a dishonest thief."
+
+  - sp: GADSHILL
+    o:
+      - "Go to. *Homo* is a common name to all men. Bid the ostler bring my gelding out of the stable. Farewell, you muddy knave."
+    m:
+      - "Whatever. I’m a true man, even if I’m a dishonest thief. Tell the stable-boy to get my horse. Farewell, you fool."
+
+  - os: "Exeunt"
+    ms: "They exit."

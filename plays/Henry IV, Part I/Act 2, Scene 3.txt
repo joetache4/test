@@ -1,0 +1,224 @@
+play: Henry IV, Part I
+title: Act 2, Scene 3
+group: 2
+order: 5
+text:
+  - os: "Enter HOTSPURalone, reading a letter"
+    ms: "HOTSPUR enters alone, reading a letter."
+
+  - sp: HOTSPUR
+    o:
+      - "*But, for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.* He could be contented; why is he not, then? In respect of the love he bears our house—he shows in this he loves his own barn better than he loves our house. Let me see some more. *The purpose you undertake is dangerous.* Why, that’s certain. ’Tis dangerous to take a cold, to sleep, to drink; but I tell you, my lord fool, out of this nettle, danger, we pluck this flower, safety. *The purpose you undertake is dangerous, the friends you have named uncertain, the time itself unsorted, and your whole plot too light for the counterpoise of so great an opposition.* Say you so, say you so? I say unto you again, you are a shallow, cowardly hind, and you lie. What a lack-brain is this! By the Lord, our plot is a good plot as ever was laid, our friends true and constant—a good plot, good friends, and full of expectation; an excellent plot, very good friends. What a frosty-spirited rogue is this! Why, my Lord of York commends the plot and the general course of the action. Zounds, an I were now by this rascal, I could brain him with his lady’s fan. Is there not my father, my uncle, and myself? Lord Edmund Mortimer, my Lord of York, and Owen Glendower? Is there not besides the Douglas? Have I not all their letters to meet me in arms by the ninth of the next month, and are they not some of them set forward already? What a pagan rascal is this—an infidel! Ha, you shall see now in very sincerity of fear and cold heart, will he to the King and lay open all our proceedings. O, I could divide myself and go to buffets, for moving such a dish of skim milk with so honorable an action! Hang him, let him tell the King. We are prepared. I will set forward tonight."
+    m:
+      - "“As for me, sir, I would be happy to be there because of the love I bear for your family.” He would be happy to be here. Well, why isn’t he, then? He says he loves my family, but he clearly loves his barn more than our house. I’ll read on. “Your plan is dangerous.” That’s true, and it’s also dangerous to catch a cold, to sleep, to drink. But I tell you, my lord fool, we shall pluck a flower of safety from this thorn of danger. “Your plan is dangerous; your allies untrustworthy; your timing poor; and your whole project too weak to counter so powerful an opponent.” Is that so? Is that so? I’ll say it once again: you are a stupid, cowardly dog, and a liar. What an idiot this is! By God, our plan is as good a plan as ever hatched, our allies loyal and firm. A good plan, good allies, and very promising; it’s an excellent plan, very good allies. What a yellowbellied fool this is! Why, the Archbishop of York approves of the plan, and how it’s progressing. Damn! If I were with this imbecile right now, I’d break his head open with his wife’s fan. Don’t we have my father? And my uncle, and me? Edmund Mortimer, York, and Owen Glendower? And besides, don’t we have Douglas? Haven’t they all sent me letters, promising to meet me with their armies by the ninth of next month? And aren’t some of them on their way already? What an unbelievable ass this is! Faithless! Ha! Just watch; he’ll run to the King in cold fear and spill our secrets. Oh, I could split myself in two and knock my own self senseless for unfolding this important plan to such a coward. To hell with him! Let him tell the King; we’re ready. I’ll set off tonight."
+
+  - os: "Enter his lady, LADY PERCY"
+    ms: "His wife, LADY PERCY, enters."
+
+  - o:
+      - "How now, Kate? I must leave you within these two hours."
+    m:
+      - "What is it, Kate? I must leave you in a few hours."
+
+  - sp: LADY PERCY
+    o:
+      - "O my good lord, why are you thus alone?"
+      - "For what offense have I this fortnight been"
+      - "A banished woman from my Harry’s bed?"
+      - "Tell me, sweet lord, what is ’t that takes from thee"
+      - "Thy stomach, pleasure, and thy golden sleep?"
+      - "Why dost thou bend thine eyes upon the earth"
+      - "And start so often when thou sit’st alone?"
+      - "Why hast thou lost the fresh blood in thy cheeks"
+      - "And given my treasures and my rights of thee"
+      - "To thick-eyed musing and curst melancholy?"
+      - "In thy faint slumbers I by thee have watched,"
+      - "And heard thee murmur tales of iron wars,"
+      - "Speak terms of manage to thy bounding steed,"
+      - "Cry “Courage! To the field!” And thou hast talk’d"
+      - "Of sallies and retires, of trenches, tents,"
+      - "Of palisadoes, frontiers, parapets,"
+      - "Of basilisks, of cannon, culverin,"
+      - "Of prisoners’ ransom and of soldiers slain,"
+      - "And all the currents of a heady fight."
+      - "Thy spirit within thee hath been so at war,"
+      - "And thus hath so bestirred thee in thy sleep,"
+      - "That beads of sweat have stood upon thy brow"
+      - "Like bubbles in a late-disturbèd stream,"
+      - "And in thy face strange motions have appeared,"
+      - "Such as we see when men restrain their breath"
+      - "On some great sudden hest. O, what portents are these?"
+      - "Some heavy business hath my lord in hand,"
+      - "And I must know it, else he loves me not."
+    m:
+      - "Oh, my good lord, why are you alone like this? What have I done to make my Harry banish me from his bed these past two weeks? Tell me, sweet husband, what has stolen your appetite, your desire, and your sleep? Why do you stare at the ground and jump in your skin when you are sitting alone? Where is the color in your cheeks? Why have you taken all your attention, which should be mine, and given it to this dark mood and terrible sadness? While you sleep so lightly, I’ve watched you and heard you mumble stories of war. I’ve heard you give commands to your horse. I’ve heard you yell, “Courage! To the field!” And you have talked of charges and retreats; of trenches, tents; of fences, ramparts, and walls; of all types of cannon; of prisoners’ ransoms and of dead soldiers, and of all the movements of a violent battle. Your soul has also been at war and has disturbed you in your sleep. Beads of sweat have broken out on your forehead, like bubbles in a churning stream. And on your face I’ve seen strange expressions, like a man who’s gulping his breath at an awful, sudden command. Oh, what does all this mean? My lord is contemplating some serious matters, and if he doesn’t tell me about them, he surely doesn’t love me."
+
+  - sp: HOTSPUR
+    o:
+      - "What, ho!"
+    m:
+      - "You there!"
+
+  - os: "Enter SERVANT"
+    ms: "A SERVANT enters."
+
+  - o:
+      - "  Is Gilliams with the packet gone?"
+    m:
+      - "Has Gilliams left with my letters?"
+
+  - sp: SERVANT
+    o:
+      - "He is, my lord, an hour ago."
+    m:
+      - "He has, my lord, an hour ago."
+
+  - sp: HOTSPUR
+    o:
+      - "Hath Butler brought those horses from the sheriff?"
+    m:
+      - "Did Butler bring those horses from the sheriff?"
+
+  - sp: SERVANT
+    o:
+      - "One horse, my lord, he brought even now."
+    m:
+      - "He brought one of them just now."
+
+  - sp: HOTSPUR
+    o:
+      - "What horse? A roan, a crop-ear, is it not?"
+    m:
+      - "Which one? A brown one, right? With its ears clipped?"
+
+  - sp: SERVANT
+    o:
+      - "It is, my lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: HOTSPUR
+    o:
+      - "  That roan shall be my throne."
+      - "Well, I will back him straight. O, Esperance!"
+      - "Bid Butler lead him forth into the park."
+    m:
+      - "That brown horse will be my throne. I’ll mount him in a second. Oh, “Hope is my Comfort!” Tell Butler to walk him out in the fields."
+
+  - os: "Exit SERVANT"
+    ms: "The SERVANT exits."
+
+  - sp: LADY PERCY
+    o:
+      - "But hear you, my lord."
+    m:
+      - "Listen, my lord."
+
+  - sp: HOTSPUR
+    o:
+      - "  What say’st thou, my lady?"
+    m:
+      - "What is it, my lady?"
+
+  - sp: LADY PERCY
+    o:
+      - "What is it carries you away?"
+    m:
+      - "What is it that’s got you so carried away?"
+
+  - sp: HOTSPUR
+    o:
+      - "  Why, my horse,"
+      - "My love, my horse."
+    m:
+      - "My horse, my love. My horse."
+
+  - sp: LADY PERCY
+    o:
+      - "  Out, you mad-headed ape!"
+      - "A weasel hath not such a deal of spleen"
+      - "As you are tossed with. In faith,"
+      - "I’ll know your business, Harry, that I will."
+      - "I fear my brother Mortimer doth stir"
+      - "About his title, and hath sent for you"
+      - "To line his enterprise; but if you go—"
+    m:
+      - "Enough, you crazy fool! Not even a weasel is as hotheaded as you are. I swear, I’ll find out what you’re up to, Harry, I will. I fear that my brother, Mortimer, is making some kind of move over his claim to the throne, and has asked you to help. But if you go—"
+
+  - sp: HOTSPUR
+    o:
+      - "—So far afoot, I shall be weary, love."
+    m:
+      - "—such a long way on foot, I’ll be tired."
+
+  - sp: LADY PERCY
+    o:
+      - "Come, come, you paraquito, answer me"
+      - "Directly unto this question that I ask."
+      - "In faith, I’ll break thy little finger, Harry,"
+      - "An if thou wilt not tell me all things true."
+    m:
+      - "Stop it, you little parrot. Answer me straight. I swear, Harry, I’ll break your little finger if you don’t tell me everything, and the truth, too."
+
+  - sp: HOTSPUR
+    o:
+      - "Away!"
+      - "Away, you trifler. Love, I love thee not."
+      - "I care not for thee, Kate. This is no world"
+      - "To play with mammets and to tilt with lips."
+      - "We must have bloody noses and cracked crowns,"
+      - "And pass them current too.—Gods me, my horse!—"
+      - "What say’st thou, Kate? What would’st thou have with me?"
+    m:
+      - "Get away from me, you nag! Love? I don’t love you. I don’t even care about you, Kate. This is no time for playing with dolls and jousting with kisses; we’ll have bloody noses and broken heads, and spread them around, too. For God’s sake, my horse! What, Kate? What do you want from me?"
+
+  - sp: LADY PERCY
+    o:
+      - "Do you not love me? Do you not indeed?"
+      - "Well, do not then, for since you love me not,"
+      - "I will not love myself. Do you not love me?"
+      - "Nay, tell me if you speak in jest or no."
+    m:
+      - "You don’t love me? Really, you don’t? Well, fine then; don’t love me. And since you don’t love me, I won’t love myself. You don’t love me? Seriously, tell me if you’re joking or if you mean it."
+
+  - sp: HOTSPUR
+    o:
+      - "Come, wilt thou see me ride?"
+      - "And when I am a-horseback, I will swear"
+      - "I love thee infinitely. But hark you, Kate,"
+      - "I must not have you henceforth question me"
+      - "Whither I go, nor reason whereabout."
+      - "Whither I must, I must; and to conclude,"
+      - "This evening must I leave you, gentle Kate."
+      - "I know you wise, but yet no farther wise"
+      - "Than Harry Percy’s wife; constant you are,"
+      - "But yet a woman; and for secrecy"
+      - "No lady closer, for I well believe"
+      - "Thou wilt not utter what thou dost not know,"
+      - "And so far will I trust thee, gentle Kate."
+    m:
+      - "Will you see me off? Once I’m on my horse, I’ll swear I love you till the end of time. But listen here, Kate. From now on, I won’t have you asking me where I’m going, nor guessing why I’m doing what I’m doing. I must go where I must go. This is final: tonight I must leave you, sweet Kate. I know you are wise, but your wisdom doesn’t go further than your role as my wife. You may be able to keep a secret, but you’re still a woman; and yet no woman can keep secrets like you, because you cannot reveal what you don’t actually know. And that is as far as I will trust you, sweet Kate."
+
+  - sp: LADY PERCY
+    o:
+      - "How? So far?"
+    m:
+      - "Oh really? That far?"
+
+  - sp: HOTSPUR
+    o:
+      - "Not an inch further. But hark you, Kate,"
+      - "Whither I go, thither shall you go too."
+      - "Today will I set forth, tomorrow you."
+      - "Will this content you, Kate?"
+    m:
+      - "Not an inch further. But listen here, Kate. Wherever I go, you will go too. I leave today, and tomorrow, you. Will this make you content, Kate?"
+
+  - sp: LADY PERCY
+    o:
+      - "  It must, of force."
+    m:
+      - "It must."
+
+  - os: "Exeunt"
+    ms: "They exit."

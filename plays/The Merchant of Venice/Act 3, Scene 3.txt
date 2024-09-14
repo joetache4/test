@@ -1,0 +1,97 @@
+play: The Merchant of Venice
+title: Act 3, Scene 3
+group: 3
+order: 14
+text:
+  - os: "Enter SHYLOCK, SOLANIO, ANTONIO, and the jailer"
+    ms: "SHYLOCK, SOLANIO, ANTONIO, and the jailer enter."
+
+  - sp: SHYLOCK
+    o:
+      - "Jailer, look to him. Tell not me of mercy."
+      - "This is the fool that lent out money gratis."
+      - "Jailer, look to him."
+    m:
+      - "Jailer, watch out for this one. Don’t try to convince me to feel sorry for him. This is the fool who lent out money without charging interest. Jailer, keep an eye on him."
+
+  - sp: ANTONIO
+    o:
+      - "  Hear me yet, good Shylock."
+    m:
+      - "Listen to me, good Shylock."
+
+  - sp: SHYLOCK
+    o:
+      - "I’ll have my bond. Speak not against my bond."
+      - "I have sworn an oath that I will have my bond."
+      - "Thou calledst me dog before thou hadst a cause."
+      - "But since I am a dog, beware my fangs."
+      - "The duke shall grant me justice.—I do wonder,"
+      - "Thou naughty jailer, that thou art so fond"
+      - "To come abroad with him at his request."
+    m:
+      - "I’m going to get my bond . Don’t try to say anything against my taking my bond. I’ve sworn an oath that I will have my bond. You called me a dog before you had any reason to. But since I’m a dog, beware my fangs. The duke will give me justice.—I do wonder, jailer, how you can be so foolish as to let this prisoner out of his cell."
+
+  - sp: ANTONIO
+    o:
+      - "I pray thee, hear me speak."
+    m:
+      - "Please, listen to me."
+
+  - sp: SHYLOCK
+    o:
+      - "I’ll have my bond. I will not hear thee speak."
+      - "I’ll have my bond, and therefore speak no more."
+      - "I’ll not be made a soft and dull-eyed fool"
+      - "To shake the head, relent and sigh, and yield"
+      - "To Christian intercessors. Follow not."
+      - "I’ll have no speaking. I will have my bond."
+    m:
+      - "I want my bond. I won’t listen to you. I want my bond, so stop talking. I won’t be taken for a fool who sighs and gives in to Christian meddlers. Don’t follow me. I’m not talking with you. I want my bond."
+
+  - os: "Exit SHYLOCK"
+    ms: "He exits."
+
+  - sp: SOLANIO
+    o:
+      - "It is the most impenetrable cur"
+      - "That ever kept with men."
+    m:
+      - "He’s the most stubborn dog that ever lived among humans."
+
+  - sp: ANTONIO
+    o:
+      - "    Let him alone."
+      - "I’ll follow him no more with bootless prayers."
+      - "He seeks my life. His reason well I know."
+      - "I oft delivered from his forfeitures"
+      - "Many that have at times made moan to me."
+      - "Therefore he hates me."
+    m:
+      - "Leave him alone. I won’t follow him around with useless pleas anymore. He wants me dead. I know the real reason. I’ve often given money to people who were unable to pay back their loans to him. That’s why he hates me."
+
+  - sp: SOLANIO
+    o:
+      - "    I am sure the duke"
+      - "Will never grant this forfeiture to hold."
+    m:
+      - "I’m sure the duke will never allow this contract to be enforced."
+
+  - sp: ANTONIO
+    o:
+      - "The duke cannot deny the course of law."
+      - "For the commodity that strangers have"
+      - "With us in Venice, if it be denied,"
+      - "Will much impeach the justice of his state,"
+      - "Since that the trade and profit of the city"
+      - "Consisteth of all nations. Therefore go."
+      - "These griefs and losses have so bated me,"
+      - "That I shall hardly spare a pound of flesh"
+      - "Tomorrow to my bloody creditor.—"
+      - "Well, jailer, on.—Pray God Bassanio come"
+      - "To see me pay his debt, and then I care not."
+    m:
+      - "The duke can’t deny the law, because that would threaten the security of all foreign merchants in Venice, and that’s how the city makes its money. If the government disregards the law, it will be discredited. So go. I’ve lost so much weight worrying about my losses have that I’ll hardly have a pound of flesh to spare for my bloody creditor tomorrow.—Well, jailer, let’s go.—I hope to God that Bassanio comes to see me pay his debt. After that, I don’t care what happens."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,392 @@
+play: Henry IV, Part I
+title: Act 5, Scene 4
+group: 5
+order: 17
+text:
+  - os: "Alarum. Excursions. Enter the KING, PRINCE HENRY, Lord John of LANCASTER, and the Earl of WESTMORELAND"
+    ms: "Trumpets sound battle calls. Soldiers skirmish. The KING, PRINCE HENRY, injured and bleeding, Lord John of LANCASTER, and WESTMORELAND enter."
+
+  - sp: KING
+    o:
+      - "I prithee, Harry, withdraw thyself. Thou bleedest too much."
+      - "Lord John of Lancaster, go you with him."
+    m:
+      - "Please, Harry, get out of here: you’re bleeding too heavily. John of Lancaster, go with him."
+
+  - sp: LANCASTER
+    o:
+      - "Not I, my lord, unless I did bleed too."
+    m:
+      - "I won’t leave, my lord, unless I am bleeding too."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I beseech your Majesty, make up,"
+      - "Lest your retirement do amaze your friends."
+    m:
+      - "I beg your highness, advance. Your army will lose heart if it sees you falling back."
+
+  - sp: KING
+    o:
+      - "I will do so.—My Lord of Westmoreland,"
+      - "Lead him to his tent."
+    m:
+      - "I will. My Lord of Westmoreland, take him to his tent."
+
+  - sp: WESTMORELAND
+    o:
+      - "Come, my lord, I’ll lead you to your tent."
+    m:
+      - "*(to PRINCE HENRY)* Come, my lord. I’ll lead you to your tent."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Lead me, my lord? I do not need your help,"
+      - "And God forbid a shallow scratch should drive"
+      - "The Prince of Wales from such a field as this,"
+      - "Where stained nobility lies trodden on,"
+      - "And rebels’ arms triumph in massacres."
+    m:
+      - "Lead me, my lord? I don’t need your help. God forbid that a shallow scratch could make the Prince of Wales retreat from a battlefield like this one, where great men are falling and being trampled upon, and rebels are triumphing in their massacres!"
+
+  - sp: LANCASTER
+    o:
+      - "We breathe too long. Come, cousin Westmoreland,"
+      - "Our duty this way lies. For God’s sake, come."
+    m:
+      - "We’ve stopped for too long. Come, Westmoreland. We have work to do. For God’s sake, come on!"
+
+  - os: "Exeunt Lord John of LANCASTER and WESTMORELAND"
+    ms: "LANCASTER and WESTMORELAND exit."
+
+  - sp: PRINCE HENRY
+    o:
+      - "By God, thou hast deceived me, Lancaster."
+      - "I did not think thee lord of such a spirit."
+      - "Before, I loved thee as a brother, John,"
+      - "But now, I do respect thee as my soul."
+    m:
+      - "By God, you have deceived me, Lancaster. I didn’t think you were that brave. Before, I loved you as a brother; now, I respect you as my soulmate."
+
+  - sp: KING
+    o:
+      - "I saw him hold Lord Percy at the point"
+      - "With lustier maintenance than I did look for"
+      - "Of such an ungrown warrior."
+    m:
+      - "He had Percy cornered, and he carried himself more bravely than I would have expected of such a young warrior."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O, this boy lends mettle to us all."
+    m:
+      - "Oh, this boy lends us all courage!"
+
+  - os: "Exit"
+    ms: "PRINCE HENRY exits."
+
+  - os: "Enter DOUGLAS"
+    ms: "DOUGLAS enters."
+
+  - sp: DOUGLAS
+    o:
+      - "Another king! they grow like Hydra’s heads.—"
+      - "I am the Douglas, fatal to all those"
+      - "That wear those colors on them. What art thou"
+      - "That counterfeit’st the person of a king?"
+    m:
+      - "Another king! The more of them we kill, the more of them spring up. I am Douglas, and I bring death to everyone wearing that uniform. Who are you, disguised as a king?"
+
+  - sp: KING
+    o:
+      - "The King himself, who, Douglas, grieves at heart,"
+      - "So many of his shadows thou hast met"
+      - "And not the very king. I have two boys"
+      - "Seek Percy and thyself about the field,"
+      - "But, seeing thou fall’st on me so luckily,"
+      - "I will assay thee. And defend thyself."
+    m:
+      - "The King himself. And it pains me, Douglas, that you ran into so many of my shadows, and not me. I have two sons on the field, looking for Percy and for you. But, since you were lucky enough to come upon me, I’ll fight you myself. Defend yourself."
+
+  - sp: DOUGLAS
+    o:
+      - "I fear thou art another counterfeit,"
+      - "And yet, in faith, thou bear’st thee like a king."
+      - "But mine I am sure thou art, whoe’er thou be,"
+      - "And thus I win thee."
+    m:
+      - "I fear that you’re another fake; and yet, you bear yourself like a king. Whoever you are, you’re mine, and I’ll defeat you."
+
+  - os: "They fight. The KING being in danger, enter PRINCE HENRY of Wales"
+    ms: "They fight. The KING begins to lose. PRINCE HENRY of Wales enters."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Hold up thy head, vile Scot, or thou art like"
+      - "Never to hold it up again. The spirits"
+      - "Of valiant Shirley, Stafford, Blunt are in my arms."
+      - "It is the Prince of Wales that threatens thee,"
+      - "Who never promiseth but he means to pay."
+    m:
+      - "Look at me, you nasty Scotsman, or you’ll never look at anything again. I have the spirits of brave Shirley, Stafford, and Blunt in me. It is the Prince of Wales who threatens you, and I never make promises I cannot keep."
+
+  - os: "They fight. DOUGLAS flieth"
+    ms: "They fight.DOUGLAS runs away."
+
+  - o:
+      - "Cheerly, my lord. How fares your Grace?"
+      - "Sir Nicholas Gawsey hath for succor sent,"
+      - "And so hath Clifton. I’ll to Clifton straight."
+    m:
+      - "Cheer up, father. How are you? Sir Nicholas Gawsey called for reinforcements, and so has Clifton. I’m going to Clifton right now."
+
+  - sp: KING
+    o:
+      - "Stay, and breathe awhile."
+      - "Thou hast redeemed thy lost opinion"
+      - "And showed thou mak’st some tender of my life"
+      - "In this fair rescue thou hast brought to me."
+    m:
+      - "Wait, and breathe for a moment. You have redeemed your bad reputation, and show that you care something for me, by rescuing me like this."
+
+  - sp: PRINCE HENRY
+    o:
+      - "O God, they did me too much injury"
+      - "That ever said I hearkened for your death."
+      - "If it were so, I might have let alone"
+      - "The insulting hand of Douglas over you,"
+      - "Which would have been as speedy in your end"
+      - "As all the poisonous potions in the world,"
+      - "And saved the treacherous labor of your son."
+    m:
+      - "Oh God! Anyone who ever said I wished for you to die did me a terrible wrong. If I wanted that, I would have let Douglas continue his attack. That would have killed you faster than any dose of poison, and it would have saved me the trouble of treachery."
+
+  - sp: KING
+    o:
+      - "Make up to Clifton. I’ll to Sir Nicholas Gawsey."
+    m:
+      - "Go to Clifton; I’ll go to Sir Nicholas Gawsey."
+
+  - os: "Exit the KING"
+    ms: "The KING exits."
+
+  - os: "Enter HOTSPUR"
+    ms: "HOTSPUR enters."
+
+  - sp: HOTSPUR
+    o:
+      - "If I mistake not, thou art Harry Monmouth."
+    m:
+      - "If I’m not mistaken, you’re Harry Monmouth."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Thou speak’st as if I would deny my name."
+    m:
+      - "You make it sound as if I’d deny it."
+
+  - sp: HOTSPUR
+    o:
+      - "My name is Harry Percy."
+    m:
+      - "My name is Harry Percy."
+
+  - sp: PRINCE HENRY
+    o:
+      - "  Why, then I see"
+      - "A very valiant rebel of the name."
+      - "I am the Prince of Wales; and think not, Percy,"
+      - "To share with me in glory any more."
+      - "Two stars keep not their motion in one sphere,"
+      - "Nor can one England brook a double reign,"
+      - "Of Harry Percy and the Prince of Wales."
+    m:
+      - "Why then, I’m looking at a very brave rebel by that name. I am the Prince of Wales, and don’t think, Percy, that you can share in my glory any longer. There isn’t enough room for two stars in the same orbit; England cannot handle a double reign, Harry Percy and the Prince of Wales ruling at once."
+
+  - sp: HOTSPUR
+    o:
+      - "Nor shall it, Harry, for the hour is come"
+      - "To end the one of us, and would to God"
+      - "Thy name in arms were now as great as mine."
+    m:
+      - "It won’t have to, Harry, for the time has come for one of us to die. I only wish that you had as great a reputation in warfare as I do."
+
+  - sp: PRINCE HENRY
+    o:
+      - "I’ll make it greater ere I part from thee,"
+      - "And all the budding honors on thy crest"
+      - "I’ll crop, to make a garland for my head."
+    m:
+      - "My reputation will be greater by the time we part. I’ll take all the flowers of honor from your helmet, and turn them into a garland for myself."
+
+  - sp: HOTSPUR
+    o:
+      - "I can no longer brook thy vanities."
+    m:
+      - "I can’t stand your arrogance any longer."
+
+  - os: "They fight"
+    ms: "They fight."
+
+  - os: "Enter FALSTAFF"
+    ms: "FALSTAFF enters."
+
+  - sp: FALSTAFF
+    o:
+      - "Well said, Hal! To it Hal! Nay, you shall find no boys’ play here, I can tell you."
+    m:
+      - "Well said, Hal! Go for it, Hal! This isn’t child’s play, I’ll tell you that much!"
+
+  - os: "Enter DOUGLAS. He fighteth with FALSTAFF, who falls down as if he were dead."
+    ms: "DOUGLAS returns and fights with FALSTAFF, who falls down and plays dead."
+
+  - os: "Exit DOUGLAS"
+    ms: "DOUGLAS exits."
+
+  - os: "PRINCE HENRY killeth HOTSPUR"
+    ms: "PRINCE HENRY kills HOTSPUR"
+
+  - sp: HOTSPUR
+    o:
+      - "O Harry, thou hast robbed me of my youth."
+      - "I better brook the loss of brittle life"
+      - "Than those proud titles thou hast won of me."
+      - "They wound my thoughts worse than thy sword my flesh."
+      - "But thoughts, the slave of life, and life, time’s fool,"
+      - "And time, that takes survey of all the world,"
+      - "Must have a stop. O, I could prophesy,"
+      - "But that the earthy and cold hand of death"
+      - "Lies on my tongue. No, Percy, thou art dust,"
+      - "And food for— *(he dies)*"
+    m:
+      - "Oh, Harry, you’ve taken away my youth. I can handle the loss of my fragile life, but not the loss of all the honors you have won from me: that loss wounds my thoughts more than your sword wounds my flesh. But thought depends on life, and life depends on time, and time, which watches over the whole world, must stop eventually. Oh, I could make prophecies, but the cold hand of death is stopping my tongue. No, Percy. You are dust, and food for—*(he dies)*"
+
+  - sp: PRINCE HENRY
+    o:
+      - "For worms, brave Percy. Fare thee well, great heart."
+      - "Ill-weaved ambition, how much art thou shrunk!"
+      - "When that this body did contain a spirit,"
+      - "A kingdom for it was too small a bound,"
+      - "But now two paces of the vilest earth"
+      - "Is room enough. This earth that bears thee dead"
+      - "Bears not alive so stout a gentleman."
+      - "If thou wert sensible of courtesy,"
+      - "I should not make so dear a show of zeal."
+      - "But let my favors hide thy mangled face;"
+      - "And even in thy behalf I’ll thank myself"
+      - "For doing these fair rites of tenderness."
+      - "Adieu, and take thy praise with thee to heaven."
+      - "Thy ignominy sleep with thee in the grave,"
+      - "But not remembered in thy epitaph."
+    m:
+      - "For worms, brave Percy. Farewell, brave soul. Your ambition, aimed at evil, ends—look at how withered it has become. When this body contained a soul, an entire kingdom was too small to hold it. But now, two paces of wretched earth is plenty of room. The ground that you lie dead upon doesn’t have a single living man upon it as brave as you. If you could hear me, I wouldn’t praise you so lavishly. But let me cover your battered face with part of my uniform. I’ll thank myself on your behalf for doing these rites of respect. Adieu, and take my praise of you to heaven. Let your disgraces sleep with you in the grave, and let them be kept off your tombstone!"
+
+  - os: "He spieth FALSTAFF on the ground"
+    ms: "He sees FALSTAFF lying on the ground."
+
+  - o:
+      - "What, old acquaintance, could not all this flesh"
+      - "Keep in a little life? Poor Jack, farewell."
+      - "I could have better spared a better man."
+      - "O, I should have a heavy miss of thee"
+      - "If I were much in love with vanity."
+      - "Death hath not struck so fat a deer today,"
+      - "Though many dearer in this bloody fray."
+      - "Emboweled will I see thee by and by;"
+      - "Till then in blood by noble Percy lie."
+    m:
+      - "What? My old friend? Couldn’t all this flesh hold onto a little life? Poor Jack, farewell. I would rather have lost a more valuable soldier. If I were in love with vanity, I’d really miss you. Death hasn’t taken anyone as fat today, though it has taken many better men in this vicious battle. I’ll have you embowelled soon; till then, lie here in blood, by the great Percy."
+
+  - os: "Exit PRINCE HENRY"
+    ms: "PRINCE HENRY exits."
+
+  - os: "FALSTAFF riseth up"
+    ms: "FALSTAFF stands up."
+
+  - sp: FALSTAFF
+    o:
+      - "Emboweled? If thou embowel me today, I’ll give you leave to powder me and eat me too tomorrow. ’Sblood, ’twas time to counterfeit, or that hot termagant Scot had paid me scot and lot too. Counterfeit? I lie. I am no counterfeit. To die is to be a counterfeit, for he is but the counterfeit of a man who hath not the life of a man; but to counterfeit dying when a man thereby liveth is to be no counterfeit, but the true and perfect image of life indeed. The better part of valor is discretion, in the which better part I have saved my life. Zounds, I am afraid of this gunpowder Percy, though he be dead. How if he should counterfeit too and rise? By my faith, I am afraid he would prove the better counterfeit. Therefore I’ll make him sure, yea, and I’ll swear I killed him. Why may not he rise as well as I? Nothing confutes me but eyes, and nobody sees me. Therefore, sirrah, *(stabs the body)* with a new wound in your thigh, come you along with me. *(he takes up HOTSPUR on his back)*"
+    m:
+      - "Embowelled? If you cut me open today, I’ll let you pickle me and eat me tomorrow. Damn! I had to fake being dead, or that raging rebel of a Scotsman would have ended me. Fake? No, I tell a lie: I’m not a faker. To die is to be a faker, because a dead body is an imitation of a living one. But to fake being dead, in order to stay alive, that’s no kind of faking. That’s the truest kind of living there is. Bravery is mostly about precaution; I’m careful, and it saved my life. Damn, I’m scared of this bombshell Percy, even though he’s dead. What if he’s faking, too, and he gets up? I swear, he’d be the better faker. Therefore, I’ll make sure he’s dead; in fact, I’ll swear that I killed him. Why couldn’t he just get up, like I did? Only a witness could stop me, and there are no witnesses here. Therefore, sirrah, *(stabs the body)* you’re coming with me—complete with a new wound in your thigh. *(he throws HOTSPUR’s body over his shoulder)*"
+
+  - os: "Enter PRINCE HENRY and Lord John of LANCASTER"
+    ms: "PRINCE HENRY and Lord John of LANCASTER enter."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Come, brother John. Full bravely hast thou fleshed"
+      - "Thy maiden sword."
+    m:
+      - "John, my brother, you’ve bravely proven yourself in this, your first battle."
+
+  - sp: LANCASTER
+    o:
+      - "  But soft, whom have we here?"
+      - "Did you not tell me this fat man was dead?"
+    m:
+      - "Wait! Who do we have here? Didn’t you say this fat man was dead?"
+
+  - sp: PRINCE HENRY
+    o:
+      - "I did; I saw him dead,"
+      - "Breathless and bleeding on the ground.—Art thou alive?"
+      - "Or is it fantasy that plays upon our eyesight?"
+      - "I prithee, speak. We will not trust our eyes"
+      - "Without our ears. Thou art not what thou seem’st."
+    m:
+      - "I did. I saw him dead on the ground, bleeding and not breathing. Are you alive? Or is this some kind of dream, playing with our sight? Talk to us. We won’t trust our eyes without our ears. You aren’t what you seem to be."
+
+  - sp: FALSTAFF
+    o:
+      - "No, that’s certain. I am not a double man. But if I be not Jack Falstaff, then am I a jack. There is Percy. If your father will do me any honor,so; if not, let him kill the next Percy himself. I look to be either earl or duke, I can assure you."
+    m:
+      - "That’s for sure. I’m not a double man. But if I’m not Jack Falstaff, then I’m a crook. Here’s Percy. If the king will honor me for this, fine. If not, let him kill the next Percy himself. I expect to me made an earl or a Duke for this, I’ll tell you that much."
+
+  - sp: PRINCE HENRY
+    o:
+      - "Why, Percy I killed myself, and saw thee dead."
+    m:
+      - "Why, I killed Percy myself and I saw you dead."
+
+  - sp: FALSTAFF
+    o:
+      - "Didst thou? Lord, Lord, how this world is given to lying. I grant you, Iwas down and out of breath, and so was he, but we rose both at an instant and fought a long hour by Shrewsbury clock. If I may be believed, so; if not, let them that should reward valor bear the sin upon their own heads. I’ll take it upon my death, I gave him this wound in the thigh. If the man were alive and would deny it, zounds, I would make him eat a piece of my sword."
+    m:
+      - "You did? Lord, Lord, how people love to lie! I admit I had fallen and was out of breath, and so was he. But we both stood up at the same time and fought for a long hour. If I am to be believed, fine. If I’m not believed, then the guilt will lie with the people who are supposed to reward bravery. I swear on my life, I gave him this gash in the leg. Damn, if he were alive and said I didn’t, I’d shove my sword down his throat."
+
+  - sp: LANCASTER
+    o:
+      - "This is the strangest tale that ever I heard."
+    m:
+      - "This is the strangest story I’ve ever heard."
+
+  - sp: PRINCE HENRY
+    o:
+      - "This is the strangest fellow, brother John.—"
+      - "Come, bring your luggage nobly on your back."
+      - "For my part, if a lie may do thee grace,"
+      - "I’ll gild it with the happiest terms I have."
+    m:
+      - "This is the strangest man, John. All right then, display your prize on your back. As far as I’m concerned, if lying will help you out, I’ll decorate your lie as prettily as I can."
+
+  - os: "A retreat is sounded"
+    ms: "A trumpet blows a call of retreat."
+
+  - o:
+      - "The trumpet sounds retreat; the day is ours."
+      - "Come, brother, let us to the highest of the field"
+      - "To see what friends are living, who are dead."
+    m:
+      - "A trumpet is blowing retreat: we’ve won. Come on, brother. Let’s get to high ground and see which of our friends are alive, and which are dead."
+
+  - os: "Exeunt PRINCE HENRY and Lord John of LANCASTER"
+    ms: "PRINCE HENRY and Lord John of LANCASTER exit."
+
+  - sp: FALSTAFF
+    o:
+      - "I’ll follow, as they say, for reward. He that rewards me, God reward him. If I do grow great, I’ll grow less, for I’ll purge and leave sack and live cleanly as a nobleman should do."
+    m:
+      - "I’ll follow them and claim my reward. May God reward whoever rewards me. If I grow into a great man, I’ll grow thinner: I’ll go on a diet, quit drinking, and live properly, like a great man should."
+
+  - os: "Exit"
+    ms: "He exits."

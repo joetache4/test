@@ -1,0 +1,256 @@
+play: Richard II
+title: Act 5, Scene 5
+group: 5
+order: 17
+text:
+  - os: "Pomfret castle."
+    ms: "The castle at Pomfret."
+
+  - os: "Enter KING RICHARD"
+    ms: "KING RICHARD enters."
+
+  - sp: KING RICHARD II
+    o:
+      - "I have been studying how I may compare"
+      - "This prison where I live unto the world:"
+      - "And for because the world is populous"
+      - "And here is not a creature but myself,"
+      - "I cannot do it; yet I’ll hammer it out."
+      - "My brain I’ll prove the female to my soul,"
+      - "My soul the father; and these two beget"
+      - "A generation of still-breeding thoughts,"
+      - "And these same thoughts people this little world,"
+      - "In humours like the people of this world,"
+      - "For no thought is contented. The better sort,"
+      - "As thoughts of things divine, are intermix’d"
+      - "With scruples and do set the word itself"
+      - "Against the word:"
+      - "As thus, “Come, little ones,” and then again,"
+      - "“It is as hard to come as for a camel"
+      - "To thread the postern of a small needle’s eye.”"
+      - "Thoughts tending to ambition, they do plot"
+      - "Unlikely wonders; how these vain weak nails"
+      - "May tear a passage through the flinty ribs"
+      - "Of this hard world, my ragged prison walls,"
+      - "And, for they cannot, die in their own pride."
+      - "Thoughts tending to content flatter themselves"
+      - "That they are not the first of fortune’s slaves,"
+      - "Nor shall not be the last; like silly beggars"
+      - "Who sitting in the stocks refuge their shame,"
+      - "That many have and others must sit there;"
+      - "And in this thought they find a kind of ease,"
+      - "Bearing their own misfortunes on the back"
+      - "Of such as have before endured the like."
+      - "Thus play I in one person many people,"
+      - "And none contented: sometimes am I king;"
+      - "Then treasons make me wish myself a beggar,"
+      - "And so I am: then crushing penury"
+      - "Persuades me I was better when a king;"
+      - "Then am I king’d again: and by and by"
+      - "Think that I am unking’d by Bolingbroke,"
+      - "And straight am nothing: but whate’er I be,"
+      - "Nor I nor any man that but man is"
+      - "With nothing shall be pleased, till he be eased"
+      - "With being nothing. Music do I hear?"
+    m:
+      - "I have been thinking about how I might compare this prison I live in to the world. But because the world is full of people and I’m the only one here, I cannot do it. Yet I’ll work it out. My brain and my soul will produce enough thoughts to fill this little world, like people in the outside world and just as discontented. The better kind of thought, like the thought of divine things, is mixed with doubts and compares passages from scripture, like “Come, little ones” and “It is as hard for a rich man to enter heaven as for a camel to pass through a needle’s eye.”Ambitious thoughts plot unlikely miracles, such as digging through the walls of my cell by hand, and these thoughts die in their prime because they are futile. Contented thoughts tell themselves that they aren’t the first to be a slave to fortune, and they won’t be the last. They’re like beggars in the stocks who take comfort in the fact that others have already sat there and more will sit there. So I host many people inside my own head, and none are content. Sometimes I’m king, and then some treason makes me wish I was a beggar, and so then I am a beggar. Then terrible poverty persuades me that I was better off as king, so then I am king again. And then I think that I have been dethroned by Bolingbroke, and suddenly I’m nothing. But whatever I am, just like all men, I’ll never be happy until I am dead and nothing at all. Do I hear music?"
+
+  - os: "Music"
+    ms: "Music plays."
+
+  - o:
+      - "Ha, ha! keep time: how sour sweet music is,"
+      - "When time is broke and no proportion kept!"
+      - "So is it in the music of men’s lives."
+      - "And here have I the daintiness of ear"
+      - "To cheque time broke in a disorder’d string;"
+      - "But for the concord of my state and time"
+      - "Had not an ear to hear my true time broke."
+      - "I wasted time, and now doth time waste me;"
+      - "For now hath time made me his numbering clock:"
+      - "My thoughts are minutes; and with sighs they jar"
+      - "Their watches on unto mine eyes, the outward watch,"
+      - "Whereto my finger, like a dial’s point,"
+      - "Is pointing still, in cleansing them from tears."
+      - "Now sir, the sound that tells what hour it is"
+      - "Are clamorous groans, which strike upon my heart,"
+      - "Which is the bell: so sighs and tears and groans"
+      - "Show minutes, times, and hours: but my time"
+      - "Runs posting on in Bolingbroke’s proud joy,"
+      - "While I stand fooling here, his Jack o’ the clock."
+      - "This music mads me; let it sound no more;"
+      - "For though it have holp madmen to their wits,"
+      - "In me it seems it will make wise men mad."
+      - "Yet blessing on his heart that gives it me!"
+      - "For ’tis a sign of love; and love to Richard"
+      - "Is a strange brooch in this all-hating world."
+    m:
+      - "Ha! Keep time. How awful music is when they don’t keep time and the notes’ proportions are ruined. It’s the same thing in men’s lives. And here I can chastise the poor time kept on an out-of-tune instrument, when in the harmony of my government and life I couldn’t hear my own time breaking. I wasted time then, and now time wastes me. Time has made me his clock: my thoughts have become minutes that turn the clock hands in my eyes, and my finger is the dial that wipes away my tears. Now, sir, my groans are like the sounds that toll the hours, and they’re made by striking my heart, which is the bell. Thus my sighs, tears, and groans signify minutes and hours. Meanwhile, my time speeds on as Bolingbroke has his joy, and I’m left here playing the clock for him. This music makes me crazy. Let it stop. It might make madmen sane, but for me, it makes a wise man mad. Yet bless the heart that plays it for me! It’s a sign of love, and I am seldom given love in this hateful world."
+
+  - os: "Enter a Groom of the Stable"
+    ms: "Enter a Groom of the stable."
+
+  - sp: GROOM
+    o:
+      - "Hail, royal prince!"
+    m:
+      - "Hello, royal prince!"
+
+  - sp: KING RICHARD II
+    o:
+      - "Thanks, noble peer;"
+      - "The cheapest of us is ten groats too dear."
+      - "What art thou? and how comest thou hither,"
+      - "Where no man never comes but that sad dog"
+      - "That brings me food to make misfortune live?"
+    m:
+      - "Thanks, my noble peer. You overvalue me, for we are equals and worth the same. Who are you, and how have you come here? My only visitor is that man who keeps my misfortune alive by bringing me food."
+
+  - sp: GROOM
+    o:
+      - "I was a poor groom of thy stable, king,"
+      - "When thou wert king; who, travelling towards York,"
+      - "With much ado at length have gotten leave"
+      - "To look upon my sometimes royal master’s face."
+      - "O, how it yearn’d my heart when I beheld"
+      - "In London streets, that coronation-day,"
+      - "When Bolingbroke rode on roan Barbary,"
+      - "That horse that thou so often hast bestrid,"
+      - "That horse that I so carefully have dress’d!"
+    m:
+      - "I was a poor groom in your stable, king, when you were king. I was traveling toward York, and after a great deal of trouble I got permission to see my former master’s face. Oh, how it saddened me when I saw Bolingbroke ride into London that coronation day on Barbary, the horse you’ve ridden so often and which I’d so often made ready for you!"
+
+  - sp: KING RICHARD II
+    o:
+      - "Rode he on Barbary? Tell me, gentle friend,"
+      - "How went he under him?"
+    m:
+      - "Did he ride on Barbary? Tell me, dear friend, how did the horse do?"
+
+  - sp: GROOM
+    o:
+      - "So proudly as if he disdain’d the ground."
+    m:
+      - "He pranced as proudly as if he scorned the earth."
+
+  - sp: KING RICHARD II
+    o:
+      - "So proud that Bolingbroke was on his back!"
+      - "That jade hath eat bread from my royal hand;"
+      - "This hand hath made him proud with clapping him."
+      - "Would he not stumble? would he not fall down,"
+      - "Since pride must have a fall, and break the neck"
+      - "Of that proud man that did usurp his back?"
+      - "Forgiveness, horse! why do I rail on thee,"
+      - "Since thou, created to be awed by man,"
+      - "Wast born to bear? I was not made a horse;"
+      - "And yet I bear a burthen like an ass,"
+      - "Spurr’d, gall’d and tired by jouncing Bolingbroke."
+    m:
+      - "So proud to have Bolingbroke on his back! He had eaten bread from my hand, and I made him proud by patting his neck. Shouldn’t he stumble? Shouldn’t he fall down and break the neck of the man that stole my throne? I forgive you, horse! Why should I curse you, since you were created to fear man and carry him. I was not made like a horse, but I carry a burden like a donkey, and I’m kicked and exhausted from carrying rough-riding Bolingbroke."
+
+  - os: "Enter Keeper, with a dish"
+    ms: "The Keeper enters, with a dish."
+
+  - sp: KEEPER
+    o:
+      - "Fellow, give place; here is no longer stay."
+    m:
+      - "Fellow, go away. You can’t stay any longer."
+
+  - sp: KING RICHARD II
+    o:
+      - "If thou love me, ’tis time thou wert away."
+    m:
+      - "If you love me, you should go."
+
+  - sp: GROOM
+    o:
+      - "What my tongue dares not, that my heart shall say."
+    m:
+      - "I don’t dare say what my heart feels."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KEEPER
+    o:
+      - "My lord, will’t please you to fall to?"
+    m:
+      - "My lord, will you eat?"
+
+  - sp: KING RICHARD II
+    o:
+      - "Taste of it first, as thou art wont to do."
+    m:
+      - "Taste it first, as you usually do."
+
+  - sp: KEEPER
+    o:
+      - "My lord, I dare not: Sir Pierce of Exton, who"
+      - "lately came from the king, commands the contrary."
+    m:
+      - "My lord, I don’t dare. Sir Pierce of Exton, who just arrived from the king, ordered me not to."
+
+  - sp: KING RICHARD II
+    o:
+      - "The devil take Henry of Lancaster and thee!"
+      - "Patience is stale, and I am weary of it."
+    m:
+      - "May the devil take Henry of Lancaster and you! I am tired of being patient."
+
+  - os: "Beats the keeper"
+    ms: "He beats the Keeper."
+
+  - sp: KEEPER
+    o:
+      - "Help, help, help!"
+    m:
+      - "Help, help, help!"
+
+  - os: "Enter EXTON and Servants, armed"
+    ms: "EXTON and servants enter, with weapons."
+
+  - sp: KING RICHARD II
+    o:
+      - "How now! what means death in this rude assault?"
+      - "Villain, thy own hand yields thy death’s instrument."
+    m:
+      - "Do you mean to kill me in this despicable assault? Villain, I’ll kill you with your own weapon."
+
+  - os: "Snatching an axe from a Servant and killing him"
+    ms: "He snatches an axe from a servant and kills him."
+
+  - o:
+      - "Go thou, and fill another room in hell."
+    m:
+      - "Go to hell."
+
+  - os: "He kills another. Then Exton strikes him down"
+    ms: "He kills another, and then Exton strikes him down."
+
+  - o:
+      - "That hand shall burn in never-quenching fire"
+      - "That staggers thus my person. Exton, thy fierce hand"
+      - "Hath with the king’s blood stain’d the king’s own land."
+      - "Mount, mount, my soul! thy seat is up on high;"
+      - "Whilst my gross flesh sinks downward, here to die."
+    m:
+      - "You’ll burn in hell forever for killing me. Exton, you’ve stained the king’s land with the king’s own blood. Arise my soul! Your place is in heaven, while my body sinks down and dies."
+
+  - os: "Dies"
+    ms: "He dies."
+
+  - sp: EXTON
+    o:
+      - "As full of valour as of royal blood:"
+      - "Both have I spill’d; O would the deed were good!"
+      - "For now the devil, that told me I did well,"
+      - "Says that this deed is chronicled in hell."
+      - "This dead king to the living king I’ll bear"
+      - "Take hence the rest, and give them burial here."
+    m:
+      - "He is as full of courage as of royal blood, which I’ve spilled here. I wish the deed were good! The devil, who told me that I did well, tells me now that I’ll go to hell. I’ll take this dead king to the living king and bury the others here."
+
+  - os: "Exeunt"
+    ms: "They exit."

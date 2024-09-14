@@ -1,0 +1,395 @@
+play: King Lear
+title: Act 2, Scene 1
+group: 2
+order: 5
+text:
+  - os: "Enter EDMUND the bastard and CURAN, severally"
+    ms: "EDMUND and CURAN enter from different directions."
+
+  - sp: EDMUND
+    o:
+      - "Save thee, Curan."
+    m:
+      - "Hello, Curan."
+
+  - sp: CURAN
+    o:
+      - "And you, sir. I have been with your father and given him notice that the Duke of Cornwall and Regan his duchess will be here with him this night."
+    m:
+      - "Hello, sir. I just saw your father the Lord Gloucester and notified him that the Duke of Cornwall and his wife Regan will stay with him here tonight."
+
+  - sp: EDMUND
+    o:
+      - "How comes that?"
+    m:
+      - "Why is that?"
+
+  - sp: CURAN
+    o:
+      - "Nay, I know not. You have heard of the news abroad?— I mean the whispered ones, for they are yet but ear-kissing arguments."
+    m:
+      - "I don’t know. Have you heard the latest news?—I mean the whispered rumors, since that’s all they are at this point."
+
+  - sp: EDMUND
+    o:
+      - "Not I. Pray you, what are they?"
+    m:
+      - "No, I haven’t. What’s going on?"
+
+  - sp: CURAN
+    o:
+      - "Have you heard of no likely wars toward ’twixt the two"
+      - "Dukes of Cornwall and Albany?"
+    m:
+      - "You haven’t heard of the war brewing between the Dukes of Cornwall and Albany?"
+
+  - sp: EDMUND
+    o:
+      - "Not a word."
+    m:
+      - "Not a word."
+
+  - sp: CURAN
+    o:
+      - "You may do then in time. Fare you well, sir."
+    m:
+      - "You may hear about it soon. Goodbye, sir."
+
+  - os: "Exit CURAN"
+    ms: "CURAN exits."
+
+  - sp: EDMUND
+    o:
+      - "The duke be here tonight? The better—best!"
+      - "This weaves itself perforce into my business."
+      - "My father hath set guard to take my brother."
+      - "And I have one thing, of a queasy question,"
+      - "Which I must act. Briefness and fortune, work!—"
+      - "Brother, a word. Descend, brother, I say."
+    m:
+      - "The duke will be here tonight? All the better—in fact it’s the best that could happen. His arrival fits perfectly into my plan. My father’s ready to arrest my brother, and I have one risky thing to do. Fast work and a little luck are all I need.—Brother, could I have a word with you? Come down, brother."
+
+  - os: "Enter EDGAR"
+    ms: "EDGAR enters."
+
+  - o:
+      - "My father watches. O sir, fly this place."
+      - "Intelligence is given where you are hid."
+      - "You have now the good advantage of the night."
+      - "Have you not spoken ’gainst the Duke of Cornwall aught?"
+      - "He’s coming hither—now, i’ th’ night, i’ th’ haste,"
+      - "And Regan with him. Have you nothing said"
+      - "Upon his party ’gainst the Duke of Albany?"
+      - "Advise yourself."
+    m:
+      - "Father is on the lookout. Get out of here quickly! It has leaked out that you’re hiding here. If you leave now, you can take advantage of the darkness and sneak away. You haven’t said anything against the Duke of Cornwall, have you? He’s rushing on his way here right now, and Regan’s with him. Have you said anything against Cornwall or Albany? Think about it."
+
+  - sp: EDGAR
+    o:
+      - "  I am sure on ’t, not a word."
+    m:
+      - "I’m sure of it. I haven’t said a word."
+
+  - sp: EDMUND
+    o:
+      - "I hear my father coming. Pardon me."
+      - "In cunning I must draw my sword upon you."
+      - "Draw. Seem to defend yourself. Now quit you well.—"
+      - "*(loudly)* Yield! Come before my father. Light, ho! Here!"
+      - "*(aside to Edgar)* Fly, brother, fly."
+      - "*(loudly)*"
+      - "    Torches, torches!"
+      - "*(aside to Edgar)* So, farewell."
+    m:
+      - "I hear my father coming. Forgive me. I have to pretend to threaten you with my sword. Draw your sword too, as if you’re defending yourself. Be convincing. *(loudly)* Give up! Go see my father.—Bring in some light*!(speaking so that only* EDGAR *can hear)* Run, brother. *(loudly)* Torches, bring in the torches! *(speaking so that only EDGAR can hear)* Goodbye, then."
+
+  - os: "Exit EDGAR"
+    ms: "EDGAR exits."
+
+  - o:
+      - "Some blood drawn on me would beget opinion."
+      - "Of my more fierce endeavor."
+      - "*(cuts his own arm)*"
+      - "    I have seen drunkards"
+      - "Do more than this in sport.—Father, father!—"
+      - "Stop, stop!—No help?"
+    m:
+      - "If I had some blood on me it would look like I’d fought more fiercely. *(he cuts his own arm)* I’ve seen drunk men do worse than this just fooling around.—Father, father!—Stop, stop!—Won’t anyone help me?"
+
+  - os: "Enter GLOUCESTER and servants with torches"
+    ms: "GLOUCESTER enters along with servants carrying torches."
+
+  - sp: GLOUCESTER
+    o:
+      - "Now Edmund, where’s the villain?"
+    m:
+      - "Edmund, where’s your wicked brother?"
+
+  - sp: EDMUND
+    o:
+      - "Here stood he in the dark, his sharp sword out,"
+      - "Mumbling of wicked charms, conjuring the moon"
+      - "To stand ’s auspicious mistress—"
+    m:
+      - "He was standing here in the dark with his sword pointing at me. He was mumbling some black magic spells, appealing to the moon to help him in his evil plans—"
+
+  - sp: GLOUCESTER
+    o:
+      - "But where is he?"
+    m:
+      - "But where is he?"
+
+  - sp: EDMUND
+    o:
+      - "Look, sir, I bleed."
+    m:
+      - "Look, sir, I’m bleeding."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Where is the villain, Edmund?"
+    m:
+      - "Where is the villain, Edmund?"
+
+  - sp: EDMUND
+    o:
+      - "Fled this way, sir, when by no means he could—"
+    m:
+      - "He ran out that way, sir, when he couldn’t—"
+
+  - sp: GLOUCESTER
+    o:
+      - "Pursue him, ho! Go after."
+    m:
+      - "Follow him, now! Go."
+
+  - os: "Exeunt some servants"
+    ms: "Some servants exit."
+
+  - o:
+      - "  “By no means” what?"
+    m:
+      - "When he couldn’t what?"
+
+  - sp: EDMUND
+    o:
+      - "Persuade me to the murder of your lordship,"
+      - "But that I told him the revenging gods"
+      - "’Gainst parricides did all the thunder bend,"
+      - "Spoke with how manifold and strong a bond"
+      - "The child was bound to th’ father. Sir, in fine,"
+      - "Seeing how loathly opposite I stood"
+      - "To his unnatural purpose, in fell motion,"
+      - "With his preparèd sword he charges home"
+      - "My unprovided body, latched mine arm."
+      - "And when he saw my best alarumed spirits,"
+      - "Bold in the quarrel’s right, roused to the encounter,"
+      - "Or whether ghasted by the noise I made,"
+      - "Full suddenly he fled."
+    m:
+      - "When he couldn’t persuade me to kill you. I told him that the gods hate men who kill their fathers and unleash all their thunder on them, and that the bond between father and child was sacred. In short, when I told him how firmly opposed I was to his hideous plan, he pulled out his sword and lunged at my defenseless body, cutting my arm. Bolstered by righteousness, I prepared to fight, and when he saw my excitement—or perhaps because my shouting scared him—he ran away suddenly."
+
+  - sp: GLOUCESTER
+    o:
+      - "  Let him fly far."
+      - "Not in this land shall he remain uncaught."
+      - "And found—dispatch. The noble duke my master,"
+      - "My worthy arch and patron, comes tonight."
+      - "By his authority I will proclaim it"
+      - "That he which finds him shall deserve our thanks,"
+      - "Bringing the murderous coward to the stake."
+      - "He that conceals him, death."
+    m:
+      - "Let him run far away. If he stays in this country he’ll be found. And if he’s caught, he’ll be executed. The Duke of Cornwall, my master and patron, is arriving tonight. On his authority I’ll proclaim that whoever finds Edgar and helps bring the murderous coward to justice will be rewarded. Whoever helps Edgar hide will die."
+
+  - sp: EDMUND
+    o:
+      - "When I dissuaded him from his intent,"
+      - "And found him pight to do it, with cursed speech"
+      - "I threatened to discover him. He replied,"
+      - "“Thou unpossessing bastard! Dost thou think"
+      - "If I would stand against thee, would the reposal"
+      - "Of any trust, virtue, or worth in thee"
+      - "Make thy words faithed? No. What I should deny—"
+      - "As this I would, ay, though thou didst produce"
+      - "My very character—I’d turn it all"
+      - "To thy suggestion, plot, and damnèd practice."
+      - "And thou must make a dullard of the world,"
+      - "If they not thought the profits of my death"
+      - "Were very pregnant and potential spirits"
+      - "To make thee seek it.”"
+    m:
+      - "After I urged him not to kill you, I saw that he was still determined to do it. Enraged, I threatened to expose him. He answered, “You penniless bastard! Do you really think that if it came down to my word against yours, anyone would believe you? No. I’d deny whatever evidence you had against me—even if it were in my own handwriting—and turn it all into evidence against you and your plans for treachery. And you must think people are stupid if you believe they wouldn’t realize all the motives you have for trying to kill me.”"
+
+  - os: "Tucket within"
+    ms: "Trumpets play offstage."
+
+  - sp: GLOUCESTER
+    o:
+      - "  O strange and fastened villain!"
+      - "Would he deny his letter, said he? I never got him.—"
+      - "Hark, the duke’s trumpets. I know not why he comes."
+      - "All ports I’ll bar. The villain shall not ’scape."
+      - "The duke must grant me that. Besides, his picture"
+      - "I will send far and near, that all the kingdom"
+      - "May have the due note of him.—And of my land,"
+      - "Loyal and natural boy, I’ll work the means"
+      - "To make thee capable."
+    m:
+      - "Oh, how monstrously evil! He said he would deny that he wrote his letter? He cannot truly be my son.—Listen. The duke’s trumpets. I don’t know why he’s come here. I’ll forbid all ships from leaving our harbors. The villain won’t escape. The duke will agree with me on that. And I’ll send his picture everywhere so that the whole kingdom will know what he looks like.—And as for you, my loyal and true son, I’ll find some way to make you my heir."
+
+  - os: "Enter the Duke of CORNWALL, REGAN, and attendants"
+    ms: "The Duke of CORNWALL enters with REGAN and attendants."
+
+  - sp: CORNWALL
+    o:
+      - "How now, my noble friend? Since I came hither,"
+      - "Which I can call but now, I have heard strange news."
+    m:
+      - "How are you, my friend? Ever since I arrived here, just now, I’ve been hearing strange rumors."
+
+  - sp: REGAN
+    o:
+      - "If it be true, all vengeance comes too short"
+      - "Which can pursue th’ offender. How dost, my lord?"
+    m:
+      - "If they’re true, no punishment is harsh enough for the criminal. How are you, my lord?"
+
+  - sp: GLOUCESTER
+    o:
+      - "O madam, my old heart is cracked, it’s cracked."
+    m:
+      - "Oh, madam, my old heart is broken, broken."
+
+  - sp: REGAN
+    o:
+      - "What, did my father’s godson seek your life?—"
+      - "He whom my father named, your Edgar?"
+    m:
+      - "Did my father’s godson try to kill you? The one whom my father named, your son Edgar?"
+
+  - sp: GLOUCESTER
+    o:
+      - "O, lady, lady, shame would have it hid."
+    m:
+      - "Oh, my lady, I’m ashamed to admit it."
+
+  - sp: REGAN
+    o:
+      - "Was he not companion with the riotous knights"
+      - "That tend upon my father?"
+    m:
+      - "Wasn’t he friends with all those brawling knights who serve my father?"
+
+  - sp: GLOUCESTER
+    o:
+      - "I know not, madam. ’Tis too bad, too bad."
+    m:
+      - "I don’t know, madam. Oh, it’s too terrible."
+
+  - sp: EDMUND
+    o:
+      - "Yes, madam, he was of that consort."
+    m:
+      - "To answer your question, ma’am—yes, he was friendly with those knights."
+
+  - sp: REGAN
+    o:
+      - "No marvel then, though he were ill affected."
+      - "’Tis they have put him on the old man’s death,"
+      - "To have th’ expense and spoil of his revenues."
+      - "I have this present evening from my sister"
+      - "Been well informed of them—and with such cautions"
+      - "That if they come to sojourn at my house"
+      - "I’ll not be there."
+    m:
+      - "Then it’s no surprise they had a bad influence on him. They probably put him up to killing old man Gloucester to get his money. Tonight I received a letter from my sister telling me all about them—and warning me not be at home in case they come to stay at my house."
+
+  - sp: CORNWALL
+    o:
+      - "  Nor I, assure thee, Regan.—"
+      - "Edmund, I hear that you have shown your father"
+      - "A childlike office."
+    m:
+      - "And I won’t be there either.—Edmund, I’m told you’ve acted like a true son to your father."
+
+  - sp: EDMUND
+    o:
+      - "  It was my duty, sir."
+    m:
+      - "I just did my duty, sir."
+
+  - sp: GLOUCESTER
+    o:
+      - "He did bewray his practice, and received"
+      - "This hurt you see striving to apprehend him."
+    m:
+      - "He exposed Edgar’s murderous plot, and was wounded, as you see there, when trying to apprehend him."
+
+  - sp: CORNWALL
+    o:
+      - "Is he pursued?"
+    m:
+      - "Are your men searching for him?"
+
+  - sp: GLOUCESTER
+    o:
+      - "  Ay, my good lord."
+    m:
+      - "Yes, my lord."
+
+  - sp: CORNWALL
+    o:
+      - "If he be taken, he shall never more"
+      - "Be feared of doing harm. Make your own purpose"
+      - "How in my strength you please.—For you, Edmund,"
+      - "Whose virtue and obedience doth this instant"
+      - "So much commend itself, you shall be ours."
+      - "Natures of such deep trust we shall much need."
+      - "You we first seize on."
+    m:
+      - "If he’s caught, he’ll never make trouble for anyone again. Feel free to use my authority however you wish in order to apprehend him.—As for you, Edmund, you’ve been so loyal and virtuous throughout this whole business. I’d like you to work for me. I need people as trustworthy as you."
+
+  - sp: EDMUND
+    o:
+      - "  I shall serve you, sir,"
+      - "Truly, however else."
+    m:
+      - "I’ll always be loyal to you, sir."
+
+  - sp: GLOUCESTER
+    o:
+      - "*(to CORNWALL)* For him I thank your grace."
+    m:
+      - "*(to cornwall)* Thank you, my lord, for your kindness to Edmund."
+
+  - sp: CORNWALL
+    o:
+      - "You know not why we came to visit you—"
+    m:
+      - "You don’t know why we came to visit you—"
+
+  - sp: REGAN
+    o:
+      - "Thus out of season, threading dark-eyed night."
+      - "Occasions, noble Gloucester, of some poise,"
+      - "Wherein we must have use of your advice:"
+      - "Our father he hath writ, so hath our sister,"
+      - "Of differences, which I least thought it fit"
+      - "To answer from our home. The several messengers"
+      - "From hence attend dispatch. Our good old friend,"
+      - "Lay comforts to your bosom, and bestow"
+      - "Your needful counsel to our business,"
+      - "Which craves the instant use."
+    m:
+      - "Yes, and so unexpectedly, at night. There are some important matters we need your advice on, Gloucester. My father and my sister have both recently written to me about arguments between them. I realized it would be inconvenient to answer them from home, especially since the king may be on his way there. Their messengers are ready, waiting to deliver our response in these matters. So please, old friend, give us some good advice. We need it desperately and immediately."
+
+  - sp: GLOUCESTER
+    o:
+      - "I serve you, madam."
+      - "Your graces are right welcome."
+    m:
+      - "I’m at your service, madam. Both of you are very welcome here."
+
+  - os: "Flourish. Exeunt"
+    ms: "Trumpets play. They all exit."

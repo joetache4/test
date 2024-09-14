@@ -1,0 +1,144 @@
+play: Richard II
+title: Act 5, Scene 6
+group: 5
+order: 18
+text:
+  - os: "Windsor castle."
+    ms: "Windsor Castle."
+
+  - os: "Flourish. Enter HENRY BOLINGBROKE, DUKE OF YORK, with other Lords, and Attendants"
+    ms: "Trumpets blow. HENRY BOLINGBROKE, DUKE OF YORK, and other lords and attendants enter."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Kind uncle York, the latest news we hear"
+      - "Is that the rebels have consumed with fire"
+      - "Our town of Cicester in Gloucestershire;"
+      - "But whether they be ta’en or slain we hear not."
+    m:
+      - "Kind uncle York, the last news I heard is that the rebels have burned down the town of Cirencester in Gloucestershire. But I haven’t heard if they’ve been captured or killed."
+
+  - os: "Enter NORTHUMBERLAND"
+    ms: "NORTHUMBERLAND enters."
+
+  - o:
+      - "Welcome, my lord what is the news?"
+    m:
+      - "Welcome, my lord. What’s the news?"
+
+  - sp: NORTHUMBERLAND
+    o:
+      - "First, to thy sacred state wish I all happiness."
+      - "The next news is, I have to London sent"
+      - "The heads of Oxford, Salisbury, Blunt, and Kent:"
+      - "The manner of their taking may appear"
+      - "At large discoursed in this paper here."
+    m:
+      - "First, I wish you happiness. Next, I’ve sent the heads of Oxford, Salisbury, Blunt, and Kent to London. This paper tells how they were taken."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "We thank thee, gentle Percy, for thy pains;"
+      - "And to thy worth will add right worthy gains."
+    m:
+      - "I thank you, gentle Percy, for your effort. I’ll reward you well, as you deserve."
+
+  - os: "Enter LORD FITZWATER"
+    ms: "LORD FITZWATER enters."
+
+  - sp: LORD FITZWATER
+    o:
+      - "My lord, I have from Oxford sent to London"
+      - "The heads of Brocas and Sir Bennet Seely,"
+      - "Two of the dangerous consorted traitors"
+      - "That sought at Oxford thy dire overthrow."
+    m:
+      - "My lord, I’ve sent the heads of Brocas and Sir Bennet Seely from Oxford to London. They were two of the traitors who wanted to overthrow you at Oxford."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Thy pains, Fitzwater, shall not be forgot;"
+      - "Right noble is thy merit, well I wot."
+    m:
+      - "I won’t forget your efforts, Fitzwater. I know that you deserve your noble title."
+
+  - os: "Enter HENRY PERCY, and the BISHOP OF CARLISLE"
+    ms: "HENRY PERCY and the BISHOP OF CARLISLE enter."
+
+  - sp: HENRY PERCY
+    o:
+      - "The grand conspirator, Abbot of Westminster,"
+      - "With clog of conscience and sour melancholy"
+      - "Hath yielded up his body to the grave;"
+      - "But here is Carlisle living, to abide"
+      - "Thy kingly doom and sentence of his pride."
+    m:
+      - "The Abbot of Westminster, who conspired against you, has died. But here is Carlisle, alive, to hear your judgment on him."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Carlisle, this is your doom:"
+      - "Choose out some secret place, some reverend room,"
+      - "More than thou hast, and with it joy thy life;"
+      - "So as thou livest in peace, die free from strife:"
+      - "For though mine enemy thou hast ever been,"
+      - "High sparks of honour in thee have I seen."
+    m:
+      - "Carlisle, here is your sentence: pick some secret place where you can live out your life in peace and die without violence. Even though you’ve always been my enemy, I’ve seen that you are a man of great honor."
+
+  - os: "Enter EXTON, with persons bearing a coffin"
+    ms: "EXTON enters, with several people carrying a coffin."
+
+  - sp: EXTON
+    o:
+      - "Great king, within this coffin I present"
+      - "Thy buried fear: herein all breathless lies"
+      - "The mightiest of thy greatest enemies,"
+      - "Richard of Bordeaux, by me hither brought."
+    m:
+      - "Great king, here is your greatest fear now buried inside this coffin. In it lies without breathing your greatest enemy, Richard of Bordeaux, brought here by me."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "Exton, I thank thee not; for thou hast wrought"
+      - "A deed of slander with thy fatal hand"
+      - "Upon my head and all this famous land."
+    m:
+      - "Exton, I don’t thank you. By killing him, you’ve done a disgrace to my name and to our country."
+
+  - sp: EXTON
+    o:
+      - "From your own mouth, my lord, did I this deed."
+    m:
+      - "I did this on your own command."
+
+  - sp: HENRY BOLINGBROKE
+    o:
+      - "They love not poison that do poison need,"
+      - "Nor do I thee: though I did wish him dead,"
+      - "I hate the murderer, love him murdered."
+      - "The guilt of conscience take thou for thy labour,"
+      - "But neither my good word nor princely favour:"
+      - "With Cain go wander through shades of night,"
+      - "And never show thy head by day nor light."
+    m:
+      - "Those who need to poison someone still don’t love poison. Even though I wanted him dead, I hate the man who murdered him, and now I love the man who has been murdered. You can take your guilty conscience as payment. I won’t give you any praise or royal favors. Go wander the night like Cain, and don’t show your face here again."
+
+  - os: "Exeunt EXTON and his men"
+    ms: "EXTON and his men exit."
+
+  - o:
+      - "Lords, I protest, my soul is full of woe,"
+      - "That blood should sprinkle me to make me grow:"
+      - "Come, mourn with me for that I do lament,"
+      - "And put on sullen black incontinent:"
+      - "I’ll make a voyage to the Holy Land,"
+      - "To wash this blood off from my guilty hand:"
+      - "March sadly after; grace my mournings here;"
+      - "In weeping after this untimely bier."
+    m:
+      - "Lords, I protest. My soul is full of sorrow that blood has been shed to make me more secure. Come, mourn with me and dress yourselves in black immediately. I’ll travel to the Holy Land to wash away this blood from my guilty hands. March sadly behind me, and weep for this untimely death."
+
+  - os: "Exeunt"
+    ms: "They exit."
+

@@ -1,0 +1,324 @@
+play: Antony and Cleopatra
+title: Act 3, Scene 7
+group: 3
+order: 18
+text:
+  - os: "Enter CLEOPATRA and ENOBARBUS"
+    ms: "CLEOPATRA and ENOBARBUS enter."
+
+  - sp: CLEOPATRA
+    o:
+      - "I will be even with thee, doubt it not."
+    m:
+      - "I’ll be straight with you. Do not doubt it."
+
+  - sp: ENOBARBUS
+    o:
+      - "But why, why, why?"
+    m:
+      - "But why, why, why?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Thou hast forspoke my being in these wars"
+      - "And sayst it is not fit."
+    m:
+      - "You opposed my taking part in the war. You said it wasn’t proper."
+
+  - sp: ENOBARBUS
+    o:
+      - "    Well, is it, is it?"
+    m:
+      - "Well, is it? Is it?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Is ’t not denounced against us? Why should not we"
+      - "Be there in person?"
+    m:
+      - "Isn’t this war against me? Why shouldn’t I be there in person?"
+
+  - sp: ENOBARBUS
+    o:
+      - "    Well, I could reply,"
+      - "If we should serve with horse and mares together,"
+      - "The horse were merely lost. The mares would bear"
+      - "A soldier and his horse."
+    m:
+      - "Well, I could answer that if we went to war on male and female horses alike—the male horses would be totally distracted and useless. The mares would be ridden by their riders and the male horses."
+
+  - sp: CLEOPATRA
+    o:
+      - "    What is ’t you say?"
+    m:
+      - "What do you mean?"
+
+  - sp: ENOBARBUS
+    o:
+      - "Your presence needs must puzzle Antony,"
+      - "Take from his heart, take from his brain, from ’s time"
+      - "What should not then be spared. He is already"
+      - "Traduced for levity, and ’tis said in Rome"
+      - "That Photinus, an eunuch, and your maids"
+      - "Manage this war."
+    m:
+      - "Antony will necessarily be distracted by your presence. You will affect his heart and his head. You’ll take up time he can’t afford to lose. He’s already criticized for frivolous behavior. In Rome they say that your eunuch Photinus and your maids run the war."
+
+  - sp: CLEOPATRA
+    o:
+      - "    Sink Rome! And their tongues rot"
+      - "That speak against us! A charge we bear i’ th’ war,"
+      - "And as the president of my kingdom will"
+      - "Appear there for a man. Speak not against it."
+      - "I will not stay behind."
+    m:
+      - "Let Rome fall! May the tongues of our critics rot! I have responsibilities in this war, and as the absolute ruler of my kingdom I will carry out my duties as if I were a man. Don’t argue against it. I won’t stay behind."
+
+  - os: "*Enter* ANTONY*and* CANIDIUS"
+    ms: "ANTONY and CANIDIUS enter."
+
+  - sp: ENOBARBUS
+    o:
+      - "    Nay, I have done. Here comes the Emperor."
+    m:
+      - "No, I’ve had my say. Here comes the Emperor."
+
+  - sp: ANTONY
+    o:
+      - "    Is it not strange, Canidius,"
+      - "That from Tarentum and Brundusium"
+      - "He could so quickly cut the Ionian sea"
+      - "And take in Toryne?—You have heard on ’t, sweet?"
+    m:
+      - "Isn’t it strange, Canidius, that he could cross the Ionian Sea so quickly from Tarentum and Brundusium and take Toryne?—Have you heard about this, sweet?"
+
+  - sp: CLEOPATRA
+    o:
+      - "Celerity is never more admired"
+      - "Than by the negligent."
+    m:
+      - "No one admires speed more than the lazy."
+
+  - sp: ANTONY
+    o:
+      - "    A good rebuke,"
+      - "Which might have well becomed the best of men,"
+      - "To taunt at slackness.—Canidius, we will fight"
+      - "With him by sea."
+    m:
+      - "That’s a good reprimand, suitable for reminding even the best of men to guard against negligence. Canidius, we’ll fight him at sea."
+
+  - sp: CLEOPATRA
+    o:
+      - "    By sea, what else?"
+    m:
+      - "Of course we’ll fight him by sea. What else?"
+
+  - sp: CANIDIUS
+    o:
+      - "    Why will My lord do so?"
+    m:
+      - "Why do you want to do that, my lord?"
+
+  - sp: ANTONY
+    o:
+      - "    For that he dares us to ’t."
+    m:
+      - "Because he’s daring us to do it."
+
+  - sp: ENOBARBUS
+    o:
+      - "So hath my lord dared him to single fight."
+    m:
+      - "So you’ve dared him to single combat."
+
+  - sp: CANIDIUS
+    o:
+      - "Ay, and to wage this battle at Pharsalia,"
+      - "Where Caesar fought with Pompey. But these offers,"
+      - "Which serve not for his vantage, he shakes off,"
+      - "And so should you."
+    m:
+      - "Yes, and you dared Caesar to fight the battle at Pharsalia, where he fought against Pompey. But Caesar ignores offers that don’t give him an advantage, and so should you."
+
+  - sp: ENOBARBUS
+    o:
+      - "    Your ships are not well manned,"
+      - "Your mariners are muleteers, reapers, people"
+      - "Engrossed by swift impress. In Caesar’s fleet"
+      - "Are those that often have ’gainst Pompey fought."
+      - "Their ships are yare, yours, heavy. No disgrace"
+      - "Shall fall you for refusing him at sea,"
+      - "Being prepared for land."
+    m:
+      - "Your ships are not well crewed. Your sailors are mule drivers, harvesters—men who were drafted quickly and have little training. Caesar’s fleet is manned by mariners who already have experience battling Pompey. His ships are maneuverable. Yours are slow and awkward. Refusing to fight him at sea won’t disgrace you. You’ve prepared for a land war."
+
+  - sp: ANTONY
+    o:
+      - "    By sea, by sea."
+    m:
+      - "I will fight by sea. By sea."
+
+  - sp: ENOBARBUS
+    o:
+      - "Most worthy sir, you therein throw away"
+      - "The absolute soldiership you have by land,"
+      - "Distract your army, which doth most consist"
+      - "Of war-marked footmen, leave unexecuted"
+      - "Your own renownèd knowledge, quite forego"
+      - "The way which promises assurance, and"
+      - "Give up yourself merely to chance and hazard"
+      - "From firm security."
+    m:
+      - "Most worthy sir, if you do that you throw away all the advantages you have on land. You will have to divide your army, which mostly consists of battle-hardened foot soldiers. You will be unable to use your legendary battle knowledge. You’ll be abandoning proven methods that promise victory, and instead you’ll put yourself at the mercy of haphazard chance."
+
+  - sp: ANTONY
+    o:
+      - "    I’ll fight at sea."
+    m:
+      - "I’ll fight at sea."
+
+  - sp: CLEOPATRA
+    o:
+      - "I have sixty sails, Caesar none better."
+    m:
+      - "I have sixty ships. Caesar doesn’t have any that are better."
+
+  - sp: ANTONY
+    o:
+      - "Our overplus of shipping will we burn,"
+      - "And with the rest full-manned, from th’ head of Actium"
+      - "Beat th’ approaching Caesar. But if we fail,"
+      - "We then can do ’t at land."
+    m:
+      - "We’ll burn our surplus ships and fully man the rest. We’ll sail from Actium and beat Caesar as he approaches. Even if we fail at that, we can still fight him on land."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - o:
+      - "    Thy business?"
+    m:
+      - "What’s your business?"
+
+  - sp: MESSENGER
+    o:
+      - "The news is true, my lord. He is descried."
+      - "Caesar has taken Toryne."
+    m:
+      - "The news is true, my lord. Caesar has been seen. He has captured Toryne."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: ANTONY
+    o:
+      - "Can he be there in person? ’Tis impossible,"
+      - "Strange that his power should be. Canidius,"
+      - "Our nineteen legions thou shalt hold by land,"
+      - "And our twelve thousand horse. We’ll to our ship."
+      - "Away, my Thetis!"
+    m:
+      - "Can Caesar be there in person? No, that’s impossible. It’s strange enough that his army should be there. Canidius, take our nineteen legions and twelve thousand horse soldiers. You must hold them on land. We’ll go to our ship. Come away, Cleopatra."
+
+  - os: "Enter a SOLDIER"
+    ms: "A SOLDIER enters."
+
+  - o:
+      - "    How now, worthy soldier?"
+    m:
+      - "What’s the news, brave soldier?"
+
+  - sp: SOLDIER
+    o:
+      - "O noble Emperor, do not fight by sea!"
+      - "Trust not to rotten planks. Do you misdoubt"
+      - "This sword and these my wounds? Let th’ Egyptians"
+      - "And the Phoenicians go a-ducking. We"
+      - "Have used to conquer standing on the earth"
+      - "And fighting foot to foot."
+    m:
+      - "Oh, don’t fight by sea, noble Emperor! Don’t trust rotten planks. Don’t you trust my sword and these wounds? Let the Egyptians and Phoenicians go swimming. We are used to winning by standing on the earth and fighting toe to toe."
+
+  - sp: ANTONY
+    o:
+      - "    Well, well, away."
+    m:
+      - "Well, well, let’s go."
+
+  - os: "Exeunt ANTONY, CLEOPATRA, and ENOBARBUS"
+    ms: "ANTONY, CLEOPATRA, and ENOBARBUS exit."
+
+  - sp: SOLDIER
+    o:
+      - "By Hercules, I think I am i’ th’ right."
+    m:
+      - "By Hercules, I think I’m right."
+
+  - sp: CANIDIUS
+    o:
+      - "Soldier, thou art; but his whole action grows"
+      - "Not in the power on ’t. So our leader’s led,"
+      - "And we are women’s men."
+    m:
+      - "Soldier, you are. But Antony’s decisions aren’t coming from his extensive experience. Our leader is being led. We are following a woman."
+
+  - sp: SOLDIER
+    o:
+      - "    You keep by land The legions and the horse whole, do you not?"
+    m:
+      - "On land you keep the legions and cavalry together, don’t you?"
+
+  - sp: CANIDIUS
+    o:
+      - "Marcus Octavius, Marcus Justeius,"
+      - "Publicola, and Caelius, are for sea;"
+      - "But we keep whole by land. This speed of Caesar’s"
+      - "Carries beyond belief."
+    m:
+      - "Marcus Octavius, Marcus Justeius, Publicola, and Caelius will go by sea, but we’ll keep the bulk on land. Caesar’s speed defies belief."
+
+  - sp: SOLDIER
+    o:
+      - "While he was yet in Rome"
+      - "His power went out in such distractions as"
+      - "Beguiled all spies."
+    m:
+      - "While he was still in Rome, he deployed his forces in so many different disguises that all our spies were fooled."
+
+  - sp: CANIDIUS
+    o:
+      - "    Who’s his lieutenant, hear you?"
+    m:
+      - "Who’s his lieutenant, do you know?"
+
+  - sp: SOLDIER
+    o:
+      - "They say, one Taurus."
+    m:
+      - "A man named Taurus, they say."
+
+  - sp: CANIDIUS
+    o:
+      - "    Well I know the man."
+    m:
+      - "I know the man well."
+
+  - os: "Enter a MESSENGER"
+    ms: "A MESSENGER enters."
+
+  - sp: MESSENGER
+    o:
+      - "The Emperor calls Canidius."
+    m:
+      - "The Emperor is calling for Canidius."
+
+  - sp: CANIDIUS
+    o:
+      - "With news the time’s with labor, and throws forth"
+      - "Each minute some."
+    m:
+      - "The present time is like a woman in labor, each minute giving birth to some piece of news."
+
+  - os: "Exeunt"
+    ms: "They exit."

@@ -1,0 +1,94 @@
+play: Measure for Measure
+title: Act 4, Scene 4
+group: 4
+order: 13
+text:
+  - os: "A room in ANGELO’s house."
+    ms: "A room in ANGELO’s house."
+
+  - os: "Enter ANGELO and ESCALUS"
+    ms: "ANGELO and ESCALUS enter."
+
+  - sp: ESCALUS
+    o:
+      - "Every letter he hath writ hath disvouched other."
+    m:
+      - "Every letter he’s written has contradicted the others."
+
+  - sp: ANGELO
+    o:
+      - "In most uneven and distracted manner. His actions"
+      - "show much like to madne pray heaven his wisdom be"
+      - "not tainted! And why meet him at the gates, and"
+      - "redeliver our authorities there*(?)*"
+    m:
+      - "In a very vague, inconsistent way. His behavior seems almost insane—pray God he’s not going mad! And why do we have to meet him at the gates, and surrender our authority there?"
+
+  - sp: ESCALUS
+    o:
+      - "I guess not."
+    m:
+      - "I can’t guess."
+
+  - sp: ANGELO
+    o:
+      - "And why should we proclaim it in an hour before his"
+      - "entering, that if any crave redress of injustice,"
+      - "they should exhibit their petitions in the street?"
+    m:
+      - "And why, an hour before his arrival, should we announce that if anyone wants compensation for unjust treatment, they should come ready to present their petitions publicly?"
+
+  - sp: ESCALUS
+    o:
+      - "He shows his reason for that: to have a dispatch of"
+      - "complaints, and to deliver us from devices"
+      - "hereafter, which shall then have no power to stand"
+      - "against us."
+    m:
+      - "He gives a reason for that: to be able to deal promptly with the complaints, and to save us from future lawsuits."
+
+  - sp: ANGELO
+    o:
+      - "Well, I beseech you, let it be proclaimed betimes"
+      - "i’ the morn; I’ll call you at your house: give"
+      - "notice to such men of sort and suit as are to meet"
+      - "him."
+    m:
+      - "Well, I urge you to announce it early in the morning. I’ll come pick you up at your house. Alert all the high-ranking officials who are supposed to meet him."
+
+  - sp: ESCALUS
+    o:
+      - "I shall, sir. Fare you well."
+    m:
+      - "I will, sir. Goodbye."
+
+  - sp: ANGELO
+    o:
+      - "Good night."
+    m:
+      - "Good night."
+
+  - os: "Exit ESCALUS"
+    ms: "ESCALUS exits."
+
+  - o:
+      - "This deed unshapes me quite, makes me unpregnant"
+      - "And dull to all proceedings. A deflower’d maid!"
+      - "And by an eminent body that enforced"
+      - "The law against it! But that her tender shame"
+      - "Will not proclaim against her maiden loss,"
+      - "How might she tongue me! Yet reason dares her no;"
+      - "For my authority bears of a credent bulk,"
+      - "That no particular scandal once can touch"
+      - "But it confounds the breather. He should have lived,"
+      - "Save that riotous youth, with dangerous sense,"
+      - "Might in the times to come have ta’en revenge,"
+      - "By so receiving a dishonour’d life"
+      - "With ransom of such shame. Would yet he had lived!"
+      - "A lack, when once our grace we have forgot,"
+      - "Nothing goes right: we would, and we would not."
+    m:
+      - "This thing I’ve done has totally destroyed me. I’m stupid, can’t concentrate on anything. A girl robbed of her virginity, and by a respected public figure who enforced the law against sex! If she weren’t too ashamed to admit it, she could easily denounce me! But her head tells her not to, because my credibility is so strong that any scandal would ruin the person who spreads it, not me. I would’ve let Claudio live, except that a hotheaded youth like him might have come after me someday, feeling that his life is dishonored because he paid such a shameful price for it. Even so, I wish I’d let him live. Sadly, nothing goes right once we forget virtue. I don’t do the good thing, which I don’t want to do, but the evil I don’t want to commit, that I do."
+
+  - os: "Exit"
+    ms: "He exits."

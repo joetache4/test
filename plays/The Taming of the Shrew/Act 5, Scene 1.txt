@@ -1,0 +1,542 @@
+play: The Taming of the Shrew
+title: Act 5, Scene 1
+group: 5
+order: 12
+text:
+  - os: "Enter BIONDELLO, LUCENTIO, and BIANCA. GREMIO is out before"
+    ms: "BIONDELLO, LUCENTIO and BIANCA enter. GREMIO is already onstage."
+
+  - sp: BIONDELLO
+    o:
+      - "Softly and swiftly, sir, for the priest is ready."
+    m:
+      - "Quickly and quietly, sir. The priest is already there."
+
+  - sp: LUCENTIO
+    o:
+      - "I fly, Biondello. But they may chance to need thee at home."
+      - "Therefore leave us."
+    m:
+      - "We’re off, Biondello. But they may need you at home, so you go on back."
+
+  - os: "Exit LUCENTIO with BIANCA"
+    ms: "LUCENTIO and BIANCA exit."
+
+  - sp: BIONDELLO
+    o:
+      - "Nay, faith, I’ll see the church a’ your back, and then come back to my master’s as soon as I can."
+    m:
+      - "I’ll see them safely married first and then hurry back to my master’s."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: GREMIO
+    o:
+      - "I marvel Cambio comes not all this while."
+    m:
+      - "I wonder why Cambio hasn’t shown up in all this time."
+
+  - os: "Enter PETRUCHIO, KATHERINE, VINCENTIO and GRUMIO with Attendants"
+    ms: "PETRUCHIO, KATHERINE, VINCENTIO and GRUMIO enter, with attendants."
+
+  - sp: PETRUCHIO
+    o:
+      - "Sir, here’s the door. This is Lucentio’s house."
+      - "My father’s bears more toward the marketplace."
+      - "Thither must I, and here I leave you, sir."
+    m:
+      - "Here is the door, sir. This is Lucentio’s house. My father-in-law lives closer to the marketplace. That’s where I’m going now, so I’ll leave you here."
+
+  - sp: VINCENTIO
+    o:
+      - "You shall not choose but drink before you go."
+      - "I think I shall command your welcome here,"
+      - "And, by all likelihood, some cheer is toward."
+    m:
+      - "You must not go without having a drink first. I think I may presume to welcome you, and they’re probably preparing some kind of feast to welcome me."
+
+  - os: "Knocks"
+    ms: "He knocks."
+
+  - sp: GREMIO
+    o:
+      - "They’re busy within. You were best knock louder."
+    m:
+      - "They’re pretty busy in there. You’d better knock louder."
+
+  - os: "MERCHANT looks out of the window"
+    ms: "The MERCHANT looks out the window."
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* What’s he that knocks as he would beat down the gate?"
+    m:
+      - "*(as VINCENTIO)* Who’s that breaking down the door?"
+
+  - sp: VINCENTIO
+    o:
+      - "Is Signior Lucentio within, sir?"
+    m:
+      - "Is Signior Lucentio at home, sir?"
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* He’s within, sir, but not to be spoken withal."
+    m:
+      - "*(as VINCENTIO)* Yes, he’s at home, but he can’t be disturbed."
+
+  - sp: VINCENTIO
+    o:
+      - "What if a man bring him a hundred pound or two to make merry withal?"
+    m:
+      - "What if a fellow were bringing him a couple of hundred pounds to toss around?"
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Keep your hundred pounds to yourself. He shall need none so long as I live."
+    m:
+      - "*(as VINCENTIO)* Keep your hundreds. He won’t need them as long as I’m living."
+
+  - sp: PETRUCHIO
+    o:
+      - "*(to VINCENTIO)* Nay, I told you your son was well beloved in Padua.—Do you hear, sir? To leave frivolous circumstances, I pray you tell Signior Lucentio that his father is come from Pisa and is here at the door to speak with him."
+    m:
+      - "*(to VINCENTIO)* I told you your son was popular in Padua. Hear that, sir? *(to MERCHANT)* Games aside, though, would you be good enough to tell Signior Lucentio that his father has arrived from Pisa and stands at the door waiting to speak with him?"
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Thou liest. His father is come from Padua and here looking out at the window."
+    m:
+      - "*(as VINCENTIO)* You lie. His father is already in Padua. In fact, he’s standing right here looking out the window."
+
+  - sp: VINCENTIO
+    o:
+      - "Art thou his father?"
+    m:
+      - "*You’re* his father?"
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Ay, sir, so his mother says, if I may believe her."
+    m:
+      - "*(as VINCENTIO)* Yes, sir—according to his mother, if I can believe her."
+
+  - sp: PETRUCHIO
+    o:
+      - "*(to VINCENTIO)* Why, how now, gentleman! Why, this is flat knavery to take upon you another man’s name."
+    m:
+      - "*(to VINCENTIO)* What? Why this is out and out robbery! To appropriate another man’s name."
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Lay hands on the villain. I believe he means to cozen somebody in this city under my countenance."
+    m:
+      - "*(as VINCENTIO)* Arrest the wretch. I think he means to bamboozle someone in this city while pretending to be me."
+
+  - os: "Enter BIONDELLO"
+    ms: "BIONDELLO enters."
+
+  - sp: BIONDELLO
+    o:
+      - "*(aside)* I have seen them in the church together. God send"
+      - "’em good shipping! But who is here? Mine old master"
+      - "Vincentio! Now we are undone and brought to nothing."
+    m:
+      - "*(to himself)* Well, I’ve seen them married. Good luck to them! Uh-oh. What’s this? It’s my master’s father, Vincentio! Now we’re in trouble. Everything’s ruined."
+
+  - sp: VINCENTIO
+    o:
+      - "*(to BIONDELLO)* Come hither, crack-hemp."
+    m:
+      - "*(to BIONDELLO)* Come here, you scoundrel."
+
+  - sp: BIONDELLO
+    o:
+      - "Hope I may choose, sir."
+    m:
+      - "I believe I have some choice in the matter, sir."
+
+  - sp: VINCENTIO
+    o:
+      - "Come hither, you rogue! What, have you forgot me?"
+    m:
+      - "Come here, you wretch! What, have you forgotten me?"
+
+  - sp: BIONDELLO
+    o:
+      - "Forgot you! No, sir. I could not forget you, for I never saw you before in all my life."
+    m:
+      - "Forgotten you! No, sir. I could not forget you, since I never saw you before in my life."
+
+  - sp: VINCENTIO
+    o:
+      - "What, you notorious villain, didst thou never see thy master’s father, Vincentio?"
+    m:
+      - "Despicable brute! Never seen your master’s father, Vincentio?"
+
+  - sp: BIONDELLO
+    o:
+      - "What, my old worshipful old master? Yes, marry, sir. See where he looks out of the window."
+    m:
+      - "My honorable, reverend master? Yes, of course. There he is at the window."
+
+  - sp: VINCENTIO
+    o:
+      - "Is ’t so, indeed."
+    m:
+      - "Is that so?"
+
+  - os: "Beats BIONDELLO"
+    ms: "He beats BIONDELLO."
+
+  - sp: BIONDELLO
+    o:
+      - "Help, help, help! Here’s a madman will murder me."
+    m:
+      - "Help, help, help! This madman will murder me."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Help, son! Help, Signior Baptista!"
+    m:
+      - "*(as VINCENTIO)* Help, son! Help, Signior Baptista!"
+
+  - os: "Exit from above"
+    ms: "He exits from above."
+
+  - sp: PETRUCHIO
+    o:
+      - "Prithee, Kate, let’s stand aside and see the end of this controversy."
+    m:
+      - "What do you think, Kate, shall we hang back and see how this conflict finishes?"
+
+  - os: "They retire"
+    ms: "They draw back."
+
+  - os: "Enter MERCHANT below, TRANIO, BAPTISTA and Servants"
+    ms: "The MERCHANT enters below with TRANIO as LUCENTIO, BAPTISTA and servants."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Sir, what are you that offer to beat my servant?"
+    m:
+      - "*(as LUCENTIO)* How dare you beat my servant, sir?"
+
+  - sp: VINCENTIO
+    o:
+      - "What am I, sir! Nay, what are you, sir? O immortal gods! O fine villain! A silken doublet, a velvet hose, a scarlet cloak, and a copatain hat! Oh, I am undone, I am undone! While I play the good husband at home, my son and my servant spend all at the university."
+    m:
+      - "How dare I? How dare *you,* sir*?* Oh, cruel gods! Oh, clever villain! A silk doublet, velvet hose, a scarlet cloak, and a high-brimmed hat! Oh, I am destroyed, I am destroyed! While I sat counting my pennies at home, my son and my servant have squandered all my money at the university."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* How now, what’s the matter?"
+    m:
+      - "*(as LUCENTIO)* Heavens, what’s the matter?"
+
+  - sp: BAPTISTA
+    o:
+      - "What, is the man lunatic?"
+    m:
+      - "What, is the man crazy?"
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Sir, you seem a sober ancient gentleman by your habit, but your words show you a madman. Why, sir, what ’cerns it you if I wear pearl and gold? I thank my good father I am able to maintain it."
+    m:
+      - "*(as LUCENTIO)* Sir, you seem from your clothes to be a sober, respectable old gentleman, but your words show you to be a madman. What do you care if I wear pearls and gold? Thanks to my father, I can afford to."
+
+  - sp: VINCENTIO
+    o:
+      - "Thy father! O villain! He is a sailmaker in Bergamo."
+    m:
+      - "Your father! Why, you scoundrel! Your father is a sailmaker in Bergamo."
+
+  - sp: BAPTISTA
+    o:
+      - "You mistake, sir, you mistake, sir. Pray, what do you think is his name?"
+    m:
+      - "You’re wrong, sir, very wrong. Why, what do you imagine his name to be?"
+
+  - sp: VINCENTIO
+    o:
+      - "His name! As if I knew not his name! I have brought him up ever since he was three years old, and his name is Tranio."
+    m:
+      - "His name! As if I wouldn’t know his name, I who brought him up ever since he was three years old. His name is Tranio."
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Away, away, mad ass! His name is Lucentio and he is mine only son, and heir to the lands of me, Signior Vincentio."
+    m:
+      - "*(as VINCENTIO)* Get rid of this mad fool! This is Lucentio, my only son and heir to all my lands."
+
+  - sp: VINCENTIO
+    o:
+      - "Lucentio! Oh, he hath murdered his master! Lay hold on him, I charge you in the Duke’s name. O my son, my son! Tell me, thou villain, where is my son Lucentio?"
+    m:
+      - "Lucentio! Oh God, he’s murdered his master! Restrain him! I charge you in the Duke’s name. Oh, my son, my son! Tell me, you monster, where is my son Lucentio?"
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Call forth an officer."
+    m:
+      - "*(as LUCENTIO)* Call forth an officer."
+
+  - os: "Enter an Officer"
+    ms: "An officer enters."
+
+  - o:
+      - "Carry this mad knave to the jail.—Father Baptista,"
+      - "I charge you see that he be forthcoming."
+    m:
+      - "Take this mad wretch to jail.—Father-in-law Baptista, will you see that he’s available to appear in court?"
+
+  - sp: VINCENTIO
+    o:
+      - "Carry me to the jail?"
+    m:
+      - "Take me off to jail?"
+
+  - sp: GREMIO
+    o:
+      - "Stay, officer. He shall not go to prison."
+    m:
+      - "Wait, officer. He mustn’t go to prison."
+
+  - sp: BAPTISTA
+    o:
+      - "Talk not, Signior Gremio. I say he shall go to prison."
+    m:
+      - "Be quiet, Signior Gremio. I say he shall go to prison."
+
+  - sp: GREMIO
+    o:
+      - "Take heed, Signior Baptista, lest you be cony-catched in this business. I dare swear this is the right Vincentio."
+    m:
+      - "Be careful, Signior Baptista, lest you be made the dupe in this business. I could swear this is the real Vincentio."
+
+  - sp: MERCHANT
+    o:
+      - "*(as VINCENTIO)* Swear, if thou darest."
+    m:
+      - "*(as* VINCENTIO)* Can* you swear to it?"
+
+  - sp: GREMIO
+    o:
+      - "Nay, I dare not swear it."
+    m:
+      - "Well, no, not literally."
+
+  - sp: TRANIO
+    o:
+      - "*(as LUCENTIO)* Then thou wert best say that I am not"
+      - "Lucentio."
+    m:
+      - "*(as LUCENTIO)* Then you’d better say that I’m not Lucentio."
+
+  - sp: GREMIO
+    o:
+      - "Yes, I know thee to be Signior Lucentio."
+    m:
+      - "No, I know that you’re Signior Lucentio."
+
+  - sp: BAPTISTA
+    o:
+      - "Away with the dotard! To the jail with him!"
+    m:
+      - "Away with the doddering fool! Take him off to jail!"
+
+  - sp: VINCENTIO
+    o:
+      - "Thus strangers may be haled and abused.—O monstrous villain!"
+    m:
+      - "Is this how strangers are treated here? You harass and abuse them?—This is unbelievable!"
+
+  - os: "Enter BIONDELLO with LUCENTIO, BIANCA"
+    ms: "BIONDELLO enters with LUCENTIO and BIANCA."
+
+  - sp: BIONDELLO
+    o:
+      - "O! We are spoiled and yonder he is! Deny him, forswear him, or else we are all undone."
+    m:
+      - "We’re ruined! There he is! Renounce him! Deny you know him or we’re sunk."
+
+  - os: "Exeunt BIONDELLO, TRANIO and MERCHANT as fast as may be"
+    ms: "BIONDELLO, TRANIO and MERCHANT exit as fast as possible."
+
+  - os: "LUCENTIO, and BIANCA kneel"
+    ms: "LUCENTIO, and BIANCA kneel."
+
+  - sp: LUCENTIO
+    o:
+      - "Pardon, sweet father."
+    m:
+      - "Pardon, dear father."
+
+  - sp: VINCENTIO
+    o:
+      - "Lives my sweet son?"
+    m:
+      - "Dear son, you’re alive!"
+
+  - sp: BIANCA
+    o:
+      - "Pardon, dear father."
+    m:
+      - "Pardon us, dear father."
+
+  - sp: BAPTISTA
+    o:
+      - "How hast thou offended? Where is Lucentio?"
+    m:
+      - "Why? What have you done? Where is Lucentio?"
+
+  - sp: LUCENTIO
+    o:
+      - "Here’s Lucentio, right son to the right Vincentio,"
+      - "That have by marriage made thy daughter mine"
+      - "While counterfeit supposes bleared thine eyne."
+    m:
+      - "Here is Lucentio, true son to the true Vincentio. I have made your daughter mine by marriage while false impressions blinded your eyes."
+
+  - sp: GREMIO
+    o:
+      - "Here’s packing, with a witness, to deceive us all!"
+    m:
+      - "Quite the conspiracy! We’ve all been duped."
+
+  - sp: VINCENTIO
+    o:
+      - "Where is that damnèd villain, Tranio,"
+      - "That faced and braved me in this matter so?"
+    m:
+      - "Where is that damned wretch, Tranio, who defied me in such a disgraceful manner?"
+
+  - sp: BAPTISTA
+    o:
+      - "Why, tell me, is not this my Cambio?"
+    m:
+      - "Say, isn’t this the Latin master Cambio?"
+
+  - sp: BIANCA
+    o:
+      - "Cambio is changed into Lucentio."
+    m:
+      - "Cambio is transformed into Lucentio."
+
+  - sp: LUCENTIO
+    o:
+      - "Love wrought these miracles. Bianca’s love"
+      - "Made me exchange my state with Tranio,"
+      - "While he did bear my countenance in the town,"
+      - "And happily I have arrivèd at the last"
+      - "Unto the wishèd haven of my bliss."
+      - "What Tranio did, myself enforced him to."
+      - "Then pardon him, sweet father, for my sake."
+    m:
+      - "It was love that performed these miracles. Bianca’s love made me trade places with Tranio while he masqueraded as me around town. And now, finally, I’ve arrived happily at the blissful haven where I longed to be. What Tranio did, he did at my command. So pardon him, dear father, for my sake."
+
+  - sp: VINCENTIO
+    o:
+      - "I’ll slit the villain’s nose that would have sent me to the jail."
+    m:
+      - "No, I’ll slit the nose of the villain who would have sent me to jail."
+
+  - sp: BAPTISTA
+    o:
+      - "But do you hear, sir, have you married my daughter without asking my goodwill?"
+    m:
+      - "But sir, have you married my daughter without my consent?"
+
+  - sp: VINCENTIO
+    o:
+      - "Fear not, Baptista, we will content you. Go to. But I will in to be revenged for this villany."
+    m:
+      - "Don’t worry, Baptista, you’ll be perfectly satisfied. You’ll see. Now I’m going inside to see that someone pays for this mischief."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: BAPTISTA
+    o:
+      - "And I, to sound the depth of this knavery."
+    m:
+      - "Me too—to see how far the mischief went."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: LUCENTIO
+    o:
+      - "Look not pale, Bianca. Thy father will not frown."
+    m:
+      - "Don’t worry, Bianca. Your father won’t be angry."
+
+  - os: "Exeunt LUCENTIO and BIANCA"
+    ms: "LUCENTIO and BIANCA exit."
+
+  - sp: GREMIO
+    o:
+      - "My cake is dough, but I’ll in among the rest,"
+      - "Out of hope of all but my share of the feast."
+    m:
+      - "So much for my hopes! Well, I’ll go in and join the others. All I can hope for now is a share of the feast."
+
+  - os: "Exit"
+    ms: "He exits."
+
+  - sp: KATHERINE
+    o:
+      - "Husband, let’s follow to see the end of this ado."
+    m:
+      - "Let’s follow them to see how this turns out."
+
+  - sp: PETRUCHIO
+    o:
+      - "First kiss me, Kate, and we will."
+    m:
+      - "First kiss me, Kate, and then we will."
+
+  - sp: KATHERINE
+    o:
+      - "What, in the midst of the street?"
+    m:
+      - "What, here in the middle of the street?"
+
+  - sp: PETRUCHIO
+    o:
+      - "What, art thou ashamed of me?"
+    m:
+      - "Why not? Are you ashamed of me?"
+
+  - sp: KATHERINE
+    o:
+      - "No, sir, God forbid, but ashamed to kiss."
+    m:
+      - "Certainly not! But I’m ashamed to kiss, sir."
+
+  - sp: PETRUCHIO
+    o:
+      - "Why, then let’s home again. *(to GRUMIO)* Come, sirrah, let’s away."
+    m:
+      - "All right then, back home we go. *(to GRUMIO)* Come, fellow, let’s be off."
+
+  - sp: KATHERINE
+    o:
+      - "Nay, I will give thee a kiss. *(kisses him)* Now pray thee, love, stay."
+    m:
+      - "No, wait. I *will* kiss you. *(kisses him)* Now please, love, stay."
+
+  - sp: PETRUCHIO
+    o:
+      - "Is not this well? Come, my sweet Kate."
+      - "Better once than never, for never too late."
+    m:
+      - "Isn’t this good? Come, my sweet Kate. Better late than never—and it’s never too late to change."
+
+  - os: "Exeunt"
+    ms: "They exit."

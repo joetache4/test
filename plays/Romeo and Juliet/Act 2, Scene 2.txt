@@ -1,0 +1,516 @@
+play: Romeo and Juliet
+title: Act 2, Scene 2
+group: 2
+order: 8
+text:
+  - os: "ROMEO returns"
+    ms: "ROMEO returns."
+
+  - sp: ROMEO
+    o:
+      - "He jests at scars that never felt a wound."
+    m:
+      - "It’s easy for someone to joke about scars if they’ve never been cut."
+
+  - os: "JULIET appears in a window above"
+    ms: "JULIET enters on the balcony."
+
+  - o:
+      - "But soft! What light through yonder window breaks?"
+      - "It is the east, and Juliet is the sun."
+      - "Arise, fair sun, and kill the envious moon,"
+      - "Who is already sick and pale with grief,"
+      - "That thou, her maid, art far more fair than she."
+      - "Be not her maid since she is envious."
+      - "Her vestal livery is but sick and green,"
+      - "And none but fools do wear it. Cast it off!"
+      - "It is my lady. Oh, it is my love."
+      - "Oh, that she knew she were!"
+      - "She speaks, yet she says nothing. What of that?"
+      - "Her eye discourses. I will answer it.—"
+      - "I am too bold. ’Tis not to me she speaks."
+      - "Two of the fairest stars in all the heaven,"
+      - "Having some business, do entreat her eyes"
+      - "To twinkle in their spheres till they return."
+      - "What if her eyes were there, they in her head?"
+      - "The brightness of her cheek would shame those stars"
+      - "As daylight doth a lamp. Her eye in heaven"
+      - "Would through the airy region stream so bright"
+      - "That birds would sing and think it were not night."
+      - "See how she leans her cheek upon her hand."
+      - "Oh, that I were a glove upon that hand"
+      - "That I might touch that cheek!"
+    m:
+      - "But wait, what’s that light in the window over there? It is the east, and Juliet is the sun. Rise up, beautiful sun, and kill the jealous moon. The moon is already sick and pale with grief because you, Juliet, her maid, are more beautiful than she. Don’t be her maid, because she is jealous. Virginity makes her look sick and green. Only fools hold on to their virginity. Let it go. Oh, there’s my lady! Oh, it is my love. Oh, I wish she knew how much I love her. She’s talking, but she’s not saying anything. So what? Her eyes are saying something. I will answer them. I am too bold. She’s not talking to me. Two of the brightest stars in the whole sky had to go away on business, and they’re asking her eyes to twinkle in their places until they return. What if her eyes were in the sky and the stars were in her head?—The brightness of her cheeks would outshine the stars the way the sun outshines a lamp. If her eyes were in the night sky, they would shine so brightly through space that birds would start singing, thinking her light was the light of day. Look how she leans her hand on her cheek. Oh, I wish I was the glove on that hand so that I could touch that cheek."
+
+  - sp: JULIET
+    o:
+      - "    Ay me!"
+    m:
+      - "Oh, my!"
+
+  - sp: ROMEO
+    o:
+      - "    *(aside)* She speaks."
+      - "O, speak again, bright angel! For thou art"
+      - "As glorious to this night, being o’er my head,"
+      - "As is a wingèd messenger of heaven"
+      - "Unto the white, upturnèd, wondering eyes"
+      - "Of mortals that fall back to gaze on him"
+      - "When he bestrides the lazy-puffing clouds"
+      - "And sails upon the bosom of the air."
+    m:
+      - "*(to himself)* She speaks. Oh, speak again, bright angel. You are as glorious as an angel tonight. You shine above me, like a winged messenger from heaven who makes mortal men fall on their backs to look up at the sky, watching the angel walking on the clouds and sailing on the air."
+
+  - sp: JULIET
+    o:
+      - "O Romeo, Romeo! Wherefore art thou Romeo?"
+      - "Deny thy father and refuse thy name."
+      - "Or, if thou wilt not, be but sworn my love,"
+      - "And I’ll no longer be a Capulet."
+    m:
+      - "*(not knowing ROMEO hears her)* Oh, Romeo, Romeo, why do you have to be Romeo? Forget about your father and change your name. Or else, if you won’t change your name, just swear you love me and I’ll stop being a Capulet."
+
+  - sp: ROMEO
+    o:
+      - "*(aside)* Shall I hear more, or shall I speak at this?"
+    m:
+      - "*(to himself)* Should I listen for more, or should I speak now?"
+
+  - sp: JULIET
+    o:
+      - "’Tis but thy name that is my enemy."
+      - "Thou art thyself, though not a Montague."
+      - "What’s Montague? It is nor hand, nor foot,"
+      - "Nor arm, nor face, nor any other part"
+      - "Belonging to a man. O, be some other name!"
+      - "What’s in a name? That which we call a rose"
+      - "By any other word would smell as sweet."
+      - "So Romeo would, were he not Romeo called,"
+      - "Retain that dear perfection which he owes"
+      - "Without that title. Romeo, doff thy name,"
+      - "And for that name, which is no part of thee"
+      - "Take all myself."
+    m:
+      - "*(still not knowing ROMEO hears her)* It’s only your name that’s my enemy. You’d still be yourself even if you stopped being a Montague. What’s a Montague anyway? It isn’t a hand, a foot, an arm, a face, or any other part of a man. Oh, be some other name! What does a name mean? The thing we call a rose would smell just as sweet if we called it by any other name. Romeo would be just as perfect even if he wasn’t called Romeo. Romeo, lose your name. Trade in your name—which really has nothing to do with you—and take all of me in exchange."
+
+  - sp: ROMEO
+    o:
+      - "  I take thee at thy word."
+      - "Call me but love, and I’ll be new baptized."
+      - "Henceforth I never will be Romeo."
+    m:
+      - "*(to JULIET)* I trust your words. Just call me your love, and I will take a new name. From now on I will never be Romeo again."
+
+  - sp: JULIET
+    o:
+      - "What man art thou that, thus bescreened in night,"
+      - "So stumblest on my counsel?"
+    m:
+      - "Who are you? Why do you hide in the darkness and listen to my private thoughts?"
+
+  - sp: ROMEO
+    o:
+      - "    By a name"
+      - "I know not how to tell thee who I am."
+      - "My name, dear saint, is hateful to myself"
+      - "Because it is an enemy to thee."
+      - "Had I it written, I would tear the word."
+    m:
+      - "I don’t know how to tell you who I am by telling you a name. I hate my name, dear saint, because my name is your enemy. If I had it written down, I would tear up the paper."
+
+  - sp: JULIET
+    o:
+      - "My ears have not yet drunk a hundred words"
+      - "Of that tongue’s uttering, yet I know the sound."
+      - "Art thou not Romeo, and a Montague?"
+    m:
+      - "I haven’t heard you say a hundred words yet, but I recognize the sound of your voice. Aren’t you Romeo? And aren’t you a Montague?"
+
+  - sp: ROMEO
+    o:
+      - "Neither, fair maid, if either thee dislike."
+    m:
+      - "I am neither of those things if you dislike them."
+
+  - sp: JULIET
+    o:
+      - "How camest thou hither, tell me, and wherefore?"
+      - "The orchard walls are high and hard to climb,"
+      - "And the place death, considering who thou art,"
+      - "If any of my kinsmen find thee here."
+    m:
+      - "Tell me, how did you get in here? And why did you come? The orchard walls are high, and it’s hard to climb over them. If any of my relatives find you here they’ll kill you because of who you are."
+
+  - sp: ROMEO
+    o:
+      - "With love’s light wings did I o’erperch these walls,"
+      - "For stony limits cannot hold love out,"
+      - "And what love can do, that dares love attempt."
+      - "Therefore thy kinsmen are no stop to me."
+    m:
+      - "I flew over these walls with the light wings of love. Stone walls can’t keep love out. Whatever a man in love can possibly do, his love will make him try to do it. Therefore your relatives are no obstacle."
+
+  - sp: JULIET
+    o:
+      - "If they do see thee they will murder thee."
+    m:
+      - "If they see you, they’ll murder you."
+
+  - sp: ROMEO
+    o:
+      - "Alack, there lies more peril in thine eye"
+      - "Than twenty of their swords. Look thou but sweet,"
+      - "And I am proof against their enmity."
+    m:
+      - "Alas, one angry look from you would be worse than twenty of your relatives with swords. Just look at me kindly, and I’m invincible against their hatred."
+
+  - sp: JULIET
+    o:
+      - "I would not for the world they saw thee here."
+    m:
+      - "I’d give anything to keep them from seeing you here."
+
+  - sp: ROMEO
+    o:
+      - "I have night’s cloak to hide me from their eyes,"
+      - "And but thou love me, let them find me here."
+      - "My life were better ended by their hate"
+      - "Than death proroguèd, wanting of thy love."
+    m:
+      - "The darkness will hide me from them. And if you don’t love me, let them find me here. I’d rather they killed me than have to live without your love."
+
+  - sp: JULIET
+    o:
+      - "By whose direction found’st thou out this place?"
+    m:
+      - "Who told you how to get here below my bedroom?"
+
+  - sp: ROMEO
+    o:
+      - "By love, that first did prompt me to inquire."
+      - "He lent me counsel and I lent him eyes."
+      - "I am no pilot. Yet, wert thou as far"
+      - "As that vast shore washed with the farthest sea,"
+      - "I would adventure for such merchandise."
+    m:
+      - "Love showed me the way—the same thing that made me look for you in the first place. Love told me what to do, and I let love borrow my eyes. I’m not a sailor, but if you were across the farthest sea, I would risk everything to gain you."
+
+  - sp: JULIET
+    o:
+      - "Thou know’st the mask of night is on my face,"
+      - "Else would a maiden blush bepaint my cheek"
+      - "For that which thou hast heard me speak tonight."
+      - "Fain would I dwell on form. Fain, fain deny"
+      - "What I have spoke. But farewell compliment!"
+      - "Dost thou love me? I know thou wilt say “ay,”"
+      - "And I will take thy word. Yet if thou swear’st"
+      - "Thou mayst prove false. At lovers’ perjuries,"
+      - "They say, Jove laughs. O gentle Romeo,"
+      - "If thou dost love, pronounce it faithfully."
+      - "Or if thou think’st I am too quickly won,"
+      - "I’ll frown and be perverse and say thee nay,"
+      - "So thou wilt woo. But else, not for the world."
+      - "In truth, fair Montague, I am too fond,"
+      - "And therefore thou mayst think my ’havior light."
+      - "But trust me, gentleman, I’ll prove more true"
+      - "Than those that have more coying to be strange."
+      - "I should have been more strange, I must confess,"
+      - "But that thou overheard’st, ere I was ’ware,"
+      - "My true love’s passion. Therefore pardon me,"
+      - "And not impute this yielding to light love,"
+      - "Which the dark night hath so discovered."
+    m:
+      - "You can’t see my face because it’s dark out. Otherwise, you’d see me blushing about the things you’ve heard me say tonight. I would be happy to keep up good manners and deny the things I said. But forget about good manners. Do you love me? I know you’ll say “yes,” and I’ll believe you. But if you swear you love me, you might turn out to be lying. They say Jove laughs when lovers lie to each other. Oh Romeo, if you really love me, say it truly. Or if you think it’s too easy and quick to win my heart, I’ll frown and play hard-to-get, as long as that will make you try to win me, but otherwise I wouldn’t act that way for anything. In truth, handsome Montague, I like you too much, so you may think my behavior is loose. But trust me, gentleman, I’ll prove myself more faithful than girls who act coy and play hard-to-get. I should have been more standoffish, I confess, but you overheard me talking about the love in my heart when I didn’t know you were there. So excuse me, and do not assume that because you made me love you so easily my love isn’t serious."
+
+  - sp: ROMEO
+    o:
+      - "Lady, by yonder blessèd moon I vow,"
+      - "That tips with silver all these fruit-tree tops—"
+    m:
+      - "Lady, I swear by the sacred moon above, the moon that paints the tops of fruit trees with silver—"
+
+  - sp: JULIET
+    o:
+      - "O, swear not by the moon, th’ inconstant moon,"
+      - "That monthly changes in her circle orb,"
+      - "Lest that thy love prove likewise variable."
+    m:
+      - "Don’t swear by the moon. The moon is always changing. Every month its position in the sky shifts. I don’t want you to turn out to be that inconsistent too."
+
+  - sp: ROMEO
+    o:
+      - "What shall I swear by?"
+    m:
+      - "What should I swear by?"
+
+  - sp: JULIET
+    o:
+      - "    Do not swear at all."
+      - "Or, if thou wilt, swear by thy gracious self,"
+      - "Which is the god of my idolatry,"
+      - "And I’ll believe thee."
+    m:
+      - "Don’t swear at all. But if you have to swear, swear by your wonderful self, which is the god I worship like an idol, and then I’ll believe you."
+
+  - sp: ROMEO
+    o:
+      - "    If my heart’s dear love—"
+    m:
+      - "If my heart’s dear love—"
+
+  - sp: JULIET
+    o:
+      - "Well, do not swear. Although I joy in thee,"
+      - "I have no joy of this contract tonight."
+      - "It is too rash, too unadvised, too sudden,"
+      - "Too like the lightning, which doth cease to be"
+      - "Ere one can say “It lightens.” Sweet, good night."
+      - "This bud of love, by summer’s ripening breath,"
+      - "May prove a beauteous flower when next we meet."
+      - "Good night, good night! As sweet repose and rest"
+      - "Come to thy heart as that within my breast."
+    m:
+      - "Well, don’t swear. Although you bring me joy, I can’t take joy in this exchange of promises tonight. It’s too crazy. We haven’t done enough thinking. It’s too sudden. It’s too much like lightning, which flashes and then disappears before you can say, “it’s lightning.” My sweet, good night. Our love, which right now is like a flower bud in the summer air, may turn out to be a beautiful flower by the next time we meet. I hope you enjoy the same sweet peace and rest I feel in my heart."
+
+  - sp: ROMEO
+    o:
+      - "O, wilt thou leave me so unsatisfied?"
+    m:
+      - "Oh, are you going to leave me so unsatisfied?"
+
+  - sp: JULIET
+    o:
+      - "What satisfaction canst thou have tonight?"
+    m:
+      - "What satisfaction could you possibly have tonight?"
+
+  - sp: ROMEO
+    o:
+      - "Th’ exchange of thy love’s faithful vow for mine."
+    m:
+      - "I would be satisfied if we made each other true promises of love."
+
+  - sp: JULIET
+    o:
+      - "I gave thee mine before thou didst request it,"
+      - "And yet I would it were to give again."
+    m:
+      - "I pledged my love to you before you asked me to. Yet I wish I could take that promise back, so I had it to give again."
+
+  - sp: ROMEO
+    o:
+      - "Wouldst thou withdraw it? For what purpose, love?"
+    m:
+      - "You would take it back? Why would you do that, my love?"
+
+  - sp: JULIET
+    o:
+      - "But to be frank, and give it thee again."
+      - "And yet I wish but for the thing I have."
+      - "My bounty is as boundless as the sea,"
+      - "My love as deep. The more I give to thee,"
+      - "The more I have, for both are infinite."
+    m:
+      - "Only to be generous and give it to you once more. But I’m wishing for something I already have. My generosity to you is as limitless as the sea, and my love is as deep. The more love I give you, the more I have. Both loves are infinite."
+
+  - os: "NURSE calls from within"
+    ms: "The NURSE calls from offstage."
+
+  - o:
+      - "I hear some noise within. Dear love, adieu.—"
+      - "Anon, good Nurse!—Sweet Montague, be true."
+      - "Stay but a little. I will come again."
+    m:
+      - "I hear a noise inside. Dear love, goodbye—Just a minute, good Nurse. Sweet Montague, be true. Stay here for a moment. I’ll come back."
+
+  - os: "Exit JULIET, above"
+    ms: "JULIET exits."
+
+  - sp: ROMEO
+    o:
+      - "O blessèd, blessèd night! I am afeard,"
+      - "Being in night, all this is but a dream,"
+      - "Too flattering sweet to be substantial."
+    m:
+      - "Oh, blessed, blessed night! Because it’s dark out, I’m afraid all this is just a dream, too sweet to be real."
+
+  - os: "Enter JULIET, above"
+    ms: "JULIET enters on her balcony."
+
+  - sp: JULIET
+    o:
+      - "Three words, dear Romeo, and good night indeed."
+      - "If that thy bent of love be honorable,"
+      - "Thy purpose marriage, send me word tomorrow"
+      - "By one that I’ll procure to come to thee"
+      - "Where and what time thou wilt perform the rite,"
+      - "And all my fortunes at thy foot I’ll lay"
+      - "And follow thee my lord throughout the world."
+    m:
+      - "Three words, dear Romeo, and then it’s good night for real. If your intentions as a lover are truly honorable and you want to marry me, send me word tomorrow. I’ll send a messenger to you, and you can pass on a message telling me where and when we’ll be married. I’ll lay all my fortunes at your feet and follow you, my lord, all over the world."
+
+  - sp: NURSE
+    o:
+      - "*(from within)* Madam!"
+    m:
+      - "*(offstage)* Madam!"
+
+  - sp: JULIET
+    o:
+      - "I come, anon.—But if thou mean’st not well,"
+      - "I do beseech thee—"
+    m:
+      - "*(to the NURSE)* I’ll be right there! *(to ROMEO)* But if you don’t have honorable intentions, I beg you—"
+
+  - sp: NURSE
+    o:
+      - "*(from within)* Madam!"
+    m:
+      - "*(offstage)* Madam!"
+
+  - sp: JULIET
+    o:
+      - "By and by, I come.—"
+      - "To cease thy strife and leave me to my grief."
+      - "Tomorrow will I send."
+    m:
+      - "Alright, I’m coming!—I beg you to stop trying for me and leave me to my sadness. Tomorrow I’ll send the messenger."
+
+  - sp: ROMEO
+    o:
+      - "So thrive my soul—"
+    m:
+      - "My soul depends on it—"
+
+  - sp: JULIET
+    o:
+      - "A thousand times good night!"
+    m:
+      - "A thousand times good night."
+
+  - os: "Exit JULIET, above"
+    ms: "JULIET exits."
+
+  - sp: ROMEO
+    o:
+      - "A thousand times the worse to want thy light."
+      - "Love goes toward love as schoolboys from their books,"
+      - "But love from love, toward school with heavy looks."
+    m:
+      - "Leaving you is a thousand times worse than being near you. A lover goes toward his beloved as enthusiastically as a schoolboy leaving his books, but when he leaves his girlfriend, he feels as miserable as the schoolboy on his way to school."
+
+  - os: "Moves to exit Reenter JULIET, above"
+    ms: "ROMEO starts to leave. JULIET returns, on her balcony."
+
+  - sp: JULIET
+    o:
+      - "Hist! Romeo, hist!—Oh, for a falconer’s voice,"
+      - "To lure this tassel-gentle back again!"
+      - "Bondage is hoarse, and may not speak aloud,"
+      - "Else would I tear the cave where Echo lies,"
+      - "And make her airy tongue more hoarse than mine,"
+      - "With repetition of “My Romeo!”"
+    m:
+      - "Hist, Romeo! Hist! Oh, I wish I could make a falconer’s call, so I could bring my little falcon back again. I’m trapped in my family’s house, so I must be quiet. Otherwise I would rip open the cave where Echo sleeps. I would make her repeat his name until her voice grew more hoarse than mine by repeating, “My Romeo!”"
+
+  - sp: ROMEO
+    o:
+      - "It is my soul that calls upon my name."
+      - "How silver-sweet sound lovers’ tongues by night,"
+      - "Like softest music to attending ears!"
+    m:
+      - "My soul is calling out my name. The sound of lovers calling each others names through the night is silver-sweet. It’s the sweetest sound a lover ever hears."
+
+  - sp: JULIET
+    o:
+      - "Romeo!"
+    m:
+      - "Romeo!"
+
+  - sp: ROMEO
+    o:
+      - "  My nyas?"
+    m:
+      - "My baby hawk?"
+
+  - sp: JULIET
+    o:
+      - "  What o’clock tomorrow"
+      - "Shall I send to thee?"
+    m:
+      - "What time tomorrow should I send a messenger to you?"
+
+  - sp: ROMEO
+    o:
+      - "  By the hour of nine."
+    m:
+      - "By nine o’clock."
+
+  - sp: JULIET
+    o:
+      - "I will not fail. ’Tis twenty year till then."
+      - "I have forgot why I did call thee back."
+    m:
+      - "I won’t fail. From now until then seems like twenty years. I have forgotten why I called you back."
+
+  - sp: ROMEO
+    o:
+      - "Let me stand here till thou remember it."
+    m:
+      - "Let me stand here until you remember your reason."
+
+  - sp: JULIET
+    o:
+      - "I shall forget, to have thee still stand there,"
+      - "Remembering how I love thy company."
+    m:
+      - "I’ll forget it, and you’ll have to stand there forever. I’ll only remember how much I love your company."
+
+  - sp: ROMEO
+    o:
+      - "And I’ll still stay, to have thee still forget,"
+      - "Forgetting any other home but this."
+    m:
+      - "I’ll keep standing here, even if you keep forgetting. I’ll forget that I have any home besides this spot right here."
+
+  - sp: JULIET
+    o:
+      - "’Tis almost morning. I would have thee gone."
+      - "And yet no further than a wanton’s bird,"
+      - "That lets it hop a little from his hand"
+      - "Like a poor prisoner in his twisted gyves,"
+      - "And with a silken thread plucks it back again,"
+      - "So loving-jealous of his liberty."
+    m:
+      - "It’s almost morning. I want to make you go, but I’d only let you go as far as a spoiled child lets his pet bird go. He lets the bird hop a little from his hand and then yanks him back by a string."
+
+  - sp: ROMEO
+    o:
+      - "I would I were thy bird."
+    m:
+      - "I wish I was your bird."
+
+  - sp: JULIET
+    o:
+      - "    Sweet, so would I."
+      - "Yet I should kill thee with much cherishing."
+      - "Good night, good night! Parting is such sweet sorrow"
+      - "That I shall say good night till it be morrow."
+    m:
+      - "My sweet, so do I. But I would kill you by petting you too much. Good night, good night. Parting is such sweet sorrow that I’ll say good night until tonight becomes tomorrow."
+
+  - os: "Exit JULIET, above"
+    ms: "JULIET exits."
+
+  - sp: ROMEO
+    o:
+      - "Sleep dwell upon thine eyes, peace in thy breast."
+      - "Would I were sleep and peace, so sweet to rest."
+      - "Hence will I to my ghostly friar’s close cell,"
+      - "His help to crave and my dear hap to tell."
+    m:
+      - "I hope you sleep peacefully. I wish I were Sleep and Peace, so I could spend the night with you. Now I’ll go see my priest, to ask for his help and tell him about my good luck."
+
+  - os: "Exit"
+    ms: "He exits."

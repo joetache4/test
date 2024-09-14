@@ -1,0 +1,222 @@
+play: Henry V
+title: Act 1, Scene 1
+group: 1
+order: 1
+text:
+  - os: "Enter the Archbishop of CANTERBURY and the Bishop of ELY"
+    ms: "The Archbishop of CANTERBURY and the Bishop of ELY enter."
+
+  - sp: CANTERBURY
+    o:
+      - "My lord, I’ll tell you that self bill is urged"
+      - "Which in th’ eleventh year of the last king’s reign"
+      - "Was like, and had indeed against us passed"
+      - "But that the scambling and unquiet time"
+      - "Did push it out of farther question."
+    m:
+      - "My lord, this bill that’s being proposed is the same one that was proposed in the eleventh year of old King Henry’s reign. Everyone thought it would pass then, and it probably would have had it not been for the great civil unrest and uncertainty of the time, which required the matter to be put off."
+
+  - sp: ELY
+    o:
+      - "But how, my lord, shall we resist it now?"
+    m:
+      - "But how will we keep it from being passed now, my lord?"
+
+  - sp: CANTERBURY
+    o:
+      - "It must be thought on. If it pass against us,"
+      - "We lose the better half of our possession,"
+      - "For all the temporal lands which men devout"
+      - "By testament have given to the Church"
+      - "Would they strip from us, being valued thus:"
+      - "“As much as would maintain, to the King’s honor,"
+      - "Full fifteen earls and fifteen hundred knights,"
+      - "Six thousand and two hundred good esquires;"
+      - "And, to relief of lazars and weak age"
+      - "Of indigent faint souls past corporal toil,"
+      - "A hundred almshouses right well supplied;"
+      - "And to the coffers of the King besides,"
+      - "A thousand pounds by th’ year.” Thus runs the bill."
+    m:
+      - "We have to think about that. If it does pass, the Church will lose more than half of what it possesses, because the bill would strip us of enough real estate left to the church by wealthy, pious men in their wills to support fifteen earls and fifteen hundred knights, six thousand two hundred squires, and a hundred well-supplied almshouses for the relief of lepers, old-age pensioners, the poor, and those too weak or sick to work. Add to that a yearly sum of a thousand pounds to go directly into the king’s coffers. That’s what the bill says."
+
+  - sp: ELY
+    o:
+      - "This would drink deep."
+    m:
+      - "That would be quite a drain."
+
+  - sp: CANTERBURY
+    o:
+      - "’Twould drink the cup and all."
+    m:
+      - "It would drain us dry."
+
+  - sp: ELY
+    o:
+      - "But what prevention?"
+    m:
+      - "But what can be done to prevent it?"
+
+  - sp: CANTERBURY
+    o:
+      - "The king is full of grace and fair regard."
+    m:
+      - "The king is virtuous and kind."
+
+  - sp: ELY
+    o:
+      - "And a true lover of the holy Church."
+    m:
+      - "And a true lover of the holy Church."
+
+  - sp: CANTERBURY
+    o:
+      - "The courses of his youth promised it not."
+      - "The breath no sooner left his father’s body"
+      - "But that his wildness, mortified in him,"
+      - "Seemed to die too. Yea, at that very moment"
+      - "Consideration like an angel came"
+      - "And whipped th’ offending Adam out of him,"
+      - "Leaving his body as a paradise"
+      - "T’ envelop and contain celestial spirits."
+      - "Never was such a sudden scholar made,"
+      - "Never came reformation in a flood"
+      - "With such a heady currance scouring faults,"
+      - "Nor never Hydra-headed willfulness"
+      - "So soon did lose his seat, and all at once,"
+      - "As in this king."
+    m:
+      - "You wouldn’t have expected it based on how he acted as a youth. But no sooner had his father stopped breathing than the prince’s wildness died too. Really, at that precise moment he gained a capacity for reflection, which appeared like an angel to chase away the sinful part of him, leaving his body like a paradise, fit to house only lofty thoughts and feelings. You never saw anyone become serious and studious so quickly. You never saw such a total transformation, as though a wild river, rushing through, had swept away his faults. Such a collection of stubborn character flaws was never banished from one place so suddenly as in the case of this king."
+
+  - sp: ELY
+    o:
+      - "We are blessèd in the change."
+    m:
+      - "We are fortunate in the change."
+
+  - sp: CANTERBURY
+    o:
+      - "Hear him but reason in divinity"
+      - "And, all-admiring, with an inward wish,"
+      - "You would desire the King were made a prelate."
+      - "Hear him debate of commonwealth affairs,"
+      - "You would say it hath been all in all his study."
+      - "List his discourse of war, and you shall hear"
+      - "A fearful battle rendered you in music."
+      - "Turn him to any cause of policy,"
+      - "The Gordian knot of it he will unloose"
+      - "Familiar as his garter; that, when he speaks,"
+      - "The air, a chartered libertine, is still,"
+      - "And the mute wonder lurketh in men’s ears"
+      - "To steal his sweet and honeyed sentences;"
+      - "So that the art and practic part of life"
+      - "Must be the mistress to this theoric;"
+      - "Which is a wonder how his Grace should glean it,"
+      - "Since his addiction was to courses vain,"
+      - "His companies unlettered, rude, and shallow,"
+      - "His hours filled up with riots, banquets, sports,"
+      - "And never noted in him any study,"
+      - "Any retirement, any sequestration"
+      - "From open haunts and popularity."
+    m:
+      - "If you just listen to him discuss theological matters, you’ll find yourself thinking privately what an excellent bishop he would make. Hear him debate matters of domestic policy, and you’d swear he had made them his constant study. Listen to him talk about war, and you’ll hear elegant and thrilling accounts of the battles. Bring up any political topic, and he’ll untangle it as easily as if it were his own garter. And the result is that when he speaks, the very air—which is free to go where it likes—stops dead, and men stand in silent wonder, hoping to catch the benefit of his gorgeous utterances. There must be skill and experience behind all this abstract thought, but it’s anyone’s guess how he obtained it, since in his youth he preferred shallow pursuits, with uneducated, crude and superficial companions. He spent his time drunken, overfed, and constantly seeking out entertainment, with no inclination for learning or quiet contemplation, nor any limit to his tolerance for public haunts and crowds."
+
+  - sp: ELY
+    o:
+      - "The strawberry grows underneath the nettle,"
+      - "And wholesome berries thrive and ripen best"
+      - "Neighbored by fruit of baser quality;"
+      - "And so the Prince obscured his contemplation"
+      - "Under the veil of wildness, which, no doubt,"
+      - "Grew like the summer grass, fastest by night,"
+      - "Unseen yet crescive in his faculty."
+    m:
+      - "Strawberries grow underneath nettle plants, and berries grow best when they’re planted next to inferior fruit. In the same way, the prince hid his serious side under the guise of wild behavior. Just like summer grass, which grows fastest during the night, this sober quality was able to grow and thrive all the better for being undetected."
+
+  - sp: CANTERBURY
+    o:
+      - "It must be so, for miracles are ceased,"
+      - "And therefore we must needs admit the means"
+      - "How things are perfected."
+    m:
+      - "That must be it, because the age of miracles is passed, and we have to find reasonable explanations for why these things happen."
+
+  - sp: ELY
+    o:
+      - "But, my good lord,"
+      - "How now for mitigation of this bill"
+      - "Urged by the Commons? Doth his Majesty"
+      - "Incline to it or no?"
+    m:
+      - "But tell me, my lord: as to the softening of this bill proposed by the House of Commons, does his Majesty favor it or not?"
+
+  - sp: CANTERBURY
+    o:
+      - "He seems indifferent,"
+      - "Or rather swaying more upon our part"
+      - "Than cherishing th’ exhibitors against us;"
+      - "For I have made an offer to his Majesty—"
+      - "Upon our spiritual convocation"
+      - "And in regard of causes now in hand,"
+      - "Which I have opened to his Grace at large,"
+      - "As touching France—to give a greater sum"
+      - "Than ever at one time the clergy yet"
+      - "Did to his predecessors part withal."
+    m:
+      - "He seems neutral, perhaps leaning a little more toward our side than that of our opponents—since I’ve made his Majesty an offer, following a meeting with our fellow bishops. The offer regards certain matters having to do with France that his Grace and I have been discussing. My offer would involve us giving him a greater sum than the clergy ever gave at one time to any of his predecessors."
+
+  - sp: ELY
+    o:
+      - "How did this offer seem received, my lord?"
+    m:
+      - "How did he take the offer, my lord?"
+
+  - sp: CANTERBURY
+    o:
+      - "With good acceptance of his Majesty—"
+      - "Save that there was not time enough to hear,"
+      - "As I perceived his Grace would fain have done,"
+      - "The severals and unhidden passages"
+      - "Of his true titles to some certain dukedoms,"
+      - "And generally to the crown and seat of France,"
+      - "Derived from Edward, his great-grandfather."
+    m:
+      - "Favorably, except that there wasn’t enough time for his Grace to hear, as I sensed he would have liked to, the details about how he is rightfully entitled to certain dukedoms in France, and to the throne of France in general, through clear lines of descent originating with his great-grandfather, Edward III."
+
+  - sp: ELY
+    o:
+      - "What was th’ impediment that broke this off?"
+    m:
+      - "What kept you from telling him this?"
+
+  - sp: CANTERBURY
+    o:
+      - "The French ambassador upon that instant"
+      - "Craved audience. And the hour, I think, is come"
+      - "To give him hearing. Is it four o’clock?"
+    m:
+      - "The French ambassador arrived at that moment and asked to see the king. And, in fact, I think they’re meeting together right now. Is it four o’clock?"
+
+  - sp: ELY
+    o:
+      - "It is."
+    m:
+      - "It is."
+
+  - sp: CANTERBURY
+    o:
+      - "Then go we in to know his embassy,"
+      - "Which I could with a ready guess declare"
+      - "Before the Frenchman speak a word of it."
+    m:
+      - "Then let’s go in and hear what he has to say—though I think I can guess before the Frenchman has uttered a word."
+
+  - sp: ELY
+    o:
+      - "I’ll wait upon you, and I long to hear it."
+    m:
+      - "I’ll accompany you. I’m also eager to hear it."
+
+  - os: "Exeunt"
+    ms: "They exit."

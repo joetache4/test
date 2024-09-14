@@ -1,0 +1,57 @@
+play: Henry V
+title: Act 3, Prologue
+group: 3
+order: 8
+text:
+  - os: "Enter CHORUS"
+    ms: "The CHORUS enters."
+
+  - sp: CHORUS
+    o:
+      - "Thus with imagined wing our swift scene flies"
+      - "In motion of no less celerity"
+      - "Than that of thought. Suppose that you have seen"
+      - "The well-appointed king at Hampton pier"
+      - "Embark his royalty, and his brave fleet"
+      - "With silken streamers the young Phoebus fanning."
+      - "Play with your fancies and in them behold,"
+      - "Upon the hempen tackle, shipboys climbing."
+      - "Hear the shrill whistle, which doth order give"
+      - "To sounds confused. Behold the threaden sails,"
+      - "Borne with th’ invisible and creeping wind,"
+      - "Draw the huge bottoms through the furrowed sea,"
+      - "Breasting the lofty surge. Oh, do but think"
+      - "You stand upon the rivage and behold"
+      - "A city on th’ inconstant billows dancing,"
+      - "For so appears this fleet majestical"
+      - "Holding due course to Harfleur. Follow, follow!"
+      - "Grapple your minds to sternage of this navy"
+      - "And leave your England, as dead midnight still,"
+      - "Guarded with grandsires, babies, and old women,"
+      - "Either past or not arrived to pith and puissance,"
+      - "For who is he whose chin is but enriched"
+      - "With one appearing hair that will not follow"
+      - "These culled and choice-drawn cavaliers to France?"
+      - "Work, work your thoughts, and therein see a siege."
+      - "Behold the ordnance on their carriages,"
+      - "With fatal mouths gaping on girded Harfleur."
+      - "Suppose th’ Ambassador from the French comes back,"
+      - "Tells Harry that the king doth offer him"
+      - "Katherine his daughter and with her, to dowry,"
+      - "Some petty and unprofitable dukedoms."
+      - "The offer likes not, and the nimble gunner"
+      - "With linstock now the devilish cannon touches,"
+    m:
+      - "And so, on the wings of imagination and at the speed of thought, our scene flies swiftly on. Imagine that you have seen the well-equipped king at Dover pier set sail in full royal regalia and his noble fleet fan the rising sun with its silken banners. Give your imagination free rein. Picture the cabin boys climbing around the rigging. Hear the shrill whistle that brings order to the hubbub. Picture the linen sails driven by the invisible and subtle wind as they pull the vast hulls through the wrinkled sea, breasting the high waves. Pretend that you’re standing on the shore, watching a city dance on the shifting waves, and you’ll have an idea of the look of this majestic fleet as it holds a straight course for Harfleur. Follow it, follow it! Hitch your minds to this navy’s sterns and leave your England, silent as midnight, guarded by grandfathers, babies, and old women. For what male subject is there old enough for his chin to be graced with even one hair who doesn’t want to follow this select band of hand-picked knights to France? Once there, make your thoughts work harder, and witness a siege. Take in the wheeled canons with their deadly gaping mouths trained on the walled city of Harfleur. Imagine the French ambassador returning to inform Harry that the king offers him his daughter, Katherine, with some insignificant, unprofitable dukedoms as her dowry. The offer doesn’t go over well, and the nimble gunner now moves to ignite the devilish canon."
+
+  - os: "Alarum, and chambers go off"
+    ms: "Sounds of battle and gunfire from offstage."
+
+  - o:
+      - "And down goes all before them. Still be kind"
+      - "And eke out our performance with your mind."
+    m:
+      - "Down goes everything in their path. Indulge us further and supplement our performance with your own imaginings."
+
+  - os: "Exit"
+    ms: "The CHORUS exits."

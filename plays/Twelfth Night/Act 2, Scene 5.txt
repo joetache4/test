@@ -1,0 +1,578 @@
+play: Twelfth Night
+title: Act 2, Scene 5
+group: 2
+order: 9
+text:
+  - os: "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN"
+    ms: "SIR TOBY BELCH, SIR ANDREW, and FABIAN enter."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Come thy ways, Signior Fabian."
+    m:
+      - "Come along with us, Signor Fabian."
+
+  - sp: FABIAN
+    o:
+      - "Nay, I’ll come. If I lose a scruple of this sport, let me be boiled to death with melancholy."
+    m:
+      - "I’m coming, don’t worry. If I miss this, let me be boiled alive."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Wouldst thou not be glad to have the niggardly rascally sheep-biter come by some notable shame?"
+    m:
+      - "Won’t you be glad to see that rascal dog humiliated?"
+
+  - sp: FABIAN
+    o:
+      - "I would exult, man. You know, he brought me out o’ favor with my lady about a bear-baiting here."
+    m:
+      - "I’ll be thrilled. You know, he got me in trouble with the lady of the house once when I arranged a bear-baiting here."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "To anger him, we’ll have the bear again, and we will fool him black and blue. Shall we not, Sir Andrew?"
+    m:
+      - "We’ll have another bear-baiting just to make him angry, and we’ll mock him till he’s black and blue. Won’t we, Sir Andrew?"
+
+  - sp: SIR ANDREW
+    o:
+      - "An we do not, it is pity of our lives."
+    m:
+      - "If we don’t, it’ll be the biggest disappointment of our lives."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Here comes the little villain."
+    m:
+      - "Here comes the little villain herself."
+
+  - os: "Enter MARIA"
+    ms: "MARIA enters."
+
+  - o:
+      - "How now, my metal of India?"
+    m:
+      - "How are you, my golden girl?"
+
+  - sp: MARIA
+    o:
+      - "Get you all three into the boxtree. Malvolio’s coming down this walk. He has been yonder i’ the sun practising behavior to his own shadow this half hour. Observe him, for the love of mockery, for I know this letter will make a contemplative idiot of him. Close, in the name of jesting!"
+    m:
+      - "Hide behind the boxwood hedge, all three of you. Malvolio’s coming down the path. He’s been over there practicing how to act for the past half hour. Watch him carefully if you want to have some fun, guys. This letter’s going to turn him into a starry-eyed idiot. Now hide, for God’s sake!"
+
+  - os: "They hide"
+    ms: "They all hide."
+
+  - o:
+      - "Lie thou there (throwing down a letter), for here comes the trout that must be caught with tickling."
+    m:
+      - "Now, you lie there on the path. *(MARIA throws down a letter)* Here comes the fish that’s going to gobble up our bait."
+
+  - os: "Exit"
+    ms: "MARIA exits."
+
+  - os: "Enter MALVOLIO"
+    ms: "MALVOLIO enters."
+
+  - sp: MALVOLIO
+    o:
+      - "’Tis but fortune, all is fortune. Maria once told me she did affect me, and I have heard herself come thus near, that, should she fancy, it should be one of my complexion. Besides, she uses me with a more exalted respect than anyone else that follows her. What should I think on ’t?"
+    m:
+      - "It’s all luck. Everything’s luck. Maria once told me Olivia was fond of me. I’ve almost heard Olivia say that herself. She said if she were interested in someone, it would be someone who looked like me. Besides, she treats me more respectfully than the other servants. What’s the obvious conclusion from that?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Here’s an overweening rogue!"
+    m:
+      - "*(whispering)* What an egomaniac!"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* O, peace! Contemplation makes a rare turkey-cock of him. How he jets under his advanced plumes!"
+    m:
+      - "*(whispering)* Shh! When he’s alone with his thoughts, he’s even more like a haughty peacock. Watch him strut!"
+
+  - sp: SIR ANDREW
+    o:
+      - "*(aside)* ’Slight, I could so beat the rogue!"
+    m:
+      - "*(whispering)* I swear, I’d like to beat the jerk so hard!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Peace, I say."
+    m:
+      - "*(whispering)* Be quiet!"
+
+  - sp: MALVOLIO
+    o:
+      - "To be Count Malvolio!"
+    m:
+      - "Just think, I could be Count Malvolio!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Ah, rogue!"
+    m:
+      - "*(whispering)* Ah, what a jerk!"
+
+  - sp: SIR ANDREW
+    o:
+      - "*(aside)* Pistol him, pistol him."
+    m:
+      - "*(whispering)* Shoot him, just shoot him."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Peace, peace!"
+    m:
+      - "*(whispering)* Shh, shh!"
+
+  - sp: MALVOLIO
+    o:
+      - "There is example for ’t. The lady of the Strachy married the yeoman of the wardrobe."
+    m:
+      - "After all, it wouldn’t be the first time that kind of thing has happened. Lady Strachy married her wardrobe manager."
+
+  - sp: SIR ANDREW
+    o:
+      - "*(aside)* Fie on him, Jezebel!"
+    m:
+      - "*(whispering)* Damn him, the arrogant fool!"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* O, peace! Now he’s deeply in. Look how imagination blows him."
+    m:
+      - "*(whispering)* Shh! We’ve got him right where we want him. He’s on a big ego trip."
+
+  - sp: MALVOLIO
+    o:
+      - "Having been three months married to her, sitting in my state—"
+    m:
+      - "Just think of me, having been married to her for three months, sitting around majestically—"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Oh, for a stone-bow, to hit him in the eye!"
+    m:
+      - "*(whispering)* If only I had a slingshot so I could hit him in the eye!"
+
+  - sp: MALVOLIO
+    o:
+      - "Calling my officers about me, in my branched velvet gown, having come from a daybed, where I have left Olivia sleeping—"
+    m:
+      - "Calling my servants together, wearing an embroidered robe, having just come from a couch where I’ve left Olivia sleeping—"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Fire and brimstone!"
+    m:
+      - "*(whispering)* That does it!"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* O, peace, peace!"
+    m:
+      - "*(whispering)* Oh, be quiet, be quiet!"
+
+  - sp: MALVOLIO
+    o:
+      - "And then to have the humor of state, and after a demure travel of regard, telling them I know my place as I would they should do theirs, to ask for my kinsman Toby—"
+    m:
+      - "Then I’d put on a lofty and exalted expression. I’d look around the room calmly, then tell them that I know my place, and I’d like them to know theirs. Then I’d tell them to go find my cousin Toby—"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Bolts and shackles!"
+    m:
+      - "*(whispering)* That really does it!"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* O peace, peace, peace! Now, now."
+    m:
+      - "*(whispering)* Oh, quiet, quiet! Please, please."
+
+  - sp: MALVOLIO
+    o:
+      - "Seven of my people, with an obedient start, make out for him. I frown the while, and perchance wind up watch, or play with my—some rich jewel. Toby approaches, curtsies there to me—"
+    m:
+      - "I’d send seven of my servants to go get him. While I waited, I’d frown impatiently, and perhaps wind my watch, or play with my—with some expensive piece of jewelry I happen to be wearing. Toby would approach me. He’d bow to me—"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Shall this fellow live?"
+    m:
+      - "*(whispering)* Are we going to let this guy live?"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* Though our silence be drawn from us with cars, yet peace."
+    m:
+      - "*(whispering)* Yes, we have to be quiet, even if it’s torture."
+
+  - sp: MALVOLIO
+    o:
+      - "I extend my hand to him thus, quenching my familiar smile with an austere regard of control—"
+    m:
+      - "I reach out my hand to him like this, giving him a stern look instead of my usual friendly smile—"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* And does not Toby take you a blow o’ the lips then?"
+    m:
+      - "*(whispering)* And then doesn’t Toby punch you in the mouth?"
+
+  - sp: MALVOLIO
+    o:
+      - "Saying, “Cousin Toby, my fortunes having cast me on your niece give me this prerogative of speech—”"
+    m:
+      - "And I’d say to him, “Cousin Toby, since I’ve been lucky enough to marry your niece, I have the right to say a few things to you—”"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* What, what?"
+    m:
+      - "*(whispering)* Oh yeah, like what?"
+
+  - sp: MALVOLIO
+    o:
+      - "“You must amend your drunkenness.”"
+    m:
+      - "“You must stop being such a drunk.”"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Out, scab!"
+    m:
+      - "*(whispering)* Get out of here, you scab!"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* Nay, patience, or we break the sinews of our plot."
+    m:
+      - "*(whispering)* No, be quiet, or we’ll screw up the joke."
+
+  - sp: MALVOLIO
+    o:
+      - "“Besides, you waste the treasure of your time with a foolish knight—”"
+    m:
+      - "“And you’re wasting your time with that foolish knight—”"
+
+  - sp: SIR ANDREW
+    o:
+      - "*(aside)* That’s me, I warrant you."
+    m:
+      - "*(whispering)* That’s me, I bet."
+
+  - sp: MALVOLIO
+    o:
+      - "“One Sir Andrew—”"
+    m:
+      - "“That Sir Andrew—”"
+
+  - sp: SIR ANDREW
+    o:
+      - "*(aside)* I knew ’twas I, for many do call me fool."
+    m:
+      - "*(whispering)* I knew he was talking about me. A lot of people call me foolish."
+
+  - sp: MALVOLIO
+    o:
+      - "*(seeing the letter)* What employment have we here?"
+    m:
+      - "*(seeing the letter)* What’s this?"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* Now is the woodcock near the gin."
+    m:
+      - "*(whispering)* He’s taking the bait."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* O, peace! And the spirit of humors intimate reading aloud to him!"
+    m:
+      - "*(whispering)* Shhh! I hope he reads it out loud, to make it funnier!"
+
+  - sp: MALVOLIO
+    o:
+      - "(picking up the letter) By my life, this is my lady’s hand these be her very C’s, her U’s and her T’s and thus makes she her great P’s. It is, in contempt of question, her hand."
+    m:
+      - "*(picking up the letter)* My goodness, this is my lady’s handwriting! These are her C’s, her U’s and her T’s, and that’s how she makes her big P’s. It’s definitely her handwriting, no doubt about it."
+
+  - sp: SIR ANDREW
+    o:
+      - "*(aside)* Her C’s, her U’s and her T’s. Why that?"
+    m:
+      - "*(whispering)* Her C’s, her U’s, and her T’s. Why focus on that?"
+
+  - sp: MALVOLIO
+    o:
+      - "*(reads)* “To the unknown beloved, this, and my good wishes”—Her very phrases! By your leave, wax. Soft! And the impressure her Lucrece, with which she uses to seal. ’Tis my lady. To whom should this be?"
+    m:
+      - "*(reads)* To my dear beloved who doesn’t know I love him, I send you this letter with all my heart“—That’s exactly how she talks! Excuse me, sealing wax. *(he breaks the seal)* Wait! This is the stamp my lady seals her letters with—it has a picture of Lucrece on it. This letter is from Olivia. Who is this written to?"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* This wins him, liver and all."
+    m:
+      - "*(whispering)* This’ll get him."
+
+  - sp: MALVOLIO
+    o:
+      - "*(reads)*"
+      - "”Jove knows I love,"
+      - "But who?"
+      - "Lips, do not move;"
+      - "No man must know.“"
+    m:
+      - "*(he reads)*"
+      - "”God knows I love someone."
+      - "But who?"
+      - "I can’t let my lips say his name;"
+      - "No man must know.“"
+
+  - sp: MALVOLIO
+    o:
+      - "”No man must know.“ What follows? The numbers altered. ”No man must know.“ If this should be thee, Malvolio?"
+    m:
+      - "”No man must know.“ What comes after that? Look, the meter changes in her poem. ”No man must know.“ What if this someone were you, Malvolio?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Marry, hang thee, brock!"
+    m:
+      - "*(whispering)* Go hang yourself, you stinking badger!"
+
+  - sp: MALVOLIO
+    o:
+      - "*(reads)*"
+      - "”I may command where I adore,"
+      - "But silence, like a Lucrece knife,"
+      - "With bloodless stroke my heart doth gore;"
+      - "M.O.A.I. doth sway my life.“"
+    m:
+      - "*(reading)*"
+      - "”I may order the one I love."
+      - "But silence, like a knife, cuts open my heart"
+      - "With strokes that draw no blood."
+      - "M.O.A.I. rules my life.“"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* A fustian riddle!"
+    m:
+      - "*(whispering)* What a pretentious riddle!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Excellent wench, say I."
+    m:
+      - "*(whispering)* That Maria has outdone herself!"
+
+  - sp: MALVOLIO
+    o:
+      - "”M.O.A.I. doth sway my life.“ Nay, but first, let me see, let me see, let me see."
+    m:
+      - "”M.O.A.I. rules my life.“ Hmm, let me see, let me see, let me see."
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* What dish o’ poison has she dressed him!"
+    m:
+      - "*(whispering)* What a dish of poison she’s mixed for him!"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* And with what wing the staniel checks at it!"
+    m:
+      - "*(whispering)* And look how willingly he’s taking the bait."
+
+  - sp: MALVOLIO
+    o:
+      - "”I may command where I adore.“ Why, she may command me. I serve her, she is my lady. Why, this is evident to any formal capacity. There is no obstruction in this. And the end—what should that alphabetical position portend? If I could make that resemble something in me—Softly! M.O.A.I.—"
+    m:
+      - "”I may command the one I love.“ Well, she commands me. I’m her servant. She’s my boss. Why, anyone can see what this means. There’s no ambiguity here. But the end, what do those letters mean? If only I could somehow relate them to me! Hmm. M.O.A.I.—"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* O, ay, make up that.—He is now at a cold scent."
+    m:
+      - "*(whispering)* Oh, bad dog.—He’s losing the scent!"
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* Sowter will cry upon ’t for all this, though it be as rank as a fox."
+    m:
+      - "*(whispering)* He’ll find it again, no matter how much it stinks."
+
+  - sp: MALVOLIO
+    o:
+      - "”M“—Malvolio. ”M“—why, that begins my name."
+    m:
+      - "”M“—Malvolio. ”M“—why, that’s the first letter in my name."
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* Did not I say he would work it out? The cur is excellent at faults."
+    m:
+      - "*(whispering)* Didn’t I tell you he’d figure it out? This dog’s excellent at following false leads."
+
+  - sp: MALVOLIO
+    o:
+      - "”M.“ But then there is no consonancy in the sequel that suffers under probation ”A“ should follow but ”O“ does."
+    m:
+      - "”M.“ But then the next letter isn’t the same. ”A“ should be next, but instead ”O“ comes next."
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* And ”O“ shall end, I hope."
+    m:
+      - "*(whispering)* And an ”O“ like a noose will end this, I hope."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "*(aside)* Ay, or I’ll cudgel him and make him cry ”O!“"
+    m:
+      - "*(whispering)* Yeah, or I’ll beat him up and make him yell ”Oh!“"
+
+  - sp: MALVOLIO
+    o:
+      - "And then ”I“ comes behind."
+    m:
+      - "And then the ”I“ comes next."
+
+  - sp: FABIAN
+    o:
+      - "*(aside)* Ay, an you had any eye behind you, you might see more detraction at your heels than fortunes before you."
+    m:
+      - "*(whispering)* If you had an I in the back of your head, you’d see trouble behind you."
+
+  - sp: MALVOLIO
+    o:
+      - "”M.O.A.I.“ This simulation is not as the former, and yet to crush this a little, it would bow to me, for every one of these letters are in my name. Soft, here follows prose."
+      - "*(reads)*"
+      - "”If this fall into thy hand, revolve. In my stars I am above thee, but be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon ’em. Thy Fates open their hands. Let thy blood and spirit embrace them. And, to inure thyself to what thou art like to be, cast thy humble slough and appear fresh. Be opposite with a kinsman, surly with servants. Let thy tongue tang arguments of state. Put thyself into the trick of singularity. She thus advises thee that sighs for thee. Remember who commended thy yellow stockings and wished to see thee ever cross-gartered. I say, remember. Go to, thou art made, if thou desir’st to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune’s fingers. Farewell. She that would alter services with thee,"
+      - "    The Fortunate Unhappy“"
+      - "Daylight and champaign discovers not more. This is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be point- devise the very man. I do not now fool myself, to let imagination jade me, for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg being cross-gartered, and in this she manifests herself to my love, and with a kind of injunction, drives me to these habits of her liking. I thank my stars I am happy. I will be strange, stout, in yellow stockings, and cross-gartered, even with the swiftness of putting on. Jove and my stars be praised! Here is yet a postscript."
+      - "*(reads)*"
+      - "”Thou canst not choose but know who I am. If thou entertainest my love, let it appear in thy smiling. Thy smiles become thee well. Therefore in my presence still smile, dear my sweet, I prithee.“"
+      - "Jove, I thank thee! I will smile. I will do everything that thou wilt have me."
+    m:
+      - "M.O.A.I. This code’s not as easy to crack as the other one. But if I shake it up a little it’ll work, because every one of those letters is in my name. But wait, there’s some prose after her poem."
+      - "*(he reads)*"
+      - "”If this letter falls into your hands, think carefully about what it says. By my birth I rank above you, but don’t be afraid of my greatness. Some are born great, some achieve greatness, and some have greatness thrust upon them. Your fate awaits you. Accept it in body and spirit. To get used to the life you’ll most likely be leading soon, get rid of your low-class trappings. Show some eagerness for the new upscale lifestyle that’s waiting for you. Argue with a relative like a nobleman, and be rude to servants. Talk about politics and affairs of state, and act free and independent. The woman who advises you to do this loves you. Remember the woman who complimented you on your yellow stockings, and said she always wanted to see you with crisscrossing laces going up your legs—remember her. Go ahead. A happy new life is there if you want it. If you don’t want it, just keep acting like a lowly servant who’s not brave enough to grab the happiness there before him. Goodbye. Signed, she who would be your servant,"
+      - "    The Fortunate Unhappy.“"
+      - "This is as clear as sunlight in an open field. I’ll do it. I’ll be vain and proud, I’ll read up on politics, I’ll insult Sir Toby, I’ll get rid of my lower-class friends, and I’ll be the perfect man for her. I know I’m not fooling myself, or letting myself get carried away by my imagination, because every clue points to the fact that Lady Olivia loves me. She did compliment me on my yellow stockings recently, and she said she liked how the crisscross laces looked on my legs. That’s her way of saying she loves me. Oh, I thank my lucky stars, I’m so happy. For her I’ll be strange and condescending, and I’ll put on my yellow stockings and crisscross laces right away. Thank God and my horoscope! Here’s a postscript!."
+      - "*(reads)*"
+      - "”You must have figured out who I am. If you love me, let me know by smiling at me. You’re so attractive when you smile. Please smile whenever you’re near me, my dearest darling.\""
+      - "Dear God, thank you! I’ll do everything she wants me to do."
+
+  - os: "Exit"
+    ms: "MALVOLIO exits."
+
+  - sp: FABIAN
+    o:
+      - "I will not give my part of this sport for a pension of thousands to be paid from the Sophy."
+    m:
+      - "I wouldn’t have missed this even for a pension of thousands of pounds, to be paid by the shah of Persia."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "I could marry this wench for this device."
+    m:
+      - "I could marry that Maria for thinking this up."
+
+  - sp: SIR ANDREW
+    o:
+      - "So could I too."
+    m:
+      - "So could I."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "And ask no other dowry with her but such another jest."
+    m:
+      - "And I wouldn’t ask for any dowry except for her to play another trick like this one."
+
+  - sp: SIR ANDREW
+    o:
+      - "Nor I neither."
+    m:
+      - "Neither would I."
+
+  - os: "Enter MARIA"
+    ms: "MARIA enters."
+
+  - sp: FABIAN
+    o:
+      - "Here comes my noble gull-catcher."
+    m:
+      - "Here she comes, the brilliant fool-catcher."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Wilt thou set thy foot o’ my neck?"
+    m:
+      - "May I kiss your feet?"
+
+  - sp: SIR ANDREW
+    o:
+      - "Or o’ mine either?"
+    m:
+      - "And I too?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Shall I play my freedom at tray-trip, and become thy bondslave?"
+    m:
+      - "Shall I be your slave?"
+
+  - sp: SIR ANDREW
+    o:
+      - "I’ faith, or I either?"
+    m:
+      - "Me too."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Why, thou hast put him in such a dream that when the image of it leaves him he must run mad."
+    m:
+      - "You’ve made him so delusional he’ll go crazy when he learns the truth."
+
+  - sp: MARIA
+    o:
+      - "Nay, but say true, does it work upon him?"
+    m:
+      - "Did it really work?"
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "Like aqua vitae with a midwife."
+    m:
+      - "Like medicine for a sick man."
+
+  - sp: MARIA
+    o:
+      - "If you will then see the fruits of the sport, mark his first approach before my lady. He will come to her in yellow stockings, and ’tis a color she abhors, and cross-gartered, a fashion she detests. And he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a melancholy as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me."
+    m:
+      - "If you want to really have some fun, watch him next time he’s near Lady Olivia. He’ll show up in yellow stockings—she hates yellow—and with laces crisscrossing up his legs—she hates that style of dress—and he’ll smile, which will go completely against her mood, since she’s addicted to sadness now. She’ll definitely get upset with him. If you want to watch, follow me."
+
+  - sp: SIR TOBY BELCH
+    o:
+      - "To the gates of Tartar, thou most excellent devil of wit!"
+    m:
+      - "I’d follow you to the gates of Hell, you sneaky little devil!"
+
+  - sp: SIR ANDREW
+    o:
+      - "I’ll make one too."
+    m:
+      - "I’ll come too."
+
+  - os: "Exeunt"
+    ms: "They all exit."
