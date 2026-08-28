@@ -28,13 +28,11 @@ def default_layout(file, title, path="."):
 	file.write(f'<script src="{path}/scripts.js"></script>\n')
 	file.write(f'<link rel="stylesheet" href="{path}/style.css"/>\n')
 	file.write('<meta name="viewport" content="width=device-width, initial-scale=1"/>\n')
-	file.write(f'<link rel="shortcut icon" sizes="200x200" type="image/png" href="{path}/img/icon_200x200.png"/>\n')
-	file.write(f'<link rel="shortcut icon" type="image/x-icon" href="{path}/img/favicon.ico"/>\n')
-	file.write(f'<link id="icon60" rel="apple-touch-icon" href="{path}/img/icon_60x60.png?v=2"/>\n')
-	file.write(f'<link id="icon76" rel="apple-touch-icon" sizes="76x76" href="{path}/img/icon_76x76.png?v=2"/>\n')
-	file.write(f'<link id="icon120" rel="apple-touch-icon" sizes="120x120" href="{path}/img/icon_120x120.png?v=2"/>\n')
-	file.write(f'<link id="icon152" rel="apple-touch-icon" sizes="152x152" href="{path}/img/icon_152x152.png?v=2"/>\n')
-	file.write(f'<link rel="image_src" href="{path}/img/icon_256x256.png"/>\n')
+	file.write(f'<link rel="icon" type="image/x-icon" href="{path}/favicon.ico">\n')
+	file.write(f'<link rel="icon" type="image/png" sizes="16x16" href="{path}/favicon-16x16.png">\n')
+	file.write(f'<link rel="icon" type="image/png" sizes="32x32" href="{path}/favicon-32x32.png">\n')
+	file.write(f'<link rel="apple-touch-icon" sizes="180x180" href="{path}/apple-touch-icon.png">\n')
+	file.write(f'<link rel="manifest" href="{path}/site.webmanifest">\n')
 	file.write('<meta name="HandheldFriendly" content="true"/>\n')
 	file.write('<meta name="apple-mobile-web-app-capable" content="no"/>\n')
 	file.write('<meta name="robots" content="noindex,nofollow,disallow"/>\n')
@@ -105,7 +103,7 @@ def generate_scene(file, title, plays):
 		try:
 			succ = next(f"{slug(s.title)}.html" for s in scenes if s.order==scene.order+1)
 		except StopIteration:
-			succ = ""		
+			succ = ""
 		file.write('<div class="single-scene">\n')
 		nav(file, prev=prev, menu="index.html", succ=succ)
 		file.write('<div class="play-title selected">\n')
